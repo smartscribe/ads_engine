@@ -1,0 +1,508 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ads Engine — Intern Brief</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap');
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Inter', -apple-system, sans-serif;
+    background: #fff;
+    color: #18181b;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* ---- Layout ---- */
+
+  .container { max-width: 820px; margin: 0 auto; padding: 80px 32px 120px; }
+
+  section { margin-bottom: 72px; }
+  section:last-child { margin-bottom: 0; }
+
+  .divider { height: 1px; background: #e4e4e7; margin: 72px 0; }
+
+  /* ---- Typography ---- */
+
+  h1 { font-size: 2.8rem; font-weight: 800; letter-spacing: -0.03em; line-height: 1.1; margin-bottom: 12px; }
+  h2 { font-size: 1.6rem; font-weight: 700; letter-spacing: -0.02em; line-height: 1.2; margin-bottom: 12px; margin-top: 48px; }
+  h2:first-child { margin-top: 0; }
+  h3 { font-size: 1.05rem; font-weight: 600; margin-bottom: 8px; margin-top: 28px; }
+  h3:first-child { margin-top: 0; }
+
+  p { color: #3f3f46; margin-bottom: 16px; }
+  p:last-child { margin-bottom: 0; }
+
+  .meta { font-size: 0.8rem; color: #a1a1aa; letter-spacing: 0.04em; text-transform: uppercase; font-weight: 600; margin-bottom: 8px; }
+
+  .lede { font-size: 1.15rem; color: #52525b; line-height: 1.65; max-width: 640px; }
+
+  strong { color: #18181b; }
+
+  /* ---- Ask box ---- */
+
+  .ask-box {
+    background: #f0f0ff;
+    border: 2px solid #4f46e5;
+    border-radius: 12px;
+    padding: 28px 32px;
+    margin: 28px 0;
+  }
+  .ask-box h3 { color: #4f46e5; margin-top: 0; margin-bottom: 16px; font-size: 1rem; }
+  .ask-box p { color: #3f3f46; margin-bottom: 12px; font-size: 0.95rem; }
+  .ask-box ol { padding-left: 20px; margin: 0; }
+  .ask-box li { color: #3f3f46; font-size: 0.95rem; line-height: 1.7; margin-bottom: 6px; }
+  .ask-box li strong { color: #18181b; }
+
+  /* ---- Quality callout ---- */
+
+  .quality-callout {
+    background: #fffbeb;
+    border: 2px solid #d97706;
+    border-radius: 12px;
+    padding: 28px 32px;
+    margin: 28px 0;
+  }
+  .quality-callout h3 { color: #92400e; margin-top: 0; margin-bottom: 8px; }
+  .quality-callout p { color: #78350f; font-size: 0.95rem; }
+  .quality-callout ul { padding-left: 20px; margin-top: 12px; }
+  .quality-callout li { color: #78350f; font-size: 0.95rem; line-height: 1.7; margin-bottom: 4px; }
+
+  /* ---- Cards ---- */
+
+  .card-row { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 20px 0; }
+  .card-row.three { grid-template-columns: 1fr 1fr 1fr; }
+
+  .card {
+    background: #fafafa;
+    border: 1px solid #e4e4e7;
+    border-radius: 10px;
+    padding: 20px;
+  }
+  .card h3 { margin-top: 0; font-size: 0.95rem; }
+  .card p { font-size: 0.88rem; color: #52525b; }
+
+  .card.green { border-color: #bbf7d0; background: #f0fdf4; }
+  .card.green h3 { color: #16a34a; }
+  .card.red { border-color: #fecaca; background: #fef2f2; }
+  .card.red h3 { color: #dc2626; }
+  .card.amber { border-color: #fde68a; background: #fffbeb; }
+  .card.amber h3 { color: #d97706; }
+
+  /* ---- Table ---- */
+
+  table { width: 100%; border-collapse: collapse; margin: 20px 0; font-size: 0.88rem; }
+  th { text-align: left; padding: 10px 14px; font-weight: 600; font-size: 0.72rem; letter-spacing: 0.06em; text-transform: uppercase; color: #a1a1aa; border-bottom: 2px solid #e4e4e7; }
+  td { padding: 10px 14px; border-bottom: 1px solid #f4f4f5; color: #3f3f46; }
+  td:first-child { color: #18181b; font-weight: 500; }
+
+  .cpa-good { color: #16a34a; font-weight: 600; }
+  .cpa-ok { color: #d97706; font-weight: 600; }
+  .cpa-bad { color: #dc2626; font-weight: 600; }
+
+  /* ---- Module table ---- */
+
+  .mod-cell { font-family: 'JetBrains Mono', monospace; font-size: 0.8rem; }
+
+  .badge {
+    display: inline-block;
+    padding: 2px 10px;
+    border-radius: 99px;
+    font-size: 0.72rem;
+    font-weight: 500;
+  }
+  .badge.done { background: #dcfce7; color: #16a34a; }
+  .badge.stub { background: #fef3c7; color: #d97706; }
+  .badge.proto { background: #e0f2fe; color: #0284c7; }
+  .yours { color: #18181b; font-weight: 500; }
+
+  /* ---- Pipeline ---- */
+
+  .pipeline { display: flex; gap: 0; margin: 24px 0; }
+  .pipe-stage {
+    flex: 1; padding: 16px 10px; background: #fafafa; border: 1px solid #e4e4e7;
+    text-align: center; position: relative; font-size: 0.78rem;
+  }
+  .pipe-stage:first-child { border-radius: 8px 0 0 8px; }
+  .pipe-stage:last-child { border-radius: 0 8px 8px 0; }
+  .pipe-stage .name { font-weight: 600; color: #18181b; margin-bottom: 2px; }
+  .pipe-stage .desc { color: #a1a1aa; font-size: 0.68rem; }
+  .pipe-stage::after { content: '\2192'; position: absolute; right: -7px; top: 50%; transform: translateY(-50%); color: #d4d4d8; font-size: 13px; z-index: 2; }
+  .pipe-stage:last-child::after { display: none; }
+  .pipe-stage.done { background: #f0fdf4; border-color: #bbf7d0; }
+  .pipe-stage.done .name { color: #16a34a; }
+  .pipe-stage.stub { background: #fffbeb; border-color: #fde68a; }
+  .pipe-stage.stub .name { color: #d97706; }
+
+  /* ---- Question list ---- */
+
+  .q-list { list-style: none; padding: 0; margin: 16px 0; }
+  .q-list li { padding: 12px 0; border-bottom: 1px solid #f4f4f5; font-size: 0.92rem; color: #3f3f46; }
+  .q-list li:last-child { border-bottom: none; }
+  .q-num { display: inline-block; width: 24px; height: 24px; line-height: 24px; text-align: center; border-radius: 6px; background: #f4f4f5; color: #71717a; font-size: 0.72rem; font-weight: 600; margin-right: 10px; }
+
+  /* ---- Code block ---- */
+
+  .code-block {
+    background: #1e1e2e; border-radius: 10px; padding: 24px 28px;
+    font-family: 'JetBrains Mono', monospace; font-size: 0.82rem;
+    line-height: 1.8; color: #cdd6f4; margin: 20px 0; overflow-x: auto;
+  }
+  .code-block .comment { color: #6c7086; }
+  .code-block .cmd { color: #a6e3a1; }
+
+  /* ---- Checklist ---- */
+
+  .checklist { list-style: none; padding: 0; margin: 16px 0; }
+  .checklist li { padding: 10px 0; border-bottom: 1px solid #f4f4f5; font-size: 0.95rem; color: #3f3f46; display: flex; align-items: flex-start; gap: 10px; }
+  .checklist li:last-child { border-bottom: none; }
+  .check { width: 20px; height: 20px; border-radius: 5px; border: 1.5px solid #d4d4d8; flex-shrink: 0; margin-top: 2px; }
+
+  /* ---- People ---- */
+
+  .people-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 16px 0; }
+  .person { padding: 14px 16px; background: #fafafa; border: 1px solid #e4e4e7; border-radius: 8px; }
+  .person .name { font-weight: 600; font-size: 0.9rem; color: #18181b; }
+  .person .role { font-size: 0.82rem; color: #71717a; }
+
+  /* ---- Legend ---- */
+
+  .legend { display: flex; gap: 20px; font-size: 0.78rem; color: #a1a1aa; margin-top: 8px; }
+  .legend span::before { content: ''; display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin-right: 6px; vertical-align: middle; }
+  .legend .l-green::before { background: #16a34a; }
+  .legend .l-amber::before { background: #d97706; }
+
+  /* ---- Cycle diagram ---- */
+
+  .cycle-wrap {
+    margin: 36px 0 12px;
+    display: flex;
+    justify-content: center;
+  }
+
+  .cycle-wrap svg { max-width: 100%; height: auto; }
+</style>
+</head>
+<body>
+
+<div class="container">
+
+  <!-- HEADER -->
+  <section>
+    <p class="meta">JotPsych — Ads Engine Project Brief</p>
+    <h1>Ads Engine</h1>
+    <p class="lede">We're building a system to run JotPsych's paid ads like a quant trading desk: generate creative, deploy it, measure what works, kill what doesn't, and feed the learnings back into the next round. Nate started the Claude Code harness — data models, pipeline architecture, decision logic, regression framework — but it is not operational. That's where you come in.</p>
+
+    <!-- VIRTUOUS CYCLE DIAGRAM -->
+    <div class="cycle-wrap">
+      <svg viewBox="0 0 620 400" width="620" height="400" xmlns="http://www.w3.org/2000/svg" style="font-family: Inter, -apple-system, sans-serif;">
+        <!-- Circular arrow path -->
+        <defs>
+          <marker id="arrow" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6" fill="#a1a1aa"/></marker>
+        </defs>
+        <!-- Outer ring arrows -->
+        <path d="M 310,52 A 160,160 0 0,1 470,200" fill="none" stroke="#e4e4e7" stroke-width="2" marker-end="url(#arrow)"/>
+        <path d="M 470,210 A 160,160 0 0,1 310,358" fill="none" stroke="#e4e4e7" stroke-width="2" marker-end="url(#arrow)"/>
+        <path d="M 300,358 A 160,160 0 0,1 150,210" fill="none" stroke="#e4e4e7" stroke-width="2" marker-end="url(#arrow)"/>
+        <path d="M 150,200 A 160,160 0 0,1 300,52" fill="none" stroke="#e4e4e7" stroke-width="2" marker-end="url(#arrow)"/>
+
+        <!-- Nodes -->
+        <!-- Top: Idea / Brief -->
+        <rect x="234" y="20" width="152" height="60" rx="10" fill="#f0f0ff" stroke="#4f46e5" stroke-width="1.5"/>
+        <text x="310" y="46" text-anchor="middle" font-size="13" font-weight="600" fill="#4f46e5">Idea</text>
+        <text x="310" y="64" text-anchor="middle" font-size="10" fill="#71717a">free-form → brief</text>
+
+        <!-- Right: Generate + Review -->
+        <rect x="440" y="148" width="152" height="60" rx="10" fill="#fffbeb" stroke="#d97706" stroke-width="1.5"/>
+        <text x="516" y="174" text-anchor="middle" font-size="13" font-weight="600" fill="#d97706">Create</text>
+        <text x="516" y="192" text-anchor="middle" font-size="10" fill="#71717a">generate → review → deploy</text>
+
+        <!-- Bottom: Measure -->
+        <rect x="234" y="326" width="152" height="60" rx="10" fill="#fffbeb" stroke="#d97706" stroke-width="1.5"/>
+        <text x="310" y="352" text-anchor="middle" font-size="13" font-weight="600" fill="#d97706">Measure</text>
+        <text x="310" y="370" text-anchor="middle" font-size="10" fill="#71717a">track → scale / kill / wait</text>
+
+        <!-- Left: Learn -->
+        <rect x="28" y="148" width="152" height="60" rx="10" fill="#f0fdf4" stroke="#16a34a" stroke-width="1.5"/>
+        <text x="104" y="174" text-anchor="middle" font-size="13" font-weight="600" fill="#16a34a">Learn</text>
+        <text x="104" y="192" text-anchor="middle" font-size="10" fill="#71717a">regression → playbook</text>
+
+        <!-- Center label -->
+        <text x="310" y="196" text-anchor="middle" font-size="11" font-weight="600" fill="#a1a1aa">VIRTUOUS</text>
+        <text x="310" y="212" text-anchor="middle" font-size="11" font-weight="600" fill="#a1a1aa">CYCLE</text>
+
+        <!-- Edge labels -->
+        <text x="420" y="100" text-anchor="middle" font-size="9" fill="#a1a1aa">briefs feed generation</text>
+        <text x="430" y="300" text-anchor="middle" font-size="9" fill="#a1a1aa">live ads produce data</text>
+        <text x="190" y="300" text-anchor="middle" font-size="9" fill="#a1a1aa">data trains the model</text>
+        <text x="180" y="100" text-anchor="middle" font-size="9" fill="#a1a1aa">insights shape next ideas</text>
+      </svg>
+    </div>
+    <p style="font-size: 0.82rem; color: #a1a1aa; text-align: center;">Every cycle makes the next batch of creative smarter. The system gets better the more you use it.</p>
+
+    <div class="ask-box">
+      <h3>Here's what you need to know</h3>
+      <p>JotPsych is an AI documentation tool for behavioral health clinicians. We run paid ads on Meta and Google to acquire users. The primary metric is <strong>cost per first note completion</strong> (CpFN). We spend ~$15–20K/mo and need to scale.</p>
+      <p>This project is for both <strong>intern candidates</strong> (as a paid evaluation exercise) and <strong>current team members</strong> picking up the work. Either way, the expectations are the same.</p>
+    </div>
+
+    <div class="ask-box" style="border-color: #18181b; background: #fafafa;">
+      <h3 style="color: #18181b;">Here's what we're going to ask of you</h3>
+      <ol>
+        <li><strong>Build the image and video generation pipeline</strong> — copy generation works, you solve visual assets at scale</li>
+        <li><strong>Wire up Meta and Google APIs</strong> — deploy ads programmatically, pull performance data back daily</li>
+        <li><strong>Validate the regression model</strong> — our creative taxonomy needs real data; confirm the coefficients are orthogonal</li>
+        <li><strong>Ship the review dashboard</strong> — gallery UI for Nate and Jackson to approve/reject variants</li>
+        <li><strong>Connect Slack notifications</strong> — daily digest of scale/kill/wait decisions, deployment alerts</li>
+      </ol>
+    </div>
+
+    <div class="quality-callout">
+      <h3>This exercise is about quality at speed</h3>
+      <p>We care about velocity — the whole point of this system is to generate and test creative faster than a human team ever could. But speed without quality is just burning money faster. Three kinds of quality, specifically:</p>
+      <ul>
+        <li><strong>Data quality.</strong> If the numbers going into the regression are wrong, the coefficients are meaningless. Attribution, conversion tracking, spend data — all of it has to be right before anything else matters.</li>
+        <li><strong>Insight quality.</strong> The regression model should tell us something we didn't already know. "Video outperforms static" is obvious. "Audit-risk framing with a specific number in the headline drives 40% lower CPA than pain-point framing" is an insight. Get to the second kind.</li>
+        <li><strong>Creative output quality.</strong> The ads this system produces cannot look or read like AI generated them. If a clinician scrolling Instagram can tell it's AI slop, it's worthless. The quality bar is: would a human creative director be proud of this?</li>
+      </ul>
+      <p style="margin-top: 16px;">The goal is high-quality creative at a pace that would be impossible manually. Both matter. Don't sacrifice one for the other.</p>
+    </div>
+  </section>
+
+  <div class="divider"></div>
+
+  <!-- BACKGROUND -->
+  <section>
+    <p class="meta">Background</p>
+    <h2 style="margin-top: 0;">Where Ads Stand Today</h2>
+    <p>Adam Harrison ran paid ads through mid-March 2026. Marketing is now transitioning to Nate. Weekly spend has been ~$3.4–4.5K with 12–23 first-note completions per week. CpFN swings wildly — feast and famine, no stable baseline.</p>
+
+    <table>
+      <thead><tr><th>Week</th><th>Spend</th><th>First Notes</th><th style="text-align:right">CpFN</th></tr></thead>
+      <tbody>
+        <tr><td>Jan 25–31</td><td>$4,158</td><td>22</td><td style="text-align:right" class="cpa-good">$189</td></tr>
+        <tr><td>Feb 1–7</td><td>$4,243</td><td>16</td><td style="text-align:right" class="cpa-ok">$265</td></tr>
+        <tr><td>Feb 8–14</td><td>$4,503</td><td>23</td><td style="text-align:right" class="cpa-good">$196</td></tr>
+        <tr><td>Feb 15–21</td><td>$4,247</td><td>12</td><td style="text-align:right" class="cpa-bad">$354</td></tr>
+        <tr><td>Feb 22–Mar 1</td><td>$3,863</td><td>20</td><td style="text-align:right" class="cpa-good">$193</td></tr>
+        <tr><td>Mar 1–7</td><td>$3,434</td><td>18</td><td style="text-align:right" class="cpa-good">$191</td></tr>
+      </tbody>
+    </table>
+    <p style="font-size: 0.82rem; color: #a1a1aa;">Source: discovery survey attribution (self-reported). Platform-reported numbers are higher due to Meta/Google double-counting.</p>
+
+    <div class="card-row">
+      <div class="card green">
+        <h3>What's Working Creatively</h3>
+        <p>UGC-style video with motion and energy. Visual proof of product in action. Specific numbers ("2 hours of notes" not "save time"). Audit-risk angle. Best creative hit <strong>$64/note</strong>.</p>
+      </div>
+      <div class="card red">
+        <h3>What Doesn't Work</h3>
+        <p>Static boring imagery. Slow openings. Generic scripts. Anything without a specific number or pain point. Kill threshold in practice: <strong>~$300+/note</strong>.</p>
+      </div>
+    </div>
+
+    <h3>Channels</h3>
+    <p><strong>Meta</strong> is the primary channel (~$2.5–3K/wk). Farm vs. scale campaign structure. A lead form experiment launched Mar 11 showed early promise — 17–37 leads at ~$63/lead in 3 days.</p>
+    <p><strong>Google</strong> non-brand is paused. Branded-only at ~$400/wk. The conversion tag is broken (2 conversions in-platform vs. 15 in Metabase UTMs). Fixing this is a prerequisite for any Google scaling.</p>
+    <p><strong>LinkedIn</strong> is on the backburner.</p>
+
+    <h3>Known Issues You'll Inherit</h3>
+    <div class="card-row">
+      <div class="card red">
+        <h3>2FA Broke Tracking</h3>
+        <p>SMS verification for signups disrupted Google tag firing and Meta optimization signals. Timing matches the performance dip exactly.</p>
+      </div>
+      <div class="card amber">
+        <h3>Attribution Mess</h3>
+        <p>Meta + Google double-count conversions. Discovery survey is "canonical" but self-reported. No deduplication model exists.</p>
+      </div>
+    </div>
+    <div class="card-row">
+      <div class="card amber">
+        <h3>Creative Scattered</h3>
+        <p>Assets across Drive, email, Meta, Figma. No single source of truth. This engine consolidates everything.</p>
+      </div>
+      <div class="card" style="border-style: dashed;">
+        <h3>Matt's GoMarble Tool</h3>
+        <p>A contractor ($4K/mo) uses an MCP-based tool for automated Meta creative analysis. Decide if this engine replaces or complements it.</p>
+      </div>
+    </div>
+
+    <h3>Key People</h3>
+    <div class="people-grid">
+      <div class="person"><div class="name">Adam Harrison</div><div class="role">Ran ads through mid-March. Handover docs in progress. Ask him anything about account history.</div></div>
+      <div class="person"><div class="name">Matt</div><div class="role">Meta contractor ($4K/mo, month-to-month). Knows the Meta account structure inside out.</div></div>
+      <div class="person"><div class="name">Jenna</div><div class="role">Google Ads rep. Recurring call — you should join it.</div></div>
+      <div class="person"><div class="name">Chris Hume</div><div class="role">Sales. Handles SDR routing for lead form leads.</div></div>
+    </div>
+  </section>
+
+  <div class="divider"></div>
+
+  <!-- SYSTEM ARCHITECTURE -->
+  <section>
+    <p class="meta">Architecture</p>
+    <h2 style="margin-top: 0;">The System</h2>
+    <p>Nate built this in Claude Code. Seven pipeline stages. Each feeds the next. The loop closes when regression insights inform the next round of creative.</p>
+
+    <div class="pipeline">
+      <div class="pipe-stage done"><div class="name">Intake</div><div class="desc">Idea &rarr; brief</div></div>
+      <div class="pipe-stage stub"><div class="name">Generate</div><div class="desc">Brief &rarr; variants</div></div>
+      <div class="pipe-stage done"><div class="name">Review</div><div class="desc">Approve / reject</div></div>
+      <div class="pipe-stage stub"><div class="name">Deploy</div><div class="desc">Meta + Google</div></div>
+      <div class="pipe-stage stub"><div class="name">Track</div><div class="desc">Daily metrics</div></div>
+      <div class="pipe-stage done"><div class="name">Decide</div><div class="desc">Scale / Kill / Wait</div></div>
+      <div class="pipe-stage done"><div class="name">Regress</div><div class="desc">What works</div></div>
+    </div>
+    <div class="legend">
+      <span class="l-green">Working</span>
+      <span class="l-amber">Needs implementation</span>
+    </div>
+
+    <h3>Module Status</h3>
+    <table>
+      <thead><tr><th>Module</th><th>Status</th><th>Your Job</th></tr></thead>
+      <tbody>
+        <tr><td class="mod-cell">engine/models.py</td><td><span class="badge done">Complete</span></td><td>Extend if needed</td></tr>
+        <tr><td class="mod-cell">engine/intake/</td><td><span class="badge done">Working</span></td><td>Refine prompt, add voice/URL input</td></tr>
+        <tr><td class="mod-cell">engine/generation/</td><td><span class="badge done">Text only</span></td><td class="yours">Add image + video generation</td></tr>
+        <tr><td class="mod-cell">engine/review/</td><td><span class="badge done">Working</span></td><td>Hook to dashboard</td></tr>
+        <tr><td class="mod-cell">engine/deployment/</td><td><span class="badge stub">Stubbed</span></td><td class="yours">Implement Meta + Google API calls</td></tr>
+        <tr><td class="mod-cell">engine/tracking/</td><td><span class="badge stub">Stubbed</span></td><td class="yours">Implement API data pulls</td></tr>
+        <tr><td class="mod-cell">engine/decisions/</td><td><span class="badge done">Working</span></td><td>Tune thresholds with real data</td></tr>
+        <tr><td class="mod-cell">engine/regression/</td><td><span class="badge done">Working</span></td><td>Validate taxonomy with real data</td></tr>
+        <tr><td class="mod-cell">dashboard/</td><td><span class="badge proto">Prototype</span></td><td class="yours">Build real frontend</td></tr>
+        <tr><td class="mod-cell">notifications.py</td><td><span class="badge stub">Stubbed</span></td><td class="yours">Wire to real Slack</td></tr>
+        <tr><td class="mod-cell">orchestrator.py</td><td><span class="badge done">Working</span></td><td>Set up cron/scheduler</td></tr>
+      </tbody>
+    </table>
+  </section>
+
+  <div class="divider"></div>
+
+  <!-- OPEN QUESTIONS -->
+  <section>
+    <p class="meta">Open Questions</p>
+
+    <h2 style="margin-top: 0;">Priority 1 — Creative Generation</h2>
+    <p>Copy generation works. Visual asset generation is the hardest unsolved problem. Don't assume you need fancy tooling — one viable approach is just Claude with good skills: generate HTML/CSS ads, use Playwright to screenshot them, composite with stock imagery. Caveman-style, but it ships fast and you control every pixel. Evaluate that alongside the more exotic options.</p>
+    <ul class="q-list">
+      <li><span class="q-num">1</span><strong>What's the generation approach?</strong> Options range from simple (Claude skills generating HTML/CSS → screenshot → composite) to complex (Flux, DALL-E, Ideogram APIs). Can Claude Code with Playwright handle static ad creation directly? What about simple motion — CSS animations screencaptured as video? Start with what's fast and controllable, then graduate if needed.</li>
+      <li><span class="q-num">2</span><strong>Can we do video?</strong> Evaluate Runway, Pika, Kling for generated video. But also evaluate simpler paths: animated HTML captured via Playwright, screen recordings of the product, motion graphics from templates. Even 5-second loops add value for Reels/Stories.</li>
+      <li><span class="q-num">3</span><strong>How do we prevent AI slop?</strong> Curated style references, negative prompts, post-processing, quality filters. If a clinician can tell it's AI, it's worthless. The Claude-skills approach may actually be better here — you're composing design elements, not generating pixels.</li>
+      <li><span class="q-num">4</span><strong>Brand consistency.</strong> How do we keep visual identity coherent across variants? Style guides? LoRA fine-tunes? Template overlays? Design tokens in CSS?</li>
+      <li><span class="q-num">5</span><strong>Asset specs.</strong> Each platform + placement has different aspect ratios, file sizes, text overlay limits. Build the spec mapping.</li>
+    </ul>
+
+    <h2>Priority 2 — Platform Integration</h2>
+    <p>Full API integration with Meta and Google. Deploy from the harness, pull metrics back.</p>
+    <div class="card-row">
+      <div class="card"><h3>Meta Setup</h3><p>Business Manager, App with ads_management permission, long-lived access token, ad account linked.</p></div>
+      <div class="card"><h3>Google Setup</h3><p>Developer token application, OAuth flow, customer ID linking. Document the process.</p></div>
+    </div>
+    <div class="card-row">
+      <div class="card"><h3>Campaign Structure</h3><p>How to organize campaigns / adsets / adgroups? Per theme? Per audience? Per format? This affects measurement.</p></div>
+      <div class="card" style="border-color: #fecaca;">
+        <h3 style="color: #dc2626;">Conversion Tracking</h3>
+        <p>Confirm pixel/tag setup for first-note-completion events. The Google tag is currently broken. If tracking isn't solid, nothing else matters.</p>
+      </div>
+    </div>
+
+    <h2>Priority 3 — Data & Analytics</h2>
+    <p>The regression model decomposes creative elements into coefficients. It tells us what actually drives conversions — but only if the data going in is clean.</p>
+    <ul class="q-list">
+      <li><span class="q-num">10</span><strong>Is the MECE taxonomy right?</strong> Run the first batch through it. Are the categories exhaustive? Overlapping? Check VIF scores once you have data.</li>
+      <li><span class="q-num">11</span><strong>When does the regression become useful?</strong> Estimate: how many variants x how many days before coefficients are meaningful?</li>
+      <li><span class="q-num">12</span><strong>Data pipeline.</strong> Current store is JSON files. At what point do we need SQLite or Postgres? Build the migration path.</li>
+    </ul>
+
+    <h2>Priority 4 — Process & UX</h2>
+    <ul class="q-list">
+      <li><span class="q-num">13</span><strong>Dashboard.</strong> The review gallery is an HTML prototype. Should this become a React app? Your call, but it needs to feel fast and look good.</li>
+      <li><span class="q-num">14</span><strong>Scheduler.</strong> The daily cycle needs to run automatically. Cron? Cloud function? Pick the simplest thing that works.</li>
+      <li><span class="q-num">15</span><strong>Feedback loop.</strong> How do rejection notes from review feed back into the generator? Few-shot examples? Prompt engineering?</li>
+    </ul>
+  </section>
+
+  <div class="divider"></div>
+
+  <!-- GETTING STARTED -->
+  <section>
+    <p class="meta">Quickstart</p>
+    <h2 style="margin-top: 0;">How to Get Started</h2>
+    <p>Clone the repo, create your own copy, and push regularly. We want to see your work as it progresses — not just a final deliverable.</p>
+    <div class="code-block">
+      <span class="comment"># 1. Clone the repo and create your own version</span><br>
+      <span class="cmd">git clone https://github.com/smartscribe/ads_engine.git ads_engine_yourname</span><br>
+      <span class="cmd">cd ads_engine_yourname</span><br>
+      <br>
+      <span class="comment"># 2. Set up your own remote (create a repo on GitHub first)</span><br>
+      <span class="cmd">git remote set-url origin https://github.com/yourname/ads_engine.git</span><br>
+      <span class="cmd">git push -u origin main</span><br>
+      <br>
+      <span class="comment"># 3. Set up environment</span><br>
+      <span class="cmd">python -m venv venv</span><br>
+      <span class="cmd">source venv/bin/activate</span><br>
+      <span class="cmd">pip install -r requirements.txt</span><br>
+      <br>
+      <span class="comment"># 4. Copy and fill in secrets</span><br>
+      <span class="cmd">cp .env.example .env</span><br>
+      <br>
+      <span class="comment"># 5. Test the intake + generation pipeline (needs ANTHROPIC_API_KEY)</span><br>
+      <span class="cmd">python -m engine.orchestrator idea "Therapists spend 2 hours \</span><br>
+      <span class="cmd">  on notes after every session. What if they didn't have to?"</span><br>
+      <br>
+      <span class="comment"># 6. Start the dashboard API</span><br>
+      <span class="cmd">uvicorn dashboard.api.app:app --reload</span><br>
+      <br>
+      <span class="comment"># 7. Open the review gallery</span><br>
+      <span class="cmd">open dashboard/frontend/pages/review.html</span>
+    </div>
+    <p style="margin-top: 16px;"><strong>Push to git regularly.</strong> Commit often, with clear messages. We review your commit history — it tells us how you think, not just what you built. Small, working commits are better than one big dump at the end.</p>
+  </section>
+
+  <div class="divider"></div>
+
+  <!-- SUCCESS + WORKING STYLE -->
+  <section>
+    <p class="meta">2–3 Weeks</p>
+    <h2 style="margin-top: 0;">What Success Looks Like</h2>
+    <ul class="checklist">
+      <li><div class="check"></div>Dump an idea and get back 6+ visually distinct, non-slop ad variants</li>
+      <li><div class="check"></div>Approved variants deploy to Meta and Google with one click</li>
+      <li><div class="check"></div>Performance data flows back daily via platform APIs</li>
+      <li><div class="check"></div>Decision engine makes kill/scale calls we mostly agree with</li>
+      <li><div class="check"></div>Regression model is accumulating data (even if not yet statistically significant)</li>
+    </ul>
+
+    <h2>How We Work</h2>
+    <div class="card-row">
+      <div class="card">
+        <h3>Ask Early</h3>
+        <p>Don't disappear for 3 days and come back with the wrong thing. Surface blockers fast.</p>
+      </div>
+      <div class="card">
+        <h3>Small PRs</h3>
+        <p>Commit often. Each PR should work on its own. No mega-branches.</p>
+      </div>
+    </div>
+    <div class="card-row">
+      <div class="card">
+        <h3>Data Over Design</h3>
+        <p>The regression model matters more than the dashboard looking pretty. Prioritize the data pipeline.</p>
+      </div>
+      <div class="card">
+        <h3>We'll Unblock You</h3>
+        <p>If you're stuck on an API integration, say so. We solve it together.</p>
+      </div>
+    </div>
+  </section>
+
+</div>
+
+</body>
+</html>

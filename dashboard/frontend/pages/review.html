@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ad Review Gallery — JotPsych Ads Engine</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Inter', sans-serif;
+            background: #0a0a0a;
+            color: #e0e0e0;
+            min-height: 100vh;
+        }
+
+        .header {
+            padding: 24px 40px;
+            border-bottom: 1px solid #1a1a1a;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .header h1 {
+            font-size: 20px;
+            font-weight: 600;
+            color: #fff;
+        }
+
+        .header .stats {
+            font-size: 14px;
+            color: #888;
+        }
+
+        .toolbar {
+            padding: 16px 40px;
+            display: flex;
+            gap: 12px;
+            border-bottom: 1px solid #1a1a1a;
+        }
+
+        .toolbar button {
+            padding: 8px 16px;
+            border-radius: 6px;
+            border: 1px solid #333;
+            background: #1a1a1a;
+            color: #ccc;
+            cursor: pointer;
+            font-size: 13px;
+            transition: all 0.15s;
+        }
+
+        .toolbar button:hover { background: #252525; color: #fff; }
+        .toolbar button.approve { border-color: #22c55e40; color: #22c55e; }
+        .toolbar button.approve:hover { background: #22c55e20; }
+        .toolbar button.reject { border-color: #ef444440; color: #ef4444; }
+        .toolbar button.reject:hover { background: #ef444420; }
+
+        .gallery {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+            gap: 20px;
+            padding: 24px 40px;
+        }
+
+        .card {
+            background: #111;
+            border: 1px solid #1a1a1a;
+            border-radius: 12px;
+            overflow: hidden;
+            transition: border-color 0.2s;
+            cursor: pointer;
+        }
+
+        .card:hover { border-color: #333; }
+        .card.selected { border-color: #3b82f6; }
+
+        .card .asset {
+            width: 100%;
+            aspect-ratio: 1.91 / 1;
+            background: #1a1a1a;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #444;
+            font-size: 13px;
+        }
+
+        .card .content {
+            padding: 16px;
+        }
+
+        .card .headline {
+            font-size: 16px;
+            font-weight: 600;
+            color: #fff;
+            margin-bottom: 8px;
+            line-height: 1.3;
+        }
+
+        .card .primary-text {
+            font-size: 13px;
+            color: #999;
+            line-height: 1.5;
+            margin-bottom: 12px;
+            display: -webkit-box;
+            -webkit-line-clamp: 3;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+
+        .card .tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+        }
+
+        .card .tag {
+            font-size: 11px;
+            padding: 3px 8px;
+            border-radius: 4px;
+            background: #1a1a1a;
+            color: #888;
+        }
+
+        .card .cta-badge {
+            display: inline-block;
+            margin-top: 12px;
+            padding: 6px 14px;
+            border-radius: 6px;
+            background: #3b82f620;
+            color: #3b82f6;
+            font-size: 12px;
+            font-weight: 500;
+        }
+
+        .notes-modal {
+            display: none;
+            position: fixed;
+            inset: 0;
+            background: rgba(0,0,0,0.8);
+            z-index: 100;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .notes-modal.active { display: flex; }
+
+        .notes-modal .modal-content {
+            background: #111;
+            border: 1px solid #333;
+            border-radius: 12px;
+            padding: 24px;
+            width: 480px;
+            max-width: 90vw;
+        }
+
+        .notes-modal textarea {
+            width: 100%;
+            height: 120px;
+            background: #0a0a0a;
+            border: 1px solid #333;
+            border-radius: 8px;
+            color: #e0e0e0;
+            padding: 12px;
+            font-size: 14px;
+            resize: vertical;
+            margin: 16px 0;
+        }
+
+        .empty-state {
+            text-align: center;
+            padding: 80px 40px;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Review Queue</h1>
+        <div class="stats" id="stats">Loading...</div>
+    </div>
+
+    <div class="toolbar">
+        <button class="approve" onclick="approveSelected()">Approve Selected</button>
+        <button class="reject" onclick="showRejectModal()">Reject Selected</button>
+        <button onclick="selectAll()">Select All</button>
+        <button onclick="clearSelection()">Clear</button>
+    </div>
+
+    <div class="gallery" id="gallery"></div>
+
+    <div class="notes-modal" id="rejectModal">
+        <div class="modal-content">
+            <h3 style="color: #fff; margin-bottom: 4px;">Rejection Feedback</h3>
+            <p style="color: #888; font-size: 13px;">This trains the generator. Be specific about what's wrong.</p>
+            <textarea id="rejectNotes" placeholder="e.g. 'Headline is too generic — needs a specific number or pain point. Visual feels stock-photo-y.'"></textarea>
+            <div style="display: flex; gap: 8px; justify-content: flex-end;">
+                <button onclick="closeRejectModal()" style="padding: 8px 16px; background: #1a1a1a; border: 1px solid #333; border-radius: 6px; color: #ccc; cursor: pointer;">Cancel</button>
+                <button onclick="rejectSelected()" style="padding: 8px 16px; background: #ef444420; border: 1px solid #ef444440; border-radius: 6px; color: #ef4444; cursor: pointer;">Reject</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const API_BASE = 'http://localhost:8000';
+        let selectedIds = new Set();
+        let variants = [];
+
+        async function loadReviewQueue() {
+            try {
+                const res = await fetch(`${API_BASE}/api/review`);
+                const data = await res.json();
+                variants = data.variants;
+                renderGallery();
+                document.getElementById('stats').textContent = `${data.count} variants pending`;
+            } catch (e) {
+                document.getElementById('gallery').innerHTML = '<div class="empty-state">Cannot connect to API. Run: uvicorn dashboard.api.app:app --reload</div>';
+            }
+        }
+
+        function renderGallery() {
+            const gallery = document.getElementById('gallery');
+            if (!variants.length) {
+                gallery.innerHTML = '<div class="empty-state">No variants pending review. Submit an idea to get started.</div>';
+                return;
+            }
+
+            gallery.innerHTML = variants.map(v => `
+                <div class="card ${selectedIds.has(v.id) ? 'selected' : ''}" onclick="toggleSelect('${v.id}')">
+                    <div class="asset">${v.asset_type === 'video' ? '▶ Video' : '📷 Image'} — ${v.taxonomy.format}</div>
+                    <div class="content">
+                        <div class="headline">${escapeHtml(v.headline)}</div>
+                        <div class="primary-text">${escapeHtml(v.primary_text)}</div>
+                        <div class="tags">
+                            <span class="tag">${v.taxonomy.message_type}</span>
+                            <span class="tag">${v.taxonomy.hook_type}</span>
+                            <span class="tag">${v.taxonomy.tone}</span>
+                            <span class="tag">${v.taxonomy.platform}</span>
+                        </div>
+                        <div class="cta-badge">${escapeHtml(v.cta_button)}</div>
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        function toggleSelect(id) {
+            if (selectedIds.has(id)) selectedIds.delete(id);
+            else selectedIds.add(id);
+            renderGallery();
+        }
+
+        function selectAll() {
+            variants.forEach(v => selectedIds.add(v.id));
+            renderGallery();
+        }
+
+        function clearSelection() {
+            selectedIds.clear();
+            renderGallery();
+        }
+
+        async function approveSelected() {
+            if (!selectedIds.size) return;
+            await fetch(`${API_BASE}/api/review/approve`, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ variant_ids: [...selectedIds], reviewer: 'nate' }),
+            });
+            selectedIds.clear();
+            loadReviewQueue();
+        }
+
+        function showRejectModal() {
+            if (!selectedIds.size) return;
+            document.getElementById('rejectModal').classList.add('active');
+        }
+
+        function closeRejectModal() {
+            document.getElementById('rejectModal').classList.remove('active');
+            document.getElementById('rejectNotes').value = '';
+        }
+
+        async function rejectSelected() {
+            const notes = document.getElementById('rejectNotes').value;
+            if (!notes.trim()) return;
+            await fetch(`${API_BASE}/api/review/reject`, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ variant_ids: [...selectedIds], reviewer: 'nate', notes }),
+            });
+            closeRejectModal();
+            selectedIds.clear();
+            loadReviewQueue();
+        }
+
+        function escapeHtml(str) {
+            const div = document.createElement('div');
+            div.textContent = str || '';
+            return div.innerHTML;
+        }
+
+        loadReviewQueue();
+    </script>
+</body>
+</html>
