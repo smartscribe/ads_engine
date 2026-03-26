@@ -15,18 +15,32 @@ from anthropic import Anthropic
 
 from config.settings import get_settings
 from engine.models import CreativeBrief, AdFormat, Platform
+from engine.brand import BRAND_VOICE, PRODUCT_DESCRIPTION
 
 
 JOTPSYCH_VOICE = (
     "No AI slop. Write like a human copywriter who has talked to 100 burned-out "
-    "therapists. Be specific. Be real."
+    "therapists. Be specific. Be real.\n\n"
+    "BRAND TONE GUIDELINES:\n"
+    "- Warm but professional — like a trusted colleague, not a salesperson\n"
+    "- Empathetic to clinician burnout — we understand the paperwork burden\n"
+    "- Specific and concrete — '2 hours of charting' not 'save time'\n"
+    "- Confident without being pushy\n\n"
+    "NEVER USE:\n"
+    "- 'revolutionize', 'leverage', 'streamline', 'cutting-edge', 'innovative'\n"
+    "- 'powered by AI', 'next-generation', 'transform your workflow'\n"
+    "- 'in today's fast-paced healthcare environment'\n"
+    "- 'limited time', 'don't miss out', 'act now'"
 )
 
 JOTPSYCH_VALUE_PROPS = (
     "- Saves 1-2 hours of documentation time per day\n"
-    "- AI-powered notes from session recordings\n"
-    "- HIPAA-compliant for behavioral health\n"
-    "- Reduces clinician burnout"
+    "- AI listens to sessions, generates complete clinical notes automatically\n"
+    "- Audit-ready documentation with CPT and ICD codes applied\n"
+    "- HIPAA-compliant end-to-end for behavioral health\n"
+    "- Notes are done before the clinician leaves the office\n"
+    "- Clinicians can be fully present with patients (no laptop in session)\n"
+    "- Reduces clinician burnout from administrative burden"
 )
 
 

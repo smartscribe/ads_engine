@@ -343,3 +343,43 @@ async def get_review_history():
 async def get_rejection_feedback():
     """Get all rejection feedback for training generators."""
     return {"feedback": review_pipeline.get_rejection_feedback()}
+
+
+# ---------------------------------------------------------------------------
+# Asset health — fix stale paths on startup and on demand
+# ---------------------------------------------------------------------------
+
+def _heal_stale_asset_paths() -> dict:
+    """
+    Scan all variant JSONs. If asset_path points to a file that doesn't exist
+    on disk, update the path to a .placeholder so the frontend handles it
+    gracefully instead of showing a broken image icon.
+    """
+    all_variants = store.get_all_variants()
+    fixed = 0
+    for v in all_variants:
+        p = Path(v.asset_path)
+        if p.suffix == ".placeholder":
+            continue
+        if not p.exists():
+            placeholder = p.with_suffix(".placeholder")
+            placeholder.parent.mkdir(parents=True, exist_ok=True)
+            placeholder.touch(exist_ok=True)
+            v.asset_path = str(placeholder)
+            store.save_variant(v)
+            fixed += 1
+    return {"scanned": len(all_variants), "fixed": fixed}
+
+
+@app.on_event("startup")
+async def startup_heal_assets():
+    """Auto-heal stale asset paths when the server starts."""
+    result = _heal_stale_asset_paths()
+    if result["fixed"] > 0:
+        print(f"[startup] Healed {result['fixed']} stale asset paths out of {result['scanned']} variants")
+
+
+@app.post("/api/assets/heal")
+async def heal_asset_paths():
+    """Manually trigger stale asset path healing."""
+    return _heal_stale_asset_paths()

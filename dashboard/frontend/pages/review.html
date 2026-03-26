@@ -336,18 +336,31 @@
             } catch (e) {}
         }
 
+        function showAssetPlaceholder(el, type) {
+            const wrapper = el.closest('.asset-wrapper') || el.parentElement;
+            wrapper.innerHTML = '<div style="display:flex;align-items:center;justify-content:center;background:#1a1a1a;height:100%;min-height:300px;flex-direction:column;gap:8px;">'
+                + '<svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="#444" stroke-width="1.5"><rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/><path d="m21 15-5-5L5 21"/></svg>'
+                + '<span style="color:#555;font-size:12px;">' + type + ' pending generation</span>'
+                + '<span class="asset-type-badge">' + type + '</span></div>';
+        }
+
         function renderAsset(v) {
             const path = v.asset_path || '';
-            const isImage = path.endsWith('.png') || path.endsWith('.jpg') || path.endsWith('.jpeg') || path.endsWith('.webp');
-            const isVideo = path.endsWith('.mp4') || path.endsWith('.webm');
+            const isPlaceholder = path.endsWith('.placeholder') || !path;
+            const isImage = !isPlaceholder && (path.endsWith('.png') || path.endsWith('.jpg') || path.endsWith('.jpeg') || path.endsWith('.webp'));
+            const isVideo = !isPlaceholder && (path.endsWith('.mp4') || path.endsWith('.webm'));
             const url = path ? '/' + path : null;
-            const typeBadge = `<span class="asset-type-badge">${v.asset_type || 'image'}</span>`;
+            const assetType = v.asset_type || 'image';
+            const typeBadge = '<span class="asset-type-badge">' + assetType + '</span>';
             if (isImage && url) {
-                return `<div class="asset-wrapper"><img src="${url}" alt="${escapeHtml(v.headline)}" style="width:100%;height:100%;object-fit:cover;">${typeBadge}</div>`;
+                return '<div class="asset-wrapper"><img src="' + url + '" alt="' + escapeHtml(v.headline) + '" style="width:100%;height:100%;object-fit:cover;" onerror="showAssetPlaceholder(this,\'image\')">' + typeBadge + '</div>';
             } else if (isVideo && url) {
-                return `<div class="asset-wrapper"><video src="${url}" controls muted style="width:100%;height:100%;object-fit:cover;"></video>${typeBadge}</div>`;
+                return '<div class="asset-wrapper"><video src="' + url + '" controls muted style="width:100%;height:100%;object-fit:cover;" onerror="showAssetPlaceholder(this,\'video\')"></video>' + typeBadge + '</div>';
             }
-            return v.asset_type === 'video' ? 'Video — generating...' : 'Image — generating...';
+            return '<div class="asset-wrapper" style="display:flex;align-items:center;justify-content:center;background:#1a1a1a;height:100%;min-height:300px;flex-direction:column;gap:8px;">'
+                + '<svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="#444" stroke-width="1.5"><rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/><path d="m21 15-5-5L5 21"/></svg>'
+                + '<span style="color:#555;font-size:12px;">' + (assetType === 'video' ? 'Video' : 'Image') + ' pending generation</span>'
+                + typeBadge + '</div>';
         }
 
         function renderGallery() {

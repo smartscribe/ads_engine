@@ -78,7 +78,9 @@ Video style requirements:
 {extra_direction}"""
 
 
-COPY_GENERATION_PROMPT = """You are a direct-response copywriter for JotPsych, a clinical documentation AI for behavioral health.
+COPY_GENERATION_PROMPT = """You are a direct-response copywriter for JotPsych, a clinical AI documentation tool for behavioral health clinicians.
+
+JotPsych listens to therapy sessions and generates complete, audit-ready clinical notes automatically — with CPT and ICD codes applied. It saves clinicians 1-2 hours of documentation per day so they can be fully present with patients and leave on time.
 
 Given a creative brief, generate {num_variants} distinct ad copy variants.
 Each variant must be meaningfully different — not just word swaps. Vary the:
@@ -87,9 +89,11 @@ Each variant must be meaningfully different — not just word swaps. Vary the:
 - Tone (within the brief's direction)
 - CTA phrasing
 
-CRITICAL: Do NOT write like an AI. No "revolutionize", no "streamline your workflow",
-no "in today's fast-paced world". Write like a human copywriter who has talked to
-100 burned-out therapists. Be specific. Be real.
+BRAND VOICE: Warm but professional — like a trusted colleague, not a salesperson. Empathetic to clinician burnout. Specific and concrete ("2 hours of charting" not "save time"). Confident without being pushy.
+
+NEVER USE: "revolutionize", "leverage", "streamline", "cutting-edge", "innovative", "powered by AI", "next-generation", "transform your workflow", "in today's fast-paced world", "limited time", "don't miss out".
+
+Write like a human copywriter who has talked to 100 burned-out therapists. Be specific. Be real.
 
 For each variant, also provide taxonomy tags. Output JSON array:
 [
@@ -277,8 +281,11 @@ Formats: {[f.value for f in brief.formats_requested]}
         return self._generate_image(gemini, variant_copy, brief, out_path, retry_count + 1)
     
     def _build_image_prompt(self, variant: dict, brief: CreativeBrief, scene) -> str:
-        """Build a detailed image prompt using the scene library."""
-        return f"""Generate a photorealistic advertising image for JotPsych, a clinical AI documentation tool.
+        """Build a detailed image prompt using the scene library + brand config."""
+        from engine.brand import get_brand_context_for_image_prompt
+        brand_visual = get_brand_context_for_image_prompt()
+
+        return f"""Generate a photorealistic advertising image for JotPsych, a clinical AI documentation tool for behavioral health clinicians.
 
 SCENE DESCRIPTION (follow exactly):
 {scene.description}
@@ -288,12 +295,15 @@ AD CONTEXT (for emotional accuracy, do NOT display as text):
 - Value proposition: {brief.value_proposition}
 - Emotional tone: {scene.tone}
 
+{brand_visual}
+
 TECHNICAL REQUIREMENTS:
 - Photorealistic, cinematic quality photography
 - 1:1 square aspect ratio (1024x1024)
 - No text, no logos, no watermarks, no UI elements overlaid on image
 - Natural lighting consistent with {scene.time_of_day} time of day
-- Color mood: warm and professional
+- Color grading should lean warm — amber, cream, soft blues, touch of pink
+- Environments should feel real and lived-in, not sterile or corporate
 
 CRITICAL NEGATIVE PROMPTS - AVOID THESE:
 {scene.negative_prompt}
@@ -301,7 +311,8 @@ CRITICAL NEGATIVE PROMPTS - AVOID THESE:
 - No generic stock photo poses or expressions
 - No impossible anatomy or physics
 - No floating objects or impossible shadows
-- No text of any kind in the image"""
+- No text of any kind in the image
+- No cold grey corporate offices or harsh fluorescent-only lighting"""
 
     def _generate_video(
         self,
@@ -419,8 +430,11 @@ CRITICAL NEGATIVE PROMPTS - AVOID THESE:
         return self._generate_video(gemini, variant_copy, brief, out_path, retry_count + 1)
     
     def _build_video_prompt(self, variant: dict, brief: CreativeBrief, scene) -> str:
-        """Build a detailed video prompt using the scene library."""
-        return f"""Generate a 5-second photorealistic advertising video for JotPsych, a clinical AI documentation tool.
+        """Build a detailed video prompt using the scene library + brand config."""
+        from engine.brand import get_brand_context_for_image_prompt
+        brand_visual = get_brand_context_for_image_prompt()
+
+        return f"""Generate a 5-second photorealistic advertising video for JotPsych, a clinical AI documentation tool for behavioral health clinicians.
 
 SCENE DESCRIPTION (follow exactly):
 {scene.description}
@@ -429,6 +443,8 @@ AD CONTEXT (for emotional accuracy, do NOT display as text):
 - Headline message: {variant.get("headline", "")}
 - Value proposition: {brief.value_proposition}
 - Emotional tone: {scene.tone}
+
+{brand_visual}
 
 TECHNICAL REQUIREMENTS:
 - Photorealistic, cinematic quality video
@@ -439,13 +455,15 @@ TECHNICAL REQUIREMENTS:
 - Natural lighting consistent with {scene.time_of_day} time of day
 - Natural camera movement if any (gentle pan, slight handheld feel)
 - Natural sound design appropriate to the scene
+- Color grading should lean warm — amber, cream, soft blues, touch of pink
 
 CRITICAL NEGATIVE PROMPTS - AVOID THESE:
 {scene.negative_prompt}
 - No AI-obvious artifacts, uncanny valley faces, distorted hands
 - No glitchy transitions or impossible physics
 - No floating objects or impossible camera movements
-- No text of any kind in the video"""
+- No text of any kind in the video
+- No cold grey corporate offices or harsh fluorescent-only lighting"""
 
     def generate_assets(
         self,

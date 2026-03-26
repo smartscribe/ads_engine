@@ -18,6 +18,35 @@ Each entry includes:
 
 ## Log
 
+### 2026-03-26 — Aryan (session 6)
+**Brand kit integration — colors, typography, voice, and product identity wired into all generators**
+
+New modules:
+- `engine/brand.py` — Single source of truth for JotPsych brand identity. Extracted from Brand Guidelines v1 2026 PDF. Contains: 6-color palette with hex codes (midnight #1C1E85, sunset glow #FD96C9, warm light #FFF2F5, deep night #1E125E, daylight #FFF3C4, afterglow #813FE8), typography spec (Archivo for headings, Inter for body), brand voice guidelines, product description, visual style direction, color usage rules, and logo asset paths. Exposes `get_brand_context_for_image_prompt()` and `get_brand_context_for_copy_prompt()` helper functions.
+
+Modified modules:
+- `engine/generation/generator.py` — `_build_image_prompt()` and `_build_video_prompt()` now inject brand color direction and visual style into every Gemini/Veo prompt (warm amber/cream/soft-blue color grading, lived-in environments, no cold corporate aesthetics). Updated `COPY_GENERATION_PROMPT` with full product description, brand voice rules, and expanded banned words list.
+- `engine/generation/copy_agents.py` — `JOTPSYCH_VOICE` expanded from 1 sentence to full brand tone guidelines (warm colleague, empathetic, specific, no pressure tactics, explicit banned words). `JOTPSYCH_VALUE_PROPS` expanded from 4 to 7 bullet points including audit-ready docs, CPT/ICD codes, full presence with patients. Both now import from `engine.brand`.
+
+Asset organization:
+- Unzipped `JotPsych Brand.zip` into `brand/` with clean structure: `logos/png/`, `logos/svg/`, `fonts/`, `guidelines/`
+- Deleted original ZIP
+- 8 logo variants (primary/secondary/logomark × dark/light), 4 font files (Archivo, Inter variable fonts)
+
+Why: Ad creative was generic — no brand identity in prompts meant images had random color grading and copy used generic AI-marketing language. Now every generated image inherits the JotPsych color palette (deep blues, warm pinks, cream accents) and every copy variant follows the brand voice (specific, empathetic, no buzzwords).
+
+---
+
+### 2026-03-26 — Aryan (session 5)
+**Fix stale asset paths + graceful placeholder UI for missing images**
+
+- `dashboard/api/app.py` — Added `_heal_stale_asset_paths()` that scans all variant JSONs and fixes paths pointing to deleted files by switching them to `.placeholder`. Runs automatically on server startup via `@app.on_event("startup")`. Also exposed as `POST /api/assets/heal` for manual trigger.
+- `dashboard/frontend/pages/review.html` — Rewrote `renderAsset()` to handle three cases: valid image/video (renders normally with `onerror` fallback), placeholder path (shows styled SVG icon + "pending generation" text), and 404 on load (via `showAssetPlaceholder()` function triggered by `onerror`). No more broken image icons.
+
+Why: After deleting 19 corrupt 356-byte PNGs in session 4, the variant JSON files still referenced the old `.png` paths → 404 → broken image icon in the review gallery. The startup heal catches this automatically, and the frontend `onerror` is a safety net for any future cases.
+
+---
+
 ### 2026-03-26 — Aryan (session 4)
 **Fix broken images + improve ad creative quality with scene library**
 
