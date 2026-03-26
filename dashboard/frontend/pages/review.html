@@ -22,22 +22,16 @@
             align-items: center;
         }
 
-        .header h1 {
-            font-size: 20px;
-            font-weight: 600;
-            color: #fff;
-        }
-
-        .header .stats {
-            font-size: 14px;
-            color: #888;
-        }
+        .header h1 { font-size: 20px; font-weight: 600; color: #fff; }
+        .header .stats { font-size: 14px; color: #888; }
 
         .toolbar {
             padding: 16px 40px;
             display: flex;
             gap: 12px;
+            align-items: center;
             border-bottom: 1px solid #1a1a1a;
+            flex-wrap: wrap;
         }
 
         .toolbar button {
@@ -57,6 +51,43 @@
         .toolbar button.reject { border-color: #ef444440; color: #ef4444; }
         .toolbar button.reject:hover { background: #ef444420; }
 
+        .toolbar select {
+            padding: 8px 12px;
+            border-radius: 6px;
+            border: 1px solid #333;
+            background: #1a1a1a;
+            color: #ccc;
+            font-size: 13px;
+            cursor: pointer;
+        }
+
+        .toolbar .separator {
+            width: 1px;
+            height: 24px;
+            background: #333;
+            margin: 0 4px;
+        }
+
+        .toolbar .reviewer-label {
+            font-size: 12px;
+            color: #666;
+        }
+
+        .review-counts {
+            padding: 8px 40px;
+            display: flex;
+            gap: 20px;
+            font-size: 12px;
+            color: #666;
+            border-bottom: 1px solid #1a1a1a;
+        }
+
+        .review-counts span { display: flex; align-items: center; gap: 4px; }
+        .review-counts .dot { width: 8px; height: 8px; border-radius: 50%; display: inline-block; }
+        .review-counts .dot-pending { background: #3b82f6; }
+        .review-counts .dot-approved { background: #22c55e; }
+        .review-counts .dot-rejected { background: #ef4444; }
+
         .gallery {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
@@ -74,22 +105,21 @@
         }
 
         .card:hover { border-color: #333; }
-        .card.selected { border-color: #3b82f6; }
+        .card.selected { border-color: #3b82f6; box-shadow: 0 0 0 1px #3b82f6; }
 
         .card .asset {
             width: 100%;
-            aspect-ratio: 1.91 / 1;
+            aspect-ratio: 1 / 1;
             background: #1a1a1a;
             display: flex;
             align-items: center;
             justify-content: center;
             color: #444;
             font-size: 13px;
+            overflow: hidden;
         }
 
-        .card .content {
-            padding: 16px;
-        }
+        .card .content { padding: 16px; }
 
         .card .headline {
             font-size: 16px;
@@ -110,11 +140,7 @@
             overflow: hidden;
         }
 
-        .card .tags {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 6px;
-        }
+        .card .tags { display: flex; flex-wrap: wrap; gap: 6px; }
 
         .card .tag {
             font-size: 11px;
@@ -134,6 +160,19 @@
             font-size: 12px;
             font-weight: 500;
         }
+
+        .card .asset-type-badge {
+            position: absolute;
+            top: 8px;
+            right: 8px;
+            padding: 2px 8px;
+            border-radius: 4px;
+            background: rgba(0,0,0,0.7);
+            color: #ccc;
+            font-size: 11px;
+        }
+
+        .card .asset-wrapper { position: relative; }
 
         .notes-modal {
             display: none;
@@ -169,11 +208,41 @@
             margin: 16px 0;
         }
 
+        .notes-modal .modal-actions {
+            display: flex;
+            gap: 8px;
+            justify-content: flex-end;
+        }
+
+        .notes-modal button {
+            padding: 8px 16px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 13px;
+        }
+
+        .btn-cancel { background: #1a1a1a; border: 1px solid #333; color: #ccc; }
+        .btn-reject-confirm { background: #ef444420; border: 1px solid #ef444440; color: #ef4444; }
+        .btn-approve-confirm { background: #22c55e20; border: 1px solid #22c55e40; color: #22c55e; }
+
         .empty-state {
             text-align: center;
             padding: 80px 40px;
             color: #666;
         }
+
+        .toast {
+            position: fixed;
+            bottom: 24px;
+            right: 24px;
+            padding: 12px 20px;
+            border-radius: 8px;
+            font-size: 13px;
+            z-index: 200;
+            transition: opacity 0.3s;
+        }
+        .toast-success { background: #22c55e20; border: 1px solid #22c55e40; color: #22c55e; }
+        .toast-error { background: #ef444420; border: 1px solid #ef444440; color: #ef4444; }
     </style>
 </head>
 <body>
@@ -182,31 +251,67 @@
         <div class="stats" id="stats">Loading...</div>
     </div>
 
+    <div class="review-counts" id="reviewCounts">
+        <span><span class="dot dot-pending"></span> <span id="countPending">0</span> pending</span>
+        <span><span class="dot dot-approved"></span> <span id="countApproved">0</span> approved</span>
+        <span><span class="dot dot-rejected"></span> <span id="countRejected">0</span> rejected</span>
+    </div>
+
     <div class="toolbar">
-        <button class="approve" onclick="approveSelected()">Approve Selected</button>
+        <button class="approve" onclick="showApproveModal()">Approve Selected</button>
         <button class="reject" onclick="showRejectModal()">Reject Selected</button>
+        <div class="separator"></div>
         <button onclick="selectAll()">Select All</button>
         <button onclick="clearSelection()">Clear</button>
+        <div class="separator"></div>
+        <span class="reviewer-label">Reviewing as:</span>
+        <select id="reviewerSelect">
+            <option value="nate">Nate</option>
+            <option value="jackson">Jackson</option>
+            <option value="aryan">Aryan</option>
+            <option value="alex">Alex</option>
+            <option value="daniel">Daniel</option>
+        </select>
     </div>
 
     <div class="gallery" id="gallery"></div>
 
+    <!-- Reject Modal -->
     <div class="notes-modal" id="rejectModal">
         <div class="modal-content">
             <h3 style="color: #fff; margin-bottom: 4px;">Rejection Feedback</h3>
             <p style="color: #888; font-size: 13px;">This trains the generator. Be specific about what's wrong.</p>
             <textarea id="rejectNotes" placeholder="e.g. 'Headline is too generic — needs a specific number or pain point. Visual feels stock-photo-y.'"></textarea>
-            <div style="display: flex; gap: 8px; justify-content: flex-end;">
-                <button onclick="closeRejectModal()" style="padding: 8px 16px; background: #1a1a1a; border: 1px solid #333; border-radius: 6px; color: #ccc; cursor: pointer;">Cancel</button>
-                <button onclick="rejectSelected()" style="padding: 8px 16px; background: #ef444420; border: 1px solid #ef444440; border-radius: 6px; color: #ef4444; cursor: pointer;">Reject</button>
+            <div class="modal-actions">
+                <button class="btn-cancel" onclick="closeRejectModal()">Cancel</button>
+                <button class="btn-reject-confirm" onclick="rejectSelected()">Reject</button>
             </div>
         </div>
     </div>
 
+    <!-- Approve Modal -->
+    <div class="notes-modal" id="approveModal">
+        <div class="modal-content">
+            <h3 style="color: #fff; margin-bottom: 4px;">Approve Ads</h3>
+            <p style="color: #888; font-size: 13px;">Optional: say what you like so the generator learns your preferences.</p>
+            <textarea id="approveNotes" placeholder="e.g. 'Great tone — empathetic without being cheesy. More like this.' (optional)"></textarea>
+            <div class="modal-actions">
+                <button class="btn-cancel" onclick="closeApproveModal()">Cancel</button>
+                <button class="btn-approve-confirm" onclick="approveSelected()">Approve</button>
+            </div>
+        </div>
+    </div>
+
+    <div id="toast" class="toast" style="display:none;"></div>
+
     <script>
-        const API_BASE = 'http://localhost:8000';
+        const API_BASE = '';
         let selectedIds = new Set();
         let variants = [];
+
+        function getReviewer() {
+            return document.getElementById('reviewerSelect').value;
+        }
 
         async function loadReviewQueue() {
             try {
@@ -215,29 +320,40 @@
                 variants = data.variants;
                 renderGallery();
                 document.getElementById('stats').textContent = `${data.count} variants pending`;
+                document.getElementById('countPending').textContent = data.count;
+                loadReviewCounts();
             } catch (e) {
                 document.getElementById('gallery').innerHTML = '<div class="empty-state">Cannot connect to API. Run: uvicorn dashboard.api.app:app --reload</div>';
             }
+        }
+
+        async function loadReviewCounts() {
+            try {
+                const res = await fetch(`${API_BASE}/api/review/history`);
+                const data = await res.json();
+                document.getElementById('countApproved').textContent = data.approved_count;
+                document.getElementById('countRejected').textContent = data.rejected_count;
+            } catch (e) {}
         }
 
         function renderAsset(v) {
             const path = v.asset_path || '';
             const isImage = path.endsWith('.png') || path.endsWith('.jpg') || path.endsWith('.jpeg') || path.endsWith('.webp');
             const isVideo = path.endsWith('.mp4') || path.endsWith('.webm');
-            // asset_path is stored as "data/creatives/..." — serve via /data/...
             const url = path ? '/' + path : null;
+            const typeBadge = `<span class="asset-type-badge">${v.asset_type || 'image'}</span>`;
             if (isImage && url) {
-                return `<img src="${url}" alt="${escapeHtml(v.headline)}" style="width:100%;height:100%;object-fit:cover;border-radius:8px 8px 0 0;">`;
+                return `<div class="asset-wrapper"><img src="${url}" alt="${escapeHtml(v.headline)}" style="width:100%;height:100%;object-fit:cover;">${typeBadge}</div>`;
             } else if (isVideo && url) {
-                return `<video src="${url}" controls style="width:100%;height:100%;object-fit:cover;border-radius:8px 8px 0 0;"></video>`;
+                return `<div class="asset-wrapper"><video src="${url}" controls muted style="width:100%;height:100%;object-fit:cover;"></video>${typeBadge}</div>`;
             }
-            return v.asset_type === 'video' ? '▶ Video — generating...' : '📷 Image — generating...';
+            return v.asset_type === 'video' ? 'Video — generating...' : 'Image — generating...';
         }
 
         function renderGallery() {
             const gallery = document.getElementById('gallery');
             if (!variants.length) {
-                gallery.innerHTML = '<div class="empty-state">No variants pending review. Submit an idea to get started.</div>';
+                gallery.innerHTML = '<div class="empty-state">No variants pending review. Run <code>python -m engine.orchestrator generate</code> to create ads.</div>';
                 return;
             }
 
@@ -251,7 +367,7 @@
                             <span class="tag">${v.taxonomy.message_type}</span>
                             <span class="tag">${v.taxonomy.hook_type}</span>
                             <span class="tag">${v.taxonomy.tone}</span>
-                            <span class="tag">${v.taxonomy.platform}</span>
+                            <span class="tag">${v.taxonomy.format}</span>
                         </div>
                         <div class="cta-badge">${escapeHtml(v.cta_button)}</div>
                     </div>
@@ -275,13 +391,27 @@
             renderGallery();
         }
 
+        function showApproveModal() {
+            if (!selectedIds.size) return;
+            document.getElementById('approveModal').classList.add('active');
+        }
+
+        function closeApproveModal() {
+            document.getElementById('approveModal').classList.remove('active');
+            document.getElementById('approveNotes').value = '';
+        }
+
         async function approveSelected() {
             if (!selectedIds.size) return;
-            await fetch(`${API_BASE}/api/review/approve`, {
+            const notes = document.getElementById('approveNotes').value.trim() || null;
+            const res = await fetch(`${API_BASE}/api/review/approve`, {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({ variant_ids: [...selectedIds], reviewer: 'nate' }),
+                body: JSON.stringify({ variant_ids: [...selectedIds], reviewer: getReviewer(), notes }),
             });
+            const data = await res.json();
+            closeApproveModal();
+            showToast(`${data.approved} ads approved`, 'success');
             selectedIds.clear();
             loadReviewQueue();
         }
@@ -299,14 +429,24 @@
         async function rejectSelected() {
             const notes = document.getElementById('rejectNotes').value;
             if (!notes.trim()) return;
-            await fetch(`${API_BASE}/api/review/reject`, {
+            const res = await fetch(`${API_BASE}/api/review/reject`, {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({ variant_ids: [...selectedIds], reviewer: 'nate', notes }),
+                body: JSON.stringify({ variant_ids: [...selectedIds], reviewer: getReviewer(), notes }),
             });
+            const data = await res.json();
             closeRejectModal();
+            showToast(`${data.rejected} ads rejected`, 'error');
             selectedIds.clear();
             loadReviewQueue();
+        }
+
+        function showToast(msg, type) {
+            const t = document.getElementById('toast');
+            t.textContent = msg;
+            t.className = `toast toast-${type}`;
+            t.style.display = 'block';
+            setTimeout(() => { t.style.display = 'none'; }, 3000);
         }
 
         function escapeHtml(str) {

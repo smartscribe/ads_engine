@@ -17,6 +17,7 @@ from engine.models import (
     AdStatus,
     CreativeBrief,
     DecisionRecord,
+    ExistingAd,
     PerformanceSnapshot,
     RegressionResult,
 )
@@ -35,9 +36,10 @@ class Store:
         self.snapshots_dir = self.base / "performance" / "snapshots"
         self.decisions_dir = self.base / "performance" / "decisions"
         self.regression_dir = self.base / "models"
+        self.existing_ads_dir = self.base / "existing_creative"
 
         # Ensure directories exist
-        for d in [self.briefs_dir, self.variants_dir, self.snapshots_dir, self.decisions_dir, self.regression_dir]:
+        for d in [self.briefs_dir, self.variants_dir, self.snapshots_dir, self.decisions_dir, self.regression_dir, self.existing_ads_dir]:
             d.mkdir(parents=True, exist_ok=True)
 
     # -- Briefs --
@@ -127,3 +129,28 @@ class Store:
         if not files:
             return None
         return RegressionResult.model_validate_json(files[0].read_text())
+
+    # -- Existing Ads (imported from Meta/Google) --
+
+    def save_existing_ad(self, ad: ExistingAd) -> None:
+        path = self.existing_ads_dir / f"{ad.id}.json"
+        path.write_text(ad.model_dump_json(indent=2))
+
+    def get_existing_ad(self, ad_id: str) -> ExistingAd:
+        path = self.existing_ads_dir / f"{ad_id}.json"
+        return ExistingAd.model_validate_json(path.read_text())
+
+    def get_all_existing_ads(self) -> list[ExistingAd]:
+        return [
+            ExistingAd.model_validate_json(f.read_text())
+            for f in self.existing_ads_dir.glob("*.json")
+        ]
+
+    def get_existing_ads_with_taxonomy(self) -> list[ExistingAd]:
+        return [ad for ad in self.get_all_existing_ads() if ad.taxonomy is not None]
+
+    def find_existing_ad_by_meta_id(self, meta_ad_id: str) -> Optional[ExistingAd]:
+        for ad in self.get_all_existing_ads():
+            if ad.meta_ad_id == meta_ad_id:
+                return ad
+        return None

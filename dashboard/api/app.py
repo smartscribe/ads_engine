@@ -115,9 +115,11 @@ async def get_review_queue():
 
 @app.post("/api/review/approve")
 async def approve_variants(action: ReviewAction):
-    """Approve variants for deployment."""
-    approved = review_pipeline.batch_approve(action.variant_ids, action.reviewer)
-    return {"approved": len(approved)}
+    """Approve variants for deployment. Notes are optional but train the generator."""
+    results = []
+    for vid in action.variant_ids:
+        results.append(review_pipeline.approve(vid, action.reviewer, action.notes))
+    return {"approved": len(results)}
 
 
 @app.post("/api/review/reject")
@@ -220,3 +222,124 @@ async def list_variants(status: Optional[str] = None):
         "count": len(variants),
         "variants": [v.model_dump() for v in variants],
     }
+
+
+# ---------------------------------------------------------------------------
+# Analysis — export, tag, and analyze existing Meta ads
+# ---------------------------------------------------------------------------
+
+@app.post("/api/analyze/export")
+async def export_meta_ads():
+    """Export all Meta ads with creative + performance data."""
+    from engine.analysis.analyzer import MetaAdsExporter
+    exporter = MetaAdsExporter()
+    ads = exporter.export_all(store)
+    return {
+        "exported": len(ads),
+        "with_conversions": len([a for a in ads if a.conversions > 0]),
+        "total_spend": sum(a.spend for a in ads),
+    }
+
+
+@app.get("/api/analyze/status")
+async def get_analysis_status():
+    """Check export and analysis progress."""
+    all_ads = store.get_all_existing_ads()
+    tagged = [a for a in all_ads if a.taxonomy is not None]
+    with_spend = [a for a in all_ads if a.spend > 0]
+    return {
+        "total_exported": len(all_ads),
+        "tagged": len(tagged),
+        "untagged": len(all_ads) - len(tagged),
+        "with_spend": len(with_spend),
+        "total_spend": sum(a.spend for a in all_ads),
+        "total_conversions": sum(a.conversions for a in all_ads),
+    }
+
+
+@app.post("/api/analyze/tag")
+async def tag_exported_ads():
+    """Run Claude taxonomy tagging on exported ads."""
+    from engine.analysis.analyzer import CreativeAnalyzer
+    analyzer = CreativeAnalyzer()
+    ads = store.get_all_existing_ads()
+    tagged = analyzer.tag_ads(ads, store)
+    return {
+        "total": len(tagged),
+        "newly_tagged": len([a for a in tagged if a.taxonomy is not None]),
+    }
+
+
+@app.post("/api/analyze/playbook")
+async def generate_playbook():
+    """Run portfolio analysis and generate the creative playbook."""
+    from engine.analysis.analyzer import CreativeAnalyzer
+    analyzer = CreativeAnalyzer()
+    ads = store.get_all_existing_ads()
+    analysis = analyzer.analyze_portfolio(ads)
+    playbook = analyzer.generate_playbook(ads, analysis)
+    return {
+        "analysis": analysis,
+        "playbook_length": len(playbook),
+        "playbook_path": "data/existing_creative/playbook.md",
+    }
+
+
+@app.get("/api/analyze/playbook")
+async def get_playbook():
+    """Get the latest playbook markdown."""
+    playbook_path = Path("data/existing_creative/playbook.md")
+    if not playbook_path.exists():
+        raise HTTPException(status_code=404, detail="Playbook not yet generated")
+    return {"playbook": playbook_path.read_text()}
+
+
+@app.post("/api/analyze/generate")
+async def generate_from_playbook():
+    """Generate ads from playbook briefs using v2 pipeline + Gemini visuals."""
+    from engine.analysis.analyzer import CreativeAnalyzer
+    from engine.generation.generator import CreativeGenerator
+    from engine.orchestrator import Orchestrator
+    o = Orchestrator(store=store)
+    result = o.generate_from_playbook()
+    return result
+
+
+@app.get("/api/existing-ads")
+async def list_existing_ads(min_spend: float = 0):
+    """List imported existing ads, optionally filtered by minimum spend."""
+    ads = store.get_all_existing_ads()
+    if min_spend > 0:
+        ads = [a for a in ads if a.spend >= min_spend]
+    return {
+        "count": len(ads),
+        "ads": [a.model_dump() for a in ads],
+    }
+
+
+@app.get("/api/review/history")
+async def get_review_history():
+    """Get all reviewed variants (approved + rejected) with feedback."""
+    from engine.models import AdStatus
+    approved = store.get_variants_by_status(AdStatus.APPROVED)
+    rejected = store.get_variants_by_status(AdStatus.REJECTED)
+    return {
+        "approved_count": len(approved),
+        "rejected_count": len(rejected),
+        "approved": [
+            {"id": v.id, "headline": v.headline, "reviewer": v.reviewer,
+             "notes": v.review_notes, "reviewed_at": str(v.reviewed_at)}
+            for v in approved
+        ],
+        "rejected": [
+            {"id": v.id, "headline": v.headline, "reviewer": v.reviewer,
+             "notes": v.review_notes, "reviewed_at": str(v.reviewed_at)}
+            for v in rejected
+        ],
+    }
+
+
+@app.get("/api/feedback")
+async def get_rejection_feedback():
+    """Get all rejection feedback for training generators."""
+    return {"feedback": review_pipeline.get_rejection_feedback()}

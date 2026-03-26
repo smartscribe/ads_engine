@@ -55,19 +55,45 @@ class ReviewPipeline:
 
     def get_rejection_feedback(self) -> list[dict]:
         """
-        Collect all rejection notes — this feeds back into the generator
-        to improve future creative quality.
-
-        Returns list of {brief_id, variant_id, notes, taxonomy} dicts.
+        Collect all rejection notes with the actual copy + taxonomy that was rejected.
+        This feeds back into the generator as negative examples.
         """
         rejected = self.store.get_variants_by_status(AdStatus.REJECTED)
         return [
             {
-                "brief_id": v.brief_id,
                 "variant_id": v.id,
+                "headline": v.headline,
+                "body": v.primary_text,
+                "cta": v.cta_button,
                 "notes": v.review_notes,
-                "taxonomy": v.taxonomy.model_dump() if v.taxonomy else None,
+                "taxonomy": {
+                    "message_type": v.taxonomy.message_type,
+                    "hook_type": v.taxonomy.hook_type,
+                    "tone": v.taxonomy.tone,
+                } if v.taxonomy else None,
             }
             for v in rejected
             if v.review_notes
+        ]
+
+    def get_approval_feedback(self) -> list[dict]:
+        """
+        Collect approved variants with copy + taxonomy + optional notes.
+        Feeds into the generator as positive examples to emulate.
+        """
+        approved = self.store.get_variants_by_status(AdStatus.APPROVED)
+        return [
+            {
+                "variant_id": v.id,
+                "headline": v.headline,
+                "body": v.primary_text,
+                "cta": v.cta_button,
+                "notes": v.review_notes,
+                "taxonomy": {
+                    "message_type": v.taxonomy.message_type,
+                    "hook_type": v.taxonomy.hook_type,
+                    "tone": v.taxonomy.tone,
+                } if v.taxonomy else None,
+            }
+            for v in approved
         ]

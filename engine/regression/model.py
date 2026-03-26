@@ -25,7 +25,7 @@ import numpy as np
 import pandas as pd
 from scipy import stats as scipy_stats
 
-from engine.models import AdVariant, PerformanceSnapshot, RegressionResult
+from engine.models import AdVariant, ExistingAd, PerformanceSnapshot, RegressionResult
 from engine.store import Store
 
 
@@ -63,15 +63,16 @@ class CreativeRegressionModel:
     def __init__(self, store: Store):
         self.store = store
 
-    def build_dataset(self) -> pd.DataFrame:
+    def build_dataset(self, include_existing: bool = True) -> pd.DataFrame:
         """
         Build the regression dataset by joining variant taxonomy with performance data.
         Each row = one ad variant with aggregated performance metrics.
+        When include_existing=True, also incorporates imported Meta/Google ads.
         """
-        variants = self.store.get_all_variants()
         rows = []
 
-        for variant in variants:
+        # Engine-generated variants (need snapshot aggregation)
+        for variant in self.store.get_all_variants():
             snapshots = self.store.get_snapshots_for_variant(variant.id)
             if not snapshots:
                 continue
@@ -81,49 +82,68 @@ class CreativeRegressionModel:
             total_impressions = sum(s.impressions for s in snapshots)
             total_clicks = sum(s.clicks for s in snapshots)
 
-            # Skip variants with too little data
             if total_spend < 20 or total_impressions < 100:
                 continue
 
-            # Dependent variables
             cpa = total_spend / total_first_notes if total_first_notes > 0 else None
             conversion_rate = total_first_notes / total_clicks if total_clicks > 0 else 0
             ctr = total_clicks / total_impressions if total_impressions > 0 else 0
 
-            # Build feature row from taxonomy
             tax = variant.taxonomy
-            row = {
-                "variant_id": variant.id,
-                # Dependent variables
-                "cost_per_first_note": cpa,
-                "conversion_rate": conversion_rate,
-                "ctr": ctr,
-                "total_spend": total_spend,
-                "total_first_notes": total_first_notes,
-                # Categorical features
-                "message_type": tax.message_type,
-                "hook_type": tax.hook_type,
-                "cta_type": tax.cta_type,
-                "tone": tax.tone,
-                "visual_style": tax.visual_style,
-                "subject_matter": tax.subject_matter,
-                "color_mood": tax.color_mood,
-                "text_density": tax.text_density,
-                "format": tax.format.value,
-                "platform": tax.platform.value,
-                "placement": tax.placement,
-                # Numerical features
-                "headline_word_count": tax.headline_word_count,
-                "copy_reading_level": tax.copy_reading_level,
-                # Boolean features
-                "uses_number": int(tax.uses_number),
-                "uses_question": int(tax.uses_question),
-                "uses_first_person": int(tax.uses_first_person),
-                "uses_social_proof": int(tax.uses_social_proof),
-            }
-            rows.append(row)
+            rows.append(self._taxonomy_row(
+                variant_id=variant.id, cpa=cpa, conversion_rate=conversion_rate,
+                ctr=ctr, total_spend=total_spend, total_first_notes=total_first_notes,
+                tax=tax,
+            ))
+
+        # Imported existing ads (performance is pre-aggregated)
+        if include_existing:
+            for ad in self.store.get_existing_ads_with_taxonomy():
+                if ad.spend < 20 or ad.impressions < 100:
+                    continue
+
+                cpa = ad.cost_per_conversion
+                conversion_rate = ad.conversions / ad.clicks if ad.clicks > 0 else 0
+                ctr = ad.ctr
+
+                rows.append(self._taxonomy_row(
+                    variant_id=ad.id, cpa=cpa, conversion_rate=conversion_rate,
+                    ctr=ctr, total_spend=ad.spend, total_first_notes=ad.conversions,
+                    tax=ad.taxonomy,
+                ))
 
         return pd.DataFrame(rows)
+
+    @staticmethod
+    def _taxonomy_row(
+        variant_id: str, cpa, conversion_rate: float, ctr: float,
+        total_spend: float, total_first_notes: int, tax,
+    ) -> dict:
+        return {
+            "variant_id": variant_id,
+            "cost_per_first_note": cpa,
+            "conversion_rate": conversion_rate,
+            "ctr": ctr,
+            "total_spend": total_spend,
+            "total_first_notes": total_first_notes,
+            "message_type": tax.message_type,
+            "hook_type": tax.hook_type,
+            "cta_type": tax.cta_type,
+            "tone": tax.tone,
+            "visual_style": tax.visual_style,
+            "subject_matter": tax.subject_matter,
+            "color_mood": tax.color_mood,
+            "text_density": tax.text_density,
+            "format": tax.format.value if hasattr(tax.format, "value") else str(tax.format),
+            "platform": tax.platform.value if hasattr(tax.platform, "value") else str(tax.platform),
+            "placement": tax.placement,
+            "headline_word_count": tax.headline_word_count,
+            "copy_reading_level": tax.copy_reading_level,
+            "uses_number": int(tax.uses_number),
+            "uses_question": int(tax.uses_question),
+            "uses_first_person": int(tax.uses_first_person),
+            "uses_social_proof": int(tax.uses_social_proof),
+        }
 
     def encode_features(self, df: pd.DataFrame) -> tuple[pd.DataFrame, list[str]]:
         """
@@ -182,7 +202,7 @@ class CreativeRegressionModel:
 
         return vif_scores
 
-    def run(self, target: str = "cost_per_first_note") -> Optional[RegressionResult]:
+    def run(self, target: str = "cost_per_first_note", min_observations: int = 10) -> Optional[RegressionResult]:
         """
         Run the full regression analysis.
 
@@ -191,13 +211,12 @@ class CreativeRegressionModel:
         """
         df = self.build_dataset()
 
-        if len(df) < 20:
-            print(f"Only {len(df)} observations — need at least 20 for meaningful regression.")
+        if len(df) < min_observations:
+            print(f"Only {len(df)} observations — need at least {min_observations} for meaningful regression.")
             return None
 
-        # Filter to rows with valid target
         df = df.dropna(subset=[target])
-        if len(df) < 20:
+        if len(df) < min_observations:
             return None
 
         y = df[target].values

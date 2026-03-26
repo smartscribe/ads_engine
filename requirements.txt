@@ -27,8 +27,8 @@ scipy>=1.12.0
 # runwayml
 # requests   # for API-based providers
 
-# Slack (for webhook fallback)
-# requests>=2.31.0
+# HTTP requests (Meta API, Slack webhook)
+requests>=2.31.0
 
 # Dev
 pytest>=8.0.0
