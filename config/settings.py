@@ -39,6 +39,9 @@ class Settings(BaseSettings):
     SLACK_WEBHOOK_URL: str = ""
     SLACK_CHANNEL: str = "#ads-engine"
 
+    # -- Gemini (image generation) --
+    gemini_api: str = ""
+
     # -- Image Generation (intern fills in based on chosen tool) --
     IMAGE_GEN_API_KEY: str = ""
     IMAGE_GEN_PROVIDER: str = ""           # "midjourney", "flux", "dalle", "ideogram"

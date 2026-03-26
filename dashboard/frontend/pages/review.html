@@ -220,6 +220,20 @@
             }
         }
 
+        function renderAsset(v) {
+            const path = v.asset_path || '';
+            const isImage = path.endsWith('.png') || path.endsWith('.jpg') || path.endsWith('.jpeg') || path.endsWith('.webp');
+            const isVideo = path.endsWith('.mp4') || path.endsWith('.webm');
+            // asset_path is stored as "data/creatives/..." — serve via /data/...
+            const url = path ? '/' + path : null;
+            if (isImage && url) {
+                return `<img src="${url}" alt="${escapeHtml(v.headline)}" style="width:100%;height:100%;object-fit:cover;border-radius:8px 8px 0 0;">`;
+            } else if (isVideo && url) {
+                return `<video src="${url}" controls style="width:100%;height:100%;object-fit:cover;border-radius:8px 8px 0 0;"></video>`;
+            }
+            return v.asset_type === 'video' ? '▶ Video — generating...' : '📷 Image — generating...';
+        }
+
         function renderGallery() {
             const gallery = document.getElementById('gallery');
             if (!variants.length) {
@@ -229,7 +243,7 @@
 
             gallery.innerHTML = variants.map(v => `
                 <div class="card ${selectedIds.has(v.id) ? 'selected' : ''}" onclick="toggleSelect('${v.id}')">
-                    <div class="asset">${v.asset_type === 'video' ? '▶ Video' : '📷 Image'} — ${v.taxonomy.format}</div>
+                    <div class="asset">${renderAsset(v)}</div>
                     <div class="content">
                         <div class="headline">${escapeHtml(v.headline)}</div>
                         <div class="primary-text">${escapeHtml(v.primary_text)}</div>

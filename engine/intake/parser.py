@@ -16,6 +16,7 @@ from typing import Optional
 
 from anthropic import Anthropic
 
+from config.settings import get_settings
 from engine.models import CreativeBrief, AdFormat, Platform
 
 
@@ -54,13 +55,17 @@ Be specific. Don't be generic. If the input is vague, make sharp creative choice
 
 class IntakeParser:
     def __init__(self, client: Optional[Anthropic] = None):
-        self.client = client or Anthropic()
+        if client is None:
+            settings = get_settings()
+            self.client = Anthropic(api_key=settings.ANTHROPIC_API_KEY)
+        else:
+            self.client = client
 
     def parse(self, raw_input: str, source: str = "manual") -> CreativeBrief:
         """Parse a free-form idea dump into a structured creative brief."""
 
         response = self.client.messages.create(
-            model="claude-sonnet-4-20250514",
+            model="claude-sonnet-4-5-20250929",
             max_tokens=2000,
             system=SYSTEM_PROMPT,
             messages=[

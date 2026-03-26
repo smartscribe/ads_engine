@@ -16,10 +16,12 @@ Endpoints:
 from __future__ import annotations
 
 from datetime import date
+from pathlib import Path
 from typing import Optional
 
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel
 
 from engine.store import Store
@@ -39,6 +41,15 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+# Serve the frontend at /dashboard
+_frontend_dir = Path(__file__).parent.parent / "frontend"
+app.mount("/dashboard", StaticFiles(directory=str(_frontend_dir), html=True), name="frontend")
+
+# Serve generated creative assets at /data
+_data_dir = Path(__file__).parent.parent.parent / "data"
+_data_dir.mkdir(parents=True, exist_ok=True)
+app.mount("/data", StaticFiles(directory=str(_data_dir)), name="data")
 
 # Initialize services
 store = Store()
