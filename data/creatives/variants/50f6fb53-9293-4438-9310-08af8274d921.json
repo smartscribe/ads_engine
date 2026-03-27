@@ -119,12 +119,12 @@
       ]
     }
   },
-  "status": "draft",
+  "status": "approved",
   "review_notes": null,
-  "reviewer": null,
-  "reviewed_at": null,
+  "reviewer": "aryan",
+  "reviewed_at": "2026-03-27T18:43:52.953407",
   "review_chips": [],
-  "review_duration_ms": 0,
+  "review_duration_ms": 2009,
   "meta_ad_id": null,
   "google_ad_id": null
 }
