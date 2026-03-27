@@ -1,0 +1,26 @@
+{
+  "id": "80e04f9c-6eb9-43bc-a12c-6ece5b3eed35",
+  "created_at": "2026-03-26T08:19:53.466696",
+  "raw_input": "[auto-generated from playbook] Scale the successful patient interaction angle with new creative emphasizing mission over efficiency",
+  "source": "playbook",
+  "target_audience": "bh_clinicians",
+  "value_proposition": "Scale the successful patient interaction angle with new creative emphasizing mission over efficiency",
+  "pain_point": "Being chained to your desk doing documentation instead of focusing on helping patients",
+  "desired_action": "Learn more",
+  "tone_direction": "Aspirational but grounded. Mission-driven but practical. Empathetic.",
+  "visual_direction": "Photography focused on genuine clinician-patient interaction moments—active listening, empathetic gestures, connection. Not therapy session staging but the feeling of real therapeutic alliance. Could be mixed media showing patient interaction followed by quick/easy note completion, emphasizing the contrast between complex human care and simple documentation. Warm earth tones, natural lighting, close-up shots that feel intimate without being invasive. Show diverse patient populations and clinician types. Avoid anything that looks like stock healthcare photography—go for documentary-style authenticity. Optional: Include brief UI screen showing how quickly the note gets done, but keep focus on the human moment.",
+  "key_phrases": [
+    "Spend more time healing. Less time typing.",
+    "You became a clinician to help people, not to fight with documentation",
+    "Better documentation. Better care. Better you."
+  ],
+  "references": [],
+  "num_variants": 6,
+  "formats_requested": [
+    "single_image",
+    "video"
+  ],
+  "platforms": [
+    "meta"
+  ]
+}

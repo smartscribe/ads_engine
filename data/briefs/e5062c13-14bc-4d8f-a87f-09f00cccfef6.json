@@ -1,0 +1,31 @@
+{
+  "id": "e5062c13-14bc-4d8f-a87f-09f00cccfef6",
+  "created_at": "2026-03-26T06:37:35.502159",
+  "raw_input": "Therapists spend 2 hours on notes after every session. What if they didn't have to?",
+  "source": "manual",
+  "target_audience": "bh_clinicians",
+  "value_proposition": "Reclaim 2 hours per day by letting AI handle your clinical documentation while you focus on what matters—your patients.",
+  "pain_point": "Therapists are drowning in post-session documentation, losing 2+ hours daily to administrative work instead of patient care, self-care, or simply going home on time.",
+  "desired_action": "Sign up for a free trial to experience automated note generation from their next session.",
+  "tone_direction": "Empathetic yet urgent. Acknowledge the exhaustion and validate the struggle, then offer hope. Conversational, not corporate. Think 'colleague who gets it' rather than 'tech company selling something.' Use second-person ('you') to make it personal.",
+  "visual_direction": "Contrast-driven storytelling: BEFORE shows a therapist alone in dim office lighting at 8pm, slumped over a laptop with session notes, coffee cup, tired eyes. AFTER shows the same therapist leaving the office in daylight, relaxed, phone in hand showing JotPsych completion notification. For video: time-lapse of clock spinning from 6pm to 8pm while therapist types, then hard cut to JotPsych interface auto-generating notes in 3 minutes. Color palette: warm, calming blues and greens (trust/healthcare) with pops of energizing coral for CTAs.",
+  "key_phrases": [
+    "What if you didn't have to?",
+    "2 hours back, every single day",
+    "Stop documenting. Start living.",
+    "Your session ends. Your notes don't have to.",
+    "Built by clinicians who've been there",
+    "HIPAA-compliant, worry-free",
+    "Reclaim your evenings"
+  ],
+  "references": [],
+  "num_variants": 6,
+  "formats_requested": [
+    "single_image",
+    "video"
+  ],
+  "platforms": [
+    "meta",
+    "google"
+  ]
+}

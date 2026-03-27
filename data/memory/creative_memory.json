@@ -1,0 +1,855 @@
+{
+  "id": "d99ed589-b24b-4f6b-8fbe-1c59b2892bca",
+  "statistical": {
+    "winning_patterns": [],
+    "losing_patterns": [],
+    "coefficient_history": {
+      "message_type_education": [
+        {
+          "coefficient": -76.73576989539498,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        },
+        {
+          "coefficient": -140.26614506530507,
+          "p_value": 0.34192851537982705,
+          "run_date": "2026-03-26",
+          "n_observations": 141
+        }
+      ],
+      "message_type_pain_point": [
+        {
+          "coefficient": -56.602723110876525,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        },
+        {
+          "coefficient": -171.8042750296986,
+          "p_value": 0.22673429374687393,
+          "run_date": "2026-03-26",
+          "n_observations": 141
+        }
+      ],
+      "message_type_social_proof": [
+        {
+          "coefficient": -105.814967313885,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        },
+        {
+          "coefficient": -230.35961227512473,
+          "p_value": 0.2792038281070641,
+          "run_date": "2026-03-26",
+          "n_observations": 141
+        }
+      ],
+      "message_type_urgency": [
+        {
+          "coefficient": -196.6710068664569,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        },
+        {
+          "coefficient": -278.97979181234825,
+          "p_value": 0.18073180196875738,
+          "run_date": "2026-03-26",
+          "n_observations": 141
+        }
+      ],
+      "message_type_value_prop": [
+        {
+          "coefficient": -178.89708582954796,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        },
+        {
+          "coefficient": -299.3032633997036,
+          "p_value": 0.05462827405620785,
+          "run_date": "2026-03-26",
+          "n_observations": 141
+        }
+      ],
+      "hook_type_provocative_claim": [
+        {
+          "coefficient": 83.18010039801172,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        },
+        {
+          "coefficient": 86.171896671355,
+          "p_value": 0.11223331533475611,
+          "run_date": "2026-03-26",
+          "n_observations": 141
+        }
+      ],
+      "hook_type_question": [
+        {
+          "coefficient": -152.85563654625207,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        },
+        {
+          "coefficient": -28.087357378682672,
+          "p_value": 0.7471142426795863,
+          "run_date": "2026-03-26",
+          "n_observations": 141
+        }
+      ],
+      "hook_type_scenario": [
+        {
+          "coefficient": -64.44319609501073,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        },
+        {
+          "coefficient": -56.15168115400499,
+          "p_value": 0.28233669052592214,
+          "run_date": "2026-03-26",
+          "n_observations": 141
+        }
+      ],
+      "hook_type_statistic": [
+        {
+          "coefficient": -62.51564896885755,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        },
+        {
+          "coefficient": -83.03968970688912,
+          "p_value": 0.37932151611404263,
+          "run_date": "2026-03-26",
+          "n_observations": 141
+        }
+      ],
+      "hook_type_testimonial": [
+        {
+          "coefficient": 22.35368714900278,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        },
+        {
+          "coefficient": 118.32703069766747,
+          "p_value": 0.3964124415372934,
+          "run_date": "2026-03-26",
+          "n_observations": 141
+        }
+      ],
+      "cta_type_see_how": [
+        {
+          "coefficient": -60.98971766484799,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        },
+        {
+          "coefficient": -58.32490010903314,
+          "p_value": 0.4831543095707993,
+          "run_date": "2026-03-26",
+          "n_observations": 141
+        }
+      ],
+      "cta_type_try_free": [
+        {
+          "coefficient": -22.955721016611918,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        },
+        {
+          "coefficient": -7.417822841931443,
+          "p_value": 0.9041042133330612,
+          "run_date": "2026-03-26",
+          "n_observations": 141
+        }
+      ],
+      "tone_clinical": [
+        {
+          "coefficient": -35.95530197807061,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        },
+        {
+          "coefficient": -25.59527272004248,
+          "p_value": 0.6663227495779611,
+          "run_date": "2026-03-26",
+          "n_observations": 141
+        }
+      ],
+      "tone_empathetic": [
+        {
+          "coefficient": -33.931749594380825,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        },
+        {
+          "coefficient": 3.689603996316861,
+          "p_value": 0.9497170152584882,
+          "run_date": "2026-03-26",
+          "n_observations": 141
+        }
+      ],
+      "tone_playful": [
+        {
+          "coefficient": -31.715575930602462,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        },
+        {
+          "coefficient": 20.52684627022049,
+          "p_value": 0.7731550078874454,
+          "run_date": "2026-03-26",
+          "n_observations": 141
+        }
+      ],
+      "tone_provocative_claim": [
+        {
+          "coefficient": -154.38604291893722,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        },
+        {
+          "coefficient": 75.76409687198839,
+          "p_value": 0.7165479975681821,
+          "run_date": "2026-03-26",
+          "n_observations": 141
+        }
+      ],
+      "tone_urgent": [
+        {
+          "coefficient": -58.51527599867439,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        },
+        {
+          "coefficient": -36.94030509901363,
+          "p_value": 0.7658904668000583,
+          "run_date": "2026-03-26",
+          "n_observations": 141
+        }
+      ],
+      "tone_warm": [
+        {
+          "coefficient": 0.6378464454574271,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        },
+        {
+          "coefficient": 35.27859173727603,
+          "p_value": 0.5052323985164517,
+          "run_date": "2026-03-26",
+          "n_observations": 141
+        }
+      ],
+      "visual_style_mixed_media": [
+        {
+          "coefficient": 9.438314597781385,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        },
+        {
+          "coefficient": -14.256758742518608,
+          "p_value": 0.8237698555789095,
+          "run_date": "2026-03-26",
+          "n_observations": 141
+        }
+      ],
+      "visual_style_photography": [
+        {
+          "coefficient": 1.1169545731384964,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        },
+        {
+          "coefficient": 7.385806936036089,
+          "p_value": 0.8850939888027469,
+          "run_date": "2026-03-26",
+          "n_observations": 141
+        }
+      ],
+      "visual_style_product_ui": [
+        {
+          "coefficient": 10.702701736543727,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        },
+        {
+          "coefficient": -25.744740518130023,
+          "p_value": 0.8696531155245895,
+          "run_date": "2026-03-26",
+          "n_observations": 141
+        }
+      ],
+      "visual_style_screen_capture": [
+        {
+          "coefficient": 138.14447245101334,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        },
+        {
+          "coefficient": 101.46467441435378,
+          "p_value": 0.21355251373535733,
+          "run_date": "2026-03-26",
+          "n_observations": 141
+        }
+      ],
+      "visual_style_text_heavy": [
+        {
+          "coefficient": 35.06923884154334,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        },
+        {
+          "coefficient": 46.310534743293466,
+          "p_value": 0.5042115295947425,
+          "run_date": "2026-03-26",
+          "n_observations": 141
+        }
+      ],
+      "subject_matter_conceptual": [
+        {
+          "coefficient": 5.349920054192548,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        },
+        {
+          "coefficient": 21.930573553371932,
+          "p_value": 0.6570686223279438,
+          "run_date": "2026-03-26",
+          "n_observations": 141
+        }
+      ],
+      "subject_matter_patient_interaction": [
+        {
+          "coefficient": -27.220557792206627,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        },
+        {
+          "coefficient": -31.21817246549299,
+          "p_value": 0.6795884520420536,
+          "run_date": "2026-03-26",
+          "n_observations": 141
+        }
+      ],
+      "subject_matter_product_ui": [
+        {
+          "coefficient": -3.039167944752535,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        },
+        {
+          "coefficient": 54.765090464695746,
+          "p_value": 0.4368998240004467,
+          "run_date": "2026-03-26",
+          "n_observations": 141
+        }
+      ],
+      "subject_matter_workflow_comparison": [
+        {
+          "coefficient": 64.13301238687687,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        },
+        {
+          "coefficient": 81.26736124637183,
+          "p_value": 0.41886562039369446,
+          "run_date": "2026-03-26",
+          "n_observations": 141
+        }
+      ],
+      "color_mood_brand_primary": [
+        {
+          "coefficient": 0.7109341667126046,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        },
+        {
+          "coefficient": 12.644653206532821,
+          "p_value": 0.8880613039919392,
+          "run_date": "2026-03-26",
+          "n_observations": 141
+        }
+      ],
+      "color_mood_cool_clinical": [
+        {
+          "coefficient": 28.984394716169078,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        },
+        {
+          "coefficient": 55.262146900265954,
+          "p_value": 0.5417959206715985,
+          "run_date": "2026-03-26",
+          "n_observations": 141
+        }
+      ],
+      "color_mood_high_contrast": [
+        {
+          "coefficient": -48.401797224569584,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        },
+        {
+          "coefficient": -124.09077348407874,
+          "p_value": 0.26224719360061677,
+          "run_date": "2026-03-26",
+          "n_observations": 141
+        }
+      ],
+      "color_mood_muted_soft": [
+        {
+          "coefficient": 148.73616875713907,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        },
+        {
+          "coefficient": 116.74547771714415,
+          "p_value": 0.16314281956965782,
+          "run_date": "2026-03-26",
+          "n_observations": 141
+        }
+      ],
+      "color_mood_warm_earth": [
+        {
+          "coefficient": 20.979836213670715,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        },
+        {
+          "coefficient": 7.242994210274131,
+          "p_value": 0.9258226866125265,
+          "run_date": "2026-03-26",
+          "n_observations": 141
+        }
+      ],
+      "text_density_headline_only": [
+        {
+          "coefficient": 191.48133087506983,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        },
+        {
+          "coefficient": 205.03133230517057,
+          "p_value": 0.019937633215664885,
+          "run_date": "2026-03-26",
+          "n_observations": 141
+        }
+      ],
+      "text_density_headline_subhead": [
+        {
+          "coefficient": 116.67564675093651,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        },
+        {
+          "coefficient": 46.03212432541196,
+          "p_value": 0.4642020544801795,
+          "run_date": "2026-03-26",
+          "n_observations": 141
+        }
+      ],
+      "text_density_minimal_overlay": [
+        {
+          "coefficient": 191.47784969334074,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        },
+        {
+          "coefficient": 214.05523469922687,
+          "p_value": 0.04096743810025383,
+          "run_date": "2026-03-26",
+          "n_observations": 141
+        }
+      ],
+      "format_video": [
+        {
+          "coefficient": -9.659854343213253,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        },
+        {
+          "coefficient": -25.19406654277735,
+          "p_value": 0.6097635134753157,
+          "run_date": "2026-03-26",
+          "n_observations": 141
+        }
+      ],
+      "headline_word_count": [
+        {
+          "coefficient": -3.999536833788113,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        },
+        {
+          "coefficient": -1.5240650589455198,
+          "p_value": 0.8808649454796822,
+          "run_date": "2026-03-26",
+          "n_observations": 141
+        }
+      ],
+      "copy_reading_level": [
+        {
+          "coefficient": 8.71634685742032,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        },
+        {
+          "coefficient": 15.28702251432801,
+          "p_value": 0.3204163936616169,
+          "run_date": "2026-03-26",
+          "n_observations": 141
+        }
+      ],
+      "uses_number": [
+        {
+          "coefficient": 74.95250702647778,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        },
+        {
+          "coefficient": 71.02211264931259,
+          "p_value": 0.27250221018161613,
+          "run_date": "2026-03-26",
+          "n_observations": 141
+        }
+      ],
+      "uses_question": [
+        {
+          "coefficient": 28.058912610982713,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        },
+        {
+          "coefficient": 123.74949837665272,
+          "p_value": 0.12321792800453046,
+          "run_date": "2026-03-26",
+          "n_observations": 141
+        }
+      ],
+      "uses_first_person": [
+        {
+          "coefficient": 154.10564998378706,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        },
+        {
+          "coefficient": 38.20492775843519,
+          "p_value": 0.8416279289737285,
+          "run_date": "2026-03-26",
+          "n_observations": 141
+        }
+      ],
+      "uses_social_proof": [
+        {
+          "coefficient": 39.655353994560926,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        },
+        {
+          "coefficient": 17.471993866796094,
+          "p_value": 0.8580681034749134,
+          "run_date": "2026-03-26",
+          "n_observations": 141
+        }
+      ],
+      "uses_question_x_message_type_education": [
+        {
+          "coefficient": 131.10297174539173,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        }
+      ],
+      "uses_question_x_visual_style_text_heavy": [
+        {
+          "coefficient": 131.10297174539159,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        }
+      ],
+      "uses_question_x_subject_matter_conceptual": [
+        {
+          "coefficient": 131.10297174539147,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        }
+      ],
+      "uses_question_x_color_mood_brand_primary": [
+        {
+          "coefficient": 131.10297174539156,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        }
+      ],
+      "uses_question_x_text_density_headline_only": [
+        {
+          "coefficient": 131.10297174539173,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        }
+      ],
+      "uses_social_proof_x_visual_style_screen_capture": [
+        {
+          "coefficient": 207.25105598491342,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        }
+      ],
+      "uses_social_proof_x_subject_matter_product_ui": [
+        {
+          "coefficient": 207.25105598491373,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        }
+      ],
+      "uses_social_proof_x_color_mood_cool_clinical": [
+        {
+          "coefficient": 207.25105598491365,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        }
+      ],
+      "uses_social_proof_x_hook_type_provocative_claim": [
+        {
+          "coefficient": -128.16865446288867,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        }
+      ],
+      "uses_social_proof_x_tone_warm": [
+        {
+          "coefficient": 142.06110958884528,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        }
+      ],
+      "uses_social_proof_x_message_type_social_proof": [
+        {
+          "coefficient": -105.81496731388582,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        }
+      ],
+      "uses_number_x_format_video": [
+        {
+          "coefficient": -78.81977783301063,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        }
+      ],
+      "uses_number_x_tone_clinical": [
+        {
+          "coefficient": 168.56590218097585,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        }
+      ],
+      "uses_number_x_hook_type_statistic": [
+        {
+          "coefficient": -62.51564896885781,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        }
+      ],
+      "uses_number_x_message_type_pain_point": [
+        {
+          "coefficient": -154.11070664095195,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        }
+      ],
+      "uses_number_x_text_density_headline_subhead": [
+        {
+          "coefficient": -4.4934972046794,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        }
+      ],
+      "uses_question_x_visual_style_photography": [
+        {
+          "coefficient": 33.02454535078283,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        }
+      ],
+      "uses_question_x_color_mood_warm_earth": [
+        {
+          "coefficient": 33.95751354441626,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        }
+      ],
+      "uses_question_x_text_density_headline_subhead": [
+        {
+          "coefficient": 33.9575135444163,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        }
+      ],
+      "uses_social_proof_x_color_mood_warm_earth": [
+        {
+          "coefficient": 80.01585502745668,
+          "p_value": 1.0,
+          "run_date": "2026-03-27",
+          "n_observations": 141
+        }
+      ]
+    },
+    "fatiguing_patterns": [],
+    "interaction_insights": [],
+    "r_squared": 0.5275,
+    "n_observations": 141,
+    "last_run_date": "2026-03-27"
+  },
+  "editorial": {
+    "approval_clusters": [
+      {
+        "signature": {
+          "hook_type": "question",
+          "message_type": "pain_point",
+          "tone": "empathetic",
+          "uses_number": true
+        },
+        "count": 1,
+        "representative_headline": "Still Charting at 7pm?",
+        "representative_body": "That 4pm dread when you know you still have hours of notes ahead? Gone. JotPsych writes your clinical documentation automatically from session recordings. You stay focused on your clients \u2014 not your keyboard. 500+ therapists now get 2 hours of their day back. Notes are done before they leave the office.",
+        "representative_cta": "Get 2 Hours Back",
+        "reviewer_notes_summary": "Strong hook, clear CTA \u2014 looks great",
+        "avg_performance": null
+      },
+      {
+        "signature": {
+          "hook_type": "scenario",
+          "message_type": "urgency",
+          "tone": "urgent",
+          "uses_number": true
+        },
+        "count": 1,
+        "representative_headline": "See your family tonight, not your EHR",
+        "representative_body": "Here's what 2 extra hours of documentation every day costs you:\n\n\u2022 520 hours per year staying late\n\u2022 Missed dinners, bedtimes, your own life\n\u2022 Burnout that makes you question this career\n\nJotPsych generates your clinical notes automatically. Record your session, and our HIPAA-compliant AI creates complete documentation in minutes\u2014not hours.\n\nStop choosing between quality care and having a life. 1,200+ therapists already made the switch.\n\nTry JotPsych free: jotpsych.com",
+        "representative_cta": "Try Free",
+        "reviewer_notes_summary": null,
+        "avg_performance": null
+      },
+      {
+        "signature": {
+          "hook_type": "statistic",
+          "message_type": "value_prop",
+          "tone": "warm",
+          "uses_number": true
+        },
+        "count": 1,
+        "representative_headline": "2 Hours Back. Every Single Day.",
+        "representative_body": "Your last session ends at 5pm. Your notes are already done. JotPsych listens to your sessions and writes your clinical documentation while you're fully present with your clients. SOAP notes, treatment plans, CPT codes \u2014 finished before you pack your bag. 500+ behavioral health clinicians now leave work on time.",
+        "representative_cta": "Try Free",
+        "reviewer_notes_summary": "Clean and specific",
+        "avg_performance": null
+      }
+    ],
+    "rejection_rules": [
+      {
+        "rule": "Don't combine empathetic tone with pain_point messaging",
+        "pattern": {
+          "tone": "empathetic",
+          "message_type": "pain_point"
+        },
+        "rejection_count": 3,
+        "example_notes": [
+          "Too generic, doesn't show the product",
+          "Love the 7pm angle \u2014 very specific pain point",
+          "This doesnt stand out"
+        ],
+        "confidence": "moderate"
+      }
+    ],
+    "reviewer_profiles": {
+      "nate": {
+        "reviewer": "nate",
+        "approval_rate": 0.25,
+        "preferred_patterns": [],
+        "disliked_patterns": [],
+        "sample_size": 4,
+        "last_review_date": "2026-03-27"
+      },
+      "aryan": {
+        "reviewer": "aryan",
+        "approval_rate": 0.25,
+        "preferred_patterns": [],
+        "disliked_patterns": [],
+        "sample_size": 4,
+        "last_review_date": "2026-03-27"
+      }
+    },
+    "gold_standard_ads": [],
+    "total_approvals": 3,
+    "total_rejections": 7
+  },
+  "market": {
+    "combination_stats": {},
+    "least_tested_combinations": [],
+    "platform_modifiers": [],
+    "competitive_observations": [],
+    "day_of_week_performance": {}
+  },
+  "built_at": "2026-03-27T08:29:04.371954",
+  "data_quality_score": 0.7,
+  "version": 2
+}

@@ -1,0 +1,25 @@
+{
+  "id": "4b6cb53b-c551-4a75-bdc5-d3b6d3378e57",
+  "created_at": "2026-03-26T08:19:53.466499",
+  "raw_input": "[auto-generated from playbook] Scale the winning UGC question hook pattern with fresh creative to combat ad fatigue",
+  "source": "playbook",
+  "target_audience": "bh_clinicians",
+  "value_proposition": "Scale the winning UGC question hook pattern with fresh creative to combat ad fatigue",
+  "pain_point": "Documentation takes up more of your day than patient care",
+  "desired_action": "See how it works",
+  "tone_direction": "Conversational, first-person feeling, like advice from a colleague. Avoid clinical jargon. Empathetic and warm.",
+  "visual_direction": "Capture real-feeling video clips of clinicians in authentic work moments—making coffee in the morning with a subtle expression of dread, sitting at a desk with stacks of files, checking the clock at 7pm with the office dark. UGC aesthetic—slightly shaky phone camera, natural lighting, no perfect staging. Shoot vertically for mobile-first delivery. Keep clips 10-15 seconds max with the question appearing as text overlay in the first 2 seconds. Subject should be diverse range of clinicians (age, gender, setting) wearing normal work attire, not overly styled. Warm earth tones in clothing and backgrounds—avoid sterile white coats and harsh fluorescent lighting.",
+  "key_phrases": [
+    "How much time will you spend on notes today?",
+    "When was the last time you left work on time?",
+    "What would you do with 10 extra hours per week?"
+  ],
+  "references": [],
+  "num_variants": 6,
+  "formats_requested": [
+    "video"
+  ],
+  "platforms": [
+    "meta"
+  ]
+}

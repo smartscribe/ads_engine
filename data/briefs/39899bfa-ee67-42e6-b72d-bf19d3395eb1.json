@@ -1,0 +1,34 @@
+{
+  "id": "39899bfa-ee67-42e6-b72d-bf19d3395eb1",
+  "created_at": "2026-03-27T08:29:04.295310",
+  "raw_input": "[auto-generated from playbook] Reclaim 10+ hours per week from documentation with AI that understands how clinicians actually talk",
+  "source": "playbook",
+  "target_audience": "bh_clinicians",
+  "value_proposition": "Reclaim 10+ hours per week from documentation with AI that understands how clinicians actually talk",
+  "pain_point": "Spending more daily time on documentation than on patient care, leading to evening and weekend charting that steals personal life",
+  "desired_action": "Click 'Learn More' to see product demo",
+  "tone_direction": "Colleague-to-colleague empathy—like a trusted peer who's been there sharing relief they've found, not a salesperson pitching. Conversational, first-person energy with validation before solution. Think NPR interview warmth meets clinical credibility.",
+  "visual_direction": "UGC-style video: clinician making morning coffee with subtle dread expression, checking clock at 7pm in dark office, stacks of files visible. Phone camera aesthetic, slightly shaky, natural lighting. Vertical format. Warm earth tones in clothing/backgrounds. 10-15 seconds max.",
+  "key_phrases": [
+    "How much time will you spend on notes today?",
+    "When was the last time you left work on time?",
+    "What would you do with 10 extra hours per week?",
+    "If you're like most clinicians, documentation takes up more of your day than patient care",
+    "Over 10,000 clinicians reclaim their time with AI-powered progress notes that feel natural, not robotic"
+  ],
+  "references": [],
+  "emotional_register": "From morning dread/resignation about the documentation mountain ahead → to quiet hope that there's a colleague-validated way out that doesn't compromise care quality",
+  "proof_element": "Over 10,000 mental health clinicians currently use JotPsych; cuts documentation time by 75%",
+  "hook_strategy": "Open with question text overlay in first 2 seconds over video of clinician's morning routine moment of dread: 'How much time will you spend on notes today?' Let the question sit for a beat before revealing it's rhetorical.",
+  "target_persona_details": "Mid-career LCSW named Sarah, 38, running private practice. Morning routine: drops kids at school, arrives at office 8:45am already thinking about the 6 client notes from yesterday still undone. Sees first patient at 9am but mind is split between active listening and mentally drafting documentation. Pain moment: 6:30pm, last patient leaves, she opens laptop knowing she has 90+ minutes of charting before she can go home to family dinner already in progress.",
+  "brief_richness_score": 9.2,
+  "source_pattern_id": "Top Pattern #1: UGC-Style Video with Empathetic Question Hooks + Brief 1",
+  "num_variants": 6,
+  "formats_requested": [
+    "video",
+    "single_image"
+  ],
+  "platforms": [
+    "meta"
+  ]
+}

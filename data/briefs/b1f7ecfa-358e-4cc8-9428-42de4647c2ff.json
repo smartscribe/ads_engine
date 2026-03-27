@@ -1,0 +1,37 @@
+{
+  "id": "b1f7ecfa-358e-4cc8-9428-42de4647c2ff",
+  "created_at": "2026-03-27T07:36:19.893780",
+  "raw_input": "Clinicians waste 2 hours on documentation every day. JotPsych listens and writes your SOAP notes automatically. Try it free.",
+  "source": "manual",
+  "target_audience": "bh_clinicians",
+  "value_proposition": "JotPsych captures your session audio and generates complete SOAP notes automatically, giving clinicians back 2 hours every single day to focus on patients instead of paperwork",
+  "pain_point": "The crushing daily reality of finishing a draining session at 6pm, knowing you still have 90+ minutes of documentation ahead before you can go home — every single day, stealing time from family, self-care, and the reason you became a therapist in the first place",
+  "desired_action": "Start a free trial to experience automated clinical documentation firsthand",
+  "tone_direction": "Like that moment when a colleague leans in at a conference and whispers 'I found something that actually works' — not a sales pitch, but genuine relief being shared. The tone moves from exhausted commiseration to quiet, almost disbelieving hope. It's the voice of someone who gets the specific burnout of loving your patients but dreading the aftermath of every session.",
+  "visual_direction": "Open on a therapist's office at golden hour — soft, warm light streaming through blinds. Clock reads 6:47pm. Empty tissue box, water glasses on the coffee table. The therapist sits at their desk, laptop open, rubbing their temples. Cut to: same person, earlier time (4:30pm clock visible), placing their phone discreetly on the desk as a session begins. Cut to: 6:15pm — they're packing up, checking their phone where the SOAP note is already complete. Final shot: them leaving the office while it's still light outside, genuine smile. Color palette: warm, slightly desaturated to feel real not glossy. Authentic office settings, not stock photo perfect.",
+  "key_phrases": [
+    "those 2 hours every night",
+    "the notes are already written",
+    "leave while it's still light out",
+    "just listen and document — that's it",
+    "built specifically for behavioral health",
+    "HIPAA-compliant from the ground up",
+    "works with your existing EHR"
+  ],
+  "references": [],
+  "emotional_register": "From: The 7pm dread of opening your laptop knowing you have two more hours of charting after an emotionally exhausting day, the guilt of choosing between thorough notes and getting home before your kids are asleep → To: The quiet, almost guilty relief of checking your phone after a session and seeing the note is done, the disorienting freedom of having your evenings back, the rediscovery of why you love this work when you're not drowning in admin",
+  "proof_element": "Saves 2 hours per day on average — based on actual usage data from 500+ behavioral health clinicians currently using JotPsych",
+  "hook_strategy": "Open with the specific moment: Close-up of a clock hitting 7:00pm. Cut to a therapist staring at a blank SOAP note template, then glancing at a family photo on their desk. Voiceover or text: 'Another night. Another two hours of notes between you and home.' Then contrast: 'What if the notes were already done?' Show the solution in action within the first 8 seconds — don't make them wait.",
+  "target_persona_details": "Sarah, 38, licensed clinical social worker in private practice. Sees 8-10 clients per day, primarily anxiety and depression. Ends her last session at 6pm, then faces 90-120 minutes of documentation. Bills insurance so notes must be thorough. Often works until 8-9pm, eats dinner alone, feels guilty about missing bedtime with her 6-year-old. Chose therapy to help people, now spends more time on notes than in sessions. Sunday nights are consumed by catching up on the week's documentation backlog. Has tried templates, dictation software, and 'just being faster' — nothing works. The specific pain moment: finishing a particularly heavy session about trauma or suicidality, emotionally drained, and having to immediately switch into clinical documentation mode while the emotional weight is still there.",
+  "brief_richness_score": 10.0,
+  "source_pattern_id": null,
+  "num_variants": 6,
+  "formats_requested": [
+    "single_image",
+    "video"
+  ],
+  "platforms": [
+    "meta",
+    "google"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "940cb7de-5dc1-4a1d-8a3b-a77655dec720",
+  "created_at": "2026-03-26T08:19:53.466667",
+  "raw_input": "[auto-generated from playbook] Combine the empathetic pain point approach that works with statistics that perform well in podcast ads",
+  "source": "playbook",
+  "target_audience": "bh_clinicians",
+  "value_proposition": "Combine the empathetic pain point approach that works with statistics that perform well in podcast ads",
+  "pain_point": "Spending 15+ hours per week on documentation is unsustainable and leads to burnout",
+  "desired_action": "Learn more",
+  "tone_direction": "Balance data and emotion. Feel like a supportive colleague showing you research that validates your experience. Validating and empathetic.",
+  "visual_direction": "Photography of a clinician at their desk surrounded by subtle visual metaphors of burden—stacks of papers, multiple screens open, late-night office lighting. Not dramatized or theatrical—understated and real. Statistic appears as text overlay in clear, bold typography. As video/slideshow progresses, show visual relief—screens closing, lights turning off, clinician leaving. Muted soft color palette—not bright, but not depressing. Thoughtful, serious, validating tone. Could include subtle data visualization element (simple bar chart showing time saved) but keep it secondary to human subject.",
+  "key_phrases": [
+    "You spend 15+ hours per week on documentation. That's not sustainable.",
+    "40% of clinicians report burnout from paperwork alone",
+    "The average therapy session: 50 minutes. The average note: 30 minutes."
+  ],
+  "references": [],
+  "num_variants": 6,
+  "formats_requested": [
+    "single_image",
+    "video"
+  ],
+  "platforms": [
+    "meta"
+  ]
+}

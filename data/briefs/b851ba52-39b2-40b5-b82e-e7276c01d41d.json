@@ -1,0 +1,25 @@
+{
+  "id": "b851ba52-39b2-40b5-b82e-e7276c01d41d",
+  "created_at": "2026-03-26T08:15:34.103012",
+  "raw_input": "[auto-generated from playbook] Scale the winning UGC question hook pattern with fresh creative focused on clinician daily documentation burden",
+  "source": "playbook",
+  "target_audience": "bh_clinicians",
+  "value_proposition": "Scale the winning UGC question hook pattern with fresh creative focused on clinician daily documentation burden",
+  "pain_point": "Clinicians spend excessive time on documentation, preventing them from leaving work on time and impacting work-life balance",
+  "desired_action": "Watch the video and click to 'See how it works'",
+  "tone_direction": "Conversational, first-person feeling, like advice from a colleague. Empathetic and validating. Avoid clinical jargon. Keep copy 40-60 words.",
+  "visual_direction": "Real-feeling UGC video clips of clinicians in authentic work moments (making morning coffee with subtle dread, at desk with files, checking clock at 7pm). Slightly shaky phone camera, natural lighting, no perfect staging. Shoot vertically for mobile. 10-15 seconds max. Question text overlay in first 2 seconds. Diverse clinicians in normal work attire. Warm earth tones in clothing and backgrounds. Avoid sterile white coats and harsh fluorescent lighting.",
+  "key_phrases": [
+    "How much time will you spend on notes today?",
+    "When was the last time you left work on time?",
+    "What would you do with 10 extra hours per week?"
+  ],
+  "references": [],
+  "num_variants": 6,
+  "formats_requested": [
+    "video"
+  ],
+  "platforms": [
+    "meta"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "65f2b917-15a1-4795-af40-ca1d88a76a7d",
+  "created_at": "2026-03-27T07:37:51.223527",
+  "raw_input": "Clinicians waste 2 hours on documentation every day. JotPsych listens and writes your SOAP notes automatically. Try it free.",
+  "source": "manual",
+  "target_audience": "bh_clinicians",
+  "value_proposition": "JotPsych eliminates the 2-hour daily documentation burden by automatically generating SOAP notes from your sessions, giving you your evenings back",
+  "pain_point": "Behavioral health clinicians lose 2 hours every day to documentation, turning fulfilling work into exhausting nights of charting that steal time from family, self-care, and rest",
+  "desired_action": "Start a free trial to experience automatic SOAP note generation from their next session",
+  "tone_direction": "Like a trusted supervisor who remembers what drew you to this work in the first place — not pitching a product, but offering permission to stop the grind. Gentle confrontation that names the unspoken resentment toward charting, followed by quiet hope that there's another way.",
+  "visual_direction": "Split screen or before/after: LEFT shows a therapist at 8pm, hunched over a laptop in dim kitchen light, cold dinner nearby, typing notes with glazed eyes. RIGHT shows the same therapist at 6:30pm, closing their laptop with a satisfied click, notes already done, light still in their eyes. Clean, intimate framing. Muted blues transitioning to warm golden hour tones. Props: laptop, clinical planner, coffee mug rings on the desk.",
+  "key_phrases": [
+    "What if your notes were already written?",
+    "2 hours. Every single day.",
+    "The session ends. Your notes are done.",
+    "Get your evenings back",
+    "JotPsych listens while you work",
+    "SOAP notes that write themselves"
+  ],
+  "references": [],
+  "emotional_register": "Bone-tired resignation at 7pm facing an empty note template after a heavy session → quiet exhale of relief when you realize the documentation is handled and you can actually leave on time",
+  "proof_element": "Saves an average of 2 hours per day on clinical documentation (cite internal user data or pre-launch research)",
+  "hook_strategy": "Open with the exact moment: Close-up on a clock reading 7:47pm. Cut to tired eyes staring at a blank SOAP note template. Voice-over or text: 'Another hour to go. At least.' Hold the discomfort for 3 seconds before introducing the alternative.",
+  "target_persona_details": "Maya, 34, licensed clinical social worker in private practice. Sees 7-9 clients per day (telehealth and in-person mix). Ends her last session at 6pm but doesn't leave the office until 8:30pm because documentation piles up. Eats dinner at her desk while charting. Fantasizes about the days in grad school when she thought she'd spend evenings reading research or doing yoga. Instead, she's transcribing her own memory of what happened four sessions ago. Sunday nights are for 'catch-up charting' from the week. Billing suffers because notes are late. Dreads Monday mornings not because of clients, but because of the backlog.",
+  "brief_richness_score": 9.2,
+  "source_pattern_id": null,
+  "num_variants": 6,
+  "formats_requested": [
+    "single_image",
+    "video"
+  ],
+  "platforms": [
+    "meta",
+    "google"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "42ef696e-9aab-4a5a-99fc-524c3ce73fb3",
+  "created_at": "2026-03-27T08:29:04.296207",
+  "raw_input": "[auto-generated from playbook] Documentation software that feels human, not like fighting another clunky EMR with endless dropdowns and robotic templates",
+  "source": "playbook",
+  "target_audience": "bh_clinicians",
+  "value_proposition": "Documentation software that feels human, not like fighting another clunky EMR with endless dropdowns and robotic templates",
+  "pain_point": "Current EMR systems force clinicians into rigid templates and unnatural language that takes longer than handwriting notes and strips away clinical voice",
+  "desired_action": "Click 'Learn More' to see the interface in action",
+  "tone_direction": "Warm technical friend—someone who understands both the clinical workflow and feels your pain with bureaucratic software. Evidence-based but never sterile. Like a UX designer who actually shadowed therapists explaining their solution over coffee.",
+  "visual_direction": "Screen capture with warm color treatment: amber/cream borders, soft drop shadows, warm gradient overlay at edges. Show recording starting, real-time transcription, finished note appearing. Human cursor movements (not robotic smoothness). Handwritten-style annotations pointing to features. Clean but cozy.",
+  "key_phrases": [
+    "Documentation that doesn't feel like documentation",
+    "Your EMR, but human",
+    "Notes that write themselves. Naturally.",
+    "Unlike your current system, JotPsych understands how clinicians actually talk",
+    "Record your session, get a complete note that sounds like you—not like a robot trying to pass a compliance audit",
+    "No templates. No clicking through endless dropdowns. Just real documentation."
+  ],
+  "references": [],
+  "emotional_register": "From frustrated resignation with clunky EMR systems that feel like obstacles to care → to relief that software can finally match how clinical thinking actually works",
+  "proof_element": "Shows actual product workflow in real-time: full note generated in under 60 seconds from session recording with zero template clicking",
+  "hook_strategy": "Screen starts on typical EMR interface (generic, recognizable dropdown hell). Text overlay: 'This is what documentation shouldn't feel like.' Quick cut/transition to JotPsych interface with warm color treatment and smooth workflow. Immediate visual contrast.",
+  "target_persona_details": "David, 45, PhD psychologist in group practice, tech-comfortable but burned by promises before. Daily routine: uses current EMR that his practice mandates, spends 20 minutes per client navigating dropdown menus to document a 50-minute session. Pain moment: 2pm between clients, clicking through diagnosis code trees for the 1000th time, thinking 'I have a doctorate and I'm basically doing data entry.' Wants better tools but skeptical of 'AI solutions' that are just chatbots.",
+  "brief_richness_score": 10.0,
+  "source_pattern_id": "Top Pattern #3: Screen Captures + Untested Combination #4 + Brief 2",
+  "num_variants": 6,
+  "formats_requested": [
+    "video",
+    "single_image"
+  ],
+  "platforms": [
+    "meta"
+  ]
+}

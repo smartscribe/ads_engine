@@ -1,0 +1,35 @@
+{
+  "id": "aed4b28f-ed01-4941-9958-602fa66b317e",
+  "created_at": "2026-03-27T07:39:18.829578",
+  "raw_input": "Clinicians waste 2 hours on documentation every day. JotPsych listens and writes your SOAP notes automatically. Try it free.",
+  "source": "manual",
+  "target_audience": "bh_clinicians",
+  "value_proposition": "Reclaim 2 hours of your day by letting AI handle your SOAP notes while you focus on what you trained for — helping people heal",
+  "pain_point": "The soul-crushing reality of finishing your last session at 5pm, knowing you have 2+ hours of documentation ahead before you can go home to your family",
+  "desired_action": "Start a free trial to experience finishing work on time for once",
+  "tone_direction": "Like a fellow clinician who finally found the exit door from the documentation prison — not evangelizing, just quietly sharing the relief of leaving work at 6pm instead of 8pm",
+  "visual_direction": "Split screen or before/after: LEFT side shows a therapist hunched over a laptop at 7:45pm in a darkened office, takeout container beside them, writing notes; RIGHT side shows the same person closing their laptop at 5:15pm, light still streaming through windows, walking out with their coat. Natural office lighting. Real clinical office setting with familiar EHR screens visible. Subject is a woman in her 30s-40s, professional but exhausted-turned-relieved",
+  "key_phrases": [
+    "2 hours back",
+    "writes your notes while you listen",
+    "leave work on time",
+    "documentation done automatically",
+    "focus on your clients, not your keyboard"
+  ],
+  "references": [],
+  "emotional_register": "From: That sinking feeling at 4pm when you realize you still have hours of charting ahead, and your partner texted asking when you'll be home → To: The disorienting surprise of realizing your notes are already done and you can actually make dinner with your family tonight",
+  "proof_element": "Saves an average of 2 hours per day on documentation (based on user data from 500+ behavioral health clinicians)",
+  "hook_strategy": "Open with a close-up of a clock showing 7:47pm, pan to reveal a therapist still typing SOAP notes in an empty, dark office building. Cut to text: 'What if your notes were already done?' Then show the alternative reality",
+  "target_persona_details": "Mid-career solo therapist, sees 8-10 clients per day back-to-back, grabs lunch at desk if at all, rushes through intake notes between sessions, stays 1.5-2 hours after last appointment to catch up on documentation while mentally replaying difficult sessions, constantly rescheduling personal commitments because charting ran long, Sunday scaries include dreading Monday's note backlog, feels guilty about resenting the documentation part of a job they otherwise love",
+  "brief_richness_score": 10.0,
+  "source_pattern_id": null,
+  "num_variants": 6,
+  "formats_requested": [
+    "single_image",
+    "video"
+  ],
+  "platforms": [
+    "meta",
+    "google"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "79e5c708-6bd0-4dc8-8a3c-2391e8142b88",
+  "created_at": "2026-03-26T08:19:53.466601",
+  "raw_input": "[auto-generated from playbook] Test whether warm color treatment can improve screen capture performance while maintaining the 'show don't tell' strength",
+  "source": "playbook",
+  "target_audience": "bh_clinicians",
+  "value_proposition": "Test whether warm color treatment can improve screen capture performance while maintaining the 'show don't tell' strength",
+  "pain_point": "Cold, clunky EMRs that don't feel human",
+  "desired_action": "Learn more",
+  "tone_direction": "Technical but warm. Evidence-based but not sterile.",
+  "visual_direction": "Clean screen capture video showing the actual product workflow: recording starting, transcription happening in real-time, finished note appearing. But treat it with warm visual design—amber/cream borders, soft drop shadows, maybe a warm gradient overlay at edges. Show cursor movements that feel human (not perfectly smooth motion graphics). Include some UI elements that emphasize personality—custom templates, natural language, edit simplicity. Add subtle annotations pointing to key features, but style them organically (handwritten style or casual callout bubbles, not corporate info graphics).",
+  "key_phrases": [
+    "Documentation that doesn't feel like documentation",
+    "Your EMR, but human",
+    "Notes that write themselves. Naturally."
+  ],
+  "references": [],
+  "num_variants": 6,
+  "formats_requested": [
+    "video",
+    "single_image"
+  ],
+  "platforms": [
+    "meta"
+  ]
+}
