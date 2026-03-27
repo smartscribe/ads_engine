@@ -19,6 +19,27 @@ Each entry includes:
 ## Log
 
 ### 2026-03-27 — Aryan
+**Fix logo loading, body truncation, browser hang, and dashboard 404**
+
+- `engine/generation/template_renderer.py` — Root cause of broken logo in Playwright screenshots: `page.set_content()` sets the base URL to `about:blank`, and Chromium blocks loading `file://` resources from that origin. Fixed by writing the rendered HTML to a temp file and using `page.goto("file://...")` instead. Also fixed a browser hang when calling `render()` multiple times: the cached `self._browser` was bound to a previous asyncio event loop and became invalid across `_run_async()` calls. Fixed by wrapping each sync `render()` in a coroutine that opens and closes the browser within a single event loop. Added `_truncate_body()` helper that truncates at sentence boundaries (max 280 chars) so PNGs never show CSS ellipsis or mid-sentence cuts. Added `import tempfile`.
+- `engine/generation/templates/meta_feed.html` — Removed `-webkit-line-clamp` from `.headline` and `.body-text`; truncation now handled in Python.
+- `dashboard/api/app.py` — Added redirect routes `/dashboard/review` → `/dashboard/pages/review.html` and `/` → review page. Added `RedirectResponse` import.
+- Re-rendered all 108 PNG variants: 108/108 OK, 0 failed.
+
+---
+
+### 2026-03-27 — Aryan
+**Regenerate 72 variants from playbook with all fixes applied**
+
+- Ran `python -m engine.orchestrator generate` to regenerate ads from the regression playbook.
+- 6 briefs extracted, 12 variants each = 72 total new variants.
+- All copy generated with the em dash ban in place: 0 em dashes found across all 72 variants.
+- All 72 PNGs rendered via Playwright with the fixed logo paths (~90KB each, no broken logos).
+- Dashboard CSS fixes (badge positioning, iframe anchoring) will take effect on page refresh.
+
+---
+
+### 2026-03-27 — Aryan
 **Fix "ima" badge bleedover and iframe positioning in review cards**
 
 - `dashboard/frontend/pages/review.html` — The `.asset-badge` span ("image" / "template") had CSS only for gallery mode (`.gallery-card .asset-badge`), not tinder mode. In tinder mode, the unstyled badge was a flex sibling of the `<img>`/`<iframe>`, causing the first few chars ("ima" from "image") to bleed through at the right edge. Added `.tinder-card .asset-area .asset-badge` with absolute positioning matching gallery mode.

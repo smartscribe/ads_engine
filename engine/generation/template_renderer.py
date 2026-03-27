@@ -14,6 +14,7 @@ from __future__ import annotations
 
 import asyncio
 import concurrent.futures
+import tempfile
 from pathlib import Path
 from typing import Optional
 import uuid
@@ -208,12 +209,19 @@ class TemplateRenderer:
         Returns:
             Absolute path to the rendered PNG file.
         """
-        return _run_async(
-            self._render_async(
-                headline, body, cta, template, color_scheme,
-                custom_colors, context, output_filename,
-            )
-        )
+        # Each sync render() call gets its own browser session.
+        # The browser is bound to an asyncio event loop; reusing it across
+        # separate _run_async() calls (each with a new loop) causes hangs.
+        async def _render_and_close():
+            try:
+                return await self._render_async(
+                    headline, body, cta, template, color_scheme,
+                    custom_colors, context, output_filename,
+                )
+            finally:
+                await self._close()
+
+        return _run_async(_render_and_close())
 
     def render_to_html(
         self,
@@ -343,6 +351,9 @@ class TemplateRenderer:
         if template.startswith("google_"):
             layout = template.replace("google_", "")
 
+        # Truncate body at word boundary so the template never shows CSS ellipsis
+        body = _truncate_body(body)
+
         # Build replacement map
         replacements = {
             "{{headline}}": _escape_html(headline),
@@ -373,10 +384,16 @@ class TemplateRenderer:
         for placeholder, value in replacements.items():
             html_content = html_content.replace(placeholder, value)
 
-        # Render
+        # Render via temp file so file:// asset URLs (logos, fonts) load correctly.
+        # set_content() uses about:blank as base, which Chromium blocks file:// from.
         browser = await self._get_browser()
         page = await browser.new_page(viewport={"width": width, "height": height})
-        await page.set_content(html_content)
+        with tempfile.NamedTemporaryFile(
+            mode="w", suffix=".html", delete=False, encoding="utf-8"
+        ) as tmp:
+            tmp.write(html_content)
+            tmp_path = tmp.name
+        await page.goto(f"file://{tmp_path}")
         await page.wait_for_load_state("networkidle")
 
         if output_filename:
@@ -388,6 +405,12 @@ class TemplateRenderer:
         output_path = ASSETS_DIR / filename
         await page.screenshot(path=str(output_path), type="png")
         await page.close()
+
+        # Clean up temp HTML file
+        try:
+            Path(tmp_path).unlink()
+        except Exception:
+            pass
 
         return str(output_path)
 
@@ -436,6 +459,22 @@ def _escape_html(text: str) -> str:
         .replace('"', "&quot;")
         .replace("'", "&#39;")
     )
+
+
+def _truncate_body(text: str, max_chars: int = 280) -> str:
+    """Truncate body copy to fit the template. Prefer ending at a complete sentence."""
+    if len(text) <= max_chars:
+        return text
+    chunk = text[:max_chars]
+    # Try to end at a sentence boundary (., !, ?)
+    for punct in [".", "!", "?"]:
+        last_sent = chunk.rfind(punct)
+        if last_sent > max_chars // 2:
+            return chunk[:last_sent + 1]
+    # Fall back to word boundary
+    last_space = chunk.rfind(" ")
+    if last_space > max_chars // 2:
+        return chunk[:last_space].rstrip(" ,;:")
 
 
 # ------------------------------------------------------------------

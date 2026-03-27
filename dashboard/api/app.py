@@ -27,7 +27,7 @@ from typing import Optional
 
 from fastapi import FastAPI, HTTPException, UploadFile, File
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi.responses import HTMLResponse, StreamingResponse
+from fastapi.responses import HTMLResponse, RedirectResponse, StreamingResponse
 from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel
 
@@ -51,6 +51,15 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+# Redirect convenience URLs → actual HTML files (must be before static mount)
+@app.get("/dashboard/review")
+async def redirect_review():
+    return RedirectResponse(url="/dashboard/pages/review.html")
+
+@app.get("/")
+async def redirect_root():
+    return RedirectResponse(url="/dashboard/pages/review.html")
 
 # Serve the frontend at /dashboard
 _frontend_dir = Path(__file__).parent.parent / "frontend"
