@@ -91,3 +91,25 @@ CpFN swings wildly week-to-week. No consistent trend — feast and famine patter
 ## For the Interns
 See brief.html for the full project brief, open questions, and ownership areas.
 The scaffolding is built. Your job is to make it real.
+
+## Roadmap
+
+### Generation Pipeline: Phased Approach
+
+**Phase 1 (current):** HTML/CSS template rendering via Playwright.
+All ad images are generated deterministically from brand-consistent templates.
+Full pixel control. Fast iteration. Clean regression data from day one.
+Templates: Meta feed 1080×1080, Meta story 1080×1920, Google Display 1200×628,
+and sub-variants (headline_hero, split_screen, stat_callout, testimonial, full_bleed, swipe_up).
+
+**Phase 2 (next):** Integrate AI image generation alongside templates.
+Candidates: Gemini Imagen, DALL-E, Flux, Ideogram, Midjourney (via API).
+Goals: photorealistic clinician scenes, product-in-use shots, UGC-style visuals.
+Key constraint: AI images must pass a human quality bar — no slop, no uncanny valley.
+The regression model will eventually tell us which image styles drive CpFN, informing
+whether AI-generated or template-rendered assets win.
+
+**Phase 3 (future):** Video generation at scale.
+Veo integration is scaffolded. Once image quality is proven, extend to short-form video
+(5–15s) for Meta Reels/Stories and Google Video. LoRA fine-tuning (Daniel's workstream)
+to lock in JotPsych visual identity across generated assets.

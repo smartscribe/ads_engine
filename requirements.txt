@@ -30,6 +30,11 @@ scipy>=1.12.0
 # HTTP requests (Meta API, Slack webhook)
 requests>=2.31.0
 
+# Template rendering (HTML → PNG/MP4 ad assets via headless Chromium)
+playwright>=1.40.0
+# ffmpeg is a system dependency for video rendering (WebM → MP4 conversion)
+# Install: brew install ffmpeg (macOS) or apt install ffmpeg (Linux)
+
 # Dev
 pytest>=8.0.0
 httpx>=0.27.0    # for FastAPI test client

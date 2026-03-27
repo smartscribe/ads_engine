@@ -1,10 +1,12 @@
 from __future__ import annotations
 
 import itertools
+import math
 import random
+from collections import Counter
 from typing import Optional
 
-from engine.models import CreativeBrief, RegressionResult
+from engine.models import CreativeBrief, CreativeTaxonomy, RegressionResult
 from engine.store import Store
 
 CTA_TYPE_MAP = {
@@ -21,6 +23,10 @@ CTA_TYPE_MAP = {
     "get_started": "try_free",
 }
 
+EXPLOIT_RATIO = 0.8
+FATIGUE_PENALTY_PER_CYCLE = 0.15
+MIN_DEPLOYMENTS_FOR_TESTED = 3
+
 
 class VariantMatrix:
     def __init__(self, store: Store):
@@ -36,32 +42,245 @@ class VariantMatrix:
         """
         Generate combinations of headlines x bodies x CTAs.
         Score each using regression coefficients if available.
-        Select top N (brief.num_variants) with diversity constraint.
+        
+        Uses explore/exploit framework:
+        - 80% exploit: best predicted scores with fatigue penalty
+        - 20% explore: novel, under-tested combinations
 
-        Returns list of dicts: [{"headline": dict, "body": dict, "cta": str, "predicted_score": float}, ...]
+        Returns list of dicts with strategy and fatigue_penalty fields.
         """
         regression = self.store.get_latest_regression()
         all_combos = list(itertools.product(headlines, bodies, ctas))
+        
+        n_total = brief.num_variants
+        n_exploit = math.floor(n_total * EXPLOIT_RATIO)
+        n_explore = n_total - n_exploit
 
         if regression and regression.coefficients:
-            scored = [
-                (combo, self._predict_score(combo, regression))
-                for combo in all_combos
-            ]
-            scored.sort(key=lambda x: x[1])  # lower predicted CpFN = better
-            selected = self._select_diverse(scored, n=brief.num_variants)
+            recent_taxonomies = self.store.get_recent_deployed_taxonomies(n_cycles=3)
+            feature_usage = self._compute_feature_usage(recent_taxonomies)
+            all_feature_counts = self._compute_all_time_feature_counts()
+            
+            scored_with_penalty = []
+            for combo in all_combos:
+                base_score = self._predict_score(combo, regression)
+                fatigue_penalty = self._compute_fatigue_penalty(combo, feature_usage)
+                adjusted_score = base_score + fatigue_penalty
+                exploration_score = self._compute_exploration_score(combo, all_feature_counts)
+                scored_with_penalty.append({
+                    "combo": combo,
+                    "base_score": base_score,
+                    "fatigue_penalty": fatigue_penalty,
+                    "adjusted_score": adjusted_score,
+                    "exploration_score": exploration_score,
+                })
+            
+            exploit_selected = self._select_exploit(
+                scored_with_penalty, n=n_exploit
+            )
+            
+            exploit_combos = {s["combo"] for s in exploit_selected}
+            remaining = [s for s in scored_with_penalty if s["combo"] not in exploit_combos]
+            
+            explore_selected = self._select_explore(remaining, n=n_explore)
+            
+            results = []
+            for item in exploit_selected:
+                results.append({
+                    "headline": item["combo"][0],
+                    "body": item["combo"][1],
+                    "cta": item["combo"][2],
+                    "predicted_score": item["base_score"],
+                    "fatigue_penalty": item["fatigue_penalty"],
+                    "strategy": "exploit",
+                })
+            for item in explore_selected:
+                results.append({
+                    "headline": item["combo"][0],
+                    "body": item["combo"][1],
+                    "cta": item["combo"][2],
+                    "predicted_score": item["base_score"],
+                    "fatigue_penalty": item["fatigue_penalty"],
+                    "strategy": "explore",
+                })
+            
+            return results
         else:
-            selected = self._select_diverse_random(all_combos, n=brief.num_variants)
+            selected = self._select_diverse_random(all_combos, n=n_total)
+            return [
+                {
+                    "headline": s[0],
+                    "body": s[1],
+                    "cta": s[2],
+                    "predicted_score": None,
+                    "fatigue_penalty": 0.0,
+                    "strategy": "random",
+                }
+                for (s, _) in selected
+            ]
 
-        return [
-            {
-                "headline": s[0],
-                "body": s[1],
-                "cta": s[2],
-                "predicted_score": score if regression else None,
-            }
-            for (s, score) in selected
+    def _compute_feature_usage(
+        self, taxonomies: list[CreativeTaxonomy]
+    ) -> Counter:
+        """Count how many times each feature appears in recent deployments."""
+        usage = Counter()
+        for tax in taxonomies:
+            usage[f"hook_type_{tax.hook_type}"] += 1
+            usage[f"message_type_{tax.message_type}"] += 1
+            usage[f"tone_{tax.tone}"] += 1
+            usage[f"cta_type_{tax.cta_type}"] += 1
+            if tax.uses_number:
+                usage["uses_number"] += 1
+            if tax.uses_question:
+                usage["uses_question"] += 1
+        return usage
+
+    def _compute_all_time_feature_counts(self) -> Counter:
+        """Count total deployments per feature across all time."""
+        counts = Counter()
+        from engine.models import AdStatus
+        
+        variants = self.store.get_all_variants()
+        deployed = [v for v in variants if v.status in {AdStatus.LIVE, AdStatus.GRADUATED}]
+        
+        for v in deployed:
+            if v.taxonomy is None:
+                continue
+            tax = v.taxonomy
+            counts[f"hook_type_{tax.hook_type}"] += 1
+            counts[f"message_type_{tax.message_type}"] += 1
+            counts[f"tone_{tax.tone}"] += 1
+            counts[f"cta_type_{tax.cta_type}"] += 1
+            if tax.uses_number:
+                counts["uses_number"] += 1
+            if tax.uses_question:
+                counts["uses_question"] += 1
+        
+        return counts
+
+    def _compute_fatigue_penalty(
+        self, combo: tuple, feature_usage: Counter
+    ) -> float:
+        """
+        Compute penalty for features that have been heavily used recently.
+        Higher usage = higher penalty (makes predicted CpFN worse).
+        """
+        headline, body, cta = combo
+        
+        features = [
+            f"hook_type_{headline.get('hook_type', '')}",
+            f"message_type_{body.get('message_type', '')}",
+            f"tone_{body.get('tone', '')}",
         ]
+        
+        cta_normalized = cta.lower().replace(" ", "_").replace("'", "")
+        cta_type = CTA_TYPE_MAP.get(cta_normalized, "learn_more")
+        features.append(f"cta_type_{cta_type}")
+        
+        combined_text = headline.get("text", "") + body.get("text", "")
+        if any(c.isdigit() for c in combined_text):
+            features.append("uses_number")
+        if "?" in headline.get("text", ""):
+            features.append("uses_question")
+        
+        max_cycles = max((feature_usage.get(f, 0) for f in features), default=0)
+        
+        penalty = FATIGUE_PENALTY_PER_CYCLE * max_cycles
+        return penalty
+
+    def _compute_exploration_score(
+        self, combo: tuple, all_feature_counts: Counter
+    ) -> float:
+        """
+        Score for exploration: count of features with < 3 deployments.
+        Higher = more novel/under-tested.
+        """
+        headline, body, cta = combo
+        
+        features = [
+            f"hook_type_{headline.get('hook_type', '')}",
+            f"message_type_{body.get('message_type', '')}",
+            f"tone_{body.get('tone', '')}",
+        ]
+        
+        cta_normalized = cta.lower().replace(" ", "_").replace("'", "")
+        cta_type = CTA_TYPE_MAP.get(cta_normalized, "learn_more")
+        features.append(f"cta_type_{cta_type}")
+        
+        under_tested = sum(
+            1 for f in features
+            if all_feature_counts.get(f, 0) < MIN_DEPLOYMENTS_FOR_TESTED
+        )
+        
+        return float(under_tested)
+
+    def _select_exploit(
+        self, scored: list[dict], n: int
+    ) -> list[dict]:
+        """
+        Select top N by adjusted_score (with fatigue penalty) while enforcing diversity.
+        """
+        scored_sorted = sorted(scored, key=lambda x: x["adjusted_score"])
+        
+        if len(scored_sorted) <= n:
+            return scored_sorted
+        
+        selected = [scored_sorted[0]]
+        
+        for item in scored_sorted[1:]:
+            if len(selected) >= n:
+                break
+            
+            combo = item["combo"]
+            headline, body, cta = combo
+            too_similar = False
+            
+            for s_item in selected:
+                s_h, s_b, s_c = s_item["combo"]
+                shared = 0
+                if headline.get("hook_type") == s_h.get("hook_type"):
+                    shared += 1
+                if body.get("message_type") == s_b.get("message_type"):
+                    shared += 1
+                if body.get("tone") == s_b.get("tone"):
+                    shared += 1
+                if cta == s_c:
+                    shared += 1
+                if shared >= 3:
+                    too_similar = True
+                    break
+            
+            if not too_similar:
+                selected.append(item)
+        
+        if len(selected) < n:
+            for item in scored_sorted:
+                if len(selected) >= n:
+                    break
+                if item not in selected:
+                    selected.append(item)
+        
+        return selected
+
+    def _select_explore(
+        self, remaining: list[dict], n: int
+    ) -> list[dict]:
+        """
+        Select N combinations to maximize exploration (under-tested features).
+        Break ties randomly.
+        """
+        if n <= 0:
+            return []
+        
+        for item in remaining:
+            item["_random_tiebreaker"] = random.random()
+        
+        sorted_by_exploration = sorted(
+            remaining,
+            key=lambda x: (-x["exploration_score"], x["_random_tiebreaker"])
+        )
+        
+        return sorted_by_exploration[:n]
 
     def _predict_score(
         self, combo: tuple, regression: RegressionResult
@@ -72,26 +291,81 @@ class VariantMatrix:
         Coefficient names are one-hot encoded like "hook_type_question",
         "message_type_pain_point", etc.  Sum matching coefficients;
         lower total = better predicted CpFN.  Missing keys contribute 0.
+        
+        Also handles interaction terms like "uses_number_x_hook_type_statistic".
         """
         headline, body, cta = combo
         coefficients = regression.coefficients
         score = 0.0
 
         hook = headline.get("hook_type", "")
-        score += coefficients.get(f"hook_type_{hook}", 0)
+        hook_feature = f"hook_type_{hook}"
+        score += coefficients.get(hook_feature, 0)
 
-        score += coefficients.get(f"message_type_{body.get('message_type', '')}", 0)
-        score += coefficients.get(f"tone_{body.get('tone', '')}", 0)
+        message_type = body.get("message_type", "")
+        message_feature = f"message_type_{message_type}"
+        score += coefficients.get(message_feature, 0)
+        
+        tone = body.get("tone", "")
+        tone_feature = f"tone_{tone}"
+        score += coefficients.get(tone_feature, 0)
 
         cta_normalized = cta.lower().replace(" ", "_").replace("'", "")
         cta_type = CTA_TYPE_MAP.get(cta_normalized, "learn_more")
-        score += coefficients.get(f"cta_type_{cta_type}", 0)
+        cta_feature = f"cta_type_{cta_type}"
+        score += coefficients.get(cta_feature, 0)
 
         combined_text = headline.get("text", "") + body.get("text", "")
-        if any(c.isdigit() for c in combined_text):
+        
+        uses_number = any(c.isdigit() for c in combined_text)
+        uses_question = "?" in headline.get("text", "")
+        
+        if uses_number:
             score += coefficients.get("uses_number", 0)
-        if "?" in headline.get("text", ""):
+        if uses_question:
             score += coefficients.get("uses_question", 0)
+
+        active_features = []
+        if hook_feature:
+            active_features.append(hook_feature)
+        if message_feature:
+            active_features.append(message_feature)
+        if tone_feature:
+            active_features.append(tone_feature)
+        if cta_feature:
+            active_features.append(cta_feature)
+        
+        boolean_values = {
+            "uses_number": 1 if uses_number else 0,
+            "uses_question": 1 if uses_question else 0,
+        }
+        
+        for coef_name, coef_value in coefficients.items():
+            if "_x_" not in coef_name:
+                continue
+            
+            parts = coef_name.split("_x_")
+            if len(parts) != 2:
+                continue
+            
+            feat_a, feat_b = parts
+            
+            val_a = 0
+            val_b = 0
+            
+            if feat_a in boolean_values:
+                val_a = boolean_values[feat_a]
+            elif feat_a in active_features:
+                val_a = 1
+            
+            if feat_b in boolean_values:
+                val_b = boolean_values[feat_b]
+            elif feat_b in active_features:
+                val_b = 1
+            
+            interaction_value = val_a * val_b
+            if interaction_value > 0:
+                score += coef_value
 
         return score
 

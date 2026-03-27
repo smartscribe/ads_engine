@@ -18,6 +18,181 @@ Each entry includes:
 
 ## Log
 
+### 2026-03-26 — Aryan
+**Review dashboard rebuilt: Tinder-style focus mode, structured chip feedback, scoreboard + learnings views**
+
+- `engine/models.py` — Added `ReviewFeedback` Pydantic model; extended `AdVariant` with `review_chips`, `review_duration_ms`, `asset_status`, `template_id`, `template_color_scheme` fields for structured feedback capture and three-tier asset rendering
+- `engine/review/chips.py` (**new**) — Chip taxonomy: 12 rejection chips and 5 approval chips, each mapping to a `CreativeTaxonomy` dimension and an `implied_preferences` dict for zero-parse structured signal
+- `engine/review/reviewer.py` — Added `submit_review()` (handles chips + duration, backward-compat with `review_notes`), `get_structured_feedback()` (chip frequency aggregates), `get_reviewer_impact()` (approval rate, chip coverage, avg review time per reviewer)
+- `engine/generation/template_renderer.py` — Added `render_to_html()` method returning fully-substituted HTML with HTTP `/brand/` paths instead of `file://` — enables iframe-based template preview without a screenshot step
+- `dashboard/api/app.py` — Added 5 new endpoints: `POST /api/review/submit`, `GET /api/template-preview/{id}`, `GET /api/feedback-chips`, `GET /api/scoreboard`, `GET /api/learnings`; updated `GET /api/review` to resolve `asset_status` per variant; added `/brand/` static mount for font/logo serving
+- `dashboard/frontend/pages/review.html` (**full rewrite**) — Three-view SPA (hash routing): Review Queue, Scoreboard, Learnings. Review Queue has Tinder/Gallery mode toggle. Tinder mode: single-card focus, approve/reject in one tap or keystroke (←/→), verdict recorded instantly, chip panel slides up as optional enrichment, `review_duration_ms` tracked per card, three-tier asset rendering (PNG → iframe template → text-only fallback). Gallery mode: multi-select grid, chip modal on verdict. Scoreboard: CpFN leaderboard with trend arrows and sortable columns. Learnings: playbook rules, chip aggregate bars, reviewer impact stats.
+
+- Core design principle: every review interaction under 3 seconds. Chips are never blocking — verdict records instantly, chips are bonus signal.
+- Kept vanilla JS + single-file approach (no React, no build step) to match the existing codebase style.
+- Old `POST /api/review/approve` and `POST /api/review/reject` endpoints preserved for backward compat; new `POST /api/review/submit` is the primary path from the rebuilt UI.
+
+---
+
+### 2026-03-26 — Aryan
+**Lock generation pipeline to v2 multi-agent + HTML template rendering as the only path**
+
+- `engine/generation/generator.py` — changed `generate()` default from `use_v2=False` to `use_v2=True`
+- `engine/orchestrator.py` — `submit_idea()` now always calls `generate_with_templates(use_v2=True)`; removed the v1 fallback branch and `--v2` CLI flag (always on now). `generate_from_playbook()` likewise uses `generate_with_templates()`.
+- `dashboard/api/app.py` — `/api/intake` endpoint updated to call `generate_with_templates(use_v2=True)` instead of `generate()` (which was using v1 + AI images)
+- `CLAUDE.md` — added Roadmap section documenting the three-phase generation approach: Phase 1 (templates, current), Phase 2 (AI image gen integration), Phase 3 (video at scale)
+
+Rationale: v2 (HeadlineAgent + BodyCopyAgent + CTAAgent + VariantMatrix) and template
+rendering are now the only production path. v1 (single Claude call) and AI image gen
+(Gemini/Veo) remain in the codebase for future use but are not called anywhere by default.
+
+---
+
+### 2026-03-27 — Aryan (session 8)
+**Playwright template rendering pipeline — Phase 1 of phased creative generation**
+
+Built the full Playwright-as-Python-library rendering pipeline for deterministic,
+pixel-perfect ad image/video generation. No AI image generation — full control
+over every pixel. This is the "caveman approach" baseline that feeds clean data
+to the regression model before layering in Gemini image gen in Phase 2.
+
+New files:
+- `engine/generation/templates/feed_1080x1080/headline_hero.html` — Big headline, brand gradient, strong CTA
+- `engine/generation/templates/feed_1080x1080/split_screen.html` — Two-column layout with brand cube pattern
+- `engine/generation/templates/feed_1080x1080/stat_callout.html` — Giant stat number with supporting copy
+- `engine/generation/templates/feed_1080x1080/testimonial.html` — Quote format with attribution line
+- `engine/generation/templates/story_1080x1920/full_bleed.html` — Full-screen with CSS fade-in/slide animations
+- `engine/generation/templates/story_1080x1920/swipe_up.html` — CTA-focused with bouncing arrow animation
+- `engine/generation/templates/display_1200x628/responsive.html` — Google Display responsive format
+- `engine/generation/template_selector.py` — Maps taxonomy tags + regression coefficients → template + color scheme
+- `engine/generation/video_renderer.py` — CSS animation → MP4 via Playwright recordVideo + ffmpeg
+
+Modified files:
+- `engine/generation/template_renderer.py` — Rewritten: subdirectory template support, extended context variables (stat_number, attribution, badge_text), proper async handling (thread pool fallback for nested event loops), accent/logomark color scheme support
+- `engine/generation/generator.py` — Added `generate_assets_from_selector()` (per-variant template selection via TemplateSelector + regression), updated `generate_with_templates()` with `use_selector` flag and memory/generation_context params
+- `engine/orchestrator.py` — Added `submit_idea_templates()` method and `idea-templates` CLI command
+- `requirements.txt` — Added ffmpeg system dependency note for video rendering
+
+Key decisions:
+- Playwright as Python library (not MCP server) — right architecture for automated pipeline
+- Phase 1 is template-only to get clean regression signal before introducing AI image gen
+- Story templates have CSS @keyframes animations captured via Playwright recordVideo → ffmpeg MP4
+- TemplateSelector uses taxonomy dimensions (hook_type, subject_matter, text_density) to pick layout, regression coefficients to bias color scheme toward what lowers CpFN
+- Templates support 4 color schemes (light/dark/warm/accent) mapped from taxonomy color_mood
+- Each variant gets its own template+scheme via selector — not one-size-fits-all
+
+---
+
+### 2026-03-26 — Aryan
+**Rewrote ROADMAP.md — reframed priorities around creative excellence loop**
+
+- `ROADMAP.md` — major restructure to reflect current sprint focus: make regress → memory → analysis → generation excellent before closing the full deploy/track loop. Reorganized into Phase 1 (creative quality), Phase 2 (feedback loop), Phase 3 (automation). P0 now covers 13 specific tasks across Analysis (A1–A4), Generation (G1–G6), Regression (R1–R2), and Memory (M1–M3) stages. Deploy/track items moved to P1. Added quality-first framing, per-stage rationale, and concrete audit steps.
+
+---
+
+### 2026-03-26 — Aryan
+**Created ROADMAP.md — full feature backlog with prioritization**
+
+- `ROADMAP.md` — new document covering all open tasks, prioritized P0→P3, with status, owner, sub-tasks, and dependency tracking. Also includes a completed-features reference table and open questions section.
+- Why: needed a single doc the whole team references before each session, so nothing gets lost between chats and priorities stay clear.
+
+---
+
+### 2026-03-27 — Aryan (session 7, part 2)
+**Three-layer Creative Memory Architecture — compounding knowledge system**
+
+Major refactor to implement the proposed three-layer memory architecture:
+
+New modules:
+- `engine/memory/models.py` — Complete dataclass-based model hierarchy:
+  - `StatisticalMemory`: PatternInsight (with trend, cycles_significant, confidence_tier), coefficient_history, fatiguing_patterns, interaction_insights
+  - `EditorialMemory`: ApprovalCluster (grouped by taxonomy signature), RejectionRule (generalized from multiple rejections), ReviewerProfile
+  - `MarketMemory`: CombinationStats, least_tested_combinations, platform_modifiers, competitive_observations
+  - `GenerationContext`: Structured prompt injection format with `to_prompt_block()` method
+- `engine/memory/builder.py` — `MemoryBuilder` class that assembles memory from all sources:
+  - `_build_statistical_memory()`: Converts regression to PatternInsights with real ad examples, trend detection from coefficient history
+  - `_build_editorial_memory()`: Clusters approvals by taxonomy signature, extracts generalized rejection rules
+  - `_build_market_memory()`: Tracks combination deployment counts for exploration
+  - `_detect_trend()`: Compares recent vs historical coefficients
+  - `build_generation_context()`: Creates prompt-ready GenerationContext
+
+Modified modules:
+- `engine/orchestrator.py`:
+  - Added `memory_builder` instance variable
+  - `_get_generation_context()` now returns `GenerationContext` (structured) instead of raw memory
+  - `run_daily_cycle()` builds memory using MemoryBuilder after regression
+- `engine/generation/generator.py` — `generate()` and `generate_copy_v2()` accept `generation_context` parameter
+- `engine/generation/copy_agents.py` — HeadlineAgent and BodyCopyAgent inject `context.to_prompt_block()` into system prompts
+- `engine/store.py` — Added `load_memory_v2()` and `_deserialize_memory_v2()` for v2 format
+
+Key improvements over v1:
+1. **PatternInsight is unified** — trend, cycles_significant, confidence_tier all in one object
+2. **Coefficient history** — tracks coefficients over multiple runs for real trend detection
+3. **ApprovalCluster** — groups by taxonomy signature with representative ad, prevents redundancy
+4. **RejectionRule** — generalizes from multiple rejections ("Don't combine playful + urgency")
+5. **MarketMemory** — explicit tracking for explore/exploit
+6. **GenerationContext** — structured injection format with `to_prompt_block()`
+
+The memory now compounds: cycle 1 has no data, cycle 5 identifies winning patterns, cycle 15 detects interaction effects and fatigue patterns. The generator gets progressively smarter.
+
+---
+
+### 2026-03-27 — Aryan (session 7, part 1)
+**Regression-to-Generation Loop Enhancements — six major features to close the gap between raw coefficients and smarter generation**
+
+New modules:
+- `engine/memory/__init__.py` — Memory system package init
+- `engine/memory/creative_memory.py` — `CreativeMemoryManager` class handling persistent knowledge accumulation. Structures four knowledge categories: winning patterns (top 50 approved/graduated variants ranked by CpFN), reviewer preferences (synthesized rules from approval/rejection patterns per reviewer per dimension), fatigue alerts (features whose rolling coefficient degraded vs all-time), and competitive intel (manual notes). `to_agent_context()` serializes memory into structured markdown for copy agent system prompts.
+- `engine/memory/playbook_translator.py` — `PlaybookTranslator` converts raw feature coefficients into actionable `PlaybookRule` objects with natural language instructions, good/bad examples from real variants. Uses Claude to translate "hook_type_statistic" into "Lead headlines with a specific number — '2 hours of charting saved' beats 'Save time on charting'".
+- `engine/generation/template_renderer.py` — `TemplateRenderer` renders HTML/CSS templates to PNG using Playwright. Supports `meta_feed` (1080x1080), `meta_story` (1080x1920), `google_300x250`, `google_728x90`, `google_160x600`. Four color schemes (light, dark, warm, accent) using brand kit colors. `render_batch()` for efficient multi-variant rendering.
+- `engine/generation/templates/` — Three HTML templates with inline CSS using brand fonts (Archivo/Inter) and colors (midnight, sunset glow, warm light, etc.). Responsive text handling with line-clamp, gradient accent bars, proper logo placement.
+
+Modified modules:
+- `engine/models.py`:
+  - Extended `RegressionResult` with `window_days` (rolling window size) and `sample_weights_used` (decay weighting flag)
+  - Added 6 new models: `WinningPattern`, `ReviewerPreference`, `FatigueAlert`, `CompetitiveIntel`, `PlaybookRule`, `CreativeMemory`
+- `engine/store.py`:
+  - Added `memory_dir` (data/memory/) with `save_memory()` and `load_memory()` for persistent CreativeMemory
+  - Added `get_recent_deployed_taxonomies(n_cycles)` for explore/exploit scoring
+- `engine/regression/model.py`:
+  - Added `_compute_decay_weights()` — exponential decay with configurable half-life (default 30 days)
+  - Rewrote `run()` to support WLS (weighted least squares) with decay, rolling window filtering, and interaction terms
+  - Added `add_interaction_terms()` — generates boolean×categorical products, caps at 20 by target correlation
+  - Added `run_rolling(window_days=30)` — separate OLS on recent data for fatigue detection
+  - `build_dataset()` now includes `last_activity_date` column for temporal weighting
+- `engine/generation/variant_matrix.py`:
+  - Replaced simple diversity selection with explore/exploit framework: 80% exploit slots (best predicted scores with fatigue penalty), 20% explore slots (maximize novel under-tested features)
+  - Added `_compute_fatigue_penalty()` — 15% penalty per cycle for heavily-used features
+  - Added `_compute_exploration_score()` — counts features with <3 total deployments
+  - Output now includes `strategy` ("exploit"/"explore") and `fatigue_penalty` fields
+  - `_predict_score()` handles interaction term coefficients (e.g., `uses_number_x_hook_type_statistic`)
+- `engine/generation/copy_agents.py`:
+  - `HeadlineAgent.generate()` and `BodyCopyAgent.generate()` now accept optional `memory` parameter
+  - When memory provided, injects full creative memory context (playbook rules with examples, fatigue warnings, winning patterns, reviewer preferences) instead of raw feature names
+- `engine/generation/generator.py`:
+  - Added `generate_assets_from_template()` — renders variants using HTML templates instead of AI
+  - Added `generate_with_templates()` — full pipeline using template rendering for static ads
+  - `generate()` and `generate_copy_v2()` now accept `memory` parameter
+- `engine/orchestrator.py`:
+  - Added `memory_manager` and `playbook_translator` instance variables
+  - Rewrote `_get_generation_context()` to build and return `CreativeMemory` object
+  - Updated `submit_idea()` and `generate_from_playbook()` to pass memory to generator
+  - Enhanced `run_daily_cycle()` to: run WLS regression with decay, run 30-day rolling regression, detect fatigue alerts, translate playbook rules, save updated memory
+
+Dependencies:
+- `requirements.txt` — added `playwright>=1.40.0`
+
+Why: The regression model produced coefficients, but the generator couldn't act on them effectively. "hook_type_statistic is good" doesn't help a copywriter — "Lead with a specific number in the headline: '2 hours of charting' beats 'Save time'" does. The six enhancements create a true learning loop: temporal decay ensures recent data matters more, rolling regression catches fatigue before it hurts, interaction terms find powerful combinations, explore/exploit prevents creative stagnation, playbook translation makes insights actionable, and HTML templates enable rapid brand-consistent iteration without AI slop.
+
+Key design decisions:
+- Memory is a single growing JSON document, not per-variant — simpler persistence, single source of truth
+- Fatigue penalty is additive to predicted CpFN (higher = worse) rather than multiplicative — more interpretable
+- Explore slots use under-tested feature count, not random — ensures systematic coverage
+- Templates use Playwright async but expose sync interface — simpler integration, handles event loop internally
+- Playbook translation runs once per regression cycle, not per generation — Claude calls are expensive
+
+---
+
 ### 2026-03-26 — Aryan (session 6)
 **Brand kit integration — colors, typography, voice, and product identity wired into all generators**
 

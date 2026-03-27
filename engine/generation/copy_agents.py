@@ -70,6 +70,8 @@ class HeadlineAgent:
         top_patterns: list = None,
         rejection_feedback: list = None,
         approval_feedback: list = None,
+        memory=None,
+        generation_context=None,
     ) -> list[dict]:
         print(f"[headline_agent] Generating {n} headlines...")
 
@@ -86,7 +88,16 @@ class HeadlineAgent:
             '\nReturn a JSON array where each element is: {"text": "...", "char_count": <int>, "hook_type": "<question|statistic|scenario|direct_benefit|provocative_claim>"}',
         ]
 
-        if top_patterns:
+        if generation_context is not None:
+            context_block = generation_context.to_prompt_block()
+            if context_block.strip():
+                system_parts.append(f"\nCREATIVE MEMORY — WHAT WE'VE LEARNED:\n{context_block}")
+        elif memory is not None:
+            from engine.memory.creative_memory import CreativeMemoryManager
+            memory_context = CreativeMemoryManager._to_agent_context_static(memory)
+            if memory_context.strip():
+                system_parts.append(f"\n{memory_context}")
+        elif top_patterns:
             system_parts.append(
                 f"\nThese patterns perform best in our ads: {json.dumps(top_patterns)}. "
                 "Generate headlines that leverage these insights."
@@ -151,6 +162,8 @@ class BodyCopyAgent:
         top_patterns: list = None,
         rejection_feedback: list = None,
         approval_feedback: list = None,
+        memory=None,
+        generation_context=None,
     ) -> list[dict]:
         print(f"[body_agent] Generating {n} body copy variants...")
 
@@ -168,7 +181,16 @@ class BodyCopyAgent:
             '\nReturn a JSON array where each element is: {"text": "...", "char_count": <int>, "message_type": "<pain_point|value_prop|social_proof|urgency|education|comparison>", "tone": "<clinical|warm|urgent|playful|authoritative|empathetic>"}',
         ]
 
-        if top_patterns:
+        if generation_context is not None:
+            context_block = generation_context.to_prompt_block()
+            if context_block.strip():
+                system_parts.append(f"\nCREATIVE MEMORY — WHAT WE'VE LEARNED:\n{context_block}")
+        elif memory is not None:
+            from engine.memory.creative_memory import CreativeMemoryManager
+            memory_context = CreativeMemoryManager._to_agent_context_static(memory)
+            if memory_context.strip():
+                system_parts.append(f"\n{memory_context}")
+        elif top_patterns:
             system_parts.append(
                 f"\nThese patterns perform best in our ads: {json.dumps(top_patterns)}. "
                 "Generate body copy that leverages these insights."

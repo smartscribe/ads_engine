@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=1080, height=1080">
+    <style>
+        @font-face {
+            font-family: 'Archivo';
+            src: url('{{font_path_archivo}}') format('truetype');
+            font-weight: 100 900;
+        }
+        @font-face {
+            font-family: 'Inter';
+            src: url('{{font_path_inter}}') format('truetype');
+            font-weight: 100 900;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            width: 1080px;
+            height: 1080px;
+            font-family: 'Inter', sans-serif;
+            background: {{background_color}};
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            position: relative;
+        }
+
+        .logo-top {
+            position: absolute;
+            top: 64px;
+            left: 72px;
+        }
+
+        .logo-top img { height: 48px; width: auto; }
+
+        .stat-block {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 12px;
+            margin-bottom: 40px;
+        }
+
+        .stat-number {
+            font-family: 'Archivo', sans-serif;
+            font-size: 180px;
+            font-weight: 800;
+            line-height: 1;
+            color: {{headline_color}};
+            letter-spacing: -6px;
+        }
+
+        .stat-unit {
+            font-family: 'Archivo', sans-serif;
+            font-size: 42px;
+            font-weight: 500;
+            color: {{headline_color}};
+            opacity: 0.7;
+            text-transform: uppercase;
+            letter-spacing: 4px;
+        }
+
+        .stat-divider {
+            width: 80px;
+            height: 5px;
+            background: {{accent_color}};
+            border-radius: 3px;
+            margin: 8px 0 24px;
+        }
+
+        .headline {
+            font-family: 'Archivo', sans-serif;
+            font-size: 52px;
+            font-weight: 600;
+            line-height: 1.15;
+            color: {{headline_color}};
+            max-width: 80%;
+            margin-bottom: 20px;
+        }
+
+        .body-text {
+            font-size: 30px;
+            font-weight: 400;
+            line-height: 1.45;
+            color: {{body_color}};
+            opacity: 0.8;
+            max-width: 70%;
+            margin-bottom: 32px;
+        }
+
+        .cta-button {
+            display: inline-flex;
+            align-items: center;
+            padding: 22px 52px;
+            background: {{cta_background}};
+            color: {{cta_text_color}};
+            font-family: 'Inter', sans-serif;
+            font-size: 26px;
+            font-weight: 600;
+            border-radius: 14px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.12);
+        }
+
+        .accent-strip {
+            position: absolute;
+            bottom: 0; left: 0; right: 0;
+            height: 10px;
+            background: linear-gradient(90deg, #1C1E85 0%, #FD96C9 50%, #813FE8 100%);
+        }
+    </style>
+</head>
+<body>
+    <div class="logo-top">
+        <img src="{{logo_path}}" alt="JotPsych">
+    </div>
+
+    <div class="stat-block">
+        <span class="stat-number">{{stat_number}}</span>
+        <span class="stat-unit">{{stat_unit}}</span>
+    </div>
+    <div class="stat-divider"></div>
+
+    <h1 class="headline">{{headline}}</h1>
+    <p class="body-text">{{body}}</p>
+    <span class="cta-button">{{cta}}</span>
+
+    <div class="accent-strip"></div>
+</body>
+</html>

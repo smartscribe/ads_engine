@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=1080, height=1080">
+    <style>
+        @font-face {
+            font-family: 'Archivo';
+            src: url('{{font_path_archivo}}') format('truetype');
+            font-weight: 100 900;
+        }
+        @font-face {
+            font-family: 'Inter';
+            src: url('{{font_path_inter}}') format('truetype');
+            font-weight: 100 900;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            width: 1080px;
+            height: 1080px;
+            font-family: 'Inter', sans-serif;
+            background: {{background_color}};
+            overflow: hidden;
+            position: relative;
+        }
+
+        .gradient-wash {
+            position: absolute;
+            inset: 0;
+            background: linear-gradient(
+                160deg,
+                {{background_color}} 0%,
+                {{background_color}} 55%,
+                {{accent_color}}22 100%
+            );
+        }
+
+        .container {
+            position: relative;
+            z-index: 1;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            padding: 72px 80px 64px;
+        }
+
+        .logo { height: 52px; width: auto; }
+
+        .content {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            gap: 28px;
+        }
+
+        .headline {
+            font-family: 'Archivo', sans-serif;
+            font-size: 88px;
+            font-weight: 700;
+            line-height: 1.05;
+            color: {{headline_color}};
+            letter-spacing: -1.5px;
+        }
+
+        .body-text {
+            font-size: 34px;
+            font-weight: 400;
+            line-height: 1.45;
+            color: {{body_color}};
+            opacity: 0.85;
+            max-width: 85%;
+        }
+
+        .cta-button {
+            display: inline-flex;
+            align-items: center;
+            padding: 22px 52px;
+            background: {{cta_background}};
+            color: {{cta_text_color}};
+            font-family: 'Inter', sans-serif;
+            font-size: 26px;
+            font-weight: 600;
+            border-radius: 14px;
+            align-self: flex-start;
+            margin-top: 8px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.12);
+        }
+
+        .accent-strip {
+            position: absolute;
+            bottom: 0; left: 0; right: 0;
+            height: 10px;
+            background: linear-gradient(90deg, #1C1E85 0%, #FD96C9 50%, #813FE8 100%);
+        }
+    </style>
+</head>
+<body>
+    <div class="gradient-wash"></div>
+    <div class="container">
+        <img src="{{logo_path}}" alt="JotPsych" class="logo">
+        <div class="content">
+            <h1 class="headline">{{headline}}</h1>
+            <p class="body-text">{{body}}</p>
+            <span class="cta-button">{{cta}}</span>
+        </div>
+    </div>
+    <div class="accent-strip"></div>
+</body>
+</html>

@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=1080, height=1920">
+    <title>JotPsych Story Ad</title>
+    <style>
+        @font-face {
+            font-family: 'Archivo';
+            src: url('{{font_path_archivo}}') format('truetype');
+            font-weight: 100 900;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'Inter';
+            src: url('{{font_path_inter}}') format('truetype');
+            font-weight: 100 900;
+            font-style: normal;
+        }
+        
+        :root {
+            --color-midnight: #1C1E85;
+            --color-sunset: #FD96C9;
+            --color-warm-light: #FFF2F5;
+            --color-deep-night: #1E125E;
+            --color-daylight: #FFF3C4;
+            --color-afterglow: #813FE8;
+            --color-white: #FFFFFF;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            width: 1080px;
+            height: 1920px;
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            background-color: {{background_color}};
+            display: flex;
+            flex-direction: column;
+            padding: 80px 64px;
+            overflow: hidden;
+            position: relative;
+        }
+        
+        .logo-container {
+            margin-bottom: 64px;
+            text-align: center;
+        }
+        
+        .logo {
+            height: 64px;
+            width: auto;
+        }
+        
+        .content {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+        }
+        
+        .headline {
+            font-family: 'Archivo', sans-serif;
+            font-size: 84px;
+            font-weight: 700;
+            line-height: 1.1;
+            color: {{headline_color}};
+            margin-bottom: 48px;
+            display: -webkit-box;
+            -webkit-line-clamp: 4;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+        
+        .body-text {
+            font-family: 'Inter', sans-serif;
+            font-size: 42px;
+            font-weight: 400;
+            line-height: 1.45;
+            color: {{body_color}};
+            margin-bottom: 64px;
+            display: -webkit-box;
+            -webkit-line-clamp: 5;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+            opacity: 0.9;
+            max-width: 90%;
+        }
+        
+        .cta-container {
+            width: 100%;
+            display: flex;
+            justify-content: center;
+        }
+        
+        .cta-button {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            padding: 28px 64px;
+            background-color: {{cta_background}};
+            color: {{cta_text_color}};
+            font-family: 'Inter', sans-serif;
+            font-size: 32px;
+            font-weight: 600;
+            border-radius: 16px;
+            text-decoration: none;
+            box-shadow: 0 6px 24px rgba(0, 0, 0, 0.2);
+        }
+        
+        .swipe-indicator {
+            position: absolute;
+            bottom: 120px;
+            left: 50%;
+            transform: translateX(-50%);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            opacity: 0.6;
+        }
+        
+        .swipe-arrow {
+            width: 40px;
+            height: 40px;
+            border-left: 4px solid {{body_color}};
+            border-bottom: 4px solid {{body_color}};
+            transform: rotate(-45deg);
+            margin-bottom: 8px;
+        }
+        
+        .swipe-text {
+            font-size: 24px;
+            color: {{body_color}};
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+        
+        .accent-gradient {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 12px;
+            background: linear-gradient(90deg, var(--color-sunset) 0%, var(--color-afterglow) 50%, var(--color-midnight) 100%);
+        }
+        
+        .bottom-accent {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            height: 12px;
+            background: linear-gradient(90deg, var(--color-midnight) 0%, var(--color-sunset) 50%, var(--color-afterglow) 100%);
+        }
+    </style>
+</head>
+<body>
+    <div class="accent-gradient"></div>
+    
+    <div class="logo-container">
+        <img src="{{logo_path}}" alt="JotPsych" class="logo">
+    </div>
+    
+    <div class="content">
+        <h1 class="headline">{{headline}}</h1>
+        <p class="body-text">{{body}}</p>
+        <div class="cta-container">
+            <span class="cta-button">{{cta}}</span>
+        </div>
+    </div>
+    
+    <div class="swipe-indicator">
+        <div class="swipe-arrow"></div>
+        <span class="swipe-text">Swipe Up</span>
+    </div>
+    
+    <div class="bottom-accent"></div>
+</body>
+</html>

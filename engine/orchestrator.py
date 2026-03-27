@@ -32,6 +32,10 @@ from engine.regression.model import CreativeRegressionModel
 from engine.notifications import SlackNotifier
 from engine.models import AdStatus, DecisionVerdict
 from engine.analysis.analyzer import MetaAdsExporter, CreativeAnalyzer
+from engine.memory.creative_memory import CreativeMemoryManager
+from engine.memory.playbook_translator import PlaybookTranslator
+from engine.memory.builder import MemoryBuilder
+from engine.memory.models import GenerationContext
 
 
 class Orchestrator:
@@ -53,6 +57,11 @@ class Orchestrator:
         self.regression = CreativeRegressionModel(self.store)
         self.exporter = MetaAdsExporter()
         self.analyzer = CreativeAnalyzer()
+        
+        # Memory system (v2 with three-layer architecture)
+        self.memory_builder = MemoryBuilder(self.store)
+        self.memory_manager = CreativeMemoryManager(self.store)  # Legacy
+        self.playbook_translator = PlaybookTranslator(self.store)
 
     # ------------------------------------------------------------------
     # Analysis: Export → Tag → Analyze → Playbook
@@ -95,20 +104,23 @@ class Orchestrator:
     # On-demand: Idea → Variants
     # ------------------------------------------------------------------
 
-    def submit_idea(self, raw_text: str, source: str = "manual", use_v2: bool = False) -> dict:
-        """Full pipeline: parse idea → generate variants → notify."""
+    def submit_idea(self, raw_text: str, source: str = "manual") -> dict:
+        """Full pipeline: parse idea → generate variants → notify.
+
+        Always uses the v2 multi-agent copy pipeline (HeadlineAgent + BodyCopyAgent +
+        CTAAgent) with Playwright HTML template rendering for images.
+        """
         brief = self.parser.parse(raw_text, source)
         self.store.save_brief(brief)
 
-        top_patterns, rejection_feedback, approval_feedback = self._get_generation_context()
-
-        variants = self.generator.generate(
+        context, rejection_feedback, approval_feedback = self._get_generation_context()
+        variants = self.generator.generate_with_templates(
             brief,
-            use_v2=use_v2,
-            store=self.store if use_v2 else None,
-            top_patterns=top_patterns if use_v2 else None,
-            rejection_feedback=rejection_feedback if use_v2 else None,
-            approval_feedback=approval_feedback if use_v2 else None,
+            use_v2=True,
+            store=self.store,
+            rejection_feedback=rejection_feedback,
+            approval_feedback=approval_feedback,
+            generation_context=context,
         )
 
         for v in variants:
@@ -122,8 +134,70 @@ class Orchestrator:
             "brief": brief.model_dump(),
         }
 
-    def _get_generation_context(self) -> tuple:
-        """Gather regression insights + rejection/approval feedback for informed generation."""
+    def submit_idea_templates(
+        self,
+        raw_text: str,
+        source: str = "manual",
+        use_selector: bool = True,
+    ) -> dict:
+        """
+        Full pipeline using Playwright template rendering instead of AI image gen.
+
+        parse idea → generate copy (v2) → select templates per variant → render
+        pixel-perfect PNGs/MP4s → notify.
+        """
+        brief = self.parser.parse(raw_text, source)
+        self.store.save_brief(brief)
+
+        context, rejection_feedback, approval_feedback = self._get_generation_context()
+
+        variants = self.generator.generate_with_templates(
+            brief,
+            use_v2=True,
+            store=self.store,
+            rejection_feedback=rejection_feedback,
+            approval_feedback=approval_feedback,
+            generation_context=context,
+            use_selector=use_selector,
+        )
+
+        for v in variants:
+            self.store.save_variant(v)
+
+        self.notifier.notify_variants_generated(brief.id, variants)
+
+        return {
+            "brief_id": brief.id,
+            "variants_generated": len(variants),
+            "asset_types": {
+                "image": len([v for v in variants if v.asset_type == "image"]),
+                "video": len([v for v in variants if v.asset_type == "video"]),
+            },
+            "templates_used": list({v.asset_path.split("/")[-1].rsplit("_", 1)[0] for v in variants}),
+            "brief": brief.model_dump(),
+        }
+
+    def _get_generation_context(self) -> tuple[GenerationContext, list, list]:
+        """
+        Build structured GenerationContext from the three-layer creative memory.
+        Returns context object plus raw feedback lists for backwards compatibility.
+        """
+        memory = self.memory_builder.build()
+        self.store.save_memory(memory)
+        
+        context = self.memory_builder.build_generation_context(memory)
+        
+        rejection_feedback = self.memory_manager.get_rejection_feedback(
+            self.memory_manager.load_or_create(), limit=10
+        )
+        approval_feedback = self.memory_manager.get_approval_feedback(
+            self.memory_manager.load_or_create(), limit=10
+        )
+        
+        return context, rejection_feedback, approval_feedback
+
+    def _get_legacy_generation_context(self) -> tuple:
+        """Legacy method for backwards compatibility."""
         top_patterns = None
         regression = self.store.get_latest_regression()
         if regression:
@@ -144,27 +218,27 @@ class Orchestrator:
     def generate_from_playbook(self) -> dict:
         """
         Automated loop closure: read playbook → extract briefs → generate ads.
-        No human intervention required. Uses v2 pipeline with regression
-        insights and rejection feedback.
+        No human intervention required. Uses v2 pipeline with three-layer
+        creative memory and regression insights.
         """
         briefs = self.analyzer.extract_briefs_from_playbook()
         if not briefs:
             return {"error": "No briefs extracted from playbook."}
 
-        top_patterns, rejection_feedback, approval_feedback = self._get_generation_context()
+        context, rejection_feedback, approval_feedback = self._get_generation_context()
 
         all_variants = []
         for i, brief in enumerate(briefs):
             print(f"[orchestrator] Generating ads for brief {i + 1}/{len(briefs)}: {brief.value_proposition[:60]}...")
             self.store.save_brief(brief)
 
-            variants = self.generator.generate(
+            variants = self.generator.generate_with_templates(
                 brief,
                 use_v2=True,
                 store=self.store,
-                top_patterns=top_patterns,
                 rejection_feedback=rejection_feedback,
                 approval_feedback=approval_feedback,
+                generation_context=context,
             )
 
             for v in variants:
@@ -332,19 +406,39 @@ class Orchestrator:
 
         results["auto_killed"] = len([d for d in kills if d.executed])
 
-        # 4. Run regression (only if enough data)
-        print(f"[{report_date}] Running regression model...")
+        # 4. Run regression (all-time with decay + rolling window)
+        print(f"[{report_date}] Running regression models...")
         try:
-            reg_result = self.regression.run()
+            reg_result = self.regression.run(use_weights=True)
+            rolling_result = self.regression.run_rolling(window_days=30)
+            
             if reg_result:
                 self.store.save_regression(reg_result)
                 self.notifier.notify_regression_update(reg_result)
                 results["regression"] = {
                     "r_squared": reg_result.r_squared,
                     "observations": reg_result.n_observations,
+                    "weighted": reg_result.sample_weights_used,
+                }
+                
+                memory = self.memory_builder.build()
+                self.store.save_memory(memory)
+                
+                results["memory"] = {
+                    "winning_patterns": len(memory.statistical.winning_patterns),
+                    "approval_clusters": len(memory.editorial.approval_clusters),
+                    "fatigue_alerts": len(memory.statistical.fatiguing_patterns),
+                    "data_quality": memory.data_quality_score,
                 }
             else:
                 results["regression"] = {"status": "insufficient_data"}
+                
+            if rolling_result:
+                results["rolling_regression"] = {
+                    "r_squared": rolling_result.r_squared,
+                    "observations": rolling_result.n_observations,
+                    "window_days": rolling_result.window_days,
+                }
         except Exception as e:
             print(f"Regression failed: {e}")
             results["regression"] = {"status": "error", "message": str(e)}
@@ -375,8 +469,7 @@ if __name__ == "__main__":
                 print("Usage: python -m engine.orchestrator idea 'your idea here'")
                 sys.exit(1)
             idea = " ".join(sys.argv[2:])
-            use_v2 = "--v2" in sys.argv
-            result = orchestrator.submit_idea(idea, use_v2=use_v2)
+            result = orchestrator.submit_idea(idea)
             print(f"Brief: {result['brief_id']}")
             print(f"Variants generated: {result['variants_generated']}")
 
@@ -427,9 +520,19 @@ if __name__ == "__main__":
             result = orchestrator.regenerate_assets(brief_id)
             print(json.dumps(result, indent=2, default=str))
 
+        elif command == "idea-templates":
+            if len(sys.argv) < 3:
+                print("Usage: python -m engine.orchestrator idea-templates 'your idea here'")
+                sys.exit(1)
+            idea = " ".join(sys.argv[2:])
+            result = orchestrator.submit_idea_templates(idea, use_selector=True)
+            print(f"Brief: {result['brief_id']}")
+            print(f"Variants generated: {result['variants_generated']}")
+            print(f"Asset types: {result['asset_types']}")
+
         else:
             print(f"Unknown command: {command}")
-            print("Commands: daily, idea, review, regression, export, analyze, generate, full-cycle, regenerate-assets")
+            print("Commands: daily, idea, idea-templates, review, regression, export, analyze, generate, full-cycle, regenerate-assets")
     else:
         print("JotPsych Ads Engine Orchestrator")
-        print("Commands: daily, idea '<text>' [--v2], review, regression, export, analyze, generate, full-cycle, regenerate-assets [brief_id]")
+        print("Commands: daily, idea '<text>', idea-templates '<text>', review, regression, export, analyze, generate, full-cycle, regenerate-assets [brief_id]")

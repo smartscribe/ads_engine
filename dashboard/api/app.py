@@ -5,6 +5,12 @@ Endpoints:
 - GET  /api/review          — variants pending review (gallery data)
 - POST /api/review/approve  — approve variant(s)
 - POST /api/review/reject   — reject variant(s) with feedback
+- POST /api/review/submit   — structured review submission (chips + duration)
+- GET  /api/review/history  — reviewed variants with feedback
+- GET  /api/feedback-chips  — chip taxonomy for the review UI
+- GET  /api/template-preview/{variant_id} — rendered HTML for iframe preview
+- GET  /api/scoreboard      — live ads ranked by CpFN
+- GET  /api/learnings       — regression insights + reviewer impact
 - GET  /api/performance     — portfolio performance overview
 - GET  /api/performance/{variant_id} — single variant performance
 - GET  /api/decisions       — latest scale/kill/wait decisions
@@ -21,16 +27,20 @@ from typing import Optional
 
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import HTMLResponse
 from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel
 
 from engine.store import Store
 from engine.intake.parser import IntakeParser
 from engine.generation.generator import CreativeGenerator
+from engine.generation.template_renderer import TemplateRenderer
 from engine.review.reviewer import ReviewPipeline
+from engine.review.chips import chips_for_api
 from engine.decisions.engine import DecisionEngine
 from engine.regression.model import CreativeRegressionModel
 from engine.notifications import SlackNotifier
+from engine.models import ReviewFeedback, AdStatus
 
 app = FastAPI(title="JotPsych Ads Engine", version="0.1.0")
 
@@ -51,12 +61,18 @@ _data_dir = Path(__file__).parent.parent.parent / "data"
 _data_dir.mkdir(parents=True, exist_ok=True)
 app.mount("/data", StaticFiles(directory=str(_data_dir)), name="data")
 
+# Serve brand assets (fonts, logos) so iframe template previews can load them via HTTP
+_brand_dir = Path(__file__).parent.parent.parent / "brand"
+_brand_dir.mkdir(parents=True, exist_ok=True)
+app.mount("/brand", StaticFiles(directory=str(_brand_dir)), name="brand")
+
 # Initialize services
 store = Store()
 review_pipeline = ReviewPipeline(store)
 decision_engine = DecisionEngine(store)
 regression_model = CreativeRegressionModel(store)
 notifier = SlackNotifier()
+_template_renderer = TemplateRenderer()
 
 
 # ---------------------------------------------------------------------------
@@ -86,7 +102,7 @@ async def submit_idea(idea: IdeaInput):
     store.save_brief(brief)
 
     generator = CreativeGenerator()
-    variants = generator.generate(brief)
+    variants = generator.generate_with_templates(brief, use_v2=True, store=store)
     for v in variants:
         store.save_variant(v)
 
@@ -105,11 +121,23 @@ async def submit_idea(idea: IdeaInput):
 
 @app.get("/api/review")
 async def get_review_queue():
-    """Get all variants pending review."""
+    """Get all variants pending review, with asset_status for three-tier rendering."""
     pending = review_pipeline.get_pending_review()
+    variants_out = []
+    for v in pending:
+        d = v.model_dump()
+        # Resolve asset_status at serve time: file on disk → rendered, template stored → template_available
+        asset_p = Path(v.asset_path) if v.asset_path else None
+        if asset_p and asset_p.exists() and not asset_p.suffix == ".placeholder":
+            d["asset_status"] = "rendered"
+        elif v.template_id:
+            d["asset_status"] = "template_available"
+        else:
+            d["asset_status"] = "pending"
+        variants_out.append(d)
     return {
-        "count": len(pending),
-        "variants": [v.model_dump() for v in pending],
+        "count": len(variants_out),
+        "variants": variants_out,
     }
 
 
@@ -129,6 +157,181 @@ async def reject_variants(action: ReviewAction):
         raise HTTPException(status_code=400, detail="Rejection notes are required")
     rejected = review_pipeline.batch_reject(action.variant_ids, action.reviewer, action.notes)
     return {"rejected": len(rejected)}
+
+
+@app.post("/api/review/submit")
+async def submit_review(feedback: ReviewFeedback):
+    """
+    Submit a structured review from the dashboard.
+    Verdict is recorded immediately. Chips and freeform note are optional enrichment.
+    """
+    try:
+        variant = review_pipeline.submit_review(feedback)
+        return {
+            "variant_id": variant.id,
+            "status": variant.status.value,
+            "chips_recorded": len(variant.review_chips),
+        }
+    except FileNotFoundError:
+        raise HTTPException(status_code=404, detail=f"Variant {feedback.variant_id} not found")
+
+
+@app.get("/api/feedback-chips")
+async def get_feedback_chips():
+    """Return the chip taxonomy for the review UI."""
+    return chips_for_api()
+
+
+@app.get("/api/template-preview/{variant_id}", response_class=HTMLResponse)
+async def get_template_preview(variant_id: str):
+    """
+    Return fully-substituted HTML for a variant's template.
+    Embedded in an iframe in the review dashboard so ads display even without
+    a rendered screenshot. Fonts and logos are served via /brand/ HTTP paths.
+    """
+    try:
+        variant = store.get_variant(variant_id)
+    except FileNotFoundError:
+        raise HTTPException(status_code=404, detail="Variant not found")
+
+    template_id = variant.template_id
+    color_scheme = variant.template_color_scheme or "light"
+
+    if not template_id:
+        # Fall back to a generic feed template if none is stored on the variant
+        template_id = "feed_1080x1080/headline_hero"
+
+    try:
+        html = _template_renderer.render_to_html(
+            headline=variant.headline,
+            body=variant.primary_text,
+            cta=variant.cta_button,
+            template=template_id,
+            color_scheme=color_scheme,
+            brand_base_url="/brand",
+        )
+        return HTMLResponse(content=html)
+    except Exception as exc:
+        raise HTTPException(status_code=500, detail=f"Template render failed: {exc}")
+
+
+@app.get("/api/scoreboard")
+async def get_scoreboard():
+    """
+    Live ads leaderboard ranked by cost-per-first-note (ascending = better).
+    Returns LIVE and GRADUATED variants with their latest performance snapshot.
+    """
+    live_variants = store.get_variants_by_status(AdStatus.LIVE)
+    graduated_variants = store.get_variants_by_status(AdStatus.GRADUATED)
+    all_active = live_variants + graduated_variants
+
+    if not all_active:
+        return {"entries": [], "portfolio_avg_cpfn": None}
+
+    entries = []
+    total_spend = 0.0
+    total_notes = 0
+
+    for v in all_active:
+        snapshots = store.get_snapshots_for_variant(v.id)
+        if not snapshots:
+            continue
+
+        v_spend = sum(s.spend for s in snapshots)
+        v_notes = sum(s.first_note_completions for s in snapshots)
+        v_cpfn = v_spend / v_notes if v_notes > 0 else None
+        total_spend += v_spend
+        total_notes += v_notes
+
+        # Simple trend: compare last 3 days CpFN vs overall
+        sorted_snaps = sorted(snapshots, key=lambda s: s.date)
+        recent = sorted_snaps[-3:] if len(sorted_snaps) >= 3 else sorted_snaps
+        recent_spend = sum(s.spend for s in recent)
+        recent_notes = sum(s.first_note_completions for s in recent)
+        recent_cpfn = recent_spend / recent_notes if recent_notes > 0 else None
+
+        if v_cpfn and recent_cpfn:
+            if recent_cpfn < v_cpfn * 0.9:
+                trend = "improving"
+            elif recent_cpfn > v_cpfn * 1.1:
+                trend = "declining"
+            else:
+                trend = "stable"
+        else:
+            trend = "unknown"
+
+        decisions = store.get_decisions_for_variant(v.id)
+        latest_decision = decisions[-1].verdict.value if decisions else None
+
+        entries.append({
+            "variant_id": v.id,
+            "headline": v.headline,
+            "status": v.status.value,
+            "platform": v.taxonomy.platform.value if v.taxonomy else None,
+            "format": v.taxonomy.format.value if v.taxonomy else None,
+            "total_spend": round(v_spend, 2),
+            "total_notes": v_notes,
+            "cpfn": round(v_cpfn, 2) if v_cpfn else None,
+            "trend": trend,
+            "days_live": len(set(s.date for s in snapshots)),
+            "latest_decision": latest_decision,
+        })
+
+    # Sort by CpFN ascending (lower = better), None last
+    entries.sort(key=lambda e: (e["cpfn"] is None, e["cpfn"] or 0))
+
+    portfolio_avg_cpfn = round(total_spend / total_notes, 2) if total_notes > 0 else None
+
+    return {
+        "entries": entries,
+        "portfolio_avg_cpfn": portfolio_avg_cpfn,
+        "total_active": len(entries),
+    }
+
+
+@app.get("/api/learnings")
+async def get_learnings(reviewer: Optional[str] = None):
+    """
+    Creative insights for the Learnings dashboard view:
+    - Regression-derived playbook rules (plain English)
+    - Structured feedback aggregates from chip selections
+    - Reviewer impact stats (if reviewer param supplied)
+    """
+    # Playbook rules from regression
+    try:
+        playbook = regression_model.get_creative_playbook()
+        playbook_rules = playbook.get("rules", []) if isinstance(playbook, dict) else []
+    except Exception:
+        playbook_rules = []
+
+    # Creative memory summary
+    memory = store.load_memory()
+    memory_summary = {}
+    if memory:
+        memory_summary = {
+            "winning_patterns": len(memory.winning_patterns),
+            "fatigue_alerts": [
+                {"feature": a.feature, "delta_pct": a.delta_pct}
+                for a in memory.fatigue_alerts[:3]
+            ],
+            "total_analyzed": memory.total_variants_analyzed,
+            "last_regression": memory.last_regression_date.isoformat() if memory.last_regression_date else None,
+        }
+
+    # Structured chip feedback aggregates
+    chip_aggregates = review_pipeline.get_structured_feedback()
+
+    # Reviewer impact (optional)
+    reviewer_impact = None
+    if reviewer:
+        reviewer_impact = review_pipeline.get_reviewer_impact(reviewer)
+
+    return {
+        "playbook_rules": playbook_rules,
+        "memory_summary": memory_summary,
+        "chip_aggregates": chip_aggregates,
+        "reviewer_impact": reviewer_impact,
+    }
 
 
 # ---------------------------------------------------------------------------
@@ -320,7 +523,6 @@ async def list_existing_ads(min_spend: float = 0):
 @app.get("/api/review/history")
 async def get_review_history():
     """Get all reviewed variants (approved + rejected) with feedback."""
-    from engine.models import AdStatus
     approved = store.get_variants_by_status(AdStatus.APPROVED)
     rejected = store.get_variants_by_status(AdStatus.REJECTED)
     return {

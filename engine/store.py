@@ -16,6 +16,8 @@ from engine.models import (
     AdVariant,
     AdStatus,
     CreativeBrief,
+    CreativeMemory,
+    CreativeTaxonomy,
     DecisionRecord,
     ExistingAd,
     PerformanceSnapshot,
@@ -37,9 +39,10 @@ class Store:
         self.decisions_dir = self.base / "performance" / "decisions"
         self.regression_dir = self.base / "models"
         self.existing_ads_dir = self.base / "existing_creative"
+        self.memory_dir = self.base / "memory"
 
         # Ensure directories exist
-        for d in [self.briefs_dir, self.variants_dir, self.snapshots_dir, self.decisions_dir, self.regression_dir, self.existing_ads_dir]:
+        for d in [self.briefs_dir, self.variants_dir, self.snapshots_dir, self.decisions_dir, self.regression_dir, self.existing_ads_dir, self.memory_dir]:
             d.mkdir(parents=True, exist_ok=True)
 
     # -- Briefs --
@@ -154,3 +157,199 @@ class Store:
             if ad.meta_ad_id == meta_ad_id:
                 return ad
         return None
+
+    # -- Creative Memory --
+
+    def save_memory(self, memory) -> None:
+        """Save creative memory (supports both v1 and v2 formats)."""
+        import dataclasses
+        import json
+        
+        path = self.memory_dir / "creative_memory.json"
+        
+        if hasattr(memory, 'model_dump_json'):
+            path.write_text(memory.model_dump_json(indent=2))
+        elif dataclasses.is_dataclass(memory):
+            def convert(obj):
+                if dataclasses.is_dataclass(obj):
+                    return {k: convert(v) for k, v in dataclasses.asdict(obj).items()}
+                elif isinstance(obj, (list, tuple)):
+                    return [convert(v) for v in obj]
+                elif isinstance(obj, dict):
+                    return {k: convert(v) for k, v in obj.items()}
+                elif hasattr(obj, 'isoformat'):
+                    return obj.isoformat()
+                elif hasattr(obj, 'value'):
+                    return obj.value
+                return obj
+            
+            path.write_text(json.dumps(convert(memory), indent=2, default=str))
+        else:
+            raise ValueError(f"Unknown memory type: {type(memory)}")
+
+    def load_memory(self) -> Optional[CreativeMemory]:
+        """Load creative memory (returns None if not found)."""
+        path = self.memory_dir / "creative_memory.json"
+        if not path.exists():
+            return None
+        return CreativeMemory.model_validate_json(path.read_text())
+
+    def load_memory_v2(self):
+        """Load v2 creative memory (dataclass-based)."""
+        import json
+        from engine.memory.models import CreativeMemory as CreativeMemoryV2
+        
+        path = self.memory_dir / "creative_memory.json"
+        if not path.exists():
+            return None
+        
+        data = json.loads(path.read_text())
+        
+        if data.get("version", 1) >= 2:
+            return self._deserialize_memory_v2(data)
+        
+        return None
+
+    def _deserialize_memory_v2(self, data: dict):
+        """Deserialize v2 memory from JSON dict."""
+        from datetime import date, datetime
+        from engine.memory.models import (
+            CreativeMemory,
+            StatisticalMemory,
+            EditorialMemory,
+            MarketMemory,
+            PatternInsight,
+            FatigueAlert,
+            InteractionInsight,
+            TimestampedCoefficient,
+            ApprovalCluster,
+            RejectionRule,
+            ReviewerProfile,
+            CombinationStats,
+        )
+        
+        def parse_date(s):
+            if s is None:
+                return None
+            if isinstance(s, date):
+                return s
+            return date.fromisoformat(s) if s else None
+        
+        def parse_datetime(s):
+            if s is None:
+                return None
+            if isinstance(s, datetime):
+                return s
+            return datetime.fromisoformat(s) if s else None
+        
+        stat_data = data.get("statistical", {})
+        stat = StatisticalMemory(
+            winning_patterns=[
+                PatternInsight(
+                    first_significant_date=parse_date(p.get("first_significant_date")),
+                    **{k: v for k, v in p.items() if k != "first_significant_date"}
+                )
+                for p in stat_data.get("winning_patterns", [])
+            ],
+            losing_patterns=[
+                PatternInsight(
+                    first_significant_date=parse_date(p.get("first_significant_date")),
+                    **{k: v for k, v in p.items() if k != "first_significant_date"}
+                )
+                for p in stat_data.get("losing_patterns", [])
+            ],
+            coefficient_history={
+                k: [TimestampedCoefficient(
+                    run_date=parse_date(c.get("run_date")),
+                    **{ck: cv for ck, cv in c.items() if ck != "run_date"}
+                ) for c in v]
+                for k, v in stat_data.get("coefficient_history", {}).items()
+            },
+            fatiguing_patterns=[
+                FatigueAlert(
+                    first_deployed=parse_date(f.get("first_deployed")),
+                    **{k: v for k, v in f.items() if k != "first_deployed"}
+                )
+                for f in stat_data.get("fatiguing_patterns", [])
+            ],
+            r_squared=stat_data.get("r_squared", 0),
+            n_observations=stat_data.get("n_observations", 0),
+            last_run_date=parse_date(stat_data.get("last_run_date")),
+        )
+        
+        edit_data = data.get("editorial", {})
+        edit = EditorialMemory(
+            approval_clusters=[
+                ApprovalCluster(**c) for c in edit_data.get("approval_clusters", [])
+            ],
+            rejection_rules=[
+                RejectionRule(**r) for r in edit_data.get("rejection_rules", [])
+            ],
+            reviewer_profiles={
+                k: ReviewerProfile(
+                    last_review_date=parse_date(v.get("last_review_date")),
+                    **{rk: rv for rk, rv in v.items() if rk != "last_review_date"}
+                )
+                for k, v in edit_data.get("reviewer_profiles", {}).items()
+            },
+            total_approvals=edit_data.get("total_approvals", 0),
+            total_rejections=edit_data.get("total_rejections", 0),
+        )
+        
+        market_data = data.get("market", {})
+        market = MarketMemory(
+            combination_stats={
+                k: CombinationStats(
+                    last_deployed=parse_date(v.get("last_deployed")),
+                    **{ck: cv for ck, cv in v.items() if ck != "last_deployed"}
+                )
+                for k, v in market_data.get("combination_stats", {}).items()
+            },
+            least_tested_combinations=[
+                tuple(c) for c in market_data.get("least_tested_combinations", [])
+            ],
+        )
+        
+        return CreativeMemory(
+            id=data.get("id", ""),
+            statistical=stat,
+            editorial=edit,
+            market=market,
+            built_at=parse_datetime(data.get("built_at")),
+            data_quality_score=data.get("data_quality_score", 0),
+            version=data.get("version", 2),
+        )
+
+    # -- Deployed Taxonomies (for explore/exploit) --
+
+    def get_recent_deployed_taxonomies(self, n_cycles: int = 3) -> list[CreativeTaxonomy]:
+        """
+        Get taxonomy data from recently deployed variants.
+        Uses n_cycles worth of regression runs to determine recency.
+        """
+        regression_files = sorted(self.regression_dir.glob("regression_*.json"), reverse=True)
+        
+        if len(regression_files) < n_cycles:
+            cutoff_date = None
+        else:
+            oldest_file = regression_files[n_cycles - 1]
+            oldest_result = RegressionResult.model_validate_json(oldest_file.read_text())
+            cutoff_date = oldest_result.run_date
+        
+        deployed_statuses = {AdStatus.LIVE, AdStatus.GRADUATED}
+        variants = self.get_all_variants()
+        
+        taxonomies = []
+        for v in variants:
+            if v.status not in deployed_statuses:
+                continue
+            if v.taxonomy is None:
+                continue
+            
+            if cutoff_date is not None:
+                if v.created_at.date() < cutoff_date:
+                    continue
+            
+            taxonomies.append(v.taxonomy)
+        
+        return taxonomies

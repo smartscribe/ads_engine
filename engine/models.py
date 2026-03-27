@@ -131,6 +131,12 @@ class AdVariant(BaseModel):
     asset_path: str               # Path to image/video file
     asset_type: str               # "image" or "video"
 
+    # Asset rendering metadata
+    # "rendered" = screenshot PNG exists, "template_available" = HTML template can be previewed, "pending" = neither
+    asset_status: str = "pending"
+    template_id: Optional[str] = None    # e.g. "feed_1080x1080/headline_hero"
+    template_color_scheme: Optional[str] = None
+
     # Taxonomy (auto-tagged)
     taxonomy: CreativeTaxonomy
 
@@ -140,9 +146,30 @@ class AdVariant(BaseModel):
     reviewer: Optional[str] = None
     reviewed_at: Optional[datetime] = None
 
+    # Structured review feedback (new fields alongside review_notes for backward compat)
+    review_chips: list[str] = []         # e.g. ["headline_too_generic", "wrong_tone"]
+    review_duration_ms: int = 0          # how long the reviewer looked at this card
+
     # Platform IDs (populated after deployment)
     meta_ad_id: Optional[str] = None
     google_ad_id: Optional[str] = None
+
+
+# ---------------------------------------------------------------------------
+# Review Feedback — structured review signal from the dashboard
+# ---------------------------------------------------------------------------
+
+class ReviewFeedback(BaseModel):
+    """
+    Submitted from the review dashboard when a reviewer approves or rejects a variant.
+    The verdict is recorded instantly; chips and notes are optional enrichment.
+    """
+    variant_id: str
+    reviewer: str
+    verdict: str                          # "approved" | "rejected"
+    chips: list[str] = []                 # e.g. ["headline_too_generic", "wrong_tone"]
+    freeform_note: Optional[str] = None   # Optional freeform text (stored as review_notes)
+    review_duration_ms: int = 0           # ms from card shown to verdict tap
 
 
 # ---------------------------------------------------------------------------
@@ -236,6 +263,10 @@ class RegressionResult(BaseModel):
     durbin_watson: float                  # Autocorrelation check
     condition_number: float               # Multicollinearity diagnostic
 
+    # Rolling window / weighted regression metadata
+    window_days: Optional[int] = None     # None = all-time, else rolling window size
+    sample_weights_used: bool = False     # True if exponential decay weights applied
+
 
 # ---------------------------------------------------------------------------
 # Existing Ad — imported from Meta/Google for analysis
@@ -278,3 +309,93 @@ class ExistingAd(BaseModel):
     # Taxonomy (populated by Claude analysis)
     taxonomy: Optional[CreativeTaxonomy] = None
     analyzed_at: Optional[datetime] = None
+
+
+# ---------------------------------------------------------------------------
+# Creative Memory — persistent knowledge base across generation cycles
+# ---------------------------------------------------------------------------
+
+class WinningPattern(BaseModel):
+    """A proven winning ad pattern with performance data."""
+    variant_id: str
+    headline: str
+    body: str
+    cta: str
+    taxonomy: dict                         # Full taxonomy as dict for flexibility
+    reviewer: Optional[str] = None
+    review_notes: Optional[str] = None
+    cost_per_first_note: Optional[float] = None
+    status: str                            # graduated > approved > live
+    added_at: datetime = Field(default_factory=datetime.utcnow)
+
+
+class ReviewerPreference(BaseModel):
+    """Synthesized preference pattern for a specific reviewer."""
+    reviewer: str
+    dimension: str                         # e.g. "tone", "hook_type"
+    pattern: str                           # e.g. "approves question hooks 4:1 vs direct"
+    approval_rate: float                   # 0-1
+    sample_size: int
+    last_updated: datetime = Field(default_factory=datetime.utcnow)
+
+
+class FatigueAlert(BaseModel):
+    """Warning when a feature's recent performance is worse than all-time."""
+    feature: str
+    all_time_coefficient: float
+    rolling_coefficient: float
+    delta_pct: float                       # (rolling - all_time) / abs(all_time) * 100
+    detected_at: date
+    window_days: int = 30
+
+
+class CompetitiveIntel(BaseModel):
+    """Manually added competitive insight or swipe file note."""
+    id: str = Field(default_factory=lambda: str(uuid.uuid4()))
+    content: str
+    source: Optional[str] = None           # URL, competitor name, etc.
+    tags: list[str] = []
+    added_by: Optional[str] = None
+    added_at: datetime = Field(default_factory=datetime.utcnow)
+
+
+class PlaybookRule(BaseModel):
+    """Actionable generation rule derived from regression coefficients."""
+    feature: str                           # Raw feature name (e.g. hook_type_statistic)
+    direction: str                         # "use_more" or "avoid"
+    confidence: str                        # "high" (p<0.01) or "moderate" (p<0.05)
+    rule: str                              # Natural language instruction
+    good_examples: list[str] = []          # 2-3 concrete examples from approved variants
+    bad_examples: list[str] = []           # 2-3 examples from rejected/poor variants
+    coefficient: float
+    p_value: float
+
+
+class CreativeMemory(BaseModel):
+    """
+    Persistent knowledge base that accumulates across generation cycles.
+    Loaded fresh on every generate call. Stores winning patterns, reviewer
+    preferences, fatigue alerts, playbook rules, and competitive intel.
+    """
+    id: str = Field(default_factory=lambda: str(uuid.uuid4()))
+    created_at: datetime = Field(default_factory=datetime.utcnow)
+    updated_at: datetime = Field(default_factory=datetime.utcnow)
+
+    # Winning patterns — capped at 50, ranked by CpFN
+    winning_patterns: list[WinningPattern] = []
+
+    # Reviewer preferences — synthesized from approval/rejection patterns
+    reviewer_preferences: list[ReviewerPreference] = []
+
+    # Fatigue alerts — features whose rolling perf is worse than all-time
+    fatigue_alerts: list[FatigueAlert] = []
+
+    # Playbook rules — actionable instructions with examples
+    playbook_rules: list[PlaybookRule] = []
+
+    # Competitive intel — manually added notes
+    competitive_intel: list[CompetitiveIntel] = []
+
+    # Metadata
+    last_regression_date: Optional[date] = None
+    total_variants_analyzed: int = 0
