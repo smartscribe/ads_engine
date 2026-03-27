@@ -19,6 +19,14 @@ Each entry includes:
 ## Log
 
 ### 2026-03-27 — Aryan
+**Created METHODOLOGY.md — detailed reasoning document for the regression-to-review loop**
+
+- `METHODOLOGY.md` — New document explaining the full methodology of the ads engine, focused on the five stages we've built so far: Analysis (MECE taxonomy, Claude tagging, portfolio analysis), Regression (WLS, interaction terms, holdout/bootstrap/stability validation, confidence tiers), Memory (three-layer architecture, decay/archiving, playbook translation, GenerationContext), Generation (multi-agent copy, quality filter, explore/exploit variant matrix, Playwright template rendering), and Review (Tinder-style UI, structured chips, duration tracking, feedback-to-memory loop). Covers the reasoning behind every major design decision: why linear regression over ML, why templates before AI images, why chips instead of free text, why memory compounds but generation is stateless, why 80/20 explore/exploit, why build review before deploy.
+- Referenced CHANGELOG.md and ROADMAP.md for historical context and evolution of decisions.
+
+---
+
+### 2026-03-27 — Aryan
 **Fix logo loading, body truncation, browser hang, and dashboard 404**
 
 - `engine/generation/template_renderer.py` — Root cause of broken logo in Playwright screenshots: `page.set_content()` sets the base URL to `about:blank`, and Chromium blocks loading `file://` resources from that origin. Fixed by writing the rendered HTML to a temp file and using `page.goto("file://...")` instead. Also fixed a browser hang when calling `render()` multiple times: the cached `self._browser` was bound to a previous asyncio event loop and became invalid across `_run_async()` calls. Fixed by wrapping each sync `render()` in a coroutine that opens and closes the browser within a single event loop. Added `_truncate_body()` helper that truncates at sentence boundaries (max 280 chars) so PNGs never show CSS ellipsis or mid-sentence cuts. Added `import tempfile`.
