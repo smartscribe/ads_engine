@@ -49,12 +49,15 @@ CATEGORICAL_FEATURES = [
     "format",
     "platform",
     "placement",
+    "social_proof_type",
+    "copy_length_bin",
 ]
 
 # Numerical features used directly
 NUMERICAL_FEATURES = [
     "headline_word_count",
     "copy_reading_level",
+    "days_since_first_run",
 ]
 
 # Boolean features (0/1)
@@ -63,6 +66,9 @@ BOOLEAN_FEATURES = [
     "uses_question",
     "uses_first_person",
     "uses_social_proof",
+    "contains_specific_number",
+    "shows_product_ui",
+    "human_face_visible",
 ]
 
 
@@ -70,15 +76,24 @@ class CreativeRegressionModel:
     def __init__(self, store: Store):
         self.store = store
 
-    def build_dataset(self, include_existing: bool = True) -> pd.DataFrame:
+    def build_dataset(
+        self,
+        include_existing: bool = True,
+        min_tag_confidence: float = 0.0,
+    ) -> pd.DataFrame:
         """
         Build the regression dataset by joining variant taxonomy with performance data.
         Each row = one ad variant with aggregated performance metrics.
         When include_existing=True, also incorporates imported Meta/Google ads.
-        
-        Includes a 'last_activity_date' column for temporal decay weighting.
+
+        min_tag_confidence: if > 0.0, filter out rows where any taxonomy field has
+        tagging_confidence below this threshold. (A1) Default 0.0 = include all.
+
+        Includes a 'last_activity_date' column for temporal decay weighting,
+        and a 'days_since_first_run' column for fatigue modeling.
         """
         rows = []
+        today = date.today()
 
         # Engine-generated variants (need snapshot aggregation)
         for variant in self.store.get_all_variants():
@@ -97,32 +112,49 @@ class CreativeRegressionModel:
             cpa = total_spend / total_first_notes if total_first_notes > 0 else None
             conversion_rate = total_first_notes / total_clicks if total_clicks > 0 else 0
             ctr = total_clicks / total_impressions if total_impressions > 0 else 0
-            
+
             last_snapshot_date = max(s.date for s in snapshots)
+            first_snapshot_date = min(s.date for s in snapshots)
+            days_since_first_run = (today - first_snapshot_date).days
 
             tax = variant.taxonomy
+            if min_tag_confidence > 0.0 and tax.tagging_confidence:
+                if any(conf < min_tag_confidence for conf in tax.tagging_confidence.values()):
+                    continue
+
             rows.append(self._taxonomy_row(
                 variant_id=variant.id, cpa=cpa, conversion_rate=conversion_rate,
                 ctr=ctr, total_spend=total_spend, total_first_notes=total_first_notes,
                 tax=tax, last_activity_date=last_snapshot_date,
+                days_since_first_run=days_since_first_run,
             ))
 
         # Imported existing ads (performance is pre-aggregated)
         if include_existing:
             for ad in self.store.get_existing_ads_with_taxonomy():
+                # Filter out swipe files and any explicitly excluded ads (A4)
+                if ad.exclude_from_regression:
+                    continue
                 if ad.spend < 20 or ad.impressions < 100:
                     continue
 
                 cpa = ad.cost_per_conversion
                 conversion_rate = ad.conversions / ad.clicks if ad.clicks > 0 else 0
                 ctr = ad.ctr
-                
-                activity_date = ad.analyzed_at.date() if ad.analyzed_at else date.today()
+
+                activity_date = ad.analyzed_at.date() if ad.analyzed_at else today
+                days_since_first_run = (today - activity_date).days
+
+                tax = ad.taxonomy
+                if min_tag_confidence > 0.0 and tax.tagging_confidence:
+                    if any(conf < min_tag_confidence for conf in tax.tagging_confidence.values()):
+                        continue
 
                 rows.append(self._taxonomy_row(
                     variant_id=ad.id, cpa=cpa, conversion_rate=conversion_rate,
                     ctr=ctr, total_spend=ad.spend, total_first_notes=ad.conversions,
-                    tax=ad.taxonomy, last_activity_date=activity_date,
+                    tax=tax, last_activity_date=activity_date,
+                    days_since_first_run=days_since_first_run,
                 ))
 
         return pd.DataFrame(rows)
@@ -132,6 +164,7 @@ class CreativeRegressionModel:
         variant_id: str, cpa, conversion_rate: float, ctr: float,
         total_spend: float, total_first_notes: int, tax,
         last_activity_date: Optional[date] = None,
+        days_since_first_run: int = 0,
     ) -> dict:
         return {
             "variant_id": variant_id,
@@ -141,6 +174,7 @@ class CreativeRegressionModel:
             "total_spend": total_spend,
             "total_first_notes": total_first_notes,
             "last_activity_date": last_activity_date or date.today(),
+            "days_since_first_run": days_since_first_run,
             "message_type": tax.message_type,
             "hook_type": tax.hook_type,
             "cta_type": tax.cta_type,
@@ -158,6 +192,12 @@ class CreativeRegressionModel:
             "uses_question": int(tax.uses_question),
             "uses_first_person": int(tax.uses_first_person),
             "uses_social_proof": int(tax.uses_social_proof),
+            # Extended features (R2)
+            "contains_specific_number": int(getattr(tax, "contains_specific_number", False)),
+            "shows_product_ui": int(getattr(tax, "shows_product_ui", False)),
+            "human_face_visible": int(getattr(tax, "human_face_visible", False)),
+            "social_proof_type": getattr(tax, "social_proof_type", "none"),
+            "copy_length_bin": getattr(tax, "copy_length_bin", "medium"),
         }
 
     def encode_features(self, df: pd.DataFrame) -> tuple[pd.DataFrame, list[str]]:
@@ -398,19 +438,41 @@ class CreativeRegressionModel:
         t_stats = beta / se
         p_values = [2 * (1 - scipy_stats.t.cdf(abs(t), df=n - k)) for t in t_stats]
 
-        # Confidence intervals
         t_crit = scipy_stats.t.ppf(0.975, df=n - k)
-        ci = {
-            name: (float(beta[i] - t_crit * se[i]), float(beta[i] + t_crit * se[i]))
-            for i, name in enumerate(all_names)
-        }
 
         # Build coefficient dict (skip intercept for reporting)
-        coefficients = {name: float(beta[i]) for i, name in enumerate(all_names) if name != "intercept"}
-        p_vals = {name: float(p_values[i]) for i, name in enumerate(all_names) if name != "intercept"}
+        # Sanitize NaN/inf → 0.0 for coefficients, 1.0 for p-values
+        def _safe_float(v: float, default: float = 0.0) -> float:
+            try:
+                f = float(v)
+                return default if (np.isnan(f) or np.isinf(f)) else f
+            except (TypeError, ValueError):
+                return default
 
-        # VIF scores
-        vif_scores = self.calculate_vif(X_encoded)
+        coefficients = {
+            name: _safe_float(beta[i])
+            for i, name in enumerate(all_names) if name != "intercept"
+        }
+        p_vals = {
+            name: _safe_float(p_values[i], default=1.0)
+            for i, name in enumerate(all_names) if name != "intercept"
+        }
+
+        # VIF scores — cap inf at 999.0, drop None
+        raw_vif = self.calculate_vif(X_encoded)
+        vif_scores = {
+            k: min(_safe_float(v, default=999.0), 999.0)
+            for k, v in raw_vif.items()
+        }
+
+        # Sanitize confidence intervals (NaN → 0.0)
+        ci = {
+            name: (
+                _safe_float(beta[i] - t_crit * se[i]),
+                _safe_float(beta[i] + t_crit * se[i]),
+            )
+            for i, name in enumerate(all_names)
+        }
 
         # Durbin-Watson statistic
         diffs = np.diff(residuals)
@@ -449,6 +511,182 @@ class CreativeRegressionModel:
             window_days=window_days,
             sample_weights_used=use_weights and window_days is None,
         )
+
+    def run_with_validation(
+        self,
+        target: str = "cost_per_first_note",
+        min_observations: int = 10,
+        use_weights: bool = True,
+        half_life_days: int = DEFAULT_HALF_LIFE_DAYS,
+        window_days: Optional[int] = None,
+        include_interactions: bool = True,
+        max_interactions: int = 20,
+        n_bootstrap: int = 1000,
+        n_stability_runs: int = 10,
+        subsample_fraction: float = 0.8,
+    ) -> Optional[RegressionResult]:
+        """
+        Run regression with full validation suite:
+        - 80/20 train/test holdout (measures overfitting)
+        - Bootstrap confidence intervals (1000 resamples, non-parametric)
+        - Coefficient stability across 10 random 80% subsamples
+        - Confidence tier assignment: high/moderate/directional/unreliable
+
+        If test_r_squared < 0.15, the model is not learning real signal — coefficients
+        should not be used for generation guidance (fall back to editorial memory).
+
+        Tiering:
+          high       = bootstrap CI doesn't cross 0 AND stability std < 0.3 * |coeff|
+          moderate   = bootstrap CI doesn't cross 0
+          directional = p < 0.10
+          unreliable  = everything else
+        """
+        # Get the base result first
+        base_result = self.run(
+            target=target,
+            min_observations=min_observations,
+            use_weights=use_weights,
+            half_life_days=half_life_days,
+            window_days=window_days,
+            include_interactions=include_interactions,
+            max_interactions=max_interactions,
+        )
+        if base_result is None:
+            return None
+
+        # Build the full dataset for validation
+        df = self.build_dataset()
+        if window_days is not None:
+            cutoff = date.today() - timedelta(days=window_days)
+            df = df[df["last_activity_date"] >= cutoff]
+        df = df.dropna(subset=[target])
+
+        if len(df) < max(min_observations * 2, 20):
+            # Not enough data for meaningful holdout — return base result with no validation
+            return base_result
+
+        n_total = len(df)
+        feature_names_set = set(base_result.coefficients.keys())
+
+        def _fit_subset(subset_df: pd.DataFrame) -> Optional[dict[str, float]]:
+            """Fit regression on a subset DataFrame, return coefficients dict."""
+            if len(subset_df) < min_observations:
+                return None
+            y_sub = subset_df[target].values
+            X_sub, names_sub = self.encode_features(subset_df)
+            non_zero = X_sub.columns[X_sub.var() > 0]
+            X_sub = X_sub[non_zero]
+            names_sub = list(non_zero)
+            X_mat = np.column_stack([np.ones(len(X_sub)), X_sub.values])
+            try:
+                beta_sub = np.linalg.lstsq(X_mat, y_sub, rcond=None)[0]
+            except np.linalg.LinAlgError:
+                return None
+            all_names_sub = ["intercept"] + names_sub
+            return {n: float(beta_sub[i]) for i, n in enumerate(all_names_sub) if n != "intercept"}
+
+        # --- Holdout validation (80/20 split) ---
+        test_r_squared: Optional[float] = None
+        try:
+            from sklearn.model_selection import train_test_split
+            train_idx, test_idx = train_test_split(
+                range(n_total), test_size=0.2, random_state=42
+            )
+            train_df = df.iloc[train_idx].reset_index(drop=True)
+            test_df = df.iloc[test_idx].reset_index(drop=True)
+
+            train_coeffs = _fit_subset(train_df)
+            if train_coeffs is not None and len(test_df) >= 5:
+                # Encode test set with same feature names as train
+                X_test_raw, test_names = self.encode_features(test_df)
+                X_test_raw = X_test_raw.reindex(
+                    columns=[c for c in base_result.coefficients.keys()
+                             if c in X_test_raw.columns],
+                    fill_value=0
+                )
+                X_test_mat = np.column_stack([np.ones(len(X_test_raw)), X_test_raw.values])
+                beta_vec = np.array([
+                    train_coeffs.get(n, 0.0) for n in X_test_raw.columns
+                ])
+                # Add intercept (not in coefficients dict)
+                y_test = test_df[target].values
+                # Simple prediction using only available features
+                y_pred = X_test_raw.values @ beta_vec
+                ss_res = np.sum((y_test - y_pred) ** 2)
+                ss_tot = np.sum((y_test - np.mean(y_test)) ** 2)
+                test_r_squared = float(1 - ss_res / ss_tot) if ss_tot > 0 else 0.0
+                test_r_squared = round(max(-1.0, min(1.0, test_r_squared)), 4)
+        except Exception as e:
+            print(f"[regression] Holdout validation failed: {e}")
+
+        # --- Bootstrap confidence intervals (1000 resamples) ---
+        bootstrap_coeffs: dict[str, list[float]] = {f: [] for f in feature_names_set}
+        for _ in range(n_bootstrap):
+            boot_df = df.sample(n=n_total, replace=True, random_state=None)
+            boot_df = boot_df.reset_index(drop=True)
+            coeffs = _fit_subset(boot_df)
+            if coeffs:
+                for feat in feature_names_set:
+                    if feat in coeffs:
+                        bootstrap_coeffs[feat].append(coeffs[feat])
+
+        bootstrap_ci: dict[str, tuple[float, float, float]] = {}
+        for feat, vals in bootstrap_coeffs.items():
+            if len(vals) >= 100:
+                point = base_result.coefficients.get(feat, 0.0)
+                lower = float(np.percentile(vals, 2.5))
+                upper = float(np.percentile(vals, 97.5))
+                bootstrap_ci[feat] = (round(point, 4), round(lower, 4), round(upper, 4))
+
+        # --- Coefficient stability (10 subsample runs) ---
+        stability_coeffs: dict[str, list[float]] = {f: [] for f in feature_names_set}
+        n_subsample = int(n_total * subsample_fraction)
+        for _ in range(n_stability_runs):
+            sub_df = df.sample(n=n_subsample, replace=False, random_state=None)
+            sub_df = sub_df.reset_index(drop=True)
+            coeffs = _fit_subset(sub_df)
+            if coeffs:
+                for feat in feature_names_set:
+                    if feat in coeffs:
+                        stability_coeffs[feat].append(coeffs[feat])
+
+        coefficient_stability: dict[str, float] = {}
+        for feat, vals in stability_coeffs.items():
+            if len(vals) >= 5:
+                coefficient_stability[feat] = round(float(np.std(vals)), 4)
+
+        # --- Confidence tiers ---
+        confidence_tiers: dict[str, str] = {}
+        for feat in feature_names_set:
+            p_value = base_result.p_values.get(feat, 1.0)
+            coeff = base_result.coefficients.get(feat, 0.0)
+            ci_tuple = bootstrap_ci.get(feat)
+            stability_std = coefficient_stability.get(feat)
+
+            ci_crosses_zero = True
+            if ci_tuple is not None:
+                lower_ci, upper_ci = ci_tuple[1], ci_tuple[2]
+                ci_crosses_zero = lower_ci <= 0 <= upper_ci
+
+            is_stable = False
+            if stability_std is not None and abs(coeff) > 0:
+                is_stable = stability_std < 0.3 * abs(coeff)
+
+            if not ci_crosses_zero and is_stable:
+                confidence_tiers[feat] = "high"
+            elif not ci_crosses_zero:
+                confidence_tiers[feat] = "moderate"
+            elif p_value < 0.10:
+                confidence_tiers[feat] = "directional"
+            else:
+                confidence_tiers[feat] = "unreliable"
+
+        # Return enriched result
+        base_result.test_r_squared = test_r_squared
+        base_result.bootstrap_ci = bootstrap_ci
+        base_result.coefficient_stability = coefficient_stability
+        base_result.confidence_tiers = confidence_tiers
+        return base_result
 
     def run_rolling(
         self,

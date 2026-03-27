@@ -351,5 +351,118 @@ class Store:
                     continue
             
             taxonomies.append(v.taxonomy)
-        
+
         return taxonomies
+
+    def archive_memory_patterns(self, patterns: list, reason: str) -> None:
+        """
+        Move memory patterns to archive storage (M3).
+        Archived patterns are preserved for historical analysis but excluded from
+        active generation context.
+        """
+        import json
+        from datetime import date
+
+        archive_dir = self.memory_dir / "archive"
+        archive_dir.mkdir(parents=True, exist_ok=True)
+
+        archive_file = archive_dir / f"{date.today().isoformat()}.json"
+
+        def _serialize(p):
+            import dataclasses
+            if dataclasses.is_dataclass(p):
+                d = dataclasses.asdict(p)
+                return {k: v.isoformat() if hasattr(v, "isoformat") else v for k, v in d.items()}
+            elif hasattr(p, "model_dump"):
+                return p.model_dump()
+            return str(p)
+
+        archive_data = {
+            "archived_at": date.today().isoformat(),
+            "reason": reason,
+            "count": len(patterns),
+            "patterns": [_serialize(p) for p in patterns],
+        }
+
+        existing = []
+        if archive_file.exists():
+            try:
+                existing = json.loads(archive_file.read_text())
+                if not isinstance(existing, list):
+                    existing = [existing]
+            except Exception:
+                pass
+        existing.append(archive_data)
+        archive_file.write_text(json.dumps(existing, indent=2, default=str))
+
+    def get_memory_status(self) -> dict:
+        """
+        Return memory health summary for GET /api/memory/status (M3).
+        """
+        import json
+        from datetime import date
+
+        status = {
+            "memory_exists": False,
+            "pattern_count": 0,
+            "winning_count": 0,
+            "losing_count": 0,
+            "confidence_distribution": {},
+            "oldest_pattern_date": None,
+            "data_quality_score": 0.0,
+            "archived_count": 0,
+        }
+
+        path = self.memory_dir / "creative_memory.json"
+        if not path.exists():
+            return status
+
+        try:
+            data = json.loads(path.read_text())
+            status["memory_exists"] = True
+
+            statistical = data.get("statistical", {})
+            winning = statistical.get("winning_patterns", [])
+            losing = statistical.get("losing_patterns", [])
+
+            status["winning_count"] = len(winning)
+            status["losing_count"] = len(losing)
+            status["pattern_count"] = len(winning) + len(losing)
+            status["data_quality_score"] = data.get("data_quality_score", 0.0)
+
+            # Confidence distribution
+            tiers: dict[str, int] = {}
+            oldest = None
+            for p in winning + losing:
+                tier = p.get("confidence_tier", "unknown")
+                tiers[tier] = tiers.get(tier, 0) + 1
+                snap = p.get("memory_snapshot_date") or p.get("first_significant_date")
+                if snap:
+                    try:
+                        snap_date = date.fromisoformat(snap) if isinstance(snap, str) else snap
+                        if oldest is None or snap_date < oldest:
+                            oldest = snap_date
+                    except Exception:
+                        pass
+            status["confidence_distribution"] = tiers
+            status["oldest_pattern_date"] = oldest.isoformat() if oldest else None
+
+        except Exception as e:
+            status["error"] = str(e)
+
+        # Count archived patterns
+        archive_dir = self.memory_dir / "archive"
+        if archive_dir.exists():
+            total_archived = 0
+            for f in archive_dir.glob("*.json"):
+                try:
+                    batches = json.loads(f.read_text())
+                    if isinstance(batches, list):
+                        total_archived += sum(b.get("count", 0) for b in batches)
+                    else:
+                        total_archived += batches.get("count", 0)
+                except Exception:
+                    pass
+            status["archived_count"] = total_archived
+
+        return status

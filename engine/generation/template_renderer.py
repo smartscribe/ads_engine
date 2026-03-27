@@ -18,7 +18,7 @@ from pathlib import Path
 from typing import Optional
 import uuid
 
-from engine.brand import COLORS, LOGOS, LOGOS_SVG, FONT_FILES
+from engine.brand import BRAND_DIR, COLORS, LOGOS, LOGOS_SVG, FONT_FILES
 
 
 TEMPLATE_DIR = Path(__file__).parent / "templates"
@@ -42,6 +42,10 @@ TEMPLATE_SIZES = {
     "story_1080x1920/full_bleed": (1080, 1920),
     "story_1080x1920/swipe_up": (1080, 1920),
     "display_1200x628/responsive": (1200, 628),
+    # New templates (G4)
+    "meta_carousel_frame/card": (1080, 1080),
+    "google_728x90/leaderboard": (728, 90),
+    "google_160x600/skyscraper": (160, 600),
 }
 
 COLOR_SCHEMES = {
@@ -90,8 +94,8 @@ COLOR_SCHEMES = {
 # Default values for optional template variables so templates
 # render cleanly even if a field isn't supplied.
 _DEFAULT_CONTEXT = {
-    "stat_number": "",
-    "stat_unit": "",
+    "stat_number": "2",       # default: "2 hrs saved/day" if not specified
+    "stat_unit": "hrs saved\nper day",
     "attribution": "",
     "badge_text": "New",
 }
@@ -101,10 +105,11 @@ def _resolve_template_file(template: str) -> Path:
     """
     Resolve a template identifier to a file path.
 
-    Handles three cases:
+    Handles cases:
       1. Subdir layout:  "feed_1080x1080/headline_hero"
-      2. Flat name:      "meta_feed"  (backward compat)
-      3. Google display: "google_300x250" → google_display.html with layout param
+      2. New subdir layouts: "meta_carousel_frame/card", "google_728x90/leaderboard", etc.
+      3. Flat name:      "meta_feed"  (backward compat)
+      4. Google display: "google_300x250" → google_display.html with layout param
     """
     if "/" in template:
         candidate = TEMPLATE_DIR / f"{template}.html"
@@ -112,7 +117,8 @@ def _resolve_template_file(template: str) -> Path:
             return candidate
         raise ValueError(f"Template not found: {candidate}")
 
-    if template.startswith("google_"):
+    # Flat google names — map to flat file for backward compat
+    if template in ("google_300x250",):
         return TEMPLATE_DIR / "google_display.html"
 
     candidate = TEMPLATE_DIR / f"{template}.html"
@@ -245,10 +251,10 @@ class TemplateRenderer:
         font_archivo_rel = Path(FONT_FILES["archivo"])
         font_inter_rel = Path(FONT_FILES["inter"])
 
-        logo_url = f"{brand_base_url}/{logo_rel.name}"
-        logomark_url = f"{brand_base_url}/{logomark_rel.name}"
-        font_archivo_url = f"{brand_base_url}/{font_archivo_rel.name}"
-        font_inter_url = f"{brand_base_url}/{font_inter_rel.name}"
+        logo_url = f"{brand_base_url}/{logo_rel.relative_to(BRAND_DIR)}"
+        logomark_url = f"{brand_base_url}/{logomark_rel.relative_to(BRAND_DIR)}"
+        font_archivo_url = f"{brand_base_url}/{font_archivo_rel.relative_to(BRAND_DIR)}"
+        font_inter_url = f"{brand_base_url}/{font_inter_rel.relative_to(BRAND_DIR)}"
 
         layout = ""
         if template.startswith("google_"):

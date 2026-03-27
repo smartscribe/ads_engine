@@ -18,6 +18,133 @@ Each entry includes:
 
 ## Log
 
+### 2026-03-27 — Aryan
+**Fix "ima" badge bleedover and iframe positioning in review cards**
+
+- `dashboard/frontend/pages/review.html` — The `.asset-badge` span ("image" / "template") had CSS only for gallery mode (`.gallery-card .asset-badge`), not tinder mode. In tinder mode, the unstyled badge was a flex sibling of the `<img>`/`<iframe>`, causing the first few chars ("ima" from "image") to bleed through at the right edge. Added `.tinder-card .asset-area .asset-badge` with absolute positioning matching gallery mode.
+- Also fixed iframe positioning: iframes were flex-centered in the asset container via `justify-content: center`, but with `transform-origin: top left` scaling, this caused misalignment. Changed to `position: absolute; top: 0; left: 0;` for both tinder and gallery iframes so the scaled template anchors correctly to the top-left corner.
+- Added `flex-shrink: 0` to tinder asset images to prevent the badge from stealing layout space.
+
+---
+
+### 2026-03-27 — Aryan
+**Fix broken logo in template previews + ban em dashes from generated copy**
+
+- `engine/generation/template_renderer.py` — Logo/font URLs in `render_to_html` used only the file basename (e.g. `/brand/Logo.png`), but the static mount serves from `brand/` and files live in subdirectories (`brand/logos/png/`, `brand/fonts/`). Changed to use `relative_to(BRAND_DIR)` so URLs resolve correctly (e.g. `/brand/logos/png/Logo.png`). Playwright rendering (`_render_async`) was unaffected since it uses `file://` absolute paths.
+- `engine/generation/copy_agents.py` — Added explicit "no em dashes" rule to `JOTPSYCH_VOICE`. Replaced em dashes in `GOLD_STANDARD_BODIES` and all system prompt strings with commas/periods/colons so the LLM doesn't learn the pattern.
+- `engine/generation/generator.py` — Removed em dashes from `COPY_GENERATION_PROMPT`, added em dashes to the NEVER USE list.
+- `engine/brand.py` — Added "no em dashes" to `BRAND_VOICE` AVOID list, replaced em dashes in tone guidelines. This propagates via `get_brand_context_for_copy_prompt()`.
+- The "—..." pattern in the dashboard was caused by generated copy containing em dashes getting CSS-truncated (`line-clamp`) right after the dash character.
+
+---
+
+### 2026-03-27 — Aryan
+**Use median instead of average for review time in Learnings**
+
+- `engine/review/reviewer.py` — Renamed `avg_review_duration_ms` to `median_review_duration_ms`. Calculation changed from `sum/len` to `sorted[n//2]` (lower median). Average was inflated by idle time when the screen was left open between reviews.
+- `dashboard/frontend/pages/review.html` — Updated label from "Avg review time" to "Median review time", reads the new field name.
+
+---
+
+### 2026-03-27 — Aryan
+**Fix review queue: only show variants with real images on disk**
+
+- `dashboard/api/app.py` — Rewrote `/api/review` filter. Previous `asset_type == "video"` check was insufficient because many legacy variants had `asset_type = "image"` with placeholder paths, `.mp4` paths, or missing files. New filter: only include variants where `asset_path` has an image extension (`.png`/`.jpg`/`.jpeg`/`.webp`), the file exists on disk, and is >1KB. Falls through to `template_available` for iframe previews. Queue went from 94 broken variants → 31 with real images.
+
+---
+
+### 2026-03-27 — Aryan
+**Remove video + Gemini/Veo AI generation — Playwright-only rendering**
+
+- `engine/models.py` — Changed `CreativeBrief.formats_requested` default from `[SINGLE_IMAGE, VIDEO]` to `[SINGLE_IMAGE]`.
+- `engine/generation/generator.py` — Removed the entire Gemini/Veo AI generation path: `generate_assets()`, `_generate_image()`, `_generate_video()`, `_build_image_prompt()`, `_build_video_prompt()`, `IMAGE_PROMPT_TEMPLATE`, `VIDEO_PROMPT_TEMPLATE`, and all `google.genai` / `requests` / `base64` imports. `generate()` now delegates to `generate_with_templates()`. `generate_assets_from_selector()` no longer imports `VideoRenderer` or branches on `is_video`. `generate_with_templates()` always sets `asset_type="image"`.
+- `engine/generation/template_selector.py` — Removed `is_video` and `video_duration_ms` from `TemplatePlan`. Removed story/video format detection from `select()`. Removed `_select_story_template()`.
+- `engine/orchestrator.py` — `regenerate_assets()` now uses `generate_assets_from_template()` instead of the removed `generate_assets()`. Also checks for `.placeholder` suffix when detecting missing assets.
+- `dashboard/api/app.py` — `/api/review` now filters out `asset_type == "video"` variants so legacy video data doesn't appear in the review queue.
+- `dashboard/frontend/pages/review.html` — Removed `<video>` rendering branch from `buildAssetHtml()`.
+
+Why: Only 24 of 126 variants had working images — all from the Playwright template pipeline. The remaining 102 were broken placeholders, corrupt Gemini images, or Veo videos. Simplifying to Playwright-only gives deterministic, brand-consistent output. AI image generation can be re-added later (Phase 2) once quality bar is met.
+
+---
+
+### 2026-03-27 — Aryan
+**End-to-end pipeline test: regression → review loop. Fixed 7 bugs found during first live run.**
+
+- `engine/regression/model.py` — Sanitize NaN/inf values in p_values, vif_scores, and confidence_intervals before building RegressionResult. Pydantic `dict[str, float]` fields fail on None which appears when interaction term VIFs or t-stat SE calculations produce nan.
+- `engine/intake/parser.py` — Fixed `SYSTEM_PROMPT.format(playbook_context=...)` crashing with KeyError because the JSON example block in the prompt contains literal `{` `}` curly braces. Switched to `str.replace("{playbook_context}", ...)` instead.
+- `engine/memory/builder.py` — Fixed `self.store.base_path` AttributeError. Store exposes `self.base` (a `Path`), not `self.base_path`. Two locations fixed.
+- `engine/orchestrator.py` — Same `store.base_path → store.base` fix in `_log_diversity_report`.
+- `engine/generation/variant_matrix.py` — Fixed `TypeError: cannot use 'tuple' as a set element (unhashable type: 'dict')`. `combo` tuples contain dicts, which are unhashable. Switched to `id()`-based set for deduplication between exploit and explore selection.
+- `engine/review/reviewer.py` — `submit_review` was checking `verdict == "approved"` but the dashboard sends `"approve"`. Fixed to accept both `"approve"` and `"approved"`.
+- `requirements.txt` — Added `python-multipart>=0.0.9` (required by FastAPI for form data; was causing dashboard startup crash). Also installed `scikit-learn` and `playwright` which were in requirements but not installed in venv.
+
+Pipeline verified end-to-end: regression (R²=0.53, n=141, all features unreliable at this data volume) → idea → 24 variants generated with Playwright HTML rendering → dashboard shows variants → approve/reject via API → memory builder picks up 2 approval clusters + 1 rejection rule → context injected into next generation.
+
+Regression note: with 141 observations and ~60 one-hot features, the model is overfit (adj R²=0.14, test R²=-1.0). No playbook rules are produced yet. Expected — will improve as more live ad data comes in. Bootstrap validation and confidence tier infrastructure is in place.
+
+---
+
+### 2026-03-27 — Aryan (P0 Creative Excellence Loop)
+**Full P0 implementation: 16 workstreams across Regression, Analysis, Generation, and Memory stages**
+
+#### Regression Stage
+- `engine/models.py` — `RegressionResult`: added `test_r_squared`, `bootstrap_ci`, `coefficient_stability`, `confidence_tiers` for holdout + bootstrap validation
+- `engine/regression/model.py` — Added `run_with_validation()`: 80/20 holdout, 1000-resample bootstrap CIs, 10-subsample stability scoring, 4-tier confidence classification (high/moderate/directional/unreliable). Added 5 new taxonomy features to `CATEGORICAL_FEATURES`/`BOOLEAN_FEATURES` (`social_proof_type`, `copy_length_bin`, `contains_specific_number`, `shows_product_ui`, `human_face_visible`) and `days_since_first_run` numerical feature. Excluded `exclude_from_regression` ads from dataset
+- `engine/memory/playbook_translator.py` — `translate()` now filters to high/moderate confidence tiers only when `confidence_tiers` available
+- `engine/memory/builder.py` — `_build_pattern_insight()` uses regression confidence tiers; added `_apply_memory_decay()` (60-day downgrade, 90-day archive), `_archive_patterns()`, `build_generation_context()` now populates `stylistic_references` from swipe files
+- `dashboard/api/app.py` — `/api/regression` returns `model_health`, `validation_detail`, bootstrap CIs for top features
+
+#### Analysis Stage
+- `engine/models.py` — `CreativeTaxonomy`: 5 new fields with `VALID_VALUES` dict, `validate_values()`, `low_confidence_fields()`, `tagging_confidence` dict. `CreativeBrief`: 6 new fields (`emotional_register`, `proof_element`, `hook_strategy`, `target_persona_details`, `brief_richness_score`, `source_pattern_id`). `ExistingAd`: `source` and `exclude_from_regression` fields
+- `engine/analysis/analyzer.py` — `TAXONOMY_PROMPT` updated with 5 new dimensions, MECE boundary rules, tagging confidence scoring; added `TAXONOMY_CORRECTIONS` auto-correction dict; `tag_ads()` applies corrections + validates after tagging; `extract_briefs_from_playbook()` rebuilt with rich brief fields, richness scoring, per-brief retry below threshold
+- `engine/intake/parser.py` — Rewritten: `SYSTEM_PROMPT` with richness rules, `validate_brief()`, re-prompt logic (max 1 retry), playbook rule injection into system prompt
+- `dashboard/api/app.py` — `POST /api/intake/swipe` endpoint for URL/image swipe file ingestion, tagged and saved as `exclude_from_regression=True`
+- `engine/memory/models.py` — `GenerationContext`: added `stylistic_references` field and rendering in `to_prompt_block()`; `winning_rules` framing changed from "use these" to "inspired by — adapt, don't copy verbatim"
+- `engine/orchestrator.py` — `submit_idea()` + `submit_idea_templates()` now inject playbook rules into parser; `_get_playbook_rules()` helper added; `_log_diversity_report()` added
+
+#### Generation Stage
+- `engine/generation/copy_agents.py` — Added `GOLD_STANDARD_HEADLINES` + `GOLD_STANDARD_BODIES` few-shot examples; `HeadlineAgent` and `BodyCopyAgent` now inject gold standards + richer brief context (emotional_register, hook_strategy, proof_element, target_persona_details); `CTAAgent.generate()` now accepts `generation_context` parameter (parity with headline/body agents)
+- `engine/generation/generator.py` — `cta_agent.generate()` now passes `generation_context`; `_build_image_prompt()` strengthened with style differentiation (UGC/editorial/product-focused) and stronger negative prompts
+- `engine/intake/concept_expander.py` (new) — `ConceptExpander` class: concept → Claude enumerates 5 angles × 3 formats × 4 tones × 3 proof types → 20 diverse `CreativeBrief` seeds; diversity-first selection algorithm
+- `engine/orchestrator.py` — `submit_concept()` method; `concept` CLI command
+- `dashboard/api/app.py` — `POST /api/intake/concept` with SSE streaming progress; `ConceptInput` model
+- `engine/generation/templates/meta_carousel_frame/card.html` (new) — Carousel card template (1080x1080) with proof element zone and position indicator
+- `engine/generation/templates/google_728x90/leaderboard.html` (new) — Google leaderboard (728x90) with compact stat callout
+- `engine/generation/templates/google_160x600/skyscraper.html` (new) — Google skyscraper (160x600) with vertical proof zone
+- `engine/generation/template_renderer.py` — `TEMPLATE_SIZES` updated with 3 new templates; `_resolve_template_file()` updated; `_DEFAULT_CONTEXT` defaults to "2 hrs saved/day" stat
+- `engine/generation/template_selector.py` — Added `_FORMAT_TEMPLATES` for new formats; carousel selection logic
+- `engine/generation/scene_library.py` — Added 7 new video scenes: `video_audit_prep_anxiety`, `video_post_session_relief`, `video_weekend_reclaimed`, `video_voice_recording_in_car`, `video_mid_session_quick_note`, `video_before_after_desk` (total: 10 video scenes, 27 total)
+- `engine/generation/variant_matrix.py` — Added `diversity_report()` method with threshold tracking (4 hook_types / 3 tones / 3 visual_styles minimum)
+
+#### Memory Stage
+- `engine/memory/models.py` — `PatternInsight` + `FatigueAlert`: added `memory_snapshot_date`; fixed `CompetitiveObservation` field ordering bug
+- `engine/memory/builder.py` — `build()` calls `_apply_memory_decay()`; `_build_editorial_memory()` loads synthesized preferences from voice notes; `_load_synthesized_preferences()` + `_merge_synthesized_preferences()` helpers
+- `engine/store.py` — `archive_memory_patterns()`, `get_memory_status()` methods
+- `dashboard/api/app.py` — `POST /api/review/voice-note` (Whisper transcription), `POST /api/review/synthesize-preferences` (Claude extraction), `GET /api/memory/status` endpoint
+
+#### Legacy model cleanup
+- `engine/models.py` — Added DEPRECATED docstrings to `WinningPattern`, `ReviewerPreference`, `FatigueAlert`, `CreativeMemory` (v1 Pydantic versions). Canonical versions are now in `engine/memory/models.py`. `PlaybookRule` remains canonical for both paths.
+
+#### New scripts
+- `scripts/retag_existing.py` — Re-tag 432 existing ads with expanded taxonomy (5 new dimensions + confidence)
+- `scripts/audit_taxonomy.py` — Sample 50 tagged ads, export CSV for manual MECE review with dimension distribution report
+- `scripts/benchmark_copy.py` — A/B test copy agent output: generate 20 headlines/bodies per brief with/without memory
+- `scripts/audit_images.py` — Generate 20 images across UGC/editorial/product styles for visual quality scoring
+- `scripts/test_memory_impact.py` — A/B test memory injection impact on copy quality with convergence detection
+
+#### New dependencies
+- `requirements.txt` — `scikit-learn>=1.4.0` (holdout validation), `openai>=1.0.0` (Whisper transcription)
+
+Key decisions:
+- Confidence tier system makes regression downstream-safe: only high/moderate features flow into playbook rules and memory context
+- If test R² < 0.15, playbook translator returns empty (fall back to editorial memory only)
+- Memory decay is 60-day downgrade + 90-day archive, not deletion — historical patterns preserved
+- VALID_VALUES dict on CreativeTaxonomy enables both programmatic validation and prompt grounding
+- GenerationContext framing changed from "do this" to "inspired by" to prevent creative convergence
+- All new API endpoints tested with integration check script
+
+---
+
 ### 2026-03-26 — Aryan
 **Review dashboard rebuilt: Tinder-style focus mode, structured chip feedback, scoreboard + learnings views**
 

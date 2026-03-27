@@ -109,8 +109,13 @@ class Orchestrator:
 
         Always uses the v2 multi-agent copy pipeline (HeadlineAgent + BodyCopyAgent +
         CTAAgent) with Playwright HTML template rendering for images.
+
+        Playbook rules from the latest regression are injected into the parser
+        to seed the brief with winning pattern examples (A2).
         """
-        brief = self.parser.parse(raw_text, source)
+        # Load playbook rules for brief enrichment
+        playbook_rules = self._get_playbook_rules()
+        brief = self.parser.parse(raw_text, source, playbook_rules=playbook_rules)
         self.store.save_brief(brief)
 
         context, rejection_feedback, approval_feedback = self._get_generation_context()
@@ -128,10 +133,14 @@ class Orchestrator:
 
         self.notifier.notify_variants_generated(brief.id, variants)
 
+        # Log diversity report (G6)
+        diversity = self._log_diversity_report(brief.id, variants)
+
         return {
             "brief_id": brief.id,
             "variants_generated": len(variants),
             "brief": brief.model_dump(),
+            "diversity": diversity,
         }
 
     def submit_idea_templates(
@@ -146,7 +155,8 @@ class Orchestrator:
         parse idea → generate copy (v2) → select templates per variant → render
         pixel-perfect PNGs/MP4s → notify.
         """
-        brief = self.parser.parse(raw_text, source)
+        playbook_rules = self._get_playbook_rules()
+        brief = self.parser.parse(raw_text, source, playbook_rules=playbook_rules)
         self.store.save_brief(brief)
 
         context, rejection_feedback, approval_feedback = self._get_generation_context()
@@ -177,6 +187,57 @@ class Orchestrator:
             "brief": brief.model_dump(),
         }
 
+    def submit_concept(self, concept_text: str, num_variants: int = 20) -> dict:
+        """
+        Concept-to-20-variants workflow (G2).
+        Takes a high-level concept and generates a diverse set of variants
+        by systematically exploring the creative space.
+
+        concept_text: e.g. "famous movie psychiatrists" or "after-hours charting anxiety"
+        num_variants: number of briefs to generate (default 20)
+        """
+        from engine.intake.concept_expander import ConceptExpander
+
+        print(f"[orchestrator] Expanding concept: '{concept_text}'")
+        expander = ConceptExpander()
+        briefs = expander.expand(concept_text, num_variants=num_variants)
+
+        if not briefs:
+            return {"error": "No briefs generated from concept", "concept": concept_text}
+
+        context, rejection_feedback, approval_feedback = self._get_generation_context()
+
+        all_variants = []
+        for i, brief in enumerate(briefs):
+            self.store.save_brief(brief)
+            try:
+                variants = self.generator.generate_with_templates(
+                    brief,
+                    use_v2=True,
+                    store=self.store,
+                    rejection_feedback=rejection_feedback,
+                    approval_feedback=approval_feedback,
+                    generation_context=context,
+                )
+                for v in variants:
+                    self.store.save_variant(v)
+                all_variants.extend(variants)
+                print(f"[orchestrator] Brief {i+1}/{len(briefs)}: {len(variants)} variants generated")
+            except Exception as e:
+                print(f"[orchestrator] Brief {i+1} generation failed: {e}")
+
+        self.notifier.notify_variants_generated(
+            briefs[0].id if briefs else "concept",
+            all_variants
+        )
+
+        return {
+            "concept": concept_text,
+            "briefs_generated": len(briefs),
+            "total_variants": len(all_variants),
+            "brief_ids": [b.id for b in briefs],
+        }
+
     def _get_generation_context(self) -> tuple[GenerationContext, list, list]:
         """
         Build structured GenerationContext from the three-layer creative memory.
@@ -195,6 +256,69 @@ class Orchestrator:
         )
         
         return context, rejection_feedback, approval_feedback
+
+    def _get_playbook_rules(self) -> list:
+        """
+        Load PlaybookRule objects from the latest regression for brief enrichment (A2).
+        Only returns high/moderate confidence rules when confidence_tiers are available.
+        Returns empty list if no regression data exists yet.
+        """
+        regression = self.store.get_latest_regression()
+        if not regression:
+            return []
+        try:
+            rules = self.playbook_translator.translate(regression)
+            # If confidence tiers available, filter to high/moderate only
+            if regression.confidence_tiers:
+                rules = [
+                    r for r in rules
+                    if regression.confidence_tiers.get(r.feature, "unreliable")
+                    in ("high", "moderate")
+                ]
+            return rules[:5]  # Inject top 5 rules max to avoid prompt bloat
+        except Exception:
+            return []
+
+    def _log_diversity_report(self, brief_id: str, variants: list) -> dict:
+        """
+        Generate and log a diversity report for a batch of generated variants (G6).
+        Saves to data/briefs/{brief_id}/diversity.json.
+        Returns the report dict.
+        """
+        from engine.generation.variant_matrix import VariantMatrix
+        import json
+        from pathlib import Path
+
+        try:
+            matrix = VariantMatrix(self.store)
+            report = matrix.diversity_report(variants)
+
+            # Log to disk
+            brief_dir = Path(self.store.base) / "briefs"
+            report_path = brief_dir / f"{brief_id}_diversity.json"
+            report_path.write_text(json.dumps(report, indent=2))
+
+            if not report["threshold_met"]:
+                missing = report.get("missing_hook_types", [])
+                print(
+                    f"[orchestrator] ⚠ Diversity threshold not met for brief {brief_id[:8]}: "
+                    f"hook_types={report['counts']['hook_types']}/4, "
+                    f"tones={report['counts']['tones']}/3, "
+                    f"visual_styles={report['counts']['visual_styles']}/3"
+                )
+                if missing:
+                    print(f"[orchestrator]   Missing hook types: {missing}")
+            else:
+                print(
+                    f"[orchestrator] ✓ Diversity OK for brief {brief_id[:8]}: "
+                    f"hooks={report['counts']['hook_types']}, "
+                    f"tones={report['counts']['tones']}, "
+                    f"styles={report['counts']['visual_styles']}"
+                )
+            return report
+        except Exception as e:
+            print(f"[orchestrator] Diversity report failed: {e}")
+            return {}
 
     def _get_legacy_generation_context(self) -> tuple:
         """Legacy method for backwards compatibility."""
@@ -287,9 +411,9 @@ class Orchestrator:
                 asset_path = Path(v.asset_path)
                 if not asset_path.exists():
                     missing_assets.append(v)
-                elif asset_path.suffix in ['.png', '.jpg', '.jpeg'] and asset_path.stat().st_size < 10240:
+                elif asset_path.suffix == ".placeholder":
                     missing_assets.append(v)
-                elif asset_path.suffix == '.mp4' and asset_path.stat().st_size < 102400:
+                elif asset_path.suffix in ['.png', '.jpg', '.jpeg'] and asset_path.stat().st_size < 10240:
                     missing_assets.append(v)
             
             if not missing_assets:
@@ -307,11 +431,9 @@ class Orchestrator:
                     "taxonomy": v.taxonomy.model_dump() if v.taxonomy else {},
                 })
             
-            # Regenerate with force_regenerate=True
-            new_paths = self.generator.generate_assets(
-                brief, 
+            new_paths = self.generator.generate_assets_from_template(
+                brief,
                 copy_variants,
-                force_regenerate=True,
             )
             
             # Update variant asset paths if changed
@@ -529,6 +651,17 @@ if __name__ == "__main__":
             print(f"Brief: {result['brief_id']}")
             print(f"Variants generated: {result['variants_generated']}")
             print(f"Asset types: {result['asset_types']}")
+
+        elif command == "concept":
+            if len(sys.argv) < 3:
+                print("Usage: python -m engine.orchestrator concept 'famous movie psychiatrists'")
+                sys.exit(1)
+            concept_text = " ".join(sys.argv[2:])
+            num = 20
+            result = orchestrator.submit_concept(concept_text, num_variants=num)
+            print(f"Concept: {result.get('concept')}")
+            print(f"Briefs generated: {result.get('briefs_generated')}")
+            print(f"Total variants: {result.get('total_variants')}")
 
         else:
             print(f"Unknown command: {command}")

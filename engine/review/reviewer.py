@@ -60,7 +60,7 @@ class ReviewPipeline:
         variant.review_chips = feedback.chips
         variant.review_duration_ms = feedback.review_duration_ms
 
-        if feedback.verdict == "approved":
+        if feedback.verdict in ("approved", "approve"):
             variant.status = AdStatus.APPROVED
         else:
             variant.status = AdStatus.REJECTED
@@ -185,7 +185,7 @@ class ReviewPipeline:
                 "chip_coverage_rate": 0.0,
                 "top_rejection_chips": [],
                 "top_approval_chips": [],
-                "avg_review_duration_ms": 0,
+                "median_review_duration_ms": 0,
             }
 
         approvals = [v for v in their_reviews if v.status == AdStatus.APPROVED]
@@ -212,5 +212,5 @@ class ReviewPipeline:
             "chip_coverage_rate": len(with_chips) / len(their_reviews),
             "top_rejection_chips": rejection_chip_counts.most_common(5),
             "top_approval_chips": approval_chip_counts.most_common(5),
-            "avg_review_duration_ms": int(sum(durations) / len(durations)) if durations else 0,
+            "median_review_duration_ms": int(sorted(durations)[len(durations) // 2]) if durations else 0,
         }

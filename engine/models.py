@@ -59,7 +59,7 @@ class CreativeBrief(BaseModel):
 
     # Raw input
     raw_input: str                    # The free-form dump (text, transcript, etc.)
-    source: str = "manual"            # "manual", "slack", "voice", "swipe_file"
+    source: str = "manual"            # "manual", "slack", "voice", "swipe_file", "playbook", "concept"
 
     # AI-structured fields
     target_audience: str              # "bh_clinicians" or "smb_clinic_owners"
@@ -71,9 +71,27 @@ class CreativeBrief(BaseModel):
     key_phrases: list[str] = []       # Specific language to try
     references: list[str] = []        # URLs, competitor examples, swipe file paths
 
+    # Richer brief fields (A2) — more specific creative direction
+    # emotional_register: arc from viewer's current state to desired state
+    # e.g. "overwhelmed by charting → quiet relief" not just "empathetic"
+    emotional_register: str = ""
+    # proof_element: specific stat or evidence to back the claim
+    # e.g. "saves 2hrs/day" not "backed by research"
+    proof_element: str = ""
+    # hook_strategy: how to open the ad
+    # e.g. "question about after-hours charting" not "engaging"
+    hook_strategy: str = ""
+    # target_persona_details: specific archetype, daily routine, pain moment
+    # e.g. "solo therapist, 8-10 patients/day, drowning in notes after 6pm"
+    target_persona_details: str = ""
+    # brief_richness_score: 1-10 AI self-scored — below 6 triggers re-prompt
+    brief_richness_score: float = 0.0
+    # source_pattern_id: which winning playbook pattern seeded this brief
+    source_pattern_id: Optional[str] = None
+
     # Generation config
     num_variants: int = 6
-    formats_requested: list[AdFormat] = [AdFormat.SINGLE_IMAGE, AdFormat.VIDEO]
+    formats_requested: list[AdFormat] = [AdFormat.SINGLE_IMAGE]
     platforms: list[Platform] = [Platform.META, Platform.GOOGLE]
 
 
@@ -86,6 +104,12 @@ class CreativeTaxonomy(BaseModel):
     Every ad variant gets auto-tagged across these dimensions.
     Each dimension is MECE — mutually exclusive, collectively exhaustive.
     The regression model uses these as features.
+
+    MECE boundary decisions (keep in sync with TAXONOMY_PROMPT in analyzer.py):
+    - hook_type: "statistic" wins over "direct_benefit" if a specific number is present
+    - tone: "warm" = warm-colleague energy; "empathetic" = I-feel-your-pain energy
+    - subject_matter: "patient_interaction" requires a patient visibly present in the scene
+    - text_density: "headline_only" <5 words; "headline_subhead" 5-15 words; "detailed_copy" 15+ words
     """
 
     # MESSAGE LAYER — what the ad says
@@ -112,6 +136,56 @@ class CreativeTaxonomy(BaseModel):
     uses_first_person: bool    # "I" / "my" vs "you" / "your"
     uses_social_proof: bool    # mentions other clinicians, stats, testimonials
     copy_reading_level: float  # Flesch-Kincaid grade level
+
+    # EXTENDED TAXONOMY FEATURES (R2) — added for richer regression signal
+    # contains_specific_number: visual stat callout in image (distinct from uses_number in copy)
+    contains_specific_number: bool = False
+    # shows_product_ui: JotPsych UI is visible in the creative
+    shows_product_ui: bool = False
+    # human_face_visible: a human face is visible in the creative
+    human_face_visible: bool = False
+    # social_proof_type: type of social proof if any (none | peer | testimonial | stat)
+    social_proof_type: str = "none"
+    # copy_length_bin: binned copy length (short <15 words | medium 15-40 | long 40+)
+    copy_length_bin: str = "medium"
+
+    # TAGGING CONFIDENCE (A1) — Claude's confidence per dimension (0.0-1.0)
+    # Populated by _tag_batch() in analyzer.py when tagging_confidence is requested
+    tagging_confidence: dict[str, float] = {}
+
+    # Allowed values for each categorical field (used by validate_values())
+    VALID_VALUES: dict = {
+        "message_type": ["value_prop", "pain_point", "social_proof", "urgency", "education", "comparison"],
+        "hook_type": ["question", "statistic", "testimonial", "provocative_claim", "scenario", "direct_benefit"],
+        "cta_type": ["try_free", "book_demo", "learn_more", "see_how", "start_saving_time", "watch_video"],
+        "tone": ["clinical", "warm", "urgent", "playful", "authoritative", "empathetic"],
+        "visual_style": ["photography", "illustration", "screen_capture", "text_heavy", "mixed_media", "abstract"],
+        "subject_matter": ["clinician_at_work", "patient_interaction", "product_ui", "workflow_comparison", "conceptual", "data_viz"],
+        "color_mood": ["brand_primary", "warm_earth", "cool_clinical", "high_contrast", "muted_soft", "bold_saturated"],
+        "text_density": ["headline_only", "headline_subhead", "detailed_copy", "minimal_overlay"],
+        "placement": ["feed", "story", "reels", "search", "display", "discover"],
+        "social_proof_type": ["none", "peer", "testimonial", "stat"],
+        "copy_length_bin": ["short", "medium", "long"],
+    }
+
+    def validate_values(self) -> list[str]:
+        """
+        Check all categorical fields against VALID_VALUES.
+        Returns a list of violation strings like 'tone="inspirational" not in allowed values'.
+        """
+        violations = []
+        for field_name, allowed in self.VALID_VALUES.items():
+            value = getattr(self, field_name, None)
+            if value is not None and value not in allowed:
+                violations.append(f'{field_name}="{value}" not in {allowed}')
+        return violations
+
+    def low_confidence_fields(self, threshold: float = 0.6) -> list[str]:
+        """Return list of field names where tagging_confidence is below threshold."""
+        return [
+            field for field, conf in self.tagging_confidence.items()
+            if conf < threshold
+        ]
 
 
 # ---------------------------------------------------------------------------
@@ -267,6 +341,19 @@ class RegressionResult(BaseModel):
     window_days: Optional[int] = None     # None = all-time, else rolling window size
     sample_weights_used: bool = False     # True if exponential decay weights applied
 
+    # Validation diagnostics (R1) — populated by run_with_validation()
+    test_r_squared: Optional[float] = None
+    # bootstrap_ci[feature] = (point_estimate, lower_2.5, upper_97.5) from 1000 resamples
+    bootstrap_ci: dict[str, tuple[float, float, float]] = {}
+    # coefficient_stability[feature] = std dev of coefficient across 10 subsample runs
+    coefficient_stability: dict[str, float] = {}
+    # confidence_tiers[feature] = "high"|"moderate"|"directional"|"unreliable"
+    # high: bootstrap CI doesn't cross 0 AND stability std < 0.3 * |coeff|
+    # moderate: bootstrap CI doesn't cross 0
+    # directional: p < 0.10
+    # unreliable: everything else
+    confidence_tiers: dict[str, str] = {}
+
 
 # ---------------------------------------------------------------------------
 # Existing Ad — imported from Meta/Google for analysis
@@ -294,6 +381,13 @@ class ExistingAd(BaseModel):
     thumbnail_url: Optional[str] = None
     creative_type: str = "image"           # "image", "video", "carousel"
 
+    # Source tracking (A4) — distinguish imported platform ads from swipe files
+    # "meta_api" | "google_api" | "swipe_file"
+    source: str = "meta_api"
+    # exclude_from_regression: swipe file ads add stylistic signal but shouldn't
+    # pollute regression coefficients (they're not JotPsych performance data)
+    exclude_from_regression: bool = False
+
     # Performance (aggregated over date range)
     spend: float = 0
     impressions: int = 0
@@ -316,7 +410,13 @@ class ExistingAd(BaseModel):
 # ---------------------------------------------------------------------------
 
 class WinningPattern(BaseModel):
-    """A proven winning ad pattern with performance data."""
+    """
+    A proven winning ad pattern with performance data.
+
+    DEPRECATED: Use `engine.memory.models.PatternInsight` instead.
+    This model is kept for backward compatibility with v1 CreativeMemory.
+    New code should use the v2 memory architecture in engine/memory/.
+    """
     variant_id: str
     headline: str
     body: str
@@ -330,7 +430,12 @@ class WinningPattern(BaseModel):
 
 
 class ReviewerPreference(BaseModel):
-    """Synthesized preference pattern for a specific reviewer."""
+    """
+    Synthesized preference pattern for a specific reviewer.
+
+    DEPRECATED: Use `engine.memory.models.ReviewerProfile` instead.
+    Kept for backward compatibility.
+    """
     reviewer: str
     dimension: str                         # e.g. "tone", "hook_type"
     pattern: str                           # e.g. "approves question hooks 4:1 vs direct"
@@ -340,7 +445,12 @@ class ReviewerPreference(BaseModel):
 
 
 class FatigueAlert(BaseModel):
-    """Warning when a feature's recent performance is worse than all-time."""
+    """
+    Warning when a feature's recent performance is worse than all-time.
+
+    DEPRECATED: Use `engine.memory.models.FatigueAlert` instead.
+    Kept for backward compatibility.
+    """
     feature: str
     all_time_coefficient: float
     rolling_coefficient: float
@@ -360,7 +470,11 @@ class CompetitiveIntel(BaseModel):
 
 
 class PlaybookRule(BaseModel):
-    """Actionable generation rule derived from regression coefficients."""
+    """
+    Actionable generation rule derived from regression coefficients.
+    Used by PlaybookTranslator and as injection context in copy agents.
+    This is the canonical model — both v1 and v2 memory paths use this.
+    """
     feature: str                           # Raw feature name (e.g. hook_type_statistic)
     direction: str                         # "use_more" or "avoid"
     confidence: str                        # "high" (p<0.01) or "moderate" (p<0.05)
@@ -374,8 +488,11 @@ class PlaybookRule(BaseModel):
 class CreativeMemory(BaseModel):
     """
     Persistent knowledge base that accumulates across generation cycles.
-    Loaded fresh on every generate call. Stores winning patterns, reviewer
-    preferences, fatigue alerts, playbook rules, and competitive intel.
+
+    LEGACY v1 format: Stored as Pydantic model in creative_memory.json.
+    Superseded by `engine.memory.models.CreativeMemory` (v2 dataclass-based).
+    This is kept for backward compatibility in store.load_memory().
+    New code should use MemoryBuilder to build v2 memory.
     """
     id: str = Field(default_factory=lambda: str(uuid.uuid4()))
     created_at: datetime = Field(default_factory=datetime.utcnow)

@@ -93,12 +93,13 @@ FONT_FILES = {
 BRAND_VOICE = """JotPsych is a clinical AI documentation tool for behavioral health clinicians.
 
 TONE:
-- Warm but professional — like a trusted colleague, not a salesperson
-- Empathetic to clinician burnout — we understand the paperwork burden
-- Specific and concrete — "save 2 hours" not "save time", real scenarios not abstractions
-- Confident without being pushy — we know the product works, let the value speak
+- Warm but professional, like a trusted colleague, not a salesperson
+- Empathetic to clinician burnout, we understand the paperwork burden
+- Specific and concrete: "save 2 hours" not "save time", real scenarios not abstractions
+- Confident without being pushy, we know the product works, let the value speak
 
 AVOID:
+- Em dashes. Never use em dashes in ad copy. Use periods, commas, or colons instead.
 - Corporate buzzwords: "revolutionize", "leverage", "streamline", "cutting-edge", "innovative"
 - AI hype: "powered by AI", "next-generation", "transform your workflow"
 - Generic healthcare marketing: "in today's fast-paced healthcare environment"

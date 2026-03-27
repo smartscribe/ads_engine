@@ -27,8 +27,6 @@ class TemplatePlan:
     format: str                 # e.g. "single_image"
     width: int = 1080
     height: int = 1080
-    is_video: bool = False
-    video_duration_ms: int = 5000
     context: dict = field(default_factory=dict)
 
 
@@ -53,6 +51,13 @@ _TEXT_DENSITY_TEMPLATES = {
 
 _VISUAL_STYLE_TEMPLATES = {
     "text_heavy":        "feed_1080x1080/headline_hero",
+}
+
+# Format → template mapping for new Google display formats (G4)
+_FORMAT_TEMPLATES = {
+    "google_728x90":     "google_728x90/leaderboard",
+    "google_160x600":    "google_160x600/skyscraper",
+    "carousel":          "meta_carousel_frame/card",
 }
 
 # Color mood → color scheme mapping
@@ -105,16 +110,15 @@ class TemplateSelector:
         Returns:
             TemplatePlan with template path, color scheme, and rendering config.
         """
-        is_story = ad_format in (AdFormat.STORY, AdFormat.REELS)
-        is_video = ad_format == AdFormat.VIDEO or is_story
         is_display = ad_format == AdFormat.DISPLAY
         is_google = platform == Platform.GOOGLE
 
         # Pick template based on format first, then taxonomy
-        if is_display or is_google:
+        if ad_format == AdFormat.CAROUSEL:
+            template = _FORMAT_TEMPLATES.get("carousel", "meta_carousel_frame/card")
+            width, height = 1080, 1080
+        elif is_display or is_google:
             template = "display_1200x628/responsive"
-        elif is_story:
-            template = self._select_story_template(taxonomy)
         else:
             template = self._select_feed_template(taxonomy)
 
@@ -141,8 +145,6 @@ class TemplateSelector:
             format=ad_format.value if ad_format else "single_image",
             width=width,
             height=height,
-            is_video=is_video,
-            video_duration_ms=5000 if is_video else 0,
             context=context,
         )
 
@@ -176,10 +178,6 @@ class TemplateSelector:
 
         # Default for feed
         return "feed_1080x1080/headline_hero"
-
-    def _select_story_template(self, taxonomy: dict) -> str:
-        hook_type = taxonomy.get("hook_type", "")
-        return _STORY_TEMPLATES.get(hook_type, _STORY_TEMPLATES["_default"])
 
     def _apply_regression_overrides(
         self,

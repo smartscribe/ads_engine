@@ -79,8 +79,8 @@ class VariantMatrix:
                 scored_with_penalty, n=n_exploit
             )
             
-            exploit_combos = {s["combo"] for s in exploit_selected}
-            remaining = [s for s in scored_with_penalty if s["combo"] not in exploit_combos]
+            exploit_ids = {id(s["combo"]) for s in exploit_selected}
+            remaining = [s for s in scored_with_penalty if id(s["combo"]) not in exploit_ids]
             
             explore_selected = self._select_explore(remaining, n=n_explore)
             
@@ -461,3 +461,68 @@ class VariantMatrix:
                 selected.append((combo, 0.0))
 
         return selected
+
+    def diversity_report(self, variants: list) -> dict:
+        """
+        Analyze the diversity of a generated batch of AdVariant objects.
+
+        Checks minimum thresholds:
+        - hook_types: at least 4 distinct in any batch of 20
+        - tones: at least 3 distinct
+        - visual_styles: at least 3 distinct
+
+        Returns a dict with counts, coverage, and threshold_met flag.
+        """
+        hook_types = set()
+        tones = set()
+        visual_styles = set()
+        message_types = set()
+        cta_types = set()
+
+        for v in variants:
+            if not hasattr(v, "taxonomy") or v.taxonomy is None:
+                continue
+            t = v.taxonomy
+            if hasattr(t, "hook_type"):
+                hook_types.add(t.hook_type)
+            if hasattr(t, "tone"):
+                tones.add(t.tone)
+            if hasattr(t, "visual_style"):
+                visual_styles.add(t.visual_style)
+            if hasattr(t, "message_type"):
+                message_types.add(t.message_type)
+            if hasattr(t, "cta_type"):
+                cta_types.add(t.cta_type)
+
+        n = len(variants)
+        meets_threshold = (
+            len(hook_types) >= 4
+            and len(tones) >= 3
+            and len(visual_styles) >= 3
+        )
+
+        return {
+            "total_variants": n,
+            "hook_types": sorted(hook_types),
+            "tones": sorted(tones),
+            "visual_styles": sorted(visual_styles),
+            "message_types": sorted(message_types),
+            "cta_types": sorted(cta_types),
+            "counts": {
+                "hook_types": len(hook_types),
+                "tones": len(tones),
+                "visual_styles": len(visual_styles),
+                "message_types": len(message_types),
+                "cta_types": len(cta_types),
+            },
+            "thresholds": {
+                "hook_types": {"required": 4, "actual": len(hook_types), "met": len(hook_types) >= 4},
+                "tones": {"required": 3, "actual": len(tones), "met": len(tones) >= 3},
+                "visual_styles": {"required": 3, "actual": len(visual_styles), "met": len(visual_styles) >= 3},
+            },
+            "threshold_met": meets_threshold,
+            "missing_hook_types": [
+                h for h in ["question", "statistic", "testimonial", "provocative_claim", "scenario", "direct_benefit"]
+                if h not in hook_types
+            ],
+        }

@@ -84,25 +84,112 @@ class MemoryBuilder:
     def build(self) -> CreativeMemory:
         """Assemble the full creative memory from all data sources."""
         print("[memory_builder] Building creative memory...")
-        
+
         statistical = self._build_statistical_memory()
         editorial = self._build_editorial_memory()
         market = self._build_market_memory()
-        
+
+        # Apply memory decay and archiving (M3)
+        statistical = self._apply_memory_decay(statistical)
+
         data_quality = self._assess_data_quality(statistical, editorial)
-        
+
         memory = CreativeMemory(
             statistical=statistical,
             editorial=editorial,
             market=market,
             data_quality_score=data_quality,
         )
-        
+
         print(f"[memory_builder] Built memory: {len(statistical.winning_patterns)} winning patterns, "
               f"{len(editorial.approval_clusters)} approval clusters, "
               f"{len(market.combination_stats)} combinations tracked")
-        
+
         return memory
+
+    def _apply_memory_decay(self, statistical: StatisticalMemory) -> StatisticalMemory:
+        """
+        Apply temporal decay to statistical memory patterns (M3).
+
+        - Patterns older than 60 days: downgrade confidence_tier by one level
+        - Patterns with LOW confidence + >90 days old: move to archive
+
+        Confidence tier downgrade sequence:
+          high → moderate → directional → unreliable
+        """
+        today = date.today()
+        tier_downgrade = {
+            "high": "moderate",
+            "moderate": "directional",
+            "directional": "unreliable",
+            "insignificant": "unreliable",
+        }
+
+        active_winning = []
+        archived_winning = []
+        active_losing = []
+        archived_losing = []
+
+        for patterns, active_list, archived_list in [
+            (statistical.winning_patterns, active_winning, archived_winning),
+            (statistical.losing_patterns, active_losing, archived_losing),
+        ]:
+            for p in patterns:
+                snapshot_date = p.memory_snapshot_date or p.first_significant_date or today
+                days_old = (today - snapshot_date).days
+
+                if days_old > 60:
+                    current_tier = p.confidence_tier
+                    p.confidence_tier = tier_downgrade.get(current_tier, "unreliable")
+
+                if p.confidence_tier in ("unreliable", "insignificant") and days_old > 90:
+                    archived_list.append(p)
+                    print(f"[memory_builder] Archiving stale pattern: {p.feature} ({days_old}d old, {p.confidence_tier})")
+                else:
+                    active_list.append(p)
+
+        # Archive stale patterns if any
+        if archived_winning or archived_losing:
+            self._archive_patterns(archived_winning + archived_losing, reason="stale_low_confidence")
+
+        statistical.winning_patterns = active_winning
+        statistical.losing_patterns = active_losing
+        return statistical
+
+    def _archive_patterns(self, patterns: list, reason: str) -> None:
+        """Move patterns to archive storage (M3)."""
+        import json
+        from pathlib import Path
+
+        archive_dir = Path(self.store.base) / "memory" / "archive"
+        archive_dir.mkdir(parents=True, exist_ok=True)
+
+        archive_file = archive_dir / f"{date.today()}.json"
+        archive_data = {
+            "archived_at": date.today().isoformat(),
+            "reason": reason,
+            "count": len(patterns),
+            "patterns": [
+                {
+                    "feature": p.feature,
+                    "confidence_tier": p.confidence_tier,
+                    "rule": p.rule,
+                    "snapshot_date": p.memory_snapshot_date.isoformat() if p.memory_snapshot_date else None,
+                }
+                for p in patterns
+            ],
+        }
+
+        try:
+            existing = []
+            if archive_file.exists():
+                existing = json.loads(archive_file.read_text())
+                if not isinstance(existing, list):
+                    existing = [existing]
+            existing.append(archive_data)
+            archive_file.write_text(json.dumps(existing, indent=2))
+        except Exception as e:
+            print(f"[memory_builder] Archive write failed: {e}")
 
     def _build_statistical_memory(self) -> StatisticalMemory:
         """Convert regression results into prompt-ready insights."""
@@ -154,8 +241,13 @@ class MemoryBuilder:
         """Build a fully-rendered PatternInsight from a feature."""
         coeff = current.coefficients.get(feature, 0)
         p_value = current.p_values.get(feature, 1)
-        
-        confidence_tier = self._get_confidence_tier(p_value)
+
+        # Use bootstrap-validated confidence tiers when available (R1),
+        # otherwise fall back to p-value-based tiering
+        if current.confidence_tiers and feature in current.confidence_tiers:
+            confidence_tier = current.confidence_tiers[feature]
+        else:
+            confidence_tier = self._get_confidence_tier(p_value)
         
         positive_examples, negative_examples = self._find_example_ads(feature)
         
@@ -179,6 +271,7 @@ class MemoryBuilder:
             trend=trend,
             first_significant_date=first_sig_date,
             cycles_significant=cycles_sig,
+            memory_snapshot_date=date.today(),
         )
 
     def _find_example_ads(self, feature: str, n: int = 3) -> tuple[list[str], list[str]]:
@@ -509,14 +602,19 @@ class MemoryBuilder:
     def _build_editorial_memory(self) -> EditorialMemory:
         """Build editorial memory from review history."""
         variants = self.store.get_all_variants()
-        
+
         approved = [v for v in variants if v.status in (AdStatus.APPROVED, AdStatus.GRADUATED)]
         rejected = [v for v in variants if v.status == AdStatus.REJECTED]
-        
+
         approval_clusters = self._cluster_approvals(approved)
         rejection_rules = self._extract_rejection_rules(rejected)
         reviewer_profiles = self._build_reviewer_profiles(variants)
-        
+
+        # Load synthesized reviewer preferences from voice notes (M2)
+        synthesized = self._load_synthesized_preferences()
+        if synthesized:
+            reviewer_profiles = self._merge_synthesized_preferences(reviewer_profiles, synthesized)
+
         return EditorialMemory(
             approval_clusters=approval_clusters,
             rejection_rules=rejection_rules,
@@ -524,6 +622,59 @@ class MemoryBuilder:
             total_approvals=len(approved),
             total_rejections=len(rejected),
         )
+
+    def _load_synthesized_preferences(self) -> list[dict]:
+        """Load synthesized reviewer preferences from voice notes (M2)."""
+        import json
+        from pathlib import Path
+
+        synth_path = Path(self.store.base) / "memory" / "voice_notes" / "synthesized.json"
+        if not synth_path.exists():
+            return []
+        try:
+            data = json.loads(synth_path.read_text())
+            return data.get("preferences", [])
+        except Exception:
+            return []
+
+    def _merge_synthesized_preferences(
+        self, existing_profiles: list, synthesized: list[dict]
+    ) -> list:
+        """Merge synthesized voice note preferences into reviewer profiles."""
+        from engine.memory.models import ReviewerProfile
+
+        reviewer_prefs: dict[str, list] = {}
+        for pref in synthesized:
+            reviewer = pref.get("reviewer", "unknown")
+            if reviewer not in reviewer_prefs:
+                reviewer_prefs[reviewer] = []
+            reviewer_prefs[reviewer].append(pref)
+
+        for reviewer, prefs in reviewer_prefs.items():
+            preferred = [p for p in prefs if p.get("direction") == "prefer"]
+            disliked = [p for p in prefs if p.get("direction") == "avoid"]
+
+            existing = next((p for p in existing_profiles if p.reviewer == reviewer), None)
+            if existing is None:
+                existing = ReviewerProfile(
+                    reviewer=reviewer,
+                    approval_rate=0.5,
+                    preferred_patterns=[{"rule": p["rule"], "confidence": p["confidence"]} for p in preferred],
+                    disliked_patterns=[{"rule": p["rule"], "confidence": p["confidence"]} for p in disliked],
+                    sample_size=len(prefs),
+                )
+                existing_profiles.append(existing)
+            else:
+                if preferred:
+                    existing.preferred_patterns.extend(
+                        {"rule": p["rule"], "confidence": p["confidence"]} for p in preferred
+                    )
+                if disliked:
+                    existing.disliked_patterns.extend(
+                        {"rule": p["rule"], "confidence": p["confidence"]} for p in disliked
+                    )
+
+        return existing_profiles
 
     def _cluster_approvals(self, approved: list) -> list[ApprovalCluster]:
         """Cluster approved ads by taxonomy signature."""
@@ -766,41 +917,44 @@ class MemoryBuilder:
 
     def build_generation_context(self, memory: CreativeMemory) -> GenerationContext:
         """Build the prompt-ready GenerationContext from memory."""
-        
+
         winning_rules = [p.rule for p in memory.statistical.winning_patterns[:5]]
         losing_rules = [p.rule for p in memory.statistical.losing_patterns[:3]]
-        
+
         exemplar_headlines = []
         for p in memory.statistical.winning_patterns[:3]:
             exemplar_headlines.extend(p.positive_examples[:2])
-        
+
         exemplar_bodies = [
             c.representative_body[:100] for c in memory.editorial.approval_clusters[:3]
         ]
-        
+
         approved_patterns = [
             f"Pattern: {c.signature} (approved {c.count}x). Example: '{c.representative_headline}'"
             for c in memory.editorial.approval_clusters[:5]
         ]
-        
+
         rejection_rules = [r.rule for r in memory.editorial.rejection_rules[:5]]
-        
+
         fatigue_warnings = [
             f"AVOID: {a.feature} — {a.recommendation} (deployed {a.deployments}x)"
             for a in memory.statistical.fatiguing_patterns[:3]
         ]
-        
+
         exploration_targets = [
             f"EXPERIMENT: {combo} — only tested {count}x"
             for combo, count in memory.market.least_tested_combinations[:3]
         ]
-        
+
         confidence_note = (
             f"Model R²={memory.statistical.r_squared:.2f}, "
             f"n={memory.statistical.n_observations}. "
             f"{'High confidence' if memory.data_quality_score > 0.7 else 'Treat as directional'}."
         )
-        
+
+        # Load stylistic references from swipe file ads (A4)
+        stylistic_references = self._build_stylistic_references()
+
         return GenerationContext(
             winning_rules=winning_rules,
             losing_rules=losing_rules,
@@ -811,4 +965,36 @@ class MemoryBuilder:
             fatigue_warnings=fatigue_warnings,
             exploration_targets=exploration_targets,
             confidence_note=confidence_note,
+            stylistic_references=stylistic_references,
         )
+
+    def _build_stylistic_references(self, max_refs: int = 5) -> list[str]:
+        """
+        Load swipe file ads and extract copy/style descriptions as stylistic references.
+        These are ads with source='swipe_file' — competitor or best-in-class examples.
+        """
+        try:
+            all_ads = self.store.get_all_existing_ads()
+            swipe_ads = [a for a in all_ads if getattr(a, "source", "meta_api") == "swipe_file"]
+            if not swipe_ads:
+                return []
+
+            references = []
+            for ad in swipe_ads[:max_refs]:
+                parts = []
+                if ad.headline:
+                    parts.append(f"Headline: \"{ad.headline}\"")
+                if ad.body:
+                    parts.append(f"Copy: \"{ad.body[:100]}\"")
+                if ad.taxonomy:
+                    parts.append(
+                        f"Style: {ad.taxonomy.visual_style}, "
+                        f"tone={ad.taxonomy.tone}, "
+                        f"hook={ad.taxonomy.hook_type}"
+                    )
+                if parts:
+                    references.append(" | ".join(parts))
+
+            return references
+        except Exception:
+            return []

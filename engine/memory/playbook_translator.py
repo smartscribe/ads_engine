@@ -102,9 +102,18 @@ class PlaybookTranslator:
     def translate(self, regression: RegressionResult) -> list[PlaybookRule]:
         """
         Convert regression results into playbook rules with examples.
+        Only translates features with confidence_tier "high" or "moderate" when
+        run_with_validation() data is available. Falls back to p-value filtering
+        when confidence_tiers is not populated (backward compat).
         """
+        use_tiers = bool(regression.confidence_tiers)
+
         significant = []
         for feature in regression.top_positive_features[:10]:
+            if use_tiers:
+                tier = regression.confidence_tiers.get(feature, "unreliable")
+                if tier not in ("high", "moderate"):
+                    continue
             significant.append({
                 "feature": feature,
                 "coefficient": regression.coefficients[feature],
@@ -112,8 +121,12 @@ class PlaybookTranslator:
                 "direction": "use_more",
                 "description": FEATURE_DESCRIPTIONS.get(feature, feature),
             })
-        
+
         for feature in regression.top_negative_features[:10]:
+            if use_tiers:
+                tier = regression.confidence_tiers.get(feature, "unreliable")
+                if tier not in ("high", "moderate"):
+                    continue
             significant.append({
                 "feature": feature,
                 "coefficient": regression.coefficients[feature],

@@ -232,14 +232,30 @@
             width: 100%;
             height: 100%;
             object-fit: cover;
+            flex-shrink: 0;
         }
 
         .tinder-card .asset-area iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
             width: 1080px;
             height: 1080px;
             transform-origin: top left;
             border: none;
             pointer-events: none;
+        }
+
+        .tinder-card .asset-area .asset-badge {
+            position: absolute;
+            top: 8px;
+            right: 8px;
+            padding: 2px 7px;
+            border-radius: 4px;
+            background: rgba(0,0,0,0.65);
+            color: var(--text-muted);
+            font-size: 10px;
+            z-index: 2;
         }
 
         .tinder-card .asset-area .placeholder-area {
@@ -567,6 +583,9 @@
         .gallery-card .asset video { width: 100%; height: 100%; object-fit: cover; }
 
         .gallery-card .asset iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
             width: 1080px;
             height: 1080px;
             transform-origin: top left;
@@ -1057,6 +1076,7 @@
             <option value="aryan">Aryan</option>
             <option value="alex">Alex</option>
             <option value="daniel">Daniel</option>
+            <option value="adam">Adam</option>
         </select>
     </div>
 </nav>
@@ -1299,18 +1319,11 @@ function buildAssetHtml(v, isTinder) {
     const status = v.asset_status || 'pending';
     const path = v.asset_path || '';
     const isImg = status === 'rendered' && /\.(png|jpg|jpeg|webp)$/i.test(path);
-    const isVid = status === 'rendered' && /\.(mp4|webm)$/i.test(path);
 
     if (isImg) {
         return `<div class="${isTinder ? 'asset-area' : 'asset'}">
             <img src="/${path}" alt="${esc(v.headline)}" onerror="this.parentElement.innerHTML=fallbackPlaceholder()">
             <span class="asset-badge">image</span>
-        </div>`;
-    }
-    if (isVid) {
-        return `<div class="${isTinder ? 'asset-area' : 'asset'}">
-            <video src="/${path}" muted playsinline onerror="this.parentElement.innerHTML=fallbackPlaceholder()"></video>
-            <span class="asset-badge">video</span>
         </div>`;
     }
     if (status === 'template_available') {
@@ -1778,7 +1791,7 @@ function renderLearnings(data) {
             <div class="profile-stat"><span class="pl">Total reviews</span><span class="pv">${ri.total_reviews}</span></div>
             <div class="profile-stat"><span class="pl">Approval rate</span><span class="pv">${(ri.approval_rate * 100).toFixed(0)}%</span></div>
             <div class="profile-stat"><span class="pl">Chip coverage</span><span class="pv">${(ri.chip_coverage_rate * 100).toFixed(0)}% of reviews</span></div>
-            <div class="profile-stat"><span class="pl">Avg review time</span><span class="pv">${ri.avg_review_duration_ms ? (ri.avg_review_duration_ms / 1000).toFixed(1) + 's' : '—'}</span></div>
+            <div class="profile-stat"><span class="pl">Median review time</span><span class="pv">${ri.median_review_duration_ms ? (ri.median_review_duration_ms / 1000).toFixed(1) + 's' : '—'}</span></div>
             ${ri.top_rejection_chips?.length ? `<div style="margin-top:8px;font-size:11px;color:var(--text-dim);">Top rejection reasons: ${ri.top_rejection_chips.map(([id]) => id.replace(/_/g, ' ')).join(', ')}</div>` : ''}
         </div>
     ` : `<div class="learnings-empty">No reviews recorded yet for ${esc(reviewer)}.</div>`;

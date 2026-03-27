@@ -21,14 +21,15 @@ Scheduler, multi-channel, budget automation, full hands-off daily cycle.
 
 | Stage | Quality | Status |
 |-------|---------|--------|
-| Analysis (existing ads → insights) | 🔶 Good skeleton, needs depth | ✅ Running |
-| Brief / Intake (idea → structured brief) | 🔶 Works, briefs are thin | ✅ Running |
-| Generation — Copy (brief → headlines/body/CTA) | 🔶 Works, quality unverified | ✅ Running |
-| Generation — Images (brief → visuals) | 🔴 Likely AI-looking | 🔄 In Progress |
-| Generation — Templates (HTML → PNG) | 🔶 3 templates, unaudited | 🔄 In Progress |
-| Generation — Video (brief → Veo clips) | 🔴 Untested end-to-end | 🔄 In Progress |
-| Regression (perf data → coefficients) | 🔶 Good model, thin data (141 obs) | ✅ Running |
-| Memory (compounding knowledge system) | 🔶 Architecture done, untested live | ✅ Running |
+| Analysis (existing ads → insights) | 🟢 Taxonomy audit tools built, confidence scoring added | ✅ Running |
+| Brief / Intake (idea → structured brief) | 🟢 Rich 6-field briefs, re-prompt validation, playbook injection | ✅ Running |
+| Generation — Copy (brief → headlines/body/CTA) | 🟢 Gold standard examples, memory-injected, CTAAgent wired | ✅ Running |
+| Generation — Images (brief → visuals) | 🔶 Style differentiation added, quality unverified | 🔄 In Progress |
+| Generation — Templates (HTML → PNG) | 🟢 6 templates + 3 new (carousel, 728x90, skyscraper) | ✅ Running |
+| Generation — Video (brief → Veo clips) | 🔶 10 video scenes (was 3), end-to-end untested | 🔄 In Progress |
+| Regression (perf data → coefficients) | 🟢 Holdout + bootstrap CIs + confidence tiers | ✅ Running |
+| Memory (compounding knowledge system) | 🟢 Decay, archiving, voice notes, stylistic refs | ✅ Running |
+| Concept-to-20-Variants | 🟢 ConceptExpander + SSE endpoint + CLI | ✅ Running |
 | Review (gallery + approve/reject) | 🔶 Works, needs UI polish | 🔄 Partial |
 | Deploy (variants → Meta/Google) | — | 🚧 Stubbed |
 | Track (pull daily metrics) | — | 🚧 Stubbed |
@@ -60,7 +61,7 @@ Scheduler, multi-channel, budget automation, full hands-off daily cycle.
 ### ANALYSIS STAGE
 
 ### A1. Taxonomy Quality Audit — are Claude's tags actually accurate?
-- **Status:** ⬜ Not Started
+- **Status:** ✅ Done
 - **Owner:** Aryan + Alex
 - **Why it matters:** The entire regression and memory system is built on taxonomy tags. If Claude is mislabeling `hook_type` or conflating `tone` dimensions, every downstream coefficient is noise.
 - **What's needed:**
@@ -74,7 +75,7 @@ Scheduler, multi-channel, budget automation, full hands-off daily cycle.
 ---
 
 ### A2. Brief Quality Improvement — richer briefs → better variants
-- **Status:** ⬜ Not Started
+- **Status:** ✅ Done
 - **Owner:** Aryan + Alex
 - **Why it matters:** `IntakeParser` converts free-form ideas into `CreativeBrief`. If the brief is thin (vague tone, generic value prop), the generator has nothing to work with. Garbage in, garbage out.
 - **What's needed:**
@@ -88,7 +89,7 @@ Scheduler, multi-channel, budget automation, full hands-off daily cycle.
 ---
 
 ### A3. Playbook Brief Quality — are extracted briefs actually generation-ready?
-- **Status:** ⬜ Not Started
+- **Status:** ✅ Done
 - **Owner:** Aryan
 - **Why it matters:** `extract_briefs_from_playbook()` produces the briefs used in the automated `generate_from_playbook()` path. These briefs need to be as rich as hand-crafted ones.
 - **What's needed:**
@@ -101,7 +102,7 @@ Scheduler, multi-channel, budget automation, full hands-off daily cycle.
 ---
 
 ### A4. Swipe File Ingestion — more signal into analysis
-- **Status:** ⬜ Not Started
+- **Status:** ✅ Done
 - **Owner:** Alex
 - **Why it matters:** 432 tagged ads is a decent dataset but it's all JotPsych history. Swipe files (competitor ads, best-in-class healthcare ads) add qualitative signal to generation context without polluting regression coefficients.
 - **What's needed:**
@@ -117,7 +118,7 @@ Scheduler, multi-channel, budget automation, full hands-off daily cycle.
 ### GENERATION STAGE
 
 ### G1. Copy Quality Deep Dive — benchmark and improve headline/body/CTA agents
-- **Status:** ⬜ Not Started
+- **Status:** ✅ Done
 - **Owner:** Alex + Aryan
 - **Why it matters:** We've never actually benchmarked whether the copy agents produce human-quality output. The quality filter catches obvious AI slop, but great copy requires a higher bar.
 - **What's needed:**
@@ -132,7 +133,7 @@ Scheduler, multi-channel, budget automation, full hands-off daily cycle.
 ---
 
 ### G2. Concept-to-20-Variants Workflow
-- **Status:** 🔄 Partial (v2 pipeline generates variants but concept → structured diversification not formalized)
+- **Status:** ✅ Done
 - **Owner:** Alex + Aryan
 - **Why it matters:** The agreed workflow (from 3/25 kickoff) is: human gives concept → engine creates 20 tactical variants. This is the core usage pattern. Right now generation produces variants but doesn't systematically explore the concept space.
 - **What's needed:**
@@ -193,7 +194,7 @@ Scheduler, multi-channel, budget automation, full hands-off daily cycle.
 ---
 
 ### G6. Generation Diversity Check
-- **Status:** ⬜ Not Started
+- **Status:** ✅ Done
 - **Owner:** Alex
 - **Why it matters:** If 20 variants from the same brief are all minor copy permutations of the same idea, we're not exploring the creative space — we're just generating noise.
 - **What's needed:**
@@ -208,7 +209,7 @@ Scheduler, multi-channel, budget automation, full hands-off daily cycle.
 ### REGRESSION STAGE
 
 ### R1. Model Validation — are the coefficients trustworthy?
-- **Status:** ⬜ Not Started
+- **Status:** ✅ Done
 - **Owner:** Aryan
 - **Why it matters:** R²=0.34 on 141 observations with 30+ one-hot features is likely overfit. Before trusting coefficients to guide generation, we need to know which ones are real signal.
 - **What's needed:**
@@ -222,7 +223,7 @@ Scheduler, multi-channel, budget automation, full hands-off daily cycle.
 ---
 
 ### R2. Feature Engineering Review — are we capturing the right signals?
-- **Status:** ⬜ Not Started
+- **Status:** ✅ Done
 - **Owner:** Aryan
 - **Why it matters:** The regression is only as good as the features it has to work with. If we're missing a key creative dimension (e.g., whether the ad includes a specific number, or whether there's a human face visible), we can't learn from it.
 - **What's needed:**
@@ -238,7 +239,7 @@ Scheduler, multi-channel, budget automation, full hands-off daily cycle.
 ### MEMORY STAGE
 
 ### M1. Memory → Generation Quality Test — does memory actually improve output?
-- **Status:** ⬜ Not Started
+- **Status:** ✅ Done
 - **Owner:** Alex + Aryan
 - **Why it matters:** We built a sophisticated 3-layer memory system and inject `GenerationContext` into copy agents. We've never verified it helps. If it doesn't improve quality, we're paying Claude tokens for nothing. If it does, we should understand why and double down.
 - **What's needed:**
@@ -252,7 +253,7 @@ Scheduler, multi-channel, budget automation, full hands-off daily cycle.
 ---
 
 ### M2. Voice Notes → Reviewer Preferences
-- **Status:** ⬜ Not Started
+- **Status:** ✅ Done
 - **Owner:** Aryan + Alex (Nate + Jackson as weekly reviewers)
 - **Why it matters:** `EditorialMemory.reviewer_profiles` is the most direct signal about what Nate and Jackson actually want. Right now it's empty because there's no capture mechanism. Weekly review sessions are planned but preferences aren't being extracted.
 - **What's needed:**
@@ -266,7 +267,7 @@ Scheduler, multi-channel, budget automation, full hands-off daily cycle.
 ---
 
 ### M3. Memory Persistence + Reset Strategy
-- **Status:** ⬜ Not Started
+- **Status:** ✅ Done
 - **Owner:** Aryan
 - **Why it matters:** Memory grows indefinitely. Old patterns may become stale (creative fatigue, seasonal shifts). We need a strategy for when to weight down or archive old memory vs keep it.
 - **What's needed:**
@@ -464,5 +465,5 @@ Scheduler, multi-channel, budget automation, full hands-off daily cycle.
 
 ---
 
-*Last updated: 2026-03-26 — Aryan*
+*Last updated: 2026-03-27 — Aryan (P0 complete)*
 *Next review: Start of each sprint / major session*

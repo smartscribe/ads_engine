@@ -230,7 +230,13 @@ class MetaAdsExporter:
 TAXONOMY_PROMPT = """\
 You are analyzing paid ads for JotPsych, an AI documentation tool for behavioral health clinicians.
 
-For each ad below, assign taxonomy tags using EXACTLY these categories:
+For each ad below, assign taxonomy tags using EXACTLY these categories.
+
+MECE boundary rules (enforce strictly):
+- hook_type: use "statistic" if a specific number is present, even if it also states a benefit
+- tone: "warm" = warm-colleague energy (peer-to-peer), "empathetic" = I-feel-your-pain energy
+- subject_matter: "patient_interaction" ONLY if a patient is visibly present in the scene
+- text_density: "headline_only" <5 words; "headline_subhead" 5-15 words; "detailed_copy" 15+
 
 message_type: one of [value_prop, pain_point, social_proof, urgency, education, comparison]
 hook_type: one of [question, statistic, testimonial, provocative_claim, scenario, direct_benefit]
@@ -247,12 +253,68 @@ uses_first_person: boolean (does the copy use "I"/"my" vs "you"/"your"?)
 uses_social_proof: boolean (does it mention other clinicians, stats, or testimonials?)
 copy_reading_level: float (estimate Flesch-Kincaid grade level)
 
+EXTENDED DIMENSIONS (also required):
+contains_specific_number: boolean (is a specific number visually prominent in the image — e.g. a stat callout "2 hrs saved"? distinct from uses_number which is about copy text)
+shows_product_ui: boolean (is the JotPsych app UI visibly shown in the creative?)
+human_face_visible: boolean (is a human face visible in the image/video?)
+social_proof_type: one of [none, peer, testimonial, stat] (type of social proof if any)
+copy_length_bin: one of [short, medium, long] (short = headline <15 words total; medium = 15-40; long = 40+)
+
+CONFIDENCE SCORING (required):
+For each dimension, rate your confidence that your tag is correct.
+tagging_confidence: a dict mapping each dimension name to a float 0.0-1.0.
+  1.0 = absolutely certain based on clear copy/visual evidence
+  0.7 = fairly confident but some ambiguity
+  0.5 = guessing — no copy/visual evidence available
+  Example: {{"message_type": 0.9, "hook_type": 0.7, "visual_style": 0.5, ...}}
+
 Here are the ads:
 {ads_json}
 
-Return a JSON array with one object per ad, in the same order. Each object should have:
-{{"meta_ad_id": "...", "message_type": "...", "hook_type": "...", ...all taxonomy fields...}}
+Return a JSON array with one object per ad, in the same order. Each object must include:
+{{"meta_ad_id": "...", "message_type": "...", "hook_type": "...", ...all taxonomy fields..., "tagging_confidence": {{...}}}}
 """
+
+# Corrections map for auto-fixing known Claude typos/variations (A1)
+# Maps incorrect tag values -> correct canonical values
+TAXONOMY_CORRECTIONS: dict[str, dict[str, str]] = {
+    "visual_style": {
+        "photographic": "photography",
+        "photo": "photography",
+        "illustrative": "illustration",
+        "text_only": "text_heavy",
+        "screen_shot": "screen_capture",
+        "screenshot": "screen_capture",
+    },
+    "hook_type": {
+        "benefit": "direct_benefit",
+        "stats": "statistic",
+        "stat": "statistic",
+        "question_hook": "question",
+    },
+    "tone": {
+        "professional": "authoritative",
+        "clinical_professional": "clinical",
+        "friendly": "warm",
+        "inspirational": "empathetic",
+    },
+    "message_type": {
+        "value_proposition": "value_prop",
+        "pain": "pain_point",
+        "proof": "social_proof",
+    },
+    "subject_matter": {
+        "clinician_working": "clinician_at_work",
+        "product": "product_ui",
+        "workflow": "workflow_comparison",
+    },
+    "cta_type": {
+        "start_saving": "start_saving_time",
+        "see_how_it_works": "see_how",
+        "watch": "watch_video",
+        "free_trial": "try_free",
+    },
+}
 
 PORTFOLIO_PROMPT = """\
 You are a quantitative creative strategist for JotPsych, an AI documentation tool for behavioral health clinicians.
@@ -350,6 +412,11 @@ class CreativeAnalyzer:
                         fmt = self._ad_format_from_creative_type(ad.creative_type)
                         tag_data.pop("meta_ad_id", None)
 
+                        # Auto-correct known typos/variations (A1)
+                        for field, corrections in TAXONOMY_CORRECTIONS.items():
+                            if field in tag_data and tag_data[field] in corrections:
+                                tag_data[field] = corrections[tag_data[field]]
+
                         # Provide defaults for any None fields Claude returns
                         # (happens for ads with no copy text — usually video/carousel with empty creative)
                         str_fields = ["message_type", "hook_type", "cta_type", "tone",
@@ -375,12 +442,34 @@ class CreativeAnalyzer:
                             if tag_data.get(bool_field) is None:
                                 tag_data[bool_field] = False
 
+                        # Extended fields defaults (R2)
+                        for bool_field in ["contains_specific_number", "shows_product_ui", "human_face_visible"]:
+                            if tag_data.get(bool_field) is None:
+                                tag_data[bool_field] = False
+                        if tag_data.get("social_proof_type") is None:
+                            tag_data["social_proof_type"] = "none"
+                        if tag_data.get("copy_length_bin") is None:
+                            tag_data["copy_length_bin"] = "medium"
+
+                        # Extract and remove tagging_confidence before constructing taxonomy
+                        tagging_confidence = tag_data.pop("tagging_confidence", {})
+
                         ad.taxonomy = CreativeTaxonomy(
                             **tag_data,
                             format=fmt,
                             platform=Platform.META,
                             placement="feed",
+                            tagging_confidence=tagging_confidence if isinstance(tagging_confidence, dict) else {},
                         )
+
+                        # Validate taxonomy values (A1) — log warnings for OOV values
+                        violations = ad.taxonomy.validate_values()
+                        if violations:
+                            print(
+                                f"[analyzer] Taxonomy validation warnings for {ad.meta_ad_id}: "
+                                + "; ".join(violations)
+                            )
+
                         ad.analyzed_at = datetime.utcnow()
                         store.save_existing_ad(ad)
                         newly_tagged.append(ad)
@@ -485,6 +574,10 @@ class CreativeAnalyzer:
         """
         Parse the Creative Briefs section from the playbook into CreativeBrief objects.
         Reads from data/existing_creative/playbook.md if no text provided.
+
+        Each brief is scored on richness (1-10). Briefs below 6 are re-extracted
+        with a more specific prompt (max 1 retry per brief). Source pattern ID
+        is tracked back to the playbook section that generated it (A3).
         """
         if playbook_md is None:
             path = Path("data/existing_creative/playbook.md")
@@ -494,16 +587,28 @@ class CreativeAnalyzer:
             playbook_md = path.read_text()
 
         prompt = (
-            "Extract the Creative Briefs from this playbook. For each brief, output a JSON object.\n\n"
+            "Extract the Creative Briefs from this playbook. For each brief, output a RICH, SPECIFIC JSON object.\n\n"
+            "RICHNESS RULES (required — vague answers will be rejected):\n"
+            "- tone_direction: describe a voice/relationship, not just 'warm' or 'professional'\n"
+            "- emotional_register: emotional arc from viewer's current state to desired state (from → to)\n"
+            "- proof_element: specific stat or concrete evidence ('saves 2hrs/day', not 'backed by research')\n"
+            "- hook_strategy: specific opening scene or verbatim question, not just 'engaging'\n"
+            "- target_persona_details: specific archetype with daily routine and pain moment\n\n"
             "Output a JSON array where each element has:\n"
             "{\n"
             '  "target_audience": "bh_clinicians" or "smb_clinic_owners",\n'
             '  "value_proposition": "the core promise in one sentence",\n'
             '  "pain_point": "the specific problem being addressed",\n'
             '  "desired_action": "what the viewer should do",\n'
-            '  "tone_direction": "tone guidance from the brief",\n'
-            '  "visual_direction": "visual direction from the brief",\n'
+            '  "tone_direction": "SPECIFIC voice/energy description",\n'
+            '  "visual_direction": "setting, lighting, props, subject",\n'
             '  "key_phrases": ["specific headlines or phrases to use"],\n'
+            '  "emotional_register": "REQUIRED: arc from current state to desired state",\n'
+            '  "proof_element": "REQUIRED: specific stat or evidence",\n'
+            '  "hook_strategy": "REQUIRED: specific opening scene or question",\n'
+            '  "target_persona_details": "REQUIRED: archetype with daily routine and pain moment",\n'
+            '  "brief_richness_score": <float 1-10, honest self-score>,\n'
+            '  "source_pattern_id": "which section/pattern in the playbook seeded this brief",\n'
             '  "num_variants": 6,\n'
             '  "formats_requested": ["single_image", "video"],\n'
             '  "platforms": ["meta"]\n'
@@ -515,11 +620,12 @@ class CreativeAnalyzer:
         print("[analyzer] Extracting creative briefs from playbook...")
         resp = self.client.messages.create(
             model="claude-sonnet-4-5-20250929",
-            max_tokens=4000,
+            max_tokens=6000,
             messages=[{"role": "user", "content": prompt}],
         )
 
         from engine.models import CreativeBrief, AdFormat as AF, Platform as P
+        from engine.intake.parser import validate_brief
 
         raw = self._parse_json_response(resp.content[0].text)
         briefs = []
@@ -529,21 +635,66 @@ class CreativeAnalyzer:
                     raw_input=f"[auto-generated from playbook] {data.get('value_proposition', '')}",
                     source="playbook",
                     target_audience=data.get("target_audience", "bh_clinicians"),
-                    value_proposition=data["value_proposition"],
+                    value_proposition=data.get("value_proposition", ""),
                     pain_point=data.get("pain_point", ""),
                     desired_action=data.get("desired_action", "Learn more about JotPsych"),
-                    tone_direction=data.get("tone_direction", "empathetic"),
+                    tone_direction=data.get("tone_direction", ""),
                     visual_direction=data.get("visual_direction", ""),
                     key_phrases=data.get("key_phrases", []),
+                    emotional_register=data.get("emotional_register", ""),
+                    proof_element=data.get("proof_element", ""),
+                    hook_strategy=data.get("hook_strategy", ""),
+                    target_persona_details=data.get("target_persona_details", ""),
+                    brief_richness_score=float(data.get("brief_richness_score", 0.0)),
+                    source_pattern_id=data.get("source_pattern_id"),
                     num_variants=data.get("num_variants", 6),
                     formats_requested=[AF(f) for f in data.get("formats_requested", ["single_image", "video"])],
                     platforms=[P(p) for p in data.get("platforms", ["meta"])],
                 )
+
+                # Validate and re-extract if too vague (A3)
+                computed_score, vague_fields = validate_brief(brief)
+                brief.brief_richness_score = computed_score
+
+                if computed_score < 6 and vague_fields:
+                    print(
+                        f"[analyzer] Brief '{brief.value_proposition[:40]}' scored {computed_score}/10 — "
+                        f"re-extracting with feedback"
+                    )
+                    retry_prompt = (
+                        f"The following brief scored {computed_score}/10 on specificity. "
+                        f"Rewrite it to be MORE SPECIFIC on these weak fields:\n"
+                        + "\n".join(f"- {v}" for v in vague_fields)
+                        + f"\n\nOriginal brief context: {data.get('value_proposition', '')}\n"
+                        f"Source pattern: {data.get('source_pattern_id', 'unknown')}\n\n"
+                        f"Return a single JSON object with the same structure as above."
+                    )
+                    try:
+                        retry_resp = self.client.messages.create(
+                            model="claude-sonnet-4-5-20250929",
+                            max_tokens=2000,
+                            messages=[{"role": "user", "content": retry_prompt}],
+                        )
+                        retry_data = self._parse_json_response(retry_resp.content[0].text)
+                        if isinstance(retry_data, list):
+                            retry_data = retry_data[0]
+                        for field in ["emotional_register", "proof_element", "hook_strategy",
+                                      "target_persona_details", "tone_direction"]:
+                            if retry_data.get(field):
+                                setattr(brief, field, retry_data[field])
+                        retry_score, _ = validate_brief(brief)
+                        brief.brief_richness_score = retry_score
+                        print(f"[analyzer] After retry: {retry_score}/10")
+                    except Exception as re:
+                        print(f"[analyzer] Brief retry failed: {re}")
+
                 briefs.append(brief)
             except Exception as e:
                 print(f"[analyzer] Failed to parse brief: {e}")
 
         print(f"[analyzer] Extracted {len(briefs)} briefs from playbook")
+        avg_score = sum(b.brief_richness_score for b in briefs) / len(briefs) if briefs else 0
+        print(f"[analyzer] Average brief richness score: {avg_score:.1f}/10")
         return briefs
 
     @staticmethod

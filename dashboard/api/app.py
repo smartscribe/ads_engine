@@ -25,9 +25,9 @@ from datetime import date
 from pathlib import Path
 from typing import Optional
 
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, HTTPException, UploadFile, File
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi.responses import HTMLResponse
+from fastapi.responses import HTMLResponse, StreamingResponse
 from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel
 
@@ -97,21 +97,186 @@ class ReviewAction(BaseModel):
 @app.post("/api/intake")
 async def submit_idea(idea: IdeaInput):
     """Parse a free-form idea into a brief, generate variants."""
-    parser = IntakeParser()
-    brief = parser.parse(idea.raw_text, source=idea.source)
-    store.save_brief(brief)
+    from engine.orchestrator import AdCampaignOrchestrator
+    orchestrator = AdCampaignOrchestrator()
+    result = orchestrator.submit_idea(idea.raw_text, source=idea.source)
+    return result
 
-    generator = CreativeGenerator()
-    variants = generator.generate_with_templates(brief, use_v2=True, store=store)
-    for v in variants:
-        store.save_variant(v)
 
-    notifier.notify_variants_generated(brief.id, variants)
+class ConceptInput(BaseModel):
+    concept: str
+    num_variants: int = 20
+
+
+@app.post("/api/intake/concept")
+async def submit_concept(concept: ConceptInput):
+    """
+    Expand a high-level concept into 20 diverse creative briefs, then generate variants.
+    Returns an SSE stream of progress events.
+    """
+    import json as _json
+    import asyncio
+
+    async def event_generator():
+        try:
+            from engine.intake.concept_expander import ConceptExpander
+            from engine.orchestrator import AdCampaignOrchestrator
+            from engine.generation.generator import CreativeGenerator
+            from engine.memory.builder import MemoryBuilder
+
+            expander = ConceptExpander()
+            orchestrator = AdCampaignOrchestrator()
+            generator = CreativeGenerator()
+            memory_builder = MemoryBuilder(store)
+
+            yield f"data: {_json.dumps({'event': 'start', 'concept': concept.concept})}\n\n"
+            await asyncio.sleep(0)
+
+            # Step 1: Expand concept to briefs
+            yield f"data: {_json.dumps({'event': 'expanding', 'message': 'Expanding concept into briefs...'})}\n\n"
+            await asyncio.sleep(0)
+            briefs = expander.expand(concept.concept, num_variants=concept.num_variants)
+            yield f"data: {_json.dumps({'event': 'briefs_ready', 'count': len(briefs)})}\n\n"
+            await asyncio.sleep(0)
+
+            # Step 2: Build generation context
+            memory = memory_builder.build()
+            context = memory_builder.build_generation_context(memory)
+
+            # Step 3: Generate variants for each brief
+            all_variant_ids = []
+            for i, brief in enumerate(briefs):
+                store.save_brief(brief)
+                try:
+                    variants = generator.generate_with_templates(
+                        brief, use_v2=True, store=store, generation_context=context
+                    )
+                    for v in variants:
+                        store.save_variant(v)
+                        all_variant_ids.append(v.id)
+                    yield f"data: {_json.dumps({'event': 'progress', 'completed': i+1, 'total': len(briefs), 'variants_so_far': len(all_variant_ids)})}\n\n"
+                except Exception as e:
+                    yield f"data: {_json.dumps({'event': 'brief_error', 'brief_index': i, 'error': str(e)})}\n\n"
+                await asyncio.sleep(0)
+
+            yield f"data: {_json.dumps({'event': 'done', 'total_variants': len(all_variant_ids), 'variant_ids': all_variant_ids})}\n\n"
+
+        except Exception as e:
+            yield f"data: {_json.dumps({'event': 'error', 'message': str(e)})}\n\n"
+
+    return StreamingResponse(event_generator(), media_type="text/event-stream")
+
+
+class SwipeInput(BaseModel):
+    url: Optional[str] = None
+    notes: Optional[str] = None  # Optional manual description of the ad
+
+
+@app.post("/api/intake/swipe")
+async def ingest_swipe_file(
+    swipe: Optional[SwipeInput] = None,
+    image: Optional[UploadFile] = File(None),
+):
+    """
+    Ingest a competitor or best-in-class ad as a stylistic reference.
+    Accepts:
+    - JSON body with url (Facebook Ad Library) or notes
+    - multipart/form-data with an image file
+
+    The ad is tagged with taxonomy and saved as ExistingAd with
+    source='swipe_file' and exclude_from_regression=True.
+    """
+    from engine.analysis.analyzer import CreativeAnalyzer
+    from engine.models import ExistingAd, Platform
+    import uuid as _uuid
+
+    analyzer = CreativeAnalyzer()
+
+    # Build ad object from input
+    headline = ""
+    body = ""
+    creative_type = "image"
+
+    if image:
+        # Image upload — use Claude vision to describe the creative
+        image_bytes = await image.read()
+        import base64
+        from anthropic import Anthropic
+        from config.settings import get_settings
+        client = Anthropic(api_key=get_settings().ANTHROPIC_API_KEY)
+        resp = client.messages.create(
+            model="claude-sonnet-4-5-20250929",
+            max_tokens=500,
+            messages=[{
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "source": {
+                            "type": "base64",
+                            "media_type": image.content_type or "image/jpeg",
+                            "data": base64.b64encode(image_bytes).decode(),
+                        },
+                    },
+                    {
+                        "type": "text",
+                        "text": (
+                            "Describe this ad creative. Extract: headline text, body copy, "
+                            "visual style, and overall message. Return JSON: "
+                            '{"headline": "...", "body": "...", "visual_description": "..."}'
+                        ),
+                    },
+                ],
+            }],
+        )
+        import json
+        try:
+            desc = json.loads(resp.content[0].text)
+            headline = desc.get("headline", "")
+            body = desc.get("body", desc.get("visual_description", ""))
+        except Exception:
+            body = resp.content[0].text[:500]
+
+    elif swipe and swipe.url:
+        # URL — attempt to scrape ad copy
+        try:
+            import requests as _requests
+            from bs4 import BeautifulSoup
+            r = _requests.get(swipe.url, timeout=10, headers={"User-Agent": "Mozilla/5.0"})
+            soup = BeautifulSoup(r.text, "html.parser")
+            headline = (soup.find("h1") or soup.find("h2") or soup.new_tag("span")).get_text(strip=True)[:200]
+            body = " ".join(p.get_text(strip=True) for p in soup.find_all("p")[:3])[:500]
+        except Exception as e:
+            headline = swipe.url
+            body = swipe.notes or ""
+    elif swipe and swipe.notes:
+        body = swipe.notes
+
+    if not headline and not body:
+        raise HTTPException(status_code=400, detail="Provide url, image file, or notes")
+
+    # Create the ExistingAd
+    ad = ExistingAd(
+        meta_ad_id=f"swipe_{str(_uuid.uuid4())[:8]}",
+        ad_name=f"Swipe: {headline[:50] or body[:50]}",
+        headline=headline,
+        body=body,
+        platform=Platform.META,
+        source="swipe_file",
+        exclude_from_regression=True,
+    )
+
+    # Tag with taxonomy
+    tagged = analyzer.tag_ads([ad], store, batch_size=1)
+    tagged_ad = tagged[0] if tagged else ad
 
     return {
-        "brief_id": brief.id,
-        "brief": brief.model_dump(),
-        "variants_generated": len(variants),
+        "ad_id": tagged_ad.id,
+        "headline": tagged_ad.headline,
+        "body": tagged_ad.body,
+        "taxonomy": tagged_ad.taxonomy.model_dump() if tagged_ad.taxonomy else None,
+        "source": tagged_ad.source,
+        "exclude_from_regression": tagged_ad.exclude_from_regression,
     }
 
 
@@ -125,16 +290,25 @@ async def get_review_queue():
     pending = review_pipeline.get_pending_review()
     variants_out = []
     for v in pending:
-        d = v.model_dump()
-        # Resolve asset_status at serve time: file on disk → rendered, template stored → template_available
         asset_p = Path(v.asset_path) if v.asset_path else None
-        if asset_p and asset_p.exists() and not asset_p.suffix == ".placeholder":
+
+        # Only show variants with a real image file on disk
+        has_image = (
+            asset_p is not None
+            and asset_p.suffix in (".png", ".jpg", ".jpeg", ".webp")
+            and asset_p.exists()
+            and asset_p.stat().st_size > 1024
+        )
+
+        if has_image:
+            d = v.model_dump()
             d["asset_status"] = "rendered"
+            variants_out.append(d)
         elif v.template_id:
+            d = v.model_dump()
             d["asset_status"] = "template_available"
-        else:
-            d["asset_status"] = "pending"
-        variants_out.append(d)
+            variants_out.append(d)
+
     return {
         "count": len(variants_out),
         "variants": variants_out,
@@ -404,8 +578,56 @@ async def get_latest_decisions():
 
 @app.get("/api/regression")
 async def get_regression_insights():
-    """Get the latest regression playbook."""
+    """
+    Get the latest regression playbook with model health diagnostics.
+    Includes bootstrap CIs, confidence tiers, and overfit risk assessment.
+    """
     playbook = regression_model.get_creative_playbook()
+
+    # Enrich with validation diagnostics when available
+    latest = store.get_latest_regression()
+    if latest:
+        n_features = len(latest.coefficients)
+        n_obs = latest.n_observations
+        model_health = {
+            "overfit_risk": n_obs < n_features * 5,
+            "sample_ratio": round(n_obs / max(n_features, 1), 2),
+            "test_r_squared": latest.test_r_squared,
+            "train_r_squared": latest.r_squared,
+            "validation_run": bool(latest.confidence_tiers),
+            "trust_guidance": (
+                "coefficients_reliable"
+                if latest.test_r_squared is not None and latest.test_r_squared >= 0.15
+                else (
+                    "fallback_to_editorial"
+                    if latest.test_r_squared is not None
+                    else "no_validation_run"
+                )
+            ),
+        }
+        playbook["model_health"] = model_health
+
+        # Include bootstrap CIs and confidence tiers for top features
+        top_features = (
+            latest.top_positive_features[:5] + latest.top_negative_features[:5]
+        )
+        validation_detail = {}
+        for feat in top_features:
+            detail: dict = {}
+            if feat in latest.confidence_tiers:
+                detail["confidence_tier"] = latest.confidence_tiers[feat]
+            if feat in latest.bootstrap_ci:
+                ci = latest.bootstrap_ci[feat]
+                detail["bootstrap_ci"] = {
+                    "point": ci[0], "lower": ci[1], "upper": ci[2]
+                }
+            if feat in latest.coefficient_stability:
+                detail["stability_std"] = latest.coefficient_stability[feat]
+            if detail:
+                validation_detail[feat] = detail
+        if validation_detail:
+            playbook["validation_detail"] = validation_detail
+
     return playbook
 
 
@@ -545,6 +767,172 @@ async def get_review_history():
 async def get_rejection_feedback():
     """Get all rejection feedback for training generators."""
     return {"feedback": review_pipeline.get_rejection_feedback()}
+
+
+# ---------------------------------------------------------------------------
+# Memory endpoints (M2, M3)
+# ---------------------------------------------------------------------------
+
+class VoiceNoteSynthesizeRequest(BaseModel):
+    reviewer: Optional[str] = None
+
+
+@app.post("/api/review/voice-note")
+async def upload_voice_note(
+    reviewer: str = "unknown",
+    audio: UploadFile = File(...),
+):
+    """
+    Upload a review session voice note. Transcribes via OpenAI Whisper and
+    stores alongside a transcript JSON file.
+    (M2) — used for weekly review sessions with Nate + Jackson.
+    """
+    import json as _json
+    from pathlib import Path
+
+    try:
+        from openai import OpenAI
+        from config.settings import get_settings
+        settings = get_settings()
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"OpenAI not configured: {e}")
+
+    voice_dir = Path("data/memory/voice_notes")
+    voice_dir.mkdir(parents=True, exist_ok=True)
+
+    audio_bytes = await audio.read()
+    audio_filename = f"{reviewer}_{audio.filename}"
+    audio_path = voice_dir / audio_filename
+    audio_path.write_bytes(audio_bytes)
+
+    # Transcribe via Whisper
+    try:
+        client_oa = OpenAI(api_key=getattr(settings, "OPENAI_API_KEY", None))
+        with open(audio_path, "rb") as f:
+            transcript_resp = client_oa.audio.transcriptions.create(
+                model="whisper-1",
+                file=f,
+                response_format="text",
+            )
+        transcript = str(transcript_resp)
+    except Exception as e:
+        transcript = f"[transcription failed: {e}]"
+
+    # Save transcript JSON
+    transcript_path = voice_dir / f"{audio_filename}.transcript.json"
+    transcript_path.write_text(_json.dumps({
+        "reviewer": reviewer,
+        "audio_file": audio_filename,
+        "transcript": transcript,
+        "uploaded_at": str(date.today()),
+    }, indent=2))
+
+    return {
+        "audio_file": audio_filename,
+        "transcript_length": len(transcript),
+        "transcript_preview": transcript[:200] + "..." if len(transcript) > 200 else transcript,
+    }
+
+
+@app.post("/api/review/synthesize-preferences")
+async def synthesize_reviewer_preferences(req: VoiceNoteSynthesizeRequest = None):
+    """
+    Synthesize reviewer preferences from all voice note transcripts and written
+    review notes. Runs a Claude call to extract ReviewerPreference objects.
+    (M2) — run after each weekly review session, not per note.
+    """
+    import json as _json
+    from pathlib import Path
+    from anthropic import Anthropic
+    from config.settings import get_settings
+
+    voice_dir = Path("data/memory/voice_notes")
+    voice_dir.mkdir(parents=True, exist_ok=True)
+
+    # Load all transcripts
+    transcripts = []
+    for tf in voice_dir.glob("*.transcript.json"):
+        try:
+            data = _json.loads(tf.read_text())
+            transcripts.append(data)
+        except Exception:
+            pass
+
+    # Load structured review feedback
+    feedback_summary = review_pipeline.get_structured_feedback()
+
+    if not transcripts and not feedback_summary.get("total_reviews", 0):
+        return {"error": "No voice notes or review feedback found to synthesize from"}
+
+    prompt_parts = [
+        "You are synthesizing reviewer preferences for a JotPsych ad creative team.\n\n",
+        f"REVIEW FEEDBACK SUMMARY:\n{_json.dumps(feedback_summary, indent=2)}\n\n",
+    ]
+
+    if transcripts:
+        prompt_parts.append("VOICE NOTE TRANSCRIPTS:\n")
+        for t in transcripts:
+            prompt_parts.append(
+                f"--- {t.get('reviewer', 'unknown')} ---\n"
+                f"{t.get('transcript', '')}\n\n"
+            )
+
+    prompt_parts.append(
+        "Extract structured reviewer preferences as a JSON array:\n"
+        "[\n"
+        "  {\n"
+        '    "reviewer": "name",\n'
+        '    "dimension": "hook_type|tone|visual_style|message_type|etc",\n'
+        '    "rule": "clear one-sentence rule",\n'
+        '    "example": "specific example if mentioned",\n'
+        '    "confidence": "high|moderate|tentative",\n'
+        '    "direction": "prefer|avoid"\n'
+        "  },\n"
+        "  ...\n"
+        "]\n\n"
+        "Focus on actionable patterns, not one-off opinions."
+    )
+
+    settings = get_settings()
+    client = Anthropic(api_key=settings.ANTHROPIC_API_KEY)
+
+    try:
+        resp = client.messages.create(
+            model="claude-sonnet-4-5-20250929",
+            max_tokens=2000,
+            messages=[{"role": "user", "content": "".join(prompt_parts)}],
+        )
+        raw = resp.content[0].text
+        if "```json" in raw:
+            raw = raw.split("```json")[1].split("```")[0]
+        elif "```" in raw:
+            raw = raw.split("```")[1].split("```")[0]
+        preferences = _json.loads(raw.strip())
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Synthesis failed: {e}")
+
+    # Save synthesized preferences
+    synth_path = voice_dir / "synthesized.json"
+    synth_path.write_text(_json.dumps({
+        "synthesized_at": str(date.today()),
+        "source_transcripts": len(transcripts),
+        "preferences": preferences,
+    }, indent=2))
+
+    return {
+        "preferences_extracted": len(preferences),
+        "source_transcripts": len(transcripts),
+        "preferences": preferences,
+    }
+
+
+@app.get("/api/memory/status")
+async def get_memory_status():
+    """
+    Memory health report: age, pattern count, confidence distribution, archived count.
+    (M3)
+    """
+    return store.get_memory_status()
 
 
 # ---------------------------------------------------------------------------

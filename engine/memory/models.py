@@ -35,16 +35,18 @@ class PatternInsight:
     p_value: float                         # 0.008
     confidence_tier: str                   # "high" | "moderate" | "directional"
     n_observations: int
-    
+
     rule: str                              # "Lead with a specific statistic in the headline"
     evidence: str                          # "Coefficient: -42.3, p=0.008, n=47"
-    
+
     positive_examples: list[str] = field(default_factory=list)
     negative_examples: list[str] = field(default_factory=list)
-    
+
     trend: str = "stable"                  # "stable" | "strengthening" | "fatiguing"
     first_significant_date: Optional[date] = None
     cycles_significant: int = 1
+    # When was this insight last updated/validated? (M3)
+    memory_snapshot_date: Optional[date] = None
 
 
 @dataclass
@@ -68,6 +70,8 @@ class FatigueAlert:
     deployments: int
     first_deployed: date
     recommendation: str                    # "Reduce usage" | "Retire" | "Refresh angle"
+    # When was this alert last evaluated? (M3)
+    memory_snapshot_date: Optional[date] = None
 
 
 @dataclass
@@ -183,8 +187,8 @@ class PlatformModifier:
 @dataclass
 class CompetitiveObservation:
     """Manually entered competitive intelligence."""
-    id: str = field(default_factory=lambda: str(uuid.uuid4()))
     observation: str
+    id: str = field(default_factory=lambda: str(uuid.uuid4()))
     source: Optional[str] = None
     implications: Optional[str] = None     # What to do about it
     added_by: Optional[str] = None
@@ -236,65 +240,75 @@ class GenerationContext:
     """
     winning_rules: list[str] = field(default_factory=list)
     losing_rules: list[str] = field(default_factory=list)
-    
+
     exemplar_headlines: list[str] = field(default_factory=list)
     exemplar_bodies: list[str] = field(default_factory=list)
-    
+
     approved_patterns: list[str] = field(default_factory=list)
     rejection_rules: list[str] = field(default_factory=list)
-    
+
     fatigue_warnings: list[str] = field(default_factory=list)
     exploration_targets: list[str] = field(default_factory=list)
-    
+
+    # Stylistic references from swipe file ads (A4) — aesthetic/copy inspiration
+    # These are NOT JotPsych performance data — don't treat as rules, just inspiration
+    stylistic_references: list[str] = field(default_factory=list)
+
     confidence_note: str = ""
-    
+
     def to_prompt_block(self) -> str:
         """Serialize to a markdown block for agent injection."""
         sections = []
-        
+
         if self.winning_rules:
-            sections.append("## WINNING PATTERNS (use these):\n")
+            sections.append("## WINNING PATTERNS (inspired by — adapt, don't copy verbatim):\n")
             for rule in self.winning_rules[:5]:
                 sections.append(f"- {rule}")
             sections.append("")
-        
+
         if self.exemplar_headlines:
             sections.append("## EXEMPLAR HEADLINES:\n")
             for headline in self.exemplar_headlines[:5]:
                 sections.append(f"- \"{headline}\"")
             sections.append("")
-        
+
         if self.losing_rules:
             sections.append("## AVOID (these hurt performance):\n")
             for rule in self.losing_rules[:3]:
                 sections.append(f"- {rule}")
             sections.append("")
-        
+
         if self.approved_patterns:
             sections.append("## REVIEWER PREFERENCES:\n")
             for pattern in self.approved_patterns[:5]:
                 sections.append(f"- {pattern}")
             sections.append("")
-        
+
         if self.rejection_rules:
             sections.append("## REJECTION RULES:\n")
             for rule in self.rejection_rules[:5]:
                 sections.append(f"- {rule}")
             sections.append("")
-        
+
         if self.fatigue_warnings:
             sections.append("## FATIGUE ALERTS:\n")
             for warning in self.fatigue_warnings[:3]:
                 sections.append(f"- {warning}")
             sections.append("")
-        
+
         if self.exploration_targets:
             sections.append("## EXPLORATION TARGETS (try these):\n")
             for target in self.exploration_targets[:3]:
                 sections.append(f"- {target}")
             sections.append("")
-        
+
+        if self.stylistic_references:
+            sections.append("## STYLISTIC REFERENCES (inspiration only — adapt style, not content):\n")
+            for ref in self.stylistic_references[:3]:
+                sections.append(f"- {ref}")
+            sections.append("")
+
         if self.confidence_note:
             sections.append(f"*{self.confidence_note}*\n")
-        
+
         return "\n".join(sections)
