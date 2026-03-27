@@ -19,6 +19,14 @@ Each entry includes:
 ## Log
 
 ### 2026-03-27 — Aryan
+**Pushed all local changes to remote; approved variant 50f6fb53 in review**
+
+- `data/creatives/variants/50f6fb53-9293-4438-9310-08af8274d921.json` — status updated from `draft` → `approved`, reviewer and timestamp recorded from dashboard session
+- Committed and pushed to `aryan/main` on remote
+
+---
+
+### 2026-03-27 — Aryan
 **Created METHODOLOGY.md — detailed reasoning document for the regression-to-review loop**
 
 - `METHODOLOGY.md` — New document explaining the full methodology of the ads engine, focused on the five stages we've built so far: Analysis (MECE taxonomy, Claude tagging, portfolio analysis), Regression (WLS, interaction terms, holdout/bootstrap/stability validation, confidence tiers), Memory (three-layer architecture, decay/archiving, playbook translation, GenerationContext), Generation (multi-agent copy, quality filter, explore/exploit variant matrix, Playwright template rendering), and Review (Tinder-style UI, structured chips, duration tracking, feedback-to-memory loop). Covers the reasoning behind every major design decision: why linear regression over ML, why templates before AI images, why chips instead of free text, why memory compounds but generation is stateless, why 80/20 explore/exploit, why build review before deploy.
