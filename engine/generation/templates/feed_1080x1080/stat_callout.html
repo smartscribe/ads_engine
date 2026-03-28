@@ -33,22 +33,22 @@
         .logo-top {
             position: absolute;
             top: 64px;
-            left: 72px;
+            left: 80px;
         }
 
-        .logo-top img { height: 48px; width: auto; }
+        .logo-top img { height: 36px; width: auto; }
 
         .stat-block {
             display: flex;
             flex-direction: column;
             align-items: center;
-            gap: 12px;
-            margin-bottom: 40px;
+            gap: 8px;
+            margin-bottom: 36px;
         }
 
         .stat-number {
             font-family: 'Archivo', sans-serif;
-            font-size: 180px;
+            font-size: 160px;
             font-weight: 800;
             line-height: 1;
             color: {{headline_color}};
@@ -57,39 +57,29 @@
 
         .stat-unit {
             font-family: 'Archivo', sans-serif;
-            font-size: 42px;
+            font-size: 36px;
             font-weight: 500;
             color: {{headline_color}};
-            opacity: 0.7;
+            opacity: 0.6;
             text-transform: uppercase;
             letter-spacing: 4px;
         }
 
         .stat-divider {
-            width: 80px;
-            height: 5px;
+            width: 64px;
+            height: 4px;
             background: {{accent_color}};
-            border-radius: 3px;
-            margin: 8px 0 24px;
+            border-radius: 2px;
+            margin: 12px 0 28px;
         }
 
         .headline {
             font-family: 'Archivo', sans-serif;
-            font-size: 52px;
+            font-size: 46px;
             font-weight: 600;
             line-height: 1.15;
             color: {{headline_color}};
             max-width: 80%;
-            margin-bottom: 20px;
-        }
-
-        .body-text {
-            font-size: 30px;
-            font-weight: 400;
-            line-height: 1.45;
-            color: {{body_color}};
-            opacity: 0.8;
-            max-width: 70%;
             margin-bottom: 32px;
         }
 
@@ -100,17 +90,16 @@
             background: {{cta_background}};
             color: {{cta_text_color}};
             font-family: 'Inter', sans-serif;
-            font-size: 26px;
+            font-size: 24px;
             font-weight: 600;
             border-radius: 14px;
-            box-shadow: 0 4px 20px rgba(0,0,0,0.12);
         }
 
         .accent-strip {
             position: absolute;
             bottom: 0; left: 0; right: 0;
-            height: 10px;
-            background: linear-gradient(90deg, #1C1E85 0%, #FD96C9 50%, #813FE8 100%);
+            height: 8px;
+            background: linear-gradient(90deg, {{accent_color}} 0%, {{cta_background}} 100%);
         }
     </style>
 </head>
@@ -126,7 +115,6 @@
     <div class="stat-divider"></div>
 
     <h1 class="headline">{{headline}}</h1>
-    <p class="body-text">{{body}}</p>
     <span class="cta-button">{{cta}}</span>
 
     <div class="accent-strip"></div>
