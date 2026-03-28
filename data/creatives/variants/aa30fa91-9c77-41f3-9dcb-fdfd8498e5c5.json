@@ -6,7 +6,7 @@
   "primary_text": "When was the last time you left work on time?\n\nFor most therapists, the answer is \"I can't remember.\" Because even after your last session ends, there's still 90 minutes of notes waiting for you.\n\nJotPsych gives you those hours back. Record your session, and our AI generates your full clinical documentation while you move on with your day. One therapist told us she cried the first week. not from stress, but from relief.\n\nReady to see how it works?",
   "description": "",
   "cta_button": "Try It Free",
-  "asset_path": "data/creatives/rendered/feed_1080x1080_testimonial_9c626109.png",
+  "asset_path": "data/creatives/rendered/feed_1080x1080_testimonial_0cf6bdf7.png",
   "asset_type": "video",
   "asset_status": "pending",
   "template_id": "feed_1080x1080/testimonial",
@@ -117,7 +117,8 @@
         "medium",
         "long"
       ]
-    }
+    },
+    "asset_source": "template"
   },
   "status": "draft",
   "review_notes": null,

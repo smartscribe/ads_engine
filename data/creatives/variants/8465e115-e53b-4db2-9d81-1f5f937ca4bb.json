@@ -6,7 +6,7 @@
   "primary_text": "\"I haven't stayed late to finish notes in 6 months. JotPsych gave me my life back.\". Sarah K., LCSW\n\nTherapists using JotPsych reclaim an average of 10 hours per week. That's 10 hours not hunched over a laptop. 10 hours back with your family. 10 hours of actual rest.\n\nOur AI generates clinical-quality documentation automatically from your sessions. HIPAA-compliant and built for behavioral health.\n\nSee why 1,200+ clinicians trust JotPsych. Try it free for 14 days.",
   "description": "",
   "cta_button": "See How",
-  "asset_path": "data/creatives/rendered/feed_1080x1080_stat_callout_d1348678.png",
+  "asset_path": "data/creatives/rendered/feed_1080x1080_stat_callout_6f0149f4.png",
   "asset_type": "image",
   "asset_status": "pending",
   "template_id": "feed_1080x1080/stat_callout",
@@ -117,7 +117,8 @@
         "medium",
         "long"
       ]
-    }
+    },
+    "asset_source": "template"
   },
   "status": "draft",
   "review_notes": null,

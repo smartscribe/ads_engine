@@ -6,11 +6,11 @@
   "primary_text": "Ever wonder how some clinicians never take work home?\n\nThey're not superhuman. They're not cutting corners. They're using JotPsych. the AI documentation tool built specifically for behavioral health.\n\nThousands of therapists now finish notes in minutes instead of hours. They record their sessions, and JotPsych generates HIPAA-compliant progress notes that capture their clinical voice.\n\nThe result? 1-2 hours back in their day. Every single day.\n\nYour colleagues have already made the switch. Ready to see what you've been missing?",
   "description": "",
   "cta_button": "What Are They Using?",
-  "asset_path": "data/creatives/rendered/feed_1080x1080_image_overlay_c4116f83.png",
+  "asset_path": "data/creatives/rendered/feed_1080x1080_testimonial_4c9256bf.png",
   "asset_type": "image",
   "asset_status": "pending",
-  "template_id": "feed_1080x1080/image_overlay",
-  "template_color_scheme": "accent",
+  "template_id": "feed_1080x1080/testimonial",
+  "template_color_scheme": "dark",
   "taxonomy": {
     "message_type": "social_proof",
     "hook_type": "scenario",
@@ -117,7 +117,8 @@
         "medium",
         "long"
       ]
-    }
+    },
+    "asset_source": "template"
   },
   "status": "draft",
   "review_notes": null,

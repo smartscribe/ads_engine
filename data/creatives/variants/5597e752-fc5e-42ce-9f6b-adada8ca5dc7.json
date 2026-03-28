@@ -6,7 +6,7 @@
   "primary_text": "What would you do with 10 extra hours per week? That's what JotPsych gives back to clinicians drowning in documentation. AI that listens to your sessions and generates progress notes that sound human, not robotic. CPT codes applied. Treatment plans updated. Done before your last client walks out. Over 10,000 mental health professionals already finish work on time.",
   "description": "",
   "cta_button": "Try Free",
-  "asset_path": "data/creatives/rendered/feed_1080x1080_stat_callout_04e2360a.png",
+  "asset_path": "data/creatives/rendered/feed_1080x1080_stat_callout_607fda5b.png",
   "asset_type": "image",
   "asset_status": "pending",
   "template_id": "feed_1080x1080/stat_callout",
@@ -117,7 +117,8 @@
         "medium",
         "long"
       ]
-    }
+    },
+    "asset_source": "template"
   },
   "status": "draft",
   "review_notes": null,

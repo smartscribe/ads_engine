@@ -6,7 +6,7 @@
   "primary_text": "That's what one therapist told us before switching to JotPsych.\n\nNow? She's home by 6:30. Every night.\n\nThe difference isn't working fewer hours or seeing fewer clients. It's not spending 2+ hours every day on documentation.\n\nJotPsych generates your clinical notes automatically from your sessions. What used to take 20-30 minutes per client now takes 3 minutes total. HIPAA-compliant. Clinically thorough. Actually done.\n\nYou've already done the hard work in the session. Let us handle the typing.",
   "description": "Try it free on your next client. See what leaving on time feels like.",
   "cta_button": "Start Free Trial",
-  "asset_path": "data/creatives/rendered/feed_1080x1080_testimonial_8a0d7c4c.png",
+  "asset_path": "data/creatives/rendered/feed_1080x1080_testimonial_227d12e7.png",
   "asset_type": "image",
   "asset_status": "pending",
   "template_id": "feed_1080x1080/testimonial",
@@ -117,7 +117,8 @@
         "medium",
         "long"
       ]
-    }
+    },
+    "asset_source": "template"
   },
   "status": "draft",
   "review_notes": null,

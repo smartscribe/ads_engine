@@ -6,7 +6,7 @@
   "primary_text": "10,000+ mental health clinicians are leaving work on time. Not because they see fewer clients or write shorter notes. Because JotPsych does their documentation for them. AI listens to your sessions, generates complete clinical notes, applies the right codes. You can keep carrying charts home, or you can join them.",
   "description": "",
   "cta_button": "Learn More",
-  "asset_path": "data/creatives/rendered/feed_1080x1080_image_overlay_d47734f7.png",
+  "asset_path": "data/creatives/rendered/feed_1080x1080_image_overlay_5258a483.png",
   "asset_type": "image",
   "asset_status": "pending",
   "template_id": "feed_1080x1080/image_overlay",
@@ -117,7 +117,8 @@
         "medium",
         "long"
       ]
-    }
+    },
+    "asset_source": "ai_generated"
   },
   "status": "draft",
   "review_notes": null,

@@ -6,7 +6,7 @@
   "primary_text": "Most solo therapists chart until 7 or 8pm. JotPsych users leave at 6. The difference? AI documentation that writes itself from your session recordings. SOAP notes, treatment plans, billing codes included. HIPAA-compliant for behavioral health. Try it free and finish work on time for once.",
   "description": "",
   "cta_button": "See It In Action",
-  "asset_path": "data/creatives/rendered/feed_1080x1080_testimonial_570062ad.png",
+  "asset_path": "data/creatives/rendered/feed_1080x1080_testimonial_9fc7b031.png",
   "asset_type": "image",
   "asset_status": "pending",
   "template_id": "feed_1080x1080/testimonial",
@@ -117,7 +117,8 @@
         "medium",
         "long"
       ]
-    }
+    },
+    "asset_source": "template"
   },
   "status": "draft",
   "review_notes": null,

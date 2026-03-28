@@ -6,7 +6,7 @@
   "primary_text": "Remember why you chose this work? To help people heal. Not to spend mental energy on documentation while your client is sitting across from you. JotPsych takes the cognitive load off your shoulders. AI-generated notes, done in minutes after each session. You stay present for what matters.",
   "description": "",
   "cta_button": "Watch Demo",
-  "asset_path": "data/creatives/rendered/feed_1080x1080_image_overlay_8aadcc8a.png",
+  "asset_path": "data/creatives/rendered/feed_1080x1080_image_overlay_490ab3be.png",
   "asset_type": "image",
   "asset_status": "pending",
   "template_id": "feed_1080x1080/image_overlay",
@@ -117,7 +117,8 @@
         "medium",
         "long"
       ]
-    }
+    },
+    "asset_source": "ai_generated"
   },
   "status": "draft",
   "review_notes": null,

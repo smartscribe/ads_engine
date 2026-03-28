@@ -6,7 +6,7 @@
   "primary_text": "Not 30 minutes later. Not 2 hours later when you finally finish charting.\n\nActually done. Walk out. Go home.\n\nThat's the idea behind JotPsych. You do the therapy. We handle the documentation. Your notes are ready before you've locked your office door. clinically complete, HIPAA-compliant, worry-free.\n\nBuilt by therapists who got tired of missing life because of paperwork.\n\nYour next session could be your last night staying late.",
   "description": "Free trial starts now. No credit card needed.",
   "cta_button": "See How It Works",
-  "asset_path": "data/creatives/rendered/feed_1080x1080_split_screen_e5d86266.png",
+  "asset_path": "data/creatives/rendered/feed_1080x1080_split_screen_3ebe2aff.png",
   "asset_type": "video",
   "asset_status": "pending",
   "template_id": "feed_1080x1080/split_screen",
@@ -117,7 +117,8 @@
         "medium",
         "long"
       ]
-    }
+    },
+    "asset_source": "template"
   },
   "status": "draft",
   "review_notes": null,

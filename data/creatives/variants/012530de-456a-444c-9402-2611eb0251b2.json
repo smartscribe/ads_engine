@@ -6,7 +6,7 @@
   "primary_text": "You didn't get into this field to become a typist.\n\nBut here you are. session over, client gone, and you're staring at a blank progress note template. Again. For the sixth time today.\n\nWhat if you didn't have to?\n\nJotPsych was built by clinicians who were drowning in the same paperwork. It listens to your session and generates your clinical notes automatically. Complete, compliant, done before you've refilled your coffee.\n\nNo more choosing between thorough documentation and having a life.",
   "description": "Start your free trial. Use it on one session. See what 2 hours back feels like.",
   "cta_button": "Try It Free",
-  "asset_path": "data/creatives/rendered/feed_1080x1080_headline_hero_76ff0a1c.png",
+  "asset_path": "data/creatives/rendered/feed_1080x1080_headline_hero_c9f19750.png",
   "asset_type": "image",
   "asset_status": "pending",
   "template_id": "feed_1080x1080/headline_hero",
@@ -117,7 +117,8 @@
         "medium",
         "long"
       ]
-    }
+    },
+    "asset_source": "template"
   },
   "status": "draft",
   "review_notes": null,

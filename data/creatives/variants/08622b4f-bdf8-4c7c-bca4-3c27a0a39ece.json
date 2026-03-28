@@ -6,7 +6,7 @@
   "primary_text": "Client walks out at 4:30. By 4:33, your progress note is done.\n\nNot a draft. Not bullet points you'll \"flesh out later\" (meaning tonight at home). Done. Comprehensive. Ready to sign.\n\nThat's JotPsych. AI that actually understands clinical documentation because it was built by people who've written thousands of these notes themselves.\n\nHIPAA-compliant. Customizable to your style. Zero learning curve.\n\nThe 2 hours you spend on charting every day? They're yours again.",
   "description": "Free trial. Set up takes 5 minutes. First note takes 3 minutes. See for yourself.",
   "cta_button": "Get Started Free",
-  "asset_path": "data/creatives/rendered/feed_1080x1080_stat_callout_66cf87cc.png",
+  "asset_path": "data/creatives/rendered/feed_1080x1080_stat_callout_b975fa42.png",
   "asset_type": "video",
   "asset_status": "pending",
   "template_id": "feed_1080x1080/stat_callout",
@@ -117,7 +117,8 @@
         "medium",
         "long"
       ]
-    }
+    },
+    "asset_source": "template"
   },
   "status": "draft",
   "review_notes": null,

@@ -6,7 +6,7 @@
   "primary_text": "What if your documentation system actually understood how clinicians think? JotPsych generates complete clinical notes from your session recordings in under 60 seconds. No rigid templates. No dropdown marathons. Just notes that capture your clinical voice and meet audit standards. See it work in real time.",
   "description": "",
   "cta_button": "See How It Works",
-  "asset_path": "data/creatives/rendered/feed_1080x1080_headline_hero_c4abd380.png",
+  "asset_path": "data/creatives/rendered/feed_1080x1080_headline_hero_26ebc423.png",
   "asset_type": "image",
   "asset_status": "pending",
   "template_id": "feed_1080x1080/headline_hero",
@@ -117,7 +117,8 @@
         "medium",
         "long"
       ]
-    }
+    },
+    "asset_source": "template"
   },
   "status": "draft",
   "review_notes": null,
