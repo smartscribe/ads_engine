@@ -354,11 +354,16 @@ Formats: {[f.value for f in brief.formats_requested]}
         self,
         copy_variants: list[dict],
         plans: list,
+        generation_context=None,
     ) -> dict[int, str]:
         """
         Generate AI background images for variants using the image_overlay template.
+
+        Uses Claude SceneDirector to craft bespoke Imagen prompts per ad — each
+        scene is tailored to the ad's headline, body, hook type, and tone.
+        Regression insights from generation_context influence visual direction.
+
         Returns a dict mapping variant index → background image path.
-        Only generates for variants that actually use the image_overlay template.
         """
         overlay_indices = [
             i for i, plan in enumerate(plans)
@@ -373,25 +378,32 @@ Formats: {[f.value for f in brief.formats_requested]}
             ai_gen = AIImageGenerator()
         except Exception as e:
             print(f"[generator] AI image generator unavailable: {e}")
-            # Fall back: switch these variants to headline_hero
             for i in overlay_indices:
                 plans[i].template = "feed_1080x1080/headline_hero"
             return {}
 
-        hook_types = [
-            copy_variants[i].get("taxonomy", {}).get("hook_type", "direct_benefit")
+        # Build variant dicts with full copy + taxonomy for Claude SceneDirector
+        overlay_variants = [
+            {
+                "headline": copy_variants[i].get("headline", ""),
+                "primary_text": copy_variants[i].get("primary_text", ""),
+                "taxonomy": copy_variants[i].get("taxonomy", {}),
+            }
             for i in overlay_indices
         ]
 
-        print(f"[generator] Generating {len(hook_types)} AI background images...")
-        paths = ai_gen.generate_batch(hook_types, max_images=min(len(hook_types), 8))
+        print(f"[generator] Generating {len(overlay_variants)} AI backgrounds (Claude-directed)...")
+        paths = ai_gen.generate_batch(
+            overlay_variants,
+            generation_context=generation_context,
+            max_images=len(overlay_variants),
+        )
 
         result = {}
-        for idx, (overlay_idx, path) in enumerate(zip(overlay_indices, paths)):
+        for overlay_idx, path in zip(overlay_indices, paths):
             if path:
                 result[overlay_idx] = path
             else:
-                # Fallback: switch this variant to headline_hero if AI gen failed
                 plans[overlay_idx].template = "feed_1080x1080/headline_hero"
 
         return result
@@ -440,6 +452,7 @@ Formats: {[f.value for f in brief.formats_requested]}
         brief: CreativeBrief,
         copy_variants: list[dict],
         store=None,
+        generation_context=None,
     ) -> list[tuple[str, "TemplatePlan"]]:
         """
         Generate ad images using the TemplateSelector to pick per-variant
@@ -470,7 +483,8 @@ Formats: {[f.value for f in brief.formats_requested]}
         )
 
         # Generate AI background images for variants using image_overlay template
-        ai_backgrounds = self._generate_ai_backgrounds(copy_variants, plans)
+        # Claude SceneDirector uses generation_context for regression-informed visual direction
+        ai_backgrounds = self._generate_ai_backgrounds(copy_variants, plans, generation_context)
 
         results = []
         for i, (variant, plan) in enumerate(zip(copy_variants, plans)):
@@ -555,7 +569,8 @@ Formats: {[f.value for f in brief.formats_requested]}
         asset_results = []
         if use_selector:
             selector_results = self.generate_assets_from_selector(
-                brief, copy_variants, store=store
+                brief, copy_variants, store=store,
+                generation_context=generation_context,
             )
             asset_results = selector_results  # list of (path, TemplatePlan)
         else:
