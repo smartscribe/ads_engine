@@ -380,30 +380,38 @@ Formats: {[f.value for f in brief.formats_requested]}
                 brief, copy_variants, template, color_scheme
             )
 
+        deployment_targets = [
+            {"format": fmt.value, "platform": p.value}
+            for fmt in brief.formats_requested
+            for p in brief.platforms
+        ]
+
+        primary_fmt = brief.formats_requested[0] if brief.formats_requested else AdFormat.SINGLE_IMAGE
+        primary_platform = brief.platforms[0] if brief.platforms else Platform.META
+
         variants = []
         for copy_data, asset_path in zip(copy_variants, asset_paths):
             tax_data = copy_data["taxonomy"]
 
-            for fmt in brief.formats_requested:
-                for platform in brief.platforms:
-                    taxonomy = CreativeTaxonomy(
-                        **tax_data,
-                        format=fmt,
-                        platform=platform,
-                        placement="feed",
-                    )
+            taxonomy = CreativeTaxonomy(
+                **tax_data,
+                format=primary_fmt,
+                platform=primary_platform,
+                placement="feed",
+            )
 
-                    variant = AdVariant(
-                        brief_id=brief.id,
-                        headline=copy_data["headline"],
-                        primary_text=copy_data["primary_text"],
-                        description=copy_data.get("description", ""),
-                        cta_button=copy_data.get("cta_button", "Learn More"),
-                        asset_path=asset_path,
-                        asset_type="image",
-                        taxonomy=taxonomy,
-                        status=AdStatus.DRAFT,
-                    )
-                    variants.append(variant)
+            variant = AdVariant(
+                brief_id=brief.id,
+                headline=copy_data["headline"],
+                primary_text=copy_data["primary_text"],
+                description=copy_data.get("description", ""),
+                cta_button=copy_data.get("cta_button", "Learn More"),
+                asset_path=asset_path,
+                asset_type="image",
+                taxonomy=taxonomy,
+                status=AdStatus.DRAFT,
+                deployment_targets=deployment_targets,
+            )
+            variants.append(variant)
 
         return variants

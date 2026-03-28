@@ -231,6 +231,13 @@ class AdVariant(BaseModel):
     review_chips: list[str] = []         # e.g. ["headline_too_generic", "wrong_tone"]
     review_duration_ms: int = 0          # how long the reviewer looked at this card
 
+    # All format x platform pairs this variant should be deployed to.
+    # Populated at generation time; fanned out into platform-specific ads at deploy.
+    deployment_targets: list[dict] = []
+
+    # Hypothesis tracking — links this variant to the hypothesis it was generated to test
+    hypothesis_id: Optional[str] = None
+
     # Platform IDs (populated after deployment)
     meta_ad_id: Optional[str] = None
     google_ad_id: Optional[str] = None
@@ -532,7 +539,7 @@ class CreativeMemory(BaseModel):
 class CreativeHypothesis(BaseModel):
     """
     Tracked hypothesis about what creative works and why.
-    Evaluated against regression coefficients after each run.
+    Evaluated via direct A/B performance (primary) and regression coefficients (secondary).
     """
     id: str = Field(default_factory=lambda: str(uuid.uuid4()))
     hypothesis_text: str
@@ -544,3 +551,15 @@ class CreativeHypothesis(BaseModel):
     evidence: list[str] = []               # human-readable evidence trail
     last_evaluated: Optional[date] = None
     evaluation_count: int = 0
+
+    # Provenance — where this hypothesis came from
+    source: str = "manual"                 # "review_feedback", "monologue", "voice_note", "manual"
+    source_context: str = ""               # the raw text that spawned this
+
+    # Direct performance tracking — variants generated to test this hypothesis
+    variant_ids: list[str] = []
+    total_spend: float = 0.0
+    treatment_cpfn: Optional[float] = None
+    baseline_cpfn: Optional[float] = None
+    lift_pct: Optional[float] = None
+    human_summary: str = ""                # Claude-written plain English status

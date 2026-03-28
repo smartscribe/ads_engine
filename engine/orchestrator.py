@@ -170,6 +170,7 @@ class Orchestrator:
             rejection_feedback=rejection_feedback,
             approval_feedback=approval_feedback,
             generation_context=context,
+            use_selector=True,
         )
 
         for v in variants:
@@ -270,6 +271,7 @@ class Orchestrator:
                     rejection_feedback=rejection_feedback,
                     approval_feedback=approval_feedback,
                     generation_context=context,
+                    use_selector=True,
                 )
                 for v in variants:
                     self.store.save_variant(v)
@@ -430,6 +432,7 @@ class Orchestrator:
                 rejection_feedback=rejection_feedback,
                 approval_feedback=approval_feedback,
                 generation_context=context,
+                use_selector=True,
             )
 
             for v in variants:
@@ -518,6 +521,60 @@ class Orchestrator:
             "regenerated": regenerated,
             "skipped": len(skipped),
             "total_regenerated": sum(r["variants_regenerated"] for r in regenerated),
+        }
+
+    # ------------------------------------------------------------------
+    # On-demand: Test a hypothesis by generating ads
+    # ------------------------------------------------------------------
+
+    def test_hypothesis(self, hypothesis_id: str, num_variants: int = 6) -> dict:
+        """
+        Generate ads specifically to test a hypothesis.
+
+        Uses the hypothesis text as the creative direction, generates variants
+        via the standard pipeline, then tags all variants with hypothesis_id
+        for direct performance tracking.
+        """
+        hypothesis = self.store.get_hypothesis(hypothesis_id)
+        if not hypothesis:
+            return {"error": f"Hypothesis {hypothesis_id} not found"}
+
+        direction = (
+            f"HYPOTHESIS TEST: {hypothesis.hypothesis_text}\n\n"
+            f"Generate ads that specifically test this hypothesis. "
+            f"Make the creative clearly embody the direction described above "
+            f"so we can measure whether it performs better."
+        )
+
+        result = self.submit_idea(
+            raw_text=hypothesis.hypothesis_text,
+            source="hypothesis_test",
+            creative_direction=direction,
+        )
+
+        variant_ids = []
+        if "brief_id" in result:
+            variants = self.store.get_variants_for_brief(result["brief_id"])
+            for v in variants:
+                v.hypothesis_id = hypothesis.id
+                self.store.save_variant(v)
+                variant_ids.append(v.id)
+
+        hypotheses = self.store.load_hypotheses()
+        for h in hypotheses:
+            if h.id == hypothesis_id:
+                h.variant_ids.extend(variant_ids)
+                break
+        self.store.save_hypotheses(hypotheses)
+
+        self.notifier.notify_hypothesis_created(hypothesis, len(variant_ids))
+
+        return {
+            "hypothesis_id": hypothesis.id,
+            "hypothesis_text": hypothesis.hypothesis_text,
+            "brief_id": result.get("brief_id"),
+            "variants_generated": len(variant_ids),
+            "variant_ids": variant_ids,
         }
 
     # ------------------------------------------------------------------
@@ -625,13 +682,26 @@ class Orchestrator:
                     from engine.tracking.hypothesis_tracker import HypothesisTracker
                     tracker = HypothesisTracker(self.store)
                     evaluations = tracker.evaluate_all(reg_result)
+
+                    # 4c. Update direct performance for all active hypotheses
+                    all_hypotheses = self.store.load_hypotheses()
+                    active_hypotheses = [
+                        h for h in all_hypotheses
+                        if h.status.value == "active"
+                    ]
+                    for h in active_hypotheses:
+                        tracker.update_performance(h)
+                        if h.variant_ids and h.total_spend > 50:
+                            tracker.generate_human_summary(h)
+                    self.store.save_hypotheses(all_hypotheses)
+
                     if evaluations:
                         results["hypotheses"] = {
                             "evaluated": len(evaluations),
                             "confirmed": len([e for e in evaluations if e.new_status == "confirmed"]),
                             "rejected": len([e for e in evaluations if e.new_status == "rejected"]),
                         }
-                        self.notifier.notify_hypothesis_update(evaluations)
+                        self.notifier.notify_hypothesis_update(evaluations, active_hypotheses)
                 except Exception as e:
                     print(f"Hypothesis evaluation failed: {e}")
             else:

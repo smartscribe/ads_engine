@@ -19,6 +19,60 @@ Each entry includes:
 ## Log
 
 ### 2026-03-28 — Aryan
+**ROADMAP.md rewritten as step-by-step agent implementation guide**
+
+- `ROADMAP.md` — Full rewrite. Previous version tracked P0 completion status for the creative excellence loop. New version is an exhaustive step-by-step guide an agent can follow to finish everything remaining. Includes: architecture quick reference, current state summary table (26 subsystems with exact status), 5 priority tiers (P0 bugs → P4 future), 16 detailed tasks each with exact steps/files/code/acceptance criteria, recommended execution order with time estimates, and comprehensive completed features reference table. Based on full codebase audit: identified concept SSE endpoint ImportError (P0.1), Slack webhook not wired (P1.1), 3 missing dashboard pages (performance, insights, bulk export), scheduler not started, Google deployer/tracker stubbed, and AI image generation roadmap.
+
+---
+
+### 2026-03-28 — Aryan
+**Human-centric hypothesis loop: feedback → extract → generate → track → report**
+
+- `engine/models.py` — Added `hypothesis_id` to `AdVariant` for linking variants to hypotheses. Expanded `CreativeHypothesis` with provenance fields (`source`, `source_context`), direct performance tracking (`variant_ids`, `total_spend`, `treatment_cpfn`, `baseline_cpfn`, `lift_pct`), and `human_summary` for plain English status
+- `engine/store.py` — Added `get_variants_by_hypothesis()` helper; fixed missing `date` import in `load_hypotheses`
+- `engine/tracking/hypothesis_extractor.py` — New file. Claude-powered extraction of testable claims from natural language. Auto-maps freeform text to MECE taxonomy features so humans never need to know feature codes. Includes human-readable feature labels
+- `engine/tracking/hypothesis_tracker.py` — Added direct A/B performance tracking (`update_performance`) comparing hypothesis variant CpFN against baseline. Added `generate_human_summary` for Claude-written plain English status. Added `get_hypothesis_performance` endpoint helper. Kept regression-based evaluation as secondary signal
+- `engine/orchestrator.py` — Added `test_hypothesis()` method that generates ads to test a hypothesis via the standard intake pipeline, tags variants with `hypothesis_id`. Expanded daily cycle to update hypothesis performance and generate summaries
+- `engine/notifications.py` — Enriched `notify_hypothesis_update` with spend/CpFN/lift data and "promising" status. Added `notify_hypothesis_created` for when new hypotheses spawn ad generation
+- `dashboard/api/app.py` — Four new endpoints: `POST /api/hypotheses/extract` (Claude extraction), `POST /api/hypotheses/confirm` (create + optionally generate), `POST /api/hypotheses/{id}/test` (trigger generation), `GET /api/hypotheses/{id}/performance` (direct A/B data). Modified `POST /api/review/submit` and `POST /api/review/monologue` to auto-extract hypothesis candidates from freeform feedback
+- `dashboard/frontend/pages/hypotheses.html` — New page. "What do you want to test?" input with Claude extraction, active hypothesis cards with metrics/gauge/summary, resolved section. Matches existing dark theme
+- `dashboard/frontend/pages/review.html` — Added hypothesis suggestion modal that appears after freeform review feedback. Added "Hypotheses" nav tab
+- `dashboard/frontend/pages/portfolio.html` — Added "Hypotheses" nav tab
+- Design principle: zero taxonomy knowledge required from the human. They say "I think urgency works better" and the system handles feature mapping, ad generation, deployment tracking, and plain English reporting
+
+---
+
+### 2026-03-28 — Aryan
+**Ad copy diversity fix: eliminate duplication, slot-based generation, tighter filters**
+
+- `engine/models.py` — Added `deployment_targets` field to `AdVariant` to store all format x platform pairs without creating duplicate variant objects
+- `engine/generation/generator.py` — Collapsed the nested `for fmt in formats: for platform in platforms:` loop in `generate_with_templates()`. Now creates one variant per unique copy combination instead of N x |formats| x |platforms| duplicates
+- `engine/generation/copy_agents.py` — Rewrote `HeadlineAgent.generate()` and `BodyCopyAgent.generate()` to use slot-based generation: separate LLM calls per hook_type/message_type with type-specific exemplars. Added `HOOK_TYPE_EXEMPLARS` and `MESSAGE_TYPE_EXEMPLARS` dicts. Removed post-hoc retry mechanism (no longer needed). This structurally guarantees diversity instead of relying on prompt instructions the LLM ignores
+- `engine/generation/variant_matrix.py` — Added per-attribute caps (`ceil(n/6)` max per value) to both `_select_exploit()` and `_select_diverse_random()`. Added `tone` to the similarity check in the random path. Made `_enforce_minimums()` loop until diversity targets are met instead of single-pass
+- `dashboard/api/app.py` — Enabled `use_selector=True` in concept endpoint so TemplateSelector rotates visual templates per variant
+- `engine/orchestrator.py` — Enabled `use_selector=True` in submit_idea, submit_concept, and playbook generation paths
+- Root causes: (1) 198 variants but only 46 unique headlines because format x platform expansion created 4x duplicates; (2) 40% of headlines were "statistic" hooks because single-call LLM anchored on statistic-heavy gold standards; (3) diversity filter only blocked combos sharing 2+ of 4 attrs, letting same-hook-type ads through
+
+---
+
+### 2026-03-28 — Aryan
+**Portfolio analysis page revamp: zoom, bubble chart, high-res images, top performers**
+
+- Modified `dashboard/api/app.py`: added `full_image_url` field to portfolio-scatter endpoint for both engine variants and imported existing ads, so the frontend can display full-resolution images instead of thumbnails
+- Rewrote `dashboard/frontend/pages/portfolio.html` with major UX improvements:
+  - Switched scatter plot to bubble chart — bubble radius scales with first notes (conversions), so proven winners visually pop
+  - Added chartjs-plugin-zoom: scroll to zoom, drag to pan, double-click to reset — solves the bottom-left cluster problem
+  - Added log scale toggle for x-axis to spread out ads with varying spend
+  - Median CpFN reference line drawn across chart for instant above/below comparison
+  - Top 5 performers highlighted as gold bubbles with labeled ranks on chart
+  - New "Top Performers" card section below chart with thumbnails, CpFN, spend, notes
+  - Replaced narrow side panel with full-screen modal overlay for ad inspection, large image display
+  - Added total spend summary stat and cleaner filter-count display
+- Why: Nathan's request for a clear visualization of every ad we've ever run with best performers obvious at a glance. The old scatter congregated everything in the bottom-left corner with no way to zoom in.
+
+---
+
+### 2026-03-28 — Aryan
 **Pipeline verification: regression → memory → review → dashboard**
 
 - Ran full regression pipeline end-to-end: dataset build (263 rows, 141 with CPA), WLS regression (R²=0.53, adj R²=0.14, 62 features), holdout validation (test R²=-1.0, overfit as expected with 141 obs / 62 features), bootstrap CI (100 resamples), stability check, confidence tiers (1 moderate, 61 unreliable), creative playbook, format comparison (video CpFN $62 vs static $123, p=0.0003)

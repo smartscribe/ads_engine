@@ -1,0 +1,600 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JotPsych Ads — Hypotheses</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        :root {
+            --bg: #0a0a0a;
+            --surface: #111;
+            --surface2: #161616;
+            --surface3: #1a1a1a;
+            --border: #1e1e1e;
+            --border2: #2a2a2a;
+            --text: #e0e0e0;
+            --text-muted: #888;
+            --text-dim: #555;
+            --green: #22c55e;
+            --green-bg: #22c55e18;
+            --green-border: #22c55e35;
+            --red: #ef4444;
+            --red-bg: #ef444418;
+            --red-border: #ef444435;
+            --blue: #3b82f6;
+            --blue-bg: #3b82f618;
+            --blue-border: #3b82f635;
+            --amber: #f59e0b;
+            --amber-bg: #f59e0b15;
+            --amber-border: #f59e0b35;
+            --purple: #a855f7;
+            --purple-bg: #a855f718;
+            --purple-border: #a855f735;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Inter', sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .nav {
+            display: flex;
+            align-items: center;
+            padding: 0 32px;
+            border-bottom: 1px solid var(--border);
+            height: 52px;
+            gap: 0;
+            flex-shrink: 0;
+        }
+        .nav-brand {
+            font-size: 13px; font-weight: 700; color: #fff;
+            letter-spacing: 0.04em; margin-right: 32px; white-space: nowrap;
+        }
+        .nav-tabs { display: flex; gap: 0; flex: 1; }
+        .nav-tab {
+            padding: 0 18px; height: 52px; display: flex; align-items: center;
+            font-size: 13px; color: var(--text-muted); cursor: pointer;
+            border-bottom: 2px solid transparent; transition: color 0.15s, border-color 0.15s;
+            white-space: nowrap; user-select: none; text-decoration: none;
+        }
+        .nav-tab:hover { color: var(--text); }
+        .nav-tab.active { color: #fff; border-bottom-color: var(--blue); }
+
+        .content { flex: 1; padding: 24px 32px; overflow-y: auto; max-width: 960px; margin: 0 auto; width: 100%; }
+
+        /* Input section */
+        .test-input-section {
+            margin-bottom: 32px;
+        }
+        .test-input-section h2 {
+            font-size: 18px; font-weight: 600; margin-bottom: 8px;
+        }
+        .test-input-section p {
+            font-size: 13px; color: var(--text-muted); margin-bottom: 14px;
+        }
+        .input-row {
+            display: flex; gap: 10px;
+        }
+        .input-row textarea {
+            flex: 1; background: var(--surface); border: 1px solid var(--border2);
+            border-radius: 8px; padding: 12px 14px; color: var(--text);
+            font-size: 14px; font-family: inherit; resize: vertical;
+            min-height: 56px; max-height: 160px;
+            transition: border-color 0.15s;
+        }
+        .input-row textarea:focus {
+            outline: none; border-color: var(--blue);
+        }
+        .input-row textarea::placeholder { color: var(--text-dim); }
+        .btn-primary {
+            padding: 12px 24px; border-radius: 8px; border: none;
+            background: var(--blue); color: #fff; font-size: 13px;
+            font-weight: 600; cursor: pointer; white-space: nowrap;
+            transition: opacity 0.15s;
+        }
+        .btn-primary:hover { opacity: 0.9; }
+        .btn-primary:disabled { opacity: 0.4; cursor: not-allowed; }
+
+        /* Suggestion cards */
+        .suggestions { margin-top: 16px; }
+        .suggestion-card {
+            background: var(--surface); border: 1px solid var(--purple-border);
+            border-radius: 10px; padding: 16px 18px; margin-bottom: 10px;
+            animation: slideIn 0.2s ease;
+        }
+        @keyframes slideIn {
+            from { opacity: 0; transform: translateY(-8px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        .suggestion-text {
+            font-size: 14px; font-weight: 500; margin-bottom: 8px;
+        }
+        .suggestion-features {
+            display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 10px;
+        }
+        .feature-tag {
+            font-size: 11px; padding: 3px 8px; border-radius: 4px;
+            background: var(--purple-bg); color: var(--purple);
+            border: 1px solid var(--purple-border);
+        }
+        .suggestion-reasoning {
+            font-size: 12px; color: var(--text-muted); margin-bottom: 12px;
+        }
+        .suggestion-actions {
+            display: flex; gap: 8px;
+        }
+        .btn-sm {
+            padding: 6px 14px; border-radius: 6px; font-size: 12px;
+            cursor: pointer; transition: all 0.15s; border: 1px solid;
+        }
+        .btn-test {
+            background: var(--blue); border-color: var(--blue); color: #fff;
+        }
+        .btn-test:hover { opacity: 0.85; }
+        .btn-dismiss {
+            background: transparent; border-color: var(--border2); color: var(--text-muted);
+        }
+        .btn-dismiss:hover { color: var(--text); border-color: var(--text-dim); }
+
+        /* Section headers */
+        .section-header {
+            font-size: 15px; font-weight: 600; margin-bottom: 14px;
+            display: flex; align-items: center; gap: 10px;
+        }
+        .section-header .count {
+            font-size: 11px; padding: 2px 8px; border-radius: 10px;
+            background: var(--surface2); color: var(--text-muted);
+            border: 1px solid var(--border2); font-weight: 500;
+        }
+
+        /* Hypothesis cards */
+        .hypothesis-card {
+            background: var(--surface); border: 1px solid var(--border);
+            border-radius: 10px; padding: 18px 20px; margin-bottom: 12px;
+            transition: border-color 0.15s;
+        }
+        .hypothesis-card:hover { border-color: var(--border2); }
+        .hypothesis-header {
+            display: flex; justify-content: space-between; align-items: flex-start;
+            margin-bottom: 10px; gap: 12px;
+        }
+        .hypothesis-text {
+            font-size: 14px; font-weight: 500; flex: 1;
+        }
+        .hypothesis-status {
+            font-size: 11px; padding: 3px 10px; border-radius: 4px;
+            font-weight: 600; text-transform: uppercase; letter-spacing: 0.03em;
+            white-space: nowrap;
+        }
+        .status-active { background: var(--blue-bg); color: var(--blue); border: 1px solid var(--blue-border); }
+        .status-confirmed { background: var(--green-bg); color: var(--green); border: 1px solid var(--green-border); }
+        .status-rejected { background: var(--red-bg); color: var(--red); border: 1px solid var(--red-border); }
+        .status-inconclusive { background: var(--amber-bg); color: var(--amber); border: 1px solid var(--amber-border); }
+
+        .hypothesis-meta {
+            font-size: 11px; color: var(--text-dim); margin-bottom: 12px;
+        }
+        .hypothesis-meta span { margin-right: 14px; }
+
+        /* Metrics row */
+        .metrics-row {
+            display: flex; gap: 16px; margin-bottom: 12px; flex-wrap: wrap;
+        }
+        .metric {
+            display: flex; flex-direction: column; min-width: 80px;
+        }
+        .metric-label { font-size: 10px; color: var(--text-dim); text-transform: uppercase; letter-spacing: 0.04em; margin-bottom: 2px; }
+        .metric-value { font-size: 16px; font-weight: 600; }
+        .metric-value.positive { color: var(--green); }
+        .metric-value.negative { color: var(--red); }
+        .metric-value.neutral { color: var(--text-muted); }
+
+        /* Confidence gauge */
+        .confidence-gauge {
+            margin-bottom: 10px;
+        }
+        .gauge-track {
+            height: 6px; background: var(--surface2); border-radius: 3px;
+            overflow: hidden; margin-bottom: 4px;
+        }
+        .gauge-fill {
+            height: 100%; border-radius: 3px; transition: width 0.4s ease;
+        }
+        .gauge-label {
+            font-size: 11px; color: var(--text-muted);
+        }
+
+        /* Human summary */
+        .human-summary {
+            font-size: 13px; color: var(--text-muted); line-height: 1.5;
+            padding: 10px 14px; background: var(--surface2); border-radius: 6px;
+            margin-bottom: 10px; border-left: 3px solid var(--border2);
+        }
+
+        /* Card actions */
+        .card-actions {
+            display: flex; gap: 8px; margin-top: 6px;
+        }
+        .btn-subtle {
+            padding: 4px 10px; border-radius: 4px; font-size: 11px;
+            background: transparent; border: 1px solid var(--border2);
+            color: var(--text-muted); cursor: pointer; transition: all 0.15s;
+        }
+        .btn-subtle:hover { color: var(--text); border-color: var(--text-dim); }
+
+        /* Resolved section */
+        .resolved-section { margin-top: 32px; }
+        .resolved-toggle {
+            display: flex; align-items: center; gap: 8px;
+            cursor: pointer; user-select: none; margin-bottom: 12px;
+        }
+        .resolved-toggle .arrow {
+            font-size: 10px; color: var(--text-dim);
+            transition: transform 0.15s;
+        }
+        .resolved-toggle.open .arrow { transform: rotate(90deg); }
+        .resolved-list { display: none; }
+        .resolved-list.open { display: block; }
+        .resolved-card {
+            background: var(--surface); border: 1px solid var(--border);
+            border-radius: 8px; padding: 14px 16px; margin-bottom: 8px;
+            opacity: 0.7;
+        }
+        .resolved-card .hypothesis-text { font-size: 13px; }
+
+        /* Empty state */
+        .empty-state {
+            text-align: center; padding: 48px 0;
+            color: var(--text-dim);
+        }
+        .empty-state p { font-size: 14px; margin-bottom: 8px; }
+        .empty-state .hint { font-size: 12px; }
+
+        /* Loading */
+        .loading { text-align: center; padding: 20px; color: var(--text-dim); font-size: 13px; }
+
+        /* Toast */
+        .toast {
+            position: fixed; bottom: 24px; right: 24px;
+            background: var(--surface); border: 1px solid var(--border2);
+            border-radius: 8px; padding: 12px 18px;
+            font-size: 13px; color: var(--text);
+            box-shadow: 0 8px 24px rgba(0,0,0,0.4);
+            transform: translateY(80px); opacity: 0;
+            transition: all 0.25s ease;
+            z-index: 1000;
+        }
+        .toast.show { transform: translateY(0); opacity: 1; }
+    </style>
+</head>
+<body>
+    <nav class="nav">
+        <div class="nav-brand">JOTPSYCH ADS</div>
+        <div class="nav-tabs">
+            <a class="nav-tab" href="/dashboard/pages/review.html">Review Queue</a>
+            <a class="nav-tab" href="/dashboard/pages/portfolio.html">Portfolio</a>
+            <a class="nav-tab" href="/dashboard/pages/review.html#scoreboard">Scoreboard</a>
+            <a class="nav-tab" href="/dashboard/pages/review.html#learnings">Learnings</a>
+            <a class="nav-tab active" href="/dashboard/pages/hypotheses.html">Hypotheses</a>
+        </div>
+    </nav>
+
+    <div class="content">
+        <!-- Input Section -->
+        <div class="test-input-section">
+            <h2>What do you want to test?</h2>
+            <p>Describe your hunch in plain English. We'll figure out what to measure.</p>
+            <div class="input-row">
+                <textarea id="testInput" placeholder="e.g. I think showing the product within 3 seconds works better, or urgency messaging outperforms educational content"></textarea>
+                <button class="btn-primary" id="extractBtn" onclick="extractHypotheses()">Extract</button>
+            </div>
+            <div class="suggestions" id="suggestions"></div>
+        </div>
+
+        <!-- Active Hypotheses -->
+        <div id="activeSection">
+            <div class="section-header">
+                Active Hypotheses <span class="count" id="activeCount">0</span>
+            </div>
+            <div id="activeList"><div class="loading">Loading...</div></div>
+        </div>
+
+        <!-- Resolved Hypotheses -->
+        <div class="resolved-section" id="resolvedSection" style="display:none;">
+            <div class="resolved-toggle" id="resolvedToggle" onclick="toggleResolved()">
+                <span class="arrow">&#9654;</span>
+                <div class="section-header" style="margin-bottom:0;">
+                    Resolved <span class="count" id="resolvedCount">0</span>
+                </div>
+            </div>
+            <div class="resolved-list" id="resolvedList"></div>
+        </div>
+    </div>
+
+    <div class="toast" id="toast"></div>
+
+    <script>
+    const API = '/api';
+
+    async function loadHypotheses() {
+        try {
+            const res = await fetch(`${API}/hypotheses/report`);
+            const data = await res.json();
+            renderActive(data.hypotheses.active || []);
+            renderResolved([
+                ...(data.hypotheses.confirmed || []),
+                ...(data.hypotheses.rejected || []),
+                ...(data.hypotheses.inconclusive || []),
+            ]);
+        } catch (e) {
+            document.getElementById('activeList').innerHTML =
+                '<div class="empty-state"><p>Could not load hypotheses</p></div>';
+        }
+    }
+
+    function renderActive(hypotheses) {
+        const container = document.getElementById('activeList');
+        document.getElementById('activeCount').textContent = hypotheses.length;
+
+        if (!hypotheses.length) {
+            container.innerHTML =
+                '<div class="empty-state">' +
+                '<p>No active hypotheses</p>' +
+                '<div class="hint">Type your hunch above to get started</div>' +
+                '</div>';
+            return;
+        }
+
+        container.innerHTML = hypotheses.map(h => {
+            const spendStr = h.total_spend > 0 ? `$${h.total_spend.toFixed(0)}` : '$0';
+            const treatStr = h.treatment_cpfn ? `$${h.treatment_cpfn.toFixed(0)}` : '--';
+            const baseStr = h.baseline_cpfn ? `$${h.baseline_cpfn.toFixed(0)}` : '--';
+            const liftStr = h.lift_pct !== null && h.lift_pct !== undefined
+                ? `${h.lift_pct > 0 ? '+' : ''}${h.lift_pct.toFixed(0)}%`
+                : '--';
+            const liftClass = h.lift_pct > 0 ? 'positive' : h.lift_pct < 0 ? 'negative' : 'neutral';
+
+            const confidence = h.confidence || 0;
+            const gaugeColor = confidence >= 0.7 ? 'var(--green)'
+                : confidence >= 0.4 ? 'var(--amber)'
+                : 'var(--blue)';
+            const gaugeLabel = confidence >= 0.8 ? 'Strong'
+                : confidence >= 0.6 ? 'Promising'
+                : confidence >= 0.3 ? 'Early signal'
+                : h.evaluation_count > 0 ? 'Weak' : 'Too early';
+
+            const sourceLabel = {
+                review_feedback: 'review',
+                monologue: 'monologue',
+                voice_note: 'voice',
+                manual: 'manual',
+                hypothesis_test: 'test',
+            }[h.source] || h.source || 'manual';
+
+            const createdDate = h.created_at
+                ? new Date(h.created_at).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })
+                : '';
+
+            return `
+            <div class="hypothesis-card">
+                <div class="hypothesis-header">
+                    <div class="hypothesis-text">${esc(h.text)}</div>
+                    <div class="hypothesis-status status-active">Active</div>
+                </div>
+                <div class="hypothesis-meta">
+                    <span>by ${esc(h.created_by)}</span>
+                    <span>from ${sourceLabel}</span>
+                    <span>${createdDate}</span>
+                    <span>${h.variant_count || 0} ads</span>
+                </div>
+                <div class="metrics-row">
+                    <div class="metric">
+                        <div class="metric-label">Spend</div>
+                        <div class="metric-value">${spendStr}</div>
+                    </div>
+                    <div class="metric">
+                        <div class="metric-label">CpConv (test)</div>
+                        <div class="metric-value">${treatStr}</div>
+                    </div>
+                    <div class="metric">
+                        <div class="metric-label">CpConv (baseline)</div>
+                        <div class="metric-value">${baseStr}</div>
+                    </div>
+                    <div class="metric">
+                        <div class="metric-label">Lift</div>
+                        <div class="metric-value ${liftClass}">${liftStr}</div>
+                    </div>
+                </div>
+                <div class="confidence-gauge">
+                    <div class="gauge-track">
+                        <div class="gauge-fill" style="width: ${(confidence * 100).toFixed(0)}%; background: ${gaugeColor};"></div>
+                    </div>
+                    <div class="gauge-label">${gaugeLabel} &middot; ${h.evaluation_count || 0} evaluations</div>
+                </div>
+                ${h.human_summary ? `<div class="human-summary">${esc(h.human_summary)}</div>` : ''}
+                <div class="card-actions">
+                    ${(h.variant_count || 0) === 0 ? `<button class="btn-subtle" onclick="testHypothesis('${h.id}')">Generate Ads</button>` : ''}
+                    <button class="btn-subtle" onclick="viewVariants('${h.id}')">View Variants</button>
+                </div>
+            </div>`;
+        }).join('');
+    }
+
+    function renderResolved(hypotheses) {
+        const container = document.getElementById('resolvedList');
+        document.getElementById('resolvedCount').textContent = hypotheses.length;
+        document.getElementById('resolvedSection').style.display = hypotheses.length ? '' : 'none';
+
+        container.innerHTML = hypotheses.map(h => {
+            const status = h.status || (h.confidence >= 0.8 ? 'confirmed' : h.confidence <= 0.2 ? 'rejected' : 'inconclusive');
+            const statusClass = `status-${status}`;
+            const statusLabel = status.charAt(0).toUpperCase() + status.slice(1);
+
+            return `
+            <div class="resolved-card">
+                <div class="hypothesis-header">
+                    <div class="hypothesis-text">${esc(h.text)}</div>
+                    <div class="hypothesis-status ${statusClass}">${statusLabel}</div>
+                </div>
+                ${h.human_summary ? `<div class="human-summary">${esc(h.human_summary)}</div>` : ''}
+                <div class="hypothesis-meta">
+                    <span>${h.total_spend > 0 ? '$' + h.total_spend.toFixed(0) + ' spent' : ''}</span>
+                    <span>${h.variant_count || 0} ads</span>
+                    <span>${h.evaluation_count || 0} evaluations</span>
+                </div>
+            </div>`;
+        }).join('');
+    }
+
+    function toggleResolved() {
+        const toggle = document.getElementById('resolvedToggle');
+        const list = document.getElementById('resolvedList');
+        toggle.classList.toggle('open');
+        list.classList.toggle('open');
+    }
+
+    // Extract hypotheses from natural language
+    async function extractHypotheses() {
+        const input = document.getElementById('testInput');
+        const btn = document.getElementById('extractBtn');
+        const text = input.value.trim();
+        if (!text) return;
+
+        btn.disabled = true;
+        btn.textContent = 'Thinking...';
+
+        try {
+            const res = await fetch(`${API}/hypotheses/extract`, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ text, context: 'User hypothesis input from dashboard' }),
+            });
+            const data = await res.json();
+            renderSuggestions(data.candidates || [], text);
+        } catch (e) {
+            showToast('Extraction failed. Try again.');
+        } finally {
+            btn.disabled = false;
+            btn.textContent = 'Extract';
+        }
+    }
+
+    function renderSuggestions(candidates, sourceText) {
+        const container = document.getElementById('suggestions');
+        if (!candidates.length) {
+            container.innerHTML = '<div class="suggestion-card"><div class="suggestion-text">No testable hypotheses found. Try being more specific about what creative element you think works.</div></div>';
+            return;
+        }
+
+        container.innerHTML = candidates.map((c, i) => `
+            <div class="suggestion-card" id="suggestion-${i}">
+                <div class="suggestion-text">"${esc(c.hypothesis_text)}"</div>
+                <div class="suggestion-features">
+                    ${(c.feature_labels || []).map(f => `<span class="feature-tag">${esc(f)}</span>`).join('')}
+                </div>
+                ${c.reasoning ? `<div class="suggestion-reasoning">${esc(c.reasoning)}</div>` : ''}
+                <div class="suggestion-actions">
+                    <button class="btn-sm btn-test" onclick="confirmHypothesis(${i}, true)">Test This</button>
+                    <button class="btn-sm btn-dismiss" onclick="dismissSuggestion(${i})">Dismiss</button>
+                </div>
+            </div>
+        `).join('');
+
+        container._candidates = candidates;
+        container._sourceText = sourceText;
+    }
+
+    async function confirmHypothesis(index, generate) {
+        const container = document.getElementById('suggestions');
+        const candidate = container._candidates[index];
+        if (!candidate) return;
+
+        const card = document.getElementById(`suggestion-${index}`);
+        const btn = card.querySelector('.btn-test');
+        btn.disabled = true;
+        btn.textContent = generate ? 'Generating...' : 'Creating...';
+
+        try {
+            const res = await fetch(`${API}/hypotheses/confirm`, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({
+                    hypothesis_text: candidate.hypothesis_text,
+                    related_features: candidate.related_features,
+                    created_by: 'dashboard',
+                    source: 'manual',
+                    source_context: container._sourceText || '',
+                    generate: generate,
+                }),
+            });
+            const data = await res.json();
+
+            card.remove();
+            const varCount = data.generation ? data.generation.variants_generated : 0;
+            showToast(generate
+                ? `Hypothesis created. ${varCount} ads queued for review.`
+                : 'Hypothesis created.');
+            loadHypotheses();
+
+            document.getElementById('testInput').value = '';
+        } catch (e) {
+            btn.disabled = false;
+            btn.textContent = 'Test This';
+            showToast('Failed to create hypothesis.');
+        }
+    }
+
+    function dismissSuggestion(index) {
+        const card = document.getElementById(`suggestion-${index}`);
+        if (card) card.remove();
+    }
+
+    async function testHypothesis(id) {
+        showToast('Generating ads...');
+        try {
+            const res = await fetch(`${API}/hypotheses/${id}/test`, { method: 'POST' });
+            const data = await res.json();
+            showToast(`${data.variants_generated} ads queued for review.`);
+            loadHypotheses();
+        } catch (e) {
+            showToast('Generation failed.');
+        }
+    }
+
+    function viewVariants(hypothesisId) {
+        window.location.href = `/dashboard/pages/review.html?hypothesis=${hypothesisId}`;
+    }
+
+    function showToast(msg) {
+        const toast = document.getElementById('toast');
+        toast.textContent = msg;
+        toast.classList.add('show');
+        clearTimeout(toast._timer);
+        toast._timer = setTimeout(() => toast.classList.remove('show'), 3000);
+    }
+
+    function esc(str) {
+        if (!str) return '';
+        const d = document.createElement('div');
+        d.textContent = str;
+        return d.innerHTML;
+    }
+
+    // Handle Enter key in textarea
+    document.getElementById('testInput').addEventListener('keydown', (e) => {
+        if (e.key === 'Enter' && !e.shiftKey) {
+            e.preventDefault();
+            extractHypotheses();
+        }
+    });
+
+    loadHypotheses();
+    </script>
+</body>
+</html>

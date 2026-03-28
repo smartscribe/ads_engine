@@ -163,7 +163,8 @@ async def submit_concept(concept: ConceptInput):
                 store.save_brief(brief)
                 try:
                     variants = generator.generate_with_templates(
-                        brief, use_v2=True, store=store, generation_context=context
+                        brief, use_v2=True, store=store, generation_context=context,
+                        use_selector=True,
                     )
                     for v in variants:
                         store.save_variant(v)
@@ -352,14 +353,35 @@ async def submit_review(feedback: ReviewFeedback):
     """
     Submit a structured review from the dashboard.
     Verdict is recorded immediately. Chips and freeform note are optional enrichment.
+    If a freeform note is provided, extracts testable hypothesis candidates.
     """
     try:
         variant = review_pipeline.submit_review(feedback)
-        return {
+        result = {
             "variant_id": variant.id,
             "status": variant.status.value,
             "chips_recorded": len(variant.review_chips),
         }
+
+        if feedback.freeform_note and len(feedback.freeform_note.strip()) > 15:
+            try:
+                from engine.tracking.hypothesis_extractor import HypothesisExtractor, FEATURE_LABELS
+                extractor = HypothesisExtractor()
+                candidates = extractor.extract(
+                    feedback.freeform_note,
+                    context=f"Review feedback ({feedback.verdict}) on ad variant",
+                )
+                for c in candidates:
+                    c["feature_labels"] = [
+                        FEATURE_LABELS.get(f, f.replace("_", " "))
+                        for f in c.get("related_features", [])
+                    ]
+                if candidates:
+                    result["suggested_hypotheses"] = candidates
+            except Exception:
+                pass
+
+        return result
     except FileNotFoundError:
         raise HTTPException(status_code=404, detail=f"Variant {feedback.variant_id} not found")
 
@@ -1012,7 +1034,7 @@ async def submit_monologue(body: MonologueInput):
     monologue_path = monologue_dir / f"{result.monologue_id}.json"
     monologue_path.write_text(_json.dumps(result.to_dict(), indent=2))
 
-    return {
+    response = {
         "monologue_id": result.monologue_id,
         "verdicts": [
             {"variant_id": v.variant_id, "verdict": v.verdict, "reason": v.reason}
@@ -1021,6 +1043,24 @@ async def submit_monologue(body: MonologueInput):
         "global_directions": result.global_directions,
         "applied": applied,
     }
+
+    if result.global_directions:
+        try:
+            from engine.tracking.hypothesis_extractor import HypothesisExtractor, FEATURE_LABELS
+            extractor = HypothesisExtractor()
+            directions_text = "\n".join(result.global_directions)
+            candidates = extractor.extract(directions_text, context="Monologue review global directions")
+            for c in candidates:
+                c["feature_labels"] = [
+                    FEATURE_LABELS.get(f, f.replace("_", " "))
+                    for f in c.get("related_features", [])
+                ]
+            if candidates:
+                response["suggested_hypotheses"] = candidates
+        except Exception:
+            pass
+
+    return response
 
 
 @app.post("/api/review/monologue-regenerate")
@@ -1248,10 +1288,104 @@ async def get_hypothesis_history(hypothesis_id: str):
 
 @app.get("/api/hypotheses/report")
 async def get_hypothesis_report():
-    """Get a summary report of all hypotheses."""
+    """Get a summary report of all hypotheses with performance data."""
     from engine.tracking.hypothesis_tracker import HypothesisTracker
     tracker = HypothesisTracker(store)
     return tracker.generate_report()
+
+
+class HypothesisExtractInput(BaseModel):
+    text: str
+    context: str = ""
+
+
+class HypothesisConfirmInput(BaseModel):
+    hypothesis_text: str
+    related_features: list[str] = []
+    created_by: str = "dashboard"
+    source: str = "manual"
+    source_context: str = ""
+    generate: bool = False
+
+
+@app.post("/api/hypotheses/extract")
+async def extract_hypotheses(body: HypothesisExtractInput):
+    """
+    Extract testable hypothesis candidates from natural language.
+    Returns suggestions — does NOT create hypotheses.
+    """
+    from engine.tracking.hypothesis_extractor import HypothesisExtractor
+    extractor = HypothesisExtractor()
+    candidates = extractor.extract(body.text, context=body.context)
+
+    for c in candidates:
+        from engine.tracking.hypothesis_extractor import FEATURE_LABELS
+        c["feature_labels"] = [
+            FEATURE_LABELS.get(f, f.replace("_", " ")) for f in c.get("related_features", [])
+        ]
+
+    return {"candidates": candidates}
+
+
+@app.post("/api/hypotheses/confirm")
+async def confirm_hypothesis(body: HypothesisConfirmInput):
+    """
+    Create a hypothesis from a confirmed candidate. Optionally trigger ad generation.
+    """
+    from engine.models import CreativeHypothesis
+
+    hypothesis = CreativeHypothesis(
+        hypothesis_text=body.hypothesis_text,
+        created_by=body.created_by,
+        related_features=body.related_features,
+        source=body.source,
+        source_context=body.source_context,
+    )
+    hypotheses = store.load_hypotheses()
+    hypotheses.append(hypothesis)
+    store.save_hypotheses(hypotheses)
+
+    result = {"hypothesis": hypothesis.model_dump()}
+
+    if body.generate:
+        orchestrator = _get_orchestrator()
+        gen_result = orchestrator.test_hypothesis(hypothesis.id)
+        result["generation"] = gen_result
+
+    return result
+
+
+@app.post("/api/hypotheses/{hypothesis_id}/test")
+async def test_hypothesis(hypothesis_id: str):
+    """Generate ads to test a hypothesis."""
+    hypothesis = store.get_hypothesis(hypothesis_id)
+    if not hypothesis:
+        raise HTTPException(status_code=404, detail=f"Hypothesis {hypothesis_id} not found")
+
+    orchestrator = _get_orchestrator()
+    result = orchestrator.test_hypothesis(hypothesis_id)
+
+    if "error" in result:
+        raise HTTPException(status_code=400, detail=result["error"])
+
+    return result
+
+
+@app.get("/api/hypotheses/{hypothesis_id}/performance")
+async def get_hypothesis_performance(hypothesis_id: str):
+    """Get direct A/B performance data for a hypothesis."""
+    from engine.tracking.hypothesis_tracker import HypothesisTracker
+    tracker = HypothesisTracker(store)
+    perf = tracker.get_hypothesis_performance(hypothesis_id)
+    if not perf:
+        raise HTTPException(status_code=404, detail=f"Hypothesis {hypothesis_id} not found")
+    return perf
+
+
+def _get_orchestrator():
+    """Lazy-init orchestrator for hypothesis testing endpoints."""
+    from engine.orchestrator import Orchestrator
+    return Orchestrator(store=store)
 
 
 # ---------------------------------------------------------------------------
@@ -1292,6 +1426,7 @@ async def portfolio_scatter(min_spend: float = 50.0):
             "is_video": fmt in VIDEO_FORMATS,
             "source": "engine",
             "image_url": variant.asset_path,
+            "full_image_url": variant.asset_path,
             "is_outlier": False,
             "rank": None,
         })
@@ -1315,6 +1450,7 @@ async def portfolio_scatter(min_spend: float = 50.0):
             "is_video": fmt in VIDEO_FORMATS,
             "source": "existing",
             "image_url": ad.thumbnail_url or ad.image_url,
+            "full_image_url": ad.image_url,
             "is_outlier": False,
             "rank": None,
         })

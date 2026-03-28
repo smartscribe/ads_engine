@@ -9,6 +9,7 @@ from __future__ import annotations
 
 import json
 import os
+from datetime import date
 from pathlib import Path
 from typing import Optional
 
@@ -533,3 +534,10 @@ class Store:
             if h.id == hypothesis_id:
                 return h
         return None
+
+    def get_variants_by_hypothesis(self, hypothesis_id: str) -> list[AdVariant]:
+        """Get all variants generated to test a specific hypothesis."""
+        return [
+            v for v in self.get_all_variants()
+            if getattr(v, "hypothesis_id", None) == hypothesis_id
+        ]

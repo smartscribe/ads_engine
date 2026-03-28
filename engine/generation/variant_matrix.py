@@ -227,29 +227,78 @@ class VariantMatrix:
         
         return float(under_tested)
 
+    @staticmethod
+    def _attribute_caps(n: int) -> dict[str, int]:
+        """Max allowed count for any single value in a taxonomy dimension."""
+        return {
+            "hook_type": max(1, math.ceil(n / 6)),
+            "message_type": max(1, math.ceil(n / 6)),
+            "tone": max(1, math.ceil(n / 6)),
+        }
+
+    @staticmethod
+    def _get_combo_attrs(combo: tuple) -> dict[str, str]:
+        headline, body, cta = combo
+        return {
+            "hook_type": headline.get("hook_type", ""),
+            "message_type": body.get("message_type", ""),
+            "tone": body.get("tone", ""),
+        }
+
+    @staticmethod
+    def _would_breach_cap(
+        attrs: dict[str, str],
+        counts: dict[str, Counter],
+        caps: dict[str, int],
+    ) -> bool:
+        for dim, cap in caps.items():
+            val = attrs.get(dim, "")
+            if val and counts.get(dim, Counter()).get(val, 0) >= cap:
+                return True
+        return False
+
+    @staticmethod
+    def _update_counts(
+        attrs: dict[str, str], counts: dict[str, Counter]
+    ) -> None:
+        for dim, val in attrs.items():
+            if val:
+                counts.setdefault(dim, Counter())[val] += 1
+
     def _select_exploit(
         self, scored: list[dict], n: int
     ) -> list[dict]:
         """
-        Select top N by adjusted_score (with fatigue penalty) while enforcing diversity.
-        Rejects candidates sharing 2+ of 4 attributes (hook_type, message_type, tone, CTA)
-        with any already-selected variant.
+        Select top N by adjusted_score while enforcing diversity via:
+        1. Pairwise similarity: reject candidates sharing 2+ of 4 attributes
+           (hook_type, message_type, tone, CTA) with any already-selected variant.
+        2. Per-attribute caps: no single hook_type/message_type/tone value may
+           appear more than ceil(n/6) times in the batch.
         """
         scored_sorted = sorted(scored, key=lambda x: x["adjusted_score"])
-        
+
         if len(scored_sorted) <= n:
             return scored_sorted
-        
+
+        caps = self._attribute_caps(n)
+        dim_counts: dict[str, Counter] = {}
+
         selected = [scored_sorted[0]]
-        
+        first_attrs = self._get_combo_attrs(scored_sorted[0]["combo"])
+        self._update_counts(first_attrs, dim_counts)
+
         for item in scored_sorted[1:]:
             if len(selected) >= n:
                 break
-            
+
             combo = item["combo"]
             headline, body, cta = combo
+            attrs = self._get_combo_attrs(combo)
+
+            if self._would_breach_cap(attrs, dim_counts, caps):
+                continue
+
             too_similar = False
-            
             for s_item in selected:
                 s_h, s_b, s_c = s_item["combo"]
                 shared = 0
@@ -264,17 +313,18 @@ class VariantMatrix:
                 if shared >= 2:
                     too_similar = True
                     break
-            
+
             if not too_similar:
                 selected.append(item)
-        
+                self._update_counts(attrs, dim_counts)
+
         if len(selected) < n:
             for item in scored_sorted:
                 if len(selected) >= n:
                     break
                 if item not in selected:
                     selected.append(item)
-        
+
         return selected
 
     def _select_explore(
@@ -305,8 +355,9 @@ class VariantMatrix:
     ) -> list[dict]:
         """
         Ensure the selected set meets minimum diversity requirements.
-        Swaps out the least-differentiated exploit combo for one that adds
-        an underrepresented taxonomy value.
+        Swaps out the most redundant item for one that adds a missing
+        taxonomy value. Repeats until minimums are met or no more swaps
+        are possible.
         """
         def _get_dim_value(item: dict, dim: str) -> str:
             combo = item["combo"]
@@ -322,41 +373,45 @@ class VariantMatrix:
         available = [s for s in full_pool if id(s["combo"]) not in selected_ids]
 
         for dim, required in min_unique.items():
-            current_values = Counter(_get_dim_value(s, dim) for s in selected)
-            unique_count = len([v for v in current_values if v])
+            max_swaps = len(selected)
+            swaps_done = 0
 
-            if unique_count >= required:
-                continue
-
-            needed_values = set()
-            for item in available:
-                val = _get_dim_value(item, dim)
-                if val and val not in current_values:
-                    needed_values.add(val)
-
-            for target_val in needed_values:
-                if len([v for v in Counter(_get_dim_value(s, dim) for s in selected) if v]) >= required:
+            while swaps_done < max_swaps:
+                current_values = Counter(_get_dim_value(s, dim) for s in selected)
+                unique_count = len([v for v in current_values if v])
+                if unique_count >= required:
                     break
+
+                needed_values = [
+                    _get_dim_value(item, dim)
+                    for item in available
+                    if _get_dim_value(item, dim)
+                    and _get_dim_value(item, dim) not in current_values
+                ]
+                if not needed_values:
+                    break
+                target_val = needed_values[0]
 
                 candidate = next(
                     (s for s in available if _get_dim_value(s, dim) == target_val),
                     None,
                 )
                 if not candidate:
-                    continue
+                    break
 
-                # Find the most redundant item to swap out (most common dim value, worst score)
-                value_counts = Counter(_get_dim_value(s, dim) for s in selected)
-                most_common_val = value_counts.most_common(1)[0][0] if value_counts else None
-                if most_common_val and value_counts[most_common_val] > 1:
-                    swap_candidates = [
-                        s for s in selected
-                        if _get_dim_value(s, dim) == most_common_val
-                    ]
-                    swap_out = max(swap_candidates, key=lambda x: x.get("adjusted_score", 0))
-                    selected = [s for s in selected if id(s) != id(swap_out)]
-                    selected.append(candidate)
-                    available = [s for s in available if id(s["combo"]) != id(candidate["combo"])]
+                most_common_val = current_values.most_common(1)[0][0] if current_values else None
+                if not most_common_val or current_values[most_common_val] <= 1:
+                    break
+
+                swap_candidates = [
+                    s for s in selected
+                    if _get_dim_value(s, dim) == most_common_val
+                ]
+                swap_out = max(swap_candidates, key=lambda x: x.get("adjusted_score", 0))
+                selected = [s for s in selected if id(s) != id(swap_out)]
+                selected.append(candidate)
+                available = [s for s in available if id(s["combo"]) != id(candidate["combo"])]
+                swaps_done += 1
 
         return selected
 
@@ -499,14 +554,17 @@ class VariantMatrix:
         self, combos: list[tuple], n: int
     ) -> list[tuple]:
         """
-        No regression data — pick diverse random combos.
-        Stricter similarity threshold (2+ shared attrs) since there's no
-        scoring signal to differentiate otherwise.
+        No regression data — pick diverse random combos with:
+        1. Pairwise similarity: reject candidates sharing 2+ of 4 attributes
+           (hook_type, message_type, tone, CTA) with any already-selected.
+        2. Per-attribute caps: same ceiling as _select_exploit.
         """
         if len(combos) <= n:
             return [(c, 0.0) for c in combos]
 
         random.shuffle(combos)
+        caps = self._attribute_caps(n)
+        dim_counts: dict[str, Counter] = {}
         selected: list[tuple] = []
 
         for combo in combos:
@@ -514,14 +572,20 @@ class VariantMatrix:
                 break
 
             headline, body, cta = combo
-            too_similar = False
+            attrs = self._get_combo_attrs(combo)
 
+            if self._would_breach_cap(attrs, dim_counts, caps):
+                continue
+
+            too_similar = False
             for s_combo, _ in selected:
                 s_h, s_b, s_c = s_combo
                 shared = 0
                 if headline.get("hook_type") == s_h.get("hook_type"):
                     shared += 1
                 if body.get("message_type") == s_b.get("message_type"):
+                    shared += 1
+                if body.get("tone") == s_b.get("tone"):
                     shared += 1
                 if cta == s_c:
                     shared += 1
@@ -531,6 +595,7 @@ class VariantMatrix:
 
             if not too_similar:
                 selected.append((combo, 0.0))
+                self._update_counts(attrs, dim_counts)
 
         for combo in combos:
             if len(selected) >= n:

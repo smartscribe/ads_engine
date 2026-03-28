@@ -1110,6 +1110,52 @@
         }
 
         code { font-family: monospace; background: var(--surface2); padding: 1px 5px; border-radius: 3px; font-size: 12px; }
+
+        /* Hypothesis suggestion modal */
+        .hypo-modal-overlay {
+            position: fixed; inset: 0; background: rgba(0,0,0,0.6);
+            display: flex; align-items: center; justify-content: center;
+            z-index: 2000; animation: fadeIn 0.15s ease;
+        }
+        @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+        .hypo-modal {
+            background: var(--surface); border: 1px solid var(--border2);
+            border-radius: 12px; padding: 20px 24px; max-width: 440px; width: 90%;
+            box-shadow: 0 12px 40px rgba(0,0,0,0.5);
+        }
+        .hypo-modal h3 {
+            font-size: 14px; font-weight: 600; margin-bottom: 4px;
+        }
+        .hypo-modal .subtitle {
+            font-size: 12px; color: var(--text-dim); margin-bottom: 14px;
+        }
+        .hypo-modal .hypo-text {
+            font-size: 14px; font-weight: 500; margin-bottom: 10px;
+            padding: 10px 12px; background: var(--surface2); border-radius: 6px;
+            border-left: 3px solid #a855f7;
+        }
+        .hypo-modal .hypo-features {
+            display: flex; flex-wrap: wrap; gap: 5px; margin-bottom: 14px;
+        }
+        .hypo-modal .hypo-ftag {
+            font-size: 10px; padding: 2px 7px; border-radius: 3px;
+            background: #a855f718; color: #a855f7; border: 1px solid #a855f735;
+        }
+        .hypo-modal .hypo-actions {
+            display: flex; gap: 8px; justify-content: flex-end;
+        }
+        .hypo-modal .hypo-btn {
+            padding: 7px 16px; border-radius: 6px; font-size: 12px;
+            cursor: pointer; border: 1px solid; transition: all 0.15s;
+        }
+        .hypo-modal .hypo-btn-test {
+            background: #3b82f6; border-color: #3b82f6; color: #fff;
+        }
+        .hypo-modal .hypo-btn-test:hover { opacity: 0.85; }
+        .hypo-modal .hypo-btn-dismiss {
+            background: transparent; border-color: var(--border2); color: var(--text-muted);
+        }
+        .hypo-modal .hypo-btn-dismiss:hover { color: var(--text); border-color: var(--text-dim); }
     </style>
 </head>
 <body>
@@ -1130,6 +1176,9 @@
         <div class="nav-tab" data-view="learnings" onclick="switchView('learnings')">
             Learnings
         </div>
+        <a class="nav-tab" href="/dashboard/pages/hypotheses.html" style="text-decoration:none;">
+            Hypotheses
+        </a>
     </div>
     <div class="nav-right">
         <span style="font-size:12px;color:var(--text-muted);">Reviewing as:</span>
@@ -1498,7 +1547,7 @@ function tinderVerdict(verdict) {
 
 async function submitVerdict(variantId, verdict, durationMs, selectedChips, note) {
     try {
-        await fetch(`${API}/api/review/submit`, {
+        const res = await fetch(`${API}/api/review/submit`, {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({
@@ -1510,7 +1559,55 @@ async function submitVerdict(variantId, verdict, durationMs, selectedChips, note
                 review_duration_ms: durationMs || 0,
             }),
         });
+        const data = await res.json();
+        if (data.suggested_hypotheses && data.suggested_hypotheses.length > 0) {
+            showHypothesisModal(data.suggested_hypotheses[0], note || '');
+        }
     } catch (e) { /* best-effort */ }
+}
+
+function showHypothesisModal(candidate, sourceText) {
+    const overlay = document.createElement('div');
+    overlay.className = 'hypo-modal-overlay';
+    overlay.innerHTML = `
+        <div class="hypo-modal">
+            <h3>We noticed something testable</h3>
+            <div class="subtitle">From your feedback:</div>
+            <div class="hypo-text">${esc(candidate.hypothesis_text)}</div>
+            <div class="hypo-features">
+                ${(candidate.feature_labels || []).map(f => `<span class="hypo-ftag">${esc(f)}</span>`).join('')}
+            </div>
+            <div class="hypo-actions">
+                <button class="hypo-btn hypo-btn-dismiss" onclick="this.closest('.hypo-modal-overlay').remove()">Dismiss</button>
+                <button class="hypo-btn hypo-btn-test" id="hypoTestBtn">Test This</button>
+            </div>
+        </div>
+    `;
+    document.body.appendChild(overlay);
+    overlay.addEventListener('click', (e) => { if (e.target === overlay) overlay.remove(); });
+    overlay.querySelector('#hypoTestBtn').addEventListener('click', async () => {
+        const btn = overlay.querySelector('#hypoTestBtn');
+        btn.disabled = true;
+        btn.textContent = 'Generating...';
+        try {
+            await fetch(`${API}/api/hypotheses/confirm`, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({
+                    hypothesis_text: candidate.hypothesis_text,
+                    related_features: candidate.related_features,
+                    created_by: getReviewer(),
+                    source: 'review_feedback',
+                    source_context: sourceText,
+                    generate: true,
+                }),
+            });
+            overlay.remove();
+        } catch (e) {
+            btn.disabled = false;
+            btn.textContent = 'Test This';
+        }
+    });
 }
 
 function openChipPanel(verdict) {
