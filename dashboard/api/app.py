@@ -590,6 +590,214 @@ async def get_variant_performance(variant_id: str):
 
 
 # ---------------------------------------------------------------------------
+# Performance Dashboard (P1.2)
+# ---------------------------------------------------------------------------
+
+@app.get("/api/performance/dashboard")
+async def performance_dashboard():
+    """
+    Aggregated performance data for all deployed/active variants.
+    Returns per-variant metrics with sparkline data and summary stats.
+    """
+    from collections import defaultdict
+
+    # Load all variants that have been deployed (any status post-review)
+    deployed_statuses = [AdStatus.LIVE, AdStatus.GRADUATED, AdStatus.PAUSED, AdStatus.KILLED]
+    all_variants = []
+    for status in deployed_statuses:
+        all_variants.extend(store.get_variants_by_status(status))
+
+    if not all_variants:
+        return {
+            "variants": [],
+            "summary": {
+                "total_active": 0,
+                "total_daily_spend": 0,
+                "avg_cpfn": None,
+                "best_performer": None,
+                "worst_performer": None,
+            },
+        }
+
+    variant_data = []
+    total_spend = 0.0
+    total_notes = 0
+
+    for v in all_variants:
+        snapshots = store.get_snapshots_for_variant(v.id)
+        if not snapshots:
+            continue
+
+        v_spend = sum(s.spend for s in snapshots)
+        v_impressions = sum(s.impressions for s in snapshots)
+        v_clicks = sum(s.clicks for s in snapshots)
+        v_notes = sum(s.first_note_completions for s in snapshots)
+        v_cpfn = round(v_spend / v_notes, 2) if v_notes > 0 else None
+        v_ctr = round(v_clicks / v_impressions, 4) if v_impressions > 0 else 0
+        days_running = len(set(s.date.isoformat() if hasattr(s.date, 'isoformat') else str(s.date) for s in snapshots))
+
+        total_spend += v_spend
+        total_notes += v_notes
+
+        # Build sparkline data (last 7 days)
+        sorted_snaps = sorted(snapshots, key=lambda s: str(s.date))
+        daily = defaultdict(lambda: {"spend": 0.0, "notes": 0})
+        for s in sorted_snaps:
+            d = s.date.isoformat() if hasattr(s.date, 'isoformat') else str(s.date)
+            daily[d]["spend"] += s.spend
+            daily[d]["notes"] += s.first_note_completions
+
+        dates_sorted = sorted(daily.keys())[-7:]
+        sparkline_spend = [round(daily[d]["spend"], 2) for d in dates_sorted]
+        sparkline_cpfn = []
+        for d in dates_sorted:
+            if daily[d]["notes"] > 0:
+                sparkline_cpfn.append(round(daily[d]["spend"] / daily[d]["notes"], 2))
+            else:
+                sparkline_cpfn.append(None)
+
+        # Trend: compare recent 3 days vs overall
+        recent = sorted_snaps[-3:] if len(sorted_snaps) >= 3 else sorted_snaps
+        recent_spend = sum(s.spend for s in recent)
+        recent_notes = sum(s.first_note_completions for s in recent)
+        recent_cpfn = recent_spend / recent_notes if recent_notes > 0 else None
+
+        if v_cpfn and recent_cpfn:
+            if recent_cpfn < v_cpfn * 0.9:
+                trend = "improving"
+            elif recent_cpfn > v_cpfn * 1.1:
+                trend = "declining"
+            else:
+                trend = "stable"
+        else:
+            trend = "unknown"
+
+        # Latest decision
+        decisions = store.get_decisions_for_variant(v.id)
+        latest_verdict = decisions[-1].verdict.value if decisions else None
+
+        # Asset thumbnail
+        asset_p = Path(v.asset_path) if v.asset_path else None
+        has_thumb = (
+            asset_p is not None
+            and asset_p.suffix in (".png", ".jpg", ".jpeg", ".webp")
+            and asset_p.exists()
+            and asset_p.stat().st_size > 1024
+        )
+
+        variant_data.append({
+            "variant_id": v.id,
+            "headline": v.headline,
+            "status": v.status.value if hasattr(v.status, 'value') else str(v.status),
+            "thumbnail_url": f"/data/creatives/rendered/{asset_p.name}" if has_thumb else None,
+            "spend": round(v_spend, 2),
+            "impressions": v_impressions,
+            "clicks": v_clicks,
+            "conversions": v_notes,
+            "cpfn": v_cpfn,
+            "ctr": v_ctr,
+            "days_running": days_running,
+            "trend": trend,
+            "sparkline_spend": sparkline_spend,
+            "sparkline_cpfn": sparkline_cpfn,
+            "latest_verdict": latest_verdict,
+        })
+
+    # Sort by CpFN ascending (lower = better), None last
+    variant_data.sort(key=lambda e: (e["cpfn"] is None, e["cpfn"] or 0))
+
+    # Summary stats
+    avg_cpfn = round(total_spend / total_notes, 2) if total_notes > 0 else None
+    with_cpfn = [v for v in variant_data if v["cpfn"] is not None]
+    best = min(with_cpfn, key=lambda v: v["cpfn"]) if with_cpfn else None
+    worst = max(with_cpfn, key=lambda v: v["cpfn"]) if with_cpfn else None
+
+    active_count = len([v for v in variant_data if v["status"] in ("live", "graduated")])
+
+    return {
+        "variants": variant_data,
+        "summary": {
+            "total_active": active_count,
+            "total_daily_spend": round(total_spend / max(1, len(set(
+                s.date.isoformat() if hasattr(s.date, 'isoformat') else str(s.date)
+                for v in all_variants
+                for s in store.get_snapshots_for_variant(v.id)
+            ))), 2) if total_spend > 0 else 0,
+            "avg_cpfn": avg_cpfn,
+            "best_performer": {"id": best["variant_id"], "headline": best["headline"], "cpfn": best["cpfn"]} if best else None,
+            "worst_performer": {"id": worst["variant_id"], "headline": worst["headline"], "cpfn": worst["cpfn"]} if worst else None,
+        },
+    }
+
+
+class DecisionAction(BaseModel):
+    variant_id: str
+    action: str  # "kill" | "scale" | "pause" | "resume"
+
+
+@app.post("/api/decisions/act")
+async def act_on_decision(body: DecisionAction):
+    """
+    Execute a scale/kill/pause/resume action on a variant.
+    Updates variant status and optionally calls the Meta deployer.
+    """
+    try:
+        variant = store.get_variant(body.variant_id)
+    except FileNotFoundError:
+        raise HTTPException(status_code=404, detail=f"Variant {body.variant_id} not found")
+
+    action = body.action.lower()
+    if action not in ("kill", "scale", "pause", "resume"):
+        raise HTTPException(status_code=400, detail=f"Invalid action: {action}. Must be kill, scale, pause, or resume.")
+
+    # Update variant status
+    if action == "kill":
+        variant.status = AdStatus.KILLED
+    elif action == "scale":
+        variant.status = AdStatus.GRADUATED
+    elif action == "pause":
+        variant.status = AdStatus.PAUSED
+    elif action == "resume":
+        variant.status = AdStatus.LIVE
+
+    store.save_variant(variant)
+
+    # Try to update on Meta if we have credentials and a meta_ad_id
+    platform_result = None
+    if variant.meta_ad_id:
+        try:
+            from config.settings import get_settings
+            settings = get_settings()
+            if settings.META_ACCESS_TOKEN and settings.META_AD_ACCOUNT_ID:
+                meta = MetaDeployer(
+                    settings.META_ACCESS_TOKEN,
+                    settings.META_AD_ACCOUNT_ID,
+                    page_id=getattr(settings, "META_PAGE_ID", ""),
+                )
+                if action in ("kill", "pause"):
+                    meta.pause_ad(variant.meta_ad_id)
+                    platform_result = "paused_on_meta"
+                elif action == "resume":
+                    meta.resume_ad(variant.meta_ad_id)
+                    platform_result = "resumed_on_meta"
+        except Exception as e:
+            platform_result = f"platform_error: {e}"
+
+    # Notify via Slack
+    notifier.notify_deployment(
+        [variant],
+        f"Action: {action.upper()}"
+    )
+
+    return {
+        "variant_id": variant.id,
+        "new_status": variant.status.value if hasattr(variant.status, 'value') else str(variant.status),
+        "action": action,
+        "platform_result": platform_result,
+    }
+
+
+# ---------------------------------------------------------------------------
 # Decisions
 # ---------------------------------------------------------------------------
 
