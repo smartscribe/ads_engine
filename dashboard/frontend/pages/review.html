@@ -1179,6 +1179,12 @@
         <a class="nav-tab" href="/dashboard/pages/hypotheses.html" style="text-decoration:none;">
             Hypotheses
         </a>
+        <a class="nav-tab" href="/dashboard/pages/performance.html" style="text-decoration:none;">
+            Performance
+        </a>
+        <a class="nav-tab" href="/dashboard/pages/insights.html" style="text-decoration:none;">
+            Insights
+        </a>
     </div>
     <div class="nav-right">
         <span style="font-size:12px;color:var(--text-muted);">Reviewing as:</span>
@@ -1203,6 +1209,7 @@
             <span><span class="stat-dot" style="background:#ef4444;"></span><span id="statRejected">0</span> rejected</span>
         </div>
         <button onclick="deployAllApproved()" style="margin-left:12px;padding:6px 14px;border-radius:6px;border:1px solid var(--green-border);background:var(--green-bg);color:var(--green);font-size:12px;cursor:pointer;font-weight:500;">Deploy Approved</button>
+        <button onclick="window.location.href='/api/variants/export?status=approved'" style="margin-left:8px;padding:6px 14px;border-radius:6px;border:1px solid var(--blue-border);background:var(--blue-bg);color:var(--blue);font-size:12px;cursor:pointer;font-weight:500;">⬇ Download Approved</button>
         <div class="mode-toggle" style="margin-left:auto;">
             <button class="mode-btn active" id="modeTinder" onclick="setMode('tinder')">Focus</button>
             <button class="mode-btn" id="modeGallery" onclick="setMode('gallery')">Gallery</button>
