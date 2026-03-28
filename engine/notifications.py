@@ -34,8 +34,19 @@ class SlackNotifier:
     """
 
     def __init__(self, webhook_url: Optional[str] = None, channel: str = DEFAULT_CHANNEL):
-        self.webhook_url = webhook_url
-        self.channel = channel
+        if webhook_url is None:
+            # Auto-read from settings when no explicit webhook_url is passed
+            try:
+                from config.settings import get_settings
+                settings = get_settings()
+                self.webhook_url = settings.SLACK_WEBHOOK_URL or None
+                self.channel = settings.SLACK_CHANNEL or channel
+            except Exception:
+                self.webhook_url = None
+                self.channel = channel
+        else:
+            self.webhook_url = webhook_url or None
+            self.channel = channel
 
     def notify_variants_generated(self, brief_id: str, variants: list[AdVariant]) -> None:
         """Post when new variants are ready for review."""
@@ -181,16 +192,25 @@ class SlackNotifier:
 
     def _send(self, message: str, channel: Optional[str] = None) -> None:
         """
-        Send a message to Slack.
+        Send a message to Slack via incoming webhook.
 
-        For now, prints to stdout. The intern should implement:
-        1. Webhook-based sending for scheduled/background jobs
-        2. MCP integration for Claude Code interactive use
+        When SLACK_WEBHOOK_URL is configured, POSTs the message to the webhook.
+        Falls back to stdout printing when no webhook URL is set (dev mode).
         """
         target = channel or self.channel
-        print(f"[SLACK → {target}] {message}")
 
-        # INTERN: Implement webhook sending
-        # if self.webhook_url:
-        #     import requests
-        #     requests.post(self.webhook_url, json={"text": message, "channel": target})
+        if not self.webhook_url:
+            print(f"[SLACK → {target}] {message}")
+            return
+
+        import requests
+
+        payload = {"text": message, "channel": target}
+        try:
+            resp = requests.post(self.webhook_url, json=payload, timeout=10)
+            if resp.status_code != 200:
+                print(f"[SLACK ERROR] {resp.status_code}: {resp.text}")
+        except Exception as e:
+            print(f"[SLACK ERROR] Request failed: {e}")
+            # Fall back to stdout so the message isn't lost
+            print(f"[SLACK → {target}] {message}")
