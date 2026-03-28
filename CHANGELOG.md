@@ -19,6 +19,21 @@ Each entry includes:
 ## Log
 
 ### 2026-03-28 — Agent
+**Major ad diversity: Gemini Imagen AI backgrounds, logo fix, portfolio images**
+
+- `engine/generation/image_generator.py` — New module. Uses Gemini Imagen 4.0 (`imagen-4.0-generate-001`) to generate diverse background scenes mapped to hook types (statistic→therapy desk at golden hour, question→crumpled sticky note, testimonial→therapy room interior, etc.). 18 distinct scene prompts across 6 hook types with rotation. Batch generation with caching to control API costs
+- `engine/generation/templates/feed_1080x1080/image_overlay.html` — New template. Composites headline + CTA over AI-generated background with dark gradient overlay for text readability. White text with text-shadow, CTA button at bottom
+- All 4 existing feed templates — Added `max-width: 200px` to logo to prevent the 4.4:1 aspect ratio wordmark from stretching across the card
+- `engine/generation/template_selector.py` — Added `image_overlay` to feed template rotation (now 5 templates)
+- `engine/generation/template_renderer.py` — Registered `image_overlay` in TEMPLATE_SIZES
+- `engine/generation/generator.py` — New `_generate_ai_backgrounds()` method that generates Imagen backgrounds for variants using `image_overlay` template, with fallback to `headline_hero` if AI gen fails
+- `dashboard/api/app.py` — Fixed portfolio image URL mapping to prefer full-res `image_url` over blurry `thumbnail_url`
+- `dashboard/frontend/pages/portfolio.html` — Increased modal image max-height to 520px for better full-res display
+- Re-rendered all 44 drafts: 9 headline_hero + 9 split_screen + 9 stat_callout + 9 testimonial + 8 image_overlay (with AI backgrounds) × 4 color schemes
+
+---
+
+### 2026-03-28 — Agent
 **Redesign ad templates for professional quality**
 
 - All 4 feed templates redesigned: reduced logo from 52px→36px, reduced headline/body font sizes, removed body text from stat_callout, increased whitespace, simplified accent strips
