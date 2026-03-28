@@ -215,6 +215,18 @@ class MarketMemory:
 
 
 @dataclass
+class CreativeDirection:
+    """A human-supplied creative direction that persists across generation cycles."""
+    id: str = field(default_factory=lambda: str(uuid.uuid4()))
+    text: str = ""
+    added_by: str = ""
+    added_at: datetime = field(default_factory=datetime.utcnow)
+    active: bool = True
+    source: str = "manual"                 # "manual" | "monologue"
+    source_id: Optional[str] = None        # monologue_id if from monologue
+
+
+@dataclass
 class CreativeMemory:
     """
     The complete creative memory — assembled from all three layers.
@@ -225,6 +237,7 @@ class CreativeMemory:
     statistical: StatisticalMemory = field(default_factory=StatisticalMemory.empty)
     editorial: EditorialMemory = field(default_factory=EditorialMemory.empty)
     market: MarketMemory = field(default_factory=MarketMemory.empty)
+    creative_directions: list[CreativeDirection] = field(default_factory=list)
     
     built_at: datetime = field(default_factory=datetime.utcnow)
     data_quality_score: float = 0.0        # 0-1, based on n, R², review coverage
@@ -250,6 +263,9 @@ class GenerationContext:
     fatigue_warnings: list[str] = field(default_factory=list)
     exploration_targets: list[str] = field(default_factory=list)
 
+    # Human creative directions — highest priority signal
+    creative_directions: list[str] = field(default_factory=list)
+
     # Stylistic references from swipe file ads (A4) — aesthetic/copy inspiration
     # These are NOT JotPsych performance data — don't treat as rules, just inspiration
     stylistic_references: list[str] = field(default_factory=list)
@@ -259,6 +275,12 @@ class GenerationContext:
     def to_prompt_block(self) -> str:
         """Serialize to a markdown block for agent injection."""
         sections = []
+
+        if self.creative_directions:
+            sections.append("## CREATIVE DIRECTION (from concept owner — strong signal):\n")
+            for direction in self.creative_directions:
+                sections.append(f"- {direction}")
+            sections.append("")
 
         if self.winning_rules:
             sections.append("## WINNING PATTERNS (inspired by — adapt, don't copy verbatim):\n")

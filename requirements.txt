@@ -14,8 +14,8 @@ pandas>=2.2.0
 scipy>=1.12.0
 scikit-learn>=1.4.0   # train_test_split for holdout validation (R1)
 
-# Meta Ads (intern: uncomment when implementing)
-# facebook-business>=19.0.0
+# Meta Ads
+facebook-business>=19.0.0
 
 # Google Ads (intern: uncomment when implementing)
 # google-ads>=24.0.0

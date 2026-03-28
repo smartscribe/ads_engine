@@ -49,6 +49,13 @@ class DecisionVerdict(str, Enum):
     WAIT = "wait"
 
 
+class HypothesisStatus(str, Enum):
+    ACTIVE = "active"
+    CONFIRMED = "confirmed"
+    REJECTED = "rejected"
+    INCONCLUSIVE = "inconclusive"
+
+
 # ---------------------------------------------------------------------------
 # Creative Brief — what comes out of intake
 # ---------------------------------------------------------------------------
@@ -516,3 +523,24 @@ class CreativeMemory(BaseModel):
     # Metadata
     last_regression_date: Optional[date] = None
     total_variants_analyzed: int = 0
+
+
+# ---------------------------------------------------------------------------
+# Hypothesis Tracking
+# ---------------------------------------------------------------------------
+
+class CreativeHypothesis(BaseModel):
+    """
+    Tracked hypothesis about what creative works and why.
+    Evaluated against regression coefficients after each run.
+    """
+    id: str = Field(default_factory=lambda: str(uuid.uuid4()))
+    hypothesis_text: str
+    created_by: str
+    created_at: datetime = Field(default_factory=datetime.utcnow)
+    related_features: list[str] = []       # e.g. ["hook_type_scenario", "message_type_urgency"]
+    status: HypothesisStatus = HypothesisStatus.ACTIVE
+    confidence: float = 0.0                # 0.0-1.0
+    evidence: list[str] = []               # human-readable evidence trail
+    last_evaluated: Optional[date] = None
+    evaluation_count: int = 0

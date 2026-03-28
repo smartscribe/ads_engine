@@ -91,6 +91,7 @@ _template_renderer = TemplateRenderer()
 class IdeaInput(BaseModel):
     raw_text: str
     source: str = "manual"
+    creative_direction: Optional[str] = None
 
 
 class ReviewAction(BaseModel):
@@ -106,9 +107,13 @@ class ReviewAction(BaseModel):
 @app.post("/api/intake")
 async def submit_idea(idea: IdeaInput):
     """Parse a free-form idea into a brief, generate variants."""
-    from engine.orchestrator import AdCampaignOrchestrator
-    orchestrator = AdCampaignOrchestrator()
-    result = orchestrator.submit_idea(idea.raw_text, source=idea.source)
+    from engine.orchestrator import Orchestrator
+    orchestrator = Orchestrator(store=store)
+    result = orchestrator.submit_idea(
+        idea.raw_text,
+        source=idea.source,
+        creative_direction=idea.creative_direction,
+    )
     return result
 
 
@@ -935,6 +940,208 @@ async def synthesize_reviewer_preferences(req: VoiceNoteSynthesizeRequest = None
     }
 
 
+class MonologueInput(BaseModel):
+    text: str
+    reviewer: str
+    variant_ids: Optional[list[str]] = None
+
+
+class MonologueRegenerateInput(BaseModel):
+    monologue_id: str
+    additional_direction: Optional[str] = None
+
+
+@app.post("/api/review/monologue")
+async def submit_monologue(body: MonologueInput):
+    """
+    Parse a freeform review monologue into per-variant verdicts
+    and global creative directions. Applies verdicts immediately.
+    """
+    import json as _json
+
+    from engine.review.monologue_parser import MonologueParser
+
+    # Load variants to review
+    if body.variant_ids:
+        variants_raw = [store.get_variant(vid) for vid in body.variant_ids]
+    else:
+        variants_raw = review_pipeline.get_pending_review()
+
+    if not variants_raw:
+        raise HTTPException(status_code=400, detail="No variants to review")
+
+    variants_for_parser = [
+        {
+            "id": v.id,
+            "headline": v.headline,
+            "body": v.primary_text,
+            "cta": v.cta_button,
+            "taxonomy": {
+                "message_type": v.taxonomy.message_type,
+                "hook_type": v.taxonomy.hook_type,
+                "tone": v.taxonomy.tone,
+            } if v.taxonomy else None,
+        }
+        for v in variants_raw
+    ]
+
+    parser = MonologueParser()
+    result = parser.parse(body.text, variants_for_parser, reviewer=body.reviewer)
+
+    # Apply verdicts via review pipeline
+    applied = []
+    for verdict in result.verdicts:
+        if verdict.verdict == "skip":
+            applied.append({"variant_id": verdict.variant_id, "action": "skipped"})
+            continue
+        feedback = ReviewFeedback(
+            variant_id=verdict.variant_id,
+            reviewer=body.reviewer,
+            verdict="approved" if verdict.verdict == "approve" else "rejected",
+            freeform_note=verdict.reason,
+        )
+        try:
+            review_pipeline.submit_review(feedback)
+            applied.append({"variant_id": verdict.variant_id, "action": verdict.verdict})
+        except FileNotFoundError:
+            applied.append({"variant_id": verdict.variant_id, "action": "not_found"})
+
+    # Persist monologue
+    monologue_dir = Path("data/memory/monologues")
+    monologue_dir.mkdir(parents=True, exist_ok=True)
+    monologue_path = monologue_dir / f"{result.monologue_id}.json"
+    monologue_path.write_text(_json.dumps(result.to_dict(), indent=2))
+
+    return {
+        "monologue_id": result.monologue_id,
+        "verdicts": [
+            {"variant_id": v.variant_id, "verdict": v.verdict, "reason": v.reason}
+            for v in result.verdicts
+        ],
+        "global_directions": result.global_directions,
+        "applied": applied,
+    }
+
+
+@app.post("/api/review/monologue-regenerate")
+async def regenerate_from_monologue(body: MonologueRegenerateInput):
+    """
+    Regenerate ad variants using creative directions extracted from a monologue.
+    """
+    import json as _json
+
+    monologue_path = Path("data/memory/monologues") / f"{body.monologue_id}.json"
+    if not monologue_path.exists():
+        raise HTTPException(status_code=404, detail="Monologue not found")
+
+    data = _json.loads(monologue_path.read_text())
+    directions = data.get("global_directions", [])
+
+    # Collect rejection reasons as additional context
+    rejection_reasons = [
+        v["reason"]
+        for v in data.get("verdicts", [])
+        if v.get("verdict") == "reject" and v.get("reason")
+    ]
+
+    direction_text = "Creative direction from review monologue:\n"
+    for d in directions:
+        direction_text += f"- {d}\n"
+    if rejection_reasons:
+        direction_text += "\nRejected ad patterns to avoid:\n"
+        for r in rejection_reasons[:5]:
+            direction_text += f"- {r}\n"
+    if body.additional_direction:
+        direction_text += f"\nAdditional direction: {body.additional_direction}\n"
+
+    from engine.orchestrator import Orchestrator
+    orchestrator = Orchestrator(store=store)
+    result = orchestrator.submit_idea(
+        raw_text=direction_text,
+        source="monologue_regenerate",
+        creative_direction=direction_text,
+    )
+    return result
+
+
+class CreativeDirectionInput(BaseModel):
+    text: str
+    added_by: str
+
+
+class CreativeDirectionUpdate(BaseModel):
+    active: Optional[bool] = None
+
+
+@app.get("/api/memory/creative-directions")
+async def list_creative_directions():
+    """List all creative directions (active + inactive)."""
+    from engine.memory.models import CreativeMemory as CreativeMemoryV2
+    memory = store.load_memory()
+    if not memory or not hasattr(memory, "creative_directions"):
+        return {"directions": [], "active_count": 0}
+    directions = []
+    for d in memory.creative_directions:
+        directions.append({
+            "id": d.id,
+            "text": d.text,
+            "added_by": d.added_by,
+            "added_at": d.added_at.isoformat() if d.added_at else None,
+            "active": d.active,
+            "source": d.source,
+            "source_id": d.source_id,
+        })
+    return {
+        "directions": directions,
+        "active_count": len([d for d in directions if d["active"]]),
+    }
+
+
+@app.post("/api/memory/creative-directions")
+async def add_creative_direction(body: CreativeDirectionInput):
+    """Add a new creative direction that persists across generation cycles."""
+    from engine.memory.models import CreativeDirection, CreativeMemory as CreativeMemoryV2
+    from engine.memory.builder import MemoryBuilder
+
+    direction = CreativeDirection(
+        text=body.text,
+        added_by=body.added_by,
+    )
+
+    memory = store.load_memory()
+    if memory and hasattr(memory, "creative_directions"):
+        memory.creative_directions.append(direction)
+    else:
+        builder = MemoryBuilder(store)
+        memory = builder.build()
+        memory.creative_directions.append(direction)
+
+    store.save_memory(memory)
+    return {
+        "id": direction.id,
+        "text": direction.text,
+        "added_by": direction.added_by,
+        "active": direction.active,
+    }
+
+
+@app.patch("/api/memory/creative-directions/{direction_id}")
+async def update_creative_direction(direction_id: str, body: CreativeDirectionUpdate):
+    """Activate or deactivate a creative direction."""
+    memory = store.load_memory()
+    if not memory or not hasattr(memory, "creative_directions"):
+        raise HTTPException(status_code=404, detail="No creative directions found")
+
+    for d in memory.creative_directions:
+        if d.id == direction_id:
+            if body.active is not None:
+                d.active = body.active
+            store.save_memory(memory)
+            return {"id": d.id, "active": d.active}
+
+    raise HTTPException(status_code=404, detail=f"Direction {direction_id} not found")
+
+
 @app.get("/api/memory/status")
 async def get_memory_status():
     """
@@ -942,6 +1149,268 @@ async def get_memory_status():
     (M3)
     """
     return store.get_memory_status()
+
+
+# ---------------------------------------------------------------------------
+# Hypotheses
+# ---------------------------------------------------------------------------
+
+class HypothesisInput(BaseModel):
+    hypothesis_text: str
+    created_by: str
+    related_features: list[str] = []
+
+
+class HypothesisUpdate(BaseModel):
+    status: Optional[str] = None
+    evidence: Optional[str] = None
+
+
+@app.get("/api/hypotheses")
+async def list_hypotheses(status: Optional[str] = None):
+    """List all hypotheses, optionally filtered by status."""
+    from engine.models import HypothesisStatus
+    hypotheses = store.load_hypotheses()
+    if status:
+        try:
+            filter_status = HypothesisStatus(status)
+            hypotheses = [h for h in hypotheses if h.status == filter_status]
+        except ValueError:
+            pass
+    return {
+        "count": len(hypotheses),
+        "hypotheses": [h.model_dump() for h in hypotheses],
+    }
+
+
+@app.post("/api/hypotheses")
+async def create_hypothesis(body: HypothesisInput):
+    """Create a new creative hypothesis."""
+    from engine.models import CreativeHypothesis
+    hypothesis = CreativeHypothesis(
+        hypothesis_text=body.hypothesis_text,
+        created_by=body.created_by,
+        related_features=body.related_features,
+    )
+    hypotheses = store.load_hypotheses()
+    hypotheses.append(hypothesis)
+    store.save_hypotheses(hypotheses)
+    return hypothesis.model_dump()
+
+
+@app.patch("/api/hypotheses/{hypothesis_id}")
+async def update_hypothesis(hypothesis_id: str, body: HypothesisUpdate):
+    """Update hypothesis status or add evidence manually."""
+    from engine.models import HypothesisStatus
+    hypotheses = store.load_hypotheses()
+    for h in hypotheses:
+        if h.id == hypothesis_id:
+            if body.status:
+                try:
+                    h.status = HypothesisStatus(body.status)
+                except ValueError:
+                    raise HTTPException(status_code=400, detail=f"Invalid status: {body.status}")
+            if body.evidence:
+                h.evidence.append(body.evidence)
+            store.save_hypotheses(hypotheses)
+            return h.model_dump()
+    raise HTTPException(status_code=404, detail=f"Hypothesis {hypothesis_id} not found")
+
+
+@app.delete("/api/hypotheses/{hypothesis_id}")
+async def delete_hypothesis(hypothesis_id: str):
+    """Soft-delete a hypothesis by marking it inconclusive."""
+    from engine.models import HypothesisStatus
+    hypotheses = store.load_hypotheses()
+    for h in hypotheses:
+        if h.id == hypothesis_id:
+            h.status = HypothesisStatus.INCONCLUSIVE
+            store.save_hypotheses(hypotheses)
+            return {"id": h.id, "status": h.status.value}
+    raise HTTPException(status_code=404, detail=f"Hypothesis {hypothesis_id} not found")
+
+
+@app.get("/api/hypotheses/{hypothesis_id}/history")
+async def get_hypothesis_history(hypothesis_id: str):
+    """Get the evaluation trail for a hypothesis."""
+    hypothesis = store.get_hypothesis(hypothesis_id)
+    if not hypothesis:
+        raise HTTPException(status_code=404, detail=f"Hypothesis {hypothesis_id} not found")
+    return {
+        "id": hypothesis.id,
+        "hypothesis_text": hypothesis.hypothesis_text,
+        "status": hypothesis.status.value,
+        "confidence": hypothesis.confidence,
+        "evaluation_count": hypothesis.evaluation_count,
+        "evidence": hypothesis.evidence,
+    }
+
+
+@app.get("/api/hypotheses/report")
+async def get_hypothesis_report():
+    """Get a summary report of all hypotheses."""
+    from engine.tracking.hypothesis_tracker import HypothesisTracker
+    tracker = HypothesisTracker(store)
+    return tracker.generate_report()
+
+
+# ---------------------------------------------------------------------------
+# Analysis: Portfolio scatter, format comparison, deploy
+# ---------------------------------------------------------------------------
+
+@app.get("/api/analysis/portfolio-scatter")
+async def portfolio_scatter(min_spend: float = 50.0):
+    """
+    Every ad we've ever run, merged from engine variants + imported existing ads.
+    Filters out statistically insignificant ads (below min_spend), detects outliers
+    via IQR, ranks by CpFN, and returns top 5.
+    """
+    import statistics
+
+    VIDEO_FORMATS = {"video", "reels", "story"}
+    ads = []
+    total_before_filter = 0
+
+    # 1. Engine-generated variants with snapshot data
+    for variant in store.get_all_variants():
+        snapshots = store.get_snapshots_for_variant(variant.id)
+        if not snapshots:
+            continue
+        total_before_filter += 1
+        total_spend = sum(s.spend for s in snapshots)
+        total_notes = sum(s.first_note_completions for s in snapshots)
+        if total_spend < min_spend:
+            continue
+        fmt = variant.taxonomy.format.value if variant.taxonomy else "single_image"
+        ads.append({
+            "id": variant.id,
+            "name": variant.headline or "",
+            "spend": round(total_spend, 2),
+            "cpfn": round(total_spend / total_notes, 2) if total_notes > 0 else None,
+            "first_notes": total_notes,
+            "format": fmt,
+            "is_video": fmt in VIDEO_FORMATS,
+            "source": "engine",
+            "image_url": variant.asset_path,
+            "is_outlier": False,
+            "rank": None,
+        })
+
+    # 2. Imported existing ads (pre-aggregated performance)
+    for ad in store.get_all_existing_ads():
+        total_before_filter += 1
+        if ad.spend < min_spend:
+            continue
+        fmt = ad.creative_type or "image"
+        cpfn = ad.cost_per_conversion
+        if cpfn is None and ad.conversions > 0:
+            cpfn = round(ad.spend / ad.conversions, 2)
+        ads.append({
+            "id": ad.id,
+            "name": ad.ad_name or ad.headline or "",
+            "spend": round(ad.spend, 2),
+            "cpfn": round(cpfn, 2) if cpfn is not None else None,
+            "first_notes": ad.conversions,
+            "format": fmt,
+            "is_video": fmt in VIDEO_FORMATS,
+            "source": "existing",
+            "image_url": ad.thumbnail_url or ad.image_url,
+            "is_outlier": False,
+            "rank": None,
+        })
+
+    # 3. Outlier detection via IQR on cpfn
+    cpfn_values = [a["cpfn"] for a in ads if a["cpfn"] is not None]
+    if len(cpfn_values) >= 4:
+        sorted_vals = sorted(cpfn_values)
+        n = len(sorted_vals)
+        q1 = sorted_vals[n // 4]
+        q3 = sorted_vals[3 * n // 4]
+        iqr = q3 - q1
+        lower_fence = q1 - 1.5 * iqr
+        upper_fence = q3 + 1.5 * iqr
+        for a in ads:
+            if a["cpfn"] is not None and (a["cpfn"] < lower_fence or a["cpfn"] > upper_fence):
+                a["is_outlier"] = True
+
+    # 4. Rank by cpfn ascending (lower is better), None sorts last
+    ranked = sorted(ads, key=lambda a: (a["cpfn"] is None, a["cpfn"] or 0))
+    for i, a in enumerate(ranked):
+        if a["cpfn"] is not None:
+            a["rank"] = i + 1
+
+    top_5 = [a for a in ranked if a["cpfn"] is not None][:5]
+    outliers = [a for a in ranked if a["is_outlier"]]
+
+    median_cpfn = round(statistics.median(cpfn_values), 2) if cpfn_values else None
+    avg_cpfn = round(statistics.mean(cpfn_values), 2) if cpfn_values else None
+
+    return {
+        "ads": ranked,
+        "top_5": top_5,
+        "outliers": outliers,
+        "median_cpfn": median_cpfn,
+        "avg_cpfn": avg_cpfn,
+        "total_ads": len(ranked),
+        "filtered_out": total_before_filter - len(ranked),
+    }
+
+
+@app.get("/api/analysis/format-comparison")
+async def format_comparison(min_spend: float = 50.0):
+    """Compare video vs static ad format performance with statistical testing."""
+    from engine.regression.model import CreativeRegressionModel
+    regression = CreativeRegressionModel(store)
+    result = regression.format_comparison(min_spend=min_spend)
+    if result is None:
+        raise HTTPException(status_code=400, detail="Insufficient data for format comparison")
+    return result
+
+
+class DeployRequest(BaseModel):
+    variant_ids: list[str]
+    campaign_id: str
+    adset_id: str
+
+
+@app.post("/api/deploy")
+async def deploy_to_meta(body: DeployRequest):
+    """Deploy approved variants to Meta as paused ads."""
+    from engine.deployment.deployer import AdDeployer, MetaDeployer
+    from config.settings import get_settings
+
+    settings = get_settings()
+    if not settings.META_ACCESS_TOKEN or not settings.META_AD_ACCOUNT_ID:
+        raise HTTPException(status_code=500, detail="Meta API credentials not configured")
+
+    for vid in body.variant_ids:
+        try:
+            v = store.get_variant(vid)
+        except FileNotFoundError:
+            raise HTTPException(status_code=404, detail=f"Variant {vid} not found")
+        if v.status != AdStatus.APPROVED:
+            raise HTTPException(
+                status_code=400,
+                detail=f"Variant {vid} is {v.status.value}, not approved",
+            )
+
+    meta = MetaDeployer(settings.META_ACCESS_TOKEN, settings.META_AD_ACCOUNT_ID)
+    deployer = AdDeployer(store, meta=meta)
+
+    deployed = deployer.deploy_batch(body.variant_ids, body.campaign_id, body.adset_id)
+    notifier.notify_deployment(deployed, "meta")
+
+    return {
+        "deployed": len(deployed),
+        "ads": [
+            {
+                "variant_id": v.id,
+                "meta_ad_id": v.meta_ad_id,
+                "status": v.status.value,
+            }
+            for v in deployed
+        ],
+    }
 
 
 # ---------------------------------------------------------------------------

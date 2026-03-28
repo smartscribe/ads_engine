@@ -747,3 +747,75 @@ class CreativeRegressionModel:
         }
 
         return playbook
+
+    def format_comparison(self, min_spend: float = 50.0) -> Optional[dict]:
+        """
+        Compare video vs static ad format performance.
+        Returns group stats, delta percentage, t-test results, and regression
+        coefficient for the format_video dummy if available.
+        """
+        df = self.build_dataset(include_existing=True)
+        if df.empty:
+            return None
+
+        df = df[df["total_spend"] >= min_spend].copy()
+        df = df.dropna(subset=["cost_per_first_note"])
+        if len(df) < 4:
+            return None
+
+        video_formats = {"video", "reels", "story"}
+        df["is_video"] = df["format"].isin(video_formats)
+
+        static_df = df[~df["is_video"]]
+        video_df = df[df["is_video"]]
+
+        if len(static_df) < 2 or len(video_df) < 2:
+            return None
+
+        static_cpfn = static_df["cost_per_first_note"]
+        video_cpfn = video_df["cost_per_first_note"]
+
+        static_avg = float(static_cpfn.mean())
+        video_avg = float(video_cpfn.mean())
+        delta_pct = (static_avg - video_avg) / static_avg * 100 if static_avg else 0
+
+        t_stat, p_val = scipy_stats.ttest_ind(
+            static_cpfn.values, video_cpfn.values, equal_var=False,
+        )
+
+        # Extract regression coefficient for format_video if available
+        reg_coef = None
+        reg_p = None
+        latest = self.store.get_latest_regression()
+        if latest:
+            for key in latest.coefficients:
+                if "format" in key.lower() and "video" in key.lower():
+                    reg_coef = latest.coefficients[key]
+                    reg_p = latest.p_values.get(key)
+                    break
+
+        return {
+            "static": {
+                "avg_cpfn": round(static_avg, 2),
+                "median_cpfn": round(float(static_cpfn.median()), 2),
+                "count": int(len(static_df)),
+                "total_spend": round(float(static_df["total_spend"].sum()), 2),
+            },
+            "video": {
+                "avg_cpfn": round(video_avg, 2),
+                "median_cpfn": round(float(video_cpfn.median()), 2),
+                "count": int(len(video_df)),
+                "total_spend": round(float(video_df["total_spend"].sum()), 2),
+            },
+            "delta_pct": round(delta_pct, 1),
+            "video_is_better": video_avg < static_avg,
+            "t_statistic": round(float(t_stat), 3),
+            "p_value": round(float(p_val), 4),
+            "significant": float(p_val) < 0.05,
+            "regression_coefficient": round(reg_coef, 4) if reg_coef is not None else None,
+            "regression_p_value": round(reg_p, 4) if reg_p is not None else None,
+            "sample_sizes": {
+                "static": int(len(static_df)),
+                "video": int(len(video_df)),
+            },
+        }

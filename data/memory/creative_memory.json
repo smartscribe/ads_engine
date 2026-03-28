@@ -1,5 +1,5 @@
 {
-  "id": "d99ed589-b24b-4f6b-8fbe-1c59b2892bca",
+  "id": "c7abc69d-9c6d-4be8-a8f2-a8189b2d231b",
   "statistical": {
     "winning_patterns": [],
     "losing_patterns": [],
@@ -768,11 +768,25 @@
           "tone": "empathetic",
           "uses_number": true
         },
-        "count": 1,
-        "representative_headline": "Still Charting at 7pm?",
-        "representative_body": "That 4pm dread when you know you still have hours of notes ahead? Gone. JotPsych writes your clinical documentation automatically from session recordings. You stay focused on your clients \u2014 not your keyboard. 500+ therapists now get 2 hours of their day back. Notes are done before they leave the office.",
-        "representative_cta": "Get 2 Hours Back",
+        "count": 2,
+        "representative_headline": "Still Clicking Through Diagnosis Codes?",
+        "representative_body": "You have a doctorate. You shouldn't spend 20 minutes per session playing 'find the right dropdown.' JotPsych listens to your clinical thinking and writes notes that sound like you, not a compliance robot. Full documentation in under 60 seconds. Zero template clicking. HIPAA-compliant, audit-ready.",
+        "representative_cta": "Try It Free",
         "reviewer_notes_summary": "Strong hook, clear CTA \u2014 looks great",
+        "avg_performance": null
+      },
+      {
+        "signature": {
+          "hook_type": "statistic",
+          "message_type": "pain_point",
+          "tone": "empathetic",
+          "uses_number": true
+        },
+        "count": 1,
+        "representative_headline": "Notes Done in 60 Seconds. Zero Clicks.",
+        "representative_body": "You have a doctorate. You shouldn't spend 20 minutes per session playing 'find the right dropdown.' JotPsych listens to your clinical thinking and writes notes that sound like you, not a compliance robot. Full documentation in under 60 seconds. Zero template clicking. HIPAA-compliant, audit-ready.",
+        "representative_cta": "See How It Works",
+        "reviewer_notes_summary": null,
         "avg_performance": null
       },
       {
@@ -821,16 +835,16 @@
       }
     ],
     "reviewer_profiles": {
-      "nate": {
-        "reviewer": "nate",
-        "approval_rate": 0.25,
-        "preferred_patterns": [],
-        "disliked_patterns": [],
-        "sample_size": 4,
-        "last_review_date": "2026-03-27"
-      },
       "aryan": {
         "reviewer": "aryan",
+        "approval_rate": 0.5,
+        "preferred_patterns": [],
+        "disliked_patterns": [],
+        "sample_size": 6,
+        "last_review_date": "2026-03-27"
+      },
+      "nate": {
+        "reviewer": "nate",
         "approval_rate": 0.25,
         "preferred_patterns": [],
         "disliked_patterns": [],
@@ -839,7 +853,7 @@
       }
     },
     "gold_standard_ads": [],
-    "total_approvals": 3,
+    "total_approvals": 5,
     "total_rejections": 7
   },
   "market": {
@@ -849,7 +863,8 @@
     "competitive_observations": [],
     "day_of_week_performance": {}
   },
-  "built_at": "2026-03-27T08:29:04.371954",
+  "creative_directions": [],
+  "built_at": "2026-03-28T00:07:40.383543",
   "data_quality_score": 0.7,
   "version": 2
 }

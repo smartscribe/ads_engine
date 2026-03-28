@@ -111,6 +111,32 @@ class SlackNotifier:
         )
         self._send(message)
 
+    def notify_hypothesis_update(self, evaluations: list) -> None:
+        """Post when hypotheses change status (confirmed/rejected)."""
+        status_changes = [
+            e for e in evaluations
+            if e.old_status != e.new_status
+        ]
+        if not status_changes:
+            return
+
+        lines = [f"*Hypothesis Update — {date.today().isoformat()}*\n"]
+        for e in status_changes:
+            if e.new_status == "confirmed":
+                lines.append(
+                    f"  *CONFIRMED*: \"{e.hypothesis_text}\" "
+                    f"(confidence: {e.new_confidence:.2f})"
+                )
+            elif e.new_status == "rejected":
+                lines.append(
+                    f"  *REJECTED*: \"{e.hypothesis_text}\" "
+                    f"(confidence: {e.new_confidence:.2f})"
+                )
+
+        evaluated_count = len(evaluations)
+        lines.append(f"\n{evaluated_count} hypotheses evaluated this cycle.")
+        self._send("\n".join(lines))
+
     def notify_budget_alert(self, daily_spend: float, daily_limit: float) -> None:
         """Post when daily spend approaches or exceeds limits."""
         pct = daily_spend / daily_limit * 100

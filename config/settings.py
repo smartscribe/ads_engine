@@ -27,6 +27,7 @@ class Settings(BaseSettings):
     META_APP_SECRET: str = ""
     META_ACCESS_TOKEN: str = ""
     META_AD_ACCOUNT_ID: str = ""           # Format: act_XXXXXXXXXX
+    META_PAGE_ID: str = ""                  # Facebook Page ID for ad creative
 
     # -- Google Ads API --
     GOOGLE_ADS_DEVELOPER_TOKEN: str = ""

@@ -94,16 +94,24 @@ class MemoryBuilder:
 
         data_quality = self._assess_data_quality(statistical, editorial)
 
+        # Preserve creative directions from previous memory (they compound)
+        existing_memory = self.store.load_memory()
+        creative_directions = []
+        if existing_memory and hasattr(existing_memory, "creative_directions"):
+            creative_directions = existing_memory.creative_directions
+
         memory = CreativeMemory(
             statistical=statistical,
             editorial=editorial,
             market=market,
+            creative_directions=creative_directions,
             data_quality_score=data_quality,
         )
 
         print(f"[memory_builder] Built memory: {len(statistical.winning_patterns)} winning patterns, "
               f"{len(editorial.approval_clusters)} approval clusters, "
-              f"{len(market.combination_stats)} combinations tracked")
+              f"{len(market.combination_stats)} combinations tracked, "
+              f"{len([d for d in creative_directions if d.active])} active creative directions")
 
         return memory
 
@@ -955,6 +963,11 @@ class MemoryBuilder:
         # Load stylistic references from swipe file ads (A4)
         stylistic_references = self._build_stylistic_references()
 
+        # Inject active creative directions from memory
+        creative_dirs = [
+            d.text for d in memory.creative_directions if d.active
+        ] if memory.creative_directions else []
+
         return GenerationContext(
             winning_rules=winning_rules,
             losing_rules=losing_rules,
@@ -966,6 +979,7 @@ class MemoryBuilder:
             exploration_targets=exploration_targets,
             confidence_note=confidence_note,
             stylistic_references=stylistic_references,
+            creative_directions=creative_dirs,
         )
 
     def _build_stylistic_references(self, max_refs: int = 5) -> list[str]:

@@ -25,8 +25,8 @@ from engine.store import Store
 from engine.intake.parser import IntakeParser
 from engine.generation.generator import CreativeGenerator
 from engine.review.reviewer import ReviewPipeline
-from engine.deployment.deployer import AdDeployer
-from engine.tracking.tracker import PerformanceTracker
+from engine.deployment.deployer import AdDeployer, MetaDeployer
+from engine.tracking.tracker import PerformanceTracker, MetaTracker
 from engine.decisions.engine import DecisionEngine
 from engine.regression.model import CreativeRegressionModel
 from engine.notifications import SlackNotifier
@@ -47,12 +47,35 @@ class Orchestrator:
         self.store = store or Store()
         self.notifier = notifier or SlackNotifier()
 
+        # Wire Meta platform clients from settings when credentials are available
+        from config.settings import get_settings
+        settings = get_settings()
+
+        meta_deployer = None
+        meta_tracker = None
+        if settings.META_ACCESS_TOKEN and settings.META_AD_ACCOUNT_ID:
+            try:
+                meta_deployer = MetaDeployer(
+                    settings.META_ACCESS_TOKEN,
+                    settings.META_AD_ACCOUNT_ID,
+                    page_id=getattr(settings, "META_PAGE_ID", ""),
+                )
+            except Exception as e:
+                print(f"[Orchestrator] MetaDeployer init skipped: {e}")
+            try:
+                meta_tracker = MetaTracker(
+                    settings.META_ACCESS_TOKEN,
+                    settings.META_AD_ACCOUNT_ID,
+                )
+            except Exception as e:
+                print(f"[Orchestrator] MetaTracker init skipped: {e}")
+
         # Pipeline stages
         self.parser = IntakeParser()
         self.generator = CreativeGenerator()
         self.reviewer = ReviewPipeline(self.store)
-        self.deployer = AdDeployer(self.store)
-        self.tracker = PerformanceTracker(self.store)
+        self.deployer = AdDeployer(self.store, meta=meta_deployer)
+        self.tracker = PerformanceTracker(self.store, meta_tracker=meta_tracker)
         self.decisions = DecisionEngine(self.store)
         self.regression = CreativeRegressionModel(self.store)
         self.exporter = MetaAdsExporter()
@@ -104,7 +127,12 @@ class Orchestrator:
     # On-demand: Idea → Variants
     # ------------------------------------------------------------------
 
-    def submit_idea(self, raw_text: str, source: str = "manual") -> dict:
+    def submit_idea(
+        self,
+        raw_text: str,
+        source: str = "manual",
+        creative_direction: str | None = None,
+    ) -> dict:
         """Full pipeline: parse idea → generate variants → notify.
 
         Always uses the v2 multi-agent copy pipeline (HeadlineAgent + BodyCopyAgent +
@@ -112,13 +140,29 @@ class Orchestrator:
 
         Playbook rules from the latest regression are injected into the parser
         to seed the brief with winning pattern examples (A2).
+
+        creative_direction: optional human-supplied creative direction that gets
+        injected into both the parser and generator as a strong signal.
         """
         # Load playbook rules for brief enrichment
         playbook_rules = self._get_playbook_rules()
-        brief = self.parser.parse(raw_text, source, playbook_rules=playbook_rules)
+
+        # Build combined creative direction from persistent memory + per-call override
+        combined_direction = self._build_creative_direction(creative_direction)
+
+        brief = self.parser.parse(
+            raw_text, source,
+            playbook_rules=playbook_rules,
+            creative_direction=combined_direction,
+        )
         self.store.save_brief(brief)
 
         context, rejection_feedback, approval_feedback = self._get_generation_context()
+
+        # Inject creative directions into generation context
+        if combined_direction:
+            context.creative_directions.insert(0, combined_direction)
+
         variants = self.generator.generate_with_templates(
             brief,
             use_v2=True,
@@ -148,6 +192,7 @@ class Orchestrator:
         raw_text: str,
         source: str = "manual",
         use_selector: bool = True,
+        creative_direction: str | None = None,
     ) -> dict:
         """
         Full pipeline using Playwright template rendering instead of AI image gen.
@@ -156,10 +201,17 @@ class Orchestrator:
         pixel-perfect PNGs/MP4s → notify.
         """
         playbook_rules = self._get_playbook_rules()
-        brief = self.parser.parse(raw_text, source, playbook_rules=playbook_rules)
+        combined_direction = self._build_creative_direction(creative_direction)
+        brief = self.parser.parse(
+            raw_text, source,
+            playbook_rules=playbook_rules,
+            creative_direction=combined_direction,
+        )
         self.store.save_brief(brief)
 
         context, rejection_feedback, approval_feedback = self._get_generation_context()
+        if combined_direction:
+            context.creative_directions.insert(0, combined_direction)
 
         variants = self.generator.generate_with_templates(
             brief,
@@ -237,6 +289,21 @@ class Orchestrator:
             "total_variants": len(all_variants),
             "brief_ids": [b.id for b in briefs],
         }
+
+    def _build_creative_direction(self, per_call: str | None = None) -> str | None:
+        """
+        Combine persistent creative directions from memory with a per-call override.
+        Returns None if no directions exist.
+        """
+        parts = []
+        memory = self.store.load_memory()
+        if memory and hasattr(memory, "creative_directions"):
+            active = [d for d in memory.creative_directions if d.active]
+            for d in active:
+                parts.append(d.text)
+        if per_call:
+            parts.insert(0, per_call)
+        return "\n".join(parts) if parts else None
 
     def _get_generation_context(self) -> tuple[GenerationContext, list, list]:
         """
@@ -552,6 +619,21 @@ class Orchestrator:
                     "fatigue_alerts": len(memory.statistical.fatiguing_patterns),
                     "data_quality": memory.data_quality_score,
                 }
+
+                # 4b. Evaluate hypotheses against new regression
+                try:
+                    from engine.tracking.hypothesis_tracker import HypothesisTracker
+                    tracker = HypothesisTracker(self.store)
+                    evaluations = tracker.evaluate_all(reg_result)
+                    if evaluations:
+                        results["hypotheses"] = {
+                            "evaluated": len(evaluations),
+                            "confirmed": len([e for e in evaluations if e.new_status == "confirmed"]),
+                            "rejected": len([e for e in evaluations if e.new_status == "rejected"]),
+                        }
+                        self.notifier.notify_hypothesis_update(evaluations)
+                except Exception as e:
+                    print(f"Hypothesis evaluation failed: {e}")
             else:
                 results["regression"] = {"status": "insufficient_data"}
                 

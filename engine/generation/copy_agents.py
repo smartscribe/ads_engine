@@ -132,10 +132,13 @@ class HeadlineAgent:
             f"\n{JOTPSYCH_VOICE}",
             f"\nJotPsych value props:\n{JOTPSYCH_VALUE_PROPS}",
             f"\nHARD CONSTRAINT: Every headline must be {char_limit} characters or fewer. No exceptions.",
-            f"\nGenerate {n} headlines with diverse hooks: questions, statistics, scenarios, direct benefits, provocative claims.",
+            f"\nGenerate {n} headlines with diverse hooks: questions, statistics, scenarios, direct benefits, provocative claims, testimonials.",
+            f"\nCRITICAL DIVERSITY RULE: You MUST use at least {min(4, n)} different hook_types across your {n} headlines."
+            "\nDistribute evenly across: question, statistic, scenario, direct_benefit, provocative_claim, testimonial."
+            "\nDo NOT generate more than 2 headlines with the same hook_type.",
             "\nGOLD STANDARD HEADLINES (from our best ads, study the style, don't copy verbatim):\n"
             + "\n".join(f'  "{h}"' for h in GOLD_STANDARD_HEADLINES),
-            '\nReturn a JSON array where each element is: {"text": "...", "char_count": <int>, "hook_type": "<question|statistic|scenario|direct_benefit|provocative_claim>"}',
+            '\nReturn a JSON array where each element is: {"text": "...", "char_count": <int>, "hook_type": "<question|statistic|scenario|direct_benefit|provocative_claim|testimonial>"}',
         ]
 
         if generation_context is not None:
@@ -185,7 +188,36 @@ class HeadlineAgent:
             ],
         )
 
-        return _parse_json_response(response.content[0].text)
+        results = _parse_json_response(response.content[0].text)
+
+        # Post-generation diversity check: re-prompt once if hook_types are too uniform
+        hook_types = {r.get("hook_type") for r in results if r.get("hook_type")}
+        min_required = min(4, n)
+        if len(hook_types) < min_required and n >= 4:
+            missing = [h for h in ["question", "statistic", "scenario", "direct_benefit", "provocative_claim", "testimonial"]
+                       if h not in hook_types]
+            print(f"[headline_agent] Only {len(hook_types)} hook_types — re-prompting for: {missing[:3]}")
+            retry_response = self.client.messages.create(
+                model="claude-sonnet-4-5-20250929",
+                max_tokens=1000,
+                system=system_prompt,
+                messages=[
+                    {"role": "user", "content": "\n".join(brief_context_parts)},
+                    {"role": "assistant", "content": response.content[0].text},
+                    {"role": "user", "content": (
+                        f"Your headlines only cover these hook_types: {sorted(hook_types)}. "
+                        f"Generate {len(missing[:3])} more headlines using these MISSING hook_types: {missing[:3]}. "
+                        "Same JSON format."
+                    )},
+                ],
+            )
+            try:
+                extra = _parse_json_response(retry_response.content[0].text)
+                results.extend(extra)
+            except Exception:
+                pass
+
+        return results
 
 
 class BodyCopyAgent:
@@ -237,6 +269,9 @@ class BodyCopyAgent:
             '\n- Include a specific number where possible ("2 hours" not "save time")'
             "\n- Reference real clinician experiences"
             "\n- Vary message angles across: pain_point, value_prop, social_proof, urgency, education, comparison",
+            f"\nCRITICAL DIVERSITY RULE: You MUST use at least {min(3, n)} different message_types across your {n} body copies."
+            "\nDistribute across: pain_point, value_prop, social_proof, urgency, education, comparison."
+            "\nDo NOT generate more than 2 bodies with the same message_type.",
             "\nGOLD STANDARD BODY COPY (study the style: real, specific, human):\n"
             + "\n\n".join(f'  "{b}"' for b in GOLD_STANDARD_BODIES),
             f"\nGenerate {n} body copy variants.",
@@ -290,7 +325,36 @@ class BodyCopyAgent:
             ],
         )
 
-        return _parse_json_response(response.content[0].text)
+        results = _parse_json_response(response.content[0].text)
+
+        # Post-generation diversity check for message_types
+        msg_types = {r.get("message_type") for r in results if r.get("message_type")}
+        min_required = min(3, n)
+        if len(msg_types) < min_required and n >= 3:
+            missing = [m for m in ["pain_point", "value_prop", "social_proof", "urgency", "education", "comparison"]
+                       if m not in msg_types]
+            print(f"[body_agent] Only {len(msg_types)} message_types — re-prompting for: {missing[:2]}")
+            retry_response = self.client.messages.create(
+                model="claude-sonnet-4-5-20250929",
+                max_tokens=1000,
+                system=system_prompt,
+                messages=[
+                    {"role": "user", "content": "\n".join(brief_context_parts)},
+                    {"role": "assistant", "content": response.content[0].text},
+                    {"role": "user", "content": (
+                        f"Your body copies only cover these message_types: {sorted(msg_types)}. "
+                        f"Generate {len(missing[:2])} more using these MISSING message_types: {missing[:2]}. "
+                        "Same JSON format."
+                    )},
+                ],
+            )
+            try:
+                extra = _parse_json_response(retry_response.content[0].text)
+                results.extend(extra)
+            except Exception:
+                pass
+
+        return results
 
 
 class CTAAgent:

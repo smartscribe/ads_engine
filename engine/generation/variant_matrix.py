@@ -27,6 +27,12 @@ EXPLOIT_RATIO = 0.8
 FATIGUE_PENALTY_PER_CYCLE = 0.15
 MIN_DEPLOYMENTS_FOR_TESTED = 3
 
+DEFAULT_MIN_UNIQUE = {
+    "hook_type": 3,
+    "message_type": 3,
+    "tone": 2,
+}
+
 
 class VariantMatrix:
     def __init__(self, store: Store):
@@ -38,6 +44,9 @@ class VariantMatrix:
         bodies: list[dict],
         ctas: list[str],
         brief: CreativeBrief,
+        min_unique_hooks: int = DEFAULT_MIN_UNIQUE["hook_type"],
+        min_unique_messages: int = DEFAULT_MIN_UNIQUE["message_type"],
+        min_unique_tones: int = DEFAULT_MIN_UNIQUE["tone"],
     ) -> list[dict]:
         """
         Generate combinations of headlines x bodies x CTAs.
@@ -47,6 +56,9 @@ class VariantMatrix:
         - 80% exploit: best predicted scores with fatigue penalty
         - 20% explore: novel, under-tested combinations
 
+        After selection, enforces minimum diversity across hook_type,
+        message_type, and tone dimensions.
+
         Returns list of dicts with strategy and fatigue_penalty fields.
         """
         regression = self.store.get_latest_regression()
@@ -55,6 +67,12 @@ class VariantMatrix:
         n_total = brief.num_variants
         n_exploit = math.floor(n_total * EXPLOIT_RATIO)
         n_explore = n_total - n_exploit
+
+        min_unique = {
+            "hook_type": min_unique_hooks,
+            "message_type": min_unique_messages,
+            "tone": min_unique_tones,
+        }
 
         if regression and regression.coefficients:
             recent_taxonomies = self.store.get_recent_deployed_taxonomies(n_cycles=3)
@@ -84,24 +102,19 @@ class VariantMatrix:
             
             explore_selected = self._select_explore(remaining, n=n_explore)
             
+            combined = exploit_selected + explore_selected
+            combined = self._enforce_minimums(combined, scored_with_penalty, min_unique)
+
             results = []
-            for item in exploit_selected:
+            exploit_set = {id(s["combo"]) for s in exploit_selected}
+            for item in combined:
                 results.append({
                     "headline": item["combo"][0],
                     "body": item["combo"][1],
                     "cta": item["combo"][2],
                     "predicted_score": item["base_score"],
                     "fatigue_penalty": item["fatigue_penalty"],
-                    "strategy": "exploit",
-                })
-            for item in explore_selected:
-                results.append({
-                    "headline": item["combo"][0],
-                    "body": item["combo"][1],
-                    "cta": item["combo"][2],
-                    "predicted_score": item["base_score"],
-                    "fatigue_penalty": item["fatigue_penalty"],
-                    "strategy": "explore",
+                    "strategy": "exploit" if id(item["combo"]) in exploit_set else "explore",
                 })
             
             return results
@@ -219,6 +232,8 @@ class VariantMatrix:
     ) -> list[dict]:
         """
         Select top N by adjusted_score (with fatigue penalty) while enforcing diversity.
+        Rejects candidates sharing 2+ of 4 attributes (hook_type, message_type, tone, CTA)
+        with any already-selected variant.
         """
         scored_sorted = sorted(scored, key=lambda x: x["adjusted_score"])
         
@@ -246,7 +261,7 @@ class VariantMatrix:
                     shared += 1
                 if cta == s_c:
                     shared += 1
-                if shared >= 3:
+                if shared >= 2:
                     too_similar = True
                     break
             
@@ -281,6 +296,69 @@ class VariantMatrix:
         )
         
         return sorted_by_exploration[:n]
+
+    def _enforce_minimums(
+        self,
+        selected: list[dict],
+        full_pool: list[dict],
+        min_unique: dict[str, int],
+    ) -> list[dict]:
+        """
+        Ensure the selected set meets minimum diversity requirements.
+        Swaps out the least-differentiated exploit combo for one that adds
+        an underrepresented taxonomy value.
+        """
+        def _get_dim_value(item: dict, dim: str) -> str:
+            combo = item["combo"]
+            if dim == "hook_type":
+                return combo[0].get("hook_type", "")
+            elif dim == "message_type":
+                return combo[1].get("message_type", "")
+            elif dim == "tone":
+                return combo[1].get("tone", "")
+            return ""
+
+        selected_ids = {id(s["combo"]) for s in selected}
+        available = [s for s in full_pool if id(s["combo"]) not in selected_ids]
+
+        for dim, required in min_unique.items():
+            current_values = Counter(_get_dim_value(s, dim) for s in selected)
+            unique_count = len([v for v in current_values if v])
+
+            if unique_count >= required:
+                continue
+
+            needed_values = set()
+            for item in available:
+                val = _get_dim_value(item, dim)
+                if val and val not in current_values:
+                    needed_values.add(val)
+
+            for target_val in needed_values:
+                if len([v for v in Counter(_get_dim_value(s, dim) for s in selected) if v]) >= required:
+                    break
+
+                candidate = next(
+                    (s for s in available if _get_dim_value(s, dim) == target_val),
+                    None,
+                )
+                if not candidate:
+                    continue
+
+                # Find the most redundant item to swap out (most common dim value, worst score)
+                value_counts = Counter(_get_dim_value(s, dim) for s in selected)
+                most_common_val = value_counts.most_common(1)[0][0] if value_counts else None
+                if most_common_val and value_counts[most_common_val] > 1:
+                    swap_candidates = [
+                        s for s in selected
+                        if _get_dim_value(s, dim) == most_common_val
+                    ]
+                    swap_out = max(swap_candidates, key=lambda x: x.get("adjusted_score", 0))
+                    selected = [s for s in selected if id(s) != id(swap_out)]
+                    selected.append(candidate)
+                    available = [s for s in available if id(s["combo"]) != id(candidate["combo"])]
+
+        return selected
 
     def _predict_score(
         self, combo: tuple, regression: RegressionResult
@@ -374,7 +452,7 @@ class VariantMatrix:
     ) -> list[tuple]:
         """
         Pick best-scoring combos while enforcing diversity: skip candidates
-        sharing 3+ taxonomy attributes with any already-selected variant.
+        sharing 2+ taxonomy attributes with any already-selected variant.
         Falls back to top scorers if the constraint is too strict.
         """
         if len(scored) <= n:
@@ -400,7 +478,7 @@ class VariantMatrix:
                     shared += 1
                 if cta == s_c:
                     shared += 1
-                if shared >= 3:
+                if shared >= 2:
                     too_similar = True
                     break
 
@@ -495,10 +573,14 @@ class VariantMatrix:
                 cta_types.add(t.cta_type)
 
         n = len(variants)
+        req_hooks = max(2, n // 5)
+        req_tones = max(2, n // 7)
+        req_styles = max(2, n // 7)
+
         meets_threshold = (
-            len(hook_types) >= 4
-            and len(tones) >= 3
-            and len(visual_styles) >= 3
+            len(hook_types) >= req_hooks
+            and len(tones) >= req_tones
+            and len(visual_styles) >= req_styles
         )
 
         return {
@@ -516,9 +598,9 @@ class VariantMatrix:
                 "cta_types": len(cta_types),
             },
             "thresholds": {
-                "hook_types": {"required": 4, "actual": len(hook_types), "met": len(hook_types) >= 4},
-                "tones": {"required": 3, "actual": len(tones), "met": len(tones) >= 3},
-                "visual_styles": {"required": 3, "actual": len(visual_styles), "met": len(visual_styles) >= 3},
+                "hook_types": {"required": req_hooks, "actual": len(hook_types), "met": len(hook_types) >= req_hooks},
+                "tones": {"required": req_tones, "actual": len(tones), "met": len(tones) >= req_tones},
+                "visual_styles": {"required": req_styles, "actual": len(visual_styles), "met": len(visual_styles) >= req_styles},
             },
             "threshold_met": meets_threshold,
             "missing_hook_types": [

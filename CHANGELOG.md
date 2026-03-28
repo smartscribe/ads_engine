@@ -18,6 +18,53 @@ Each entry includes:
 
 ## Log
 
+### 2026-03-28 — Aryan
+**Pipeline verification: regression → memory → review → dashboard**
+
+- Ran full regression pipeline end-to-end: dataset build (263 rows, 141 with CPA), WLS regression (R²=0.53, adj R²=0.14, 62 features), holdout validation (test R²=-1.0, overfit as expected with 141 obs / 62 features), bootstrap CI (100 resamples), stability check, confidence tiers (1 moderate, 61 unreliable), creative playbook, format comparison (video CpFN $62 vs static $123, p=0.0003)
+- Verified memory builder: 4 approval clusters, 1 rejection rule, data quality 0.7, generation context producing 835-char prompt block
+- Verified review queue: 186 pending variants (97 with rendered PNGs), 5 approved, 7 rejected
+- Launched dashboard on port 8000, confirmed all API endpoints responding: `/api/review` (97 variants), `/api/regression` (model health + validation detail), format comparison, portfolio scatter
+- All pipeline stages working as intended per changelog documentation
+
+---
+
+### 2026-03-28 — Aryan
+**Features 4-8: Portfolio scatter, format comparison, Meta deploy + tracking**
+
+- `dashboard/api/app.py` — added `GET /api/analysis/portfolio-scatter` (merges engine variants + existing ads, IQR outlier detection, top-5 ranking by CpFN), `GET /api/analysis/format-comparison` (delegates to regression model), `POST /api/deploy` (deploys approved variants to Meta via facebook_business SDK as paused ads)
+- `dashboard/frontend/pages/portfolio.html` — new page: Chart.js scatter plot of all ads by spend vs CpFN, color-coded static/video, outlier highlights, click-to-inspect detail panel, format comparison summary section, min-spend filter slider
+- `dashboard/frontend/pages/review.html` — added Portfolio nav tab linking to portfolio page; added "Deploy Approved" button in toolbar with campaign/adset modal; deploy JS wiring
+- `engine/regression/model.py` — added `format_comparison(min_spend)` method: groups ads by video/static, computes avg/median CpFN, runs Welch's t-test, extracts regression coefficient for format_video dummy
+- `engine/deployment/deployer.py` — implemented `MetaDeployer` using facebook_business SDK: `upload_asset()` uploads PNG to Meta CDN, `create_ad()` creates AdCreative + Ad (paused), `pause_ad()`/`resume_ad()`/`delete_ad()` manage status. Includes retry with exponential backoff and CTA mapping
+- `engine/tracking/tracker.py` — implemented `MetaTracker` using facebook_business SDK: `pull_ad_metrics()` calls Meta Insights API for single-day ad metrics, parses actions array for first_note_completion/signup/landing_page_view conversions; `pull_all_active()` fetches all active ads in account. Includes retry with backoff
+- `engine/orchestrator.py` — wired `MetaDeployer` and `MetaTracker` from settings into `__init__`: conditionally creates platform clients when `META_ACCESS_TOKEN` and `META_AD_ACCOUNT_ID` are configured; passes them to `AdDeployer` and `PerformanceTracker`
+- `config/settings.py` — added `META_PAGE_ID` setting for Facebook Page ID (required by AdCreative object_story_spec)
+- `requirements.txt` — uncommented `facebook-business>=19.0.0` as active dependency
+- Why: Nathan wants portfolio visualization of all ad performance with outlier detection, video vs static format analysis to validate his "30% better" thesis, and ads deployed to Meta from the dashboard. Features 7+8 close the loop: deploy → track → regress → learn
+
+---
+
+### 2026-03-27 — Aryan
+**Nathan's meeting feedback: monologue review, creative direction, diversity fix, hypothesis tracking**
+
+- `engine/review/monologue_parser.py` — new module: Claude-powered parser that converts freeform review monologues into per-variant approve/reject verdicts + global creative direction extraction
+- `engine/tracking/hypothesis_tracker.py` — new module: evaluates creative hypotheses against regression coefficients, auto-transitions status (confirmed/rejected) based on consecutive confidence
+- `engine/memory/models.py` — added `CreativeDirection` dataclass and `creative_directions` field to `CreativeMemory`; added `creative_directions` field to `GenerationContext` with priority rendering in `to_prompt_block()`
+- `engine/models.py` — added `HypothesisStatus` enum and `CreativeHypothesis` Pydantic model for tracking creative hypotheses with confidence scores and evidence trails
+- `engine/intake/parser.py` — `IntakeParser.parse()` now accepts `creative_direction` parameter; injected into system prompt as "HUMAN CREATIVE DIRECTION" section
+- `engine/orchestrator.py` — `submit_idea()` and `submit_idea_templates()` now accept `creative_direction`; added `_build_creative_direction()` helper that merges persistent directions from memory with per-call overrides; hypothesis evaluation integrated into `run_daily_cycle()` after regression step
+- `engine/memory/builder.py` — `build()` now preserves `creative_directions` across memory rebuilds (they compound); `build_generation_context()` populates active directions into `GenerationContext`
+- `engine/generation/variant_matrix.py` — tightened similarity threshold from `shared >= 3` to `shared >= 2` in `_select_exploit()` and `_select_diverse()`; added `_enforce_minimums()` method to swap in underrepresented taxonomy values; `diversity_report()` thresholds now scale with batch size
+- `engine/generation/copy_agents.py` — added "CRITICAL DIVERSITY RULE" constraints to HeadlineAgent (4+ hook_types) and BodyCopyAgent (3+ message_types) prompts; added post-generation diversity check with automatic re-prompt for missing types
+- `engine/store.py` — added `save_hypotheses()`, `load_hypotheses()`, `get_hypothesis()` methods; updated v2 memory deserialization to handle `creative_directions`
+- `engine/notifications.py` — added `notify_hypothesis_update()` for Slack alerts on hypothesis status changes
+- `dashboard/api/app.py` — added `POST /api/review/monologue` and `POST /api/review/monologue-regenerate` endpoints; added `GET/POST/PATCH /api/memory/creative-directions` endpoints; added `GET/POST/PATCH/DELETE /api/hypotheses` and `/api/hypotheses/report` endpoints; fixed `POST /api/intake` to use `Orchestrator` (was `AdCampaignOrchestrator`); `IdeaInput` now accepts `creative_direction`
+- `dashboard/frontend/pages/review.html` — added "Batch Review" mode with monologue textarea, parsed results display with editable verdicts, commit reviews, and regenerate-from-monologue flow
+- Why: Nathan's feedback from meeting — (1) batch gallery review via monologue input with regeneration loop, (2) creative direction as a first-class input alongside memory layers, (3) ads too similar in gallery need hard diversity enforcement, (4) hypothesis tracking for "what creative works and why"
+
+---
+
 ### 2026-03-27 — Aryan
 **Pushed all local changes to remote; approved variant 50f6fb53 in review**
 

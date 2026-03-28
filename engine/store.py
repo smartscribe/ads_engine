@@ -310,11 +310,26 @@ class Store:
             ],
         )
         
+        # Parse creative directions
+        from engine.memory.models import CreativeDirection
+        creative_directions = []
+        for d in data.get("creative_directions", []):
+            creative_directions.append(CreativeDirection(
+                id=d.get("id", ""),
+                text=d.get("text", ""),
+                added_by=d.get("added_by", ""),
+                added_at=parse_datetime(d.get("added_at")) or datetime.utcnow(),
+                active=d.get("active", True),
+                source=d.get("source", "manual"),
+                source_id=d.get("source_id"),
+            ))
+
         return CreativeMemory(
             id=data.get("id", ""),
             statistical=stat,
             editorial=edit,
             market=market,
+            creative_directions=creative_directions,
             built_at=parse_datetime(data.get("built_at")),
             data_quality_score=data.get("data_quality_score", 0),
             version=data.get("version", 2),
@@ -466,3 +481,55 @@ class Store:
             status["archived_count"] = total_archived
 
         return status
+
+    # -- Hypotheses --
+
+    def save_hypotheses(self, hypotheses: list) -> None:
+        """Persist all hypotheses to data/hypotheses.json."""
+        import json
+
+        path = self.base / "hypotheses.json"
+        data = []
+        for h in hypotheses:
+            if hasattr(h, "model_dump"):
+                d = h.model_dump()
+            else:
+                d = h.__dict__.copy()
+            # Serialize enums and dates
+            for k, v in d.items():
+                if hasattr(v, "value"):
+                    d[k] = v.value
+                elif hasattr(v, "isoformat"):
+                    d[k] = v.isoformat()
+            data.append(d)
+        path.write_text(json.dumps(data, indent=2, default=str))
+
+    def load_hypotheses(self) -> list:
+        """Load all hypotheses from data/hypotheses.json."""
+        import json
+        from engine.models import CreativeHypothesis, HypothesisStatus
+
+        path = self.base / "hypotheses.json"
+        if not path.exists():
+            return []
+
+        try:
+            data = json.loads(path.read_text())
+            hypotheses = []
+            for d in data:
+                if "status" in d and isinstance(d["status"], str):
+                    d["status"] = HypothesisStatus(d["status"])
+                if "last_evaluated" in d and isinstance(d["last_evaluated"], str):
+                    d["last_evaluated"] = date.fromisoformat(d["last_evaluated"]) if d["last_evaluated"] else None
+                hypotheses.append(CreativeHypothesis(**d))
+            return hypotheses
+        except Exception:
+            return []
+
+    def get_hypothesis(self, hypothesis_id: str):
+        """Load a single hypothesis by ID."""
+        hypotheses = self.load_hypotheses()
+        for h in hypotheses:
+            if h.id == hypothesis_id:
+                return h
+        return None

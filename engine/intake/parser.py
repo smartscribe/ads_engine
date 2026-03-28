@@ -163,6 +163,7 @@ class IntakeParser:
         raw_input: str,
         source: str = "manual",
         playbook_rules: Optional[list] = None,
+        creative_direction: Optional[str] = None,
     ) -> CreativeBrief:
         """
         Parse a free-form idea dump into a structured creative brief.
@@ -172,8 +173,11 @@ class IntakeParser:
 
         playbook_rules: optional list of PlaybookRule objects to inject as
         winning pattern examples into the system prompt (A2).
+
+        creative_direction: optional human-supplied creative direction to
+        inject as a strong signal alongside playbook rules.
         """
-        system = self._build_system_prompt(playbook_rules)
+        system = self._build_system_prompt(playbook_rules, creative_direction)
         brief = self._call_claude(raw_input, source, system)
 
         # Validate and re-prompt if needed (max 1 retry)
@@ -198,8 +202,12 @@ class IntakeParser:
 
         return brief
 
-    def _build_system_prompt(self, playbook_rules: Optional[list] = None) -> str:
-        """Build the system prompt, optionally injecting playbook rules.
+    def _build_system_prompt(
+        self,
+        playbook_rules: Optional[list] = None,
+        creative_direction: Optional[str] = None,
+    ) -> str:
+        """Build the system prompt, optionally injecting playbook rules and creative direction.
 
         Uses str.replace() instead of .format() because the prompt body contains
         JSON examples with curly braces that would break str.format().
@@ -214,6 +222,13 @@ class IntakeParser:
                     if hasattr(rule, "good_examples") and rule.good_examples:
                         rules_text += f"  Example: \"{rule.good_examples[0]}\"\n"
             playbook_context = rules_text
+
+        if creative_direction:
+            playbook_context += (
+                "\n\nHUMAN CREATIVE DIRECTION (treat as strong signal — "
+                "this is the concept owner's intent):\n"
+                f"{creative_direction}\n"
+            )
 
         return SYSTEM_PROMPT.replace("{playbook_context}", playbook_context)
 

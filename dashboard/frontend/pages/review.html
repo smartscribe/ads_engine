@@ -682,6 +682,66 @@
 
         .gallery-toolbar button.reject:hover { background: var(--red-bg); }
 
+        /* Batch review mode */
+        .batch-view {
+            flex: 1;
+            padding: 20px 32px;
+            overflow-y: auto;
+        }
+
+        .batch-input-area {
+            max-width: 800px;
+        }
+
+        .batch-verdict-card {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            padding: 10px 14px;
+            background: var(--surface);
+            border: 1px solid var(--border2);
+            border-radius: 8px;
+            margin-bottom: 6px;
+        }
+
+        .batch-verdict-card .bv-headline {
+            font-size: 13px;
+            font-weight: 500;
+            flex: 1;
+            min-width: 0;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+
+        .batch-verdict-card .bv-reason {
+            font-size: 11px;
+            color: var(--text-muted);
+            flex: 2;
+            min-width: 0;
+        }
+
+        .batch-verdict-card select {
+            padding: 4px 8px;
+            border-radius: 4px;
+            border: 1px solid var(--border2);
+            background: var(--surface2);
+            color: var(--text);
+            font-size: 12px;
+            cursor: pointer;
+        }
+
+        .batch-direction-tag {
+            display: inline-block;
+            padding: 4px 10px;
+            background: var(--blue-bg);
+            border: 1px solid var(--blue-border);
+            border-radius: 14px;
+            font-size: 11px;
+            color: var(--blue);
+            margin: 0 4px 4px 0;
+        }
+
         /* Gallery modal for chip feedback */
         .modal-overlay {
             display: none;
@@ -1061,6 +1121,9 @@
         <div class="nav-tab active" data-view="review" onclick="switchView('review')">
             Review Queue <span class="badge" id="pendingBadge">0</span>
         </div>
+        <a class="nav-tab" href="/dashboard/pages/portfolio.html" style="text-decoration:none;">
+            Portfolio
+        </a>
         <div class="nav-tab" data-view="scoreboard" onclick="switchView('scoreboard')">
             Scoreboard
         </div>
@@ -1090,9 +1153,11 @@
             <span><span class="stat-dot" style="background:#22c55e;"></span><span id="statApproved">0</span> approved</span>
             <span><span class="stat-dot" style="background:#ef4444;"></span><span id="statRejected">0</span> rejected</span>
         </div>
+        <button onclick="deployAllApproved()" style="margin-left:12px;padding:6px 14px;border-radius:6px;border:1px solid var(--green-border);background:var(--green-bg);color:var(--green);font-size:12px;cursor:pointer;font-weight:500;">Deploy Approved</button>
         <div class="mode-toggle" style="margin-left:auto;">
             <button class="mode-btn active" id="modeTinder" onclick="setMode('tinder')">Focus</button>
             <button class="mode-btn" id="modeGallery" onclick="setMode('gallery')">Gallery</button>
+            <button class="mode-btn" id="modeBatch" onclick="setMode('batch')">Batch Review</button>
         </div>
     </div>
 
@@ -1117,6 +1182,33 @@
             <button onclick="clearSelection()">Clear</button>
         </div>
         <div class="gallery-grid" id="galleryGrid"></div>
+    </div>
+
+    <!-- Batch review mode -->
+    <div class="batch-view" id="batchView" style="display:none;">
+        <div class="batch-input-area" id="batchInputArea">
+            <h3 style="font-size:14px;font-weight:600;margin-bottom:8px;">Batch Review Monologue</h3>
+            <p style="font-size:12px;color:var(--text-muted);margin-bottom:12px;">Speak freely about what's working and what's not. The system will map your feedback to specific ads and extract creative direction.</p>
+            <textarea id="batchMonologueText" placeholder="Start your monologue here... e.g. 'The charting headline is great, approve that one. The question hooks all feel generic, reject those. I want to see more ads with specific time-savings stats and fewer generic CTAs.'" style="width:100%;min-height:140px;background:var(--surface);border:1px solid var(--border2);border-radius:8px;padding:12px;color:var(--text);font-size:13px;resize:vertical;font-family:inherit;"></textarea>
+            <div style="display:flex;gap:8px;margin-top:10px;">
+                <button onclick="submitMonologue()" style="padding:8px 20px;background:var(--blue);color:#fff;border:none;border-radius:6px;cursor:pointer;font-size:13px;" id="batchSubmitBtn">Review All</button>
+                <span style="font-size:11px;color:var(--text-dim);align-self:center;" id="batchStatus"></span>
+            </div>
+        </div>
+        <div id="batchResults" style="display:none;">
+            <div style="display:flex;align-items:center;gap:12px;margin-bottom:12px;">
+                <h3 style="font-size:14px;font-weight:600;">Parsed Results</h3>
+                <button onclick="commitBatchVerdicts()" style="padding:6px 16px;background:var(--green);color:#fff;border:none;border-radius:6px;cursor:pointer;font-size:12px;" id="batchCommitBtn">Commit Reviews</button>
+                <button onclick="regenerateFromBatch()" style="padding:6px 16px;background:var(--blue);color:#fff;border:none;border-radius:6px;cursor:pointer;font-size:12px;">Regenerate from This</button>
+                <button onclick="resetBatchReview()" style="padding:6px 16px;background:transparent;color:var(--text-muted);border:1px solid var(--border2);border-radius:6px;cursor:pointer;font-size:12px;">Start Over</button>
+            </div>
+            <div id="batchDirections" style="margin-bottom:16px;"></div>
+            <div id="batchVerdictsList"></div>
+        </div>
+        <div style="margin-top:16px;">
+            <h4 style="font-size:12px;font-weight:600;color:var(--text-muted);margin-bottom:8px;">Gallery Reference</h4>
+            <div class="gallery-grid" id="batchGalleryRef" style="pointer-events:none;opacity:0.7;"></div>
+        </div>
     </div>
 </div>
 
@@ -1165,6 +1257,22 @@
 </div>
 
 <div id="toast" class="toast" style="display:none;"></div>
+
+<!-- Deploy Modal -->
+<div id="deployModal" style="display:none;position:fixed;inset:0;background:rgba(0,0,0,0.6);z-index:500;display:none;align-items:center;justify-content:center;">
+    <div style="background:var(--surface2);border:1px solid var(--border2);border-radius:10px;padding:24px;width:380px;max-width:90vw;">
+        <h3 style="font-size:15px;margin-bottom:16px;">Deploy to Meta</h3>
+        <p id="deployModalInfo" style="font-size:12px;color:var(--text-muted);margin-bottom:12px;"></p>
+        <label style="font-size:12px;color:var(--text-muted);display:block;margin-bottom:4px;">Campaign ID</label>
+        <input id="deployCampaignId" type="text" style="width:100%;padding:8px;border-radius:6px;border:1px solid var(--border2);background:var(--surface);color:var(--text);font-size:13px;margin-bottom:12px;">
+        <label style="font-size:12px;color:var(--text-muted);display:block;margin-bottom:4px;">Ad Set ID</label>
+        <input id="deployAdsetId" type="text" style="width:100%;padding:8px;border-radius:6px;border:1px solid var(--border2);background:var(--surface);color:var(--text);font-size:13px;margin-bottom:16px;">
+        <div style="display:flex;gap:8px;justify-content:flex-end;">
+            <button onclick="closeDeployModal()" style="padding:8px 16px;border-radius:6px;border:1px solid var(--border2);background:var(--surface);color:var(--text);cursor:pointer;font-size:13px;">Cancel</button>
+            <button id="deployConfirmBtn" onclick="confirmDeploy()" style="padding:8px 16px;border-radius:6px;border:none;background:var(--blue);color:#fff;cursor:pointer;font-size:13px;font-weight:500;">Deploy (Paused)</button>
+        </div>
+    </div>
+</div>
 
 <script>
 // ============================================================
@@ -1219,9 +1327,12 @@ function setMode(mode) {
     currentMode = mode;
     document.getElementById('modeTinder').classList.toggle('active', mode === 'tinder');
     document.getElementById('modeGallery').classList.toggle('active', mode === 'gallery');
+    document.getElementById('modeBatch').classList.toggle('active', mode === 'batch');
     document.getElementById('tinderView').style.display = mode === 'tinder' ? 'flex' : 'none';
     document.getElementById('galleryView').style.display = mode === 'gallery' ? 'block' : 'none';
+    document.getElementById('batchView').style.display = mode === 'batch' ? 'block' : 'none';
     if (mode === 'gallery') renderGallery();
+    else if (mode === 'batch') renderBatchGalleryRef();
     else renderTinder();
 }
 
@@ -1605,6 +1716,146 @@ async function submitGalleryVerdict() {
 }
 
 // ============================================================
+//  BATCH REVIEW MODE
+// ============================================================
+let batchMonologueId = null;
+let batchVerdicts = [];
+
+function renderBatchGalleryRef() {
+    const grid = document.getElementById('batchGalleryRef');
+    if (!variants.length) {
+        grid.innerHTML = `<div style="grid-column:1/-1;text-align:center;padding:30px;color:var(--text-dim);">No variants pending review.</div>`;
+        return;
+    }
+    grid.innerHTML = variants.map(v => `
+        <div class="gallery-card">
+            ${buildAssetHtml(v, false)}
+            <div class="card-body">
+                <div class="card-headline">${esc(v.headline)}</div>
+                <div class="card-text">${esc(v.primary_text)}</div>
+                <div class="card-tags">
+                    ${[v.taxonomy?.message_type, v.taxonomy?.hook_type, v.taxonomy?.tone].filter(Boolean).map(t => `<span class="card-tag">${esc(t)}</span>`).join('')}
+                </div>
+                <div class="card-cta">${esc(v.cta_button || 'Learn More')}</div>
+            </div>
+        </div>
+    `).join('');
+    scaleIframes();
+}
+
+async function submitMonologue() {
+    const text = document.getElementById('batchMonologueText').value.trim();
+    if (!text) { showToast('Write your monologue first', 'info'); return; }
+
+    const btn = document.getElementById('batchSubmitBtn');
+    const status = document.getElementById('batchStatus');
+    btn.disabled = true;
+    btn.textContent = 'Parsing...';
+    status.textContent = 'Sending monologue to Claude for parsing...';
+
+    try {
+        const res = await fetch(`${API}/api/review/monologue`, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({
+                text,
+                reviewer: getReviewer(),
+                variant_ids: variants.map(v => v.id),
+            }),
+        });
+        const data = await res.json();
+        if (!res.ok) throw new Error(data.detail || 'Monologue parsing failed');
+
+        batchMonologueId = data.monologue_id;
+        batchVerdicts = data.verdicts || [];
+        renderBatchResults(data);
+    } catch (e) {
+        showToast('Monologue parsing failed: ' + e.message, 'error');
+    } finally {
+        btn.disabled = false;
+        btn.textContent = 'Review All';
+        status.textContent = '';
+    }
+}
+
+function renderBatchResults(data) {
+    document.getElementById('batchInputArea').style.display = 'none';
+    document.getElementById('batchResults').style.display = 'block';
+
+    // Render global directions
+    const dirEl = document.getElementById('batchDirections');
+    if (data.global_directions && data.global_directions.length) {
+        dirEl.innerHTML = `<div style="font-size:12px;font-weight:600;color:var(--text-muted);margin-bottom:6px;">Creative Directions Extracted</div>`
+            + data.global_directions.map(d => `<span class="batch-direction-tag">${esc(d)}</span>`).join('');
+    } else {
+        dirEl.innerHTML = '';
+    }
+
+    // Build a map of variant ID to copy info for display
+    const varMap = {};
+    variants.forEach(v => { varMap[v.id] = v; });
+
+    const listEl = document.getElementById('batchVerdictsList');
+    listEl.innerHTML = batchVerdicts.map((v, i) => {
+        const variant = varMap[v.variant_id];
+        const headline = variant ? esc(variant.headline) : v.variant_id.slice(0, 8);
+        const verdictColor = v.verdict === 'approve' ? 'var(--green)' : v.verdict === 'reject' ? 'var(--red)' : 'var(--text-muted)';
+        return `<div class="batch-verdict-card">
+            <span class="bv-headline">${headline}</span>
+            <span class="bv-reason">${esc(v.reason)}</span>
+            <select onchange="batchVerdicts[${i}].verdict = this.value" style="border-color:${verdictColor};">
+                <option value="approve" ${v.verdict === 'approve' ? 'selected' : ''}>Approve</option>
+                <option value="reject" ${v.verdict === 'reject' ? 'selected' : ''}>Reject</option>
+                <option value="skip" ${v.verdict === 'skip' ? 'selected' : ''}>Skip</option>
+            </select>
+        </div>`;
+    }).join('');
+}
+
+async function commitBatchVerdicts() {
+    const reviewer = getReviewer();
+    let ok = 0;
+    for (const v of batchVerdicts) {
+        if (v.verdict === 'skip') continue;
+        try {
+            await submitVerdict(v.variant_id, v.verdict === 'approve' ? 'approved' : 'rejected', 0, [], v.reason);
+            ok++;
+        } catch (e) {}
+    }
+    showToast(`${ok} reviews committed`, 'success');
+    resetBatchReview();
+    await loadQueue();
+    loadReviewCounts();
+}
+
+async function regenerateFromBatch() {
+    if (!batchMonologueId) { showToast('No monologue to regenerate from', 'info'); return; }
+    showToast('Regenerating ads from monologue...', 'info');
+    try {
+        const res = await fetch(`${API}/api/review/monologue-regenerate`, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ monologue_id: batchMonologueId }),
+        });
+        const data = await res.json();
+        if (!res.ok) throw new Error(data.detail || 'Regeneration failed');
+        showToast(`Generated ${data.variants_generated} new variants`, 'success');
+        resetBatchReview();
+        await loadQueue();
+    } catch (e) {
+        showToast('Regeneration failed: ' + e.message, 'error');
+    }
+}
+
+function resetBatchReview() {
+    batchMonologueId = null;
+    batchVerdicts = [];
+    document.getElementById('batchInputArea').style.display = 'block';
+    document.getElementById('batchResults').style.display = 'none';
+    document.getElementById('batchMonologueText').value = '';
+}
+
+// ============================================================
 //  SCOREBOARD
 // ============================================================
 let scoreSort = { col: 'cpfn', asc: true };
@@ -1825,6 +2076,71 @@ function esc(str) {
     const d = document.createElement('div');
     d.textContent = String(str);
     return d.innerHTML;
+}
+
+// ============================================================
+//  DEPLOY TO META
+// ============================================================
+let deployVariantIds = [];
+
+async function deployAllApproved() {
+    try {
+        const res = await fetch(`${API}/api/review/history`);
+        const data = await res.json();
+        if (!data.approved || !data.approved.length) {
+            showToast('No approved variants to deploy', 'info');
+            return;
+        }
+        openDeployModal(data.approved.map(a => a.id));
+    } catch (e) {
+        showToast('Failed to load approved variants', 'error');
+    }
+}
+
+function openDeployModal(variantIds) {
+    deployVariantIds = Array.isArray(variantIds) ? variantIds : [variantIds];
+    const modal = document.getElementById('deployModal');
+    document.getElementById('deployModalInfo').textContent = `Deploying ${deployVariantIds.length} variant(s) as PAUSED ads.`;
+    document.getElementById('deployCampaignId').value = localStorage.getItem('deploy_campaign_id') || '';
+    document.getElementById('deployAdsetId').value = localStorage.getItem('deploy_adset_id') || '';
+    modal.style.display = 'flex';
+}
+
+function closeDeployModal() {
+    document.getElementById('deployModal').style.display = 'none';
+    deployVariantIds = [];
+}
+
+async function confirmDeploy() {
+    const campaignId = document.getElementById('deployCampaignId').value.trim();
+    const adsetId = document.getElementById('deployAdsetId').value.trim();
+    if (!campaignId || !adsetId) { showToast('Campaign ID and Ad Set ID are required', 'error'); return; }
+
+    localStorage.setItem('deploy_campaign_id', campaignId);
+    localStorage.setItem('deploy_adset_id', adsetId);
+
+    const btn = document.getElementById('deployConfirmBtn');
+    btn.disabled = true;
+    btn.textContent = 'Deploying...';
+
+    try {
+        const res = await fetch(`${API}/api/deploy`, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ variant_ids: deployVariantIds, campaign_id: campaignId, adset_id: adsetId }),
+        });
+        const data = await res.json();
+        if (!res.ok) throw new Error(data.detail || 'Deploy failed');
+        showToast(`Deployed ${data.deployed} ad(s) to Meta (paused)`, 'success');
+        closeDeployModal();
+        await loadQueue();
+        loadReviewCounts();
+    } catch (e) {
+        showToast('Deploy failed: ' + e.message, 'error');
+    } finally {
+        btn.disabled = false;
+        btn.textContent = 'Deploy (Paused)';
+    }
 }
 </script>
 </body>

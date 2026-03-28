@@ -1,80 +1,135 @@
 """
 Ad Deployer — pushes approved variants to Meta and Google.
 
-Full API integration target. Currently stubbed with interface contracts.
-
-Meta: Marketing API (v21.0+)
-Google: Google Ads API (v17+)
-
-The intern needs to:
-1. Set up Meta Business Manager + App with ads_management permission
-2. Set up Google Ads API developer token + OAuth
-3. Implement the actual API calls
-4. Handle asset upload (images/videos to platform CDNs)
-5. Map our AdVariant model to platform-specific ad structures
-6. Handle campaign/adset/ad hierarchy (Meta) and campaign/adgroup/ad (Google)
+Meta: Marketing API (v21.0+) via facebook_business SDK.
+Google: Google Ads API (v17+) — still stubbed.
 """
 
 from __future__ import annotations
 
+import time
 from datetime import datetime
+from pathlib import Path
 from typing import Optional
 
 from engine.models import AdVariant, AdStatus, Platform
 from engine.store import Store
+
+JOTPSYCH_SIGNUP_URL = "https://app.jotpsych.com/signup"
+
+CTA_MAP = {
+    "Learn More": "LEARN_MORE",
+    "Sign Up": "SIGN_UP",
+    "Get Started": "SIGN_UP",
+    "Try Free": "SIGN_UP",
+    "Start Free Trial": "SIGN_UP",
+    "Download": "DOWNLOAD",
+    "Book Now": "BOOK_TRAVEL",
+    "Contact Us": "CONTACT_US",
+    "Apply Now": "APPLY_NOW",
+}
+
+
+def _retry(fn, retries=3, backoff=1.0):
+    """Call fn() with exponential backoff on failure."""
+    for attempt in range(retries):
+        try:
+            return fn()
+        except Exception:
+            if attempt == retries - 1:
+                raise
+            time.sleep(backoff * (2 ** attempt))
 
 
 class MetaDeployer:
     """
     Deploys ads to Meta (Facebook/Instagram) via Marketing API.
 
-    Requires:
-    - META_APP_ID
-    - META_APP_SECRET
-    - META_ACCESS_TOKEN (long-lived)
-    - META_AD_ACCOUNT_ID
+    Requires META_ACCESS_TOKEN and META_AD_ACCOUNT_ID.
+    Ads are created in PAUSED status for safety — activate manually in Ads Manager.
     """
 
-    def __init__(self, access_token: str, ad_account_id: str):
+    def __init__(self, access_token: str, ad_account_id: str, page_id: str = ""):
+        from facebook_business.api import FacebookAdsApi
+        from facebook_business.adobjects.adaccount import AdAccount
+
+        FacebookAdsApi.init(app_id=None, app_secret=None, access_token=access_token)
         self.access_token = access_token
         self.ad_account_id = ad_account_id
-        # INTERN: Initialize facebook_business SDK here
-        # from facebook_business.api import FacebookAdsApi
-        # from facebook_business.adobjects.adaccount import AdAccount
+        self.page_id = page_id
+        self.account = AdAccount(ad_account_id)
 
     def upload_asset(self, variant: AdVariant) -> str:
-        """
-        Upload image/video to Meta's CDN.
-        Returns the platform asset ID (image_hash or video_id).
+        """Upload image to Meta CDN. Returns the image_hash."""
+        from facebook_business.adobjects.adimage import AdImage
 
-        STUB — intern implements with facebook_business SDK.
-        """
-        raise NotImplementedError("Intern: implement Meta asset upload")
+        image = AdImage(parent_id=self.ad_account_id)
+        image[AdImage.Field.filename] = str(Path(variant.asset_path).resolve())
+        _retry(image.remote_create)
+        return image[AdImage.Field.hash]
 
     def create_ad(self, variant: AdVariant, campaign_id: str, adset_id: str) -> str:
         """
-        Create an ad under an existing campaign/adset.
-        Returns the Meta ad ID.
-
-        STUB — intern implements.
-        Steps:
-        1. Upload creative asset
-        2. Create AdCreative object
-        3. Create Ad object linked to creative + adset
+        Create a full ad: upload asset -> create AdCreative -> create Ad.
+        Returns the Meta ad ID. Ad is created in PAUSED status.
         """
-        raise NotImplementedError("Intern: implement Meta ad creation")
+        from facebook_business.adobjects.adcreative import AdCreative
+        from facebook_business.adobjects.ad import Ad
+
+        image_hash = self.upload_asset(variant)
+
+        cta_type = CTA_MAP.get(variant.cta_button, "LEARN_MORE")
+
+        object_story_spec = {
+            "page_id": self.page_id,
+            "link_data": {
+                "image_hash": image_hash,
+                "link": JOTPSYCH_SIGNUP_URL,
+                "message": variant.primary_text or "",
+                "name": variant.headline or "",
+                "description": variant.description or "",
+                "call_to_action": {
+                    "type": cta_type,
+                    "value": {"link": JOTPSYCH_SIGNUP_URL},
+                },
+            },
+        }
+
+        creative = AdCreative(parent_id=self.ad_account_id)
+        creative[AdCreative.Field.name] = (variant.headline or "Ad")[:255]
+        creative[AdCreative.Field.object_story_spec] = object_story_spec
+        _retry(creative.remote_create)
+        creative_id = creative["id"]
+
+        ad = Ad(parent_id=self.ad_account_id)
+        ad[Ad.Field.name] = (variant.headline or "Ad")[:255]
+        ad[Ad.Field.adset_id] = adset_id
+        ad[Ad.Field.creative] = {"creative_id": creative_id}
+        ad[Ad.Field.status] = "PAUSED"
+        _retry(ad.remote_create)
+        return ad["id"]
 
     def pause_ad(self, meta_ad_id: str) -> bool:
         """Pause a running ad."""
-        raise NotImplementedError("Intern: implement Meta ad pause")
+        from facebook_business.adobjects.ad import Ad
+        ad = Ad(meta_ad_id)
+        ad[Ad.Field.status] = "PAUSED"
+        _retry(lambda: ad.remote_update(params={Ad.Field.status: "PAUSED"}))
+        return True
 
     def resume_ad(self, meta_ad_id: str) -> bool:
         """Resume a paused ad."""
-        raise NotImplementedError("Intern: implement Meta ad resume")
+        from facebook_business.adobjects.ad import Ad
+        ad = Ad(meta_ad_id)
+        _retry(lambda: ad.remote_update(params={Ad.Field.status: "ACTIVE"}))
+        return True
 
     def delete_ad(self, meta_ad_id: str) -> bool:
-        """Delete an ad (for killed variants)."""
-        raise NotImplementedError("Intern: implement Meta ad deletion")
+        """Delete (archive) an ad."""
+        from facebook_business.adobjects.ad import Ad
+        ad = Ad(meta_ad_id)
+        _retry(lambda: ad.remote_update(params={Ad.Field.status: "DELETED"}))
+        return True
 
 
 class GoogleDeployer:
