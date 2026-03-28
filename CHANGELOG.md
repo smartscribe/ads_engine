@@ -18,6 +18,16 @@ Each entry includes:
 
 ## Log
 
+### 2026-03-28 — Cursor Cloud Agent
+**Development environment setup**
+
+- Created `AGENTS.md` with Cursor Cloud specific instructions for future agents
+- Verified full dev environment: Python 3.12, pip dependencies, Playwright Chromium
+- Confirmed FastAPI server starts cleanly with `uvicorn dashboard.api.app:app --reload`
+- Tested API endpoints (`/api/review`, `/api/performance`, `/api/variants`, `/api/review/submit`) and dashboard UI
+
+---
+
 ### 2026-03-28 — Aryan
 **Pipeline verification: regression → memory → review → dashboard**
 
