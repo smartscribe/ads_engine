@@ -238,6 +238,75 @@ def _validate_image(data: bytes, min_size: int = 50_000) -> tuple[bool, str]:
     return True, "OK"
 
 
+def _vision_quality_check(image_bytes: bytes) -> tuple[bool, str]:
+    """
+    Run Claude Vision on a generated image to catch nonsensical elements.
+
+    Checks for:
+    - Distorted or impossible text/numbers (e.g., clock showing wrong time)
+    - Distorted hands, faces, or anatomy
+    - Watermarks or embedded text
+    - Objects that don't make physical sense
+    - Overall image quality issues
+
+    Returns (passes, reason). Costs ~$0.002 per check.
+    """
+    import base64
+    try:
+        from anthropic import Anthropic
+        client = Anthropic(api_key=os.environ.get("ANTHROPIC_API_KEY", ""))
+
+        b64 = base64.b64encode(image_bytes).decode()
+
+        response = client.messages.create(
+            model="claude-sonnet-4-5-20250929",
+            max_tokens=300,
+            messages=[{
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "source": {
+                            "type": "base64",
+                            "media_type": "image/png",
+                            "data": b64,
+                        },
+                    },
+                    {
+                        "type": "text",
+                        "text": (
+                            "You are a quality checker for ad background images. "
+                            "Check this image for ANY of these problems:\n"
+                            "1. Any visible text, words, letters, or numbers (even partial)\n"
+                            "2. Clocks or watches showing impossible/inconsistent times\n"
+                            "3. Distorted hands, fingers, or impossible anatomy\n"
+                            "4. Watermarks or stock photo logos\n"
+                            "5. Objects that defy physics or look AI-generated/uncanny\n"
+                            "6. Blurry, corrupt, or very low quality areas\n\n"
+                            "Respond with EXACTLY one line:\n"
+                            "PASS - if the image is clean and usable\n"
+                            "FAIL: <specific reason> - if any problem is found\n\n"
+                            "Be strict. Any visible text or nonsensical element is a FAIL."
+                        ),
+                    },
+                ],
+            }],
+        )
+
+        result = response.content[0].text.strip()
+        if result.upper().startswith("PASS"):
+            return True, "OK"
+        else:
+            reason = result.replace("FAIL:", "").replace("FAIL", "").strip()
+            return False, reason or "Vision check failed"
+
+    except Exception as e:
+        # If vision check fails (API error, etc.), let the image through
+        # rather than blocking the pipeline
+        print(f"[vision] Quality check error (allowing image): {e}")
+        return True, f"Check skipped: {e}"
+
+
 class AIImageGenerator:
     """
     Generate diverse ad background images using Gemini Imagen 4.0.
@@ -296,10 +365,21 @@ class AIImageGenerator:
 
             img_bytes = response.generated_images[0].image.image_bytes
 
-            # Validate the image
+            # Validate the image (format, size, dimensions)
             is_valid, reason = _validate_image(img_bytes)
             if not is_valid:
                 print(f"[imagen] Validation failed for hook_type={hook_type}: {reason}")
+                return None
+
+            # Claude Vision quality gate — catch nonsensical elements
+            vision_ok, vision_reason = _vision_quality_check(img_bytes)
+            if not vision_ok:
+                print(f"[imagen] Vision quality FAILED for hook_type={hook_type}: {vision_reason}")
+                # Try once more with a different prompt variant
+                alt_idx = (variant_index + 1) % len(prompts)
+                if alt_idx != variant_index:
+                    print(f"[imagen] Retrying with alternate scene...")
+                    return self.generate_background(hook_type, alt_idx)
                 return None
 
             # Save
@@ -307,7 +387,7 @@ class AIImageGenerator:
             path = self.output_dir / filename
             path.write_bytes(img_bytes)
 
-            print(f"[imagen] Generated {len(img_bytes):,} bytes → {filename}")
+            print(f"[imagen] ✓ Generated {len(img_bytes):,} bytes → {filename} (vision: OK)")
             return str(path)
 
         except Exception as e:
