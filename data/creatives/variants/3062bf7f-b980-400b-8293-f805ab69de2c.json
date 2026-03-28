@@ -6,10 +6,10 @@
   "primary_text": "Here's what 2 extra hours of documentation every day costs you:\n\n\u2022 520 hours per year staying late\n\u2022 Missed dinners, bedtimes, your own life\n\u2022 Burnout that makes you question this career\n\nJotPsych generates your clinical notes automatically. Record your session, and our HIPAA-compliant AI creates complete documentation in minutes. not hours.\n\nStop choosing between quality care and having a life. 1,200+ therapists already made the switch.\n\nTry JotPsych free: jotpsych.com",
   "description": "",
   "cta_button": "Book a Demo",
-  "asset_path": "data/creatives/rendered/feed_1080x1080_image_overlay_dfdfdf90.png",
+  "asset_path": "data/creatives/rendered/feed_1080x1080_headline_hero_33e20750.png",
   "asset_type": "image",
   "asset_status": "pending",
-  "template_id": "feed_1080x1080/image_overlay",
+  "template_id": "feed_1080x1080/headline_hero",
   "template_color_scheme": "dark",
   "taxonomy": {
     "message_type": "urgency",
@@ -118,7 +118,7 @@
         "long"
       ]
     },
-    "asset_source": "ai_generated"
+    "asset_source": "template"
   },
   "status": "draft",
   "review_notes": null,
