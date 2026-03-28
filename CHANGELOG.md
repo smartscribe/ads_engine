@@ -19,6 +19,16 @@ Each entry includes:
 ## Log
 
 ### 2026-03-28 — Agent
+**Fix ad visual diversity: all 198 variants looked identical due to hardcoded taxonomy**
+
+- `engine/generation/generator.py` — Root cause: `generate_copy_v2()` hardcoded `visual_style="photography"`, `color_mood="brand_primary"`, `subject_matter="clinician_at_work"` for every variant (96% photography, 90% brand_primary). New `_assign_visual_taxonomy()` function maps hook_type to visual_style+subject_matter (statistic→text_heavy+data_viz, scenario→photography+patient_interaction, question→mixed_media+conceptual, etc.), rotates color_mood round-robin across batch through all 6 values, derives text_density from actual copy length, and cycles through alternate styles when same hook appears multiple times. Also: `generate_assets_from_selector()` now returns `(path, TemplatePlan)` tuples; `generate_with_templates()` sets `template_id` and `template_color_scheme` on every AdVariant (was always None)
+- `engine/generation/template_selector.py` — `select_batch()` rewritten with `Counter`-based round-robin: tracks template usage across batch, `_get_least_used_template()` picks the template with fewest uses in the same format family (was: always return first alternative). Also rotates color schemes [light, warm, dark, accent] across the batch. Result: 12-variant batch now gets 4 distinct templates × 4 color schemes × 4 visual styles × 6 color moods instead of 1 template × 1 scheme × 1 style × 1 mood
+- Before: 198 variants → 1 visual style, 1 color mood, 0 template IDs stored. After: 12 simulated variants → 4 visual styles, 6 color moods, 4 templates, 4 schemes (all evenly distributed)
+- Key decision: visual taxonomy assignment happens per-variant using the variant's hook_type as the primary signal, with batch-position-based rotation for color mood. This ensures the regression model gets clean, diverse data across all visual dimensions while each variant's visual treatment logically matches its copy strategy
+
+---
+
+### 2026-03-28 — Agent
 **Production readiness: P0 bug fix, P1 dashboard features, P2 feedback loop**
 
 - `dashboard/api/app.py` — Fixed concept SSE endpoint ImportError (`AdCampaignOrchestrator` → `Orchestrator`). Added CORS TODO comment. Added 10 new endpoints: `GET /api/variants/export` (ZIP download), `GET /api/performance/dashboard` (aggregated variant metrics), `POST /api/decisions/act` (kill/scale/pause/resume), `GET /api/regression/coefficients` (all coefficients with tiers), `GET /api/regression/playbook-rules` (translated rules), `GET /api/regression/fatigue` (fatigue alerts), `POST /api/tracking/pull` (manual data pull), `GET /api/budget/pacing` (budget vs target), `POST /api/admin/run-cycle` (manual trigger), `GET /api/admin/cycles` (cycle history), `GET /api/admin/config` (non-secret config status). Added APScheduler integration for daily cycle at 6am PT. Updated deploy endpoint to default to farm campaign IDs from settings, pass page_id to MetaDeployer
