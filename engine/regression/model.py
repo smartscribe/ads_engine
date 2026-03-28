@@ -198,6 +198,7 @@ class CreativeRegressionModel:
             "human_face_visible": int(getattr(tax, "human_face_visible", False)),
             "social_proof_type": getattr(tax, "social_proof_type", "none"),
             "copy_length_bin": getattr(tax, "copy_length_bin", "medium"),
+            "asset_source": getattr(tax, "asset_source", "template"),
         }
 
     def encode_features(self, df: pd.DataFrame) -> tuple[pd.DataFrame, list[str]]:

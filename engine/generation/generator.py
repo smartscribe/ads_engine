@@ -577,11 +577,16 @@ Formats: {[f.value for f in brief.formats_requested]}
         for copy_data, (asset_path, plan) in zip(copy_variants, asset_results):
             tax_data = copy_data["taxonomy"]
 
+            # Determine asset_source for regression tracking
+            is_ai = plan and plan.template == "feed_1080x1080/image_overlay"
+            asset_source = "ai_generated" if is_ai else "template"
+
             taxonomy = CreativeTaxonomy(
                 **tax_data,
                 format=primary_fmt,
                 platform=primary_platform,
                 placement="feed",
+                asset_source=asset_source,
             )
 
             variant = AdVariant(
