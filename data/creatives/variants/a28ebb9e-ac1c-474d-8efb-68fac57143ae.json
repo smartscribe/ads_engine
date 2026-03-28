@@ -6,11 +6,11 @@
   "primary_text": "You see 8 clients today. That's 2+ hours of charting tonight. unless you let JotPsych handle it. AI captures your session, writes audit-ready notes with proper codes, syncs to your EHR. Done automatically. No laptop in session. No staying late. Behavioral health clinicians using JotPsych save an average of 2 hours per day on documentation.",
   "description": "",
   "cta_button": "Reclaim Your Time",
-  "asset_path": "data/creatives/rendered/feed_1080x1080_split_screen_4700d4c6.png",
+  "asset_path": "data/creatives/rendered/feed_1080x1080_split_screen_62d61ef4.png",
   "asset_type": "image",
   "asset_status": "pending",
   "template_id": "feed_1080x1080/split_screen",
-  "template_color_scheme": "warm",
+  "template_color_scheme": "light",
   "taxonomy": {
     "message_type": "pain_point",
     "hook_type": "scenario",
