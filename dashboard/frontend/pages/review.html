@@ -329,7 +329,22 @@
             -webkit-line-clamp: 3;
             -webkit-box-orient: vertical;
             overflow: hidden;
+            margin-bottom: 4px;
+            cursor: pointer;
+        }
+        .tinder-card .copy-section .primary-text.expanded {
+            -webkit-line-clamp: unset;
+            display: block;
+        }
+        .tinder-card .copy-section .expand-toggle {
+            font-size: 11px;
+            color: var(--blue);
+            cursor: pointer;
             margin-bottom: 10px;
+            user-select: none;
+        }
+        .tinder-card .copy-section .expand-toggle:hover {
+            text-decoration: underline;
         }
 
         .tinder-card .copy-section .tags {
@@ -622,7 +637,22 @@
             -webkit-line-clamp: 2;
             -webkit-box-orient: vertical;
             overflow: hidden;
+            margin-bottom: 4px;
+            cursor: pointer;
+        }
+        .gallery-card .card-text.expanded {
+            -webkit-line-clamp: unset;
+            display: block;
+        }
+        .gallery-card .expand-toggle {
+            font-size: 11px;
+            color: var(--blue);
+            cursor: pointer;
             margin-bottom: 8px;
+            user-select: none;
+        }
+        .gallery-card .expand-toggle:hover {
+            text-decoration: underline;
         }
 
         .gallery-card .card-tags { display: flex; flex-wrap: wrap; gap: 4px; }
@@ -1458,7 +1488,8 @@ function renderTinder() {
                 ${assetHtml}
                 <div class="copy-section">
                     <div class="headline">${esc(v.headline)}</div>
-                    <div class="primary-text">${esc(v.primary_text)}</div>
+                    <div class="primary-text" onclick="this.classList.toggle('expanded');this.nextElementSibling.textContent=this.classList.contains('expanded')?'Show less':'Show more'">${esc(v.primary_text)}</div>
+                    <div class="expand-toggle" onclick="const pt=this.previousElementSibling;pt.classList.toggle('expanded');this.textContent=pt.classList.contains('expanded')?'Show less':'Show more'">Show more</div>
                     <div class="tags">
                         ${[v.taxonomy?.message_type, v.taxonomy?.hook_type, v.taxonomy?.tone, v.taxonomy?.format].filter(Boolean).map(t => `<span class="tag">${esc(t)}</span>`).join('')}
                     </div>
@@ -1731,7 +1762,8 @@ function renderGallery() {
             ${buildAssetHtml(v, false)}
             <div class="card-body">
                 <div class="card-headline">${esc(v.headline)}</div>
-                <div class="card-text">${esc(v.primary_text)}</div>
+                <div class="card-text" onclick="event.stopPropagation();this.classList.toggle('expanded');this.nextElementSibling.textContent=this.classList.contains('expanded')?'Less':'More'">${esc(v.primary_text)}</div>
+                <div class="expand-toggle" onclick="event.stopPropagation();const pt=this.previousElementSibling;pt.classList.toggle('expanded');this.textContent=pt.classList.contains('expanded')?'Less':'More'">More</div>
                 <div class="card-tags">
                     ${[v.taxonomy?.message_type, v.taxonomy?.hook_type, v.taxonomy?.tone].filter(Boolean).map(t => `<span class="card-tag">${esc(t)}</span>`).join('')}
                 </div>
@@ -1836,7 +1868,8 @@ function renderBatchGalleryRef() {
             ${buildAssetHtml(v, false)}
             <div class="card-body">
                 <div class="card-headline">${esc(v.headline)}</div>
-                <div class="card-text">${esc(v.primary_text)}</div>
+                <div class="card-text" onclick="this.classList.toggle('expanded');this.nextElementSibling.textContent=this.classList.contains('expanded')?'Less':'More'">${esc(v.primary_text)}</div>
+                <div class="expand-toggle" onclick="const pt=this.previousElementSibling;pt.classList.toggle('expanded');this.textContent=pt.classList.contains('expanded')?'Less':'More'">More</div>
                 <div class="card-tags">
                     ${[v.taxonomy?.message_type, v.taxonomy?.hook_type, v.taxonomy?.tone].filter(Boolean).map(t => `<span class="card-tag">${esc(t)}</span>`).join('')}
                 </div>
