@@ -1,8 +1,17 @@
 """
-Copy quality filter — catches AI tells and enforces brand standards.
+Copy quality filter — catches AI tells, brand violations, and enforces standards.
+
+Quality gates:
+- AI tells (23 phrases that signal LLM-generated text)
+- Generic phrases (12 marketing clichés)
+- Em dashes (brand voice prohibits them — use periods, commas, colons)
+- Character limits (headline ≤ 40, CTA ≤ 20)
+- Empty text
 """
 
 from __future__ import annotations
+
+import re
 
 
 class CopyQualityFilter:
@@ -20,6 +29,17 @@ class CopyQualityFilter:
         "what if i told you", "imagine a world", "tired of",
         "say goodbye to", "introducing the", "are you ready to",
     ]
+
+    @staticmethod
+    def fix_em_dashes(text: str) -> str:
+        """Replace em dashes with periods — a hard brand voice rule."""
+        if "—" not in text:
+            return text
+        fixed = text.replace("—", ". ")
+        # Clean up double periods and excess whitespace
+        fixed = re.sub(r"\.\s*\.", ".", fixed)
+        fixed = re.sub(r"\s{2,}", " ", fixed)
+        return fixed.strip()
 
     def check(self, text: str, char_limit: int = None) -> tuple[bool, list[str]]:
         """
@@ -40,6 +60,10 @@ class CopyQualityFilter:
             if phrase.lower() in text_lower:
                 violations.append(f"Generic phrase: '{phrase}'")
 
+        # Em dashes are a brand voice violation
+        if "—" in text:
+            violations.append("Em dash detected (use periods, commas, or colons instead)")
+
         if not text.strip():
             violations.append("Empty or whitespace-only text")
 
@@ -58,9 +82,21 @@ class CopyQualityFilter:
         return self.check(text, char_limit=20)
 
     def filter_headlines(self, headlines: list[dict]) -> list[dict]:
-        """Filter a list of headline dicts, keeping only those that pass."""
+        """
+        Filter headline dicts. Auto-fixes em dashes before checking.
+        Deduplicates: only keeps the first occurrence of each headline text.
+        """
         passed = []
+        seen_texts = set()
         for h in headlines:
+            # Auto-fix em dashes
+            h["text"] = self.fix_em_dashes(h["text"])
+
+            # Deduplicate
+            if h["text"].lower().strip() in seen_texts:
+                continue
+            seen_texts.add(h["text"].lower().strip())
+
             ok, violations = self.check_headline(h["text"])
             if ok:
                 passed.append(h)
@@ -69,9 +105,22 @@ class CopyQualityFilter:
         return passed
 
     def filter_bodies(self, bodies: list[dict]) -> list[dict]:
-        """Filter body copy dicts."""
+        """
+        Filter body copy dicts. Auto-fixes em dashes before checking.
+        Deduplicates by text content.
+        """
         passed = []
+        seen_texts = set()
         for b in bodies:
+            # Auto-fix em dashes
+            b["text"] = self.fix_em_dashes(b["text"])
+
+            # Deduplicate
+            text_key = b["text"].lower().strip()[:100]  # first 100 chars for dedup
+            if text_key in seen_texts:
+                continue
+            seen_texts.add(text_key)
+
             ok, violations = self.check_body(b["text"])
             if ok:
                 passed.append(b)
@@ -80,9 +129,15 @@ class CopyQualityFilter:
         return passed
 
     def filter_ctas(self, ctas: list[str]) -> list[str]:
-        """Filter CTA strings."""
+        """Filter CTA strings. Deduplicates."""
         passed = []
+        seen = set()
         for c in ctas:
+            c_lower = c.lower().strip()
+            if c_lower in seen:
+                continue
+            seen.add(c_lower)
+
             ok, violations = self.check_cta(c)
             if ok:
                 passed.append(c)

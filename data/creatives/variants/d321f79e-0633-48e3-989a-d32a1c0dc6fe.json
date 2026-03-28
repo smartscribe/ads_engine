@@ -9,8 +9,8 @@
   "asset_path": "data/creatives/rendered/meta_feed_5cffda05.png",
   "asset_type": "image",
   "asset_status": "pending",
-  "template_id": "feed_1080x1080/testimonial",
-  "template_color_scheme": "accent",
+  "template_id": "feed_1080x1080/headline_hero",
+  "template_color_scheme": "light",
   "taxonomy": {
     "message_type": "value_prop",
     "hook_type": "question",
