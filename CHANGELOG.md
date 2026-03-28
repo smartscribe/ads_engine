@@ -19,6 +19,17 @@ Each entry includes:
 ## Log
 
 ### 2026-03-28 — Agent
+**Ad quality cleanup: deduplicate, fix em dashes, strengthen quality filter**
+
+- Removed 139 duplicate variants (same headline repeated up to 10x due to format × platform expansion). Kept 1 per unique headline, preferring variants with rendered images
+- Fixed em dashes in all 19 variants that contained them (brand voice violation). All body copy now uses periods instead of em dashes
+- Truncated 1 headline over 50 chars
+- `engine/generation/quality_filter.py` — Added em dash detection as a check violation. Added `fix_em_dashes()` auto-repair. `filter_headlines()` and `filter_bodies()` now auto-fix em dashes and deduplicate by text content. `filter_ctas()` deduplicates CTAs
+- Review queue: 185 drafts → 46 unique, high-quality drafts. 0 duplicates, 0 em dashes, 4 templates evenly distributed, 4 color schemes evenly distributed
+
+---
+
+### 2026-03-28 — Agent
 **Fix ad gallery sameness: backfill existing variants + fix preview endpoint**
 
 - `dashboard/api/app.py` — Template preview endpoint (`GET /api/template-preview/{variant_id}`) now uses TemplateSelector to derive template from taxonomy when `template_id` is None, instead of static fallback to headline_hero/light. Includes context injection for stat_callout (extracts numbers from headline) and testimonial templates. New `_backfill_variant_templates()` runs on server startup: assigns diverse templates to all variants missing `template_id` via `TemplateSelector.select_batch(diversify=True)`. New `POST /api/assets/backfill-templates` endpoint for manual re-runs
