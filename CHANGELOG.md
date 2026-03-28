@@ -19,6 +19,15 @@ Each entry includes:
 ## Log
 
 ### 2026-03-28 — Agent
+**Redesign ad templates for professional quality**
+
+- All 4 feed templates redesigned: reduced logo from 52px→36px, reduced headline/body font sizes, removed body text from stat_callout, increased whitespace, simplified accent strips
+- New `_truncate_body_for_image()` in template_renderer.py caps body text to 80 chars (first sentence only) for on-image rendering. Full body copy goes in Meta's primary_text field below the image
+- Quality bar: minimal text on image (headline + short subtitle + CTA), long copy belongs below the image. Matches best-practice SaaS ad design
+
+---
+
+### 2026-03-28 — Agent
 **Ad quality cleanup: deduplicate, fix em dashes, strengthen quality filter**
 
 - Removed 139 duplicate variants (same headline repeated up to 10x due to format × platform expansion). Kept 1 per unique headline, preferring variants with rendered images

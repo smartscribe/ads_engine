@@ -119,12 +119,12 @@
       ]
     }
   },
-  "status": "draft",
+  "status": "approved",
   "review_notes": null,
-  "reviewer": null,
-  "reviewed_at": null,
+  "reviewer": "nate",
+  "reviewed_at": "2026-03-28T03:45:31.389594",
   "review_chips": [],
-  "review_duration_ms": 0,
+  "review_duration_ms": 22735,
   "deployment_targets": [],
   "hypothesis_id": null,
   "meta_ad_id": null,
