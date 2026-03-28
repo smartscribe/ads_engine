@@ -46,7 +46,7 @@ app = FastAPI(title="JotPsych Ads Engine", version="0.1.0")
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # INTERN: restrict in production
+    allow_origins=["*"],  # TODO: restrict to dashboard origin in production
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -134,12 +134,12 @@ async def submit_concept(concept: ConceptInput):
     async def event_generator():
         try:
             from engine.intake.concept_expander import ConceptExpander
-            from engine.orchestrator import AdCampaignOrchestrator
+            from engine.orchestrator import Orchestrator
             from engine.generation.generator import CreativeGenerator
             from engine.memory.builder import MemoryBuilder
 
             expander = ConceptExpander()
-            orchestrator = AdCampaignOrchestrator()
+            orchestrator = Orchestrator()
             generator = CreativeGenerator()
             memory_builder = MemoryBuilder(store)
 
