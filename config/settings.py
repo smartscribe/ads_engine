@@ -29,6 +29,13 @@ class Settings(BaseSettings):
     META_AD_ACCOUNT_ID: str = ""           # Format: act_XXXXXXXXXX
     META_PAGE_ID: str = ""                  # Facebook Page ID for ad creative
 
+    # -- Meta Campaign Structure --
+    # Get these IDs from Adam/Matt — they know the existing campaign structure
+    META_FARM_CAMPAIGN_ID: str = ""         # Test budget campaign for new creatives
+    META_FARM_ADSET_ID: str = ""            # Adset within farm campaign
+    META_SCALE_CAMPAIGN_ID: str = ""        # Proven winners campaign
+    META_SCALE_ADSET_ID: str = ""           # Adset within scale campaign
+
     # -- Google Ads API --
     GOOGLE_ADS_DEVELOPER_TOKEN: str = ""
     GOOGLE_ADS_CLIENT_ID: str = ""
@@ -57,6 +64,11 @@ class Settings(BaseSettings):
     KILL_CPA_MULTIPLIER: float = 2.0
     SCALE_CPA_MULTIPLIER: float = 0.7
     DAILY_BUDGET_LIMIT: float = 700.0      # ~$20k/mo ÷ 30
+
+    # -- Budget Pacing --
+    MONTHLY_BUDGET: float = 17500.0         # $15-20K/mo, midpoint
+    BUDGET_ALERT_HIGH: float = 1.10         # Alert if run rate >110% of budget
+    BUDGET_ALERT_LOW: float = 0.70          # Alert if run rate <70% of budget
 
     # -- Data --
     DATA_DIR: str = "data"

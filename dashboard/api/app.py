@@ -1913,8 +1913,8 @@ async def format_comparison(min_spend: float = 50.0):
 
 class DeployRequest(BaseModel):
     variant_ids: list[str]
-    campaign_id: str
-    adset_id: str
+    campaign_id: Optional[str] = None  # Defaults to farm campaign from settings
+    adset_id: Optional[str] = None     # Defaults to farm adset from settings
 
 
 @app.post("/api/deploy")
@@ -1927,6 +1927,16 @@ async def deploy_to_meta(body: DeployRequest):
     if not settings.META_ACCESS_TOKEN or not settings.META_AD_ACCOUNT_ID:
         raise HTTPException(status_code=500, detail="Meta API credentials not configured")
 
+    # Default to farm campaign/adset from settings
+    campaign_id = body.campaign_id or settings.META_FARM_CAMPAIGN_ID
+    adset_id = body.adset_id or settings.META_FARM_ADSET_ID
+
+    if not campaign_id or not adset_id:
+        raise HTTPException(
+            status_code=400,
+            detail="campaign_id and adset_id are required (or set META_FARM_CAMPAIGN_ID/META_FARM_ADSET_ID in .env)",
+        )
+
     for vid in body.variant_ids:
         try:
             v = store.get_variant(vid)
@@ -1938,10 +1948,14 @@ async def deploy_to_meta(body: DeployRequest):
                 detail=f"Variant {vid} is {v.status.value}, not approved",
             )
 
-    meta = MetaDeployer(settings.META_ACCESS_TOKEN, settings.META_AD_ACCOUNT_ID)
+    meta = MetaDeployer(
+        settings.META_ACCESS_TOKEN,
+        settings.META_AD_ACCOUNT_ID,
+        page_id=settings.META_PAGE_ID,
+    )
     deployer = AdDeployer(store, meta=meta)
 
-    deployed = deployer.deploy_batch(body.variant_ids, body.campaign_id, body.adset_id)
+    deployed = deployer.deploy_batch(body.variant_ids, campaign_id, adset_id)
     notifier.notify_deployment(deployed, "meta")
 
     return {
@@ -1955,6 +1969,186 @@ async def deploy_to_meta(body: DeployRequest):
             for v in deployed
         ],
     }
+
+
+# ---------------------------------------------------------------------------
+# Tracking — manual data pull (P2.3)
+# ---------------------------------------------------------------------------
+
+@app.post("/api/tracking/pull")
+async def pull_tracking():
+    """Manually trigger performance data pull from Meta/Google."""
+    try:
+        from engine.orchestrator import Orchestrator
+        orch = Orchestrator(store=store)
+        snapshots = orch.tracker.pull_daily()
+        return {
+            "snapshots_created": len(snapshots),
+            "date": date.today().isoformat(),
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Tracking pull failed: {e}")
+
+
+# ---------------------------------------------------------------------------
+# Budget Pacing (P2.5)
+# ---------------------------------------------------------------------------
+
+@app.get("/api/budget/pacing")
+async def budget_pacing():
+    """Current month budget pacing vs target."""
+    from engine.tracking.budget import compute_budget_pacing
+    from config.settings import get_settings
+
+    settings = get_settings()
+    snapshots = store.get_all_snapshots()
+    pacing = compute_budget_pacing(
+        snapshots,
+        monthly_budget=settings.MONTHLY_BUDGET,
+    )
+    return pacing
+
+
+# ---------------------------------------------------------------------------
+# Scheduler & Admin (P2.4)
+# ---------------------------------------------------------------------------
+
+@app.post("/api/admin/run-cycle")
+async def manual_daily_cycle():
+    """Manually trigger the full daily cycle (track → decide → regress → notify)."""
+    import asyncio
+    import json as _json
+
+    async def _run():
+        try:
+            from engine.orchestrator import Orchestrator
+            orch = Orchestrator(store=store)
+            results = orch.run_daily_cycle()
+
+            # Log cycle run
+            cycles_dir = Path("data/cycles")
+            cycles_dir.mkdir(parents=True, exist_ok=True)
+            cycle_path = cycles_dir / f"{date.today().isoformat()}.json"
+            cycle_path.write_text(_json.dumps(results, indent=2, default=str))
+
+            return results
+        except Exception as e:
+            print(f"[CYCLE ERROR] {e}")
+            return {"error": str(e)}
+
+    asyncio.create_task(_run())
+    return {"status": "started", "message": "Daily cycle running in background"}
+
+
+@app.get("/api/admin/cycles")
+async def list_cycles():
+    """View history of daily cycle runs."""
+    import json as _json
+
+    cycles_dir = Path("data/cycles")
+    cycles_dir.mkdir(parents=True, exist_ok=True)
+
+    cycles = []
+    for f in sorted(cycles_dir.glob("*.json"), reverse=True):
+        try:
+            data = _json.loads(f.read_text())
+            cycles.append({
+                "date": f.stem,
+                "results": data,
+            })
+        except Exception:
+            cycles.append({"date": f.stem, "results": {"error": "corrupt file"}})
+
+    return {"cycles": cycles[:30]}  # Last 30 cycles
+
+
+@app.get("/api/admin/config")
+async def get_config_status():
+    """
+    Non-secret config status — which integrations are configured.
+    Does NOT expose actual keys/tokens.
+    """
+    from config.settings import get_settings
+    settings = get_settings()
+
+    return {
+        "meta": {
+            "access_token_set": bool(settings.META_ACCESS_TOKEN),
+            "ad_account_id_set": bool(settings.META_AD_ACCOUNT_ID),
+            "page_id_set": bool(settings.META_PAGE_ID),
+            "farm_campaign_id": settings.META_FARM_CAMPAIGN_ID or "(not set)",
+            "farm_adset_id": settings.META_FARM_ADSET_ID or "(not set)",
+            "scale_campaign_id": settings.META_SCALE_CAMPAIGN_ID or "(not set)",
+            "scale_adset_id": settings.META_SCALE_ADSET_ID or "(not set)",
+        },
+        "google": {
+            "developer_token_set": bool(settings.GOOGLE_ADS_DEVELOPER_TOKEN),
+            "customer_id_set": bool(settings.GOOGLE_ADS_CUSTOMER_ID),
+        },
+        "slack": {
+            "webhook_url_set": bool(settings.SLACK_WEBHOOK_URL),
+            "channel": settings.SLACK_CHANNEL,
+        },
+        "budget": {
+            "monthly_budget": settings.MONTHLY_BUDGET,
+            "daily_limit": settings.DAILY_BUDGET_LIMIT,
+            "alert_high_pct": settings.BUDGET_ALERT_HIGH * 100,
+            "alert_low_pct": settings.BUDGET_ALERT_LOW * 100,
+        },
+    }
+
+
+# ---------------------------------------------------------------------------
+# Scheduler setup (P2.4) — APScheduler for automated daily cycle
+# ---------------------------------------------------------------------------
+
+try:
+    from apscheduler.schedulers.asyncio import AsyncIOScheduler
+    from apscheduler.triggers.cron import CronTrigger
+
+    scheduler = AsyncIOScheduler()
+
+    async def daily_cycle_job():
+        """Run the full daily cycle: track → decide → regress → memory → notify."""
+        import json as _json
+        try:
+            from engine.orchestrator import Orchestrator
+            orch = Orchestrator(store=store)
+            results = orch.run_daily_cycle()
+
+            # Log cycle run
+            cycles_dir = Path("data/cycles")
+            cycles_dir.mkdir(parents=True, exist_ok=True)
+            cycle_path = cycles_dir / f"{date.today().isoformat()}.json"
+            cycle_path.write_text(_json.dumps(results, indent=2, default=str))
+
+            print(f"[SCHEDULER] Daily cycle complete: {results.get('date', 'unknown')}")
+        except Exception as e:
+            print(f"[SCHEDULER ERROR] Daily cycle failed: {e}")
+            # Notify via Slack that the daily cycle failed
+            try:
+                notifier._send(f"⚠️ *Daily cycle failed*\nError: {e}")
+            except Exception:
+                pass
+
+    @app.on_event("startup")
+    async def start_scheduler():
+        scheduler.add_job(
+            daily_cycle_job,
+            CronTrigger(hour=6, minute=0, timezone="US/Pacific"),  # 6am PT
+            id="daily_cycle",
+            replace_existing=True,
+        )
+        scheduler.start()
+        print("[SCHEDULER] Daily cycle scheduled for 6:00 AM PT")
+
+    @app.on_event("shutdown")
+    async def stop_scheduler():
+        scheduler.shutdown(wait=False)
+
+except ImportError:
+    print("[SCHEDULER] APScheduler not installed — daily cycle will not run automatically")
+    print("[SCHEDULER] Install with: pip install apscheduler>=3.10.0")
 
 
 # ---------------------------------------------------------------------------
