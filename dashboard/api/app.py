@@ -686,6 +686,83 @@ async def list_variants(status: Optional[str] = None):
 
 
 # ---------------------------------------------------------------------------
+# Bulk Creative Export
+# ---------------------------------------------------------------------------
+
+@app.get("/api/variants/export")
+async def export_variants(status: str = "approved"):
+    """
+    Download approved (or other status) variants as a ZIP file.
+    ZIP contains PNGs organized by format folder + a copy.csv with metadata.
+    Bridge for manual upload while programmatic deploy is being tested.
+    """
+    import csv
+    import io
+    import zipfile
+
+    variants = store.get_variants_by_status(status)
+
+    buf = io.BytesIO()
+    with zipfile.ZipFile(buf, "w", zipfile.ZIP_DEFLATED) as zf:
+        # Build CSV in memory
+        csv_buf = io.StringIO()
+        writer = csv.writer(csv_buf)
+        writer.writerow([
+            "variant_id", "headline", "body", "cta", "hook_type",
+            "message_type", "tone", "template_id", "format", "asset_file",
+        ])
+
+        for v in variants:
+            # Determine format folder from template_id
+            fmt_folder = "other"
+            if v.template_id:
+                parts = v.template_id.split("/")
+                fmt_folder = parts[0] if parts else "other"
+
+            # Check if the variant has a valid rendered PNG
+            asset_p = Path(v.asset_path) if v.asset_path else None
+            asset_filename = ""
+            if (
+                asset_p is not None
+                and asset_p.suffix in (".png", ".jpg", ".jpeg", ".webp")
+                and asset_p.exists()
+                and asset_p.stat().st_size > 1024
+            ):
+                asset_filename = f"{fmt_folder}/{v.id}{asset_p.suffix}"
+                zf.write(str(asset_p), asset_filename)
+
+            # Extract taxonomy fields
+            hook = v.taxonomy.hook_type if v.taxonomy else ""
+            msg = v.taxonomy.message_type if v.taxonomy else ""
+            tone = v.taxonomy.tone if v.taxonomy else ""
+
+            writer.writerow([
+                v.id,
+                v.headline,
+                v.primary_text,
+                v.cta_button,
+                hook,
+                msg,
+                tone,
+                v.template_id or "",
+                fmt_folder,
+                asset_filename,
+            ])
+
+        zf.writestr("copy.csv", csv_buf.getvalue())
+
+    buf.seek(0)
+    today = date.today().isoformat()
+    return StreamingResponse(
+        buf,
+        media_type="application/zip",
+        headers={
+            "Content-Disposition": f'attachment; filename="{status}_creatives_{today}.zip"'
+        },
+    )
+
+
+# ---------------------------------------------------------------------------
 # Analysis — export, tag, and analyze existing Meta ads
 # ---------------------------------------------------------------------------
 
