@@ -1877,8 +1877,8 @@ async def portfolio_scatter(min_spend: float = 50.0):
             "format": fmt,
             "is_video": fmt in VIDEO_FORMATS,
             "source": "existing",
-            "image_url": ad.thumbnail_url or ad.image_url,
-            "full_image_url": ad.image_url,
+            "image_url": ad.image_url or ad.thumbnail_url,
+            "full_image_url": ad.image_url or ad.thumbnail_url,
             "is_outlier": False,
             "rank": None,
         })
