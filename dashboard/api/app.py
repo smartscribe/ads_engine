@@ -571,24 +571,6 @@ async def get_portfolio_performance():
     }
 
 
-@app.get("/api/performance/{variant_id}")
-async def get_variant_performance(variant_id: str):
-    """Performance data for a specific variant."""
-    try:
-        variant = store.get_variant(variant_id)
-    except FileNotFoundError:
-        raise HTTPException(status_code=404, detail="Variant not found")
-
-    snapshots = store.get_snapshots_for_variant(variant_id)
-    decisions = store.get_decisions_for_variant(variant_id)
-
-    return {
-        "variant": variant.model_dump(),
-        "snapshots": [s.model_dump() for s in snapshots],
-        "decisions": [d.model_dump() for d in decisions],
-    }
-
-
 # ---------------------------------------------------------------------------
 # Performance Dashboard (P1.2)
 # ---------------------------------------------------------------------------
@@ -727,6 +709,24 @@ async def performance_dashboard():
             "best_performer": {"id": best["variant_id"], "headline": best["headline"], "cpfn": best["cpfn"]} if best else None,
             "worst_performer": {"id": worst["variant_id"], "headline": worst["headline"], "cpfn": worst["cpfn"]} if worst else None,
         },
+    }
+
+
+@app.get("/api/performance/{variant_id}")
+async def get_variant_performance(variant_id: str):
+    """Performance data for a specific variant."""
+    try:
+        variant = store.get_variant(variant_id)
+    except FileNotFoundError:
+        raise HTTPException(status_code=404, detail="Variant not found")
+
+    snapshots = store.get_snapshots_for_variant(variant_id)
+    decisions = store.get_decisions_for_variant(variant_id)
+
+    return {
+        "variant": variant.model_dump(),
+        "snapshots": [s.model_dump() for s in snapshots],
+        "decisions": [d.model_dump() for d in decisions],
     }
 
 
@@ -2135,7 +2135,7 @@ try:
     async def start_scheduler():
         scheduler.add_job(
             daily_cycle_job,
-            CronTrigger(hour=6, minute=0, timezone="US/Pacific"),  # 6am PT
+            CronTrigger(hour=6, minute=0, timezone="America/Los_Angeles"),  # 6am PT
             id="daily_cycle",
             replace_existing=True,
         )
