@@ -9,8 +9,8 @@
   "asset_path": "data/creatives/rendered/meta_feed_1df826a3.png",
   "asset_type": "image",
   "asset_status": "pending",
-  "template_id": null,
-  "template_color_scheme": null,
+  "template_id": "feed_1080x1080/stat_callout",
+  "template_color_scheme": "dark",
   "taxonomy": {
     "message_type": "value_prop",
     "hook_type": "statistic",
@@ -128,6 +128,8 @@
     "clear_cta"
   ],
   "review_duration_ms": 3200,
+  "deployment_targets": [],
+  "hypothesis_id": null,
   "meta_ad_id": null,
   "google_ad_id": null
 }

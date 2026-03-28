@@ -398,6 +398,9 @@ async def get_template_preview(variant_id: str):
     Return fully-substituted HTML for a variant's template.
     Embedded in an iframe in the review dashboard so ads display even without
     a rendered screenshot. Fonts and logos are served via /brand/ HTTP paths.
+
+    When a variant has no template_id stored, derives one from its taxonomy
+    using the TemplateSelector so different ads look visually distinct.
     """
     try:
         variant = store.get_variant(variant_id)
@@ -408,8 +411,24 @@ async def get_template_preview(variant_id: str):
     color_scheme = variant.template_color_scheme or "light"
 
     if not template_id:
-        # Fall back to a generic feed template if none is stored on the variant
-        template_id = "feed_1080x1080/headline_hero"
+        # Use TemplateSelector to pick a template based on taxonomy, not a static fallback
+        from engine.generation.template_selector import TemplateSelector
+        selector = TemplateSelector()
+        taxonomy = variant.taxonomy.model_dump() if variant.taxonomy else {}
+        plan = selector.select(taxonomy)
+        template_id = plan.template
+        color_scheme = plan.color_scheme
+
+    # Build extra context for special templates (stat_callout, testimonial, etc.)
+    context = {}
+    if "stat_callout" in template_id:
+        # Try to extract a number from the headline for the stat display
+        import re
+        nums = re.findall(r'\d+', variant.headline or "")
+        context["stat_number"] = nums[0] if nums else "2"
+        context["stat_unit"] = "hours saved\nper day"
+    if "testimonial" in template_id:
+        context["attribution"] = "Behavioral Health Clinician"
 
     try:
         html = _template_renderer.render_to_html(
@@ -419,6 +438,7 @@ async def get_template_preview(variant_id: str):
             template=template_id,
             color_scheme=color_scheme,
             brand_base_url="/brand",
+            context=context,
         )
         return HTMLResponse(content=html)
     except Exception as exc:
@@ -2152,6 +2172,54 @@ except ImportError:
 
 
 # ---------------------------------------------------------------------------
+# Backfill variant visual diversity (assign template + color scheme)
+# ---------------------------------------------------------------------------
+
+def _backfill_variant_templates() -> dict:
+    """
+    Backfill template_id and template_color_scheme on existing variants
+    that have None for these fields. Uses TemplateSelector with batch
+    diversity to assign varied templates and color schemes.
+    """
+    from engine.generation.template_selector import TemplateSelector
+
+    all_variants = store.get_all_variants()
+    needs_backfill = [v for v in all_variants if not v.template_id]
+
+    if not needs_backfill:
+        return {"backfilled": 0, "total": len(all_variants)}
+
+    selector = TemplateSelector()
+
+    # Build copy_variant dicts for the selector
+    copy_variants = []
+    for v in needs_backfill:
+        taxonomy = v.taxonomy.model_dump() if v.taxonomy else {}
+        copy_variants.append({"taxonomy": taxonomy})
+
+    # Use batch selection for diversity
+    plans = selector.select_batch(copy_variants, diversify=True)
+
+    for v, plan in zip(needs_backfill, plans):
+        v.template_id = plan.template
+        v.template_color_scheme = plan.color_scheme
+        store.save_variant(v)
+
+    return {
+        "backfilled": len(needs_backfill),
+        "total": len(all_variants),
+        "templates_assigned": len(set(p.template for p in plans)),
+        "schemes_assigned": len(set(p.color_scheme for p in plans)),
+    }
+
+
+@app.post("/api/assets/backfill-templates")
+async def backfill_templates():
+    """Backfill template_id and template_color_scheme on variants missing them."""
+    return _backfill_variant_templates()
+
+
+# ---------------------------------------------------------------------------
 # Asset health — fix stale paths on startup and on demand
 # ---------------------------------------------------------------------------
 
@@ -2179,10 +2247,18 @@ def _heal_stale_asset_paths() -> dict:
 
 @app.on_event("startup")
 async def startup_heal_assets():
-    """Auto-heal stale asset paths when the server starts."""
+    """Auto-heal stale asset paths and backfill template diversity on startup."""
     result = _heal_stale_asset_paths()
     if result["fixed"] > 0:
         print(f"[startup] Healed {result['fixed']} stale asset paths out of {result['scanned']} variants")
+
+    # Backfill template_id and template_color_scheme for variants missing them
+    backfill = _backfill_variant_templates()
+    if backfill["backfilled"] > 0:
+        print(
+            f"[startup] Backfilled {backfill['backfilled']} variants with diverse templates "
+            f"({backfill['templates_assigned']} templates, {backfill['schemes_assigned']} schemes)"
+        )
 
 
 @app.post("/api/assets/heal")
