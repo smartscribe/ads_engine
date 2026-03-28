@@ -1,0 +1,555 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JotPsych Ads — Regression Insights</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4"></script>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        :root {
+            --bg: #0a0a0a;
+            --surface: #111;
+            --surface2: #161616;
+            --surface3: #1a1a1a;
+            --border: #1e1e1e;
+            --border2: #2a2a2a;
+            --text: #e0e0e0;
+            --text-muted: #888;
+            --text-dim: #555;
+            --green: #22c55e;
+            --green-bg: #22c55e18;
+            --green-border: #22c55e35;
+            --red: #ef4444;
+            --red-bg: #ef444418;
+            --red-border: #ef444435;
+            --blue: #3b82f6;
+            --blue-bg: #3b82f618;
+            --blue-border: #3b82f635;
+            --amber: #f59e0b;
+            --amber-bg: #f59e0b15;
+            --amber-border: #f59e0b35;
+            --gold: #eab308;
+            --gold-bg: #eab30820;
+            --gold-border: #eab30850;
+            --purple: #a855f7;
+            --purple-bg: #a855f718;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Inter', sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        /* NAV */
+        .nav {
+            display: flex; align-items: center; padding: 0 32px;
+            border-bottom: 1px solid var(--border); height: 52px; flex-shrink: 0;
+        }
+        .nav-brand {
+            font-size: 13px; font-weight: 700; color: #fff;
+            letter-spacing: 0.04em; margin-right: 32px; white-space: nowrap;
+        }
+        .nav-tabs { display: flex; gap: 0; flex: 1; }
+        .nav-tab {
+            padding: 0 18px; height: 52px; display: flex; align-items: center;
+            font-size: 13px; color: var(--text-muted); cursor: pointer;
+            border-bottom: 2px solid transparent; transition: color 0.15s, border-color 0.15s;
+            white-space: nowrap; user-select: none; text-decoration: none;
+        }
+        .nav-tab:hover { color: var(--text); }
+        .nav-tab.active { color: #fff; border-bottom-color: var(--blue); }
+
+        .content { flex: 1; padding: 24px 32px; overflow-y: auto; }
+
+        /* Model health card */
+        .health-card {
+            background: var(--surface); border: 1px solid var(--border);
+            border-radius: 10px; padding: 20px 24px; margin-bottom: 24px;
+        }
+        .health-card h3 {
+            font-size: 14px; font-weight: 600; margin-bottom: 12px;
+            display: flex; align-items: center; gap: 8px;
+        }
+        .health-grid {
+            display: grid; grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+            gap: 12px;
+        }
+        .health-stat {
+            text-align: center;
+        }
+        .health-stat .val { font-size: 20px; font-weight: 600; }
+        .health-stat .lbl { font-size: 11px; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.04em; margin-top: 2px; }
+
+        /* Trust badge */
+        .trust-badge {
+            display: inline-block; padding: 3px 10px; border-radius: 10px;
+            font-size: 11px; font-weight: 600;
+        }
+        .trust-badge.reliable { background: var(--green-bg); color: var(--green); border: 1px solid var(--green-border); }
+        .trust-badge.fallback { background: var(--amber-bg); color: var(--amber); border: 1px solid var(--amber-border); }
+        .trust-badge.none { background: var(--red-bg); color: var(--red); border: 1px solid var(--red-border); }
+
+        /* Tier badge */
+        .tier-badge {
+            display: inline-block; padding: 2px 8px; border-radius: 10px;
+            font-size: 10px; font-weight: 600; text-transform: uppercase;
+        }
+        .tier-badge.high { background: var(--gold-bg); color: var(--gold); border: 1px solid var(--gold-border); }
+        .tier-badge.moderate { background: var(--blue-bg); color: var(--blue); border: 1px solid var(--blue-border); }
+        .tier-badge.directional { background: var(--surface2); color: var(--text-muted); border: 1px solid var(--border2); }
+        .tier-badge.unreliable { background: var(--red-bg); color: var(--red); border: 1px solid var(--red-border); }
+
+        /* Sections */
+        .section { margin-bottom: 32px; }
+        .section-header {
+            display: flex; align-items: center; justify-content: space-between;
+            margin-bottom: 16px;
+        }
+        .section-header h2 { font-size: 16px; font-weight: 600; }
+        .toggle-btn {
+            padding: 4px 12px; border-radius: 6px; border: 1px solid var(--border2);
+            background: var(--surface); color: var(--text-muted); font-size: 11px;
+            cursor: pointer; transition: all 0.15s;
+        }
+        .toggle-btn:hover { border-color: var(--blue); color: var(--blue); }
+        .toggle-btn.active { border-color: var(--blue); color: var(--blue); background: var(--blue-bg); }
+
+        /* Chart container */
+        .chart-container {
+            background: var(--surface); border: 1px solid var(--border);
+            border-radius: 10px; padding: 20px; position: relative;
+        }
+
+        /* Tier counts */
+        .tier-counts {
+            display: flex; gap: 12px; margin-bottom: 12px;
+        }
+        .tier-count {
+            font-size: 12px; display: flex; align-items: center; gap: 4px;
+        }
+
+        /* Fatigue alerts */
+        .fatigue-list { display: flex; flex-direction: column; gap: 10px; }
+        .fatigue-item {
+            background: var(--surface); border: 1px solid var(--border);
+            border-radius: 8px; padding: 14px 18px;
+            display: flex; align-items: center; gap: 16px;
+        }
+        .fatigue-delta {
+            font-size: 18px; font-weight: 700; min-width: 60px; text-align: center;
+        }
+        .fatigue-delta.declining { color: var(--red); }
+        .fatigue-delta.improving { color: var(--green); }
+        .fatigue-info { flex: 1; }
+        .fatigue-info .feature { font-weight: 600; font-size: 13px; }
+        .fatigue-info .rec { font-size: 12px; color: var(--text-muted); margin-top: 2px; }
+
+        /* Playbook rules */
+        .rules-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(380px, 1fr)); gap: 14px; }
+        .rule-card {
+            background: var(--surface); border: 1px solid var(--border);
+            border-radius: 10px; padding: 18px 20px;
+        }
+        .rule-card .rule-header {
+            display: flex; align-items: center; gap: 8px; margin-bottom: 8px;
+        }
+        .rule-card .rule-direction {
+            font-size: 16px;
+        }
+        .rule-card .rule-text { font-size: 14px; font-weight: 500; line-height: 1.5; margin-bottom: 10px; }
+        .rule-examples { font-size: 12px; color: var(--text-muted); }
+        .rule-examples .good { color: var(--green); }
+        .rule-examples .bad { color: var(--red); }
+        .rule-examples p { margin: 3px 0; }
+
+        /* Format comparison */
+        .format-comparison {
+            background: var(--surface); border: 1px solid var(--border);
+            border-radius: 10px; padding: 20px; display: flex; gap: 24px; align-items: center;
+        }
+        .format-block { flex: 1; text-align: center; }
+        .format-block .fmt-label { font-size: 12px; color: var(--text-muted); text-transform: uppercase; margin-bottom: 4px; }
+        .format-block .fmt-value { font-size: 28px; font-weight: 700; }
+        .format-vs { font-size: 14px; color: var(--text-dim); font-weight: 600; }
+        .format-pvalue { font-size: 12px; color: var(--text-muted); text-align: center; margin-top: 8px; }
+
+        /* Empty state */
+        .empty-state {
+            text-align: center; padding: 80px 24px; color: var(--text-muted);
+        }
+        .empty-state h2 { font-size: 18px; font-weight: 600; margin-bottom: 8px; color: var(--text); }
+        .empty-state p { font-size: 14px; max-width: 480px; margin: 0 auto; }
+    </style>
+</head>
+<body>
+
+<nav class="nav">
+    <span class="nav-brand">JotPsych Ads</span>
+    <div class="nav-tabs">
+        <a class="nav-tab" href="/dashboard/pages/review.html">Review</a>
+        <a class="nav-tab" href="/dashboard/pages/portfolio.html">Portfolio</a>
+        <a class="nav-tab" href="/dashboard/pages/hypotheses.html">Hypotheses</a>
+        <a class="nav-tab" href="/dashboard/pages/performance.html">Performance</a>
+        <a class="nav-tab active" href="/dashboard/pages/insights.html">Insights</a>
+    </div>
+</nav>
+
+<div class="content" id="mainContent">
+    <!-- Model Health -->
+    <div class="health-card" id="healthCard" style="display:none;">
+        <h3>
+            Model Health
+            <span class="trust-badge" id="trustBadge"></span>
+        </h3>
+        <div class="health-grid" id="healthGrid"></div>
+    </div>
+
+    <!-- Coefficient Chart -->
+    <div class="section" id="coeffSection" style="display:none;">
+        <div class="section-header">
+            <h2>Creative Element Impact on CpFN</h2>
+            <button class="toggle-btn" id="tierToggle" onclick="toggleReliableOnly()">Show All</button>
+        </div>
+        <div class="tier-counts" id="tierCounts"></div>
+        <div class="chart-container">
+            <canvas id="coeffChart"></canvas>
+        </div>
+    </div>
+
+    <!-- Fatigue Alerts -->
+    <div class="section" id="fatigueSection" style="display:none;">
+        <div class="section-header">
+            <h2>Fatigue Alerts</h2>
+        </div>
+        <div class="fatigue-list" id="fatigueList"></div>
+    </div>
+
+    <!-- Format Comparison -->
+    <div class="section" id="formatSection" style="display:none;">
+        <div class="section-header">
+            <h2>Format Comparison</h2>
+        </div>
+        <div class="format-comparison" id="formatComparison"></div>
+    </div>
+
+    <!-- Playbook Rules -->
+    <div class="section" id="rulesSection" style="display:none;">
+        <div class="section-header">
+            <h2>Playbook Rules</h2>
+        </div>
+        <div class="rules-grid" id="rulesGrid"></div>
+    </div>
+
+    <!-- Empty state -->
+    <div class="empty-state" id="emptyState">
+        <h2>No regression data yet</h2>
+        <p>The regression model needs performance data from deployed ads to generate insights. Export and tag historical ads first, or deploy engine-generated variants.</p>
+    </div>
+</div>
+
+<script>
+let allCoefficients = [];
+let showReliableOnly = true;
+let coeffChart = null;
+
+async function loadInsights() {
+    try {
+        const [coeffResp, fatigueResp, formatResp, rulesResp] = await Promise.all([
+            fetch('/api/regression/coefficients'),
+            fetch('/api/regression/fatigue'),
+            fetch('/api/analysis/format-comparison').catch(() => ({ ok: false })),
+            fetch('/api/regression/playbook-rules'),
+        ]);
+
+        const coeffData = await coeffResp.json();
+        const fatigueData = await fatigueResp.json();
+        let formatData = null;
+        if (formatResp.ok) {
+            try { formatData = await formatResp.json(); } catch(e) {}
+        }
+        const rulesData = await rulesResp.json();
+
+        if (!coeffData.coefficients || coeffData.coefficients.length === 0) {
+            document.getElementById('emptyState').style.display = 'block';
+            return;
+        }
+        document.getElementById('emptyState').style.display = 'none';
+
+        // Model Health
+        if (coeffData.model_health) {
+            renderModelHealth(coeffData.model_health);
+        }
+
+        // Coefficients
+        allCoefficients = coeffData.coefficients;
+        renderTierCounts(coeffData.tier_counts);
+        renderCoeffChart();
+        document.getElementById('coeffSection').style.display = 'block';
+
+        // Fatigue
+        if (fatigueData.alerts && fatigueData.alerts.length > 0) {
+            renderFatigueAlerts(fatigueData.alerts);
+            document.getElementById('fatigueSection').style.display = 'block';
+        }
+
+        // Format Comparison
+        if (formatData && !formatData.detail) {
+            renderFormatComparison(formatData);
+            document.getElementById('formatSection').style.display = 'block';
+        }
+
+        // Playbook Rules
+        if (rulesData.rules && rulesData.rules.length > 0) {
+            renderPlaybookRules(rulesData.rules);
+            document.getElementById('rulesSection').style.display = 'block';
+        }
+
+    } catch (e) {
+        console.error('Failed to load insights:', e);
+    }
+}
+
+function renderModelHealth(health) {
+    const card = document.getElementById('healthCard');
+    card.style.display = 'block';
+
+    // Trust badge
+    const badge = document.getElementById('trustBadge');
+    if (health.test_r_squared !== null && health.test_r_squared >= 0.15) {
+        badge.textContent = 'Coefficients Reliable';
+        badge.className = 'trust-badge reliable';
+    } else if (health.test_r_squared !== null) {
+        badge.textContent = 'Fallback to Editorial';
+        badge.className = 'trust-badge fallback';
+    } else {
+        badge.textContent = 'No Validation Run';
+        badge.className = 'trust-badge none';
+    }
+
+    const grid = document.getElementById('healthGrid');
+    const stats = [
+        { val: health.r_squared?.toFixed(3) || '—', lbl: 'R²' },
+        { val: health.adjusted_r_squared?.toFixed(3) || '—', lbl: 'Adj R²' },
+        { val: health.test_r_squared !== null ? health.test_r_squared.toFixed(3) : '—', lbl: 'Test R²' },
+        { val: health.n_observations || '—', lbl: 'Observations' },
+        { val: health.n_features || '—', lbl: 'Features' },
+        { val: health.sample_ratio || '—', lbl: 'Sample Ratio' },
+        { val: health.durbin_watson?.toFixed(2) || '—', lbl: 'Durbin-Watson' },
+        { val: health.condition_number < 10000 ? health.condition_number?.toFixed(0) : health.condition_number?.toExponential(1) || '—', lbl: 'Condition #' },
+    ];
+
+    grid.innerHTML = stats.map(s => `
+        <div class="health-stat">
+            <div class="val">${s.val}</div>
+            <div class="lbl">${s.lbl}</div>
+        </div>
+    `).join('');
+}
+
+function renderTierCounts(counts) {
+    const el = document.getElementById('tierCounts');
+    el.innerHTML = `
+        <div class="tier-count"><span class="tier-badge high">HIGH</span> ${counts.high || 0}</div>
+        <div class="tier-count"><span class="tier-badge moderate">MODERATE</span> ${counts.moderate || 0}</div>
+        <div class="tier-count"><span class="tier-badge directional">DIRECTIONAL</span> ${counts.directional || 0}</div>
+        <div class="tier-count"><span class="tier-badge unreliable">UNRELIABLE</span> ${counts.unreliable || 0}</div>
+    `;
+}
+
+function renderCoeffChart() {
+    let data = allCoefficients;
+    if (showReliableOnly) {
+        data = data.filter(c => c.confidence_tier === 'high' || c.confidence_tier === 'moderate');
+    }
+
+    // Take top 25 by absolute magnitude
+    data = data.slice(0, 25);
+
+    // Reverse for horizontal bar (top item should be at top)
+    data = data.reverse();
+
+    const labels = data.map(c => c.label);
+    const values = data.map(c => c.coefficient);
+
+    const tierColors = {
+        high: '#eab308',
+        moderate: '#3b82f6',
+        directional: '#888888',
+        unreliable: '#ef4444',
+    };
+
+    const bgColors = data.map(c => {
+        if (c.coefficient < 0) return 'rgba(34, 197, 94, 0.7)';  // green = good
+        return 'rgba(239, 68, 68, 0.7)';  // red = bad
+    });
+
+    const borderColors = data.map(c => {
+        return tierColors[c.confidence_tier] || '#555';
+    });
+
+    if (coeffChart) coeffChart.destroy();
+
+    const ctx = document.getElementById('coeffChart').getContext('2d');
+    coeffChart = new Chart(ctx, {
+        type: 'bar',
+        data: {
+            labels,
+            datasets: [{
+                data: values,
+                backgroundColor: bgColors,
+                borderColor: borderColors,
+                borderWidth: 2,
+            }],
+        },
+        options: {
+            indexAxis: 'y',
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: {
+                legend: { display: false },
+                tooltip: {
+                    callbacks: {
+                        label: (ctx) => {
+                            const c = data[ctx.dataIndex];
+                            const dir = c.coefficient < 0 ? 'lowers' : 'increases';
+                            return `${dir} CpFN by $${Math.abs(c.coefficient).toFixed(2)} (${c.confidence_tier})`;
+                        },
+                        afterLabel: (ctx) => {
+                            const c = data[ctx.dataIndex];
+                            let lines = [`p-value: ${c.p_value.toFixed(4)}`];
+                            if (c.bootstrap_ci) {
+                                lines.push(`95% CI: [${c.bootstrap_ci.lower.toFixed(2)}, ${c.bootstrap_ci.upper.toFixed(2)}]`);
+                            }
+                            return lines;
+                        },
+                    },
+                },
+            },
+            scales: {
+                x: {
+                    grid: { color: '#1e1e1e' },
+                    ticks: { color: '#888', font: { size: 11 } },
+                    title: { display: true, text: '← Lowers CpFN (Good)          Increases CpFN (Bad) →', color: '#555', font: { size: 11 } },
+                },
+                y: {
+                    grid: { display: false },
+                    ticks: { color: '#ccc', font: { size: 11 } },
+                },
+            },
+        },
+    });
+
+    // Set chart height based on number of bars
+    const chartEl = document.getElementById('coeffChart');
+    chartEl.style.height = Math.max(300, data.length * 28 + 60) + 'px';
+}
+
+function toggleReliableOnly() {
+    showReliableOnly = !showReliableOnly;
+    const btn = document.getElementById('tierToggle');
+    if (showReliableOnly) {
+        btn.textContent = 'Show All';
+        btn.classList.remove('active');
+    } else {
+        btn.textContent = 'Reliable Only';
+        btn.classList.add('active');
+    }
+    renderCoeffChart();
+}
+
+function renderFatigueAlerts(alerts) {
+    const el = document.getElementById('fatigueList');
+    el.innerHTML = alerts.map(a => {
+        const isDecline = a.delta_pct > 0;
+        const arrow = isDecline ? '↘' : '↗';
+        const cls = isDecline ? 'declining' : 'improving';
+        return `
+            <div class="fatigue-item">
+                <div class="fatigue-delta ${cls}">${arrow} ${Math.abs(a.delta_pct).toFixed(0)}%</div>
+                <div class="fatigue-info">
+                    <div class="feature">${a.label}</div>
+                    <div class="rec">${a.recommendation} · ${a.deployments} deployments · Current coeff: ${a.current_coefficient.toFixed(2)} vs historical: ${a.historical_avg.toFixed(2)}</div>
+                </div>
+            </div>
+        `;
+    }).join('');
+}
+
+function renderFormatComparison(data) {
+    const el = document.getElementById('formatComparison');
+
+    const videoData = data.video || data.groups?.video;
+    const staticData = data.static || data.groups?.static;
+
+    if (!videoData && !staticData) {
+        el.innerHTML = '<p style="color:var(--text-muted);">Insufficient data for format comparison.</p>';
+        return;
+    }
+
+    const videoCpfn = videoData?.mean_cpfn || videoData?.avg_cpfn || 0;
+    const staticCpfn = staticData?.mean_cpfn || staticData?.avg_cpfn || 0;
+    const pValue = data.t_test_p_value || data.p_value || null;
+    const delta = data.delta_pct || (staticCpfn > 0 ? ((videoCpfn - staticCpfn) / staticCpfn * 100) : 0);
+
+    el.innerHTML = `
+        <div class="format-block">
+            <div class="fmt-label">Video</div>
+            <div class="fmt-value" style="color:${videoCpfn < staticCpfn ? 'var(--green)' : 'var(--red)'}">$${videoCpfn.toFixed(0)}</div>
+            <div style="font-size:11px;color:var(--text-muted);">${videoData?.count || videoData?.n || '?'} ads</div>
+        </div>
+        <div class="format-vs">vs</div>
+        <div class="format-block">
+            <div class="fmt-label">Static</div>
+            <div class="fmt-value" style="color:${staticCpfn < videoCpfn ? 'var(--green)' : 'var(--red)'}">$${staticCpfn.toFixed(0)}</div>
+            <div style="font-size:11px;color:var(--text-muted);">${staticData?.count || staticData?.n || '?'} ads</div>
+        </div>
+        <div class="format-block" style="min-width:120px;">
+            <div class="fmt-label">Delta</div>
+            <div class="fmt-value" style="font-size:20px;color:${delta < 0 ? 'var(--green)' : 'var(--red)'}">${delta > 0 ? '+' : ''}${delta.toFixed(0)}%</div>
+            ${pValue !== null ? `<div style="font-size:11px;color:var(--text-muted);">p = ${pValue.toFixed(4)}</div>` : ''}
+        </div>
+    `;
+}
+
+function renderPlaybookRules(rules) {
+    const el = document.getElementById('rulesGrid');
+    el.innerHTML = rules.map(r => {
+        const icon = r.direction === 'use_more' ? '✅' : '🚫';
+        const tierClass = r.confidence || 'moderate';
+
+        let examplesHtml = '';
+        if (r.good_examples && r.good_examples.length > 0) {
+            examplesHtml += r.good_examples.slice(0, 2).map(e =>
+                `<p class="good">✓ "${e}"</p>`
+            ).join('');
+        }
+        if (r.bad_examples && r.bad_examples.length > 0) {
+            examplesHtml += r.bad_examples.slice(0, 2).map(e =>
+                `<p class="bad">✗ "${e}"</p>`
+            ).join('');
+        }
+
+        return `
+            <div class="rule-card">
+                <div class="rule-header">
+                    <span class="rule-direction">${icon}</span>
+                    <span class="tier-badge ${tierClass}">${tierClass}</span>
+                </div>
+                <div class="rule-text">${r.rule}</div>
+                ${examplesHtml ? `<div class="rule-examples">${examplesHtml}</div>` : ''}
+            </div>
+        `;
+    }).join('');
+}
+
+// Init
+loadInsights();
+</script>
+</body>
+</html>

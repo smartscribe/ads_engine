@@ -875,6 +875,129 @@ async def get_regression_insights():
     return playbook
 
 
+@app.get("/api/regression/coefficients")
+async def regression_coefficients():
+    """
+    Return all regression coefficients with human-readable names,
+    confidence tiers, bootstrap CIs, and directional indicators.
+    Used by the insights dashboard for the coefficient bar chart.
+    """
+    from engine.memory.playbook_translator import FEATURE_DESCRIPTIONS
+
+    latest = store.get_latest_regression()
+    if not latest:
+        return {"coefficients": [], "model_health": None}
+
+    coefficients = []
+    for feature, coeff in latest.coefficients.items():
+        tier = latest.confidence_tiers.get(feature, "unreliable")
+        p_val = latest.p_values.get(feature, 1.0)
+        ci = latest.bootstrap_ci.get(feature)
+        stability = latest.coefficient_stability.get(feature)
+
+        coefficients.append({
+            "feature": feature,
+            "label": FEATURE_DESCRIPTIONS.get(feature, feature.replace("_", " ").title()),
+            "coefficient": round(coeff, 4),
+            "p_value": round(p_val, 6),
+            "confidence_tier": tier,
+            "bootstrap_ci": {
+                "point": round(ci[0], 4),
+                "lower": round(ci[1], 4),
+                "upper": round(ci[2], 4),
+            } if ci else None,
+            "stability_std": round(stability, 4) if stability is not None else None,
+            "direction": "good" if coeff < 0 else "bad",  # negative coeff = lower CpFN = good
+        })
+
+    # Sort by absolute magnitude descending
+    coefficients.sort(key=lambda c: abs(c["coefficient"]), reverse=True)
+
+    model_health = {
+        "r_squared": round(latest.r_squared, 4),
+        "adjusted_r_squared": round(latest.adjusted_r_squared, 4),
+        "test_r_squared": round(latest.test_r_squared, 4) if latest.test_r_squared is not None else None,
+        "n_observations": latest.n_observations,
+        "n_features": len(latest.coefficients),
+        "durbin_watson": round(latest.durbin_watson, 4),
+        "condition_number": round(latest.condition_number, 2),
+        "sample_ratio": round(latest.n_observations / max(len(latest.coefficients), 1), 2),
+        "overfit_risk": latest.n_observations < len(latest.coefficients) * 5,
+        "run_date": latest.run_date.isoformat(),
+    }
+
+    return {
+        "coefficients": coefficients,
+        "model_health": model_health,
+        "tier_counts": {
+            "high": len([c for c in coefficients if c["confidence_tier"] == "high"]),
+            "moderate": len([c for c in coefficients if c["confidence_tier"] == "moderate"]),
+            "directional": len([c for c in coefficients if c["confidence_tier"] == "directional"]),
+            "unreliable": len([c for c in coefficients if c["confidence_tier"] == "unreliable"]),
+        },
+    }
+
+
+@app.get("/api/regression/playbook-rules")
+async def regression_playbook_rules():
+    """
+    Return translated playbook rules (natural language generation instructions).
+    """
+    from engine.memory.playbook_translator import PlaybookTranslator
+
+    latest = store.get_latest_regression()
+    if not latest:
+        return {"rules": [], "status": "no_regression_data"}
+
+    try:
+        translator = PlaybookTranslator(store)
+        rules = translator.translate(latest)
+        return {
+            "rules": [
+                {
+                    "feature": r.feature,
+                    "direction": r.direction,
+                    "confidence": r.confidence,
+                    "rule": r.rule,
+                    "good_examples": r.good_examples,
+                    "bad_examples": getattr(r, "bad_examples", []),
+                }
+                for r in rules
+            ],
+            "count": len(rules),
+        }
+    except Exception as e:
+        return {"rules": [], "status": f"translation_error: {e}"}
+
+
+@app.get("/api/regression/fatigue")
+async def regression_fatigue():
+    """
+    Return fatigue alerts from memory — features whose recent coefficients
+    are degrading compared to historical performance.
+    """
+    memory = store.load_memory_v2()
+    if not memory:
+        return {"alerts": []}
+
+    from engine.memory.playbook_translator import FEATURE_DESCRIPTIONS
+
+    alerts = []
+    if hasattr(memory, 'statistical') and hasattr(memory.statistical, 'fatiguing_patterns'):
+        for alert in memory.statistical.fatiguing_patterns:
+            alerts.append({
+                "feature": alert.feature,
+                "label": FEATURE_DESCRIPTIONS.get(alert.feature, alert.feature.replace("_", " ").title()),
+                "current_coefficient": round(alert.current_coefficient, 4),
+                "historical_avg": round(alert.historical_avg, 4),
+                "delta_pct": round(alert.delta_pct, 2),
+                "deployments": alert.deployments,
+                "recommendation": alert.recommendation,
+            })
+
+    return {"alerts": alerts}
+
+
 # ---------------------------------------------------------------------------
 # Variants
 # ---------------------------------------------------------------------------
