@@ -9,8 +9,8 @@
   "asset_path": "data/creatives/rendered/meta_feed_d8cd2216.png",
   "asset_type": "image",
   "asset_status": "pending",
-  "template_id": null,
-  "template_color_scheme": null,
+  "template_id": "feed_1080x1080/testimonial",
+  "template_color_scheme": "accent",
   "taxonomy": {
     "message_type": "pain_point",
     "hook_type": "statistic",
@@ -125,6 +125,8 @@
   "reviewed_at": null,
   "review_chips": [],
   "review_duration_ms": 0,
+  "deployment_targets": [],
+  "hypothesis_id": null,
   "meta_ad_id": null,
   "google_ad_id": null
 }

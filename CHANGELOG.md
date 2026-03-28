@@ -29,6 +29,14 @@ Each entry includes:
 ---
 
 ### 2026-03-28 — Agent
+**Fix ad gallery sameness: backfill existing variants + fix preview endpoint**
+
+- `dashboard/api/app.py` — Template preview endpoint (`GET /api/template-preview/{variant_id}`) now uses TemplateSelector to derive template from taxonomy when `template_id` is None, instead of static fallback to headline_hero/light. Includes context injection for stat_callout (extracts numbers from headline) and testimonial templates. New `_backfill_variant_templates()` runs on server startup: assigns diverse templates to all variants missing `template_id` via `TemplateSelector.select_batch(diversify=True)`. New `POST /api/assets/backfill-templates` endpoint for manual re-runs
+- Result: 198 existing variants now evenly distributed across 4 templates (headline_hero/split_screen/stat_callout/testimonial ~50 each) × 4 color schemes (light/warm/dark/accent ~50 each). Gallery now shows visually distinct ads
+
+---
+
+### 2026-03-28 — Agent
 **Fix ad visual diversity: all 198 variants looked identical due to hardcoded taxonomy**
 
 - `engine/generation/generator.py` — Root cause: `generate_copy_v2()` hardcoded `visual_style="photography"`, `color_mood="brand_primary"`, `subject_matter="clinician_at_work"` for every variant (96% photography, 90% brand_primary). New `_assign_visual_taxonomy()` function maps hook_type to visual_style+subject_matter (statistic→text_heavy+data_viz, scenario→photography+patient_interaction, question→mixed_media+conceptual, etc.), rotates color_mood round-robin across batch through all 6 values, derives text_density from actual copy length, and cycles through alternate styles when same hook appears multiple times. Also: `generate_assets_from_selector()` now returns `(path, TemplatePlan)` tuples; `generate_with_templates()` sets `template_id` and `template_color_scheme` on every AdVariant (was always None)
