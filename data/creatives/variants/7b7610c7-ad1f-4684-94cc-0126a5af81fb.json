@@ -34,6 +34,7 @@
     "human_face_visible": false,
     "social_proof_type": "none",
     "copy_length_bin": "medium",
+    "asset_source": "template",
     "tagging_confidence": {},
     "VALID_VALUES": {
       "message_type": [
@@ -117,15 +118,14 @@
         "medium",
         "long"
       ]
-    },
-    "asset_source": "template"
+    }
   },
-  "status": "draft",
+  "status": "approved",
   "review_notes": null,
-  "reviewer": null,
-  "reviewed_at": null,
+  "reviewer": "nate",
+  "reviewed_at": "2026-03-28T04:48:29.862521",
   "review_chips": [],
-  "review_duration_ms": 0,
+  "review_duration_ms": 26853,
   "deployment_targets": [],
   "hypothesis_id": null,
   "meta_ad_id": null,

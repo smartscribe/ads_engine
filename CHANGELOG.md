@@ -19,6 +19,17 @@ Each entry includes:
 ## Log
 
 ### 2026-03-28 — Agent
+**Tighten AI image pipeline: photorealism prompts, validation, regression tracking**
+
+- `engine/generation/image_generator.py` — Complete rewrite of scene prompts with structured format: photorealism anchor ("shot on Sony A7III, 35mm lens, f/2.8"), safe zone instructions (top 20% and bottom 25% must have dark/neutral background for text overlay), structured prompt format (camera angle → subject → environment → lighting → mood), and negative prompts (no text, no letters, no watermarks, no distorted anatomy). New `_validate_image()` validates magic bytes (PNG/JPEG), minimum file size (50KB), and dimensions (512×512+) before saving
+- `engine/models.py` — Added `asset_source: str = "template"` field to `CreativeTaxonomy` with valid values `["template", "ai_generated"]`. This is a regression feature: the model can now measure whether AI-generated backgrounds drive better or worse CpFN than Playwright templates
+- `engine/regression/model.py` — Added `asset_source` to `_taxonomy_row()` for one-hot encoding in regression
+- `engine/generation/generator.py` — Sets `asset_source` on taxonomy based on template type (image_overlay = ai_generated, everything else = template)
+- Re-rendered all 43 drafts: 35 template-rendered + 8 AI-generated backgrounds (all passed validation). Asset sources tracked for regression
+
+---
+
+### 2026-03-28 — Agent
 **Major ad diversity: Gemini Imagen AI backgrounds, logo fix, portfolio images**
 
 - `engine/generation/image_generator.py` — New module. Uses Gemini Imagen 4.0 (`imagen-4.0-generate-001`) to generate diverse background scenes mapped to hook types (statistic→therapy desk at golden hour, question→crumpled sticky note, testimonial→therapy room interior, etc.). 18 distinct scene prompts across 6 hook types with rotation. Batch generation with caching to control API costs
