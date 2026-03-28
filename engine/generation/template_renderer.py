@@ -40,6 +40,7 @@ TEMPLATE_SIZES = {
     "feed_1080x1080/split_screen": (1080, 1080),
     "feed_1080x1080/stat_callout": (1080, 1080),
     "feed_1080x1080/testimonial": (1080, 1080),
+    "feed_1080x1080/image_overlay": (1080, 1080),
     "story_1080x1920/full_bleed": (1080, 1920),
     "story_1080x1920/swipe_up": (1080, 1920),
     "display_1200x628/responsive": (1200, 628),

@@ -299,6 +299,7 @@ class TemplateSelector:
                 "feed_1080x1080/split_screen",
                 "feed_1080x1080/stat_callout",
                 "feed_1080x1080/testimonial",
+                "feed_1080x1080/image_overlay",
             ]
         elif template.startswith("story_1080x1920/"):
             return [

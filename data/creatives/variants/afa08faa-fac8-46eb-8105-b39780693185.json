@@ -6,11 +6,11 @@
   "primary_text": "You're drowning in documentation, and it's not your fault. The system asks you to spend 15+ hours weekly on paperwork while seeing patients full-time. JotPsych gives you those hours back. AI-generated notes. Audit-ready documentation. Used by 10,000+ clinicians who refused to accept burnout as normal.",
   "description": "",
   "cta_button": "Learn More",
-  "asset_path": "data/creatives/rendered/feed_1080x1080_split_screen_5ef86b9d.png",
+  "asset_path": "data/creatives/rendered/feed_1080x1080_split_screen_7cd5a168.png",
   "asset_type": "image",
   "asset_status": "pending",
   "template_id": "feed_1080x1080/split_screen",
-  "template_color_scheme": "warm",
+  "template_color_scheme": "dark",
   "taxonomy": {
     "message_type": "pain_point",
     "hook_type": "statistic",
@@ -117,7 +117,8 @@
         "medium",
         "long"
       ]
-    }
+    },
+    "asset_source": "template"
   },
   "status": "draft",
   "review_notes": null,

@@ -350,6 +350,52 @@ Formats: {[f.value for f in brief.formats_requested]}
             generation_context=generation_context,
         )
 
+    def _generate_ai_backgrounds(
+        self,
+        copy_variants: list[dict],
+        plans: list,
+    ) -> dict[int, str]:
+        """
+        Generate AI background images for variants using the image_overlay template.
+        Returns a dict mapping variant index → background image path.
+        Only generates for variants that actually use the image_overlay template.
+        """
+        overlay_indices = [
+            i for i, plan in enumerate(plans)
+            if plan.template == "feed_1080x1080/image_overlay"
+        ]
+
+        if not overlay_indices:
+            return {}
+
+        try:
+            from engine.generation.image_generator import AIImageGenerator
+            ai_gen = AIImageGenerator()
+        except Exception as e:
+            print(f"[generator] AI image generator unavailable: {e}")
+            # Fall back: switch these variants to headline_hero
+            for i in overlay_indices:
+                plans[i].template = "feed_1080x1080/headline_hero"
+            return {}
+
+        hook_types = [
+            copy_variants[i].get("taxonomy", {}).get("hook_type", "direct_benefit")
+            for i in overlay_indices
+        ]
+
+        print(f"[generator] Generating {len(hook_types)} AI background images...")
+        paths = ai_gen.generate_batch(hook_types, max_images=min(len(hook_types), 8))
+
+        result = {}
+        for idx, (overlay_idx, path) in enumerate(zip(overlay_indices, paths)):
+            if path:
+                result[overlay_idx] = path
+            else:
+                # Fallback: switch this variant to headline_hero if AI gen failed
+                plans[overlay_idx].template = "feed_1080x1080/headline_hero"
+
+        return result
+
     def generate_assets_from_template(
         self,
         brief: CreativeBrief,
@@ -423,11 +469,20 @@ Formats: {[f.value for f in brief.formats_requested]}
             diversify=True,
         )
 
+        # Generate AI background images for variants using image_overlay template
+        ai_backgrounds = self._generate_ai_backgrounds(copy_variants, plans)
+
         results = []
-        for variant, plan in zip(copy_variants, plans):
+        for i, (variant, plan) in enumerate(zip(copy_variants, plans)):
             headline = variant.get("headline", "")
             body = variant.get("primary_text", "")
             cta = variant.get("cta_button", "Learn More")
+
+            # If this variant uses image_overlay, inject the AI background
+            context = dict(plan.context) if plan.context else {}
+            if plan.template == "feed_1080x1080/image_overlay" and ai_backgrounds.get(i):
+                bg_path = Path(ai_backgrounds[i]).resolve()
+                context["background_image"] = f"file://{bg_path}"
 
             try:
                 path = renderer.render(
@@ -436,7 +491,7 @@ Formats: {[f.value for f in brief.formats_requested]}
                     cta=cta,
                     template=plan.template,
                     color_scheme=plan.color_scheme,
-                    context=plan.context,
+                    context=context,
                 )
                 results.append((path, plan))
             except Exception as e:
@@ -522,11 +577,16 @@ Formats: {[f.value for f in brief.formats_requested]}
         for copy_data, (asset_path, plan) in zip(copy_variants, asset_results):
             tax_data = copy_data["taxonomy"]
 
+            # Determine asset_source for regression tracking
+            is_ai = plan and plan.template == "feed_1080x1080/image_overlay"
+            asset_source = "ai_generated" if is_ai else "template"
+
             taxonomy = CreativeTaxonomy(
                 **tax_data,
                 format=primary_fmt,
                 platform=primary_platform,
                 placement="feed",
+                asset_source=asset_source,
             )
 
             variant = AdVariant(
