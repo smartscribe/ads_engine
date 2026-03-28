@@ -18,6 +18,23 @@ Each entry includes:
 
 ## Log
 
+### 2026-03-28 — Agent
+**Production readiness: P0 bug fix, P1 dashboard features, P2 feedback loop**
+
+- `dashboard/api/app.py` — Fixed concept SSE endpoint ImportError (`AdCampaignOrchestrator` → `Orchestrator`). Added CORS TODO comment. Added 10 new endpoints: `GET /api/variants/export` (ZIP download), `GET /api/performance/dashboard` (aggregated variant metrics), `POST /api/decisions/act` (kill/scale/pause/resume), `GET /api/regression/coefficients` (all coefficients with tiers), `GET /api/regression/playbook-rules` (translated rules), `GET /api/regression/fatigue` (fatigue alerts), `POST /api/tracking/pull` (manual data pull), `GET /api/budget/pacing` (budget vs target), `POST /api/admin/run-cycle` (manual trigger), `GET /api/admin/cycles` (cycle history), `GET /api/admin/config` (non-secret config status). Added APScheduler integration for daily cycle at 6am PT. Updated deploy endpoint to default to farm campaign IDs from settings, pass page_id to MetaDeployer
+- `engine/notifications.py` — Wired real Slack webhook POST in `_send()`. Auto-reads `SLACK_WEBHOOK_URL` from settings when no explicit URL passed. Falls back to stdout when no webhook configured. Prints to stdout on request failure so messages aren't lost
+- `engine/tracking/budget.py` — New module. `compute_budget_pacing()` computes daily avg, projected monthly, run rate percentage, alert status (on_track/over_pace/under_pace) from performance snapshots vs monthly budget target
+- `config/settings.py` — Added `META_FARM_CAMPAIGN_ID`, `META_FARM_ADSET_ID`, `META_SCALE_CAMPAIGN_ID`, `META_SCALE_ADSET_ID` for campaign structure. Added `MONTHLY_BUDGET`, `BUDGET_ALERT_HIGH`, `BUDGET_ALERT_LOW` for budget pacing
+- `requirements.txt` — Added `apscheduler>=3.10.0`
+- `dashboard/frontend/pages/performance.html` — New page. Summary stats row (active ads, daily spend, avg CpFN, best/worst performer), filterable/sortable table of deployed variants with spend/impressions/clicks/conversions/CpFN/CTR/trend/days/verdict, action buttons (kill/scale/pause/resume) per row, auto-refresh every 60s, empty state messaging. Dark theme matching existing pages
+- `dashboard/frontend/pages/insights.html` — New page. Model health card (R², adj R², test R², observations, features, Durbin-Watson, condition number, trust badge), coefficient bar chart (Chart.js horizontal bars, green=good/red=bad, borders colored by confidence tier), toggle between reliable-only and all tiers, fatigue alerts section, format comparison (video vs static CpFN with p-value), playbook rules as cards with good/bad examples
+- `dashboard/frontend/pages/review.html` — Added Performance and Insights nav tabs, "Download Approved" export button in review toolbar
+- `dashboard/frontend/pages/portfolio.html` — Updated nav tabs: added Performance and Insights, removed Scoreboard/Learnings (internal views in review.html)
+- `dashboard/frontend/pages/hypotheses.html` — Updated nav tabs: added Performance and Insights, removed Scoreboard/Learnings
+- Why: Bring the system from functional prototype to production quality for first team review session. P0 fixes broken concept workflow. P1 makes the dashboard presentable (5 pages with consistent nav, performance visibility, regression insights, bulk export for manual upload). P2 wires the automated daily cycle and budget tracking
+
+---
+
 ### 2026-03-28 — Aryan
 **ROADMAP.md rewritten as step-by-step agent implementation guide**
 
