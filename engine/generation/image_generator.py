@@ -8,7 +8,7 @@ photorealism from AI with brand precision from templates.
 Key constraints:
 - NEVER let Gemini render text (it hallucinates letterforms)
 - Every prompt anchors in photorealism ("shot on Sony A7III, 35mm lens")
-- Safe zones: top 20% and bottom 25% must have simple/dark background for text overlay
+- Safe zones: top and bottom of frame must have simple/dark background for text overlay
 - All images validated: magic bytes, dimensions, file size before use
 """
 
@@ -31,19 +31,21 @@ _PHOTO_ANCHOR = (
 )
 
 # Safe zone instruction — appended to every scene prompt
+# IMPORTANT: No numbers or percentages here — Imagen renders them as text in the image
 _SAFE_ZONE = (
-    "CRITICAL COMPOSITION: Leave the top 20% of the frame with dark or neutral "
-    "simple background (for logo placement). Leave the bottom 25% of the frame "
-    "with dark or neutral simple background (for text overlay). The main subject "
-    "should be in the center 55% of the frame vertically. "
-    "No text, no words, no letters, no numbers, no watermarks, no logos anywhere in the image."
+    "COMPOSITION: The top portion of the image should have simple, dark, or blurred "
+    "background with open space. The bottom portion of the image should also have "
+    "darker, simpler background. Place the main subject in the center of the frame. "
+    "This image will be used as a background with text overlaid, so keep areas "
+    "near the edges clean and uncluttered."
 )
 
-# Negative prompt suffix
+# Negative prompt suffix — must be emphatic about no text
 _NEGATIVE = (
-    " Do NOT include: any text, any words, any letters, any handwriting, "
-    "any signage, any screen content, any UI elements, any distorted hands, "
-    "any impossible anatomy, any stock photo watermarks."
+    " The image must contain ABSOLUTELY NO TEXT of any kind. No words, no letters, "
+    "no numbers, no percentages, no labels, no captions, no handwriting, no signage, "
+    "no book titles, no brand names, no screen content, no UI elements, no watermarks, "
+    "no timestamps, no clock faces with numbers. Pure photography only."
 )
 
 
@@ -61,7 +63,8 @@ SCENE_PROMPTS = {
             "Mood: peaceful, end-of-day calm."
         ),
         (
-            "Close-up, shallow depth of field. Subject: analog wall clock showing 5:00 PM. "
+            "Close-up, shallow depth of field. Subject: a stethoscope draped over a closed laptop "
+            "on a clean wooden desk. "
             "Environment: cozy therapy office, blurred comfortable furniture in background. "
             "Lighting: warm ambient lamp glow mixed with fading daylight. "
             "Mood: the workday is done, relief."
@@ -275,18 +278,22 @@ def _vision_quality_check(image_bytes: bytes) -> tuple[bool, str]:
                     {
                         "type": "text",
                         "text": (
-                            "You are a quality checker for ad background images. "
-                            "Check this image for ANY of these problems:\n"
-                            "1. Any visible text, words, letters, or numbers (even partial)\n"
-                            "2. Clocks or watches showing impossible/inconsistent times\n"
+                            "You are a strict quality checker for ad background images. "
+                            "These images will have text overlaid on them later, so the image "
+                            "itself must be COMPLETELY free of any text or symbols.\n\n"
+                            "REJECT the image if you see ANY of these:\n"
+                            "1. ANY visible text, words, letters, numbers, or percentages — "
+                            "even small, partial, blurry, or in the background (e.g., '20%', "
+                            "'LOGO', book spines with titles, signs, labels)\n"
+                            "2. Any clock face showing numbers or time\n"
                             "3. Distorted hands, fingers, or impossible anatomy\n"
-                            "4. Watermarks or stock photo logos\n"
-                            "5. Objects that defy physics or look AI-generated/uncanny\n"
-                            "6. Blurry, corrupt, or very low quality areas\n\n"
+                            "4. Watermarks, stock photo logos, or brand names\n"
+                            "5. Objects that defy physics or look obviously AI-generated\n"
+                            "6. Any screen, monitor, or device showing readable content\n\n"
                             "Respond with EXACTLY one line:\n"
-                            "PASS - if the image is clean and usable\n"
-                            "FAIL: <specific reason> - if any problem is found\n\n"
-                            "Be strict. Any visible text or nonsensical element is a FAIL."
+                            "PASS - if the image contains zero text/numbers and looks natural\n"
+                            "FAIL: <specific reason> - if ANY problem exists\n\n"
+                            "Be extremely strict. When in doubt, FAIL."
                         ),
                     },
                 ],
