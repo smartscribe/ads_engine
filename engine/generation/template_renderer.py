@@ -40,6 +40,7 @@ TEMPLATE_SIZES = {
     "feed_1080x1080/split_screen": (1080, 1080),
     "feed_1080x1080/stat_callout": (1080, 1080),
     "feed_1080x1080/testimonial": (1080, 1080),
+    "feed_1080x1080/image_overlay": (1080, 1080),
     "story_1080x1920/full_bleed": (1080, 1920),
     "story_1080x1920/swipe_up": (1080, 1920),
     "display_1200x628/responsive": (1200, 628),
@@ -268,9 +269,12 @@ class TemplateRenderer:
         if template.startswith("google_"):
             layout = template.replace("google_", "")
 
+        # Truncate body for on-image rendering (full body goes in Meta primary_text)
+        image_body = _truncate_body_for_image(body)
+
         replacements = {
             "{{headline}}": _escape_html(headline),
-            "{{body}}": _escape_html(body),
+            "{{body}}": _escape_html(image_body),
             "{{cta}}": _escape_html(cta),
             "{{logo_path}}": logo_url,
             "{{logomark_path}}": logomark_url,
@@ -354,10 +358,13 @@ class TemplateRenderer:
         # Truncate body at word boundary so the template never shows CSS ellipsis
         body = _truncate_body(body)
 
+        # Truncate body for on-image rendering (full body goes in Meta primary_text)
+        image_body = _truncate_body_for_image(body)
+
         # Build replacement map
         replacements = {
             "{{headline}}": _escape_html(headline),
-            "{{body}}": _escape_html(body),
+            "{{body}}": _escape_html(image_body),
             "{{cta}}": _escape_html(cta),
             "{{logo_path}}": f"file://{logo_path}",
             "{{logomark_path}}": f"file://{logomark_path}",
@@ -461,6 +468,26 @@ def _escape_html(text: str) -> str:
     )
 
 
+def _truncate_body_for_image(text: str, max_chars: int = 80) -> str:
+    """
+    Truncate body copy for on-image rendering. Keep only the first 1-2 short
+    sentences. The full body goes in Meta's primary_text field below the image;
+    the rendered image should be clean and minimal.
+    """
+    if not text or len(text) <= max_chars:
+        return text
+
+    # Try to end at a sentence boundary
+    for sep in [". ", "! ", "? ", "\n"]:
+        idx = text.find(sep)
+        if 0 < idx < max_chars:
+            return text[:idx + 1].strip()
+
+    # No sentence break found — cut at word boundary
+    truncated = text[:max_chars].rsplit(" ", 1)[0]
+    return truncated.rstrip(".,;:") + "."
+
+
 def _truncate_body(text: str, max_chars: int = 280) -> str:
     """Truncate body copy to fit the template. Prefer ending at a complete sentence."""
     if len(text) <= max_chars:
@@ -475,7 +502,6 @@ def _truncate_body(text: str, max_chars: int = 280) -> str:
     last_space = chunk.rfind(" ")
     if last_space > max_chars // 2:
         return chunk[:last_space].rstrip(" ,;:")
-    return chunk
 
 
 # ------------------------------------------------------------------

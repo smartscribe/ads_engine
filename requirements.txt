@@ -20,9 +20,10 @@ facebook-business>=19.0.0
 # Google Ads (intern: uncomment when implementing)
 # google-ads>=24.0.0
 
-# Image generation
-openai>=1.0.0  # DALL-E 3 + Whisper voice transcription
-google-genai   # Google Imagen 3 via Gemini API
+# Image generation (intern: add based on chosen provider)
+# replicate  # for Flux
+openai>=1.0.0  # for DALL-E image gen + Whisper voice transcription (M2)
+# ideogram   # for Ideogram
 
 # Video generation (intern: add based on chosen provider)
 # runwayml
@@ -35,6 +36,9 @@ requests>=2.31.0
 playwright>=1.40.0
 # ffmpeg is a system dependency for video rendering (WebM → MP4 conversion)
 # Install: brew install ffmpeg (macOS) or apt install ffmpeg (Linux)
+
+# Scheduler
+apscheduler>=3.10.0
 
 # Dev
 pytest>=8.0.0

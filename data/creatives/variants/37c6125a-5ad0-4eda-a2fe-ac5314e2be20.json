@@ -6,11 +6,11 @@
   "primary_text": "Your current EMR makes you click through 47 dropdown menus to document what you could say in one sentence. JotPsych works the way you actually think. Record your session, get a complete clinical note in 60 seconds. No templates. No diagnosis code treasure hunts. Just documentation that sounds like you wrote it.",
   "description": "",
   "cta_button": "See How It Works",
-  "asset_path": "data/creatives/rendered/meta_feed_12cc59f0.png",
+  "asset_path": "data/creatives/rendered/feed_1080x1080_headline_hero_9593ccc6.png",
   "asset_type": "image",
   "asset_status": "pending",
-  "template_id": null,
-  "template_color_scheme": null,
+  "template_id": "feed_1080x1080/headline_hero",
+  "template_color_scheme": "accent",
   "taxonomy": {
     "message_type": "pain_point",
     "hook_type": "question",
@@ -117,7 +117,8 @@
         "medium",
         "long"
       ]
-    }
+    },
+    "asset_source": "template"
   },
   "status": "draft",
   "review_notes": null,
@@ -125,6 +126,8 @@
   "reviewed_at": null,
   "review_chips": [],
   "review_duration_ms": 0,
+  "deployment_targets": [],
+  "hypothesis_id": null,
   "meta_ad_id": null,
   "google_ad_id": null
 }

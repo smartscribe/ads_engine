@@ -181,19 +181,11 @@ MESSAGE_TYPE_EXEMPLARS = {
 
 
 def _parse_json_response(text: str) -> list:
-    """Extract and parse JSON from Claude's response, tolerating markdown fences."""
     if "```json" in text:
         text = text.split("```json")[1].split("```")[0]
     elif "```" in text:
         text = text.split("```")[1].split("```")[0]
-    try:
-        result = json.loads(text.strip())
-        if isinstance(result, list):
-            return result
-        return [result]
-    except (json.JSONDecodeError, ValueError) as e:
-        print(f"[copy_agents] JSON parse failed: {e}\nRaw text: {text[:200]}")
-        return []
+    return json.loads(text.strip())
 
 
 class HeadlineAgent:
@@ -352,7 +344,7 @@ class HeadlineAgent:
             system_parts.append(feedback_block)
 
         response = self.client.messages.create(
-            model="claude-sonnet-4-20250514",
+            model="claude-sonnet-4-5-20250929",
             max_tokens=500,
             system="\n".join(system_parts),
             messages=[{"role": "user", "content": "\n".join(brief_context_parts)}],
@@ -511,7 +503,7 @@ class BodyCopyAgent:
             system_parts.append(feedback_block)
 
         response = self.client.messages.create(
-            model="claude-sonnet-4-20250514",
+            model="claude-sonnet-4-5-20250929",
             max_tokens=800,
             system="\n".join(system_parts),
             messages=[{"role": "user", "content": "\n".join(brief_context_parts)}],
@@ -567,7 +559,7 @@ class CTAAgent:
         system_prompt = "\n".join(system_parts)
 
         response = self.client.messages.create(
-            model="claude-sonnet-4-20250514",
+            model="claude-sonnet-4-5-20250929",
             max_tokens=1000,
             system=system_prompt,
             messages=[

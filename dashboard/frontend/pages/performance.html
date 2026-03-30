@@ -1,0 +1,448 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JotPsych Ads — Performance</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4"></script>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        :root {
+            --bg: #0a0a0a;
+            --surface: #111;
+            --surface2: #161616;
+            --surface3: #1a1a1a;
+            --border: #1e1e1e;
+            --border2: #2a2a2a;
+            --text: #e0e0e0;
+            --text-muted: #888;
+            --text-dim: #555;
+            --green: #22c55e;
+            --green-bg: #22c55e18;
+            --green-border: #22c55e35;
+            --red: #ef4444;
+            --red-bg: #ef444418;
+            --red-border: #ef444435;
+            --blue: #3b82f6;
+            --blue-bg: #3b82f618;
+            --blue-border: #3b82f635;
+            --amber: #f59e0b;
+            --amber-bg: #f59e0b15;
+            --amber-border: #f59e0b35;
+            --gold: #eab308;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Inter', sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        /* NAV */
+        .nav {
+            display: flex; align-items: center; padding: 0 32px;
+            border-bottom: 1px solid var(--border); height: 52px; flex-shrink: 0;
+        }
+        .nav-brand {
+            font-size: 13px; font-weight: 700; color: #fff;
+            letter-spacing: 0.04em; margin-right: 32px; white-space: nowrap;
+        }
+        .nav-tabs { display: flex; gap: 0; flex: 1; }
+        .nav-tab {
+            padding: 0 18px; height: 52px; display: flex; align-items: center;
+            font-size: 13px; color: var(--text-muted); cursor: pointer;
+            border-bottom: 2px solid transparent; transition: color 0.15s, border-color 0.15s;
+            white-space: nowrap; user-select: none; text-decoration: none;
+        }
+        .nav-tab:hover { color: var(--text); }
+        .nav-tab.active { color: #fff; border-bottom-color: var(--blue); }
+
+        .content { flex: 1; padding: 24px 32px; overflow-y: auto; }
+
+        /* Summary cards */
+        .summary-bar { display: flex; gap: 16px; margin-bottom: 24px; flex-wrap: wrap; }
+        .stat-card {
+            background: var(--surface); border: 1px solid var(--border);
+            border-radius: 8px; padding: 14px 18px; min-width: 140px; flex: 1;
+        }
+        .stat-card.highlight { border-color: var(--green-border); background: var(--green-bg); }
+        .stat-label { font-size: 11px; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px; }
+        .stat-value { font-size: 22px; font-weight: 600; }
+        .stat-value.green { color: var(--green); }
+        .stat-value.red { color: var(--red); }
+        .stat-sub { font-size: 11px; color: var(--text-dim); margin-top: 2px; }
+
+        /* Filter bar */
+        .filter-bar {
+            display: flex; align-items: center; gap: 16px; margin-bottom: 16px; flex-wrap: wrap;
+        }
+        .filter-bar label { font-size: 12px; color: var(--text-muted); }
+        .filter-bar select, .filter-bar input {
+            background: var(--surface); border: 1px solid var(--border2);
+            border-radius: 6px; padding: 6px 10px; color: var(--text);
+            font-size: 12px; font-family: inherit;
+        }
+        .filter-bar select:focus, .filter-bar input:focus { outline: none; border-color: var(--blue); }
+        .btn-refresh {
+            padding: 6px 14px; border-radius: 6px; border: 1px solid var(--border2);
+            background: var(--surface); color: var(--text); font-size: 12px;
+            cursor: pointer; transition: border-color 0.15s;
+        }
+        .btn-refresh:hover { border-color: var(--blue); color: var(--blue); }
+
+        /* Table */
+        .perf-table-wrap { overflow-x: auto; }
+        .perf-table {
+            width: 100%; border-collapse: collapse; font-size: 13px;
+        }
+        .perf-table th {
+            text-align: left; padding: 10px 12px; font-weight: 600;
+            font-size: 11px; letter-spacing: 0.04em; text-transform: uppercase;
+            color: var(--text-muted); border-bottom: 1px solid var(--border2);
+            cursor: pointer; user-select: none; white-space: nowrap;
+        }
+        .perf-table th:hover { color: var(--text); }
+        .perf-table th .sort-arrow { margin-left: 4px; font-size: 10px; }
+        .perf-table td {
+            padding: 10px 12px; border-bottom: 1px solid var(--border);
+            vertical-align: middle;
+        }
+        .perf-table tr:hover { background: var(--surface); }
+
+        /* Thumbnail */
+        .thumb { width: 48px; height: 48px; border-radius: 6px; object-fit: cover; background: var(--surface2); }
+        .thumb-placeholder {
+            width: 48px; height: 48px; border-radius: 6px; background: var(--surface2);
+            display: flex; align-items: center; justify-content: center;
+            font-size: 18px; color: var(--text-dim);
+        }
+
+        /* Status badge */
+        .status-badge {
+            display: inline-block; padding: 2px 8px; border-radius: 10px;
+            font-size: 11px; font-weight: 500;
+        }
+        .status-badge.live { background: var(--green-bg); color: var(--green); border: 1px solid var(--green-border); }
+        .status-badge.graduated { background: var(--blue-bg); color: var(--blue); border: 1px solid var(--blue-border); }
+        .status-badge.paused { background: var(--amber-bg); color: var(--amber); border: 1px solid var(--amber-border); }
+        .status-badge.killed { background: var(--red-bg); color: var(--red); border: 1px solid var(--red-border); }
+
+        /* Verdict badge */
+        .verdict-badge {
+            display: inline-block; padding: 2px 8px; border-radius: 10px;
+            font-size: 11px; font-weight: 500;
+        }
+        .verdict-badge.scale { background: var(--green-bg); color: var(--green); }
+        .verdict-badge.kill { background: var(--red-bg); color: var(--red); }
+        .verdict-badge.wait { background: var(--amber-bg); color: var(--amber); }
+
+        /* Trend */
+        .trend-improving { color: var(--green); }
+        .trend-declining { color: var(--red); }
+        .trend-stable { color: var(--text-muted); }
+        .trend-unknown { color: var(--text-dim); }
+
+        /* Sparkline canvas */
+        .sparkline-cell { width: 100px; }
+        .sparkline-canvas { width: 90px; height: 28px; }
+
+        /* Action buttons */
+        .action-btn {
+            padding: 4px 10px; border-radius: 5px; border: 1px solid var(--border2);
+            background: transparent; font-size: 11px; cursor: pointer;
+            transition: all 0.15s; margin-right: 4px;
+        }
+        .action-btn:hover { background: var(--surface2); }
+        .action-btn.kill { color: var(--red); border-color: var(--red-border); }
+        .action-btn.kill:hover { background: var(--red-bg); }
+        .action-btn.scale { color: var(--green); border-color: var(--green-border); }
+        .action-btn.scale:hover { background: var(--green-bg); }
+        .action-btn.pause { color: var(--amber); border-color: var(--amber-border); }
+        .action-btn.pause:hover { background: var(--amber-bg); }
+
+        /* Empty state */
+        .empty-state {
+            text-align: center; padding: 80px 24px; color: var(--text-muted);
+        }
+        .empty-state h2 { font-size: 18px; font-weight: 600; margin-bottom: 8px; color: var(--text); }
+        .empty-state p { font-size: 14px; max-width: 480px; margin: 0 auto; }
+
+        /* Auto-refresh indicator */
+        .refresh-indicator {
+            font-size: 11px; color: var(--text-dim); margin-left: auto;
+        }
+    </style>
+</head>
+<body>
+
+<nav class="nav">
+    <span class="nav-brand">JotPsych Ads</span>
+    <div class="nav-tabs">
+        <a class="nav-tab" href="/dashboard/pages/review.html">Review</a>
+        <a class="nav-tab" href="/dashboard/pages/portfolio.html">Portfolio</a>
+        <a class="nav-tab" href="/dashboard/pages/hypotheses.html">Hypotheses</a>
+        <a class="nav-tab active" href="/dashboard/pages/performance.html">Performance</a>
+        <a class="nav-tab" href="/dashboard/pages/insights.html">Insights</a>
+    </div>
+</nav>
+
+<div class="content">
+    <!-- Summary Cards -->
+    <div class="summary-bar" id="summaryBar">
+        <div class="stat-card">
+            <div class="stat-label">Active Ads</div>
+            <div class="stat-value" id="statActive">—</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-label">Daily Spend</div>
+            <div class="stat-value" id="statDailySpend">—</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-label">Avg CpFN</div>
+            <div class="stat-value" id="statAvgCpfn">—</div>
+        </div>
+        <div class="stat-card highlight">
+            <div class="stat-label">Best Performer</div>
+            <div class="stat-value green" id="statBest">—</div>
+            <div class="stat-sub" id="statBestSub"></div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-label">Worst Performer</div>
+            <div class="stat-value red" id="statWorst">—</div>
+            <div class="stat-sub" id="statWorstSub"></div>
+        </div>
+    </div>
+
+    <!-- Filters -->
+    <div class="filter-bar">
+        <label>Status:</label>
+        <select id="filterStatus" onchange="applyFilters()">
+            <option value="all">All</option>
+            <option value="live">Live</option>
+            <option value="graduated">Graduated</option>
+            <option value="paused">Paused</option>
+            <option value="killed">Killed</option>
+        </select>
+        <label>Max CpFN:</label>
+        <input type="number" id="filterMaxCpfn" placeholder="e.g. 300" style="width:80px" oninput="applyFilters()">
+        <button class="btn-refresh" onclick="loadDashboard()">↻ Refresh</button>
+        <span class="refresh-indicator" id="refreshIndicator">Auto-refresh: 60s</span>
+    </div>
+
+    <!-- Table -->
+    <div class="perf-table-wrap">
+        <table class="perf-table" id="perfTable">
+            <thead>
+                <tr>
+                    <th></th>
+                    <th onclick="sortTable('headline')">Headline <span class="sort-arrow" id="sort-headline"></span></th>
+                    <th onclick="sortTable('status')">Status <span class="sort-arrow" id="sort-status"></span></th>
+                    <th onclick="sortTable('spend')">Spend <span class="sort-arrow" id="sort-spend"></span></th>
+                    <th onclick="sortTable('impressions')">Impr <span class="sort-arrow" id="sort-impressions"></span></th>
+                    <th onclick="sortTable('clicks')">Clicks <span class="sort-arrow" id="sort-clicks"></span></th>
+                    <th onclick="sortTable('conversions')">Conv <span class="sort-arrow" id="sort-conversions"></span></th>
+                    <th onclick="sortTable('cpfn')">CpFN <span class="sort-arrow" id="sort-cpfn"></span></th>
+                    <th onclick="sortTable('ctr')">CTR <span class="sort-arrow" id="sort-ctr"></span></th>
+                    <th>Trend</th>
+                    <th onclick="sortTable('days_running')">Days <span class="sort-arrow" id="sort-days_running"></span></th>
+                    <th>Verdict</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody id="perfBody"></tbody>
+        </table>
+    </div>
+
+    <!-- Empty State -->
+    <div class="empty-state" id="emptyState" style="display:none;">
+        <h2>No deployed ads yet</h2>
+        <p>Approve variants in the <a href="/dashboard/pages/review.html" style="color:var(--blue);">review queue</a> and deploy them to see performance data here.</p>
+    </div>
+</div>
+
+<script>
+let allVariants = [];
+let currentSort = { key: 'cpfn', asc: true };
+let refreshTimer = null;
+const sparkCharts = {};
+
+async function loadDashboard() {
+    try {
+        const resp = await fetch('/api/performance/dashboard');
+        const data = await resp.json();
+
+        allVariants = data.variants || [];
+        const summary = data.summary || {};
+
+        // Update summary cards
+        document.getElementById('statActive').textContent = summary.total_active || 0;
+        document.getElementById('statDailySpend').textContent = summary.total_daily_spend
+            ? `$${summary.total_daily_spend.toLocaleString()}` : '$0';
+        document.getElementById('statAvgCpfn').textContent = summary.avg_cpfn
+            ? `$${summary.avg_cpfn.toFixed(0)}` : '—';
+
+        if (summary.best_performer) {
+            document.getElementById('statBest').textContent = `$${summary.best_performer.cpfn}`;
+            document.getElementById('statBestSub').textContent = summary.best_performer.headline?.substring(0, 40) || '';
+        } else {
+            document.getElementById('statBest').textContent = '—';
+        }
+        if (summary.worst_performer) {
+            document.getElementById('statWorst').textContent = `$${summary.worst_performer.cpfn}`;
+            document.getElementById('statWorstSub').textContent = summary.worst_performer.headline?.substring(0, 40) || '';
+        } else {
+            document.getElementById('statWorst').textContent = '—';
+        }
+
+        applyFilters();
+    } catch (e) {
+        console.error('Failed to load dashboard:', e);
+    }
+}
+
+function applyFilters() {
+    const statusFilter = document.getElementById('filterStatus').value;
+    const maxCpfn = parseFloat(document.getElementById('filterMaxCpfn').value) || Infinity;
+
+    let filtered = allVariants.filter(v => {
+        if (statusFilter !== 'all' && v.status !== statusFilter) return false;
+        if (v.cpfn !== null && v.cpfn > maxCpfn) return false;
+        return true;
+    });
+
+    // Sort
+    filtered.sort((a, b) => {
+        let va = a[currentSort.key];
+        let vb = b[currentSort.key];
+        if (va === null || va === undefined) return 1;
+        if (vb === null || vb === undefined) return -1;
+        if (typeof va === 'string') va = va.toLowerCase();
+        if (typeof vb === 'string') vb = vb.toLowerCase();
+        if (va < vb) return currentSort.asc ? -1 : 1;
+        if (va > vb) return currentSort.asc ? 1 : -1;
+        return 0;
+    });
+
+    renderTable(filtered);
+}
+
+function sortTable(key) {
+    // Clear old arrows
+    document.querySelectorAll('.sort-arrow').forEach(el => el.textContent = '');
+    if (currentSort.key === key) {
+        currentSort.asc = !currentSort.asc;
+    } else {
+        currentSort.key = key;
+        currentSort.asc = true;
+    }
+    const arrow = document.getElementById(`sort-${key}`);
+    if (arrow) arrow.textContent = currentSort.asc ? '▲' : '▼';
+    applyFilters();
+}
+
+function renderTable(variants) {
+    const tbody = document.getElementById('perfBody');
+    const empty = document.getElementById('emptyState');
+
+    if (variants.length === 0) {
+        tbody.innerHTML = '';
+        empty.style.display = 'block';
+        return;
+    }
+    empty.style.display = 'none';
+
+    // Destroy old sparkline charts
+    Object.values(sparkCharts).forEach(c => c.destroy());
+    Object.keys(sparkCharts).forEach(k => delete sparkCharts[k]);
+
+    tbody.innerHTML = variants.map((v, i) => {
+        const thumbHtml = v.thumbnail_url
+            ? `<img class="thumb" src="${v.thumbnail_url}" alt="">`
+            : `<div class="thumb-placeholder">📊</div>`;
+
+        const statusClass = v.status || '';
+        const trendClass = `trend-${v.trend || 'unknown'}`;
+        const trendArrow = v.trend === 'improving' ? '↗' : v.trend === 'declining' ? '↘' : v.trend === 'stable' ? '→' : '?';
+        const verdictClass = v.latest_verdict || '';
+
+        // Determine which action buttons to show
+        let actions = '';
+        if (v.status === 'live' || v.status === 'graduated') {
+            actions += `<button class="action-btn kill" onclick="actOn('${v.variant_id}','kill')">Kill</button>`;
+            actions += `<button class="action-btn pause" onclick="actOn('${v.variant_id}','pause')">Pause</button>`;
+        } else if (v.status === 'paused') {
+            actions += `<button class="action-btn scale" onclick="actOn('${v.variant_id}','resume')">Resume</button>`;
+            actions += `<button class="action-btn kill" onclick="actOn('${v.variant_id}','kill')">Kill</button>`;
+        }
+        if (v.status === 'live') {
+            actions += `<button class="action-btn scale" onclick="actOn('${v.variant_id}','scale')">Scale</button>`;
+        }
+
+        return `<tr>
+            <td>${thumbHtml}</td>
+            <td style="max-width:200px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;" title="${(v.headline||'').replace(/"/g,'&quot;')}">${v.headline || '—'}</td>
+            <td><span class="status-badge ${statusClass}">${v.status}</span></td>
+            <td>$${(v.spend||0).toLocaleString(undefined, {minimumFractionDigits:0, maximumFractionDigits:0})}</td>
+            <td>${(v.impressions||0).toLocaleString()}</td>
+            <td>${(v.clicks||0).toLocaleString()}</td>
+            <td>${v.conversions || 0}</td>
+            <td style="font-weight:600;${v.cpfn !== null && v.cpfn < 200 ? 'color:var(--green)' : v.cpfn !== null && v.cpfn > 300 ? 'color:var(--red)' : ''}">${v.cpfn !== null ? '$' + v.cpfn.toFixed(0) : '—'}</td>
+            <td>${v.ctr !== null ? (v.ctr * 100).toFixed(2) + '%' : '—'}</td>
+            <td><span class="${trendClass}">${trendArrow} ${v.trend || ''}</span></td>
+            <td>${v.days_running || 0}</td>
+            <td>${v.latest_verdict ? `<span class="verdict-badge ${verdictClass}">${v.latest_verdict}</span>` : '—'}</td>
+            <td style="white-space:nowrap;">${actions}</td>
+        </tr>`;
+    }).join('');
+
+    // Render sparklines after DOM is ready
+    requestAnimationFrame(() => renderSparklines(variants));
+}
+
+function renderSparklines(variants) {
+    // Sparklines are rendered inline in the trend column via small canvas elements
+    // For simplicity we skip canvas-based sparklines in the table (they would need
+    // individual canvases per row) and rely on the text trend indicators instead.
+    // The full sparkline view is available in the variant detail endpoint.
+}
+
+async function actOn(variantId, action) {
+    if (!confirm(`${action.toUpperCase()} variant ${variantId.substring(0,8)}?`)) return;
+
+    try {
+        const resp = await fetch('/api/decisions/act', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ variant_id: variantId, action }),
+        });
+        const result = await resp.json();
+        if (resp.ok) {
+            // Reload dashboard
+            loadDashboard();
+        } else {
+            alert(`Error: ${result.detail || 'Unknown error'}`);
+        }
+    } catch (e) {
+        alert(`Request failed: ${e.message}`);
+    }
+}
+
+// Auto-refresh
+function startAutoRefresh() {
+    if (refreshTimer) clearInterval(refreshTimer);
+    refreshTimer = setInterval(loadDashboard, 60000);
+}
+
+// Init
+loadDashboard();
+startAutoRefresh();
+
+// Set initial sort arrow
+document.getElementById('sort-cpfn').textContent = '▲';
+</script>
+</body>
+</html>

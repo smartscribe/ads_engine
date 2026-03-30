@@ -198,6 +198,7 @@ class CreativeRegressionModel:
             "human_face_visible": int(getattr(tax, "human_face_visible", False)),
             "social_proof_type": getattr(tax, "social_proof_type", "none"),
             "copy_length_bin": getattr(tax, "copy_length_bin", "medium"),
+            "asset_source": getattr(tax, "asset_source", "template"),
         }
 
     def encode_features(self, df: pd.DataFrame) -> tuple[pd.DataFrame, list[str]]:
@@ -392,43 +393,30 @@ class CreativeRegressionModel:
                 X_encoded, feature_names, y, max_interactions
             )
 
-        # Standardize features (z-score) for stable regression
-        X_raw = X_encoded.values.astype(float)
-        feature_means = X_raw.mean(axis=0)
-        feature_stds = X_raw.std(axis=0)
-        feature_stds[feature_stds == 0] = 1.0  # avoid div-by-zero for constant cols
-        X_scaled = (X_raw - feature_means) / feature_stds
-
         # Add constant for intercept
-        X = np.column_stack([np.ones(len(X_scaled)), X_scaled])
+        X = np.column_stack([np.ones(len(X_encoded)), X_encoded.values])
         all_names = ["intercept"] + feature_names
 
         # Compute sample weights if using WLS
         if use_weights and window_days is None:
             weights = self._compute_decay_weights(df, half_life_days)
-            W_sqrt = np.sqrt(weights)
-            X_w = X * W_sqrt[:, None]
-            y_w = y * W_sqrt
+            W = np.diag(np.sqrt(weights))
+            X_w = W @ X
+            y_w = W @ y
         else:
             weights = np.ones(len(y))
             X_w = X
             y_w = y
 
-        # OLS/WLS regression (on standardized features)
+        # OLS/WLS regression
         try:
-            beta_std = np.linalg.lstsq(X_w, y_w, rcond=None)[0]
+            beta = np.linalg.lstsq(X_w, y_w, rcond=None)[0]
         except np.linalg.LinAlgError:
             print("Regression failed — singular matrix. Check for perfect multicollinearity.")
             return None
 
-        # Un-standardize coefficients to original scale for interpretability
-        # beta_orig[j] = beta_std[j] / std[j], intercept absorbs the mean shift
-        beta = np.zeros_like(beta_std)
-        beta[0] = beta_std[0] - np.sum(beta_std[1:] * feature_means / feature_stds)
-        beta[1:] = beta_std[1:] / feature_stds
-
         # Predictions and residuals (on original scale)
-        y_hat = X @ beta_std  # use standardized X with standardized beta
+        y_hat = X @ beta
         residuals = y - y_hat
         n, k = X.shape
 
@@ -439,19 +427,12 @@ class CreativeRegressionModel:
         r_squared = 1 - weighted_ss_res / weighted_ss_tot if weighted_ss_tot > 0 else 0
         adj_r_squared = 1 - (1 - r_squared) * (n - 1) / (n - k - 1) if n > k + 1 else 0
 
-        # Huber-White sandwich standard errors (robust to heteroskedasticity)
+        # Standard errors and p-values (for WLS)
+        mse = weighted_ss_res / (n - k) if n > k else weighted_ss_res
         try:
             XtWX = X.T @ np.diag(weights) @ X
-            XtWX_inv = np.linalg.inv(XtWX)
-            # Sandwich: (X'WX)^-1 X'W Sigma W X (X'WX)^-1
-            # where Sigma = diag(e_i^2)
-            meat = X.T @ np.diag(weights ** 2 * residuals ** 2) @ X
-            sandwich = XtWX_inv @ meat @ XtWX_inv
-            se_std = np.sqrt(np.abs(np.diag(sandwich)))
-            # Un-standardize SEs to original scale
-            se = np.zeros_like(se_std)
-            se[0] = se_std[0]  # intercept SE stays
-            se[1:] = se_std[1:] / feature_stds
+            var_beta = mse * np.linalg.inv(XtWX)
+            se = np.sqrt(np.abs(np.diag(var_beta)))
         except np.linalg.LinAlgError:
             se = np.full(k, np.nan)
 

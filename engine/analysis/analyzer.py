@@ -492,7 +492,7 @@ class CreativeAnalyzer:
 
         print(f"[analyzer] Analyzing portfolio of {len(tagged)} tagged ads...")
         resp = self.client.messages.create(
-            model="claude-sonnet-4-20250514",
+            model="claude-sonnet-4-5-20250929",
             max_tokens=8000,
             messages=[{"role": "user", "content": prompt}],
         )
@@ -512,7 +512,7 @@ class CreativeAnalyzer:
 
         print("[analyzer] Generating creative playbook...")
         resp = self.client.messages.create(
-            model="claude-sonnet-4-20250514",
+            model="claude-sonnet-4-5-20250929",
             max_tokens=8000,
             messages=[{"role": "user", "content": prompt}],
         )
@@ -549,7 +549,7 @@ class CreativeAnalyzer:
 
         prompt = TAXONOMY_PROMPT.format(ads_json=ads_json)
         resp = self.client.messages.create(
-            model="claude-sonnet-4-20250514",
+            model="claude-sonnet-4-5-20250929",
             max_tokens=4000,
             messages=[{"role": "user", "content": prompt}],
         )
@@ -619,7 +619,7 @@ class CreativeAnalyzer:
 
         print("[analyzer] Extracting creative briefs from playbook...")
         resp = self.client.messages.create(
-            model="claude-sonnet-4-20250514",
+            model="claude-sonnet-4-5-20250929",
             max_tokens=6000,
             messages=[{"role": "user", "content": prompt}],
         )
@@ -671,7 +671,7 @@ class CreativeAnalyzer:
                     )
                     try:
                         retry_resp = self.client.messages.create(
-                            model="claude-sonnet-4-20250514",
+                            model="claude-sonnet-4-5-20250929",
                             max_tokens=2000,
                             messages=[{"role": "user", "content": retry_prompt}],
                         )

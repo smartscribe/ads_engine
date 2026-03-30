@@ -139,7 +139,7 @@ class ConceptExpander:
         """Ask Claude to enumerate the creative dimension space for this concept."""
         try:
             resp = self.client.messages.create(
-                model="claude-sonnet-4-20250514",
+                model="claude-sonnet-4-5-20250929",
                 max_tokens=1500,
                 system=EXPANSION_SYSTEM_PROMPT,
                 messages=[{"role": "user", "content": f"Concept: {concept}"}],
@@ -230,7 +230,7 @@ class ConceptExpander:
         )
 
         resp = self.client.messages.create(
-            model="claude-sonnet-4-20250514",
+            model="claude-sonnet-4-5-20250929",
             max_tokens=1500,
             messages=[{"role": "user", "content": prompt}],
         )

@@ -3,14 +3,14 @@
   "brief_id": "aed4b28f-ed01-4941-9958-602fa66b317e",
   "created_at": "2026-03-27T07:39:57.054984",
   "headline": "Still Charting at 7pm?",
-  "primary_text": "That 4pm dread when you know you still have hours of notes ahead? Gone. JotPsych writes your clinical documentation automatically from session recordings. You stay focused on your clients — not your keyboard. 500+ therapists now get 2 hours of their day back. Notes are done before they leave the office.",
+  "primary_text": "That 4pm dread when you know you still have hours of notes ahead? Gone. JotPsych writes your clinical documentation automatically from session recordings. You stay focused on your clients . not your keyboard. 500+ therapists now get 2 hours of their day back. Notes are done before they leave the office.",
   "description": "",
   "cta_button": "Get 2 Hours Back",
   "asset_path": "data/creatives/rendered/meta_feed_a1abefea.png",
   "asset_type": "image",
   "asset_status": "pending",
-  "template_id": null,
-  "template_color_scheme": null,
+  "template_id": "feed_1080x1080/stat_callout",
+  "template_color_scheme": "dark",
   "taxonomy": {
     "message_type": "pain_point",
     "hook_type": "question",
@@ -128,6 +128,8 @@
     "weak_hook"
   ],
   "review_duration_ms": 2100,
+  "deployment_targets": [],
+  "hypothesis_id": null,
   "meta_ad_id": null,
   "google_ad_id": null
 }

@@ -3,14 +3,14 @@
   "brief_id": "e5062c13-14bc-4d8f-a87f-09f00cccfef6",
   "created_at": "2026-03-26T06:41:48.551096",
   "headline": "What if your session ends when your client leaves?",
-  "primary_text": "Not 30 minutes later. Not 2 hours later when you finally finish charting.\n\nActually done. Walk out. Go home.\n\nThat's the idea behind JotPsych. You do the therapy. We handle the documentation. Your notes are ready before you've locked your office door—clinically complete, HIPAA-compliant, worry-free.\n\nBuilt by therapists who got tired of missing life because of paperwork.\n\nYour next session could be your last night staying late.",
+  "primary_text": "Not 30 minutes later. Not 2 hours later when you finally finish charting.\n\nActually done. Walk out. Go home.\n\nThat's the idea behind JotPsych. You do the therapy. We handle the documentation. Your notes are ready before you've locked your office door. clinically complete, HIPAA-compliant, worry-free.\n\nBuilt by therapists who got tired of missing life because of paperwork.\n\nYour next session could be your last night staying late.",
   "description": "Free trial starts now. No credit card needed.",
   "cta_button": "See How It Works",
-  "asset_path": "data/creatives/e5062c13-14bc-4d8f-a87f-09f00cccfef6/variant_3.placeholder",
+  "asset_path": "data/creatives/rendered/feed_1080x1080_headline_hero_2a23452b.png",
   "asset_type": "video",
   "asset_status": "pending",
-  "template_id": null,
-  "template_color_scheme": null,
+  "template_id": "feed_1080x1080/headline_hero",
+  "template_color_scheme": "accent",
   "taxonomy": {
     "message_type": "value_prop",
     "hook_type": "question",
@@ -117,7 +117,8 @@
         "medium",
         "long"
       ]
-    }
+    },
+    "asset_source": "template"
   },
   "status": "draft",
   "review_notes": null,

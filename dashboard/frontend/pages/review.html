@@ -329,7 +329,22 @@
             -webkit-line-clamp: 3;
             -webkit-box-orient: vertical;
             overflow: hidden;
+            margin-bottom: 4px;
+            cursor: pointer;
+        }
+        .tinder-card .copy-section .primary-text.expanded {
+            -webkit-line-clamp: unset;
+            display: block;
+        }
+        .tinder-card .copy-section .expand-toggle {
+            font-size: 11px;
+            color: var(--blue);
+            cursor: pointer;
             margin-bottom: 10px;
+            user-select: none;
+        }
+        .tinder-card .copy-section .expand-toggle:hover {
+            text-decoration: underline;
         }
 
         .tinder-card .copy-section .tags {
@@ -622,7 +637,22 @@
             -webkit-line-clamp: 2;
             -webkit-box-orient: vertical;
             overflow: hidden;
+            margin-bottom: 4px;
+            cursor: pointer;
+        }
+        .gallery-card .card-text.expanded {
+            -webkit-line-clamp: unset;
+            display: block;
+        }
+        .gallery-card .expand-toggle {
+            font-size: 11px;
+            color: var(--blue);
+            cursor: pointer;
             margin-bottom: 8px;
+            user-select: none;
+        }
+        .gallery-card .expand-toggle:hover {
+            text-decoration: underline;
         }
 
         .gallery-card .card-tags { display: flex; flex-wrap: wrap; gap: 4px; }
@@ -1179,6 +1209,12 @@
         <a class="nav-tab" href="/dashboard/pages/hypotheses.html" style="text-decoration:none;">
             Hypotheses
         </a>
+        <a class="nav-tab" href="/dashboard/pages/performance.html" style="text-decoration:none;">
+            Performance
+        </a>
+        <a class="nav-tab" href="/dashboard/pages/insights.html" style="text-decoration:none;">
+            Insights
+        </a>
     </div>
     <div class="nav-right">
         <span style="font-size:12px;color:var(--text-muted);">Reviewing as:</span>
@@ -1203,6 +1239,7 @@
             <span><span class="stat-dot" style="background:#ef4444;"></span><span id="statRejected">0</span> rejected</span>
         </div>
         <button onclick="deployAllApproved()" style="margin-left:12px;padding:6px 14px;border-radius:6px;border:1px solid var(--green-border);background:var(--green-bg);color:var(--green);font-size:12px;cursor:pointer;font-weight:500;">Deploy Approved</button>
+        <button onclick="window.location.href='/api/variants/export?status=approved'" style="margin-left:8px;padding:6px 14px;border-radius:6px;border:1px solid var(--blue-border);background:var(--blue-bg);color:var(--blue);font-size:12px;cursor:pointer;font-weight:500;">⬇ Download Approved</button>
         <div class="mode-toggle" style="margin-left:auto;">
             <button class="mode-btn active" id="modeTinder" onclick="setMode('tinder')">Focus</button>
             <button class="mode-btn" id="modeGallery" onclick="setMode('gallery')">Gallery</button>
@@ -1229,8 +1266,6 @@
             <div style="width:1px;height:20px;background:var(--border2);margin:0 2px;"></div>
             <button onclick="selectAll()">Select All</button>
             <button onclick="clearSelection()">Clear</button>
-            <div style="width:1px;height:20px;background:var(--border2);margin:0 2px;"></div>
-            <button onclick="toggleStyleNotesPanel()" style="border-color:#f59e0b35;color:var(--amber);">Style Notes</button>
         </div>
         <div class="gallery-grid" id="galleryGrid"></div>
     </div>
@@ -1453,7 +1488,8 @@ function renderTinder() {
                 ${assetHtml}
                 <div class="copy-section">
                     <div class="headline">${esc(v.headline)}</div>
-                    <div class="primary-text">${esc(v.primary_text)}</div>
+                    <div class="primary-text" onclick="this.classList.toggle('expanded');this.nextElementSibling.textContent=this.classList.contains('expanded')?'Show less':'Show more'">${esc(v.primary_text)}</div>
+                    <div class="expand-toggle" onclick="const pt=this.previousElementSibling;pt.classList.toggle('expanded');this.textContent=pt.classList.contains('expanded')?'Show less':'Show more'">Show more</div>
                     <div class="tags">
                         ${[v.taxonomy?.message_type, v.taxonomy?.hook_type, v.taxonomy?.tone, v.taxonomy?.format].filter(Boolean).map(t => `<span class="tag">${esc(t)}</span>`).join('')}
                     </div>
@@ -1726,15 +1762,12 @@ function renderGallery() {
             ${buildAssetHtml(v, false)}
             <div class="card-body">
                 <div class="card-headline">${esc(v.headline)}</div>
-                <div class="card-text">${esc(v.primary_text)}</div>
+                <div class="card-text" onclick="event.stopPropagation();this.classList.toggle('expanded');this.nextElementSibling.textContent=this.classList.contains('expanded')?'Less':'More'">${esc(v.primary_text)}</div>
+                <div class="expand-toggle" onclick="event.stopPropagation();const pt=this.previousElementSibling;pt.classList.toggle('expanded');this.textContent=pt.classList.contains('expanded')?'Less':'More'">More</div>
                 <div class="card-tags">
                     ${[v.taxonomy?.message_type, v.taxonomy?.hook_type, v.taxonomy?.tone].filter(Boolean).map(t => `<span class="card-tag">${esc(t)}</span>`).join('')}
                 </div>
                 <div class="card-cta">${esc(v.cta_button || 'Learn More')}</div>
-                <div style="display:flex;gap:6px;margin-top:8px;">
-                    <span style="padding:4px 10px;border-radius:4px;background:var(--green-bg);border:1px solid var(--green-border);color:var(--green);font-size:11px;cursor:pointer;" onclick="event.stopPropagation(); openStyleLikeModal('${v.id}')">Like Style</span>
-                    <span style="padding:4px 10px;border-radius:4px;background:var(--amber-bg);border:1px solid #f59e0b35;color:var(--amber);font-size:11px;cursor:pointer;" onclick="event.stopPropagation(); openStyleFeedbackModal('${v.id}')">Feedback</span>
-                </div>
             </div>
         </div>
     `).join('');
@@ -1835,7 +1868,8 @@ function renderBatchGalleryRef() {
             ${buildAssetHtml(v, false)}
             <div class="card-body">
                 <div class="card-headline">${esc(v.headline)}</div>
-                <div class="card-text">${esc(v.primary_text)}</div>
+                <div class="card-text" onclick="this.classList.toggle('expanded');this.nextElementSibling.textContent=this.classList.contains('expanded')?'Less':'More'">${esc(v.primary_text)}</div>
+                <div class="expand-toggle" onclick="const pt=this.previousElementSibling;pt.classList.toggle('expanded');this.textContent=pt.classList.contains('expanded')?'Less':'More'">More</div>
                 <div class="card-tags">
                     ${[v.taxonomy?.message_type, v.taxonomy?.hook_type, v.taxonomy?.tone].filter(Boolean).map(t => `<span class="card-tag">${esc(t)}</span>`).join('')}
                 </div>
@@ -2245,141 +2279,6 @@ async function confirmDeploy() {
         btn.textContent = 'Deploy (Paused)';
     }
 }
-
-// ---------------------------------------------------------------------------
-// Style Feedback & Like (from Alex's harness)
-// ---------------------------------------------------------------------------
-
-let styleFeedbackVariantId = null;
-let styleLikeVariantId = null;
-
-function openStyleFeedbackModal(variantId) {
-    styleFeedbackVariantId = variantId;
-    const modal = document.getElementById('styleFeedbackModal');
-    document.getElementById('styleFeedbackText').value = '';
-    modal.style.display = 'flex';
-    document.getElementById('styleFeedbackText').focus();
-}
-
-function closeStyleFeedbackModal() {
-    document.getElementById('styleFeedbackModal').style.display = 'none';
-    styleFeedbackVariantId = null;
-}
-
-async function submitStyleFeedback() {
-    const feedback = document.getElementById('styleFeedbackText').value.trim();
-    if (!feedback) return;
-    const btn = document.getElementById('styleFeedbackSubmitBtn');
-    btn.textContent = 'Processing...';
-    btn.disabled = true;
-    try {
-        const res = await fetch(`${API}/api/feedback/image`, {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({ variant_id: styleFeedbackVariantId, feedback }),
-        });
-        const data = await res.json();
-        closeStyleFeedbackModal();
-        const fileLabel = data.notes_file ? data.notes_file.replace('style_notes_', '').replace('.md', '') : 'style';
-        showToast(`Feedback processed — ${fileLabel} notes updated`, 'success');
-    } catch (e) {
-        showToast('Error submitting feedback', 'error');
-    } finally {
-        btn.textContent = 'Submit';
-        btn.disabled = false;
-    }
-}
-
-function openStyleLikeModal(variantId) {
-    styleLikeVariantId = variantId;
-    const modal = document.getElementById('styleLikeModal');
-    document.getElementById('styleLikeNote').value = '';
-    modal.style.display = 'flex';
-    document.getElementById('styleLikeNote').focus();
-}
-
-function closeStyleLikeModal() {
-    document.getElementById('styleLikeModal').style.display = 'none';
-    styleLikeVariantId = null;
-}
-
-async function submitStyleLike() {
-    const note = document.getElementById('styleLikeNote').value.trim();
-    const btn = document.getElementById('styleLikeSubmitBtn');
-    btn.textContent = 'Saving...';
-    btn.disabled = true;
-    try {
-        const res = await fetch(`${API}/api/feedback/like`, {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({ variant_id: styleLikeVariantId, note: note || null }),
-        });
-        const data = await res.json();
-        closeStyleLikeModal();
-        showToast('Liked — saved as reference', 'success');
-    } catch (e) {
-        showToast('Error saving liked image', 'error');
-    } finally {
-        btn.textContent = 'Save';
-        btn.disabled = false;
-    }
-}
-
-async function toggleStyleNotesPanel() {
-    const panel = document.getElementById('styleNotesPanel');
-    if (panel.style.display === 'block') { panel.style.display = 'none'; return; }
-    panel.style.display = 'block';
-    try {
-        const res = await fetch(`${API}/api/feedback/style-notes`);
-        const data = await res.json();
-        const labels = { global: 'Global', photo: 'Photo', illustration: 'Illustration', graphic: 'Graphic' };
-        document.getElementById('styleNotesContent').innerHTML = Object.entries(data).map(([key, notes]) => `
-            <div style="margin-bottom:16px;">
-                <div style="color:var(--amber);font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:1px;margin-bottom:6px;">${labels[key] || key}</div>
-                <pre style="color:var(--text-muted);font-size:12px;line-height:1.5;white-space:pre-wrap;font-family:inherit;padding:10px;background:var(--bg);border-radius:6px;border:1px solid var(--border);">${esc(notes)}</pre>
-            </div>
-        `).join('');
-    } catch (e) {
-        document.getElementById('styleNotesContent').innerHTML = '<span style="color:var(--text-dim)">Could not load.</span>';
-    }
-}
-
-document.addEventListener('keydown', (e) => {
-    if (e.key === 'Escape') { closeStyleFeedbackModal(); closeStyleLikeModal(); }
-});
 </script>
-
-<!-- Style Feedback Modal -->
-<div id="styleFeedbackModal" style="display:none;position:fixed;inset:0;z-index:200;background:rgba(0,0,0,0.7);align-items:center;justify-content:center;">
-    <div style="background:var(--surface);border:1px solid var(--border2);border-radius:12px;padding:24px;width:440px;max-width:90vw;">
-        <h3 style="color:#fff;margin-bottom:4px;font-size:15px;">Image Feedback</h3>
-        <p style="color:var(--text-muted);font-size:12px;margin-bottom:12px;">Describe what you'd like changed. AI will translate into prompt guidance.</p>
-        <textarea id="styleFeedbackText" style="width:100%;height:80px;background:var(--bg);border:1px solid var(--border2);border-radius:6px;color:var(--text);padding:10px;font-size:13px;resize:vertical;" placeholder="e.g. 'too clinical — I want warmer vibes'"></textarea>
-        <div style="display:flex;gap:8px;justify-content:flex-end;margin-top:12px;">
-            <button onclick="closeStyleFeedbackModal()" style="padding:6px 14px;background:var(--surface2);border:1px solid var(--border2);border-radius:6px;color:var(--text-muted);cursor:pointer;font-size:12px;">Cancel</button>
-            <button id="styleFeedbackSubmitBtn" onclick="submitStyleFeedback()" style="padding:6px 14px;background:var(--amber-bg);border:1px solid #f59e0b35;border-radius:6px;color:var(--amber);cursor:pointer;font-size:12px;">Submit</button>
-        </div>
-    </div>
-</div>
-
-<!-- Style Like Modal -->
-<div id="styleLikeModal" style="display:none;position:fixed;inset:0;z-index:200;background:rgba(0,0,0,0.7);align-items:center;justify-content:center;">
-    <div style="background:var(--surface);border:1px solid var(--border2);border-radius:12px;padding:24px;width:440px;max-width:90vw;">
-        <h3 style="color:#fff;margin-bottom:4px;font-size:15px;">Like This Style</h3>
-        <p style="color:var(--text-muted);font-size:12px;margin-bottom:12px;">This image will be saved as a reference for future generations.</p>
-        <textarea id="styleLikeNote" style="width:100%;height:60px;background:var(--bg);border:1px solid var(--border2);border-radius:6px;color:var(--text);padding:10px;font-size:13px;resize:vertical;" placeholder="(Optional) What do you like about it?"></textarea>
-        <div style="display:flex;gap:8px;justify-content:flex-end;margin-top:12px;">
-            <button onclick="closeStyleLikeModal()" style="padding:6px 14px;background:var(--surface2);border:1px solid var(--border2);border-radius:6px;color:var(--text-muted);cursor:pointer;font-size:12px;">Cancel</button>
-            <button id="styleLikeSubmitBtn" onclick="submitStyleLike()" style="padding:6px 14px;background:var(--green-bg);border:1px solid var(--green-border);border-radius:6px;color:var(--green);cursor:pointer;font-size:12px;">Save</button>
-        </div>
-    </div>
-</div>
-
-<!-- Style Notes Panel -->
-<div id="styleNotesPanel" style="display:none;position:fixed;top:52px;right:0;width:360px;height:calc(100vh - 52px);background:var(--surface);border-left:1px solid var(--border);z-index:150;overflow-y:auto;padding:20px;">
-    <h3 style="color:#fff;font-size:14px;margin-bottom:12px;">Style Notes</h3>
-    <div id="styleNotesContent" style="color:var(--text-muted);font-size:12px;">Loading...</div>
-</div>
-
 </body>
 </html>

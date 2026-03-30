@@ -69,6 +69,104 @@ For each variant, also provide taxonomy tags. Output JSON array:
 """
 
 
+# ---------------------------------------------------------------------------
+# Visual taxonomy assignment — maps copy attributes to visual dimensions
+# so every variant gets a distinct look instead of identical styling.
+# ---------------------------------------------------------------------------
+
+# Hook type → preferred visual style + subject matter
+_HOOK_VISUAL_MAP = {
+    "statistic":         {"visual_style": "text_heavy",    "subject_matter": "data_viz"},
+    "testimonial":       {"visual_style": "photography",   "subject_matter": "clinician_at_work"},
+    "scenario":          {"visual_style": "photography",   "subject_matter": "patient_interaction"},
+    "question":          {"visual_style": "mixed_media",   "subject_matter": "conceptual"},
+    "provocative_claim": {"visual_style": "text_heavy",    "subject_matter": "workflow_comparison"},
+    "direct_benefit":    {"visual_style": "screen_capture", "subject_matter": "product_ui"},
+}
+
+# All valid color moods — rotated round-robin across the batch
+_COLOR_MOOD_ROTATION = [
+    "brand_primary", "high_contrast", "warm_earth",
+    "cool_clinical", "bold_saturated", "muted_soft",
+]
+
+# Secondary visual_style options for additional diversity when same hook
+# type appears multiple times
+_VISUAL_STYLE_ALTERNATES = {
+    "text_heavy":    ["mixed_media", "screen_capture", "photography"],
+    "photography":   ["mixed_media", "screen_capture", "text_heavy"],
+    "mixed_media":   ["photography", "text_heavy", "screen_capture"],
+    "screen_capture": ["photography", "mixed_media", "text_heavy"],
+}
+
+# Secondary subject_matter options for rotation
+_SUBJECT_ALTERNATES = {
+    "data_viz":             ["product_ui", "workflow_comparison", "conceptual"],
+    "clinician_at_work":    ["patient_interaction", "product_ui", "conceptual"],
+    "patient_interaction":  ["clinician_at_work", "conceptual", "product_ui"],
+    "conceptual":           ["clinician_at_work", "data_viz", "workflow_comparison"],
+    "workflow_comparison":  ["product_ui", "data_viz", "conceptual"],
+    "product_ui":           ["workflow_comparison", "clinician_at_work", "data_viz"],
+}
+
+
+def _assign_visual_taxonomy(
+    hook_type: str,
+    message_type: str,
+    tone: str,
+    primary_text: str,
+    index: int,
+    batch_size: int,
+    seen_styles: dict | None = None,
+) -> dict:
+    """
+    Assign visual taxonomy fields based on copy attributes + batch position.
+
+    Instead of hardcoding every variant to photography/brand_primary, this:
+    1. Maps hook_type → base visual_style + subject_matter
+    2. Rotates color_mood round-robin across the batch
+    3. When the same hook_type appears multiple times, cycles through
+       alternate visual styles so no two variants look identical
+    4. Derives text_density from actual copy length
+    """
+    # Base mapping from hook type
+    base = _HOOK_VISUAL_MAP.get(hook_type, {"visual_style": "photography", "subject_matter": "clinician_at_work"})
+    visual_style = base["visual_style"]
+    subject_matter = base["subject_matter"]
+
+    # If we've seen this visual_style before in the batch, rotate to an alternate
+    if seen_styles is not None:
+        style_count = seen_styles.get(visual_style, 0)
+        if style_count > 0:
+            alts = _VISUAL_STYLE_ALTERNATES.get(visual_style, [])
+            if alts:
+                visual_style = alts[(style_count - 1) % len(alts)]
+            sub_alts = _SUBJECT_ALTERNATES.get(subject_matter, [])
+            if sub_alts:
+                subject_matter = sub_alts[(style_count - 1) % len(sub_alts)]
+
+    # Rotate color_mood across the batch
+    color_mood = _COLOR_MOOD_ROTATION[index % len(_COLOR_MOOD_ROTATION)]
+
+    # Derive text_density from actual copy length
+    text_len = len(primary_text)
+    if text_len < 80:
+        text_density = "headline_only"
+    elif text_len < 150:
+        text_density = "headline_subhead"
+    elif text_len < 250:
+        text_density = "detailed_copy"
+    else:
+        text_density = "detailed_copy"
+
+    return {
+        "visual_style": visual_style,
+        "subject_matter": subject_matter,
+        "color_mood": color_mood,
+        "text_density": text_density,
+    }
+
+
 class CreativeGenerator:
     """
     Generates ad variants from creative briefs.
@@ -89,7 +187,7 @@ class CreativeGenerator:
         prompt = COPY_GENERATION_PROMPT.format(num_variants=brief.num_variants)
 
         response = self.client.messages.create(
-            model="claude-sonnet-4-20250514",
+            model="claude-sonnet-4-5-20250929",
             max_tokens=4000,
             system=prompt,
             messages=[
@@ -176,23 +274,44 @@ Formats: {[f.value for f in brief.formats_requested]}
             ]
 
         result = []
-        for s in selected:
+        seen_styles: dict[str, int] = {}  # track visual_style usage for rotation
+        batch_size = len(selected)
+
+        for i, s in enumerate(selected):
             h = s["headline"]
             b = s["body"]
+
+            hook_type = h.get("hook_type", "direct_benefit")
+            message_type = b.get("message_type", "value_prop")
+            tone = b.get("tone", "warm")
+
+            # Assign diverse visual taxonomy instead of hardcoding
+            visual_tax = _assign_visual_taxonomy(
+                hook_type=hook_type,
+                message_type=message_type,
+                tone=tone,
+                primary_text=b["text"],
+                index=i,
+                batch_size=batch_size,
+                seen_styles=seen_styles,
+            )
+            # Track usage for next iteration's rotation
+            seen_styles[visual_tax["visual_style"]] = seen_styles.get(visual_tax["visual_style"], 0) + 1
+
             result.append({
                 "headline": h["text"],
                 "primary_text": b["text"],
                 "description": "",
                 "cta_button": s["cta"],
                 "taxonomy": {
-                    "message_type": b.get("message_type", "value_prop"),
-                    "hook_type": h.get("hook_type", "direct_benefit"),
+                    "message_type": message_type,
+                    "hook_type": hook_type,
                     "cta_type": s["cta"].lower().replace(" ", "_"),
-                    "tone": b.get("tone", "warm"),
-                    "visual_style": "photography",
-                    "subject_matter": "clinician_at_work",
-                    "color_mood": "brand_primary",
-                    "text_density": "headline_subhead",
+                    "tone": tone,
+                    "visual_style": visual_tax["visual_style"],
+                    "subject_matter": visual_tax["subject_matter"],
+                    "color_mood": visual_tax["color_mood"],
+                    "text_density": visual_tax["text_density"],
                     "headline_word_count": len(h["text"].split()),
                     "uses_number": any(c.isdigit() for c in h["text"] + b["text"]),
                     "uses_question": "?" in h["text"],
@@ -230,6 +349,64 @@ Formats: {[f.value for f in brief.formats_requested]}
             memory=memory,
             generation_context=generation_context,
         )
+
+    def _generate_ai_backgrounds(
+        self,
+        copy_variants: list[dict],
+        plans: list,
+        generation_context=None,
+    ) -> dict[int, str]:
+        """
+        Generate AI background images for variants using the image_overlay template.
+
+        Uses Claude SceneDirector to craft bespoke Imagen prompts per ad — each
+        scene is tailored to the ad's headline, body, hook type, and tone.
+        Regression insights from generation_context influence visual direction.
+
+        Returns a dict mapping variant index → background image path.
+        """
+        overlay_indices = [
+            i for i, plan in enumerate(plans)
+            if plan.template == "feed_1080x1080/image_overlay"
+        ]
+
+        if not overlay_indices:
+            return {}
+
+        try:
+            from engine.generation.image_generator import AIImageGenerator
+            ai_gen = AIImageGenerator()
+        except Exception as e:
+            print(f"[generator] AI image generator unavailable: {e}")
+            for i in overlay_indices:
+                plans[i].template = "feed_1080x1080/headline_hero"
+            return {}
+
+        # Build variant dicts with full copy + taxonomy for Claude SceneDirector
+        overlay_variants = [
+            {
+                "headline": copy_variants[i].get("headline", ""),
+                "primary_text": copy_variants[i].get("primary_text", ""),
+                "taxonomy": copy_variants[i].get("taxonomy", {}),
+            }
+            for i in overlay_indices
+        ]
+
+        print(f"[generator] Generating {len(overlay_variants)} AI backgrounds (Claude-directed)...")
+        paths = ai_gen.generate_batch(
+            overlay_variants,
+            generation_context=generation_context,
+            max_images=len(overlay_variants),
+        )
+
+        result = {}
+        for overlay_idx, path in zip(overlay_indices, paths):
+            if path:
+                result[overlay_idx] = path
+            else:
+                plans[overlay_idx].template = "feed_1080x1080/headline_hero"
+
+        return result
 
     def generate_assets_from_template(
         self,
@@ -275,17 +452,19 @@ Formats: {[f.value for f in brief.formats_requested]}
         brief: CreativeBrief,
         copy_variants: list[dict],
         store=None,
-    ) -> list[str]:
+        generation_context=None,
+    ) -> list[tuple[str, "TemplatePlan"]]:
         """
         Generate ad images using the TemplateSelector to pick per-variant
         template + color scheme based on taxonomy tags and regression data.
         All assets rendered as PNG via Playwright.
 
         Returns:
-            List of asset file paths (.png only)
+            List of (asset_path, TemplatePlan) tuples so callers can store
+            the template_id and color_scheme on the AdVariant.
         """
         from engine.generation.template_renderer import TemplateRenderer
-        from engine.generation.template_selector import TemplateSelector
+        from engine.generation.template_selector import TemplateSelector, TemplatePlan
 
         selector = TemplateSelector()
         renderer = TemplateRenderer()
@@ -303,11 +482,21 @@ Formats: {[f.value for f in brief.formats_requested]}
             diversify=True,
         )
 
-        asset_paths = []
-        for variant, plan in zip(copy_variants, plans):
+        # Generate AI background images for variants using image_overlay template
+        # Claude SceneDirector uses generation_context for regression-informed visual direction
+        ai_backgrounds = self._generate_ai_backgrounds(copy_variants, plans, generation_context)
+
+        results = []
+        for i, (variant, plan) in enumerate(zip(copy_variants, plans)):
             headline = variant.get("headline", "")
             body = variant.get("primary_text", "")
             cta = variant.get("cta_button", "Learn More")
+
+            # If this variant uses image_overlay, inject the AI background
+            context = dict(plan.context) if plan.context else {}
+            if plan.template == "feed_1080x1080/image_overlay" and ai_backgrounds.get(i):
+                bg_path = Path(ai_backgrounds[i]).resolve()
+                context["background_image"] = f"file://{bg_path}"
 
             try:
                 path = renderer.render(
@@ -316,26 +505,31 @@ Formats: {[f.value for f in brief.formats_requested]}
                     cta=cta,
                     template=plan.template,
                     color_scheme=plan.color_scheme,
-                    context=plan.context,
+                    context=context,
                 )
-                asset_paths.append(path)
+                results.append((path, plan))
             except Exception as e:
                 print(f"[generator] Template render failed ({plan.template}): {e}")
+                fallback_plan = TemplatePlan(
+                    template="feed_1080x1080/headline_hero",
+                    color_scheme="light",
+                    format=plan.format,
+                )
                 try:
                     path = renderer.render(
                         headline=headline, body=body, cta=cta,
-                        template="feed_1080x1080/headline_hero",
-                        color_scheme="light",
+                        template=fallback_plan.template,
+                        color_scheme=fallback_plan.color_scheme,
                     )
-                    asset_paths.append(path)
+                    results.append((path, fallback_plan))
                 except Exception as e2:
                     print(f"[generator] Fallback render also failed: {e2}")
                     placeholder = Path("data/creatives/rendered") / f"failed_{variant.get('headline', 'unknown')[:20]}.placeholder"
                     placeholder.parent.mkdir(parents=True, exist_ok=True)
                     placeholder.touch()
-                    asset_paths.append(str(placeholder))
+                    results.append((str(placeholder), fallback_plan))
 
-        return asset_paths
+        return results
 
     def generate_with_templates(
         self,
@@ -371,14 +565,19 @@ Formats: {[f.value for f in brief.formats_requested]}
         else:
             copy_variants = self.generate_copy(brief)
 
+        # Generate assets — selector returns (path, plan) tuples; flat returns paths
+        asset_results = []
         if use_selector:
-            asset_paths = self.generate_assets_from_selector(
-                brief, copy_variants, store=store
+            selector_results = self.generate_assets_from_selector(
+                brief, copy_variants, store=store,
+                generation_context=generation_context,
             )
+            asset_results = selector_results  # list of (path, TemplatePlan)
         else:
-            asset_paths = self.generate_assets_from_template(
+            flat_paths = self.generate_assets_from_template(
                 brief, copy_variants, template, color_scheme
             )
+            asset_results = [(p, None) for p in flat_paths]  # no plan info
 
         deployment_targets = [
             {"format": fmt.value, "platform": p.value}
@@ -390,14 +589,19 @@ Formats: {[f.value for f in brief.formats_requested]}
         primary_platform = brief.platforms[0] if brief.platforms else Platform.META
 
         variants = []
-        for copy_data, asset_path in zip(copy_variants, asset_paths):
+        for copy_data, (asset_path, plan) in zip(copy_variants, asset_results):
             tax_data = copy_data["taxonomy"]
+
+            # Determine asset_source for regression tracking
+            is_ai = plan and plan.template == "feed_1080x1080/image_overlay"
+            asset_source = "ai_generated" if is_ai else "template"
 
             taxonomy = CreativeTaxonomy(
                 **tax_data,
                 format=primary_fmt,
                 platform=primary_platform,
                 placement="feed",
+                asset_source=asset_source,
             )
 
             variant = AdVariant(
@@ -411,6 +615,8 @@ Formats: {[f.value for f in brief.formats_requested]}
                 taxonomy=taxonomy,
                 status=AdStatus.DRAFT,
                 deployment_targets=deployment_targets,
+                template_id=plan.template if plan else template,
+                template_color_scheme=plan.color_scheme if plan else color_scheme,
             )
             variants.append(variant)
 

@@ -240,43 +240,78 @@ class TemplateSelector:
         """
         Select templates for a batch of variants.
 
-        If diversify=True, ensures we don't repeat the same template
-        for every variant — rotates through available layouts.
+        If diversify=True, uses round-robin rotation through all available
+        templates in each format family AND rotates color schemes, so no
+        two variants in the batch look identical.
         """
-        plans = []
-        used_templates = set()
+        from collections import Counter
 
-        for variant in copy_variants:
+        plans = []
+        template_counts: Counter = Counter()  # track usage for round-robin
+        scheme_counts: Counter = Counter()
+
+        # All available color schemes for rotation
+        all_schemes = list(_COLOR_MOOD_SCHEMES.values())  # ["light", "warm", "light", "dark", ...]
+        # Deduplicate while preserving order
+        unique_schemes = list(dict.fromkeys(all_schemes))  # ["light", "warm", "dark", "accent"]
+
+        for i, variant in enumerate(copy_variants):
             plan = self.select_for_variant(variant, regression, ad_format, platform)
 
-            if diversify and plan.template in used_templates:
-                alt = self._get_alternative_template(plan.template, variant.get("taxonomy", {}))
+            if diversify:
+                # Rotate template: pick the least-used template in same family
+                alt = self._get_least_used_template(
+                    plan.template, template_counts
+                )
                 if alt:
                     plan.template = alt
 
-            used_templates.add(plan.template)
+                # Rotate color scheme across the batch
+                plan.color_scheme = unique_schemes[i % len(unique_schemes)]
+
+            template_counts[plan.template] += 1
+            scheme_counts[plan.color_scheme] += 1
             plans.append(plan)
 
         return plans
 
-    def _get_alternative_template(self, current: str, taxonomy: dict) -> Optional[str]:
-        """Pick a different template in the same format family."""
-        if current.startswith("feed_1080x1080/"):
-            alternatives = [
+    def _get_least_used_template(
+        self, current: str, used_counts: "Counter"
+    ) -> Optional[str]:
+        """
+        Pick the least-used template in the same format family.
+        Returns None if no alternatives exist.
+        """
+        family = self._get_template_family(current)
+        if not family:
+            return None
+
+        # Sort by usage count (ascending), break ties by list order
+        ranked = sorted(family, key=lambda t: used_counts.get(t, 0))
+        return ranked[0]  # pick the least-used
+
+    @staticmethod
+    def _get_template_family(template: str) -> Optional[list[str]]:
+        """Return all templates in the same format family."""
+        if template.startswith("feed_1080x1080/"):
+            return [
                 "feed_1080x1080/headline_hero",
                 "feed_1080x1080/split_screen",
                 "feed_1080x1080/stat_callout",
                 "feed_1080x1080/testimonial",
+                "feed_1080x1080/image_overlay",
             ]
-        elif current.startswith("story_1080x1920/"):
-            alternatives = [
+        elif template.startswith("story_1080x1920/"):
+            return [
                 "story_1080x1920/full_bleed",
                 "story_1080x1920/swipe_up",
             ]
-        else:
-            return None
-
-        for alt in alternatives:
-            if alt != current:
-                return alt
+        elif template.startswith("display_1200x628/"):
+            return ["display_1200x628/responsive"]
+        elif template.startswith("meta_carousel_frame/"):
+            return ["meta_carousel_frame/card"]
+        elif template.startswith("google_728x90/"):
+            return ["google_728x90/leaderboard"]
+        elif template.startswith("google_160x600/"):
+            return ["google_160x600/skyscraper"]
         return None

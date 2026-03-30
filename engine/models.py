@@ -155,6 +155,9 @@ class CreativeTaxonomy(BaseModel):
     social_proof_type: str = "none"
     # copy_length_bin: binned copy length (short <15 words | medium 15-40 | long 40+)
     copy_length_bin: str = "medium"
+    # asset_source: how the ad image was produced (template = Playwright HTML/CSS, ai_generated = Gemini Imagen)
+    # Tracked as a regression feature so we can measure whether AI images drive better CpFN
+    asset_source: str = "template"
 
     # TAGGING CONFIDENCE (A1) — Claude's confidence per dimension (0.0-1.0)
     # Populated by _tag_batch() in analyzer.py when tagging_confidence is requested
@@ -173,6 +176,7 @@ class CreativeTaxonomy(BaseModel):
         "placement": ["feed", "story", "reels", "search", "display", "discover"],
         "social_proof_type": ["none", "peer", "testimonial", "stat"],
         "copy_length_bin": ["short", "medium", "long"],
+        "asset_source": ["template", "ai_generated"],
     }
 
     def validate_values(self) -> list[str]:

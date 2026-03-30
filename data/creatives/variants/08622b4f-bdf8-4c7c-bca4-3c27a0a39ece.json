@@ -6,11 +6,11 @@
   "primary_text": "Client walks out at 4:30. By 4:33, your progress note is done.\n\nNot a draft. Not bullet points you'll \"flesh out later\" (meaning tonight at home). Done. Comprehensive. Ready to sign.\n\nThat's JotPsych. AI that actually understands clinical documentation because it was built by people who've written thousands of these notes themselves.\n\nHIPAA-compliant. Customizable to your style. Zero learning curve.\n\nThe 2 hours you spend on charting every day? They're yours again.",
   "description": "Free trial. Set up takes 5 minutes. First note takes 3 minutes. See for yourself.",
   "cta_button": "Get Started Free",
-  "asset_path": "data/creatives/e5062c13-14bc-4d8f-a87f-09f00cccfef6/variant_5.placeholder",
+  "asset_path": "data/creatives/rendered/feed_1080x1080_split_screen_ff4b5004.png",
   "asset_type": "video",
   "asset_status": "pending",
-  "template_id": null,
-  "template_color_scheme": null,
+  "template_id": "feed_1080x1080/split_screen",
+  "template_color_scheme": "dark",
   "taxonomy": {
     "message_type": "value_prop",
     "hook_type": "provocative_claim",
@@ -34,6 +34,7 @@
     "human_face_visible": false,
     "social_proof_type": "none",
     "copy_length_bin": "medium",
+    "asset_source": "template",
     "tagging_confidence": {},
     "VALID_VALUES": {
       "message_type": [
@@ -119,12 +120,12 @@
       ]
     }
   },
-  "status": "draft",
+  "status": "approved",
   "review_notes": null,
-  "reviewer": null,
-  "reviewed_at": null,
+  "reviewer": "nate",
+  "reviewed_at": "2026-03-28T05:16:14.208730",
   "review_chips": [],
-  "review_duration_ms": 0,
+  "review_duration_ms": 26846,
   "deployment_targets": [],
   "hypothesis_id": null,
   "meta_ad_id": null,

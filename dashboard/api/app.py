@@ -46,7 +46,7 @@ app = FastAPI(title="JotPsych Ads Engine", version="0.1.0")
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # INTERN: restrict in production
+    allow_origins=["*"],  # TODO: restrict to dashboard origin in production
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -220,7 +220,7 @@ async def ingest_swipe_file(
         from config.settings import get_settings
         client = Anthropic(api_key=get_settings().ANTHROPIC_API_KEY)
         resp = client.messages.create(
-            model="claude-sonnet-4-20250514",
+            model="claude-sonnet-4-5-20250929",
             max_tokens=500,
             messages=[{
                 "role": "user",
@@ -392,113 +392,15 @@ async def get_feedback_chips():
     return chips_for_api()
 
 
-# ---------------------------------------------------------------------------
-# Image Feedback — style notes loop (from Alex's harness)
-# ---------------------------------------------------------------------------
-
-class ImageFeedback(BaseModel):
-    variant_id: Optional[str] = None
-    feedback: str
-
-class ImageLike(BaseModel):
-    variant_id: str
-    note: Optional[str] = None
-
-_feedback_processor = None
-
-def _get_feedback_processor():
-    global _feedback_processor
-    if _feedback_processor is None:
-        from engine.generation.feedback import FeedbackProcessor
-        _feedback_processor = FeedbackProcessor()
-    return _feedback_processor
-
-
-@app.post("/api/feedback/image")
-async def submit_image_feedback(fb: ImageFeedback):
-    """Submit natural language feedback on a generated image.
-    Processed by Claude, updates style notes for future generations."""
-    processor = _get_feedback_processor()
-    visual_style = None
-    strategy_name = None
-    taxonomy = None
-    asset_path = None
-
-    if fb.variant_id:
-        try:
-            variant = store.get_variant(fb.variant_id)
-            asset_path = variant.asset_path
-            taxonomy = variant.taxonomy.model_dump() if variant.taxonomy else None
-            if taxonomy:
-                visual_style = taxonomy.get("visual_style")
-                from engine.generation.strategies import VISUAL_STYLE_STRATEGY_MAP
-                strategy_name = VISUAL_STYLE_STRATEGY_MAP.get(visual_style or "", None)
-        except (FileNotFoundError, Exception):
-            pass
-
-    result = processor.process_feedback(
-        feedback=fb.feedback,
-        variant_id=fb.variant_id,
-        visual_style=visual_style,
-        strategy_name=strategy_name,
-        taxonomy=taxonomy,
-        asset_path=asset_path,
-    )
-    response = {
-        "status": "processed",
-        "notes_file": result["notes_file"],
-        "updated_notes": result["updated_notes"],
-    }
-    if result.get("config_updates"):
-        response["config_updates"] = result["config_updates"]
-    return response
-
-
-@app.post("/api/feedback/like")
-async def like_image(like: ImageLike):
-    """Like a generated image — saves as positive reference, updates style notes."""
-    processor = _get_feedback_processor()
-    visual_style = None
-    asset_path = None
-    taxonomy = None
-
-    try:
-        variant = store.get_variant(like.variant_id)
-        asset_path = variant.asset_path
-        taxonomy = variant.taxonomy.model_dump() if variant.taxonomy else None
-        if taxonomy:
-            visual_style = taxonomy.get("visual_style")
-    except (FileNotFoundError, Exception):
-        pass
-
-    result = processor.process_like(
-        visual_style=visual_style,
-        asset_path=asset_path,
-        note=like.note,
-        taxonomy=taxonomy,
-        variant_id=like.variant_id,
-    )
-    return {
-        "status": "liked",
-        "notes_file": result["notes_file"],
-        "reference_path": result["reference_path"],
-        "updated_notes": result["updated_notes"],
-    }
-
-
-@app.get("/api/feedback/style-notes")
-async def get_style_notes():
-    """Get all style notes files for display in the feedback UI."""
-    processor = _get_feedback_processor()
-    return processor.get_all_notes()
-
-
 @app.get("/api/template-preview/{variant_id}", response_class=HTMLResponse)
 async def get_template_preview(variant_id: str):
     """
     Return fully-substituted HTML for a variant's template.
     Embedded in an iframe in the review dashboard so ads display even without
     a rendered screenshot. Fonts and logos are served via /brand/ HTTP paths.
+
+    When a variant has no template_id stored, derives one from its taxonomy
+    using the TemplateSelector so different ads look visually distinct.
     """
     try:
         variant = store.get_variant(variant_id)
@@ -509,8 +411,24 @@ async def get_template_preview(variant_id: str):
     color_scheme = variant.template_color_scheme or "light"
 
     if not template_id:
-        # Fall back to a generic feed template if none is stored on the variant
-        template_id = "feed_1080x1080/headline_hero"
+        # Use TemplateSelector to pick a template based on taxonomy, not a static fallback
+        from engine.generation.template_selector import TemplateSelector
+        selector = TemplateSelector()
+        taxonomy = variant.taxonomy.model_dump() if variant.taxonomy else {}
+        plan = selector.select(taxonomy)
+        template_id = plan.template
+        color_scheme = plan.color_scheme
+
+    # Build extra context for special templates (stat_callout, testimonial, etc.)
+    context = {}
+    if "stat_callout" in template_id:
+        # Try to extract a number from the headline for the stat display
+        import re
+        nums = re.findall(r'\d+', variant.headline or "")
+        context["stat_number"] = nums[0] if nums else "2"
+        context["stat_unit"] = "hours saved\nper day"
+    if "testimonial" in template_id:
+        context["attribution"] = "Behavioral Health Clinician"
 
     try:
         html = _template_renderer.render_to_html(
@@ -520,6 +438,7 @@ async def get_template_preview(variant_id: str):
             template=template_id,
             color_scheme=color_scheme,
             brand_base_url="/brand",
+            context=context,
         )
         return HTMLResponse(content=html)
     except Exception as exc:
@@ -672,6 +591,147 @@ async def get_portfolio_performance():
     }
 
 
+# ---------------------------------------------------------------------------
+# Performance Dashboard (P1.2)
+# ---------------------------------------------------------------------------
+
+@app.get("/api/performance/dashboard")
+async def performance_dashboard():
+    """
+    Aggregated performance data for all deployed/active variants.
+    Returns per-variant metrics with sparkline data and summary stats.
+    """
+    from collections import defaultdict
+
+    # Load all variants that have been deployed (any status post-review)
+    deployed_statuses = [AdStatus.LIVE, AdStatus.GRADUATED, AdStatus.PAUSED, AdStatus.KILLED]
+    all_variants = []
+    for status in deployed_statuses:
+        all_variants.extend(store.get_variants_by_status(status))
+
+    if not all_variants:
+        return {
+            "variants": [],
+            "summary": {
+                "total_active": 0,
+                "total_daily_spend": 0,
+                "avg_cpfn": None,
+                "best_performer": None,
+                "worst_performer": None,
+            },
+        }
+
+    variant_data = []
+    total_spend = 0.0
+    total_notes = 0
+
+    for v in all_variants:
+        snapshots = store.get_snapshots_for_variant(v.id)
+        if not snapshots:
+            continue
+
+        v_spend = sum(s.spend for s in snapshots)
+        v_impressions = sum(s.impressions for s in snapshots)
+        v_clicks = sum(s.clicks for s in snapshots)
+        v_notes = sum(s.first_note_completions for s in snapshots)
+        v_cpfn = round(v_spend / v_notes, 2) if v_notes > 0 else None
+        v_ctr = round(v_clicks / v_impressions, 4) if v_impressions > 0 else 0
+        days_running = len(set(s.date.isoformat() if hasattr(s.date, 'isoformat') else str(s.date) for s in snapshots))
+
+        total_spend += v_spend
+        total_notes += v_notes
+
+        # Build sparkline data (last 7 days)
+        sorted_snaps = sorted(snapshots, key=lambda s: str(s.date))
+        daily = defaultdict(lambda: {"spend": 0.0, "notes": 0})
+        for s in sorted_snaps:
+            d = s.date.isoformat() if hasattr(s.date, 'isoformat') else str(s.date)
+            daily[d]["spend"] += s.spend
+            daily[d]["notes"] += s.first_note_completions
+
+        dates_sorted = sorted(daily.keys())[-7:]
+        sparkline_spend = [round(daily[d]["spend"], 2) for d in dates_sorted]
+        sparkline_cpfn = []
+        for d in dates_sorted:
+            if daily[d]["notes"] > 0:
+                sparkline_cpfn.append(round(daily[d]["spend"] / daily[d]["notes"], 2))
+            else:
+                sparkline_cpfn.append(None)
+
+        # Trend: compare recent 3 days vs overall
+        recent = sorted_snaps[-3:] if len(sorted_snaps) >= 3 else sorted_snaps
+        recent_spend = sum(s.spend for s in recent)
+        recent_notes = sum(s.first_note_completions for s in recent)
+        recent_cpfn = recent_spend / recent_notes if recent_notes > 0 else None
+
+        if v_cpfn and recent_cpfn:
+            if recent_cpfn < v_cpfn * 0.9:
+                trend = "improving"
+            elif recent_cpfn > v_cpfn * 1.1:
+                trend = "declining"
+            else:
+                trend = "stable"
+        else:
+            trend = "unknown"
+
+        # Latest decision
+        decisions = store.get_decisions_for_variant(v.id)
+        latest_verdict = decisions[-1].verdict.value if decisions else None
+
+        # Asset thumbnail
+        asset_p = Path(v.asset_path) if v.asset_path else None
+        has_thumb = (
+            asset_p is not None
+            and asset_p.suffix in (".png", ".jpg", ".jpeg", ".webp")
+            and asset_p.exists()
+            and asset_p.stat().st_size > 1024
+        )
+
+        variant_data.append({
+            "variant_id": v.id,
+            "headline": v.headline,
+            "status": v.status.value if hasattr(v.status, 'value') else str(v.status),
+            "thumbnail_url": f"/data/creatives/rendered/{asset_p.name}" if has_thumb else None,
+            "spend": round(v_spend, 2),
+            "impressions": v_impressions,
+            "clicks": v_clicks,
+            "conversions": v_notes,
+            "cpfn": v_cpfn,
+            "ctr": v_ctr,
+            "days_running": days_running,
+            "trend": trend,
+            "sparkline_spend": sparkline_spend,
+            "sparkline_cpfn": sparkline_cpfn,
+            "latest_verdict": latest_verdict,
+        })
+
+    # Sort by CpFN ascending (lower = better), None last
+    variant_data.sort(key=lambda e: (e["cpfn"] is None, e["cpfn"] or 0))
+
+    # Summary stats
+    avg_cpfn = round(total_spend / total_notes, 2) if total_notes > 0 else None
+    with_cpfn = [v for v in variant_data if v["cpfn"] is not None]
+    best = min(with_cpfn, key=lambda v: v["cpfn"]) if with_cpfn else None
+    worst = max(with_cpfn, key=lambda v: v["cpfn"]) if with_cpfn else None
+
+    active_count = len([v for v in variant_data if v["status"] in ("live", "graduated")])
+
+    return {
+        "variants": variant_data,
+        "summary": {
+            "total_active": active_count,
+            "total_daily_spend": round(total_spend / max(1, len(set(
+                s.date.isoformat() if hasattr(s.date, 'isoformat') else str(s.date)
+                for v in all_variants
+                for s in store.get_snapshots_for_variant(v.id)
+            ))), 2) if total_spend > 0 else 0,
+            "avg_cpfn": avg_cpfn,
+            "best_performer": {"id": best["variant_id"], "headline": best["headline"], "cpfn": best["cpfn"]} if best else None,
+            "worst_performer": {"id": worst["variant_id"], "headline": worst["headline"], "cpfn": worst["cpfn"]} if worst else None,
+        },
+    }
+
+
 @app.get("/api/performance/{variant_id}")
 async def get_variant_performance(variant_id: str):
     """Performance data for a specific variant."""
@@ -687,6 +747,73 @@ async def get_variant_performance(variant_id: str):
         "variant": variant.model_dump(),
         "snapshots": [s.model_dump() for s in snapshots],
         "decisions": [d.model_dump() for d in decisions],
+    }
+
+
+class DecisionAction(BaseModel):
+    variant_id: str
+    action: str  # "kill" | "scale" | "pause" | "resume"
+
+
+@app.post("/api/decisions/act")
+async def act_on_decision(body: DecisionAction):
+    """
+    Execute a scale/kill/pause/resume action on a variant.
+    Updates variant status and optionally calls the Meta deployer.
+    """
+    try:
+        variant = store.get_variant(body.variant_id)
+    except FileNotFoundError:
+        raise HTTPException(status_code=404, detail=f"Variant {body.variant_id} not found")
+
+    action = body.action.lower()
+    if action not in ("kill", "scale", "pause", "resume"):
+        raise HTTPException(status_code=400, detail=f"Invalid action: {action}. Must be kill, scale, pause, or resume.")
+
+    # Update variant status
+    if action == "kill":
+        variant.status = AdStatus.KILLED
+    elif action == "scale":
+        variant.status = AdStatus.GRADUATED
+    elif action == "pause":
+        variant.status = AdStatus.PAUSED
+    elif action == "resume":
+        variant.status = AdStatus.LIVE
+
+    store.save_variant(variant)
+
+    # Try to update on Meta if we have credentials and a meta_ad_id
+    platform_result = None
+    if variant.meta_ad_id:
+        try:
+            from config.settings import get_settings
+            settings = get_settings()
+            if settings.META_ACCESS_TOKEN and settings.META_AD_ACCOUNT_ID:
+                meta = MetaDeployer(
+                    settings.META_ACCESS_TOKEN,
+                    settings.META_AD_ACCOUNT_ID,
+                    page_id=getattr(settings, "META_PAGE_ID", ""),
+                )
+                if action in ("kill", "pause"):
+                    meta.pause_ad(variant.meta_ad_id)
+                    platform_result = "paused_on_meta"
+                elif action == "resume":
+                    meta.resume_ad(variant.meta_ad_id)
+                    platform_result = "resumed_on_meta"
+        except Exception as e:
+            platform_result = f"platform_error: {e}"
+
+    # Notify via Slack
+    notifier.notify_deployment(
+        [variant],
+        f"Action: {action.upper()}"
+    )
+
+    return {
+        "variant_id": variant.id,
+        "new_status": variant.status.value if hasattr(variant.status, 'value') else str(variant.status),
+        "action": action,
+        "platform_result": platform_result,
     }
 
 
@@ -768,6 +895,129 @@ async def get_regression_insights():
     return playbook
 
 
+@app.get("/api/regression/coefficients")
+async def regression_coefficients():
+    """
+    Return all regression coefficients with human-readable names,
+    confidence tiers, bootstrap CIs, and directional indicators.
+    Used by the insights dashboard for the coefficient bar chart.
+    """
+    from engine.memory.playbook_translator import FEATURE_DESCRIPTIONS
+
+    latest = store.get_latest_regression()
+    if not latest:
+        return {"coefficients": [], "model_health": None}
+
+    coefficients = []
+    for feature, coeff in latest.coefficients.items():
+        tier = latest.confidence_tiers.get(feature, "unreliable")
+        p_val = latest.p_values.get(feature, 1.0)
+        ci = latest.bootstrap_ci.get(feature)
+        stability = latest.coefficient_stability.get(feature)
+
+        coefficients.append({
+            "feature": feature,
+            "label": FEATURE_DESCRIPTIONS.get(feature, feature.replace("_", " ").title()),
+            "coefficient": round(coeff, 4),
+            "p_value": round(p_val, 6),
+            "confidence_tier": tier,
+            "bootstrap_ci": {
+                "point": round(ci[0], 4),
+                "lower": round(ci[1], 4),
+                "upper": round(ci[2], 4),
+            } if ci else None,
+            "stability_std": round(stability, 4) if stability is not None else None,
+            "direction": "good" if coeff < 0 else "bad",  # negative coeff = lower CpFN = good
+        })
+
+    # Sort by absolute magnitude descending
+    coefficients.sort(key=lambda c: abs(c["coefficient"]), reverse=True)
+
+    model_health = {
+        "r_squared": round(latest.r_squared, 4),
+        "adjusted_r_squared": round(latest.adjusted_r_squared, 4),
+        "test_r_squared": round(latest.test_r_squared, 4) if latest.test_r_squared is not None else None,
+        "n_observations": latest.n_observations,
+        "n_features": len(latest.coefficients),
+        "durbin_watson": round(latest.durbin_watson, 4),
+        "condition_number": round(latest.condition_number, 2),
+        "sample_ratio": round(latest.n_observations / max(len(latest.coefficients), 1), 2),
+        "overfit_risk": latest.n_observations < len(latest.coefficients) * 5,
+        "run_date": latest.run_date.isoformat(),
+    }
+
+    return {
+        "coefficients": coefficients,
+        "model_health": model_health,
+        "tier_counts": {
+            "high": len([c for c in coefficients if c["confidence_tier"] == "high"]),
+            "moderate": len([c for c in coefficients if c["confidence_tier"] == "moderate"]),
+            "directional": len([c for c in coefficients if c["confidence_tier"] == "directional"]),
+            "unreliable": len([c for c in coefficients if c["confidence_tier"] == "unreliable"]),
+        },
+    }
+
+
+@app.get("/api/regression/playbook-rules")
+async def regression_playbook_rules():
+    """
+    Return translated playbook rules (natural language generation instructions).
+    """
+    from engine.memory.playbook_translator import PlaybookTranslator
+
+    latest = store.get_latest_regression()
+    if not latest:
+        return {"rules": [], "status": "no_regression_data"}
+
+    try:
+        translator = PlaybookTranslator(store)
+        rules = translator.translate(latest)
+        return {
+            "rules": [
+                {
+                    "feature": r.feature,
+                    "direction": r.direction,
+                    "confidence": r.confidence,
+                    "rule": r.rule,
+                    "good_examples": r.good_examples,
+                    "bad_examples": getattr(r, "bad_examples", []),
+                }
+                for r in rules
+            ],
+            "count": len(rules),
+        }
+    except Exception as e:
+        return {"rules": [], "status": f"translation_error: {e}"}
+
+
+@app.get("/api/regression/fatigue")
+async def regression_fatigue():
+    """
+    Return fatigue alerts from memory — features whose recent coefficients
+    are degrading compared to historical performance.
+    """
+    memory = store.load_memory_v2()
+    if not memory:
+        return {"alerts": []}
+
+    from engine.memory.playbook_translator import FEATURE_DESCRIPTIONS
+
+    alerts = []
+    if hasattr(memory, 'statistical') and hasattr(memory.statistical, 'fatiguing_patterns'):
+        for alert in memory.statistical.fatiguing_patterns:
+            alerts.append({
+                "feature": alert.feature,
+                "label": FEATURE_DESCRIPTIONS.get(alert.feature, alert.feature.replace("_", " ").title()),
+                "current_coefficient": round(alert.current_coefficient, 4),
+                "historical_avg": round(alert.historical_avg, 4),
+                "delta_pct": round(alert.delta_pct, 2),
+                "deployments": alert.deployments,
+                "recommendation": alert.recommendation,
+            })
+
+    return {"alerts": alerts}
+
+
 # ---------------------------------------------------------------------------
 # Variants
 # ---------------------------------------------------------------------------
@@ -784,6 +1034,83 @@ async def list_variants(status: Optional[str] = None):
         "count": len(variants),
         "variants": [v.model_dump() for v in variants],
     }
+
+
+# ---------------------------------------------------------------------------
+# Bulk Creative Export
+# ---------------------------------------------------------------------------
+
+@app.get("/api/variants/export")
+async def export_variants(status: str = "approved"):
+    """
+    Download approved (or other status) variants as a ZIP file.
+    ZIP contains PNGs organized by format folder + a copy.csv with metadata.
+    Bridge for manual upload while programmatic deploy is being tested.
+    """
+    import csv
+    import io
+    import zipfile
+
+    variants = store.get_variants_by_status(status)
+
+    buf = io.BytesIO()
+    with zipfile.ZipFile(buf, "w", zipfile.ZIP_DEFLATED) as zf:
+        # Build CSV in memory
+        csv_buf = io.StringIO()
+        writer = csv.writer(csv_buf)
+        writer.writerow([
+            "variant_id", "headline", "body", "cta", "hook_type",
+            "message_type", "tone", "template_id", "format", "asset_file",
+        ])
+
+        for v in variants:
+            # Determine format folder from template_id
+            fmt_folder = "other"
+            if v.template_id:
+                parts = v.template_id.split("/")
+                fmt_folder = parts[0] if parts else "other"
+
+            # Check if the variant has a valid rendered PNG
+            asset_p = Path(v.asset_path) if v.asset_path else None
+            asset_filename = ""
+            if (
+                asset_p is not None
+                and asset_p.suffix in (".png", ".jpg", ".jpeg", ".webp")
+                and asset_p.exists()
+                and asset_p.stat().st_size > 1024
+            ):
+                asset_filename = f"{fmt_folder}/{v.id}{asset_p.suffix}"
+                zf.write(str(asset_p), asset_filename)
+
+            # Extract taxonomy fields
+            hook = v.taxonomy.hook_type if v.taxonomy else ""
+            msg = v.taxonomy.message_type if v.taxonomy else ""
+            tone = v.taxonomy.tone if v.taxonomy else ""
+
+            writer.writerow([
+                v.id,
+                v.headline,
+                v.primary_text,
+                v.cta_button,
+                hook,
+                msg,
+                tone,
+                v.template_id or "",
+                fmt_folder,
+                asset_filename,
+            ])
+
+        zf.writestr("copy.csv", csv_buf.getvalue())
+
+    buf.seek(0)
+    today = date.today().isoformat()
+    return StreamingResponse(
+        buf,
+        media_type="application/zip",
+        headers={
+            "Content-Disposition": f'attachment; filename="{status}_creatives_{today}.zip"'
+        },
+    )
 
 
 # ---------------------------------------------------------------------------
@@ -1035,7 +1362,7 @@ async def synthesize_reviewer_preferences(req: VoiceNoteSynthesizeRequest = None
 
     try:
         resp = client.messages.create(
-            model="claude-sonnet-4-20250514",
+            model="claude-sonnet-4-5-20250929",
             max_tokens=2000,
             messages=[{"role": "user", "content": "".join(prompt_parts)}],
         )
@@ -1550,8 +1877,8 @@ async def portfolio_scatter(min_spend: float = 50.0):
             "format": fmt,
             "is_video": fmt in VIDEO_FORMATS,
             "source": "existing",
-            "image_url": ad.thumbnail_url or ad.image_url,
-            "full_image_url": ad.image_url,
+            "image_url": ad.image_url or ad.thumbnail_url,
+            "full_image_url": ad.image_url or ad.thumbnail_url,
             "is_outlier": False,
             "rank": None,
         })
@@ -1606,8 +1933,8 @@ async def format_comparison(min_spend: float = 50.0):
 
 class DeployRequest(BaseModel):
     variant_ids: list[str]
-    campaign_id: str
-    adset_id: str
+    campaign_id: Optional[str] = None  # Defaults to farm campaign from settings
+    adset_id: Optional[str] = None     # Defaults to farm adset from settings
 
 
 @app.post("/api/deploy")
@@ -1620,6 +1947,16 @@ async def deploy_to_meta(body: DeployRequest):
     if not settings.META_ACCESS_TOKEN or not settings.META_AD_ACCOUNT_ID:
         raise HTTPException(status_code=500, detail="Meta API credentials not configured")
 
+    # Default to farm campaign/adset from settings
+    campaign_id = body.campaign_id or settings.META_FARM_CAMPAIGN_ID
+    adset_id = body.adset_id or settings.META_FARM_ADSET_ID
+
+    if not campaign_id or not adset_id:
+        raise HTTPException(
+            status_code=400,
+            detail="campaign_id and adset_id are required (or set META_FARM_CAMPAIGN_ID/META_FARM_ADSET_ID in .env)",
+        )
+
     for vid in body.variant_ids:
         try:
             v = store.get_variant(vid)
@@ -1631,10 +1968,14 @@ async def deploy_to_meta(body: DeployRequest):
                 detail=f"Variant {vid} is {v.status.value}, not approved",
             )
 
-    meta = MetaDeployer(settings.META_ACCESS_TOKEN, settings.META_AD_ACCOUNT_ID)
+    meta = MetaDeployer(
+        settings.META_ACCESS_TOKEN,
+        settings.META_AD_ACCOUNT_ID,
+        page_id=settings.META_PAGE_ID,
+    )
     deployer = AdDeployer(store, meta=meta)
 
-    deployed = deployer.deploy_batch(body.variant_ids, body.campaign_id, body.adset_id)
+    deployed = deployer.deploy_batch(body.variant_ids, campaign_id, adset_id)
     notifier.notify_deployment(deployed, "meta")
 
     return {
@@ -1648,6 +1989,234 @@ async def deploy_to_meta(body: DeployRequest):
             for v in deployed
         ],
     }
+
+
+# ---------------------------------------------------------------------------
+# Tracking — manual data pull (P2.3)
+# ---------------------------------------------------------------------------
+
+@app.post("/api/tracking/pull")
+async def pull_tracking():
+    """Manually trigger performance data pull from Meta/Google."""
+    try:
+        from engine.orchestrator import Orchestrator
+        orch = Orchestrator(store=store)
+        snapshots = orch.tracker.pull_daily()
+        return {
+            "snapshots_created": len(snapshots),
+            "date": date.today().isoformat(),
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Tracking pull failed: {e}")
+
+
+# ---------------------------------------------------------------------------
+# Budget Pacing (P2.5)
+# ---------------------------------------------------------------------------
+
+@app.get("/api/budget/pacing")
+async def budget_pacing():
+    """Current month budget pacing vs target."""
+    from engine.tracking.budget import compute_budget_pacing
+    from config.settings import get_settings
+
+    settings = get_settings()
+    snapshots = store.get_all_snapshots()
+    pacing = compute_budget_pacing(
+        snapshots,
+        monthly_budget=settings.MONTHLY_BUDGET,
+    )
+    return pacing
+
+
+# ---------------------------------------------------------------------------
+# Scheduler & Admin (P2.4)
+# ---------------------------------------------------------------------------
+
+@app.post("/api/admin/run-cycle")
+async def manual_daily_cycle():
+    """Manually trigger the full daily cycle (track → decide → regress → notify)."""
+    import asyncio
+    import json as _json
+
+    async def _run():
+        try:
+            from engine.orchestrator import Orchestrator
+            orch = Orchestrator(store=store)
+            results = orch.run_daily_cycle()
+
+            # Log cycle run
+            cycles_dir = Path("data/cycles")
+            cycles_dir.mkdir(parents=True, exist_ok=True)
+            cycle_path = cycles_dir / f"{date.today().isoformat()}.json"
+            cycle_path.write_text(_json.dumps(results, indent=2, default=str))
+
+            return results
+        except Exception as e:
+            print(f"[CYCLE ERROR] {e}")
+            return {"error": str(e)}
+
+    asyncio.create_task(_run())
+    return {"status": "started", "message": "Daily cycle running in background"}
+
+
+@app.get("/api/admin/cycles")
+async def list_cycles():
+    """View history of daily cycle runs."""
+    import json as _json
+
+    cycles_dir = Path("data/cycles")
+    cycles_dir.mkdir(parents=True, exist_ok=True)
+
+    cycles = []
+    for f in sorted(cycles_dir.glob("*.json"), reverse=True):
+        try:
+            data = _json.loads(f.read_text())
+            cycles.append({
+                "date": f.stem,
+                "results": data,
+            })
+        except Exception:
+            cycles.append({"date": f.stem, "results": {"error": "corrupt file"}})
+
+    return {"cycles": cycles[:30]}  # Last 30 cycles
+
+
+@app.get("/api/admin/config")
+async def get_config_status():
+    """
+    Non-secret config status — which integrations are configured.
+    Does NOT expose actual keys/tokens.
+    """
+    from config.settings import get_settings
+    settings = get_settings()
+
+    return {
+        "meta": {
+            "access_token_set": bool(settings.META_ACCESS_TOKEN),
+            "ad_account_id_set": bool(settings.META_AD_ACCOUNT_ID),
+            "page_id_set": bool(settings.META_PAGE_ID),
+            "farm_campaign_id": settings.META_FARM_CAMPAIGN_ID or "(not set)",
+            "farm_adset_id": settings.META_FARM_ADSET_ID or "(not set)",
+            "scale_campaign_id": settings.META_SCALE_CAMPAIGN_ID or "(not set)",
+            "scale_adset_id": settings.META_SCALE_ADSET_ID or "(not set)",
+        },
+        "google": {
+            "developer_token_set": bool(settings.GOOGLE_ADS_DEVELOPER_TOKEN),
+            "customer_id_set": bool(settings.GOOGLE_ADS_CUSTOMER_ID),
+        },
+        "slack": {
+            "webhook_url_set": bool(settings.SLACK_WEBHOOK_URL),
+            "channel": settings.SLACK_CHANNEL,
+        },
+        "budget": {
+            "monthly_budget": settings.MONTHLY_BUDGET,
+            "daily_limit": settings.DAILY_BUDGET_LIMIT,
+            "alert_high_pct": settings.BUDGET_ALERT_HIGH * 100,
+            "alert_low_pct": settings.BUDGET_ALERT_LOW * 100,
+        },
+    }
+
+
+# ---------------------------------------------------------------------------
+# Scheduler setup (P2.4) — APScheduler for automated daily cycle
+# ---------------------------------------------------------------------------
+
+try:
+    from apscheduler.schedulers.asyncio import AsyncIOScheduler
+    from apscheduler.triggers.cron import CronTrigger
+
+    scheduler = AsyncIOScheduler()
+
+    async def daily_cycle_job():
+        """Run the full daily cycle: track → decide → regress → memory → notify."""
+        import json as _json
+        try:
+            from engine.orchestrator import Orchestrator
+            orch = Orchestrator(store=store)
+            results = orch.run_daily_cycle()
+
+            # Log cycle run
+            cycles_dir = Path("data/cycles")
+            cycles_dir.mkdir(parents=True, exist_ok=True)
+            cycle_path = cycles_dir / f"{date.today().isoformat()}.json"
+            cycle_path.write_text(_json.dumps(results, indent=2, default=str))
+
+            print(f"[SCHEDULER] Daily cycle complete: {results.get('date', 'unknown')}")
+        except Exception as e:
+            print(f"[SCHEDULER ERROR] Daily cycle failed: {e}")
+            # Notify via Slack that the daily cycle failed
+            try:
+                notifier._send(f"⚠️ *Daily cycle failed*\nError: {e}")
+            except Exception:
+                pass
+
+    @app.on_event("startup")
+    async def start_scheduler():
+        scheduler.add_job(
+            daily_cycle_job,
+            CronTrigger(hour=6, minute=0, timezone="America/Los_Angeles"),  # 6am PT
+            id="daily_cycle",
+            replace_existing=True,
+        )
+        scheduler.start()
+        print("[SCHEDULER] Daily cycle scheduled for 6:00 AM PT")
+
+    @app.on_event("shutdown")
+    async def stop_scheduler():
+        scheduler.shutdown(wait=False)
+
+except ImportError:
+    print("[SCHEDULER] APScheduler not installed — daily cycle will not run automatically")
+    print("[SCHEDULER] Install with: pip install apscheduler>=3.10.0")
+
+
+# ---------------------------------------------------------------------------
+# Backfill variant visual diversity (assign template + color scheme)
+# ---------------------------------------------------------------------------
+
+def _backfill_variant_templates() -> dict:
+    """
+    Backfill template_id and template_color_scheme on existing variants
+    that have None for these fields. Uses TemplateSelector with batch
+    diversity to assign varied templates and color schemes.
+    """
+    from engine.generation.template_selector import TemplateSelector
+
+    all_variants = store.get_all_variants()
+    needs_backfill = [v for v in all_variants if not v.template_id]
+
+    if not needs_backfill:
+        return {"backfilled": 0, "total": len(all_variants)}
+
+    selector = TemplateSelector()
+
+    # Build copy_variant dicts for the selector
+    copy_variants = []
+    for v in needs_backfill:
+        taxonomy = v.taxonomy.model_dump() if v.taxonomy else {}
+        copy_variants.append({"taxonomy": taxonomy})
+
+    # Use batch selection for diversity
+    plans = selector.select_batch(copy_variants, diversify=True)
+
+    for v, plan in zip(needs_backfill, plans):
+        v.template_id = plan.template
+        v.template_color_scheme = plan.color_scheme
+        store.save_variant(v)
+
+    return {
+        "backfilled": len(needs_backfill),
+        "total": len(all_variants),
+        "templates_assigned": len(set(p.template for p in plans)),
+        "schemes_assigned": len(set(p.color_scheme for p in plans)),
+    }
+
+
+@app.post("/api/assets/backfill-templates")
+async def backfill_templates():
+    """Backfill template_id and template_color_scheme on variants missing them."""
+    return _backfill_variant_templates()
 
 
 # ---------------------------------------------------------------------------
@@ -1678,10 +2247,18 @@ def _heal_stale_asset_paths() -> dict:
 
 @app.on_event("startup")
 async def startup_heal_assets():
-    """Auto-heal stale asset paths when the server starts."""
+    """Auto-heal stale asset paths and backfill template diversity on startup."""
     result = _heal_stale_asset_paths()
     if result["fixed"] > 0:
         print(f"[startup] Healed {result['fixed']} stale asset paths out of {result['scanned']} variants")
+
+    # Backfill template_id and template_color_scheme for variants missing them
+    backfill = _backfill_variant_templates()
+    if backfill["backfilled"] > 0:
+        print(
+            f"[startup] Backfilled {backfill['backfilled']} variants with diverse templates "
+            f"({backfill['templates_assigned']} templates, {backfill['schemes_assigned']} schemes)"
+        )
 
 
 @app.post("/api/assets/heal")

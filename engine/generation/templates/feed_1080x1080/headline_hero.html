@@ -31,8 +31,8 @@
             background: linear-gradient(
                 160deg,
                 {{background_color}} 0%,
-                {{background_color}} 55%,
-                {{accent_color}}22 100%
+                {{background_color}} 60%,
+                {{accent_color}}18 100%
             );
         }
 
@@ -43,35 +43,36 @@
             height: 100%;
             display: flex;
             flex-direction: column;
-            padding: 72px 80px 64px;
+            padding: 80px 88px 72px;
         }
 
-        .logo { height: 52px; width: auto; }
+        .logo { height: 36px; width: auto; max-width: 200px; object-fit: contain; }
 
         .content {
             flex: 1;
             display: flex;
             flex-direction: column;
             justify-content: center;
-            gap: 28px;
+            gap: 32px;
         }
 
         .headline {
             font-family: 'Archivo', sans-serif;
-            font-size: 88px;
+            font-size: 76px;
             font-weight: 700;
-            line-height: 1.05;
+            line-height: 1.08;
             color: {{headline_color}};
             letter-spacing: -1.5px;
+            max-width: 90%;
         }
 
         .body-text {
-            font-size: 34px;
+            font-size: 28px;
             font-weight: 400;
-            line-height: 1.45;
+            line-height: 1.4;
             color: {{body_color}};
-            opacity: 0.85;
-            max-width: 85%;
+            opacity: 0.7;
+            max-width: 75%;
         }
 
         .cta-button {
@@ -81,19 +82,18 @@
             background: {{cta_background}};
             color: {{cta_text_color}};
             font-family: 'Inter', sans-serif;
-            font-size: 26px;
+            font-size: 24px;
             font-weight: 600;
             border-radius: 14px;
             align-self: flex-start;
-            margin-top: 8px;
-            box-shadow: 0 4px 20px rgba(0,0,0,0.12);
+            margin-top: 4px;
         }
 
         .accent-strip {
             position: absolute;
             bottom: 0; left: 0; right: 0;
-            height: 10px;
-            background: linear-gradient(90deg, #1C1E85 0%, #FD96C9 50%, #813FE8 100%);
+            height: 8px;
+            background: linear-gradient(90deg, {{accent_color}} 0%, {{cta_background}} 100%);
         }
     </style>
 </head>

@@ -25,27 +25,26 @@
         }
 
         .left-panel {
-            width: 55%;
+            width: 58%;
             height: 100%;
             background: {{background_color}};
             display: flex;
             flex-direction: column;
-            padding: 72px 56px 64px;
+            padding: 80px 56px 72px;
         }
 
         .right-panel {
-            width: 45%;
+            width: 42%;
             height: 100%;
             background: {{accent_color}};
             position: relative;
             overflow: hidden;
         }
 
-        /* Duo-tone cube pattern from brand guidelines */
         .pattern-grid {
             position: absolute;
             inset: 0;
-            opacity: 0.08;
+            opacity: 0.06;
             background-image:
                 linear-gradient(45deg, {{background_color}} 25%, transparent 25%),
                 linear-gradient(-45deg, {{background_color}} 25%, transparent 25%),
@@ -58,24 +57,24 @@
         .right-brand {
             position: absolute;
             bottom: 80px;
-            right: 56px;
+            right: 48px;
         }
 
-        .right-brand img { height: 48px; width: auto; opacity: 0.5; }
+        .right-brand img { height: 44px; width: auto; opacity: 0.4; }
 
-        .logo { height: 48px; width: auto; margin-bottom: 48px; }
+        .logo { height: 36px; width: auto; max-width: 200px; object-fit: contain; margin-bottom: 48px; }
 
         .content {
             flex: 1;
             display: flex;
             flex-direction: column;
             justify-content: center;
-            gap: 24px;
+            gap: 28px;
         }
 
         .headline {
             font-family: 'Archivo', sans-serif;
-            font-size: 64px;
+            font-size: 58px;
             font-weight: 700;
             line-height: 1.1;
             color: {{headline_color}};
@@ -83,11 +82,11 @@
         }
 
         .body-text {
-            font-size: 30px;
+            font-size: 26px;
             font-weight: 400;
-            line-height: 1.5;
+            line-height: 1.45;
             color: {{body_color}};
-            opacity: 0.85;
+            opacity: 0.7;
         }
 
         .cta-button {
@@ -97,12 +96,11 @@
             background: {{cta_background}};
             color: {{cta_text_color}};
             font-family: 'Inter', sans-serif;
-            font-size: 24px;
+            font-size: 22px;
             font-weight: 600;
             border-radius: 12px;
             align-self: flex-start;
-            margin-top: 12px;
-            box-shadow: 0 4px 16px rgba(0,0,0,0.12);
+            margin-top: 4px;
         }
     </style>
 </head>

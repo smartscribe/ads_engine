@@ -3,14 +3,14 @@
   "brief_id": "aed4b28f-ed01-4941-9958-602fa66b317e",
   "created_at": "2026-03-27T07:39:57.054851",
   "headline": "Still Charting at 7pm?",
-  "primary_text": "Most solo therapists chart until 7 or 8pm. JotPsych users leave at 6. The difference? AI documentation that writes itself from your session recordings — SOAP notes, treatment plans, billing codes included. HIPAA-compliant for behavioral health. Try it free and finish work on time for once.",
+  "primary_text": "Most solo therapists chart until 7 or 8pm. JotPsych users leave at 6. The difference? AI documentation that writes itself from your session recordings. SOAP notes, treatment plans, billing codes included. HIPAA-compliant for behavioral health. Try it free and finish work on time for once.",
   "description": "",
   "cta_button": "See It In Action",
-  "asset_path": "data/creatives/rendered/meta_feed_dbbdb2b0.png",
+  "asset_path": "data/creatives/rendered/feed_1080x1080_split_screen_be5d77ea.png",
   "asset_type": "image",
   "asset_status": "pending",
-  "template_id": null,
-  "template_color_scheme": null,
+  "template_id": "feed_1080x1080/split_screen",
+  "template_color_scheme": "light",
   "taxonomy": {
     "message_type": "comparison",
     "hook_type": "question",
@@ -34,6 +34,7 @@
     "human_face_visible": false,
     "social_proof_type": "none",
     "copy_length_bin": "medium",
+    "asset_source": "template",
     "tagging_confidence": {},
     "VALID_VALUES": {
       "message_type": [
@@ -119,12 +120,14 @@
       ]
     }
   },
-  "status": "draft",
+  "status": "approved",
   "review_notes": null,
-  "reviewer": null,
-  "reviewed_at": null,
+  "reviewer": "nate",
+  "reviewed_at": "2026-03-28T05:52:03.591656",
   "review_chips": [],
-  "review_duration_ms": 0,
+  "review_duration_ms": 22846,
+  "deployment_targets": [],
+  "hypothesis_id": null,
   "meta_ad_id": null,
   "google_ad_id": null
 }

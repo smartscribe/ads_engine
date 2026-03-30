@@ -7,29 +7,11 @@ to SQLite or Postgres when volume demands it. The interface stays the same.
 
 from __future__ import annotations
 
-import fcntl
 import json
 import os
-from contextlib import contextmanager
 from datetime import date
 from pathlib import Path
 from typing import Optional
-
-
-@contextmanager
-def _atomic_write(path: Path):
-    """Write to a file with advisory locking to prevent concurrent corruption."""
-    tmp = path.with_suffix(path.suffix + ".tmp")
-    try:
-        with open(tmp, "w") as f:
-            fcntl.flock(f.fileno(), fcntl.LOCK_EX)
-            yield f
-            f.flush()
-            os.fsync(f.fileno())
-        tmp.rename(path)  # atomic on POSIX
-    except BaseException:
-        tmp.unlink(missing_ok=True)
-        raise
 
 from engine.models import (
     AdVariant,
@@ -68,8 +50,7 @@ class Store:
 
     def save_brief(self, brief: CreativeBrief) -> None:
         path = self.briefs_dir / f"{brief.id}.json"
-        with _atomic_write(path) as f:
-            f.write(brief.model_dump_json(indent=2))
+        path.write_text(brief.model_dump_json(indent=2))
 
     def get_brief(self, brief_id: str) -> CreativeBrief:
         path = self.briefs_dir / f"{brief_id}.json"
@@ -85,8 +66,7 @@ class Store:
 
     def save_variant(self, variant: AdVariant) -> None:
         path = self.variants_dir / f"{variant.id}.json"
-        with _atomic_write(path) as f:
-            f.write(variant.model_dump_json(indent=2))
+        path.write_text(variant.model_dump_json(indent=2))
 
     def get_variant(self, variant_id: str) -> AdVariant:
         path = self.variants_dir / f"{variant_id}.json"
@@ -108,8 +88,7 @@ class Store:
 
     def save_snapshot(self, snapshot: PerformanceSnapshot) -> None:
         path = self.snapshots_dir / f"{snapshot.id}.json"
-        with _atomic_write(path) as f:
-            f.write(snapshot.model_dump_json(indent=2))
+        path.write_text(snapshot.model_dump_json(indent=2))
 
     def get_snapshots_for_variant(self, variant_id: str) -> list[PerformanceSnapshot]:
         all_snapshots = [
@@ -131,8 +110,7 @@ class Store:
 
     def save_decision(self, decision: DecisionRecord) -> None:
         path = self.decisions_dir / f"{decision.id}.json"
-        with _atomic_write(path) as f:
-            f.write(decision.model_dump_json(indent=2))
+        path.write_text(decision.model_dump_json(indent=2))
 
     def get_decisions_for_variant(self, variant_id: str) -> list[DecisionRecord]:
         all_decisions = [
@@ -148,8 +126,7 @@ class Store:
 
     def save_regression(self, result: RegressionResult) -> None:
         path = self.regression_dir / f"regression_{result.run_date.isoformat()}.json"
-        with _atomic_write(path) as f:
-            f.write(result.model_dump_json(indent=2))
+        path.write_text(result.model_dump_json(indent=2))
 
     def get_latest_regression(self) -> Optional[RegressionResult]:
         files = sorted(self.regression_dir.glob("regression_*.json"), reverse=True)
@@ -161,8 +138,7 @@ class Store:
 
     def save_existing_ad(self, ad: ExistingAd) -> None:
         path = self.existing_ads_dir / f"{ad.id}.json"
-        with _atomic_write(path) as f:
-            f.write(ad.model_dump_json(indent=2))
+        path.write_text(ad.model_dump_json(indent=2))
 
     def get_existing_ad(self, ad_id: str) -> ExistingAd:
         path = self.existing_ads_dir / f"{ad_id}.json"
@@ -193,8 +169,7 @@ class Store:
         path = self.memory_dir / "creative_memory.json"
         
         if hasattr(memory, 'model_dump_json'):
-            with _atomic_write(path) as f:
-                f.write(memory.model_dump_json(indent=2))
+            path.write_text(memory.model_dump_json(indent=2))
         elif dataclasses.is_dataclass(memory):
             def convert(obj):
                 if dataclasses.is_dataclass(obj):
@@ -208,9 +183,8 @@ class Store:
                 elif hasattr(obj, 'value'):
                     return obj.value
                 return obj
-
-            with _atomic_write(path) as f:
-                f.write(json.dumps(convert(memory), indent=2, default=str))
+            
+            path.write_text(json.dumps(convert(memory), indent=2, default=str))
         else:
             raise ValueError(f"Unknown memory type: {type(memory)}")
 
@@ -529,8 +503,7 @@ class Store:
                 elif hasattr(v, "isoformat"):
                     d[k] = v.isoformat()
             data.append(d)
-        with _atomic_write(path) as f:
-            f.write(json.dumps(data, indent=2, default=str))
+        path.write_text(json.dumps(data, indent=2, default=str))
 
     def load_hypotheses(self) -> list:
         """Load all hypotheses from data/hypotheses.json."""

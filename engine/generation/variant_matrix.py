@@ -9,16 +9,6 @@ from typing import Optional
 from engine.models import CreativeBrief, CreativeTaxonomy, RegressionResult
 from engine.store import Store
 
-
-def _combo_key(combo: tuple) -> tuple:
-    """Stable identity for a (headline_dict, body_dict, cta_str) combo."""
-    h, b, c = combo
-    return (
-        h.get("text", "") if isinstance(h, dict) else str(h),
-        b.get("text", "") if isinstance(b, dict) else str(b),
-        c if isinstance(c, str) else str(c),
-    )
-
 CTA_TYPE_MAP = {
     "try_free": "try_free",
     "try_it_free": "try_free",
@@ -107,8 +97,8 @@ class VariantMatrix:
                 scored_with_penalty, n=n_exploit
             )
             
-            exploit_ids = {_combo_key(s["combo"]) for s in exploit_selected}
-            remaining = [s for s in scored_with_penalty if _combo_key(s["combo"]) not in exploit_ids]
+            exploit_ids = {id(s["combo"]) for s in exploit_selected}
+            remaining = [s for s in scored_with_penalty if id(s["combo"]) not in exploit_ids]
             
             explore_selected = self._select_explore(remaining, n=n_explore)
             
@@ -116,7 +106,7 @@ class VariantMatrix:
             combined = self._enforce_minimums(combined, scored_with_penalty, min_unique)
 
             results = []
-            exploit_set = {_combo_key(s["combo"]) for s in exploit_selected}
+            exploit_set = {id(s["combo"]) for s in exploit_selected}
             for item in combined:
                 results.append({
                     "headline": item["combo"][0],
@@ -124,7 +114,7 @@ class VariantMatrix:
                     "cta": item["combo"][2],
                     "predicted_score": item["base_score"],
                     "fatigue_penalty": item["fatigue_penalty"],
-                    "strategy": "exploit" if _combo_key(item["combo"]) in exploit_set else "explore",
+                    "strategy": "exploit" if id(item["combo"]) in exploit_set else "explore",
                 })
             
             return results
@@ -379,8 +369,8 @@ class VariantMatrix:
                 return combo[1].get("tone", "")
             return ""
 
-        selected_ids = {_combo_key(s["combo"]) for s in selected}
-        available = [s for s in full_pool if _combo_key(s["combo"]) not in selected_ids]
+        selected_ids = {id(s["combo"]) for s in selected}
+        available = [s for s in full_pool if id(s["combo"]) not in selected_ids]
 
         for dim, required in min_unique.items():
             max_swaps = len(selected)
@@ -418,9 +408,9 @@ class VariantMatrix:
                     if _get_dim_value(s, dim) == most_common_val
                 ]
                 swap_out = max(swap_candidates, key=lambda x: x.get("adjusted_score", 0))
-                selected = [s for s in selected if _combo_key(s["combo"]) != _combo_key(swap_out["combo"])]
+                selected = [s for s in selected if id(s) != id(swap_out)]
                 selected.append(candidate)
-                available = [s for s in available if _combo_key(s["combo"]) != _combo_key(candidate["combo"])]
+                available = [s for s in available if id(s["combo"]) != id(candidate["combo"])]
                 swaps_done += 1
 
         return selected
