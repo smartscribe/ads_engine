@@ -111,6 +111,65 @@ class SlackNotifier:
         )
         self._send(message)
 
+    def notify_hypothesis_update(self, evaluations: list, hypotheses: list = None) -> None:
+        """Post when hypotheses are evaluated — includes performance data and status changes."""
+        lines = [f"*Hypothesis Update — {date.today().isoformat()}*\n"]
+
+        hypothesis_map = {}
+        if hypotheses:
+            hypothesis_map = {h.id: h for h in hypotheses}
+
+        status_changes = [e for e in evaluations if e.old_status != e.new_status]
+        promising = [
+            e for e in evaluations
+            if e.old_status == e.new_status and e.new_confidence >= 0.6
+        ]
+
+        for e in status_changes:
+            h = hypothesis_map.get(e.hypothesis_id)
+            perf = ""
+            if h and h.total_spend > 0:
+                perf = f"\n  ${h.total_spend:.0f} spent across {len(h.variant_ids)} ads"
+                if h.treatment_cpfn and h.baseline_cpfn:
+                    perf += f" | ${h.treatment_cpfn:.0f} vs ${h.baseline_cpfn:.0f} baseline"
+                if h.lift_pct is not None:
+                    perf += f" | {h.lift_pct:+.0f}% lift"
+
+            if e.new_status == "confirmed":
+                lines.append(f"*CONFIRMED*: \"{e.hypothesis_text}\"{perf}")
+            elif e.new_status == "rejected":
+                lines.append(f"*REJECTED*: \"{e.hypothesis_text}\"{perf}")
+
+        for e in promising:
+            h = hypothesis_map.get(e.hypothesis_id)
+            if h and h.total_spend > 50:
+                perf = f"${h.total_spend:.0f} spent"
+                if h.lift_pct is not None:
+                    perf += f" | {h.lift_pct:+.0f}% lift (early)"
+                lines.append(f"*PROMISING*: \"{e.hypothesis_text}\" — {perf}")
+
+        if len(lines) <= 1 and not status_changes and not promising:
+            return
+
+        lines.append(f"\n{len(evaluations)} hypotheses evaluated this cycle.")
+        self._send("\n".join(lines))
+
+    def notify_hypothesis_created(self, hypothesis, variant_count: int) -> None:
+        """Post when a new hypothesis is created and ads are generated to test it."""
+        source_label = {
+            "review_feedback": "review feedback",
+            "monologue": "monologue",
+            "voice_note": "voice note",
+            "manual": "manual input",
+        }.get(hypothesis.source, hypothesis.source)
+
+        message = (
+            f"*New Hypothesis — from {source_label}*\n"
+            f"Testing: \"{hypothesis.hypothesis_text}\"\n"
+            f"{variant_count} variants queued for review."
+        )
+        self._send(message)
+
     def notify_budget_alert(self, daily_spend: float, daily_limit: float) -> None:
         """Post when daily spend approaches or exceeds limits."""
         pct = daily_spend / daily_limit * 100

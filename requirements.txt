@@ -6,29 +6,35 @@ anthropic>=0.40.0
 # API
 fastapi>=0.110.0
 uvicorn>=0.27.0
+python-multipart>=0.0.9   # required for FastAPI form data endpoints
 
 # Data / Regression
 numpy>=1.26.0
 pandas>=2.2.0
 scipy>=1.12.0
+scikit-learn>=1.4.0   # train_test_split for holdout validation (R1)
 
-# Meta Ads (intern: uncomment when implementing)
-# facebook-business>=19.0.0
+# Meta Ads
+facebook-business>=19.0.0
 
 # Google Ads (intern: uncomment when implementing)
 # google-ads>=24.0.0
 
-# Image generation (intern: add based on chosen provider)
-# replicate  # for Flux
-# openai     # for DALL-E
-# ideogram   # for Ideogram
+# Image generation
+openai>=1.0.0  # DALL-E 3 + Whisper voice transcription
+google-genai   # Google Imagen 3 via Gemini API
 
 # Video generation (intern: add based on chosen provider)
 # runwayml
 # requests   # for API-based providers
 
-# Slack (for webhook fallback)
-# requests>=2.31.0
+# HTTP requests (Meta API, Slack webhook)
+requests>=2.31.0
+
+# Template rendering (HTML → PNG/MP4 ad assets via headless Chromium)
+playwright>=1.40.0
+# ffmpeg is a system dependency for video rendering (WebM → MP4 conversion)
+# Install: brew install ffmpeg (macOS) or apt install ffmpeg (Linux)
 
 # Dev
 pytest>=8.0.0

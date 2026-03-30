@@ -1,0 +1,32 @@
+{
+  "id": "326dcbe4-db8f-454a-9ef6-503809a73a22",
+  "created_at": "2026-03-26T20:31:22.095252",
+  "raw_input": "Therapists spend 2 hours on documentation after every session. JotPsych generates clinical-quality notes automatically, so you can leave on time. --v2",
+  "source": "manual",
+  "target_audience": "bh_clinicians",
+  "value_proposition": "Generate clinical-quality notes automatically and reclaim 2 hours of your day to leave work on time",
+  "pain_point": "Therapists are trapped at their desks for 2+ hours after their last patient doing documentation, leading to late nights, weekend work, and burnout",
+  "desired_action": "Sign up for free trial or book a demo to see how JotPsych can automate their clinical documentation",
+  "tone_direction": "Empathetic but urgent. Acknowledge the exhaustion without being depressing. Shift quickly to relief and possibility. Use 'you' language. Conversational but professional. Avoid corporate jargon—speak like a fellow clinician who found the solution.",
+  "visual_direction": "Split-screen contrast: LEFT SIDE shows therapist alone in dim office at 8pm, surrounded by charts, rubbing tired eyes, clock prominently showing late hour. RIGHT SIDE shows same therapist closing laptop at 5:30pm, grabbing coat, sunlight still visible through window. Color grade: left is cool/blue (exhaustion), right is warm/golden (freedom). For video: transition from left to right with smooth wipe, ending on smile/relief.",
+  "key_phrases": [
+    "leave on time",
+    "reclaim your evenings",
+    "2 hours of documentation",
+    "clinical-quality notes",
+    "automatically generated",
+    "stop staying late",
+    "see your family",
+    "end the after-hours grind"
+  ],
+  "references": [],
+  "num_variants": 6,
+  "formats_requested": [
+    "single_image",
+    "video"
+  ],
+  "platforms": [
+    "meta",
+    "google"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "01935321-1222-4678-a67c-872f4c630632",
+  "created_at": "2026-03-27T08:29:04.296302",
+  "raw_input": "[auto-generated from playbook] Join 10,000+ clinicians who've discovered how to finish notes in minutes without sacrificing quality",
+  "source": "playbook",
+  "target_audience": "bh_clinicians",
+  "value_proposition": "Join 10,000+ clinicians who've discovered how to finish notes in minutes without sacrificing quality",
+  "pain_point": "Feeling isolated in the documentation struggle, wondering why some colleagues seem to have it figured out while you're drowning",
+  "desired_action": "Click 'Learn More' to discover what the community knows",
+  "tone_direction": "Inclusive community insider—like being let in on a secret that's not gatekept but generously shared among peers. Creates FOMO through curiosity and belonging, not exclusion. Warm invitation to join something that's working for people just like you.",
+  "visual_direction": "Photography collage or simple slideshow: diverse clinicians in satisfied/content moments—closing laptop with smile, leaving office in daylight, relaxed at desk. Photo booth authenticity, not stock photo polish. Overlay transparent testimonial quotes subtly: 'I'm home for dinner now - Sarah, LCSW' / 'No more weekend charting - Marcus, PhD'. Warm earth tones, natural lighting, genuine expressions of quiet relief.",
+  "key_phrases": [
+    "What do 10,000 clinicians know that you don't?",
+    "Why are your colleagues finishing notes in minutes?",
+    "Ever wonder how some clinicians never take work home?",
+    "Over 10,000 mental health clinicians use JotPsych to document faster without sacrificing quality",
+    "They're not working harder—they're working with AI that actually understands clinical conversations",
+    "Join them."
+  ],
+  "references": [],
+  "emotional_register": "From isolated confusion ('Am I the only one struggling this much?') and mild envy of colleagues who seem balanced → to validated belonging in a community that's found a better way together",
+  "proof_element": "10,000+ mental health clinicians actively using the platform; specific testimonials from named providers with credentials showing real community adoption",
+  "hook_strategy": "Open on close-up of satisfied clinician closing laptop at 4:30pm (visible clock/window showing daylight). Text overlay question: 'What do 10,000 clinicians know that you don't?' Hold on their content expression for 2 seconds before cutting to collage.",
+  "target_persona_details": "Jennifer, 33, LMFT in community mental health, carries imposter syndrome about productivity. Daily routine: sees 7 clients back-to-back, watches colleagues leave at 5pm while she stays until 7:30pm doing notes, wonders what she's doing wrong. Pain moment: 6:45pm in empty office, sees colleague's Facebook post about making their kid's soccer game, feels simultaneous envy and shame that she can't figure out how others manage. Assumes they're just better clinicians or have simpler cases.",
+  "brief_richness_score": 9.2,
+  "source_pattern_id": "Untested Combination #1: Social Proof + Question Hooks + Brief 3",
+  "num_variants": 6,
+  "formats_requested": [
+    "single_image",
+    "video"
+  ],
+  "platforms": [
+    "meta"
+  ]
+}

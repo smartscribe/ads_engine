@@ -1,0 +1,35 @@
+{
+  "id": "d26c76f6-dfb3-485b-b878-399a2e32b2df",
+  "created_at": "2026-03-27T08:29:04.296546",
+  "raw_input": "[auto-generated from playbook] Reduce clinician burnout and improve retention by eliminating the 15+ weekly hours your staff spends on documentation instead of revenue-generating patient care",
+  "source": "playbook",
+  "target_audience": "smb_clinic_owners",
+  "value_proposition": "Reduce clinician burnout and improve retention by eliminating the 15+ weekly hours your staff spends on documentation instead of revenue-generating patient care",
+  "pain_point": "Losing good clinicians to burnout, seeing productivity suffer as documentation burden crushes morale, and watching revenue potential slip away to administrative overhead",
+  "desired_action": "Click 'Learn More' to see ROI calculator",
+  "tone_direction": "Strategic partner to fellow business owner—someone who understands the dual mandate of mission and margin. Respectful of clinical quality while speaking the language of retention, productivity, and sustainable growth. Think healthcare MBA meets empathetic clinic director.",
+  "visual_direction": "Mixed media: photography of small practice environment (reception area, therapy offices) with overlay of simple data visualization showing time/cost savings. Could show burned-out clinician vs. satisfied clinician side-by-side. Professional but warm, avoiding corporate sterility. Include screen capture of practice-level dashboard showing aggregate time savings. Cool clinical colors acceptable here (blues/greens suggesting growth and stability) mixed with warm accents.",
+  "key_phrases": [
+    "Your clinicians spend 15+ hours per week on documentation. That's nearly a full workweek lost.",
+    "Burnout costs you $20,000+ per clinician to replace",
+    "What if your team could see 20% more patients without working longer hours?",
+    "JotPsych cuts documentation time by 75% across your entire practice",
+    "Better retention. Better productivity. Better margins.",
+    "Over 500 group practices use JotPsych to protect their most valuable asset: their people"
+  ],
+  "references": [],
+  "emotional_register": "From frustrated helplessness watching good clinicians burn out despite your best efforts, plus guilt about mission vs. business tension → to empowered problem-solving with tool that aligns mission and margin, protecting both culture and viability",
+  "proof_element": "75% reduction in documentation time; 500+ group practices using the platform; average practice sees 20% increase in patient capacity without increasing clinician hours; $20K+ average replacement cost per clinician",
+  "hook_strategy": "Open on practice owner at desk reviewing resignation letter or exit interview notes, expression showing this isn't the first time. Text overlay: 'This is the third clinician you've lost to burnout this year.' Cut to statistic: '15+ hours per week per clinician spent on documentation.' Then: 'That's what's really killing your practice.'",
+  "target_persona_details": "Lisa, 48, LCSW who grew her solo practice into 8-clinician group over 15 years, now spending more time managing than treating. Daily routine: mornings handling admin, afternoons seeing few clients, evenings reviewing complaints about documentation burden, quarterly dealing with turnover. Pain moment: exit interview with talented young clinician who's leaving for hospital job despite lower pay because 'I just can't keep up with the notes here,' knowing documentation burden is systemic problem she hasn't solved and it's threatening the practice culture she built. Needs solution that scales and protects investment in hiring.",
+  "brief_richness_score": 10.0,
+  "source_pattern_id": "Top Pattern #4 + #3 adapted for business audience + Brief 4 framework",
+  "num_variants": 6,
+  "formats_requested": [
+    "single_image",
+    "video"
+  ],
+  "platforms": [
+    "meta"
+  ]
+}

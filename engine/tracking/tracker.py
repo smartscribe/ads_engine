@@ -3,12 +3,11 @@ Performance Tracker — pulls daily metrics from Meta and Google APIs.
 
 Runs on a daily schedule. Pulls spend, impressions, clicks, conversions
 for every LIVE ad variant and stores PerformanceSnapshot records.
-
-The intern needs to implement the actual API data pulls.
 """
 
 from __future__ import annotations
 
+import time
 from datetime import date, datetime
 from typing import Optional
 
@@ -16,31 +15,112 @@ from engine.models import AdVariant, AdStatus, Platform, PerformanceSnapshot
 from engine.store import Store
 
 
+def _retry(fn, retries=3, backoff=1.0):
+    """Call fn() with exponential backoff on failure."""
+    for attempt in range(retries):
+        try:
+            return fn()
+        except Exception:
+            if attempt == retries - 1:
+                raise
+            time.sleep(backoff * (2 ** attempt))
+
+
+def _parse_actions(actions: list[dict]) -> dict:
+    """Extract conversion counts from Meta actions array."""
+    result = {
+        "first_note_completions": 0,
+        "signups": 0,
+        "landing_page_views": 0,
+    }
+    if not actions:
+        return result
+    for action in actions:
+        atype = action.get("action_type", "")
+        value = int(action.get("value", 0))
+        if "first_note" in atype or "first_note_completion" in atype:
+            result["first_note_completions"] += value
+        elif atype in ("lead", "onsite_conversion.lead_grouped") or "signup" in atype:
+            result["signups"] += value
+        elif atype == "landing_page_view":
+            result["landing_page_views"] += value
+    return result
+
+
 class MetaTracker:
-    """Pull performance data from Meta Marketing API."""
+    """Pull performance data from Meta Marketing API via facebook_business SDK."""
 
     def __init__(self, access_token: str, ad_account_id: str):
+        from facebook_business.api import FacebookAdsApi
+
+        FacebookAdsApi.init(app_id=None, app_secret=None, access_token=access_token)
         self.access_token = access_token
         self.ad_account_id = ad_account_id
 
-    def pull_ad_metrics(self, meta_ad_id: str, report_date: date) -> dict:
+    def pull_ad_metrics(self, meta_ad_id: str, report_date: date) -> Optional[dict]:
         """
         Pull metrics for a single ad on a given date.
-
-        STUB — intern implements using Meta Insights API.
-
-        Should return dict with:
-        - spend, impressions, reach, clicks
-        - actions breakdown for: landing_page_view, sign_up, custom_conversion (first_note)
-        - relevance_score (if available)
-
-        Endpoint: GET /{ad_id}/insights?date_preset=yesterday&fields=...
+        Returns normalized dict or None if no data for that day.
         """
-        raise NotImplementedError("Intern: implement Meta metrics pull")
+        from facebook_business.adobjects.ad import Ad
+
+        ad = Ad(meta_ad_id)
+        params = {
+            "time_range": {
+                "since": report_date.isoformat(),
+                "until": report_date.isoformat(),
+            },
+            "level": "ad",
+        }
+        fields = [
+            "spend", "impressions", "reach", "clicks",
+            "actions", "cost_per_action_type",
+        ]
+
+        insights = _retry(lambda: ad.get_insights(params=params, fields=fields))
+
+        if not insights:
+            return None
+
+        row = insights[0]
+        actions = row.get("actions", [])
+        parsed = _parse_actions(actions)
+
+        return {
+            "spend": float(row.get("spend", 0)),
+            "impressions": int(row.get("impressions", 0)),
+            "reach": int(row.get("reach", 0)),
+            "clicks": int(row.get("clicks", 0)),
+            "first_note_completions": parsed["first_note_completions"],
+            "signups": parsed["signups"],
+            "landing_page_views": parsed["landing_page_views"],
+            "relevance_score": None,
+            "quality_score": None,
+        }
 
     def pull_all_active(self, report_date: date) -> list[dict]:
         """Pull metrics for all active ads in the account."""
-        raise NotImplementedError("Intern: implement Meta bulk metrics pull")
+        from facebook_business.adobjects.adaccount import AdAccount
+
+        account = AdAccount(self.ad_account_id)
+        ads = _retry(
+            lambda: account.get_ads(
+                params={"effective_status": ["ACTIVE"]},
+                fields=["id", "name"],
+            )
+        )
+
+        results = []
+        for ad in ads:
+            try:
+                metrics = self.pull_ad_metrics(ad["id"], report_date)
+                if metrics:
+                    metrics["ad_id"] = ad["id"]
+                    metrics["ad_name"] = ad.get("name", "")
+                    results.append(metrics)
+            except Exception as e:
+                print(f"Error pulling metrics for {ad['id']}: {e}")
+        return results
 
 
 class GoogleTracker:

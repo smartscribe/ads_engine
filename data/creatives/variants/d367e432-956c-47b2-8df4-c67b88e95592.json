@@ -1,0 +1,130 @@
+{
+  "id": "d367e432-956c-47b2-8df4-c67b88e95592",
+  "brief_id": "be7987fb-0b90-402c-ba48-947e31899fd2",
+  "created_at": "2026-03-27T08:30:49.471103",
+  "headline": "50 Min Session. 30 Min Note. Wrong.",
+  "primary_text": "You're drowning in documentation, and it's not your fault. The system asks you to spend 15+ hours weekly on paperwork while seeing patients full-time. JotPsych gives you those hours back. AI-generated notes. Audit-ready documentation. Used by 10,000+ clinicians who refused to accept burnout as normal.",
+  "description": "",
+  "cta_button": "See the Evidence",
+  "asset_path": "data/creatives/rendered/meta_feed_5d984bbc.png",
+  "asset_type": "image",
+  "asset_status": "pending",
+  "template_id": null,
+  "template_color_scheme": null,
+  "taxonomy": {
+    "message_type": "pain_point",
+    "hook_type": "statistic",
+    "cta_type": "see_the_evidence",
+    "tone": "warm",
+    "visual_style": "photography",
+    "subject_matter": "clinician_at_work",
+    "color_mood": "brand_primary",
+    "text_density": "headline_subhead",
+    "format": "video",
+    "platform": "meta",
+    "placement": "feed",
+    "headline_word_count": 7,
+    "uses_number": true,
+    "uses_question": false,
+    "uses_first_person": false,
+    "uses_social_proof": false,
+    "copy_reading_level": 8.0,
+    "contains_specific_number": false,
+    "shows_product_ui": false,
+    "human_face_visible": false,
+    "social_proof_type": "none",
+    "copy_length_bin": "medium",
+    "tagging_confidence": {},
+    "VALID_VALUES": {
+      "message_type": [
+        "value_prop",
+        "pain_point",
+        "social_proof",
+        "urgency",
+        "education",
+        "comparison"
+      ],
+      "hook_type": [
+        "question",
+        "statistic",
+        "testimonial",
+        "provocative_claim",
+        "scenario",
+        "direct_benefit"
+      ],
+      "cta_type": [
+        "try_free",
+        "book_demo",
+        "learn_more",
+        "see_how",
+        "start_saving_time",
+        "watch_video"
+      ],
+      "tone": [
+        "clinical",
+        "warm",
+        "urgent",
+        "playful",
+        "authoritative",
+        "empathetic"
+      ],
+      "visual_style": [
+        "photography",
+        "illustration",
+        "screen_capture",
+        "text_heavy",
+        "mixed_media",
+        "abstract"
+      ],
+      "subject_matter": [
+        "clinician_at_work",
+        "patient_interaction",
+        "product_ui",
+        "workflow_comparison",
+        "conceptual",
+        "data_viz"
+      ],
+      "color_mood": [
+        "brand_primary",
+        "warm_earth",
+        "cool_clinical",
+        "high_contrast",
+        "muted_soft",
+        "bold_saturated"
+      ],
+      "text_density": [
+        "headline_only",
+        "headline_subhead",
+        "detailed_copy",
+        "minimal_overlay"
+      ],
+      "placement": [
+        "feed",
+        "story",
+        "reels",
+        "search",
+        "display",
+        "discover"
+      ],
+      "social_proof_type": [
+        "none",
+        "peer",
+        "testimonial",
+        "stat"
+      ],
+      "copy_length_bin": [
+        "short",
+        "medium",
+        "long"
+      ]
+    }
+  },
+  "status": "draft",
+  "review_notes": null,
+  "reviewer": null,
+  "reviewed_at": null,
+  "review_chips": [],
+  "review_duration_ms": 0,
+  "meta_ad_id": null,
+  "google_ad_id": null
+}

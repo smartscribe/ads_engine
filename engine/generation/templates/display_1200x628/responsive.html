@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=1200, height=628">
+    <style>
+        @font-face {
+            font-family: 'Archivo';
+            src: url('{{font_path_archivo}}') format('truetype');
+            font-weight: 100 900;
+        }
+        @font-face {
+            font-family: 'Inter';
+            src: url('{{font_path_inter}}') format('truetype');
+            font-weight: 100 900;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            width: 1200px;
+            height: 628px;
+            font-family: 'Inter', sans-serif;
+            overflow: hidden;
+            display: flex;
+            position: relative;
+            background: {{background_color}};
+        }
+
+        .main-content {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            padding: 48px 56px;
+            gap: 16px;
+        }
+
+        .logo { height: 40px; width: auto; margin-bottom: 8px; }
+
+        .headline {
+            font-family: 'Archivo', sans-serif;
+            font-size: 44px;
+            font-weight: 700;
+            line-height: 1.12;
+            color: {{headline_color}};
+            letter-spacing: -0.5px;
+        }
+
+        .body-text {
+            font-size: 22px;
+            font-weight: 400;
+            line-height: 1.4;
+            color: {{body_color}};
+            opacity: 0.85;
+            max-width: 90%;
+        }
+
+        .cta-button {
+            display: inline-flex;
+            align-items: center;
+            padding: 14px 36px;
+            background: {{cta_background}};
+            color: {{cta_text_color}};
+            font-family: 'Inter', sans-serif;
+            font-size: 18px;
+            font-weight: 600;
+            border-radius: 10px;
+            align-self: flex-start;
+            margin-top: 4px;
+            box-shadow: 0 2px 12px rgba(0,0,0,0.1);
+        }
+
+        .side-accent {
+            width: 200px;
+            background: {{accent_color}};
+            position: relative;
+            overflow: hidden;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .side-accent .pattern {
+            position: absolute;
+            inset: 0;
+            opacity: 0.08;
+            background-image:
+                linear-gradient(45deg, {{background_color}} 25%, transparent 25%),
+                linear-gradient(-45deg, {{background_color}} 25%, transparent 25%),
+                linear-gradient(45deg, transparent 75%, {{background_color}} 75%),
+                linear-gradient(-45deg, transparent 75%, {{background_color}} 75%);
+            background-size: 40px 40px;
+            background-position: 0 0, 0 20px, 20px -20px, -20px 0;
+        }
+
+        .side-accent .logomark {
+            height: 64px;
+            width: auto;
+            opacity: 0.35;
+            position: relative;
+            z-index: 1;
+        }
+
+        .accent-bar {
+            position: absolute;
+            top: 0; left: 0; right: 0;
+            height: 6px;
+            background: linear-gradient(90deg, #1C1E85 0%, #FD96C9 50%, #813FE8 100%);
+        }
+
+        .accent-bar-bottom {
+            position: absolute;
+            bottom: 0; left: 0; right: 0;
+            height: 6px;
+            background: linear-gradient(90deg, #813FE8 0%, #FD96C9 50%, #1C1E85 100%);
+        }
+    </style>
+</head>
+<body>
+    <div class="accent-bar"></div>
+
+    <div class="main-content">
+        <img src="{{logo_path}}" alt="JotPsych" class="logo">
+        <h1 class="headline">{{headline}}</h1>
+        <p class="body-text">{{body}}</p>
+        <span class="cta-button">{{cta}}</span>
+    </div>
+
+    <div class="side-accent">
+        <div class="pattern"></div>
+        <img src="{{logomark_path}}" alt="" class="logomark">
+    </div>
+
+    <div class="accent-bar-bottom"></div>
+</body>
+</html>

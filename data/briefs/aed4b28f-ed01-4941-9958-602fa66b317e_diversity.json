@@ -1,0 +1,58 @@
+{
+  "total_variants": 24,
+  "hook_types": [
+    "question",
+    "scenario",
+    "statistic"
+  ],
+  "tones": [
+    "clinical",
+    "empathetic",
+    "warm"
+  ],
+  "visual_styles": [
+    "photography"
+  ],
+  "message_types": [
+    "comparison",
+    "pain_point",
+    "value_prop"
+  ],
+  "cta_types": [
+    "get_2_hours_back",
+    "reclaim_your_time",
+    "see_it_in_action",
+    "start_your_trial",
+    "try_free"
+  ],
+  "counts": {
+    "hook_types": 3,
+    "tones": 3,
+    "visual_styles": 1,
+    "message_types": 3,
+    "cta_types": 5
+  },
+  "thresholds": {
+    "hook_types": {
+      "required": 4,
+      "actual": 3,
+      "met": false
+    },
+    "tones": {
+      "required": 3,
+      "actual": 3,
+      "met": true
+    },
+    "visual_styles": {
+      "required": 3,
+      "actual": 1,
+      "met": false
+    }
+  },
+  "threshold_met": false,
+  "missing_hook_types": [
+    "testimonial",
+    "provocative_claim",
+    "direct_benefit"
+  ]
+}

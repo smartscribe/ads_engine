@@ -3,305 +3,2383 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ad Review Gallery — JotPsych Ads Engine</title>
+    <title>JotPsych Ads — Review</title>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
 
+        :root {
+            --bg: #0a0a0a;
+            --surface: #111;
+            --surface2: #161616;
+            --border: #1e1e1e;
+            --border2: #2a2a2a;
+            --text: #e0e0e0;
+            --text-muted: #888;
+            --text-dim: #555;
+            --green: #22c55e;
+            --green-bg: #22c55e18;
+            --green-border: #22c55e35;
+            --red: #ef4444;
+            --red-bg: #ef444418;
+            --red-border: #ef444435;
+            --blue: #3b82f6;
+            --blue-bg: #3b82f618;
+            --blue-border: #3b82f635;
+            --amber: #f59e0b;
+            --amber-bg: #f59e0b15;
+        }
+
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Inter', sans-serif;
-            background: #0a0a0a;
-            color: #e0e0e0;
+            background: var(--bg);
+            color: var(--text);
             min-height: 100vh;
+            display: flex;
+            flex-direction: column;
         }
 
-        .header {
-            padding: 24px 40px;
-            border-bottom: 1px solid #1a1a1a;
+        /* ── NAV ─────────────────────────────────────────────────────────── */
+
+        .nav {
             display: flex;
-            justify-content: space-between;
             align-items: center;
+            padding: 0 32px;
+            border-bottom: 1px solid var(--border);
+            height: 52px;
+            gap: 0;
+            flex-shrink: 0;
         }
 
-        .header h1 {
-            font-size: 20px;
-            font-weight: 600;
-            color: #fff;
-        }
-
-        .header .stats {
-            font-size: 14px;
-            color: #888;
-        }
-
-        .toolbar {
-            padding: 16px 40px;
-            display: flex;
-            gap: 12px;
-            border-bottom: 1px solid #1a1a1a;
-        }
-
-        .toolbar button {
-            padding: 8px 16px;
-            border-radius: 6px;
-            border: 1px solid #333;
-            background: #1a1a1a;
-            color: #ccc;
-            cursor: pointer;
+        .nav-brand {
             font-size: 13px;
-            transition: all 0.15s;
+            font-weight: 700;
+            color: #fff;
+            letter-spacing: 0.04em;
+            margin-right: 32px;
+            white-space: nowrap;
         }
 
-        .toolbar button:hover { background: #252525; color: #fff; }
-        .toolbar button.approve { border-color: #22c55e40; color: #22c55e; }
-        .toolbar button.approve:hover { background: #22c55e20; }
-        .toolbar button.reject { border-color: #ef444440; color: #ef4444; }
-        .toolbar button.reject:hover { background: #ef444420; }
-
-        .gallery {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
-            gap: 20px;
-            padding: 24px 40px;
+        .nav-tabs {
+            display: flex;
+            gap: 0;
+            flex: 1;
         }
 
-        .card {
-            background: #111;
-            border: 1px solid #1a1a1a;
-            border-radius: 12px;
-            overflow: hidden;
-            transition: border-color 0.2s;
+        .nav-tab {
+            padding: 0 18px;
+            height: 52px;
+            display: flex;
+            align-items: center;
+            font-size: 13px;
+            color: var(--text-muted);
+            cursor: pointer;
+            border-bottom: 2px solid transparent;
+            transition: color 0.15s, border-color 0.15s;
+            white-space: nowrap;
+            user-select: none;
+        }
+
+        .nav-tab:hover { color: var(--text); }
+        .nav-tab.active { color: #fff; border-bottom-color: var(--blue); }
+
+        .nav-tab .badge {
+            margin-left: 6px;
+            padding: 1px 6px;
+            border-radius: 10px;
+            font-size: 11px;
+            background: var(--blue-bg);
+            color: var(--blue);
+            border: 1px solid var(--blue-border);
+        }
+
+        .nav-right {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin-left: auto;
+        }
+
+        .reviewer-select {
+            padding: 5px 10px;
+            border-radius: 6px;
+            border: 1px solid var(--border2);
+            background: var(--surface);
+            color: var(--text);
+            font-size: 12px;
             cursor: pointer;
         }
 
-        .card:hover { border-color: #333; }
-        .card.selected { border-color: #3b82f6; }
+        /* ── VIEWS ───────────────────────────────────────────────────────── */
 
-        .card .asset {
+        .view { display: none; flex: 1; flex-direction: column; overflow: hidden; }
+        .view.active { display: flex; }
+
+        /* ── REVIEW VIEW ─────────────────────────────────────────────────── */
+
+        .review-toolbar {
+            display: flex;
+            align-items: center;
+            padding: 10px 32px;
+            border-bottom: 1px solid var(--border);
+            gap: 10px;
+            flex-shrink: 0;
+        }
+
+        .review-stats {
+            display: flex;
+            gap: 16px;
+            font-size: 12px;
+            color: var(--text-muted);
+        }
+
+        .review-stats .stat-dot {
+            display: inline-block;
+            width: 7px; height: 7px;
+            border-radius: 50%;
+            margin-right: 4px;
+        }
+
+        .mode-toggle {
+            display: flex;
+            border: 1px solid var(--border2);
+            border-radius: 6px;
+            overflow: hidden;
+            margin-left: auto;
+        }
+
+        .mode-btn {
+            padding: 5px 12px;
+            font-size: 12px;
+            color: var(--text-muted);
+            cursor: pointer;
+            background: transparent;
+            border: none;
+            transition: background 0.15s, color 0.15s;
+        }
+
+        .mode-btn:hover { color: var(--text); }
+        .mode-btn.active { background: var(--surface2); color: #fff; }
+
+        /* Progress bar */
+        .progress-bar-wrap {
+            padding: 0 32px 0;
+            flex-shrink: 0;
+        }
+
+        .progress-bar {
+            height: 2px;
+            background: var(--border);
+            border-radius: 1px;
+            overflow: hidden;
+        }
+
+        .progress-bar-fill {
+            height: 100%;
+            background: var(--blue);
+            transition: width 0.3s ease;
+        }
+
+        /* ── TINDER MODE ─────────────────────────────────────────────────── */
+
+        .tinder-view {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 24px 16px;
+            overflow: hidden;
+            position: relative;
+        }
+
+        .tinder-card-wrap {
             width: 100%;
-            aspect-ratio: 1.91 / 1;
-            background: #1a1a1a;
+            max-width: 560px;
+            position: relative;
+        }
+
+        .tinder-card {
+            background: var(--surface);
+            border: 1px solid var(--border2);
+            border-radius: 16px;
+            overflow: hidden;
+            transition: transform 0.3s cubic-bezier(0.25, 0.8, 0.25, 1), opacity 0.3s;
+        }
+
+        .tinder-card.exiting-approve {
+            transform: translateX(120%) rotate(8deg);
+            opacity: 0;
+        }
+
+        .tinder-card.exiting-reject {
+            transform: translateX(-120%) rotate(-8deg);
+            opacity: 0;
+        }
+
+        .tinder-card .asset-area {
+            width: 100%;
+            aspect-ratio: 1 / 1;
+            background: var(--surface2);
+            overflow: hidden;
+            position: relative;
             display: flex;
             align-items: center;
             justify-content: center;
-            color: #444;
+        }
+
+        .tinder-card .asset-area img,
+        .tinder-card .asset-area video {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            flex-shrink: 0;
+        }
+
+        .tinder-card .asset-area iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 1080px;
+            height: 1080px;
+            transform-origin: top left;
+            border: none;
+            pointer-events: none;
+        }
+
+        .tinder-card .asset-area .asset-badge {
+            position: absolute;
+            top: 8px;
+            right: 8px;
+            padding: 2px 7px;
+            border-radius: 4px;
+            background: rgba(0,0,0,0.65);
+            color: var(--text-muted);
+            font-size: 10px;
+            z-index: 2;
+        }
+
+        .tinder-card .asset-area .placeholder-area {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 10px;
+            color: var(--text-dim);
+        }
+
+        .tinder-card .asset-area .placeholder-area svg { opacity: 0.3; }
+
+        .tinder-card .text-preview {
+            padding: 20px;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            min-height: 200px;
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }
+
+        .tinder-card .text-preview .tp-label {
+            font-size: 10px;
+            font-weight: 600;
+            letter-spacing: 0.08em;
+            color: var(--blue);
+            text-transform: uppercase;
+        }
+
+        .tinder-card .text-preview .tp-headline {
+            font-size: 22px;
+            font-weight: 700;
+            color: #fff;
+            line-height: 1.2;
+        }
+
+        .tinder-card .text-preview .tp-body {
+            font-size: 14px;
+            color: rgba(255,255,255,0.7);
+            line-height: 1.5;
+        }
+
+        .tinder-card .text-preview .tp-cta {
+            display: inline-block;
+            margin-top: 8px;
+            padding: 8px 18px;
+            border-radius: 8px;
+            background: var(--blue);
+            color: #fff;
             font-size: 13px;
+            font-weight: 600;
+            align-self: flex-start;
         }
 
-        .card .content {
-            padding: 16px;
+        .tinder-card .copy-section {
+            padding: 16px 20px;
         }
 
-        .card .headline {
-            font-size: 16px;
+        .tinder-card .copy-section .headline {
+            font-size: 15px;
             font-weight: 600;
             color: #fff;
-            margin-bottom: 8px;
-            line-height: 1.3;
+            margin-bottom: 6px;
         }
 
-        .card .primary-text {
+        .tinder-card .copy-section .primary-text {
             font-size: 13px;
-            color: #999;
+            color: var(--text-muted);
             line-height: 1.5;
-            margin-bottom: 12px;
             display: -webkit-box;
             -webkit-line-clamp: 3;
             -webkit-box-orient: vertical;
             overflow: hidden;
+            margin-bottom: 10px;
         }
 
-        .card .tags {
+        .tinder-card .copy-section .tags {
             display: flex;
             flex-wrap: wrap;
-            gap: 6px;
+            gap: 5px;
         }
 
-        .card .tag {
+        .tinder-card .copy-section .tag {
             font-size: 11px;
-            padding: 3px 8px;
+            padding: 2px 7px;
             border-radius: 4px;
-            background: #1a1a1a;
-            color: #888;
+            background: var(--surface2);
+            color: var(--text-dim);
+            border: 1px solid var(--border);
         }
 
-        .card .cta-badge {
+        /* Verdict buttons */
+        .verdict-row {
+            display: flex;
+            gap: 12px;
+            margin-top: 20px;
+            width: 100%;
+            max-width: 560px;
+        }
+
+        .verdict-btn {
+            flex: 1;
+            padding: 14px;
+            border-radius: 12px;
+            border: none;
+            font-size: 15px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.15s;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+        }
+
+        .verdict-btn.approve {
+            background: var(--green-bg);
+            border: 1px solid var(--green-border);
+            color: var(--green);
+        }
+
+        .verdict-btn.approve:hover { background: #22c55e25; }
+        .verdict-btn.approve:active { transform: scale(0.97); }
+
+        .verdict-btn.reject {
+            background: var(--red-bg);
+            border: 1px solid var(--red-border);
+            color: var(--red);
+        }
+
+        .verdict-btn.reject:hover { background: #ef444425; }
+        .verdict-btn.reject:active { transform: scale(0.97); }
+
+        .kbd {
             display: inline-block;
-            margin-top: 12px;
+            padding: 1px 5px;
+            border-radius: 4px;
+            font-size: 11px;
+            background: rgba(255,255,255,0.08);
+            color: rgba(255,255,255,0.5);
+            font-weight: 400;
+            border: 1px solid rgba(255,255,255,0.12);
+        }
+
+        /* Chip panel */
+        .chip-panel {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background: #0f0f0f;
+            border-top: 1px solid var(--border2);
+            padding: 16px 24px 20px;
+            transform: translateY(100%);
+            transition: transform 0.28s cubic-bezier(0.4, 0, 0.2, 1);
+            z-index: 50;
+        }
+
+        .chip-panel.open { transform: translateY(0); }
+
+        .chip-panel-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 12px;
+        }
+
+        .chip-panel-header .label {
+            font-size: 12px;
+            font-weight: 600;
+            color: var(--text-muted);
+            letter-spacing: 0.05em;
+            text-transform: uppercase;
+        }
+
+        .chip-panel-header .skip-link {
+            font-size: 12px;
+            color: var(--text-dim);
+            cursor: pointer;
+            padding: 4px 8px;
+            border-radius: 5px;
+            transition: color 0.15s;
+        }
+
+        .chip-panel-header .skip-link:hover { color: var(--text-muted); }
+
+        .chips-wrap {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 7px;
+            margin-bottom: 10px;
+        }
+
+        .chip {
+            padding: 6px 12px;
+            border-radius: 20px;
+            border: 1px solid var(--border2);
+            background: var(--surface);
+            color: var(--text-muted);
+            font-size: 12px;
+            cursor: pointer;
+            transition: all 0.12s;
+            user-select: none;
+        }
+
+        .chip:hover { border-color: var(--border2); color: var(--text); }
+
+        .chip.selected-reject {
+            background: var(--red-bg);
+            border-color: var(--red-border);
+            color: var(--red);
+        }
+
+        .chip.selected-approve {
+            background: var(--green-bg);
+            border-color: var(--green-border);
+            color: var(--green);
+        }
+
+        .chip-panel-footer {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-top: 8px;
+        }
+
+        .note-toggle {
+            font-size: 12px;
+            color: var(--text-dim);
+            cursor: pointer;
+            text-decoration: underline;
+            text-underline-offset: 2px;
+        }
+
+        .note-toggle:hover { color: var(--text-muted); }
+
+        .chip-note-area {
+            display: none;
+            width: 100%;
+            margin-top: 8px;
+        }
+
+        .chip-note-area.open { display: block; }
+
+        .chip-note-area textarea {
+            width: 100%;
+            background: var(--surface);
+            border: 1px solid var(--border2);
+            border-radius: 8px;
+            color: var(--text);
+            padding: 10px 12px;
+            font-size: 13px;
+            resize: vertical;
+            min-height: 64px;
+            max-height: 120px;
+        }
+
+        .chip-note-area textarea::placeholder { color: var(--text-dim); }
+
+        .btn-submit-chips {
+            margin-left: auto;
+            padding: 7px 16px;
+            border-radius: 7px;
+            font-size: 13px;
+            font-weight: 600;
+            cursor: pointer;
+            border: none;
+            background: var(--blue);
+            color: #fff;
+            transition: opacity 0.15s;
+        }
+
+        .btn-submit-chips:hover { opacity: 0.85; }
+
+        /* Tinder empty state */
+        .tinder-empty {
+            text-align: center;
+            color: var(--text-dim);
+            padding: 40px;
+        }
+
+        .tinder-empty h3 { font-size: 18px; color: var(--text-muted); margin-bottom: 8px; }
+        .tinder-empty p { font-size: 13px; }
+
+        /* ── GALLERY MODE ─────────────────────────────────────────────────── */
+
+        .gallery-view {
+            flex: 1;
+            overflow-y: auto;
+            padding: 24px 32px;
+        }
+
+        .gallery-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 16px;
+        }
+
+        .gallery-card {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            overflow: hidden;
+            cursor: pointer;
+            transition: border-color 0.15s;
+        }
+
+        .gallery-card:hover { border-color: var(--border2); }
+        .gallery-card.selected { border-color: var(--blue); box-shadow: 0 0 0 1px var(--blue); }
+        .gallery-card.verdict-approved { border-color: var(--green-border); opacity: 0.55; }
+        .gallery-card.verdict-rejected { border-color: var(--red-border); opacity: 0.55; }
+
+        .gallery-card .asset {
+            width: 100%;
+            aspect-ratio: 1 / 1;
+            background: var(--surface2);
+            overflow: hidden;
+            position: relative;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .gallery-card .asset img,
+        .gallery-card .asset video { width: 100%; height: 100%; object-fit: cover; }
+
+        .gallery-card .asset iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 1080px;
+            height: 1080px;
+            transform-origin: top left;
+            border: none;
+            pointer-events: none;
+        }
+
+        .gallery-card .asset-badge {
+            position: absolute;
+            top: 8px;
+            right: 8px;
+            padding: 2px 7px;
+            border-radius: 4px;
+            background: rgba(0,0,0,0.65);
+            color: var(--text-muted);
+            font-size: 10px;
+        }
+
+        .gallery-card .card-body { padding: 14px; }
+
+        .gallery-card .card-headline {
+            font-size: 14px;
+            font-weight: 600;
+            color: #fff;
+            margin-bottom: 5px;
+            line-height: 1.3;
+        }
+
+        .gallery-card .card-text {
+            font-size: 12px;
+            color: var(--text-muted);
+            line-height: 1.5;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+            margin-bottom: 8px;
+        }
+
+        .gallery-card .card-tags { display: flex; flex-wrap: wrap; gap: 4px; }
+
+        .gallery-card .card-tag {
+            font-size: 10px;
+            padding: 2px 6px;
+            border-radius: 4px;
+            background: var(--surface2);
+            color: var(--text-dim);
+        }
+
+        .gallery-card .card-cta {
+            display: inline-block;
+            margin-top: 8px;
+            padding: 4px 10px;
+            border-radius: 5px;
+            font-size: 11px;
+            font-weight: 500;
+            background: var(--blue-bg);
+            color: var(--blue);
+            border: 1px solid var(--blue-border);
+        }
+
+        .gallery-toolbar {
+            display: flex;
+            gap: 8px;
+            margin-bottom: 16px;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+
+        .gallery-toolbar button {
             padding: 6px 14px;
             border-radius: 6px;
-            background: #3b82f620;
-            color: #3b82f6;
+            border: 1px solid var(--border2);
+            background: var(--surface);
+            color: var(--text-muted);
             font-size: 12px;
-            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.12s;
         }
 
-        .notes-modal {
+        .gallery-toolbar button:hover { color: var(--text); background: var(--surface2); }
+
+        .gallery-toolbar button.approve {
+            border-color: var(--green-border);
+            color: var(--green);
+        }
+
+        .gallery-toolbar button.approve:hover { background: var(--green-bg); }
+
+        .gallery-toolbar button.reject {
+            border-color: var(--red-border);
+            color: var(--red);
+        }
+
+        .gallery-toolbar button.reject:hover { background: var(--red-bg); }
+
+        /* Batch review mode */
+        .batch-view {
+            flex: 1;
+            padding: 20px 32px;
+            overflow-y: auto;
+        }
+
+        .batch-input-area {
+            max-width: 800px;
+        }
+
+        .batch-verdict-card {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            padding: 10px 14px;
+            background: var(--surface);
+            border: 1px solid var(--border2);
+            border-radius: 8px;
+            margin-bottom: 6px;
+        }
+
+        .batch-verdict-card .bv-headline {
+            font-size: 13px;
+            font-weight: 500;
+            flex: 1;
+            min-width: 0;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+
+        .batch-verdict-card .bv-reason {
+            font-size: 11px;
+            color: var(--text-muted);
+            flex: 2;
+            min-width: 0;
+        }
+
+        .batch-verdict-card select {
+            padding: 4px 8px;
+            border-radius: 4px;
+            border: 1px solid var(--border2);
+            background: var(--surface2);
+            color: var(--text);
+            font-size: 12px;
+            cursor: pointer;
+        }
+
+        .batch-direction-tag {
+            display: inline-block;
+            padding: 4px 10px;
+            background: var(--blue-bg);
+            border: 1px solid var(--blue-border);
+            border-radius: 14px;
+            font-size: 11px;
+            color: var(--blue);
+            margin: 0 4px 4px 0;
+        }
+
+        /* Gallery modal for chip feedback */
+        .modal-overlay {
             display: none;
             position: fixed;
             inset: 0;
-            background: rgba(0,0,0,0.8);
+            background: rgba(0,0,0,0.75);
             z-index: 100;
             align-items: center;
             justify-content: center;
         }
 
-        .notes-modal.active { display: flex; }
+        .modal-overlay.active { display: flex; }
 
-        .notes-modal .modal-content {
-            background: #111;
-            border: 1px solid #333;
-            border-radius: 12px;
+        .modal-box {
+            background: var(--surface);
+            border: 1px solid var(--border2);
+            border-radius: 14px;
             padding: 24px;
-            width: 480px;
-            max-width: 90vw;
+            width: 500px;
+            max-width: 94vw;
         }
 
-        .notes-modal textarea {
+        .modal-box h3 { color: #fff; font-size: 16px; margin-bottom: 4px; }
+        .modal-box .modal-sub { color: var(--text-muted); font-size: 13px; margin-bottom: 16px; }
+
+        .modal-box .chips-section { margin-bottom: 14px; }
+        .modal-box .chips-section-label {
+            font-size: 11px;
+            font-weight: 600;
+            color: var(--text-dim);
+            letter-spacing: 0.06em;
+            text-transform: uppercase;
+            margin-bottom: 8px;
+        }
+
+        .modal-box textarea {
             width: 100%;
-            height: 120px;
-            background: #0a0a0a;
-            border: 1px solid #333;
+            height: 80px;
+            background: var(--bg);
+            border: 1px solid var(--border2);
             border-radius: 8px;
-            color: #e0e0e0;
-            padding: 12px;
-            font-size: 14px;
+            color: var(--text);
+            padding: 10px;
+            font-size: 13px;
             resize: vertical;
-            margin: 16px 0;
+            margin-top: 10px;
         }
 
-        .empty-state {
-            text-align: center;
-            padding: 80px 40px;
-            color: #666;
+        .modal-box textarea::placeholder { color: var(--text-dim); }
+
+        .modal-actions {
+            display: flex;
+            gap: 8px;
+            justify-content: flex-end;
+            margin-top: 16px;
         }
+
+        .btn-modal-cancel {
+            padding: 7px 14px;
+            border-radius: 7px;
+            border: 1px solid var(--border2);
+            background: transparent;
+            color: var(--text-muted);
+            font-size: 13px;
+            cursor: pointer;
+        }
+
+        .btn-modal-submit {
+            padding: 7px 16px;
+            border-radius: 7px;
+            border: none;
+            font-size: 13px;
+            font-weight: 600;
+            cursor: pointer;
+        }
+
+        .btn-modal-submit.approve {
+            background: var(--green-bg);
+            border: 1px solid var(--green-border);
+            color: var(--green);
+        }
+
+        .btn-modal-submit.reject {
+            background: var(--red-bg);
+            border: 1px solid var(--red-border);
+            color: var(--red);
+        }
+
+        /* ── SCOREBOARD VIEW ──────────────────────────────────────────────── */
+
+        .scoreboard-view {
+            flex: 1;
+            overflow-y: auto;
+            padding: 28px 32px;
+        }
+
+        .scoreboard-view h2 {
+            font-size: 18px;
+            font-weight: 600;
+            color: #fff;
+            margin-bottom: 4px;
+        }
+
+        .scoreboard-meta {
+            font-size: 13px;
+            color: var(--text-muted);
+            margin-bottom: 20px;
+        }
+
+        .scoreboard-table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        .scoreboard-table th {
+            text-align: left;
+            padding: 8px 12px;
+            font-size: 11px;
+            font-weight: 600;
+            letter-spacing: 0.06em;
+            text-transform: uppercase;
+            color: var(--text-dim);
+            border-bottom: 1px solid var(--border);
+            cursor: pointer;
+            user-select: none;
+        }
+
+        .scoreboard-table th:hover { color: var(--text-muted); }
+
+        .scoreboard-table td {
+            padding: 11px 12px;
+            font-size: 13px;
+            border-bottom: 1px solid var(--border);
+            color: var(--text-muted);
+        }
+
+        .scoreboard-table tr:hover td { background: var(--surface2); }
+
+        .scoreboard-table .rank-cell {
+            font-size: 11px;
+            font-weight: 700;
+            color: var(--text-dim);
+            width: 40px;
+        }
+
+        .scoreboard-table .headline-cell {
+            color: var(--text);
+            max-width: 280px;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .scoreboard-table .cpfn-cell {
+            font-weight: 700;
+            font-variant-numeric: tabular-nums;
+        }
+
+        .cpfn-winner { color: var(--green); }
+        .cpfn-mid { color: var(--amber); }
+        .cpfn-loser { color: var(--red); }
+
+        .trend-up::before { content: "↑ "; color: var(--green); }
+        .trend-down::before { content: "↓ "; color: var(--red); }
+        .trend-stable::before { content: "→ "; color: var(--text-dim); }
+
+        .verdict-badge {
+            display: inline-block;
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-size: 11px;
+            font-weight: 600;
+        }
+
+        .verdict-badge.scale { background: var(--green-bg); color: var(--green); border: 1px solid var(--green-border); }
+        .verdict-badge.kill { background: var(--red-bg); color: var(--red); border: 1px solid var(--red-border); }
+        .verdict-badge.wait { background: var(--blue-bg); color: var(--blue); border: 1px solid var(--blue-border); }
+
+        .scoreboard-empty {
+            text-align: center;
+            padding: 60px 0;
+            color: var(--text-dim);
+        }
+
+        .scoreboard-empty h3 { font-size: 16px; color: var(--text-muted); margin-bottom: 6px; }
+
+        /* ── LEARNINGS VIEW ───────────────────────────────────────────────── */
+
+        .learnings-view {
+            flex: 1;
+            overflow-y: auto;
+            padding: 28px 32px;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 24px;
+            align-content: start;
+        }
+
+        @media (max-width: 900px) {
+            .learnings-view { grid-template-columns: 1fr; }
+        }
+
+        .learnings-section {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            padding: 20px;
+        }
+
+        .learnings-section.full-width {
+            grid-column: 1 / -1;
+        }
+
+        .learnings-section h3 {
+            font-size: 14px;
+            font-weight: 600;
+            color: #fff;
+            margin-bottom: 14px;
+        }
+
+        .playbook-rule {
+            padding: 12px;
+            border-radius: 8px;
+            border: 1px solid var(--border);
+            margin-bottom: 10px;
+            background: var(--surface2);
+        }
+
+        .playbook-rule:last-child { margin-bottom: 0; }
+
+        .playbook-rule .rule-text {
+            font-size: 13px;
+            color: var(--text);
+            line-height: 1.5;
+            margin-bottom: 6px;
+        }
+
+        .playbook-rule .rule-meta {
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+        }
+
+        .confidence-badge {
+            font-size: 10px;
+            font-weight: 600;
+            padding: 2px 7px;
+            border-radius: 4px;
+        }
+
+        .confidence-badge.high { background: var(--green-bg); color: var(--green); border: 1px solid var(--green-border); }
+        .confidence-badge.moderate { background: var(--amber-bg); color: var(--amber); border: 1px solid #f59e0b30; }
+
+        .direction-badge {
+            font-size: 10px;
+            padding: 2px 7px;
+            border-radius: 4px;
+        }
+
+        .direction-badge.use_more { background: var(--green-bg); color: var(--green); border: 1px solid var(--green-border); }
+        .direction-badge.avoid { background: var(--red-bg); color: var(--red); border: 1px solid var(--red-border); }
+
+        .chip-impact-row {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding: 8px 0;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .chip-impact-row:last-child { border-bottom: none; }
+
+        .chip-impact-label {
+            font-size: 12px;
+            color: var(--text);
+            flex: 1;
+        }
+
+        .chip-impact-count {
+            font-size: 13px;
+            font-weight: 700;
+            font-variant-numeric: tabular-nums;
+            color: var(--text-muted);
+        }
+
+        .chip-bar {
+            width: 80px;
+            height: 4px;
+            background: var(--border);
+            border-radius: 2px;
+            overflow: hidden;
+        }
+
+        .chip-bar-fill {
+            height: 100%;
+            border-radius: 2px;
+            background: var(--red);
+        }
+
+        .chip-bar-fill.approval { background: var(--green); }
+
+        .memory-stat {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 7px 0;
+            border-bottom: 1px solid var(--border);
+            font-size: 13px;
+        }
+
+        .memory-stat:last-child { border-bottom: none; }
+        .memory-stat .label { color: var(--text-muted); }
+        .memory-stat .value { color: var(--text); font-weight: 600; }
+
+        .reviewer-profile {
+            padding: 12px;
+            border-radius: 8px;
+            border: 1px solid var(--border);
+            background: var(--surface2);
+        }
+
+        .reviewer-profile .profile-stat {
+            display: flex;
+            justify-content: space-between;
+            font-size: 12px;
+            margin-bottom: 5px;
+        }
+
+        .reviewer-profile .profile-stat .pl { color: var(--text-muted); }
+        .reviewer-profile .profile-stat .pv { color: var(--text); font-variant-numeric: tabular-nums; }
+
+        .learnings-empty {
+            color: var(--text-dim);
+            font-size: 13px;
+            padding: 20px 0;
+            text-align: center;
+        }
+
+        /* ── TOAST ───────────────────────────────────────────────────────── */
+
+        .toast {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            padding: 10px 18px;
+            border-radius: 8px;
+            font-size: 13px;
+            z-index: 200;
+            transition: opacity 0.3s;
+            pointer-events: none;
+        }
+
+        .toast-success { background: var(--green-bg); border: 1px solid var(--green-border); color: var(--green); }
+        .toast-error { background: var(--red-bg); border: 1px solid var(--red-border); color: var(--red); }
+        .toast-info { background: var(--blue-bg); border: 1px solid var(--blue-border); color: var(--blue); }
+
+        /* ── UTIL ────────────────────────────────────────────────────────── */
+
+        .loading {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 60px;
+            color: var(--text-dim);
+            font-size: 13px;
+        }
+
+        code { font-family: monospace; background: var(--surface2); padding: 1px 5px; border-radius: 3px; font-size: 12px; }
+
+        /* Hypothesis suggestion modal */
+        .hypo-modal-overlay {
+            position: fixed; inset: 0; background: rgba(0,0,0,0.6);
+            display: flex; align-items: center; justify-content: center;
+            z-index: 2000; animation: fadeIn 0.15s ease;
+        }
+        @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+        .hypo-modal {
+            background: var(--surface); border: 1px solid var(--border2);
+            border-radius: 12px; padding: 20px 24px; max-width: 440px; width: 90%;
+            box-shadow: 0 12px 40px rgba(0,0,0,0.5);
+        }
+        .hypo-modal h3 {
+            font-size: 14px; font-weight: 600; margin-bottom: 4px;
+        }
+        .hypo-modal .subtitle {
+            font-size: 12px; color: var(--text-dim); margin-bottom: 14px;
+        }
+        .hypo-modal .hypo-text {
+            font-size: 14px; font-weight: 500; margin-bottom: 10px;
+            padding: 10px 12px; background: var(--surface2); border-radius: 6px;
+            border-left: 3px solid #a855f7;
+        }
+        .hypo-modal .hypo-features {
+            display: flex; flex-wrap: wrap; gap: 5px; margin-bottom: 14px;
+        }
+        .hypo-modal .hypo-ftag {
+            font-size: 10px; padding: 2px 7px; border-radius: 3px;
+            background: #a855f718; color: #a855f7; border: 1px solid #a855f735;
+        }
+        .hypo-modal .hypo-actions {
+            display: flex; gap: 8px; justify-content: flex-end;
+        }
+        .hypo-modal .hypo-btn {
+            padding: 7px 16px; border-radius: 6px; font-size: 12px;
+            cursor: pointer; border: 1px solid; transition: all 0.15s;
+        }
+        .hypo-modal .hypo-btn-test {
+            background: #3b82f6; border-color: #3b82f6; color: #fff;
+        }
+        .hypo-modal .hypo-btn-test:hover { opacity: 0.85; }
+        .hypo-modal .hypo-btn-dismiss {
+            background: transparent; border-color: var(--border2); color: var(--text-muted);
+        }
+        .hypo-modal .hypo-btn-dismiss:hover { color: var(--text); border-color: var(--text-dim); }
     </style>
 </head>
 <body>
-    <div class="header">
-        <h1>Review Queue</h1>
-        <div class="stats" id="stats">Loading...</div>
+
+<!-- NAV -->
+<nav class="nav">
+    <span class="nav-brand">JotPsych Ads</span>
+    <div class="nav-tabs">
+        <div class="nav-tab active" data-view="review" onclick="switchView('review')">
+            Review Queue <span class="badge" id="pendingBadge">0</span>
+        </div>
+        <a class="nav-tab" href="/dashboard/pages/portfolio.html" style="text-decoration:none;">
+            Portfolio
+        </a>
+        <div class="nav-tab" data-view="scoreboard" onclick="switchView('scoreboard')">
+            Scoreboard
+        </div>
+        <div class="nav-tab" data-view="learnings" onclick="switchView('learnings')">
+            Learnings
+        </div>
+        <a class="nav-tab" href="/dashboard/pages/hypotheses.html" style="text-decoration:none;">
+            Hypotheses
+        </a>
     </div>
-
-    <div class="toolbar">
-        <button class="approve" onclick="approveSelected()">Approve Selected</button>
-        <button class="reject" onclick="showRejectModal()">Reject Selected</button>
-        <button onclick="selectAll()">Select All</button>
-        <button onclick="clearSelection()">Clear</button>
+    <div class="nav-right">
+        <span style="font-size:12px;color:var(--text-muted);">Reviewing as:</span>
+        <select class="reviewer-select" id="reviewerSelect" onchange="onReviewerChange()">
+            <option value="nate">Nate</option>
+            <option value="jackson">Jackson</option>
+            <option value="aryan">Aryan</option>
+            <option value="alex">Alex</option>
+            <option value="daniel">Daniel</option>
+            <option value="adam">Adam</option>
+        </select>
     </div>
+</nav>
 
-    <div class="gallery" id="gallery"></div>
+<!-- ── REVIEW VIEW ──────────────────────────────────────────────────────── -->
+<div class="view active" id="view-review">
 
-    <div class="notes-modal" id="rejectModal">
-        <div class="modal-content">
-            <h3 style="color: #fff; margin-bottom: 4px;">Rejection Feedback</h3>
-            <p style="color: #888; font-size: 13px;">This trains the generator. Be specific about what's wrong.</p>
-            <textarea id="rejectNotes" placeholder="e.g. 'Headline is too generic — needs a specific number or pain point. Visual feels stock-photo-y.'"></textarea>
-            <div style="display: flex; gap: 8px; justify-content: flex-end;">
-                <button onclick="closeRejectModal()" style="padding: 8px 16px; background: #1a1a1a; border: 1px solid #333; border-radius: 6px; color: #ccc; cursor: pointer;">Cancel</button>
-                <button onclick="rejectSelected()" style="padding: 8px 16px; background: #ef444420; border: 1px solid #ef444440; border-radius: 6px; color: #ef4444; cursor: pointer;">Reject</button>
-            </div>
+    <div class="review-toolbar">
+        <div class="review-stats">
+            <span><span class="stat-dot" style="background:#3b82f6;"></span><span id="statPending">0</span> pending</span>
+            <span><span class="stat-dot" style="background:#22c55e;"></span><span id="statApproved">0</span> approved</span>
+            <span><span class="stat-dot" style="background:#ef4444;"></span><span id="statRejected">0</span> rejected</span>
+        </div>
+        <button onclick="deployAllApproved()" style="margin-left:12px;padding:6px 14px;border-radius:6px;border:1px solid var(--green-border);background:var(--green-bg);color:var(--green);font-size:12px;cursor:pointer;font-weight:500;">Deploy Approved</button>
+        <div class="mode-toggle" style="margin-left:auto;">
+            <button class="mode-btn active" id="modeTinder" onclick="setMode('tinder')">Focus</button>
+            <button class="mode-btn" id="modeGallery" onclick="setMode('gallery')">Gallery</button>
+            <button class="mode-btn" id="modeBatch" onclick="setMode('batch')">Batch Review</button>
         </div>
     </div>
 
-    <script>
-        const API_BASE = 'http://localhost:8000';
-        let selectedIds = new Set();
-        let variants = [];
+    <div class="progress-bar-wrap" style="padding:6px 32px 0;">
+        <div class="progress-bar">
+            <div class="progress-bar-fill" id="progressFill" style="width:0%"></div>
+        </div>
+    </div>
 
-        async function loadReviewQueue() {
-            try {
-                const res = await fetch(`${API_BASE}/api/review`);
-                const data = await res.json();
-                variants = data.variants;
-                renderGallery();
-                document.getElementById('stats').textContent = `${data.count} variants pending`;
-            } catch (e) {
-                document.getElementById('gallery').innerHTML = '<div class="empty-state">Cannot connect to API. Run: uvicorn dashboard.api.app:app --reload</div>';
-            }
-        }
+    <!-- Tinder (focus) mode -->
+    <div class="tinder-view" id="tinderView">
+        <div id="tinderContent"></div>
+    </div>
 
-        function renderGallery() {
-            const gallery = document.getElementById('gallery');
-            if (!variants.length) {
-                gallery.innerHTML = '<div class="empty-state">No variants pending review. Submit an idea to get started.</div>';
-                return;
-            }
+    <!-- Gallery mode -->
+    <div class="gallery-view" id="galleryView" style="display:none;">
+        <div class="gallery-toolbar" id="galleryToolbar">
+            <button class="approve" onclick="showGalleryModal('approve')">Approve Selected</button>
+            <button class="reject" onclick="showGalleryModal('reject')">Reject Selected</button>
+            <div style="width:1px;height:20px;background:var(--border2);margin:0 2px;"></div>
+            <button onclick="selectAll()">Select All</button>
+            <button onclick="clearSelection()">Clear</button>
+            <div style="width:1px;height:20px;background:var(--border2);margin:0 2px;"></div>
+            <button onclick="toggleStyleNotesPanel()" style="border-color:#f59e0b35;color:var(--amber);">Style Notes</button>
+        </div>
+        <div class="gallery-grid" id="galleryGrid"></div>
+    </div>
 
-            gallery.innerHTML = variants.map(v => `
-                <div class="card ${selectedIds.has(v.id) ? 'selected' : ''}" onclick="toggleSelect('${v.id}')">
-                    <div class="asset">${v.asset_type === 'video' ? '▶ Video' : '📷 Image'} — ${v.taxonomy.format}</div>
-                    <div class="content">
-                        <div class="headline">${escapeHtml(v.headline)}</div>
-                        <div class="primary-text">${escapeHtml(v.primary_text)}</div>
-                        <div class="tags">
-                            <span class="tag">${v.taxonomy.message_type}</span>
-                            <span class="tag">${v.taxonomy.hook_type}</span>
-                            <span class="tag">${v.taxonomy.tone}</span>
-                            <span class="tag">${v.taxonomy.platform}</span>
-                        </div>
-                        <div class="cta-badge">${escapeHtml(v.cta_button)}</div>
+    <!-- Batch review mode -->
+    <div class="batch-view" id="batchView" style="display:none;">
+        <div class="batch-input-area" id="batchInputArea">
+            <h3 style="font-size:14px;font-weight:600;margin-bottom:8px;">Batch Review Monologue</h3>
+            <p style="font-size:12px;color:var(--text-muted);margin-bottom:12px;">Speak freely about what's working and what's not. The system will map your feedback to specific ads and extract creative direction.</p>
+            <textarea id="batchMonologueText" placeholder="Start your monologue here... e.g. 'The charting headline is great, approve that one. The question hooks all feel generic, reject those. I want to see more ads with specific time-savings stats and fewer generic CTAs.'" style="width:100%;min-height:140px;background:var(--surface);border:1px solid var(--border2);border-radius:8px;padding:12px;color:var(--text);font-size:13px;resize:vertical;font-family:inherit;"></textarea>
+            <div style="display:flex;gap:8px;margin-top:10px;">
+                <button onclick="submitMonologue()" style="padding:8px 20px;background:var(--blue);color:#fff;border:none;border-radius:6px;cursor:pointer;font-size:13px;" id="batchSubmitBtn">Review All</button>
+                <span style="font-size:11px;color:var(--text-dim);align-self:center;" id="batchStatus"></span>
+            </div>
+        </div>
+        <div id="batchResults" style="display:none;">
+            <div style="display:flex;align-items:center;gap:12px;margin-bottom:12px;">
+                <h3 style="font-size:14px;font-weight:600;">Parsed Results</h3>
+                <button onclick="commitBatchVerdicts()" style="padding:6px 16px;background:var(--green);color:#fff;border:none;border-radius:6px;cursor:pointer;font-size:12px;" id="batchCommitBtn">Commit Reviews</button>
+                <button onclick="regenerateFromBatch()" style="padding:6px 16px;background:var(--blue);color:#fff;border:none;border-radius:6px;cursor:pointer;font-size:12px;">Regenerate from This</button>
+                <button onclick="resetBatchReview()" style="padding:6px 16px;background:transparent;color:var(--text-muted);border:1px solid var(--border2);border-radius:6px;cursor:pointer;font-size:12px;">Start Over</button>
+            </div>
+            <div id="batchDirections" style="margin-bottom:16px;"></div>
+            <div id="batchVerdictsList"></div>
+        </div>
+        <div style="margin-top:16px;">
+            <h4 style="font-size:12px;font-weight:600;color:var(--text-muted);margin-bottom:8px;">Gallery Reference</h4>
+            <div class="gallery-grid" id="batchGalleryRef" style="pointer-events:none;opacity:0.7;"></div>
+        </div>
+    </div>
+</div>
+
+<!-- ── SCOREBOARD VIEW ─────────────────────────────────────────────────── -->
+<div class="view" id="view-scoreboard">
+    <div class="scoreboard-view" id="scoreboardContent">
+        <div class="loading">Loading scoreboard...</div>
+    </div>
+</div>
+
+<!-- ── LEARNINGS VIEW ──────────────────────────────────────────────────── -->
+<div class="view" id="view-learnings">
+    <div class="learnings-view" id="learningsContent">
+        <div class="loading" style="grid-column:1/-1;">Loading learnings...</div>
+    </div>
+</div>
+
+<!-- Gallery verdict modal -->
+<div class="modal-overlay" id="galleryModal">
+    <div class="modal-box">
+        <h3 id="modalTitle">Approve Ads</h3>
+        <p class="modal-sub" id="modalSub">Optional: tap what you liked so the system learns.</p>
+        <div class="chips-section" id="modalChipsWrap"></div>
+        <textarea id="modalNote" placeholder="Optional note..."></textarea>
+        <div class="modal-actions">
+            <button class="btn-modal-cancel" onclick="closeGalleryModal()">Cancel</button>
+            <button class="btn-modal-submit" id="modalSubmitBtn" onclick="submitGalleryVerdict()">Approve</button>
+        </div>
+    </div>
+</div>
+
+<!-- Chip panel (Tinder mode) -->
+<div class="chip-panel" id="chipPanel">
+    <div class="chip-panel-header">
+        <span class="label" id="chipPanelLabel">What's wrong with it?</span>
+        <span class="skip-link" onclick="advanceTinder()">Skip → next card</span>
+    </div>
+    <div class="chips-wrap" id="chipPanelChips"></div>
+    <div class="chip-note-area" id="chipNoteArea">
+        <textarea id="chipNoteText" placeholder="Add a note (optional)..."></textarea>
+    </div>
+    <div class="chip-panel-footer">
+        <span class="note-toggle" onclick="toggleChipNote()">+ add note</span>
+        <button class="btn-submit-chips" onclick="submitChipFeedback()">Done →</button>
+    </div>
+</div>
+
+<div id="toast" class="toast" style="display:none;"></div>
+
+<!-- Deploy Modal -->
+<div id="deployModal" style="display:none;position:fixed;inset:0;background:rgba(0,0,0,0.6);z-index:500;display:none;align-items:center;justify-content:center;">
+    <div style="background:var(--surface2);border:1px solid var(--border2);border-radius:10px;padding:24px;width:380px;max-width:90vw;">
+        <h3 style="font-size:15px;margin-bottom:16px;">Deploy to Meta</h3>
+        <p id="deployModalInfo" style="font-size:12px;color:var(--text-muted);margin-bottom:12px;"></p>
+        <label style="font-size:12px;color:var(--text-muted);display:block;margin-bottom:4px;">Campaign ID</label>
+        <input id="deployCampaignId" type="text" style="width:100%;padding:8px;border-radius:6px;border:1px solid var(--border2);background:var(--surface);color:var(--text);font-size:13px;margin-bottom:12px;">
+        <label style="font-size:12px;color:var(--text-muted);display:block;margin-bottom:4px;">Ad Set ID</label>
+        <input id="deployAdsetId" type="text" style="width:100%;padding:8px;border-radius:6px;border:1px solid var(--border2);background:var(--surface);color:var(--text);font-size:13px;margin-bottom:16px;">
+        <div style="display:flex;gap:8px;justify-content:flex-end;">
+            <button onclick="closeDeployModal()" style="padding:8px 16px;border-radius:6px;border:1px solid var(--border2);background:var(--surface);color:var(--text);cursor:pointer;font-size:13px;">Cancel</button>
+            <button id="deployConfirmBtn" onclick="confirmDeploy()" style="padding:8px 16px;border-radius:6px;border:none;background:var(--blue);color:#fff;cursor:pointer;font-size:13px;font-weight:500;">Deploy (Paused)</button>
+        </div>
+    </div>
+</div>
+
+<script>
+// ============================================================
+//  STATE
+// ============================================================
+const API = '';
+let variants = [];           // pending review queue
+let currentIndex = 0;        // tinder cursor
+let pendingVerdict = null;    // { variant_id, verdict, cardShownAt }
+let pendingReviewChips = [];  // chips selected in chip panel
+let selectedIds = new Set();  // gallery selection
+let currentMode = 'tinder';
+let chips = { rejection: [], approval: [] };
+let galleryVerdictType = null; // 'approve' | 'reject' for gallery modal
+
+// ============================================================
+//  INIT
+// ============================================================
+document.addEventListener('DOMContentLoaded', async () => {
+    await Promise.all([loadChips(), loadQueue()]);
+    loadReviewCounts();
+    bindKeyboard();
+
+    // Route on hash
+    const hash = location.hash.replace('#', '');
+    if (hash === 'scoreboard') switchView('scoreboard');
+    else if (hash === 'learnings') switchView('learnings');
+});
+
+// ============================================================
+//  NAVIGATION
+// ============================================================
+function switchView(name) {
+    document.querySelectorAll('.nav-tab').forEach(t => t.classList.toggle('active', t.dataset.view === name));
+    document.querySelectorAll('.view').forEach(v => v.classList.toggle('active', v.id === `view-${name}`));
+    location.hash = name;
+
+    if (name === 'scoreboard') loadScoreboard();
+    else if (name === 'learnings') loadLearnings();
+}
+
+function onReviewerChange() {
+    // Refresh learnings view if it's open
+    const active = document.querySelector('.view.active');
+    if (active && active.id === 'view-learnings') loadLearnings();
+}
+
+// ============================================================
+//  REVIEW MODE
+// ============================================================
+function setMode(mode) {
+    currentMode = mode;
+    document.getElementById('modeTinder').classList.toggle('active', mode === 'tinder');
+    document.getElementById('modeGallery').classList.toggle('active', mode === 'gallery');
+    document.getElementById('modeBatch').classList.toggle('active', mode === 'batch');
+    document.getElementById('tinderView').style.display = mode === 'tinder' ? 'flex' : 'none';
+    document.getElementById('galleryView').style.display = mode === 'gallery' ? 'block' : 'none';
+    document.getElementById('batchView').style.display = mode === 'batch' ? 'block' : 'none';
+    if (mode === 'gallery') renderGallery();
+    else if (mode === 'batch') renderBatchGalleryRef();
+    else renderTinder();
+}
+
+// ============================================================
+//  DATA LOADING
+// ============================================================
+async function loadChips() {
+    try {
+        const res = await fetch(`${API}/api/feedback-chips`);
+        chips = await res.json();
+    } catch (e) { /* fallback — chips will be empty */ }
+}
+
+async function loadQueue() {
+    try {
+        const res = await fetch(`${API}/api/review`);
+        const data = await res.json();
+        variants = data.variants || [];
+        currentIndex = 0;
+        document.getElementById('pendingBadge').textContent = variants.length;
+        document.getElementById('statPending').textContent = variants.length;
+        updateProgress();
+        if (currentMode === 'tinder') renderTinder();
+        else renderGallery();
+    } catch (e) {
+        document.getElementById('tinderContent').innerHTML = `<div class="tinder-empty"><h3>Can't connect</h3><p>Run: <code>uvicorn dashboard.api.app:app --reload</code></p></div>`;
+    }
+}
+
+async function loadReviewCounts() {
+    try {
+        const res = await fetch(`${API}/api/review/history`);
+        const data = await res.json();
+        document.getElementById('statApproved').textContent = data.approved_count;
+        document.getElementById('statRejected').textContent = data.rejected_count;
+    } catch (e) {}
+}
+
+function updateProgress() {
+    const total = variants.length + currentIndex;
+    const pct = total > 0 ? (currentIndex / total) * 100 : 0;
+    document.getElementById('progressFill').style.width = pct + '%';
+}
+
+// ============================================================
+//  TINDER (FOCUS) MODE
+// ============================================================
+function renderTinder() {
+    const wrap = document.getElementById('tinderContent');
+
+    if (!variants.length) {
+        wrap.innerHTML = `<div class="tinder-empty"><h3>All caught up</h3><p>No variants pending review.</p></div>`;
+        return;
+    }
+
+    const v = variants[currentIndex];
+    if (!v) {
+        wrap.innerHTML = `<div class="tinder-empty"><h3>Queue complete</h3><p>Reviewed all ${currentIndex} ads this session.</p></div>`;
+        return;
+    }
+
+    const assetHtml = buildAssetHtml(v, true);
+
+    wrap.innerHTML = `
+        <div class="tinder-card-wrap">
+            <div class="tinder-card" id="tinderCard">
+                ${assetHtml}
+                <div class="copy-section">
+                    <div class="headline">${esc(v.headline)}</div>
+                    <div class="primary-text">${esc(v.primary_text)}</div>
+                    <div class="tags">
+                        ${[v.taxonomy?.message_type, v.taxonomy?.hook_type, v.taxonomy?.tone, v.taxonomy?.format].filter(Boolean).map(t => `<span class="tag">${esc(t)}</span>`).join('')}
                     </div>
                 </div>
-            `).join('');
-        }
+            </div>
+        </div>
+        <div class="verdict-row">
+            <button class="verdict-btn reject" onclick="tinderVerdict('rejected')">
+                <span>✕ Reject</span><span class="kbd">←</span>
+            </button>
+            <button class="verdict-btn approve" onclick="tinderVerdict('approved')">
+                <span>✓ Approve</span><span class="kbd">→</span>
+            </button>
+        </div>
+    `;
 
-        function toggleSelect(id) {
-            if (selectedIds.has(id)) selectedIds.delete(id);
-            else selectedIds.add(id);
-            renderGallery();
-        }
+    // Scale iframe to fit the card
+    scaleIframes();
 
-        function selectAll() {
-            variants.forEach(v => selectedIds.add(v.id));
-            renderGallery();
-        }
+    // Record when card was shown for duration tracking
+    if (v) v._shownAt = Date.now();
+}
 
-        function clearSelection() {
-            selectedIds.clear();
-            renderGallery();
-        }
+function buildAssetHtml(v, isTinder) {
+    const status = v.asset_status || 'pending';
+    const path = v.asset_path || '';
+    const isImg = status === 'rendered' && /\.(png|jpg|jpeg|webp)$/i.test(path);
 
-        async function approveSelected() {
-            if (!selectedIds.size) return;
-            await fetch(`${API_BASE}/api/review/approve`, {
+    if (isImg) {
+        return `<div class="${isTinder ? 'asset-area' : 'asset'}">
+            <img src="/${path}" alt="${esc(v.headline)}" onerror="this.parentElement.innerHTML=fallbackPlaceholder()">
+            <span class="asset-badge">image</span>
+        </div>`;
+    }
+    if (status === 'template_available') {
+        return `<div class="${isTinder ? 'asset-area' : 'asset'}">
+            <iframe src="/api/template-preview/${v.id}" loading="lazy" scrolling="no"
+                onload="scaleIframes()"></iframe>
+            <span class="asset-badge">template</span>
+        </div>`;
+    }
+    // Text-only fallback
+    return `<div class="${isTinder ? 'asset-area' : 'asset'}" style="padding:0;">
+        <div class="text-preview">
+            <span class="tp-label">${esc(v.taxonomy?.format || 'Ad')}</span>
+            <div class="tp-headline">${esc(v.headline)}</div>
+            <div class="tp-body">${esc(v.primary_text)}</div>
+            <span class="tp-cta">${esc(v.cta_button || 'Learn More')}</span>
+        </div>
+    </div>`;
+}
+
+function fallbackPlaceholder() {
+    return `<div style="display:flex;align-items:center;justify-content:center;flex-direction:column;gap:8px;height:100%;background:var(--surface2);color:var(--text-dim);">
+        <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/><path d="m21 15-5-5L5 21"/></svg>
+        <span style="font-size:12px;">Asset pending</span>
+    </div>`;
+}
+
+function scaleIframes() {
+    document.querySelectorAll('.asset-area iframe, .asset iframe').forEach(iframe => {
+        const parent = iframe.parentElement;
+        if (!parent) return;
+        const w = parent.clientWidth;
+        const scale = w / 1080;
+        iframe.style.transform = `scale(${scale})`;
+        parent.style.height = (1080 * scale) + 'px';
+    });
+}
+
+window.addEventListener('resize', scaleIframes);
+
+function tinderVerdict(verdict) {
+    const v = variants[currentIndex];
+    if (!v) return;
+
+    const duration = v._shownAt ? Date.now() - v._shownAt : 0;
+    pendingVerdict = { variant_id: v.id, verdict, duration_ms: duration };
+    pendingReviewChips = [];
+
+    // Animate card out
+    const card = document.getElementById('tinderCard');
+    if (card) {
+        card.classList.add(verdict === 'approved' ? 'exiting-approve' : 'exiting-reject');
+    }
+
+    // Submit verdict immediately (non-blocking)
+    submitVerdict(v.id, verdict, duration, []);
+
+    // Show chip panel
+    openChipPanel(verdict);
+}
+
+async function submitVerdict(variantId, verdict, durationMs, selectedChips, note) {
+    try {
+        const res = await fetch(`${API}/api/review/submit`, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({
+                variant_id: variantId,
+                reviewer: getReviewer(),
+                verdict,
+                chips: selectedChips || [],
+                freeform_note: note || null,
+                review_duration_ms: durationMs || 0,
+            }),
+        });
+        const data = await res.json();
+        if (data.suggested_hypotheses && data.suggested_hypotheses.length > 0) {
+            showHypothesisModal(data.suggested_hypotheses[0], note || '');
+        }
+    } catch (e) { /* best-effort */ }
+}
+
+function showHypothesisModal(candidate, sourceText) {
+    const overlay = document.createElement('div');
+    overlay.className = 'hypo-modal-overlay';
+    overlay.innerHTML = `
+        <div class="hypo-modal">
+            <h3>We noticed something testable</h3>
+            <div class="subtitle">From your feedback:</div>
+            <div class="hypo-text">${esc(candidate.hypothesis_text)}</div>
+            <div class="hypo-features">
+                ${(candidate.feature_labels || []).map(f => `<span class="hypo-ftag">${esc(f)}</span>`).join('')}
+            </div>
+            <div class="hypo-actions">
+                <button class="hypo-btn hypo-btn-dismiss" onclick="this.closest('.hypo-modal-overlay').remove()">Dismiss</button>
+                <button class="hypo-btn hypo-btn-test" id="hypoTestBtn">Test This</button>
+            </div>
+        </div>
+    `;
+    document.body.appendChild(overlay);
+    overlay.addEventListener('click', (e) => { if (e.target === overlay) overlay.remove(); });
+    overlay.querySelector('#hypoTestBtn').addEventListener('click', async () => {
+        const btn = overlay.querySelector('#hypoTestBtn');
+        btn.disabled = true;
+        btn.textContent = 'Generating...';
+        try {
+            await fetch(`${API}/api/hypotheses/confirm`, {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({ variant_ids: [...selectedIds], reviewer: 'nate' }),
+                body: JSON.stringify({
+                    hypothesis_text: candidate.hypothesis_text,
+                    related_features: candidate.related_features,
+                    created_by: getReviewer(),
+                    source: 'review_feedback',
+                    source_context: sourceText,
+                    generate: true,
+                }),
             });
-            selectedIds.clear();
-            loadReviewQueue();
+            overlay.remove();
+        } catch (e) {
+            btn.disabled = false;
+            btn.textContent = 'Test This';
         }
+    });
+}
 
-        function showRejectModal() {
-            if (!selectedIds.size) return;
-            document.getElementById('rejectModal').classList.add('active');
+function openChipPanel(verdict) {
+    const panel = document.getElementById('chipPanel');
+    const label = document.getElementById('chipPanelLabel');
+    const chipsWrap = document.getElementById('chipPanelChips');
+
+    label.textContent = verdict === 'rejected' ? 'What\'s wrong with it? (optional)' : 'What did you like? (optional)';
+
+    const chipList = verdict === 'rejected' ? chips.rejection : chips.approval;
+    pendingReviewChips = [];
+    const chipClass = verdict === 'rejected' ? 'selected-reject' : 'selected-approve';
+
+    chipsWrap.innerHTML = (chipList || []).map(c =>
+        `<div class="chip" data-id="${c.id}" data-class="${chipClass}" onclick="toggleChip(this, '${c.id}', '${chipClass}')">${esc(c.label)}</div>`
+    ).join('');
+
+    // Reset note area
+    document.getElementById('chipNoteText').value = '';
+    document.getElementById('chipNoteArea').classList.remove('open');
+
+    panel.classList.add('open');
+}
+
+function toggleChip(el, chipId, cls) {
+    if (el.classList.contains(cls)) {
+        el.classList.remove(cls);
+        pendingReviewChips = pendingReviewChips.filter(id => id !== chipId);
+    } else {
+        el.classList.add(cls);
+        pendingReviewChips.push(chipId);
+    }
+}
+
+function toggleChipNote() {
+    document.getElementById('chipNoteArea').classList.toggle('open');
+}
+
+async function submitChipFeedback() {
+    if (!pendingVerdict) { advanceTinder(); return; }
+
+    const note = document.getElementById('chipNoteText').value.trim() || null;
+
+    // Patch the already-submitted review with chips + note if any
+    if (pendingReviewChips.length || note) {
+        await submitVerdict(
+            pendingVerdict.variant_id,
+            pendingVerdict.verdict,
+            pendingVerdict.duration_ms,
+            pendingReviewChips,
+            note,
+        );
+    }
+
+    advanceTinder();
+}
+
+function advanceTinder() {
+    document.getElementById('chipPanel').classList.remove('open');
+    pendingVerdict = null;
+    pendingReviewChips = [];
+    currentIndex++;
+    updateProgress();
+
+    // Remove processed variant from list
+    variants.splice(0, currentIndex);
+    currentIndex = 0;
+
+    loadReviewCounts();
+    document.getElementById('pendingBadge').textContent = variants.length;
+    document.getElementById('statPending').textContent = variants.length;
+
+    renderTinder();
+}
+
+function bindKeyboard() {
+    document.addEventListener('keydown', e => {
+        if (currentMode !== 'tinder') return;
+        if (['INPUT', 'TEXTAREA', 'SELECT'].includes(e.target.tagName)) return;
+
+        const chipPanelOpen = document.getElementById('chipPanel').classList.contains('open');
+
+        if (!chipPanelOpen) {
+            if (e.key === 'ArrowRight' || e.key === 'a' || e.key === 'A') {
+                e.preventDefault();
+                if (variants[currentIndex]) tinderVerdict('approved');
+            } else if (e.key === 'ArrowLeft' || e.key === 'r' || e.key === 'R') {
+                e.preventDefault();
+                if (variants[currentIndex]) tinderVerdict('rejected');
+            }
+        } else {
+            if (e.key === 'Enter') {
+                e.preventDefault();
+                submitChipFeedback();
+            } else if (e.key === 'Escape') {
+                advanceTinder();
+            }
         }
+    });
+}
 
-        function closeRejectModal() {
-            document.getElementById('rejectModal').classList.remove('active');
-            document.getElementById('rejectNotes').value = '';
+// ============================================================
+//  GALLERY MODE
+// ============================================================
+function renderGallery() {
+    const grid = document.getElementById('galleryGrid');
+    if (!variants.length) {
+        grid.innerHTML = `<div style="grid-column:1/-1;text-align:center;padding:60px;color:var(--text-dim);">No variants pending review.</div>`;
+        return;
+    }
+
+    grid.innerHTML = variants.map(v => `
+        <div class="gallery-card ${selectedIds.has(v.id) ? 'selected' : ''}" onclick="toggleSelect('${v.id}')">
+            ${buildAssetHtml(v, false)}
+            <div class="card-body">
+                <div class="card-headline">${esc(v.headline)}</div>
+                <div class="card-text">${esc(v.primary_text)}</div>
+                <div class="card-tags">
+                    ${[v.taxonomy?.message_type, v.taxonomy?.hook_type, v.taxonomy?.tone].filter(Boolean).map(t => `<span class="card-tag">${esc(t)}</span>`).join('')}
+                </div>
+                <div class="card-cta">${esc(v.cta_button || 'Learn More')}</div>
+                <div style="display:flex;gap:6px;margin-top:8px;">
+                    <span style="padding:4px 10px;border-radius:4px;background:var(--green-bg);border:1px solid var(--green-border);color:var(--green);font-size:11px;cursor:pointer;" onclick="event.stopPropagation(); openStyleLikeModal('${v.id}')">Like Style</span>
+                    <span style="padding:4px 10px;border-radius:4px;background:var(--amber-bg);border:1px solid #f59e0b35;color:var(--amber);font-size:11px;cursor:pointer;" onclick="event.stopPropagation(); openStyleFeedbackModal('${v.id}')">Feedback</span>
+                </div>
+            </div>
+        </div>
+    `).join('');
+
+    scaleIframes();
+}
+
+function toggleSelect(id) {
+    if (selectedIds.has(id)) selectedIds.delete(id);
+    else selectedIds.add(id);
+    renderGallery();
+}
+
+function selectAll() {
+    variants.forEach(v => selectedIds.add(v.id));
+    renderGallery();
+}
+
+function clearSelection() {
+    selectedIds.clear();
+    renderGallery();
+}
+
+function showGalleryModal(verdict) {
+    if (!selectedIds.size) { showToast('Select at least one ad', 'info'); return; }
+    galleryVerdictType = verdict;
+
+    document.getElementById('modalTitle').textContent = verdict === 'approve' ? 'Approve Ads' : 'Reject Ads';
+    document.getElementById('modalSub').textContent = verdict === 'approve'
+        ? 'Optional: tap what you liked so the system learns.'
+        : 'Optional: tap what\'s wrong to train the generator.';
+
+    const chipList = verdict === 'reject' ? chips.rejection : chips.approval;
+    const chipClass = verdict === 'reject' ? 'selected-reject' : 'selected-approve';
+
+    document.getElementById('modalChipsWrap').innerHTML = `
+        <div class="chips-section-label">${verdict === 'reject' ? 'What\'s wrong?' : 'What\'s good?'}</div>
+        <div class="chips-wrap">${(chipList || []).map(c =>
+            `<div class="chip" data-id="${c.id}" onclick="toggleModalChip(this,'${chipClass}')">${esc(c.label)}</div>`
+        ).join('')}</div>
+    `;
+
+    const btn = document.getElementById('modalSubmitBtn');
+    btn.textContent = verdict === 'approve' ? `Approve ${selectedIds.size}` : `Reject ${selectedIds.size}`;
+    btn.className = `btn-modal-submit ${verdict === 'approve' ? 'approve' : 'reject'}`;
+
+    document.getElementById('modalNote').value = '';
+    document.getElementById('galleryModal').classList.add('active');
+}
+
+function toggleModalChip(el, cls) {
+    el.classList.toggle(cls);
+}
+
+function closeGalleryModal() {
+    document.getElementById('galleryModal').classList.remove('active');
+    galleryVerdictType = null;
+}
+
+async function submitGalleryVerdict() {
+    if (!galleryVerdictType || !selectedIds.size) return;
+
+    const verdict = galleryVerdictType === 'approve' ? 'approved' : 'rejected';
+    const chips = Array.from(document.querySelectorAll('#modalChipsWrap .chip.selected-reject, #modalChipsWrap .chip.selected-approve')).map(el => el.dataset.id);
+    const note = document.getElementById('modalNote').value.trim() || null;
+    const ids = [...selectedIds];
+
+    closeGalleryModal();
+
+    let ok = 0;
+    for (const id of ids) {
+        try {
+            await submitVerdict(id, verdict, 0, chips, note);
+            ok++;
+        } catch (e) {}
+    }
+
+    selectedIds.clear();
+    showToast(`${ok} ads ${verdict}`, verdict === 'approved' ? 'success' : 'error');
+    await loadQueue();
+    loadReviewCounts();
+}
+
+// ============================================================
+//  BATCH REVIEW MODE
+// ============================================================
+let batchMonologueId = null;
+let batchVerdicts = [];
+
+function renderBatchGalleryRef() {
+    const grid = document.getElementById('batchGalleryRef');
+    if (!variants.length) {
+        grid.innerHTML = `<div style="grid-column:1/-1;text-align:center;padding:30px;color:var(--text-dim);">No variants pending review.</div>`;
+        return;
+    }
+    grid.innerHTML = variants.map(v => `
+        <div class="gallery-card">
+            ${buildAssetHtml(v, false)}
+            <div class="card-body">
+                <div class="card-headline">${esc(v.headline)}</div>
+                <div class="card-text">${esc(v.primary_text)}</div>
+                <div class="card-tags">
+                    ${[v.taxonomy?.message_type, v.taxonomy?.hook_type, v.taxonomy?.tone].filter(Boolean).map(t => `<span class="card-tag">${esc(t)}</span>`).join('')}
+                </div>
+                <div class="card-cta">${esc(v.cta_button || 'Learn More')}</div>
+            </div>
+        </div>
+    `).join('');
+    scaleIframes();
+}
+
+async function submitMonologue() {
+    const text = document.getElementById('batchMonologueText').value.trim();
+    if (!text) { showToast('Write your monologue first', 'info'); return; }
+
+    const btn = document.getElementById('batchSubmitBtn');
+    const status = document.getElementById('batchStatus');
+    btn.disabled = true;
+    btn.textContent = 'Parsing...';
+    status.textContent = 'Sending monologue to Claude for parsing...';
+
+    try {
+        const res = await fetch(`${API}/api/review/monologue`, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({
+                text,
+                reviewer: getReviewer(),
+                variant_ids: variants.map(v => v.id),
+            }),
+        });
+        const data = await res.json();
+        if (!res.ok) throw new Error(data.detail || 'Monologue parsing failed');
+
+        batchMonologueId = data.monologue_id;
+        batchVerdicts = data.verdicts || [];
+        renderBatchResults(data);
+    } catch (e) {
+        showToast('Monologue parsing failed: ' + e.message, 'error');
+    } finally {
+        btn.disabled = false;
+        btn.textContent = 'Review All';
+        status.textContent = '';
+    }
+}
+
+function renderBatchResults(data) {
+    document.getElementById('batchInputArea').style.display = 'none';
+    document.getElementById('batchResults').style.display = 'block';
+
+    // Render global directions
+    const dirEl = document.getElementById('batchDirections');
+    if (data.global_directions && data.global_directions.length) {
+        dirEl.innerHTML = `<div style="font-size:12px;font-weight:600;color:var(--text-muted);margin-bottom:6px;">Creative Directions Extracted</div>`
+            + data.global_directions.map(d => `<span class="batch-direction-tag">${esc(d)}</span>`).join('');
+    } else {
+        dirEl.innerHTML = '';
+    }
+
+    // Build a map of variant ID to copy info for display
+    const varMap = {};
+    variants.forEach(v => { varMap[v.id] = v; });
+
+    const listEl = document.getElementById('batchVerdictsList');
+    listEl.innerHTML = batchVerdicts.map((v, i) => {
+        const variant = varMap[v.variant_id];
+        const headline = variant ? esc(variant.headline) : v.variant_id.slice(0, 8);
+        const verdictColor = v.verdict === 'approve' ? 'var(--green)' : v.verdict === 'reject' ? 'var(--red)' : 'var(--text-muted)';
+        return `<div class="batch-verdict-card">
+            <span class="bv-headline">${headline}</span>
+            <span class="bv-reason">${esc(v.reason)}</span>
+            <select onchange="batchVerdicts[${i}].verdict = this.value" style="border-color:${verdictColor};">
+                <option value="approve" ${v.verdict === 'approve' ? 'selected' : ''}>Approve</option>
+                <option value="reject" ${v.verdict === 'reject' ? 'selected' : ''}>Reject</option>
+                <option value="skip" ${v.verdict === 'skip' ? 'selected' : ''}>Skip</option>
+            </select>
+        </div>`;
+    }).join('');
+}
+
+async function commitBatchVerdicts() {
+    const reviewer = getReviewer();
+    let ok = 0;
+    for (const v of batchVerdicts) {
+        if (v.verdict === 'skip') continue;
+        try {
+            await submitVerdict(v.variant_id, v.verdict === 'approve' ? 'approved' : 'rejected', 0, [], v.reason);
+            ok++;
+        } catch (e) {}
+    }
+    showToast(`${ok} reviews committed`, 'success');
+    resetBatchReview();
+    await loadQueue();
+    loadReviewCounts();
+}
+
+async function regenerateFromBatch() {
+    if (!batchMonologueId) { showToast('No monologue to regenerate from', 'info'); return; }
+    showToast('Regenerating ads from monologue...', 'info');
+    try {
+        const res = await fetch(`${API}/api/review/monologue-regenerate`, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ monologue_id: batchMonologueId }),
+        });
+        const data = await res.json();
+        if (!res.ok) throw new Error(data.detail || 'Regeneration failed');
+        showToast(`Generated ${data.variants_generated} new variants`, 'success');
+        resetBatchReview();
+        await loadQueue();
+    } catch (e) {
+        showToast('Regeneration failed: ' + e.message, 'error');
+    }
+}
+
+function resetBatchReview() {
+    batchMonologueId = null;
+    batchVerdicts = [];
+    document.getElementById('batchInputArea').style.display = 'block';
+    document.getElementById('batchResults').style.display = 'none';
+    document.getElementById('batchMonologueText').value = '';
+}
+
+// ============================================================
+//  SCOREBOARD
+// ============================================================
+let scoreSort = { col: 'cpfn', asc: true };
+
+async function loadScoreboard() {
+    const el = document.getElementById('scoreboardContent');
+    el.innerHTML = `<div class="loading">Loading scoreboard...</div>`;
+    try {
+        const res = await fetch(`${API}/api/scoreboard`);
+        const data = await res.json();
+        renderScoreboard(data);
+    } catch (e) {
+        el.innerHTML = `<div class="scoreboard-empty"><h3>No data</h3><p>No live ads yet.</p></div>`;
+    }
+}
+
+function renderScoreboard(data) {
+    const el = document.getElementById('scoreboardContent');
+    if (!data.entries || !data.entries.length) {
+        el.innerHTML = `<h2>Performance Scoreboard</h2><div class="scoreboard-empty"><h3>No live ads yet</h3><p>Ads show up here once deployed to Meta or Google.</p></div>`;
+        return;
+    }
+
+    const portfolioStr = data.portfolio_avg_cpfn ? `Portfolio avg CpFN: $${data.portfolio_avg_cpfn}` : '';
+    const avg = data.portfolio_avg_cpfn;
+
+    const sorted = [...data.entries].sort((a, b) => {
+        const av = a[scoreSort.col] ?? Infinity;
+        const bv = b[scoreSort.col] ?? Infinity;
+        return scoreSort.asc ? av - bv : bv - av;
+    });
+
+    const thClass = (col) => col === scoreSort.col ? 'style="color:var(--text);"' : '';
+    const arrow = scoreSort.asc ? ' ↑' : ' ↓';
+
+    const rows = sorted.map((e, i) => {
+        const cpfnClass = avg
+            ? (e.cpfn < avg * 0.9 ? 'cpfn-winner' : e.cpfn > avg * 1.1 ? 'cpfn-loser' : 'cpfn-mid')
+            : '';
+        const trendClass = { improving: 'trend-up', declining: 'trend-down', stable: 'trend-stable' }[e.trend] || '';
+        const decision = e.latest_decision ? `<span class="verdict-badge ${e.latest_decision}">${e.latest_decision}</span>` : '—';
+        return `<tr>
+            <td class="rank-cell">#${i + 1}</td>
+            <td class="headline-cell">${esc(e.headline)}</td>
+            <td class="cpfn-cell ${cpfnClass}">${e.cpfn ? '$' + e.cpfn : '—'}</td>
+            <td>$${e.total_spend.toLocaleString()}</td>
+            <td>${e.total_notes}</td>
+            <td class="${trendClass}">${e.trend}</td>
+            <td>${e.days_live}d</td>
+            <td>${decision}</td>
+        </tr>`;
+    }).join('');
+
+    el.innerHTML = `
+        <h2>Performance Scoreboard</h2>
+        <p class="scoreboard-meta">${data.total_active} live ads · ${portfolioStr}</p>
+        <table class="scoreboard-table">
+            <thead>
+                <tr>
+                    <th onclick="sortScore('rank')">#</th>
+                    <th onclick="sortScore('headline')">Ad</th>
+                    <th onclick="sortScore('cpfn')" ${thClass('cpfn')}>CpFN${scoreSort.col === 'cpfn' ? arrow : ''}</th>
+                    <th onclick="sortScore('total_spend')" ${thClass('total_spend')}>Spend${scoreSort.col === 'total_spend' ? arrow : ''}</th>
+                    <th onclick="sortScore('total_notes')" ${thClass('total_notes')}>Notes${scoreSort.col === 'total_notes' ? arrow : ''}</th>
+                    <th>Trend</th>
+                    <th onclick="sortScore('days_live')">Days</th>
+                    <th>Decision</th>
+                </tr>
+            </thead>
+            <tbody>${rows}</tbody>
+        </table>
+    `;
+}
+
+function sortScore(col) {
+    if (scoreSort.col === col) scoreSort.asc = !scoreSort.asc;
+    else { scoreSort.col = col; scoreSort.asc = true; }
+    loadScoreboard();
+}
+
+// ============================================================
+//  LEARNINGS
+// ============================================================
+async function loadLearnings() {
+    const el = document.getElementById('learningsContent');
+    el.innerHTML = `<div class="loading" style="grid-column:1/-1;">Loading learnings...</div>`;
+
+    const reviewer = getReviewer();
+    try {
+        const res = await fetch(`${API}/api/learnings?reviewer=${reviewer}`);
+        const data = await res.json();
+        renderLearnings(data);
+    } catch (e) {
+        el.innerHTML = `<div class="loading" style="grid-column:1/-1;color:var(--text-dim);">Could not load learnings.</div>`;
+    }
+}
+
+function renderLearnings(data) {
+    const el = document.getElementById('learningsContent');
+    el.innerHTML = '';
+
+    // Playbook rules
+    const rules = data.playbook_rules || [];
+    const rulesHtml = rules.length
+        ? rules.map(r => `
+            <div class="playbook-rule">
+                <div class="rule-text">${esc(r.rule || JSON.stringify(r))}</div>
+                <div class="rule-meta">
+                    ${r.confidence ? `<span class="confidence-badge ${r.confidence}">${r.confidence}</span>` : ''}
+                    ${r.direction ? `<span class="direction-badge ${r.direction}">${r.direction === 'use_more' ? '↑ Use more' : '↓ Avoid'}</span>` : ''}
+                    ${r.feature ? `<span style="font-size:11px;color:var(--text-dim);">${esc(r.feature)}</span>` : ''}
+                </div>
+            </div>
+        `).join('')
+        : `<div class="learnings-empty">No regression results yet. Run the regression pipeline to generate insights.</div>`;
+
+    el.insertAdjacentHTML('beforeend', `
+        <div class="learnings-section full-width">
+            <h3>What the System Learned</h3>
+            ${rulesHtml}
+        </div>
+    `);
+
+    // Chip aggregates
+    const chips_data = data.chip_aggregates || {};
+    const rejChips = chips_data.rejection_chips || {};
+    const appChips = chips_data.approval_chips || {};
+    const maxRej = Math.max(...Object.values(rejChips), 1);
+    const maxApp = Math.max(...Object.values(appChips), 1);
+
+    const rejRows = Object.entries(rejChips).slice(0, 8).map(([id, count]) => `
+        <div class="chip-impact-row">
+            <div class="chip-impact-label">${esc(id.replace(/_/g, ' '))}</div>
+            <div class="chip-bar"><div class="chip-bar-fill" style="width:${(count/maxRej*100).toFixed(0)}%"></div></div>
+            <div class="chip-impact-count">${count}</div>
+        </div>
+    `).join('') || `<div class="learnings-empty">No rejection chips recorded yet.</div>`;
+
+    const appRows = Object.entries(appChips).slice(0, 8).map(([id, count]) => `
+        <div class="chip-impact-row">
+            <div class="chip-impact-label">${esc(id.replace(/_/g, ' '))}</div>
+            <div class="chip-bar"><div class="chip-bar-fill approval" style="width:${(count/maxApp*100).toFixed(0)}%"></div></div>
+            <div class="chip-impact-count">${count}</div>
+        </div>
+    `).join('') || `<div class="learnings-empty">No approval chips recorded yet.</div>`;
+
+    el.insertAdjacentHTML('beforeend', `
+        <div class="learnings-section">
+            <h3>Rejection Reasons (top)</h3>
+            ${rejRows}
+        </div>
+        <div class="learnings-section">
+            <h3>Approval Highlights</h3>
+            ${appRows}
+        </div>
+    `);
+
+    // Memory summary
+    const mem = data.memory_summary || {};
+    const memHtml = Object.keys(mem).length ? `
+        <div class="memory-stat"><span class="label">Patterns learned</span><span class="value">${mem.winning_patterns ?? 0}</span></div>
+        <div class="memory-stat"><span class="label">Variants analyzed</span><span class="value">${mem.total_analyzed ?? 0}</span></div>
+        ${mem.last_regression ? `<div class="memory-stat"><span class="label">Last regression</span><span class="value">${mem.last_regression}</span></div>` : ''}
+        ${(mem.fatigue_alerts || []).map(a => `
+            <div class="memory-stat">
+                <span class="label">⚠ Fatigue: ${esc(a.feature)}</span>
+                <span class="value" style="color:var(--amber);">${a.delta_pct > 0 ? '+' : ''}${a.delta_pct?.toFixed(0)}%</span>
+            </div>
+        `).join('')}
+    ` : `<div class="learnings-empty">Memory not yet built.</div>`;
+
+    el.insertAdjacentHTML('beforeend', `
+        <div class="learnings-section">
+            <h3>Creative Memory</h3>
+            ${memHtml}
+        </div>
+    `);
+
+    // Reviewer impact
+    const ri = data.reviewer_impact;
+    const reviewer = getReviewer();
+    const riHtml = ri && ri.total_reviews > 0 ? `
+        <div class="reviewer-profile">
+            <div class="profile-stat"><span class="pl">Total reviews</span><span class="pv">${ri.total_reviews}</span></div>
+            <div class="profile-stat"><span class="pl">Approval rate</span><span class="pv">${(ri.approval_rate * 100).toFixed(0)}%</span></div>
+            <div class="profile-stat"><span class="pl">Chip coverage</span><span class="pv">${(ri.chip_coverage_rate * 100).toFixed(0)}% of reviews</span></div>
+            <div class="profile-stat"><span class="pl">Median review time</span><span class="pv">${ri.median_review_duration_ms ? (ri.median_review_duration_ms / 1000).toFixed(1) + 's' : '—'}</span></div>
+            ${ri.top_rejection_chips?.length ? `<div style="margin-top:8px;font-size:11px;color:var(--text-dim);">Top rejection reasons: ${ri.top_rejection_chips.map(([id]) => id.replace(/_/g, ' ')).join(', ')}</div>` : ''}
+        </div>
+    ` : `<div class="learnings-empty">No reviews recorded yet for ${esc(reviewer)}.</div>`;
+
+    el.insertAdjacentHTML('beforeend', `
+        <div class="learnings-section">
+            <h3>Your Impact (${esc(reviewer)})</h3>
+            ${riHtml}
+        </div>
+    `);
+}
+
+// ============================================================
+//  UTILITIES
+// ============================================================
+function getReviewer() {
+    return document.getElementById('reviewerSelect').value;
+}
+
+function showToast(msg, type = 'info') {
+    const t = document.getElementById('toast');
+    t.textContent = msg;
+    t.className = `toast toast-${type}`;
+    t.style.display = 'block';
+    t.style.opacity = '1';
+    setTimeout(() => { t.style.opacity = '0'; setTimeout(() => { t.style.display = 'none'; }, 300); }, 2500);
+}
+
+function esc(str) {
+    if (!str && str !== 0) return '';
+    const d = document.createElement('div');
+    d.textContent = String(str);
+    return d.innerHTML;
+}
+
+// ============================================================
+//  DEPLOY TO META
+// ============================================================
+let deployVariantIds = [];
+
+async function deployAllApproved() {
+    try {
+        const res = await fetch(`${API}/api/review/history`);
+        const data = await res.json();
+        if (!data.approved || !data.approved.length) {
+            showToast('No approved variants to deploy', 'info');
+            return;
         }
+        openDeployModal(data.approved.map(a => a.id));
+    } catch (e) {
+        showToast('Failed to load approved variants', 'error');
+    }
+}
 
-        async function rejectSelected() {
-            const notes = document.getElementById('rejectNotes').value;
-            if (!notes.trim()) return;
-            await fetch(`${API_BASE}/api/review/reject`, {
-                method: 'POST',
-                headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({ variant_ids: [...selectedIds], reviewer: 'nate', notes }),
-            });
-            closeRejectModal();
-            selectedIds.clear();
-            loadReviewQueue();
-        }
+function openDeployModal(variantIds) {
+    deployVariantIds = Array.isArray(variantIds) ? variantIds : [variantIds];
+    const modal = document.getElementById('deployModal');
+    document.getElementById('deployModalInfo').textContent = `Deploying ${deployVariantIds.length} variant(s) as PAUSED ads.`;
+    document.getElementById('deployCampaignId').value = localStorage.getItem('deploy_campaign_id') || '';
+    document.getElementById('deployAdsetId').value = localStorage.getItem('deploy_adset_id') || '';
+    modal.style.display = 'flex';
+}
 
-        function escapeHtml(str) {
-            const div = document.createElement('div');
-            div.textContent = str || '';
-            return div.innerHTML;
-        }
+function closeDeployModal() {
+    document.getElementById('deployModal').style.display = 'none';
+    deployVariantIds = [];
+}
 
-        loadReviewQueue();
-    </script>
+async function confirmDeploy() {
+    const campaignId = document.getElementById('deployCampaignId').value.trim();
+    const adsetId = document.getElementById('deployAdsetId').value.trim();
+    if (!campaignId || !adsetId) { showToast('Campaign ID and Ad Set ID are required', 'error'); return; }
+
+    localStorage.setItem('deploy_campaign_id', campaignId);
+    localStorage.setItem('deploy_adset_id', adsetId);
+
+    const btn = document.getElementById('deployConfirmBtn');
+    btn.disabled = true;
+    btn.textContent = 'Deploying...';
+
+    try {
+        const res = await fetch(`${API}/api/deploy`, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ variant_ids: deployVariantIds, campaign_id: campaignId, adset_id: adsetId }),
+        });
+        const data = await res.json();
+        if (!res.ok) throw new Error(data.detail || 'Deploy failed');
+        showToast(`Deployed ${data.deployed} ad(s) to Meta (paused)`, 'success');
+        closeDeployModal();
+        await loadQueue();
+        loadReviewCounts();
+    } catch (e) {
+        showToast('Deploy failed: ' + e.message, 'error');
+    } finally {
+        btn.disabled = false;
+        btn.textContent = 'Deploy (Paused)';
+    }
+}
+
+// ---------------------------------------------------------------------------
+// Style Feedback & Like (from Alex's harness)
+// ---------------------------------------------------------------------------
+
+let styleFeedbackVariantId = null;
+let styleLikeVariantId = null;
+
+function openStyleFeedbackModal(variantId) {
+    styleFeedbackVariantId = variantId;
+    const modal = document.getElementById('styleFeedbackModal');
+    document.getElementById('styleFeedbackText').value = '';
+    modal.style.display = 'flex';
+    document.getElementById('styleFeedbackText').focus();
+}
+
+function closeStyleFeedbackModal() {
+    document.getElementById('styleFeedbackModal').style.display = 'none';
+    styleFeedbackVariantId = null;
+}
+
+async function submitStyleFeedback() {
+    const feedback = document.getElementById('styleFeedbackText').value.trim();
+    if (!feedback) return;
+    const btn = document.getElementById('styleFeedbackSubmitBtn');
+    btn.textContent = 'Processing...';
+    btn.disabled = true;
+    try {
+        const res = await fetch(`${API}/api/feedback/image`, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ variant_id: styleFeedbackVariantId, feedback }),
+        });
+        const data = await res.json();
+        closeStyleFeedbackModal();
+        const fileLabel = data.notes_file ? data.notes_file.replace('style_notes_', '').replace('.md', '') : 'style';
+        showToast(`Feedback processed — ${fileLabel} notes updated`, 'success');
+    } catch (e) {
+        showToast('Error submitting feedback', 'error');
+    } finally {
+        btn.textContent = 'Submit';
+        btn.disabled = false;
+    }
+}
+
+function openStyleLikeModal(variantId) {
+    styleLikeVariantId = variantId;
+    const modal = document.getElementById('styleLikeModal');
+    document.getElementById('styleLikeNote').value = '';
+    modal.style.display = 'flex';
+    document.getElementById('styleLikeNote').focus();
+}
+
+function closeStyleLikeModal() {
+    document.getElementById('styleLikeModal').style.display = 'none';
+    styleLikeVariantId = null;
+}
+
+async function submitStyleLike() {
+    const note = document.getElementById('styleLikeNote').value.trim();
+    const btn = document.getElementById('styleLikeSubmitBtn');
+    btn.textContent = 'Saving...';
+    btn.disabled = true;
+    try {
+        const res = await fetch(`${API}/api/feedback/like`, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ variant_id: styleLikeVariantId, note: note || null }),
+        });
+        const data = await res.json();
+        closeStyleLikeModal();
+        showToast('Liked — saved as reference', 'success');
+    } catch (e) {
+        showToast('Error saving liked image', 'error');
+    } finally {
+        btn.textContent = 'Save';
+        btn.disabled = false;
+    }
+}
+
+async function toggleStyleNotesPanel() {
+    const panel = document.getElementById('styleNotesPanel');
+    if (panel.style.display === 'block') { panel.style.display = 'none'; return; }
+    panel.style.display = 'block';
+    try {
+        const res = await fetch(`${API}/api/feedback/style-notes`);
+        const data = await res.json();
+        const labels = { global: 'Global', photo: 'Photo', illustration: 'Illustration', graphic: 'Graphic' };
+        document.getElementById('styleNotesContent').innerHTML = Object.entries(data).map(([key, notes]) => `
+            <div style="margin-bottom:16px;">
+                <div style="color:var(--amber);font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:1px;margin-bottom:6px;">${labels[key] || key}</div>
+                <pre style="color:var(--text-muted);font-size:12px;line-height:1.5;white-space:pre-wrap;font-family:inherit;padding:10px;background:var(--bg);border-radius:6px;border:1px solid var(--border);">${esc(notes)}</pre>
+            </div>
+        `).join('');
+    } catch (e) {
+        document.getElementById('styleNotesContent').innerHTML = '<span style="color:var(--text-dim)">Could not load.</span>';
+    }
+}
+
+document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') { closeStyleFeedbackModal(); closeStyleLikeModal(); }
+});
+</script>
+
+<!-- Style Feedback Modal -->
+<div id="styleFeedbackModal" style="display:none;position:fixed;inset:0;z-index:200;background:rgba(0,0,0,0.7);align-items:center;justify-content:center;">
+    <div style="background:var(--surface);border:1px solid var(--border2);border-radius:12px;padding:24px;width:440px;max-width:90vw;">
+        <h3 style="color:#fff;margin-bottom:4px;font-size:15px;">Image Feedback</h3>
+        <p style="color:var(--text-muted);font-size:12px;margin-bottom:12px;">Describe what you'd like changed. AI will translate into prompt guidance.</p>
+        <textarea id="styleFeedbackText" style="width:100%;height:80px;background:var(--bg);border:1px solid var(--border2);border-radius:6px;color:var(--text);padding:10px;font-size:13px;resize:vertical;" placeholder="e.g. 'too clinical — I want warmer vibes'"></textarea>
+        <div style="display:flex;gap:8px;justify-content:flex-end;margin-top:12px;">
+            <button onclick="closeStyleFeedbackModal()" style="padding:6px 14px;background:var(--surface2);border:1px solid var(--border2);border-radius:6px;color:var(--text-muted);cursor:pointer;font-size:12px;">Cancel</button>
+            <button id="styleFeedbackSubmitBtn" onclick="submitStyleFeedback()" style="padding:6px 14px;background:var(--amber-bg);border:1px solid #f59e0b35;border-radius:6px;color:var(--amber);cursor:pointer;font-size:12px;">Submit</button>
+        </div>
+    </div>
+</div>
+
+<!-- Style Like Modal -->
+<div id="styleLikeModal" style="display:none;position:fixed;inset:0;z-index:200;background:rgba(0,0,0,0.7);align-items:center;justify-content:center;">
+    <div style="background:var(--surface);border:1px solid var(--border2);border-radius:12px;padding:24px;width:440px;max-width:90vw;">
+        <h3 style="color:#fff;margin-bottom:4px;font-size:15px;">Like This Style</h3>
+        <p style="color:var(--text-muted);font-size:12px;margin-bottom:12px;">This image will be saved as a reference for future generations.</p>
+        <textarea id="styleLikeNote" style="width:100%;height:60px;background:var(--bg);border:1px solid var(--border2);border-radius:6px;color:var(--text);padding:10px;font-size:13px;resize:vertical;" placeholder="(Optional) What do you like about it?"></textarea>
+        <div style="display:flex;gap:8px;justify-content:flex-end;margin-top:12px;">
+            <button onclick="closeStyleLikeModal()" style="padding:6px 14px;background:var(--surface2);border:1px solid var(--border2);border-radius:6px;color:var(--text-muted);cursor:pointer;font-size:12px;">Cancel</button>
+            <button id="styleLikeSubmitBtn" onclick="submitStyleLike()" style="padding:6px 14px;background:var(--green-bg);border:1px solid var(--green-border);border-radius:6px;color:var(--green);cursor:pointer;font-size:12px;">Save</button>
+        </div>
+    </div>
+</div>
+
+<!-- Style Notes Panel -->
+<div id="styleNotesPanel" style="display:none;position:fixed;top:52px;right:0;width:360px;height:calc(100vh - 52px);background:var(--surface);border-left:1px solid var(--border);z-index:150;overflow-y:auto;padding:20px;">
+    <h3 style="color:#fff;font-size:14px;margin-bottom:12px;">Style Notes</h3>
+    <div id="styleNotesContent" style="color:var(--text-muted);font-size:12px;">Loading...</div>
+</div>
+
 </body>
 </html>

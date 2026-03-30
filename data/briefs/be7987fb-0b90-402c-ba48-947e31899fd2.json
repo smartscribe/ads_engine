@@ -1,0 +1,35 @@
+{
+  "id": "be7987fb-0b90-402c-ba48-947e31899fd2",
+  "created_at": "2026-03-27T08:29:04.296389",
+  "raw_input": "[auto-generated from playbook] Cut your documentation time by 75% with clinical AI proven to reduce the 15+ hours per week you're losing to paperwork",
+  "source": "playbook",
+  "target_audience": "bh_clinicians",
+  "value_proposition": "Cut your documentation time by 75% with clinical AI proven to reduce the 15+ hours per week you're losing to paperwork",
+  "pain_point": "Spending 15+ hours weekly on documentation—nearly half a workweek—leading directly to burnout while system says it's your fault for not being efficient",
+  "desired_action": "Click 'Learn More' to see the evidence",
+  "tone_direction": "Evidence-based ally—like a researcher colleague showing you the study that finally validates what you've been experiencing. Balances data and emotion, serious but supportive. The tone of someone who believes you AND has the receipts to prove the system is broken, not you.",
+  "visual_direction": "Photography: clinician at desk surrounded by subtle burden metaphors—paper stacks, multiple screens open, late-night office lighting. Not dramatized, understated and real. Statistic appears as bold text overlay. Video/slideshow progression shows visual relief—screens closing, lights turning off, clinician leaving. Muted soft color palette (thoughtful, serious, validating). Optional: simple bar chart showing time saved, secondary to human subject.",
+  "key_phrases": [
+    "You spend 15+ hours per week on documentation. That's not sustainable.",
+    "40% of clinicians report burnout from paperwork alone",
+    "The average therapy session: 50 minutes. The average note: 30 minutes.",
+    "You're drowning in documentation, and it's not your fault—the system is broken",
+    "Clinical AI that cuts documentation time by 75% while maintaining quality",
+    "Used by over 10,000 providers who needed their life back"
+  ],
+  "references": [],
+  "emotional_register": "From shame-tinged exhaustion ('Maybe I'm just bad at this') and self-blame for burnout → to validated anger at broken systems plus hope that evidence-based solutions exist that respect clinical standards",
+  "proof_element": "15+ hours per week average documentation time; 75% reduction in documentation time; 40% of clinicians report paperwork-driven burnout; 10,000+ providers using the solution",
+  "hook_strategy": "Open on statistic bold on screen: '15+ hours per week on documentation' with clinician visible behind the text at their desk in late-night lighting. Let the number land for 2 seconds. Text animates: 'That's not sustainable.' Then show the person's face registering exhausted recognition.",
+  "target_persona_details": "Michael, 41, PhD in hospital outpatient program, intellectual who needs data to make decisions. Daily routine: sees 5-6 patients, spends evenings at home laptop documenting while family watches TV nearby. Tracks his time obsessively, knows exactly that he spends 12-18 hours weekly on notes. Pain moment: Sunday night, pulling up spreadsheet where he tracks hours, calculating that 38% of his 'work time' is documentation, feeling both validated by the data and despairing that even his efficiency optimization hasn't fixed it. Needs proof that solutions actually work.",
+  "brief_richness_score": 10.0,
+  "source_pattern_id": "Top Pattern #4: Pain Point Photography + Untested Combination #3 + Brief 4",
+  "num_variants": 6,
+  "formats_requested": [
+    "single_image",
+    "video"
+  ],
+  "platforms": [
+    "meta"
+  ]
+}

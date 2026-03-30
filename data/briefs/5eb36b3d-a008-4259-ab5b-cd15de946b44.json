@@ -1,0 +1,26 @@
+{
+  "id": "5eb36b3d-a008-4259-ab5b-cd15de946b44",
+  "created_at": "2026-03-26T08:19:53.466638",
+  "raw_input": "[auto-generated from playbook] Test the untested combination of social proof + question hooks to create FOMO without aggression",
+  "source": "playbook",
+  "target_audience": "bh_clinicians",
+  "value_proposition": "Test the untested combination of social proof + question hooks to create FOMO without aggression",
+  "pain_point": "Not knowing what colleagues are doing to finish notes faster",
+  "desired_action": "Join them / Learn more",
+  "tone_direction": "Emphasis on community and collective wisdom. Avoid superiority complex or judgment. Warm and inclusive.",
+  "visual_direction": "Photography collage showing diverse clinicians in satisfied/content moments—closing laptop with smile, leaving office in daylight, relaxed at desk. Not stock photo energy—more photo booth authenticity. Could be static collage or simple video slideshow. Overlay transparent testimonial quotes that don't dominate but add authenticity: 'I'm home for dinner now - Sarah, LCSW' / 'No more weekend charting - Marcus, PhD'. Warm earth tones throughout. Natural lighting. Genuine expressions (not performative joy, just quiet satisfaction/relief).",
+  "key_phrases": [
+    "What do 10,000 clinicians know that you don't?",
+    "Why are your colleagues finishing notes in minutes?",
+    "Ever wonder how some clinicians never take work home?"
+  ],
+  "references": [],
+  "num_variants": 6,
+  "formats_requested": [
+    "single_image",
+    "video"
+  ],
+  "platforms": [
+    "meta"
+  ]
+}

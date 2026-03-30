@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=1080, height=1080">
+    <style>
+        @font-face {
+            font-family: 'Archivo';
+            src: url('{{font_path_archivo}}') format('truetype');
+            font-weight: 100 900;
+        }
+        @font-face {
+            font-family: 'Inter';
+            src: url('{{font_path_inter}}') format('truetype');
+            font-weight: 100 900;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            width: 1080px;
+            height: 1080px;
+            font-family: 'Inter', sans-serif;
+            overflow: hidden;
+            display: flex;
+        }
+
+        .left-panel {
+            width: 55%;
+            height: 100%;
+            background: {{background_color}};
+            display: flex;
+            flex-direction: column;
+            padding: 72px 56px 64px;
+        }
+
+        .right-panel {
+            width: 45%;
+            height: 100%;
+            background: {{accent_color}};
+            position: relative;
+            overflow: hidden;
+        }
+
+        /* Duo-tone cube pattern from brand guidelines */
+        .pattern-grid {
+            position: absolute;
+            inset: 0;
+            opacity: 0.08;
+            background-image:
+                linear-gradient(45deg, {{background_color}} 25%, transparent 25%),
+                linear-gradient(-45deg, {{background_color}} 25%, transparent 25%),
+                linear-gradient(45deg, transparent 75%, {{background_color}} 75%),
+                linear-gradient(-45deg, transparent 75%, {{background_color}} 75%);
+            background-size: 60px 60px;
+            background-position: 0 0, 0 30px, 30px -30px, -30px 0;
+        }
+
+        .right-brand {
+            position: absolute;
+            bottom: 80px;
+            right: 56px;
+        }
+
+        .right-brand img { height: 48px; width: auto; opacity: 0.5; }
+
+        .logo { height: 48px; width: auto; margin-bottom: 48px; }
+
+        .content {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            gap: 24px;
+        }
+
+        .headline {
+            font-family: 'Archivo', sans-serif;
+            font-size: 64px;
+            font-weight: 700;
+            line-height: 1.1;
+            color: {{headline_color}};
+            letter-spacing: -1px;
+        }
+
+        .body-text {
+            font-size: 30px;
+            font-weight: 400;
+            line-height: 1.5;
+            color: {{body_color}};
+            opacity: 0.85;
+        }
+
+        .cta-button {
+            display: inline-flex;
+            align-items: center;
+            padding: 20px 44px;
+            background: {{cta_background}};
+            color: {{cta_text_color}};
+            font-family: 'Inter', sans-serif;
+            font-size: 24px;
+            font-weight: 600;
+            border-radius: 12px;
+            align-self: flex-start;
+            margin-top: 12px;
+            box-shadow: 0 4px 16px rgba(0,0,0,0.12);
+        }
+    </style>
+</head>
+<body>
+    <div class="left-panel">
+        <img src="{{logo_path}}" alt="JotPsych" class="logo">
+        <div class="content">
+            <h1 class="headline">{{headline}}</h1>
+            <p class="body-text">{{body}}</p>
+            <span class="cta-button">{{cta}}</span>
+        </div>
+    </div>
+    <div class="right-panel">
+        <div class="pattern-grid"></div>
+        <div class="right-brand">
+            <img src="{{logomark_path}}" alt="">
+        </div>
+    </div>
+</body>
+</html>

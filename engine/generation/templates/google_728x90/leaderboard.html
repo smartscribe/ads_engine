@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=728, height=90">
+    <style>
+        @font-face {
+            font-family: 'Archivo';
+            src: url('{{font_path_archivo}}') format('truetype');
+            font-weight: 100 900;
+        }
+        @font-face {
+            font-family: 'Inter';
+            src: url('{{font_path_inter}}') format('truetype');
+            font-weight: 100 900;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            width: 728px;
+            height: 90px;
+            font-family: 'Inter', sans-serif;
+            background: {{background_color}};
+            overflow: hidden;
+        }
+
+        .container {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            padding: 0 20px;
+            gap: 20px;
+        }
+
+        .logo { height: 28px; width: auto; flex-shrink: 0; }
+
+        /* Vertical divider */
+        .divider {
+            width: 1px;
+            height: 50px;
+            background: {{headline_color}};
+            opacity: 0.2;
+            flex-shrink: 0;
+        }
+
+        /* PROOF ELEMENT ZONE — compact stat for leaderboard */
+        .proof-zone {
+            display: flex;
+            align-items: baseline;
+            gap: 4px;
+            flex-shrink: 0;
+        }
+        .proof-number {
+            font-family: 'Archivo', sans-serif;
+            font-size: 32px;
+            font-weight: 800;
+            color: {{accent_color}};
+            letter-spacing: -1px;
+            line-height: 1;
+        }
+        .proof-unit {
+            font-family: 'Inter', sans-serif;
+            font-size: 11px;
+            font-weight: 500;
+            color: {{body_color}};
+            opacity: 0.7;
+            line-height: 1;
+            max-width: 60px;
+        }
+
+        .headline {
+            font-family: 'Archivo', sans-serif;
+            font-size: 18px;
+            font-weight: 700;
+            color: {{headline_color}};
+            letter-spacing: -0.2px;
+            flex: 1;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .cta-button {
+            display: inline-flex;
+            align-items: center;
+            padding: 10px 22px;
+            background: {{cta_background}};
+            color: {{cta_text_color}};
+            font-family: 'Inter', sans-serif;
+            font-size: 13px;
+            font-weight: 600;
+            border-radius: 6px;
+            white-space: nowrap;
+            flex-shrink: 0;
+        }
+
+        /* Bottom accent line */
+        .accent-bottom {
+            position: absolute;
+            bottom: 0; left: 0; right: 0;
+            height: 3px;
+            background: linear-gradient(90deg, #1C1E85 0%, #FD96C9 50%, #813FE8 100%);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="{{logomark_path}}" alt="JotPsych" class="logo">
+        <div class="divider"></div>
+        <div class="proof-zone">
+            <span class="proof-number">{{stat_number}}</span>
+            <span class="proof-unit">{{stat_unit}}</span>
+        </div>
+        <h1 class="headline">{{headline}}</h1>
+        <span class="cta-button">{{cta}}</span>
+    </div>
+    <div class="accent-bottom"></div>
+</body>
+</html>

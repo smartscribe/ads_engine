@@ -27,6 +27,7 @@ class Settings(BaseSettings):
     META_APP_SECRET: str = ""
     META_ACCESS_TOKEN: str = ""
     META_AD_ACCOUNT_ID: str = ""           # Format: act_XXXXXXXXXX
+    META_PAGE_ID: str = ""                  # Facebook Page ID for ad creative
 
     # -- Google Ads API --
     GOOGLE_ADS_DEVELOPER_TOKEN: str = ""
@@ -39,11 +40,11 @@ class Settings(BaseSettings):
     SLACK_WEBHOOK_URL: str = ""
     SLACK_CHANNEL: str = "#ads-engine"
 
-    # -- Image Generation (intern fills in based on chosen tool) --
-    IMAGE_GEN_API_KEY: str = ""
-    IMAGE_GEN_PROVIDER: str = ""           # "midjourney", "flux", "dalle", "ideogram"
+    # -- Image Generation --
+    OPENAI_API_KEY: str = ""               # For DALL-E 3
+    GEMINI_API_KEY: str = ""               # For Google Imagen 3
 
-    # -- Video Generation (intern fills in if applicable) --
+    # -- Video Generation --
     VIDEO_GEN_API_KEY: str = ""
     VIDEO_GEN_PROVIDER: str = ""           # "runway", "pika", "kling"
 

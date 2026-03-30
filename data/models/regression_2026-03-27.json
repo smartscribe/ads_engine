@@ -1,0 +1,803 @@
+{
+  "id": "bb0e7247-0f3e-445f-a6ef-594ca5c4f327",
+  "run_date": "2026-03-27",
+  "created_at": "2026-03-28T00:07:16.904021",
+  "n_observations": 141,
+  "r_squared": 0.5275,
+  "adjusted_r_squared": 0.1409,
+  "coefficients": {
+    "message_type_education": -76.73576989539498,
+    "message_type_pain_point": -56.602723110876525,
+    "message_type_social_proof": -105.814967313885,
+    "message_type_urgency": -196.6710068664569,
+    "message_type_value_prop": -178.89708582954796,
+    "hook_type_provocative_claim": 83.18010039801172,
+    "hook_type_question": -152.85563654625207,
+    "hook_type_scenario": -64.44319609501073,
+    "hook_type_statistic": -62.51564896885755,
+    "hook_type_testimonial": 22.35368714900278,
+    "cta_type_see_how": -60.98971766484799,
+    "cta_type_try_free": -22.955721016611918,
+    "tone_clinical": -35.95530197807061,
+    "tone_empathetic": -33.931749594380825,
+    "tone_playful": -31.715575930602462,
+    "tone_provocative_claim": -154.38604291893722,
+    "tone_urgent": -58.51527599867439,
+    "tone_warm": 0.6378464454574271,
+    "visual_style_mixed_media": 9.438314597781385,
+    "visual_style_photography": 1.1169545731384964,
+    "visual_style_product_ui": 10.702701736543727,
+    "visual_style_screen_capture": 138.14447245101334,
+    "visual_style_text_heavy": 35.06923884154334,
+    "subject_matter_conceptual": 5.349920054192548,
+    "subject_matter_patient_interaction": -27.220557792206627,
+    "subject_matter_product_ui": -3.039167944752535,
+    "subject_matter_workflow_comparison": 64.13301238687687,
+    "color_mood_brand_primary": 0.7109341667126046,
+    "color_mood_cool_clinical": 28.984394716169078,
+    "color_mood_high_contrast": -48.401797224569584,
+    "color_mood_muted_soft": 148.73616875713907,
+    "color_mood_warm_earth": 20.979836213670715,
+    "text_density_headline_only": 191.48133087506983,
+    "text_density_headline_subhead": 116.67564675093651,
+    "text_density_minimal_overlay": 191.47784969334074,
+    "format_video": -9.659854343213253,
+    "headline_word_count": -3.999536833788113,
+    "copy_reading_level": 8.71634685742032,
+    "uses_number": 74.95250702647778,
+    "uses_question": 28.058912610982713,
+    "uses_first_person": 154.10564998378706,
+    "uses_social_proof": 39.655353994560926,
+    "uses_question_x_message_type_education": 131.10297174539173,
+    "uses_question_x_visual_style_text_heavy": 131.10297174539159,
+    "uses_question_x_subject_matter_conceptual": 131.10297174539147,
+    "uses_question_x_color_mood_brand_primary": 131.10297174539156,
+    "uses_question_x_text_density_headline_only": 131.10297174539173,
+    "uses_social_proof_x_visual_style_screen_capture": 207.25105598491342,
+    "uses_social_proof_x_subject_matter_product_ui": 207.25105598491373,
+    "uses_social_proof_x_color_mood_cool_clinical": 207.25105598491365,
+    "uses_social_proof_x_hook_type_provocative_claim": -128.16865446288867,
+    "uses_social_proof_x_tone_warm": 142.06110958884528,
+    "uses_social_proof_x_message_type_social_proof": -105.81496731388582,
+    "uses_number_x_format_video": -78.81977783301063,
+    "uses_number_x_tone_clinical": 168.56590218097585,
+    "uses_number_x_hook_type_statistic": -62.51564896885781,
+    "uses_number_x_message_type_pain_point": -154.11070664095195,
+    "uses_number_x_text_density_headline_subhead": -4.4934972046794,
+    "uses_question_x_visual_style_photography": 33.02454535078283,
+    "uses_question_x_color_mood_warm_earth": 33.95751354441626,
+    "uses_question_x_text_density_headline_subhead": 33.9575135444163,
+    "uses_social_proof_x_color_mood_warm_earth": 80.01585502745668
+  },
+  "p_values": {
+    "message_type_education": 1.0,
+    "message_type_pain_point": 1.0,
+    "message_type_social_proof": 1.0,
+    "message_type_urgency": 1.0,
+    "message_type_value_prop": 1.0,
+    "hook_type_provocative_claim": 1.0,
+    "hook_type_question": 1.0,
+    "hook_type_scenario": 1.0,
+    "hook_type_statistic": 1.0,
+    "hook_type_testimonial": 1.0,
+    "cta_type_see_how": 1.0,
+    "cta_type_try_free": 1.0,
+    "tone_clinical": 1.0,
+    "tone_empathetic": 1.0,
+    "tone_playful": 1.0,
+    "tone_provocative_claim": 1.0,
+    "tone_urgent": 1.0,
+    "tone_warm": 1.0,
+    "visual_style_mixed_media": 1.0,
+    "visual_style_photography": 1.0,
+    "visual_style_product_ui": 1.0,
+    "visual_style_screen_capture": 1.0,
+    "visual_style_text_heavy": 1.0,
+    "subject_matter_conceptual": 1.0,
+    "subject_matter_patient_interaction": 1.0,
+    "subject_matter_product_ui": 1.0,
+    "subject_matter_workflow_comparison": 1.0,
+    "color_mood_brand_primary": 1.0,
+    "color_mood_cool_clinical": 1.0,
+    "color_mood_high_contrast": 1.0,
+    "color_mood_muted_soft": 1.0,
+    "color_mood_warm_earth": 1.0,
+    "text_density_headline_only": 1.0,
+    "text_density_headline_subhead": 1.0,
+    "text_density_minimal_overlay": 1.0,
+    "format_video": 1.0,
+    "headline_word_count": 1.0,
+    "copy_reading_level": 1.0,
+    "uses_number": 1.0,
+    "uses_question": 1.0,
+    "uses_first_person": 1.0,
+    "uses_social_proof": 1.0,
+    "uses_question_x_message_type_education": 1.0,
+    "uses_question_x_visual_style_text_heavy": 1.0,
+    "uses_question_x_subject_matter_conceptual": 1.0,
+    "uses_question_x_color_mood_brand_primary": 1.0,
+    "uses_question_x_text_density_headline_only": 1.0,
+    "uses_social_proof_x_visual_style_screen_capture": 1.0,
+    "uses_social_proof_x_subject_matter_product_ui": 1.0,
+    "uses_social_proof_x_color_mood_cool_clinical": 1.0,
+    "uses_social_proof_x_hook_type_provocative_claim": 1.0,
+    "uses_social_proof_x_tone_warm": 1.0,
+    "uses_social_proof_x_message_type_social_proof": 1.0,
+    "uses_number_x_format_video": 1.0,
+    "uses_number_x_tone_clinical": 1.0,
+    "uses_number_x_hook_type_statistic": 1.0,
+    "uses_number_x_message_type_pain_point": 1.0,
+    "uses_number_x_text_density_headline_subhead": 1.0,
+    "uses_question_x_visual_style_photography": 1.0,
+    "uses_question_x_color_mood_warm_earth": 1.0,
+    "uses_question_x_text_density_headline_subhead": 1.0,
+    "uses_social_proof_x_color_mood_warm_earth": 1.0
+  },
+  "confidence_intervals": {
+    "intercept": [
+      0.0,
+      0.0
+    ],
+    "message_type_education": [
+      0.0,
+      0.0
+    ],
+    "message_type_pain_point": [
+      0.0,
+      0.0
+    ],
+    "message_type_social_proof": [
+      0.0,
+      0.0
+    ],
+    "message_type_urgency": [
+      0.0,
+      0.0
+    ],
+    "message_type_value_prop": [
+      0.0,
+      0.0
+    ],
+    "hook_type_provocative_claim": [
+      0.0,
+      0.0
+    ],
+    "hook_type_question": [
+      0.0,
+      0.0
+    ],
+    "hook_type_scenario": [
+      0.0,
+      0.0
+    ],
+    "hook_type_statistic": [
+      0.0,
+      0.0
+    ],
+    "hook_type_testimonial": [
+      0.0,
+      0.0
+    ],
+    "cta_type_see_how": [
+      0.0,
+      0.0
+    ],
+    "cta_type_try_free": [
+      0.0,
+      0.0
+    ],
+    "tone_clinical": [
+      0.0,
+      0.0
+    ],
+    "tone_empathetic": [
+      0.0,
+      0.0
+    ],
+    "tone_playful": [
+      0.0,
+      0.0
+    ],
+    "tone_provocative_claim": [
+      0.0,
+      0.0
+    ],
+    "tone_urgent": [
+      0.0,
+      0.0
+    ],
+    "tone_warm": [
+      0.0,
+      0.0
+    ],
+    "visual_style_mixed_media": [
+      0.0,
+      0.0
+    ],
+    "visual_style_photography": [
+      0.0,
+      0.0
+    ],
+    "visual_style_product_ui": [
+      0.0,
+      0.0
+    ],
+    "visual_style_screen_capture": [
+      0.0,
+      0.0
+    ],
+    "visual_style_text_heavy": [
+      0.0,
+      0.0
+    ],
+    "subject_matter_conceptual": [
+      0.0,
+      0.0
+    ],
+    "subject_matter_patient_interaction": [
+      0.0,
+      0.0
+    ],
+    "subject_matter_product_ui": [
+      0.0,
+      0.0
+    ],
+    "subject_matter_workflow_comparison": [
+      0.0,
+      0.0
+    ],
+    "color_mood_brand_primary": [
+      0.0,
+      0.0
+    ],
+    "color_mood_cool_clinical": [
+      0.0,
+      0.0
+    ],
+    "color_mood_high_contrast": [
+      0.0,
+      0.0
+    ],
+    "color_mood_muted_soft": [
+      0.0,
+      0.0
+    ],
+    "color_mood_warm_earth": [
+      0.0,
+      0.0
+    ],
+    "text_density_headline_only": [
+      0.0,
+      0.0
+    ],
+    "text_density_headline_subhead": [
+      0.0,
+      0.0
+    ],
+    "text_density_minimal_overlay": [
+      0.0,
+      0.0
+    ],
+    "format_video": [
+      0.0,
+      0.0
+    ],
+    "headline_word_count": [
+      0.0,
+      0.0
+    ],
+    "copy_reading_level": [
+      0.0,
+      0.0
+    ],
+    "uses_number": [
+      0.0,
+      0.0
+    ],
+    "uses_question": [
+      0.0,
+      0.0
+    ],
+    "uses_first_person": [
+      0.0,
+      0.0
+    ],
+    "uses_social_proof": [
+      0.0,
+      0.0
+    ],
+    "uses_question_x_message_type_education": [
+      0.0,
+      0.0
+    ],
+    "uses_question_x_visual_style_text_heavy": [
+      0.0,
+      0.0
+    ],
+    "uses_question_x_subject_matter_conceptual": [
+      0.0,
+      0.0
+    ],
+    "uses_question_x_color_mood_brand_primary": [
+      0.0,
+      0.0
+    ],
+    "uses_question_x_text_density_headline_only": [
+      0.0,
+      0.0
+    ],
+    "uses_social_proof_x_visual_style_screen_capture": [
+      0.0,
+      0.0
+    ],
+    "uses_social_proof_x_subject_matter_product_ui": [
+      0.0,
+      0.0
+    ],
+    "uses_social_proof_x_color_mood_cool_clinical": [
+      0.0,
+      0.0
+    ],
+    "uses_social_proof_x_hook_type_provocative_claim": [
+      0.0,
+      0.0
+    ],
+    "uses_social_proof_x_tone_warm": [
+      0.0,
+      0.0
+    ],
+    "uses_social_proof_x_message_type_social_proof": [
+      0.0,
+      0.0
+    ],
+    "uses_number_x_format_video": [
+      0.0,
+      0.0
+    ],
+    "uses_number_x_tone_clinical": [
+      0.0,
+      0.0
+    ],
+    "uses_number_x_hook_type_statistic": [
+      0.0,
+      0.0
+    ],
+    "uses_number_x_message_type_pain_point": [
+      0.0,
+      0.0
+    ],
+    "uses_number_x_text_density_headline_subhead": [
+      0.0,
+      0.0
+    ],
+    "uses_question_x_visual_style_photography": [
+      0.0,
+      0.0
+    ],
+    "uses_question_x_color_mood_warm_earth": [
+      0.0,
+      0.0
+    ],
+    "uses_question_x_text_density_headline_subhead": [
+      0.0,
+      0.0
+    ],
+    "uses_social_proof_x_color_mood_warm_earth": [
+      0.0,
+      0.0
+    ]
+  },
+  "top_positive_features": [],
+  "top_negative_features": [],
+  "insignificant_features": [
+    "message_type_education",
+    "message_type_pain_point",
+    "message_type_social_proof",
+    "message_type_urgency",
+    "message_type_value_prop",
+    "hook_type_provocative_claim",
+    "hook_type_question",
+    "hook_type_scenario",
+    "hook_type_statistic",
+    "hook_type_testimonial",
+    "cta_type_see_how",
+    "cta_type_try_free",
+    "tone_clinical",
+    "tone_empathetic",
+    "tone_playful",
+    "tone_provocative_claim",
+    "tone_urgent",
+    "tone_warm",
+    "visual_style_mixed_media",
+    "visual_style_photography",
+    "visual_style_product_ui",
+    "visual_style_screen_capture",
+    "visual_style_text_heavy",
+    "subject_matter_conceptual",
+    "subject_matter_patient_interaction",
+    "subject_matter_product_ui",
+    "subject_matter_workflow_comparison",
+    "color_mood_brand_primary",
+    "color_mood_cool_clinical",
+    "color_mood_high_contrast",
+    "color_mood_muted_soft",
+    "color_mood_warm_earth",
+    "text_density_headline_only",
+    "text_density_headline_subhead",
+    "text_density_minimal_overlay",
+    "format_video",
+    "headline_word_count",
+    "copy_reading_level",
+    "uses_number",
+    "uses_question",
+    "uses_first_person",
+    "uses_social_proof",
+    "uses_question_x_message_type_education",
+    "uses_question_x_visual_style_text_heavy",
+    "uses_question_x_subject_matter_conceptual",
+    "uses_question_x_color_mood_brand_primary",
+    "uses_question_x_text_density_headline_only",
+    "uses_social_proof_x_visual_style_screen_capture",
+    "uses_social_proof_x_subject_matter_product_ui",
+    "uses_social_proof_x_color_mood_cool_clinical",
+    "uses_social_proof_x_hook_type_provocative_claim",
+    "uses_social_proof_x_tone_warm",
+    "uses_social_proof_x_message_type_social_proof",
+    "uses_number_x_format_video",
+    "uses_number_x_tone_clinical",
+    "uses_number_x_hook_type_statistic",
+    "uses_number_x_message_type_pain_point",
+    "uses_number_x_text_density_headline_subhead",
+    "uses_question_x_visual_style_photography",
+    "uses_question_x_color_mood_warm_earth",
+    "uses_question_x_text_density_headline_subhead",
+    "uses_social_proof_x_color_mood_warm_earth"
+  ],
+  "vif_scores": {
+    "message_type_education": 11.74,
+    "message_type_pain_point": 36.45,
+    "message_type_social_proof": 999.0,
+    "message_type_urgency": 13.52,
+    "message_type_value_prop": 53.84,
+    "hook_type_provocative_claim": 3.36,
+    "hook_type_question": 6.04,
+    "hook_type_scenario": 3.66,
+    "hook_type_statistic": 999.0,
+    "hook_type_testimonial": 999.0,
+    "cta_type_see_how": 2.58,
+    "cta_type_try_free": 1.94,
+    "tone_clinical": 8.44,
+    "tone_empathetic": 5.65,
+    "tone_playful": 5.3,
+    "tone_provocative_claim": 3.64,
+    "tone_urgent": 9.48,
+    "tone_warm": 3.99,
+    "visual_style_mixed_media": 5.34,
+    "visual_style_photography": 5.45,
+    "visual_style_product_ui": 1.48,
+    "visual_style_screen_capture": 7.08,
+    "visual_style_text_heavy": 5.17,
+    "subject_matter_conceptual": 5.02,
+    "subject_matter_patient_interaction": 2.05,
+    "subject_matter_product_ui": 7.9,
+    "subject_matter_workflow_comparison": 6.04,
+    "color_mood_brand_primary": 14.05,
+    "color_mood_cool_clinical": 7.6,
+    "color_mood_high_contrast": 9.77,
+    "color_mood_muted_soft": 6.55,
+    "color_mood_warm_earth": 11.81,
+    "text_density_headline_only": 18.44,
+    "text_density_headline_subhead": 11.66,
+    "text_density_minimal_overlay": 5.22,
+    "format_video": 6.56,
+    "headline_word_count": 16.65,
+    "copy_reading_level": 27.67,
+    "uses_number": 7.0,
+    "uses_question": 10.14,
+    "uses_first_person": 2.91,
+    "uses_social_proof": 8.19,
+    "uses_question_x_message_type_education": 999.0,
+    "uses_question_x_visual_style_text_heavy": 999.0,
+    "uses_question_x_subject_matter_conceptual": 999.0,
+    "uses_question_x_color_mood_brand_primary": 999.0,
+    "uses_question_x_text_density_headline_only": 999.0,
+    "uses_social_proof_x_visual_style_screen_capture": 999.0,
+    "uses_social_proof_x_subject_matter_product_ui": 999.0,
+    "uses_social_proof_x_color_mood_cool_clinical": 999.0,
+    "uses_social_proof_x_hook_type_provocative_claim": 999.0,
+    "uses_social_proof_x_tone_warm": 5.98,
+    "uses_social_proof_x_message_type_social_proof": 999.0,
+    "uses_number_x_format_video": 7.19,
+    "uses_number_x_tone_clinical": 21.78,
+    "uses_number_x_hook_type_statistic": 999.0,
+    "uses_number_x_message_type_pain_point": 34.37,
+    "uses_number_x_text_density_headline_subhead": 11.55,
+    "uses_question_x_visual_style_photography": 9.15,
+    "uses_question_x_color_mood_warm_earth": 999.0,
+    "uses_question_x_text_density_headline_subhead": 999.0,
+    "uses_social_proof_x_color_mood_warm_earth": 7.13
+  },
+  "durbin_watson": 2.0286,
+  "condition_number": 2.5420144414449504e21,
+  "window_days": null,
+  "sample_weights_used": true,
+  "test_r_squared": -1.0,
+  "bootstrap_ci": {
+    "hook_type_statistic": [
+      -62.5156,
+      -271.7122,
+      204.421
+    ],
+    "message_type_social_proof": [
+      -105.815,
+      -648.278,
+      366.3233
+    ],
+    "cta_type_try_free": [
+      -22.9557,
+      -205.1218,
+      124.4928
+    ],
+    "message_type_pain_point": [
+      -56.6027,
+      -481.7512,
+      136.1964
+    ],
+    "message_type_urgency": [
+      -196.671,
+      -766.7275,
+      63.4771
+    ],
+    "headline_word_count": [
+      -3.9995,
+      -22.4831,
+      18.3771
+    ],
+    "tone_urgent": [
+      -58.5153,
+      -378.9822,
+      360.4036
+    ],
+    "uses_number": [
+      74.9525,
+      -104.4327,
+      208.3119
+    ],
+    "subject_matter_product_ui": [
+      -3.0392,
+      -77.0527,
+      210.8594
+    ],
+    "tone_clinical": [
+      -35.9553,
+      -179.475,
+      96.2219
+    ],
+    "color_mood_muted_soft": [
+      148.7362,
+      -16.9,
+      320.9355
+    ],
+    "hook_type_provocative_claim": [
+      83.1801,
+      -69.8259,
+      211.0049
+    ],
+    "color_mood_high_contrast": [
+      -48.4018,
+      -261.048,
+      129.1127
+    ],
+    "visual_style_text_heavy": [
+      35.0692,
+      -96.4817,
+      208.8091
+    ],
+    "message_type_value_prop": [
+      -178.8971,
+      -639.2092,
+      109.3065
+    ],
+    "visual_style_photography": [
+      1.117,
+      -93.8506,
+      98.5176
+    ],
+    "hook_type_question": [
+      -152.8556,
+      -265.1856,
+      402.3019
+    ],
+    "hook_type_scenario": [
+      -64.4432,
+      -181.5001,
+      99.8905
+    ],
+    "text_density_headline_subhead": [
+      116.6756,
+      -116.4637,
+      198.9697
+    ],
+    "color_mood_cool_clinical": [
+      28.9844,
+      -69.0381,
+      224.3941
+    ],
+    "uses_question": [
+      28.0589,
+      -112.9036,
+      421.4708
+    ],
+    "text_density_headline_only": [
+      191.4813,
+      9.0981,
+      501.1357
+    ],
+    "format_video": [
+      -9.6599,
+      -171.5637,
+      73.9889
+    ],
+    "text_density_minimal_overlay": [
+      191.4778,
+      -78.4929,
+      539.4172
+    ],
+    "tone_empathetic": [
+      -33.9317,
+      -86.6669,
+      145.4993
+    ],
+    "tone_playful": [
+      -31.7156,
+      -123.632,
+      157.8733
+    ],
+    "tone_warm": [
+      0.6378,
+      -98.7695,
+      97.4099
+    ],
+    "visual_style_mixed_media": [
+      9.4383,
+      -92.0774,
+      163.0193
+    ],
+    "visual_style_screen_capture": [
+      138.1445,
+      -16.3455,
+      275.0795
+    ],
+    "uses_social_proof": [
+      39.6554,
+      -279.1994,
+      204.416
+    ],
+    "subject_matter_workflow_comparison": [
+      64.133,
+      -189.9973,
+      293.3802
+    ],
+    "subject_matter_conceptual": [
+      5.3499,
+      -53.8416,
+      151.8368
+    ],
+    "copy_reading_level": [
+      8.7163,
+      -19.5882,
+      47.4684
+    ],
+    "color_mood_warm_earth": [
+      20.9798,
+      -86.935,
+      151.6753
+    ]
+  },
+  "coefficient_stability": {
+    "hook_type_statistic": 68.665,
+    "uses_first_person": 135.3942,
+    "message_type_social_proof": 154.6171,
+    "cta_type_try_free": 26.3806,
+    "message_type_pain_point": 45.117,
+    "message_type_urgency": 61.3912,
+    "message_type_education": 72.6103,
+    "headline_word_count": 3.8284,
+    "tone_urgent": 114.8766,
+    "uses_number": 54.5205,
+    "subject_matter_product_ui": 12.0306,
+    "tone_clinical": 13.9583,
+    "color_mood_muted_soft": 40.2837,
+    "hook_type_provocative_claim": 42.0632,
+    "color_mood_high_contrast": 74.5719,
+    "visual_style_text_heavy": 39.5833,
+    "message_type_value_prop": 36.3748,
+    "visual_style_photography": 18.6507,
+    "hook_type_question": 95.2126,
+    "hook_type_testimonial": 108.5362,
+    "subject_matter_patient_interaction": 55.3771,
+    "hook_type_scenario": 41.2822,
+    "text_density_headline_subhead": 66.5013,
+    "color_mood_cool_clinical": 48.2232,
+    "uses_question": 54.0923,
+    "text_density_headline_only": 80.2796,
+    "format_video": 15.708,
+    "text_density_minimal_overlay": 94.7702,
+    "tone_empathetic": 34.4936,
+    "color_mood_brand_primary": 57.8911,
+    "cta_type_see_how": 10.654,
+    "tone_playful": 31.9297,
+    "tone_warm": 24.9553,
+    "visual_style_mixed_media": 18.867,
+    "visual_style_screen_capture": 49.359,
+    "uses_social_proof": 26.6281,
+    "subject_matter_workflow_comparison": 57.8745,
+    "subject_matter_conceptual": 9.9152,
+    "copy_reading_level": 4.8835,
+    "color_mood_warm_earth": 35.7298
+  },
+  "confidence_tiers": {
+    "uses_number_x_format_video": "unreliable",
+    "hook_type_statistic": "unreliable",
+    "uses_question_x_text_density_headline_subhead": "unreliable",
+    "uses_first_person": "unreliable",
+    "message_type_social_proof": "unreliable",
+    "uses_number_x_hook_type_statistic": "unreliable",
+    "cta_type_try_free": "unreliable",
+    "message_type_pain_point": "unreliable",
+    "message_type_urgency": "unreliable",
+    "message_type_education": "unreliable",
+    "headline_word_count": "unreliable",
+    "tone_urgent": "unreliable",
+    "visual_style_product_ui": "unreliable",
+    "uses_number": "unreliable",
+    "uses_social_proof_x_visual_style_screen_capture": "unreliable",
+    "subject_matter_product_ui": "unreliable",
+    "tone_clinical": "unreliable",
+    "color_mood_muted_soft": "unreliable",
+    "uses_question_x_text_density_headline_only": "unreliable",
+    "uses_social_proof_x_subject_matter_product_ui": "unreliable",
+    "hook_type_provocative_claim": "unreliable",
+    "uses_number_x_text_density_headline_subhead": "unreliable",
+    "color_mood_high_contrast": "unreliable",
+    "uses_number_x_tone_clinical": "unreliable",
+    "visual_style_text_heavy": "unreliable",
+    "uses_social_proof_x_hook_type_provocative_claim": "unreliable",
+    "uses_question_x_subject_matter_conceptual": "unreliable",
+    "message_type_value_prop": "unreliable",
+    "visual_style_photography": "unreliable",
+    "hook_type_question": "unreliable",
+    "hook_type_testimonial": "unreliable",
+    "subject_matter_patient_interaction": "unreliable",
+    "hook_type_scenario": "unreliable",
+    "text_density_headline_subhead": "unreliable",
+    "color_mood_cool_clinical": "unreliable",
+    "uses_question": "unreliable",
+    "text_density_headline_only": "moderate",
+    "format_video": "unreliable",
+    "uses_social_proof_x_message_type_social_proof": "unreliable",
+    "uses_question_x_message_type_education": "unreliable",
+    "uses_social_proof_x_tone_warm": "unreliable",
+    "uses_question_x_color_mood_warm_earth": "unreliable",
+    "uses_social_proof_x_color_mood_warm_earth": "unreliable",
+    "tone_provocative_claim": "unreliable",
+    "uses_question_x_visual_style_text_heavy": "unreliable",
+    "text_density_minimal_overlay": "unreliable",
+    "uses_question_x_visual_style_photography": "unreliable",
+    "tone_empathetic": "unreliable",
+    "color_mood_brand_primary": "unreliable",
+    "cta_type_see_how": "unreliable",
+    "tone_playful": "unreliable",
+    "tone_warm": "unreliable",
+    "visual_style_mixed_media": "unreliable",
+    "visual_style_screen_capture": "unreliable",
+    "uses_social_proof": "unreliable",
+    "uses_question_x_color_mood_brand_primary": "unreliable",
+    "uses_social_proof_x_color_mood_cool_clinical": "unreliable",
+    "uses_number_x_message_type_pain_point": "unreliable",
+    "subject_matter_workflow_comparison": "unreliable",
+    "subject_matter_conceptual": "unreliable",
+    "copy_reading_level": "unreliable",
+    "color_mood_warm_earth": "unreliable"
+  }
+}

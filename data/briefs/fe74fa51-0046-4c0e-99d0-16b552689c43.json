@@ -1,0 +1,35 @@
+{
+  "id": "fe74fa51-0046-4c0e-99d0-16b552689c43",
+  "created_at": "2026-03-27T07:35:06.130348",
+  "raw_input": "Clinicians waste 2 hours on documentation every day. JotPsych listens and writes your SOAP notes automatically. Try it free.",
+  "source": "manual",
+  "target_audience": "bh_clinicians",
+  "value_proposition": "Eliminate 2 hours of daily documentation drudgery through AI that listens to your sessions and writes clinical-grade SOAP notes while you focus on what matters — your clients",
+  "pain_point": "The soul-crushing reality of finishing your last session at 5pm, only to face a 7pm finish time because of the documentation mountain — every single day, stealing time from family, self-care, or just existing without work",
+  "desired_action": "Start a free trial to experience what it feels like to leave work on time with notes already done",
+  "tone_direction": "Like a trusted supervisor pulling you aside after seeing you stay late again — not pitying, but genuinely offering a solution they wish they'd had. Conversational but not casual. Respectful of the craft while acknowledging the system is broken.",
+  "visual_direction": "Split-screen storytelling: left side shows a therapist at 7:30pm, office dark except their desk lamp, typing notes with defeated posture, coffee gone cold. Right side shows the same therapist at 5:15pm, jacket on, walking out while their phone shows 'Notes completed and ready for review.' Warm evening light vs harsh office fluorescents. Real office setting, not stock photo clean.",
+  "key_phrases": [
+    "What if your notes were done before you left?",
+    "2 hours back every single day",
+    "Listens while you work, writes while you live",
+    "The session ends at 5. So should your workday.",
+    "HIPAA-compliant AI built specifically for behavioral health"
+  ],
+  "references": [],
+  "emotional_register": "Exhausted resignation and resentment toward documentation → Cautious hope transitioning to relief that the burden actually lifts",
+  "proof_element": "Clinicians using JotPsych save an average of 2 hours per day on documentation — that's 10 hours per week returned to their lives",
+  "hook_strategy": "Open with the specific moment: therapist closes the door after their last client at 4:52pm. Camera holds on their face as they glance at the clock, then at their blank progress note template. The weight is visible. Text overlay: 'Your last session ended 8 minutes ago. You have 6 more notes to write.' Then: 'What if you didn't?'",
+  "target_persona_details": "Maya, 34, licensed clinical social worker in solo practice. Sees 7-9 clients per day, back-to-back 50-minute sessions. Skips lunch to stay on schedule. Bills through SimplePractice. The worst moment of her day is 5:30pm when clients are gone but she faces 90+ minutes of notes before she can leave. Often writes notes at home after dinner. Loves her work, resents the system. Scrolls burnout memes while writing notes. Convinced there must be a better way but skeptical of tech solutions that don't understand therapy.",
+  "brief_richness_score": 10.0,
+  "source_pattern_id": null,
+  "num_variants": 6,
+  "formats_requested": [
+    "single_image",
+    "video"
+  ],
+  "platforms": [
+    "meta",
+    "google"
+  ]
+}

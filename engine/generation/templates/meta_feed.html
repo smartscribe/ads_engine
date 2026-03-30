@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=1080, height=1080">
+    <title>JotPsych Ad</title>
+    <style>
+        @font-face {
+            font-family: 'Archivo';
+            src: url('{{font_path_archivo}}') format('truetype');
+            font-weight: 100 900;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'Inter';
+            src: url('{{font_path_inter}}') format('truetype');
+            font-weight: 100 900;
+            font-style: normal;
+        }
+        
+        :root {
+            --color-midnight: #1C1E85;
+            --color-sunset: #FD96C9;
+            --color-warm-light: #FFF2F5;
+            --color-deep-night: #1E125E;
+            --color-daylight: #FFF3C4;
+            --color-afterglow: #813FE8;
+            --color-white: #FFFFFF;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            width: 1080px;
+            height: 1080px;
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            background-color: {{background_color}};
+            display: flex;
+            flex-direction: column;
+            padding: 64px;
+            overflow: hidden;
+        }
+        
+        .logo-container {
+            margin-bottom: 48px;
+        }
+        
+        .logo {
+            height: 56px;
+            width: auto;
+        }
+        
+        .content {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+        
+        .headline {
+            font-family: 'Archivo', sans-serif;
+            font-size: 72px;
+            font-weight: 600;
+            line-height: 1.15;
+            color: {{headline_color}};
+            margin-bottom: 32px;
+        }
+        
+        .body-text {
+            font-family: 'Inter', sans-serif;
+            font-size: 36px;
+            font-weight: 400;
+            line-height: 1.5;
+            color: {{body_color}};
+            margin-bottom: 48px;
+            opacity: 0.9;
+        }
+        
+        .cta-button {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px 48px;
+            background-color: {{cta_background}};
+            color: {{cta_text_color}};
+            font-family: 'Inter', sans-serif;
+            font-size: 28px;
+            font-weight: 600;
+            border-radius: 12px;
+            text-decoration: none;
+            align-self: flex-start;
+            box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+        }
+        
+        .footer {
+            display: flex;
+            justify-content: flex-end;
+            align-items: center;
+            padding-top: 32px;
+        }
+        
+        .footer-logo {
+            height: 40px;
+            width: auto;
+            opacity: 0.7;
+        }
+        
+        .accent-bar {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            height: 8px;
+            background: linear-gradient(90deg, var(--color-midnight) 0%, var(--color-sunset) 50%, var(--color-afterglow) 100%);
+        }
+    </style>
+</head>
+<body>
+    <div class="logo-container">
+        <img src="{{logo_path}}" alt="JotPsych" class="logo">
+    </div>
+    
+    <div class="content">
+        <h1 class="headline">{{headline}}</h1>
+        <p class="body-text">{{body}}</p>
+        <span class="cta-button">{{cta}}</span>
+    </div>
+    
+    <div class="accent-bar"></div>
+</body>
+</html>
