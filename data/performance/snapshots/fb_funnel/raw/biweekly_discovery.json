@@ -1,0 +1,577 @@
+[
+  {
+    "biweek": "2025-10-13",
+    "channel": "blog",
+    "n": 4
+  },
+  {
+    "biweek": "2025-10-13",
+    "channel": "conference_event",
+    "n": 1
+  },
+  {
+    "biweek": "2025-10-13",
+    "channel": "facebook_ad",
+    "n": 10
+  },
+  {
+    "biweek": "2025-10-13",
+    "channel": "friend_colleague",
+    "n": 18
+  },
+  {
+    "biweek": "2025-10-13",
+    "channel": "google_ad",
+    "n": 27
+  },
+  {
+    "biweek": "2025-10-13",
+    "channel": "linkedin_ad",
+    "n": 3
+  },
+  {
+    "biweek": "2025-10-13",
+    "channel": "newsletter",
+    "n": 1
+  },
+  {
+    "biweek": "2025-10-13",
+    "channel": "other",
+    "n": 7
+  },
+  {
+    "biweek": "2025-10-13",
+    "channel": "part_of_group",
+    "n": 3
+  },
+  {
+    "biweek": "2025-10-27",
+    "channel": "conference_event",
+    "n": 6
+  },
+  {
+    "biweek": "2025-10-27",
+    "channel": "facebook_ad",
+    "n": 9
+  },
+  {
+    "biweek": "2025-10-27",
+    "channel": "friend_colleague",
+    "n": 30
+  },
+  {
+    "biweek": "2025-10-27",
+    "channel": "google_ad",
+    "n": 28
+  },
+  {
+    "biweek": "2025-10-27",
+    "channel": "linkedin_ad",
+    "n": 6
+  },
+  {
+    "biweek": "2025-10-27",
+    "channel": "newsletter",
+    "n": 1
+  },
+  {
+    "biweek": "2025-10-27",
+    "channel": "other",
+    "n": 9
+  },
+  {
+    "biweek": "2025-10-27",
+    "channel": "part_of_group",
+    "n": 13
+  },
+  {
+    "biweek": "2025-10-27",
+    "channel": "podcast",
+    "n": 1
+  },
+  {
+    "biweek": "2025-11-10",
+    "channel": "blog",
+    "n": 3
+  },
+  {
+    "biweek": "2025-11-10",
+    "channel": "conference_event",
+    "n": 3
+  },
+  {
+    "biweek": "2025-11-10",
+    "channel": "facebook_ad",
+    "n": 18
+  },
+  {
+    "biweek": "2025-11-10",
+    "channel": "friend_colleague",
+    "n": 15
+  },
+  {
+    "biweek": "2025-11-10",
+    "channel": "google_ad",
+    "n": 29
+  },
+  {
+    "biweek": "2025-11-10",
+    "channel": "newsletter",
+    "n": 3
+  },
+  {
+    "biweek": "2025-11-10",
+    "channel": "other",
+    "n": 10
+  },
+  {
+    "biweek": "2025-11-10",
+    "channel": "part_of_group",
+    "n": 23
+  },
+  {
+    "biweek": "2025-11-10",
+    "channel": "podcast",
+    "n": 3
+  },
+  {
+    "biweek": "2025-11-24",
+    "channel": "conference_event",
+    "n": 2
+  },
+  {
+    "biweek": "2025-11-24",
+    "channel": "facebook_ad",
+    "n": 11
+  },
+  {
+    "biweek": "2025-11-24",
+    "channel": "friend_colleague",
+    "n": 15
+  },
+  {
+    "biweek": "2025-11-24",
+    "channel": "google_ad",
+    "n": 30
+  },
+  {
+    "biweek": "2025-11-24",
+    "channel": "linkedin_ad",
+    "n": 5
+  },
+  {
+    "biweek": "2025-11-24",
+    "channel": "newsletter",
+    "n": 1
+  },
+  {
+    "biweek": "2025-11-24",
+    "channel": "null",
+    "n": 1
+  },
+  {
+    "biweek": "2025-11-24",
+    "channel": "other",
+    "n": 4
+  },
+  {
+    "biweek": "2025-11-24",
+    "channel": "part_of_group",
+    "n": 11
+  },
+  {
+    "biweek": "2025-12-08",
+    "channel": "blog",
+    "n": 3
+  },
+  {
+    "biweek": "2025-12-08",
+    "channel": "conference_event",
+    "n": 1
+  },
+  {
+    "biweek": "2025-12-08",
+    "channel": "facebook_ad",
+    "n": 7
+  },
+  {
+    "biweek": "2025-12-08",
+    "channel": "friend_colleague",
+    "n": 14
+  },
+  {
+    "biweek": "2025-12-08",
+    "channel": "google_ad",
+    "n": 26
+  },
+  {
+    "biweek": "2025-12-08",
+    "channel": "linkedin_ad",
+    "n": 5
+  },
+  {
+    "biweek": "2025-12-08",
+    "channel": "newsletter",
+    "n": 2
+  },
+  {
+    "biweek": "2025-12-08",
+    "channel": "other",
+    "n": 6
+  },
+  {
+    "biweek": "2025-12-08",
+    "channel": "part_of_group",
+    "n": 7
+  },
+  {
+    "biweek": "2025-12-22",
+    "channel": "blog",
+    "n": 3
+  },
+  {
+    "biweek": "2025-12-22",
+    "channel": "conference_event",
+    "n": 2
+  },
+  {
+    "biweek": "2025-12-22",
+    "channel": "facebook_ad",
+    "n": 11
+  },
+  {
+    "biweek": "2025-12-22",
+    "channel": "friend_colleague",
+    "n": 10
+  },
+  {
+    "biweek": "2025-12-22",
+    "channel": "google_ad",
+    "n": 17
+  },
+  {
+    "biweek": "2025-12-22",
+    "channel": "linkedin_ad",
+    "n": 1
+  },
+  {
+    "biweek": "2025-12-22",
+    "channel": "other",
+    "n": 1
+  },
+  {
+    "biweek": "2025-12-22",
+    "channel": "part_of_group",
+    "n": 9
+  },
+  {
+    "biweek": "2026-01-05",
+    "channel": "blog",
+    "n": 1
+  },
+  {
+    "biweek": "2026-01-05",
+    "channel": "conference_event",
+    "n": 4
+  },
+  {
+    "biweek": "2026-01-05",
+    "channel": "facebook_ad",
+    "n": 5
+  },
+  {
+    "biweek": "2026-01-05",
+    "channel": "friend_colleague",
+    "n": 21
+  },
+  {
+    "biweek": "2026-01-05",
+    "channel": "google_ad",
+    "n": 22
+  },
+  {
+    "biweek": "2026-01-05",
+    "channel": "linkedin_ad",
+    "n": 5
+  },
+  {
+    "biweek": "2026-01-05",
+    "channel": "newsletter",
+    "n": 1
+  },
+  {
+    "biweek": "2026-01-05",
+    "channel": "other",
+    "n": 8
+  },
+  {
+    "biweek": "2026-01-05",
+    "channel": "part_of_group",
+    "n": 17
+  },
+  {
+    "biweek": "2026-01-19",
+    "channel": "blog",
+    "n": 2
+  },
+  {
+    "biweek": "2026-01-19",
+    "channel": "conference_event",
+    "n": 2
+  },
+  {
+    "biweek": "2026-01-19",
+    "channel": "facebook_ad",
+    "n": 15
+  },
+  {
+    "biweek": "2026-01-19",
+    "channel": "friend_colleague",
+    "n": 25
+  },
+  {
+    "biweek": "2026-01-19",
+    "channel": "google_ad",
+    "n": 19
+  },
+  {
+    "biweek": "2026-01-19",
+    "channel": "linkedin_ad",
+    "n": 7
+  },
+  {
+    "biweek": "2026-01-19",
+    "channel": "newsletter",
+    "n": 3
+  },
+  {
+    "biweek": "2026-01-19",
+    "channel": "other",
+    "n": 7
+  },
+  {
+    "biweek": "2026-01-19",
+    "channel": "part_of_group",
+    "n": 16
+  },
+  {
+    "biweek": "2026-01-19",
+    "channel": "podcast",
+    "n": 4
+  },
+  {
+    "biweek": "2026-02-02",
+    "channel": "blog",
+    "n": 1
+  },
+  {
+    "biweek": "2026-02-02",
+    "channel": "facebook_ad",
+    "n": 12
+  },
+  {
+    "biweek": "2026-02-02",
+    "channel": "friend_colleague",
+    "n": 21
+  },
+  {
+    "biweek": "2026-02-02",
+    "channel": "google_ad",
+    "n": 23
+  },
+  {
+    "biweek": "2026-02-02",
+    "channel": "newsletter",
+    "n": 2
+  },
+  {
+    "biweek": "2026-02-02",
+    "channel": "null",
+    "n": 1
+  },
+  {
+    "biweek": "2026-02-02",
+    "channel": "other",
+    "n": 9
+  },
+  {
+    "biweek": "2026-02-02",
+    "channel": "part_of_group",
+    "n": 7
+  },
+  {
+    "biweek": "2026-02-16",
+    "channel": "blog",
+    "n": 2
+  },
+  {
+    "biweek": "2026-02-16",
+    "channel": "conference_event",
+    "n": 2
+  },
+  {
+    "biweek": "2026-02-16",
+    "channel": "facebook_ad",
+    "n": 12
+  },
+  {
+    "biweek": "2026-02-16",
+    "channel": "friend_colleague",
+    "n": 23
+  },
+  {
+    "biweek": "2026-02-16",
+    "channel": "google_ad",
+    "n": 11
+  },
+  {
+    "biweek": "2026-02-16",
+    "channel": "linkedin_ad",
+    "n": 2
+  },
+  {
+    "biweek": "2026-02-16",
+    "channel": "null",
+    "n": 1
+  },
+  {
+    "biweek": "2026-02-16",
+    "channel": "other",
+    "n": 7
+  },
+  {
+    "biweek": "2026-02-16",
+    "channel": "part_of_group",
+    "n": 20
+  },
+  {
+    "biweek": "2026-02-16",
+    "channel": "podcast",
+    "n": 2
+  },
+  {
+    "biweek": "2026-03-02",
+    "channel": "blog",
+    "n": 1
+  },
+  {
+    "biweek": "2026-03-02",
+    "channel": "facebook_ad",
+    "n": 9
+  },
+  {
+    "biweek": "2026-03-02",
+    "channel": "friend_colleague",
+    "n": 20
+  },
+  {
+    "biweek": "2026-03-02",
+    "channel": "google_ad",
+    "n": 22
+  },
+  {
+    "biweek": "2026-03-02",
+    "channel": "linkedin_ad",
+    "n": 2
+  },
+  {
+    "biweek": "2026-03-02",
+    "channel": "null",
+    "n": 2
+  },
+  {
+    "biweek": "2026-03-02",
+    "channel": "other",
+    "n": 11
+  },
+  {
+    "biweek": "2026-03-02",
+    "channel": "part_of_group",
+    "n": 22
+  },
+  {
+    "biweek": "2026-03-02",
+    "channel": "podcast",
+    "n": 1
+  },
+  {
+    "biweek": "2026-03-16",
+    "channel": "facebook_ad",
+    "n": 10
+  },
+  {
+    "biweek": "2026-03-16",
+    "channel": "friend_colleague",
+    "n": 17
+  },
+  {
+    "biweek": "2026-03-16",
+    "channel": "google_ad",
+    "n": 16
+  },
+  {
+    "biweek": "2026-03-16",
+    "channel": "linkedin_ad",
+    "n": 1
+  },
+  {
+    "biweek": "2026-03-16",
+    "channel": "newsletter",
+    "n": 1
+  },
+  {
+    "biweek": "2026-03-16",
+    "channel": "null",
+    "n": 1
+  },
+  {
+    "biweek": "2026-03-16",
+    "channel": "other",
+    "n": 2
+  },
+  {
+    "biweek": "2026-03-16",
+    "channel": "part_of_group",
+    "n": 9
+  },
+  {
+    "biweek": "2026-03-30",
+    "channel": "facebook_ad",
+    "n": 10
+  },
+  {
+    "biweek": "2026-03-30",
+    "channel": "friend_colleague",
+    "n": 12
+  },
+  {
+    "biweek": "2026-03-30",
+    "channel": "google_ad",
+    "n": 20
+  },
+  {
+    "biweek": "2026-03-30",
+    "channel": "other",
+    "n": 1
+  },
+  {
+    "biweek": "2026-03-30",
+    "channel": "part_of_group",
+    "n": 13
+  },
+  {
+    "biweek": "2026-04-13",
+    "channel": "friend_colleague",
+    "n": 2
+  },
+  {
+    "biweek": "2026-04-13",
+    "channel": "google_ad",
+    "n": 1
+  },
+  {
+    "biweek": "2026-04-13",
+    "channel": "linkedin_ad",
+    "n": 1
+  }
+]

@@ -1,5 +1,8 @@
 # Ads Engine — JotPsych Creative Performance Harness
 
+## Integrations
+**All API keys and integration config live in global `~/.claude/.env` and `~/.claude/integrations.md`.** Do NOT create a project-level `.env`. Meta Ads keys are `META_ADS_ACCESS_TOKEN`, `META_ADS_ACCOUNT_ID`, `META_ADS_APP_ID` (note: names differ from `config/settings.py` — load from global env when running scripts).
+
 ## What This Is
 A quant-style ad operations system: idea → creative variants → deploy → measure → decompose → learn → repeat.
 Runs ads for JotPsych targeting BH clinicians and SMB clinic decision-makers on Meta and Google.
@@ -80,7 +83,7 @@ CpFN swings wildly week-to-week. No consistent trend — feast and famine patter
 2. **Concept → 20 variants** — human originates the concept (e.g. "famous movie psychiatrists"), engine handles all tactical variant creation (cropping, copy variations, image sourcing/generation)
 3. **Feedback loop** — weekly review sessions (Nate + Jackson), critique captured via voice notes, synthesized into MD files that feed the generation context window. Preferences accumulate.
 4. **Creative quality tactics** — AI images/video not lifelike enough yet. Use techniques like: rapid succession of stills for implied motion, slight modifications to real photos, style/negative prompts. Be "wiley" not just API-dependent.
-5. **No Meta write access yet** — read-only until quality is proven. Adam sending API keys for read access.
+5. **Meta API access:** full read+write via `META_ADS_ACCESS_TOKEN` in `~/.claude/.env` (user token "ads_2_nate", `ads_management` scope, expires ~2026-06-06). Use it directly — do not assume read-only.
 6. **Image generation exploration** — DALL-E primary, Gemini worth testing (Google ecosystem has video/photo advantages). LoRA models on Daniel's radar.
 
 ### Open Workstreams

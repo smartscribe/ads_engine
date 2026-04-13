@@ -1,0 +1,1686 @@
+{
+  "meta": {
+    "generated_at": "2026-04-13T20:07:03.992942Z",
+    "arpu_monthly": 150,
+    "notes_cap": 30,
+    "rolling_window": 5,
+    "paid_channels": [
+      "google_ad",
+      "facebook_ad",
+      "linkedin_ad"
+    ],
+    "rest_label": "rest",
+    "channel_order": [
+      "google_ad",
+      "facebook_ad",
+      "linkedin_ad",
+      "rest"
+    ],
+    "discovery_channels_order": [
+      "blog",
+      "conference_event",
+      "facebook_ad",
+      "friend_colleague",
+      "google_ad",
+      "linkedin_ad",
+      "newsletter",
+      "null",
+      "other",
+      "part_of_group",
+      "podcast"
+    ],
+    "incomplete_from": "2026-03-30",
+    "y_axis_max": 30
+  },
+  "per_note": [
+    {
+      "notes": 0,
+      "n": 1398,
+      "active": 95,
+      "raw_pct": 6.8,
+      "smooth_pct": 6.96
+    },
+    {
+      "notes": 1,
+      "n": 139,
+      "active": 13,
+      "raw_pct": 9.35,
+      "smooth_pct": 7.13
+    },
+    {
+      "notes": 2,
+      "n": 86,
+      "active": 5,
+      "raw_pct": 5.81,
+      "smooth_pct": 7.55
+    },
+    {
+      "notes": 3,
+      "n": 73,
+      "active": 8,
+      "raw_pct": 10.96,
+      "smooth_pct": 11.5
+    },
+    {
+      "notes": 4,
+      "n": 52,
+      "active": 11,
+      "raw_pct": 21.15,
+      "smooth_pct": 12.96
+    },
+    {
+      "notes": 5,
+      "n": 50,
+      "active": 9,
+      "raw_pct": 18.0,
+      "smooth_pct": 16.8
+    },
+    {
+      "notes": 6,
+      "n": 40,
+      "active": 6,
+      "raw_pct": 15.0,
+      "smooth_pct": 21.6
+    },
+    {
+      "notes": 7,
+      "n": 41,
+      "active": 9,
+      "raw_pct": 21.95,
+      "smooth_pct": 20.81
+    },
+    {
+      "notes": 8,
+      "n": 30,
+      "active": 11,
+      "raw_pct": 36.67,
+      "smooth_pct": 21.89
+    },
+    {
+      "notes": 9,
+      "n": 36,
+      "active": 6,
+      "raw_pct": 16.67,
+      "smooth_pct": 24.68
+    },
+    {
+      "notes": 10,
+      "n": 22,
+      "active": 5,
+      "raw_pct": 22.73,
+      "smooth_pct": 23.08
+    },
+    {
+      "notes": 11,
+      "n": 25,
+      "active": 7,
+      "raw_pct": 28.0,
+      "smooth_pct": 17.07
+    },
+    {
+      "notes": 12,
+      "n": 17,
+      "active": 1,
+      "raw_pct": 5.88,
+      "smooth_pct": 22.22
+    },
+    {
+      "notes": 13,
+      "n": 23,
+      "active": 2,
+      "raw_pct": 8.7,
+      "smooth_pct": 23.08
+    },
+    {
+      "notes": 14,
+      "n": 12,
+      "active": 7,
+      "raw_pct": 58.33,
+      "smooth_pct": 20.99
+    },
+    {
+      "notes": 15,
+      "n": 14,
+      "active": 4,
+      "raw_pct": 28.57,
+      "smooth_pct": 28.4
+    },
+    {
+      "notes": 16,
+      "n": 15,
+      "active": 3,
+      "raw_pct": 20.0,
+      "smooth_pct": 34.85
+    },
+    {
+      "notes": 17,
+      "n": 17,
+      "active": 7,
+      "raw_pct": 41.18,
+      "smooth_pct": 29.69
+    },
+    {
+      "notes": 18,
+      "n": 8,
+      "active": 2,
+      "raw_pct": 25.0,
+      "smooth_pct": 28.57
+    },
+    {
+      "notes": 19,
+      "n": 10,
+      "active": 3,
+      "raw_pct": 30.0,
+      "smooth_pct": 30.0
+    },
+    {
+      "notes": 20,
+      "n": 6,
+      "active": 1,
+      "raw_pct": 16.67,
+      "smooth_pct": 23.81
+    },
+    {
+      "notes": 21,
+      "n": 9,
+      "active": 2,
+      "raw_pct": 22.22,
+      "smooth_pct": 21.43
+    },
+    {
+      "notes": 22,
+      "n": 9,
+      "active": 2,
+      "raw_pct": 22.22,
+      "smooth_pct": 16.22
+    },
+    {
+      "notes": 23,
+      "n": 8,
+      "active": 1,
+      "raw_pct": 12.5,
+      "smooth_pct": 23.08
+    },
+    {
+      "notes": 24,
+      "n": 5,
+      "active": 0,
+      "raw_pct": 0.0,
+      "smooth_pct": 26.83
+    },
+    {
+      "notes": 25,
+      "n": 8,
+      "active": 4,
+      "raw_pct": 50.0,
+      "smooth_pct": 24.39
+    },
+    {
+      "notes": 26,
+      "n": 11,
+      "active": 4,
+      "raw_pct": 36.36,
+      "smooth_pct": 23.4
+    },
+    {
+      "notes": 27,
+      "n": 9,
+      "active": 1,
+      "raw_pct": 11.11,
+      "smooth_pct": 28.0
+    },
+    {
+      "notes": 28,
+      "n": 14,
+      "active": 2,
+      "raw_pct": 14.29,
+      "smooth_pct": 28.57
+    },
+    {
+      "notes": 29,
+      "n": 8,
+      "active": 3,
+      "raw_pct": 37.5,
+      "smooth_pct": 28.17
+    },
+    {
+      "notes": 30,
+      "n": 182,
+      "active": 54,
+      "raw_pct": 29.67,
+      "smooth_pct": 28.92
+    }
+  ],
+  "overall_base_pct": 12.12,
+  "cohort": {
+    "total": 2520,
+    "active": 296,
+    "by_status": [
+      {
+        "status": "paused",
+        "n": 1495
+      },
+      {
+        "status": null,
+        "n": 459
+      },
+      {
+        "status": "active",
+        "n": 296
+      },
+      {
+        "status": "trialing",
+        "n": 147
+      },
+      {
+        "status": "canceled",
+        "n": 110
+      },
+      {
+        "status": "past_due",
+        "n": 13
+      }
+    ]
+  },
+  "error_summary": {
+    "n_mature_weeks": 24,
+    "mae_conversions": 3.41,
+    "mae_mrr": 511.47,
+    "mape_pct": 36.1,
+    "bias_conversions": -0.17,
+    "bias_mrr": -24.78,
+    "mean_forecast": 11.83,
+    "mean_actual": 12.0
+  },
+  "weekly": [
+    {
+      "week": "2025-10-13",
+      "signups": 67,
+      "matured": 67,
+      "expected": 6.8275,
+      "actual": 3,
+      "mrr": 1024.12,
+      "mrr_actual": 450,
+      "error": 3.8275
+    },
+    {
+      "week": "2025-10-20",
+      "signups": 135,
+      "matured": 135,
+      "expected": 15.4315,
+      "actual": 11,
+      "mrr": 2314.72,
+      "mrr_actual": 1650,
+      "error": 4.4315
+    },
+    {
+      "week": "2025-10-27",
+      "signups": 106,
+      "matured": 106,
+      "expected": 13.7728,
+      "actual": 11,
+      "mrr": 2065.92,
+      "mrr_actual": 1650,
+      "error": 2.7728
+    },
+    {
+      "week": "2025-11-03",
+      "signups": 102,
+      "matured": 102,
+      "expected": 13.8725,
+      "actual": 10,
+      "mrr": 2080.88,
+      "mrr_actual": 1500,
+      "error": 3.8725
+    },
+    {
+      "week": "2025-11-10",
+      "signups": 131,
+      "matured": 131,
+      "expected": 17.2388,
+      "actual": 23,
+      "mrr": 2585.82,
+      "mrr_actual": 3450,
+      "error": -5.7612
+    },
+    {
+      "week": "2025-11-17",
+      "signups": 89,
+      "matured": 89,
+      "expected": 11.4288,
+      "actual": 6,
+      "mrr": 1714.32,
+      "mrr_actual": 900,
+      "error": 5.4288
+    },
+    {
+      "week": "2025-11-24",
+      "signups": 86,
+      "matured": 86,
+      "expected": 10.3422,
+      "actual": 10,
+      "mrr": 1551.33,
+      "mrr_actual": 1500,
+      "error": 0.3422
+    },
+    {
+      "week": "2025-12-01",
+      "signups": 88,
+      "matured": 88,
+      "expected": 11.8222,
+      "actual": 10,
+      "mrr": 1773.33,
+      "mrr_actual": 1500,
+      "error": 1.8222
+    },
+    {
+      "week": "2025-12-08",
+      "signups": 84,
+      "matured": 84,
+      "expected": 10.4993,
+      "actual": 8,
+      "mrr": 1574.89,
+      "mrr_actual": 1200,
+      "error": 2.4993
+    },
+    {
+      "week": "2025-12-15",
+      "signups": 84,
+      "matured": 84,
+      "expected": 10.6415,
+      "actual": 14,
+      "mrr": 1596.23,
+      "mrr_actual": 2100,
+      "error": -3.3585
+    },
+    {
+      "week": "2025-12-22",
+      "signups": 65,
+      "matured": 65,
+      "expected": 7.8779,
+      "actual": 4,
+      "mrr": 1181.68,
+      "mrr_actual": 600,
+      "error": 3.8779
+    },
+    {
+      "week": "2025-12-29",
+      "signups": 63,
+      "matured": 63,
+      "expected": 7.6226,
+      "actual": 12,
+      "mrr": 1143.39,
+      "mrr_actual": 1800,
+      "error": -4.3774
+    },
+    {
+      "week": "2026-01-05",
+      "signups": 151,
+      "matured": 151,
+      "expected": 16.3403,
+      "actual": 18,
+      "mrr": 2451.05,
+      "mrr_actual": 2700,
+      "error": -1.6597
+    },
+    {
+      "week": "2026-01-12",
+      "signups": 102,
+      "matured": 102,
+      "expected": 11.315,
+      "actual": 10,
+      "mrr": 1697.25,
+      "mrr_actual": 1500,
+      "error": 1.315
+    },
+    {
+      "week": "2026-01-19",
+      "signups": 105,
+      "matured": 105,
+      "expected": 11.3907,
+      "actual": 17,
+      "mrr": 1708.6,
+      "mrr_actual": 2550,
+      "error": -5.6093
+    },
+    {
+      "week": "2026-01-26",
+      "signups": 113,
+      "matured": 113,
+      "expected": 16.0861,
+      "actual": 14,
+      "mrr": 2412.92,
+      "mrr_actual": 2100,
+      "error": 2.0861
+    },
+    {
+      "week": "2026-02-02",
+      "signups": 96,
+      "matured": 96,
+      "expected": 11.3807,
+      "actual": 14,
+      "mrr": 1707.11,
+      "mrr_actual": 2100,
+      "error": -2.6193
+    },
+    {
+      "week": "2026-02-09",
+      "signups": 106,
+      "matured": 106,
+      "expected": 12.3598,
+      "actual": 14,
+      "mrr": 1853.97,
+      "mrr_actual": 2100,
+      "error": -1.6402
+    },
+    {
+      "week": "2026-02-16",
+      "signups": 153,
+      "matured": 153,
+      "expected": 15.8091,
+      "actual": 13,
+      "mrr": 2371.36,
+      "mrr_actual": 1950,
+      "error": 2.8091
+    },
+    {
+      "week": "2026-02-23",
+      "signups": 111,
+      "matured": 111,
+      "expected": 12.0449,
+      "actual": 16,
+      "mrr": 1806.73,
+      "mrr_actual": 2400,
+      "error": -3.9551
+    },
+    {
+      "week": "2026-03-02",
+      "signups": 102,
+      "matured": 102,
+      "expected": 12.7324,
+      "actual": 23,
+      "mrr": 1909.86,
+      "mrr_actual": 3450,
+      "error": -10.2676
+    },
+    {
+      "week": "2026-03-09",
+      "signups": 84,
+      "matured": 84,
+      "expected": 10.3481,
+      "actual": 14,
+      "mrr": 1552.21,
+      "mrr_actual": 2100,
+      "error": -3.6519
+    },
+    {
+      "week": "2026-03-16",
+      "signups": 74,
+      "matured": 74,
+      "expected": 7.4385,
+      "actual": 4,
+      "mrr": 1115.77,
+      "mrr_actual": 600,
+      "error": 3.4385
+    },
+    {
+      "week": "2026-03-23",
+      "signups": 79,
+      "matured": 79,
+      "expected": 9.4118,
+      "actual": 9,
+      "mrr": 1411.77,
+      "mrr_actual": 1350,
+      "error": 0.4118
+    },
+    {
+      "week": "2026-03-30",
+      "signups": 61,
+      "matured": 1,
+      "expected": 6.9276,
+      "actual": 3,
+      "mrr": 1039.14,
+      "mrr_actual": 450,
+      "error": 3.9276
+    },
+    {
+      "week": "2026-04-06",
+      "signups": 75,
+      "matured": 0,
+      "expected": 7.4218,
+      "actual": 5,
+      "mrr": 1113.27,
+      "mrr_actual": 750,
+      "error": 2.4218
+    },
+    {
+      "week": "2026-04-13",
+      "signups": 8,
+      "matured": 0,
+      "expected": 0.6657,
+      "actual": 0,
+      "mrr": 99.85,
+      "mrr_actual": 0,
+      "error": 0.6657
+    }
+  ],
+  "weekly_by_channel": [
+    {
+      "week": "2025-10-13",
+      "channels": {
+        "google_ad": {
+          "signups": 19,
+          "expected": 2.0837,
+          "actual": 0,
+          "mrr": 312.56,
+          "mrr_actual": 0
+        },
+        "facebook_ad": {
+          "signups": 8,
+          "expected": 0.7633,
+          "actual": 0,
+          "mrr": 114.5,
+          "mrr_actual": 0
+        },
+        "linkedin_ad": {
+          "signups": 3,
+          "expected": 0.6005,
+          "actual": 0,
+          "mrr": 90.08,
+          "mrr_actual": 0
+        },
+        "rest": {
+          "signups": 37,
+          "expected": 3.38,
+          "actual": 3,
+          "mrr": 507.0,
+          "mrr_actual": 450
+        }
+      }
+    },
+    {
+      "week": "2025-10-20",
+      "channels": {
+        "google_ad": {
+          "signups": 33,
+          "expected": 4.3796,
+          "actual": 0,
+          "mrr": 656.94,
+          "mrr_actual": 0
+        },
+        "facebook_ad": {
+          "signups": 20,
+          "expected": 2.4512,
+          "actual": 0,
+          "mrr": 367.68,
+          "mrr_actual": 0
+        },
+        "linkedin_ad": {
+          "signups": 3,
+          "expected": 0.31,
+          "actual": 1,
+          "mrr": 46.5,
+          "mrr_actual": 150
+        },
+        "rest": {
+          "signups": 79,
+          "expected": 8.2907,
+          "actual": 10,
+          "mrr": 1243.61,
+          "mrr_actual": 1500
+        }
+      }
+    },
+    {
+      "week": "2025-10-27",
+      "channels": {
+        "google_ad": {
+          "signups": 22,
+          "expected": 3.0448,
+          "actual": 2,
+          "mrr": 456.72,
+          "mrr_actual": 300
+        },
+        "facebook_ad": {
+          "signups": 11,
+          "expected": 1.1017,
+          "actual": 0,
+          "mrr": 165.25,
+          "mrr_actual": 0
+        },
+        "linkedin_ad": {
+          "signups": 5,
+          "expected": 0.9707,
+          "actual": 0,
+          "mrr": 145.61,
+          "mrr_actual": 0
+        },
+        "rest": {
+          "signups": 68,
+          "expected": 8.6556,
+          "actual": 9,
+          "mrr": 1298.34,
+          "mrr_actual": 1350
+        }
+      }
+    },
+    {
+      "week": "2025-11-03",
+      "channels": {
+        "google_ad": {
+          "signups": 30,
+          "expected": 4.0843,
+          "actual": 1,
+          "mrr": 612.64,
+          "mrr_actual": 150
+        },
+        "facebook_ad": {
+          "signups": 12,
+          "expected": 1.2088,
+          "actual": 0,
+          "mrr": 181.32,
+          "mrr_actual": 0
+        },
+        "linkedin_ad": {
+          "signups": 2,
+          "expected": 0.2975,
+          "actual": 1,
+          "mrr": 44.63,
+          "mrr_actual": 150
+        },
+        "rest": {
+          "signups": 58,
+          "expected": 8.2819,
+          "actual": 8,
+          "mrr": 1242.28,
+          "mrr_actual": 1200
+        }
+      }
+    },
+    {
+      "week": "2025-11-10",
+      "channels": {
+        "google_ad": {
+          "signups": 27,
+          "expected": 4.1513,
+          "actual": 2,
+          "mrr": 622.7,
+          "mrr_actual": 300
+        },
+        "facebook_ad": {
+          "signups": 20,
+          "expected": 2.1146,
+          "actual": 1,
+          "mrr": 317.18,
+          "mrr_actual": 150
+        },
+        "linkedin_ad": {
+          "signups": 3,
+          "expected": 0.2089,
+          "actual": 1,
+          "mrr": 31.33,
+          "mrr_actual": 150
+        },
+        "rest": {
+          "signups": 81,
+          "expected": 10.764,
+          "actual": 19,
+          "mrr": 1614.6,
+          "mrr_actual": 2850
+        }
+      }
+    },
+    {
+      "week": "2025-11-17",
+      "channels": {
+        "google_ad": {
+          "signups": 20,
+          "expected": 2.4605,
+          "actual": 0,
+          "mrr": 369.08,
+          "mrr_actual": 0
+        },
+        "facebook_ad": {
+          "signups": 16,
+          "expected": 2.5558,
+          "actual": 0,
+          "mrr": 383.38,
+          "mrr_actual": 0
+        },
+        "linkedin_ad": {
+          "signups": 5,
+          "expected": 0.3481,
+          "actual": 0,
+          "mrr": 52.22,
+          "mrr_actual": 0
+        },
+        "rest": {
+          "signups": 48,
+          "expected": 6.0644,
+          "actual": 6,
+          "mrr": 909.66,
+          "mrr_actual": 900
+        }
+      }
+    },
+    {
+      "week": "2025-11-24",
+      "channels": {
+        "google_ad": {
+          "signups": 28,
+          "expected": 3.419,
+          "actual": 3,
+          "mrr": 512.85,
+          "mrr_actual": 450
+        },
+        "facebook_ad": {
+          "signups": 19,
+          "expected": 1.9872,
+          "actual": 1,
+          "mrr": 298.09,
+          "mrr_actual": 150
+        },
+        "linkedin_ad": {
+          "signups": 3,
+          "expected": 0.5059,
+          "actual": 0,
+          "mrr": 75.88,
+          "mrr_actual": 0
+        },
+        "rest": {
+          "signups": 36,
+          "expected": 4.4301,
+          "actual": 6,
+          "mrr": 664.51,
+          "mrr_actual": 900
+        }
+      }
+    },
+    {
+      "week": "2025-12-01",
+      "channels": {
+        "google_ad": {
+          "signups": 26,
+          "expected": 3.6884,
+          "actual": 1,
+          "mrr": 553.26,
+          "mrr_actual": 150
+        },
+        "facebook_ad": {
+          "signups": 10,
+          "expected": 1.1561,
+          "actual": 2,
+          "mrr": 173.42,
+          "mrr_actual": 300
+        },
+        "linkedin_ad": {
+          "signups": 4,
+          "expected": 0.6557,
+          "actual": 0,
+          "mrr": 98.36,
+          "mrr_actual": 0
+        },
+        "rest": {
+          "signups": 48,
+          "expected": 6.322,
+          "actual": 7,
+          "mrr": 948.29,
+          "mrr_actual": 1050
+        }
+      }
+    },
+    {
+      "week": "2025-12-08",
+      "channels": {
+        "google_ad": {
+          "signups": 18,
+          "expected": 2.8634,
+          "actual": 2,
+          "mrr": 429.5,
+          "mrr_actual": 300
+        },
+        "facebook_ad": {
+          "signups": 11,
+          "expected": 1.2108,
+          "actual": 0,
+          "mrr": 181.62,
+          "mrr_actual": 0
+        },
+        "linkedin_ad": {
+          "signups": 5,
+          "expected": 0.6277,
+          "actual": 0,
+          "mrr": 94.15,
+          "mrr_actual": 0
+        },
+        "rest": {
+          "signups": 50,
+          "expected": 5.7974,
+          "actual": 6,
+          "mrr": 869.61,
+          "mrr_actual": 900
+        }
+      }
+    },
+    {
+      "week": "2025-12-15",
+      "channels": {
+        "google_ad": {
+          "signups": 25,
+          "expected": 3.6538,
+          "actual": 3,
+          "mrr": 548.08,
+          "mrr_actual": 450
+        },
+        "facebook_ad": {
+          "signups": 9,
+          "expected": 1.1788,
+          "actual": 0,
+          "mrr": 176.82,
+          "mrr_actual": 0
+        },
+        "linkedin_ad": {
+          "signups": 4,
+          "expected": 0.661,
+          "actual": 0,
+          "mrr": 99.14,
+          "mrr_actual": 0
+        },
+        "rest": {
+          "signups": 46,
+          "expected": 5.1479,
+          "actual": 11,
+          "mrr": 772.18,
+          "mrr_actual": 1650
+        }
+      }
+    },
+    {
+      "week": "2025-12-22",
+      "channels": {
+        "google_ad": {
+          "signups": 17,
+          "expected": 2.8657,
+          "actual": 0,
+          "mrr": 429.86,
+          "mrr_actual": 0
+        },
+        "facebook_ad": {
+          "signups": 12,
+          "expected": 1.3625,
+          "actual": 0,
+          "mrr": 204.37,
+          "mrr_actual": 0
+        },
+        "linkedin_ad": {
+          "signups": 2,
+          "expected": 0.1846,
+          "actual": 0,
+          "mrr": 27.69,
+          "mrr_actual": 0
+        },
+        "rest": {
+          "signups": 34,
+          "expected": 3.4651,
+          "actual": 4,
+          "mrr": 519.77,
+          "mrr_actual": 600
+        }
+      }
+    },
+    {
+      "week": "2025-12-29",
+      "channels": {
+        "google_ad": {
+          "signups": 16,
+          "expected": 1.9255,
+          "actual": 0,
+          "mrr": 288.83,
+          "mrr_actual": 0
+        },
+        "facebook_ad": {
+          "signups": 12,
+          "expected": 1.4644,
+          "actual": 3,
+          "mrr": 219.66,
+          "mrr_actual": 450
+        },
+        "linkedin_ad": {
+          "signups": 1,
+          "expected": 0.0696,
+          "actual": 0,
+          "mrr": 10.44,
+          "mrr_actual": 0
+        },
+        "rest": {
+          "signups": 34,
+          "expected": 4.1631,
+          "actual": 9,
+          "mrr": 624.46,
+          "mrr_actual": 1350
+        }
+      }
+    },
+    {
+      "week": "2026-01-05",
+      "channels": {
+        "google_ad": {
+          "signups": 23,
+          "expected": 3.8594,
+          "actual": 3,
+          "mrr": 578.9,
+          "mrr_actual": 450
+        },
+        "facebook_ad": {
+          "signups": 12,
+          "expected": 1.0025,
+          "actual": 1,
+          "mrr": 150.38,
+          "mrr_actual": 150
+        },
+        "linkedin_ad": {
+          "signups": 3,
+          "expected": 0.2089,
+          "actual": 0,
+          "mrr": 31.33,
+          "mrr_actual": 0
+        },
+        "rest": {
+          "signups": 113,
+          "expected": 11.2695,
+          "actual": 14,
+          "mrr": 1690.42,
+          "mrr_actual": 2100
+        }
+      }
+    },
+    {
+      "week": "2026-01-12",
+      "channels": {
+        "google_ad": {
+          "signups": 18,
+          "expected": 2.2753,
+          "actual": 0,
+          "mrr": 341.29,
+          "mrr_actual": 0
+        },
+        "facebook_ad": {
+          "signups": 15,
+          "expected": 1.1489,
+          "actual": 1,
+          "mrr": 172.34,
+          "mrr_actual": 150
+        },
+        "linkedin_ad": {
+          "signups": 7,
+          "expected": 0.9357,
+          "actual": 1,
+          "mrr": 140.35,
+          "mrr_actual": 150
+        },
+        "rest": {
+          "signups": 62,
+          "expected": 6.9551,
+          "actual": 8,
+          "mrr": 1043.27,
+          "mrr_actual": 1200
+        }
+      }
+    },
+    {
+      "week": "2026-01-19",
+      "channels": {
+        "google_ad": {
+          "signups": 25,
+          "expected": 2.2196,
+          "actual": 1,
+          "mrr": 332.95,
+          "mrr_actual": 150
+        },
+        "facebook_ad": {
+          "signups": 14,
+          "expected": 1.8181,
+          "actual": 0,
+          "mrr": 272.72,
+          "mrr_actual": 0
+        },
+        "linkedin_ad": {
+          "signups": 4,
+          "expected": 0.4998,
+          "actual": 0,
+          "mrr": 74.97,
+          "mrr_actual": 0
+        },
+        "rest": {
+          "signups": 62,
+          "expected": 6.8532,
+          "actual": 16,
+          "mrr": 1027.97,
+          "mrr_actual": 2400
+        }
+      }
+    },
+    {
+      "week": "2026-01-26",
+      "channels": {
+        "google_ad": {
+          "signups": 22,
+          "expected": 3.2752,
+          "actual": 2,
+          "mrr": 491.28,
+          "mrr_actual": 300
+        },
+        "facebook_ad": {
+          "signups": 19,
+          "expected": 2.2673,
+          "actual": 2,
+          "mrr": 340.1,
+          "mrr_actual": 300
+        },
+        "linkedin_ad": {
+          "signups": 6,
+          "expected": 0.942,
+          "actual": 0,
+          "mrr": 141.29,
+          "mrr_actual": 0
+        },
+        "rest": {
+          "signups": 66,
+          "expected": 9.6016,
+          "actual": 10,
+          "mrr": 1440.24,
+          "mrr_actual": 1500
+        }
+      }
+    },
+    {
+      "week": "2026-02-02",
+      "channels": {
+        "google_ad": {
+          "signups": 18,
+          "expected": 2.1482,
+          "actual": 1,
+          "mrr": 322.23,
+          "mrr_actual": 150
+        },
+        "facebook_ad": {
+          "signups": 12,
+          "expected": 1.6598,
+          "actual": 1,
+          "mrr": 248.97,
+          "mrr_actual": 150
+        },
+        "linkedin_ad": {
+          "signups": 3,
+          "expected": 0.2089,
+          "actual": 0,
+          "mrr": 31.33,
+          "mrr_actual": 0
+        },
+        "rest": {
+          "signups": 63,
+          "expected": 7.3638,
+          "actual": 12,
+          "mrr": 1104.58,
+          "mrr_actual": 1800
+        }
+      }
+    },
+    {
+      "week": "2026-02-09",
+      "channels": {
+        "google_ad": {
+          "signups": 21,
+          "expected": 3.0535,
+          "actual": 0,
+          "mrr": 458.03,
+          "mrr_actual": 0
+        },
+        "facebook_ad": {
+          "signups": 11,
+          "expected": 1.6013,
+          "actual": 1,
+          "mrr": 240.19,
+          "mrr_actual": 150
+        },
+        "linkedin_ad": {
+          "signups": 2,
+          "expected": 0.1392,
+          "actual": 1,
+          "mrr": 20.89,
+          "mrr_actual": 150
+        },
+        "rest": {
+          "signups": 72,
+          "expected": 7.5658,
+          "actual": 12,
+          "mrr": 1134.87,
+          "mrr_actual": 1800
+        }
+      }
+    },
+    {
+      "week": "2026-02-16",
+      "channels": {
+        "google_ad": {
+          "signups": 14,
+          "expected": 2.142,
+          "actual": 0,
+          "mrr": 321.31,
+          "mrr_actual": 0
+        },
+        "facebook_ad": {
+          "signups": 9,
+          "expected": 1.0994,
+          "actual": 1,
+          "mrr": 164.91,
+          "mrr_actual": 150
+        },
+        "linkedin_ad": {
+          "signups": 4,
+          "expected": 0.4396,
+          "actual": 0,
+          "mrr": 65.95,
+          "mrr_actual": 0
+        },
+        "rest": {
+          "signups": 126,
+          "expected": 12.1281,
+          "actual": 12,
+          "mrr": 1819.22,
+          "mrr_actual": 1800
+        }
+      }
+    },
+    {
+      "week": "2026-02-23",
+      "channels": {
+        "google_ad": {
+          "signups": 12,
+          "expected": 1.2776,
+          "actual": 0,
+          "mrr": 191.64,
+          "mrr_actual": 0
+        },
+        "facebook_ad": {
+          "signups": 16,
+          "expected": 2.3121,
+          "actual": 1,
+          "mrr": 346.81,
+          "mrr_actual": 150
+        },
+        "linkedin_ad": {
+          "signups": 3,
+          "expected": 0.3474,
+          "actual": 0,
+          "mrr": 52.11,
+          "mrr_actual": 0
+        },
+        "rest": {
+          "signups": 80,
+          "expected": 8.1078,
+          "actual": 15,
+          "mrr": 1216.16,
+          "mrr_actual": 2250
+        }
+      }
+    },
+    {
+      "week": "2026-03-02",
+      "channels": {
+        "google_ad": {
+          "signups": 19,
+          "expected": 2.6485,
+          "actual": 2,
+          "mrr": 397.28,
+          "mrr_actual": 300
+        },
+        "facebook_ad": {
+          "signups": 7,
+          "expected": 0.9023,
+          "actual": 0,
+          "mrr": 135.34,
+          "mrr_actual": 0
+        },
+        "linkedin_ad": {
+          "signups": 2,
+          "expected": 0.141,
+          "actual": 0,
+          "mrr": 21.15,
+          "mrr_actual": 0
+        },
+        "rest": {
+          "signups": 74,
+          "expected": 9.0406,
+          "actual": 21,
+          "mrr": 1356.09,
+          "mrr_actual": 3150
+        }
+      }
+    },
+    {
+      "week": "2026-03-09",
+      "channels": {
+        "google_ad": {
+          "signups": 19,
+          "expected": 2.6871,
+          "actual": 2,
+          "mrr": 403.07,
+          "mrr_actual": 300
+        },
+        "facebook_ad": {
+          "signups": 7,
+          "expected": 1.0124,
+          "actual": 1,
+          "mrr": 151.86,
+          "mrr_actual": 150
+        },
+        "linkedin_ad": {
+          "signups": 2,
+          "expected": 0.1451,
+          "actual": 0,
+          "mrr": 21.77,
+          "mrr_actual": 0
+        },
+        "rest": {
+          "signups": 56,
+          "expected": 6.5035,
+          "actual": 11,
+          "mrr": 975.52,
+          "mrr_actual": 1650
+        }
+      }
+    },
+    {
+      "week": "2026-03-16",
+      "channels": {
+        "google_ad": {
+          "signups": 18,
+          "expected": 1.6332,
+          "actual": 0,
+          "mrr": 244.98,
+          "mrr_actual": 0
+        },
+        "facebook_ad": {
+          "signups": 6,
+          "expected": 0.7163,
+          "actual": 1,
+          "mrr": 107.44,
+          "mrr_actual": 150
+        },
+        "linkedin_ad": {
+          "signups": 1,
+          "expected": 0.0696,
+          "actual": 0,
+          "mrr": 10.44,
+          "mrr_actual": 0
+        },
+        "rest": {
+          "signups": 49,
+          "expected": 5.0194,
+          "actual": 3,
+          "mrr": 752.9,
+          "mrr_actual": 450
+        }
+      }
+    },
+    {
+      "week": "2026-03-23",
+      "channels": {
+        "google_ad": {
+          "signups": 17,
+          "expected": 2.492,
+          "actual": 1,
+          "mrr": 373.81,
+          "mrr_actual": 150
+        },
+        "facebook_ad": {
+          "signups": 9,
+          "expected": 1.2959,
+          "actual": 1,
+          "mrr": 194.39,
+          "mrr_actual": 150
+        },
+        "linkedin_ad": {
+          "signups": 3,
+          "expected": 0.2542,
+          "actual": 0,
+          "mrr": 38.14,
+          "mrr_actual": 0
+        },
+        "rest": {
+          "signups": 50,
+          "expected": 5.3697,
+          "actual": 7,
+          "mrr": 805.45,
+          "mrr_actual": 1050
+        }
+      }
+    },
+    {
+      "week": "2026-03-30",
+      "channels": {
+        "google_ad": {
+          "signups": 11,
+          "expected": 1.318,
+          "actual": 0,
+          "mrr": 197.7,
+          "mrr_actual": 0
+        },
+        "facebook_ad": {
+          "signups": 6,
+          "expected": 1.0621,
+          "actual": 0,
+          "mrr": 159.32,
+          "mrr_actual": 0
+        },
+        "linkedin_ad": {
+          "signups": 1,
+          "expected": 0.0696,
+          "actual": 0,
+          "mrr": 10.44,
+          "mrr_actual": 0
+        },
+        "rest": {
+          "signups": 43,
+          "expected": 4.4779,
+          "actual": 3,
+          "mrr": 671.68,
+          "mrr_actual": 450
+        }
+      }
+    },
+    {
+      "week": "2026-04-06",
+      "channels": {
+        "google_ad": {
+          "signups": 20,
+          "expected": 2.6108,
+          "actual": 0,
+          "mrr": 391.61,
+          "mrr_actual": 0
+        },
+        "facebook_ad": {
+          "signups": 14,
+          "expected": 1.169,
+          "actual": 0,
+          "mrr": 175.35,
+          "mrr_actual": 0
+        },
+        "linkedin_ad": {
+          "signups": 0,
+          "expected": 0.0,
+          "actual": 0,
+          "mrr": 0.0,
+          "mrr_actual": 0
+        },
+        "rest": {
+          "signups": 41,
+          "expected": 3.642,
+          "actual": 5,
+          "mrr": 546.31,
+          "mrr_actual": 750
+        }
+      }
+    },
+    {
+      "week": "2026-04-13",
+      "channels": {
+        "google_ad": {
+          "signups": 2,
+          "expected": 0.1992,
+          "actual": 0,
+          "mrr": 29.88,
+          "mrr_actual": 0
+        },
+        "facebook_ad": {
+          "signups": 1,
+          "expected": 0.0696,
+          "actual": 0,
+          "mrr": 10.44,
+          "mrr_actual": 0
+        },
+        "linkedin_ad": {
+          "signups": 1,
+          "expected": 0.115,
+          "actual": 0,
+          "mrr": 17.25,
+          "mrr_actual": 0
+        },
+        "rest": {
+          "signups": 4,
+          "expected": 0.2819,
+          "actual": 0,
+          "mrr": 42.29,
+          "mrr_actual": 0
+        }
+      }
+    }
+  ],
+  "biweekly_discovery": [
+    {
+      "biweek": "2025-10-13",
+      "channels": {
+        "blog": 4,
+        "conference_event": 1,
+        "facebook_ad": 10,
+        "friend_colleague": 18,
+        "google_ad": 27,
+        "linkedin_ad": 3,
+        "newsletter": 1,
+        "null": 0,
+        "other": 7,
+        "part_of_group": 3,
+        "podcast": 0
+      }
+    },
+    {
+      "biweek": "2025-10-27",
+      "channels": {
+        "blog": 0,
+        "conference_event": 6,
+        "facebook_ad": 9,
+        "friend_colleague": 30,
+        "google_ad": 28,
+        "linkedin_ad": 6,
+        "newsletter": 1,
+        "null": 0,
+        "other": 9,
+        "part_of_group": 13,
+        "podcast": 1
+      }
+    },
+    {
+      "biweek": "2025-11-10",
+      "channels": {
+        "blog": 3,
+        "conference_event": 3,
+        "facebook_ad": 18,
+        "friend_colleague": 15,
+        "google_ad": 29,
+        "linkedin_ad": 0,
+        "newsletter": 3,
+        "null": 0,
+        "other": 10,
+        "part_of_group": 23,
+        "podcast": 3
+      }
+    },
+    {
+      "biweek": "2025-11-24",
+      "channels": {
+        "blog": 0,
+        "conference_event": 2,
+        "facebook_ad": 11,
+        "friend_colleague": 15,
+        "google_ad": 30,
+        "linkedin_ad": 5,
+        "newsletter": 1,
+        "null": 1,
+        "other": 4,
+        "part_of_group": 11,
+        "podcast": 0
+      }
+    },
+    {
+      "biweek": "2025-12-08",
+      "channels": {
+        "blog": 3,
+        "conference_event": 1,
+        "facebook_ad": 7,
+        "friend_colleague": 14,
+        "google_ad": 26,
+        "linkedin_ad": 5,
+        "newsletter": 2,
+        "null": 0,
+        "other": 6,
+        "part_of_group": 7,
+        "podcast": 0
+      }
+    },
+    {
+      "biweek": "2025-12-22",
+      "channels": {
+        "blog": 3,
+        "conference_event": 2,
+        "facebook_ad": 11,
+        "friend_colleague": 10,
+        "google_ad": 17,
+        "linkedin_ad": 1,
+        "newsletter": 0,
+        "null": 0,
+        "other": 1,
+        "part_of_group": 9,
+        "podcast": 0
+      }
+    },
+    {
+      "biweek": "2026-01-05",
+      "channels": {
+        "blog": 1,
+        "conference_event": 4,
+        "facebook_ad": 5,
+        "friend_colleague": 21,
+        "google_ad": 22,
+        "linkedin_ad": 5,
+        "newsletter": 1,
+        "null": 0,
+        "other": 8,
+        "part_of_group": 17,
+        "podcast": 0
+      }
+    },
+    {
+      "biweek": "2026-01-19",
+      "channels": {
+        "blog": 2,
+        "conference_event": 2,
+        "facebook_ad": 15,
+        "friend_colleague": 25,
+        "google_ad": 19,
+        "linkedin_ad": 7,
+        "newsletter": 3,
+        "null": 0,
+        "other": 7,
+        "part_of_group": 16,
+        "podcast": 4
+      }
+    },
+    {
+      "biweek": "2026-02-02",
+      "channels": {
+        "blog": 1,
+        "conference_event": 0,
+        "facebook_ad": 12,
+        "friend_colleague": 21,
+        "google_ad": 23,
+        "linkedin_ad": 0,
+        "newsletter": 2,
+        "null": 1,
+        "other": 9,
+        "part_of_group": 7,
+        "podcast": 0
+      }
+    },
+    {
+      "biweek": "2026-02-16",
+      "channels": {
+        "blog": 2,
+        "conference_event": 2,
+        "facebook_ad": 12,
+        "friend_colleague": 23,
+        "google_ad": 11,
+        "linkedin_ad": 2,
+        "newsletter": 0,
+        "null": 1,
+        "other": 7,
+        "part_of_group": 20,
+        "podcast": 2
+      }
+    },
+    {
+      "biweek": "2026-03-02",
+      "channels": {
+        "blog": 1,
+        "conference_event": 0,
+        "facebook_ad": 9,
+        "friend_colleague": 20,
+        "google_ad": 22,
+        "linkedin_ad": 2,
+        "newsletter": 0,
+        "null": 2,
+        "other": 11,
+        "part_of_group": 22,
+        "podcast": 1
+      }
+    },
+    {
+      "biweek": "2026-03-16",
+      "channels": {
+        "blog": 0,
+        "conference_event": 0,
+        "facebook_ad": 10,
+        "friend_colleague": 17,
+        "google_ad": 16,
+        "linkedin_ad": 1,
+        "newsletter": 1,
+        "null": 1,
+        "other": 2,
+        "part_of_group": 9,
+        "podcast": 0
+      }
+    },
+    {
+      "biweek": "2026-03-30",
+      "channels": {
+        "blog": 0,
+        "conference_event": 0,
+        "facebook_ad": 10,
+        "friend_colleague": 12,
+        "google_ad": 20,
+        "linkedin_ad": 0,
+        "newsletter": 0,
+        "null": 0,
+        "other": 1,
+        "part_of_group": 13,
+        "podcast": 0
+      }
+    },
+    {
+      "biweek": "2026-04-13",
+      "channels": {
+        "blog": 0,
+        "conference_event": 0,
+        "facebook_ad": 0,
+        "friend_colleague": 2,
+        "google_ad": 1,
+        "linkedin_ad": 1,
+        "newsletter": 0,
+        "null": 0,
+        "other": 0,
+        "part_of_group": 0,
+        "podcast": 0
+      }
+    }
+  ]
+}

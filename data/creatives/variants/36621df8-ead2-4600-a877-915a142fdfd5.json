@@ -9,8 +9,8 @@
   "asset_path": "data/creatives/rendered/meta_feed_f844e52a.png",
   "asset_type": "image",
   "asset_status": "pending",
-  "template_id": null,
-  "template_color_scheme": null,
+  "template_id": "feed_1080x1080/stat_callout",
+  "template_color_scheme": "warm",
   "taxonomy": {
     "message_type": "value_prop",
     "hook_type": "statistic",
@@ -34,6 +34,7 @@
     "human_face_visible": false,
     "social_proof_type": "none",
     "copy_length_bin": "medium",
+    "asset_source": "template",
     "tagging_confidence": {},
     "VALID_VALUES": {
       "message_type": [
@@ -125,6 +126,8 @@
   "reviewed_at": null,
   "review_chips": [],
   "review_duration_ms": 0,
+  "deployment_targets": [],
+  "hypothesis_id": null,
   "meta_ad_id": null,
   "google_ad_id": null
 }

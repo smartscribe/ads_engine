@@ -20,6 +20,10 @@ facebook-business>=19.0.0
 # Google Ads (intern: uncomment when implementing)
 # google-ads>=24.0.0
 
+# Google Analytics 4 (Data API — landing page performance pulls)
+google-analytics-data>=0.18.0
+pyarrow>=15.0.0   # parquet writer for analytics snapshots
+
 # Image generation (intern: add based on chosen provider)
 # replicate  # for Flux
 openai>=1.0.0  # for DALL-E image gen + Whisper voice transcription (M2)

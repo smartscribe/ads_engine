@@ -43,6 +43,12 @@ class Settings(BaseSettings):
     GOOGLE_ADS_REFRESH_TOKEN: str = ""
     GOOGLE_ADS_CUSTOMER_ID: str = ""       # Format: XXX-XXX-XXXX (no dashes in API)
 
+    # -- Google Analytics 4 (Data API) --
+    # Property 419769857 is the canonical www.jotpsych.com marketing property
+    # (G-B7Q5FRBQRH). See docs/ga4-csp-fix-2026-04-13.md for property mapping.
+    GA_PROPERTY_ID: str = "419769857"
+    GA_CREDENTIALS_PATH: str = str(Path.home() / ".claude" / "ga-service-account.json")
+
     # -- Slack --
     SLACK_WEBHOOK_URL: str = ""
     SLACK_CHANNEL: str = "#ads-engine"

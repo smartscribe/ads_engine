@@ -9,8 +9,8 @@
   "asset_path": "data/creatives/e5062c13-14bc-4d8f-a87f-09f00cccfef6/variant_1.placeholder",
   "asset_type": "video",
   "asset_status": "pending",
-  "template_id": null,
-  "template_color_scheme": null,
+  "template_id": "feed_1080x1080/headline_hero",
+  "template_color_scheme": "light",
   "taxonomy": {
     "message_type": "value_prop",
     "hook_type": "direct_benefit",
@@ -34,6 +34,7 @@
     "human_face_visible": false,
     "social_proof_type": "none",
     "copy_length_bin": "medium",
+    "asset_source": "template",
     "tagging_confidence": {},
     "VALID_VALUES": {
       "message_type": [

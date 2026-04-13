@@ -1,0 +1,26 @@
+{
+  "date": "2026-04-07",
+  "snapshots_pulled": 0,
+  "decisions": {
+    "scale": 0,
+    "kill": 0,
+    "wait": 0
+  },
+  "auto_killed": 0,
+  "regression": {
+    "r_squared": 0.5275,
+    "observations": 141,
+    "weighted": true
+  },
+  "memory": {
+    "winning_patterns": 0,
+    "approval_clusters": 12,
+    "fatigue_alerts": 0,
+    "data_quality": 0.8999999999999999
+  },
+  "rolling_regression": {
+    "r_squared": 0.5275,
+    "observations": 141,
+    "window_days": 30
+  }
+}

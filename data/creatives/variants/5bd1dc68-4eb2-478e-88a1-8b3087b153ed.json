@@ -9,8 +9,8 @@
   "asset_path": "data/creatives/5eb36b3d-a008-4259-ab5b-cd15de946b44/variant_5.placeholder",
   "asset_type": "video",
   "asset_status": "pending",
-  "template_id": null,
-  "template_color_scheme": null,
+  "template_id": "feed_1080x1080/headline_hero",
+  "template_color_scheme": "light",
   "taxonomy": {
     "message_type": "social_proof",
     "hook_type": "scenario",
@@ -34,6 +34,7 @@
     "human_face_visible": false,
     "social_proof_type": "none",
     "copy_length_bin": "medium",
+    "asset_source": "template",
     "tagging_confidence": {},
     "VALID_VALUES": {
       "message_type": [

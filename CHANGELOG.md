@@ -18,6 +18,99 @@ Each entry includes:
 
 ## Log
 
+### 2026-04-06 — Nate + Claude — Full Meta Ads Account Restructure
+
+**What happened:** Complete audit and reorganization of the JotPsych Meta Ads account via the Marketing API. This was the first time the ads engine repo was connected to live Meta infrastructure for programmatic ad management.
+
+**Context:** The account had accumulated 400+ ads across 14 campaigns dating back to April 2024, with overlapping audiences, inconsistent naming, mixed optimization events (PageView, userInfoFormCompleted, FirstNote), and no systematic winner identification. Weekly CpFN swings of $64-$354 made it hard to separate signal from noise. Nate wanted to identify winners, consolidate, and clean up.
+
+**Phase 1: Statistical significance discussion**
+- Nate asked how many impressions are needed for significance on Facebook ads
+- Established sample size requirements at various CTR levels (12K-158K impressions per variant for common scenarios)
+- Key insight: pairwise A/B testing at the ad level is impractical at JotPsych's spend levels for rare downstream events like FirstNote. The regression approach in the engine design is the right answer — pool signal across creatives and decompose by element taxonomy.
+
+**Phase 2: Meta API setup**
+- Created Meta developer app "ads_nate" at developers.facebook.com
+- Hit multiple dead ends: "Create & manage app ads" use case doesn't include Marketing API; Graph API Explorer permissions dropdown was empty (known bug with Business-type apps)
+- Solution: generated a System User token via Business Manager (business.facebook.com → System Users → Generate Token) with ads_management + ads_read + read_insights permissions
+- Accepted Custom Audience TOS at business.facebook.com/ads/manage/customaudiences/tos/
+
+**Phase 3: Data pull and analysis**
+- Pulled 424 ad rows via Marketing API insights endpoint
+- Discovered that FirstNote custom event maps to `offsite_conversion.fb_pixel_custom.FirstNote` in the `conversions` field (not in `actions` — that only shows `offsite_conversion.fb_pixel_custom` as an aggregate)
+- Cross-referenced ad metadata (creation dates, effective status) to identify protected ads (Q126 campaigns, anything created after March 27)
+- Ranked all ads by CpFN with minimum threshold of 10 FirstNotes
+
+**Key finding:** Account-wide blended CpFN was $159 across 1,600 FirstNotes and $254K spend. Top 5 winners were running at $62-$99 CpFN — 40-60% below average.
+
+**Top 5 by CpFN (10+ FN):**
+1. AI for Progress Notes Concept 3 — $62 CpFN, 11 FN
+2. AI for Progress Notes Concept 4 — $80 CpFN, 11 FN
+3. PDF to Template — $89 CpFN, 12 FN
+4. KM UGC Video Concept 1 — $91 CpFN, 11 FN
+5. AI for Progress Notes (dynamic creative) — $99 CpFN, 105 FN
+
+**Phase 4: Campaign creation via API**
+- Created "Scale: Winners - Apr 2026" campaign ($200/day) with top 5 ads
+- Created "Farm: Testing - Apr 2026" campaign ($150/day) with early-signal ads + 19 Q226 billing/audit ads
+- Hit multiple API issues:
+  - `is_adset_budget_sharing_enabled` required on campaign creation (new Meta requirement)
+  - Dynamic Creative ads can only go in Dynamic Creative ad sets (required 1 ad set per DC ad)
+  - Custom Audience TOS had to be accepted before exclusion lists could be attached
+  - Rate limiting after ~100 API calls forced delays
+- Archived 9 old campaigns at the campaign level (cleaner than per-ad archival)
+- Accidentally archived Q226 (billing ads) campaign — Meta treats archived campaigns as permanently non-restorable. Recovered by pulling archived ad sets/ads and recreating them in the Farm campaign.
+
+**Critical lesson: Meta "archive" = effectively "delete" at the campaign level.** The API call is `status=ARCHIVED` but Meta refuses to change it back, saying "This campaign has been deleted." The ads and creatives survive and can be queried, but the campaign container cannot be restored. **New policy: never archive or delete — only pause.**
+
+**Phase 5: Targeting and exclusions**
+- Set all 9 ad sets to broad targeting: US, ages 24-65, no interest/LAL restrictions
+- Rationale: 1,600+ FirstNotes of pixel data gives Meta enough signal to find converters without audience restrictions. The old narrow targeting (job titles: Psychiatrist, PMHNP, etc.) was used when the account optimized for PageView. With FirstNote optimization, broad outperforms narrow because Meta's model already learned the ICP profile from conversion patterns.
+- Excluded active customers via CRM list (120243481249130548) and new Stripe audience
+
+**Phase 6: Stripe → Meta exclusion pipeline**
+- Built `scripts/sync-stripe-exclusions.py` — pulls all Stripe customers, SHA256 hashes emails, uploads to Meta Custom Audience
+- First run: 14,027 unique customer emails pulled from Stripe, new audience created (120244895647380548), 10K records uploaded (rate limited on second batch)
+- Audience added as exclusion to all 9 ad sets
+- Script designed for daily cron: `0 6 * * * python3 scripts/sync-stripe-exclusions.py`
+- Logs to `data/exclusion-logs/sync-YYYY-MM-DD.json`
+
+**Phase 7: Automated rules**
+- Created Meta automated rule (ID: 663110200230157): auto-pause any ad set spending $500+ with 0 FirstNotes
+- Attempted CpFN > $200 alert rule — failed on unrecognized filter field, needs different API syntax (TODO)
+
+**Files created/modified:**
+- `scripts/sync-stripe-exclusions.py` — Stripe → Meta exclusion sync script
+- `data/exclusion-logs/sync-2026-04-06.json` — first sync log
+
+**What's live now:**
+- Scale: Winners ($200/day, 5 ad sets, 5 ads) — ACTIVE
+- Farm: Testing ($150/day, 4 ad sets, 24 ads) — ACTIVE
+- Q126 campaigns (3) — unchanged
+- Auto-kill rule — ENABLED
+- Stripe exclusion — synced, needs daily cron setup
+
+**Open items / TODO:**
+- Set up cron job for daily Stripe exclusion sync
+- Fix the CpFN > $200 automated alert rule (correct Meta API field name)
+- Second batch of Stripe upload was rate-limited — only 10K of 14K uploaded. Next sync will catch the rest.
+- Build retargeting campaign with top creatives targeting website visitors sans first note (L30D)
+- Review CpFN at day 3 (April 9) and day 7 (April 13)
+- Update CRM exclusion list (current file is from March 4)
+- Investigate: the `conversions` field in Meta API only shows when the ad set is optimized for that event. Ads optimized for different events (PageView, userInfoFormCompleted) may undercount FirstNotes.
+- Meta token is a system user token — should not expire, but verify.
+- The dynamic creative ads in Scale each have their own ad set at $40/day. Monitor whether Meta distributes budget well or if we need campaign budget optimization (CBO) instead.
+
+**Decisions made:**
+- CpFN is the single decision metric. CTR is diagnostic only.
+- Broad targeting over LAL/interest targeting — trust the pixel signal.
+- Farm/Scale structure: Scale = proven winners, Farm = testing ground. Winners graduate from Farm to Scale.
+- 10 FirstNote minimum to trust CpFN data.
+- Never archive or delete campaigns — pause only.
+- $500 spend / 0 FN = auto-kill threshold.
+
+---
+
 ### 2026-03-28 — Cursor Cloud Agent
 **Development environment setup**
 

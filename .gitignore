@@ -13,3 +13,7 @@ node_modules/
 
 # Local Netlify folder
 .netlify
+
+# Harness/runtime artifacts
+.claude/scheduled_tasks.lock
+.playwright-mcp/

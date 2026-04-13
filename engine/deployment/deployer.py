@@ -92,6 +92,7 @@ class MetaDeployer:
                     "type": cta_type,
                     "value": {"link": JOTPSYCH_SIGNUP_URL},
                 },
+                "image_crops": {"100x100": [[0, 0], [100, 100]]},
             },
         }
 
