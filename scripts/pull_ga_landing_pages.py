@@ -46,18 +46,26 @@ def main() -> int:
 
     settings = get_settings()
     creds_path = Path(settings.GA_CREDENTIALS_PATH)
-    if not creds_path.exists():
-        print(f"ERROR: GA credentials file not found at {creds_path}")
-        print("Create a GCP service account, grant it Viewer on the GA property,")
-        print("download the JSON key, and save it to that path.")
+    adc_path = Path.home() / ".config" / "gcloud" / "application_default_credentials.json"
+    if not creds_path.exists() and not adc_path.exists():
+        print("ERROR: no GA credentials found.")
+        print(f"  Service account JSON expected at: {creds_path}")
+        print(f"  Or ADC credentials expected at:   {adc_path}")
+        print("Run `gcloud auth application-default login` or drop a service-account key at the first path.")
         return 1
 
+    if creds_path.exists():
+        auth_desc = f"service account key at {creds_path}"
+    else:
+        auth_desc = f"ADC impersonating {settings.GA_IMPERSONATE_SA}"
     print(f"Pulling landing pages for property {settings.GA_PROPERTY_ID}")
     print(f"Range: {start} → {end}")
+    print(f"Auth: {auth_desc}")
 
     client = GAClient(
         property_id=settings.GA_PROPERTY_ID,
-        credentials_path=str(creds_path),
+        credentials_path=str(creds_path) if creds_path.exists() else None,
+        impersonate_sa=settings.GA_IMPERSONATE_SA,
     )
     df = client.pull_landing_pages(start, end, limit=args.limit)
 

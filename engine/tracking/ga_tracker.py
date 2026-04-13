@@ -15,18 +15,61 @@ from typing import Optional
 import pandas as pd
 
 
+ANALYTICS_SCOPE = "https://www.googleapis.com/auth/analytics.readonly"
+
+
 class GAClient:
-    """Thin wrapper around BetaAnalyticsDataClient for landing-page reports."""
+    """Thin wrapper around BetaAnalyticsDataClient for landing-page reports.
 
-    def __init__(self, property_id: str, credentials_path: str):
+    Authenticates in priority order:
+    1. Explicit service-account JSON at `credentials_path` (if the file exists).
+    2. ADC + service-account impersonation via `impersonate_sa` email. Used when
+       the org policy blocks SA key creation — the developer auths once with
+       `gcloud auth application-default login` and Python mints short-lived SA
+       tokens via the IAM Credentials API at runtime.
+    3. Plain ADC without impersonation. Requires the user's ADC token to hold
+       the analytics.readonly scope, which Google now blocks for the default
+       gcloud client ID — so this path is effectively dead as of 2026 and only
+       kept for edge cases where a custom OAuth client has been configured.
+    """
+
+    def __init__(
+        self,
+        property_id: str,
+        credentials_path: Optional[str] = None,
+        impersonate_sa: Optional[str] = None,
+    ):
+        from pathlib import Path
+
         from google.analytics.data_v1beta import BetaAnalyticsDataClient
-        from google.oauth2 import service_account
 
-        creds = service_account.Credentials.from_service_account_file(
-            credentials_path,
-            scopes=["https://www.googleapis.com/auth/analytics.readonly"],
-        )
-        self._client = BetaAnalyticsDataClient(credentials=creds)
+        if credentials_path and Path(credentials_path).exists():
+            from google.oauth2 import service_account
+
+            creds = service_account.Credentials.from_service_account_file(
+                credentials_path,
+                scopes=[ANALYTICS_SCOPE],
+            )
+            self._client = BetaAnalyticsDataClient(credentials=creds)
+        elif impersonate_sa:
+            import google.auth
+            from google.auth import impersonated_credentials
+
+            # Source creds need cloud-platform scope to call IAM Credentials API
+            # for impersonation. google.auth.default() returns scopeless creds
+            # by default, which produces a misleading "getAccessToken denied" error.
+            source_creds, _ = google.auth.default(
+                scopes=["https://www.googleapis.com/auth/cloud-platform"],
+            )
+            target_creds = impersonated_credentials.Credentials(
+                source_credentials=source_creds,
+                target_principal=impersonate_sa,
+                target_scopes=[ANALYTICS_SCOPE],
+                lifetime=3600,
+            )
+            self._client = BetaAnalyticsDataClient(credentials=target_creds)
+        else:
+            self._client = BetaAnalyticsDataClient()
         self._property = f"properties/{property_id}"
 
     def pull_landing_pages(
@@ -130,20 +173,14 @@ class GAClient:
         return df
 
 
-def load_client_from_settings() -> Optional[GAClient]:
-    """
-    Convenience: build a GAClient from project settings, or return None if
-    credentials file is missing. Call sites can use this to degrade gracefully
-    when auth isn't configured yet.
-    """
-    from pathlib import Path
-
+def load_client_from_settings() -> GAClient:
+    """Build a GAClient from project settings. Prefers service-account JSON if
+    present, otherwise impersonates the configured SA via ADC."""
     from config.settings import get_settings
 
     settings = get_settings()
-    if not Path(settings.GA_CREDENTIALS_PATH).exists():
-        return None
     return GAClient(
         property_id=settings.GA_PROPERTY_ID,
         credentials_path=settings.GA_CREDENTIALS_PATH,
+        impersonate_sa=settings.GA_IMPERSONATE_SA,
     )

@@ -48,6 +48,9 @@ class Settings(BaseSettings):
     # (G-B7Q5FRBQRH). See docs/ga4-csp-fix-2026-04-13.md for property mapping.
     GA_PROPERTY_ID: str = "419769857"
     GA_CREDENTIALS_PATH: str = str(Path.home() / ".claude" / "ga-service-account.json")
+    # Service account to impersonate when no key file is present and the
+    # developer auths via ADC. Bypasses org policy blocking SA key creation.
+    GA_IMPERSONATE_SA: str = "ads-engine-ga-reader@ads-engin.iam.gserviceaccount.com"
 
     # -- Slack --
     SLACK_WEBHOOK_URL: str = ""
