@@ -3,6 +3,8 @@
 ## Integrations
 **All API keys and integration config live in global `~/.claude/.env` and `~/.claude/integrations.md`.** Do NOT create a project-level `.env`. Meta Ads keys are `META_ADS_ACCESS_TOKEN`, `META_ADS_ACCOUNT_ID`, `META_ADS_APP_ID` (note: names differ from `config/settings.py` — load from global env when running scripts).
 
+**Never hardcode secrets as env-var fallbacks.** Use `os.environ["KEY"]` (fails loud if missing), never `os.environ.get("KEY", "actual-value-here")`. Fallbacks look harmless but they put live credentials into the repo — and GitHub push protection will block the push, which means by the time you notice, the key is already in a local commit object. On 2026-04-13 a Stripe `rk_live` key and Meta access token shipped this way, got caught by GitHub's scanner, required rotation, and required reflog purging.
+
 ## What This Is
 A quant-style ad operations system: idea → creative variants → deploy → measure → decompose → learn → repeat.
 Runs ads for JotPsych targeting BH clinicians and SMB clinic decision-makers on Meta and Google.
