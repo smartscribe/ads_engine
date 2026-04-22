@@ -1,0 +1,28 @@
+{
+  "pulled_at": "2026-04-22T01:51:48.763113+00:00",
+  "cohort_days": 180,
+  "notes_cap": 30,
+  "paid_channels": [
+    "google_ad",
+    "facebook_ad",
+    "linkedin_ad"
+  ],
+  "files": {
+    "per_note": {
+      "path": "raw/per_note.json",
+      "rows": 31
+    },
+    "weekly_paid_grid": {
+      "path": "raw/weekly_paid_grid.json",
+      "rows": 1043
+    },
+    "biweekly_discovery": {
+      "path": "raw/biweekly_discovery.json",
+      "rows": 118
+    },
+    "cohort_counts": {
+      "path": "raw/cohort_counts.json",
+      "rows": 6
+    }
+  }
+}

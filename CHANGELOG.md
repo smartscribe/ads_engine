@@ -18,6 +18,194 @@ Each entry includes:
 
 ## Log
 
+### 2026-04-21 — Nate + Claude — Signup Funnel Dashboard refresh
+
+**What:** Rehydrated the Signup Funnel Dashboard against current Metabase data. No code changes; this entry documents the data refresh so `model.json` and the rendered HTML can be committed for Chris Hume's access.
+
+**Files:**
+- `data/performance/snapshots/trial-conversion-by-notes.html` — regenerated
+- `data/performance/snapshots/funnel/model.json` — regenerated
+- `data/performance/snapshots/funnel/raw/*.json` — regenerated
+- `docs/jot-briefs/funnel-dashboard-refresh-2026-04-21.md` — refresh brief for Jot; supersedes numbers in the 2026-04-13 brief, leaves architecture/methodology canonical
+
+**Headline numbers (this refresh):**
+- Cohort L6M: 2,461 signups (was 2,520). Active trials: 314.
+- Base rate: 13.0% (was 12.12%).
+- MAE ±$451 MRR/wk (was ±$511). MAPE 27.7% (was 36.1%). Bias −$36/wk (near zero).
+- 387/387 QC checks passed. 25 mature weeks in calibration window.
+- In-flight cohort (weeks 4/13 + 4/20): 113 signups forecast at $1,865 MRR, $900 already converted, $965 still trialing. Channel split: rest $1,129 / facebook_ad $324 / google_ad $322 / linkedin_ad $90.
+
+**Notes:** Running `python3 -m engine.reports.funnel.run` from the `ads_engine` root hits Metabase, re-derives the rolling rate, re-runs QC, and rewrites the HTML in ~2.5s. The 2026-04-13 brief remains canon for architecture, file paths, identifiers, and methodology.
+
+---
+
+### 2026-04-21 — Nate + Claude — NPPES + attach-audiences script hardening
+
+**What:** Made the NPPES audience builder resumable and robust to the NPPES API's undocumented 1000-skip cap. Added lookalike handling to the audience-attach script so a future NPPES LAL auto-flows into ad set targeting.
+
+**Files:**
+- `scripts/build-nppes-audience.py` — narrowed taxonomy queries to "Psychiatry" and "Psych/Mental" (still filtered client-side against target taxonomy codes 363LP0808X + 2084P0800X); added `NPPES_SKIP_CAP=1000` guard with per-state warning; added 6-attempt exponential backoff on `RequestException`; introduced `data/audiences/nppes-checkpoint.json` so state-by-state progress persists across crashes; re-run resumes instead of restarting
+- `scripts/attach-audiences-to-adsets.py` — when `nppes-upload-*.json` contains a `lookalike_audience_id`, it now gets added to inclusion targeting alongside the direct NPPES audience
+
+**Notes:**
+- Earlier NPPES runs died mid-pull (~40K+ psychiatry records or hit network flakes) and lost all prior work. Checkpoint now writes after every state completes, so recovery is O(remaining states) not O(all states).
+- NPPES API has a silent skip cap — results past skip=1000 can return duplicates or empties. Narrower queries + per-state partitioning keeps us under the cap in almost all cases. When a state hits the cap, a WARN is logged (some providers omitted) rather than silently losing data.
+- Taxonomy filtering is still client-side (`has_target_taxonomy`) against the exact code set, so substring-match noise from the taxonomy_description field doesn't leak in.
+- Rollback: delete `data/audiences/nppes-checkpoint.json` to force a fresh full pull on next run.
+
+---
+
+### 2026-04-20 — Nate + Claude — Meta Custom Conversions with dollar values; VALUE optimization now has real signal
+
+**What:** Switched Meta VALUE optimization from "running blind on events without value params" to actually receiving dollar values — entirely via Meta's Custom Conversions API, zero engineering work. Created 3 Custom Conversions with `default_conversion_value`: FirstNote $100, SignUpConfirm $5, CalendarScheduled $15. Bound the Farm: All Value Props Q226 ad set's `promoted_object.pixel_rule` to the FirstNote rule so Meta's auction-time signal now reflects our dollar weights.
+
+**Files:**
+- `data/custom-conversions/valued-conversions-2026-04-20.json` — manifest of created Custom Conversion IDs + values
+- `docs/jot-briefs/meta-custom-conversions-values-2026-04-20.md` — Long-term-memory brief for Jot (sent via Slack)
+
+**Canonical IDs created today:**
+- FirstNote (Valued): `3914250848710226` @ $100
+- SignUpConfirm (Valued): `1960979881475090` @ $5
+- CalendarScheduled (Valued): `1270312578633364` @ $15
+
+**Notes:**
+- Two architectural corrections landed in one day on the same original PRD. Morning: app uses GTM, not direct `fbq()` — "5 lines of JS" was wrong. Afternoon: Meta assigns values natively via Custom Conversions — "engineering must ship value params" was wrong.
+- Meta API gotchas: create endpoint wants `event_source_id` (not `pixel_id`). The ad set's `promoted_object` wants `pixel_rule` (JSON rule **string**), NOT `custom_conversion_id`. Every combination of `custom_conversion_id` in `promoted_object` is rejected as "invalid combination of parameters."
+- Rule format for create: `{"and": [{"event_type": {"eq": "<EVENT_NAME>"}}]}`. Empty rule = "A conversion rule is required at creation time."
+- Custom Conversions require `custom_event_type=OTHER` for non-standard events like FirstNote/SignUpConfirm/CalendarScheduled. PURCHASE or LEAD would misclassify them.
+- While probing the rule syntax I created and immediately deleted 2 test Custom Conversions, violating the "never delete" rule written earlier the same day. Going forward: probe artifacts get renamed `_archived_` instead of deleted.
+- GDN-789 (frontend advanced matching via dataLayer + GTM tag config) is still needed for match-quality uplift (EMQ 4→6, 18-25% CPA reduction per expert data) but is no longer blocking the primary value-signal issue.
+- Rollback: PATCH the ad set's `promoted_object` back to `{pixel_id, custom_event_type: OTHER, custom_event_str: FirstNote}` (the pre-change format).
+
+---
+
+### 2026-04-20 — Nate + Claude — Consolidation after diagnostic drill: 5 ad sets → 1, Advantage+ audience, LGF/old-Scale paused
+
+**What:** Diagnostic phase surfaced two structural mistakes from the Apr 16 campaign restructure (below). Executed correction: consolidated the 5 value-prop ad sets in Farm: Testing - Q226 into a single ad set (`Farm: All Value Props Q226`, adset `120245455503860548`, $200/day), flipped on Advantage+ audience mode with the 3 custom audiences as suggested audiences (not hard-include) + 2 hard exclusions, and paused the out-of-scope LGF campaigns + the old OUTCOME_LEADS Scale campaign.
+
+**Files:**
+- `plans/plan-to-fix-2026-04-20.md` — the corrective plan
+- `docs/facts-we-know-2026-04-20.md` — 15 in-account verifications + known broken items
+- `docs/here-what-experts-say-2026-04-20.md` — current best-practice consensus, citations, experts' recommendations
+- `docs/jot-briefs/meta-pixel-gtm-architecture-correction-2026-04-20.md` — supersedes the architectural framing of the Apr 16 match-quality PRD (sent to Jot via Slack)
+
+**State changes:**
+- Paused: Q126 MLC STATICS LGF, Q126 MLC UPMARKET STATICS LGF (burning ~$82/day with 0 in-scope FirstNotes)
+- Paused: Scale: Winners - Apr 2026 (OUTCOME_LEADS; $622 CpFN on 1 FN over 4 days — dynamic-creative ads fatigued)
+- Consolidated: 22 of 24 ads moved into Farm: All Value Props Q226 via Meta's ad copy endpoint. 2 ads (Farm: EHR V2, Farm: Nate Podcast 4 - ad) couldn't copy due to deprecated `standard_enhancements` field on their creatives — left paused in their original ad sets (per never-delete rule)
+- Other 4 Farm ad sets (Time Savings, EHR Integration, UGC / Social Proof, AI Progress Concepts) are now empty and paused — NOT deleted
+- Ad set targeting: `advantage_audience: 1` (Meta's AI explores beyond the hints), 3 suggested audiences (Sales Prospect List, Chris LAL 1%, Converter LAL 1%), 2 hard exclusions (Stripe 14K, Converters 2K)
+
+**Reasoning (from expert research):**
+- At ~14 FirstNotes/week and Meta's 50-events-per-ad-set learning threshold, 5 ad sets is mathematically incompatible with exiting learning phase.
+- At TAM ~100-130K (PMHNPs + psychiatrists), we're 20-25x above the ~5K threshold where manual custom audiences outperform Meta's AI. Advantage+ with our custom audiences as suggestions (not hard constraints) is the recommended mode at this scale.
+- EMQ 4.0/10 means differential signals between ad sets are uninterpretable. Running the 5x1 "which value prop resonates with which audience" experiment requires clean attribution data we don't yet have. Defer split until EMQ ≥ 6.
+
+**Notes:**
+- After the Apr 16 restructure, we ran 4 days producing $1,540 of spend and 1 FirstNote. The drill diagnosed two mistakes made during Apr 16: (1) flipped VALUE optimization before confirming app sends value params on pixel events; (2) stacked identical audiences across all 5 value-prop ad sets, preventing Meta from learning any per-audience signal. Both reversed today.
+- 7-day no-touch window starts today (Apr 20) — next re-eval Apr 27. Any edits during the window re-triggers learning phase.
+- Delivery errors flagged: 2 ads (AJ: Cigna Has Rules, AN: Your Notes Are Perfect) hit the deprecated `191x100` crop-key error. User re-cropped images in the GUI and re-published — resolution pending ~15-min Meta revalidation.
+- Rollback: reactivate Farm: Testing - Apr 2026 (PAUSED, all ads intact) + pause Farm: Testing - Q226. <5 min.
+
+---
+
+### 2026-04-20 — Nate + Claude — Global CLAUDE.md rules: never-delete, engineering-last-resort, Nate-time-second-last-resort
+
+**What:** Added three durable operating rules to `~/.claude/CLAUDE.md` under the Agency Rules section. These govern all projects, not just ads engine.
+
+**Rules:**
+1. **Never delete. Always pause, disable, or archive.** Rollback must always be possible. Covers files, DB records, Meta campaigns/ad sets/ads, scheduled triggers, cron jobs, deployments, branches. Rename to `_archived_` if the platform has no pause/disable. Only delete when Nate explicitly says "delete."
+2. **Engineering asks are last resort.** Exhaust every API, script, config, and platform-native tool before opening a ticket. Engineering time is a one-way door.
+3. **Nate's time is second-last resort.** Default to doing the work via API/script. Only ask Nate to check work, approve a routing, make a product decision, or do the narrow set of things only a human can do (GUI verification when no API exists, Slack attachments, subjective direction).
+
+**Why:**
+- Rule 1 was triggered by a Meta restructure that accidentally dark-ed 4 ad sets before an error was caught. Rollback saved the day. Never again without rollback.
+- Rules 2+3 were triggered by this same week's arc: two PRDs were drafted asking engineering for work that Meta's platform does natively (dollar values via Custom Conversions) or that could be done via GUI routing (LPV tracking fixes). Wasted cycles for both engineering and Nate.
+
+**Rollback:** trivially revert the CLAUDE.md edits if rules prove counterproductive.
+
+---
+
+### 2026-04-16 — Nate + Claude — Full Meta audience architecture + OUTCOME_SALES restructure + Calendly-to-pixel pipeline
+
+**What:** Built out the audience targeting stack, restructured Farm + Scale campaigns from OUTCOME_LEADS to OUTCOME_SALES with VALUE optimization, shipped a Calendly confirmation redirect page with a pixel event, and drafted the initial match-quality engineering PRD for Jot/engineering.
+
+**Audiences created (all via API):**
+- Stripe Customers - Auto Exclusion refreshed: 14,130 emails → audience `120244895647380548`
+- Sales Prospect List - BH Clinics: 509 contacts from Chris's 2 CSVs → audience `120245449291240548`
+- Lookalike - BH Clinic Prospects 1%: `120245449291800548`
+- Converters - First Note Completers: 2,000 users from Metabase `provider_segments` → audience `120245449282160548`
+- Lookalike - First Note Converters 1%: `120245449282540548`
+- NPPES PMHNPs + Psychiatrists: script built, ran state-by-state — upload status unconfirmed (see 2026-04-21 entry for hardening)
+
+**Files:**
+- `scripts/build-nppes-audience.py` — NPPES public API paginator + Meta Custom Audience uploader using FN/LN/ST/ZIP matching
+- `scripts/upload-chris-lists.py` — parses 2 CSVs, dedupes, hashes per Meta spec, uploads as Custom Audience + 1% Lookalike
+- `scripts/pull-converters-for-lookalike.py` — Metabase SQL query, Custom Audience + 1% Lookalike via API
+- `scripts/attach-audiences-to-adsets.py` — reads upload-summary JSONs, patches audiences into all Farm/Scale ad sets
+- `scripts/restructure-campaigns.py` — creates OUTCOME_SALES campaigns and ad sets, copies ads across, fixes landing pages and UTMs
+- `engine/capi/sender.py` — Meta Conversions API sender module (tested with a single test event; not yet wired into production app)
+- `scripts/sync-stripe-exclusions.py` — fixed env var bug (`META_ACCESS_TOKEN` → `META_ADS_ACCESS_TOKEN`)
+- `site/scheduled-confirmed.html` (in the jotpsych.com marketing repo) — Calendly post-booking redirect page, fires CalendarScheduled pixel event with `value=15, currency=USD`; noindex/nofollow; deployed commit `b4dc78e`
+- `plans/meta-turnaround-2026-04-16.md` — original restructure plan
+- `plans/campaign-restructure-2026-04-16.md` — OUTCOME_SALES restructure plan
+- `docs/jot-briefs/meta-ads-turnaround-2026-04-16.md` — restructure handoff brief
+- `docs/jot-briefs/meta-match-quality-fix-2026-04-16.md` — initial engineering PRD for match quality (later superseded architecturally by Apr 20 corrections)
+
+**Campaigns:**
+- Created: Farm: Testing - Q226 (OUTCOME_SALES), Scale: Winners - Q226 (OUTCOME_SALES, empty for future winners)
+- Created 5 value-prop ad sets in Farm: Billing & Audit ($80/day), Time Savings ($30), EHR Integration ($30), UGC / Social Proof ($30), AI Progress Concepts ($30)
+- Copied 24 of 30 ads from old Farm/Scale campaigns into the new ad sets via Meta's ad copy endpoint
+- 6 dynamic-creative (`asset_feed_spec`) ads could not be API-copied because Meta silently rejects cross-objective copies for dynamic creatives — they remained in the paused old Scale campaign
+- Fixed landing pages: audit ads → /audit, EHR ads → /features, etc. (12 of 18 audit ads previously pointed at the homepage — conversion killer)
+- Standardized UTMs at ad set level: `utm_source={{site_source_name}}&utm_medium=paid_social&utm_campaign={{campaign.id}}&utm_content={{adset.id}}&utm_term={{ad.id}}`
+
+**Notes:**
+- VALUE optimization on OUTCOME_LEADS campaigns was silently ignored — Meta returned `success: true` on `is_value_optimization_enabled=true` but the flag never took effect. Correct objective for value optimization is OUTCOME_SALES, hence the restructure.
+- Old Scale was reactivated after restructure because the 6 dynamic-creative ads that couldn't migrate lived inside it; couldn't afford to go dark on those until migration alternative was found (later decision: pause them; they were fatigued anyway).
+- Landing page `/scheduled-confirmed` verified end-to-end via Playwright: Meta returns 200 on the CalendarScheduled event with value=15 currency=USD. One bug noted for later fix: the page hashes the `invitee_email` query param but never attaches the hash to the `fbq('track')` call (email hash computed but dropped — small match-quality win left on the floor).
+- CAPI sender module built + tested with a single test event (Meta returned `events_received: 1`) but no production code calls it. Acts as a reference implementation for the future paired FE+BE CAPI Linear issue.
+- Rollback: old campaigns (Farm: Testing - Apr 2026, Scale: Winners - Apr 2026) remain paused and intact after the restructure, per never-delete rule.
+
+---
+
+### 2026-04-20 — Nate + Claude — Burned TikTok-style captions on all 6 Aryan videos, swapped creatives
+
+**What:** Transcribed the 6 videos via Deepgram Nova-3, rendered TikTok-style caption PNGs with PIL (Arial Black, white + black stroke + drop shadow, 1-2 words per cue, auto-fit font 48-88pt to 86% of video width), burned them onto the videos with ffmpeg `overlay` filter. Uploaded the 6 captioned mp4s as new AdVideos, created new AdCreatives, swapped each of the 6 staged ads to point at its captioned creative. Old creative_ids preserved in `state.items[].rollback.creative_id` for one-line rollback.
+
+**Files:**
+- `scripts/caption_videos.py` — Deepgram transcribe → brand-normalize → PIL cue PNGs → ffmpeg overlay burn
+- `scripts/swap_to_captioned.py` — upload captioned mp4s + clone creatives + swap ad creatives (idempotent via state JSON)
+- `data/captioned-videos/*.captioned.mp4` — 6 captioned source videos
+- `data/captioned-videos/transcripts.json` — word-level Deepgram output for all 6
+- Updated `data/ads-reports/aryan-stage-2026-04-20.json` with `captioned.{video_id,creative_id,...}` and `rollback.creative_id` per item
+
+**Notes:**
+- Homebrew ffmpeg 8.1 on this Mac is built without libass/freetype, so the `ass` and `subtitles` filters don't exist. Workaround: render each cue as a transparent PNG via PIL, chain ffmpeg `overlay` filters with `enable='between(t,start,end)'` per cue. `-shortest` bounds the looped PNG inputs to video duration.
+- Deepgram hears JotPsych as "Jot Sykes" / "Jot psych" / "Jot's like" / "Jotpsych" — 5 variant patterns in `BRAND_PATTERNS` collapse any match into a single Word with `text="JotPsych"` and merged timestamps. Extensible for future brand-word issues.
+- Font auto-fit: 88pt → 48pt in 2pt steps, stop when stroked bbox < 86% of video width. Prevents word overflow seen on first pass at fixed 88pt on 720px-wide source videos.
+- One transient Meta 500 on first ad swap (UGC_PARKING_LOT_V1); idempotent script resumed on re-run and completed.
+- Rollback: `POST /{ad_id}` with `creative={"creative_id":<rollback.creative_id>}` restores the uncaptioned ad.
+
+---
+
+### 2026-04-20 — Nate + Claude — Staged Aryan's 6 UGC+Wildcard videos in Meta for preview
+
+**What:** Uploaded 6 videos Aryan sent (`~/Downloads/ugc_wild_video_ads (1)`) as PAUSED ads in `Farm: All Value Props Q226` (adset `120245455503860548`). All 6 videos processed, thumbnails auto-selected, creatives built with `object_story_spec.video_data` (page 127683153772433 + IG 17841466259294846), landing = `https://jotpsych.com` with standard `url_tags` pattern. Generated Meta preview iframes in 5 formats (IG Reels/Story/Feed, FB Reels/Feed) and wrote a local HTML viewer.
+
+**Files:**
+- `scripts/stage_aryan_videos.py` — upload → poll-ready → thumbnail → creative → ad; resumable via state JSON
+- `scripts/render_aryan_previews.py` — renders state JSON to side-by-side iframe viewer
+- `data/ads-reports/aryan-stage-2026-04-20.json` — state (ad_ids, creative_ids, video_ids, preview bodies)
+- `data/ads-reports/aryan-stage-2026-04-20.html` — local viewer
+
+**Notes:**
+- One file matcher bug: CSV filenames collapse both spaces AND dots to underscores, but matcher only handled spaces. Fixed by normalizing both sides to `[^a-z0-9]+` tokens. Added resume logic so re-running skips already-staged rows.
+- Ad IDs (all PAUSED): UGC_PARKING_LOT=120245635338640548, UGC_LISTENING=120245635351440548, UGC_HOME_BY_FIVE=120245635361170548, UGC_NEW_HIRE=120245635426150548, WILDCARD_SPEED_DATING=120245635373290548, WILDCARD_LAMP=120245635384520548.
+- Rollback: pause or archive by ad_id; adset itself unchanged.
+
+---
+
 ### 2026-04-06 — Nate + Claude — Full Meta Ads Account Restructure
 
 **What happened:** Complete audit and reorganization of the JotPsych Meta Ads account via the Marketing API. This was the first time the ads engine repo was connected to live Meta infrastructure for programmatic ad management.

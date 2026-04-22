@@ -1,0 +1,32 @@
+[
+  {
+    "status": "paused",
+    "n": 1443,
+    "active": 0
+  },
+  {
+    "status": null,
+    "n": 432,
+    "active": null
+  },
+  {
+    "status": "active",
+    "n": 314,
+    "active": 314
+  },
+  {
+    "status": "trialing",
+    "n": 160,
+    "active": 0
+  },
+  {
+    "status": "canceled",
+    "n": 104,
+    "active": 0
+  },
+  {
+    "status": "past_due",
+    "n": 8,
+    "active": 0
+  }
+]
