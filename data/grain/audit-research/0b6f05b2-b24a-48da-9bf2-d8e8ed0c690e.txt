@@ -1,0 +1,59 @@
+Marcus Irven: Marcus.
+Lee Harrold: That's not his regular headset. Hey, what's happened?
+Marcus Irven: Finally.
+Lee Harrold: Died. Your future. What's up Chris?
+Christopher Hume: Just our super day super day. It was a fun way to end this group like loved Jotzai for telling me how much they love us and how much of what we're doing, how appreciative they were the discount. I was like, oh damn, we shouldn't get the discount, but that's okay. I'm glad it's goodwill. It's part of the trial, part of the trial.
+Marcus Irven: So no, it's been good. It's going to help tip the conversion.
+Christopher Hume: So Marcus, I just know we were kind of talking about staying on top of the front agent and trying to iterate and make it better. So I don't know like what the best use of time or how you want to structure these, but I realized we just need to get them on the calendar. But I can just give you a stream of consciousness feedback. And then we can make changes together. I don't know what's the best way to do it. Okay. So the feedback I received, I think the biggest issue Adam was facing is that it still does the thing where it'll put a bunch of messages. Into the same thread. Which just turns it sort of into Armageddon. You try to figure out what's going on and the front bot has like six dots on it. So dramatic typically like two or three.
+Marcus Irven: Okay, I thought I shut that down, but no, I guess not. No.
+Christopher Hume: Thing. That's one. And then the other thing, so good news is Joya said it's doing a better job not trying to get a meeting for everyone. It's great. I think the concern is that sometimes the product knowledge is just inaccurate. And the example she gave me, I should have done a better job collecting this ahead of time. So I just slacked her briefly like 20 minutes ago. But like the example she gave me is it was under the impression that forms are shareable. By the organizational level.
+Marcus Irven: And so just like little to be fair, we wish that they were.
+Lee Harrold: Even JANSEC employees could think that it's aspirational and it's in its facts.
+Christopher Hume: I'm just joya is actually stellar. I've been very impressed with her. But as we sort of scale this up and just like let them kind of run and like maybe it's someone who's not Joya. Like we're just going to be people are going to start sending stuff out that isn't accurate. And I don't know if this is just like a slow growth thing as we build up that. Becca's tool. Database. Or like, or if we like accept like, hey, sometimes like the human is just going to get it wrong. Too. So like it's okay if the agent gets it wrong.
+Marcus Irven: Let's step back for a second. Is the drafts that it's doing right now? Like helping or hurting.
+Christopher Hume: To be honest, Marcus, I have not been in front like at all this week. So I'm just going off of what joy is.
+Marcus Irven: Like would be better. To keep it like if we weren't going to improve it, let's just say we want to keep it or would we want to shut it off?
+Christopher Hume: I think I would want to keep it. And in what I have done, what I've seen is that the biggest issues come from product knowledge. And it's just like, that's like the thing that like you're going to send something out and it's actually going to cause issues because it will just like be confused about how the product works, give instructions that are wrong. And when we're using a lower cost resources, you see it's customer support folks. Like it's not going to get caught. So I don't know how high fidelity we can make it because like frankly. We're changing things so quickly. I wonder if part of the concern is like we just don't.
+Marcus Irven: Yeah. Honestly, I'm wondering if like product knowledge base at all or used it, but like reading code. It almost like just tell you what it's going to do rather than like. You know, you can figure out the product more than anything. So I wonder if it's more of that.
+Christopher Hume: That would be great because it's going to ground truth, not someone's interpretation truth.
+Lee Harrold: Yeah. Yeah. And then it won't be out of date is the other upshot.
+Marcus Irven: It's not perfect. I mean, because, well, I mean, it's probably not perfect anyway, but like all sort product is complicated in the fact that we have so many feature dates and alternatives
+Christopher Hume: and you, a product is complicated.
+Marcus Irven: If you're, you know, if you're you Chris gets a completely different experience than Lee, but also, you know, Jock can kind of, no, Jack can't really figure that out right now. I think it's hard to improve unless we have specifics. So I wonder if the next step is trying to figure out how to capture.
+Christopher Hume: Yeah, I can just make a tracker for Joya next week. Like every time something's wrong, just tag it here. Be like, this is the link to the email. This is what it said, and this is what's accurate, or this is why I think it's wrong, and just share that with you guys. And at some point next week we can review it together. I think the quick win for next week would be getting it to stop doing duplicative messages.
+Marcus Irven: Can you look at it, Lee? I thought that I did something. So I changed the web of the code is the rights to graph. I thought I'd change it to like look to see if there's already one there. And if so, don't write one. But apparently that's not working.
+Marcus Irven: Honestly, I don't think I tested it. So I don't know if it's a web hook thing that we want to do or on the other end. Probably on the other. On the other end, we're. We're writing it. It just shouldn't write another one. Does that make sense?
+Christopher Hume: Yeah, that makes sense to me.
+Marcus Irven: Does that make sense to you?
+Lee Harrold: Not really. What are we trying to like? It sounds like we think it's like detecting a draft. We would like for it to detect a draft, but it's not.
+Marcus Irven: And now you want to the way that it works, right? Just to back to zoom out for a little bit, right? Is the webhook triggers a job jet will do a bunch of analysis and then go and draft a reply.
+Lee Harrold: Yeah.
+Marcus Irven: I thought that I had changed that last part, the draft reply to like check first to see if there's already a reply. And if so don't write another one. But Chris is saying that's not working. And honestly, I don't think I test really tested. I think I just kind of vibed it.
+Lee Harrold: So. I just sent Rod off to see if he could find that. Oh yeah, merge qvr 52. So yeah, we can either improve that or.
+Marcus Irven: Yeah, it was something that's not working.
+Marcus Irven: So just take that. Take that as a. Okay. And get that to work. And actually. Get it out more than I did.
+Christopher Hume: Yeah. And then and then Marcus, I will do a better job of collecting some of the knowledge base issues so we can specifically see like where the breakdown is. Like instinctively, and this is like all vibe, so we can't take anything from it. I would guess that just like the product, whatever that product repository is. I don't know how that's being updated. I've never looked at it. I'm a lay person, but I just know everything is changing so, so quickly. It's quite hard to believe that. That's completely up to date all the time.
+Marcus Irven: Owning that. So we'll pull her in if we think that that's the issue. But let's start by just collecting some concrete things so that we could like validate the problem.
+Christopher Hume: How's your week, Marcus?
+Marcus Irven: A lot of busy, busy, but it feels good. Good. Good, good, good.
+Christopher Hume: Next week, Marcus, you and me, the traveling band will be in. Brooklyn.
+Marcus Irven: What days are you going to be there again? Tuesday through Friday or Monday through.
+Christopher Hume: I'll be Monday, Wednesday, Friday next week.
+Marcus Irven: My day?
+Christopher Hume: What Monday was the Friday? Oh, no, no, sorry. I'm doing Wednesday, Thursday, Friday.
+Christopher Hume: Because yeah, whoa. Wednesday, Thursday, Friday starting on April 1st. And I think I'm actually just going to stay the weekend.
+Marcus Irven: You coming up with like Tuesday night.
+Christopher Hume: Taking the 5:00 AM on Wednesday morning because I want to maximize time in my bed as opposed to the prison cell in the village.
+Lee Harrold: Yes.
+Marcus Irven: Yeah. Sounds good. I think something that come up Wednesday morning and this week instead of Tuesday. But I don't know. Gotta figure it all out.
+Christopher Hume: You spinning points, few spin inputs.
+Marcus Irven: Yeah. Okay, cool. Other logistic thing is this time isn't going to work for me next week or actually. Going forward. I have a meeting with our new intern on Monday. Wednesday works. But can you just like shift it maybe forward 15 minutes or 30?
+Christopher Hume: And I was thinking, Marcus, it probably doesn't make sense to do a Monday meeting. Just because like we're doing Fridays and then Mondays. So I'll just do Wednesday, Fridays and I'll push it up 15 minutes.
+Marcus Irven: Okay, perfect.
+Christopher Hume: Awesome. And then Leah, I'm going to go. Ahead. I'm going to go grab a water and then we can jump. I'll give you a call and we can sort out this template thing.
+Lee Harrold: Yeah. Yeah.
+Christopher Hume: Although the situation. No, no, this is just finishing up the one we were working on yesterday. I'm like pretty, pretty close, but there's some weird quirks.
+Lee Harrold: Yeah, for sure. We can do that.
+Christopher Hume: Good man. I'll probably in five minutes.
+Lee Harrold: See you soon.
+Marcus Irven: Thanks.

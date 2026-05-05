@@ -1,0 +1,351 @@
+Harry Campbell: Good. How are you?
+Christopher Hume: I'm. I'm doing very well.
+Harry Campbell: Yes.
+Christopher Hume: Nice to meet you. I'm. I'm Chris.
+Harry Campbell: Nice to meet you too.
+Christopher Hume: So I think this is kind of a funny situation where this is a follow up meeting to a meeting last week. But it's completely new people.
+Christopher Hume: So I know my colleague Nate, or my boss Nate met with Denise last week and he kind of put me in to give a more in depth overview of job site this week. But I see, Harry, you're not Denise, so I would love to kind of.
+Harry Campbell: Well, she just asked me to also join because I'm.
+Christopher Hume: Oh, wonderful.
+Harry Campbell: Okay with her. So. Yeah, so I'll just, you know, absorb as much as I can.
+Christopher Hume: Wonderful.
+Harry Campbell: But I expect she'll be on.
+Christopher Hume: Okay, perfect. Perfect.
+Harry Campbell: So I won't ask a bunch of questions to ask you to repeat stuff.
+Harry Campbell: I'll just get what I can.
+Christopher Hume: Well, I, I probably have the most important question for you, Harry. Are you. Is. Are you guys based in Yorktown? Did I see that right? Okay. So my, my cousins are from Yorktown Heights. So I grew up going there every. Every Thanksgiving.
+Harry Campbell: Oh, really? Okay.
+Christopher Hume: Yeah, yeah, yeah.
+Harry Campbell: I'm. I actually, I live in osn, which is, you know, not that.
+Christopher Hume: Yeah, yeah, of course. Yeah. I. For an internship once. I ended up at the wastewater treatment plant in Ossining. Yeah.
+Christopher Hume: Oh, that's so fun.
+Harry Campbell: Exciting.
+Christopher Hume: Yeah, very exciting. Hi, Denise.
+Hygeia: Hi.
+Christopher Hume: So nice to meet you.
+Hygeia: Nice to meet you too.
+Christopher Hume: So I was just introducing myself to Harry. My name is Chris. I work with Nate and he pulled me in just to give sort of a more in depth overview of job site and make sure we had a full time block here to just kind of answer any questions you have and just see if maybe there's a good fit here. So. Yeah. So nice to meet you and looking forward to this conversation.
+Hygeia: Wait, is this the one where we're getting charged for.
+Christopher Hume: No, no, this is just a more in depth demo. An opportunity.
+Hygeia: 450. You get charged for something? I don't know. Do you know anything about that?
+Christopher Hume: Certainly not. You will. For this session, you will not get charged $450. If. If you would like support with some other things, we can. We can talk about 450 charging charges, but not for this meeting.
+Hygeia: Do you understand what he's saying when he's talking about that? You get to try it for.
+Christopher Hume: Yeah. So that is. So let me walk you through our kind of job site pilot, demo or presentation and then we can go through a more in depth review of jot, psych as well. So did you review this presentation last week, Denise?
+Hygeia: Yes.
+Hygeia: Okay, we can go over it again for Harry real quick.
+Christopher Hume: Okay, well, I'll move super, super quickly. So, Harry, since you hadn't seen the presentation before, jetsyc We're a AI engine. Rcm. Note taking to help clinics like yours make sure their notes are up to snuff and that you can maximize the revenue for each encounter. Kind of take that one of many worries kind of off your plate. So we scribe for over 1.8 million encounters across the globe. We're very easy to use. Hopefully, if I can convince one or both of you to sign up for a trial, you can see it really does take less than three minutes to sign up. And what sets us apart from maybe some of the other tribes or kind of rules that I'm sure you're speaking to or will speak to, is that one. We're entirely dedicated to behavioral health. So we eat, drink, sleep, dream about making your lives easier. And we don't think about other modalities. And in addition, what we are doing now is loading both generic payer rules and specific payer rules to your contracts into people's accounts, which makes sure that their notes and their team's notes are fully lined up with contractual requirements. Reduce any sort of audit risk, rejection risks, clawbacks. It's a crazy world we live in where it sounds like those are getting kind of more frequent as some of the payers get these AI tools themselves.
+Hygeia: But we see ourselves as they will. Most definitely, Chris, for Medicare Advantage plans, because the government is not raising the rate next year, they're going to want us to work for less. Right. They're not getting a rate increase, which is why all the insurers that are in that business of Medicare managed care Advantage plans, their stocks went down.
+Christopher Hume: Yeah.
+Hygeia: So we have a fair amount of those clients. And so we want to make sure we're not being audited.
+Christopher Hume: Yeah, no, absolutely. And God forbid there is an audit, you want to make sure you have all the documentation to back it up and tell them, nope, we're good. So, Denise, again, thanks for bearing with me as we maybe go through some repetitive slides here, but job site will let you know why it's structuring the note a certain way. It could be the sources. It'll make recommendations to your providers on if something needs to change. Like, hey, you need to attest that you did this, this, and this. Though that's actually funny. I was on a call last week with a clinician and a. And a practice manager and. Yeah, we're going through some of these and yeah, they changed their EHR template because of some of the recommendation Jon Psych made. It's fun. And then as sort of supervisors or leaders, you'll be able to look at your team and see, oh, it looks like in this case, Dr. Jackson Bierfeld has some notes in there that are pretty low quality. We need to work with him and get those up to make sure that we're not at risk for audit or if there is an audit, that there's no kind of money clawed back. Let me come up for error for a second here. I know I started off kind of moving through this a little quickly for Denise, but Harry, I know some of this is new to you. You have any questions or. Denise, is there anything you'd like me to dive deeper in?
+Harry Campbell: I'm good so far.
+Christopher Hume: Denise, I'm not.
+Christopher Hume: I'll keep chugging along, but if you have any. Any questions, just let me know.
+Hygeia: I. I just. I just really need to know how it works. I would like to jump in. I. I was you from start to finish on like, you know, like. So if we use which. Okay, I saw the practice, so it wasn't my choice to use in sora, which is the.
+Christopher Hume: Yep, okay.
+Hygeia: By kkr, whatever. They bought this platform, which is garbage, but we're stuck with it. So I wanted to know, is there any. Do you have any kind of relationship with them where it could be integrated without having to do too much? Chris, let me just tell you this.
+Hygeia: Yeah, Most of our are old. I'm 60. Like I'm in a row because I was in a pool. I'm in the Caribbean. I was swimming for my break because I bad back. Three. Another psychiatrist, 65. Like have older clinicians that are not great. And I, I don't know how old Harry is, but I think he's up there too. Not as much as us, but I'm getting there. Yeah. So Harry's much more proficient with technology than I am, but we just need it to be easy, like click, click, integrated with the ehr, if it's possible. And that's my whole issue is, is your.
+Christopher Hume: Can you open your EHR in a web browser or is it a downloadable app?
+Hygeia: It's an online one. A downloadable app? Yes, it's a downloadable app. It's on the, it's on the. In the cloud. Right.
+Christopher Hume: So can you, can you open it?
+Harry Campbell: We've been running it from, like, from a PC, I guess, from. You log in.
+Christopher Hume: Do you, do you go like onto Google Chrome and go to the theranest like. Whatever your website is inside, it's a web based. Okay, so perfect. So we have. I'll let you behind the curtain a little bit. We're developing a. Or we have developed a chrome integration that allows a one for most EHRs that are web based, allows a one click transfer from job site into the EHR. I think there's a small add on fee there, but if that's something that you'd like to try during your pilot or we could get set up for you.
+Hygeia: And so what would that do? The one click does what?
+Christopher Hume: It would take all your notes. So let's say your, your team, they have a session and I have job site on during the session. As soon as it's over, job site creates a note for them. They look at the note, it looks good. Hey click and it will put it over into your ehr.
+Hygeia: Okay, so that's based on audio session.
+Christopher Hume: Yes. So what Jot Psych does is you have a session with a client or a patient. Just normal encounter. No need to change anything about the way your team practices. As soon as the session is over, your team presses stop, generate Note. Typically within 20 to 40 seconds, it'll generate a note for them. They can review it and then just port it over into the EHR.
+Hygeia: 20 to 40 seconds. So you, so you need to really wait to see what the note looks like before you need to edit. If you need to edit it to determine if you need to edit it.
+Christopher Hume: Yep. So you can either do that in the moment or like it's not like Jot Psych freezes while it's creating the note. So if you wanted, I don't know, a little before lunch, you do your morning, you can review them all and just port them over.
+Hygeia: Okay. Okay. Okay. So maybe, maybe we should just have Harry try something like.
+Christopher Hume: Yeah, yeah, I love that. So let me. I think, yeah. So we have our testimonials here.
+Hygeia: Divert you from your presentation.
+Christopher Hume: No, no, no, no.
+Hygeia: The presentation is for you guys to do that.
+Christopher Hume: No, I just wanted to answer your question, denise, about the 4, the 400, 499 thing. So that is for, if you want four weeks, unlimited access for all of your teams. Benefit of that is we create custom templates for you. And the even better benefit is that you get in person training. So that means for any of your maybe less tech savvy teammates, I'd be there to hold their hand in person. And I'd also bring lunch.
+Hygeia: Right. Mostly everybody's remote, but okay for lunch.
+Christopher Hume: I was telling Harry. I was telling Harry, I. My cousins are from Yorktown Heights, so I was very excited when I saw where you were based. Yeah, yeah, yeah.
+Hygeia: Oh, my goodness.
+Christopher Hume: Yeah. Right.
+Christopher Hume: Well, where are you now? Our company is based in Washington D.C. so we. We have. I'm in D.C. and some of the team is based up in. Out of our Brooklyn office as well.
+Hygeia: Okay.
+Christopher Hume: Okay, let me pause for a moment here. I feel like I wanted to get Harry up to speed while being respectful of your time. Denise, I've been moving at a million miles a minute here. Any questions or what would be the most useful use of the next 45 minutes? And then what is a good outcome for coming out of this meeting just so I can make sure we're respectful of your Caribbean time?
+Hygeia: What do you think? Just knowing how to do it?
+Christopher Hume: Yeah.
+Harry Campbell: Yeah, I guess. I don't know what. As far as demo what you did last time, but, you know, if there's. If you could do some what. Of how you would actually use it, what could be.
+Christopher Hume: What could be really fun, Harry, is we could get you set up with a free trial. No credit card, nothing like that. And I could be a. A pretend patient for you and you could see it for yourself. Would you like to try that? Or. Or.
+Hygeia: Yeah, why don't you do that, Harry? I did it last time with his boss.
+Harry Campbell: Okay. All right.
+Christopher Hume: And you can. You can hold me accountable to my 3 minute sign up. Promise. So if you go to jotpsych.com there's a button in the top right hand corner that says start trial.
+Harry Campbell: Let's see, While Harry's getting started, you said.
+Christopher Hume: Yep, start trial on the top right. And then it should take you to a screen that asks you to put in your email and a password. Then I think I'll ask you, like, your name, your phone number, maybe. Your specialty.
+Harry Campbell: Okay. And then the consents. I need to do those. Yep. Okay. Okay. We have basic settings. The subject, patient or. Okay. And then history. Just do next.
+Christopher Hume: I think so. Yep. After you choose the language and if you use client or patient.
+Harry Campbell: Okay. All right. And then I have record an encounter.
+Christopher Hume: Perfect.
+Harry Campbell: Okay. So what am I doing now?
+Christopher Hume: Do you actually want to share your screen? Harry, it might just be helpful to make sure this first one we get everything sorted out.
+Harry Campbell: Sure. Let me see if I can figure out how to do that.
+Christopher Hume: I joke all the time that Google Meet is not share screen.
+Harry Campbell: Okay, I guess this is it.
+Christopher Hume: Perfect.
+Harry Campbell: Okay.
+Christopher Hume: Yep. You can press record your first encounter.
+Harry Campbell: Okay.
+Christopher Hume: Yeah. And then you can skip the tutorial. You've got me. Even better.
+Harry Campbell: Okay.
+Christopher Hume: Then on the left hand side you'll see you can select your client.
+Harry Campbell: They just type in or just select the name.
+Christopher Hume: You want to be out for an Apple seed.
+Harry Campbell: Yeah.
+Christopher Hume: Keeps it easy.
+Christopher Hume: And then you can select your session type. I'm not sure if this you. Your team typically does soap notes to the left and up a little bit.
+Harry Campbell: Okay.
+Christopher Hume: Yep. So if you click on that and then click again. We have some pre built, but we can. You can add anything you'd like as well.
+Harry Campbell: Okay.
+Christopher Hume: Then just on the right hand side, you press start recording. Then it will ask for access to your microphone because this is your first time gonna say yes.
+Harry Campbell: Okay.
+Christopher Hume: Well, Harry, thanks for.
+Christopher Hume: Thanks for seeing me today. I really appreciate it.
+Harry Campbell: You're welcome. So what are you here for today?
+Christopher Hume: I've been struggling with anxiety. Typically, my anxiety is about a 4 out of 10, but over the past couple weeks, it's been closer to a nine out of ten. And Harry, just. You want to press the stop button? It looks like it's not capturing our audio.
+Christopher Hume: Let's see what's going on here.
+Harry Campbell: Okay, Stop. All right. Do I go to settings?
+Christopher Hume: Yeah. Could you press settings? Yeah. Let's see which one it was.
+Harry Campbell: Okay, let's try this.
+Christopher Hume: Let's try it.
+Harry Campbell: Try again.
+Christopher Hume: Yep, let's try again. Hey, Harry, thanks so much for seeing me today. I. I appreciate it. I've been with anxiety recently.
+Harry Campbell: All right. And can you tell me a little bit more about your anxiety symptoms?
+Christopher Hume: Yeah. Over the past two or three weeks, my anxiety has been about a 9 out of 10. Typically, I'm about a 4 out of 10. It's impacting my ability to eat, my ability to sleep. I'm only sleeping about four hours a night, so I was just. It seems like my Lexapro isn't working anymore. I was just hoping that you could offer some guidance.
+Harry Campbell: Okay, and how many hours had you been sleeping usually before that?
+Christopher Hume: Typically, I'm a great sleeper. I sleep about eight hours a night. And. Yeah, so I'm like a zombie, only sleeping four hours a day.
+Harry Campbell: All right, so you must be pretty tired during the day.
+Hygeia: That's for sure.
+Christopher Hume: I end up tired at night.
+Harry Campbell: Okay, and is there anything that you can think of that's changed recently that might be related to the increase in your symptom?
+Christopher Hume: Well, I recently moved down to Norfolk, Virginia, so I don't really have a social network down here anymore, and I just haven't been able to get acclimated. And then within a week of the move, my childhood dog died, which just kind of really bummed me out.
+Harry Campbell: Oh, wow. That can be tough. That can. Yeah, that can definitely be something that can change your mood and take a lot, take a while to deal with.
+Christopher Hume: That's probably enough to show you how it works. So if you push the stop.
+Harry Campbell: Okay.
+Christopher Hume: Just while we're doing the demo, You can. So you can have as many recordings as you'd like, associate with the session. And you can also type notes in the additional notes button as well box, but then just press Generate note.
+Harry Campbell: Okay, what would be the reason for, say, for later? Just going back to back sessions. And you just want to do it all at once.
+Christopher Hume: Back to back sessions. And if you're like, oh, I want to add my kind of insights here, but I don't have time before the next patient. You could save for later.
+Harry Campbell: Okay.
+Christopher Hume: Denise, I know we've been getting kind of hairy up and running, but would love. Do you have any questions about kind of what, how we're walking through this or your experience last time now?
+Hygeia: I was just googling your background. So my one son had two sons that went to Fordham Prep. One went to listen to this. One went to Cornell for a year, majored in business. I wanted him to go there. He said, mom, I went to Catholic school all my life. I always wanted to go to Notre Dame. No way. No, seriously. They wanted him, and they took him. But unfortunately, my son did. One semester, I stayed in that beautiful hotel. There's no food. No food to be found, Harry. That. That was not the place for me. I had to go somewhere in town to find food. But this. No. My other son majored in industrial engineering and was in Purdue. So listen to me. I had two kids in Indiana.
+Hygeia: Why the heck me? Born in the Bronx. No, born in Harlem, raised in the Bronx. How do I have two kids in Indiana? Anyway, I was just trying to make a connection with Chris because I was looking at his background. He has the same industrial. He has the same engineering. Well, similar to my older son. And my other son went to Notre Dame for a semester, but then, unfortunately, we found out he was bipolar, and we took him out, and now he's studying neuroscience in Binghamton. Soon he's Binghamton because, you know, I. I needed to keep him close to home. Anyway, so back to what we're here to talk about really was just trying to make a connection. Where'd you go to high school?
+Christopher Hume: I just went to Wilton High in. In Connecticut. But my. My cousin went to Fordham, which is funny. He was class of 2017. 2013. Class of 2013 in high school.
+Hygeia: Okay. Okay. So the older than my kids.
+Hygeia: Yeah, because one is 27, the other one's 24. They both went to Fordham prep.
+Christopher Hume: Okay.
+Hygeia: Anyway, that was a nice school for them. I'm good. Do you have any questions? I mean, did you.
+Harry Campbell: Well, so I guess it did. The note now just looking at.
+Christopher Hume: So, Harry, on the right hand side, where it says AI Node Assistant, you can just say, like, hey. Subjective is too long. Make it shorter.
+Christopher Hume: I like the subjective to be a narrative paragraph.
+Christopher Hume: And it'll just make those changes for you.
+Harry Campbell: Okay.
+Christopher Hume: And you can train it to remember those.
+Harry Campbell: Okay.
+Christopher Hume: And then if you see that audit button in the. Top right.
+Harry Campbell: Top right. Okay.
+Christopher Hume: That's the feature we were referring to.
+Harry Campbell: So this would be like stuff that would be related to possible trigger for audit.
+Christopher Hume: Yep, exactly. So it'll do a review for you and be like, hey, it looks like the CPT code that you chose isn't in line with kind of our analysis.
+Hygeia: Looks like you're missing this. It's not 53 minutes.
+Christopher Hume: It is not.
+Hygeia: Yeah. I want to look at your guidelines and where it comes from, because there's some places have slightly different guidelines for time.
+Christopher Hume: Oh, yeah.
+Hygeia: So like I, you know, I like to be the. I like to be the most, the least generous. So like, if it's an, you know, if the site code is 99213, if I can get away with 16 minutes, I would like that incorporated. So a custom template I think would be good for.
+Christopher Hume: We have standard rules built in, but the whole goal of the JWT audit feature is that the rules are custom to your clinic. Harry. I'm sorry, I'm having you jump around Jot Psych.
+Christopher Hume: No, to the. The billing and Auditing tab in the top middle of your screen and go to John Audit.
+Christopher Hume: Oh, oh, so we need to turn that on for your account. I guess I'll show you online.
+Harry Campbell: Okay.
+Christopher Hume: So with Jot Psych, you can. Yeah, you can create your own rules, Denise. So if you're like, hey, I just don't want to be. I want to be very, very conservative or very aggressive. You can tell Jot Psych and then that will be integrated into your notes.
+Hygeia: Okay. Okay. Because I know the standards. You know, if you look, it's like different places at different times. This is one of the things we get caught on is the time. Um, Got it. But let me ask you another question. You can't. So if, if the client was scheduled for 45 minute session and the client has to run out or is done at 40 minutes and. Harry. The session in 40 minutes and doesn't do the 45 minutes. Can we make the note still continue for the time?
+Christopher Hume: Yeah, you can adjust, you can adjust the time afterward if you need to. It's not locked in stone. You have the ability to add a start and end times as required.
+Hygeia: All right. Because that happens a lot. Like maybe somebody's supposed to start at 2 o', clock, you know, they're 15 minutes late. We don't give them an extra 15 minutes. We end when we, when we're scheduled to end. And then the session should be a fort billed as a 45 minute session. Because if it's billed as a 30 minute session, then that's a whole nother code, right?
+Christopher Hume: Yep. So you can just click up here and go. The start time is actually 45.
+Hygeia: Okay. I have a question about signing notes.
+Christopher Hume: Yep.
+Hygeia: So if he signed the note, so he's an intern, so he signs the note and he needs a supervisor to sign the note, is there a place where the supervisor can review the note and then once the supervisor is happy with the note, they sign it.
+Christopher Hume: So since you're not using this as your ehr, at least not right away, Harry actually doesn't have to sign his notes in jot psych. But if you would like a supervisor to review them. Yes, supervisors can review notes. They have access to all notes. I'll have to review. I'm sorry, off the top of my head, I don't know if a supervisor can certainly. Can he or she can certainly look at Harry's notes and then be like, yep, they're good, but I need to see if they can actually go in there and sign them for Harry.
+Hygeia: So wait a minute. So, okay, so that's a good point. So, so Harry doesn't know, he doesn't sign the note. Then it goes to Fairness or Ensora and then it gets printed from their platform.
+Hygeia: If we have to send a note, if we have to medical records, what's the final, where which platform is doing the final printing and the signing, the time and the signature of the note to send to like Medicare.
+Christopher Hume: Well, that's, that's up to you. We'd love if you use job psych as your EHR and your biller and all that. But we do understand it's typically a long transition when you want to say, change any of that technology. So people who already have EHRs and aren't ready to immediately change them typically use us for the notes for the audit check and then they copy and paste it into their ehr or use our, our one click Chrome extension to populate it in the ehr and then they sign it in there.
+Hygeia: So I'd be interested in a 1:1 click and I don't like. That seems like it's a little most. No.
+Christopher Hume: So how we make it as easy as possible. So it's just a button up here where you press copy all sections. But we could get you up and running with our one click and it will just throw it into theranest for you. So that shouldn't be a problem.
+Hygeia: Okay, let me just answer another question. So we spent a lot of time Boston spend a lot of time doing a format of how they wanted the record note to look like. It's obviously different for a therapist versus psychiatry.
+Hygeia: Is there any way to make this note look like the template of theraness so that when you're copying and pasting, it's this consistent exactly the same?
+Christopher Hume: Absolutely. So there's two options here, Denise. So if you go with the four week pilot trial, we'll just generate. We'll just do two custom templates for you so you don't even have to think about it. You send us what they're supposed to look like, we handle it. You also can anyone on your team can generate those down here. So you go documentation templates. You can upload an existing template. It'll turn it into a job site template. You can build it in jot psych. So we can make sure that whatever your team is comfortable with, they're allowed to keep using and then you can actually share it with your entire organization. So everyone is using the same templates and no one is going rogue, for lack of a better term there. And everyone's notes are the same quality.
+Hygeia: So I think the setup would be really important. Like if we get everything on the front end and make it as clean and user friendly for all the clinicians, I'd feel more comfortable. I don't want them like, you know, in the way. Yeah.
+Hygeia: You know, having different things because there's different. Sometimes there can be different practitioners treating the same patient. I don't want no inconsistency or format. So yeah, I would want to spend a lot of time up front and getting it done. Customized as best we can. And about using your ehr, I mean, well, you know how difficult this is like about this would be my like 5th ehr. It's a nightmare as you click.
+Christopher Hume: Oh, and you're not the only one who says that. So you're not alone. No. So that's why we try and make it as easy as possible to use this with your ehr. And then whenever you've had enough with your ehr and you hopefully, as I'm sure you will really love us, we can help you with that transition and the data transition over, but we certainly don't expect right when people start using us to use this as a full ehr, that's a big change all at once.
+Hygeia: You separate your parts. Like, you don't. We don't have to use you for billing, but we can use you for scheduling and.
+Christopher Hume: Yeah, I mean, yeah, you don't have to use this for billing, though. You can, but you don't have to. Yeah. So we have the describe, we have scheduling. You can use this for forms. We are rolling out our E prescription feature as well. So, no, it's kind of an a la carte setup where, however, we can be sort of the most use or the best value for you. That's how you can use us.
+Hygeia: Okay, so that's a good point because we wouldn't. There was one time where we used one platform for the notes and billing, but usually companies like yours aren't great with the billing. Then we had. The psychiatrist had to use what's commonly used one out in San Francisco for the E prescribing dose spot. No, it's very common. It's very popular. Anyway, so. And they didn't like the jumping around. So the platform we have now, they can e. Prescribe on the platform.
+Christopher Hume: Wonderful.
+Hygeia: Wait for you to, you know, we wouldn't do. I just want to use you for the scribe. We wouldn't use you for.
+Christopher Hume: Well, that then. Yeah, that's perfect. And so what I think would make sense, Denise, is I'm not sure if you have a Maybe some champions that you want to try us out or if you want everyone to try us out, but maybe do that.
+Hygeia: I mean, I think. I think Harry should try it out. Harry, I'm going to give you some. Not too many, but I do want to give you some clients. Is that okay? Like two or three, just so that you can get comfortable. Because, Harry, you're a good trainer. I mean, I know they train, but if somebody had a question, I know you would be able to help them or help me help them. Does that make.
+Harry Campbell: Okay, that would be slow.
+Hygeia: Okay. Okay. I mean, that's about, you know. Yeah. I have to go over the cost again. I sold the practice. I. I'm not, you know, I really, really need to run it by the new owner, if he's okay with the, the fees.
+Christopher Hume: Yep.
+Hygeia: And so Fusion, that was it. I was bothering me.
+Christopher Hume: Practice Fusion. Yep.
+Hygeia: So. But that we don't like. So we wanted to do everything all in one, but you're not there yet. Do you know how long it's going to take for you to get there? Prescribe. On this platform.
+Christopher Hume: Oh, we actually just rolled out E Prescribe. So if that's something, if, you know, Harry tries us out, I'm sure if and when Harry loves us. If you'd like to transition over, we have E Prescribe, we have billing, we have scheduling. You certainly can use us in that way. We just. People typically start off with the AI scribe, get familiar with the platform and then come over.
+Hygeia: Okay, so you're going to give him a free trial.
+Christopher Hume: Yeah. So would that be the kind of best way to proceed? Happy to do a two week free trial with Harry and then go from there. The only thing I would flag is that the paid month does include two custom templates for you. So I know that might sort of set us up for success if any of your other colleagues are going to use us. But I'll certainly defer to you kind of Denise and Harry on what's the best path ahead.
+Hygeia: I don't, I don't know that yet. So there's a problem. I interviewed Nudge. Nudge, One of your competitors.
+Christopher Hume: Yep.
+Hygeia: You've heard of them? Correct. So who are the largest people? Because your, your came up. Nudge came up for the largest players in this category.
+Christopher Hume: I only know about Drotnik. No, there's, there's Freed is a, is a competitor. There's Nabla and Heidi are some of the other ones that we hear a lot.
+Hygeia: Have you ever heard of Nudge?
+Christopher Hume: I. The only reason I've heard of Nudge is because when you look up Jot Psych, sometimes they have a, a link that says Nudge versus Jot Psych. So I'm familiar with their ads. I'm actually not very familiar with their application.
+Hygeia: Okay. Who's the largest, though? Who's the most advanced? Who's been around the longest?
+Christopher Hume: You know, who's the largest? It would. Prof. Most of these scribes do more than behavioral health. Someone like Freed is quite large because they do all, they do all kind of medical practices they do, like from podiatry to psychiatry. So they have a huge, huge customer base while we're a little smaller because we just do behavioral health.
+Hygeia: Okay. Okay. Do you do substance abuse? Okay.
+Christopher Hume: Yep. Substance use. Yeah.
+Hygeia: Okay. And so another question. What time do we have? Okay. Just a few minutes. So what I told your boss, Nathan, was that the new owner is aggressively pursuing. It's called an Article 31 mental health clinic for New York, or actually it was the headquartered in Yorktown and it would be a satellite for lower Putnam county and, you know, East. West, like Peekskill south, down Somers, maybe even down to White Plains. So it would be a big.
+Hygeia: It would be a mental health clinic providing support for children, adolescents, adults, primarily in psychiatry, but comorbidly also providing services for people who have mental health issues. So it could really be pretty big. So what I'm not familiar with, since I always did private practice, is how Medicaid audits are. This is one of the reasons why I'm looking at this. Because we need to know if this platform understands New York State Medicaid audit guidelines. Because that. This is a whole new animal. Because when that comes in, Harry, I'm gone. Because it's a lot of documentation. I mean, I'm too old for this anyway. I'm moving to Switzerland. I told you that. So I'm going.
+Hygeia: Oh, gosh, I'm out of here. But no, seriously, the Medicaid guidelines and audits are serious. It's worse than that. So do you think that someone on your team could study that and make this platform, customize it so it is workable for our practice to do Medicaid audits and pass on the first go?
+Christopher Hume: Yeah. That is the whole reason we developed JOT audit is our team will study it, but more excitingly, the AI our team has developed will study it. So as long as we can get those Medicaid contracts, we will feed those through our. Our tools Medicaid.
+Hygeia: So a lot of what I see you have are commercial or Medicaid managed cares like the Aetna, but this is like straight government New York State Medicaid guidelines. I don't know if you guys are good in that area. Like, I didn't see the picture or anything related to Medicaid.
+Christopher Hume: We, if there's a con, if there's a contract, we can, we can learn it. And so we can develop the rules and we'll study them both with human intelligence and artificial intelligence to make sure that your notes are as protected as possible. I can. Yeah, it's something that I'm very, very confident that we can deliver.
+Hygeia: Okay. Do you have any other Article 31 programs in New York State that's using this?
+Christopher Hume: I'll have to check. I'm not sure if we have any customers who are Article 31, but I'll have to double check that.
+Christopher Hume: Top of my head.
+Hygeia: I'm not sure that would be important that you went through that learning curve.
+Hygeia: Yep, it sounds good. Maybe a little too early because I don't want to transition is going to be tough moving from a private practice private. Practice to a Medicaid clinic.
+Hygeia: It's a whole another.
+Christopher Hume: Well, we're here to help so we can make sure. Harry, we're here to help you right now over the next few weeks, and then. Yeah, Denise, whenever it makes sense, we would love to kind of load up all those rules, really tighten them down to your use case, as I was telling Harry would love to do. If we go with one of the longer pilot programs, I'd love to come up and do an in person training or any of that. So any way that we can hope would be. Yeah, a lot of fun.
+Hygeia: Well, it's only because you went to Notre Dame and I went to Fordham, so, you know, you're good. You're good in my book. You don't have to worry about that.
+Christopher Hume: I didn't want to jump to this too soon, but. So you. You said you were born in Harlem, moved to the Bronx. My mom was born in the Bronx and then moved to Yonkers. So we're like. Yeah, very similar.
+Hygeia: I know your background. My kid's father is Irish and he grew up in Pelham, so.
+Christopher Hume: Okay.
+Hygeia: Anyway. Harry's laughing.
+Christopher Hume: How do you know I was Irish? Yeah. What gave it away? I.
+Hygeia: I almost thought you went to board and prep. Actually, you look like a. I fit them all. Ah, we fit them all at the mold. Yeah. Okay. So. So back to the. The pilot thing. Free one. Just something for Harry. Could Harry get one?
+Christopher Hume: Oh, of course. Yeah. Yeah. So I'll.
+Hygeia: Can I get one, too?
+Christopher Hume: Yeah, of course. We'll just put. Do you have an account yet, Denise?
+Hygeia: No. You mean I count with you? No, I don't. I don't. Or maybe I did because I did a test.
+Christopher Hume: I can. I can check for you.
+Harry Campbell: There's a time. There's an amount of time that this is going to be for, right?
+Christopher Hume: Yep. The. The. The free pilot is two weeks. And then after that, we could talk about, do you want to go to a plan? Do you want to do a bigger pilot? Whatever works for you.
+Harry Campbell: The question I was going to have, Denise, is it should I. Should I. Should this start after I'm back? Because I'm gonna be away?
+Hygeia: Yes, good point. We should have a start day when you get back. We should both pour and start at the same time. I am embarrassed to say. Nooch gave me a free pile, and I never even. I just got so busy. I've just never even stopped to do it. But, yeah, we should do it. When. When do you get back?
+Harry Campbell: I am traveling on the 23rd, so I'll be back on the 24th.
+Hygeia: So you want to just do it, like, March 1st? And the reason why I say this is because I have to figure out who I'm going to assign you.
+Harry Campbell: That's fine with me.
+Hygeia: That till you get back?
+Harry Campbell: Yeah. I mean, I'm back on the 24th, so March 1st is fine with me. I just didn't want to have it start now, and I'm away for a week.
+Hygeia: No, you're right. You're right about that. I mean, I could start mine now and you could do it when you get back. Probably is. Okay. Well, you know, I'm just so lazy just trying to transition. But anyway, we'll try. So I don't know if I have an account I.
+Christopher Hume: Let me here. Which email would it be under, Denise?
+Hygeia: Probably H Y I Health Gmail. H for Hygiene, Integrated Health. H Y I N Health at Gmail.
+Christopher Hume: It doesn't look like you have an account yet.
+Hygeia: Okay, so how do you set that up?
+Christopher Hume: So you just go to jot psych.com and in the top right hand corner it'll say start, start, trial.
+Hygeia: But Harry has one.
+Christopher Hume: Harry has one? Yep.
+Hygeia: So now from what I did
+Harry Campbell: today, is that starting it and messing up the time or.
+Christopher Hume: No, no, don't. I will. I was going to ask Harry if it would work to maybe do a check in on the first. And I'll reset everything and do the full two weeks. You're gonna go on vacation? Hopefully you don't remember your meetings. We can give you a refresher.
+Harry Campbell: I wish it was vacation.
+Christopher Hume: Oh, is it not vacation? Oh, no. So I guess Denise, while you're signing up there, Harry would. The first is a Sunday, so certainly don't want to meet. Then would maybe 2pm on the second work for a the refresh kickoff?
+Christopher Hume: You said 2pm 2pm but I'm free all afternoon. So if another time's better.
+Harry Campbell: Yeah, probably. For me, 1pm would be better.
+Christopher Hume: Yeah, perfect.
+Hygeia: Wait a minute. Something's wrong. I can't. I'm sorry to interrupt, but I.
+Hygeia: Oh no, no. Site doesn't support a secure connection. You know, because I'm out of the country and I'm not using a vpn.
+Christopher Hume: Could you share your screen?
+Hygeia: It might be coming soon. Why is this saying coming soon? A new website is in the works. No, this is not right.
+Christopher Hume: Let me send you the link.
+Hygeia: Denise Jobs job. Psych.com.
+Christopher Hume: jOT psych. J O T E S Y C H.
+Christopher Hume: That's why I'd be nervous there.
+Hygeia: I know some websites I can't when I'm out of the country. If I'm not using a vpn, I can't log in because I'm in another country. They the wolves are so firewalls are so good. Okay, so here we go.
+Hygeia: Okay, putting me in with some. I'm going to use Sock Connect. Well, maybe I should not have to use the one I saved. I need to use the same email I use for the ehr. Right.
+Christopher Hume: You can use any email that actually doesn't matter. But just once you set the email, our security doesn't. Allow us to change the email. So just flagging that for you.
+Hygeia: Oh, that's important.
+Christopher Hume: Eri for our check in on the second is your email hcciarizon.net?
+Harry Campbell: yeah, that's fine.
+Christopher Hume: Perfect.
+Hygeia: Wait. Log into your account? Wait, why? Actually, the password wouldn't work.
+Hygeia: All right, let's see if this works. So I'm going to fill out all this information. Getting started. Get started.
+Christopher Hume: Right. Yep.
+Hygeia: Ok. Yes. Specialty. What's the difference between a therapist and a social worker? Therapist. Okay. How are your progress? You reached out to me. Who started this company? Was it Nathan?
+Christopher Hume: Yep. Nate. And so he's our CEO and then our CTO is Jackson.
+Harry Campbell: They.
+Christopher Hume: They went to UChicago together.
+Hygeia: I went to Northwestern. Active Fordham. What does this mean?
+Christopher Hume: No referral code. I'll just make sure you get the extended trial.
+Hygeia: Okay, great.
+Christopher Hume: Northwestern is beautiful. I.
+Christopher Hume: Beautiful, beautiful campus.
+Hygeia: Yeah. You were gonna go there.
+Christopher Hume: I. I was lying. I. No, but I toured there and my mom made me go tour Notre Dame when we were out at Northwestern. So that's how I ended up at Notre Dame, thanks to Northwestern. I think we lost you, Denise. Denise, I think we. We lost you.
+Harry Campbell: Can't hear your sound.
+Christopher Hume: Are you talking to Denise, Harry?
+Harry Campbell: Yeah.
+Christopher Hume: Okay. I want to make sure it wasn't mine that left. Oh, I don't think we can hear you, Denise.
+Hygeia: Can you hear me now?
+Christopher Hume: There we go.
+Hygeia: All right. My iPhone was connected to it, so when I get the code, put the code in.
+Christopher Hume: It's me all the time.
+Hygeia: Welcome, Denise. Folks, welcome. Ten days left in your free trial.
+Christopher Hume: I'll extend that out to the 14. Don't tell Nate, but we can also just reset you when we kick off, Harry, if you need a little more time. Not really. I'm not going to be a stickler about that.
+Harry Campbell: I think you might have heard.
+Hygeia: I'm sorry?
+Harry Campbell: No, I said I think he might have heard you.
+Hygeia: Nathan's interesting. I had to Google his last name, so I'm in Curacao. Curacao is a Dutch island. And he had such an interesting. And I didn't realize. Oh, my God. That's a Dutch name.
+Christopher Hume: Oh, yeah, it is a Dutch name.
+Hygeia: Full of all of this unnecessary stuff that I do. Okay.
+Harry Campbell: Oh, my gosh.
+Christopher Hume: That. You're right. He's told me about his Dutch grandparents before.
+Hygeia: That's so very, very Dutch name. And it's a Dutch island. I hear Dutch all the time. And I'm like, oh, God, don't tell him I said it. But I don't know.
+Christopher Hume: No, no.
+Hygeia: All right, I'm. I'm done. Wonderful. Harry, you're good?
+Harry Campbell: I'm good.
+Christopher Hume: Okay.
+Hygeia: Yeah.
+Christopher Hume: And Denise does. I added you to, like, the. The pilot re kickoff for March 2, but it at 1pm
+Hygeia: okay, let me look at my calendar.
+Christopher Hume: Yeah. But if another time would work better for you.
+Hygeia: Oh, so you set up that time. Okay, let me see. March 2nd.
+Christopher Hume: Yep. Because worked for Harry.
+Hygeia: March 2nd, 1pm May need to adjust that a little bit.
+Harry Campbell: Yeah.
+Harry Campbell: If there's another time that works for both of us.
+Hygeia: Oh, March 2nd is a Monday. I don't work on Monday. A day off.
+Christopher Hume: Would the third work better for you guys?
+Christopher Hume: I don't have a single meeting on the third, so I can connect whenever fits your calendar.
+Hygeia: Does the third work for you, Harry?
+Harry Campbell: Yeah, I have a. I have a one o' clock meeting, so. Before or after five?
+Hygeia: Is that too early?
+Harry Campbell: 11:35 is okay for me.
+Hygeia: 11:45.
+Harry Campbell: 11:45 is okay for me.
+Hygeia: Okay. Why don't you. Could you do. Okay.
+Christopher Hume: Just adjusted it.
+Hygeia: All right. And that's for how long? Just be 30 minutes.
+Christopher Hume: Yep. And then, you know, if you guys have a blast using jets like this week and you want to add some more providers, they're welcome as well. But we'll plan on it being the three of us, and then we can go from there.
+Hygeia: Okay. Okay. I just hope I know if I use it that I know how to put the note. Harry, you can show me how to do how to put the note into the ehr, right?
+Harry Campbell: I'm not sure yet. I haven't, you know, have to play with it.
+Christopher Hume: Right. Now you're set up with the copy paste. I'll show you how that works. So you just push this copy all sections button, and then you can paste it in your ehr. Or if you have multiple sections or multiple, like, boxes in your ehr, you can copy a few at a time. But I can make sure that I have an engineer take a look at theranest for that one click integration and be ready to discuss that during the March 3rd.
+Hygeia: Okay. It may be a little different. I may send you a screenshot because we had it customized.
+Christopher Hume: Okay.
+Hygeia: Yeah, it's not the standard platform, but okay. Sounds like a plan.
+Christopher Hume: Wonderful.
+Christopher Hume: Well, I hope, Denise, this is your only business meeting in curacao. Hope you get to enjoy some time.
+Hygeia: I'm going back in the pool right now.
+Christopher Hume: Okay, well, good. Good. I'll. I'll follow up with my email and my calendar. So if either of you need anything before the third, don't hesitate to reach out.
+Harry Campbell: All right. Thank you, Nathan.
+Hygeia: We don't talk to him anymore. I'll just talk to you. I like you better.
+Christopher Hume: You got me.
+Christopher Hume: Yeah, I'm lucky. I'll get to go up to Yorktown.
+Hygeia: There you go.
+Christopher Hume: Yeah. So nice to meet you both. Have a great day.
+Harry Campbell: Bye.
+Hygeia: Bye. Bye.
+Christopher Hume: Bye.

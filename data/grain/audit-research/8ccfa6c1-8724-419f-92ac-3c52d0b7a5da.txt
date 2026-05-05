@@ -1,0 +1,90 @@
+Jack Waugh: Hi Sue, how are you?
+Susan Robinson: I'm good.
+Jack Waugh: How about yourself?
+Susan Robinson: Thanks for being flexible.
+Jack Waugh: Oh yeah, no problem. I'm glad we worked out the timing. I know it's always chaotic this time of year tax season is just brutal. For schedule. So I'm glad we got a chance to talk face to face. And yeah, well, just kind of wanted to find out. So you maybe heard about us over Facebook or Instagram at first or was Facebook. Cool. Awesome. Yeah. So what sort of needs do you have for your practice right now? And I can kind of like walk through what solutions we might be able to help you with.
+Susan Robinson: Everyone, every practitioner's dream is to not spend so long on documentation. So having like an AI feature recording that would help collect. And devise my soap note would be helpful.
+Jack Waugh: Okay. Cool. Are you working mostly from soap notes? Are you working from other formats? Too?
+Susan Robinson: Mostly soap notes?
+Jack Waugh: Yeah. Okay awesome. Yeah that's something we definitely do. We have a template for that in JSIC already. And then like how much time would you say like in a given week are you spending like on your note taking and charting? After all said and done?
+Susan Robinson: It's hours and hours.
+Jack Waugh: Yeah. I know the struggle. This is something we hear all the time.
+Jack Waugh: It's actually why we started Jot Psych on average we're normally able to help people save anywhere from five to eight hours a week. I've heard more from people people told me 10 hours so I'll kind of show you how it works in just a second I'll get you set up with a trial so you can kind of follow along as I share my screen and we can kind of walk through how it works. But okay so time saved is like that's the number one thing. I imagine having like a very accurate scribe that's actually catching things. Okay cool and is there anything else you were hoping Jot Psych would be able to do even if you think it's a reach because I want to make sure I show you anything that could be relevant to you.
+Susan Robinson: Would it be able to. How does it maybe sink into an EMR? Is that something are there certain EMRs that it'll sync to
+Jack Waugh: yeah, so we are first of all we do work alongside EMRs pretty smoothly. It's typically you know a couple things we do sync with certain EMR so I can if you give me the name of yours I can tell you if we. Integrate with it. Oh hey Sue sorry I think I lost you for a second can you hear me okay?
+Susan Robinson: Yeah, I can hear you.
+Jack Waugh: Yeah so what's the EMR you're using?
+Susan Robinson: Right now I'm in using headways EMR headwind gotcha I'm not opposed to if there's another one that you know like I know simple practice a lot of people use or you know there's others but I don't know if there's one that's better.
+Jack Waugh: For that yeah well just so you know what you can also do yeah we do work alongside them we integrate with some of them as well but what you can also do is you actually can use jot psych as your EMR as well and the way that works like we have a separate thing if you're doing like e prescribe on stuff like that like you'd have to let me know what features you need specifically. But if you're doing like e prescribe and those kind of things we have it set up for that and we also have like billing and different things like that I can walk you through to see if it's helpful okay why don't I take a second just to first help you get set up with your trial account. So are you on the Jot psych website right now no I can be though okay yeah if you want to go there first. And also what does your time frame look like? Today are you do you have like. 20 25 minutes or so or you pretty crunched for time?
+Susan Robinson: Kind of crunch for time? Okay see.
+Jack Waugh: D.com yeah so you just go to jotsec.com and there should be a little like button that says create a create a trial account there right for free yep.
+Susan Robinson: Okay.
+Jack Waugh: How many patients are you seeing right now approximately.
+Susan Robinson: Just a handful a week okay.
+Jack Waugh: Gotcha.
+Susan Robinson: But it will get busier. Taking on another responsibility so that's why I thought I better get a handle on it now.
+Susan Robinson: Okay that makes sense yeah to log in but I don't.
+Jack Waugh: Oh there should be right below that you see it says like create a new account like there's the login information up here and then if you look lower there'll be like a sign up button.
+Susan Robinson: I just said try for free.
+Jack Waugh: Let me check here give me one second. Okay so try for free. Hang on I have to open up a new window or I'm not logged into it.
+Susan Robinson: I don't think I've ever signed in or tried it for free
+Jack Waugh: oh so did you click that login button after that.
+Jack Waugh: No click that and then it'll take you to a login page and then it'll say don't have an account sign up yeah. And while you're doing that I'll kind of tell you about some of our things outside of our scribe so I know you mentioned you're with like headway are you like credentialed through them right now are you still in the process okay. Have they been handling things like billing for you yes gotcha and how how was that experience
+Susan Robinson: been I mean it's fine it just limits you on who they work with you know right right in Arizona there's a lot of access plans that they're not on there you know so I think I'm missing out on.
+Jack Waugh: Do you know what those are there's a good chance we would work with them because we're a little we're like a lot more flexible with who we work with. Than Amazon.
+Susan Robinson: Or Care. Banner. But I'm credentialed with another physician group with them but I know each each platform has to credential you.
+Jack Waugh: Okay yeah the reason I ask is like we don't have those same like headway is like a really big you know companies so they have like limitations we don't really have those we can typically work with most insurances and I don't know if you're aware of this but like headway they don't show you this when they pay you but they take like a 20 to 30% cut off we take actually with our billing of four to eight percent cut. So the reason we're able to do that we have like a really big performance advantage when it comes to billing and the reason for that is because we have our AI scribe built into the billing process we're able to tell you what needs to change in the language of the note so it's like a perfect note by the time you go to we go to like submit it for you and like different insurances we can actually customize like the pair rules across the different insurance per node. Because of the scribe element. So if that's something you're interested in. We can set up a separate meeting for that. But that it could be helpful for you as we store it a little bit more to see if it might be. Something that could benefit you.
+Susan Robinson: I also signed up with Alma so I'm going through their credentialing because I was with ZocDoc got nothing from them.
+Jack Waugh: Yeah.
+Susan Robinson: So now I'm in the basic settings so subject terminology also for patients okay.
+Jack Waugh: Yeah okay cool so you're here probably client really okay. You mean on the jot psych site okay. So you're seeing all this here.
+Susan Robinson: I'm in the welcome to Josh like you have full access for the next 10 days until April 20th after your trial you choose a plan we'll remind you before record your first encounter.
+Jack Waugh: Yes let me walk you through how you use it basically you're going to click this record button okay appointment type for you it would be soak notes if you don't see it loaded in there I can actually send you the soap template we have or what you can also do if you have a template you like. See under documentation and note templates here.
+Susan Robinson: So should I do record first encounter
+Jack Waugh: or take minimum two something quickly first and then I'll show you how to do that I want to make sure you can set it up the way you want to let
+Susan Robinson: me get the screen bigger here we go yeah no problem all right all right got it
+Jack Waugh: okay so see documentation the note templates so the cool thing about jot sick we'll actually let you upload your own custom template and we'll just populate the recording to that custom note that you want us to do so you would just click that upload template button and if you have a format you like you can paste the text in there or just drag and drop a PDF right there. Alternatively I can also just send you like a pre-made jot psych soap note template if you want to just work from what we have and you can always customize that too.
+Susan Robinson: So yeah can you do that so I can
+Jack Waugh: yeah definitely I'll make sure when we hop off today I'll make a little note send so template okay cool for the psych notes specific. Awesome so basically let's see if do I have one loaded in here I don't think I have one here but what you would do is you would just load it from this window here. So once you load it in there it'll show up all your templates here so add appointment type this is a custom one that I built CBT session but it can be anything you just add the patient name there and then you just hit the start recording button here and that's all you have to do. And this is all in that record window there
+Susan Robinson: really you're really following your template and talking through and then it's going to compile it for you.
+Jack Waugh: It's going to compile it all I'll show you what it looks like just so you can kind of see I mean this isn't a soap this is like an intake form
+Susan Robinson: because it would be nice I wouldn't mind trying it today I have a three o'clock patient nice yeah so you know I would definitely go through that.
+Jack Waugh: With her and see how that'd be great yeah I think that would be perfect because then you can actually see it in action and get a chance to use it and I'll get that template over to you I'll try and get it before then so that way I can like you can actually use that but
+Susan Robinson: anyway obviously I'm going to use the doxy.me that's the. Telemedicine you know app obviously that I use so it should be okay with that
+Jack Waugh: yeah it'll work fine with that you just want to make sure after you hit record it stop record and then you have to make sure you hit generate note okay the reason we do it like that is so you can actually make multiple recordings in case you want to record something after the patient walks out but as long as you click generate note you're good it'll save it there and then anything you delete is gone forever we don't store things and we can't see any patient names or anything like that on our end. Show you really quick what a note looks like. So we give you pretty detailed summary. Detailed HPI as well will also match DSM and ICD codes as well. Which I know you know eats up a lot of time having to look those up. So. Cool so just to pause there really quickly any questions and does that kind of look like what you'd be hoping for okay. Awesome. And do you have to do you find yourself writing like any kind of like clinical notes for patients a lot like you know prior authorization support letter kind of
+Susan Robinson: things I've done letters when they're trying to reimburse
+Jack Waugh: okay well I'll just show you this real quick we also will write you one like kind of automatically for the patient if you go under patients and you just click on their name see this little document button down here click that I mean it can you can literally type into anything I'm just going to click academic accommodation but it can be anything. And then we'll just like write you one in like five seconds. There's a lot of other features too that we probably won't cover all today but I just wanted to show you those couple yeah looks great cool sorry it's pretty thorough yeah yeah we like to think so and yeah definitely it's built to actually just save you time so what I can do for you then you have the two week trial and then in addition to that I can give you a discount month on top of that so that way you can keep using jot cycle a little bit past the trial and I think that would give you like 45 days does that sound good?
+Jack Waugh: Yeah how much is the oh yes it's like $20 for the discount month.
+Susan Robinson: Okay so total that I would be paying 20.
+Jack Waugh: Correct okay correct and then after that you'd obviously be on the full month to month and what's the month to month yeah it's 150 month to month or if you pay like for the year it's 135 per month.
+Susan Robinson: Okay.
+Jack Waugh: Cool. Yeah so I can help you get set up with that.
+Susan Robinson: So let's say I pay a couple months at 150 and I choose now I'm going to go a year I can do that at that time
+Jack Waugh: yeah you can switch over anytime yeah. Awesome so I'll show you how to get that set up I just have to approve it for my end sure so do you see this little your practice button yeah so you're going to click that and then go to your subscription. And then you're going to click add payment method there it's like a little purple button.
+Jack Waugh: Okay and then once that's in there I can go ahead and I'll approve it but take your time.
+Susan Robinson: There now. Obviously I'm going to go to my home page right now yeah no problem. Go to your practice your subscription. So even though it's his basic 150 right now
+Jack Waugh: you'll have yeah I'm still going to approve you for that yeah. Okay awesome so did it just take you back here and it shows your card in there okay so you're good to go so I'll approve you for that and then what we can do is this one let's meet next week so I can hear how you're like finding everything and how you know just answer any questions remove any blockers or anything that comes up if you need help setting anything up. And what's your email that this accounts under by the way?
+Susan Robinson: Sue at vital cares V I T A L C a r e s L C comm all right perfect.
+Jack Waugh: Also and I'm putting that you. Request. Ed. Soap for psych notes template. Cool. And then what I can also do Sue is why don't I set you up on a quick call with Nate our CEO who can kind of tell you more about the billing and credentialing end of things because it sounded like that could be helpful to you does that sound good?
+Susan Robinson: Yes okay.
+Jack Waugh: So I'm going to go ahead and see what he has available here. How is next Friday around this time for you.
+Jack Waugh: That should work okay you're are you mountain time yeah so 11 45 again yeah so and I'm sorry this right now is is 12 45 Mountain time or
+Susan Robinson: 11 45 oh I'm 1204 right now
+Jack Waugh: okay so this would be I mean would noon your time next Friday be good for that yeah okay perfect. So I'm gonna just. Put your info in there and then we'll be good to go and then you and I could schedule something for like after that if you still had questions you might be able to go over all that with Nate though in that meeting so you can always talk with him. Okay let's see.
+Susan Robinson: So today when I use this just go it so. So when I'm in my note with her I'm obviously going to be in this as well. And go under documentation or what.
+Jack Waugh: Yeah as far as when you say use it you mean record the encounter or view the note yeah so you just go to record that's
+Susan Robinson: step one right but I need to pick a note though
+Jack Waugh: right correct yes so if you want to I'm going to actually send you that template to work from okay and you can upload it that's on your documentation templates so once you upload it there it'll show up in your record window okay yeah you just have to do that first all right.
+Susan Robinson: And then sign in like this and then when she's on just go into this and okay
+Jack Waugh: all right exactly yeah and just make sure when you hit stop record that you hit generate node after otherwise the node
+Susan Robinson: I think it's a save or something.
+Jack Waugh: Yeah I think it'll yeah it might say save I think yeah I think it'll say like save and generate yeah okay. Okay awesome and I'm just going to send this email here hang on one second Sue at vital cares LLC correct all right perfect. So this is for next Friday at 12 p.m Mountain Time. Okay so you should see that in your inbox there just let me know that that goes through and then you know if you need any support outside of that meeting just let me know and we can still do another meeting besides that.
+Susan Robinson: See if I got your email cool.
+Jack Waugh: Not yet. Looks like it just showed up on my end it's from it'll say from Nathan pure boom.
+Susan Robinson: Yep got it.
+Jack Waugh: Okay awesome Sue well yeah looking forward to talking with you then and yeah let me know how everything is working and if I can answer any questions in the meantime you know just give me a call shoot me an email I'll walk you through whatever else you need
+Susan Robinson: to how about those templates did you send those
+Jack Waugh: yes I actually just reached out to my colleague to get those so I'll try and get this yeah all right. Awesome well any other questions before we wrap things up for today?
+Susan Robinson: And then I'll see this discount in here
+Jack Waugh: yep it's not going to show up but it's in there it's we're not going to charge you the full price for the first month okay so it'll be in there.
+Jack Waugh: All right thanks Jack okay thanks Sue keep you posted but excited for you to save a ton of time on your notes I mean I it's going to be a huge weight lifted so I think so too have a good Friday you too bye bye.

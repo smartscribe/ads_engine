@@ -1,0 +1,105 @@
+Christopher Hume: Hey.
+Marisa Gonzales: Hi. How are you?
+Christopher Hume: Good, good. Thanks for taking the time to meet. Appreciate it.
+Marisa Gonzales: Thank you for meeting with me. I am having so many problems with the app, it's not even. Okay.
+Christopher Hume: Okay. Well, I'm sorry to hear that, but we'll get to the bottom of it.
+Marisa Gonzales: Okay. So I have everything now. I don't know what you know, but I have been using the customer service app, and I've been talking with Becky. She's been fantastic.
+Marisa Gonzales: So I'm very appreciative of that. I want to say I think she may have even refunded me for the month because it's been so bad. So I took some pictures. I wasn't able to, like, send her a link because I use the app and I wasn't able to kind of like, send her a link. She kept asking me to send her a link of what was going on, but when I. Look, when I tell you. It took me almost three hours to fix my charting. Okay.
+Christopher Hume: And then my.
+Marisa Gonzales: My collaborating physician finally just showed me something in our system that I can use. But I like the jots. Like, I like what it does for me when it works well, which for some reason, I don't know if it's me or if it's the app, but it is not working well for me. It's been a year, and I'm going to tell you that this is probably one of the. The biggest issues in my. My job using that. Okay. So I took some pictures because I wanted to see, like, my mental status the other day had. I don't know if you can see, but it actually had the HPI in it.
+Christopher Hume: Oh, my gosh.
+Marisa Gonzales: Okay. Okay. And not only that, but my entire. Let's see there. And there's more. I mean, it. It's been. I've had to do nothing but go through. My psychiatric history has mental status exam in it.
+Marisa Gonzales: I don't know if you can see that on the bottom, but
+Christopher Hume: are these using your initial patient intake MBG template?
+Marisa Gonzales: Yes. No. No. So that is my. These are from my progress. Now. I haven't had a lot of problems with initial. That one's okay. And now I can't even go back because of the app update and see, like, sometimes remember when you could customize, you could go back. Like, even, like my. My review of systems for psychiatric. It kept saying patient reports. Well, before I could go in and say, okay, did I ask it to say patient reports and, like, my hpi? Because I did customize that.
+Christopher Hume: Okay.
+Marisa Gonzales: But somehow now my whole review of system is saying patient reports. I don't want that. Right. I just want it one or two. You know, patient anxiety improved. Not improved. You know, when I tell you, it's. It's mind boggling how much information the app is collecting. And giving to me where it's taking me literally 20 to 30 minutes to delete now with these blue boxes, it's even worse because I'm like, oh my God, I can't do anything quickly.
+Christopher Hume: So we. I'm not sure kind of what, you know, I really want. I just like apologize for the frustration here. But like I. I'm looking at your template right now and so I. We kind of. We had an upgrade. We. For kind of people who are facing issues. We were rolling that back to see if it helps. So I just rolled back for your progress note, kind of the updates. Could you. Do you have. Do you ever use job site on your computer?
+Marisa Gonzales: It's always on my computer.
+Christopher Hume: Oh, okay.
+Marisa Gonzales: Okay. I don't use it on my phone. Okay. But I'm using the app, I guess I'm using the app on my computer because when I pull it up, it's opening up as an app. I guess I don't. I don't really know truly.
+Christopher Hume: Could you go look at a note where you had these issues?
+Marisa Gonzales: I can, but I want you to know that all of the notes that I have that are there now, they're all fixed because I go through and fix them and then I copy and paste them into my Valent or into my ehr.
+Christopher Hume: That's certainly fine. But we're going to go to one of those notes and then we're gonna regenerate it and see if jet Psych's kind of like back to the way you expect.
+Marisa Gonzales: Okay. So let's see. Let me see. And I don't think I took a picture of the name. Let me see if I can see the. I mean Friday. When I tell you, let me open up. Let me. Real quick. I'm going to open up my dashboard.
+Marisa Gonzales: When I tell you that the beginning of the day was okay on Friday. Hold on. I don't know why I can't get into my Valent. Hold on one second. Maybe because we're online. The beginning of the day was okay on Friday, but as I went through the day, it just got worse and worse and worse. And it was. Oh my gosh. I was there until 9:30.
+Christopher Hume: Oh, I'm sorry.
+Marisa Gonzales: That's okay. I'm gonna open this a different way.
+Christopher Hume: So let me go back.
+Marisa Gonzales: Or actually that was Monday. So let me go back to a Monday at the end of the day, patient and see, I'm sorry. I think because I did all my cookies and updated and switched all the cash get into my chart right now.
+Christopher Hume: So give me a second. No worries.
+Marisa Gonzales: Pull it up. Actually, let me go ahead and go on my. My jump. Psych. Patients and we can do Sam. I have it on my phone, but I don't have everybody's names on my phone. Let's see. Yeah. Helen Porter. Okay, well, I'm going to bring up this patient. Are you able to see it
+Christopher Hume: so you can share your screen? If you kind of. Underneath me you'll see a smiley face, and then to the left of that you'll see a square with an arrow in it.
+Marisa Gonzales: Hold on. Do I need to open the app? Okay, tell me that again.
+Christopher Hume: So underneath me you'll see a smiley face, then to the left a square with an arrow in it. In the. In the Google Meet.
+Marisa Gonzales: Okay. Share screen. Go ahead. Okay, I just did that.
+Christopher Hume: And then it'll ask you which tab you would like to share. And then if you could just select the Jot Psych.
+Marisa Gonzales: There we go.
+Christopher Hume: Perfect. Now if you click on Jot Psych.
+Marisa Gonzales: Okay, so.
+Christopher Hume: So let's look at the notes.
+Marisa Gonzales: Okay, so this was like I said, this was all. This was all things that I fixed. But I don't know if hers was messed up or not. But even look at like the labs, I mean, I don't know that one I don't really use. I just take everything out. Even my HPIs are completely not right. I don't even use this for the hpi, to be honest with you. Because they never are correct. They have so much information that is useless in the hpi. And I, believe me, I've tried, um, and when, when I've cleared the customizations before where I could, it's better, but now it's a mess.
+Christopher Hume: Okay, well, if you push the progress note button in the top left where it says progress note mbg, could you just press that refresh button it has there?
+Marisa Gonzales: Let's see. Hold on. Progress note. Where do I see refresh?
+Christopher Hume: It's a. See on the right hand side I have a little arrow with a circle. Like.
+Christopher Hume: Is it this? No, I'm sorry. If you push a progress note.
+Marisa Gonzales: Progress note.
+Christopher Hume: And then you see that? Yep. And then to the right a little bit.
+Marisa Gonzales: Oh, this one?
+Christopher Hume: Yep.
+Marisa Gonzales: Okay. Oh, God. Now you want me to make it bad again?
+Christopher Hume: No, hopefully this will get us to see. It'll keep your old note, but hopefully this will show that some of the. Hopefully we can see some of the issues have been resolved because I've been doing some stuff on our side.
+Marisa Gonzales: Yeah. It makes me like when I. When I'm using it and truly I keep saying. Saying to myself, I don't know why I'm using this because it's really not helping me. It's actually making my life very anxiety provoking for me because. And then sometimes I walk into work and the whole thing's not working and I'm like, oh my gosh, now I'm, I'm a new np. So this is how I've been documenting. So I, I can tell you. I'm like, how do I even do this on my own at this point? Because it's really hasn't done me any good to be honest with you.
+Christopher Hume: Well, I'm sorry to hear that, but hopefully we can at least get this fixed.
+Christopher Hume: Your notes look normal again, so let's see if this is a little closer as it loads.
+Marisa Gonzales: Well, that's beautiful. Okay, now if it would have looked like that, I would have just, you know, changed a few words and been done with that. Right. My vitals are good. I've actually, I customized that, took a lot of those out. Medical history is good. And actually I want to say that she has more medical history than that. And I can't get into my valent right now to even see. And that was a, that's an issue too. Like, my medical history hasn't been transferring over. My psychiatric history hasn't been with, you know, My medical, my medication history hasn't been. Oh, and social, social history. So all the history is pretty much everything that's supposed to be transferring wasn't.
+Christopher Hume: Okay, so it's not transferring from note to note.
+Marisa Gonzales: It hasn't been in like the last few days.
+Christopher Hume: Okay, let me see. Is this at least structurally a little closer to what you're used to, Marissa?
+Marisa Gonzales: Yes.
+Christopher Hume: Structurally, yes.
+Marisa Gonzales: Okay, Now I don't know what her actual. What it looks like, so I can't tell you if it's, if it's bringing everything over right now.
+Marisa Gonzales: Okay, Let me look. Because even. Okay, my review of systems is so much better. I can't tell you. The review of systems had so much stuff in it. I was so annoyed. I. I think I actually, I had to put it into this new little AI box on the side to fix it. Mental status exam is better. Safety. Holy cow. All this safety assessment stuff, I mean, the amount of information that was in that was ridiculous. And then. Yes, this is much better too. And I went through and did some updates of my own.
+Christopher Hume: Okay.
+Marisa Gonzales: And I think you guys changed the add on psychotherapy. Did you change that? Because this modality wasn't there. Before.
+Christopher Hume: Oh, interesting. I'll have to check the engineering team. I'm not, wasn't aware of a change to that section, but it's possible it's all changed.
+Marisa Gonzales: Like there's, there's nothing is the same for me.
+Christopher Hume: Interesting.
+Marisa Gonzales: Yeah, it is. Like even, you know, even the review of systems, I don't know what happened, but it was like pulling in. And then there was something on the bottom even of my assessment that this online safety summary. What is that about? I'm like, what, what, what is that? I don't even know what that is. I just keep taking it out.
+Christopher Hume: Okay, and this is in your. Which section is this in?
+Marisa Gonzales: That was in my assessment and plan.
+Marisa Gonzales: So I, I actually generated this to put my DSM in there, if you can, the DSM 5 codes. So I customized the way that this looks and the follow up and that might. So that doesn't, that's me, that's my customization. But this whole online safety summary on the bottom, I'm like, what is that and why does it keep popping up?
+Christopher Hume: Oh, interesting. Okay, so. Okay.
+Marisa Gonzales: And how do I fix it? You know?
+Christopher Hume: Yeah. So if you go. If. Which is the one with the. That was. Sorry, Assessment and plan. Could we scroll back to that section?
+Marisa Gonzales: The. Which one?
+Christopher Hume: The assessment and plan which has the one line safety summary assessment plan.
+Marisa Gonzales: Yes.
+Christopher Hume: Okay, go ahead. So could you click in there. And then on the right hand side you see where you have the. We have the chat bot.
+Marisa Gonzales: Yep.
+Christopher Hume: In the chat bot you can say like
+Marisa Gonzales: what I've been doing is do not include. But here's what I'm going to tell you. For me, I've had to start actually putting like assessment and plan in the chat box and saying in the assessment and plan, do not include this, this and this. Because I'll tell you the other day I, I said take patient reports out of the. Are out of this section without putting the review of systems in there. And it actually took my entire review of systems and put it in every box of the entire chart. And I was like, yeah, oh my gosh.
+Christopher Hume: So yeah, that's a new update which allows you to edit all the entire note at once. But certainly frustrating if you're just trying to adjust one section, one piece. So now it's, I've kind of gotten that. So let's just see if you say like, let's see, do not include.
+Marisa Gonzales: What is it called here that it's doing one line safety. I can't see it. Hold on. I'm gonna. I'm gonna move your window. Do not include one line. Safety, S, A, F, E, T, Y.
+Marisa Gonzales: Okay, let's see what it does. So I don't. I don't mind this piece. This has actually been great. But when it's. When it works. And. Yes. I want to train that.
+Christopher Hume: Yep.
+Marisa Gonzales: Okay. So it's working better today. Yes. Thank God. And I think Becky was definitely helping me on that end, too.
+Marisa Gonzales: So it did work better the other day, but. Holy cow. Okay, so when I do that and I. I ask it. Yes. Is it going to train it for all my notes?
+Christopher Hume: So every time you use this template. Yes.
+Marisa Gonzales: Okay. But this. Just this template, because that's all I want to use. But it's going to be that way for each patient. Every patient. Okay, good.
+Christopher Hume: Exactly.
+Marisa Gonzales: Okay. And then I can save that. See? And this whole thing, too, drives me crazy. It's just having to get used to all this new stuff.
+Christopher Hume: Yeah. Hard one is a change. But hopefully.
+Marisa Gonzales: And this one was big.
+Christopher Hume: So I think hopefully you're a little closer to what the note used to be. Like know how to train it if there's any little changes. Is there anything else, Marissa, that I can kind of help try and troubleshoot today?
+Marisa Gonzales: Let me see. I don't think so. I know. We only had 15 minutes. No. And thank you.
+Christopher Hume: Oh, you're very welcome.
+Marisa Gonzales: For right now, everything else looks pretty good.
+Christopher Hume: Okay.
+Marisa Gonzales: No, let's just pray that it all works. Well, when I go to work tomorrow, I'll be. I'll be excited to see how everything goes.
+Christopher Hume: Perfect. And if you need any help or anything, you're like, oh, my God, what was Chris talking about? Just let us know. We can jump back on the call.
+Marisa Gonzales: Okay. I'm good. Thank you. If I need anything, I'll make another appointment.
+Christopher Hume: Perfect. Thanks, Marissa. Have a great afternoon.
+Marisa Gonzales: Take care. You, too. Bye.
+Christopher Hume: Bye.
+Marisa Gonzales: All right.

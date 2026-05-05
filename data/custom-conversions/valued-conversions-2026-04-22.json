@@ -1,0 +1,31 @@
+{
+  "created_at": "2026-04-22",
+  "pixel_id": "1625233994894344",
+  "deprecated_ccs": {
+    "FirstNote (Valued)": "3914250848710226",
+    "SignUpConfirm (Valued)": "1960979881475090",
+    "CalendarScheduled (Valued)": "1270312578633364"
+  },
+  "new_ccs": [
+    {
+      "name": "SignUpConfirm (Valued) v2",
+      "id": "1673233627279622",
+      "event_name": "SignUpConfirm",
+      "value_dollars_intended": 5,
+      "value_sent_api": 500,
+      "value_returned": 500,
+      "rule_returned": "{\"and\":[{\"event_type\":{\"eq\":\"SignUpConfirm\"}}]}",
+      "warnings": []
+    },
+    {
+      "name": "CalendarScheduled (Valued) v2",
+      "id": "829867779586914",
+      "event_name": "CalendarScheduled",
+      "value_dollars_intended": 15,
+      "value_sent_api": 1500,
+      "value_returned": 1500,
+      "rule_returned": "{\"and\":[{\"event_type\":{\"eq\":\"CalendarScheduled\"}}]}",
+      "warnings": []
+    }
+  ]
+}

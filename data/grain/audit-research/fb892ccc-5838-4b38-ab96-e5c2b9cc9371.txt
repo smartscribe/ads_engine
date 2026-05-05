@@ -1,0 +1,143 @@
+Christopher Hume: Hey, nicole. Good morning.
+Nichole McLeod: Good morning. How are you?
+Christopher Hume: Good cold. It's warm yesterday, cold today.
+Nichole McLeod: I know. Where are you at?
+Christopher Hume: I'm in D.C. this week, okay?
+Nichole McLeod: Yeah, it's ridiculous. Bombarded by snow.
+Christopher Hume: Oh, did you guys get snow?
+Nichole McLeod: Buffalo.
+Christopher Hume: Yeah. Always get snowed, right?
+Nichole McLeod: So I had some questions.
+Christopher Hume: And hopefully I have some answers for you.
+Nichole McLeod: I hope so. One of my questions is would I be able to put products into the EHR? I sell products for GLPs. And the way I do it is I do it by I charge for the product and that's how I do it in my 1ehr.
+Christopher Hume: Yeah. So you mean invoice patient? Just, like, charge patients for a particular product? Just through jobs. Like, you should do that, be able to do that. With our building functionality.
+Nichole McLeod: And then another question I had is. Essentially after we met on Friday. I had probably one of the worst days ever.
+Christopher Hume: Oh, my gosh.
+Nichole McLeod: Not because I got off and my biller was doing all kinds of stuff, and so I'm firing my biller.
+Christopher Hume: Okay.
+Nichole McLeod: Why? I was, like, talking to you guys. It's pretty awful, actually. Friday was so I was literally mad till like 6 o'clock at night.
+Nichole McLeod: Anyway, with that being said, I had to figure something out. So the next thing, even though I really like everything, I don't know if I'm ready to move over to a new ehr with job site. But that being said, I do really like the Jot psych the Scribe.
+Nichole McLeod: I really, really like the Audit Tool feature, and I'm still waiting on getting somebody in for credentialing. So not that I don't want to use your services, because I do love the Scribe and the Audit Tool, and I think that would be something that would make me feel better sleeping at night knowing that my NPS are using something that is really good that they can check their work with the audit. I have been using it. I used it all day yesterday. And I did have a couple of issues still with the correct time and stuff like that. Okay? So my one question is, can you put jots into Jane? Can you integrate it? So that's all that they can use.
+Christopher Hume: So it's a one click. We can't integrate it to like. We will not have the ability to stop someone from typing into Jane. That's be like not allow that. But what we can do is we have this. We're about to roll out, and we can get you access to it. Google chrome ehr integration. So how that works. Let's see if I have it on my. Sorry. I don't have access to Jane, but I can show you how it works. If we imagine that I have Jane up.
+Nichole McLeod: Because what I want is basically, I'm bringing on all these nps. And I'm bringing on four.
+Nichole McLeod: And I don't want everybody, I want to train everybody how to do the same thing in ehr. So I want to make sure that everything is and I love your tool. I love the fact that you can go in documents and say, write me a prior authorization, stuff like that, because I got new mps who are coming on who? They have no clue how to do stuff like that. And I don't have enough time to train.
+Christopher Hume: No. Try and review all the documentation. Do your billing. There's a few things.
+Nichole McLeod: Marketing.
+Christopher Hume: Marketing? Yeah.
+Nichole McLeod: My own patients doing on my own notes.
+Christopher Hume: Oh, my goodness. So, Nicole, on the screen, you see kind of the right hand side. So imagine instead of a new tab, if this was Jane, what you do is you go to wherever and Jane, you input your note. You push select the note and then you would push this launch button. And it would automatically fill it out for you. Since this is a new feature, we'd have to do a quick check with one of our engineers just to make sure it's reading the J note properly, but it shouldn't be much of a problem at all, and we can spin that up for you.
+Nichole McLeod: Okay, so the fact that you could put it in my ehr is awesome. That was the big thing that I wanted to make sure that you could do. And then I just wanted to see what pricing was per NP.
+Christopher Hume: So to confirm, you were 100% right. Nicole, with the $99 a month, as long as if we sign you up for the billing MSA, so that 8%, you're at that $99 a month. You can use all the features. You can use some of the features, but, yeah, you're not paying the expense of EHR rate.
+Nichole McLeod: Yes.
+Christopher Hume: Confirm that with you. The $99 a month was accurate. And I'm so sorry for the confusion last week.
+Nichole McLeod: That's okay. But if I'm not doing the billing, if I just want to do the AI Scribe and move it into Jane the way you just showed me, how much would that I have? Four mps. I'm about to have six mps.
+Christopher Hume: Okay? So when would you be interested in. Kind of in us helping with billing?
+Nichole McLeod: Billing I'm going to put on hold for right now because I have somebody that she knows, Jane really well, and I don't know Jane, so I had to call her on Friday because these billers made a mess. And so she's fixing everything for me, so she's kind of taking that over for right now.
+Nichole McLeod: So I'm going to put billing on hold right now with you guys, just for now.
+Christopher Hume: Yeah, of course.
+Nichole McLeod: I will never hire anybody overseas ever again.
+Christopher Hume: Oh, my gosh.
+Nichole McLeod: Basically like Friday. They told us we could take a patient, we took the patient. It was our second appointment with my one np. And then they're like, oh, wait a minute, you're out of network.
+Christopher Hume: Oh, my gosh.
+Nichole McLeod: I'm like, what are you talking about? And the patient was already at the office waiting, and I was like, see her? I was like. And then they tried to call her and cancel her. I'm like, you don't do that.
+Christopher Hume: I'm like, you don't know what's going on.
+Nichole McLeod: You don't know if she's unstable or stuff like that. Don't ever call my patient. I pretty bad.
+Christopher Hume: That is pretty wild. That's not a good experience, especially on a Friday afternoon.
+Nichole McLeod: Not on a Friday afternoon. Not with the psych patient, no.
+Christopher Hume: We were offering a pretty steep discount and I want to make sure that we continue to give you that as we grow this relationship. Because typically for providers like Scribe, if someone's using the Scribe and we take out all the other features, it's 99.
+Christopher Hume: Then there's an add on fee for the everyone gets 40 free compliance checks, but after that, there's a fee. I don't think that really makes sense, given our situation as we're trying to do a pilot and kick off billing. So do you have a rough time frame on when you'd be interested in. In looking at billing again?
+Nichole McLeod: I honestly don't know. Like I said, this girl is going to take things over for right now. And, you know, I had a meet. I had a meeting with her yesterday because. I don't know what is going on with all my people. And she know. Like I said, she knows Jane, and she's able to come in here, she's able to fix everything. So for right now, I just. I need her to come in and fix everything. You know? I know Jane enough on my side, on the clinical side, that I can train new mps and stuff like that, with that, like I said. But with that being said, I really. I really do like the AI scribe that you guys have.
+Nichole McLeod: So that's what I want to move forward with for right now. Is maybe integrating that extension in there.
+Christopher Hume: Yeah. Nicole, let's just do. And let me know if this kind of sounds reasonable. The 99 rate, kind of discussed. We'll just keep that. And, like, I can just give you that for the first three months. No concerns about billing. If three months from now, if we haven't discussed billing yet, like, we'll have to probably have a conversation about our standard rates, which is $100 for the scribe and then $69 for that compliance feature. But I don't want this to feel like we're not trying to nickel and dime me or anything like that. We want this to be a long term partnership, so I think the $99, we can just do three months, no worries. We can talk about billing at the end of that and then kind of go from there, just because there's that kind of sound reasonable and. And fair to you.
+Nichole McLeod: I will say, you know. I'm okay if you. I don't. If you were to do the $100, 169, you know, after three months, I mean, that's. That would be too much for me.
+Christopher Hume: Oh, no. I. I certainly understand that.
+Nichole McLeod: And like I said, I don't know how long I'm going to be with her for belling. You know, if I'm getting these NPS up and trained on Jane, I mean, I'm not going to jump from something else to something else, because I'm just being very transparent.
+Christopher Hume: No, no.
+Nichole McLeod: You know, but like I said, I do really like the scribe feature. I like the audit tool a lot, I think. It's something that would make me feel better.
+Christopher Hume: Is there a time frame that works better for you, Nicole?
+Nichole McLeod: Like, I.
+Christopher Hume: I can typically just for three months. It's kind of all in my hands. I could approve it, but if there's a time frame that would be longer for a discount, I would just need to check kind of with Nate and the leadership team. But I'd make the argument there for the team. Is there another time frame that would make more sense?
+Christopher Hume: We're kind of giving you more comfortable.
+Nichole McLeod: I would say probably by. I mean, I would want to give her enough. Enough chance to see how things are going. So I don't know. Like, 56 months.
+Christopher Hume: Yeah, okay. Six months certainly seems reasonable to me. I just. Given my somewhat limited authorities, I just need to check it, but I think we can. We can get you there. The discounted rate, $99 person a month, and then, of course, if we sign the billing contract before then. It's in perpetuity while we're doing billing with you. And if you decide not to, Do billing with us. We can just kind of have a discussing discussion about pricing in six months. So I just want to be super upfront with what kind of the standard fee is.
+Nichole McLeod: Okay, so. But standardly, it's $99 to use the Scribe plus and then 69 for the audit tool.
+Christopher Hume: Yes, exactly. And that's after the first 40 sessions. So if you have people who are just spinning up, the first 40 are included in that rate. It's just for people who are seeing. 40, 41. Plus there's a fee. So. Of course.
+Nichole McLeod: But if we're not using the audit tool, like, if my NPS feel comfortable and they're not using it after a certain point, I can just continue with $99.
+Christopher Hume: Oh, of course.
+Nichole McLeod: Integrated in my EHR.
+Christopher Hume: Yep.
+Nichole McLeod: Okay. Because like I said, I really do. Like I. I have used Jots. Like, for, you know, my first year being a psych np, and it made my life a lot easier. And there's a lot of different, you know, scribes out there and stuff like that. It was very, very helpful. So there's. I did want to see if I could get, like, maybe somebody help me set up the templates, because, you know, you said there's two free or something.
+Christopher Hume: There's two included in the. The pilot program. Yep.
+Nichole McLeod: Okay. So, yeah, I. I essentially just want the two. Like some stuff comes on there and, like, I was playing around with it yesterday and, like, I was, like, deleting stuff and. And I was trying to make it, you know, like, I. We really only see 99214s and it kept bringing up with the nine, you know, 99213. You know, and then I would add the code of, you know, the psychotherapy code, and then. It. It was like. I don't know. I guess I just need some help with it, you know, make sure it's doing what I need it to do.
+Nichole McLeod: Okay, can understand. What criteria they need to meet.
+Christopher Hume: Yep. And have you put these templates into jotsyc, so they're already up there. It sounds like.
+Nichole McLeod: So I have one I made. Okay? And I did. I didn't. I didn't delete anything in there. So that you could see what I have in there. So I have a em. And psychotherapy, one for integrative np.
+Christopher Hume: So that's.
+Nichole McLeod: That's one of them that I have. Undermine. Yeah, I have an enm plus psychotherapy add on. For integrative np, that's essentially pretty much what we use. Is that is the enm one. For all of our follow ups. And then I think I have my intake, which is one that I made. You know, with everything that I want for my intake, so. Yeah. Like I said, I just. I just want to make sure the audit tools, you know, that I'm using it correctly.
+Christopher Hume: Yeah. No, no, of course. So I think. I'm sorry, Nicole. Not to jump over around here, but it will make sense. Would you like to do the pilot first? So the month for the flat fee? And then we can kind of start the more official pricing and relationship after that first month.
+Nichole McLeod: So I would still like to do the pilot program. So you guys would come here. And essentially put the. Put the EHR into Jane and integrate it.
+Christopher Hume: So it would be a training and we'd walk you through how to use. Yeah, the Chrome extension as well. So we do that. We would probably. Yeah. Need to get just an admin account to Jane before we. We visited, just so we could do a quick test on Thursday or Friday with the engineers, just to make sure we're rocket and rolling before we show up in Buffalo and we're not subjecting anyone to a painful troubleshooting. Question. We'll take care of that before we get there. But that would be so if you shared an admin account. And then the templates. I'd spend the end of this week getting it all set up. And then next week we could kick everyone off and do lunch and training and all that good stuff.
+Nichole McLeod: Okay, so essentially, the pilot would be you guys coming out here doing the training, the EHR extension, that would be done. So you guys would do that so that they would know exactly how to use it.
+Christopher Hume: Exactly.
+Nichole McLeod: And they would have those other features, like documents and stuff like that as well.
+Christopher Hume: Oh, yeah. Yep.
+Nichole McLeod: All right. So I'm just. I just want. So the billing is kind of off the table for now.
+Christopher Hume: Okay. But.
+Nichole McLeod: But the EHR extension, that's something that you guys would still do. Do the pilot for.
+Christopher Hume: Yep. Absolutely. Right into your ehr.
+Nichole McLeod: Yep. Okay. Okay. And it's still that 499 fee.
+Christopher Hume: It's just a flat fee. A4.99. It's everyone gets access, we come out and visit. I think we do your two templates for you. So I would look at whatever you're working on and tweak them.
+Nichole McLeod: Would you want me to share what we have and Jane? Because I have AI templates in Jane, too.
+Christopher Hume: That would be great. Whenever you could share is just so helpful to make sure that we're as close as possible before you even start using them. Of course, there's always going to be a little back and forth. Can't read minds yet, but we can get you quite close.
+Nichole McLeod: Okay.
+Christopher Hume: Yeah.
+Nichole McLeod: Well, yeah. Then let's go ahead and do the pilot. Let's have you guys come here. Let's do the E8. Let's do the extension and see.
+Christopher Hume: Perfect.
+Nichole McLeod: How that works. I did update my credit card. I did get my business credit card in.
+Christopher Hume: It showed up right. We were waiting for it on Friday.
+Nichole McLeod: I was waiting for it on Friday. I think it came on Saturday, so I had to. Put everything over to my new card.
+Christopher Hume: That's quite a pain. And then you start getting, you know, a month from now, you get. The payment didn't go through on the one thing you forgot to switch.
+Nichole McLeod: No, I switched everything.
+Christopher Hume: Oh, you switched everything.
+Nichole McLeod: I switched up. Everything's done. I don't really wait.
+Christopher Hume: You're stronger than I. I was getting one of my cars just expired. I got all the. The notifications yesterday, like, oh, I forgot. I forgot I was the one paying for this.
+Nichole McLeod: No, we're going to get this done.
+Christopher Hume: Okay, so I'm looking at flights now. So does Tuesday still work for you and the team, Nicole?
+Nichole McLeod: Yep, Tuesday still works.
+Christopher Hume: Then I'll run the charge. You'll get an. An invoice, or I'll make sure. I'll send you the receipt. I'll coordinate travel, and then I'll loop you in with our assistant, who will coordinate the most important part of the day. Lunch for the team. And anything else I can help you I can answer today, Nicole.
+Nichole McLeod: The 24th. Is there a specific time that you're going to be in the office? Because I do have somebody from 9 to 9:40. On Tuesday. So I don't know if you guys wanted to be there at
+Christopher Hume: 10am yeah, with 10 to 2 work. If anyone's comfortable with a shadowing, just kind of seeing their workflow, we can do it either with a patient or, if they prefer, just to walk us through. It's a learning opportunity for us to make sure that we properly understand how your business works. We do training over lunch and then a little bit more shadowing in the afternoon, and then I head back.
+Nichole McLeod: One MP is. My one I pay is off, but she'll come in.
+Christopher Hume: Okay, perfect.
+Nichole McLeod: My other mp, she's got two appointments that she's going to have to step out for, but they're like 10 minute appointments. But other than that. I think we'll be good.
+Christopher Hume: Perfect.
+Nichole McLeod: So I will kind of put a break in her schedule. That way she's got time to. Be in. There. Okay? All right, so Definitely Tuesday the 24th works good for everybody, so.
+Christopher Hume: Then I will book my flights today and I'll let you know. I'll send you the schedule for the day. And then I think the only thing I'll need from you ahead of time, Nicole, is just the templates. And then if you could get us an admin account to Jane. I can. Then just tomorrow, when our engineers back in the office. Just make sure. The EHR integration. I think you might be the first customer on Jane to get access to it.
+Christopher Hume: So I just want to test it myself first before. Before you guys.
+Nichole McLeod: Okay? I will. I just need an email address. So the email address that you sent me is fine to use. And then. Let's see. And then I'm just trying to figure out how to tell you which because we have a couple different templates and. Jane, do you. How do you want me to send you the templates that we use?
+Christopher Hume: Are you able to just download as a PDF? Or you can just send me a screenshot if that's easier. Or you could just tell me, and I can poke around. Jane, if you tell me the names and see if I can just find them myself. But whatever's easiest for you.
+Nichole McLeod: Nicole, we don't want this to be a big lift Under. Under your thing. I'll open up the two templates, and that way you can just open them up.
+Nichole McLeod: There is a patient in there called Ted Test.
+Christopher Hume: That sounds good. Okay.
+Nichole McLeod: And so if you go in there, you can click and you can open that up and you can look at the templates, and if you click where it says, Where it says AI scribe.
+Nichole McLeod: If you click there, you'll see the AI prompts that we put in there.
+Christopher Hume: Oh, awesome.
+Nichole McLeod: Okay, so you'll be able to see everything there, and if you have any questions. Just. Just let me know.
+Christopher Hume: I. I know how to find you, Nicole. I'll certainly shoot you an email, but I think once I get access to the ehr, we should be good to go. And the biggest action item for you should hopefully just be deciding where we want lunch.
+Nichole McLeod: Okay, well, we'll definitely get buffalo food.
+Nichole McLeod: So you guys see, it's good buffalo food.
+Christopher Hume: Awesome. Well, thank you, Nicole. Is there anything else I can answer today?
+Nichole McLeod: Nope. I think that is it.
+Christopher Hume: I'm excited about you.
+Nichole McLeod: Yeah.
+Christopher Hume: Did you need any help with eligibility checks, or is that something your new biller is doing? I know we kind of. You asked him one email chain and I responded in another.
+Nichole McLeod: Yeah, she's taking care of it for right now. Unfortunately, I have to. I use her as like a backup because my biller is not always. Yeah.
+Christopher Hume: So no, understood. Just wanted to make sure you were good to go.
+Nichole McLeod: Yes, we are good right now. So I look forward to seeing you on Tuesday, then.
+Christopher Hume: Yeah. See you in Tuesday. In person.
+Nichole McLeod: All right. When you have a safe flight and take care. And if you have any questions about Jane, just let me know.
+Christopher Hume: Yep, we'll do. And if I have. Yeah, I'll let you know once we log in and it all works.
+Nichole McLeod: All right. Awesome. Thank you.
+Christopher Hume: Thanks, nicole.
+Nichole McLeod: Bye. Bye.
+Christopher Hume: Bye.

@@ -1,0 +1,165 @@
+Nathan Peereboom: No, that's a good way to start. I like it. How are you? Just.
+Tiffany W.: Good morning.
+Nathan Peereboom: It's one of those mornings for you.
+Tiffany W.: It is. I was trying to hurry up. I had a last minute crisis, last minute crisis session. And I was not trying to be rude, and it was a crisis, so I'm like, okay, worst case, I'll just have to meet miss today's meeting. But I. We actually got done in time, so then I'm scrambling through the email and I'm like, oh, my God, where's the link? Where's the link? Hey, good morning.
+Nathan Peereboom: There's. There's no worries at all. Hey, it's so nice to meet you. Also, you have amazing wallpaper. I haven't seen good walls in a long time. Are you in. Is this your office or your home?
+Tiffany W.: No, I'm at home.
+Nathan Peereboom: You're at home. Okay. Well, you have great.
+Tiffany W.: It's pillow. Yeah, it's pill and stick.
+Nathan Peereboom: You. You did it yourself?
+Tiffany W.: Yeah, it's pillow. You can get it from. Where did I get this? From home. Good. No, I'm lying.
+Tiffany W.: I can't remember. Lowe's. I got it from Lowe's.
+Nathan Peereboom: You got it from Lowe's. Okay. That's awesome. You're. You're. You're a Lowe's person, not a. Not a Home Depot person, I hear.
+Tiffany W.: I like Home Depot too, but I'm also the. The person for the sales. I'm all. I'm. I compare. I don't care if it's $2 off. I'm going where it's $2 cheaper.
+Nathan Peereboom: Oh, okay. There you go. Well, that's. That's prudent. That makes a lot of sense. Well, you. You not only got the cheaper one, but you got the. You got a really nice wallpaper, so good for you. You won. Hey, it's so nice to meet you. I don't think we've met before, have we?
+Nathan Peereboom: I don't think so. Okay. Hey, tell me about your world, Tiffany. Like, where do you, like, where are you based? What's your practice? I think, as you know, my name is Nate. I'm the CEO and co founder of Job Psych, and I'm happy to give you my spiel, but I'm super interested in what goes on in the world of Tiffany.
+Tiffany W.: So. I'm a psychiatric mental health nurse practitioner.
+Nathan Peereboom: Cool.
+Tiffany W.: Okay. I just recently branched off on my own.
+Nathan Peereboom: Congrats.
+Nathan Peereboom: That's a big step. Were you on msos? Were you. Were you working for someone else? What was the. Before.
+Tiffany W.: Yep, I was working for someone else. I actually got hired because I graduated and finished school April 16th of 2025. So I immediately got hired by my preceptor. So that's where I found out about job site.
+Nathan Peereboom: Oh amazing. Who's your preceptor?
+Tiffany W.: Her name is Natalie Poole.
+Nathan Peereboom: Oh I know Natalie. Yeah, Natalie's great. She actually just emailed me the other day.
+Tiffany W.: Okay. Yep.
+Tiffany W.: So I was working with her and using jot sight because before then it was I think she was using oh God, what is the name of it? I can't even remember but it was another one. I don't know. I didn't really care for that one.
+Nathan Peereboom: Another much inferior AI scribe. I'm sure.
+Tiffany W.: I didn't like it though. A lot of us didn't. So she switched, literally switched everybody in the office to job site.
+Nathan Peereboom: Yeah.
+Tiffany W.: So October 1st I started my own and I continue with job site because I'm like. It's just. I love it. It was easy to navigate. I've already gotten comfortable with it. But what sparked my interest was, and I love the updates, when I saw that billing that popped up there.
+Nathan Peereboom: Yeah.
+Tiffany W.: I'm like, okay, this is what I need, because getting a lot of billing and coding and credentialing companies, which. My credentialing part is completed already. Yeah. I wasn't too comfortable with them because I was getting horror stories from other prescribers stating that you have to be careful who you do your billing with because they hire people from different outside of United States. Yeah.
+Tiffany W.: And a lot of, you know, your information is being shared the patient's information. And I'm like, I don't want to take that risk. And it's not to sound like I don't trust anybody outside of the United States, because you can have someone in the United States that'll do the same thing. But I'm like, if I could just. If I'm already working with a platform and now they offering, I just. I will feel more comfortable. So.
+Tiffany W.: Okay, I'm here.
+Nathan Peereboom: Well, let me just out of curiosity. That makes total sense. So you just started out on your own. How many months of, like, being on your own have you done so far?
+Tiffany W.: October 1st, November, December, January. So I'm almost at four months.
+Nathan Peereboom: Oh, wow. Okay, cool. And how do you currently do billing
+Tiffany W.: platform called Headway does my billing.
+Nathan Peereboom: Got it. Okay, so you're trying to pull patients from Headway into kind of your own billing ecosystem, right?
+Tiffany W.: Yeah.
+Nathan Peereboom: Okay. Do you have any folks that you currently are doing your own billing for? Like, what do you try to use?
+Tiffany W.: No, I have nobody right now.
+Nathan Peereboom: Okay. All right, that makes sense. Well, why don't I walk you through jot Bill, which is our billing product. Here's what I would say, though. If you're already billing through Headway, if you. If you acquire patients on headway and it sounds like you're using Headway as your ehr, I don't know if you can use any other biller if you're using. Or like, for the patients that are on Headway. Right. You'd actually have to move them to a different ehr.
+Tiffany W.: Is that right? Yep. Okay, so this is the thing, too. Headway doesn't allow me to see Medicaid or Medicare patients.
+Nathan Peereboom: Okay.
+Tiffany W.: And I have a list, a waiting list, a nice size waiting list of patients that need to be seen, that has the Medicaid or Medicare, that there's tons of other insurance companies that fall under the Medicaid. And I just can't see them through headway.
+Nathan Peereboom: Totally.
+Tiffany W.: I want to use the separate platform for that.
+Nathan Peereboom: I understand.
+Tiffany W.: Yeah.
+Nathan Peereboom: Okay, Cool. Great. Well, why don't you. I. I'm just going to walk through JOT Bill and then I'm going to. But I'm going to frame JOT Bill within the context of you kind of needing an ehr. And we are just about to launch our prescription service as well. And so you should be able to use JOT Psych for your entire electronic health record, should you choose.
+Tiffany W.: Okay.
+Nathan Peereboom: Okay, I'm going to share my screen here and go slide shop. Okay. Actually, before I get into this, what's important to you in an. In a billing setup like you mentioned, you want someone who's probably in the US you want to have trust. You want something all in one platform. Anything else that's really important to you in a billing company? Tiffany?
+Tiffany W.: Yep. Clearing out. Being able to run the bills through the clearinghouse and someone or a company or platform that's good with possible denials or audits.
+Nathan Peereboom: Great. Okay, cool. That makes total sense. So Jotbill is a hybrid AI and human billing engine. So what we do is we have an AI system that, you know, writes the note based on the requirements of your payers. So you can upload, for example, if you're billing Medicaid patients, you can upload your contract with Medicaid and you can update Medicaid rules for their audits. And we will actually not only write the note, but pre audit the note before we even write a claim for it so that you know that the note is meeting the CPT code that you're billing for.
+Tiffany W.: Okay.
+Nathan Peereboom: We'll then submit the code, submit the claim, and then if it, if it ever comes back, we manage the denials by taking all the information that we have about that encounter and addressing the particular, you know, denial through an automated appeal process. But we also have human beings who work on it so that, you know, hey, it's not just a machine that, like, is running without any ability to touch base with someone real. You know, we have human beings who you can meet with and, you know, navigate any edge cases that you come across. So from your perspective, it's like, incredibly simple. You bring a patient into job psych, we do the eligibility checks for you, we have them write the clean pairware note, then you sign a note and you're done.
+Tiffany W.: Okay.
+Nathan Peereboom: Once you sign the note, we take over, and every month we meet with you to tell you, hey, this is what's happening in your practice financially. Now, in terms of what makes JOT Psych and JOT Bill different from other billing companies, there are five or six reasons. So the first is that our eligibility checks are top of the industry. We use, you know, we check, obviously, with APIs, but we also have, you know, AI callers, we have human callers, and we have, like, just a very, very robust way to make sure that someone is eligible to be paid. Okay. The second thing I mentioned is this pairware documentation. You already have this in jot Psych where you can upload documents and have notes written based on those. Then, you know, when it comes to automated posting appeals and underpayment detection, we're making sure, one, that your note coheres with your claim. Two, that your claim is reimbursed by, you know, based on your era or your era says, hey, I paid the thing that your claim asked for. Three, that the thing that you get paid is, or the thing that the insurance company is telling you they're paying you is correct, given the contract.
+Tiffany W.: Okay.
+Nathan Peereboom: And that when the money is actually in the bank account or all of that is matched up too. So you never have an insurance company saying, hey, we paid you for this, and then they did. And then we do patient billing and collections because we know that that's like a challenging thing as well.
+Tiffany W.: Yeah.
+Nathan Peereboom: So we charge, like, just the industry standard rate, you know, 4 to 8%, depending on what you want. So you can choose your plan. At the simplest level, we just do eligibility checks and, you know, we write the note, we submit the claim, and then if you actually want us to manage your billing, you know, we'll do all the things I just described.
+Tiffany W.: Okay.
+Nathan Peereboom: Now, when it comes to getting started, and we probably want to rearrange this for you, but usually what we do is we start out with what's called a jot bill analysis, and we charge $300 for that, just so we're not doing a bunch of work for people who don't really want to try us. But it's $300 one time, nominal fee. And what we do is we look at three things. We look at, where are you earning money today? How are you earning money? So we do, like, things like a service mix analysis. We were like, hey, this is what you're charging in terms of CPT codes. We then look at where money gets delayed or lost because it's kind of the same thing, right? I mean, a lot of insurance companies, they'll say, hey, we're not going to deny this claim, but it's pending. It's pending for five months. And what we want to do is tell you, hey, these are the points of friction across every part of your process. And here's how much money you're losing or. Or here's how much working capital you're losing at every point. And then thirdly, we want to give you a really concrete plan of, like, how you could improve that situation.
+Nathan Peereboom: So this is how we start off. It gives us all a really good foundation because it enables us to go after, like, things really early and just earn you money, like, right off the bat. Now you're just starting out, right? Like, you're just, you know, you're building this practice. So this would probably not reveal that much because you don't have any historical billing data. So one thing we could do is we could start out with the JOT audit calibration, where you give us a bunch of your documentation and we just start looking at what you're doing in the notes already. Or we could start you on eligibility checks. So either of those are a great place to start. And then once you've developed a certain comfort with those parts of the platform, we're happy to bring you into the larger billing project. So let me pause there. I just threw a ton at you.
+Nathan Peereboom: Does it make sense? Does. Is this kind of what you're looking for?
+Tiffany W.: I think so.
+Tiffany W.: I think we're on the same page. Yeah.
+Nathan Peereboom: When is the soonest you would be interested in starting with those Medicaid patients? Like if you were going to go start going through that list, like when would you want to start?
+Tiffany W.: Well, my goal was to start February 1st, but I'm still in the loop of I have two other platforms that I'm supposed to meet today for my E H R EMR EHR systems because like I said, I can't take those Medicaid people and do any charting on headway.
+Tiffany W.: So I have to get one depending on what the outcome is between those two and who I feel comfortable with. If I feel comfortable either. Or maybe my search will end today.
+Nathan Peereboom: Yeah.
+Tiffany W.: Or it may roll into Monday. So.
+Nathan Peereboom: Yeah. Yeah.
+Tiffany W.: But at the latest January 15th. I, I don't want to keep my patients waiting.
+Nathan Peereboom: February 15th.
+Tiffany W.: I mean. Yeah, February 15th. I'm sorry.
+Nathan Peereboom: Okay. If re prescription product is going to be live by then. If, if you, I guess when, when you think about that, if you think about, hey, I could do all my, my prescriptions and I could do billing through jots. Like what are the things that you would still need to believe to say, hey, I'm going to move to jots like as my platform for everything all in one. Yep.
+Tiffany W.: Of course pricing will make make a difference.
+Nathan Peereboom: Yeah.
+Tiffany W.: So I would definitely need the in house billing with clearinghouse, the E scribe where I'm able to send over medications along with the pm, pdmp, pm, pmp. Thank you.
+Tiffany W.: I gotcha those checks along with the control substance being able to send those medications. What else? What else? What else? Everything else I would say. Jack site already has.
+Nathan Peereboom: Gotcha. Gotcha.
+Tiffany W.: Oh yeah, no, you already have the labs, you have the, the documents where I could create the. Yeah, yeah. Jos already has everything.
+Nathan Peereboom: Johnson has everything. Okay, perfect.
+Tiffany W.: Yeah.
+Nathan Peereboom: How does this sound? It sounds like the last thing that you need to get comfortable with is PDMP and E Prescription. Is that right? Those are the two things.
+Tiffany W.: Yeah. Outside of the billing.
+Nathan Peereboom: Outside of billing, how would you feel about me setting you up with our E Prescription team to do a beta test of the bill of the E prescription product in like let's say on like Monday the 9th.
+Tiffany W.: My calendar, Monday the 9th. You know about how long that would take?
+Nathan Peereboom: Yeah, it would probably take maybe 30 minutes.
+Tiffany W.: Oh, okay, so I have a 3:00 clock open or 3:45.
+Nathan Peereboom: All right, let's see. Let me just. Okay, so you said three o' clock and you're in Eastern time. Okay, let me see. 3 o', clock, 3:45. Okay, so could we do 3:45 to 4:45.
+Tiffany W.: Yep.
+Nathan Peereboom: Okay.
+Tiffany W.: Put this in my calendar right now.
+Nathan Peereboom: Great. Tiffany. Well, grab this. All right. All right, perfect.
+Tiffany W.: And that's the ninth, correct?
+Nathan Peereboom: That's the ninth exactly. Okay, send, send. Okay, perfect. So I just set that up. You're gonna. Okay, perfect. So jotrx setup is on the calendar for the 9th. When in terms of getting started with Jot Bill? Like I guess. Well, one. Is that something that you want to do? Do you want to like dip your toes in. Do you want us to start doing eligibility checks for the people you have on that list even?
+Tiffany W.: Okay.
+Nathan Peereboom: Just so we can.
+Tiffany W.: Sorry.
+Nathan Peereboom: Oh, no, go on.
+Tiffany W.: See, it's all starting to come to my mind, to my brain, that would be another thing. Do you offer the. The well, yeah, the ella eligibility checks along with the. Because I've ran into this on. On headway and I was a little at, you know, of course me being brand new, I didn't know what it meant, but where the client has the option to use either or. I never, I didn't know there was an option to use either or insurance if they have a first or a second. I thought it was. You had to go with the main one. Like the first one.
+Nathan Peereboom: No, usually you can charge both. It's like a waterfall where like we. You cover the first insurances and then the second one covers whatever's left.
+Tiffany W.: Yeah, yeah.
+Nathan Peereboom: I mean it's different for every insurer. I mean every insurance company, you know this, they're wiley. Every rule is different. It's very complicated. But of course you can do first and secondary insurance. And Johnson, that, that's very standard. So why don't we do this? Because. It sounds like you. Well, but, sorry, I'm just gonna. I'll ask rather than just say, let's do this. But I think that it could make sense for us to take your Medicaid, like, the people on your wait list, and at least upload them into JOT Psych so that all the data is there. And that way, you know, if you do decide that you want to do eligibility checks with us, it's just a single, like, email to our team just being like, hey, I actually do want to do this. The patient data is already there, and for us, that, like, makes it really easy to just, you know, turn on. Yeah. To turn on eligibility checks for you, should you choose.
+Tiffany W.: So how.
+Nathan Peereboom: How does that sound as, like, a first step? And usually we charge around a hundred dollars to do that. Like, just patient upload again, just because, like, we have to put an engineer on, and it just takes a second just to, like, bring everything in. Does that seem like it would work for you?
+Tiffany W.: Yeah, I would just have to get those patients a approval because they know right now. They. I. I keep them up to speed with what I'm. What I'm doing.
+Nathan Peereboom: Yeah.
+Tiffany W.: And just to let them know, like, hey, I'm going to be uploading your information to this platform. We're trying to see if it's going to work. This isn't that. I believe I know which ones is going to be okay with it, and I definitely know the ones gonna be like, nope. So. But, yeah, once I get their permission, I'm. I'm fine with that.
+Nathan Peereboom: Perfect. Should we also set up, like, a little time for one of our engineers to help you with that so that, you know, again, it's just. It just kind of moves the ball forward. And then, you know, what I want is if your goal is to be live on February 15th with JOT Psych, at least I want you to feel like, hey, I can get live on February 15th, should I choose that?
+Tiffany W.: Right.
+Nathan Peereboom: So I'm kind of working backwards from that understanding. Understanding that you might email me after this and be like, hey, Nate, I thought about it, and I'm actually going to go with this other thing. And, like, you know, you can just cancel all the meetings, but right now in my brain, I'm like, well, I want to give you a path to being live on February 15th and feeling like, hey, February 15th happens, and I can just see patients and deliver clinical care, and I don't have to worry about all this administrative junk because the job site team is on it for me.
+Tiffany W.: Okay. All right. Make my life easier.
+Nathan Peereboom: Make your life easier. Right.
+Tiffany W.: Yeah.
+Nathan Peereboom: Okay, let me. So we could put. Let's see. How does Thursday the fifth sound at 9am for getting you on? For. For having an engineer do that? Like implementation. Like onboarding with you?
+Tiffany W.: No, my worst days are Thursday, Friday and Saturday. Saturday is my. I mean, Saturday, Wednesday, Thursday, Friday, Friday is my days where I get tons of crisis last minute. Okay, let's just give my long wait day. So if, if you had anything like maybe Monday or Tuesday, that'll work.
+Nathan Peereboom: Well, actually, let's do Monday. Let's do Monday. So I'm looking at my calendar. How would 9:30am Work for you?
+Tiffany W.: Nope, nope, nope.
+Nathan Peereboom: You tell me what's best for you on Monday the 9th. I know we've got the job. The E Prescription kickoff.
+Tiffany W.: Yep.
+Nathan Peereboom: But we should do the patient thing as early as we can in the day so that your patients are already in there for E prescription.
+Tiffany W.: Okay, so we doing. How late do you. Do you think your engineer will be available on Monday? Because I have. If we do that from. I just have to see a patient at 5:15 and then I'm done with them about 5:45. Their sessions is 30 minutes. So.
+Nathan Peereboom: Great, let's do it in the, in the evening then. So what, like, what would be the. Yeah, what's the best time for you in the evening? We can put that on the, on the calendar.
+Tiffany W.: Okay, so it will be 6 o' clock to make sure I'm done with them in time. And I got their notes in and I'm set. I'm free, I'm focused.
+Nathan Peereboom: Awesome. Okay, so I'm going to say Tiffany and Lee Lisa, engineer who does this onboarding and uploading patients into job site. Okay. Whoops. Okay, let's see. Tiffany, what's your email again?
+Tiffany W.: I'm sorry, I haven't.
+Nathan Peereboom: No, never mind. Tiffany at Empowerment.
+Tiffany W.: Empowerment Wellness. Yep. Info.
+Nathan Peereboom: Right. All right. Okay, perfect. So, okay, so On Monday the 9th, we're gonna have two meetings together. One to get you started on E Prescription and two to just upload all your patient data. What I'm gonna assume is that once we do that, you're gonna want us to do eligibility checks that week. Is that right?
+Tiffany W.: If you can't.
+Nathan Peereboom: Yeah, we can do eligibility checks that week. So we're gonna do eligibility checks that week. And then, and then what I think we should do is let's do a meeting on. Well, we want to meet before you want to get started. So you want to get started on the 15th of Sunday. You're busy on Thursday, Friday, Saturday you're working Valentine's Day.
+Tiffany W.: No, I'll actually be out of the country on Valentine's Day.
+Nathan Peereboom: Oh, that's awesome. You're having a better Valentine's Day than me. Okay, so what about. Do you have any time Wednesday, Thursday, Friday,
+Tiffany W.: let's see, next Wednesday or the following.
+Nathan Peereboom: That Wednesday. Because again, I'm just working back from the 15th. If you're trying to get started on the 15th, I want you to have everything up and running so you feel good about running on the 15th.
+Tiffany W.: Okay, so nothing that Thursday and Friday because I'll already be gone. So we can do. Let's see, Wednesday. I kind of have them crammed on Wednesday because I. I have. Well, how. How long do you think I would need to.
+Nathan Peereboom: Maybe 30 minutes. Not long.
+Tiffany W.: Okay, so if we did that, I can block off. She gets a little long winded, so that's not going to work. Okay, so I can move up. Can we do 5?
+Nathan Peereboom: 5 on what day?
+Tiffany W.: 11. Wednesday at 11.
+Nathan Peereboom: Let's see. Yep. We can do 5. The 11th.
+Tiffany W.: Okay. I either have that or I either have Tuesday, the 10th. If you said it, it'll take roughly 30 minutes. I can do Tuesday the 10th at 9:15.
+Nathan Peereboom: Tuesday the 10th at 9 15. Ah, yeah. Let's do that instead, actually.
+Tiffany W.: Okay.
+Nathan Peereboom: 9:15. Okay, great job. Build kickoff. All right, Tiffany, is this help? Is this helpful? I don't want to. I don't want you to feel like I'm, you know, nudging or like I'm forcing you to, like, schedule things that aren't helpful. Is this. Is this what you were hoping for?
+Tiffany W.: Yeah, I mean, I was going to have. Like I said, I have to meet with two other platforms anyway, so if I could. My biggest thing is I don't want to continue to delay my clients. I. If this is something I have to do, you know.
+Nathan Peereboom: Yeah.
+Tiffany W.: So regardless, if I don't have a meeting with you, I'm going to have to have a meeting with another platform. So it's just. Yeah. I can't dodge it.
+Nathan Peereboom: Okay, perfect. Well, that is super helpful. I tell you what. I think I have your phone number. Just text me how you feel about the other two meetings.
+Tiffany W.: Okay.
+Nathan Peereboom: And, you know, what you decide to go with. But what I'm going to assume right now is that we're going to meet next week.
+Nathan Peereboom: I guess it's no week and a half.
+Tiffany W.: Okay.
+Nathan Peereboom: We're gonna have. We're gonna meet and we're gonna get you set up with jot. You know, our E Prescription, where you get all your patients in, and we're gonna start you on our billing program on the. On the 9th and 10th. So I'm going to assume that that's our go forward. If you want to change anything about that, if you want to, like, modify, you, just let me know, like, we're here. You know, we play a very long game with customers. We just want you guys to be happy. We believe that we provide the best product and that that, like, overall, like, you know, in the long run works. So there's no pressure. And I want you to really feel like, you know, we're. We're good partners to you. Okay.
+Tiffany W.: Okay. That'll work. That'll work. I have to get ready to get in another session. I'm actually three minutes behind, but. Me, too. If it. Okay. Yeah, so I'll let you go. If it does. I'll let you. I'll text you as well, like you said, and let you know what. What happens with these other platforms and see. And go from there. And then. Yeah, we'll just stay in contact with that that way.
+Nathan Peereboom: Awesome. And if you have any questions, just reach out. If there's anything where you're like, wait, I heard that there was this thing on this other platform. Do you guys do that? You just, like, text me back and forth? Okay.
+Tiffany W.: Absolutely. Okay. All right. Thank you, Nathan.
+Nathan Peereboom: All right, take care.
+Tiffany W.: Bye.
+Nathan Peereboom: Bye. Bye.

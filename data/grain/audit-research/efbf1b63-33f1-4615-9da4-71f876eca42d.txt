@@ -1,0 +1,48 @@
+Becca Bressler: Sa. Hey, there. Can you hear me all right? Yes, I can. Great. How are you doing?
+Madeleine Verdolino: Hi. Good.
+Becca Bressler: How are you? Good. I'm Becca. I'm the products manager at JOT Psych. And I know you signed up for this. This call, so. Yeah, tell me. Tell me what I can help you with.
+Madeleine Verdolino: Yeah, so actually, I didn't know that the meeting was gonna be when I booked it, but you actually came to our office in Attleboro.
+Becca Bressler: Oh, my God, of course. I'm so sorry. That's okay. I've actually been thinking about you for one of the. For one of the projects I'm working on, having watched you, like, you had some great feedback about the notes.
+Madeleine Verdolino: Okay. So my question. So with the update, obviously, that is, I think. And then we got, like, the email that there had been, like, an issue with it right after I emailed, asking for support. So the way that it even, like, populates the note is kind of different. Like, how it's all now, like, different sections, and you have to go to the sidebar to edit. And so, like, if my template has, like, AI interventions, plan and homework, I'll go to the side thing and say, like, adjust the HPI to make it in, like, that, like, brief thing I wrote that. I would always say, like, make more brief and concise. And that's just, like, kind of my automatic thing I would do. It will update all of it. Even if I've specified the HPI and then with, like, the interventions and patient response to them, there's five things in it. So, like, the interventions used to always has treatment planning, supportive techniques, risk assessment, behavioral and cognition strategies, communication. Those are, like, the five things there. That's six. The six things there. And then the template puts things that apply to those things in it. But if I edit to say, make this more concise, it'll just take some of those, like, those categories out.
+Becca Bressler: Okay.
+Madeleine Verdolino: Like, the way I do. Sorry, I'm just kind of, like, dumping everything the way that I do, even the hpi. It's very consistent. I always start with patient is a age, gender, and how the visit's being done, whether it's telehealth or in person. I've never used bullet points, anything like that. I've never done, like. I've never separated it by, like, category of, like. Mood, appetite, sleep, social. It's starting to just, like, change how I format my notes.
+Becca Bressler: So here I can walk you through a couple things. One of the things I'm going to walk you through is just something to ensure with the note editor to make sure it's only hitting one section. I mean, to be honest, it should pick up from your.
+Madeleine Verdolino: The far left where you only make sure one of the things is clicked.
+Becca Bressler: So that's not how you ensure the. The editing. So hold on, let me just show you this really quick.
+Becca Bressler: Okay, So one way you ensure that, like, you're just doing the chief complaint for in your case. Do you see how if you click this, this shows up?
+Madeleine Verdolino: Yeah.
+Becca Bressler: So that is one way to ensure that if you're asking for, like, the hpi, like, adjust the HPI to only be in narrative format. Or let me see. Adjust the hpi. Let's see. Oh, why did that work?
+Madeleine Verdolino: So that another time we'll say, like, applied changes. So, like, I've gotten this before, like, applied it to zero or like, oh, okay, we've adjusted it and nothing's different.
+Becca Bressler: Yeah, that's really good feedback. I'm actually taking a screenshot of this right now and I'm going to send it to my team because that is what should be happening. Especially if you're like, clicking into something like this.
+Madeleine Verdolino: Yeah, because, like, before, I know, obviously I know that you know this, but, like, if you were to, like, any of the categories, like, if you were to scroll to different sections, like, you're in the HPI now, like, above the HPI would have been like, edit this section.
+Becca Bressler: Yes, totally.
+Madeleine Verdolino: Yeah. And so now you have to do it over on the side now.
+Becca Bressler: And the way. Yes. And the way to, like, ensure, though, that it's just that section is to click. It's like, functionally the same thing, basically. And reason being is there's like, a lot of adjustments people make that they want to apply the whole note, you know, like, halfway. So. But. But yeah, to ensure that it's that one section, I would actually do a combination of clicking and then also say the HPI in the. In the chatbot.
+Madeleine Verdolino: Okay.
+Becca Bressler: The other thing, though, I want to tell you is that I can revert your templates back to how they were before the update.
+Madeleine Verdolino: Oh. Like, just the way the templates were not. Like the editing, like the way that I would edit?
+Becca Bressler: Yeah, not the editing, but it would. What you're noticing with the bulleted formats showing up would remove that issue that you're experiencing. Yes. Is that something you would like me to do?
+Madeleine Verdolino: Yes. Okay. Like when I say, like whenever I write, like stop forwarding formatting like this, then automatically like I just find. And I don't know, I. I know that I kind of was kind of anti AI when you were in the office. But like I just feel like then it overcorrects and it like then is too bulky and then I'll say like, make more brief. And then it just, it always ends up like going way too far. And then I'm just like, you know what, go back to the original. I'll just take the bullets out manually.
+Becca Bressler: Yeah, no, that's like really helpful feedback for me to give the rest of the team because this is something we're trying to refine, obviously. So it's helpful to know that there's no like Goldilocks kind of thing happening there. Right. It's. It's on both extremes. Let me help you with the so, but that said, this template, is it a practice wide template? It's a personal template.
+Madeleine Verdolino: I. I only use my own template.
+Becca Bressler: Okay, great. So this should be no problem. Give me one second. And this should solve the like formatting differences that you're seeing.
+Madeleine Verdolino: Yeah.
+Becca Bressler: What is your email associate that you use for job site is.
+Madeleine Verdolino: I make sure that I have the right one. It's Madeline M A D E L e I n e.verdolino v e r d o l I n o gmail dot com.
+Becca Bressler: Okay. To use your Gmail.
+Madeleine Verdolino: I guess I could have said that.
+Becca Bressler: Great. Okay, so which template do you want me to like? Which ones are the ones that you use?
+Madeleine Verdolino: So the one that I use every day is the MV dash MED and therapy.
+Becca Bressler: Okay, let me do that really quickly
+Madeleine Verdolino: because there are some times where the way that they do the note, all I have to do is adjust the way that that first line is written, which I don't mind doing. And like there are sometimes where the rest of the narrative is I really don't have to adjust anything. But the very next note will be formatted so differently using the same template.
+Madeleine Verdolino: You'll notice it like that's my default template. Like, I'll get off the phone with a patient, I'll see it and I'll go, okay, this is fine. Like, I really just have to like. It's more of like the personal preference of where things are.
+Becca Bressler: Like, it's not incorrect.
+Madeleine Verdolino: I just. Maybe I don't want that at the top of the note. I want at the bottom. And I just have to change the way that that first sentence of, like, the introductory thing is written, but then the very next one, it'll be like, all those, like, long dashes that are, like, pretty telltale of, like, oh, a, I and the bullets. And it's just like, how'd we get here? I didn't ask anything to be changed.
+Becca Bressler: And are you noticing that, like, literally on the same day, like back to back from visit to visit? Yeah. Can you. Okay, so. So a couple. Or actually a couple things before I forget one, let me know if that's still happening after I'm reverting your templates and if it is bulleted yesterday.
+Madeleine Verdolino: Oh, oh, you mean like from now on?
+Becca Bressler: Yeah, I want to know. That said, could you send me like, two. Two notes back to back that have the different issues? If you just copy paste the URL, like in the URL bar, then we can access them, but it would be helpful to have a reference for them. So is there another template that you want me to revert back or is that really the main one?
+Madeleine Verdolino: That's really the main one because any of the treatment plans, there's so much information that goes into it that I always like fine tooth coma.
+Becca Bressler: Anyway. Got it. Okay. So, yes, I would love to get those examples from you and then please email me if even with this change that I just. Still happening. Okay.
+Madeleine Verdolino: All right, Sounds good.
+Becca Bressler: Cool. Great. All right. Thank you so much. I'm glad you scheduled this.
+Madeleine Verdolino: Yeah. Thank you. Have a great day.

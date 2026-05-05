@@ -1,0 +1,205 @@
+Lee Harrold: Hi, monica. How are you?
+Monica Dyer: Just grabbing my. Coffee. There you go.
+Lee Harrold: Hello. How's it going?
+Monica Dyer: Good. How are you doing?
+Lee Harrold: Good. You just grabbed your coffee.
+Lee Harrold: Yeah, that's good. You're ready to go. I just had my coffee, too, so we'll be amped together.
+Monica Dyer: Awesome. Cool.
+Lee Harrold: So I guess before we get started, I kind of want to, just out of curiosity. Understand your world. Where are you coming from? What are your challenges? What are you hoping to get? Add a job on it?
+Lee Harrold: I'm not sure if it's my. There we go.
+Monica Dyer: The notes have been really useful. And then today I was hoping to hear more about the prescribe.
+Lee Harrold: Yeah, we can do that. Absolutely.
+Monica Dyer: Okay?
+Lee Harrold: So, yeah, getting that up and running. Should be pretty straightforward. If you could just share your screen, we think we can get you started. Log into job site.
+Monica Dyer: Okay? I'm already logged. In. All right. Can you see it?
+Lee Harrold: Not yet. It's very shy. It doesn't want to. Oh, there we go. Yeah, I heard the beep, and now I see it. Cool. All right, go ahead. I think if there's, like, an easy way for you to see prescription workflow without actually doing it, because we're sort of offering. That's exciting. Error loading patients. We just had to. Currently use any prescription platform.
+Monica Dyer: Yeah, I'm using Simple Practice, and I have another app.
+Monica Dyer: Like, I just sent a description from tarmac and Bolivia. It's really awesome on the phone. Yeah. Simple practice right now, but I'm. I'm trying to see about, you know, integrating everything here.
+Lee Harrold: Yeah, that makes sense. The process for. This? Yeah, there's. There's a little pink button. You can forget the set of you prescribing this will bring you to Meta's page. So this will. This will give you the opportunity to add e prescription to this plan, and it's going to cost about $69 per month. So if you're cool with that, you can hit the. Either the edit button or the pencil underneath the actions.
+Monica Dyer: But.
+Lee Harrold: Yeah, I know. Let's, let's, let's, let's. Let's talk and think about that for a sec.
+Monica Dyer: Is there a bundle price of, like, using the other things? Like, what's the amount with everything?
+Lee Harrold: That's a great question. I think we're. I think we're rolling out the everything bundle, so to speak, within within a couple of weeks. But at the moment, it's just like an add on. Okay? But if you wanted to add it now and then, like, get that rolled into everything situation, I'm sure we could pro prorate you for the difference.
+Monica Dyer: Okay. Is there a trial?
+Lee Harrold: Yeah, we're running. Like an interim special. So it's. It's just. It's just $10 for the first month. And then if you decide, you know, you want to keep it, you can keep it. If you decide you don't want to, you can go ahead and cancel.
+Monica Dyer: Yeah, I'd love to try it out.
+Lee Harrold: Make sure it's good. Yeah. What? Should we do it?
+Lee Harrold: Should we jump in?
+Monica Dyer: Yeah, but, like, at the. How do I do the trial?
+Lee Harrold: Oh, yeah. It's the same process on your end. I just reimburse.
+Monica Dyer: Okay.
+Lee Harrold: The difference afterward.
+Monica Dyer: Yes, can do that.
+Lee Harrold: If we scroll down, we can see RX is hidden underneath add ons at the bottom.
+Monica Dyer: Okay? And y'all know what the bundle might be.
+Christopher Hume: If we're talking about the bundle for all of jobs like features, the all inclusive.
+Lee Harrold: Yes.
+Christopher Hume: So sorry, Mark, I came in a little late. The all inclusive Bundle will be $249. So that's everything. So jot audit jotrx and then believe we'll be rolling out some additional features as well.
+Lee Harrold: They would all be a chrome extension. If you wanted to get stuff in this practice, keep using it.
+Monica Dyer: Okay? Amazing. So saving known error.
+Lee Harrold: That's new and exciting. Let me take a look at what the unknown air might be.
+Monica Dyer: I guess I'm all three of those. There we go. Okay. Second time work.
+Lee Harrold: Now we hit the go to practice settings button at the little purple button. Over here. And so it's. The first step is to connect the entire practice to Dosebot. So if you press this button, and you'll have the opportunity to put your practice's address in.
+Monica Dyer: Okay.
+Lee Harrold: And then the phone number, I think will either either be your, your phone number or like the practices phone number.
+Monica Dyer: I think it should be mine because sometimes I've had pharmacists be like, that was really weird. I caught your personal number. When I called you, I thought I was calling a clinic. And so I think pharmacists want the official.
+Lee Harrold: Yeah, that makes sense to me.
+Monica Dyer: I've almost got it memorized. Let me double check.
+Lee Harrold: Yeah. I have our office number tattooed on my. On my wrist.
+Monica Dyer: Hope they don't change it.
+Lee Harrold: Oh, no, no. We never change anything.
+Monica Dyer: Okay? This has been a bit of a question, but I think we're keeping the same address. New practice. Still got to double check. Oh, wait. Clinic name. Change that. Can I change the connect name?
+Lee Harrold: What is it? Now. We can change that. I actually don't know how to change. Because this is for your entire organization. Scroll down. I think this should be like an Ed about or something on this page. There's not. Okay. Yeah, I can definitely change that. What do you. What do you. What do you want it to be?
+Monica Dyer: That would probably appear our prescriptions.
+Lee Harrold: Oh, I see, I see, I see. We can change that inside of our e prescription, partner. So that's. That's going to be a different value that appears in prescriptions. This is like your. Your organization name within Rick and Jatzec. That's not super clear because these boxes are right next to each other.
+Monica Dyer: Yeah. I mean. It's rosewater wellness. It's the name of the practice, okay? I don't think. It doesn't really necessarily, I guess, unless for documentation.
+Lee Harrold: Yeah. I mean, you're right. It makes sense to use the name of the practice for your organization. So on my end, I can figure out how in the ui, we can. We can change that. I know it's a thing we can do. I just don't know how to do it.
+Monica Dyer: Okay.
+Lee Harrold: The next step is to register you as a clinician with your practice. So there's like a little arrow button at the top, right? That'll get you to where you need to be at this page, but we can. Oh, hey. Yeah, here we go. I think we can change. Perfect.
+Christopher Hume: I think I just the. The name.
+Lee Harrold: How'd you do it?
+Christopher Hume: I have access from that admin panel?
+Christopher Hume: Yeah, I think.
+Lee Harrold: That's crazy. There has to be a way to do it. Here. Anyway. Yeah. So this. This phone number has to be yours because we're going to use it to. Vectors. Yeah, exactly. Thanks.
+Monica Dyer: And. So facility information. Do I need to fill that in? Probably.
+Lee Harrold: No, that one's okay. For jotterx. That's pretty easy if it was already there. Go for it.
+Monica Dyer: Okay, this is for. Am I in the billing stuff right now? Is that why.
+Lee Harrold: Yep. Yeah. Yeah, so we don't. We don't have to do that list right now. We can jump into eprescriptions.
+Monica Dyer: Use this one.
+Lee Harrold: Yet. Yet another number we ought to tattoo on.
+Monica Dyer: Yes. Sorry. Do you mind if I answer this real quick? No worries. Someone's been calling me repeatedly from. Psychology today, okay? My dea. All right. These go to my fax number. No, not really. Okay? So all good.
+Lee Harrold: All good.
+Monica Dyer: Oh, I do want my facts. Because that's how pharmacies often send, like.
+Lee Harrold: Oh, yeah, that makes sense.
+Monica Dyer: Okay? That is. Get a different website. That's doximity. Okay? So going. What's next? Identity proofing.
+Lee Harrold: Yep. Yeah, you can take a photo of your driver's license or your passport. You have.
+Monica Dyer: Okay?
+Lee Harrold: Mission has not been confirmed. All right, let me take a look at what's going on.
+Monica Dyer: Second time the same.
+Lee Harrold: All right, see if you can click that button again. Okay. Yes. The one on the left is a really long text. You can either read now or come back to you later.
+Monica Dyer: To put my middle name.
+Lee Harrold: No. Oh, I don't know. I would say whatever your. Your government name is.
+Monica Dyer: And this is.
+Lee Harrold: Yeah, so you won't be charged. This is just like Experian. The same company that does credit checks is going to use Ebit credit card to fix validated. The person that has the driver's license is safe. Person that's been registered. With their organization.
+Monica Dyer: Great. To the car.
+Lee Harrold: Nice.
+Monica Dyer: Okay?
+Lee Harrold: What is it looking for? I see driver's license stage is, like, gray.
+Lee Harrold: I think, because I can't. Try. Try clicking on driver's license status so you can. Let's hear. Scroll is it let you scroll down?
+Monica Dyer: Yeah.
+Lee Harrold: Okay? What are we? State drop down from, like, right next to Austin. I'm wondering if. Because it was pre populated. Oh, yes.
+Monica Dyer: Gotcha.
+Lee Harrold: It would be needed if Autofill. Expanded drop downs, but that's like, a hard problem. You need to.
+Monica Dyer: They catch the form on its knees.
+Lee Harrold: Did the text come through?
+Monica Dyer: Yeah.
+Lee Harrold: All right.
+Monica Dyer: Do my passport.
+Christopher Hume: Leave Monica just to jump in here really quickly. Unfortunately, we'll have to jump at 2:30.
+Christopher Hume: And I just wanted to check in on Monica. Did you see the template I uploaded to your account?
+Monica Dyer: No, I hadn't gotten to see it yet.
+Christopher Hume: Okay? No. No worries. I just wanted to make sure you knew it was there, and then if you have any questions. Or you're like, hey, Chris, like, I need to make these changes, just let me know. I'm here to help.
+Monica Dyer: Where would I find it? So, like, if I was.
+Christopher Hume: If you go to record, I'm in the top, right? And let's just see if you can select it. So there's the psych progress node. Then there's the RO that at the bottom. And so hopefully is closer to what you need for Edway. Was it.
+Monica Dyer: Yeah, yeah, yeah.
+Christopher Hume: So hopefully that's on the way. And then just the other thing I wanted to flag for you while Lee is helping with eprescription, is where you were you done with credentialing? Was that correct? You're just waiting for it to go through?
+Monica Dyer: Yeah, I got perfect, and I have, like, 17 pairs. That in the next however many months it should be coming.
+Lee Harrold: So many pairs.
+Christopher Hume: Well, then the. The last thing then, is just to start using some of the audit features to make sure kind of the notes are in line. With error requirements. Could you just go to a note really quickly? Anyone works. And then if you press the audit button on the top right, It'll lag. I'm not sure. Have you been able to look at these yet?
+Monica Dyer: Yeah, I did. I was messing with it. Not exactly knowing it was changing, but yeah.
+Christopher Hume: Okay, well, I just wanted to let you know those were there, and that's, like, the first step that people usually take to exploring our billing. This will kind of suggest adjustments. Based on the cpt code.
+Christopher Hume: And then I think the last thing we discussed was maybe helping out with. Eligibility checks, and I just wanted to check. Oh, my gosh. I just wanted to check all your eligibility checks are going and see if we could offer any support there or if that's going to wait until after. All your credentialing goes through.
+Monica Dyer: Yeah, definitely. Till after the credentialing.
+Christopher Hume: Correct?
+Monica Dyer: Because until then, I have nothing to check.
+Christopher Hume: Okay, perfect.
+Monica Dyer: From the headway. But yeah, when I add in the patient's insurance company, then it makes the space. Like, is it?
+Christopher Hume: Yes. So what we would do is if you decide to kind of go all in, you would go, do you see Billing and Auditing? And then jot audit. And then rules. In the top middle. Yes. What we could do is, you know, you could add custom rules or we could add custom rules for you based on the pair. So once you get those contracts, we'd work with you to customize the. The rules accordingly. And then. Yep, it would link. Oh, Chris Hume is with United. Let's make sure his note has these specific things.
+Monica Dyer: Okay? And so it's not like automatically set up with, with different payers yet, but like, not yet.
+Christopher Hume: Now it's just like the standard payer rules. So if you scroll down, it's just like a lot of basic ones that we've seen across all the payers.
+Monica Dyer: But you.
+Christopher Hume: We can customize that once you get your contracts.
+Monica Dyer: Okay? Yeah, I just kind of click on it and see what else it's going to do. Like. Oh, what would. What would not have changed?
+Christopher Hume: Yeah, right. Okay?
+Monica Dyer: Awesome.
+Christopher Hume: Okay, well, I will let Lee finish up, kind of get you through eprescription. I'm sorry to distract. How long ago did you submit your credentialing information?
+Monica Dyer: It's probably been about four weeks. They had to create a second MPI for me and then get it going.
+Christopher Hume: So then I'll just plan on putting a quick 15 minute check in at the same time, like maybe just four weeks from now, because I know typically it takes a few months and then if we need to adjust to checking out how you're doing, we can certainly meet before then. But I'll just place a meeting on the calendar and just to see if we can offer any help and to see how credentialing is going.
+Monica Dyer: Sounds good. Okay?
+Christopher Hume: Thank you, Monica. And thank you, Lee. Thank you both for your patience. It's my late arrival and early departure.
+Lee Harrold: I appreciate it. All good. So awesome. We finished idp. Now let's get. All we need to get if they set up is to refresh this page doe spot. Doesn't, I guess, actively do that, but, yeah, we'll see. A little notification badge at the top, right next to the bell.
+Monica Dyer: Okay? I've got to, sweet. Pin number.
+Lee Harrold: Oh, so the PIN number there is just the value that you want to use anytime you use the platform. So it lasts you to type that in the time you prescribed or change a refill or something, okay? Cool. Yeah. So we're all set up here. We can go back to outside. Let's go to. Patient. I can show you how to prescribe for each. So, yeah, we. We're going through this patient setup process so that they're in the system.
+Monica Dyer: The address part is tricky because headway, like, once they get them registered, they hide that from you.
+Lee Harrold: Oh, really?
+Monica Dyer: Unless I'm on, I have it. On simple practice, I think.
+Lee Harrold: The other way we could do this is we. We have, like, a bulk patient import process.
+Monica Dyer: Okay?
+Lee Harrold: Or we could just, like, export a bunch of patients from either headway or civil practice, and then they show up in the system with their address.
+Monica Dyer: Oh, that would be great.
+Lee Harrold: Oh, cool. Let me enable that for you.
+Lee Harrold: Sorry about that. I fell out. I press. Have you exported fishes for simple practice or headway before?
+Monica Dyer: No, I haven't.
+Lee Harrold: Oh, cool. I haven't exported from headway, so I don't know where that process looks like, but I. I remember simple practice of being relatively simple.
+Monica Dyer: That one completing. It's only my patients that. I'm prescribing for, and so some of mine are, like, for therapy. So how do I would be the ideal one to use for that.
+Lee Harrold: That makes sense. Do you have a Google? Patients.
+Monica Dyer: Then I have them. It's the same patients I have on dance. I've just used their initial.
+Lee Harrold: That makes sense. Yeah. There was no reason to have all that information, so that makes sense. Yeah, it looks like you download the cylindrical notes for individuals. How do I export? Hello. Documentation on how to get patients into Medway.
+Monica Dyer: I think I can get to. The. Yeah. If I could avoid having to do this for each patient.
+Lee Harrold: Yeah, that would be right. That'd be a big. Well, maybe we do it for just one patient now so that you. You get a feel for the process. And then once we figure out how to get patients and appointments, because that. That's. We can export a patient. We can export. I can't speak appointments from headway and for civil practice. And get those in job site too. Send all that information there. But yeah, for now, let's just. Let's just. Set up this patient, and we can schedule another session to do this together if you want. Or I can give you the information. You can have a go on your own. Whatever. Whatever. You just.
+Monica Dyer: Okay?
+Lee Harrold: You have the date of birth? This. This is important for dose cost Just because if the patient is a minor. Great information.
+Monica Dyer: For controlled substances is required too, I think.
+Lee Harrold: For all prescriptions, so, yes, agreed.
+Monica Dyer: It's important. For all the reasons.
+Lee Harrold: For a bunch of reasons.
+Monica Dyer: Don't say them. An issue with that, or my browser in Firefox was, like, saving everybody's zip codes and stuff.
+Lee Harrold: They're like, oh, no. Oh, no, don't do that. Yeah. So here we are. We're in door spot. So we can add a prescription for this patient by pressing the button on the left. Panel. You can see that coverage details here. Okay. Yeah. See, the first step is to search for a pharmacy. Can this make sense? Because. Not all pharmacies carry all things.
+Monica Dyer: It's the only one in Abilene.
+Lee Harrold: That makes it easy.
+Monica Dyer: Okay?
+Lee Harrold: Sweet. Search medication and that same sort of search bar at the top.
+Monica Dyer: So I need the tablets. Let me try paper. Okay? So that's there. Add the code. Nice. Yarn. Simple practice. You have to have the code entered on the site and then it populates. So that's helpful because, yeah, insurance needs that. You, mark. Urgent. Wonder if the pharmacies would ever care.
+Lee Harrold: Oh, okay, we'll do it. Maybe after she shows up to ask for it.
+Monica Dyer: Yeah. I prescribe for Suboxone for opioid use disorder. And they're so suspicious of all the patients who are getting this, even if they've been on it for years. And so I'm always, like, kind of having.
+Lee Harrold: No, honestly.
+Monica Dyer: Physical care. This is life saving. I'm a little bit of pharmacy. System.
+Lee Harrold: I'm Dr. Dyer, not johnson. The johnson.
+Monica Dyer: Exactly. What's the family?
+Lee Harrold: I know. I don't remember. I wanted to make that joke, but I forgot their name.
+Monica Dyer: Yeah, yeah. I watched the whole series on Netflix.
+Lee Harrold: Oh, I didn't know there was a series.
+Monica Dyer: Yeah. That's really good. It was like. I can't remember the name of it either.
+Lee Harrold: I'll give it a Google, see what I hope.
+Monica Dyer: Pharma. Company series. Painkiller.
+Lee Harrold: Thank you. Oh, amazing. Yeah, I'll watch this.
+Monica Dyer: Thank you. Yeah, it's really interesting. Yeah. About OxyContin's rise and everything. Okay, so this is all there? Cool syntax for fantasy.
+Lee Harrold: Unfortunately going to have to run. But, like, I guess I'll ask. Do you see anything that you're missing or, like, any. Anything that I read? More info.
+Monica Dyer: For how long is the free trial?
+Lee Harrold: It's a. Month.
+Monica Dyer: Okay, cool. Awesome. And what other? You said other things might be rolling out. What else is.
+Lee Harrold: It sounds like you're. You're already enrolled in the, like, the upcoming JOT audit feature. And the billing assistant. And EHR extension is going to come out hopefully. Hopefully this week, worst case, end of next week. That will allow you to, if you want to keep using civil privacy headway, you'll see all of your job segments inside of this panel on the right and you can press a button and it will just like suck. All of the notes, pipe all those notes into. Whatever format is there.
+Monica Dyer: Okay, cool.
+Lee Harrold: Yeah. And then the patient import feature is like sort of. Sort of slow, slow rollout. So you. You now, if you go to the patient page, should be able to click that button and then just drag any information related to your patients into that box. Let's see. Yep, import patients button next to patient. So, yeah, if you have a CSV or like a zip file that either the platform is giving drag them in review all the information. It will do its best to merge with patients. You have it here. So it might find the hf, but in one of the criteria matches on is name. It might not. It might not be awesome at matching.
+Monica Dyer: If I put their names in, at least it might match.
+Lee Harrold: Yeah, yeah. The names, the date of birth, phone number, email.
+Monica Dyer: Just changing. I mean, initials to names to match it up better. Yes.
+Lee Harrold: And if it doesn't, there's, like, a merge patients button, which will allow you to combine profiles together.
+Monica Dyer: Too awesome.
+Monica Dyer: And then, anything on, like, patient scheduling, communications?
+Lee Harrold: Let me think about that. I don't think we have anything new. We have, like, automated reminders for forms. And then appointment reminders. Which it sounds like you're already using. I guess. What are you like, what can I make?
+Monica Dyer: I haven't been using, like equipment reminders. My appointments haven't really been through j Psych. But yeah, I was. I'm trying to basically just use this as my ehr and so to be able to. Like, send a message or. You know, I have, I have SPRUCE as like my patient communication, HIPAA compliant platform, but if there's anything like, within it that I would be able to message back and forth with patients, you know, like copy something out of their notes, I really summary email for the patient at the end. Of a note.
+Lee Harrold: Oh, yeah.
+Monica Dyer: And send it to the patient.
+Lee Harrold: Yeah, you can. You can do that if you open a note. There's a little bar at the bottom. There's a button that says follow up. And this is. This is kind of generic because it just on a patient page, but you can do this from the note page, too.
+Monica Dyer: I would just copy and paste it into an email, right?
+Lee Harrold: Yeah, exactly. And then I think. I don't remember. If you go back into that interface. Oh, yeah, this is good. We're on the note. You can hit X on the note. Auto complete. So get to follow up at the bottom. Yeah. Click follow up. I want to see if there's a. Yeah, if you click the share button. I vaguely remember. Making it so that it would send emails or text, but it's done a few months, so I don't. Can you click the share button at the top right next to save us template?
+Monica Dyer: Oh, sure. Okay.
+Lee Harrold: Send a tap bishop to see what happens. Well, I guess you don't really want to accidentally send it. But yeah. Like, 70% certain that if you press that button, you will have the option to choose either the phone number they have on file or the email they have on file, and then it'll go there. And if not, yeah, you could just copy and send it. That's obviously less convenient. And you can, using the appointment feature, automate the sending of these types of follow ups. So if you wanted to save this sort of thing as a template. You could then add that to an appointment. So anytime you finish appointment, it'll just sort of fly out to their inbox.
+Monica Dyer: How would I do that? Sorry.
+Lee Harrold: I do. I'll tell you what. I'm going to give you a link, and then we can say. Oh, we should stop.
+Monica Dyer: Okay. Yeah. Because I would really love to be able to know all the functions.
+Lee Harrold: Yeah. One thing we're not super good at, we're so figuring out is, like, how to communicate all of the functionality that is in. Okay. Yeah, so I just. I just sent a link, so you can go ahead and schedule a session for any time. What's available. And it was. It was lovely to meet you, Monica.
+Monica Dyer: Great to meet you too.
+Lee Harrold: Yeah.
+Monica Dyer: Thank you. How's it going?

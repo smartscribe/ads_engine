@@ -1,0 +1,188 @@
+Christopher Hume: Hey, great to meet you. My name is Chris. I'm chief of staff here at jetsyc, and we're on with Ryan, my colleague.
+mitchell: Great.
+Ryan McAnelly: Nice to meet you.
+mitchell: Thanks for chatting with me this morning.
+Christopher Hume: Of course. Well, Mitchell, I typically how we run these calls is just like to learn a little bit more about you, learn about kind of what brought you to learn or ask about jot. Psych, and then we can just tailor this conversation to whatever is the most useful and beneficial. Yeah. Value for your time here.
+mitchell: Yeah, for sure. So I'm a psychiatric nurse practitioner. Have my private practice running now for like two, three months. Getting all the kinks worked out. Right now I'm using Simple Practice and Upheel, and I don't know, I think those are my two main things. Simple Practice said they would decrease my admin burden, but it's not as much as I would like, so I'm looking at other options. Okay, understood.
+Christopher Hume: So you're. And I did a little. You're using Simple Practice for your ehr, Right. And then you say upheel. Is that your scribe?
+mitchell: Yeah. Appeal is the AI scribe.
+Christopher Hume: So I've been using those too. And then how do you do sort of your billing? Is that through Simple Practice or what's the.
+mitchell: I use Alma and Headway for insurance and Simple Practice for the self pay people.
+Christopher Hume: Okay. Okay. And then are you credentialed through Alma and Headway, or you credential on your own?
+mitchell: Okay, right now through all my headway, but I might crunch on my own in the future for other reasons, I guess I don't want to get into right now.
+Christopher Hume: Yeah, certainly. So, credential, what is the. So you have a lot of systems and tracking going on here, sounds like.
+mitchell: Yeah, I'm trying to streamline as much as possible. Absolutely.
+Christopher Hume: What is like the biggest challenger? What would be the best thing that I could show you today that would make this decision an easy kind of yes or no. Want to learn more?
+Christopher Hume: Not a good fit.
+mitchell: Yeah, yeah, yeah. So I have a few notes here. Like, the main thing that's been of giant pain in my side through Simple Practices, release of information.
+Christopher Hume: Okay.
+mitchell: I have a supervising physician, and instead of that document that I edited saying I can get information to and from these people, instead of it being sent to the client to sign, it's sent to my supervisor to sign, which can then get sent to the client. I'm like, that makes no sense. That is a giant burden. My supervising will not sign off on every release information.
+Christopher Hume: That's ridiculous. Oh, my gosh. Yeah, that's crazy. Certainly.
+mitchell: That's my main one. I sounds really simple, but that's. Like my main thing I'm looking for, like I just want to be able to receive and send documents and coordinate with other providers so my clients get the best care possible. I'm not trying to chase paperwork for hours.
+Christopher Hume: Yeah, no, that's not why you're doing this. Right?
+mitchell: I'm not doing it for that. And the other thing was for billing. I saw that Got Psych has like a request payment, but is there a way to like bill them after the appointment is done instead of like requesting it? Because I don't want them to say, no, I'm not paying that because it's a request.
+Christopher Hume: Yeah, no, no, no. So certainly I can walk you through kind of our forms, which I think would handle the release of information, billing. So we have two options here. One, I can show you how just you do self pay people. But also we're rolling out our new kind of insurance bill billing.
+mitchell: Oh, cool.
+Christopher Hume: Yeah, Functionality. And kind of as part of that, Mitchell, we have a credentialing. We have JOT cred. So we can, if you're looking in the next few months to get your credentialing set up. I know it's a huge administrative burden. We can set you up with our credentialing team and they'd be happy to walk you through kind of our offering there.
+mitchell: That's cool. How much are you charging per. I guess insurance provider at the moment.
+Christopher Hume: I believe it's the first. The upfront fee is $300 and then I would have to check on the per insurance fee. It's somewhere in that range. So I between. Yeah, I'll have to check with you, Mitchell, and get you a quote there.
+mitchell: Yeah, so you said it's like a 300 just to like get the paperwork rolling. But yeah, that might be for all the insurances then 300 per insurance or worse.
+Christopher Hume: So it's 300 up front to get all the administrative. And then there's a recurring fee while we get everything set up so I. I can follow up. Sorry I didn't review my credential notes before this.
+mitchell: That'd be great.
+Christopher Hume: Get them to you.
+mitchell: All right.
+mitchell: Oh yeah, here's another one. Can I use this overseas? Let's say in theory, this country no longer is democratic and I need to get out of this country. Can I use this platform in another country?
+Christopher Hume: Habitual. I. This is, I mean, interesting, scary, whatever word you want to use. This is not the first time we've had this question actually. And yeah, JA has no restrictions on where you use it. So you can certainly use this broad. And we actually have some customers who do use us abroad. A few in Europe, and then a few, very interestingly, in Australia and New Zealand.
+mitchell: Cool. Yeah. My wife's a Canadian citizen. We're maybe thinking about going up there.
+Christopher Hume: Oh, wonderful. Yeah. And where are you now, Mitchell? Where are you based?
+mitchell: We're in Texas, so.
+Christopher Hume: Oh, my gosh. Okay. Certainly a change of climate from Texas to Canada.
+mitchell: Yeah, for sure. Don't want to do it, but it might be necessary in the future.
+Christopher Hume: Yep. No, Understood.
+mitchell: Okay. So said you'll talk about billing. Oh, here we go. Simple practice. One thing I do like about it, there's a widget for that I can upload to my website where clients can schedule directly, like either a consult or a initial appointment. You'll have something like that.
+Christopher Hume: We don't right now have scheduling directly by the client. You can schedule inside job Psych. It'll send reminders to your client. But that schedule directly thing, you're not the first person to ask. It's something we'll need to kind of foot stomp for the. On the product roadmap because it'd be such a. Yeah, it's a. It's a really valuable feature.
+mitchell: Yeah, if you had that, I would be, like, all in right now because that's, like, huge admin burden release because you're not playing phone tag. You're not getting people your email. I mean, your text messaging capabilities. Like, hey, what about this time of day?
+Christopher Hume: Yeah, no, certainly. Certainly understand. Any. Any other questions before kind of jumping?
+mitchell: Oh, yeah, actually, I have a few. Perfect.
+Christopher Hume: Perfect. Yeah.
+mitchell: Yeah. E Prescribe. I heard y' all have that capability.
+Christopher Hume: Yes, we do. Yep.
+mitchell: I see.
+Christopher Hume: So we have a prescription through Dose Spot, our burner, and it's integrated into Jos itself.
+mitchell: And what is the partner? You said Dose.
+Christopher Hume: Dose Spot.
+mitchell: Dose Spot. Okay. And would that be able to be used overseas? I know we can't do controlled substances if we're overseas, but what about just, like, regular? I don't know, SSRIs and stuff? Do you know anything about that?
+Christopher Hume: I have not heard that would be an issue, but I can double check that. I see no reason why it wouldn't work because everything else does, but I've never yet checked. So let me. Another question for me.
+mitchell: Awesome. Okay, so I'm gonna put a question mark by that one for now until I get confirmation. And do you all track. Let's say I like to do measures before every appointment, like G87 for anxiety, PHQ9 for depression. Is that able to be tracked to see, like, the trends? Cool.
+Christopher Hume: Yep. So you can send phq9. Wish I had my example up. But you can send phq9s or gad7s through jot psych itself. Then on your patient overview, it'll have a chart of how that changes over time.
+mitchell: Awesome. And then I saw lab orders. Seemed pretty straightforward. I went through all the tutorials before I talked to you to not waste you all time.
+mitchell: Perfect lab ordering. How does that work?
+Christopher Hume: Yep. So right now, how lab ordering works with job site is you can create that lab order, do your digital signature, and then you can email it to your patient or download it and send it. We're not yet integrated directly with, like, LabCorp or Quest, so your patient would have the slip to bring.
+mitchell: Perfect. So I can send it to the patient or, like, fax it myself to them.
+Christopher Hume: Exactly.
+mitchell: I call. All right, so let me make a note of that.
+Christopher Hume: I saw in your calendar invite you had a question about intake forms. Is that. Is that correct?
+mitchell: Yeah, most of the. Oh, yeah. Intake form. Like, release of information and stuff.
+Christopher Hume: Okay.
+mitchell: Oh, perfect.
+Christopher Hume: Okay.
+mitchell: That was my major one. It's been a real pain in my side.
+Christopher Hume: Oh, my God. I'm sure.
+mitchell: Yeah.
+Christopher Hume: Okay, perfect. Any. Any other questions for us before we kind of jump in and I can show you some of the features there?
+mitchell: I don't think so. I think those were my main ones. Those are the main issues I've been running into so far.
+Christopher Hume: Okay, so, Mitchell, before I jump in, what would be a good outcome for you here at the end of this meeting? Do you. Do you have a job site accounts set up? Would it be a meeting with our billing or credentialing team? What would be kind of. Yeah, what would be good? You leave this meeting, you're like, yep, that went really well. Got exactly what I needed.
+mitchell: Yeah, let's see. Well, I'm already on. I might have signed up already. Still, like, nine days left in the trial, and one of my colleagues is using it. She really likes it, so just wanted to give it a look, see if I could cut off some other services I'm using that are quite expensive.
+Christopher Hume: Yeah.
+mitchell: Yeah. Basically, I want to know if I can, like, customize the release of information so I can just type in where they're going to, who I'm receiving from, and all they have to do is the client signs it, and I'm good to go. Yep. Like, that's, like.
+Christopher Hume: Yeah, okay, perfect. Well, let me walk you through this,
+mitchell: and I probably do the credentialing. I'll probably wait on that until. See how, like, midterms and things go. Okay, understood. Wait a minute on that. So I haven't fully committed to moving yet. Okay.
+Christopher Hume: Let me then get my screen stuff here. We can walk you through this,
+mitchell: I guess, in the future, if you did credential me and you all do the. Billing, like, what is the percentage taken? What is. What is all that?
+Christopher Hume: So billing is between 4 and 8%, depending on the package. So for people, yeah, there's like the base billing package and then the top one at the 8%, we can follow up with patients for you, we can fight your audits for you. And then the 6% is obviously somewhere in between. And we have a much more detailed review that I can share with you if that would be useful of kind of what each level entails.
+mitchell: Yeah, that'd be cool.
+Christopher Hume: Okay. Oh, let me walk you through here, Mitchell. So you are familiar with. Have you recorded with jot, Psych or anything like that yet?
+mitchell: Not yet, but I could play around with it. Yeah.
+Christopher Hume: Okay, then I'll just do a super. And let me just make sure we're coming up on time here. I do want to be respectful of your data.
+mitchell: I have plenty of time.
+Christopher Hume: Okay, perfect. Then I'll just go a little bit over and I'll walk you through some of the basic features. Then we'll go through forms and document generation, and we can see if that would fit your workflow on roi. So, dot psych homepage record, select your patient, we'll go example patient, select your session type into psych intake.
+mitchell: Let me move you over to my big screen real quick.
+Christopher Hume: Yep.
+mitchell: So, yeah, it doesn't look like I'm looking at you anymore, but I'm looking at.
+Christopher Hume: No worries. Very familiar with two screen life. So when you're on this recording screen, as I said, you select your patient, your session type, start recording. We're in person and remote, and it picks up on both sides.
+mitchell: Okay. I see mine going, okay.
+Christopher Hume: At the end of the session, you can actually record again. If you want to add any clinical context, you can type additional notes here, or you can just press generate note and it'll put that into a clinical note for you.
+mitchell: Nice. And I saw there was a save for later section. It's like, if you didn't want to generate it at that moment, why would you do that?
+Christopher Hume: I wonder the same thing. Especially when we get customer support tickets asking where their recording went when they press save for labor and never generate the note. Sometimes providers, if they have back to back to back sessions, they want to come back and add their clinical context at the end of the day. Like something they weren't comfortable saying in the room with the patient. I recommend generating it right away, but that's why some people do it.
+mitchell: Okay. Because you can change. You can edit it once it's generated too. Right. You can add your clinical context there.
+Christopher Hume: So nope, looks something like this. You can copy all sections. You would copy a few sections at a time. We're also rolling out a chrome extension add on. So if you want this to integrate directly into your ehr, get that set up as well then the real magic of job site is our AI assistant over here. As you were saying, you could edit a note after the fact that you can say that could be content related, format related. We'll just do format because that's easier for me as a layperson. Make this summary. Gods like will do that for you. And the exciting thing is you can train it and then every time you do a soap note moving forward, it'll remember, oh, Mitchell likes his summary to be bullet points.
+mitchell: Cool. And then John Psych is an EHR as well though, right? I don't have to use. Keep using like some like simple practice.
+Christopher Hume: Like some of our providers do use this as an ehr. Typically how people like come into jot Psych is they start using us as a scribe. Some of those add on features. They make sure kind of we fit their workflow and they're comfortable with everything and then we can transition the data over is the typical process there.
+mitchell: Okay.
+Christopher Hume: But yes, we're fully accredited as a ehr. We do the six or seven years retention. You can sign your notes, you can bill you prescribe, etc.
+mitchell: Nice. Yeah, I'd probably want to. If I'm switching, I'd probably just switch it all at once. We don't have to deal with even more rip the bad head off.
+Christopher Hume: Right?
+mitchell: Puzzle pieces. Yeah, yeah.
+Christopher Hume: Let me tell you that the engineers would love that we, yeah, we can transition the data over from your simple practice. Make sure kind of that patient demographic info comes with you.
+mitchell: Okay, cool.
+Christopher Hume: And then the last kind of basic thing, just want to show you templates. These are infinitely customizable. So however you like to practice, whatever you need for Alma or Headway or whatever you need for your payers, we can make sure that that's how your notes are coming out.
+mitchell: Cool.
+Christopher Hume: That was kind of the basic how you get up and running, how you can play with Jaws like for the next nine days. Any questions there before I start going into the forms and the document generation? Because I think that's going to be what you're really going to want to play with this week to make sure we meet your workflow.
+mitchell: Yeah, yeah, let's do it. Let's move on. I think I got a good feel for the. For the notes and things.
+Christopher Hume: So the. What you can do with JOT Psych is send forms directly to your patients or your clients. And so what's exciting for you is that these are completely customizable forms and they don't have to go to a supervising position or they go to whoever you send them to. So what we would do, Mitchell, is we'd work with you to develop a custom form that meets your ROI requirements. Build new form. You could upload if you have an existing PDF.
+mitchell: Yeah.
+mitchell: Or we could build it from scratch. Yeah.
+Christopher Hume: Yep. And we'd probably set up a 15 or 30 minute session together just to make sure kind of it's all locked down, you're comfortable with it. Then you can start sending that out to patients for their kind of approval and signature.
+mitchell: Awesome.
+Christopher Hume: And those.
+Christopher Hume: Once you send it, those forms would be saved here and then print and download if you need them for your records.
+mitchell: Okay, but once I make it, is there a way to, like, edit it after I've made it so I can like, fill in, like, you know, the to and from section so the patients don't get it incorrectly?
+Christopher Hume: Yes, certainly. So one, some of that information should change automatically per patient. But if, like, for example, you can always just. You can always just copy a form and then just make some small tweaks and save it.
+mitchell: Okay, cool.
+Christopher Hume: And then any questions here, Mitchell? Because I know this is like the real reason we're on call today. I want to make sure I don't leave anything. Yeah. Unanswered.
+mitchell: Yeah, I think that seems straightforward. And then is there a way for the supervising physician to get access to my charts and sign off on them as well?
+Christopher Hume: They're signing off. Is something. Tracking our engineering slack? That's something we're working on right now. So you can both sign.
+mitchell: Yeah, but. And she doesn't have to do every one. It's only just like a few a month. I mean.
+Christopher Hume: Yeah.
+mitchell: To be.
+Christopher Hume: And we can right now invite your supervisor to the JOT Psych, your organization, so that she would have the ability to review all your notes. Then very shortly, we'll have the feature so she can sign them in at.
+mitchell: Okay, cool. Yeah, perfect. Sounds good to me.
+Christopher Hume: And let's see. I think I had one more thing I had started to show. Show you, but maybe not. I guess I'll just make sure. Mitchell, I'll follow up here with the credentialing quote and just an overview of the billing tiers. So when. Kind of when you're sure where you're going to be and if you'd like some support with kind of that credentialing. And maybe we're here to help with that as well.
+mitchell: All right, cool. Let's see. You said you'd get back to me on. Oh, gosh, what was it? Oh, the E prescribe if we can use that overseas.
+Christopher Hume: Oh, yep. Prescription abroad. Yeah, have that start as well.
+mitchell: And then what else? Oh, yeah, and you said you might look into having the engineering look at direct scheduling for clients.
+mitchell: Yeah, that would be huge. I bet everyone would love that.
+Christopher Hume: Yeah, no, it's. It's funny. You're certainly not the first one to say that. It's. Yeah. Such an admin hassle.
+mitchell: It is. Oh, man.
+Christopher Hume: When we. When we go to some of these big, you know, 10 or 15 person clinics, the setup, the front desk people have to have to keep the schedules in line and fill people in when there's no shows and reschedule. It's pretty unbelievable.
+mitchell: Yeah. I'm just the one guy, so I don't want to be doing too much of that.
+Christopher Hume: I know, I know. Right?
+mitchell: Cool.
+Christopher Hume: In terms of next steps here, Mitchell, would you be open to just a 15 minute check in next week to see how your testing is going and to see if there's any kind of questions I could answer before the trial wraps up?
+mitchell: Yeah, that'd be great. I'll probably play around with it today and this weekend.
+Christopher Hume: Perfect. Would maybe Wednesday at 10:30 Eastern work for you?
+mitchell: Yeah. Let me look at my calendar real quick. Wednesday, 10:30. So it'd be 9:30 Central.
+Christopher Hume: Yep.
+mitchell: That's what, March 4, Is that right?
+Christopher Hume: Yep, that is correct.
+mitchell: All right, no worries.
+Christopher Hume: All right.
+mitchell: 9:30. Yeah, that works for me.
+Christopher Hume: Perfect. I will throw that on your calendar right now.
+mitchell: Yeah. What was the pricing for JOT Psychs there? So I can like do all math.
+Christopher Hume: We. We are $150 a month and our prescription add on is $69 a month. If we also have. I didn't even review this today, but we also have these show you right now, these JOT audit. We will automatically. Review your notes against payer rules and let you know if there's any concerns.
+mitchell: Probably.
+mitchell: That was a little service I looked at through the. Oh, gosh. Was it the tutorials? Yeah, that was really cool.
+Christopher Hume: Yep. So we have that on the right hand side. This might be an old note. And so that is also $69 a month. So the reason I bring that up is because.
+mitchell: So most people are on the 150, $150 tier.
+Christopher Hume: But if you want to do all the add ons, you can do it a la carte or you can just purchase everything for. I believe it's $249 a month. You get access to everything.
+mitchell: So that would save a little money, I guess.
+Christopher Hume: Yeah, you'd save a little bit. And then there's some additional add ons we haven't even reviewed yet, like custom data policies, custom data retention, and the. Yeah, I think that's the other one right now. Okay.
+mitchell: Y' all plan on like raising fees? I know simple practice, like doubled or tripled on a whim. Which really made.
+Christopher Hume: Oh my goodness.
+mitchell: Very angry.
+Christopher Hume: That is. No. So the two. The 249 for the. The a la carte. I mean, I'm not the CEO, so I can't promise you it's never going to change or. Excuse me, 259 for inclusive. That is really the top tier we plan to roll out ever, at least for the foreseeable future. But I think kind of when you start using us, Mitchell, I would be. I would expect it to be much more in that 150 range. And then as you add on kind of the billing support and the prescription, we might bump up a little bit.
+mitchell: Yeah. And you said the 249 would include the prescription and the audit in the job site?
+Christopher Hume: Yes. Correct. Yep. Correct.
+mitchell: Yeah. That's not terrible.
+Christopher Hume: Okay, we agree. We agree.
+mitchell: I'll definitely keep that in mind. I'll do some math and then. Yeah, talk to you all next week.
+Christopher Hume: Yep. And we'll get you those materials, if not today, then on Monday. And if you have any questions, one, you have my. My email. But we could also talk about it on Wednesday.
+mitchell: All right. And then you said the billing thing. Like, how does that work? Because I saw in tutorials it was like request payment.
+Christopher Hume: Oh, oh my God, I forgot. Yeah. So if you go to a patient, we'll go. Bruce Cahill might not have Bruce's information in here. Let's go to a note. So request payment is just sort of how we have it phrased. But for self pay, you just put in the amount and they will receive kind of directly via text, a link to input the information.
+mitchell: Okay.
+Christopher Hume: And then they just pay you via the stripe portal, via Jotsy.
+mitchell: Got it. You don't. Keep their, like, credit card information on file. So just like a one and done type thing.
+Christopher Hume: Yep, exactly. We. That's something. Another thing, Mitchell, that we've had a few people ask us to help with.
+mitchell: Yeah.
+Christopher Hume: But it's something we're seeing.
+mitchell: Definitely feel more comfortable with that. Just in case people don't pay, which is.
+Christopher Hume: Yeah, yeah. That's actually really. I'm going to see what our solution is. If someone sends this and then the customer doesn't. The client doesn't pay, how do we help? I. I'll have an answer for you on that on Wednesday.
+mitchell: I wonder if we could do it up front. And if they don't pay before the appointment, I'm just like, well, sorry. I mean, not doing this for charity at this time.
+Christopher Hume: It's a job, not a hobby. Right, Right. So I'll check in kind of. What the. If there's anything we could do to help push the payment a little bit.
+mitchell: Okay. Yeah, I think those are my main concerns. I just want to keep my business going and not. I don't want to be in the red due to, like, people not paying, you know?
+Christopher Hume: No, I mean, certainly understand. And yeah, it's just interesting how many people struggle with that and, you know, either people not paying or payers fighting them. It's kind of an eye opening for me for the past year,
+mitchell: especially, like, getting started, like, just to pay for a super position. 600amonth. I'm like, this is a lot. That's somewhere, you know, no joke.
+Christopher Hume: Well, Mitchell, I appreciate you taking the time and I appreciate you going along with us. I. I could talk about jot psych all day, but for you, we'll keep it to 30 minutes. Yeah, please try it out. Let us know if you have any questions before Wednesday. Otherwise, we'll kind of check in and see how we can support you next week.
+mitchell: Sounds good. All right. Appreciate your time too.
+Christopher Hume: Thank you, Mitchell. Have a great day.

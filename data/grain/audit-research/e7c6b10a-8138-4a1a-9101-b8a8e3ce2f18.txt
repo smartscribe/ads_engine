@@ -1,0 +1,182 @@
+Adam Harrison: Doing the Create claim button in job site for any patients. Let me go ahead and share my screen on the forms. I think we should start there. Okay, so I'm going to zoom in so you can see, but there's two here. That I want to go through. I divided them into two. So one is just like everything related to the intake questionnaire.
+Adam Harrison: And then the second one is all the consent stuff. So it's kind of just two separate forms. One, they're just signing, signing, signing. The other one, they're actually filling out all the information. So this one, it's a little lengthy, but it is a combination of the kind of basic intake form with the demographics plus all the clinical intake stuff. So really, that blend of the two things that you were looking for. Yeah, we can kind of go through it just sort of maybe section by section, if you want, or if it's easier, we can just kind of do an overview.
+Tracey Sanderbeck: Yeah, you just open each one and let me take a quick look, and then I can just see. Okay. Demographics. Looks good. Looks good. Contact, mobile, email, residential. Good, that's perfect. Emergency contact. If you want me to tell you if. If I don't need it or just we'll just leave it, it doesn't matter.
+Adam Harrison: It's up to you. We can leave. We can mark things as optional, too, versus required. So any. Any feedback would be great.
+Tracey Sanderbeck: Okay, so this is good. Emergency contact. Good.
+Adam Harrison: Ok.
+Tracey Sanderbeck: Service information good. Good Service requested Are you seek it perfect. Self, pay, use insurance, primary insurance, blah, blah, blah, self. Yes. Perfect. Secondary. Good. Now, is it going to have a place where they can take a picture of their card and upload it?
+Adam Harrison: We don't have that yet, but we're working on it.
+Tracey Sanderbeck: Ok. So right then I would just have them we're going to keep doing it the same way, and I would just have them take a picture and text it to the office. That's pretty simple.
+Adam Harrison: Yeah, that would be the best way
+Tracey Sanderbeck: for now, without making you tell me if this is. I mean, it doesn't matter to me. We can figure out. But I don't know if you can put anywhere on here under, like, insurance. Like, please text a picture front and back to 7750. You know, I mean, or we could just. Or Jeanette can just have them. Well, there are new patients. Usually. Jeanette, just. I don't care. I mean, if it's not too much. Add it somewhere in the insurance. Please text front and back of your Insurance card to 727-529-55050. And then that would, you know. That difficult to do? Because if it is, it's not that big of a deal. That's what I'm saying.
+Adam Harrison: Super easy. So we can add it.
+Tracey Sanderbeck: Yeah. So anywhere on this, just. You can put that. And that's perfect. Good. Secondary insurance, Chief complaint. Complaint. Reason Very good. Height and weight. Very good. System checklist. Very good. Very good. Energy. Sleep energy did a very good. Very good. Very good. Very good. Oh, that's long, isn't it? Yeah. It's good enough. It's clicked over. It's like, boom, boom, boom.
+Adam Harrison: They can click it. They also, I think, can skip these too.
+Tracey Sanderbeck: Okay, that's fine. That's perfect.
+Adam Harrison: Yeah, but if you want to cut any, we could cut some, too. It's pretty easy.
+Tracey Sanderbeck: No, that's okay. I mean, you just might as well just leave it. They can click it. It's easy once you.
+Adam Harrison: Once we put in your account. You can also edit it later on, so probably better to start with more. And you can cut, you know, rather than the reverse current medications.
+Tracey Sanderbeck: Now, is this going to. Be. How do they. Oh, they're just going to put that.
+Adam Harrison: They just kind of type it in.
+Tracey Sanderbeck: Okay, good. That's good. Start date. It doesn't matter. Still taking. Yes. Maybe take that start date. Start date out because it might be. Or make it optional or something, because that doesn't really. Yeah. And then the medications. And so how many. Because these people on a ton of medicine, will they be able to keep adding them or.
+Adam Harrison: Right now we just have three. Do you think we need more? How many would you think we need? I don't know that we can have, like, add another. Add another, add and I think we need to, like, give a certain amount. We could have something like. Maybe just a free text box for any additional medications.
+Tracey Sanderbeck: Do three. And then a free text box for any list any additional medicines. Type in. And, like, type in any additional medicines. That's perfect.
+Adam Harrison: Okay, let's do that.
+Tracey Sanderbeck: Medical history. Condition surgery. You know what? That's good. That's good. Because, you know, they're clean. The box, it's fine. I would say leave it. And then if I want to take it out later, that's fine.
+Adam Harrison: Okay?
+Tracey Sanderbeck: Health care providers. Perfect Previous site history. Very good, Very good. Yep. Good psychosocial. We adopted parents, divorce. Very good current relationships. Yep. Good family history. Family. Yep. Good. Perfect. Substance abuse, tobacco, alcohol, drug. Perfect. Legal history, arrest, good employment. Employment information. Perfect. And current diagnosis. Known diagnosis? Probably. I'll probably take that out. Take it out. Yeah, I would take that one out. I would just take it. These people. It's going to be too complicated.
+Adam Harrison: Too much. Okay, so.
+Tracey Sanderbeck: And then, yeah. Perfect. Yeah, I might only do get definitely get rid of the diagnosis one and everything else is good. I mean. Yeah. Good.
+Adam Harrison: Okay, so I'll make those tweaks, and then I'll put it into your. Your account. So when you go to your form library here, you'll see it. You know, Island Mental Health intake Form. So I'm just going to recap here just to make sure I got everything super quickly. Section by section. So section one, it was good. Section two was good. Section three was good. Section four, we wanted to add a note to text, a photo. Of your id?
+Tracey Sanderbeck: Yeah. No front and back insurance card. Yep. Front and back of insurance card and then just put my office number on there.
+Adam Harrison: Okay? And what was the number you wanted?
+Tracey Sanderbeck: 727. 727-295-5050.
+Adam Harrison: 50. Ok, I think this was fine. This was fine because they just pick it. Medications. We have three. And then we're going to add. Now, I think. I think this was fine, right?
+Tracey Sanderbeck: Yeah, that's fine. But you're going to add a box.
+Adam Harrison: To type in.
+Tracey Sanderbeck: Type in any additional medications. I think you have it right there. Over the counter medication, supplement, vitamins. You could probably just. If that's the type, you could probably just add a little thing.
+Adam Harrison: Said other prescription over the counter.
+Tracey Sanderbeck: Other prescribed medications over the count. Yeah. So you could just add there. You got that.
+Adam Harrison: Modify that existing one, and then I think this was all fine.
+Tracey Sanderbeck: Good, good. Diagnosis 1. You're just going to take out.
+Adam Harrison: We'll take out diagnose. Okay, that's easy. These are the consent forms. I think this should be a little more straightforward.
+Adam Harrison: Except for building, it's basically just everything that you sent me, just. Just, like, merge together. So they sign here for treatment. For billing. That's the first section. Medication history. The second one.
+Tracey Sanderbeck: Good.
+Adam Harrison: Medicare1. This one is credit card.
+Tracey Sanderbeck: On file. Yeah. Perfect. Let me just read that. Credit card. One patient and cement stripe. Yes. I added stripe in there. Yep. Okay. Office policies. Office. Can you scroll down and make sure? If you go and I want to see. I want to make sure because I had such trouble. Right there. 75. That's good. Good.
+Adam Harrison: Okay?
+Tracey Sanderbeck: Okay. That's all good. Very good. Very good. They don't read this. I just had an argument with a patient about this because she was arguing with me. And I said, you sign the policy. I said, a center copy of it. And she said. She goes, well, this is ridiculous. She said, who reads these things? I had two patients recently. Two patients about the thing. And I uploaded, I sent them, I texted them, you know, here you go. Here's your. You know, here, you sign the policy. You signed it. It's right here, and I serve it. And both of them were like, yeah, nobody reads those things. And I was just like, I read everything that I sign? Sorry. But anyway, go ahead. Sorry.
+Adam Harrison: Good. Yeah.
+Tracey Sanderbeck: So that's a total of. Should be a total of seven, right? Is that seven?
+Adam Harrison: So one. 23. 456. And then 7. We just broke out treatment and billing is 2, so it's actually 8. Yeah, perfect.
+Tracey Sanderbeck: Okay. Excellent. Excellent.
+Adam Harrison: All right, good. So I'm glad that's all.
+Adam Harrison: This one's at least kind of final and done. This one. I'll make those tweaks and I'll put it in your account so you have it just. And you can start using it. Maybe. Should we talk about the Aetna claims and any questions you have on, like, starting to submit those.
+Tracey Sanderbeck: I think that I'm just going to have. Jeanette, we just got to figure out a little. System when she. I think I'm just going to have her mark the Aetna on here. Like, put an asterisk or like, type in Aetna somewhere on. On my sheet so that I know who's that and who's not, because I don't look at that during the visit or anything. And do you. Can I.
+Tracey Sanderbeck: Is there anything you want to show me? Or can I sign on and then just walk through? Because I think I've got it down what I'm supposed to do, but unless you.
+Adam Harrison: So your account might be better just so we can make sure that it's actually like all the right permissions are on for you. But you should also see the insurance should appear at the top here of the note. So it'll say. It'll say Aetna on there, so that should be ok.
+Tracey Sanderbeck: Oh, okay, good. Oh, absolutely.
+Adam Harrison: That should help. But, you know, probably good to have extra sheet handy, just in case. But it'll help you because it'll just show that at the top. But, yeah, I think maybe helpful if you share your screen and, you know, just. Just to make sure that all the. All the steps are kind of clear and, and make sense and all that good stuff.
+Tracey Sanderbeck: All right? Are you seeing? Am I doing it?
+Adam Harrison: I don't see anything yet. Not yet.
+Tracey Sanderbeck: Can't share. Something went wrong. Machines. Okay, let's try it again. All right. Custom. I want to do the window. I want to share my entire screen. Am I? Is that right, or. Yeah, I'm sure. My entire screen share.
+Adam Harrison: Ok, that works.
+Tracey Sanderbeck: Is that working now?
+Adam Harrison: Not yet. I don't see anything yet.
+Tracey Sanderbeck: No, it's. Tell me. Something went wrong with screen sharing. What am I doing? Ok, I've done this a bunch of times. So window. Okay, let's try this Share. Now can you see?
+Adam Harrison: Yep, I can see now.
+Tracey Sanderbeck: All right. So I'm in jot site here, so let's go to. You want me to pull up an Aetna patient?
+Adam Harrison: Sure.
+Tracey Sanderbeck: Okay, so let's pull up. H. Wyman. No. Christina hines. Just make sure. There. Insurance. No.
+Adam Harrison: Yeah.
+Tracey Sanderbeck: Okay. Very good. All right, so I'm going to.
+Adam Harrison: Oh, you should see it. On the right, below the E prescribing button, there should be your. Your appointments with her and the patient encounters box. Right below where it says E prescribing in the bright pink.
+Tracey Sanderbeck: Oh, here.
+Adam Harrison: So right below that. Those are. That should take you to the notes.
+Tracey Sanderbeck: All right. Therehere we go. OK, so here's a note. And here it says Aetna. Very good. And then this is. What's this?
+Adam Harrison: So that's the CPT code that the AI is recommending or based on the transcript. So it's kind of like a review and approve or modify situation.
+Tracey Sanderbeck: So I did an add on therapy with her on this particular one. So. And this I'm not going to. I've already submitted this, so I'm not going to submit it, but pretend I didn't submit it. So I'm done all the note. I'm going to go to sign the note. I'm going to say session details, modality. Is. I'm going to change it to video telemedicine in the patient's home. The date, start time? I'll just leave that. I don't know. And then I'm going to change this to whatever this is. 23. But I can always change it if I wanted. Billing codes, I'M. Going to go here. And I would do a nine that. Oh, look how simple this is. And then I know this is. The primary, and then this is. I can make this primary. One of her codes is missing, so I wanted to add it. So I'm going to say F 41.1.
+Adam Harrison: That one not coming up for us. I'll have to.
+Tracey Sanderbeck: Oh, because it's already on here.
+Adam Harrison: Okay.
+Tracey Sanderbeck: Okay, so let's do 41.0. Okay. Very good. Which. I don't think that that's applied here. Yeah. Yeah, I was just looking. I was pretending. Okay, so that's that. So I got her. So there's my time code. And then if I wanted to do a specific, I could enter the minutes there.
+Adam Harrison: I know how to do that.
+Tracey Sanderbeck: Here's my billing codes. I got all that attic and add another one. If I want psychotherapy minutes, I would add here. Attestation. Do I do this? I don't remember this.
+Adam Harrison: Yeah, that's sort of like. You don't need to. But it's. It's. It's more of a reminder, I guess, for you to kind of get these during the session, but it's helpful to just check them, you know? But you don't. You don't have to, okay?
+Tracey Sanderbeck: So I know that I have a telehealth consent on. On. And then I have location confirmed. I always confirm the location.
+Tracey Sanderbeck: And, well, sometimes, honestly, it's not. They're not at their house, they're in their car, they're at work, they're at a friend's or whatever. So whatever. And then pm PDMP review. Which, this is nice, because now I can take it off my other form. Very good. Okay, so then I've done all that. So now I'm like, okay, I'm ready to. I'm not going to do it, but I'm ready to. So I'm going to sign my notes. Should I do it and then we can undo it or.
+Adam Harrison: Yeah, if you already have it signed somewhere else, that's totally fine. You can do it and undo it and draw.
+Tracey Sanderbeck: It's like I don't sign any of my notes. I just sign them and Dr. Chrono. So I need to get used to doing this.
+Adam Harrison: Yeah. So you can go ahead and practice, then we can just undo it after.
+Tracey Sanderbeck: Okay, so I'm going to sign my note. And then I say, okay. And then I'm like, everything looks good. And then I'm going to hold on. Oh, create a claim. Ready to bill. I'm creating the claim. And then.
+Adam Harrison: Interrupt. Review it, but you just have to create it. You can do it if you want, but it's not required.
+Tracey Sanderbeck: I don't have to do this part.
+Adam Harrison: You just have to click Create Claim. You don't have to click View Claim.
+Tracey Sanderbeck: Okay, so I created the claim. Now, is that all? Did I just bill it?
+Adam Harrison: That's it? Yeah.
+Tracey Sanderbeck: Okay, so the. Good. I remembered it so.
+Adam Harrison: Excellent. Yeah, you got the whole thing. Okay.
+Tracey Sanderbeck: Well. Very well. It's very simple. So that's good. Very good.
+Tracey Sanderbeck: All right, so now should I undo this so that I don't. I mean, that.
+Adam Harrison: Click Amend.
+Tracey Sanderbeck: That's not going to submit the claim because I already did it. Okay, well, it did.
+Adam Harrison: There you go. So I'm just going to delete that claim because.
+Adam Harrison: So we don't submit it. But, yeah, that's the process.
+Tracey Sanderbeck: Now. Well, I mean, this is totally off topic, but I ran into this today, and I just. I know that somebody showed me this, and for whatever reason, for life of me, I cannot find it. And this. I'm going to use this as an example. This guy right here is one of my new patients, and I wanted to send this. And Nate showed me. And for some reason I can't figure it out, I tried. I want to send this. I want to send this to the patient. But I don't know where. How do I send this follow up email to the patient?
+Adam Harrison: So try clicking on the bottom where it says follow up.
+Tracey Sanderbeck: Yep, I tried that. Yeah, see?
+Adam Harrison: Let's see. So it. This will, like, generate a new one, so maybe close out of this.
+Tracey Sanderbeck: Okay?
+Adam Harrison: Separate copy. On the side there and then, you know, just put it in your email. I don't think it will do it directly from. From in here.
+Tracey Sanderbeck: So then I can do. Then I go to the patients, send a patient. Form.
+Adam Harrison: You could go.
+Tracey Sanderbeck: Do I go here? Okay, this is.
+Adam Harrison: You might. Yeah, you might be able to go to documentation. Let me. Let me see if I remember here. Documentation on the top bar.
+Tracey Sanderbeck: Top bar this on our top.
+Adam Harrison: Try doing. Maybe. Maybe other documents.
+Tracey Sanderbeck: Their documents.
+Adam Harrison: And then. Okay, so there's the document you just created.
+Tracey Sanderbeck: No, that's him. This is. This is a different patient. I did send him one, though. A long time back on February 25th.
+Adam Harrison: I see. I got you. And then. Yeah. Let's try this.
+Tracey Sanderbeck: Let's try this. And then. What document do you want to generate now, esa? No, this isn't it. This isn't it. I. He showed me how to do it. I can't. It's okay. I'll have to.
+Tracey Sanderbeck: I don't know how to do it. He showed me. It was super easy, and I did it right here. With this patient. That's somebody that. I did it, but I cannot unless it was. Unless I clicked on email.
+Adam Harrison: No, that's just his email. Like, his. His actual email address? Maybe at the bottom bar here where it says documents? Try clicking on that.
+Tracey Sanderbeck: Documents.
+Adam Harrison: Does this look like what you did?
+Tracey Sanderbeck: Nope, this doesn't it. But here's what I'm wondering. Hold on one second. I'm wondering if. Because I don't. It's not showing up there. Hold on a second, Walter. I'm wondering if. Because I don't have his. See here. Copy. I'm wondering if. Because I did not. If this is how I did it before. No. Paste. Email. See right here. I'm wondering if. If it was that I was in his note. And then, just like you said, copy it. I'm wondering if this is how I did it. Where is it? Alex. It doesn't hold his name in there. For whatever reason I've done this so many times. It doesn't hold that name. So copy it. I'm wondering if this is how I did it before. And then go to here and then go to. Here and then here. Email him. Avoid email.
+Adam Harrison: Those are just preferences. So can pick what you want or don't want? I think. Try going into then where it says follow up. The button on the out of outside. If you close out of this. And then at the bottom bar, the follow up. You should be able to, like, delete and then paste in here. Delete that block.
+Tracey Sanderbeck: This is not what I did before. I don't know how to. How do I delete it? It's not letting me delete it. This isn't what I did before. Generate a document. I don't know. I can't. It's driving me crazy. Send a form. I know that. I just email, like. It was so simple, what I did. I don't know. Oh, maybe this is it. No. Hell, no. Damn it. What did I do before? Email? No. I don't know. It's trying to be crazy. I don't know what I'm doing here. Now. I mess this up, I think I mess that up. Whatever. Ok. I don't know. I don't know how, how I did it before, but it was super simple. I just clicked in here and I don't know, I'm going to have to email him and ask him how, how the heck I did that for, but okay. All right. I don't remember how I did it. Oh, maybe I texted it to him. I don't know.
+Adam Harrison: It should work the same whether it's email or text.
+Tracey Sanderbeck: It should. So, last encounter. I don't know. I don't know. Is driving me great. You did it before. I thought that I just did this. Yeah. I thought that. I don't know. I don't know. I want to send stuff to the patient. Send a form. No, no, because it's still forming here. I don't know. I don't know. There's drive me crazy, but I. I know he showed me how to do it super simple because I did it with another patient. Like I said, I sent that one patient you saw in there. I sent it to him. I don't know. Anyway, I don't want to waste your time with. This is not for you to worry about. I gotta. I'll message Nate. Because I can't figure it out. I did it once. It was super simple. I literally. But anyway. Okay, let's get back to this.
+Adam Harrison: I think that is all I really had for today. So as long as you feel confident to be able to kind of go and create claims, we can just. Review those as they come in. We'll ask any questions if we need, you know, to clarify anything. Otherwise, we'll just start submitting them, and we should see the eras coming back.
+Tracey Sanderbeck: All right? And then I want to start collecting their payments here. So we're going to say. Oh, that's not it. Cancel. Let me get. Let me get the right patient. I just want to run through this real quick. This was. Hinds. H r? N. Christina. Okay, so we're in here. And then after, wherever Jeanette can go in here, she's say payment. Request a payment, she'll put it in reason, copay the date, and then send the request. Or if we want to just add the patient's information. How do I do that? I forgot now. If I want to save a credit card on the file.
+Adam Harrison: Yeah, Go ahead and go to where it says. I think it's either billing or payments on the top there. Sorry, a little lower. Next to overview.
+Tracey Sanderbeck: Oh, hold on. Next overview. Hold on.
+Adam Harrison: So scroll overview down a little bit. I forget. I think it's payments, actually.
+Tracey Sanderbeck: Payments, okay?
+Adam Harrison: Yes. Payment method.
+Tracey Sanderbeck: All right, so Jeanette can put her credit card payment into that. And then. Or Jeanette can text her the night before and say, put your information in. So what I'm going to do is I'm going to email all of my Aetna patients or I'm going to message them and let them know. I wonder if I can. It's not for you to worry about. I got. I want to see if I can run a list of all my Aetna patients, because, I don't know, I'm off the top of my head and I can send them an email just saying, hey. We're switching systems. Systems. And you're going to be getting a text message.
+Adam Harrison: For new credit card.
+Tracey Sanderbeck: For you to. Now, when they, when they enter that information in like that, when I, if, if Jeanette sends a text and says pay this amount, will it save their credit card to the file or.
+Adam Harrison: Yeah, so, but they do have to check, like, save my credit card on file. So if you go back to jot. PSYCH where you do, like, payment at the bottom. So it's going to send a request. And at the end of when they finish the request, It'll give them the option to save that payment file. For. For future reference, but they don't have to, so you might just want to specify, like, hey. You know? Please also save. Save the payment on file. Otherwise we'll have to like, collect it again.
+Tracey Sanderbeck: Ok. And then this will let me make sure that the payments are coming into my account and all that stuff. So, yes. All right, I'll ask Jeanette how she wants to do it because she's going to have to double. Do everything but the new patients. I'm going to have her, I think, start adding. I'm going to have her start adding as of tomorrow since, well, whenever you put the forms in, I'll have her start adding the new patients here and sending the paperwork to them in a consent in this system and and see how that works out and see how easy it is and make sure that that's and then she'll just add in. I'm going to have her enter them in here and then enter them and quickly. And Dr. Krono with very little information. And she'll collect most of it. Well, actually, so let me ask you this. When she sends them that. That form, and they fill it out with their address and their demographics, will it upload when they send it back, will it upload their demographics right into their account?
+Adam Harrison: Yep.
+Tracey Sanderbeck: So all Jeanette needs to do is when she gets a new patient, she clicks there. New patient, she puts their name. Her name, last name, date of birth. Does she need their phone if she doesn't need any of this? And then she creates it, and then she sends them that form, and then when they fill it back, it'll find them and it'll up. It'll. It'll enter all this information in.
+Adam Harrison: Yeah. You will just need the phone number though, to be able to. To send the form to them, but. But yes.
+Tracey Sanderbeck: Okay, so name, first name, last name, birthday, phone number. She can send the forms and then everything else gets uploaded.
+Adam Harrison: Yep. Even just first name, last name and phone number.
+Tracey Sanderbeck: Oh, she hadn't either. Birthday?
+Adam Harrison: No, it's. It's. It's good to do because in case you have, like, two patients with the same name, Yeah, I'll get her. Yep. So. But other than. But, you know, you don't. You don't need to. Strictly.
+Tracey Sanderbeck: Ok. All right. When will the forms. You'll let me know when the form goes live, or will I.
+Adam Harrison: Yeah, I think probably. I'll get those to you tomorrow. It should be pretty quick, but I'll just message you. When they're in your account. But, yeah, those would just be for any, like, new patients at this point, right? So, yeah, I'll send you a message. But it'll be sometime tomorrow. Depends. On? We need. I need the engineering team to actually, like, put it into your account. It's a little bit manual right now, so that'll be. Yeah, I need to make those revisions still for you.
+Tracey Sanderbeck: Okay. All right. Perfect. And then when you do that, I'll have her start adding all the new patients, and we'll start using that form. And that'll be nice, because then she doesn't have to. Then she can just have them send an invite to the create an accountant, and they don't have to do anything. All they got to do is create an account, and that should be good enough.
+Tracey Sanderbeck: Because it's hard for them to do. I mean, it's not very user friendly, so if they just have that way they can message me, but. Yeah, very good. Ok. I think we're good. I think we're good.
+Adam Harrison: Awesome. Should we just kind of touch base the same time next week? I think we'll plan to, like, just talk talk over email, but I think it might be good. Just have, like, a weekly touch point on the calendar, make sure all the claims are going well. If we need to, like, pop on and ask you questions. You need to ask us questions. I think just for while we do this transition might be. Might be helpful.
+Tracey Sanderbeck: Everything's going through, and then that way I'll watch in my bank account. When I put in the claims. I'm sorry? When I put in the charges and I see it in my bank account and then that you're seeing it, so it posts to the patient's account and all that stuff. And then at some point, we're going to have to. I want to have a meeting like this with Jeanette that Jeanette can join once we start getting some claims, so that you can show her how to go into the billing. Because I showed you how. I have a live claims feed. In this. So we want to be able to look at the, you know, look at everybody's account and see what you see. A lot of this. All. We'll be able to do all this right.
+Adam Harrison: Yes, yes, exactly. You'll be able to do all the reporting on it.
+Tracey Sanderbeck: All right. So then Jeanette will be able to go in there, and I want her while we're doing the Aetna, make it easy. So she'll be able to go into the person's account and look and see that the payment posted that this is what we got paid. This is what the insurer and whatever and.
+Adam Harrison: Exactly. We'll have a very similar thing that you can look at. Ok, perfect.
+Tracey Sanderbeck: All right.
+Tracey Sanderbeck: So we'll do. Let me put this in my thing here. So we're going to do what time on Monday?
+Adam Harrison: So Tuesdays. Let's do the same time. 5:15. And we can just plan to make that recurring unless we need to adjust on any given week.
+Tracey Sanderbeck: And then that is. Change the time to 15. Very good. And very good. Okay. Got you down.
+Adam Harrison: All right.
+Tracey Sanderbeck: Well, it's going very smoothly, I think, don't you?
+Adam Harrison: Yeah, I think it's going well. You know, we'll start getting claims running through here, and that's the fun part. So it'll be. It'll be great. I think we'll, you know, whenever you have. Whenever you have things ready to submit, we'll submit them, and then hopefully we'll. Start seeing those come in. You know, this time next week. It depends on the era. Sometimes it's fast, sometimes it's slow, as you know, but. But, yeah, that. That all sounds good.
+Adam Harrison: I think we're on track here.
+Tracey Sanderbeck: All right. Thanks, Adam. Sorry I was late.
+Adam Harrison: No, no worries. Thank you for hopping on. And, yeah, thanks for your patience with our kind of setup here.
+Tracey Sanderbeck: Oh, that's fine. Everything I think is going good. What's your weather like? About your Freezing, aren't you?
+Adam Harrison: Yeah, it's very windy. Is it the same for you?
+Tracey Sanderbeck: Yeah. Super windy and freaking cold.
+Adam Harrison: Ridiculous. It's.
+Adam Harrison: It's the whole east coast. I think that's ridiculous.
+Tracey Sanderbeck: I went out today and I tried to sit there, and, you know, it's. It's very sunny, but the wind is just ridiculous. And then the pool is 70, 75. So when I actually. Put my hands in the pool. The pool fell warm because it didn't have time to just get cold. But, yeah, I'm over this. We were. You know, I was wearing shorts and. Sitting down the sun, swimming in the pool, walking at the park, and then now this. But anyway, not as bad as I know you are going through so.
+Adam Harrison: Well, it's all relative, right? So, yeah.
+Tracey Sanderbeck: Another couple of months of this though, right? This is typical for you.
+Adam Harrison: Know. I hope not. But we shall see. We shall see.
+Tracey Sanderbeck: When does it warm up there? When does it get warm? Is it usually, like, April or May?
+Adam Harrison: Late April is. Can be. Can be nice, yeah. Yeah. Yeah. By the time May rolls around, it's good. March is normally the last. Kind of thing here, but. Yeah, that is, hopefully, you know, hopefully we're closer to spring and summer than it seems like.
+Tracey Sanderbeck: I know, I know. All right. When? You take care, and I'll see you next Tuesday. Okay?
+Adam Harrison: All right. Thank you, Tracy.
+Adam Harrison: Talk to you then. All right, bye.

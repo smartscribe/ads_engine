@@ -1,0 +1,94 @@
+Christopher Hume: Hey, angie. How are you? Angie, can you hear me? All right.
+Christopher Hume: Oh, hey, Nice to meet you. Happy Friday.
+Angie Corbin: Happy Friday. How are you?
+Christopher Hume: I'm good. I'm. Well, it's. I mean, we're in D.C. so it's. The temperature is dropping again, unfortunately.
+Angie Corbin: Oh, no. Yeah, it's been nice outside here today.
+Christopher Hume: Where are you?
+Angie Corbin: North Mississippi.
+Christopher Hume: Okay. Wonderful. Yeah. A little. Little warmer, I would guess.
+Angie Corbin: Yes, yes, we've had. We still have ice, but not really. Not just in a few spots. Yeah.
+Christopher Hume: Well, thanks for taking the time to. To meet. So I'm guessing you spoke with one of my colleagues, and they told you a little bit about our job bill offering. So I'll use this meeting kind of to explain our offering, talk about all the cool tools we have, see if any of them are of interest. But to start, Angie would love to just hear a little bit about your practice and sort of. What. Yeah. What excited you about. Enough to learn more on a Friday afternoon?
+Angie Corbin: Well, the EMR that I'm using, I'm using Tavra, and I've been using them over a year. I still have over $6,000 in insurance reimbursements that I cannot get because they keep changing. They tell me I need to do this, and they tell me I need to do that. Then they tell me I need to do something else, and then they tell me that they didn't do this. I'm just irritated, agitated, and ready to quit. Yeah.
+Christopher Hume: Oh, my goodness.
+Angie Corbin: I have actually been considering passing my patience on to someone else simply for that reason. I just. I don't have the time to sit down and do it.
+Christopher Hume: Yeah.
+Angie Corbin: All the rigamaro that they tell you you need to. And when they. When I first started with them, the reason I went with them, I was familiar. But also they said, oh, yeah, we do your billing for you. It's no big deal. You don't have to worry about any of that. And no, it's not the case.
+Christopher Hume: That's really. So is that $6,000 from last year that they're just kind of holding in purgatory right now,
+Angie Corbin: and some of it's probably past the time frame to file, so I'm just gonna have to keep those charges. So. Yeah. And their.
+Christopher Hume: Their customer service sucks and is most of it because. Is it like, hey, the rules change, the notes aren't structured correctly, or is it.
+Angie Corbin: What. It's. It's more. You have to go through and. And I get a different answer when I talk to different people. You have to.
+Angie Corbin: There's like, six steps. You have to go through before it even gets to. It's not their billing. Which is in their. They call it. Their app does not seem to be integrated with the EMR itself because you can take a payment through the EMR system, but then you have to go into their app and apply the payment to the patient somehow. Was like, all my patients have negative balances from where I've taken copays. No, they don't.
+Christopher Hume: Wow. Frustrating.
+Angie Corbin: Oh, yeah. Yeah, definitely frustrating.
+Christopher Hume: And does Tebra do your sort of eligibility checks too?
+Angie Corbin: I don't do anything.
+Christopher Hume: Oh, my gosh. So how do you check for insurance coverage? Do you have to do that yourself? Oh, my goodness.
+Angie Corbin: Sometimes they'll. They'll run it. Sometimes it'll, you know, you have to run it. Sometimes it'll say nope. But they, you know, like, there's. They're strictly emr, basically. They have the. They have the capability to do billing and all that kind of stuff. But I think you need a whole course. And when you try to go to, like, the terror university that they have.
+Angie Corbin: Yeah, because my husband was gonna help me with it, and he's like, I don't understand this stuff. I thought. I don't either.
+Christopher Hume: My gosh. Well, that's really frustrating. But I appreciate you kind of sharing the information.
+Christopher Hume: So what I could do, Angie, is sort of walk you through what we're offering at job site. I think the two things we have that might be most relevant are we're doing eligibility checks for some of our customers to take that workload off of them. And then the second thing we're doing is we're doing an analysis of their payments just so they can see, okay, what's going on here. Why am I not getting paid? Is it certain payers? Am I getting down coded what's happening?
+Christopher Hume: But I'll walk you through a brief presentation anytime. Just stop me whenever you have questions or anything like that, but just share my screen.
+Christopher Hume: Okay, So jot bill, the idea is I'll just walk you through that because you're already doing your notes in job psych. What we can do is kind of take the whole revenue cycle and just take that stress off of your plate. So what, we manage eligibility now? What we can do with jot audit is the notes are crafted in a way that aligns with all your payer contracts. Angie, are you independently credentialed with your insurers?
+Angie Corbin: I am.
+Christopher Hume: Okay, so then what we would do is we would take those payer contracts you have with them, we'd upload them into the back end, and then jot Psych is going to make sure. That when you're writing a note for CIGNA or Blue Cross Blue Shield or Medicaid, that it's meeting those requirements or flagging for you if you missed a question or something's not included. Then once the note is signed, we take over, submit the claim for you and handle kind of dashboarding. It's all that stuff. I maybe jumped the gun a little bit by telling you about what makes us different. It's too excited.
+Christopher Hume: So for the eligibility checks, we do the standard eligibility checks. We also do a human for the edge cases. We'll have a human call the insurance companies to make sure that there's coverage.
+Christopher Hume: As I already said, there's pay aware documentation. So we'll base your setup based off of your contracts. Then we do these, generate those claims for you, and then again we automatically do those appeals. Underpayment detection, et cetera.
+Angie Corbin: Nice.
+Christopher Hume: You know the important question, how much does this cost for the job for the billing features? So between 4 and 8% successful collections, depending on what you go with. Not sure. What is sort of the rate for Tepper's billing platform, Angie?
+Angie Corbin: 195.
+Christopher Hume: Okay, so is it a. It's a flat fee. They don't charge by revenue.
+Angie Corbin: I haven't got that far yet.
+Christopher Hume: Okay. They need to go to the university, right? To figure out what they're.
+Angie Corbin: Yeah, yeah. Like a five year degree there.
+Christopher Hume: Okay, so how do we. I mean it's so unbelievable. You know, I've worked here for, at Job Sec for about a year and just the amount of administrative requirements and billing requirements that are put on providers just to provide care is pretty unbelievable. It's not really why people enter this profession.
+Angie Corbin: And as you can imagine, I don't have a lot of patients in my, in my clinic because I don't get paid.
+Christopher Hume: Yeah, well, that makes it hard to manage the clinic really does. So how this just kind of a structure of how people interface or decide if Joppo is a good fit for them.
+Christopher Hume: So we have this kind of intro call where I tell you all about it and then the next step typically is that jot bill analysis. So for $300 we kind of go into your EHR and any other kind of sounds like you have an EHR and a billing platform that are sort of connected, sort of not, of course, we sign a baa, we review all that information and we. Give you a more comprehensive picture of what is going on with your billing. Why are these bills being rejected? What's going on with your payer contracts? Is there a certain payer that's always hosing things up and we just sort of give you a better understanding of what's happening and then once we have that conversation, maybe you can kind of fix things with Tebra, figure out what's going on and it's off to the races. Or if there's some bigger challenges there, we're more than happy to kind of help out solving those, whether it's through job bill or eligibility checks or anything like that.
+Angie Corbin: Okay.
+Christopher Hume: And then again, this is just kind of a more in depth explanation of what our job bill analysis is. It tells you kind of your codes where money's getting delayed and then kind of what we would recommend to improve the situation. In your case, I would imagine the recommendation would be whatever unlocks those $6,000 as quickly as possible.
+Christopher Hume: I can tell you pretty confidently that will be the recommendation. I guess I can follow.
+Angie Corbin: Not for profit entity.
+Christopher Hume: Well, yeah, that could be like the backup option. We just completely change your model. You become a charity.
+Angie Corbin: Follow 1.
+Christopher Hume: We don't have to worry about any of this.
+Angie Corbin: That's right.
+Christopher Hume: So, Angela, I'm not sure if that, if any of this kind of spoke actually. Do you have any questions or anything I can kind of explain in greater detail.
+Angie Corbin: What. Okay. I don't even. So I want to have an all in one, you know, EMR billing. A. I want to have something that does it all. It's not pay and not pay, two or three different people to do something.
+Christopher Hume: Yep. So we are rolling out. Kind of the reason we're on the call today is to do billing. We are rolling out E prescription next week. So for a lot of providers in your position, that's sort of the next step that kind of gets over the hump to meeting all the requirements for an ehr. Right. You can store all your notes, you can schedule your patients, you can prescribe medication to your patients and you can handle billing. So what we're sort of recommending is, you know, you have one, one toe in maybe with the AI scribe. Now maybe test this out and make sure. Kind of try us either with the jot bill or the jot prescriptions just to make sure you're comfortable with using the platform more broadly across your business. And then kind of if and when that's a huge success and you love us even more, then we could switch you over to kind of that that full ehr. You can sign your notes in jot Psych and we would do all your billing as well.
+Angie Corbin: Okay. It sounds very interesting. You know, of course it's something that I have to discuss with my, my partner. Of course. Decisions.
+Christopher Hume: No, no, I certainly understand. And yeah, kind of as our whole motto here is, we never want to sell something to someone who doesn't want it. There's. There's no pressure or anything like that. We just.
+Angie Corbin: It's pretty.
+Christopher Hume: I'm not sure if you've noticed this, but, um, we've been hearing a lot that insurance companies are getting even more aggressive with their denials and their rejections. So we felt like this was kind of the time to start letting people know that there's tools out there to help. So kind of that's what we're here for. So, Angie, if you want to kind of take this chat with partner, see if it works, I can follow up next week and see like, hey, would you like an analysis? And then what we can do is if that's a good fit, we would just set up a 15 or 20 minute call, we'd get that data from you, and then we'd be off to the races.
+Angie Corbin: Now, if we do the analysis and. Okay, I just got up from a nap. I'm sorry.
+Christopher Hume: No, no worries. It's Friday afternoon. I'm. I'm holding on for dear life.
+Angie Corbin: I had to, had to take something for a muscle spasm. It's got me just a little doopy. Okay, so the analysis would go through Tebra to see what's been going on.
+Christopher Hume: Exactly.
+Christopher Hume: We go through both your. The EMR side of Tebra and the billing side of Tebra. Yeah.
+Angie Corbin: Okay. And then what happens after you do that?
+Christopher Hume: Well, that really depends on sort of what we find and like, kind of what we see there. Like, hey, is it your. Is it a certain note type is missing a requirement for a certain pair? Let's adjust your templates and just make sure that it's going to be impossible for you not to do that. Or if it's something sort of bigger, like, hey, it looks like I'm actually a lot of my customers aren't eligible and the eligibility checks I'm doing actually isn't catching it because their insurance is active. But it turns out they've already had so many sessions this year and they're actually ineligible. We can talk about helping you out with eligibility checks or something like that.
+Angie Corbin: Okay.
+Christopher Hume: So it really just depends on what the findings are.
+Angie Corbin: Okay. Does that lead to you doing the billing or would I still have to go through Tavra to try to get that done?
+Christopher Hume: We would love to do your billing either way, kind of no matter what the results say. But I just want to be clear. If the job bill analysis comes back and it's a really easy fix for you, we're certainly not going to be like, oh, we did the analysis. You have to switch your billing. We'd love to fix the problem, but if it's just a little thing you can change, and then your current system works super well. That's a great outcome for us, too.
+Angie Corbin: Okay. Yeah, I'm just. I'm not happy with him, so.
+Christopher Hume: No. Well, then, then, yes, we'll definitely do your billing for you then.
+Angie Corbin: All right, let me talk to him and see.
+Christopher Hume: Jack. Can you see me PowerPoint? Yeah, I will get this packaged up and send it over to you. Could we maybe set just, like 15 minutes to check in and see if you have any questions after I send it?
+Angie Corbin: Yeah, you can do that next week. Is that what you said?
+Christopher Hume: Yeah, maybe next turn with my calendar next Wednesday, if you have any availability.
+Angie Corbin: I'm in March.
+Angie Corbin: Give me a second.
+Angie Corbin: Oh, no one's. Yes.
+Angie Corbin: I promise you, I'm not always like this. Yes, Monday. Are we gonna do Monday morning? Or.
+Christopher Hume: Let me see. Yes, we. Actually, I will. Yeah, let's do Monday morning. Does 11. 11:30 work?
+Christopher Hume: Yes, and I'll keep it. Is. Oh, my goodness. Is Mississippi on Central Time?
+Angie Corbin: Oh, wait, hang on. I'm still on the wrong. Yes, I am Central Time.
+Christopher Hume: Okay, perfect. Then I will do 11:30 Central Time, 12:30 Eastern Time.
+Angie Corbin: Hang on. This is February. Why am I just so stupid right now? Okay, what time?
+Christopher Hume: 11:30 Central.
+Angie Corbin: Okay, perfect.
+Christopher Hume: So I'll do a job. Bill analysis, check in. I'll get those materials this evening. You can review them Monday morning or this weekend and decide what you want to do. And then if you have any questions, you have 15 minutes with me. Or if you're super excited and want to kick it off, we could use the time for that, too.
+Angie Corbin: All right. Thank you so much. I appreciate your time.
+Christopher Hume: No, this is awesome, Angie. Have a wonderful weekend. Hopefully. Hope you enjoy it.
+Angie Corbin: Thanks, you, too. Bye. Bye.
+Christopher Hume: Thanks. Bye.

@@ -1,0 +1,96 @@
+Jackson Bierfeldt: I see you speaking. I see that you're not muted, but I can't hear you. So I think maybe the microphone selection is wrong. If you go to the mic down there and press the little arrow, it should have some options.
+michelle.lynn: How's that?
+Jackson Bierfeldt: That's better.
+michelle.lynn: Good deal.
+Jackson Bierfeldt: I started using this other meeting thing for a different group where it actually will show you the microphone that other people have selected. And for people that are less technical, that's so amazing sometimes to be like, it looks like you have the Bluetooth speaker in your other room selected. Like, can you switch it over to this? Yeah. For being a company that's based on doing audio transcriptions of things, we still have all kinds of audio problems. So totally on unsolved thing. But great. So I think the main thing that we want to start with today, Michelle, is just hearing about what you were able to dig up with that 99416 issue. That we were having with Amanda Smallman.
+michelle.lynn: Yeah. So I got a hold of provider relations. They sent me a fee schedule, which I'll send over to you guys. But they also said. That the 99416 has an allowance for an office setting in global. Below is the code description. The CPT code is restricted subject to applicable coverage policies. And so then that says the prolonged clinical staff services, the service beyond the highest time and the range of total time of the service during an evaluation and management service in the office or outpatient setting direct patient contact with physician supervision. Each additional 30 minutes lists separately in addition to a code for prolonged services. So she didn't give a lot of information other than it sounds like the time frame that they're using on E and M surpasses what they allow for the time on this.
+Jackson Bierfeldt: Okay. Let's put it into English. Because she built a 99215 with it. Right, right. And she was probably using implicitly that 99215 as a time base code. Yes. Is that the issue that it's like, oh, you're already using one time base code, so you can't use a different one or.
+michelle.lynn: Yes, that's the way that I am interpreting it, is that they're saying that the time, the code that she used and the time frame that allows it, it, there's like no cutoff time. So it's not like, so, for instance, let's just say she used a code that had, that said you could use. 60 minutes, and then you went 90 minutes, then you would build that. You'll build the add on times. So I'm, I haven't looked at the 99215 exactly what the duration is. But. It sounds to me like they're saying she. There's no, like, end time to that. So building an additional add-on is not necessary. I'm going to look at the 992 and 5, though, just to be sure, because I, I feel like I also need to get more clarification from. I got this in email from the, the gal. Her name is Christy. And I just feel like she was pretty vague.
+Jackson Bierfeldt: Okay. Yeah, I think, yeah, you, you should pull that up and, and let us know. But I, I think the 99215 supposed to represent up to an hour or something like that.
+michelle.lynn: So 40 to 54 minutes is total provider time. So minimum of 40 minutes maximum before prolonged service can be used is 54 minutes.
+Jackson Bierfeldt: Okay. And is the 99. What is it again?
+michelle.lynn: Five and then 99416.
+Jackson Bierfeldt: Yeah. So 99416 is the prolonged services code.
+michelle.lynn: Correct.
+Jackson Bierfeldt: Okay.
+michelle.lynn: Yep. And it's for each additional 30 minutes. So. Let's see. So. A 99415 is the first 60 minutes of a clinical and then a 416 is each additional. But when billed with, hold on, I got to look all my little details up here.
+Jackson Bierfeldt: So.
+michelle.lynn: It's saying that you can bill a 99215 plus a 99416, but only if a 99415 is also billed. And all CPT rules are met. So it sounds like you should bill the 99415 first.
+Jackson Bierfeldt: So bill three CPT codes.
+michelle.lynn: Yep.
+Jackson Bierfeldt: 215415416. Sorry, Michelle, can you share your screen? Can you show, like, where are you get, what, where are you getting that information from?
+michelle.lynn: I just, it's, I pull it from a spreadsheet that I get from the insurance companies.
+Jackson Bierfeldt: It doesn't get a lot that looks like.
+michelle.lynn: Yeah. Give me just one sec.
+Jackson Bierfeldt: Thank you. And also, do you happen to have written down what, what patients or what date this denial was from?
+michelle.lynn: No, because there were several of them. Adam just gave me the, the code to look into.
+Jackson Bierfeldt: Okay. Yeah.
+michelle.lynn: Sorry. It's not letting me share. You know, it's giving me an error. Yeah, it won't let me pull. So I might have to restart my computer and then I can send it over. Maybe afterwards.
+Jackson Bierfeldt: Okay. Yeah. If you wouldn't mind sending that over, I'd just be curious to see, like, exactly where you're, you're getting that from. So. What would you do here? Would you resubmit this as a claim correction? Yes. Is that the next step here?
+michelle.lynn: Okay. Yeah. It needs to be submitted that because of the way that it was denied, you have to have the original. Claim number on it so that they'll read, they won't consider it a duplicate.
+Jackson Bierfeldt: Yeah. And that we send it with, I'm learning all this with a seven. What is that called? The routing code or.
+michelle.lynn: Yep. Yeah. Because otherwise it would. Yeah. Avoid is a nine.
+Jackson Bierfeldt: Yes. Okay. So we send, we send it with a seven and links to the other claim. And because I think what happened, and I'm trying to pull this up so that I can find it. It was someone named Jessica. Yes. Okay. Here, let me, let me share my screen. Oh, man. Too many windows. Here we go. Okay, so this was the. This is one of the ones that, that we looked at. So they paid the 99215, but they didn't pay the 99416. They did, you know, an adjustment on it. So how does that affect our resubmission of it?
+michelle.lynn: So we would still resubmit, but we, before we do that, because they could typically come back and ask us for notes then. Right. So the first thing we want to look at is to see what the duration of the initial service was.
+Jackson Bierfeldt: Yes. Looks like it was two hours and 15
+michelle.lynn: minutes, so it definitely Falls within that time frame. Let's see here. So, yeah, because the, so the first. 40 to 54 minutes would be the 992 and five. And the next 60 minutes would be the 99416. And then each additional 30 minutes after that. Would be the 99416. Sorry. I think I said 99416 twice. I meant 99415 and then 99416.
+Jackson Bierfeldt: Yeah. So what would you. Sorry, I wasn't tracking the math here. What would the actual claim? What would the actual code and their units be here? Like, if you were, if we were going into a CMS 1500 to fill out the correction, what would you do here?
+michelle.lynn: So I would do, I would just need to add in the 99415. And I would add one unit to that because that would be for one. For 160 minute session.
+Jackson Bierfeldt: Seconds is the two hours.
+michelle.lynn: Yep. That gets us the two hours. And what was the other additional beyond that?
+Jackson Bierfeldt: Well, there's another 15 minutes. I think it was two hours and 15 minutes.
+michelle.lynn: Yeah. Yep. So then I would then have the. You would still bill one unit for the 99416 because it's 30 minutes. And you don't, you can't down code or up code that. So you would just bill it like that. They might not pay the for the 99416. Because it is only 15 minutes, but at least you would have that in there. And then you would have the seven and the original claim number.
+Jackson Bierfeldt: Okay, great. All right. I think we can do that. So this is a case where we're just going to submit a correction and not necessarily an appeal.
+michelle.lynn: Correct.
+Jackson Bierfeldt: Okay. In your mind, what would put this more into the territory of we're starting to generate like an appeal letter.
+michelle.lynn: I would never send an appeal on this only because the, the codes are so vague based on. A fee schedule that she gave. The one that Adam showed us, it was correct. And so it's, it's either a zero dollar or twelve dollars. Like you literally are going to be wasting your time with an appeal for twelve dollars because they're going to find a way for it to fall in the zero dollar time frame.
+Jackson Bierfeldt: Right. Okay. The reason I ask, though, is because one of the whole things with our AI is we're trying to find that bet where we're like, hey, is it actually worth the AI's time to, like, get those $12? So I know, like, I know in the, you know, you know, old, yeah, in the real world. Right.
+michelle.lynn: Yeah. A ton of time.
+Jackson Bierfeldt: It definitely doesn't make sense. But just for the sake of intellectual, like, argument here, like, if we submit this correction with, you know, the new, you know, 99415, and then they don't pay it, would that then be something where we can, you know, take all the information? We called them on the phone. We recorded that transcript. We got their agent saying this, you know, and we, like, put all that into an email and we're like, look, you have to give us the $12, you know, because X, Y and Z. Is that something where you're like, there's a 0% chance of it? Or would that be at least like the experiment to try?
+michelle.lynn: I think it would definitely be worth the experiment because I do feel like. A lot of people don't challenge the insurance companies because of the time that it takes.
+michelle.lynn: And so it's just easier for them just to be like. But I think they might. You know, if AI challenged them enough and pushed it enough. I really do think that they would get to a point where there would step up and be like, okay, yeah, we need to pay all these codes.
+Jackson Bierfeldt: Yeah. I mean, we, yeah, we don't, we obviously don't want to do it where we're just, like, trying to make nothing out of something. But if it's like, well, no, like, it was two hours and 15 minutes. This is what the contract says. Like, we need to get paid for the time that we spent on it. If we can make that argument and it costs eight cents to pay for the AI to do it and we get $12 out of it, like that suddenly becomes something where we're like, okay, we do, we do want those $12.
+michelle.lynn: I agree with you 100. And if AI can do it that much faster than it would take somebody else to sit and type out a letter, get all of the details. Yeah, do it. I mean, honestly.
+Jackson Bierfeldt: Great. So I think the next step on, on these class of claims here then is that we want to do the corrections. And, you know, we'll, we'll check with Amanda first and say, hey, this is our plan. You know, we talked to your, I forgot which one usable HMO. Did you contact usable HMO directly, or did you contact, like, field of Arkansas? Yeah.
+michelle.lynn: I contacted Blue Cross with Shield of Arkansas. And she did ask. She, well, she thought I was somebody else at first. And she did ask that I kind of, you know, try to, to. Push them. To pay. So, you know, that is absolutely something in your. Peel you could put in there, too, is like, look, this is, you know, this is way under budget for, you know, what, what you should be paying. You know, consider increasing the rate, if not even, you know, either pay the $12 or increase the rate and pay, you know, pay them what they're worth. For their time. I mean, I know there's more professional ways of putting all that together than.
+Jackson Bierfeldt: Right, right. Have you done that before? Have you been part of those, like, rate adjustment negotiations?
+michelle.lynn: Yeah. And it's very hard to get them to adjust the rates because they do it kind of globally, you know, as far as, like, what demographic area. And so unless you, unless the provider has specific training in a specific area and it meets the number of, you know, Population that they're, they're serving. A lot of times they will deny the rate increases.
+Jackson Bierfeldt: Yeah, they're not just handing out free money just because you emailed and asked.
+michelle.lynn: Exactly.
+Jackson Bierfeldt: Now, sometimes. Yeah, I think that my sense is that they will if, like, they have already done that for everyone else in the region, and they're just kind of, like, waiting for you to ask. And they're like, ah, shoot. Like, we have to do this.
+michelle.lynn: Yeah.
+Jackson Bierfeldt: That's, that's my sense. So what would you do again? Like, we're building the AI system that is, like, going to be doing this. What would you be checking in terms of source information to know whether or not we could get Amanda a, like, higher rate on herd 99415, like the additional hour thing or something? Is there some data source we can look at to find this
+michelle.lynn: or how do we do that? Sometimes it just is a matter of if you can find the right provider to give you the information of maybe what they pay. But that is even against the, the rules. They're not just rates. So really, you just, you just kind of hope and pray that you have enough years in, you can say to them, you know, like, I'm serving this number of your clients and, you know, because of overhead cost and all of that, it's not feasible for me to see, continue to see them at this rate. You know, so we're asking for an increase. And I never say it's smart to put a dollar amount on that and say, I want $125 for this service because, you know, somebody else within that region could be making 150. Just. You know, putting a plea out there for what, you know, getting an increase is the best you can do.
+michelle.lynn: But globally, I mean, there's not really, you can, you can put it out there and say to somebody like, hey, what are you making? And a lot of people aren't going to do that. I have one client that claims that they make, like three times what everybody else around them make because their, their therapists are lcsws. And I'm.
+Emily Kaiser: Like.
+michelle.lynn: No, that's not, that's not true. But they won't share their rates either.
+Jackson Bierfeldt: Right.
+michelle.lynn: Yeah.
+Jackson Bierfeldt: Three times sounds like a fish tail.
+michelle.lynn: Yeah, exactly.
+Jackson Bierfeldt: Yeah. Okay, great. Well, I think we're gonna, you know, we're not at the appeal step yet. Once we get there, maybe we'll look into if we can. You know, find a way to, to get those rates adjusted. But I think we have a pretty clear next step on these, which is check with Amanda. See, hey, our plan is actually to submit this as, like, three CPT codes. Michelle, if you can share with me right after this call that spreadsheet that you got that, like, is the way that you tracked down that information just so I can kind of, like, tie everything together and give references. Then I think that's our, our next step is to submit those corrected claims and see what we, what we can get out of those.
+michelle.lynn: Yeah, for sure. And I will share with you the rate schedule that they sent over. Did. And I'll, I'll actually forward you the email from them. Because I. Contacted her contact at Blue Cross. And then I also went through provider relations. So I think I shared with you guys one of them, but not the provider relations email that was separate before I had all the other info.
+Jackson Bierfeldt: Okay, great. And sorry, just one final question here just occurred to me. Why? How come, you know, this person received. The era from Arkansas Blue Cross and blue shield? This person received it from usable HMO ink. Why? Because they both got submitted to Blue Cross. I know Blue Cross has this whole Federated thing. But is that basically the answer?
+michelle.lynn: So everything should have been submitted through the local, like you said. But they're. Their home plan is that usable HMO. So if. If the usable doesn't have electronic remittance, that's why you wouldn't get it back through them.
+Jackson Bierfeldt: Okay.
+michelle.lynn: Does that make sense?
+michelle.lynn: Yeah, I think so. Okay.
+Jackson Bierfeldt: They'll. Yeah, they'll just send it back because we're sending all of them to. You know, Arkansas Blue Cross and Blue Shield, and then they route it out to whatever that patient's home insurance is.
+michelle.lynn: Okay, correct.
+Jackson Bierfeldt: Because maybe someone got it through a national plan. If someone got through work or someone, like, got it through the guy that they went downtown to who started his own insurance company 40 years ago and, like, got rolled up into their network, like, that's how that works.
+michelle.lynn: Okay. Yep.
+Jackson Bierfeldt: Great. Glad to know I'm starting to. Starting to understand all this. Michelle, when are you going to write your book? When are you going to write the towel story of, you know, billing?
+michelle.lynn: I don't know. I've been working on a lot of stuff. I'm building my own Revenue cycle management system right now.
+Jackson Bierfeldt: So. Great. Yeah. We can be competitors. Are we going to compete with you?
+michelle.lynn: Well, I don't know. I think you guys are going to probably put me out of business before I'm going to be able to compete with you.
+Jackson Bierfeldt: I was going to say, Michelle, I would be careful. We're. We're going fast.
+michelle.lynn: We're. I know.
+Jackson Bierfeldt: Yeah, I know.
+michelle.lynn: That's why I asked Adam. I said. I said, if I give you guys all my secret to, you're going to hire me on when I'm out of a job.
+Jackson Bierfeldt: I mean, if you give us the good secrets, I think we're going to have no choice.
+michelle.lynn: Right.
+Jackson Bierfeldt: All right. That's great. Well, thank you so much for hopping on today. If you can send me all that, like, as soon as possible so I can get that email put together to send to Amanda because I just want to get this, get this rolling. I'm excited to find out if we can get her paid for this. For these extra, extra time.
+michelle.lynn: Yeah. Let me restart my computer and I'll get a sent over to you.
+Jackson Bierfeldt: All right. Thanks, Michelle.
+michelle.lynn: You're welcome. Take care.
+Emily Kaiser: Bye.

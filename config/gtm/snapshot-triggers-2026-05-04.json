@@ -1,0 +1,304 @@
+{
+  "trigger": [
+    {
+      "path": "accounts/6258528322/containers/200880687/workspaces/24/triggers/62",
+      "accountId": "6258528322",
+      "containerId": "200880687",
+      "workspaceId": "24",
+      "triggerId": "62",
+      "name": "Group Practice Calendly Confirmation",
+      "type": "pageview",
+      "filter": [
+        {
+          "type": "contains",
+          "parameter": [
+            {
+              "type": "template",
+              "key": "arg0",
+              "value": "{{Page URL}}"
+            },
+            {
+              "type": "template",
+              "key": "arg1",
+              "value": "meeting-confirmation-group-practice"
+            }
+          ]
+        }
+      ],
+      "fingerprint": "1752020507502",
+      "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6258528322/containers/200880687/workspaces/24/triggers/62?apiLink=trigger"
+    },
+    {
+      "path": "accounts/6258528322/containers/200880687/workspaces/24/triggers/60",
+      "accountId": "6258528322",
+      "containerId": "200880687",
+      "workspaceId": "24",
+      "triggerId": "60",
+      "name": "Private Practice Calendly Confirmation",
+      "type": "pageview",
+      "filter": [
+        {
+          "type": "contains",
+          "parameter": [
+            {
+              "type": "template",
+              "key": "arg0",
+              "value": "{{Page URL}}"
+            },
+            {
+              "type": "template",
+              "key": "arg1",
+              "value": "meeting-confirmation-private-practice"
+            }
+          ]
+        }
+      ],
+      "fingerprint": "1752019549997",
+      "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6258528322/containers/200880687/workspaces/24/triggers/60?apiLink=trigger"
+    },
+    {
+      "path": "accounts/6258528322/containers/200880687/workspaces/24/triggers/46",
+      "accountId": "6258528322",
+      "containerId": "200880687",
+      "workspaceId": "24",
+      "triggerId": "46",
+      "name": "FB_CONVERSIONS_API-1625233994894344-Web-Trigger-DOM_Ready",
+      "type": "domReady",
+      "fingerprint": "1741811136393",
+      "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6258528322/containers/200880687/workspaces/24/triggers/46?apiLink=trigger"
+    },
+    {
+      "path": "accounts/6258528322/containers/200880687/workspaces/24/triggers/47",
+      "accountId": "6258528322",
+      "containerId": "200880687",
+      "workspaceId": "24",
+      "triggerId": "47",
+      "name": "FB_CONVERSIONS_API-1625233994894344-Web-Trigger-Custom_Event",
+      "type": "customEvent",
+      "customEventFilter": [
+        {
+          "type": "matchRegex",
+          "parameter": [
+            {
+              "type": "template",
+              "key": "arg0",
+              "value": "{{_event}}"
+            },
+            {
+              "type": "template",
+              "key": "arg1",
+              "value": ".+"
+            }
+          ]
+        }
+      ],
+      "filter": [
+        {
+          "type": "contains",
+          "parameter": [
+            {
+              "type": "template",
+              "key": "arg0",
+              "value": "{{Event}}"
+            },
+            {
+              "type": "template",
+              "key": "arg1",
+              "value": "gtm."
+            },
+            {
+              "type": "boolean",
+              "key": "negate",
+              "value": "true"
+            }
+          ]
+        }
+      ],
+      "fingerprint": "1741811137170",
+      "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6258528322/containers/200880687/workspaces/24/triggers/47?apiLink=trigger"
+    },
+    {
+      "path": "accounts/6258528322/containers/200880687/workspaces/24/triggers/21",
+      "accountId": "6258528322",
+      "containerId": "200880687",
+      "workspaceId": "24",
+      "triggerId": "21",
+      "name": "Trial Button Click",
+      "type": "linkClick",
+      "filter": [
+        {
+          "type": "contains",
+          "parameter": [
+            {
+              "type": "template",
+              "key": "arg0",
+              "value": "{{Click URL}}"
+            },
+            {
+              "type": "template",
+              "key": "arg1",
+              "value": "/trial-signup-conversion"
+            }
+          ]
+        }
+      ],
+      "waitForTags": {
+        "type": "boolean",
+        "value": "false"
+      },
+      "checkValidation": {
+        "type": "boolean",
+        "value": "false"
+      },
+      "waitForTagsTimeout": {
+        "type": "template",
+        "value": "2000"
+      },
+      "uniqueTriggerId": {
+        "type": "template"
+      },
+      "fingerprint": "1737989583130",
+      "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6258528322/containers/200880687/workspaces/24/triggers/21?apiLink=trigger"
+    },
+    {
+      "path": "accounts/6258528322/containers/200880687/workspaces/24/triggers/13",
+      "accountId": "6258528322",
+      "containerId": "200880687",
+      "workspaceId": "24",
+      "triggerId": "13",
+      "name": "Checkout Success Event",
+      "type": "customEvent",
+      "customEventFilter": [
+        {
+          "type": "equals",
+          "parameter": [
+            {
+              "type": "template",
+              "key": "arg0",
+              "value": "{{_event}}"
+            },
+            {
+              "type": "template",
+              "key": "arg1",
+              "value": "checkoutSuccess"
+            }
+          ]
+        }
+      ],
+      "fingerprint": "1737716433412",
+      "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6258528322/containers/200880687/workspaces/24/triggers/13?apiLink=trigger"
+    },
+    {
+      "path": "accounts/6258528322/containers/200880687/workspaces/24/triggers/15",
+      "accountId": "6258528322",
+      "containerId": "200880687",
+      "workspaceId": "24",
+      "triggerId": "15",
+      "name": "FirstNote Event",
+      "type": "customEvent",
+      "customEventFilter": [
+        {
+          "type": "equals",
+          "parameter": [
+            {
+              "type": "template",
+              "key": "arg0",
+              "value": "{{_event}}"
+            },
+            {
+              "type": "template",
+              "key": "arg1",
+              "value": "generatedFirstNote"
+            }
+          ]
+        }
+      ],
+      "fingerprint": "1737716526324",
+      "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6258528322/containers/200880687/workspaces/24/triggers/15?apiLink=trigger"
+    },
+    {
+      "path": "accounts/6258528322/containers/200880687/workspaces/24/triggers/17",
+      "accountId": "6258528322",
+      "containerId": "200880687",
+      "workspaceId": "24",
+      "triggerId": "17",
+      "name": "SignUp Confirm Event",
+      "type": "customEvent",
+      "customEventFilter": [
+        {
+          "type": "equals",
+          "parameter": [
+            {
+              "type": "template",
+              "key": "arg0",
+              "value": "{{_event}}"
+            },
+            {
+              "type": "template",
+              "key": "arg1",
+              "value": "signupConfirm"
+            }
+          ]
+        }
+      ],
+      "fingerprint": "1737716616822",
+      "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6258528322/containers/200880687/workspaces/24/triggers/17?apiLink=trigger"
+    },
+    {
+      "path": "accounts/6258528322/containers/200880687/workspaces/24/triggers/19",
+      "accountId": "6258528322",
+      "containerId": "200880687",
+      "workspaceId": "24",
+      "triggerId": "19",
+      "name": "help_click Event",
+      "type": "customEvent",
+      "customEventFilter": [
+        {
+          "type": "equals",
+          "parameter": [
+            {
+              "type": "template",
+              "key": "arg0",
+              "value": "{{_event}}"
+            },
+            {
+              "type": "template",
+              "key": "arg1",
+              "value": "help_knowledgebase_clicked"
+            }
+          ]
+        }
+      ],
+      "fingerprint": "1737907852622",
+      "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6258528322/containers/200880687/workspaces/24/triggers/19?apiLink=trigger"
+    },
+    {
+      "path": "accounts/6258528322/containers/200880687/workspaces/24/triggers/8",
+      "accountId": "6258528322",
+      "containerId": "200880687",
+      "workspaceId": "24",
+      "triggerId": "8",
+      "name": "user id trigger",
+      "type": "customEvent",
+      "customEventFilter": [
+        {
+          "type": "equals",
+          "parameter": [
+            {
+              "type": "template",
+              "key": "arg0",
+              "value": "{{_event}}"
+            },
+            {
+              "type": "template",
+              "key": "arg1",
+              "value": "userID"
+            }
+          ]
+        }
+      ],
+      "fingerprint": "1734010517103",
+      "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6258528322/containers/200880687/workspaces/24/triggers/8?apiLink=trigger"
+    }
+  ]
+}

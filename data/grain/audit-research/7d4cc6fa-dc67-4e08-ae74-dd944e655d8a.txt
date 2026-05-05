@@ -1,0 +1,232 @@
+Nathan Peereboom: Happy with your burrito bowl? Okay, Great.
+Jackson Bierfeldt: It.
+Nathan Peereboom: Hey, hey, hey.
+Adam Harrison: Hey, guys.
+Jackson Bierfeldt: Sorry, we had to order slop bowls, so that was the. The hold up. No worries.
+Adam Harrison: Yeah, go ahead.
+Nathan Peereboom: I feel like it's disrespectful to. The. Slop has such a negative connotation, but we mean it in such a positive way.
+Jackson Bierfeldt: I don't know. Adam, did you take this?
+Adam Harrison: I have not yet, but I guess I will be quite a bit here. So that's exciting. You guys. You guys move quickly. That's. That's. That's really. That's great.
+Jackson Bierfeldt: Are you. Are you gonna take the train to the bi. Died ferry or are you gonna go to the midtown ferry?
+Adam Harrison: It might just depend on if it's a Monday or a Tuesday or a Wednesday. Like, you know, I can just kind of, like, bike one day, do the helicopter one day, take the ferry one day. Like, it's really just like, whatever. Whatever's going on that day, you know?
+Adam Harrison: Yeah, the bus.
+Jackson Bierfeldt: I'm super excited. I'm getting a foldable kayak. Well, we'll talk about it later.
+Jackson Bierfeldt: But there's all kinds of fun stuff in these.
+Adam Harrison: Just don't get the water on you, you know, make sure you're well insulated from the water.
+Nathan Peereboom: All right, guys. So I have an updated. I'm basically jettisoning this customer view because I built a harness that manages it for us. So I'm actually just going to. We can walk through it in this way. Stage. Okay, cool. So let's just go through, like, where we're at with things that are actually moving so we don't need to care about. Contacted. Or kickoff scheduled or lost partner or pitch scheduled or even pitched. I think that this is the whole thing. Yeah. Okay, so let's just go one by one. Forget about that Margaret Cook. I think that we've lost her. Manuela.
+Jackson Bierfeldt: Very hard time orienting myself in this.
+Nathan Peereboom: Okay. Every single meeting, we do the same thing. We look through our customers, we go them up with the to dos, we put them onto the to do list, and then we go execute them for the week.
+Jackson Bierfeldt: Names more visible.
+Nathan Peereboom: Okay, so. Okay, so, yeah, let's start with. We're missing Steven here. Let's start with Stephen. Adam, can you walk us through where we're at with Stephen?
+Adam Harrison: Yeah, so I'm meeting with him again on Thursday. I think the key, the key blocker here is he hasn't signed the msa.
+Adam Harrison: And so I don't really want to submit something for him until he signs that.
+Adam Harrison: Yeah, but other than that, we, like, have steady set up. I have a few of his, like, old super bills that are, like, signed off on. We don't know if they'll be, like, accepted or not because they're Medicaid. And I don't know that he's actually was ever enrolled with Medicaid. He doesn't show up in their system. But we can, we can submit it and see what happens. So I just will meet with him Thursday and we'll hopefully like, get it signed live, and then I think we just, like, submit it and see what happens for a few of his claims at that point.
+Nathan Peereboom: Okay, great.
+Jackson Bierfeldt: He's only doing Medicaid or he's. He has some commercial payers. He's credentialed.
+Adam Harrison: He has both. But Medicaid has, like a 2012. Excuse me, 12 month, like, grace period to submit. And commercial payers are, like, usually 90, some of them 180. And the only, like, claims that he has ready are from, like six to eight months ago, at least. So we could do the commercial ones, but he has to finish his notes and, like, you know, he just has not taken any action at all, including, like, reading the msa. So I'm kind of like, trying to just one step at a time with him.
+Nathan Peereboom: Steven's phone number.
+Adam Harrison: We have his phone number.
+Nathan Peereboom: Can you send it to me and I'll just nudge him because, like, sometimes just giving another voice in the room is helpful. Let me just nudge him on the msa. Because if we can get the MSA signed, we're a little ahead of the ball here, right?
+Adam Harrison: Yeah, we could probably. Yeah, I can also just nudge him today. If you want me.
+Nathan Peereboom: Let's just do a little bit of both. I mean, I think. He knows we're working. To me, my vision, a version of, like, how Stephen operates, is that he just actually is looking for someone to just kind of push him into a good situation. And I think that, like, if we frame it as, like, hey, Steven, we really want to get this done for you. We, like, legally can't do it unless you sign our msa. Please sign our MSA and we can get started. Like, I think that there's a way to make that feel good for him. And we're always going to be fighting this apathy with this particular customer. Like, he. Like that's his. Like, he's kind of cursed by his own psychology here. And I think we should push him as far as possible until he kicks back at us. But I don't think he's going to kick back as long as we're respectful about it.
+Adam Harrison: Yep. I just sent you his number.
+Nathan Peereboom: Okay, beautiful. Okay, great. Okay. Okay. Manuela. Jennifer Bowen. That's not on you guys. Okay. Beverly, Curtis. What's our situation with Beverly?
+Adam Harrison: So Beverly, let me get my notes here. I put a Slack message, so. Okay. She's up on Steady. She had some, like, feedback for us on the scheduling thing, which is sort of separate, and we talked about in Slack already.
+Nathan Peereboom: Jot already scheduling or the security and data thing.
+Adam Harrison: Scheduling.
+Nathan Peereboom: Scheduling. Okay, cool.
+Adam Harrison: Basically, like, the AI scheduling doesn't always work, and that's problematic when, like, you need your schedule to be correct.
+Nathan Peereboom: Okay.
+Adam Harrison: She's interested in Jatarx, so I connected her with Becca, and she said if we have Jotrx and telehealth, she can cut ties with therapy notes altogether. She is used using. Using a third party credentialing service. So I asked her to put me in touch with them so I can get her air docs directly from them and, like, draw audit set up from her because she still hasn't sent us anything there.
+Adam Harrison: She has not, like, made that introduction yet. So I'll follow up with her. I just spoke with her on Friday, so I'll follow up with her maybe, like, tomorrow. She wants us to do all the patient billing for her as well. Like, for us as jots like to manage that. So we could probably get started with that, like, pretty.
+Jackson Bierfeldt: Pretty soon we kind of couple. Because we're about to do that with Valcourt. Does it make sense to kind of, like, bundle those out?
+Adam Harrison: Be like, hey, we're gonna make the.
+Jackson Bierfeldt: I think you're gonna talk to Marcus about that.
+Jackson Bierfeldt: Video, like the training video. And we should probably, you know, for our own purposes, just like yoke those two things together as like, hey, this is the next step.
+Adam Harrison: Yeah, I think I agree. Like, we'll. Maybe I can do the same, like training with Beverly on Friday that we're doing with Valcourt on Wednesday. I think Beverly's expectation, though, is probably more so that we are actually submitting the payments, chasing her patients, like doing all of that stuff as opposed to her doing that because, like, that's part of what she's. That's part of like job bill service. Right?
+Nathan Peereboom: Yeah, at the. At the 8% level. Because we don't chase patients if we're not doing 8%. 6% is not like, that's not a standard billing company thing for 6%. So I think if she wants us to interface directly with her patients, like, and she knows this, it's a whole different level of service. You know, it's like it's way, way, way more complicated to like let someone let patients complain to us, interface with us, you know, argue about where the bill is. Like all of that. Like, if. If that's the thing, then it's gotta be 8%.
+Jackson Bierfeldt: I think we start by just showing her like, how easy it is because in her mind it's probably. I think we were just like, look, there's a, you know, you see the patient, you push the button and then it shows here, like if they've paid or if they haven't and it turns green and then you're good.
+Adam Harrison: Okay. Yeah, I agree. I agree. I do think it is worth us also like thinking about more broadly, like how we're going to delineate between like this anyway. No, I think you're right. But I think. Yeah, I guess that's like the 6% versus the 8%, Nate. So that, that's. That makes sense. Yeah. So those are kind of the next steps, you know, get her payer docs from her credentialing team. Becca's going to do the JobRx demo. I'm going to need to. Or Jackson upload her paradocs into her jaw audit. I think before we can like do submit claims for her, we want to get her template like similar to Valcort. We want to get her a custom template that she can sign and then it will just go directly into a claim. Right?
+Nathan Peereboom: Yeah.
+Jackson Bierfeldt: So yeah, do. To do that, we would just need her like, docs probably, you know, as a. As a little nudge there. But really what we just need are like some example notes from her.
+Jackson Bierfeldt: And then I have a whole thing where I can set that up pretty easily.
+Adam Harrison: Okay. I would say we have a bunch of like notes from her. Well, yeah, like I have therapy notes, account login, so.
+Jackson Bierfeldt: Great.
+Adam Harrison: Let me know what I need to get you. I mean, if you want to wait for like the payer docs, if that's the most robust thing. Thing like we can do that
+Jackson Bierfeldt: just to get something to her in order to like, you know, like we give you something, she then gives us something. I think we make her templates for her. So you can just do exactly what you did for Valcort that was perfect. Where you were just like, hey, here's a folder of like psychotherapy pure notes. Here's a folder of medication management notes. Like, however she divides that in therapy notes. If you can just give me like here's four notes from each one that works perfectly and I can just do the same thing.
+Adam Harrison: Okay, cool. Longer term, do you want to have more of like an out of the box like billing Note for like 99214 or I guess it shouldn't really be dependent on the code. Right? Because we're suggesting the code.
+Jackson Bierfeldt: But if we want to like.
+Jackson Bierfeldt: Yeah, we already do have that in the software. I think I'm going to like upgrade them. These new, some running with Valcourt, but I mean in the software right now if you go to the template library, there's a note called Medicaid or a template called medication management 99213 through 99215. Like it's labeled by the CPT codes. So technically anyone could just pick that one up. But I think it's nice to do something where, because I've made it so simple now, where I'm just going to drop all these into a thing and press go and it's going to take that template and then modify it to look exactly like the one she already uses just to increase that familiarity aspect.
+Adam Harrison: Okay. So I guess what I owe you, Jackson, is the payer docs plus the folder with her example notes,
+Jackson Bierfeldt: you can get that and give it to me inside that notion tracker thing and then I'll be able to pick that up and turn those.
+Nathan Peereboom: Sorry, paradox. And what else?
+Jackson Bierfeldt: Example notes.
+Nathan Peereboom: Okay, sorry.
+Adam Harrison: Okay. I think, I think that should. If we can get her a new template and get her set up with patient billing this week. I think that's, that's a win for Beverly.
+Nathan Peereboom: Totally. Huge, huge win.
+Adam Harrison: Okay, I like that. Okay, that's pretty much it on Beverly. She is also like, she's, she wants us to do her billing for her. Like she's like, she's in. You know, she's not like, oh, maybe I'll use therapy notes. Maybe jot to like. Like she really wants us to do it. So I think the sooner we can get her like submitting claims within job site, like the better.
+Nathan Peereboom: Awesome. Hey, the JOTRX thing, we don't have to follow up on that. Like they've already scheduled time. That's good.
+Adam Harrison: They haven't. I will follow. Like, follow up and nudge Becca if needed. I, like, made the intro over email, and, like, Beverly probably won't respond, and, like, we'll probably have to chase her. I might have to, like, mention it again on the next call. She just wanted, like, a demo of what ChatRx is
+Nathan Peereboom: my strong recommendation in those situations. Anytime we can get these providers to not do things in email, we gotta prioritize. It never works. Like, the. Hey, I'll send you an email. You coordinate. Never works. Becca has a calendly that goes directly. Just be like, all right, Beverly, I want to get you scheduled right now. Like, here's the.
+Nathan Peereboom: You know, just find her the soonest time on that calendar.
+Adam Harrison: Okay. I'll. I'll just schedule that with. Probably makes sense for me to schedule when I talk to Beverly. I'll just get that on the calendar.
+Nathan Peereboom: Yep. Yeah, we. Our expectation as a team should be that no one ever responds to email. Ever.
+Nathan Peereboom: Yeah, they read email, but, like, they never respond to it. Yeah. Okay, so I'm gonna just add schedule.
+Adam Harrison: Yeah, at the time, I didn't have the calendly handy, and so. But now I have it. So going forward should be. Should be good.
+Nathan Peereboom: There, you've got it. Do you want me to drop. I'll just drop it in here.
+Adam Harrison: I got it. I got it.
+Nathan Peereboom: Oh, you do? Okay, great.
+Adam Harrison: I got it.
+Nathan Peereboom: Awesome. All right, cool. And I'll just say that's high and. Oh, no. Okay, there we go.
+Adam Harrison: Yep, that's me.
+Nathan Peereboom: Cool.
+Adam Harrison: All right.
+Nathan Peereboom: Sweet.
+Nathan Peereboom: Beverly, let's talk about Jonathan.
+Adam Harrison: So Jonathan.
+Nathan Peereboom: Yeah, we have a signed MSA with him. Yeah.
+Adam Harrison: Okay, great.
+Nathan Peereboom: These are the three MSAs we have are Jorge, Beverly, and John.
+Adam Harrison: Yeah. So I'm talking to him again today at 3. He's kind of like. We're just to recap, right? We're doing his January claims for him, and we're just trying to figure out the best way to actually do that. So I'm bringing. I'm bringing. And he. Because he also, like, wasn't collecting patient insurance, so, like, he's missing insurance info for, like, pretty much everyone he saw in January. He's also not credentialed yet. He's in the process of getting credentialed. So anyway, it's, like, kind of a little bit of a mess. So I am gonna have Michelle join, like, our call today at 3, and we're just gonna kind of, like, figure out, like, what's the best path ahead here because, like, I just don't know. Can we submit things? Can we not. He already, like, wrote these claims off. So Michelle, John and I are gonna just hop on a call and, like, figure out what we do with the January claims. Given just, like, where things are between credentialing and him not having insurance info on file.
+Jackson Bierfeldt: So him not being credentialed is likely going to mean. That we can't submit some of those. Right?
+Adam Harrison: Well it's like in process for some. Like the application is submitted. But it depends on the question.
+Jackson Bierfeldt: Is the question here like which payers allow you to submit claims while you're in process with them?
+Adam Harrison: Yeah. And the other thing is we just don't know what his payer mix is because we didn't collect any of that info with he's like 80, 90 of his patients. We don't even know who the payers are.
+Jackson Bierfeldt: Like he doesn't even know which payers. Okay.
+Jackson Bierfeldt: So it's so interesting to me that people get into this situation.
+Adam Harrison: It's wild. It's wild. Jackson, one question for you is actually kind of related to the all hands your question. His concern was like, hey, I use advanced MD right now. I'm kind of like still billing stuff through there. Right. I get set up with JOT Psych. I get that clearinghouse connected. Obviously I can like submit claims without any issue through JOT Psych through steady. But if we are doing like an enrollment with Medicaid or something else, how does that all work and does that affect like where eras go or like things get posted? And I just don't want to like mess up his current thing. And that's also what I'm going to ask Michelle about later. But do you already have a view on that?
+Jackson Bierfeldt: Double check with Michelle. But I am 87% certain. I'm 100% certain that in the commercial payer world, very separate, you enroll just for receiving the era and that is a like bridge burning moment, you know, for the commercial payers. So for now for him, definitely recommend like if he's already set up with ERA receiving an advanced MD and he's going to stay there for a little while, we don't need to worry about the era. 87% sure. It works the same with all the different state Medicaids with the exception that you have to enroll to submit. But I don't think enrolling to submit means that that's where you have to get your eras. Although I would double check that exact thing with Michelle.
+Adam Harrison: Okay.
+Jackson Bierfeldt: Because that's when you start getting into like oh well Iowa bundled them together. But like you know, there's all sorts of weird cases. Yeah. So we do want to be extra careful on that because that like era, you can only get it to one place thing is like something we should always touch with kid gloves.
+Adam Harrison: So can I. So when I look at the admin panel. Sorry Nate, I'm just going to take over for one second if that's okay.
+Nathan Peereboom: Yep.
+Adam Harrison: So when I look at the admin panel and I'm looking at, like, payer enrollments, this is just to submit, right?
+Jackson Bierfeldt: This is not eras right now, it's just to submit.
+Adam Harrison: Okay, so we don't currently have anything in the admin panel that's for eras. Is that correct?
+Jackson Bierfeldt: Not yet. Nope, we haven't gotten that.
+Adam Harrison: Okay. Okay, perfect. I just want to make sure I wasn't misunderstanding something. All right, So I think I'll have a better view on Jonathan in, like, two hours or so. But that's like, the current situation. We.
+Nathan Peereboom: Yeah, Adam, my. I think guidance with Jonathan, too, is, like, even if there's like, a single payer that you can figure out, that's also, like, fine. You know, my guess. This is my guess. My guess is that insurers, you're not credentialed with them, they don't want to pay you. Like, that's my guess. My guess is that in a world where people are trying to be technically aggressive, the fact that someone technically is not credentialed is going to be something that the insurance companies respond poorly to. If that's the case, though, we might still have. There might still be a benefit in us, like, submitting and just, like, seeing the process so that we can, like, submit eventually from him. So I guess. Sorry. So just to put a pin on it or 1. Don't be afraid to only go for one pair, to. Don't let this be a decision of consensus. This is like, you, Adam, just need to kind of make the decision and, like, you're going to get all sorts of, like, caveats from, like, me, from Jackson, from Michelle, from him. You kind of just need to, like, synthesize it and be like, look, this is the smartest way to just, like, just do it. And then third, even if you think something's going to get denied, there's not a penalty for us submitting it. And my understanding, and if what we're trying to figure out is like, hey, can we confirm that the loop works? If that's, like, important to us and it's not going to hurt him or us to do that loop? We still want to do the loop.
+Adam Harrison: Yeah. No, totally agree. I think that's the goal. Same with Stephen, right? Like, we're probably not going to get all his money from last year, but at least we can submit a few claims. I think what's going to happen, though, is we're going to see it's, like, submitted, but because we don't have the ERA enrollment set up, we're just not really going to know what happens unless we loop back with him and see what his advanced MD says. That's my sense right now. But it'll be good to just, like, start using the Rails we have set up, right?
+Nathan Peereboom: Yeah, totally, totally.
+Jackson Bierfeldt: So for Nirvana, I guess we have that. I. I don't know what. Because I think before with them, we just sent them a CSV file and they, like, did a test and now we have that key and, like, Lee's going to be setting that up. But I wonder if there's something where we just try to use their discovery API, because they have that thing where, like, You can put in a patient's demographics, which insurance the patient has. I wonder if that could just be something to like, try here for sure. To see if that, like, helps him. Because that could be like, again, just trying to deliver value as early as possible. If we're able to just be like, Jonathan, no promises, but give us the CSV of like, at least the basic information about the patients and we're going to see if we can find their insurance for you.
+Adam Harrison: Yeah, yeah, totally, totally. That could be. That could be good. I am just waiting on Nirvana to come back with like an updated contract, but I think that should be quick. So that could also be something we do for them like this week.
+Jackson Bierfeldt: Yeah, if we get that, that's the kind of thing where if I might just. You just give it to me and I just spend two hours like building a, like, one off, like it technically uses Nirvana's thing and we like, run the thing and just like, see if it works. Like, I'm happy to do that once we. Once we like get the faucet turned on from there.
+Adam Harrison: Okay, yeah, that sounds good. One more question, Jackson, on this kind of whole broader topic is do you think I will be able to submit the claims from within the job site, kind of either admin panel or as a user in their organization, or should I be doing it via steady and like, it probably depends on when. This week or next week or you know what that's kind of looking like.
+Jackson Bierfeldt: Yeah, I. How many claims that are there? Because I need to build something in order for us to access their billing thing from the admin panel and which I know we want to do. I just need to figure out where that is in the priority. Like if it's for like three claims, I think. I know it's annoying, but we're just going to do it through study. But if it's for like 80 of them and we want to test, you know, the jot psych note and everything and there. And we have a very clear way of being like, oh, this note was the one that was for this encounter, then we probably want to do it through JOT psych.
+Adam Harrison: I mean, I think we could probably just do it externally then. But I wonder, like, how much value do we get out of doing this if it's sort of like externally, just on steady, you know, I think part of what we want to do is validate, like how we've set it up within JOT psych.
+Jackson Bierfeldt: Yeah.
+Adam Harrison: So that we feel good that this will be like working for Valcor.
+Jackson Bierfeldt: Yeah.
+Adam Harrison: So Yeah, I think it, you know, at the absolute most, it'll be. It would be 80 if we did scan for all his patients and like, he was. Credentialed and, you know, blah, blah, blah. I think realistically it's probably just like a handful, so we could definitely do it through steady. But I think my question is, like, is that, like, how valuable is that to us? Like, I'm going to click submit and then it's going to, like, disappear, and then we're not going to really know what happens to it because we're not enrolled for era.
+Jackson Bierfeldt: I think it's low value. I mean, we will know if it, like, gets to his era. Set up to his own ehr. Right?
+Adam Harrison: Yeah, yeah.
+Jackson Bierfeldt: Well, there's no way.
+Adam Harrison: Okay, yeah, yeah, yeah, we'll. We'll know.
+Jackson Bierfeldt: I mean, this is the broader question here is like, if he's in the process of getting credentialed, is it the kind of thing where we're just like, hey, like, we're going to figure out the ERA process with you. Like, we're gonna build it. Should I build the ERA thing and hook him up? Because he goes through all the process of, like, getting, you know, ERA Advanced md and then a month from now, we're asking him to switch to Jot Psych. Then that's kind of annoying too.
+Adam Harrison: He. He's like, not on board yet with JOT Psych. This.
+Jackson Bierfeldt: He's like, got it. Okay, okay, okay.
+Adam Harrison: He's like, oh, I want to test Advanced MD and like, blah, blah, blah. Like, they have these new features with billing. I want to, like, try that out. Oh, you know, if you're submitting claims for me, is that messing up my current setup with Advanced? Like, I don't want. I don't want that to happen.
+Adam Harrison: Use Advanced HE for right now. He's like, I don't want my current setup, like, messed with.
+Jackson Bierfeldt: Yeah, okay, Sounds good.
+Adam Harrison: Okay. Okay.
+Jackson Bierfeldt: Well, then it is worth it for even if we just take three patients and submit the claim knowing that he's not credentialed. But he is in the process of setting up the ERA with Advanced. It's worth it just to see that, like, data flow. But we shouldn't do it for 80 of them.
+Adam Harrison: Okay, that's fine. That's fine.
+Jackson Bierfeldt: Yeah.
+Adam Harrison: So I'll just plan on doing it within steady.
+Jackson Bierfeldt: Yeah, but let's find out because maybe he is done with credentialing for one of them or something. And we can figure you and Michelle will know more after you meet with him.
+Adam Harrison: Yeah, we'll know more later, but I think I'm clear, like, where we want to go here. So should we move to Valcor?
+Jackson Bierfeldt: Yeah.
+Nathan Peereboom: So Valcor I mean. Yeah, you guys. You guys can jump in here. My understanding is that the first thing we're biting off is patient payment. Right?
+Adam Harrison: Yeah.
+Jackson Bierfeldt: Met up with them on Wednesday. I built them new custom templates and put them on their account check mark.
+Nathan Peereboom: This is done. Okay.
+Jackson Bierfeldt: Question is. And I don't actually. Nate, do you have the transcripts from the. Like, what's. I don't remember what we said. Am I. Am I talking to the psychiatry department at the same time? Like, when are. When am I getting feedback on that new template? I remember we. Adam, do you remember? I can go pull up the brain.
+Adam Harrison: Yeah, yeah. So I think my understanding is we are meeting with them Wednesday. We have two meetings. One is a training with, like, their front desk on how to do patient billing. I'm meeting with Marcus probably later today. We're gonna, like, do a video, and we'll probably just do a live training on Wednesday, you know, and we'll just, like, walk them through how it works and get them set up. That's. That's the patient billing side. Then the other. The other thing that we said we would do is, like, with their. I think it's with not all of their psychiatry providers. It's at least one of them. We are going to, like, show them the new template we put together and then, you know, maybe get some initial feedback. But I don't think we've, like, you know, I think we have some room to set up, like, how we want that discussion to actually look. If we want to, like, email them today and be like, hey, here's this new template. Like, give it a try and, like, we'll regroup on Wednesday, and, you know, you can let us know what you think. That's maybe the best way to do it. Or we can kind of show it to them on Wednesday, walk through it, regenerate a few notes in that template, and kind of just like, get feedback live. I think either is probably fine.
+Jackson Bierfeldt: Okay. I mean, I sent them a thing on Friday about it. I think we can ping them again today and just ask that they. That they use it a couple times so that we can, like, look at it together and discuss what tweaks need to be made during our time on Wednesday. Tweaked session.
+Adam Harrison: Sorry, audio's going out.
+Jackson Bierfeldt: You mute. I want to set up Wednesday as a feedback session, not as a presentation session. So I'll ping them again today, asking them to have the providers use it, and then on Wednesday, we can collect feedback and do that.
+Adam Harrison: That's perfect. Yeah. And also, I'm just checking the channel. It looks like Jorge had some question about.
+Jackson Bierfeldt: Yeah, I don't know. I looked at that. I don't know what it means at all. And I think it's unrelated to Valcourt. I think it's for his other business.
+Adam Harrison: Okay.
+Jackson Bierfeldt: I mean, I'll respond to it somehow. I'll figure it out.
+Adam Harrison: So I think just in terms of, like, blocking and tackling here. Like, my expectation is I'll kind of own the patient billing stuff with Marcus. And then Jackson, if you're owning more of, like, the template stuff for Wednesday.
+Jackson Bierfeldt: Does that feel right or. Yeah, I'm owning the template stuff. You're owning the paying payment stuff. Yep, that's right.
+Nathan Peereboom: Can I just get a quick update on where we're at with the spec for the tiny cash register upgrades?
+Jackson Bierfeldt: Not from me. You'd have to talk to Marcus. But I think it's going out probably tomorrow into production.
+Nathan Peereboom: Oh, sick. Really? This V1.
+Jackson Bierfeldt: V1 and then, like, half of V2, I think. But you have to. I mean, I haven't really looked at it.
+Nathan Peereboom: Okay, I'm so sorry for, like, forcing us to do this, but can. Can you just help me understand why we don't want to launch or present the tiny cash register on Wednesday? Am I understanding that right?
+Jackson Bierfeldt: That you do. We are.
+Nathan Peereboom: Okay, cool.
+Adam Harrison: Nate, I'm meeting with Marcus this afternoon to, like, walk through where he's at with it.
+Nathan Peereboom: I'm sorry, I. You. I tuned out. I'm sorry. You guys covered it.
+Adam Harrison: If you want to be looped in on that, though, like. Well, do you want to be looped in or you feel okay?
+Nathan Peereboom: No, as long as he's moving
+Jackson Bierfeldt: yo today, we're gonna send it to him, but we're also going to do it live with them on Wednesday. Wednesdays.
+Nathan Peereboom: Okay, awesome. Anything from a to do standpoint that you guys want notched just so you remember to do it?
+Adam Harrison: Okay.
+Nathan Peereboom: Okay, great. All right, so in terms of the other MSAs, we talked about Steven, we talked about John, Lisa Harris. That is not on your plate. That's on mine, so don't worry about that. Actually, have. Adam. Have you interacted with Lisa?
+Adam Harrison: Is that Brittany? Is that. Or is that different?
+Adam Harrison: No, wait, I might have had a meeting with her. Hold on. Oh, I think I did meet with. Yeah, yeah, I have her practice fusion login. So Lisa, the next step is we're doing the, like, billing diagnostic for her.
+Nathan Peereboom: Oh, that's for me. Yes.
+Adam Harrison: So I think I added something on your to do list.
+Nathan Peereboom: Lisa. Lisa is lucid, right?
+Adam Harrison: Yeah, yeah, yeah. So I added to do for you, Nate, on that with, like, the login info and all the, like, information.
+Nathan Peereboom: Oh, did you? Ah, okay, so this is duplicate.
+Adam Harrison: Okay. Sorry if it was two of them.
+Nathan Peereboom: No, no, no, no, no. That's fine. It's fine. Great. And then I'm going to remove this one build shot. I'm going to say. Okay, great. Okay, so that makes sense. Lisa Harris. Boom. Okay. Tracy Jackson. Do you have time to go see Tracy? Is that. Did I see that? That got. Yeah. What's the, what's the situation with Tracy?
+Jackson Bierfeldt: I think she has emailed her like three times and she hasn't gotten back yet. We're not, we're not trying to go there anymore. We're just trying to do it online.
+Nathan Peereboom: That makes sense. Good, good, good. All right, let's go through this group. Meredith Hogarty.
+Nathan Peereboom: What's the latest on her?
+Adam Harrison: Yeah, I met with her this morning. She's the one who had feedback on the like security package thing. But she's. Yeah, she's interested in eligibility, but she didn't really want to deal with like doing the whole CSV back and forth thing. She's like, oh, well, if you're going to have it in the product like in a week or even two weeks, like, I will just like test it then. So we're going to have a follow up session. I'm going to like do a training of kind of a demo for her and her front desk person who handles all eligibility. And that will be like, with the Nirvana API, like in the job site products. And we'll do like, will still do the like free trial credits for a limited number of eligibility checks, which I think everyone has. Right. And then she's like excited about moving forward with it, like longer term, assuming that all goes well.
+Nathan Peereboom: Awesome. Okay, that sounds perfect. Do you need anything from Jackson or I on that slash? Is that already on the calendar?
+Adam Harrison: It's not on the calendar. She's like very responsive. So I didn't worry as much about like getting a meeting. And she was like, oh, I prefer to just like trade emails and when it's ready, we can set up time. But yeah, like, if it was Beverly, I would have been like, let's definitely just book a time for Meredith. She's like super responsive. So we're gonna probably tentatively grab time next week assuming like all the engineering work goes like as planned this week.
+Nathan Peereboom: Gotcha.
+Adam Harrison: Okay, so I, I'm tracking that on my list.
+Nathan Peereboom: Great. Let's. Dean, what's our situation with Dean? I know you guys have talked with him.
+Adam Harrison: Not sure. I know we have his Fuse account and it's on my list to like check into that a little bit.
+Nathan Peereboom: Okay.
+Adam Harrison: But nothing from like a billing standpoint at this stage.
+Nathan Peereboom: Okay, gotcha. I will like you, Dean. Gaming. Status. Great. Okay. Kelly Ferry. I know you've been chasing her. Sometimes I get emails from her. What's the situation on Kelly? I received. Well, the last thing I received from Kelly was. Hey, I'll be working on sending over the requested spreadsheet because I think she wanted to try the eligibility pilot. Where are we with this?
+Nathan Peereboom: So she sent over her docs.
+Jackson Bierfeldt: I have to jump to a meeting with Marcus. Is that okay? I don't have any updates on any of these other three people.
+Nathan Peereboom: I think this is the last one for us anyways. Thanks, Jackson.
+Adam Harrison: Yeah, she be never responded. So that's the latest one. I was chasing her, like, prior to this.
+Nathan Peereboom: Okay, cool.
+Nathan Peereboom: Do we have our phone number? No. Right.
+Adam Harrison: I don't forget.
+Nathan Peereboom: I don't think I have my phone number.
+Adam Harrison: Yeah. I wonder if we also just since we're so close to having it in the product, try to, like, try to, like, get her do more of like, a demo and just give it like one more week.
+Adam Harrison: Like, try to do the demo next week when Lee has it built.
+Nathan Peereboom: Okay, great.
+Adam Harrison: Do you want to put that on me since I'm already doing that with Meredith?
+Nathan Peereboom: Yeah.
+Adam Harrison: Okay. So I can say something like, hey, hey, Kelly, like, exciting news. We're, you know, we can actually do this directly within job site instead of the spreadsheet. You know, would love to get some time next week and we'll, like, get you set up, you know, something like that.
+Nathan Peereboom: Yeah, I think that that's right.
+Adam Harrison: Cool.
+Nathan Peereboom: Okay. Cool. All right. Awesome. Okay, so Lisa and Amanda, jot analysis. That's on me. Kimberly, what happened here?
+Adam Harrison: Kimberly Heath.
+Nathan Peereboom: Kimberly, here. And then anything Just while this is cooking, let's just run through this. Anything that you need for me, Adam, as we continue to march forward here.
+Adam Harrison: I think I'm okay. It looks like jotrx. Is she a johnrx person more than a billing person? Person.
+Nathan Peereboom: Yeah. Let me ask. Before asking.
+Adam Harrison: So you hover in your pipeline update.
+Nathan Peereboom: Yes, but I think.
+Adam Harrison: Oh, it's just like a grouped thing.
+Nathan Peereboom: I think it's that, right? Yeah, I think it's just listing her. It doesn't actually.
+Nathan Peereboom: When did it say this was? February 11th. Okay.
+Adam Harrison: Yeah.
+Nathan Peereboom: Or I should check. Or not front, but.
+Adam Harrison: I don't have her in my inbox.
+Nathan Peereboom: She. She signed up for Jotterx. Oh, that's awesome. So she's actually a paying customer of Jotrx. Okay, cool.
+Adam Harrison: That's awesome. Okay, great.
+Nathan Peereboom: Update. Okay, great. So the next step is I need to reach out to her and check in on her John RX experience. Reach out to Kimberly and ask about experience. Okay, cool. All right. I think we're good. I think that's it for now.
+Adam Harrison: Yeah, we're marching forward.
+Nathan Peereboom: We are marching forward. All right, cool. See? Templates. Okay. I think we're good.
+Adam Harrison: Sweet.
+Nathan Peereboom: Anything?
+Adam Harrison: I think that's it for me. But, yeah, I want to get some things submitted, like, asap. You know, I just want it, like, whether it's Stephen or John, like, we just need to do it.
+Nathan Peereboom: So just do it. Just do it.
+Adam Harrison: Just do it. All right.
+Nathan Peereboom: Thanks. Cool. See you later, adam.
+Adam Harrison: Talk soon. Bye.
+Nathan Peereboom: Bye.

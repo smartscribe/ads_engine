@@ -1,0 +1,211 @@
+Anya Nelson: Okay. Yeah, I can.
+Anya Nelson: I don't know what works best for you guys, but I just, like, share my screen.
+alfred: Yeah, I think that's best.
+alfred: Yeah, you shared. You shared something yesterday, but I must admit, I didn't have a chance to take a look at it, so.
+Anya Nelson: Yeah, no problem.
+Anya Nelson: That's all we have today. Cool.
+Anya Nelson: I'll just run through that then real quick. So, yeah, we left off, like, yesterday talking about this, and I use kind of like the notes and, like, everything that, you know, Becca was wanting me to do and for this second pass at it. So I'll just, like, break it down, like, really quick.
+Anya Nelson: I know, like, there wasn't, like, a ton of priority on this. So this is, like, pretty.
+Anya Nelson: Like, I'll just go through this pretty fast. Not too many crazy changes. Just, like, reorganize a couple of things. So, like, this is the most updated version. Obviously added the password back. I know we were talking yesterday about it being a third party. I didn't know if that meant, like, we can't do this at all or it's just, like, we need to have the password.
+alfred: No, it's that at all. But it is. It becomes a question of priority. Right.
+alfred: It is doable, but it requires bringing the whole authentication flow into. In house. So it really becomes a question of priority at that point.
+Marcus Irven: But I think we can do it. Like, the hybrid, right? I think this page can remain on auxerolease at first, and then from there on you could have the sidebar thing. So just really. Just that first page, correct?
+alfred: Just that one, yeah.
+Anya Nelson: Oh, okay. Okay. Okay.
+Marcus Irven: And again, we can do it. It's just a significant.
+Marcus Irven: But on the. Yeah, but your next two or three screens, we can totally do it.
+alfred: Yeah.
+Anya Nelson: Okay. I love that. I think it's probably fine then, like. Yeah, for now, too.
+alfred: Actually, sorry, I'll pause you here, because there is a. There is a login page that we own that currently is just like a button that says log in or log back in. That's also something we could bring into this. Into this world with. With. With low lift.
+Marcus Irven: Okay, just out of curiosity, have you looked into it? Like, how. How much effort is it just to throw a form and call us here? Like, it probably isn't that much of a lift, right?
+alfred: No, I think that's what it's. It's worth investigating. There's security issues that we haven't had to pay attention to thanks to being in Auth0.
+Marcus Irven: We would still use Auth0, right? Be backed by author APIs, but it would just be. Yeah. Okay. It's probably worth. Because my guess is it's actually not that much effort.
+alfred: No, it's probably a day or two.
+Anya Nelson: Okay. Yeah, I'm like, yeah, I mean obviously like you know your priorities best. So like I'll put this here but like you can take, you know, what you need from it. And yeah, nothing changed there. Yeah, obviously out of the password in here, like whatever. And then I think I had to. Yeah, I had to move something. So I moved like specialty to here, which I think makes a little more sense. And then like did a half here and then I had to add kind of like I agree to text messages. Little checkbox that Jackson was talking about. So those are the only changes related to this.
+Marcus Irven: Those are new fields, right? Like the org size and things. Was that something you were asked?
+Anya Nelson: They were there. So last time, because I had to put passwords here, I don't want it to be like too long. So I took specialty and moved it here, which I honestly thought made more sense. But then I didn't want like also there to be five here. So I just kind of split it these two. So nothing's actually new, it's just like reorganized.
+Marcus Irven: I mean those aren't in our current app, I guess is what I mean by new. Like I don't think we're you administrator. Where did those, those come from?
+Anya Nelson: So I know that like I think Alex and someone else did like an analysis, like the data or something. And then like sales, they gave me a bunch of data of like questions we have to ask during this onboarding process. And I think these three were. Were those questions.
+Marcus Irven: Got it?
+Anya Nelson: Yeah. And then like they would drop down and have different things or. Yeah. So then check that. Start free trial. Then basically that's all the same. So like, yeah, we're talking about that transitional step here and I guess I want your thoughts. Yeah. Because obviously there's a recorder. But in between I was kind of thinking like first time user experience. Like we want to keep everything obviously the same because we don't keep like changing the recording screen because that's annoying, you guys running for everyone and them, you know, the users. So like how do you know, like how do we kind of get them to maybe pick an appointment type and like get them more acquainted with what that even means before get in there. Because I think if they get in there and it's just like a random appointment type, they might be even more confused. So I think this is kind of like a nice bridge between like getting them comfortable. So it could be kind of something like this like pretty simple. Just like since you're new here, like very like obvious that this is like because they're a first time user ask you some questions. So I think this could be something where, you know, there's a drop down and we don't overwhelm them. They just kind of pick from the common ones. And then what that could do is like. Yeah, so that would be like intake filled, whatever. You could either enter the duration, because I left them kind of like blank here, but they could say like 30, 60, whatever, and just like auto fill this in, this duration in. Or we could let them input that if they want to customize it right then and there.
+alfred: I think the default values already have default duration values as well.
+Anya Nelson: Enter that here.
+alfred: Yeah, they wouldn't have to enter. It's just.
+Marcus Irven: But conceptually I really like this kind of interstitial kind of since you're new experience, personally. Yeah, it's a good experiment.
+Anya Nelson: Yeah. Yeah. I mean, yeah. So if we put 30 here, it could autofill here too, which would be like.
+alfred: I, I think, I think though this is a part where introducing the notion of the template, the note template is also beneficial. Probably more. More than duration. Yeah, because I think that's, you know, the appointment type is tied to the template. The templates really tied to the note. Duration is more like a scheduling thing that, you know, some of our users might really need most others not. Although it does, it does also affect billing. So it should import, it should be of importance. So yeah, I, I would say, yeah, that's a good note.
+Anya Nelson: Like maybe instead of it saying duration like you were thinking you can say like template type or something. And like.
+alfred: Yeah, and a little like you can customize your templates if you go to the template builder, that sort of thing. But not make it about that yet because we're trying to get you to record.
+Marcus Irven: But I don't know, it's an opportunity for education, I think here.
+alfred: Like an opportunity for education. Yeah.
+Anya Nelson: Do you think it makes more sense to like when you pick the appointment type, like intake or whatever it like auto fills like a suggested template. Or do you think we like have them pick appointment type and then we have them pick a template?
+alfred: No, I think that they pick the appointment type and we probably could say, oh, this appointment type is. Uses this template and blah, blah, blah, like it's not even. Doesn't even have to be about picking it.
+Anya Nelson: Yeah, that's a good idea.
+alfred: Like, you know, and then this is something that we could, will probably would. Would want to like experiment with. Because if, if this becomes friction or if this becomes something that people are finding noisy, then then we, we might want to skip it all together.
+Anya Nelson: Yeah.
+alfred: Yeah, definitely.
+Marcus Irven: What is like our hypothesis here that adding these will increase the number of first recordings.
+Anya Nelson: I think Becca was feeling like there's too many things to click on the screen. Like when you first get to the recorder. Because, you know, my first one, I was thinking like, okay, we like sign them up and then we immediately get them to the value point of the like software, which is the recorder. And when you do that, like, we also didn't want to like change the interface too much. So we don't want to like,
+Marcus Irven: if we were to do an avatar. Test of like this versus like a current. Like what would be our success metric? Like what are we trying to do right?
+Anya Nelson: Is it.
+Marcus Irven: Yeah the number of recordings for first time users. Like are we seeing a big drop off there? Like users are coming in and they're not making recording.
+alfred: And then I think, I think it would be the drop off. Like is this instructional being of any value to the user
+Anya Nelson: and then not understanding I guess like what do with this? I think and like what it does because when you first look at it, you know, like if they're a first time user they're probably like what does that mean? I guess and how does it like affect the note? So like laying it out here can be like oh it oh this fills in this. And like if we added the template thing then that would connect those dots better.
+Jackson Bierfeldt: I think for a first time user they really one like don't care about the appointment type that much. They kind of just like show me the magic. And I also think intake and follow up are like so clear to everybody in this field that those are like two different things that I'm not too worried about them being confused by that. Like if the default is just like hey we're doing a med management follow up. If that is just like there and it's set and they don't have to configure it at all, my guess is that that wouldn't be too confusing to people. They would kind of know like oh yeah, that's 95% of what I do. That's a sensible default.
+alfred: So just arriving, arriving to an intake, selected intake or a follow up something
+Jackson Bierfeldt: that would be My guess is that actually that other screen is now creating more clicking then then we would need to. But if there's. If Becca had like a strong hunch from some user behavior that they were confused by that then maybe we do want that.
+Marcus Irven: We haven't tried the new recorder yet. Right. Like I do think the new recorder is a significant improvement.
+alfred: So maybe we're putting. Yeah and it has been seen as an improvement with existing users. So I don't think what we haven't done is put it in front of new people. I don't think.
+Anya Nelson: Yeah, I also a couple adjustments to this like screen when you first arrive. So currently I really liked I think where Jackson took it with the new revisions. I know they couldn't be like chips in the form field exactly. But I had a couple thoughts because right now it's kind of like you click this and then I mean there's these dropdowns which. Is nice because it's like a way to hide a lot of information, but also, like, all of them are the same.
+Anya Nelson: So you kind of click something in, like, I mean, obviously this one's open Slick billing, but you're opening them and, like, they're all the same. So it just feels a little bit, like, unnecessary, I guess. But then it's like the information super helpful, like, have. Because we want to, like, drive that correlation. So, like, kind of along those same lines, I'm thinking like, okay, you click Intake.
+Anya Nelson: And then you know, that has like, the 30 minutes associated. The video, the office, whatever, like, they picked. I'm almost thinking those, like, aren't clickable or they don't appear to be like, that clickable. They're kind of just more like associated with, like, information.
+Anya Nelson: And then we, like, break it down. So, you know, the main categories that you would, like, need to access could be here and, like, are clearly clickable. That way it's like, you don't have to, like, try to find that, I guess, because I feel like attestations is, like, hidden. And then it's like, why do these three open the same thing? So we're kind of just breaking that down and making it, like, more accessible. But I do like that idea. So that's something new. And then also the tutorial thing, it was up here, but I think with the. The prescription thing, there's kind of a lot going on up here and it makes more sense if it's not bouncing around. Any way to just leave it where it's going to be, which is like the bottom left or a corner.
+alfred: Okay.
+Anya Nelson: Like, those are some changes here. And then, yeah, I did it down at the bottom left like we talked about. And then we could have, I don't know, we could have some sort of, like, focus ring and like, you know, things get muted out and it could be like, animating a little bit. I don't know if this is, like, possible, but things could be whited out. And then this could be, like, pulsing or something just to, like, draw your attention to it. For what Becca was saying with users being confused on, like, where to go. So then also we were talking about, like, what do we do? Maybe, like, they haven't clicked anything and they've sat there for like, a little bit inactive. I put five minutes, but, like, it could be shorter depending on, like, what everyone thinks. So maybe you're sitting here and they're not doing anything. Maybe they don't know where to go. And then, like, something could pop up kind of like this. I know we, like, did something like this for the AI editor, I think. I couldn't find it because I've already looked through everything before, so it, like, wasn't popping up for me. But we could, like. Yeah. Use the same.
+alfred: I can. I can show you how to make it pop up. But, yeah, once. Once you've seen it, you won't see it again.
+Anya Nelson: Yeah.
+alfred: Yeah. Okay.
+Anya Nelson: Yeah. So, I mean, but I like that idea a lot. It's, like, very. It's almost, like, playful. And, like, it obviously points your eye into a direction. So I think maybe after, like. Yeah, a little bit of inactivity, like, we could kind of have that happen here, like, feeling lost. And then, um, you know, an option to show show you a note. So you could just, like, kind of bounce to see the. The value. Or you could, you know, be directed over here, and then, you know, you start recording.
+Anya Nelson: And then maybe after, like, a while of that going on, if you haven't clicked, you know, show me a note. Then another one could pop up and be like, oh, by the way, like and this. And you can like attach a patient and then maybe. Yeah, maybe they do that. I also think maybe like once this kind of starts this tutorial thing just kind of turns on because they're already kind of, you know, going through that at that point. But let me know your thoughts on that.
+alfred: It feels like that's the tutorial. They're directly, they're directly tied to the hip.
+Anya Nelson: Right? Yeah.
+alfred: Like it should just, it should just be the different steps. Yeah.
+Anya Nelson: Okay, cool. Yeah. And so this, you know, it's familiar language. So I think that that like works nice in terms of like consistency. Like if it's happening with the AI editor, like let's do it here too. And then yeah, I attached a note or attach a patient and then say you like stopped that. It's the end.
+alfred: Yeah. I think the, the one thing that, that I'm having a little bit of a knee jerk reaction to is, is actually the, the tutorial button having become a pop. A popover because of the, because of the John Rx banner. So. This is just me and, and, and, and, and and maybe I'm not, I'm. I, I feel the Johnr X better to be a little bit of a advertising ish. I would almost choose not to show it for a first time user. To me it adds noise to the page and then a pop over it just creates.
+alfred: I, I have pop over ptsd. I would almost. I, I thought I, I like better the, the, the button like here, you're welcome here. Kind of how you had it before. Yeah. That have five minute like that's a little bit more inviting and, and less obrusive than, than the, you know and, and I'd, I'd rather do the like logic where we don't show one banner and show the other one rather than, you know, rather than, rather than the popover. I also in my head I start trying to see how this is going to look on the phone and that banner right there is going to take over like half of the, you know, it's going to be like probably going to even be covering the recording button. Yeah. And we need to put numbers. But I would bet that the amount of first time users that we get on the phone is higher than it probably drives the majority of our first time users. Not the majority of our first time users, the majority of our phone traffic. Because it's usually people like, oh, I saw the ad in this thing or something to that effect and I went through it. But again, that's a hunch. It's not something that.
+Marcus Irven: What phone thing are you talking about? I don't follow the phone thread.
+alfred: Oh, first time users are likely. There's a higher chance that they're on a phone than none.
+Marcus Irven: Oh, oh, on mobile. Okay. Yeah.
+alfred: Mobile.
+Marcus Irven: Yeah.
+alfred: Yeah.
+Marcus Irven: I was thinking. Yeah, yeah.
+alfred: And even, I mean we're not doing as much conferences or doesn't feel like we are as we used to, but you know, there I, you know, we used to make a big feel of like going through the, going through the whole flow as a first time user and, and, and that's where a lot of these pop ups were even like more.
+Marcus Irven: Yeah, I, I agree. I think, I think that you raised a good, some good points, Alfred. I, I had the same reaction about the, the, the tutorial being a, like a popover. It felt like it was just going to get in the way. And yes, I do like this better as well. And I think you're, you're spot on about the banner. Like the banner is a, our way of like advertising to current users about new things and we don't need to do that necessarily for first time users. So I think that's a smart call out. That could be kind of an either or.
+Anya Nelson: Yeah, that's a good point. Do we feel okay about like this being here? Because my thought was like okay, like I guess if it's, you know, this is what we decided on like being better like in the corner here anyway. Like, do we, we feel okay about it going from this then jumping to this? Like, does that feel weird to me?
+alfred: I'm, I think we're going from that and jumping to the version of this that has like the little squiggly in the.
+alfred: Feels better that that's where I, I don't know, but you tell, you tell us. You know, but it almost feels like we don't need the three steps if we're doing the squiggly line with the button next. Next, you know, it's a little bit more playful. Yeah, okay. Yeah, that one.
+Anya Nelson: Right. I got it. I'm gonna make a.
+alfred: So then it's probably not.
+alfred: I mean, I think the. The difference, though, look, and maybe I'm wrong. I think the difference is that we were kicking into this within activity. Right? The reality is that. If, if we have a user that's inactive here for five minutes, it's. It's probably a dead. A dead tab. Like the user is just not there. If we do it sooner, I think it's going to be obtrusive. Like, what's going on? You. Clicking into a tutorial feels good to me. Yeah. And then, and then it should just be like, oh, this, this. We're really talking about three steps here, right? It's not. It's.
+Anya Nelson: Yeah, yeah.
+Anya Nelson: But it seems to be like three steps that people are getting confused about for some reason. Like, I guess I'm just like going back to Becca's thoughts or concerns, I guess, of like. Like she was saying, like, obviously I know she wants simplicity on the recorder as well, but she was saying people are getting confused, but like, we need to have all this stuff on the screen. But like, everyone's getting confused and stuff. And like, I know she's like so involved in the product. Like, clearly the concern is there for a reason. So I'm like, yeah, like giving them a quick option. Like, you know, this could kick in and everything. But like, you get to this and you're kind of like, wait, what? And you might want, like to feel like you have a choice, like to feel like you have an option to do a walkthrough, you know, and like clearly see it laid out rather than like, stuff is. I mean, this is. I mean this is obviously cool, but like also being able to like, oh, okay, this is like kind of the order that I would do that in. Or like, this is like, yeah, it actually isn't that complicated. There's only three steps. Rather than just looking at this and being like, wait, these like endless squiggles are like coming at us in different places.
+alfred: That's true. So just. So just starting with this guy. Who.
+Anya Nelson: This guy?
+alfred: No, I mean the, the. The tutorial. That.
+Anya Nelson: Yeah. I mean, and that could be something that like, isn't a pop up. If that's like a really strong concern. It could be over here like on the page and we remove this. But then I can like hear Becca being like, but how are they going to know about, you know, the E prescribe?
+alfred: I think, I think it's okay if we show them that on a second time.
+Anya Nelson: Okay.
+alfred: On a third time. Once, Once. Once they've done a recording. I. I don't know. Marcus pushed back, but no, I, I agree. Yeah.
+Anya Nelson: Okay.
+alfred: We're not trying to upsell them at this point when, you know.
+Anya Nelson: Yeah, I can like mock up both, like what it would look like if, like, we had this up here and it goes to this, or we have this and, like, just see how. What feels better also.
+alfred: Okay.
+Anya Nelson: Yeah, so I'll play with that. Lastly. Yeah, so I just, like. I mean, this is like, what Jackson basically already did, but just, like, showing an example of, like, how I think that could look like.
+Anya Nelson: With the quicker links to those things like this would open a session. Details, obviously, billing codes, attestations, just so it feels more like less hidden. Nothing too crazy there.
+alfred: I think the only thing there is that the template's still very important. It's probably more important than any of those. So if you go to the. You had a browser tab open earlier with. With a live. Yeah. You see how it has the job site starter template as the first element like that is. That is still the.
+Anya Nelson: Right.
+alfred: In my view the most important one.
+Anya Nelson: Super important. Is that not what this is though?
+alfred: No, that's the thing. That's where there's confusion, I think.
+Anya Nelson: Right.
+alfred: That's where there's confusion. So the appointment type, let's say the appointment type would normally it's very likely that they might correlate the names, but they don't necessarily have to correlate. So an employment type, you can have 10 different appointment types that all use the same template or you can have 10 different appointment types that use 10 different templates.
+Jackson Bierfeldt: The way that it looks for most people is that there's like intake and follow up for their appointment types which correspond to how long it is and where it is. And then their template will be called like Rhonda's, you know, ADHD template V2 version 9. Like they make their own templates that they really get attached to for the note, but it, you know, isn't the exact same as the appointment type.
+Anya Nelson: Okay.
+Jackson Bierfeldt: Rhonda likes to have her ADHD template v0.9 for her follow ups. But you know, someone else in the same practice has a follow up.
+Jackson Bierfeldt: It's the same length, it's the same telehealth rules, it's the same CPT codes. But you know, she likes to use a different template. So people do like having that separate template control.
+Anya Nelson: Okay. And they seem to understand the correlation there.
+Marcus Irven: This is my confused thing, so tell me to shut up. But really the template doesn't come into play until they generate notes. I don't know if that's like. It doesn't. It's not that important until they generate note. Right.
+alfred: Correct. Also. Yeah.
+Marcus Irven: So it may be the time that they think about the template is when they're after the recording.
+Jackson Bierfeldt: Yeah. But people, from what I've seen, they don't think of doing anything on the screen after recording, like when they hit done. They just want to generate the note, like as soon as possible.
+alfred: Yeah.
+Jackson Bierfeldt: So I don't think there should be any UI that comes up separately, like after they hit done.
+alfred: Yeah, that's like a V3 recorder.
+Anya Nelson: Yeah. Yeah. Okay. Yeah. So lastly, like, Becca just was like, could you think of, like, how this would kind of look or play out in the note as well, like, if you have time. So, yeah, I kind of followed similar language through.
+Anya Nelson: I also kind of took some of those things in the recorder and put it up here as well with those kind of tags and everything like that. And then the option to change your template, option to customize your template, because we felt like that would make more sense here in the note rather than the recorder. And then I don't, like, is this relevant after, you know, after the fact, like, after the notes generated. Let me know.
+alfred: Yeah, you can still tweak those values.
+Anya Nelson: Okay.
+alfred: Yeah.
+Anya Nelson: So, I mean. Yeah.
+Jackson Bierfeldt: Anya, one thing I'm confused on. On this design is so you can't click any. Like, if I see the diagnosis code there, what happens if I click that?
+Anya Nelson: I mean, like, I was kind of thinking, like, that almost feels like just like information, if that makes sense, relating to, like, the template type. I think that, like, maybe it's not like an invitation, but, like, one could click it, you know? But I feel like drawing them towards this might be more clear. But then, yeah, these almost would feel like little kind of like information chips that, like, directly correlate to this rather than being like their own links.
+Jackson Bierfeldt: Yeah. I might just be like, too close to this. But I find this way more confusing because now I'm like, session details, billing codes, attestations. Like, what are all those? Whereas if it just says, you know, 90837.
+Jackson Bierfeldt: Yeah, I'm like, oh, that's the billing code, but that's not the right one. Like, let me. Let me change it. And then I click that and that opens up the context for. For changing it. This just seems like I'm. I'm feeling more overwhelmed by, like, the. The amount of things. It. It's like asking me to.
+Marcus Irven: To explore.
+Jackson Bierfeldt: I'm like, oh, what session details? Like, what are those? Like, do I need to go in there? Do I not? And same on the. On the recorder. I'm sorry, I'm not just react screen. I'm reacting to the recorder one too. This now just makes me worried that I'm like, wait, do I need to go into all these things? Like, what. What are. What are they? So, yeah, I don't know. I don't know what your thought is on the balance there between, like, you only need to interact with it if you. See it as like wrong and you want to change it or you see it as empty and you want to add into it.
+Anya Nelson: Right. I mean, I guess I just felt like because Becca and I looked at it yesterday, like with the new updates and like we kind of, I mean both agreed that like it's odd that like these all open the same thing. Like that feels so.
+alfred: Becca asked me this yesterday and my reaction was different. Was more like. It was more around duration in person and office being separate, separate clickable entities because they all open the same thing. But there's nothing. I couldn't mean that clicking on either of them just opens the same thing and they look more like the same button.
+Anya Nelson: Yeah.
+alfred: Because that is, that is what happens.
+Jackson Bierfeldt: Whoever, like, I'm sure there's some design best practices around this. I'm obviously like a computer nerd super user, so I'm like, yeah, well I just want to get it done as fast as possible. So if I click duration and then while I'm in there I'm like, oh yeah, like makes sense. I can set these other things and I'm like watching those changes. I think I would learn that pretty quickly. But if that is like known anti pattern, I'm totally fine changing this. I've just, you know, my whole thing about the users after they use this the first like two times, they're just like, yeah, I just want to get everything done as fast as possible. This is my like daily software. I'm okay with some complexity as long as I can just do things in the fewest amount of movements possible. So that's, that's my, my bias there. But if we show people this and they're just like super confused, I'm, I'm not overly attached to it.
+Marcus Irven: I think it might just be a visual treatment that we need to like play with. Right.
+Anya Nelson: Yeah.
+Marcus Irven: That makes it a little bit clear. That's like just one act, one cta.
+Anya Nelson: I almost think like, what if this was just clickable, like very obviously in this kind of drop down, you know, something like this. But maybe it also had like template type or whatever in here too or like at the top so you could like tell what that is. And then like as you filled this stuff in, it would populate up here. But then there's like nothing up here until then.
+alfred: I think the, where, where the complexity comes is that some of these values can and should come as defaults with the appointment type itself. Right, Right.
+Jackson Bierfeldt: Like Anya, if you press this little save icon now that saved to jot Psych starter template so if you change the appointment type to something else really quick, Quick.
+alfred: Yeah, the drop down.
+Jackson Bierfeldt: Yeah, yeah, it. It changes all those. And now if you change back to the JOT Psych starter template, you know, it has the. Well, that actually didn't work. There's. Did you know that?
+alfred: Yeah, I know, I noted it. Yep.
+Jackson Bierfeldt: I mean, some dirtying logic there, but it should have switched you back to like whatever the.
+alfred: All your changes. Yeah, okay.
+Marcus Irven: Yeah, it's not very clear from a UX perspective that that would happen.
+Anya Nelson: Mm.
+alfred: Yeah, it's. It's a lot that gets packed in here. Yeah.
+Anya Nelson: Okay, so we feel like. I guess we feel like currently, like this is like. Jackson, you feel like it's working?
+Jackson Bierfeldt: No, I mean, I haven't seen any users use it yet. We. I mean, I just did this as like a little improvement on the really ugly one before.
+Anya Nelson: Right, right. It definitely is. Yeah.
+Jackson Bierfeldt: But no, we have. This has undergone zero user testing so far to my knowledge.
+Anya Nelson: Okay. All right.
+Marcus Irven: I think it's an interesting, interesting direction, but maybe. Maybe there's some minor tweaks that could make it more effective. I don't know what they are though. That's.
+alfred: Yeah. You know, once you dirty. This might be more of a. You know, it's a button that says save.
+Marcus Irven: You know, I mean, maybe just like a label that. This is the appointment type details or something like that that, you know, it's showing you. And also it might just be a little bit of like UX writing or. I don't know.
+Anya Nelson: Yeah, it could be something kind of like. Try to find an example, like not this, but like a tag like this. It's like here's a little bit and then a link like session details.
+Anya Nelson: Or like a better word for that, that kind of
+Jackson Bierfeldt: encompasses session details doesn't mean anything to anyone. So it would have to have a much better word. And then you're hiding stuff behind two levels of clicks.
+Anya Nelson: Yeah.
+Jackson Bierfeldt: And like the. The power user perspective here is they're just like. Like talking to the patient and the patient's like, oh yeah, I'm in my car. And then they're like, okay, I need to change with the absolute minimum thinking possible. I just need to like change where they are, you know, to not being in the office but being in whatever. Yeah. Like there's a certain one that people have to use in different states for different things and it's pretty complicated how they have to know which one of those to pick.
+Marcus Irven: But like on the left is the template just so. Okay, that's. It's just confused because it's named the same as the appointment type.
+alfred: Yeah. But the appointment type should have, should not have a. It shouldn't be called template. For example. I don't. Yeah, yeah, it's the defaults end up being intake and follow up. Basically.
+Marcus Irven: Yeah, that's about, that's a better real world example.
+alfred: That's in real world.
+Marcus Irven: Yeah. Yeah. So maybe just like to the left there's like a label that says, you know, appointment type details or something. I don't know. And you know, just maybe a little bit of writing. I, I don't, I don't know. I, I do think this UX is optimized for power usage in a good way.
+Anya Nelson: Yeah. And okay, are these like. Do these just mean like intake, like the orange and the purple?
+alfred: Yeah. So. So right now the default end up being intake is I think that orange and follow ups are. Or the purple.
+Anya Nelson: Okay.
+alfred: But users can, they can't change the colors. I don't think if you click on the little.
+Marcus Irven: Is there a value in the colors in this on the screen?
+Marcus Irven: Like with the colors correspond to how we show them on the calendar. Right?
+alfred: That's right. Correct.
+Marcus Irven: Is there any value in that here?
+Marcus Irven: No, just because it's a little bit uncle.
+alfred: Drawing it. Drawing it. Creating, you know, it's just the same. Basically the same picker. You know there's a future. You know, the color. The color. Once we start adding like different calendars within the calendar view, I mean that's not to derail us, but that's probably where the colors really start playing also a role. So it's the admin view that has 10 different.
+Marcus Irven: In the recorder. I don't see where the color. Color. It's just confusing.
+alfred: Correct. Yeah. I mean here we can. We can hide the colors.
+Anya Nelson: Okay, I'll finish this up and then we can like talk about the next steps just real quick. So. Yeah, so probably not think about this again. But basically kind of same principles, like pop ups, like pointing you to direction in a playful way. Feeling lost. They would open this. I'm thinking it kind of keeps going at that point because you've opened it. Encouraging you to like say something, letting you know. And then you can like switch over to auditor. Same thing. Click this to resolve them. And then one last one for like copying to ehr. Oh, sorry, not the last one. One for the template customizer as well. Sort of pointing you in like different value points that were told to me that we need to convey to the user. And then that could kind of bring in the pop up that we were talking about last time that I know Jackson was liking. Where it kind of. It's supposed to kind of be like a little pop up version where you can like really quickly, like for power users, just like slide in a document or like add something and like change your template, customize your template.
+Anya Nelson: So it gives you that option there. And we're kind of showing that like that's possible, whether they want to do it here or not. Showing like that's something that JSI can do. Like it's powerful.
+Anya Nelson: So yeah, that's how I think that would look for the Note.
+alfred: Are we thinking the sidebar then? The note AI editor is. Is hidden always and you need to pull it out. Or, or is this a treatment on narrower screens that you have the Chiclet here?
+Anya Nelson: Yeah, it could definitely use. It could definitely be used for narrow screens. I mean, I know right now it slides open and like I, I don't know if there's research on it or not. Like if that's overwhelming to have like all of this and then all of that and maybe they just want to look at the note, you know, or if like it was definitely
+Jackson Bierfeldt: a little overwhelming, but it also dramatically increased adoption. So it is one of those trade offs.
+Jackson Bierfeldt: I do think we probably want it to still be open by default on large enough screens. But like the way that we have it now.
+Jackson Bierfeldt: Yeah, I think it works great. But making it that Chiclet instead of the button in the top. Right. That no one can ever find. I do like that.
+Anya Nelson: Like this.
+alfred: Yeah.
+Anya Nelson: Yeah.
+alfred: That solves another issue that we had been dealing with, which is the. Yeah, the button that nobody knows what it is. I think there's something here that also we need a like. Iron out Anya and we're probably derailing, but I think it's, it's good.
+Anya Nelson: Yeah, for sure.
+alfred: It, I think, I think we need, like, very clear, like, iconography as to our AI editor right now. So, you know, if you think Gemini, that's essentially what you've added here right now. You know, we're, we've been, we've been using that star thing from Material ui. That's like three different stars. Probably not the best thing to convey AI editor. Just something food for thought. Because it's not only here, it's in the, you know, it should be anywhere where we're dealing with our AI feature, especially if it's more like on a, you know, AI features in general and, and specifically, like chats. Yeah, we need a, we need a, like, rally behind something. So I, I don't know. I mean, maybe, maybe using the Gemini thing is good for now, at least until we get into, you know, until somebody wants to sue us. And that's probably a good thing. And it's at least something that, that some users might be familiar with. But if not, I don't know. I, I, I put that on to you. Jackson likes the muffin icon. What's the muffin icon? Oh, the little robot thingy.
+Anya Nelson: Muffin icon.
+Jackson Bierfeldt: It's the one. I don't know why the, yeah. Claude always defaults to this for showing LLM agent things. It always shows this little muffin guy. That was a joke. I'm sorry. I don't actually think we should use this.
+Marcus Irven: Okay, what, what are our next steps?
+Anya Nelson: Yeah, so, I mean, things that I could think of that I pulled from this call are like, rethinking or like taking another look at kind of like those chips and those links right under the appointment type and then doing a couple versions. Like one where it's like, we don't have the pop up one where you do for the onboarding tutorial. Yeah, for like the recorder. And it, like, has the arrows versus having, like, the pop up.
+alfred: Yeah. And the, and the, and the, and the AI icons.
+Anya Nelson: I mean, that could come down to, like, Searching for a better icon or just, like, kind of mashing one together to make our own, like, just straight up drawing one, like.
+alfred: Yeah, I don't know. You know, what I do think is that we should get to a point where we do something and stick with it, and it becomes more like a. You know, it becomes something. It becomes part of the visual language of the application, where now users just know that this is what that is. But what we shouldn't be doing is changing it every so often, I think. So it's almost like a branding thing, you know, and. Yeah. Yeah.
+Marcus Irven: All right. I think we have another meeting to run to you, but thanks, Anya.
+Anya Nelson: Yeah, no problem. I'll send some updates in the chat later.
+Jackson Bierfeldt: Thank you so much.
+alfred: Thank you.
+Anya Nelson: Thanks. Bye.

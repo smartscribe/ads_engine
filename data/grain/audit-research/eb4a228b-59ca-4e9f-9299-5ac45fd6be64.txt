@@ -1,0 +1,128 @@
+Becca Bressler: Hey there. I think you're muted. Deanna. I don't know if you're trying to talk or not. Still muted. But there's a microphone icon at the bottom of Google Meet. Oh, there we go.
+Deanna Buchanan: Hi. Sorry about that.
+Becca Bressler: No problem at all.
+Deanna Buchanan: How's it going? A little late, too.
+Becca Bressler: That's totally fine. I'm sure you're so busy. Yeah. So, as I mentioned earlier, I would love it if you would share your screen with me, and we can walk through this audit feature, and you can talk to me about how you've been using it, what your thoughts, impressions are.
+Deanna Buchanan: Yeah, I actually had a question. That's why I really wanted to do this meeting, too. About, like, voting on it. Let's see. How do I share screen?
+Becca Bressler: So if you look. If you look at the bottom, maybe you found it. But the bottom icons, there's one in the middle that's like a looks. It's meant to look like a laptop. Yeah, great.
+Deanna Buchanan: There we go.
+Becca Bressler: Okay, so I see the recorder page, but if you open a note,
+Deanna Buchanan: like an old note that I have.
+Becca Bressler: Yeah, yeah, I'd love to see. Or one that you haven't gone through and edited. I'm curious to just see how you use that tool and what your impressions of it are.
+Deanna Buchanan: So like this is one that I use I did this morning at 10 o' clock that I haven't even looked at yet. Okay. I use it a lot. I have my own templates the way that I like them. I use that mostly for like a new eval. Okay. Because I can put like tabs individually, you know what I mean? I really have been liking the payer awareness though for like my follow ups. Okay. And that's where I've been running into an issue with the coding. I don't know. Are you familiar with any of the coding stuff?
+Becca Bressler: You mean how it works in the software or coding in general? You mean I'm familiar that you need to code. Yeah, yeah.
+Deanna Buchanan: Go to here and I. They're different. So like a 99213, for example says moderate on here. But that's actually a low complexity patient.
+Becca Bressler: Okay.
+Deanna Buchanan: So I have to go back and every note and find everywhere it says like moderate or 213 and correct that every time I guess is my biggest, the biggest problem that I have.
+Becca Bressler: Okay, that's super helpful context. I'm going to take a screenshot of that and send it to my team. So according to the at least our log, it appears that you're using that audit feature though to like check your note. Do you know what I'm talking about?
+Deanna Buchanan: Yeah.
+Becca Bressler: Yeah. Could you walk me through your use of it when you use it, what your impressions of it are?
+Deanna Buchanan: That's bigger. So it pops up. There we go. So like this one I go through and just go through the entire thing. Honestly, this has gotten a lot better at being right. I don't personally need like this stuff because a lot of this is already like built into the note. You know what I mean?
+Becca Bressler: For at least what I use like built into your ehr. Is that what you're talking about? Yeah.
+Deanna Buchanan: Okay. Yeah. Did you want me to show you that or. That's kind of irrelevant.
+Becca Bressler: I guess I'm just curious. So where it says audit and there's a number. You've been using this feature, right?
+Deanna Buchanan: Yeah.
+Becca Bressler: So can you talk to me about, like, you. How did you discover it? Was it kind of obvious to you immediately what it was like?
+Deanna Buchanan: Yeah.
+Becca Bressler: Could you remember the first time you used it and any impressions you have of this feature?
+Deanna Buchanan: It's super helpful. I obviously saw it and used it right away. I didn't recognize this little guy right here to automatically fix it until a little ways in. I didn't know what that did.
+Becca Bressler: That's super helpful. What did you think about as you've been using it? I'm curious what you've thought about the quality of what you're seeing. So does it feel relevant to you? Does it feel like I don't actually think this is necessary? Like what are you. What's your impression there?
+Deanna Buchanan: So a little background on myself. I'm a new grad. I just finished school and got my license this summer and I just opened my own private practice straight away. I have a long nursing background and everything, but like my first time in this role documenting. So it's been super helpful for me because I don't know like what insurers need at this level. You know what I mean? So that's the main reason honestly why I use it. What I don't like is like this time documentation right here. It's cool that it says like you're in M time, 30 minutes excluding psychotherapy. I wish that it automatically like this and oops, let me see if I go up and add because I pretty much do this with every patient. Add on psychotherapy. Yeah, it doesn't really note that too well and it doesn't have like a very good like psychotherapy section at all. Pretty much. Okay. When I do I have like these add on codes. Then I'll go to my note because I do have like the add on psychotherapy section. Yeah. And then I'll copy this into it. So I mean it's, it's easily found, but it's not.
+Becca Bressler: Yeah, you're. You're hoping that. Right. And also I don't know if you saw the email that was sent out today. We're actually getting away removing the pairware note but moving it so that it's a template. It's like a pair aware template. Okay. So it's kind of all in one.
+Deanna Buchanan: Are you able to edit that template so where I could add in a.
+Becca Bressler: Yes, you should then be able to edit that template like you are able to edit the other
+Deanna Buchanan: because like my mental status exam, for example, I don't need that in my note because it's already in my EMR as a separate tab that I do click it and it's more comprehensive, you know, so that if I use the template, and I, like, edit it a little bit. Like, will it still show me? Like, the audit part over here?
+Becca Bressler: Yeah.
+Deanna Buchanan: Okay, so.
+Becca Bressler: So it sounds like, for the most part, you found the suggestions reliable.
+Deanna Buchanan: Yes.
+Deanna Buchanan: And except for the CPT coding, those always. Are not accurate.
+Becca Bressler: So do you mean the analysis? Like the analysis it's making from your session? Is that what you're saying?
+Deanna Buchanan: No.
+Becca Bressler: So like the note itself, it's wrong.
+Deanna Buchanan: Yeah. Just the numbers don't match and I don't know if that's on your guys's side or what, but. Okay, time 99214. Let me go down. I guess this isn't a good example of it. It'll be like I have, I'll have a patient that is. Yeah. And then like the justification, it never puts like the add on psychotherapy in this section either. You know what I mean? So I always hand write that in just so everything's consistent throughout.
+Becca Bressler: Because you need that to justify the 9921 the add on codes.
+Deanna Buchanan: So let me go back up here.
+Becca Bressler: This is something I actually can't Remember. Does the 99214 always need an add on code or no? No.
+Deanna Buchanan: So I think my situation is also a little bit unique because I do, I do like a medical decision making. I prescribe and do like all the medical stuff. But I do a lot of psychotherapy with my patients also. And I schedule them for an hour usually with therapy patients. So I'm always, always having these add on and it gets a little bit like. I wish I could say like, okay, here's easily where I put em. Time is only 15 minutes and then psychotherapy was 45. You know what I mean? Yeah. I will tell it in the chat over here to make that happen. It doesn't seem always consistent.
+Becca Bressler: Okay.
+Deanna Buchanan: But I guess it's just not straightforward.
+Becca Bressler: So say, say more about that. When you say straightforward it's just like inconsistent is what you're noticing.
+Deanna Buchanan: So it generates the note. Right. But I wish almost like up here for example. Yeah. That we can be like, okay, this was E M time. Right? Yeah. And then I can do a separate start and finish for psychotherapy would be super, super helpful.
+Becca Bressler: You want an easy way to be able to like click that. Basically. So.
+Deanna Buchanan: Yeah. So I don't have to go in here.
+Becca Bressler: Yeah. Because what are you then doing instead? What are you having to do instead?
+Deanna Buchanan: Right here? I'll go like 10:30 to 11, psychotherapy, something like that. You know what I mean? And then I don't have anywhere documented in here that I can remember off the top of my head. So here's our medical decision making. So that's the 99214 portion of it. Controlled substance assessment, diagnosis plans, orders, follow up. There's nothing in here like with the psychotherapy that I did do, it has, like this counseling provided. You know, but not like if we're doing anything else like therapy wise. Does that make sense?
+Becca Bressler: Yes, it does make sense and I think that with this new template actually that then you can adjust yourself. Adding the therapy add on psychotherapy, add on section can help with this. But it's a really good suggestion you're making as far as some way of being able to like easily put in the note what the time breakdown is between. Yeah, the session.
+Deanna Buchanan: The. This assist over here doesn't always work either because I, a few times I've told it like, like 24 hour time. For example, I'd really like all my patient or all my notes I document in 20 military time. You know, I've told it to like do that moving forward and then it just doesn't so.
+Becca Bressler: So this payer aware note and I'm not sure why it was built this way but this is going to change now that it's a template and not a special note doesn't have the train feature that the standard note does. Right. So sometimes if you clicked away from the pair and aware note and you clicked the note, if you've ever used the editor there, you may have noticed that sometimes it asks you if you want to train the edit. Yes.
+Becca Bressler: For whatever reason, like during our beta program that feature was not built into the pairware note. That said now that this is like a pairware template that'll just give you a note, you should then be able to train that template going forward. Do you want to just. I want to make sure you got that email. Jackson sent out an email to everyone who's been using the pair.
+Deanna Buchanan: It was yesterday.
+Becca Bressler: Okay, got it. So yeah, I would just make sure you take a look at that email and get yourself set up with the proper template. You can start playing around with that.
+Deanna Buchanan: Okay. Yeah, I got it right here. I just haven't gone into it yet. Yeah, so I guess that's pretty much everything that I use it for.
+Becca Bressler: Do you have any other. Have you found yourself using it and been like oh I wish I could do this or I wish I could change this or I like if you go over to the audit tab, like I wish. I think one of the things I'm curious about is like what is your, what is your sense of the difference between non compliant and suggestion and how do you like feel about having both?
+Deanna Buchanan: I like having both definitely. I think with a template and I'm able to train in the future would be fine. Like for example, I check my PDMP like the controlled substance every single visit during the visit, but I have to go in and tell it that every single time. You know what I mean?
+Becca Bressler: Yeah. We are actually working on a recorder screen that we should be rolling out pretty soon. That lets you click the pdmp. Okay. On our reporter screen. So then it'll find its way into your note and therefore it won't like show you this one. Okay. But I guess my question is like especially because you're someone who is newly like or maybe less familiar with like the coding and what's required for what coding does having like both a suggestion, I'm curious like what it is about having both suggested and non compliant that you find helpful because
+Deanna Buchanan: you know, it's just learning, you know.
+Becca Bressler: Got it. So it's like because just to just.
+Deanna Buchanan: I don't know what insurance companies are looking for, you know, I know what I'm looking for personally and a lot of that's not documented in the payer aware note. So I still like using my template and lately I've actually been doing like for example like the payer where it doesn't have like a, it has your history like your symptoms. Right. Your functionality, adherence, but it doesn't have anything about has your mental status exam like a psychiatric review of symptoms, you know.
+Becca Bressler: Yeah.
+Deanna Buchanan: Like any of this stuff, sleep, diet, exercise, all the stuff that's really important to me. Suicidality.
+Becca Bressler: Yeah. It's like you want to be able to kind of merge the two. Yeah. So. So the reason I'm asking you about the non compliant versus suggestion is I was speaking with another user who was sort of like I, I don't know what suggestion means. Like is it compliant, is it not compliant? I just want you to tell me if I'm wrong and if I need to change something. Right. And I, I can totally understand that. So like when you see suggestion, what are you like reading it with like, or sometimes you're like, oh yeah, I get why it's saying that but like I don't actually need it in my know or like I think this is unnecessary. Or do you feel like you treat the suggestions like the non compliance, you know?
+Deanna Buchanan: No, no, I don't always do the suggestions. I'd say probably 60 of the time I do.
+Becca Bressler: Okay.
+Deanna Buchanan: But the suggestions a lot of the times are already documented like in my EMR in different places. You know what I mean? Like one of them, I think it was just yesterday I had one where like the medications, it was like oh, you're listing sertraline and propranolol but you don't have like dosage or frequencies or anything else. But that's already going into my note.
+Deanna Buchanan: So I just ignore that, you know?
+Becca Bressler: Yeah, got it.
+Deanna Buchanan: So somebody understand. But it's still helpful for me like to make sure like oh yeah, that that's a check. You know what I mean?
+Becca Bressler: Got it. So you're not necessarily ignoring it because you feel like it's not true or it's decided. Do you? Got it. Okay, so breaking out, like, non compliant versus suggestion is really helpful. That makes sense. And so does that mean, like, with the non compliance, you're typically doing all of them. You're like every single one of them. Yeah, okay, got it.
+Deanna Buchanan: I find that it like adds stuff in to the note also that like, was never like talked about. Or for example, like labs is something that comes up frequently in like the medical decision making and. Ordering and stuff. It'll automatically list like a whole screen of like different labs to be reviewed. But like, either I don't need them or already have them, so I have to go in and like delete that stuff out.
+Becca Bressler: Got it. So it's actually. What is it adding to the note? Is it saying like that you ordered labs that you never ordered?
+Deanna Buchanan: I'll talk about labs. I'm like, okay, like we're gonna get some baseline labs, blah, blah, blah to the patient and then jot Psych automatically lists like 10 different lab orders. But I don't necessarily. Either it's missing some of the stuff I do look for or it's adding stuff in that I don't look for. You know what I mean?
+Becca Bressler: It's like in. It's inferring and it's inferring correctly. It's not taking verbatim like what you're talking about.
+Deanna Buchanan: Yeah, yeah, got it.
+Becca Bressler: Okay, that's helpful. Is that. Do you notice that elsewhere too in the note where it feels like it's overstepping or, you know, putting stuff in that you never spoke about?
+Deanna Buchanan: I think the labs is like the most.
+Deanna Buchanan: That's the most. Yeah.
+Becca Bressler: Okay, got it.
+Deanna Buchanan: Have a good time. Picking up like any in office injections also. Unless I'm like super specific. Super clear.
+Becca Bressler: Yeah. Like if you're saying out loud that you're doing.
+Deanna Buchanan: Yeah. Or I'll. I've been using like the. Which I just started doing, like when you go to record the additional notes. Right here. I'll type that in. Sometimes same thing with like vital signs because like vitals are done in a different room.
+Becca Bressler: Got it. So it's just like you're giving it more context. If you had like a wish list of this audit feature that we have, like, is there anything that comes to mind, like, oh, it'd be so great if it does did this or you know, it's really helpful. But there's like this one thing that I wish it could do that it didn't. Does that. Does anything come to mind for you in that regard?
+Deanna Buchanan: Yaba psychotherapy.
+Becca Bressler: That. Okay, right, of course. Yeah.
+Deanna Buchanan: That's my number one.
+Becca Bressler: So. But it sounds like that's something you want in the, in the note itself. Are you also saying because it's not in the note, you're actually not seeing any flags related to psychotherapy.
+Becca Bressler: Yeah, got it. So that doesn't even come up in your flags.
+Deanna Buchanan: Things to psychotherapy.
+Becca Bressler: Yeah, I actually be curious. Could you pick a code with an add on that requires psychotherapy and then hit, like, reanalyze? I'd be really curious.
+Deanna Buchanan: Okay, this one. Okay. See this is in my notes section. Not the payer aware one though. I don't that makes a difference. See if I go to the payer aware then there's no suggestion or it's just a suggestion non compliant. But the things I was looking for for compliance, I mean it's just like medical decision making, suicidal medical necessity. I am document in here that I did 30 minutes of psychotherapy and nothing is. It's not looking for anything for psychotherapy. It didn't add on. It just has like this excluding psychotherapy right here for the MDM and it's not documented anywhere even though I told it, you know this part right here also.
+Becca Bressler: So like that code is basically like this is because I'm going to bill for like a psychotherapy add on. And yet there's nothing in your payer where note that talks about the psychotherapy audit tool which you might expect. Hey, this needs to tell me if I'm doing enough psychotherapy or not.
+Becca Bressler: It's not flagging that at all.
+Deanna Buchanan: It's not documented in the note at all. And nothing's being flagged that it's not documented either. Yeah, even though I suggested it and then it still doesn't like pop it up like on the code selection and why.
+Becca Bressler: Yes, right. So like of course there's the excitation. If you're going to put it up there. It's going to.
+Deanna Buchanan: It's going to section.
+Becca Bressler: Okay, Deanna, this is super helpful. I really appreciate your time. Do you mind if you know at some point in the future I reach back out to you and ask some follow up questions. We're like trying to you know, improve this product and we're going to be rolling out like a new recorder that helps with some of the attestations and those types of things which I know you have in your ehr but like clicking it in job site will prevent you from getting that pop up.
+Deanna Buchanan: You know something else that might be helpful too like okay, let's see. I had a kiddo that needed a doctor's note. Because I do ketamine therapy also. So I had like a kid that needed like a doctor's note and like the generate forms like wasn't there. And then for the ketamine infusions the guy wanted a note to give to HR that he might pop positive for stuff, you know what I mean? But he's under my career.
+Becca Bressler: Have you tried generating a document?
+Deanna Buchanan: Yeah, not this one.
+Becca Bressler: So just tell me once more exactly what you're trying to do.
+Deanna Buchanan: Create a note to hr. And I was in a rush yesterday when I tried to do this, but it, yeah, it gives way too much. I just need, like, two sentences.
+Becca Bressler: I think if you. You tell the AI assistant just like condense this to two. You know, if you give it a little bit of feedback, it should help you with that.
+Deanna Buchanan: No, no, take everything away. There's no.
+Becca Bressler: Yeah. Interesting. Condensed to two to three sentences and remove. Interesting. It's almost like it treated the identifiers as the sentences.
+Deanna Buchanan: Yeah, because I don't. Can I go back? I don't think I can undo that.
+Becca Bressler: Right. I don't think you.
+Deanna Buchanan: That would be super helpful too. I've ran into that a few times. Like, oh, I don't like that. I like to. Better the other way or whatnot.
+Becca Bressler: Yeah. With this feature in particular, the document
+Deanna Buchanan: both anytime I use like the AI.
+Becca Bressler: So the AI editor. If I can just show you for a second. This is not on the pairware note. So this. I don't think you would see it there. But like if you go to a note just so I can show you. If you go to documentation and just.
+Deanna Buchanan: Oh, for one of my patients.
+Becca Bressler: Yeah, just take a note and. And if you type in something in the chat bar, Like what? Well, do you have a test patient? I. Because I don't want to. Like.
+Deanna Buchanan: No, I don't care.
+Becca Bressler: Well, let me show you on my end then, just so that this could be helpful for you in the future.
+Deanna Buchanan: I actually have a patient in the lobby too.
+Becca Bressler: Oh, okay. Why don't I just. I'll send you a screenshot, Deanna. I'll tell you that way. But thank you so much for your time and yeah, we'll send you over gift card for all of your help, but we really appreciate it.
+Deanna Buchanan: Cool. Thank you so much, Becca.
+Becca Bressler: Take care.
+Deanna Buchanan: Bye. Bye.

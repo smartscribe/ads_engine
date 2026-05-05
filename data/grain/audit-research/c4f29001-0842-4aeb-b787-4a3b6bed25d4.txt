@@ -1,0 +1,280 @@
+Nathan Peereboom: Hey. Hi, everyone. All right. Good to see you, Dr. Alec.
+Healing Circle Psychiatric Services: Yeah, nice to see you.
+Nathan Peereboom: Good to see you. Hey, Brittany, how are you doing?
+Brittainy Wagner (Tidemarkva Admin): Good. How about yourself?
+Nathan Peereboom: Good. So, folks, we are kicking off a jot Psych pilot. Chris is going to be quarterbacking this, doing the presentation. I'm going to be sort of lurking in the background, able to answer questions. But he's going to be kind of your guide, your shaman through the wilderness here. So I'll hand it over to him. But we always like to start out with just some introductions. If you guys have already done those, obviously we don't have to redo them. But otherwise, I'm just here to support Chris as he leads you guys through this process.
+Christopher Hume: Thanks, Nate. So we kicked off with intros. Checked on who had used jets like yet. Looks like we're all at the same early level, which is great. Keeps today on track. One track for everyone. So we'll jump into the presentation now, and I think the most important thing here is if anyone has any questions at all, either during the presentation or during the job site demo, please don't hesitate to jump in or ask a question. A little bit of a jot psych nerd. So I can certainly talk about this all day, but this is a meeting for all of you, and I want to make sure that any questions you have about the software answered. Let me kick off with our presentation. And so can everyone see my screen that least a little bit? I'll voice track it. But is this coming through for you?
+Healing Circle Psychiatric Services: Yes.
+Christopher Hume: Wonderful. Well, so kind of already done introduction. So the purpose today? Keep it nice and simple. We've only got three things we're here for. I'd love to walk you all through setting up your accounts. There's something you can even do on your cell phones if you have those with you. We can make sure we just get your email and password set up and then after this meeting I'll put you all in a group together. That's goal number one. Then I'll provide a brief demo of Jot Psych so you can all follow along as I walk you through the AI scribe features so you can see how this can be integrated into your workflow. And then to wrap up. As I said, please ask questions throughout. But I will have a Q and A session at the end here just to get any questions before we finish up this meeting. I know Nate scheduled this meeting for about an hour. We certainly can use that time if we have plenty of questions and if you'd like. But I do know you're all very busy and it is a Monday, so we'll certainly try and give you a little time back in your day, if that's possible. Any questions before we sort of proceed through the presentation here?
+Healing Circle Psychiatric Services: No.
+Christopher Hume: Wonderful. Okay, so what is jot? Psych. I know some of you haven't used it yet. But just to kind of explain and start that base level. So jets like an AI engine that turns every behavioral note into revenue. So what that means for all of you is jazz like is an AI scribe that can help make sure your notes are high quality, audit proof and completed quickly after your sessions. You're not working on these in evenings or weekends. Has anyone in the room used an AI scribe before or anything like that for note taking? Or is everyone still mostly typing by hand into the EHR we were using Freed. Wonderful. So you're familiar with sort of how the AI Scribe works. That's great to know.
+Healing Circle Psychiatric Services: Yeah.
+Christopher Hume: And was there anything in particular that really worked with Reed or didn't work, or you wish it had, or that you really liked about it?
+Healing Circle Psychiatric Services: It was mostly just broken down, and it saved so much time. It took off. Like having to make sure you're getting everything or documenting everything. I think so. It was easy just to be more relaxed in action with patients.
+Christopher Hume: Absolutely. That's one of the four main things that we see is the value of an AI scribe. One of them is just that interaction with the patient in the room and not have to either a down typing or head down writing. That was joke. I can't type and speak at the same time. Something in my brain just doesn't work. So I would never make it. In all of your profession. I'm always so impressed when I hear about how everyone does their notes. Well, you're familiar with Freed, so how jobs like works won't be. A surprise to anyone. It's very straightforward. Takes less than three minutes to sign up. Since most of you in the room haven't created your accounts yet, hopefully by the end of this meeting, you can hold me accountable here and we can see it takes you three minutes or less. And so just like you have it running during a session, or if for whatever reason the patient would prefer not have job site recording during a session, you can just explain what happened in plain English. And after. After the fact and job cycle turn that into a clinical note for you.
+Healing Circle Psychiatric Services: Okay?
+Christopher Hume: That's just like a part. Is that. Sorry. Any questions?
+Healing Circle Psychiatric Services: No, I just had to move seats just because I couldn't see.
+Christopher Hume: Oh, perfect. Well, so, Jetseca. Part is that we're solely dedicated to behavioral health. It's all we think about, what we dream about, really. And the notes are crafted in a way that aligns with public rules and guidance. This is something we can walk through during the demo as well, but you can rest assured that your notes will align with best practices from APA or the insurance companies. And you can also add private rules and guidance as well. If there's any standard across your organization, every note needs to include xyz. You can make sure that that is added to your rules. This just kind of shows how jobsite will flag. Audit risk and rules for you. I'm going to jump into some additional features in a moment here, but are there any questions yet? I'd like to make sure I count for error now and then during these presentations.
+Healing Circle Psychiatric Services: Does this also incorporated, like, billing. So if you enter somebody, like, information, like, I know I cannot set one point, and you could tell, like, how much you could build based on what you answered.
+Christopher Hume: Absolutely. So jobs like will flag through our JOT audit feature. It'll say, oh, well, it looks like you wanted to do a 99213, but this actually could be a 99214 based off the session or vice versa. So it will flag that for you, of course. Any other question.
+Healing Circle Psychiatric Services: So with this, it will have the templates that we need. From what I understand. So I had to give the tms note. And so. It would be custom made. So when he would read it out from the track star for the machine, It would just go in there.
+Christopher Hume: Yep, that's correct, Alice. Those templates that you shared with us, we will build those in JOT psych for all of you. And so, yeah, as you're in the session, if you're reading out information from the machine, it'll capture it in the appropriate sections and populate it. That's correct.
+Healing Circle Psychiatric Services: Okay. Is it too late to add more note templates?
+Christopher Hume: Absolutely not. So I believe you're on the four week pilot. Jump in here if I'm going off the rails. But with the four week there's two templates included, so we can do one is the tms. And if there's another template you'd like either DMS Progress note, TMS intake, or maybe a psychiatric intake. Psychiatric Progress note we can develop. That custom for you.
+Healing Circle Psychiatric Services: Okay? Yeah. I only ask that because Dr. Alec had a format in Iconotes that free just came out with where you can upload a fake document and then it would just put it in the format that he needs.
+Christopher Hume: We have that as well. And then the benefit of the pilot is that you'll have me or one of my colleagues double checking it in, quality testing everything before you use it.
+Healing Circle Psychiatric Services: And then you will have nursing notes available as well.
+Christopher Hume: In terms of. Could you give me an example of a nursing note? We can certainly develop one.
+Healing Circle Psychiatric Services: Like a telephone call that'll need to go to Dr. Al for signature or a soap note that will need to be completed by the nurse and will need to be signed off by the doc or mini mental exam or on aims exam. You know, I've. I've got templates, too, that, you know, I would. I could share with you.
+Christopher Hume: Yep, absolutely. So some of those we already have pre built. I know. Right off the top of my head. We have a soap note ready for all of you. We also have forms ready as well. Though, if there's a assessment you need to do with a patient, you can actually send that to your patient through Job Psych. And then if there's a form or a note template that you need that isn't developed yet, One. We can develop it for you. As Nate said, the first two are free. And after that. There's a fee, or we can walk you through how to develop them yourself, and we'll certainly go through that today.
+Healing Circle Psychiatric Services: What's the fee? Just roughly like to do a template.
+Christopher Hume: Typically, of course, there are edge cases, but typically a template's about $300. As a one time fee.
+Healing Circle Psychiatric Services: Okay?
+Brittainy Wagner (Tidemarkva Admin): But keep in mind, too, that they also have a large library that they can that they have already available. So chances are, like, for what you guys are needing, most of that stuff is already going to be in there. Like, whether it's like a mini mental status exam or whether it's a sono, like, all of that's already in there. And we would just have to tweak and customize those to you guys standards.
+Nathan Peereboom: Yeah, Folks, the way that we recommend you do it is just get two custom templates from us at the start, because again, that's included in your pilot program. There's no extra cost to that. Play around with the template builder. And then. And then if you need more from us at the end of the pilot, we can talk that through and figure out, like some way to make it all work. But just start out with two. That way you're not spending any more money and you can figure out exactly what the best case scenario is.
+Healing Circle Psychiatric Services: Okay?
+Christopher Hume: Perfect. Thanks Dave. Thanks Brittany. And Brittany, that is a great point just to kind of footstep there. We do have a wide a very large library pre built. I'll make sure to show you how to access.
+Healing Circle Psychiatric Services: So if we take those off of the library, we don't have to pay for those?
+Christopher Hume: Oh, no, no, no, no, no. Those are all free. And then you can customize the templates yourself.
+Christopher Hume: Typically, it doesn't take very long at all. And that's all free or included as well.
+Healing Circle Psychiatric Services: Okay?
+Christopher Hume: Getting everyone up and running on a new software solution. I do like to just take a moment here to talk a little bit about security and privacy. Course, jetsec is fully HIPAA compliant.
+Christopher Hume: And then the one additional feature I really like to foot stomp and emphasize here is that when you have a session. Jots like, takes the audio and transcribes it. As soon as the note is generated, typically within 15 to or 20 to 40 seconds of a session, that audio is discarded forever. So we can't access it? You can't access it. There's no remaining audio from that session. I know that's really important to a lot of our providers and customers and something I just wanted to make sure that I really flip stopped here today.
+Healing Circle Psychiatric Services: But the transcript will be there or it's fully deleted.
+Christopher Hume: The transcript itself will still be there. The standard settings for JOT psych is you're left with the transcript with all BII or person. Yeah, PII redacted. So if this session starts, hey, Chris, how are you feeling today? The transcript will say, hey, name. How are you feeling today? Of course, you can change those settings if you'd like, but that's kind of the standard, so kind of an extra level of security.
+Healing Circle Psychiatric Services: Okay?
+Christopher Hume: Any additional questions on security and consent before we move to the fun part, which is getting everyone set up with their accounts.
+Healing Circle Psychiatric Services: Well with this. Do you have the extension that would move the note over to simple practice? Our ehr.
+Christopher Hume: Yep. I believe that's up and running and something we can scope out. We're actually currently developing our extension. That's definitely something we can. I would need to check with the engineering team to make sure it's been set up for simple practice, but I don't think that should be too much of a challenge here. I'm certainly very excited about.
+Healing Circle Psychiatric Services: I know. It makes it so much easier.
+Christopher Hume: So much easier. And it's pretty cool, too, when you just push the button and it populates everything. I'm one of the non technical guys, so it seems like magic to me. More questions, general questions, security or consent related questions or anything like that before we jump to the hands on fun part. No. Wonderful. Well, getting started. Would love if we could use this time to set up your accounts, even if it's just on your phone. That would just allow me, after the fact, to put you on a group. And for whatever reason you have any questions while signing up, you'll have a friendly face on the line to help you.
+Healing Circle Psychiatric Services: Oh, there's an app. Okay, can we do it on the computer instead of on the phone?
+Christopher Hume: Yep. You can certainly do it on your computer. And, Dallas, I think if you're going to be setting up your account for the first time, I might recommend just doing it in browser on your phone.
+Healing Circle Psychiatric Services: Safari is fine.
+Christopher Hume: Yeah, for sign up. Safari should be fine. If you're recording, we recommend using Google Chrome. Even on your phone.
+Healing Circle Psychiatric Services: I use google cloud. Through the browser, though. First login. So good address. Ing app, you said. Yeah, but don't do the app, he said.
+Christopher Hume: Yep.
+Healing Circle Psychiatric Services: Just for something in purposes. Okay, so what do I go to browser? J o t p I would.
+Christopher Hume: Google.
+Healing Circle Psychiatric Services: You can just type it right there. And then sign up or sign up.
+Christopher Hume: Yep.
+Healing Circle Psychiatric Services: Okay.
+Christopher Hume: It'll ask you to put in your email address and the password. It'll ask you questions. Name.
+Healing Circle Psychiatric Services: Start login over there on the right. Uncle. Sender. Good.
+Christopher Hume: You. Way ahead of the game.
+Healing Circle Psychiatric Services: I need to sign up. I'm going to have to do it on the computer. It says this connection is not secured.
+Christopher Hume: Really?
+Healing Circle Psychiatric Services: I got the hand.
+Christopher Hume: Dallas. Where did you get that warning?
+Healing Circle Psychiatric Services: So far.
+Christopher Hume: Okay? Was that on the job site?
+Healing Circle Psychiatric Services: Yeah, so I'm trying to accept it. When I click it. Oops. It wants my. Face.
+Christopher Hume: Is that? What website was it at? J o t p s y c h com.
+Healing Circle Psychiatric Services: And this was me just trying to verify. My email.
+Christopher Hume: Oh, okay.
+Healing Circle Psychiatric Services: That's not good.
+Christopher Hume: No, that's definitely not good. That's something we need our engineering team to take a look at. Certainly should not be getting that when you go to confirm your email.
+Healing Circle Psychiatric Services: When you commission and then you click it. And I use my face, it says. Not secure. Could it be my vpn maybe?
+Christopher Hume: But I. Think. It should still work. Even if you don't verify your email, you should still be able to log in.
+Brittainy Wagner (Tidemarkva Admin): Yeah, it'll just give you a non secure status. Sometimes if you've got your antivirus subscriptions like on high alert, it'll just say that, but it shouldn't be a real big problem.
+Christopher Hume: Thank you, Brittany. It's been a while since I've created a new account.
+Healing Circle Psychiatric Services: Okay, here. I'll have to pause you guys so I can log in on my computer. It doesn't have my specialty on there. Okay? One second.
+Christopher Hume: And you can always choose other, I believe as specialty.
+Healing Circle Psychiatric Services: No, I can't. Or just skip it. Oh, gosh.
+Christopher Hume: I guess you're all proving me Wrong with the 3 minute sign up today. I appreciate your patience. I would say we owe you guys a lunch, but luckily we pre brought that into the office.
+Healing Circle Psychiatric Services: So do this this week. That we. Good question. Okay, I'm going to try it without my vpn. So can I try this this week? Rather than using Freed.
+Christopher Hume: No, of course, certainly.
+Healing Circle Psychiatric Services: Yep. Are you able to migrate everything that he has on Freed?
+Christopher Hume: We can migrate patient information.
+Christopher Hume: And patient information. So demographics, insurance information, et cetera into the account. Yes. Typically we take that from your EHR and put it into jot psych. Currently, we can't take old notes and put them into jot psych, but we can help either save those notes or anything like that.
+Brittainy Wagner (Tidemarkva Admin): Okay.
+Healing Circle Psychiatric Services: I only wonder because Freed recognizes the patient by name, so it's able to pull up previous visits and then add it on to I did, but palliative care, their next visit.
+Christopher Hume: Jotsec will do that as well. If you use the same patient name this week and next week, it'll pull that context forward. It will give you a summary of your last visit. And all of that information.
+Healing Circle Psychiatric Services: So for specialty, there is not an other. There is RN listed under palliative care or home health, okay? Can we add rn? Like psych rn?
+Christopher Hume: Let's go with this won't impact your let's just choose the psychiatrist bucket because I think that'll get you the note type that is most relevant to you. But that's a great flag. I'll find it for the engineers, and that shouldn't be a big fix for them at all.
+Healing Circle Psychiatric Services: Yep. And then me. I'm none of those either. Front desk girl.
+Christopher Hume: Okay, does it not have admin?
+Healing Circle Psychiatric Services: Oh, my goodness. I don't even remember. I can't even see it.
+Healing Circle Psychiatric Services: But I'll see it someday.
+Christopher Hume: Well, I appreciate you all bearing with me. Let's just choose. It shouldn't really matter too much if it doesn't have your specialty. Just choose psychiatrist as the standard. And we can always adjust that after the fact for you if you need something specific.
+Healing Circle Psychiatric Services: Does that mean I get a pay raise, Dr. Alec? Just kidding.
+Christopher Hume: Okay, so aside from issues with titles, Has everyone been able to get all the way through? Are we still going through those last questions?
+Healing Circle Psychiatric Services: I meant, like, subject terminology. Should I keep going?
+Christopher Hume: Keep going. You select if you call people patients or clients.
+Healing Circle Psychiatric Services: Are you doing years later? I'll have to get on, like, an HP or something. My apple doesn't like it.
+Christopher Hume: We'll follow up with you, Dallas, in case you need any additional help.
+Healing Circle Psychiatric Services: I like to think I'm tech savvy. Not today, I guess.
+Christopher Hume: No. Certainly something going on in our side. As soon as this is over, I'm going to go ask the engineers to fix this, because you should not be getting that warning.
+Christopher Hume: Okay, has everyone else made it through sign up?
+Healing Circle Psychiatric Services: Yeah, I think so. I'm at record and counter.
+Christopher Hume: Perfect. That's exactly where we were hoping to get everyone. Brittany I know. Kind of admin conversation right here. I'm going to jump into the demo, but if you have any additional admin points or anything like that off the top, just want to give you an opportunity to jump in before we're off to the races.
+Brittainy Wagner (Tidemarkva Admin): Just to highlight the other forms section for, for them because they give the patients like a lot of details for like school excuse letters and things like that. So I think that's going to be really relevant to, to their needs. And then the, the BDOT measures and stuff.
+Christopher Hume: Perfect. Thank you, britain. Wonderful. Well, let me share my screen. We'll have everyone follow along. Doctor Alec, I know you chatted with Nate already, so he probably gave you the overview of all the admin features, the billing features, all of that good stuff.
+Healing Circle Psychiatric Services: Well, we're going to. Of course.
+Healing Circle Psychiatric Services: So, like, let's just say Lisa did a preliminary intake. Well, that automatically populates. If I go in there under the same name, that person. Or would I have to do it separately?
+Christopher Hume: No, it should show up under the same person. You'll have to. We can set your group up to share patients. That's a group by group decision. But, no, we're set up on a way that people who share patients can see that information.
+Healing Circle Psychiatric Services: And then that would add to, like, it would add to my note. Some of the information that I made, but I thought,
+Christopher Hume: yep, it should all go to the same patient. Profile. Correct.
+Healing Circle Psychiatric Services: Okay.
+Christopher Hume: So today going to walk through how to get up and running with jot.
+Healing Circle Psychiatric Services: Psych.
+Christopher Hume: We're going to talk about how to record your first note. How to review your note. How to move your note. Over into your ehr. And then, as Brittany mentioned, we'll also go through how to create custom documentation just to further reduce your admin time. And in developing those documents, after a session. Can everyone still see my screen? I just want to make sure we're in a good position here As I walk through job site. Wonderful. So up here, on the top middle of your screen, you'll see a record button. Press button. Take you to our recording screen. What this allows you to do is select your patient. We'll go with this notional Bruce Cahill.
+Healing Circle Psychiatric Services: So do those patients populate from this schedule or. Do you have to search?
+Christopher Hume: That is a great question either or so if you had three input the information. On the schedule. It will pre populate, but if you're not using the schedule feature, you can just come in here. And search for any of your patients. So I think we have an example me in here. Or you can create a new patient.
+Healing Circle Psychiatric Services: Yes. When you're doing the intake. Sorry, Side conversation.
+Christopher Hume: No, no, that's what we're here for. So I heard maybe murmurs about a phone intake. What we typically recommend for that. Is. Beakerphone next to the computer is probably the best way to try that out. Just to kind of make sure everything's being captured. You select your template type, you select your patient. And then you go to the other side of your screen. You press record. A note. Start recording. Got sec works or in person or remote sessions. You just have your normal encounter with your patient as you always would, or your client. At the end of the session, you press and recording. And you can generate the note.
+Christopher Hume: Say that one more time. You just stop recording and press this generate note button right here. I'd like to emphasize because it's something that I find really exciting. Again, maybe a little bit of a jacksight nerd, but you could actually record more than one piece of audio with a session. If you have an encounter with a patient, it goes really well, or it's a full encounter, but then afterward you'd like to add your own clinical analysis. You can actually record additional information. Just saying. Hey, I just saw Chris. He appeared disheveled and I'm shaven. Xyz, and then all of that information will be integrated into the note as well.
+Healing Circle Psychiatric Services: I get it all the time.
+Brittainy Wagner (Tidemarkva Admin): Hey, Chris, I have a quick question. They do a lot of TMS stuff, and that means that they're somewhat mobile when they're working patients.
+Brittainy Wagner (Tidemarkva Admin): If they needed, like a mobile microphone or something, is there a recommendation for a type of mic? Like, does a cell phone work well enough or no issues there at all?
+Christopher Hume: You can certainly use Jack on your cell phone or any microphone that connects with your computer. Should work just to make sure that you select. Well, unfortunately, I only have one microphone. Oh, here we go. You just need to make sure you select the right the correct microphone over here. Right now, it's connected to my AirPods. But I can connect it to my computer or my iPhone as well. That's a great question, Brittany. Thanks for flagging that.
+Christopher Hume: Any other questions on the recording screen or how you get up and running?
+Healing Circle Psychiatric Services: So can we see that generated report?
+Christopher Hume: Well, I could certainly generate a report from this. I don't know if it's going to be a very good looking note, but I'll show you how it works. You press generate. No. Soap. Though. Not a lot disheveled and unshaven. There's not a lot of information here, and it seems a little repetitive. But that's because it only has one thing to work with.
+Healing Circle Psychiatric Services: Yeah, that's fine. I was just curious. Yep.
+Christopher Hume: No, but thank you for the great segue. This is how what your jot psych note could look like. Hopefully with a little bit more clinical information included. From the time being, Dallas, until we get you set up with that, AI Repeats itself, okay? Until we get it set up with the one button transfer. So that chrome extension for you guys, what you can do is copy all sections. And paste it into your ehr or go. A section at a time.
+Healing Circle Psychiatric Services: Okay?
+Christopher Hume: And then, if you'd like to.
+Healing Circle Psychiatric Services: Say again what you were doing. Yep, certainly.
+Christopher Hume: So if you'd like to copy your notes. You press this copy all sections button up here.
+Christopher Hume: And then if you'd like to do one section at a time.
+Christopher Hume: You go Subjective, objective. Be selected sections.
+Healing Circle Psychiatric Services: We don't want to do that, though. Just like AI, right?
+Nathan Peereboom: And then.
+Christopher Hume: I would like to flag everyone is this dive panel on the right hand side of your screen. Right here. The really important and exciting part of job psych. This is where you can edit your notes. L jots like what you want your notes to look like moving forward? And as you'll see where you get notifications and warnings about any audit risk that Jazz has identified. Dr. Alec when you were asking about billing codes and jobs like recommending them, you'll see that in the audit. Section. First, I'll just show you how to edit your note. Let's say we want this objective to be bullet points. Just in plain English. And I told you all. I can't tell you could speak so thank you for bearing with me.
+Christopher Hume: There you say in plain English to change you would like made. Then jot cycle take care of it for you. If you say yes. Frame this cycle. Remember that every time you do a soap note moving forward. This is a really important feature and something that. Get the most out of job site. We certainly want to make sure all users understand. Before I move into auditing and all that fun stuff, any questions about how you edit a note with jot Psych. Always scary when there's no questions. That either means I'm doing a very good job at explaining or I've completely lost everyone. So we'll assume it's the former. But please don't hesitate to ask any questions if any come up.
+Healing Circle Psychiatric Services: Well, a lot of those layout is like Freed, so I think that's why it's pretty straightforward.
+Christopher Hume: Perfect. That's good to hear. And Dr. Alec, as I was kind of mentioning, got psych will flag for you any misses in the text. In the session. So it's identifying here that I didn't discuss or document any suicide or homicidality in the session and it will flag that for you. This. We have quite a few off the shelf rules, but this is something that you can customize for your clinic and based on your payers as well.
+Healing Circle Psychiatric Services: So with that, will it tell you in session that it's needed, or is this after it populates?
+Christopher Hume: Right now. We don't do in session, but we do kind of the warning after the fact and kind of that coaching to remind people. Oh, my gosh, I need to ask that. But in the session is certainly something we're tracking and have on our product roadmap.
+Healing Circle Psychiatric Services: Okay, so then would he go back to this session and hit that, add additional information, or how does he add that?
+Christopher Hume: This flags non compliance does not. Say have the patients endorses or denies or suicide homicidal ideation. And what you can do. You generally can attest that you actually had that conversation. It just wasn't captured. And that's how you would make that change. You can edit the note. You can't add any recorded language. Once the note is generated. Now, any changes you make would just have to be either by using this audit button. Or by typing directly in this section.
+Healing Circle Psychiatric Services: At the end. Let's just say I forgot. And then I put it in. And then.
+Healing Circle Psychiatric Services: Is there something like I would just sit. Like, AI would hit resume. And then I could say, oh, patient denied any suicide or homicide ideation. And then it would generate it again. This won't do that.
+Christopher Hume: This after this. No, you can't add more recordings like that. There would have to be either typing or explaining jazz like to add it to the note. If that makes sense, you would just edit the note itself.
+Healing Circle Psychiatric Services: So now the other thing, as you said, that this gets deleted after so much time. What if I get behind like I always do, and it's like. Because sometimes. I could be a month by the time I'm finishing a note. Yeah. What time frame is it? Deleted. Yeah.
+Christopher Hume: I'm frame in terms of making the adjustments to the note. There's no required time frame from our end. The only restriction on kind of when you can edit the notes is once you sign it. You'd have to make an amendment if you choose to sign your notes in job site, but there's no time frame. Like, oh, my goodness. You didn't do this in 30 days. It's locked down. That's not something we enforce on the software.
+Healing Circle Psychiatric Services: What about since it deletes the recording of the auditory thing?
+Healing Circle Psychiatric Services: Because sometimes I'll go back and read it in AI, like, if it's been a while, and then I'll go back and read the actual recording.
+Christopher Hume: You can always read the recording. It's just the audio that's taken out. So there's no recording that remains, but the transcript of that recording. You will have access.
+Healing Circle Psychiatric Services: So once he pushes the button to transcribe the audio, Then 40 seconds later, it's deleted.
+Christopher Hume: The audio is deleted.
+Christopher Hume: But the transcript. The transcript will still be there for your review? Of course. Yes.
+Healing Circle Psychiatric Services: Okay. Got it. The transcript was still there, Yeah.
+Christopher Hume: Dr alec. On the left hand side of your screen. You'll see when you have a note this transcript button. Right here. So that's how you could review the transcript itself. You say? Any additional questions here about editing your notes, about auditing your notes? Reviewing your notes.
+Healing Circle Psychiatric Services: I guess maybe this is later on, but I saw something about medicine. So does it connect to Dr. First, who we go through, escribe or.
+Christopher Hume: We connect through Dose Spot so you can prescribe through chat site and the partner we have with that is Ghost Spot.
+Healing Circle Psychiatric Services: So what would we do with the prescriptions that are already in doctor First? Because I think doctor first disconnected to our simple practice. Correct? Yeah.
+Christopher Hume: Oh, interesting. Okay. I think we would just work with our. So we have a whole eprescription team. So we have an engineer on that team, and what he would do is. Transfer that data over from simple practice into jot, psych and dospa.
+Healing Circle Psychiatric Services: Doesn't matter. Because we're just putting it down. So we would need simple need for Dr. Purse. Well, this turned into an EHR at some point.
+Christopher Hume: You read our mind. Yes, it's certainly and we do have a few customers who use this that way, especially kind of smaller solo clinicians. But our vision is we see this as an all encompassing AI first EHR that's why you can sign notes and jot psych. We maintain them for the HIPAA required six or seven years. That is certainly the future vision here.
+Healing Circle Psychiatric Services: Okay. Yeah, because then it would be in one place rather than all of this transferring.
+Christopher Hume: We certainly agree that's kind of a question we hear a lot. And a complaint we hear a lot. That kind of run a practice. You end up with all these disparate systems. So we certainly hope to be the one that can kind of bring everything together and scheduling, eprescription, note taking, billing. On one.
+Healing Circle Psychiatric Services: Well, you know, one of the things that I don't like because of that. A lot of times there would be like a running of meds tried at this time this time and reviewing well, that actually. Can you actually see something like that? With jot site. Like it does. Like a med review.
+Christopher Hume: Do you mean a med review? Like a med review session or like a measure?
+Healing Circle Psychiatric Services: Right? Like last time. Like the medication was prescribed. What day was prescribed?
+Christopher Hume: And you're looking for a summary of the previous session.
+Brittainy Wagner (Tidemarkva Admin): A summary of the medication list is what he's asking about. For? Like what? Historically, they'd been prescribed, and then what their current list of meds are.
+Christopher Hume: Yep. So we have this patient overview tab, which will track all of your patient's diagnoses, your sessions. Fortunately, this patient doesn't have any sessions. And their medications. Yeah, it certainly tracks all of that.
+Healing Circle Psychiatric Services: So with the medications, how far back does it go? Sorry.
+Christopher Hume: Go ahead.
+Healing Circle Psychiatric Services: I know that in our doctor first it only goes, what, a year? At max. So it doesn't tell us if they got meds from somewhere else or it's just us. But that'll only tell us if we put those medications in through their system, so.
+Christopher Hume: Jsec and dosebot communicate. So if you're prescribing through here, it should be tracked in job Psych. And we don't have. We don't clear out this medication section every year or anything like that. I'd have to check if there's anything on the dose spots. Of things. But this medication section here will not refresh or auto clear anything like that.
+Healing Circle Psychiatric Services: Let's just say that there's another doctor in town and they were using dot sight and they transfer it to me.
+Healing Circle Psychiatric Services: Where all that information come from? That patient or only the stuff that I put in there? Like would they have, like, the med list from that. From that provider.
+Christopher Hume: Within jots. Psych? No, I'd have to check. How do spot tracks when you switch doctors? Yeah, just. That's a really great question. Something I'm sure our E prescription team has an answer for, but I just can't.
+Brittainy Wagner (Tidemarkva Admin): Chris, like what they're asking for sometimes, too, is. Does it connect with the pdmp?
+Healing Circle Psychiatric Services: Yes.
+Christopher Hume: And so we certainly do connect with PDMP through Dosebot.
+Healing Circle Psychiatric Services: Okay, and then how long would it take to transfer? Dr. First, our current patients. Into your system.
+Christopher Hume: That shouldn't take very long at all. It's typically a 30 minute ball with our engineer to figure out sort of the how the data set up and how he can transfer it over, and then I think he's typically able to do it within a few business days. Or a week at most. That's a pretty quick turnaround we can do for you guys. Okay.
+Healing Circle Psychiatric Services: And would it go up our subscription for the escribe?
+Christopher Hume: Yep. So E Scribe is a separate prescription at $69 a month per prescriber.
+Healing Circle Psychiatric Services: That's cheap. And it's cheaper than Dr. First in our simple practice.
+Christopher Hume: Oh, my goodness. Watch it. Nate, I'll have to talk to you about our pricing strategy, but for you guys, it's certainly 69amonth. I appreciate those questions. And, yeah, if you would like to set up eprescribing, that's something we can do this week and get you set up with our eprescription team.
+Healing Circle Psychiatric Services: Would that affect the patients that he's currently seeing now until then? Because it would be in doctor First. Or. Would.
+Christopher Hume: I would have to check about the data transfer and see how we could do that to avoid any friction there. So that's something I'll talk with the engineering team today about and get you an answer.
+Brittainy Wagner (Tidemarkva Admin): Yeah, I think that's something that's going to have to be timed because when they're doing controlled substances. They have to go through a verify main portal and. And you can only have one connection with one entity at a time. Because they make you do an ID me thing. So I think once he disconnects with Dr. First, that's going to be it. And he won't be able to use Dr. First anymore. So we have to ensure that they be able to go live with yours. Yeah. Absolutely.
+Christopher Hume: We'd make sure that we set that up so there's a solid hand off of services.
+Healing Circle Psychiatric Services: Okay? Yeah. Because what I didn't like is when we moved from iconotes over to simple practice, it didn't have any of the meds, no pharmacies. We were kind of just starting over from scratch, even though it was still doctor first.
+Christopher Hume: Really?
+Healing Circle Psychiatric Services: I think that's the only thing that scares me. If we're transferring over to you, if they're going to have everything, We certainly do data transfers.
+Christopher Hume: We have kind of seeing the meetings with our engineering team, but I can check with them and make sure all that information, we transfer it over and just talk about timeline. So that's something I'll kind of follow up with.
+Healing Circle Psychiatric Services: Okay?
+Christopher Hume: I know we're sort of in the home stretch here. I would love to show everyone where the templates are so you can just see our library and kind of how to adjust templates yourself and how to generate documents to hopefully save you some admin time there as well. Any last questions here before we move to that part?
+Healing Circle Psychiatric Services: So what is the monthly cost for job psych?
+Christopher Hume: Yep. So jotsyc for the features, audit and eprescription on withstanding is $150 a month for kind of the base jobs like package per provider.
+Healing Circle Psychiatric Services: That's way cheaper.
+Christopher Hume: Don't worry. I can't control person. Or is that per person? Yes, that's per person.
+Healing Circle Psychiatric Services: Never mind. But not everybody's going to need escribing. Is there a cheaper fee? For those.
+Christopher Hume: The, the 150 is the base price and then the e scribing is 69amonth and the advance in the advanced audit features are 69amonth. And then of course, we have. If you're like, oh, my gosh, I love all of these features, we do have an all inclusive bundle. That brings down the price a little bit as well, but most people are on the $150 a month package. Let me just quickly. Everyone. Brittany, would you mind telling me the name of the document you thought everyone would like to see generated?
+Brittainy Wagner (Tidemarkva Admin): That would probably be the TMS clinical note template would be that generated. But then also they just do like BDI scores and PHQ9s.
+Christopher Hume: Okay. Jeff's like our documentation tab. We have forms that you can send to any of your patients. Or clients. So you can build custom forms. Here.
+Christopher Hume: But of course, we also have. Quite a few pre pre built. And so one of Those is the PHQ9. You can send those out to your patients and then that patient overview page. It will track their progress over time in a nice little chart. So I just wanted to flag that for all of you.
+Healing Circle Psychiatric Services: Where was that overview? I'm sorry? Where was that overview page?
+Christopher Hume: Of the. Of the patient. Overview of the form.
+Healing Circle Psychiatric Services: Oh, okay. I see. In the patient overview.
+Christopher Hume: Track completed forms.
+Healing Circle Psychiatric Services: I see. So with this, would the patient need a separate app? For the phq9.
+Christopher Hume: No, it would just text it to them. And they would complete it through a one time link. So they get a text or an email. However you communicate with them, they'd click it, fill it out and they're good to go.
+Healing Circle Psychiatric Services: Okay? And would they be able to turn off their notifications with jotseg if I think that's where we run into an issue with simple practice is sometimes they don't always go through because the notifications are turned off.
+Christopher Hume: We do. That's a great question that probably should have a way to notifications off, but if you choose to communicate with a patient, the only way I think if you can remove their phone information or I don't believe they can turn notifications off unless they kind of ban that number from texting them.
+Healing Circle Psychiatric Services: Okay, so there's no portal.
+Christopher Hume: There's no patient portal yet with Jaw Psych. It's just one time links.
+Healing Circle Psychiatric Services: And then. Payments then are.
+Christopher Hume: Yep. So if you were going invoices. Bill invoices so that if it's through insurance, that through our job bill functionality, which is something kind of, you would do everything within jobsc, and then our team would handle submitting it to insurance for you once you sign it. If you're trying to collect co pays or self pay patient information, you can do that from the portal itself. Or from a note itself, you push.
+Healing Circle Psychiatric Services: Simple practice portal.
+Christopher Hume: You push this request payment from patient.
+Healing Circle Psychiatric Services: Does it check insurance or does it.
+Christopher Hume: We have that's kind of separate from the AI scribe, but we do have a whole billing platform where we can do eligibility checks. We generate the notes as we kind of walk through today, and then our team handles the billing. And then depending on which tier you choose, we also handle any audit or clawback fights for you. And so that's certainly something we can set up. If you're like, hey, Jet Stack's great. We love the scribe. We're kind of interested in learning more about eligibility checks and billing. We'd love to get you into that program as well.
+Healing Circle Psychiatric Services: So we would be able to keep our current billing. And then they could bill out. You don't have to bill out on your side.
+Christopher Hume: So. Right. We can do eligibility checks and the notes that generate the notes for you. And then if you'd like to continue using your current billing, you certainly can.
+Brittainy Wagner (Tidemarkva Admin): By current billing, Chris, they mean me. Just for clarity. And so, yeah, they handle a lot of the heavy lifting. The reason, Dallas, why we like them as much as we do as far as the billing and the auditing is because of the actual audit tool, because it helps suggest those CPT codes. So if there's ever any doubt from a clinical note perspective about what the code should be. Number one, it makes yours and Katie's job easier for those TBD codes that we have, but then it also makes sure that we have everything compliant as far as, like, what's needed for clinical documentation for the TMS audits for like what we had with a couple of those patients to, to be able to assist with that. So it does a lot of the heavy lifting as far as billing goes, but there's still follow ups that we have to do as far as the denials and the rejections go that still need human touches. Okay?
+Christopher Hume: Couldn't have said it better myself. Brittany. Thank you.
+Brittainy Wagner (Tidemarkva Admin): You're welcome.
+Christopher Hume: And so I know we're coming up on time here and, you know, we are of course going to generate your two templates for you. But just so you all know and can explore on your own time what's available if you go to documentation, note templates. We have a whole library. So you can browse our library of templates. You can upload an existing template.
+Christopher Hume: I think we were discussing. You did this with Read?
+Healing Circle Psychiatric Services: Yeah, that's what I was talking about. So it would have it in the format that he wants it.
+Christopher Hume: 100% yes.
+Brittainy Wagner (Tidemarkva Admin): Okay?
+Christopher Hume: And you can also take any of the existing templates, let's say a DAP template. And then. You just make it your own and customize it. Add sections. Or use this AI editor tool up here and then just talk to the AI on the right hand side and tell it what sections you want, what changes you'd like. Jawsec will do that for you.
+Healing Circle Psychiatric Services: Okay?
+Christopher Hume: That was at a million miles a minute. I'll walk through. Of jot. Psych. I appreciate you all bearing with me, especially after what it looks like with Panera, which I know can sometimes make for a slightly sleepy afternoon. Thank you all for the questions and kind of staying engaged.
+Christopher Hume: Are there any. Is there anything I can help you with today before. Kind of you get off and running and. And try using jot Psych.
+Healing Circle Psychiatric Services: No. I'll have to guess. Just play around with it and I can just email with questions.
+Christopher Hume: Yes, I'll certainly follow up with my email and calendar. In terms of next steps here. Could we set up a virtual check in in two weeks? Maybe the same time, just to see how everyone's going and see if there's anything I can unblock. And then. Dallas. I'll coordinate with you for our in person visit, which will probably be around the same time. And maybe we can even actually cancel the virtual one, but for the time being with the same time, two weeks from today, work for everyone.
+Healing Circle Psychiatric Services: Yes.
+Christopher Hume: Yeah.
+Healing Circle Psychiatric Services: As a question that I have, so it would be like 150 per person to utilize it.
+Christopher Hume: Yes. Yep, that's correct. Even like.
+Healing Circle Psychiatric Services: Even if, like, if like a front desk people or text.
+Christopher Hume: Oh, I'm. I'm sorry. That's a great question. Currently, admin seats. So if you're not recording with jobs Psych. The seed is free. That might go up slightly in the future to a nominal fee just to make sure people aren't adding too many free accounts. But right now, front desk people, admin people who just need to review the notes but don't create notes themselves, the account is free. We only charge for providers who are recording.
+Healing Circle Psychiatric Services: So would I be able to just put in the TMS machine? Because that's a separate thing in a note. And then he would just add in his part of the note. So I would read off, like, How long the session time was for the machine. It's in the template.
+Christopher Hume: That you guys had. You could certainly add that either as part of the same recording or as an additional recording, but it would have to be with the same account. You could be in the room together and both say that. Or like someone comes up to the computer afterward and just adds a 30 second recording. But unfortunately, right now people can't. Add different content to the same note. They can add content to the same patient, but they can't both be recording on the same note yet.
+Healing Circle Psychiatric Services: Okay, so simple practice would be fine. He would just have to put in his part of the note, and then I could just enter, I guess, in our old template.
+Christopher Hume: All the OR as an AS admin. You could actually get in and type any additional information in there as well. You just wouldn't be able to do that first part of recording from your account.
+Healing Circle Psychiatric Services: Oh, okay. So it'd be admin.
+Christopher Hume: As an admin. You'll be able to go look at all the clinic notes and jump in there and edit them.
+Healing Circle Psychiatric Services: Okay? Yeah, because it's that piece where we have to have two screens and then. Putting in all that tedious stuff.
+Christopher Hume: And do you have it saved? Because you can, if you kind of send that information. You can always add it to this notepad section, too, and it'll just integrate it into the note.
+Healing Circle Psychiatric Services: Yeah, you have to, like, copy and paste each thing. So I don't know if there's an option to, like, screenshot it and then upload it into.
+Christopher Hume: Not yet. But when we come out, I would love to see how you do this kind of in person.
+Christopher Hume: And we can. I think we could come up with a workaround that'll help make this easier on you.
+Healing Circle Psychiatric Services: Okay. Yeah. Because that's takes hours.
+Healing Circle Psychiatric Services: Oh, my goodness.
+Brittainy Wagner (Tidemarkva Admin): And that's.
+Brittainy Wagner (Tidemarkva Admin): That's just for context, Chris. That's true of every single TMS clinic. That is a huge pain point for them. And if they were doing bravado, they have different people observing as well, and they have to put in vitals. In those. So, like.
+Brittainy Wagner (Tidemarkva Admin): But they're only having to put in vitals. They're not transcribing anything. But you're going to find that that's relevant for all of those clinics if you're wanting to get that subspecialty of psychiatric services in there.
+Christopher Hume: Thanks. I'll find this for the team. One to make sure we're thinking about this as we further develop and improve. And I'll also do some brainstorming, Dallas, and how we can save you those hours every day, because that's a lot.
+Healing Circle Psychiatric Services: How do we let patients know that they're going to now receive their measures by text message? Through simple. Yeah.
+Christopher Hume: Okay. Yeah. That's actually a great question. We don't have off the shelf language for that. We do have off the shelf language on consent, if that would be helpful. Just informing them that you're using an AI script. But you're probably already familiar with that if you used read.
+Healing Circle Psychiatric Services: Is there special document that we need for your.
+Christopher Hume: No, no, we defer to every clinic, but we just give them some sample language that they can use if they have questions or if they need a little guidance. There. I'll follow up and I'll include that link in my follow up email after this meeting, just so you have it, in case it's of interest.
+Healing Circle Psychiatric Services: Okay?
+Christopher Hume: Do you need to jump to the next meeting? But I. In terms of next steps, I'll schedule a meeting for two Mondays from now, Dallas. I'll communicate with Asia or coordinate with Ostia about our in person visit. I can't wait to go out and meet everyone not behind a computer screen.
+Christopher Hume: And then if any support is required or you have any questions, you have my email and calendar in my follow up email, so don't hesitate to just grab time with me, and I'm happy to meet with anyone one on one.
+Healing Circle Psychiatric Services: Okay? All right. Sounds good. Thank you.
+Christopher Hume: Wonderful.
+Healing Circle Psychiatric Services: Okay.
+Christopher Hume: Thank you all so much.

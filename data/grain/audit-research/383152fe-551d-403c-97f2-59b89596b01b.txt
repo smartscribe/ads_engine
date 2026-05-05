@@ -1,0 +1,117 @@
+aidadabreonp: Hey, how's it going?
+Lee Harrold: Good, how are you?
+aidadabreonp: I'm great.
+Lee Harrold: So yeah, how can I help? What's going on?
+aidadabreonp: Well, I think the call was booked so I can see the syncing possibility because I'm tired of copy paste copy paste. I'm spending too much time copy and pasting each section into advance.
+Lee Harrold: Okay, that makes sense. Yeah, let me. Set up. Our Chrome extension for you. While I'm doing this because I'm just kind of a curious person, how long have you been using Jazz Act? And has it been working well for you? Like apart from obviously pasting stuff into advanced MD.
+aidadabreonp: There's definitely been some hiccups and it's not always. Accurate. But I mean, I do see some improvement. It has gotten better. Yeah. It's got better, but yeah, there's this hiccups. Or in the beginning, I was. Like just having to do way too many edits. Like it was pretty frustrating. But I don't do as many edits anymore. But I am getting. Sick and tired of having to copy and paste every section.
+Lee Harrold: Yeah, that's obviously not ideal. Oh no, I press the wrong button. There we go.
+aidadabreonp: The EHR now offers an AI tool as well, which would obviously fill the spaces, right? Because it's from Advanced MD. They have an AI as well. And then, like MedWriter, they're specifically foresight. The entire note can sync right into the Advanced MD also. So on that now.
+Lee Harrold: Yeah. So is Med, you said Med Riders the external tool.
+aidadabreonp: Anthem D has an AI. Within the EHR now and you can also just click once and it'll go right into the advanced MD.
+Lee Harrold: So we have some. We have some competitors in the marketplace.
+aidadabreonp: Mediterranean is definitely a competitor.
+Lee Harrold: Is it good? Like are the notes like high quality?
+aidadabreonp: Yes. And their rate is lower and they're willing to lock in the price like a forever. Nice.
+Lee Harrold: Let me get my. Credentials. Here we go. All right. So I actually don't have an advanced MD account. So I'll just kind of demo this with simple practice. Let's say gray Ryan, for example, is. Our patient. So our copy paste solution is this EHR extension. So. Is Advanced MD a browser based EHR? Like do you go to it in a web browser?
+aidadabreonp: Yeah.
+Lee Harrold: Okay, cool. Yeah, so this will work then. So we have this Jatsucky HR extension. On the right. I have all these notes for my fake clients. So Joseph Williams. Is a civil soap note, for example. This is the same note that you would see inside of JATSEC. If I go over to Grays. I need to create a new appointment for gray.
+aidadabreonp: S note.
+Lee Harrold: Delete this stuff. Copy and pasting is a pain. Like obviously, you know, you could do this. But what this does is automate that process. You could just move over here, click this little launch button. And then it would fill every field. And it works by mapping the JATSAc template to. The template inside of the EHR. So in advanced MD. For it to work, we would just ask that you create, you know, a JATSAPE template that matches what whatever it is you're trying to put into advanced MD, which I'm going to guess it's probably one for one. Is, is it one for one? Do you know?
+aidadabreonp: I mean, I can log in and show you what it looks like. Sure. I thought that you guys had already something that matches.
+Lee Harrold: Well, yeah, yeah, we probably do. It depends on everyone's setup because of course in, in both advanced MD and in JotSec, you can, like, create new templates and you can add sections to, to other ones. So it's, I like to ask because, you know, some, some people have very specific events and D templates that actually source data from multiple different places. And we're just one of those places. Although I guess this would work for that too because our tool would find all of the sections inside of an SMD and then piped data. In.
+aidadabreonp: So this is a new patient intake. I mean, the patient fills this out. They feel these out. This is where the HPI will go.
+Lee Harrold: Okay.
+aidadabreonp: So HPI goes there and then everything else. Goes here. The subjective objective. Oh, yeah. Treatment plan treatment schedule. So usually I put. You know, all the questions that I asked during the intake. I usually put all of that here. Along with the psych ROS. Let me just go to a patient.
+Lee Harrold: Yeah. And so you would. You would copy. The equations, the answers to the questions that you asked from the DAT side note and paste into that.
+aidadabreonp: One second.
+Lee Harrold: Sure.
+aidadabreonp: Okay. Patient filled that part out. I copied the HPI. From Jot psych and I pasted it here. On this tab. Gotcha. Then on the summary tab, that's where mostly everything goes to start and stop time. Of course, I have to manually check those things off. I have to put, I have to manually put in ICD 10 code. And then their algae and all this stuff. This is just like a template that I usually have in the subjective objective because I asked them these questions live. So I always like quote what they say. But then, like their scores, there's psych ROS. This came from Jot site, the psych ROS. The objective. The add on psychotherapy. This stuff came from Jot psych.
+Lee Harrold: Okay, cool. Oh yeah, looks like you paste it all into the same to the same box there.
+aidadabreonp: The therapy treatment plan came from JAPSEC, the psychotherapy goals. But these are things that I created. This is not. Part of a JotSeq template. I added it to be. Within an initial assessment. And JACS, I created that.
+Lee Harrold: Oh, I see, I see. So you created a new section and you added that to a JASET template. It's a template instead of just like, okay, cool.
+aidadabreonp: That's perfect. All right. And then this is the assessment. So this 12345 came from Jot site. The safety assessment is something I. Asked to be included also on the job site. And then this is my, I have a shortcut. That creates this. This is just like standard educated about certain things. So this is not from job site. This is my own thing that goes in all the notes. And then this site, this is part of the plan. Plan. But, and then the thing I don't like about Advanced MD, like it ran out of space. They only allow a certain amount of characters. So that, that can get annoying. So usually I put the therapy treatment plan as well as the medication plan all under plan. But because I ran out of key space. I ended up pasting the therapy treatment plan here. But typically I put it under.
+Lee Harrold: Gotcha.
+aidadabreonp: So hold on. So now if I go to jot save. Right. So where it says 28 year old. AA male, blah, blah, blah. That's where. Okay, that's not it. Oh, you can't see everything that I'm doing.
+Lee Harrold: I can see. Yeah, what I see right now is the note. For someone who's monogram is AI. As the assessment and plan style colon narrative.
+aidadabreonp: You don't see that I'm back in advance MD right now.
+Lee Harrold: Nope, I see a Jot psych tab.
+aidadabreonp: Might not have screen recording permission on your computer. That's why.
+Lee Harrold: I wonder if it'll let you share.
+aidadabreonp: Anyway. So in that subjective objective. Yeah. I think by Chrome doesn't have this. I'm on my MacBook. So apparently my MacBook has. There are restrictions here about what I can share.
+Lee Harrold: That's right. Yeah, Matt Mac is pretty, pretty risk averse. There's, there's a way you can add. Sharing. But I think to do that, you'd have to. Like. Set it up and then leave this session and then come back. You should be fine. I'm here.
+aidadabreonp: Well, I may have an HP computer right next to me. I didn't know that it was going to do that.
+Lee Harrold: Yeah, no worries. Although I don't know, maybe I might have enough information. To go off of because it sounds like the core, the problem that you're trying to solve is you want all of the JATSATE content inside of that single summary tab inside of Advanced SIMD. Is that right? You want to have happen is. Your entire dot site note to be inside of the summary tab. Inside of Advanced MD.
+aidadabreonp: Yeah, but this HPI doesn't go into the summary tab, not for the initial assessment. There's a separate tab for that one.
+Lee Harrold: Okay. Yeah. And right now you're having to. Click the little icon.
+aidadabreonp: I have to copy paste. Go to the next session. Copy paste copy. And I don't even usually use. Oh, it's not moving when I move. Why is it stuck? I'm going to try to join for my other for my HP because it's going to drive me nuts. It's not showing what I'm doing.
+Lee Harrold: Sounds good.
+aidadabreonp: All right, so I'll leave and go to the.
+Lee Harrold: Sweet. See you soon.
+Aida Dabreo: All right. Can you hear me?
+Lee Harrold: Yep. Where was that?
+Aida Dabreo: All right, one second. This is the annoying part about AdvanceMD. It's just, it creates so many pop ups and pop ups and pop ups.
+Lee Harrold: Yeah, and there are all these little circles. Like I'm not, wasn't sure.
+Aida Dabreo: I used to have an extension that would just make it open. It would block the pop up and it would just open as another tab. But I don't know, it just automatically got kicked off, but it drives me nuts because it just keeps opening another browser.
+Lee Harrold: Instead of a tab.
+Aida Dabreo: But anyway. So this is the initial diagnostic. Assessment. So this HPI has its own tab. So I use copy and paste there. But then everything else. For summary. Goes here. For initial assessment, this is something that I created a long time ago. It just helps me to cover all the important areas. So I have a shortcut phrase. I just click, I just type HPI and then it populates all these questions that I asked. So I don't need to get that from JotSite because it's just something that I attempted I've been used to since being in school. So I just continue to use it. The screening scores, you know, I put there the psych ROS did come from Jotzy. And then this objective. Matches. Let me go to Job Psych. Iatrist. Okay, like where this says summary, I usually use that as my objective. My 28 year old male with ADHD, diagnosed at age eight. So if I were to go back to where's my advanced D, this is what drives me nuts. Okay. Here. See that's there. 28 year old male with longstanding ADHD diagnosed age eight. So within this. Session narrative slash objective. My pre-populated template. I take the psych ROS from expansion D. I copy paste. And then objective. I usually get it. From here. It says summary. But for me, I use it as the objective. So I don't know if it should be renamed or something. But I usually copy from here. Copy. And you see talking about the H8 and then I. Manually paste it for the objective.
+Lee Harrold: Gotcha.
+Aida Dabreo: And then the add on psychotherapy.
+Lee Harrold: So I guess two things come to mind. The first is that the JATSAT Chrome extension, the GAZRAT stands is only equipped to populate like one of these tabs at a time. So it wouldn't be able to. Populate risk assessment and then go and find the summary tab and then open that and then populate one of those fields. But if it was putting everything inside of summary, it could do the autocopy like launch thing if it had the same if one of its template titles. Was configured to contain all of these. Subsections. But I think that's probably not like an ideal solution here. So I think what I would recommend is. Like, it sounds like the most complicated part, the most time consuming part for you is that you have to go into Jobsec and then click the little copy button. For each section and then hunt for where it is inside of advanced MD. And then sometimes those names aren't the same. The easiest way to like reduce that friction would be to make another version of this template that has. Names that that are the same. And then you could use the can you. Take a look at my screen for a sec. I think I'm still sharing. Does it show up?
+Aida Dabreo: No, I have to stop sharing. Okay, go ahead.
+Lee Harrold: Okay. Yeah. You can select some of these. So this, this would be, I think it's called summary inside of your JOT site, but it's being used as objective. We copy that and then paste that collection. And so then you have. Each section as their own section inside of your summary. I know that doesn't really save you a significant amount of time because you're still having to copy and paste. The upshot is that it all happens to be right here. On the side instead of inside of a different browser.
+Aida Dabreo: Yeah. I don't want to give myself more work because if that's the case. You know, med writer already has an AI that sinks into advanced MD and an event indeed. Has credential and billing. And they also have their own AI. So I have enough. Things to do.
+Lee Harrold: Yeah, we support like the other option would be. As Judge does credentialing and billing as well. If you wanted to migrate over completely, but that's, you know, that's again, the goal here is not to create more work for you.
+Aida Dabreo: Yeah.
+Lee Harrold: Would you be interested in learning about. JATSAC Credentialing and billing programs?
+Aida Dabreo: I'm already speaking to, I think his name is Nate about the credentials and billing. Oh, perfect. But I don't want to. Have print credential and billing if I still have to do all this copy paste.
+Aida Dabreo: Like I need to, I need better time management. I'm spending too much time copy pasting.
+Lee Harrold: So does credentialing and billing, but that's like within advanced MD.
+Aida Dabreo: Right? No, I spoke to Nate. About credentialing and billing with jock psych.
+Lee Harrold: Oh yeah. But do you currently do that inside of advanced MD?
+Aida Dabreo: No.
+Lee Harrold: Oh, I see. I see. I see. So you, you would, you would do credentialing and billing through JATSYC and then still use advanced MD as your primary. EHR. That was kind of what you were thinking. Okay. Gotcha. Yeah.
+Aida Dabreo: But I'm saying if I have to create like spending time creating templates to try to figure this out. Like, I don't want to do that. I'm saying that. There are some AI tools that already sync with events. And advanced DMs itself has an AI tool and they have billing. Right. So I'm just looking for like the easiest way to do this without giving myself more task.
+Lee Harrold: Yeah. No, that, that makes perfect sense. Yeah. I think the two ways forward for me here are. Like, I think I could. Take a look. At Advanced SIMD and see if we could optimize the. I was like, you saw how easy it was to get stuff into civil practice.
+Aida Dabreo: I don't remember.
+Aida Dabreo: I mean, you can show me, but I mean, so you guys have worked a simple practice to make it that easy.
+Lee Harrold: For practice, practice fusion. Yeah.
+Aida Dabreo: I mean, that's what med writer has done. Med writer. Has, I guess, made whatever agreement with advanced and D so it syncs right into advanced indeed. And they have a forever price that's less than 150 per month. And it's locked in.
+Lee Harrold: So quick, quick, quick refresh. Yeah, this is the. This is the process for. The delivery. It's just a single button that's pressed. And so yeah, I imagine we could get the same thing up and running with the advanced MD.
+Aida Dabreo: Yeah, it looks like it looks like I would have to create.
+Lee Harrold: A template that maps.
+Aida Dabreo: I would have to set up a different template in Jot site to match the template in advanced MD is what it looks like.
+Lee Harrold: Oh, yeah, but that's, like, really, really easy. Let me show you. If I jump over to. Some JATSAG account.
+Aida Dabreo: Yeah, but I don't want, I don't, I don't want to have to figure that out by myself.
+Lee Harrold: Oh, yeah. And we could, we could do it for you. Premise is. Like me is open. Actually. Yeah. So yeah, we would. Take one of your existing templates. As a base and then build one of these. But again, that, that's a service that we could offer. Like if you wanted to give us access, if, if to your organization, we could create an account. Jump in there, create the template. So that it matches your advanced MD. Organization. That, that, I think, is the other path forward that I mentioned of the two.
+Aida Dabreo: So I would have to give you access to my job site or my advance MD.
+Lee Harrold: The, the, the, the job. So it wouldn't be your personal JAWS account. We would create a new account inside of your organization. That we would use. And then advanced MD, you, you wouldn't have to give us access to your advanced STEMD. We. We have one that we could use to test with.
+Aida Dabreo: Yeah, you would just have to make sure you're referring to the templates that I used for advanced entity.
+Lee Harrold: Oh yeah, that's a good point. Yeah. Yeah.
+Aida Dabreo: So I guess I'm not using, I didn't make my own template for advancing D I'm using their templates, but you would, you would need to make sure it's, you know, I mean, I could probably. Print screen and send it so you can make sure it matches. But like the most popular for the intake is called A1 diagnostic. Because a portion of that is sent to the patient before they're seen. And then whatever they fill out there. Becomes a part of that initial, you know, appointment documentation. So I really like the A1 diagnostic as a tool. So I didn't create that. That's an advanced MD template.
+Lee Harrold: Gotcha. Okay. So if it, if it's an event template, then it's probably that the account we have has access to it. And if not, then yeah, you're right. I think we would have to ask that you create, you know, a locked down child psych one that has reduced permissions. So we only saw what you would want us to see.
+Aida Dabreo: Yeah. And then. Yeah, I could probably. Redact, like cross out a patient. S name. It's like, how would you guys see what I put where?
+Lee Harrold: Oh, that's true. Yeah, you, I suppose you would have to give us. Is it, are we able to create custom advanced MD templates that may be more match, like better match the.
+Aida Dabreo: I wouldn't do it. That's what I'm saying. I would not do a custom advance MD template because what the patient fills out. Sinks into that first note. So I don't, I don't want to change that. I love that feature. The only thing is. Whatever initial soap and follow up soap. That would be created as a new template in Jot psych so that it can sink into the advance MD. I would just need to make sure it's already, it's going to use some of these specific templates that I've created for my job site within those same sections. You get what I'm saying?
+Lee Harrold: I do.
+Aida Dabreo: Yeah, that makes sense. Like the psych ROS. The way that I order things, that's how I would want it. To match so that when I just hit copy and paste once, it flows where I typically have everything flow into the note. So if you created a basic skeleton in JockSyke. To match. The advanced MD templates that I use. Then I could. I guess if Jot's like then allows me to. When you go in and edit the templates, if I can go. In and put the templates that I already customized in JotSych into what you create for me. Then it will be comprehensive.
+Lee Harrold: Yeah. We would make sure everything is covered.
+Aida Dabreo: Okay. Well, you know, I'm at a point of show me what you got. You know, for me, the strong competitors right now are med writer because they already sync right into advanced MD. I don't know if they have billing or not, but they do have a locked in price. That's about 30, 35 bucks less, and then it will be, it will never increase. So that's catchy. And then the fact that it already syncs. I don't have to do anything. And then Advanced MD, I mean, they have their own AI, which obviously would work, right? Because they. Create. And they also have and they guarantee a 98, 99%, no denial of claims. So that's very catchy also.
+Lee Harrold: Yeah. I'll tell you what. I'm going to give you my email address here. So you can. Jump into advanced MD. And that's all right with you. I'll go ahead and create. A custom billing account inside of Jot psych. So that I can begin to align these. And is there a particular time next week that would work to schedule a session so that I can confirm that. The section mapping exists between the two?
+Aida Dabreo: You want me to confirm a time that I can meet with you?
+Lee Harrold: Yeah. Or just like give me a couple of days. Oh, actually, you know what? Probably the best way to do it is if I give you another link and then you could just schedule a session.
+Aida Dabreo: Yeah. I mean, I can tell you it's, that's no problem.
+Lee Harrold: I can tell you. Yeah, when it work.
+Aida Dabreo: So how about Wednesday the 25th? What time zone are you in?
+Lee Harrold: I'm in Eastern. Yeah, it looks like my day is like pretty completely available on the 25th.
+Aida Dabreo: So the 25th, we can do 9:30 Central, which is 10:30 Eastern.
+Lee Harrold: Let's do it. Okay. I'll send over. A session. All right. Well. All right, like I said, I sent that, I sent my email address so you can create an advanced SIMD account. Let's see what I can do.
+Aida Dabreo: All right.
+Lee Harrold: It was great to meet you.
+Aida Dabreo: Thank you. So you're going to send me an email for what?
+Lee Harrold: So. I'm going to give you. An email address so that you can create an account for me instead of Advanced MD so that I can try to make some matching templates. And see if we can get this copy paste situation nailed down.
+Aida Dabreo: Oh, so that you can create events in the account. Oh, so that I can create a login for you to see the templates. Yeah. Okay. Yeah. I think, I think I already have one because I had an assistant before. And I had a, I had a login for that.
+Lee Harrold: Yeah, yeah. If you have that, that'll be, you could send that over. I unfortunately need to run.
+Aida Dabreo: Okay.
+Lee Harrold: But this was good. All right.
+Aida Dabreo: Thank you. Bye.

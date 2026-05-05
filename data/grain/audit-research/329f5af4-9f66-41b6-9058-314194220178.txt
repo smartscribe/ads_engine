@@ -1,0 +1,79 @@
+Christopher Hume: Time of year getting sick. Is it warming up with you for you guys yet or is it still pretty cold?
+Healing Circle Psychiatric Services: Yeah, it's warming up pretty good. Is Lee joining this meeting? Because I guess this is more like techie questions.
+Christopher Hume: Lee is not joining this meeting, but I'll be able to kind of walk you through and see what's going on here.
+Christopher Hume: And I can grab Lee and have him kind of sort out what's happening.
+Healing Circle Psychiatric Services: Okay, sounds good.
+Christopher Hume: Okay, I'm sorry about this Dallas. I'm tracking the two issues you brought up were the Chrome integration isn't working properly. And then you had trouble. You had trouble recording.
+Healing Circle Psychiatric Services: Yeah. So Dr. Alec yesterday, I had downloaded that extension for him in Chrome. And so everything was set up. He was signed in and everything.
+Healing Circle Psychiatric Services: But when he went to the Chrome extension. How do I say this? He went into simple practice. And then I know this worked with you and me. But it didn't want to work on his end. So he found a patient. He saw the patient earlier, and then that visit had ended and he wanted to push that existing node that was in Jot psych into simple practice. But when he went to look for that patient, we typed in the name. The patient was there. But it would not show any history that he saw the patient at all.
+Christopher Hume: What? So was it the extension? Working or jealous? One question off the top. Did you send him the link that I sent you for the Chrome extension, or did you look it up on the. Google Chrome store?
+Healing Circle Psychiatric Services: I looked it up on the Google Chrome store.
+Christopher Hume: Oh, okay. So, and I'm sorry for the confusion. We actually. Have. What you saw on the Google Chrome store is our recording. Like the Chrome extension that's publicly available is just a streamlined recorder. Okay. And so the. Chrome extension that I sent you, that is how you push the data. And so I would think that is why Dr. Alec. Couldn't see any of the patients and couldn't push the notes because he was probably using the public one, not the kind of advanced one that we gave you all access to.
+Healing Circle Psychiatric Services: Okay. Yeah, I'm forwarding that email over to him now.
+Christopher Hume: Okay. And that should, that should fix it.
+Healing Circle Psychiatric Services: Okay, so I'll say. Please. Click and download. This one for John. Yeah, because I told him, like, if I can't help you, then we're kind of out of luck here. So that's why we're having this meeting.
+Christopher Hume: That's what I'm for, Dallas.
+Healing Circle Psychiatric Services: And see, I told you I can was really bad. Like, I didn't know what to do. And if it's not working, then I don't know. I like to think I'm pretty tech savvy, but if I can't figure it out, then must be something.
+Christopher Hume: Sorry about that. That is confusing. We need to a story for a different day, but make sure it's very clear that Google Chrome store is something different.
+Healing Circle Psychiatric Services: Okay. And so with that, he would just be able to push it like I would.
+Christopher Hume: Right. Exactly. It's the same exact act, exact access. Yep.
+Healing Circle Psychiatric Services: Okay. And I know that I quickly went over that email that you had sent with Lee saying that. That you can't combine notes yet.
+Christopher Hume: Not yet. When you say combine notes, what do you mean by that, Dallas?
+Healing Circle Psychiatric Services: So he's using both freed and jot psych at the same time. And so if we could get everything from freed, like that's the main one I'm worried about. Because if we're having to pay for freed and yachts like that just doesn't make sense.
+Christopher Hume: So. Do you have all of, all of your notes in simple practice?
+Healing Circle Psychiatric Services: Not all of them. There's a lot of them that are still in freed.
+Christopher Hume: Om. Okay.
+Healing Circle Psychiatric Services: So he was just wanting everything over into jot psych that he's done so it knows the patient fully.
+Christopher Hume: Yeah. So we can take all the demographic data out. And they're working on a way to download notes and then upload to them to Jazzy is almost like a PDF. Okay, that is like the next thing they're working on. It's something that Dallas, you're not the only person who's asked for that. To be completely honest, it's going to take a little bit longer is the ability to take a PDF that came from a different software. Read it, take information out. That's just going to take a little longer and not something that the engineers said will be able to have in the immediate term. Future. Outside of like a demographic data, the insurance information, all that good stuff.
+Healing Circle Psychiatric Services: So. Does, do we just continue paying for freed until he's able to do that because free knows the patient like already. And so that's the main reason why like having all of this in jot psych would be really helpful because then jot psych would know the patient rather than starting over fresh.
+Christopher Hume: Well I need to talk to the engineers about this Dallas, but what I think we could do is like, let's say. Dr. Alec, he's happy with the note how the notes are working. He's happy with. Is happy with. Kind of the integration with simple practice. I'll see what we can do to like. Pull information from freed and like put it in like, like I don't we're not going to be able to push all of the notes and get it to pull information out. But I'll see if there's something sort of. We can build that can review the notes and put in the most pertinent information as like a super note into Jot site. So it has that context.
+Healing Circle Psychiatric Services: Oh, that'd be so nice.
+Christopher Hume: Yeah. So I think Dallas just to be frank I want to make sure that the. Chrome extension is working and that Dr. Alec is comfortable with the note quality. And if that's all good and it looks like he wants to continue using Jot psych for this kind of pilot period, I'll make sure the engineers have like an answer for you on like what kind of the workaround is going to be because I'm sure we can come up with something.
+Healing Circle Psychiatric Services: Okay. And I know that Lee has access to our freed.
+Healing Circle Psychiatric Services: So I think you guys are able to see like what notes he's been recently doing and everything and like the format they're in.
+Christopher Hume: Exactly. So he should have the same format in Jot psych because we uploaded those templates for you.
+Healing Circle Psychiatric Services: And then yeah, and that's what I tried to do by myself. I know that I had tried finding, I found this old note. And so I was doing it kind of for fun and I went to copy and paste it and then put it into freed or not free into job site. And it didn't, it only gave me like a notepad option. It didn't want to make it into a note without me recording it.
+Christopher Hume: Yeah, you need at least we're trying to make a note or a template Dallas.
+Healing Circle Psychiatric Services: It was for like an actual note, like a progress note.
+Christopher Hume: Yep. You need just five seconds of audio. So if you just put like all that stuff into the notepad and then just record for five seconds, even if it's silenced, silent, it'll generate a note for you.
+Healing Circle Psychiatric Services: So putting it into the notepad and then just leaving it silent for five seconds.
+Christopher Hume: Yeah, it's a safeguard we have on the software. Because we don't want people to accidentally submit notes when they, you know, when they accidentally start stop or something like that. But the workaround is just let it run for five seconds and then press generate notes and it'll take all the content.
+Healing Circle Psychiatric Services: Okay. Yeah, because that old note, I know that he still had freed going when he was having like a phone call after the session. And so it had, it was like a transcript.
+Christopher Hume: Okay.
+Healing Circle Psychiatric Services: But I was trying to figure out to see like for fun to see if maybe it could be taken out, but it wouldn't, it wouldn't do anything.
+Christopher Hume: So let me actually just show you Dallas how you would do that. If Dr. Alec has a transcript. Just get rid of the wording. Transcript and at the end there's information you don't want included. You can just copy and paste the good part of the transcript here. Yeah. Use your template type. Let it record for five seconds. And then just create the mode.
+Healing Circle Psychiatric Services: Oh, I thought you were generating a note. Oh no, I'm sorry no, because I don't have a transcript to put in here.
+Christopher Hume: This should be a pretty lame note.
+Healing Circle Psychiatric Services: So basically this is what they would have to do. In like his job psych is not his jaw tech and freed to just copy and paste the transcripts from there and then put it exactly.
+Christopher Hume: And I would want to I would have to see that the engineers like the feasibility of doing this on like a big scale. I like I don't. I don't want to over promise for them. But I think there's probably a workaround that we can do here. But I think the most important thing is making sure one Dr. Alec is comfortable with the software and two the integration is working properly. And then if he's happy, he's like, hey, I want to use this, but I need the patient information. Let me tell you, I will make sure the engineers figure something out.
+Healing Circle Psychiatric Services: Okay. All right. I'll, I'll let him know about that part.
+Christopher Hume: Because that was, I'm sorry, go ahead, Dallas.
+Healing Circle Psychiatric Services: Oh no, I was like, well, why isn't it working on my end? And I was putting everything from that transcript and trying to continue, but then it just wanted to make a template. It didn't really want to do anything. I didn't know about like the five second recording rule. I'll highlight that for him.
+Christopher Hume: That was the second issue, right? You couldn't create a note and it's because of the five second issue.
+Healing Circle Psychiatric Services: Is that correct?
+Christopher Hume: Yeah.
+Healing Circle Psychiatric Services: And then the other one was just the freed thing. And then his Chrome extension.
+Christopher Hume: And so that is just was it confusion over which Chrome extension? We have one full recording, which I think Dr. Alec is inadvertently using. And we have one for pushing the information, which you just sent over to him.
+Healing Circle Psychiatric Services: Okay. So should he have both or just the one
+Christopher Hume: that he doesn't need the recording one that, to be honest, Dallas, it confuses me when I have two Chrome extensions. We want to make this as easy for him on as possible. Let's just give him one. He definitely does not need the recording one.
+Healing Circle Psychiatric Services: Okay. All right. And I think that was my questions. I don't think anybody really had any other questions. It's like just to get it working.
+Christopher Hume: Yeah, that's the most important thing, right, Dallas. Let me see here. On up your account.
+Healing Circle Psychiatric Services: Yeah, because I think with freed, I think we pay them like 268 a month right now. So we're kind of just wanting to work.
+Christopher Hume: Yes. No, no. And let me tell you, no one wants it to work more than me. More than I Dallas. Um, so of course I reset under your whole trial period. When we, when I came out to visit. So you all still have two over two weeks left in your trial. So your trial goes until April 19 through your pilot. Would. Um, so I know we hopefully after today, we fixed some of the kinks. But would you maybe have time early next week to check in? Just to make sure that Dr. Alex, everything's working for him. Make sure you're happy. And then if things are going well, we can get started on figuring out how we're going to get that patient information over.
+Healing Circle Psychiatric Services: Okay. Yeah. So would is the six a holiday. I don't even know. It's not Monday.
+Christopher Hume: It's not a holiday for me if it's a holiday.
+Healing Circle Psychiatric Services: Yeah. I'm free on Monday. I guess I could do noon central standard time.
+Christopher Hume: Yep. Let me send you. Let me just copy this meeting and we'll move it. Right. Perfect. Well, I just sent you the updated job site pilot issue resolution check in. Okay. Um, so that's on your calendar for Monday, Dallas.
+Healing Circle Psychiatric Services: Yeah, I just put it into our EHR calendar.
+Christopher Hume: So perfect.
+Christopher Hume: And then I know the last question you had for me was does Lee still need SharePoint access? He doesn't need it for this week. The only time he would need it would be if next week we're doing troubleshooting or if kind of you guys decide to move with us full time. In getting that patient information and creating whatever solution we find there. So if you want to turn it off and turn it back on as needed, that's fine. Or you can leave it on just for the rest of the pilot, but whatever is easiest for you, Dallas.
+Healing Circle Psychiatric Services: Okay. Yeah, because I had put his simple practice account on hold because I don't think
+Christopher Hume: you really, we won't be using it unless Dr. Alec needs help next week sorting out the. Chrome extension. If you run into any issues before that, please just let me know. I'm happy to jump on a call whenever. And although I'm not an engineer like Lee Dallas, I can help with some of the technical issues too.
+Healing Circle Psychiatric Services: Oh, okay.
+Christopher Hume: So I don't have to worry about nope, nope. I'm always here to support you.
+Healing Circle Psychiatric Services: Okay, sounds good. We'll all go tell him that and help him download that extension.
+Christopher Hume: Thank you. If you were into any issues, just let me know.
+Healing Circle Psychiatric Services: Okay.
+Christopher Hume: All right.
+Healing Circle Psychiatric Services: Okay. Sounds good. Thank you.
+Healing Circle Psychiatric Services: Have a great day. You too.

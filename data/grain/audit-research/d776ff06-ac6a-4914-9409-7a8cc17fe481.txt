@@ -1,0 +1,116 @@
+Jon Baer: Let's go.
+Christopher Hume: What a bizarre cycle this guy's had with us. He was a customer. I think he was one of our first customers. Paid once, disappeared off the face of the planet, then clicked on one of your I didn't even realize he was a customer at one point, so it'll be really interesting to see if he realizes he was. Clicked on the link in your email.
+Jon Baer: I know. You didn't even answer it.
+Jon Baer: He just clicked.
+Christopher Hume: No. Did you ever connect with him?
+Jon Baer: Not on the phone? No.
+Christopher Hume: Dude. This whole experience has been such a learning for me about. People. You booked two meetings from people who I don't think you spoke with. And you just, like, clicked on a link, you said, Never.
+Jon Baer: For me, it's been pretty much a 5050 split.
+Christopher Hume: Yeah.
+Jon Baer: In every industry that I've been in, and I think it's just timing is a piece of it. And all that kind of stuff. But people like to self serve at the same time. They like to click, they like to get to understand a little bit about you and then they veer off and then you remind them and you get them on the phone or oh yeah, I remember that email. Or they're like, I'M ready.
+Christopher Hume: So I'm stoked. I think probably the thing we're going to want to change about the process and you've been kind of banging this drum, is we need to figure out a way to speed it up, whether that's with Nooks, where we're going to have you parallel dialing. I think it's a little clunky right now. I know you kind of have a more positive attitude than I do about it, but I don't know. I would love your opinion there, John, on the whole workflow and HubSpot. It just seems like there's a lot of when I was trying it. There's a lot of friction points. Alaware sometimes acts up. It doesn't always automatically check your task.
+Christopher Hume: Stuff like that. What pin where could we speed up from your perspective, either process wise or tooling wise.
+Jon Baer: Yeah. I mean, the allaware thing is it's really annoying, at least for me every once in a while because I might lose a whole day of calls. That sucks. I think sometimes where you obviously have to do it, you kind of have to do the manual unenroll people. If somebody books a meeting, typically the next task is already up, and you kind of have to just unroll them so you don't, you know, you know, you know, whatever, you know, I would say, for example. So the list that you gave me.
+Christopher Hume: Right, the new one or the old one?
+Jon Baer: The new one, like, I'm already pretty much through, but he's in, like, their sequences and stuff like that now. I got 24 that don't have an email, right?
+Christopher Hume: Yeah.
+Jon Baer: Am I supposed to be? Do we have a call? Task only.
+Christopher Hume: That's something I was trying to set up. Unfortunately, the issue here is that HubSpot doesn't let you do call only sequences, so
+Jon Baer: I think I have one on there.
+Christopher Hume: Do you?
+Jon Baer: I had made one before.
+Christopher Hume: Can you? Well, you there, you can do call only, but I think they need an email address. Like you don't have to email them, but you can't. Like if you can do it, if you can prove me wrong, I'd love it.
+Jon Baer: Let me see. Oh, maybe I. Maybe, I guess. I feel like I. I put some. Oh, you know what? That's why I guess that that is making sense because I had put people in the old flow into call only, but they already had it. I think they had an email.
+Christopher Hume: Like a bad email or something.
+Jon Baer: Yeah, whatever it is. You know?
+Christopher Hume: What I'll do for you, John. Like, I hate to add complexity to your workflow, but all loaded up as a power dialer list for you in just be like. You'll just burn through. You'll hit them all four times and it'll just be like a normal. Because I'm trying to test here. Like, what we do with these people that we get cell phone numbers for? Like, no email. Like, is it worth calling them? Jack did a call through. His, and he said half of the numbers were bad. Then I went back to our growth engineer contractor guy, and I was like, dude, what the hell? And he's like, chris, I ran these through two verifications, and they're all coming back accurate. Something weird going on here. So I'd love for you to just call those if you're like, I have a little extra time today.
+Christopher Hume: Just going through the list on power dialer and see what happens. Because if we can.
+Jon Baer: Yeah. Yeah. And I mean, I'd say the only other thing right is, you know, when you think about speed, it's like, you know, that many as far as, like, people to get in, you know what I mean? Like, in flows, right? So if you think like an average of like, adding pretty much 10 a day, Like, that's, you know, about two weeks, right? So I don't know if you have, like, 2,000 or whatever.
+Christopher Hume: What I want to do is see how these. And that's kind of what this call is for, is see how these. This new tranche is going. Like, have you got any connections? Has anyone expressed interest? And, like, we could. Maybe not 2000, but we could. By the end of this week, beginning of next week, have at least 1000 for you and Jack to just work.
+Jon Baer: And then, like, because I think you just got to build kind of pipeline, and then you throw them back in, right? Like, after. Right. Because by the time you get done with that, right, you can go back through. It's been a month since those other people, right? So now you put them back in, maybe you switch up, you know, a flow and make it a little bit different, right? You know. So now I'm going to start. But that old list, right? I'm going to start, you know, the other one that you gave me. I'm going to start putting people through, maybe the jot bill or admit admin flow.
+Christopher Hume: Yeah, yeah. A lot of those emails are very, very similar, just so you know. I mean, it's probably not an issue. They're probably not going to remember that email, to be honest.
+Jon Baer: No, they no. You know, ask me what I had for breakfast two days ago.
+Christopher Hume: Yeah.
+Jon Baer: Yeah, okay.
+Christopher Hume: No, that.
+Jon Baer: That's a great. And I'll go back and I'll recall. I'll have you know, we have tasks before, right? Like answered, you know, don't connect. Right. So if I enroll or something like that, I can skip the call, right? Or I can just not call.
+Christopher Hume: The only question, are you able to flag people? Is do not call if they. They tell us not to do a process for that.
+Jon Baer: No, I don't.
+Christopher Hume: Okay, so we probably need to, as we scale this up, make sure we don't, like, get one of those civil things. Let's come back to that. But I'll.
+Jon Baer: I mean, I'll have a note in there, and then I won't call. But you can technically still email.
+Christopher Hume: You know, you can definitely still email. I just want to make sure we get them flagged in alaware as do not call, so that, like, if for whatever reason, they get fed into someone else's workflow down the line. Like, oh, we're consolidating, we're moving. You know, this is so and so's account now. This is John's account.
+Christopher Hume: I just want to make sure they actually can't get called again because in talking with some advisors, seems like. That's the only way we could actually get fried here at our scale is like, if someone, like, we piss them off to the point where they're like, don't call. And we do it again, then again.
+Jon Baer: Any industry.
+Christopher Hume: Yeah.
+Jon Baer: You have to do not calls, but you can email unless they unsubscribe, like on the bottom. Something that I, that I also, you know, used to do, especially in the CPA ones, because we, you know, really got to create a lot of our flows. And I think it was, it was more, it was more like this, where it was like. More, I would say, like outbound in a way. But I would create also flows, right, that were just emails, right, that went out every 30 days for like a year.
+Christopher Hume: Wow. Okay.
+Jon Baer: In that way, like, whenever someone would get through my whole entire flow, I would put them in that. It was like a 30 day. That way, while I was adding new people into new ones, these other people would always get an email. At least once a month on the back burner, right? And then I'd go back in there. And put them in another flow at a different time. Right. But that way everyone always touched.
+Jon Baer: At any point within any time, someone was always touched.
+Jon Baer: You have 2,000 leads to the flow.
+Christopher Hume: Say you book 10 meetings, right?
+Jon Baer: And you know two of them close. You know other people? No, I'm all set. Whatever. Other people go. To the flow. They go to that 30 day flow, you know what I mean? And they're always getting touched. You get 2,000 more leads. These other 2,000 are still getting points, right? And then I went back and I would put them in, throw them in a flow again. Because timing matters, right? You just never know. And they're just. Everyone's always getting hit all the time. You know?
+Christopher Hume: Okay, this is helpful. Also, just so you know, I had a meeting with the Remember Hygiea. Yeah. Yeah. So we kicked off their pilot yesterday, so we. It's a small pilot. It's the owner or the ex owner, who's now the chief administrator and one of her providers are using the software. Met with us multiple times. They're asking really good questions like how can we use for billing, how can we add people to the platforms? So that is like a solid lead with a potential upside. Potential huge upside. Because it's like a 14 person clinic.
+Jon Baer: Yeah, 18 maybe, right?
+Christopher Hume: Yeah. Yeah, it's something. And it's like mid teens. Okay, so then the other question for your job is, how are things going with these new leads? Have you connected with anyone? It kind of erred on the side of giving you a little bit wider scope, like, so there's providers in here, there's some non administrators.
+Christopher Hume: What do you think?
+Jon Baer: There's a lot of providers, right? I don't. I actually don't know if I've really connected with anybody yet. Okay?
+Christopher Hume: But it seems like there's not a ton of wrong numbers. Like there's some, but it's not like 50%.
+Jon Baer: No, I think the number. I mean, there are some. I think I'll go through again. I wasn't like I slacked you like one, but there was.
+Christopher Hume: I just stopped you.
+Jon Baer: On them. I just. And if they. If they are wrong, I just delete the whole number out just so I won't keep, you know, calling it. And I put in a number on the thing now. What was I going to say? Most of them are providers. Right. So I was, I'm a little bit confused on am I pitching more of, like, the, the charting with the providers and, like, what we do on that aspect of it, or is it by doing the billing for everybody, or am I trying to mix.
+Christopher Hume: Yeah. So this is kind of. It's a really good question. And I was tracking it yesterday. I just didn't kind of get to explain it. Figured easier in person. I was talking about this with Jack, I think. What makes sense, John, is we start with the Jotville pitch to everyone. Just because I think there's a lot of people who are like, hey, this is a pmhmp, but they actually run the clinic. This person says online that they're, they, you know, they hate, you know, they hate billing, they hate coding. It sucks for them. They're, you know, or their friends at the owner. Whatever. They've been there forever, that they're also an administrative position. I want to try hitching jot bill to everyone because that analysis is what sets us apart. Like, no one else is doing this.
+Jon Baer: It's something free.
+Christopher Hume: It's an easy and I want to see like, even if you call someone like, let's say it's a psych MP who isn't an owner, but is, like, really close with the owner.
+Christopher Hume: Like, and they get us a meeting with them, like, is that viable? And then. So, like, what I'm asking is that you go in with the. Let me send you the script. That we have. And then, like, if we're flaming out on this. And you're like, dude, this is not going well. We can adjust. But I think starting with this script, And then if they're like, I'm not interested, be like, oh, completely understand. Would you like a free trial? Like, we can get you set up just to try the software. You don't even need to use the billing stuff. I think, like, the highest value thing we can do right now is FC4 to.
+Christopher Hume: Set us up for billing meetings. The next size thing is just get anyone at this clinic. Use the software. So I want to see, like, does this resonate with people at all? Like, is this a valid strategy to go after providers, or do you have to have two different scripts in your head? Know who you're calling. Does that make sense? Yeah.
+Jon Baer: Yeah. No, it does, because that. That.
+Jon Baer: That's kind of where I'm at, is like, what am I playing with? Like, what matters to this person, you know? And now that you said that I did connect with somebody on the new list, Who said he would get our information over to his operations manager. And the operation manager, if it's the right guy, is in a, you know, in a flow right now as well. I'm going to follow up with that other guy. Okay?
+Christopher Hume: Yeah.
+Jon Baer: Yeah. And then, well, when I usually like what I do is I'LL you know, I'll follow up with him, and then I'll ask for their name and email just to make sure have, you know, the right person. And then I'll send that guy an email saying, spoke with Stuart.
+Christopher Hume: Right.
+Jon Baer: Or whatever, and then see if I can get a meeting, you know, out of that. Because they're more likely to look and open that and be intrigued, especially if I spoke to somebody
+Christopher Hume: that John is exactly the type of, like, cohesion and, like, What? Why? I am kind of just, like, may just pitch the same thing to everyone for now.
+Christopher Hume: And maybe we can get the right contact information. This is how we get in. So that's exciting that it's already happened once for you. And, like, I know, like, we're a long way, even from a meeting. But that's like, heading down the right track. But if you keep. If it's like, dude, most of the providers just get pissed. We can change.
+Jon Baer: Yeah. And then the other thing. Totally forgetting. I forgot.
+Christopher Hume: No, you're good. I forget stuff all the time. My brain is like basically a bald putty at this point. I don't think I have anything else for you. I'm stoked that we got three meetings from the at first flow. Like that. That is, like, a super great outcome that, like, so far exceeds the expectations. Do you think this. Oh, go ahead.
+Jon Baer: Go ahead. Not. Sorry, I didn't mean to cut. I A lot of the times when I'm first starting to put people through flow, like I like to go check out like their website because I like to kind of like what they do a little bit. And then a lot of times they go to the contact page takes a little bit more, but like, you'll have, like, about the providers, right? And they'll have some things, right? So sometimes I think, like, what we should do, and I even overlook this, especially on the first email. Like, they'll say, like, like to go hiking or whatever. Like, we should really get a little personal, like in there sometimes. But I've also noticed as well is like, a lot of the times the emails will go through right on the person, but the people are actually nowhere on, like, the. The list of, like, our team or anything like that. So I'm like, I'm a little bit confused. Maybe the website.
+Christopher Hume: The emails go through, they'll go through.
+Jon Baer: But, like, a lot of the times, too, I'll notice that, like, the person that I'm sending it to, they're not even on, like, our team. And I literally have, like, everybody on the team from admin, like, everything up.
+Christopher Hume: This is something I want you to be aware of. And I'm actually. Really happy that emails are going through. Like I can not figure out what is going on here. IQC'd almost all the people I sent you, so I found their LinkedIn's I thought and then I noticed the same thing that they would have that they wouldn't be on these clinic websites, but they'd be on LinkedIn. They'd be marked as working at the clinic. I'm like, okay, this is just because. Clinical facilities are bad at keeping their website up to date. Or do they. Do they not take LinkedIn seriously? And they haven't worked there for 10 years, like, I don't know. So it's a really good insight and something I just want you to track, like if. Yeah.
+Jon Baer: I noticed it a bunch of On. On the other list. You know, I'm just like, you know, and it's like on the first.
+Christopher Hume: On the first list I gave you.
+Jon Baer: Yeah, yeah, on the first list.
+Jon Baer: Really glue of them. And I was like. And it's not, you know, there was like, you know, clinicians. It was in those other clinicians on there. You know what I mean? So it's like I would just. And the email would, like, go through and stuff. So I just wasn't sure if, like, maybe they just didn't update the website, but there was a lot of them and I was like a little bit confused because no dude was going through. Even the numbers, like, were, like, right. They just, you know, weren't there. But everybody else, you know, there'd be, like 14, you know, therapists and everything, and it would just be like, where the hell is this guy?
+Christopher Hume: Dude, I was having the same freak out, like. Shit if I give John a bunch of this. So the numbers I gave you for this newest tranche. Are you comfortable with me? Just, like, telling. Like, do you think they're high quality or do you not have a read yet?
+Jon Baer: I mean, like I said, like, out of the 92 or something, that. That's in there, like 23 I haven't done anything with, because there's. Right. So that, what, that chops it down?
+Christopher Hume: 69. 69, yeah.
+Jon Baer: There was. I mean, I didn't, you know, one to three bounces as far as emails, so they don't really go anywhere, and then the rest of. You know, there was a few that were wrong number. Like they, you know, the voicemail is different than the person. You know what I mean? Or it was, you know, it just busy signal or just this number is not valid. Not many. Not many of them. But again, you know, like, we're. We're only looking at, like.
+Christopher Hume: No, no, no, but I'm just looking like. So, like, it was probably about. Not more than 10% of the contacts were screwed up.
+Jon Baer: That you put in the flow.
+Christopher Hume: And then you. You spoke with one person, you said, I suppose.
+Jon Baer: Yeah, I spoke with that. That one, that one person, and then moderately, another one or two. But they were from the previous flow, they weren't from the new one. We'll see, you know what happens. The only other thing with HubSpot too is I don't know where that. Remember I used to be able to see who and everything, it's just gone. And it's kind of annoying because, like, I want to know if they click the book, a meeting or. The.
+Jon Baer: You know, and. And it's. It was. It's. It was just easy for me to see, and
+Christopher Hume: it was like, I'm going to see.
+Jon Baer: So exciting. Yeah.
+Christopher Hume: This guy clicked like, five times.
+Jon Baer: It's different than when you see the little town.
+Christopher Hume: I think, John, what I want to do is can you. Do you have time if I give you a list of those? How many people? 23 who are numbers only. Could you burn through those? I call them three or four times this week. Because I want to see if we get any connections there. I just want to get, like, year five, like, even if you connected two or three people, I just want, like, an indication, like, yeah, these are good conversations. If you get me more of them, I'm going to be able to sell. And then I'll just have our growth engineer just get us a thousand or fifteen. Hundred leads with this process, and I'll load them up for you and Jack.
+Jon Baer: Wait, hold on. It let me go over to the enrollment sequence. I was like, wait, this is going to work? Then it says no, no email address. And honestly, I'm also happy to. Put in my email for all of them. And then just put them in my call only list.
+Christopher Hume: Yeah, so that is the other option we have here. I just feel like alaware allows you to burn through the calling so fast that, like, there's no need to junk up another inbox or just have you go through the pain of having to send the email. Or skip it. Okay? I'll get you that list, John. And then, yeah, we'll work on getting you as long as we don't get any red flags from. We'll work on getting you just a few hundred leads at least next week to just start really churning on this.
+Jon Baer: Cool.
+Christopher Hume: Awesome. Anything else for me? Anything I can help with?
+Jon Baer: Nope.
+Christopher Hume: If you were in the Insight, The inside sweatsheet today.
+Jon Baer: Oh, yeah.
+Christopher Hume: So Nate is pitching to them in four minutes. Do you know them? You're down in. You're visiting with them.
+Jon Baer: Yeah, yeah, yeah. That's part of, like, I do the admissions and everything for them.
+Christopher Hume: Yeah, yeah. Oh, awesome. Okay.
+Jon Baer: Yeah. So I had hooked up Vicki, who's like N.P. she's heard a lot of good things with jots. Like, she uses a different scribe or something like that.
+Christopher Hume: Okay.
+Christopher Hume: Wait, is this the one? That you're a part owner in?
+Jon Baer: Yeah.
+Christopher Hume: Oh, my God.
+Jon Baer: Okay, awesome. But Steve does all that stuff. So I was like, Steve. I was like, this is interesting, you know, because on our end, right, billing is siloed, right? A lot of these places, like Sounders Operations, right? They just trust whoever, whether that's a third party or they're billing like. What they're saying, you know what I mean? And that's kind of. You have to go off of. And that's a huge thing, right? It's so fast, and you just trust it and, like. But we never actually know. I never actually know, you know?
+Christopher Hume: That's unreal.
+Jon Baer: So it can be massive, you know, especially in places like US Mental health, substance use, right? For owners, operations, right? To, like, be able to, like, see into that world a little bit and push our billers on the. You know what I mean? The right thing. It can be a really, really unique tool, I think, especially for group practices and, you know, everything like that, so.
+Christopher Hume: Yeah. No, I mean on your end. You know how to sell it. You know how to sell it. You've got the pitch, so I'm glad. Yeah, that's awesome. I'll make sure Nate knows before he jumps in there. Jonathan, do you think this reaches. Let me know. And then. Otherwise we'll chat. Yeah, I need to still adjust the meeting time on Friday so you can attend. But if I don't get to adjust that, we'll talk next week. Okay, Cool. Awesome. Thanks, John. Appreciate all your work.

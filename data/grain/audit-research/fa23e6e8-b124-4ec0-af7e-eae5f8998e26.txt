@@ -1,0 +1,106 @@
+Christopher Hume: Okay.
+Christopher Hume: So how's it been going?
+Gioia Garden: Good.
+Christopher Hume: Awesome. Ryan, how did you. Let's have a little fun before we do the. The joy of reviewing front. How did you like our support call?
+Ryan McAnelly: Oh, it was. It was good. And I think it, you know, just seeing her technical difficulties in the. Easy walk through to get.
+Christopher Hume: That was actually pretty legendarily timed right, as you said. Technical difficulties. We lost you.
+Ryan McAnelly: That's. Yeah, I had technical difficulties. No, I. I thought it was. I thought it was a great call. And, like, being able to see that, you know, these folks have technical difficulties too, and they're. They're just humans like everybody else, and being able to walk them through really just makes, you know, the understanding of the product so much better.
+Christopher Hume: Yeah, it's. Yeah, no, it was. I thought that was a pretty good call. I'm glad we were able to. Things I think I did probably well, there was that I kind of pushed her to share her screen. I think that would have been super challenging. I almost didn't do it. So I'm glad I ended up pushing her to share a screen so I could walk her through. And then just as we have these additional features that we roll out, always have your ears peeled for an upsell opportunity. She mentioned she had a small private practice, Joya. So I asked her if she needed any support with billing or E Prescription or if she'd like to learn more. She said yes, and we were able to book her a meeting, like, on the line with the engineers to turn on her E Prescription. So we'll see if that actually happens. But that was probably a pretty valuable meeting because e prescription is 69amonth, so makes a difference.
+Gioia Garden: Nice.
+Christopher Hume: Okay, so let's go through front. Ryan, did you have the same issues as Joya accessing the admin panel?
+Ryan McAnelly: Not that I know of, so probably yes.
+Christopher Hume: Okay, so, Joya, just so you know, I just got heard back from Jackson. He said if you log out and log back in, it should fix it.
+Gioia Garden: Which I did that. And I even tried that. Even tried different browsers, and I. I logged out of my other account just in case. I was like, yeah, but I can try it again now in case that was, like, there was something else that he did on the back end.
+Christopher Hume: No, no, we'll just go. We'll go back. We'll figure it out.
+Gioia Garden: Okay.
+Christopher Hume: Okay, cool. So let's see what's going on here. Okay, so. Hi, Maria. We'll find it. So she's missing. Oh, my goodness. I did again. I put wrong note under wrong patient. I went to where I hit X next to name Asked if I'm sure but then I went directly to search for.
+Christopher Hume: Oh my goodness.
+Gioia Garden: You want to share your screen?
+Christopher Hume: Oh, my God. I'm so sorry, guys. This is like, I'm worse than our customers with issues on these calls, so I appreciate your patience.
+Gioia Garden: Okay.
+Christopher Hume: Okay. Margaret Kaplan, pinned by. So we have these. Justin Patent Food AI. You need to be invited.
+Gioia Garden: Did I do that correctly? It said, like, reply via email, so I clicked that and.
+Christopher Hume: Interesting. How did. How did you do that?
+Gioia Garden: So I just clicked. If you want, I can share my screen if that's easier. Because I can. I can see them.
+Christopher Hume: Okay. Yeah. Do you want to do that? I don't know why it's. Yeah. Can you walk me through Joy?
+Gioia Garden: Yeah, yeah, yeah, yeah, yeah. Front share. Okay. So.
+Christopher Hume: Oh, my God. What?
+Christopher Hume: That's so interesting that it didn't share your draft with me. Yeah, let's. Let's review them.
+Gioia Garden: So wait, did this come up? Did I. You just.
+Christopher Hume: Could you.
+Gioia Garden: Yeah, let's just show it to me.
+Christopher Hume: I'll be able to access it afterward and send it. Okay.
+Gioia Garden: I can't share this.
+Christopher Hume: Needs are helpful. Please feel free to go to Town Academy for payment. Demo preferences increase. Perfect. I'll. I'll review this and send it and add the links and stuff. But the only, like, small tweak I would have here is you might want to specifically, like, if you know something about her, like, specifically link as as opposed to saying, customize job sites. Say, like, customize your templates to this and we can set whatever. But this is great. Let's go look at some of the other ones.
+Gioia Garden: Okay. In reality, I probably would have asked you about the two free weeks, and I would have checked to see, like, what her history is with JOT site, but.
+Christopher Hume: Yeah.
+Christopher Hume: Yeah, and I'll. I'll do that since I have all the access and we're stuck in this little purgatory right now.
+Gioia Garden: Yeah. Okay. And then let's see. Share this. Can you see that?
+Christopher Hume: Yep. Coming through. Hi. Maria will find it first. Let's see if you can find it in your list of notes in your documentation tab. Notes. All notes you would see on this base recording. Please see below for reference. Yeah, Great. And then I would say if this didn't work, please press on it.
+Gioia Garden: Yeah. So that's the word. Please send me. Yeah.
+Christopher Hume: Great. All right, let's hit the next one.
+Gioia Garden: Okay. Next one. I. Let's see. These were just deletes. Yep.
+Christopher Hume: Delete, delete, delete, delete.
+Gioia Garden: This one. I actually. So I see that Nate is also on this.
+Christopher Hume: Could you click on Nate?
+Gioia Garden: Please click on him.
+Christopher Hume: Oh, support at Jod for some reason some people have Nate saved as. Support, like our email address. So when they reach out to us, it says they're reaching out to Nate.
+Christopher Hume: But even if they were reaching out to Nate, unless it's super specific, we just jump in and handle it, because his inbox is a nightmare.
+Christopher Hume: It is stuck in a loop. All right, let me take over and we can see what's going on here.
+Gioia Garden: Okay, so would this be one that I just sort of, like, add an internal comment, like, at Chris.
+Christopher Hume: So what I would ask you to do, and you should have been able to do today, but fortunately need to sort out what's going on there, is you go to the admin side of things. You go to the admin side of things, and you go Stacy. Okay. Stanbourne Nurse Stacy, her organization.
+Christopher Hume: This is where billing information is. All right, so she's active. I. So then you guys aren't going to be able to go in Stripe. We're starting to lock down Stripe access. The engineers knew I was in here, I'd be in trouble. But we can look directly at Stripe. She's been. She doesn't have two subscriptions. So what do you guys think is going on here?
+Gioia Garden: My first thought was that it was a Stripe issue. I don't know.
+Christopher Hume: Ryan, do you have any thoughts?
+Ryan McAnelly: Yeah, I have no idea.
+Christopher Hume: My initial thought is maybe she has two accounts because people are. Yeah.
+Ryan McAnelly: Oh, separate email.
+Christopher Hume: Oh, no, that'd be far too easy. Unfortunately, it is the same email. Oh, my God. It is the same email. She has two accounts associated with it.
+Gioia Garden: Okay.
+Christopher Hume: But one, she used Google authentication to log in. So you see the Google here.
+Christopher Hume: And the other, she logged in with a password because there's no Google here. So I would guess she paid for Stacy. She logged in, paid for Stacy, logged out, was like, okay, sign in with Google.
+Gioia Garden: Yeah.
+Christopher Hume: And then. So let's see. Hopefully she didn't pay here. This one's canceled, so she probably keeps going in to pay here. That really sucks. So that's what's going on here. We see a teller. Hey, like, make sure you're logging with a password. It looks like you have two accounts. One is active, one is not. Rest assured you haven't been charged twice. So I'll take care of that. But that's, like, a tricky one. Like, classic, though. People end up with two accounts.
+Gioia Garden: So the OAuth is when she's like, logging in with a password.
+Christopher Hume: Oauth is our authentication provider.
+Gioia Garden: Okay.
+Ryan McAnelly: If we see that again, what do we need to do to resolve?
+Christopher Hume: You would just be like, hey, Stacy, could you try. Could you make sure you're logging in with a password and not pushing the sign in with Google button? If that doesn't work, let me know. Or just grab tab on my calendar and then you triage it live. That is almost certainly never want to assume user error because that puts you in a bad spot because there's just weird bugs sometimes. But I'm pretty confident that that's user error.
+Christopher Hume: Okay, I would never say that. But if. If telling her to sign in with a password doesn't work, you just want to get her on the phone and just walk her through it.
+Ryan McAnelly: Okay.
+Gioia Garden: Okay.
+Christopher Hume: Okay. All right. Nope, not interested. Makes me feel successful, though, to get rid of these. Let's go. Archive. Archive.
+Gioia Garden: That was the Stacy one. And then. And then Jasmine sent three messages in a row. So can you see pinned?
+Christopher Hume: I cannot see pinned. Let me see. I wonder, is it dress? I should be able to see everything. I'm an admin. But do you want to share your screen?
+Christopher Hume: Yeah, yeah, you're good.
+Gioia Garden: Okay, let's see. Jasmine. Let me just find it. Share. Oh, yeah, share this tab. Okay. Can you see it?
+Christopher Hume: So you can actually not edit a transcript.
+Gioia Garden: Okay, that's what I was wondering, because I was playing around with a transcript of mine. I could not edit it. And then I saw, like, she. If you go into her message, she gets an AI a bot prompt that's like, you can edit transcripts in jot. Psych. And so I kind of just like, yeah, well, that's super bad.
+Christopher Hume: And we're going to get that resolved. But, yeah, we could. That's crazy. Are you serious?
+Gioia Garden: I think it's like, in her second message she sent. Look at one of the responses she got.
+Christopher Hume: Oh, that's so. Yeah, this is just wrong.
+Ryan McAnelly: Okay.
+Christopher Hume: Okay, cool. Thank you, Joy. I will review everything and send it out this afternoon. But good work. As I said, probably the only suggestion here would be. Maybe just try. And when you're trying to reel someone in, just be a little bit more specific. But this is great. We check assigned stuff. Oh, my goodness. Bola, my nemesis. I'm sorry, you can't see my screen. I'm doing it again. Bola is asking for a discount. Discounts go through when someone pays. Well, went through Manuela this morning. And I think everything else here we can handle. I can handle later. Okay, 15 minutes. So we've gotten better. We've. We're chugging along. Any questions or anything we've gone over so far today or that responsibilities you guys have had today where you're like, oh, we need to talk about this some more. I'm still a little confused.
+Gioia Garden: No, not right now.
+Christopher Hume: Okay. Right.
+Ryan McAnelly: Not. Not at this time.
+Christopher Hume: Okay, so let me check both your calendar. Joya. Ryan. Okay, it. Look. Oh, wait. So, Joy, it looks like you're busy at 11 Eastern on Friday, but, Ryan, maybe you have some time. Would you be kind of want to. I have an 11 o' clock customer support meeting. Do you want to run the show and I'll shadow you and jump in if anything goes wrong?
+Ryan McAnelly: Sure.
+Gioia Garden: Awesome.
+Ryan McAnelly: Trial by fire. Let's go.
+Christopher Hume: Trial by fire. Okay, so let me know if that comes through. Okay. And Joya, does that afternoon time work for you? Our meeting in 15 minutes.
+Gioia Garden: Yeah, the one with Adam on it, too.
+Christopher Hume: Yeah, it's just gonna be you and me.
+Gioia Garden: Oh, yeah, yeah, yeah, it is.
+Christopher Hume: So right now, customer support calls get triaged to either me, Adam, or Becca. Becca's out on vacation in the Keys, Very jealous. And then I have taken. I've told Adam if he gets any booked on his calendar, just to forward him to me so the three of us can kind of do them and get all the reps up. So lucky for us, we're handling all the customer support for the entire company, which is kind of crazy when you think about it. We're like a. 2 million annual revenue company and the three amigos right here are doing all customer support for two weeks. So. And you guys have are only on day three. So great work so far.
+Gioia Garden: Do you know what that meeting, like, what the issue is for that meeting
+Christopher Hume: for this afternoon or for this afternoon?
+Christopher Hume: It's they need help developing a custom section. So it's actually very similar to what I did with Ryan this morning. People just like, sometimes need a little bit of hand holding to customize their templates. I think this is something I'd really appreciate you guys paying close attention to because in the future there might be value in having you guys develop custom templates for people and adding them to their accounts. And we charge like a small fee for. Might be a good way to make people engage with the software more. So if you kind of have some. Hopefully over the next few days, we're going to cut down on trading time and do more execution time for you guys. But if you're kind of looking for something to do and you're still going to be under that 20 hour threshold for the week, definitely recommend playing around with the template builder.
+Gioia Garden: Cool.
+Ryan McAnelly: Okay.
+Christopher Hume: Yes, I can support with.
+Ryan McAnelly: No, thank you.
+Christopher Hume: It's ready to rock. Ryan, I'll talk to you in the morning. Enjoy. I'll talk to you in 12 minutes.
+Gioia Garden: Sounds good. All right, see you guys.
+Christopher Hume: Bye, Ryan.
+Gioia Garden: See you.

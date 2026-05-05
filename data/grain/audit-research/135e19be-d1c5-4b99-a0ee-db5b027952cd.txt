@@ -1,0 +1,203 @@
+Christopher Hume: There. We do. Have. We're about to have an EHR chrome extension, which we'll copy and paste it into the EHR for Eugenie. So instead of however many clicks it took you, it's a one click. That would kind of make it easier. We can see how. Rolled out to you. We've been starting to roll it out to some Beta customers.
+So chat tap2chat: Okay. And then at the beginning, when we do the intake, when the sign all the stupid paperwork, we're going to have to add your paperwork because I don't want to stop and like. All right, let me. Do you want to do. Is it okay if I record. Here's the form. Can you fill so. Where was that document?
+Christopher Hume: So I emailed it to you, I think, yesterday. It's just a link to our document and it's just a recommendation and what some of our customers use. Some of the other customers just add a line to their intake forms.
+So chat tap2chat: This was a very important piece. I'm surprised you guys didn't say something to me from the beginning. That we can't ignore the legal aspects of privacy and getting permission. I don't think you or your Nate talked about. Nathan talked about it. Just for your future, people you work with. That's super. So that makes me realize you're not a clinician, because clinicians always have to think in terms of that kind of stuff. HIPAA privacy, blah blah blah blah blah. And I was thinking about it when the patient mentioned it to me. I was like, wow, we didn't even have a conversation about it at all once. So don't forget to talk about it with other people.
+So chat tap2chat: No, definitely not, because it's super important. I got to tell you he works for Northwell, which is a very large, you probably know, so largest healthcare concern. And he works for the HR department, and I was really embarrassed.
+Christopher Hume: Sorry about that, Denise. That must have. Yeah, we typically in our intro overview deck, we have our HIPAA and consent slide, which is our opportunity to talk through this. And somewhere in the shuffle between, kind of first meeting with Nate, second meeting with me, we must have not gone through the entire deck. But that was a handoff. Issue.
+So chat tap2chat: That needs to be hammered home. We can get in trouble for that. But other than that. I still don't know how. To.
+Christopher Hume: You saying you're having issues with your Safari browser?
+So chat tap2chat: Yeah, I'm having issues. That was another thing. I like Safari because it's easier. Because Safari is Mac. Sorry, Apple. So when I go use Chrome, my passwords aren't in there, so I have to. I'm not able to maneuver around. When I go into Chrome, I don't have passwords. I got to go and resign into things. Got to try to find the password. It's a pain. But it is what it is. When I was doing safari, what happened was they heard echoing.
+Christopher Hume: Interesting. Were you using headphones?
+So chat tap2chat: Who's using headphones?
+Christopher Hume: I was asking, were you using headphones during the session?
+So chat tap2chat: No, they were hearing. They were hearing feedback.
+Christopher Hume: Okay? And so I saw you were able to generate at least one node. What did you do to.
+So chat tap2chat: Wait, was I able to.
+Christopher Hume: I saw you had. It looked like you had a note on your account.
+So chat tap2chat: Okay, good. So what happened? So help me let me go try to find I didn't know how to put. The note and then transfer it to. My weak area.
+Christopher Hume: Okay, no.
+So chat tap2chat: Let me sign in. I hate. I'm old now, so it's hard for me to navigate. Okay, continue as. Wait, what? Why is it doing this? Are you sure you want to leave this page? I don't want to leave the page, I guess. Signing in. It's just going around. Are you there?
+Christopher Hume: I'm here.
+So chat tap2chat: Yeah. It's going round and round and round. I don't know why it says session expired. But then it's trying to log in.
+Christopher Hume: Did you share your screen with me, Denise?
+So chat tap2chat: Okay, fine. Share screen. Allow window or screen.
+Christopher Hume: View, I think probably easiest.
+So chat tap2chat: Does that work? Share entire screen. There we go.
+Christopher Hume: There we go. Okay. And then could you click on Psych, the job site tab? We can see what's going on here.
+So chat tap2chat: Login. Can you see my screen?
+Christopher Hume: Yes, I see your screen.
+So chat tap2chat: Okay, continue. Should I click this? Continue. But then it pops up. Leave page.
+Christopher Hume: I would just say leave page. Yes. Documentation. And go notes. And there's your first note. From last week.
+So chat tap2chat: Okay? So what do I do? Click the note or click Reviewing.
+Christopher Hume: I'll click the note.
+So chat tap2chat: Okay, click the note.
+Christopher Hume: And so the reason it says reviewing is you don't need to sign your notes in job site because you still have an ehr, but if you signed it, it would then say signed note.
+So chat tap2chat: Okay? Okay, so I don't need so I don't need to click that, but I'm going to look at it anyway. Oh, I see. This is too much now. So now what do I do? How do I get it into the ehr?
+Christopher Hume: Yep. I'm sorry, Denise. Off the top of my head. What? You sure do.
+So chat tap2chat: Was there a nest. Now it's Colin Sora nest. Fair enough. I don't know. Yeah. Theranos.
+Christopher Hume: It's in sore. That's right. So if you just go to maybe the tab next to jot Psych where it says calendly group thing. If you click on just another tab. We can open up your ehr.
+Christopher Hume: Then go to your.
+So chat tap2chat: Go back to the note.
+Christopher Hume: Well, I would first go to wherever you need to put your note in Thera Nest.
+So chat tap2chat: Okay, let me see if. He's updated. Let me see. When was that? Was that February? It was in February. I may have written a note already. I may have written a note on top. Run. Report. Let me see. I wrote it already. Well, it doesn't help.
+Christopher Hume: Well, I can show you how you would get it here. So if you. Want. I'm actually not familiar with theranist. I don't know where you would input the note. Would you press add progress note?
+So chat tap2chat: I would go to. Let's go to the patient's name. What's this guy's name? Jason. Jason. JSON. J a o no. This is very hard to do it this way. Jas o n space s t h. This platform is awful. It has so. Many.
+Christopher Hume: Traffic is not a lot of. The ehrs are just crazy. There's no just.
+So chat tap2chat: Okay, so I did sign the note I just copied from before.
+So chat tap2chat: Okay, but actually. Actually, what I can do. I can remove all signatures. I can delete it. I think. Or we could put it on top of this one.
+Christopher Hume: Yeah. And just let me go here. Denise. I know. We actually developed. I developed a custom note for you that matched your format a little better.
+So chat tap2chat: Okay?
+Christopher Hume: Let's see. Where would you paste it in? Or where would you add?
+So chat tap2chat: Right down here.
+Christopher Hume: Here's a note.
+So chat tap2chat: Patient session. Session. Focus Ongoing treatment.
+Christopher Hume: Perfect. So could you go back to the job site? Note. And then you see where you selected soap. In the top left, it says soap, parentheses, therapy. Yep. Right there. Could you click? Iga integrated health custom template. And this is going to put it in the sections that you use for nest. Where. Where in the world are you today? Switzerland, Curacao or New York?
+So chat tap2chat: No, I have a house in West Hampton, that's why.
+Christopher Hume: Wonderful. All good places.
+So chat tap2chat: Yeah. Okay, so now what?
+Christopher Hume: So what I would recommend is so we can copy the first section, so push that copy button. Above. Participants attending session. So I would actually go one at a time. For now.
+So chat tap2chat: Do I do this feedback, then?
+Christopher Hume: Oh, you certainly can. If you'd like to provide feedback, you don't have to.
+So chat tap2chat: So section one at a time. Okay? Participate. Okay, good. That looks good. Medications. Not provide. That's right. I didn't do that. Session. Focus, okay? I mean, you did what I told you to do. So now I have to copy it or. Oh, no.
+Christopher Hume: Yeah, so you just push the button, though. You don't have to, like, click and drag or anything. Do you see where it says copy above? Participants attending session.
+So chat tap2chat: Copy all sections.
+Christopher Hume: I would actually just do the. If you go down a little, go to copy. Yep, yep. And just push that button.
+So chat tap2chat: That's only each section. I got to push it three times, four times.
+Christopher Hume: For now. And you have to go, unfortunately, one section at a time.
+So chat tap2chat: Oh, so forget what I just did, okay? So I got to go one extra time and put it over. This is too much.
+Christopher Hume: Actually agreeing with you, Denise.
+So chat tap2chat: But that's why we're rolling. I might as well just write the note.
+Christopher Hume: That is why we're rolling out the the Chrome extension. So if you open everything up in Chrome, it's a one click. It looks at your job site note and then pastes it over into your EHR for you. We rolled that out to some beta customers, and then we're trying to roll it out.
+So chat tap2chat: If I do copy, and then I go over here. Sorry, I'm jumping all over the place. No. And then edit and I paste it.
+Christopher Hume: Oh, I see.
+So chat tap2chat: It's too much work.
+So chat tap2chat: Tell nate too much.
+Christopher Hume: Oh, trust me, I have.
+So chat tap2chat: I certainly told Native tasting this is too much. No, he needs to collaborate with the major EHR vendors, try to get their list, and then approach those customers. That have existing ehrs that you're collaborating with. Because I'm not going to do this.
+Christopher Hume: And so I can show you. Denise. What? We're rolling out just so you kind of. I know it's easy for me to say, oh, we're going to fix this. We're going to fix this, but we actually are fixing this. So let me share my screen with you.
+So chat tap2chat: Great session. Focus. I'm just still trying to. Figure out this. I mean, it looks good, but it's just too much work. Wait, let me just finish it so I could just.
+Christopher Hume: Absolutely. Of course.
+So chat tap2chat: Copy. Ongoing treatment. Go to the note. I'm going. Treatment. Edit paste. And I get rid of this stuff. Okay? Get rid of this. Okay, so now I'm going to save my note because it's done now. I'm going to save it, assign it. My client canceling today. Good morning. Okay? Okay, so my note is done, basically now.
+So chat tap2chat: Hopefully that wasn't. I mean, what it picks up is good. You know, what it creates is good. You know, from the conversation, what I don't like, you know, it's just the actual. Getting it into the note. For the ehr like that. It's a little bit too many steps. I. You know, you're motivating me to look at. I keep wanting to call it nimble. Probably a better name, Nudge. And I'm going to look at Nudge and see, because I think they have a collaboration in some way, shape or form with Theranos or Ansora.
+Christopher Hume: Well, just so you know, sort of what we're about to roll out. Denise, can you see my screen?
+So chat tap2chat: Let me go back to yours. Okay, I'm there. Wait. How many of me is there? Should I stop sharing screens?
+Christopher Hume: You can stop sharing your screen. I just wanted to make sure we'd be able to get your note into your ehr.
+So chat tap2chat: Okay. I'm not sure if I remember how I did it, but. Just go. Let's leave it like this for a while. How much time do we have left?
+Christopher Hume: We're a little over, but I have tied a few more minutes. If you have a. But there. There's no rush from my end. I'm just not sure if you have other. Other commitments.
+So chat tap2chat: No, I'm good till, like, 11:30.
+Christopher Hume: Okay? Perfect.
+So chat tap2chat: Okay, go back to screen. Okay.
+Christopher Hume: Yeah. So can you see my screen?
+So chat tap2chat: Yes.
+Christopher Hume: Unfortunately, I don't have a Theronist account, so I can't do the demo live. But I want to show you is in google chrome we have our ehr extension. And so. This transfers the notes directly into the ehr. So what you do? Is you push it up here. Pops up. You select the note for your patient. Like, oh, I just had a tms example. I said, a tms session with bruce cahill. Push it. And then you push this launch button and it does all the copy pasting for you. So instead of going back and forth really is you just have your session, you go to your ehr, you push this. Select the note. And you send it over.
+So chat tap2chat: Can you just do that again? Because I was texting other openings this week. My adhd gets in the way.
+Christopher Hume: No. No worries.
+So chat tap2chat: Okay. All right. So do that again. So now you're imagine.
+Christopher Hume: If you imagine this is Thera Nest, I don't have a Theronist account.
+So chat tap2chat: What you can do.
+Christopher Hume: Is we have our chrome extension, so you select it. It pops up. On the side of your screen.
+So chat tap2chat: You say, hey, how do I do that? Oh, you don't have. You're working on.
+Christopher Hume: This is what we're working on, but we've rolled it out to some beta customers, so we do have customers using it. It just hasn't been rolled out to everyone yet.
+So chat tap2chat: Okay, so at some point when you're. When you're national, you. I can press that chrome extension.
+Christopher Hume: Yes, you push the chrome extension. Then you select the patient and the note. And you just push this launch button and it'll fill it all out for you. So if this is something, Denise, if you're like, hey, I'm really happy. Got. Psych's working well, but, like, this copy paste is, like, a complete deal breaker. We could work something out to just kind of speed this up and give your team access early. If you're kind of happy with how the notes are looking. Oh, my gosh. Can you still see my screen?
+So chat tap2chat: How's it doing that you're presenting?
+Christopher Hume: That's your screen, I think.
+So chat tap2chat: Oh, it is?
+Christopher Hume: Yeah. Denise, if you think that would make this a lot easier and a lot.
+So chat tap2chat: Yeah, but I haven't used it enough. Still. I only had wrote one note, and I feel like I got to go back and try it again.
+Christopher Hume: Okay?
+So chat tap2chat: Yeah.
+Christopher Hume: That seems like a reasonable path ahead for me if you want to try it a few more times. See, I don't think Harry made. Any notes since our last session, so if you could ask him to try it once or twice. And then kind of if everything.
+So chat tap2chat: Harry's got a full time job. He's a student. He's interning with me. I don't feel like he's really invested.
+So chat tap2chat: I'll ask him. But I just want to go back to. Wait, let me go back to Share screen again. Share screen Allow screen to share. Entire screen. Okay, so? So I have a client. And I'm on doxy.
+Christopher Hume: You know something?
+So chat tap2chat: Let's look at doxy. Yeah, they're rolling some things out.
+Christopher Hume: Okay.
+So chat tap2chat: Do you know much about doxy?
+Christopher Hume: I know a lot of our customers use it for their video. Hey, Denise, I think that was a safari thing again. Nice. Can you hear me? Hey, denise.
+So chat tap2chat: Okay. Sorry about that. No worries. All this technology stuff drives me crazy. The patient was somebody else's, but I did the initial and they used my doxy link. They were on there. I needed to tell her that she was on my link by mistake. She needs to find the link for the other provider. So I just left you on there because I just thought it was. What? You wouldn't say anything, but then you start talking. Then I had to get rid of you.
+Christopher Hume: Sorry. I didn't know if she could hear you or not.
+So chat tap2chat: She could hear you or not, but I needed to then just disconnect you right away.
+So chat tap2chat: Because I was just trying to tell her you're on the wrong limb, that's all. No, off all of this kind of stuff. That's what I was trying to do. I was trying to look at doxy because they have a recording feature now. They've been adding things. I'm. Most people use Doxy free. But now I'm on a paid version of doxy because I needed to be able to Doxib was usually one to one only, but sometimes if I work with a kid and then I got to talk to the parent or the parents of divorce and I got people in different locations, I need to be able to add them. So I'm on a paid version.
+Christopher Hume: Denise, can you hear me? It looks like you're talking, but your screen went black. Here anything? There we go.
+So chat tap2chat: I was trying to. See, I'm so slow with this stuff. Can you see this?
+Christopher Hume: Yes. Now I can, Denise.
+So chat tap2chat: Okay, so, see, new recording app. So I'm trying to figure out, is there a way to incorporate your thing, this. Which is what I mostly use if I'm not calling the patient on the phone because I'm not in the office.
+Christopher Hume: So what do you think? I can show you, Denise, kind of how jots works with doxy.
+So chat tap2chat: Oh.
+Christopher Hume: Do you have a way.
+So chat tap2chat: Do you have a way to work with them?
+Christopher Hume: Of course. Yeah. So a lot of our customers use doxy, and I can show you exactly how. Again, I would recommend using Chrome, and I know that's kind of annoying for you. But as safari sometimes when. There's things interacting between tabs. Freaks out. So let me just share my entire screen and we'll pretend. We'll pretend that. My Google Meet is doxy. So what you do is you go, oh, my gosh, I guess. Do you see this pop up, come up? Is that showing up on your side?
+So chat tap2chat: Choose what to share with your next job.
+Christopher Hume: And you can just select this. So for you, it'd be doxy, not Google Chrome.
+So chat tap2chat: But how'd you get to that, by the way?
+Christopher Hume: Yep. So all you do is you should press. I'm sorry. Start recording button. And to be honest, if you're not using headphones, it won't always pop up because sometimes it doesn't need to share between tabs because the audio is coming out loud. But if you're using a headset. Then you say, yep, I'm using a headset. You push start recording and it asks you to select the doxy window.
+So chat tap2chat: I don't typically use headset.
+Christopher Hume: Okay, then it will certainly work with doxy. You just have doxy in one tab, jotsyc in the other. You have your notes. Your chord and at the end. When you have your note. You have the note, and then you'll also. Just doing a bunch of.
+Christopher Hume: Doing a lot of iterations. You'll also have a transcript over here.
+So chat tap2chat: Okay, can I just go back to the note that I wrote? Today successfully transferred.
+So chat tap2chat: So how do I get out of that? Does it go somewhere? How? Do I? Send it somewhere.
+Christopher Hume: You've already put the note into. Your ehr. So you're good to go.
+Christopher Hume: Delete the note or delete the note or if you keep it. Like future encounters with this patient will include context from this note. So if you said something about anxiety this week and next week. He says he's not Asian. Anxious the note can say. Anxiety improved, so some people choose to leave notes in Jack. But if you're like, nope, I have my system of record. I don't need it.
+Christopher Hume: You just push the delete button.
+So chat tap2chat: Okay, so I don't want to delete it. Then just move on to something else.
+Christopher Hume: Yep, exactly.
+So chat tap2chat: Okay, so let me just. See, I'm trying to get to what it is that you just did. How did you get to just click record? I'm just getting frustrated with this. Can you hear me?
+So chat tap2chat: We can hear you. I'm just getting really frustrated with this because every time I go because doxy also has a camera, if I go to doxy, it cuts you off. On Google Meet. It's just like all of. This. I don't have any patience with it. You're losing me. To go. Look, you know what I'm saying. They both have cameras. So why when I go to one, it cuts you off on the other camera.
+Christopher Hume: What do you mean you don't know?
+So chat tap2chat: Why it cuts me off, but it happens. Like, if I have a meeting with my secretaries, I'm on Google Meet. Look at doxy, which opens that camera, it cuts off the Google Meet camera, and then they don't see or hear me anymore, and then I'm going to go back, turn the camera on or whatever. Engineer think? I think. I was trying to go to see where to record. I was trying. Let me just share my camera. Share. Allow screen to open. Okay. I was trying to go to job psych. To figure out where. What you did with the doxy. Where did you. Get.
+Christopher Hume: What you would do.
+So chat tap2chat: Is press resume. Resume.
+Christopher Hume: Recording.
+So chat tap2chat: Recording. But it looks.
+Christopher Hume: Like safari.
+So chat tap2chat: Safari.
+Christopher Hume: Is not access to. Your microphone right now.
+So chat tap2chat: Right now.
+So chat tap2chat: Could you push that little X? Which one?
+Christopher Hume: In the bottom right. See what it says.
+So chat tap2chat: All right, chrome.
+Christopher Hume: I think we have a little bit of more success. More success.
+So chat tap2chat: Let me try. Let me try. But I got to go to. Are you still there?
+So chat tap2chat: I'm still here. He's still here. That's interesting. You're still there. Can you hear me now? Okay, so I didn't have to open up a new window in Chrome for Google Meet. Okay, great. So here I am. And I don't see what I saw before. Let me go into job site. Jot, spike.
+So chat tap2chat: In the real money, real moment. Again. Because I'm in chrome. You see what I'm saying? Like, they lose all my passwords when I go into Chrome. Okay? Record. Oh, yeah, my phone just went on. That's another problem. It's connected. My phone is connected to MacBook Pro. Crazy. Does that. If you.
+Christopher Hume: You can select the other mic, the other microphone.
+So chat tap2chat: You move your cursor down a little bit? The left, the left.
+So chat tap2chat: Where it says.
+Christopher Hume: Just underneath. Starting recording.
+So chat tap2chat: The right hand side of your screen on the right hand side of those that left. Okay. Just start recording. Okay? Is this connected to Doxy? There's audio. It will capture. Capture it. Doesn't need to be formal.
+Christopher Hume: Connection as well as there's audio funny out of your computer.
+So chat tap2chat: You don't hear it, you'll hear it. Okay? All right, let me. Let me try it again.
+Christopher Hume: Okay, okay. Again. If you'd like.
+Christopher Hume: These notes are really good.
+So chat tap2chat: Pasting is. Going.
+Christopher Hume: Deal breaker, breaker that's something we can overcome. We can fast track extension for you guys.
+So chat tap2chat: Okay? I have to. I have to. Have to go over the cost. Yes. Yeah. Do you? Is that something I would talk to. What's his name? Nate or Nathan? He goes, that's something I'd have to talk to Nate about again, right?
+Christopher Hume: Yeah, I can walk you through that.
+So chat tap2chat: I could send you a roll up.
+Christopher Hume: This afternoon.
+Christopher Hume: Price and then the add on feature.
+Christopher Hume: Those include the audit feature you're talking about? There's any interesting billing. And give you a breakdown.
+So chat tap2chat: Give you a breakdown? Somebody on my. My doxy again. You're very popular. What is going on, but nobody's on my calendar.
+So chat tap2chat: People's in your documents. This is what happens when you're a practice manager. All right. So? I don't know. Harry didn't join. No, no. Is this woman here? Wait. Can you hold on a second? Let me. Let me. I got to take you off the screen because of privacy issues, so I have to reconnect.
+Christopher Hume: Give me, like, let me get.
+So chat tap2chat: Do you have five minutes or no?
+Christopher Hume: Yeah, I need to jump to 11:30.
+So chat tap2chat: Why don't we just schedule something then?
+Christopher Hume: Let's see.
+So chat tap2chat: Does anytime a Friday work Friday? Work or Wednesday. My calendar. Pretty packs here. Is nothing here. Next week.
+Christopher Hume: Would you like to.
+So chat tap2chat: Tuesday, maybe next week. Yeah.
+Christopher Hume: Tuesday is 10:30.
+So chat tap2chat: Yeah. Yep. Listen, let's do 1045 because he's. This woman I have is. She's long winded and she don't want to get off the phone. And it's serious. Let me just move her to 1045. She talks a lot. Okay, so how about 1045-1130?
+Christopher Hume: Is that possible?
+So chat tap2chat: Because that's the seven. Oh, is that St. Patrick's Day? Shot. My son is going, my younger son now, my oldest son is going to friggin Chicago to look at the Green River. Hopping.
+Christopher Hume: Yeah, yeah.
+So chat tap2chat: Ridiculous. When it's on a Tuesday. Tuesday. Yeah, that is tough. Actually, no. Let me take that back. I think he's going for the weekend. I don't think he's doing on the actual day, no.
+Christopher Hume: That's a little more fun.
+So chat tap2chat: Yeah, it's going on a weekend. All right, so we'll talk.
+So chat tap2chat: I have supervision with Harry tomorrow. Ask him to join us on Tuesday and ask him to try to do a recording. I think that somebody else joined with me. But anyway, thank you so much for your time. You take good care, okay?
+Christopher Hume: Thanks, Denise.
+So chat tap2chat: Thanks, Denise. All right, take care.
+Christopher Hume: Great week.
+So chat tap2chat: Okay, bye.

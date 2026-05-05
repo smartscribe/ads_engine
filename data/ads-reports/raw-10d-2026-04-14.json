@@ -1,0 +1,4410 @@
+[
+  {
+    "ad_id": "120227423454390548",
+    "ad_name": "April - This Could Be your Note - Unbounce 1",
+    "adset_id": "120227423454380548",
+    "adset_name": "Scale: April - This Could be Your Note - Unbounce",
+    "campaign_id": "120227423005410548",
+    "campaign_name": "Scale",
+    "spend": "81.4",
+    "impressions": "2607",
+    "reach": "1637",
+    "clicks": "58",
+    "ctr": "2.224779",
+    "cpc": "1.403448",
+    "cpm": "31.223629",
+    "frequency": "1.592547",
+    "actions": [
+      {
+        "action_type": "link_click",
+        "value": "53"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "56"
+      },
+      {
+        "action_type": "landing_page_view",
+        "value": "2"
+      },
+      {
+        "action_type": "omni_landing_page_view",
+        "value": "2"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "56"
+      },
+      {
+        "action_type": "post_interaction_gross",
+        "value": "1"
+      },
+      {
+        "action_type": "post_interaction_net",
+        "value": "1"
+      },
+      {
+        "action_type": "onsite_conversion.post_net_like",
+        "value": "1"
+      },
+      {
+        "action_type": "video_view",
+        "value": "2"
+      },
+      {
+        "action_type": "post_reaction",
+        "value": "1"
+      }
+    ],
+    "cost_per_action_type": [
+      {
+        "action_type": "video_view",
+        "value": "40.7"
+      },
+      {
+        "action_type": "link_click",
+        "value": "1.535849"
+      },
+      {
+        "action_type": "post_interaction_gross",
+        "value": "81.4"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "1.453571"
+      },
+      {
+        "action_type": "landing_page_view",
+        "value": "40.7"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "1.453571"
+      },
+      {
+        "action_type": "omni_landing_page_view",
+        "value": "40.7"
+      }
+    ],
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120227423541000548",
+    "ad_name": "AI for Progress Notes",
+    "adset_id": "120227423541010548",
+    "adset_name": "Scale: AI For Progress Notes",
+    "campaign_id": "120227423005410548",
+    "campaign_name": "Scale",
+    "spend": "71.21",
+    "impressions": "3863",
+    "reach": "1956",
+    "clicks": "65",
+    "ctr": "1.68263",
+    "cpc": "1.095538",
+    "cpm": "18.43386",
+    "frequency": "1.974949",
+    "actions": [
+      {
+        "action_type": "link_click",
+        "value": "59"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "70"
+      },
+      {
+        "action_type": "landing_page_view",
+        "value": "9"
+      },
+      {
+        "action_type": "omni_landing_page_view",
+        "value": "9"
+      },
+      {
+        "action_type": "onsite_conversion.post_unlike",
+        "value": "1"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "70"
+      },
+      {
+        "action_type": "post_interaction_gross",
+        "value": "5"
+      },
+      {
+        "action_type": "comment",
+        "value": "2"
+      },
+      {
+        "action_type": "post_interaction_net",
+        "value": "6"
+      },
+      {
+        "action_type": "post",
+        "value": "1"
+      },
+      {
+        "action_type": "onsite_conversion.post_net_comment",
+        "value": "2"
+      },
+      {
+        "action_type": "onsite_conversion.post_net_like",
+        "value": "1"
+      },
+      {
+        "action_type": "video_view",
+        "value": "6"
+      },
+      {
+        "action_type": "post_reaction",
+        "value": "2"
+      },
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom",
+        "value": "2"
+      }
+    ],
+    "cost_per_action_type": [
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom",
+        "value": "35.605"
+      },
+      {
+        "action_type": "video_view",
+        "value": "11.868333"
+      },
+      {
+        "action_type": "link_click",
+        "value": "1.206949"
+      },
+      {
+        "action_type": "post_interaction_gross",
+        "value": "14.242"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "1.017286"
+      },
+      {
+        "action_type": "landing_page_view",
+        "value": "7.912222"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "1.017286"
+      },
+      {
+        "action_type": "omni_landing_page_view",
+        "value": "7.912222"
+      }
+    ],
+    "conversions": [
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom.FirstNote",
+        "value": "2"
+      }
+    ],
+    "cost_per_conversion": [
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom.FirstNote",
+        "value": "35.605"
+      }
+    ],
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120227424891170548",
+    "ad_name": "April - Doesn't have to be Stressful - Unbounce",
+    "adset_id": "120227424891180548",
+    "adset_name": "Retargeting: Doesn't have to be stressful",
+    "campaign_id": "120227424656110548",
+    "campaign_name": "Retargeting",
+    "spend": "20.35",
+    "impressions": "904",
+    "reach": "714",
+    "clicks": "6",
+    "ctr": "0.663717",
+    "cpc": "3.391667",
+    "cpm": "22.511062",
+    "frequency": "1.266106",
+    "actions": [
+      {
+        "action_type": "link_click",
+        "value": "3"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "4"
+      },
+      {
+        "action_type": "landing_page_view",
+        "value": "1"
+      },
+      {
+        "action_type": "omni_landing_page_view",
+        "value": "1"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "4"
+      },
+      {
+        "action_type": "video_view",
+        "value": "1"
+      },
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom",
+        "value": "1"
+      }
+    ],
+    "cost_per_action_type": [
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom",
+        "value": "20.35"
+      },
+      {
+        "action_type": "video_view",
+        "value": "20.35"
+      },
+      {
+        "action_type": "link_click",
+        "value": "6.783333"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "5.0875"
+      },
+      {
+        "action_type": "landing_page_view",
+        "value": "20.35"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "5.0875"
+      },
+      {
+        "action_type": "omni_landing_page_view",
+        "value": "20.35"
+      }
+    ],
+    "conversions": [
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom.SignUpConfirm",
+        "value": "1"
+      }
+    ],
+    "cost_per_conversion": [
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom.SignUpConfirm",
+        "value": "20.35"
+      }
+    ],
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120230126720940548",
+    "ad_name": "Scale: Post it Video Version",
+    "adset_id": "120230126720950548",
+    "adset_name": "Scale: Post it Video",
+    "campaign_id": "120227423005410548",
+    "campaign_name": "Scale",
+    "spend": "11.25",
+    "impressions": "335",
+    "reach": "272",
+    "clicks": "12",
+    "ctr": "3.58209",
+    "cpc": "0.9375",
+    "cpm": "33.58209",
+    "frequency": "1.231618",
+    "actions": [
+      {
+        "action_type": "link_click",
+        "value": "7"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "97"
+      },
+      {
+        "action_type": "landing_page_view",
+        "value": "1"
+      },
+      {
+        "action_type": "omni_landing_page_view",
+        "value": "1"
+      },
+      {
+        "action_type": "onsite_conversion.post_unlike",
+        "value": "1"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "97"
+      },
+      {
+        "action_type": "post_interaction_gross",
+        "value": "2"
+      },
+      {
+        "action_type": "post_interaction_net",
+        "value": "3"
+      },
+      {
+        "action_type": "onsite_conversion.post_net_like",
+        "value": "1"
+      },
+      {
+        "action_type": "video_view",
+        "value": "88"
+      },
+      {
+        "action_type": "post_reaction",
+        "value": "2"
+      }
+    ],
+    "cost_per_action_type": [
+      {
+        "action_type": "video_view",
+        "value": "0.127841"
+      },
+      {
+        "action_type": "link_click",
+        "value": "1.607143"
+      },
+      {
+        "action_type": "post_interaction_gross",
+        "value": "5.625"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "0.115979"
+      },
+      {
+        "action_type": "landing_page_view",
+        "value": "11.25"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "0.115979"
+      },
+      {
+        "action_type": "omni_landing_page_view",
+        "value": "11.25"
+      }
+    ],
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120231198269340548",
+    "ad_name": "Scale: AI for Progress Notes Concept 3",
+    "adset_id": "120231198269330548",
+    "adset_name": "Scale: AI for Progress Notes Concept 3",
+    "campaign_id": "120227423005410548",
+    "campaign_name": "Scale",
+    "spend": "3.23",
+    "impressions": "130",
+    "reach": "81",
+    "clicks": "0",
+    "ctr": "0",
+    "cpm": "24.846154",
+    "frequency": "1.604938",
+    "actions": [
+      {
+        "action_type": "page_engagement",
+        "value": "21"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "21"
+      },
+      {
+        "action_type": "video_view",
+        "value": "21"
+      }
+    ],
+    "cost_per_action_type": [
+      {
+        "action_type": "video_view",
+        "value": "0.15381"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "0.15381"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "0.15381"
+      }
+    ],
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120231200631600548",
+    "ad_name": "Retargeting: AI for Progress Notes",
+    "adset_id": "120231200631610548",
+    "adset_name": "Retargeting: AI For Progress Notes",
+    "campaign_id": "120227424656110548",
+    "campaign_name": "Retargeting",
+    "spend": "9.73",
+    "impressions": "301",
+    "reach": "245",
+    "clicks": "4",
+    "ctr": "1.328904",
+    "cpc": "2.4325",
+    "cpm": "32.325581",
+    "frequency": "1.228571",
+    "actions": [
+      {
+        "action_type": "link_click",
+        "value": "1"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "2"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "2"
+      },
+      {
+        "action_type": "video_view",
+        "value": "1"
+      },
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom",
+        "value": "1"
+      }
+    ],
+    "cost_per_action_type": [
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom",
+        "value": "9.73"
+      },
+      {
+        "action_type": "video_view",
+        "value": "9.73"
+      },
+      {
+        "action_type": "link_click",
+        "value": "9.73"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "4.865"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "4.865"
+      }
+    ],
+    "conversions": [
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom.FirstNote",
+        "value": "1"
+      }
+    ],
+    "cost_per_conversion": [
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom.FirstNote",
+        "value": "9.73"
+      }
+    ],
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120231200662470548",
+    "ad_name": "Retargeting: Post it Video Version",
+    "adset_id": "120231200662460548",
+    "adset_name": "Retargeting: Post it Video",
+    "campaign_id": "120227424656110548",
+    "campaign_name": "Retargeting",
+    "spend": "6.13",
+    "impressions": "230",
+    "reach": "166",
+    "clicks": "11",
+    "ctr": "4.782609",
+    "cpc": "0.557273",
+    "cpm": "26.652174",
+    "frequency": "1.385542",
+    "actions": [
+      {
+        "action_type": "link_click",
+        "value": "9"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "65"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "65"
+      },
+      {
+        "action_type": "video_view",
+        "value": "56"
+      }
+    ],
+    "cost_per_action_type": [
+      {
+        "action_type": "video_view",
+        "value": "0.109464"
+      },
+      {
+        "action_type": "link_click",
+        "value": "0.681111"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "0.094308"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "0.094308"
+      }
+    ],
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120242015511680548",
+    "ad_name": "Test: SB Video 1",
+    "adset_id": "120242015511670548",
+    "adset_name": "Test: SB Video 1",
+    "campaign_id": "120227424340250548",
+    "campaign_name": "Test",
+    "spend": "101.06",
+    "impressions": "5975",
+    "reach": "2812",
+    "clicks": "105",
+    "ctr": "1.757322",
+    "cpc": "0.962476",
+    "cpm": "16.913808",
+    "frequency": "2.124822",
+    "actions": [
+      {
+        "action_type": "link_click",
+        "value": "88"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "816"
+      },
+      {
+        "action_type": "landing_page_view",
+        "value": "3"
+      },
+      {
+        "action_type": "omni_landing_page_view",
+        "value": "3"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "816"
+      },
+      {
+        "action_type": "post_interaction_gross",
+        "value": "6"
+      },
+      {
+        "action_type": "post_interaction_net",
+        "value": "6"
+      },
+      {
+        "action_type": "post",
+        "value": "1"
+      },
+      {
+        "action_type": "onsite_conversion.post_net_like",
+        "value": "5"
+      },
+      {
+        "action_type": "video_view",
+        "value": "722"
+      },
+      {
+        "action_type": "post_reaction",
+        "value": "5"
+      },
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom",
+        "value": "7"
+      }
+    ],
+    "cost_per_action_type": [
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom",
+        "value": "14.437143"
+      },
+      {
+        "action_type": "video_view",
+        "value": "0.139972"
+      },
+      {
+        "action_type": "link_click",
+        "value": "1.148409"
+      },
+      {
+        "action_type": "post_interaction_gross",
+        "value": "16.843333"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "0.123848"
+      },
+      {
+        "action_type": "landing_page_view",
+        "value": "33.686667"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "0.123848"
+      },
+      {
+        "action_type": "omni_landing_page_view",
+        "value": "33.686667"
+      }
+    ],
+    "conversions": [
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom.FirstNote",
+        "value": "7"
+      }
+    ],
+    "cost_per_conversion": [
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom.FirstNote",
+        "value": "14.437143"
+      }
+    ],
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120243598136180548",
+    "ad_name": "JOT_AutoOFF_Post It anhedonia_MLC",
+    "adset_id": "120243597017090548",
+    "adset_name": "Q126_LGF Static Ads_ 1PC LAL USA",
+    "campaign_id": "120243596572100548",
+    "campaign_name": "Q126 | MLC STATICS TEST | LEARN MORE | LGF",
+    "spend": "0.02",
+    "impressions": "3",
+    "reach": "3",
+    "clicks": "0",
+    "ctr": "0",
+    "cpm": "6.666667",
+    "frequency": "1",
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120243598253870548",
+    "ad_name": "JOT_AutoOFF_This Could Be Your Note_MLC",
+    "adset_id": "120243597017090548",
+    "adset_name": "Q126_LGF Static Ads_ 1PC LAL USA",
+    "campaign_id": "120243596572100548",
+    "campaign_name": "Q126 | MLC STATICS TEST | LEARN MORE | LGF",
+    "spend": "395.86",
+    "impressions": "8957",
+    "reach": "6249",
+    "clicks": "207",
+    "ctr": "2.311042",
+    "cpc": "1.912367",
+    "cpm": "44.195601",
+    "frequency": "1.433349",
+    "actions": [
+      {
+        "action_type": "onsite_conversion.total_messaging_connection",
+        "value": "6"
+      },
+      {
+        "action_type": "offsite_complete_registration_add_meta_leads",
+        "value": "5"
+      },
+      {
+        "action_type": "link_click",
+        "value": "142"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "170"
+      },
+      {
+        "action_type": "landing_page_view",
+        "value": "1"
+      },
+      {
+        "action_type": "omni_landing_page_view",
+        "value": "1"
+      },
+      {
+        "action_type": "onsite_conversion.post_unlike",
+        "value": "3"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "169"
+      },
+      {
+        "action_type": "like",
+        "value": "1"
+      },
+      {
+        "action_type": "post_interaction_gross",
+        "value": "24"
+      },
+      {
+        "action_type": "post_interaction_net",
+        "value": "27"
+      },
+      {
+        "action_type": "onsite_conversion.messaging_first_reply",
+        "value": "6"
+      },
+      {
+        "action_type": "post",
+        "value": "1"
+      },
+      {
+        "action_type": "onsite_conversion.post_save",
+        "value": "3"
+      },
+      {
+        "action_type": "onsite_conversion.post_net_save",
+        "value": "3"
+      },
+      {
+        "action_type": "offsite_search_add_meta_leads",
+        "value": "5"
+      },
+      {
+        "action_type": "onsite_conversion.post_net_like",
+        "value": "17"
+      },
+      {
+        "action_type": "lead",
+        "value": "5"
+      },
+      {
+        "action_type": "offsite_content_view_add_meta_leads",
+        "value": "5"
+      },
+      {
+        "action_type": "onsite_conversion.messaging_conversation_started_7d",
+        "value": "6"
+      },
+      {
+        "action_type": "onsite_conversion.lead_grouped",
+        "value": "5"
+      },
+      {
+        "action_type": "video_view",
+        "value": "3"
+      },
+      {
+        "action_type": "post_reaction",
+        "value": "20"
+      }
+    ],
+    "cost_per_action_type": [
+      {
+        "action_type": "onsite_conversion.total_messaging_connection",
+        "value": "65.976667"
+      },
+      {
+        "action_type": "offsite_submit_application_add_meta_leads",
+        "value": "79.172"
+      },
+      {
+        "action_type": "offsite_search_add_meta_leads",
+        "value": "79.172"
+      },
+      {
+        "action_type": "offsite_complete_registration_add_meta_leads",
+        "value": "79.172"
+      },
+      {
+        "action_type": "video_view",
+        "value": "131.953333"
+      },
+      {
+        "action_type": "link_click",
+        "value": "2.787746"
+      },
+      {
+        "action_type": "like",
+        "value": "395.86"
+      },
+      {
+        "action_type": "onsite_conversion.lead_grouped",
+        "value": "79.172"
+      },
+      {
+        "action_type": "post_interaction_gross",
+        "value": "16.494167"
+      },
+      {
+        "action_type": "lead",
+        "value": "79.172"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "2.342367"
+      },
+      {
+        "action_type": "offsite_content_view_add_meta_leads",
+        "value": "79.172"
+      },
+      {
+        "action_type": "landing_page_view",
+        "value": "395.86"
+      },
+      {
+        "action_type": "offsite_contact_website_add_meta_leads",
+        "value": "79.172"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "2.328588"
+      },
+      {
+        "action_type": "onsite_conversion.messaging_first_reply",
+        "value": "65.976667"
+      },
+      {
+        "action_type": "omni_landing_page_view",
+        "value": "395.86"
+      },
+      {
+        "action_type": "onsite_conversion.messaging_conversation_started_7d",
+        "value": "65.976667"
+      }
+    ],
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120243598408590548",
+    "ad_name": "JOT_AutoOff_Florence Static_MLC",
+    "adset_id": "120243597017090548",
+    "adset_name": "Q126_LGF Static Ads_ 1PC LAL USA",
+    "campaign_id": "120243596572100548",
+    "campaign_name": "Q126 | MLC STATICS TEST | LEARN MORE | LGF",
+    "spend": "3.4",
+    "impressions": "78",
+    "reach": "71",
+    "clicks": "2",
+    "ctr": "2.564103",
+    "cpc": "1.7",
+    "cpm": "43.589744",
+    "frequency": "1.098592",
+    "actions": [
+      {
+        "action_type": "onsite_conversion.total_messaging_connection",
+        "value": "1"
+      },
+      {
+        "action_type": "offsite_complete_registration_add_meta_leads",
+        "value": "1"
+      },
+      {
+        "action_type": "link_click",
+        "value": "1"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "1"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "1"
+      },
+      {
+        "action_type": "onsite_conversion.messaging_first_reply",
+        "value": "1"
+      },
+      {
+        "action_type": "offsite_search_add_meta_leads",
+        "value": "1"
+      },
+      {
+        "action_type": "lead",
+        "value": "1"
+      },
+      {
+        "action_type": "offsite_content_view_add_meta_leads",
+        "value": "1"
+      },
+      {
+        "action_type": "onsite_conversion.messaging_conversation_started_7d",
+        "value": "1"
+      },
+      {
+        "action_type": "onsite_conversion.lead_grouped",
+        "value": "1"
+      }
+    ],
+    "cost_per_action_type": [
+      {
+        "action_type": "onsite_conversion.total_messaging_connection",
+        "value": "3.4"
+      },
+      {
+        "action_type": "offsite_submit_application_add_meta_leads",
+        "value": "3.4"
+      },
+      {
+        "action_type": "offsite_search_add_meta_leads",
+        "value": "3.4"
+      },
+      {
+        "action_type": "offsite_complete_registration_add_meta_leads",
+        "value": "3.4"
+      },
+      {
+        "action_type": "link_click",
+        "value": "3.4"
+      },
+      {
+        "action_type": "onsite_conversion.lead_grouped",
+        "value": "3.4"
+      },
+      {
+        "action_type": "lead",
+        "value": "3.4"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "3.4"
+      },
+      {
+        "action_type": "offsite_content_view_add_meta_leads",
+        "value": "3.4"
+      },
+      {
+        "action_type": "offsite_contact_website_add_meta_leads",
+        "value": "3.4"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "3.4"
+      },
+      {
+        "action_type": "onsite_conversion.messaging_first_reply",
+        "value": "3.4"
+      },
+      {
+        "action_type": "onsite_conversion.messaging_conversation_started_7d",
+        "value": "3.4"
+      }
+    ],
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120243598534420548",
+    "ad_name": "JOT_AutoOFF_Doesnt have to be stressful_MLC",
+    "adset_id": "120243597017090548",
+    "adset_name": "Q126_LGF Static Ads_ 1PC LAL USA",
+    "campaign_id": "120243596572100548",
+    "campaign_name": "Q126 | MLC STATICS TEST | LEARN MORE | LGF",
+    "spend": "109.78",
+    "impressions": "2081",
+    "reach": "1707",
+    "clicks": "68",
+    "ctr": "3.26766",
+    "cpc": "1.614412",
+    "cpm": "52.753484",
+    "frequency": "1.219098",
+    "actions": [
+      {
+        "action_type": "onsite_conversion.total_messaging_connection",
+        "value": "2"
+      },
+      {
+        "action_type": "offsite_complete_registration_add_meta_leads",
+        "value": "1"
+      },
+      {
+        "action_type": "link_click",
+        "value": "37"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "47"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "46"
+      },
+      {
+        "action_type": "like",
+        "value": "1"
+      },
+      {
+        "action_type": "post_interaction_gross",
+        "value": "9"
+      },
+      {
+        "action_type": "post_interaction_net",
+        "value": "9"
+      },
+      {
+        "action_type": "onsite_conversion.messaging_first_reply",
+        "value": "2"
+      },
+      {
+        "action_type": "onsite_conversion.post_save",
+        "value": "1"
+      },
+      {
+        "action_type": "onsite_conversion.post_net_save",
+        "value": "1"
+      },
+      {
+        "action_type": "offsite_search_add_meta_leads",
+        "value": "1"
+      },
+      {
+        "action_type": "onsite_conversion.post_net_like",
+        "value": "8"
+      },
+      {
+        "action_type": "lead",
+        "value": "1"
+      },
+      {
+        "action_type": "offsite_content_view_add_meta_leads",
+        "value": "1"
+      },
+      {
+        "action_type": "onsite_conversion.messaging_conversation_started_7d",
+        "value": "2"
+      },
+      {
+        "action_type": "onsite_conversion.lead_grouped",
+        "value": "1"
+      },
+      {
+        "action_type": "post_reaction",
+        "value": "8"
+      },
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom",
+        "value": "2"
+      }
+    ],
+    "cost_per_action_type": [
+      {
+        "action_type": "onsite_conversion.total_messaging_connection",
+        "value": "54.89"
+      },
+      {
+        "action_type": "offsite_submit_application_add_meta_leads",
+        "value": "109.78"
+      },
+      {
+        "action_type": "offsite_search_add_meta_leads",
+        "value": "109.78"
+      },
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom",
+        "value": "54.89"
+      },
+      {
+        "action_type": "offsite_complete_registration_add_meta_leads",
+        "value": "109.78"
+      },
+      {
+        "action_type": "link_click",
+        "value": "2.967027"
+      },
+      {
+        "action_type": "like",
+        "value": "109.78"
+      },
+      {
+        "action_type": "onsite_conversion.lead_grouped",
+        "value": "109.78"
+      },
+      {
+        "action_type": "post_interaction_gross",
+        "value": "12.197778"
+      },
+      {
+        "action_type": "lead",
+        "value": "109.78"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "2.386522"
+      },
+      {
+        "action_type": "offsite_content_view_add_meta_leads",
+        "value": "109.78"
+      },
+      {
+        "action_type": "offsite_contact_website_add_meta_leads",
+        "value": "109.78"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "2.335745"
+      },
+      {
+        "action_type": "onsite_conversion.messaging_first_reply",
+        "value": "54.89"
+      },
+      {
+        "action_type": "onsite_conversion.messaging_conversation_started_7d",
+        "value": "54.89"
+      }
+    ],
+    "conversions": [
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom.SignUpConfirm",
+        "value": "2"
+      }
+    ],
+    "cost_per_conversion": [
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom.SignUpConfirm",
+        "value": "54.89"
+      }
+    ],
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120243942222270548",
+    "ad_name": "JOT_AutoOFF_Doesnt have to be stressful_MLC",
+    "adset_id": "120243942222310548",
+    "adset_name": "Q126_LGF Static Ads_ 1PC LAL USA",
+    "campaign_id": "120243942222280548",
+    "campaign_name": "Q126 | MLC UPMARKET STATICS TEST | LEARN MORE | LGF",
+    "spend": "2.29",
+    "impressions": "23",
+    "reach": "23",
+    "clicks": "0",
+    "ctr": "0",
+    "cpm": "99.565217",
+    "frequency": "1",
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120243942222290548",
+    "ad_name": "JOT_AutoOFF_This Could Be Your Note_MLC",
+    "adset_id": "120243942222310548",
+    "adset_name": "Q126_LGF Static Ads_ 1PC LAL USA",
+    "campaign_id": "120243942222280548",
+    "campaign_name": "Q126 | MLC UPMARKET STATICS TEST | LEARN MORE | LGF",
+    "spend": "495.13",
+    "impressions": "10794",
+    "reach": "7670",
+    "clicks": "300",
+    "ctr": "2.779322",
+    "cpc": "1.650433",
+    "cpm": "45.870854",
+    "frequency": "1.407301",
+    "actions": [
+      {
+        "action_type": "onsite_conversion.total_messaging_connection",
+        "value": "9"
+      },
+      {
+        "action_type": "offsite_complete_registration_add_meta_leads",
+        "value": "10"
+      },
+      {
+        "action_type": "link_click",
+        "value": "197"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "235"
+      },
+      {
+        "action_type": "landing_page_view",
+        "value": "2"
+      },
+      {
+        "action_type": "omni_landing_page_view",
+        "value": "2"
+      },
+      {
+        "action_type": "onsite_conversion.post_unlike",
+        "value": "1"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "233"
+      },
+      {
+        "action_type": "like",
+        "value": "2"
+      },
+      {
+        "action_type": "post_interaction_gross",
+        "value": "26"
+      },
+      {
+        "action_type": "comment",
+        "value": "2"
+      },
+      {
+        "action_type": "post_interaction_net",
+        "value": "27"
+      },
+      {
+        "action_type": "onsite_conversion.messaging_first_reply",
+        "value": "9"
+      },
+      {
+        "action_type": "onsite_conversion.post_save",
+        "value": "1"
+      },
+      {
+        "action_type": "onsite_conversion.post_net_comment",
+        "value": "2"
+      },
+      {
+        "action_type": "onsite_conversion.post_net_save",
+        "value": "1"
+      },
+      {
+        "action_type": "offsite_search_add_meta_leads",
+        "value": "10"
+      },
+      {
+        "action_type": "onsite_conversion.post_net_like",
+        "value": "22"
+      },
+      {
+        "action_type": "lead",
+        "value": "10"
+      },
+      {
+        "action_type": "offsite_content_view_add_meta_leads",
+        "value": "10"
+      },
+      {
+        "action_type": "onsite_conversion.messaging_conversation_started_7d",
+        "value": "9"
+      },
+      {
+        "action_type": "onsite_conversion.lead_grouped",
+        "value": "10"
+      },
+      {
+        "action_type": "video_view",
+        "value": "10"
+      },
+      {
+        "action_type": "post_reaction",
+        "value": "23"
+      }
+    ],
+    "cost_per_action_type": [
+      {
+        "action_type": "onsite_conversion.total_messaging_connection",
+        "value": "55.014444"
+      },
+      {
+        "action_type": "offsite_submit_application_add_meta_leads",
+        "value": "49.513"
+      },
+      {
+        "action_type": "offsite_search_add_meta_leads",
+        "value": "49.513"
+      },
+      {
+        "action_type": "offsite_complete_registration_add_meta_leads",
+        "value": "49.513"
+      },
+      {
+        "action_type": "video_view",
+        "value": "49.513"
+      },
+      {
+        "action_type": "link_click",
+        "value": "2.51335"
+      },
+      {
+        "action_type": "like",
+        "value": "247.565"
+      },
+      {
+        "action_type": "onsite_conversion.lead_grouped",
+        "value": "49.513"
+      },
+      {
+        "action_type": "post_interaction_gross",
+        "value": "19.043462"
+      },
+      {
+        "action_type": "lead",
+        "value": "49.513"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "2.125021"
+      },
+      {
+        "action_type": "offsite_content_view_add_meta_leads",
+        "value": "49.513"
+      },
+      {
+        "action_type": "landing_page_view",
+        "value": "247.565"
+      },
+      {
+        "action_type": "offsite_contact_website_add_meta_leads",
+        "value": "49.513"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "2.106936"
+      },
+      {
+        "action_type": "onsite_conversion.messaging_first_reply",
+        "value": "55.014444"
+      },
+      {
+        "action_type": "omni_landing_page_view",
+        "value": "247.565"
+      },
+      {
+        "action_type": "onsite_conversion.messaging_conversation_started_7d",
+        "value": "55.014444"
+      }
+    ],
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120243942222300548",
+    "ad_name": "JOT_AutoOFF_Post It anhedonia_MLC",
+    "adset_id": "120243942222310548",
+    "adset_name": "Q126_LGF Static Ads_ 1PC LAL USA",
+    "campaign_id": "120243942222280548",
+    "campaign_name": "Q126 | MLC UPMARKET STATICS TEST | LEARN MORE | LGF",
+    "spend": "3.07",
+    "impressions": "49",
+    "reach": "46",
+    "clicks": "0",
+    "ctr": "0",
+    "cpm": "62.653061",
+    "frequency": "1.065217",
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120243942222320548",
+    "ad_name": "JOT_AutoOff_Florence Static_MLC",
+    "adset_id": "120243942222310548",
+    "adset_name": "Q126_LGF Static Ads_ 1PC LAL USA",
+    "campaign_id": "120243942222280548",
+    "campaign_name": "Q126 | MLC UPMARKET STATICS TEST | LEARN MORE | LGF",
+    "spend": "5.71",
+    "impressions": "95",
+    "reach": "86",
+    "clicks": "1",
+    "ctr": "1.052632",
+    "cpc": "5.71",
+    "cpm": "60.105263",
+    "frequency": "1.104651",
+    "actions": [
+      {
+        "action_type": "page_engagement",
+        "value": "3"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "3"
+      },
+      {
+        "action_type": "video_view",
+        "value": "3"
+      }
+    ],
+    "cost_per_action_type": [
+      {
+        "action_type": "video_view",
+        "value": "1.903333"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "1.903333"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "1.903333"
+      }
+    ],
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120244737899600548",
+    "ad_name": "AJ: Audit Letter Arrives. You're Ready",
+    "adset_id": "120244737899610548",
+    "adset_name": "Q226 Test",
+    "campaign_id": "120244737899560548",
+    "campaign_name": "Q226 | Test",
+    "spend": "111.83",
+    "impressions": "4856",
+    "reach": "2932",
+    "clicks": "213",
+    "ctr": "4.386326",
+    "cpc": "0.525023",
+    "cpm": "23.029242",
+    "frequency": "1.656207",
+    "actions": [
+      {
+        "action_type": "link_click",
+        "value": "29"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "32"
+      },
+      {
+        "action_type": "landing_page_view",
+        "value": "3"
+      },
+      {
+        "action_type": "omni_landing_page_view",
+        "value": "3"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "31"
+      },
+      {
+        "action_type": "like",
+        "value": "1"
+      },
+      {
+        "action_type": "post_interaction_gross",
+        "value": "2"
+      },
+      {
+        "action_type": "post_interaction_net",
+        "value": "2"
+      },
+      {
+        "action_type": "onsite_conversion.post_net_like",
+        "value": "2"
+      },
+      {
+        "action_type": "post_reaction",
+        "value": "2"
+      }
+    ],
+    "cost_per_action_type": [
+      {
+        "action_type": "link_click",
+        "value": "3.856207"
+      },
+      {
+        "action_type": "like",
+        "value": "111.83"
+      },
+      {
+        "action_type": "post_interaction_gross",
+        "value": "55.915"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "3.607419"
+      },
+      {
+        "action_type": "landing_page_view",
+        "value": "37.276667"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "3.494688"
+      },
+      {
+        "action_type": "omni_landing_page_view",
+        "value": "37.276667"
+      }
+    ],
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120244849817830548",
+    "ad_name": "AJ: Cigna Has Rules. JotPsych Knows Them",
+    "adset_id": "120244737899610548",
+    "adset_name": "Q226 Test",
+    "campaign_id": "120244737899560548",
+    "campaign_name": "Q226 | Test",
+    "spend": "1.61",
+    "impressions": "65",
+    "reach": "53",
+    "clicks": "0",
+    "ctr": "0",
+    "cpm": "24.769231",
+    "frequency": "1.226415",
+    "actions": [
+      {
+        "action_type": "link_click",
+        "value": "2"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "2"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "2"
+      }
+    ],
+    "cost_per_action_type": [
+      {
+        "action_type": "link_click",
+        "value": "0.805"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "0.805"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "0.805"
+      }
+    ],
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120244849845480548",
+    "ad_name": "AJ: How Much Did You Underbill?",
+    "adset_id": "120244737899610548",
+    "adset_name": "Q226 Test",
+    "campaign_id": "120244737899560548",
+    "campaign_name": "Q226 | Test",
+    "spend": "14.43",
+    "impressions": "553",
+    "reach": "365",
+    "clicks": "3",
+    "ctr": "0.542495",
+    "cpc": "4.81",
+    "cpm": "26.094033",
+    "frequency": "1.515068",
+    "actions": [
+      {
+        "action_type": "link_click",
+        "value": "4"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "80"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "80"
+      },
+      {
+        "action_type": "post_interaction_gross",
+        "value": "1"
+      },
+      {
+        "action_type": "post_interaction_net",
+        "value": "1"
+      },
+      {
+        "action_type": "onsite_conversion.post_save",
+        "value": "1"
+      },
+      {
+        "action_type": "onsite_conversion.post_net_save",
+        "value": "1"
+      },
+      {
+        "action_type": "video_view",
+        "value": "75"
+      }
+    ],
+    "cost_per_action_type": [
+      {
+        "action_type": "video_view",
+        "value": "0.1924"
+      },
+      {
+        "action_type": "link_click",
+        "value": "3.6075"
+      },
+      {
+        "action_type": "post_interaction_gross",
+        "value": "14.43"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "0.180375"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "0.180375"
+      }
+    ],
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120244849894030548",
+    "ad_name": "AJ: Audit Ready. Home On Time",
+    "adset_id": "120244737899610548",
+    "adset_name": "Q226 Test",
+    "campaign_id": "120244737899560548",
+    "campaign_name": "Q226 | Test",
+    "spend": "8.54",
+    "impressions": "362",
+    "reach": "224",
+    "clicks": "8",
+    "ctr": "2.209945",
+    "cpc": "1.0675",
+    "cpm": "23.59116",
+    "frequency": "1.616071",
+    "actions": [
+      {
+        "action_type": "link_click",
+        "value": "5"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "54"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "54"
+      },
+      {
+        "action_type": "video_view",
+        "value": "49"
+      }
+    ],
+    "cost_per_action_type": [
+      {
+        "action_type": "video_view",
+        "value": "0.174286"
+      },
+      {
+        "action_type": "link_click",
+        "value": "1.708"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "0.158148"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "0.158148"
+      }
+    ],
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120244849937270548",
+    "ad_name": "AN: 4 Different Logins",
+    "adset_id": "120244737899610548",
+    "adset_name": "Q226 Test",
+    "campaign_id": "120244737899560548",
+    "campaign_name": "Q226 | Test",
+    "spend": "26.2",
+    "impressions": "515",
+    "reach": "390",
+    "clicks": "13",
+    "ctr": "2.524272",
+    "cpc": "2.015385",
+    "cpm": "50.873786",
+    "frequency": "1.320513",
+    "actions": [
+      {
+        "action_type": "link_click",
+        "value": "4"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "5"
+      },
+      {
+        "action_type": "landing_page_view",
+        "value": "3"
+      },
+      {
+        "action_type": "omni_landing_page_view",
+        "value": "3"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "4"
+      },
+      {
+        "action_type": "like",
+        "value": "1"
+      },
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom",
+        "value": "1"
+      }
+    ],
+    "cost_per_action_type": [
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom",
+        "value": "26.2"
+      },
+      {
+        "action_type": "link_click",
+        "value": "6.55"
+      },
+      {
+        "action_type": "like",
+        "value": "26.2"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "6.55"
+      },
+      {
+        "action_type": "landing_page_view",
+        "value": "8.733333"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "5.24"
+      },
+      {
+        "action_type": "omni_landing_page_view",
+        "value": "8.733333"
+      }
+    ],
+    "conversions": [
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom.SignUpConfirm",
+        "value": "1"
+      }
+    ],
+    "cost_per_conversion": [
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom.SignUpConfirm",
+        "value": "26.2"
+      }
+    ],
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120244850015320548",
+    "ad_name": "AN: Cigna vs. Aetna Rules",
+    "adset_id": "120244737899610548",
+    "adset_name": "Q226 Test",
+    "campaign_id": "120244737899560548",
+    "campaign_name": "Q226 | Test",
+    "spend": "8.96",
+    "impressions": "268",
+    "reach": "230",
+    "clicks": "3",
+    "ctr": "1.119403",
+    "cpc": "2.986667",
+    "cpm": "33.432836",
+    "frequency": "1.165217",
+    "actions": [
+      {
+        "action_type": "link_click",
+        "value": "1"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "1"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "1"
+      }
+    ],
+    "cost_per_action_type": [
+      {
+        "action_type": "link_click",
+        "value": "8.96"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "8.96"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "8.96"
+      }
+    ],
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120244850062080548",
+    "ad_name": "AN: Audit Anxiety vs. Confidence",
+    "adset_id": "120244737899610548",
+    "adset_name": "Q226 Test",
+    "campaign_id": "120244737899560548",
+    "campaign_name": "Q226 | Test",
+    "spend": "3.69",
+    "impressions": "123",
+    "reach": "99",
+    "clicks": "0",
+    "ctr": "0",
+    "cpm": "30",
+    "frequency": "1.242424",
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120244850089540548",
+    "ad_name": "AN: E-prescribe from scribe",
+    "adset_id": "120244737899610548",
+    "adset_name": "Q226 Test",
+    "campaign_id": "120244737899560548",
+    "campaign_name": "Q226 | Test",
+    "spend": "3.96",
+    "impressions": "83",
+    "reach": "67",
+    "clicks": "0",
+    "ctr": "0",
+    "cpm": "47.710843",
+    "frequency": "1.238806",
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120244850253170548",
+    "ad_name": "AN: Most Stop at the Note",
+    "adset_id": "120244737899610548",
+    "adset_name": "Q226 Test",
+    "campaign_id": "120244737899560548",
+    "campaign_name": "Q226 | Test",
+    "spend": "58.53",
+    "impressions": "1346",
+    "reach": "993",
+    "clicks": "21",
+    "ctr": "1.560178",
+    "cpc": "2.787143",
+    "cpm": "43.484398",
+    "frequency": "1.355488",
+    "actions": [
+      {
+        "action_type": "link_click",
+        "value": "10"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "10"
+      },
+      {
+        "action_type": "landing_page_view",
+        "value": "1"
+      },
+      {
+        "action_type": "omni_landing_page_view",
+        "value": "1"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "10"
+      }
+    ],
+    "cost_per_action_type": [
+      {
+        "action_type": "link_click",
+        "value": "5.853"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "5.853"
+      },
+      {
+        "action_type": "landing_page_view",
+        "value": "58.53"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "5.853"
+      },
+      {
+        "action_type": "omni_landing_page_view",
+        "value": "58.53"
+      }
+    ],
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120244850298030548",
+    "ad_name": "AN: JotAudit Catches What Others Miss",
+    "adset_id": "120244737899610548",
+    "adset_name": "Q226 Test",
+    "campaign_id": "120244737899560548",
+    "campaign_name": "Q226 | Test",
+    "spend": "1.64",
+    "impressions": "51",
+    "reach": "40",
+    "clicks": "0",
+    "ctr": "0",
+    "cpm": "32.156863",
+    "frequency": "1.275",
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120244850309140548",
+    "ad_name": "AN: Missing $460?",
+    "adset_id": "120244737899610548",
+    "adset_name": "Q226 Test",
+    "campaign_id": "120244737899560548",
+    "campaign_name": "Q226 | Test",
+    "spend": "158.44",
+    "impressions": "4108",
+    "reach": "2635",
+    "clicks": "87",
+    "ctr": "2.117819",
+    "cpc": "1.821149",
+    "cpm": "38.568647",
+    "frequency": "1.559013",
+    "actions": [
+      {
+        "action_type": "link_click",
+        "value": "31"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "33"
+      },
+      {
+        "action_type": "landing_page_view",
+        "value": "6"
+      },
+      {
+        "action_type": "omni_landing_page_view",
+        "value": "6"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "32"
+      },
+      {
+        "action_type": "like",
+        "value": "1"
+      },
+      {
+        "action_type": "post_interaction_gross",
+        "value": "1"
+      },
+      {
+        "action_type": "post_interaction_net",
+        "value": "1"
+      },
+      {
+        "action_type": "post",
+        "value": "1"
+      },
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom",
+        "value": "1"
+      }
+    ],
+    "cost_per_action_type": [
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom",
+        "value": "158.44"
+      },
+      {
+        "action_type": "link_click",
+        "value": "5.110968"
+      },
+      {
+        "action_type": "like",
+        "value": "158.44"
+      },
+      {
+        "action_type": "post_interaction_gross",
+        "value": "158.44"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "4.95125"
+      },
+      {
+        "action_type": "landing_page_view",
+        "value": "26.406667"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "4.801212"
+      },
+      {
+        "action_type": "omni_landing_page_view",
+        "value": "26.406667"
+      }
+    ],
+    "conversions": [
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom.SignUpConfirm",
+        "value": "1"
+      }
+    ],
+    "cost_per_conversion": [
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom.SignUpConfirm",
+        "value": "158.44"
+      }
+    ],
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120244850322000548",
+    "ad_name": "AN: Insurance Game Has Rules",
+    "adset_id": "120244737899610548",
+    "adset_name": "Q226 Test",
+    "campaign_id": "120244737899560548",
+    "campaign_name": "Q226 | Test",
+    "spend": "1.75",
+    "impressions": "69",
+    "reach": "55",
+    "clicks": "0",
+    "ctr": "0",
+    "cpm": "25.362319",
+    "frequency": "1.254545",
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120244850338940548",
+    "ad_name": "AN: 47 Different Payer Rules",
+    "adset_id": "120244737899610548",
+    "adset_name": "Q226 Test",
+    "campaign_id": "120244737899560548",
+    "campaign_name": "Q226 | Test",
+    "spend": "3.23",
+    "impressions": "50",
+    "reach": "38",
+    "clicks": "0",
+    "ctr": "0",
+    "cpm": "64.6",
+    "frequency": "1.315789",
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120244850355910548",
+    "ad_name": "AN: Stop leaving your practice exposed to audit risk",
+    "adset_id": "120244737899610548",
+    "adset_name": "Q226 Test",
+    "campaign_id": "120244737899560548",
+    "campaign_name": "Q226 | Test",
+    "spend": "1.46",
+    "impressions": "45",
+    "reach": "39",
+    "clicks": "1",
+    "ctr": "2.222222",
+    "cpc": "1.46",
+    "cpm": "32.444444",
+    "frequency": "1.153846",
+    "actions": [
+      {
+        "action_type": "link_click",
+        "value": "1"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "1"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "1"
+      }
+    ],
+    "cost_per_action_type": [
+      {
+        "action_type": "link_click",
+        "value": "1.46"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "1.46"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "1.46"
+      }
+    ],
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120244850367030548",
+    "ad_name": "AN: Doing 99214, Billing 99213",
+    "adset_id": "120244737899610548",
+    "adset_name": "Q226 Test",
+    "campaign_id": "120244737899560548",
+    "campaign_name": "Q226 | Test",
+    "spend": "1.46",
+    "impressions": "51",
+    "reach": "38",
+    "clicks": "0",
+    "ctr": "0",
+    "cpm": "28.627451",
+    "frequency": "1.342105",
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120244850377590548",
+    "ad_name": "AN: Scribe that Thinks Like an Auditor",
+    "adset_id": "120244737899610548",
+    "adset_name": "Q226 Test",
+    "campaign_id": "120244737899560548",
+    "campaign_name": "Q226 | Test",
+    "spend": "0.3",
+    "impressions": "12",
+    "reach": "8",
+    "clicks": "0",
+    "ctr": "0",
+    "cpm": "25",
+    "frequency": "1.5",
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120244850394460548",
+    "ad_name": "AN: 847 Ways payers reject claims",
+    "adset_id": "120244737899610548",
+    "adset_name": "Q226 Test",
+    "campaign_id": "120244737899560548",
+    "campaign_name": "Q226 | Test",
+    "spend": "52.33",
+    "impressions": "1349",
+    "reach": "1048",
+    "clicks": "23",
+    "ctr": "1.704967",
+    "cpc": "2.275217",
+    "cpm": "38.791698",
+    "frequency": "1.287214",
+    "actions": [
+      {
+        "action_type": "link_click",
+        "value": "11"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "11"
+      },
+      {
+        "action_type": "landing_page_view",
+        "value": "2"
+      },
+      {
+        "action_type": "omni_landing_page_view",
+        "value": "2"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "11"
+      },
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom",
+        "value": "2"
+      }
+    ],
+    "cost_per_action_type": [
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom",
+        "value": "26.165"
+      },
+      {
+        "action_type": "link_click",
+        "value": "4.757273"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "4.757273"
+      },
+      {
+        "action_type": "landing_page_view",
+        "value": "26.165"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "4.757273"
+      },
+      {
+        "action_type": "omni_landing_page_view",
+        "value": "26.165"
+      }
+    ],
+    "conversions": [
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom.FirstNote",
+        "value": "2"
+      }
+    ],
+    "cost_per_conversion": [
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom.FirstNote",
+        "value": "26.165"
+      }
+    ],
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120244850414150548",
+    "ad_name": "AN: Your Notes Are Perfect - Insurance Doesnt Care",
+    "adset_id": "120244737899610548",
+    "adset_name": "Q226 Test",
+    "campaign_id": "120244737899560548",
+    "campaign_name": "Q226 | Test",
+    "spend": "2.54",
+    "impressions": "74",
+    "reach": "63",
+    "clicks": "2",
+    "ctr": "2.702703",
+    "cpc": "1.27",
+    "cpm": "34.324324",
+    "frequency": "1.174603",
+    "actions": [
+      {
+        "action_type": "link_click",
+        "value": "1"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "1"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "1"
+      }
+    ],
+    "cost_per_action_type": [
+      {
+        "action_type": "link_click",
+        "value": "2.54"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "2.54"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "2.54"
+      }
+    ],
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120244850434190548",
+    "ad_name": "AN: The Work. The Bill",
+    "adset_id": "120244737899610548",
+    "adset_name": "Q226 Test",
+    "campaign_id": "120244737899560548",
+    "campaign_name": "Q226 | Test",
+    "spend": "2.01",
+    "impressions": "74",
+    "reach": "65",
+    "clicks": "0",
+    "ctr": "0",
+    "cpm": "27.162162",
+    "frequency": "1.138462",
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120244893408410548",
+    "ad_name": "Scale: Test: KM UGC - Video Concept 1",
+    "adset_id": "120244893374990548",
+    "adset_name": "Scale: Top 5 by CpFN",
+    "campaign_id": "120244893372330548",
+    "campaign_name": "Scale: Winners - Apr 2026",
+    "spend": "334.25",
+    "impressions": "12347",
+    "reach": "8343",
+    "clicks": "202",
+    "ctr": "1.636025",
+    "cpc": "1.654703",
+    "cpm": "27.071353",
+    "frequency": "1.479923",
+    "actions": [
+      {
+        "action_type": "link_click",
+        "value": "169"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "1737"
+      },
+      {
+        "action_type": "landing_page_view",
+        "value": "15"
+      },
+      {
+        "action_type": "omni_landing_page_view",
+        "value": "15"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "1737"
+      },
+      {
+        "action_type": "post_interaction_gross",
+        "value": "11"
+      },
+      {
+        "action_type": "post_interaction_net",
+        "value": "11"
+      },
+      {
+        "action_type": "onsite_conversion.post_save",
+        "value": "3"
+      },
+      {
+        "action_type": "onsite_conversion.post_net_save",
+        "value": "3"
+      },
+      {
+        "action_type": "onsite_conversion.post_net_like",
+        "value": "8"
+      },
+      {
+        "action_type": "video_view",
+        "value": "1557"
+      },
+      {
+        "action_type": "post_reaction",
+        "value": "8"
+      },
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom",
+        "value": "2"
+      }
+    ],
+    "cost_per_action_type": [
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom",
+        "value": "167.125"
+      },
+      {
+        "action_type": "video_view",
+        "value": "0.214676"
+      },
+      {
+        "action_type": "link_click",
+        "value": "1.977811"
+      },
+      {
+        "action_type": "post_interaction_gross",
+        "value": "30.386364"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "0.192429"
+      },
+      {
+        "action_type": "landing_page_view",
+        "value": "22.283333"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "0.192429"
+      },
+      {
+        "action_type": "omni_landing_page_view",
+        "value": "22.283333"
+      }
+    ],
+    "conversions": [
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom.SignUpConfirm",
+        "value": "2"
+      }
+    ],
+    "cost_per_conversion": [
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom.SignUpConfirm",
+        "value": "167.125"
+      }
+    ],
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120244893439020548",
+    "ad_name": "Farm: EHR V2",
+    "adset_id": "120244893416050548",
+    "adset_name": "Farm: Early Signal Ads",
+    "campaign_id": "120244893415260548",
+    "campaign_name": "Farm: Testing - Apr 2026",
+    "spend": "182.4",
+    "impressions": "7435",
+    "reach": "4461",
+    "clicks": "96",
+    "ctr": "1.29119",
+    "cpc": "1.9",
+    "cpm": "24.532616",
+    "frequency": "1.666667",
+    "actions": [
+      {
+        "action_type": "link_click",
+        "value": "60"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "306"
+      },
+      {
+        "action_type": "landing_page_view",
+        "value": "2"
+      },
+      {
+        "action_type": "omni_landing_page_view",
+        "value": "2"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "306"
+      },
+      {
+        "action_type": "video_view",
+        "value": "246"
+      },
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom",
+        "value": "2"
+      }
+    ],
+    "cost_per_action_type": [
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom",
+        "value": "91.2"
+      },
+      {
+        "action_type": "video_view",
+        "value": "0.741463"
+      },
+      {
+        "action_type": "link_click",
+        "value": "3.04"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "0.596078"
+      },
+      {
+        "action_type": "landing_page_view",
+        "value": "91.2"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "0.596078"
+      },
+      {
+        "action_type": "omni_landing_page_view",
+        "value": "91.2"
+      }
+    ],
+    "conversions": [
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom.SignUpConfirm",
+        "value": "2"
+      }
+    ],
+    "cost_per_conversion": [
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom.SignUpConfirm",
+        "value": "91.2"
+      }
+    ],
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120244893444770548",
+    "ad_name": "Farm: Test: KM UGC - Video Concept 2",
+    "adset_id": "120244893416050548",
+    "adset_name": "Farm: Early Signal Ads",
+    "campaign_id": "120244893415260548",
+    "campaign_name": "Farm: Testing - Apr 2026",
+    "spend": "66.26",
+    "impressions": "2749",
+    "reach": "1899",
+    "clicks": "38",
+    "ctr": "1.382321",
+    "cpc": "1.743684",
+    "cpm": "24.10331",
+    "frequency": "1.447604",
+    "actions": [
+      {
+        "action_type": "link_click",
+        "value": "34"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "395"
+      },
+      {
+        "action_type": "landing_page_view",
+        "value": "1"
+      },
+      {
+        "action_type": "omni_landing_page_view",
+        "value": "1"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "395"
+      },
+      {
+        "action_type": "post_interaction_gross",
+        "value": "1"
+      },
+      {
+        "action_type": "post_interaction_net",
+        "value": "1"
+      },
+      {
+        "action_type": "onsite_conversion.post_net_like",
+        "value": "1"
+      },
+      {
+        "action_type": "video_view",
+        "value": "360"
+      },
+      {
+        "action_type": "post_reaction",
+        "value": "1"
+      }
+    ],
+    "cost_per_action_type": [
+      {
+        "action_type": "video_view",
+        "value": "0.184056"
+      },
+      {
+        "action_type": "link_click",
+        "value": "1.948824"
+      },
+      {
+        "action_type": "post_interaction_gross",
+        "value": "66.26"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "0.167747"
+      },
+      {
+        "action_type": "landing_page_view",
+        "value": "66.26"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "0.167747"
+      },
+      {
+        "action_type": "omni_landing_page_view",
+        "value": "66.26"
+      }
+    ],
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120244893449570548",
+    "ad_name": "Farm: Nate Podcast 4 - ad",
+    "adset_id": "120244893416050548",
+    "adset_name": "Farm: Early Signal Ads",
+    "campaign_id": "120244893415260548",
+    "campaign_name": "Farm: Testing - Apr 2026",
+    "spend": "237.4",
+    "impressions": "9662",
+    "reach": "6271",
+    "clicks": "507",
+    "ctr": "5.247361",
+    "cpc": "0.468245",
+    "cpm": "24.570482",
+    "frequency": "1.540743",
+    "actions": [
+      {
+        "action_type": "link_click",
+        "value": "533"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "3103"
+      },
+      {
+        "action_type": "landing_page_view",
+        "value": "23"
+      },
+      {
+        "action_type": "omni_landing_page_view",
+        "value": "23"
+      },
+      {
+        "action_type": "onsite_conversion.post_unlike",
+        "value": "1"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "3103"
+      },
+      {
+        "action_type": "post_interaction_gross",
+        "value": "5"
+      },
+      {
+        "action_type": "comment",
+        "value": "1"
+      },
+      {
+        "action_type": "post_interaction_net",
+        "value": "6"
+      },
+      {
+        "action_type": "onsite_conversion.post_save",
+        "value": "1"
+      },
+      {
+        "action_type": "onsite_conversion.post_net_comment",
+        "value": "1"
+      },
+      {
+        "action_type": "onsite_conversion.post_net_save",
+        "value": "1"
+      },
+      {
+        "action_type": "onsite_conversion.post_net_like",
+        "value": "2"
+      },
+      {
+        "action_type": "video_view",
+        "value": "2565"
+      },
+      {
+        "action_type": "post_reaction",
+        "value": "3"
+      },
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom",
+        "value": "2"
+      }
+    ],
+    "cost_per_action_type": [
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom",
+        "value": "118.7"
+      },
+      {
+        "action_type": "video_view",
+        "value": "0.092554"
+      },
+      {
+        "action_type": "link_click",
+        "value": "0.445403"
+      },
+      {
+        "action_type": "post_interaction_gross",
+        "value": "47.48"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "0.076507"
+      },
+      {
+        "action_type": "landing_page_view",
+        "value": "10.321739"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "0.076507"
+      },
+      {
+        "action_type": "omni_landing_page_view",
+        "value": "10.321739"
+      }
+    ],
+    "conversions": [
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom.SignUpConfirm",
+        "value": "1"
+      },
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom.FirstNote",
+        "value": "1"
+      }
+    ],
+    "cost_per_conversion": [
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom.SignUpConfirm",
+        "value": "237.4"
+      },
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom.FirstNote",
+        "value": "237.4"
+      }
+    ],
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120244893521800548",
+    "ad_name": "Scale: Test: AI for Progress Notes Concept 3",
+    "adset_id": "120244893520070548",
+    "adset_name": "Scale: Test: AI for Progress Notes Concept 3",
+    "campaign_id": "120244893372330548",
+    "campaign_name": "Scale: Winners - Apr 2026",
+    "spend": "133.48",
+    "impressions": "8248",
+    "reach": "4502",
+    "clicks": "299",
+    "ctr": "3.625121",
+    "cpc": "0.446421",
+    "cpm": "16.183317",
+    "frequency": "1.832075",
+    "actions": [
+      {
+        "action_type": "link_click",
+        "value": "303"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "3319"
+      },
+      {
+        "action_type": "landing_page_view",
+        "value": "3"
+      },
+      {
+        "action_type": "omni_landing_page_view",
+        "value": "3"
+      },
+      {
+        "action_type": "onsite_conversion.post_unlike",
+        "value": "2"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "3319"
+      },
+      {
+        "action_type": "post_interaction_gross",
+        "value": "6"
+      },
+      {
+        "action_type": "post_interaction_net",
+        "value": "8"
+      },
+      {
+        "action_type": "post",
+        "value": "1"
+      },
+      {
+        "action_type": "onsite_conversion.post_save",
+        "value": "1"
+      },
+      {
+        "action_type": "onsite_conversion.post_net_save",
+        "value": "1"
+      },
+      {
+        "action_type": "onsite_conversion.post_net_like",
+        "value": "2"
+      },
+      {
+        "action_type": "video_view",
+        "value": "3010"
+      },
+      {
+        "action_type": "post_reaction",
+        "value": "4"
+      }
+    ],
+    "cost_per_action_type": [
+      {
+        "action_type": "video_view",
+        "value": "0.044346"
+      },
+      {
+        "action_type": "link_click",
+        "value": "0.440528"
+      },
+      {
+        "action_type": "post_interaction_gross",
+        "value": "22.246667"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "0.040217"
+      },
+      {
+        "action_type": "landing_page_view",
+        "value": "44.493333"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "0.040217"
+      },
+      {
+        "action_type": "omni_landing_page_view",
+        "value": "44.493333"
+      }
+    ],
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120244893523650548",
+    "ad_name": "Scale: Test: AI for Progress Notes: Concept 4",
+    "adset_id": "120244893522480548",
+    "adset_name": "Scale: Test: AI for Progress Notes: Concept 4",
+    "campaign_id": "120244893372330548",
+    "campaign_name": "Scale: Winners - Apr 2026",
+    "spend": "28.72",
+    "impressions": "1256",
+    "reach": "750",
+    "clicks": "56",
+    "ctr": "4.458599",
+    "cpc": "0.512857",
+    "cpm": "22.866242",
+    "frequency": "1.674667",
+    "actions": [
+      {
+        "action_type": "link_click",
+        "value": "59"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "407"
+      },
+      {
+        "action_type": "landing_page_view",
+        "value": "1"
+      },
+      {
+        "action_type": "omni_landing_page_view",
+        "value": "1"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "407"
+      },
+      {
+        "action_type": "video_view",
+        "value": "348"
+      }
+    ],
+    "cost_per_action_type": [
+      {
+        "action_type": "video_view",
+        "value": "0.082529"
+      },
+      {
+        "action_type": "link_click",
+        "value": "0.48678"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "0.070565"
+      },
+      {
+        "action_type": "landing_page_view",
+        "value": "28.72"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "0.070565"
+      },
+      {
+        "action_type": "omni_landing_page_view",
+        "value": "28.72"
+      }
+    ],
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120244893524990548",
+    "ad_name": "Scale: PDF to Template",
+    "adset_id": "120244893524340548",
+    "adset_name": "Scale: PDF to Template",
+    "campaign_id": "120244893372330548",
+    "campaign_name": "Scale: Winners - Apr 2026",
+    "spend": "172.74",
+    "impressions": "5255",
+    "reach": "2881",
+    "clicks": "81",
+    "ctr": "1.541389",
+    "cpc": "2.132593",
+    "cpm": "32.871551",
+    "frequency": "1.824019",
+    "actions": [
+      {
+        "action_type": "link_click",
+        "value": "67"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "68"
+      },
+      {
+        "action_type": "landing_page_view",
+        "value": "13"
+      },
+      {
+        "action_type": "omni_landing_page_view",
+        "value": "13"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "68"
+      },
+      {
+        "action_type": "post_interaction_gross",
+        "value": "1"
+      },
+      {
+        "action_type": "post_interaction_net",
+        "value": "1"
+      },
+      {
+        "action_type": "post",
+        "value": "1"
+      },
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom",
+        "value": "2"
+      }
+    ],
+    "cost_per_action_type": [
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom",
+        "value": "86.37"
+      },
+      {
+        "action_type": "link_click",
+        "value": "2.578209"
+      },
+      {
+        "action_type": "post_interaction_gross",
+        "value": "172.74"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "2.540294"
+      },
+      {
+        "action_type": "landing_page_view",
+        "value": "13.287692"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "2.540294"
+      },
+      {
+        "action_type": "omni_landing_page_view",
+        "value": "13.287692"
+      }
+    ],
+    "conversions": [
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom.FirstNote",
+        "value": "2"
+      }
+    ],
+    "cost_per_conversion": [
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom.FirstNote",
+        "value": "86.37"
+      }
+    ],
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120244893526570548",
+    "ad_name": "Scale: AI for Progress Notes",
+    "adset_id": "120244893525670548",
+    "adset_name": "Scale: AI for Progress Notes",
+    "campaign_id": "120244893372330548",
+    "campaign_name": "Scale: Winners - Apr 2026",
+    "spend": "384.45",
+    "impressions": "13772",
+    "reach": "7956",
+    "clicks": "182",
+    "ctr": "1.321522",
+    "cpc": "2.112363",
+    "cpm": "27.915335",
+    "frequency": "1.731021",
+    "actions": [
+      {
+        "action_type": "link_click",
+        "value": "119"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "153"
+      },
+      {
+        "action_type": "landing_page_view",
+        "value": "12"
+      },
+      {
+        "action_type": "omni_landing_page_view",
+        "value": "12"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "152"
+      },
+      {
+        "action_type": "like",
+        "value": "1"
+      },
+      {
+        "action_type": "post_interaction_gross",
+        "value": "33"
+      },
+      {
+        "action_type": "comment",
+        "value": "1"
+      },
+      {
+        "action_type": "post_interaction_net",
+        "value": "33"
+      },
+      {
+        "action_type": "post",
+        "value": "3"
+      },
+      {
+        "action_type": "onsite_conversion.post_net_comment",
+        "value": "1"
+      },
+      {
+        "action_type": "onsite_conversion.post_net_like",
+        "value": "29"
+      },
+      {
+        "action_type": "post_reaction",
+        "value": "29"
+      },
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom",
+        "value": "4"
+      }
+    ],
+    "cost_per_action_type": [
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom",
+        "value": "96.1125"
+      },
+      {
+        "action_type": "link_click",
+        "value": "3.230672"
+      },
+      {
+        "action_type": "like",
+        "value": "384.45"
+      },
+      {
+        "action_type": "post_interaction_gross",
+        "value": "11.65"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "2.529276"
+      },
+      {
+        "action_type": "landing_page_view",
+        "value": "32.0375"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "2.512745"
+      },
+      {
+        "action_type": "omni_landing_page_view",
+        "value": "32.0375"
+      }
+    ],
+    "conversions": [
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom.SignUpConfirm",
+        "value": "2"
+      },
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom.FirstNote",
+        "value": "2"
+      }
+    ],
+    "cost_per_conversion": [
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom.SignUpConfirm",
+        "value": "192.225"
+      },
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom.FirstNote",
+        "value": "192.225"
+      }
+    ],
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120244893532270548",
+    "ad_name": "Farm: Test: AI for Progress: Concept 2",
+    "adset_id": "120244893530950548",
+    "adset_name": "Farm: Test: AI for Progress: Concept 2",
+    "campaign_id": "120244893415260548",
+    "campaign_name": "Farm: Testing - Apr 2026",
+    "spend": "231.67",
+    "impressions": "12508",
+    "reach": "6487",
+    "clicks": "268",
+    "ctr": "2.142629",
+    "cpc": "0.86444",
+    "cpm": "18.521746",
+    "frequency": "1.928164",
+    "actions": [
+      {
+        "action_type": "link_click",
+        "value": "253"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "3086"
+      },
+      {
+        "action_type": "landing_page_view",
+        "value": "14"
+      },
+      {
+        "action_type": "omni_landing_page_view",
+        "value": "14"
+      },
+      {
+        "action_type": "onsite_conversion.post_unlike",
+        "value": "2"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "3086"
+      },
+      {
+        "action_type": "post_interaction_gross",
+        "value": "10"
+      },
+      {
+        "action_type": "post_interaction_net",
+        "value": "12"
+      },
+      {
+        "action_type": "onsite_conversion.post_save",
+        "value": "1"
+      },
+      {
+        "action_type": "onsite_conversion.post_net_save",
+        "value": "1"
+      },
+      {
+        "action_type": "onsite_conversion.post_net_like",
+        "value": "7"
+      },
+      {
+        "action_type": "video_view",
+        "value": "2823"
+      },
+      {
+        "action_type": "post_reaction",
+        "value": "9"
+      },
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom",
+        "value": "4"
+      }
+    ],
+    "cost_per_action_type": [
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom",
+        "value": "57.9175"
+      },
+      {
+        "action_type": "video_view",
+        "value": "0.082065"
+      },
+      {
+        "action_type": "link_click",
+        "value": "0.915692"
+      },
+      {
+        "action_type": "post_interaction_gross",
+        "value": "23.167"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "0.075071"
+      },
+      {
+        "action_type": "landing_page_view",
+        "value": "16.547857"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "0.075071"
+      },
+      {
+        "action_type": "omni_landing_page_view",
+        "value": "16.547857"
+      }
+    ],
+    "conversions": [
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom.SignUpConfirm",
+        "value": "2"
+      },
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom.FirstNote",
+        "value": "2"
+      }
+    ],
+    "cost_per_conversion": [
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom.SignUpConfirm",
+        "value": "115.835"
+      },
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom.FirstNote",
+        "value": "115.835"
+      }
+    ],
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120244893533780548",
+    "ad_name": "Farm: Test: Florence Static 1 - Notes Complete",
+    "adset_id": "120244893533020548",
+    "adset_name": "Farm: Test: Florence Static 1 - Notes Complete",
+    "campaign_id": "120244893415260548",
+    "campaign_name": "Farm: Testing - Apr 2026",
+    "spend": "235.19",
+    "impressions": "12441",
+    "reach": "6324",
+    "clicks": "115",
+    "ctr": "0.924363",
+    "cpc": "2.04513",
+    "cpm": "18.904429",
+    "frequency": "1.967268",
+    "actions": [
+      {
+        "action_type": "link_click",
+        "value": "89"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "93"
+      },
+      {
+        "action_type": "landing_page_view",
+        "value": "2"
+      },
+      {
+        "action_type": "omni_landing_page_view",
+        "value": "2"
+      },
+      {
+        "action_type": "onsite_conversion.post_unlike",
+        "value": "2"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "93"
+      },
+      {
+        "action_type": "post_interaction_gross",
+        "value": "4"
+      },
+      {
+        "action_type": "post_interaction_net",
+        "value": "6"
+      },
+      {
+        "action_type": "onsite_conversion.post_save",
+        "value": "1"
+      },
+      {
+        "action_type": "onsite_conversion.post_net_save",
+        "value": "1"
+      },
+      {
+        "action_type": "onsite_conversion.post_net_like",
+        "value": "1"
+      },
+      {
+        "action_type": "post_reaction",
+        "value": "3"
+      },
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom",
+        "value": "5"
+      }
+    ],
+    "cost_per_action_type": [
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom",
+        "value": "47.038"
+      },
+      {
+        "action_type": "link_click",
+        "value": "2.642584"
+      },
+      {
+        "action_type": "post_interaction_gross",
+        "value": "58.7975"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "2.528925"
+      },
+      {
+        "action_type": "landing_page_view",
+        "value": "117.595"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "2.528925"
+      },
+      {
+        "action_type": "omni_landing_page_view",
+        "value": "117.595"
+      }
+    ],
+    "conversions": [
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom.SignUpConfirm",
+        "value": "3"
+      },
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom.FirstNote",
+        "value": "2"
+      }
+    ],
+    "cost_per_conversion": [
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom.SignUpConfirm",
+        "value": "78.396667"
+      },
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom.FirstNote",
+        "value": "117.595"
+      }
+    ],
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120244894239200548",
+    "ad_name": "AJ: Audit Letter Arrives. You're Ready",
+    "adset_id": "120244894236580548",
+    "adset_name": "Farm: Q226 Billing/Audit Ads",
+    "campaign_id": "120244893415260548",
+    "campaign_name": "Farm: Testing - Apr 2026",
+    "spend": "287.47",
+    "impressions": "20937",
+    "reach": "13495",
+    "clicks": "2618",
+    "ctr": "12.504179",
+    "cpc": "0.109805",
+    "cpm": "13.730238",
+    "frequency": "1.551464",
+    "actions": [
+      {
+        "action_type": "link_click",
+        "value": "174"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "180"
+      },
+      {
+        "action_type": "landing_page_view",
+        "value": "26"
+      },
+      {
+        "action_type": "omni_landing_page_view",
+        "value": "26"
+      },
+      {
+        "action_type": "onsite_conversion.post_unlike",
+        "value": "1"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "180"
+      },
+      {
+        "action_type": "post_interaction_gross",
+        "value": "6"
+      },
+      {
+        "action_type": "post_interaction_net",
+        "value": "7"
+      },
+      {
+        "action_type": "post",
+        "value": "1"
+      },
+      {
+        "action_type": "onsite_conversion.post_save",
+        "value": "1"
+      },
+      {
+        "action_type": "onsite_conversion.post_net_save",
+        "value": "1"
+      },
+      {
+        "action_type": "onsite_conversion.post_net_like",
+        "value": "3"
+      },
+      {
+        "action_type": "post_reaction",
+        "value": "4"
+      },
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom",
+        "value": "7"
+      }
+    ],
+    "cost_per_action_type": [
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom",
+        "value": "41.067143"
+      },
+      {
+        "action_type": "link_click",
+        "value": "1.652126"
+      },
+      {
+        "action_type": "post_interaction_gross",
+        "value": "47.911667"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "1.597056"
+      },
+      {
+        "action_type": "landing_page_view",
+        "value": "11.056538"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "1.597056"
+      },
+      {
+        "action_type": "omni_landing_page_view",
+        "value": "11.056538"
+      }
+    ],
+    "conversions": [
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom.SignUpConfirm",
+        "value": "4"
+      },
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom.FirstNote",
+        "value": "3"
+      }
+    ],
+    "cost_per_conversion": [
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom.SignUpConfirm",
+        "value": "71.8675"
+      },
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom.FirstNote",
+        "value": "95.823333"
+      }
+    ],
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120244894242480548",
+    "ad_name": "AJ: How Much Did You Underbill?",
+    "adset_id": "120244894236580548",
+    "adset_name": "Farm: Q226 Billing/Audit Ads",
+    "campaign_id": "120244893415260548",
+    "campaign_name": "Farm: Testing - Apr 2026",
+    "spend": "0.35",
+    "impressions": "22",
+    "reach": "16",
+    "clicks": "1",
+    "ctr": "4.545455",
+    "cpc": "0.35",
+    "cpm": "15.909091",
+    "frequency": "1.375",
+    "actions": [
+      {
+        "action_type": "link_click",
+        "value": "1"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "14"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "14"
+      },
+      {
+        "action_type": "video_view",
+        "value": "13"
+      }
+    ],
+    "cost_per_action_type": [
+      {
+        "action_type": "video_view",
+        "value": "0.026923"
+      },
+      {
+        "action_type": "link_click",
+        "value": "0.35"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "0.025"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "0.025"
+      }
+    ],
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120244894248240548",
+    "ad_name": "AJ: Audit Ready. Home On Time",
+    "adset_id": "120244894236580548",
+    "adset_name": "Farm: Q226 Billing/Audit Ads",
+    "campaign_id": "120244893415260548",
+    "campaign_name": "Farm: Testing - Apr 2026",
+    "spend": "0.23",
+    "impressions": "26",
+    "reach": "19",
+    "clicks": "1",
+    "ctr": "3.846154",
+    "cpc": "0.23",
+    "cpm": "8.846154",
+    "frequency": "1.368421",
+    "actions": [
+      {
+        "action_type": "link_click",
+        "value": "1"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "7"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "7"
+      },
+      {
+        "action_type": "video_view",
+        "value": "6"
+      }
+    ],
+    "cost_per_action_type": [
+      {
+        "action_type": "video_view",
+        "value": "0.038333"
+      },
+      {
+        "action_type": "link_click",
+        "value": "0.23"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "0.032857"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "0.032857"
+      }
+    ],
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120244894250150548",
+    "ad_name": "AN: 4 Different Logins",
+    "adset_id": "120244894236580548",
+    "adset_name": "Farm: Q226 Billing/Audit Ads",
+    "campaign_id": "120244893415260548",
+    "campaign_name": "Farm: Testing - Apr 2026",
+    "spend": "1.26",
+    "impressions": "43",
+    "reach": "40",
+    "clicks": "1",
+    "ctr": "2.325581",
+    "cpc": "1.26",
+    "cpm": "29.302326",
+    "frequency": "1.075",
+    "actions": [
+      {
+        "action_type": "link_click",
+        "value": "1"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "1"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "1"
+      }
+    ],
+    "cost_per_action_type": [
+      {
+        "action_type": "link_click",
+        "value": "1.26"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "1.26"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "1.26"
+      }
+    ],
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120244894252000548",
+    "ad_name": "AN: Cigna vs. Aetna Rules",
+    "adset_id": "120244894236580548",
+    "adset_name": "Farm: Q226 Billing/Audit Ads",
+    "campaign_id": "120244893415260548",
+    "campaign_name": "Farm: Testing - Apr 2026",
+    "spend": "33.82",
+    "impressions": "523",
+    "reach": "342",
+    "clicks": "33",
+    "ctr": "6.309751",
+    "cpc": "1.024848",
+    "cpm": "64.665392",
+    "frequency": "1.52924",
+    "actions": [
+      {
+        "action_type": "link_click",
+        "value": "29"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "29"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "29"
+      }
+    ],
+    "cost_per_action_type": [
+      {
+        "action_type": "link_click",
+        "value": "1.166207"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "1.166207"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "1.166207"
+      }
+    ],
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120244894253920548",
+    "ad_name": "AN: Audit Anxiety vs. Confidence",
+    "adset_id": "120244894236580548",
+    "adset_name": "Farm: Q226 Billing/Audit Ads",
+    "campaign_id": "120244893415260548",
+    "campaign_name": "Farm: Testing - Apr 2026",
+    "spend": "1.55",
+    "impressions": "26",
+    "reach": "25",
+    "clicks": "1",
+    "ctr": "3.846154",
+    "cpc": "1.55",
+    "cpm": "59.615385",
+    "frequency": "1.04",
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120244894258170548",
+    "ad_name": "AN: E-prescribe from scribe",
+    "adset_id": "120244894236580548",
+    "adset_name": "Farm: Q226 Billing/Audit Ads",
+    "campaign_id": "120244893415260548",
+    "campaign_name": "Farm: Testing - Apr 2026",
+    "spend": "0.36",
+    "impressions": "4",
+    "reach": "4",
+    "clicks": "0",
+    "ctr": "0",
+    "cpm": "90",
+    "frequency": "1",
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120244894261030548",
+    "ad_name": "AN: Most Stop at the Note",
+    "adset_id": "120244894236580548",
+    "adset_name": "Farm: Q226 Billing/Audit Ads",
+    "campaign_id": "120244893415260548",
+    "campaign_name": "Farm: Testing - Apr 2026",
+    "spend": "28.42",
+    "impressions": "562",
+    "reach": "415",
+    "clicks": "15",
+    "ctr": "2.669039",
+    "cpc": "1.894667",
+    "cpm": "50.569395",
+    "frequency": "1.354217",
+    "actions": [
+      {
+        "action_type": "link_click",
+        "value": "10"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "10"
+      },
+      {
+        "action_type": "landing_page_view",
+        "value": "4"
+      },
+      {
+        "action_type": "omni_landing_page_view",
+        "value": "4"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "10"
+      }
+    ],
+    "cost_per_action_type": [
+      {
+        "action_type": "link_click",
+        "value": "2.842"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "2.842"
+      },
+      {
+        "action_type": "landing_page_view",
+        "value": "7.105"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "2.842"
+      },
+      {
+        "action_type": "omni_landing_page_view",
+        "value": "7.105"
+      }
+    ],
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120244894262550548",
+    "ad_name": "AN: JotAudit Catches What Others Miss",
+    "adset_id": "120244894236580548",
+    "adset_name": "Farm: Q226 Billing/Audit Ads",
+    "campaign_id": "120244893415260548",
+    "campaign_name": "Farm: Testing - Apr 2026",
+    "spend": "0.97",
+    "impressions": "38",
+    "reach": "37",
+    "clicks": "2",
+    "ctr": "5.263158",
+    "cpc": "0.485",
+    "cpm": "25.526316",
+    "frequency": "1.027027",
+    "actions": [
+      {
+        "action_type": "link_click",
+        "value": "1"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "1"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "1"
+      }
+    ],
+    "cost_per_action_type": [
+      {
+        "action_type": "link_click",
+        "value": "0.97"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "0.97"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "0.97"
+      }
+    ],
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120244894265260548",
+    "ad_name": "AN: Missing $460?",
+    "adset_id": "120244894236580548",
+    "adset_name": "Farm: Q226 Billing/Audit Ads",
+    "campaign_id": "120244893415260548",
+    "campaign_name": "Farm: Testing - Apr 2026",
+    "spend": "81.65",
+    "impressions": "2418",
+    "reach": "1505",
+    "clicks": "67",
+    "ctr": "2.770885",
+    "cpc": "1.218657",
+    "cpm": "33.767577",
+    "frequency": "1.606645",
+    "actions": [
+      {
+        "action_type": "link_click",
+        "value": "30"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "33"
+      },
+      {
+        "action_type": "landing_page_view",
+        "value": "5"
+      },
+      {
+        "action_type": "omni_landing_page_view",
+        "value": "5"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "33"
+      },
+      {
+        "action_type": "post_interaction_gross",
+        "value": "3"
+      },
+      {
+        "action_type": "post_interaction_net",
+        "value": "3"
+      },
+      {
+        "action_type": "onsite_conversion.post_save",
+        "value": "1"
+      },
+      {
+        "action_type": "onsite_conversion.post_net_save",
+        "value": "1"
+      },
+      {
+        "action_type": "onsite_conversion.post_net_like",
+        "value": "2"
+      },
+      {
+        "action_type": "post_reaction",
+        "value": "2"
+      }
+    ],
+    "cost_per_action_type": [
+      {
+        "action_type": "link_click",
+        "value": "2.721667"
+      },
+      {
+        "action_type": "post_interaction_gross",
+        "value": "27.216667"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "2.474242"
+      },
+      {
+        "action_type": "landing_page_view",
+        "value": "16.33"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "2.474242"
+      },
+      {
+        "action_type": "omni_landing_page_view",
+        "value": "16.33"
+      }
+    ],
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120244894268180548",
+    "ad_name": "AN: Insurance Game Has Rules",
+    "adset_id": "120244894236580548",
+    "adset_name": "Farm: Q226 Billing/Audit Ads",
+    "campaign_id": "120244893415260548",
+    "campaign_name": "Farm: Testing - Apr 2026",
+    "spend": "20.5",
+    "impressions": "329",
+    "reach": "257",
+    "clicks": "15",
+    "ctr": "4.559271",
+    "cpc": "1.366667",
+    "cpm": "62.31003",
+    "frequency": "1.280156",
+    "actions": [
+      {
+        "action_type": "link_click",
+        "value": "13"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "13"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "13"
+      }
+    ],
+    "cost_per_action_type": [
+      {
+        "action_type": "link_click",
+        "value": "1.576923"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "1.576923"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "1.576923"
+      }
+    ],
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120244894273890548",
+    "ad_name": "AN: Stop leaving your practice exposed to audit risk",
+    "adset_id": "120244894236580548",
+    "adset_name": "Farm: Q226 Billing/Audit Ads",
+    "campaign_id": "120244893415260548",
+    "campaign_name": "Farm: Testing - Apr 2026",
+    "spend": "3.47",
+    "impressions": "34",
+    "reach": "28",
+    "clicks": "2",
+    "ctr": "5.882353",
+    "cpc": "1.735",
+    "cpm": "102.058824",
+    "frequency": "1.214286",
+    "actions": [
+      {
+        "action_type": "link_click",
+        "value": "1"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "1"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "1"
+      }
+    ],
+    "cost_per_action_type": [
+      {
+        "action_type": "link_click",
+        "value": "3.47"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "3.47"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "3.47"
+      }
+    ],
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120244894280990548",
+    "ad_name": "AN: 47 Different Payer Rules",
+    "adset_id": "120244894236580548",
+    "adset_name": "Farm: Q226 Billing/Audit Ads",
+    "campaign_id": "120244893415260548",
+    "campaign_name": "Farm: Testing - Apr 2026",
+    "spend": "3.35",
+    "impressions": "70",
+    "reach": "61",
+    "clicks": "0",
+    "ctr": "0",
+    "cpm": "47.857143",
+    "frequency": "1.147541",
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120244894282380548",
+    "ad_name": "AN: Doing 99214, Billing 99213",
+    "adset_id": "120244894236580548",
+    "adset_name": "Farm: Q226 Billing/Audit Ads",
+    "campaign_id": "120244893415260548",
+    "campaign_name": "Farm: Testing - Apr 2026",
+    "spend": "3.46",
+    "impressions": "94",
+    "reach": "75",
+    "clicks": "4",
+    "ctr": "4.255319",
+    "cpc": "0.865",
+    "cpm": "36.808511",
+    "frequency": "1.253333",
+    "actions": [
+      {
+        "action_type": "link_click",
+        "value": "1"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "1"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "1"
+      }
+    ],
+    "cost_per_action_type": [
+      {
+        "action_type": "link_click",
+        "value": "3.46"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "3.46"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "3.46"
+      }
+    ],
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120244894285290548",
+    "ad_name": "AN: Scribe that Thinks Like an Auditor",
+    "adset_id": "120244894236580548",
+    "adset_name": "Farm: Q226 Billing/Audit Ads",
+    "campaign_id": "120244893415260548",
+    "campaign_name": "Farm: Testing - Apr 2026",
+    "spend": "0.05",
+    "impressions": "5",
+    "reach": "4",
+    "clicks": "1",
+    "ctr": "20",
+    "cpc": "0.05",
+    "cpm": "10",
+    "frequency": "1.25",
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120244894286760548",
+    "ad_name": "AN: 847 Ways payers reject claims",
+    "adset_id": "120244894236580548",
+    "adset_name": "Farm: Q226 Billing/Audit Ads",
+    "campaign_id": "120244893415260548",
+    "campaign_name": "Farm: Testing - Apr 2026",
+    "spend": "282.62",
+    "impressions": "8112",
+    "reach": "5006",
+    "clicks": "147",
+    "ctr": "1.81213",
+    "cpc": "1.922585",
+    "cpm": "34.839744",
+    "frequency": "1.620455",
+    "actions": [
+      {
+        "action_type": "link_click",
+        "value": "69"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "75"
+      },
+      {
+        "action_type": "landing_page_view",
+        "value": "9"
+      },
+      {
+        "action_type": "omni_landing_page_view",
+        "value": "9"
+      },
+      {
+        "action_type": "onsite_conversion.post_unlike",
+        "value": "1"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "75"
+      },
+      {
+        "action_type": "post_interaction_gross",
+        "value": "6"
+      },
+      {
+        "action_type": "post_interaction_net",
+        "value": "7"
+      },
+      {
+        "action_type": "onsite_conversion.post_save",
+        "value": "2"
+      },
+      {
+        "action_type": "onsite_conversion.post_net_save",
+        "value": "2"
+      },
+      {
+        "action_type": "onsite_conversion.post_net_like",
+        "value": "3"
+      },
+      {
+        "action_type": "post_reaction",
+        "value": "4"
+      },
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom",
+        "value": "1"
+      }
+    ],
+    "cost_per_action_type": [
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom",
+        "value": "282.62"
+      },
+      {
+        "action_type": "link_click",
+        "value": "4.095942"
+      },
+      {
+        "action_type": "post_interaction_gross",
+        "value": "47.103333"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "3.768267"
+      },
+      {
+        "action_type": "landing_page_view",
+        "value": "31.402222"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "3.768267"
+      },
+      {
+        "action_type": "omni_landing_page_view",
+        "value": "31.402222"
+      }
+    ],
+    "conversions": [
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom.SignUpConfirm",
+        "value": "1"
+      }
+    ],
+    "cost_per_conversion": [
+      {
+        "action_type": "offsite_conversion.fb_pixel_custom.SignUpConfirm",
+        "value": "282.62"
+      }
+    ],
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120244894294330548",
+    "ad_name": "AN: The Work. The Bill",
+    "adset_id": "120244894236580548",
+    "adset_name": "Farm: Q226 Billing/Audit Ads",
+    "campaign_id": "120244893415260548",
+    "campaign_name": "Farm: Testing - Apr 2026",
+    "spend": "0.15",
+    "impressions": "13",
+    "reach": "11",
+    "clicks": "0",
+    "ctr": "0",
+    "cpm": "11.538462",
+    "frequency": "1.181818",
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120244896519790548",
+    "ad_name": "AJ: Cigna Has Rules. JotPsych Knows Them - Copy",
+    "adset_id": "120244894236580548",
+    "adset_name": "Farm: Q226 Billing/Audit Ads",
+    "campaign_id": "120244893415260548",
+    "campaign_name": "Farm: Testing - Apr 2026",
+    "spend": "54.36",
+    "impressions": "915",
+    "reach": "628",
+    "clicks": "72",
+    "ctr": "7.868852",
+    "cpc": "0.755",
+    "cpm": "59.409836",
+    "frequency": "1.457006",
+    "actions": [
+      {
+        "action_type": "link_click",
+        "value": "79"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "79"
+      },
+      {
+        "action_type": "landing_page_view",
+        "value": "5"
+      },
+      {
+        "action_type": "omni_landing_page_view",
+        "value": "5"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "79"
+      }
+    ],
+    "cost_per_action_type": [
+      {
+        "action_type": "link_click",
+        "value": "0.688101"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "0.688101"
+      },
+      {
+        "action_type": "landing_page_view",
+        "value": "10.872"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "0.688101"
+      },
+      {
+        "action_type": "omni_landing_page_view",
+        "value": "10.872"
+      }
+    ],
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  },
+  {
+    "ad_id": "120244896541130548",
+    "ad_name": "AN: Your Notes Are Perfect - Insurance Doesnt Care - Copy",
+    "adset_id": "120244894236580548",
+    "adset_name": "Farm: Q226 Billing/Audit Ads",
+    "campaign_id": "120244893415260548",
+    "campaign_name": "Farm: Testing - Apr 2026",
+    "spend": "2.86",
+    "impressions": "90",
+    "reach": "81",
+    "clicks": "1",
+    "ctr": "1.111111",
+    "cpc": "2.86",
+    "cpm": "31.777778",
+    "frequency": "1.111111",
+    "actions": [
+      {
+        "action_type": "link_click",
+        "value": "1"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "1"
+      },
+      {
+        "action_type": "landing_page_view",
+        "value": "1"
+      },
+      {
+        "action_type": "omni_landing_page_view",
+        "value": "1"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "1"
+      }
+    ],
+    "cost_per_action_type": [
+      {
+        "action_type": "link_click",
+        "value": "2.86"
+      },
+      {
+        "action_type": "post_engagement",
+        "value": "2.86"
+      },
+      {
+        "action_type": "landing_page_view",
+        "value": "2.86"
+      },
+      {
+        "action_type": "page_engagement",
+        "value": "2.86"
+      },
+      {
+        "action_type": "omni_landing_page_view",
+        "value": "2.86"
+      }
+    ],
+    "date_start": "2026-04-04",
+    "date_stop": "2026-04-13"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "FirstNote (Valued)",
+    "id": "3914250848710226",
+    "value": 100.0,
+    "event": "FirstNote"
+  },
+  {
+    "name": "SignUpConfirm (Valued)",
+    "id": "1960979881475090",
+    "value": 5.0,
+    "event": "SignUpConfirm"
+  },
+  {
+    "name": "CalendarScheduled (Valued)",
+    "id": "1270312578633364",
+    "value": 15.0,
+    "event": "CalendarScheduled"
+  }
+]

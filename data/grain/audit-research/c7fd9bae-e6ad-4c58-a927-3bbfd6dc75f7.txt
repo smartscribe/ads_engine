@@ -1,0 +1,51 @@
+Dean Gainey: Let's just say add on code, so. When you enter the minutes spent doing psychotherapy. I noticed it doesn't carry over to our note at all.
+Lee Harrold: Oh, really?
+Dean Gainey: Yeah. Does it generate a note. So when I was using JOT audit, it would always ping my note saying minutes spent not there. Or even if I put like whether it was like in Office or telehealth, it wouldn't really carry over to the templated notes. And that's in reference to specifically the template and notes that are available. In the template builder. However, I do notice that there are other. There are templated notes like here. And some of these. Some of these are fairly useful. But like some of these sections. But I've noticed that, for instance, if I were to try to add em section to my, to a. To my template. I can't search it. In the templates.
+Lee Harrold: Oh, yeah, yeah, that. Yeah, that was. I think that was deliberate. It's no longer possible to use an existing section in multiple notes. Instead, what you could do is find an example. Find an example of one of those sections. And then open the AI editor at the top right of the screen next to the copy. And then paste in the example of that section, and then it would create a new section inside of this note. What you have to do is, when you're recording. Yeah. I mean, you attach a patient. I agree. I think it's. It's do that in the previous context, flows forward. It would be really convenient if you could create a section. For one template and then use that in multiple templates because you made a general purpose section.
+Lee Harrold: Well, this is actually created by John. Oh, okay. Selected. Oh, and the ENM section that's there.
+Dean Gainey: Yeah. It's not, like, interesting.
+Lee Harrold: Yep. And then you start. Let me take it out of that's the enm Psychotherapy. Add on all of this, how long anything that's created.
+Dean Gainey: It's not available in the template. The template bank if you're interested.
+Lee Harrold: Gotcha. Doing this thing right now where really low cost will transfer all of your patient data into job and what's nice about that is everything is in. Once you start attaching patient needs, you can do all sorts of other really powerful things. So, for example, you know, when I attach a patient name, and if you could also
+Dean Gainey: do some really, really help me with this. So, like, as you can see, I have all these, like, appointment types, you know. And, oh, now you can delete. Okay. Before, you weren't able to delete.
+Lee Harrold: Oh, yeah, that's. That's new. It would. It would be kind of neat, though, if we could delete the phone here so we didn't actually keep clicking into them and then deleting them, but I guess that's relatively quick, so it's. Not that bad.
+Dean Gainey: Let's see. Let's say if I. Go into here. So. Let's say if I wanted to go onto here. Test. And put met appointment which I already have preselected. So, as you can see, met appointment. Is 30 minutes. Default to video default place of service. Tell it's telehealth. And then when I. Let's say if I want to put it on the calendar. Okay, so, met appointment? Save. And then. Start. So what is what so like? You know how, like. Does this. How do you interpret the top part? Here, this is the template. This is the duration. Is this the location or is this location?
+Lee Harrold: I think they're both locations. What happens if you click video? I think. I think you can't be both video and. Oh, maybe.
+Dean Gainey: Maybe you can. So it does default to what I had at preset. Okay, so before it did it. Default to what I had preset, okay? All right, that's good to know. Yeah, I guess that's the only question I had. Yeah. So for the eprescrib. E yeah. I would love to test out and offer feedback for the E prescribed, but it's just like I'm already paying a ton and for the. The software in itself, and I'm still utilizing my ehr, but so I don't. I don't know if the eprescribe would be financially doable for me at this time. Because I would still need to use my EHR to prescribe.
+Lee Harrold: Yeah. She's like, well, you filtered out before you switch over. That makes sense to me.
+Dean Gainey: Yeah. So I. Yeah, I guess.
+Lee Harrold: Like what? You want to do it for, like, 10, $10 for the first month.
+Dean Gainey: Or at the top left without the. But I wouldn't.
+Lee Harrold: Okay, now let's just reference her.
+Dean Gainey: Yeah? Would that enable it for all the prescriber or can I just do it for 11 person?
+Lee Harrold: Yeah, that's right. Let me find out if I were to do it,
+Dean Gainey: test it out, because I'm not in a place to.
+Lee Harrold: Exactly. Exactly. Then you're good to go.
+Dean Gainey: Transition to job site fully just yet. Because I know there's some things that you got. I don't know if. You're billing insurance yet, or.
+Lee Harrold: No, it doesn't. Yeah, it doesn't work that way, I think. Yeah, I know. We're running some billing pilots. I could connect you to Nate if you're interested. Okay, so being one of the first on that. Yeah. Why don't we. Yeah, we just, like, help you get it set up just so you can get rock and rolling with it. The. The idea behind Yacht Coach is if you have. Like many providers who write notes. Kind of different styles, some that are less compliant than others. You could use jot coach to prescription it. Enable a sort of coach that helps your providers write more payer aware notes.
+Dean Gainey: Okay.
+Dean Gainey: And for no, it's not Audit Center. And I watched the video on this, and I guess I wanted to learn how do I create a rule for certain appointment types? So, like, if someone set books, like, if. So if we do, like, a certain template, the rule. An audit rule would apply or or certain appointment type and audit rule will apply or how.
+Lee Harrold: You were saying, how do we. So you're asking, like, how do we set rules for a specific appointment types?
+Dean Gainey: Yeah. Or just really how to, like, really use the how would you Audit Center. It is a lot to take in.
+Lee Harrold: Yeah, I. I actually don't. I don't know. Going bananas over it because there's, like, a rule editor too, so you can create new rules. You can always just use that. Let me get a section with Jackson for you.
+Dean Gainey: Okay? Yeah.
+Dean Gainey: But no rush. Sorry. I came with a lot of questions.
+Lee Harrold: That's okay. There are a couple that I can. Kind of. Whittle down in real time. Yeah. I've enabled a patient import feature for you, so if you want to go to clients at the top left, I want to make sure you have you hit the refresh button. It's one that we've decided to partner. Okay, let me. So that's a little different than some of the other thing. I mean, I think that, you know, at $10 for the first month, there's really no reason not to at least play with it. That's in my opinion. Okay. Try refreshing again. What would you need to believe? Back on that client's page. Your entire practice as the ehr when you sit here on the fence. What's up with. You're using.
+Dean Gainey: Now it works.
+Lee Harrold: Oh, cool. Yeah, there we go. Yeah. So, yeah, any. Any data? You like export?
+Lee Harrold: We don't take notes yet, but we do take patient demographic information, appointments. And insurance information.
+Dean Gainey: Oh, interesting. And it will pair it to a patient. And. And I can merge. All right. Thank you so much.
+Lee Harrold: This was helpful. Yeah, for sure. Can you add a patience? Okay, so the other question you had was about whether JATRX could be enabled for, like, just. Just you and not your entire organization.
+Dean Gainey: But, yeah, I'm happy to connect with whoever you recommend in another meeting regarding that.
+Lee Harrold: Yeah. I can answer that now. The one I can't answer that. I'll need to connect you with Jackson for the job audit. Trash. I don't really know how rules work inside of that system, but he. He does okay. Awesome. So, okay, it looks like got her into something. As many sections as you can only enable for your entire organization. But the thing is, there's a setup process. Admin only. You will be able to see. A feature you can declaration in your practice to use it. So as long as you only set yourself up, you'll be the only one in your organization using it.
+Dean Gainey: All right. Thank you for answering that. I'll have to. Yeah. I'm paying for an exorbitant amount for job psych in itself. And I wouldn't necessarily. I'd only be using the. The dose spot just to kind of beta test it. Not really transition completely. So it'd be probably. Yeah, not something I could commit to at this month. Maybe down the line.
+Lee Harrold: Even if it was $10 for the first month, Bro, I'm all for canceling subscriptions.
+Dean Gainey: I see, I see, I see.
+Dean Gainey: Yeah, I, like, have, like, two car wash subscriptions. I'm like, I don't even know where these places are.
+Lee Harrold: I think I was in Arizona at some point.
+Lee Harrold: Seemed like it. May I get it? Yeah, no sweat.
+Dean Gainey: Definitely down the line, because I'm bringing on some people, and when finance is clear up a little bit, Yeah.
+Lee Harrold: And, you know, we're. We're like. We're about to roll out, like, tiered. Tiered price offerings, too. So like, if you wanted to pare down your use within jets, like, it might, it might be cheaper for, for how it's used.
+Dean Gainey: Yeah, that's. That would be very great. All right. But, yeah, I got to go to my next one. But I appreciate this conversation. I learned a lot, and I look forward to collaborating in the future.
+Lee Harrold: You bet. Dean, as always, it's good to. Good to see and talk to you. I'll make sure. I'll make sure Jackson can connect to you about how to use a geode audit.
+Dean Gainey: Anytime. Take care.

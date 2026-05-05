@@ -1,0 +1,85 @@
+Christopher Hume: Hi, Cayman. How are you? Hey, Chris.
+Tirado, Cayman: I'm good. How are you?
+Christopher Hume: Good. Nice to meet you.
+Tirado, Cayman: It's nice to meet you as well.
+Christopher Hume: Where. Where in the world are you based?
+Tirado, Cayman: I'm in. Just outside of Houston, Texas.
+Christopher Hume: Oh, okay. Okay. So west, but not all the way west from us. I'm in D.C.
+Tirado, Cayman: okay. Yeah. That's awesome. What is. Are you guys getting all the snow and stuff, or did it miss you?
+Christopher Hume: We got quite a bit of snow the other day, but most of it melted, so nothing. Nothing like the storm a few weeks ago where it was here for weeks.
+Tirado, Cayman: Yeah.
+Tirado, Cayman: Well, that's good. I'm glad to hear it.
+Christopher Hume: Yes, me too. Me too.
+Tirado, Cayman: Well, were we waiting for Nate or is it going to be you and I today?
+Christopher Hume: I think it'll probably just be us day, and if Nate jumps in, we can just fill him in, but with Love Game, and if so, I was kind of reading the conversations with Nate and filled me in a little bit. But could you kind of tell me where you guys left off and how I could be most useful today?
+Tirado, Cayman: Yeah. So, first of all, I want to say thank you because I feel like we're really small fish for you guys.
+Tirado, Cayman: And so I'm going to blame Nate because I tried to walk by him a couple of years ago at a conference, and he made me stop. So this is all his fault.
+Christopher Hume: This is Nate.
+Tirado, Cayman: So basically, years ago, a couple years ago at a conference, Nate pulled me in and we were talking about AI scribes. So I teach. I'm the program director for our mental health and addiction studies program at San Jacinto College. We are a community college here and on the east side of Houston. So, you know, originally we talked about AI scribes. And to be honest, down here, a lot of my facilities are. They are not using AI stripes. So it's telling him, okay, he convinced me of it. But it's just been a real struggle to train my students on it when my facilities aren't even using it.
+Christopher Hume: Okay, right.
+Tirado, Cayman: So that was one piece of it. But what I told him from that conversation was what I. What I really need right now is a simulation for an ehr.
+Christopher Hume: Okay.
+Tirado, Cayman: So my students currently use EHR Go. It's a company that's been around for a few years. It's somewhat affordable. I'll talk a little about that in a minute. It has a lot of the things that we already use in place. It's pretty user friendly, but it's for, you know, a variety of medical or behavioral health programs. And so although it has some of the things that I need. It doesn't have all the things that I need. I can't really go in and edit it. You know, they're a bigger company. It's a little hard for me to do that. What I would love at this point is to have some kind of EHR training for my students that is affordable, that would help them just start to get comfortable on. Putting in electronic healthcare records, doing assessments, doing screenings, doing a treatment plan. And eventually maybe there's a switch we can flip that allows them to do some AI scribe.
+Tirado, Cayman: Okay, I need the ehr.
+Christopher Hume: Okay, and so what are the. So you said assessments, you said electronic charting. What other features do you need in the ehr?
+Tirado, Cayman: We're pretty simple. And so that's the other thing with EHR go, they have so much that the price might be great for somebody else. But all I need one is I just need a patient registration page.
+Christopher Hume: Okay, Right.
+Tirado, Cayman: I need a cage and a dast, which is it's an alcohol screening tool. And then a drug use screening tool.
+Tirado, Cayman: Okay, I can show you. I'll come back to that. I need a cage and a dad. I need an addiction severity index. I need an asam, which is what we use for placement, treatment placement. Right. And then I need a treatment plan template and I. All of these already exist, right? These are screenings, these are assessment tools that already exist. I already have a template for the treatment plan. I just need it up a little bit.
+Christopher Hume: Okay. Yep.
+Tirado, Cayman: That's all I need right now. I don't need AI generated clients that they have to assess like they have to assess a real human. I just need a place for them to practice putting in documentations.
+Christopher Hume: And so you want them to be typing the documentation themselves at this point I do. Okay, understood. So I can, we can do most of that and I'm happy to came and walk you through job site and kind of show the relevant features. And then also, I don't know, it's gonna check before this call. I'm sorry, but did you ever sign up for an account?
+Tirado, Cayman: I did. And then the semester hits and I just let it go and I was like, okay, here, let me. I'll give you this bit of information too. Which is why I reached back out to you guys. I was like, okay, never mind. I'm just going to stick with the EHR code because I'm not a very big program. I had gotten a 12 week subscription for my students which was 50 bucks, which I know doesn't sound like a lot, but I was paying for it out of my budget because it's so important that I needed it to not be something that somebody couldn't afford. Well, because I'm such a small program, I was like, my dean is not going to keep letting me do this. So I tried to do it to where it went in with their tuition and the bookstore messed it up and they were, it didn't go in with their tuition. And then I had the situation where not all my students can afford it. And so that's why I was like, all right, I need to reach out to you guys and see.
+Christopher Hume: Yeah.
+Tirado, Cayman: What I can do.
+Christopher Hume: And so when you say $50, is that $50 for the whole semester?
+Tirado, Cayman: It's 12 weeks. It's 12 weeks.
+Christopher Hume: Okay.
+Tirado, Cayman: And I was able to fit in their assignments that 12 weeks worked. But if we were going to do a charge, I would have to figure out a way that's got to be looped in with their tuition. I just can't leave it to. Do you have the money this week to pay for this?
+Christopher Hume: Okay, well, I'm happy to walk you through Cayman for kind of the. The JOT Psych rate is currently $150 a month.
+Christopher Hume: And we do, we do offer some discounted rates, but unfortunately. So we offer like a discounted scribe rate, which is $100 a month. Or if someone's only doing a few charts a month, I think under 15, they can use the AI scribe for $39 a month. I'll have to check on that. But then you wouldn't have access to all of the EHR features like forms and document generation. So I just want to flag that up front. But let me walk you through JOT Psych and kind of show you the features I think are relevant and then flag some areas where there might be a little bit of a misalignment here.
+Tirado, Cayman: Yeah. And I have looked through JOT Psych, but I would love to kind of visit that again. But I do want to. What you mentioned right. Is, is absolutely not in my budget and not in my budget. I think at one point Nate was trying to maybe try out something that would be university or college based that might fit that bill a little bit. But again, I know we're small fish.
+Christopher Hume: Not, certainly not that small. I spend times with lots of solo providers. But. So at one point we did have a student discount. That offering got sunset. When we rolled out the usage dispatch, we kind of figured. Eager to keep track. If it's just. If you're less than 15 notes a month, it's 39 unlimited notes for 100 full access 150. But let me show you dotsy. And so just again, sort of off the bat, Eamon, just to show you what is a little bit of a concern is that the only way to generate notes in job psych is from recording a session. So you can type context in here and say I saw came in. We discussed xyz.
+Christopher Hume: But you do need at least five seconds of recording. Do you have the five seconds? And then JOT Psych will turn the combined information here into a. Well, for me, we'll do therapy custom note. Then it'll format it appropriately. This note will be a little. Little funny, obviously, but so. Let me pause there. I want to flag that. If I can walk through the other features, go through forms, assessments, treatment plans, all that stuff. But everything is AI based and it starts from audio or text that you put into Jot Psych. And it will turn that into the note for you. We have some coaching features and all that stuff be like, hey, you missed this in the session. You missed that in the session.
+Christopher Hume: But it's not telling people how to write notes about the session. It might coach them on how to change their session, which is amazing.
+Tirado, Cayman: Right?
+Tirado, Cayman: It's absolutely amazing. And I want them to be able to have access to this at some point.
+Tirado, Cayman: But my struggle is I need. We need two plus two at this point. Right. And so many of my facilities are not using this. And I. I can tell you right now, it's going to set them up for a big issue because they're going to be like, what? Where's the recording?
+Christopher Hume: I don't know. Yeah.
+Tirado, Cayman: I don't have time to write all this.
+Christopher Hume: Yeah.
+Tirado, Cayman: So that's. That is going to be a challenge. I mean, the only thing I could think of is that they could do like, you know, they could do some kind of like, this is they could record themselves saying, this is going to be my note on blah, blah, blah, blah.
+Christopher Hume: Yep.
+Tirado, Cayman: But it's not really the best use of it.
+Christopher Hume: Yep. They could type it in a Word document and then paste that into the additional notes section. There's certainly kind of workarounds here. But I did just want to flag that. The bread and butter. How 99.9 of people use shot Psych is they either record during a session or after the session, give a brief summary, say, hey, I just saw Keith. He said XYZ da da da. And they generate the note.
+Tirado, Cayman: I know, it's amazing. Where was this when all my 20 years of.
+Christopher Hume: It's like magic, right? I know. Okay. But so that's. How do you want me to kind of walk you through still through some of the features came in or what would be the best use of time here?
+Tirado, Cayman: I don't think it's the best use of your time because I don't know how I'm going to get around the recording piece. So that's just my challenge right now. And I even. I brought Nate. I don't know if he told you. I brought Nate to my advisory committee meeting. Like, okay, like, it's like a powwow. And Nate was like, I can give you guys like a free trial to this.
+Christopher Hume: Yeah.
+Tirado, Cayman: Like, nobody reached out. Like, you guys are killing.
+Tirado, Cayman: Yeah, we're trying them on based best practices, but they're not putting them in any of the.
+Christopher Hume: The facility. So you said, can you have your students then they go out to facilities. What are those facilities that they go to?
+Tirado, Cayman: So we're mostly substance use, rehabilitation treatment facilities. So inpatient, outpatient and psychiatric hospitals.
+Christopher Hume: Okay, and are those associated with the school or is it just kind of in the Houston area? That's where a lot of your students end up.
+Tirado, Cayman: Associated in that, you know, we have like, Mouse. That they have to be an approved site by the school.
+Christopher Hume: Okay.
+Tirado, Cayman: Yeah. I only have like one place that's using an AI generation tool. And you know, the other challenge truthfully is especially down here, maybe our psychiatric hospitals have a bigger budget, but a lot of our treatment facilities.
+Tirado, Cayman: Yeah, you know, they're struggling. We're just not. We're not, we are not. What's the word? I'm trying to say we're behind the times on this in treatment.
+Christopher Hume: No, it's certainly something we, we see. I did a lot of our conferences after Nate kind of stopped going. I did start going. And the difference in adoption about like the neuropsychiatric conferences versus the ASAM conference where a lot of people were like, oh my gosh, what can Jossic do? And it was like a whole different thing. At the, some of the psychot conferences, people had hard hitting questions, oh well, can you do xyz? And this specific situation. Oh my God. And then, yeah, very different at the addiction. So we've certainly seen that ourselves.
+Tirado, Cayman: Yeah.
+Christopher Hume: If any of those organizations you have MOUs with, if they kind of, if that's the place to start, where they would you need to get them up and running on a tool like JOT Psych and then your students could use it. I'd be happy to kind of chat with them or see if any of them want to try it, if that would be helpful. But do understand that if your students are going to be expected to type everything by hand when they leave the classroom, it's kind of hard to start them on the AI scribe. Right?
+Tirado, Cayman: Exactly. That's exactly it. And for a lot of my students, so we're very much in the mental health and substance use fields at the community college level. We're very much, I've been there, done that kind of group of people. Right. And for a lot of my students, my Average age is 35 and up. They've had a life experience, usually personally or in family. And so sometimes even just getting up to speed on like technology when it comes to this, as far as medical records is, you know, it's like, how do we log into blackboard?
+Christopher Hume: Yeah. Yes. Oh, I, I am certainly familiar with some of the technical challenges and just people who are finally starting to use this stuff and yeah, maybe haven't mastered the computer yet. Certainly a challenge.
+Tirado, Cayman: It would be amazing. I just. The way that Nate convinced me was just the quality of notes, the ability to, you know, get treatment actually authorized in a faster way. The benefits of it. There's no question and I've told him, you know, a lot. One of the things that was so hard for me in the field is I did evening groups and I worked morning job and then I did night groups. So I would come home from work at night at 9 o' clock from a group. I'd have to get my notes in by the end of the day. So I would eat dinner in the bathtub and then get out and do my notes. And I was like, oh, my God, this is. No, this. You know, you don't have to eat dinner in the bathtub anymore. So.
+Tirado, Cayman: Yeah, there's so many benefits to it. They're just. We're just not there yet. And I don't want to. It's like training them, you know, I'm just. It would be training them too far ahead of what they're going to walk into, and it would be a deficit for me.
+Christopher Hume: Yeah, no, I. I sat down. Certainly makes sense. And I. I just shared on my screen came in. One of the new features we added was an automatic note audit and kind of like flying like, hey, it looks like you might be doing the wrong code here. Or we can align these rules to Medicare and Medicaid, and that might be something that's kind of more relevant. Some of the kind of orgs that are struggling to get their reimbursements appropriately.
+Tirado, Cayman: It's so good. I don't know what to say.
+Tirado, Cayman: Even my queue, I QM'd for a while. Right. Like, this would be.
+Tirado, Cayman: Yeah, it's so helpful.
+Christopher Hume: Well, I turned your account back on for two weeks, so if you would like to try it out and just play with it, you know, try it. It's there for you. And if there's anyone either, maybe now is not the best time for your students. But if any of those organizations that you have relationships with, you're like, maybe it is time that we push again. And, you know, a lot has changed in the past six to 12 months. I'd be, again, more than happy to set up some sort of free trial or even just a presentation for them. Yeah. However we can help, we're here for.
+Tirado, Cayman: I appreciate it. Again, I thank you for your time. I do have some facilities that I want to keep pushing this. And like I said, I'm kind of stuck to Nate at this point. He's my. He's my. He's my AI guru. So I'll keep bothering you guys.
+Christopher Hume: Maybe.
+Tirado, Cayman: Please do. Someday it'll happen.
+Christopher Hume: Hey, well, we're not going anywhere. So whenever it's time to start using AI, I hope we come down to Houston and help you guys set it up.
+Tirado, Cayman: I would love it. Thank you, Chris.
+Christopher Hume: Thanks, Kevin. Have a great afternoon.

@@ -1,0 +1,105 @@
+Christopher Hume: Nola, how are you?
+Olha Tishchenko: Doing good. Finally. Friday. How are you?
+Christopher Hume: It is finally Friday. It's finally Friday. Counting down. Counting down. Well, Ola, I know Lee is going to join us shortly.
+Christopher Hume: Do you want to un Q.
+Christopher Hume: Hey, how's it going?
+Lee Harrold: Good to see you.
+Olha Tishchenko: How are you?
+Lee Harrold: I'm well. How are you?
+Olha Tishchenko: Good. Have a little bit trouble, I heard.
+Lee Harrold: Yeah, it's just not loaded. It's not turning on. What's going on?
+Olha Tishchenko: I don't know. It just showed me to upgrade the plan, and it's moving me to the page for practice settings, and I have an idea.
+Olha Tishchenko: What's going on.
+Lee Harrold: Okay. Yeah. Can you share your screen, let me see what you're looking?
+Olha Tishchenko: Yeah, of course.
+Lee Harrold: I am aware of this weird thing. That if you open it now, it takes a little while to get your information, and so it will.
+Olha Tishchenko: Be still stated. I think close.
+Lee Harrold: Yes, I can see your screen.
+Olha Tishchenko: I don't know if I should. Hold on. It's not the browser. Princess. I have a ton of tabs. Okay, that's my profile. And extension. It showed me unlock feature.
+Lee Harrold: Yeah. So what's going on here? Let me take a look at something for a sec. Yeah. So let me toggle the switch on our end and it should work.
+Christopher Hume: Hola. Well, Lee fixes this. Are you familiar with Rhinebeck by any chance? Rhinebeck, new york.
+Olha Tishchenko: No, not really.
+Lee Harrold: Neither way.
+Christopher Hume: But we have a company retreat there starting on Sunday, so Lee and I are both traveling. I think Lee's. Are you traveling through Jersey, Lee, to get that?
+Lee Harrold: I'm traveling through Jersey on the way out.
+Lee Harrold: Yeah, I'm going to. To the Newark. Newark Airport to get to Austin, Texas, afterward.
+Olha Tishchenko: Yeah, it's pretty close.
+Lee Harrold: Awesome. I'll be there at about 5:30 in the morning, so. I won't, I won't. I don't. Maybe I'll drop off some donuts or something. That could be fun.
+Olha Tishchenko: Yeah.
+Lee Harrold: All right, let's see. Okay, go ahead. And how do we maybe close and reopen that extension, and I think you'll have a different experience.
+Olha Tishchenko: No, still the same upgrade.
+Olha Tishchenko: Still the same.
+Lee Harrold: Let me think about this.
+Christopher Hume: Lee, I just reassigned OLA access from the admin panel. Do you think that'll help?
+Olha Tishchenko: Today. Rinse out the extension.
+Christopher Hume: We've changed how we're delivering it to people, Ola. Since you guys were the first ones to get it, you got it a special way. And so we're just making sure that as. As we're rolling it out to everyone, it looks like it might have messed up your early access. So my apologies to this. No, no, no, no, no, no. This is on us. This is certainly on us. I just appreciate your patience.
+Olha Tishchenko: Yeah, I just have, like, three really complicated providers, so I wanted to start one.
+Olha Tishchenko: One provider, she will start working, like, about two months. She's now going under credential. But it will be hard. I know. So I wanted to be familiar with your software to teach her.
+Christopher Hume: While Lee looks to see. Lee, do you have a question? Are you still kind of checking on in the back?
+Lee Harrold: I think if you try undistelling reinstalling the extension, it'll force reload and then. Yeah, so that. That was a good idea that you had, I think.
+Christopher Hume: Then, Ola, after we do this, I just want to make sure you have recorder access in all of that now, correct?
+Olha Tishchenko: I should.
+Christopher Hume: I just want to make sure again, because we we're giving you early access to this and kind of the free access to the recorder. I just want to make sure everything's working properly while we're on the call so we can check on that afterward. Let's focus on the extension and then the recorder.
+Olha Tishchenko: Yeah, I wanted to jump first. I should have meeting with her today, like to share all the software, but so I have time.
+Christopher Hume: Okay. Well, I'm sorry she canceled, but we got a little time.
+Olha Tishchenko: Yeah, I have time to learn your software.
+Christopher Hume: Perfect.
+Olha Tishchenko: No. Now I don't have even bottom.
+Christopher Hume: Can you show us what you said?
+Olha Tishchenko: Of course. Now Button disappeared. I don't know. Maybe she's close and we open that together.
+Lee Harrold: Try clicking elsewhere. Then the button like it's in the middle of the screen there.
+Christopher Hume: And let's see what it brings you to upgrade. Oha. Okay, so ehr extension. Ehr extension.
+Lee Harrold: She has it twice because we added it just now to the organization.
+Olha Tishchenko: There's the tire, maybe, but.
+Lee Harrold: That's a good question. Yeah, that. I mean, it's. It's. It's all. It's all or nothing. So the system definitely recognizes that you have it. I wonder, can you hit. Can you right click? Yeah, right in there. And then click, inspect at the very bottom. Awesome. Now, there's a tab at the top that says network. It's like three over from Elements that's currently selected. Yep, perfect. And now we're just going to all of the time.
+Olha Tishchenko: Let's be back with Heart for me. And I'm writing code, like, but from the back end part.
+Olha Tishchenko: But front end always, like, hard for me.
+Lee Harrold: That is tricky. Running is tricky. Yeah. It was, like, reacted to me, like, a really long time to figure out. It's good to know you're familiar with this. I thought it was pretty quick. Okay, so I want to find a way to, like, force refresh the extension on the right so we see the response is coming. Actually, do it. Do the close and open thing again. Yeah. Next to all bookmarks. Yep. Perfect. All right. Now, I think if you. Click on second. So it is getting requested is deciding that, oh, this person shouldn't be allowed to see this extension. Why is it doing that? I think. I think it's got to be with something to do with the entitlement related to the. Capability associated with your account. So tell you what. I think I can. I don't even be able to figure this out right now, but I can figure out.
+Olha Tishchenko: Yeah, no problem. Didn't schedule, like, appointment with me, like, to. To do that credential and to check, like, all the software. So probably it will not be, like, very fast, maybe till the end of the next week.
+Lee Harrold: Oh, okay.
+Christopher Hume: Can we just check the recorder, too? I'm concerned that we gave you all this access and we told you it was fixed, and then we didn't actually get you access. So let's check everything.
+Christopher Hume: Is it from here? Yeah. If you press that record button. Moment of truth. Okay, could you. Yep. Let's choose. Could you select patient? You'll have Alfred Appleseed, or we can record about you, and then could you push the start recording button? All the way on the right. Hey, Ola, can. Oh, it looks like your microphone isn't hearing me. Can you speak?
+Olha Tishchenko: Yeah, I can. I hope.
+Christopher Hume: Okay.
+Olha Tishchenko: I'm glad you can speak.
+Lee Harrold: Press the headphone button next to the. The green check mark. And then. Then we should hear. Hear us. Just the one next to it. There's a headphone. Like, icon with, like, a slasher. Yeah. Click on. Oh, yeah, sorry. Click click this one. Click click the stop recording button. So the big. The.
+Olha Tishchenko: Yeah, that one.
+Lee Harrold: And then click the headphones. And then if you click, start recording now.
+Olha Tishchenko: If it's telehealth, for example, if they.
+Lee Harrold: Could hear us. It could hear us if you had to. Start recording now.
+Olha Tishchenko: Okay. And how to delete, for example. That today.
+Lee Harrold: Yeah. Yeah. So where is this clinic? Dictation 1. Our clinician dictation one at the. That's the like, 15 or 30 second recording that you just made? Yep. Yeah, I can. Yeah, it's hearing me. Which one?
+Olha Tishchenko: Okay. So it. I can stop anytime and continue that. Oh, wow. It's, like, really good.
+Christopher Hume: Thanks.
+Olha Tishchenko: Yeah.
+Christopher Hume: Well. Imagine how happy we'll all be when Lee and I fix your.
+Lee Harrold: Your ehr access.
+Christopher Hume: So Lee and I are going to jump on a call and just troubleshoot together. Ola. We'll let you know when it's fixed. And we can always jump back on a call with you. And the other thing. I wanted to let you know is the reason we have enrolled it out for. I'm sorry, I get the ehrs confused.
+Lee Harrold: Are you practicing?
+Christopher Hume: Is. Lee was running into an issue with the template in recognizing templates across. It's just. It's a small fix, but he just needs to take an hour or two to kind of adjust the extension. So it also works for practice Fusion. We task Lee with a lot. He does a lot. So I just want to. We're working on it, and we really appreciate your patience. And it will be rocking and rolling from when you onboard your new team.
+Olha Tishchenko: Thank you so much. Plus, I have one more question. How can I create, like, under one profile, like, two organizations? Because I don't have to. Locations one here and one another one. And I want to, like to have, like, doctors separated.
+Lee Harrold: Oh, so they're. They're, like, like, truly different or. Oh, yeah, that's. That's true. I forgot. Yeah. Because you have a couple of clinics.
+Christopher Hume: I don't think we can do that. I think we'd have to.
+Olha Tishchenko: It was just questions. That's fine. Like. Those are trending.
+Lee Harrold: How could we do that? I don't think there's an easy way right now. I'm sorry.
+Olha Tishchenko: Yeah, no, no problem. And also, quick questions. So can I train the template that I need? For example, I have from my previous, like, mule template. I can just, like, insert to that, like, chatgpt. Or copilot, I don't know which.
+Olha Tishchenko: What you use and even know.
+Lee Harrold: Yep, there's, there's, there's like, if you go to the, go to the note templates page, there's a, like, import template and then you could just like paste in. Chris will show you.
+Olha Tishchenko: We need to have some fields, like, mandatory in all the notes. Like, the time spent. The time spent was like, from 20 to 40 minutes plus, like, psychotherapy was provided for 16 minutes. Like, it's not only, like, it's for all, like, psychiatrist risk.
+Christopher Hume: What we can do is we can. Or what you can do is set, is develop those templates. So you upload them here and then our wizard, or our pamphlet creation wizard will walk you through the process. And then once the template is, you're happy with it. So let's say, I'm sorry, this is my. This is my test account. But once you're happy with the template, as hopefully Debbie was happy with hers. You can push this button in the top corner. Oha.
+Olha Tishchenko: To all my organization.
+Lee Harrold: Yep.
+Christopher Hume: And then everyone will have it, and everyone will be playing from the same template.
+Christopher Hume: And unless you change the settings, it'll be automatically locked. So they all have to use your template, they can't make changes to it.
+Olha Tishchenko: Oh, that's perfect to know. Plus one more question. Can I have separate like for providers like to see only there like for example, like we have tms, we have psychotherapy and psychiatry. Can I enable to people you can share it.
+Christopher Hume: With just the TMS people. So if you want to individually share it, we can do that. But if you want to do it with this organizational permission, unfortunately, right now, it's all or nothing. If you create it, we could move it onto their account for you. Say, hey, I want our TMS people to have it. It'll take us.
+Olha Tishchenko: Kind of like only team lesson and psychiatry. Thank you for that, of course.
+Christopher Hume: So, Olaf, we have our marching orders. We're going to fix the first issue with the chrome extension, which is your access, and then we'll get practice fusion rolling.
+Christopher Hume: And then we'll reach out either this afternoon or early Monday to let you know it's good to go. And then we can go from there.
+Olha Tishchenko: Thank you. Thank you, guys.
+Lee Harrold: Thank you.
+Christopher Hume: Happy Friday.
+Olha Tishchenko: Happy Friday. Bye. Bye.
+Lee Harrold: See you.
+Olha Tishchenko: Happy weekend.
+Lee Harrold: Happy weekend.

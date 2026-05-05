@@ -1,0 +1,158 @@
+Emily Kaiser: I've created two on accident.
+Becca Bressler: So let's see.
+Emily Kaiser: What pops up. Okay browser that I normally use. For some reason, my browser is, like, hiding. On the edge of the screen for some reason. So let's log in.
+Becca Bressler: Let me look at the three of us. Have a DM with Chris. I'm trying to find it. Oh, here we go. Okay. And then there's, like, one other doc that I'm going to send you. Related to this setup.
+Emily Kaiser: Okay, Perfect. And of course, I just signed into my regular. Calculate. One second.
+Becca Bressler: Where the hell. Is this? Document. Okay?
+Emily Kaiser: For some reason, when I'm clicking login, it's bringing me to like a start. Your trial screen.
+Becca Bressler: Do you want to share? So you actually have to create an alpha account. You can't just use your own. Okay. So can you. Here, do me a favor. Share your screen. Open an incognito window.
+Emily Kaiser: Okay?
+Becca Bressler: Let's do this incognito. Yeah, I see it. But just for the hell of it, let's open an incognito. Because sometimes this is what happens if you're just, like, switching between accounts.
+Emily Kaiser: Okay. Right here.
+Becca Bressler: And do you mind just sharing your whole window? Because I think I'm still seeing a different tab.
+Emily Kaiser: Oh, yeah, yeah. Sorry. Bear with me.
+Becca Bressler: No problem. Sorry if I seem a little frantic. I'm just.
+Emily Kaiser: No, it's okay. Same. Okay, let's see. Window, entire screen. Here we go.
+Becca Bressler: Perfect. Okay, so let's get it. Yeah, let's get an incognito. Great. Amazing. So let's try signing into your Alpha account here. Just go to alpha psych dot com. Oh, yeah, so you can't. You have to type in drop psych dot com.
+Emily Kaiser: Ah, I see. Okay, Alpha dot, save control.
+Becca Bressler: Is this how you created an account?
+Emily Kaiser: That's a good question. I just went to what you sent over Slack. I'm trying to remember if you sent this, if you sent alpha jots, if I clicked into it. Because if that's the case, then yes.
+Becca Bressler: Let me see what I did for you guys. I did send Alpha Dot, so let's just try signing in with the Alpha thing you created and see what happens.
+Emily Kaiser: And can you remember? Are you seeing that slack? I think what that username was.
+Becca Bressler: All right.
+Emily Kaiser: One more. Variation. Okay?
+Becca Bressler: Okay, amazing. So log in. Okay, so the first thing someone needs to do when they are wanting to onboard is they need to add this to their account. So the way that they do that is if you go to your practice up top. And then clinicians. And then you're going to add it as a thing. So if you see the pencil icon, like, next in the active members, so that one's not clickable, but if you see the pencil icon, this is like, the worst page ever.
+Emily Kaiser: Okay. Right here.
+Becca Bressler: Yeah, exactly. And then you're going to scroll down and hit John rx. And people should just know, like, this is adding it to your account. $69 a month. Like, you can come here and cancel anytime. But this is like, what you're. You know, this is what they're doing. They're, like, buying it, essentially. And so then you'll hit save changes. So basically, the first step. So do. Spa requires, like, a couple things. There's, like, a clinic set up and then a clinician setup.
+Becca Bressler: If you're a sole provider with US or the B2C, like, you are going to set up your practice and then like you're setting yourself up as a clinician, if this is a B2B situation. Before any clinician can set themselves up, their practice administrator like needs to connect the practice. So like has to happen first. And the way that a practice administrator would have to do that in order to like even begin setup, they have to buy it. So they would just have to add it to their account. One of their provider's accounts, etc.
+Emily Kaiser: But it's like practice administrator has to be the purchaser, basically.
+Becca Bressler: That's the practice administrator has to be the purchaser, which is always the case. Like they're the ones that are adjusting people's plans, etc. So then the next step, because you've added JotRx. So this is. So can you scroll up on this page for a second? Does it show you. Oh, yeah. Okay, so the next step is to set up the practice. So you're going to go to practice settings. Bot is like the third party thing we're using for e prescribe, so this is the first thing. So there's a couple things you have to do here. So right now, because you're an Alpha, you're. You're able to use a test account, and Dosebot gave us, like, a fake provider so that we can set this up. And so I DM'd you like a PDF that has that fake provider's information.
+Becca Bressler: Perfect, because that's the stuff that's going to have to go in here. Except for phone numbers, because the phone number stuff will be yours.
+Emily Kaiser: So facial recognition.
+Becca Bressler: Yeah. So this is. This is the step. So if you scroll down. You scroll down. Oh, no. It is on page one. Sorry. Scroll down on page one. This is like, the person's name is Arnold Bayes. Etc, you know, this is just for you right now, so we can show you how to set up. So I might just, like, move this into, like, a different, like, just so you can reference it and copy paste. You can keep the name here as, like, Emily's Jot Psych account. That's totally fine. I would just use the other information and your phone number. But, like, use Arnold Bayes information for the rest of it.
+Emily Kaiser: Okay, but use my phone number.
+Becca Bressler: Yeah. Use your phone number here.
+Emily Kaiser: And this is again, just so I'm understanding. It's so dose. Spot and J Psych are just communicating. The correct way.
+Becca Bressler: Yeah, so. Yeah. So setting going through this onboarding and jot psych like creates your account in dose spot, basically.
+Emily Kaiser: Oops, I did something. Practice settings. Let me go back to that.
+Becca Bressler: Yeah. Try clicking connect to Dosebot again.
+Emily Kaiser: Okay?
+Becca Bressler: This one might have to be five digits, but we'll see. Just, like, the first five digits. I think you missed the two in the beginning.
+Emily Kaiser: We'll just type it. It's giving me a hard time going back and forth.
+Becca Bressler: Totally.
+Emily Kaiser: There we go. Okay?
+Becca Bressler: Cool, so. Just delete some of the numbers on the zip. Let's see. Oh, Clinic's name. Just, like, delete your email and write Emily or Emily's organization. Okay, so once someone connects them, like the clinic, then they can register themselves as a clinician.
+Becca Bressler: So hit next register for a second and this will take you to like the account settings.
+Becca Bressler: One of the things to note is like if you are a clinician at a practice. And your clinical admin sets up the practice. You can if they purchase it for you, like if they buy Jotrx for you. This is how a clinician would then set themselves up. They would go to their own account settings, basically.
+Emily Kaiser: Okay?
+Becca Bressler: So if you scroll down here, this is how you set up for the clinician. Keep scrolling. Prescriptions.
+Emily Kaiser: Oh, I see. Okay.
+Becca Bressler: Yeah. So again, let's do, like, Arnold Bayes. You can keep your email address, but I would do Arnold Bay's, like, everything on that document.
+Becca Bressler: Except phone number and fax. You can make up a number for the facts.
+Becca Bressler: The thing about an NPI number.
+Becca Bressler: So for us, we have to, like, create a fake one in order to make this work.
+Becca Bressler: I have a. I'm going to send you one. There's, like a website that I use sometimes that's like a fake NPI generator. Let me just send it to you.
+Emily Kaiser: In an NPI number is just a prescriber's, like, identification number.
+Becca Bressler: Yeah, basically. So I just dm'd you one. Oh. But I need to get you a dea number, too. That's a different one. And the fax number, you just create, like, a fake number. There's not one on here, fortunately.
+Emily Kaiser: Oh, okay.
+Becca Bressler: But I think any kind of fake number would probably work or, I don't know, I put like my parents home phone has to be a number, but.
+Becca Bressler: Nothing will happen with it.
+Emily Kaiser: Okay?
+Becca Bressler: Amazing. Okay, so then you're going to add the NPI number.
+Emily Kaiser: Is that in slack, too?
+Becca Bressler: Yeah, I just DM'd it to you.
+Emily Kaiser: Thank you.
+Becca Bressler: Unfortunately, all of that information, you're going to have to retrieve again the Arnold base for, like, the next step. Okay, so this next thing is about controlled substances. A lot of our prescribers prescribe controlled substances, which requires another step in the onboarding. And there's also another number associated with it. So let's go through this as though you do prescribe it. So let's toggle that. I prescribe. Controlled substances, and so you'll need to add your DEA number. So let's hope that this works. I just made a fake one. Now, I'm going to walk you through these next questions. What they mean and why we ask them.
+Becca Bressler: And if I'm going fast, I'm so sorry, but, like, we have a recording, so hopefully that, you know, it can. So, okay. So do you currently use another E prescribe platform? The reason? Let's say yes for now. The reason we ask. This is on Dose Spot and any prescription platform. You know, a clinician can prescribe medication, but they also can enable these extra features that are like refill requests and change requests from the pharmacy. So there's, like, some types of features where, like, a pharmacy can reach you and, like, electronically request a change or electronically request a refill. But those are things that have to be set up separately. The key thing here is, like, as a prescriber, you can have multiple platforms where you're, like, sending prescriptions to the pharmacy, but those features can only be set up on one platform.
+Emily Kaiser: Okay.
+Becca Bressler: And the reason we're asking these questions is for a couple reasons. One, we want to know if they want to transfer it over to us. Because if they do, we have to, like, submit a change of vendor request for them, which involves, like, you know, Dosebot has, like, a Salesforce customer support platform for us, and I can set you up with an account, but basically you just have to, like, create a support ticket and be like, change a vendor request for this. Clinician. So. So that. And that takes about three days. So there would be about three days before they could actually, like, do those things through dose Spot and us. But the other reason we ask is, like, even if they don't want to move it over, Dose spot will initially block them from being able to write prescriptions because of that, like, there's just, like, a weird, like.
+Emily Kaiser: But they were in two platforms.
+Becca Bressler: It's not even about the prescribing it with two platforms. Because, like, if I'm a clinician and I'm like, yeah, I have a different platform, but you asked me like, or. But then I answer like, do I? Do I've refills or change requests? And I'm like, oh, no, I don't. I can prescribe immediately. Like, there's no issue for whatever reason, if you have these features enabled somewhere. It blocks you from being able to prescribe for, like, a day. Like, because dose spot like, the. It's dumb, but it's like it creates an error in their system. Someone in the IT department has to go and, like, flip a switch and then you can start prescribing. Like, you don't have to change these features like you don't have to move them over. But I only mention this because it's useful to tell the clinician like, hey, because you have these enabled elsewhere, it may take about a day before you're able to prescribe with dose spot. It's also helpful to tell them, like, hey, if you want to move this over, we can. We can put through a change of vendor request. That'll take about three days, though, to. To do it. So it's just, like, a way of collecting information and letting them know. So let's, like, go through. It. Let's say no for now, just because we don't need to do that. So. And then you're going to hit register for eprescribing.
+Becca Bressler: And this is setting yourself up as a clinician? So the next step here.
+Becca Bressler: Okay, so a couple things to know about this.
+Becca Bressler: A DEA number is the number that a clinician has if they can prescribe controlled substances.
+Becca Bressler: Some clinicians have multiple numbers because it's state dependent. So, like if you can prescribe in Maryland and Pennsylvania, you're going to have two different numbers. So they can add a second DEA number if they have one, and that'll like connect to their dose spot account. So that's just like a separate thing. The next step here though, after you set up everything in jots like is the identity proofing. So click Open Dosebot to complete identity proofing. And this is where that, like, Arnold Bayes information is going to come back into, into play here. So, yeah, you can dismiss this. So first, you'll hit complete agreement. And you'll write Arnold Bayes number and the date.
+Emily Kaiser: So his number additionally in this box.
+Becca Bressler: No, I think it's just his name and it's not the birthday, so I think it's just the name and the date agree. And then we're going to do the ID proofing. And so this is where we have to reference his information again. So, yeah, you're just going to select these three things? This zip code here, you might actually need the full one. I'm not sure. We'll find out, but.
+Emily Kaiser: Let's see.
+Becca Bressler: I actually can't imagine you need the full one because, like, no one knows their.
+Emily Kaiser: Yeah. Wait. So zip codes are not just five numbers? Is that what you're telling me?
+Becca Bressler: Yeah. So sometimes you'll see it's like five numbers, but then there's a dash with, like, an extra four. Officially, but we as, like, people never actually use it.
+Emily Kaiser: That is so crazy. I had no idea.
+Becca Bressler: Yeah, it's kind of weird. Okay, so don't worry about the driver's license stuff.
+Emily Kaiser: Oh, yeah.
+Becca Bressler: There we go.
+Emily Kaiser: Okay. I think we should be good.
+Becca Bressler: Ramen like failure is people have their addresses like set up in their system and the state will autofill to a two letter like abbreviation. They have to do the drop down, full state name. So just to like let you know about that. Okay, so then you're going to click next. Okay, so then this is the facial recognition step. So you should be getting a text on your phone, because this was your phone, right? And you're going to use that document again to help you with it, because you're going to use that guy's, like, that fake ID number or there's, like, a driver's license image, and, like, that's going to factor into the steps here.
+Emily Kaiser: How did you create this fake id? I'm so curious.
+Becca Bressler: This was stuff that was given to us by Dosebot. Like, they just kind of. This is. Yeah.
+Emily Kaiser: Okay? Okay, so click this link. And then just kind of go through the prompts.
+Becca Bressler: Yes.
+Emily Kaiser: Exactly. So I am taking a photo of his. Of this?
+Becca Bressler: Yeah. It'll ask you for a selfie too at some point, but. But the ID photos. It's this one.
+Emily Kaiser: Okay? It's saying, document not found. I don't think it's. Oh, here we go. Perfect. Back by d. Okay. Said to do what? When it says take a selfie. Sorry.
+Becca Bressler: A selfie of yourself. You have to do that.
+Emily Kaiser: Okay? I think we are good. It's thinking. Thank you for submitting your documents. Your verification is now in process. Progress.
+Becca Bressler: Amazing. Okay, so here's the next piece of this. Because you prescribe controlled substances, there's, like, another step.
+Becca Bressler: There's a two factor authentication. In order to, like, get the notification to walk you through that, you have to refresh this screen. So if you just, like, refresh it, you should then get a notification. And then we're going to go through the next step in this. And this one, Emily, is more confusing. So I'm going to, like, I'm going to give you tips, and it's good for you to kind of know for when you're dealing with people.
+Emily Kaiser: Okay, perfect.
+Becca Bressler: Yeah. And. And as people are going through this, like, they have to be putting their mobile phone where it says mobile phone, not their practice phone, because of these, like, steps.
+Emily Kaiser: Okay, perfect. Adding your account to Duo Mobile.
+Becca Bressler: Yeah.
+Becca Bressler: So you're going to do text, start with the first one and I think it's like getting you to get the account, basically.
+Emily Kaiser: It's saying it can't redirect me. Safari cannot open this page because the address is invalid.
+Becca Bressler: Can you? Interesting. This is the first text you got.
+Emily Kaiser: Yes. Let me double check. No. So I got two.
+Becca Bressler: Let me go back and try to click the first one you got first.
+Emily Kaiser: Okay. And download this app.
+Becca Bressler: Yeah.
+Emily Kaiser: Okay? Open? Or should I go back to that second text and then kind of open this one?
+Becca Bressler: Yeah. Yeah. Go through the steps of this one until you're confused, and you'll be like, wait, what do I do? And then I'll tell you. But, yeah, it's good for you to walk through it.
+Emily Kaiser: Yeah. Okay, let's see. Name your account. So it's auto filling it. Account name do spot. Should I be renaming that something or just kind of keep it?
+Becca Bressler: I think you can keep it. And then does it say next or what? What do you see on the screen? Yeah, so I say next.
+Emily Kaiser: Okay. And then it says account linked. And it says practice now or skip.
+Becca Bressler: So I think that this click skip.
+Emily Kaiser: Help improve your experience.
+Becca Bressler: Almost. So I think this is the step, Emily, where it's like, okay, now I go to the second text kind of thing. The second text.
+Emily Kaiser: Oh, wait, I think I already did. I think I'm connected. So this is what I'm seeing. Can you see this?
+Becca Bressler: Is that the first text or the second text?
+Emily Kaiser: I had the first text open, downloaded the Duo app, opened the Duo app, and then went back to the second text, and it brought me back to the Duo app and connected what it needed to.
+Becca Bressler: Amazing. So do you see, like a code.
+Emily Kaiser: Dose. Bot passcode? Yes.
+Becca Bressler: So click next on the screen. Click next on the computer screen.
+Becca Bressler: Because it's going to ask you for that passcode.
+Emily Kaiser: Okay?
+Becca Bressler: You're going to put the passcode in there, and then you're going to set up a pin. This. This is. They can pick their pin. Like, this is. This doesn't. You know, if someone's like, wait, I don't know what it is. It's like, no, no, this is where. You create it. Amazing.
+Becca Bressler: So now you're in. The way, if you're going to, like, walk someone through how to use this, let's go back to Jot Psych for a second.
+Emily Kaiser: Right here.
+Becca Bressler: Yes. So basically, the way that they're going to prescribe is they first have to input, like, a patient's information, and then it'll link to dose spot, so. They does that jump start, like, document I sent? You have anything about, like, a person named Rowena? Something? Let's, like, open that up. I don't think so. I might have to send you a different document. Yeah, that's kind of what I'm asking for. Is if there's, like, a row we know. I don't think so. Okay, Let me send you another document, like, I.
+Emily Kaiser: I appreciate it.
+Becca Bressler: Let's see. I think this is it. Yeah, okay. And this is just so you can kind of see how this, like, piece of it works. So I'm going to send you another document. Oh, not that. So if you go to. The second page in this document. There's. It says test scenarios. So this is like a fake patient. And this is just so I can kind of show you how this works. So if you go to jot Psych, let's create. If you create a patient. First, just say, like, first name, last name. Don't worry about the rest of the information yet, because I don't know if it actually links it yet, so. I don't want to make you, like, redo it, but maybe. I don't know. Let's put this information in here and, like, see how it works. Oh, this. The address thing might not work because it's like a single line.
+Emily Kaiser: So not all of the. Not all this.
+Becca Bressler: This is, like, our problem. Delete that address thing for a second. You're just going to have to retype it in another way, I think. But maybe add the date of birth. And then phone number.
+Emily Kaiser: 68.
+Becca Bressler: Oh, and I think the last name. I think you might have put the middle name in his last name, but I'm actually not sure if we double check.
+Emily Kaiser: Yeah. I did.
+Becca Bressler: Yeah. Yeah. So let's do the last name. And then let's do the phone number too.
+Emily Kaiser: Okay? Should I add the address or just kind of keep this as is?
+Becca Bressler: I can just keep going. So let's say create patient. So if you go to. Can you go to record for a second? Click record. And can you add Rowena as the drop down patient? And let's see. Or you have to enable your microphone first, but then let's like add Rowena and see what happens.
+Emily Kaiser: Okay?
+Becca Bressler: Yeah. So there's like, two ways a clinician can set up their patient for dose. Spot one is right here where it says set up patient. The other way is if you go to that patient's profile. So if you click patient. And then just, like, get to Rowena this way.
+Becca Bressler: You see where it says yeah, yeah.
+Becca Bressler: Okay, some of this info should have carried over, but let's, like, find out if it actually did. So let's select this. Yeah. Great. The street address, though. We should input it here because it's, like, broken up in a different field. And I'm so sorry. We have, like, four minutes, but if we don't get through all of this, we can. Come back to it later because I kind of.
+Emily Kaiser: No problem. Connect.
+Becca Bressler: Connect. Amazing. So once a patient is connected, And I think one thing I'd be mindful of as your onboarding people is if people are like, wait, I have to do this for every patient, I would tell them like, oh, we do patient imports here where we can bulk upload. So just so people don't think that's a barrier to adoption because it's annoying to have to do that for everyone, definitely. Being an issue. Totally. So just, like, it's a good way to be. Like, oh, we can do bulk imports for you. So a couple things to know here, so if you go back to jot Psych for a second. Now that that person is connected. You can get to do spot here by hitting send prescription. And then if we go back to the recorder for a second, And, like, the thing to know is, like, clinicians prescribe in the middle of their session.
+Becca Bressler: Like, that's just, like, how they do it. So it's helpful to have it here for that reason. So if you hit prescribe now that the patient's linked, it will always pull up this patient in dose. Spot. Like there's no double entry or anything like that. A couple other things to note. Like it'll pull in their insurance coverage details. It'll pull in their medication history. So if you click on her patient history, Or under Patient overview on the left hand side. Medication history. One of the cool things about the medication history is this is pulling medication history across, like, multiple systems. So, so you're able to see the medication that was prescribed by other prescribers by other, like, you know, facilities, et cetera.
+Becca Bressler: Okay, showing up. And then the way to just be like, oh. And then the way you add prescription is you hit, like, add prescription. You pick the pharmacy for the user first. You can, like, set it as their default if you want.
+Emily Kaiser: Okay?
+Becca Bressler: You know, hit next.
+Emily Kaiser: Okay, cool.
+Becca Bressler: And then, yeah, you search for the medication, and it's like, pretty simple set of steps.
+Emily Kaiser: Okay, cool. Sounds good.
+Becca Bressler: Awesome. What? Was that you? Yeah. No, I think this is basically it. Couple other things. I'm going to set you up with, like, a clinic admin account and, like, a Salesforce account so that you can help facilitate some of the, like, change of vendor requests. We should, like, another walkthrough of that. Actually, I have a video where I did this, so maybe I'll just, like, send you the grain. And you can, like, program there and then that sheet, though, in the jaw RX channel, that's like an onboarding guide. Should have a lot of this information in it. And it also has, like, common failures to look out for. So that could be used as like. I would give that a glance before you onboard? Anyone? Just to be like, oh, are there other common failures I should be aware of? But, yeah, it's pinned to the John Rx channel.
+Emily Kaiser: Okay, cool. Well, thank you so much. I really appreciate your time and walking me through.
+Becca Bressler: Likewise. Like, I'm super happy to have your help with this, so this is truly awesome. Reach out anytime if you have questions about this.
+Becca Bressler: It's, like, annoying and confusing.
+Emily Kaiser: I'll probably walk through it a couple times and then have a question, but thank you. I appreciate.
+Becca Bressler: Okay. I'll talk to you later, Emily.
+Emily Kaiser: Good day. Bye.

@@ -1,0 +1,342 @@
+Adam Harrison: Hi, Beverly. Hi. How are you?
+Beverly Curtis: I'm doing all right. How are you doing?
+Adam Harrison: I am good. How are you feeling? Are you recovered?
+Beverly Curtis: Yeah, it was a good three weeks. Three and a half weeks.
+Adam Harrison: Oh, my gosh.
+Beverly Curtis: That's. Yeah. Just moved from bronchitis to pneumonia. And, I mean, I saw patients, and then I would go to bed for 20 minutes and then see another patient. I haven't been that sick in a long time. COVID Negative. Flu. Negative. Just. Just pneumonia. That was it. A simple pneumonia. But, you know, I recovered. I had. I'd say, probably 20 years ago, I had pneumonia like this. And, you know, I'm usually not a sick person, so it was a little odd. But anyway, yeah, there you have it. I. I went on a family reunion. I wasn't feeling that great. Went on a family reunion, Martin Luther King weekend. Came back sick, you know, so that's what happens when you're around, you know, lots of people, so.
+Adam Harrison: I can't believe that lingered so long. I'm so sorry.
+Beverly Curtis: Yeah. Thank you. But anyway, here we are, and I'm doing better, so. So I'm happy to be back in the. Among the living.
+Adam Harrison: Yeah. Really, that's the worst.
+Adam Harrison: When you're just out for the count and you are exhausted all the time and you just need rest, especially if you're working, too. At the same time, I feel like that can prolong things, but you also don't want to just stop altogether,
+Beverly Curtis: so you really can't, you know, you really can't. So. Yeah. Anyway, I'm. I do feel, you know, it's one of those feelings that you just missed three weeks. Just this chunk of time that just went by and, you know. So anyway, though, happy to feel better and happy to be back in the swing and looking forward to working with you, so.
+Adam Harrison: Yeah, likewise.
+Beverly Curtis: Likewise.
+Adam Harrison: We're glad that you're back on track.
+Beverly Curtis: Yeah.
+Adam Harrison: And excited to kind of get. Get things back in. Back in action here.
+Beverly Curtis: Yeah. So there's a couple things. One is I wondered if you could show me what you see on therapy notes, because those forms are there.
+Beverly Curtis: I just think I'm wondering if you can't see them.
+Adam Harrison: Oh, it's a great point. Okay, let's do that.
+Adam Harrison: What else is on your mind, too?
+Beverly Curtis: What else? I just lost track. I should have made my list, I think. Oh. Oh, yes. I have a group NPI and a group. Ein, and I wondered if that's why your assistant couldn't find me, because it's actually under a group.
+Beverly Curtis: My group NPI rather than my individual npi.
+Adam Harrison: That's how your credentialing was set up with your group or your individual.
+Beverly Curtis: Do you know, I think it depended on what the insurer wanted.
+Adam Harrison: Okay.
+Beverly Curtis: Some of it's individual and some of its group.
+Adam Harrison: Okay. Okay. We'll get that sorted in due time. So not to worry. But one thing. I would love to. So. Would love to. Yeah. I can log into therapy notes, kind of show you what I'm seeing, and then maybe we. Maybe it's like, I just missed it or maybe the permissions aren't set up. So let's definitely do that. The other thing I wanted to do today. Sorry, I'm just going to mute this slack because I'm getting notifications. The other thing I wanted to do was get you set up with our clearinghouse so that we can actually, like, submit. Submit claims for you, like, pretty soon. So. But there's just a little bit of setup time. Like once you create an account, then it takes 20 minutes for the system to kind of process it. So I'm going to suggest we kind of start with that and then let that run in the background, and then let's go into therapy notes for the duration of the call, and then at the end, it'll have finished setting up.
+Beverly Curtis: Um, does that maybe these forms that I'm talking. You know, I'm a novice here, so you help me. Maybe these forms are to set up the clearinghouse with TherapyNet, and we'll look at them.
+Adam Harrison: Okay. Do you want to. Do you want to just start with. Therapy notes, it sounds like.
+Beverly Curtis: I. I just want to get that question out of my mind. Maybe you can identify what these are.
+Adam Harrison: Yeah, let's. Let's do that.
+Beverly Curtis: And I have. I. You know, because I'm new to therapy notes and I'm new to this and I've never billed before. I. I do have on my schedule a time when I'm going to meet with them like this.
+Adam Harrison: Okay.
+Beverly Curtis: But I have not done that yet. So maybe you can clarify. Maybe we. I don't even have to worry about those, you know, because it does set things up with the Clearinghouse for therapy notes.
+Adam Harrison: Yep. Yep.
+Beverly Curtis: Okay.
+Adam Harrison: Okay. Well, let me just see. Show you what I see in here. So this is what I see when I.
+Beverly Curtis: Okay.
+Adam Harrison: I am in your account.
+Beverly Curtis: Yeah.
+Beverly Curtis: Just click on. Click on Payers on the far. On the. No, over on the left.
+Adam Harrison: Yep, right there.
+Beverly Curtis: Click on Payers.
+Adam Harrison: That's this.
+Beverly Curtis: Yep. And then those are all. Most of the insurance companies that I'm credentialed with. And you can see signals. CIGNA is right there.
+Beverly Curtis: Now if you click on cigna, then. Okay, now click on Check Enrollment Status. That's in the second piece down. Second. Second section down there. It's blue right there. Click there.
+Adam Harrison: It's like received.
+Beverly Curtis: I can't see. What did it open up for you?
+Adam Harrison: Oh, sorry.
+Beverly Curtis: Okay. Yeah, so that was received on the 9th.
+Beverly Curtis: Okay, so that's my enrollment. Era. Enrollment, received.
+Beverly Curtis: Okay, so what does that mean exactly?
+Beverly Curtis: Do you know?
+Adam Harrison: Yeah, so this is a little different than what we are looking for. We're actually looking for, like, the contract that is like. This is your.
+Beverly Curtis: Yeah, this is the electronic remittance.
+Adam Harrison: Exactly. Yeah. So this just means that it's kind of like the. The electronic version of the eob. So instead of like paper and mailed checks and stuff like that, you're going to get all of this electronically. Claim status, the claim amount, patient responsibility that, you know, means that you are. Your enrollment was, like, submitted and the payer, you know, acknowledged. Like, we received your enrollment form.
+Beverly Curtis: But your assistant told me that I was not credentialed with cigna,
+Adam Harrison: so that is a little bit different. So I think. That particular patient had an HMO plan, if I'm recalling correctly. And you could be in network for some plans for Cigna and out of network for other plans with cigna. So it's not quite as black and white as, like, if you're Cigna, you're in network because this patient has a particular plan that's more of a limited network. The other thing I'm seeing here, which is odd, is payer information signals does say out of network on this screen.
+Beverly Curtis: Right.
+Adam Harrison: I'm not sure why that is the case.
+Beverly Curtis: Now click on edit in the yellow box on Edit. And then you can, you can put.
+Adam Harrison: Oh, here.
+Beverly Curtis: Yeah, you can just click in network, it will say in network then. I mean, it's sort of wild.
+Adam Harrison: Oh, okay.
+Beverly Curtis: Yeah. And then save your change at the bottom and it'll. It'll say, so if I'm enrolled, I cannot get that ERA without being credentialed with them.
+Adam Harrison: Yes.
+Beverly Curtis: Yeah. So hit save changes at the bottom and then it'll say that I'm in network. You know, I mean, this, this is all I, you know, I've been working on some of it, but honestly, I haven't had time. And. And some of them are really. You have to get a password and you have to get a verification, and you have to do a double verification, and you have to. And one of them I just went round and round round with. I just couldn't get through with it. Yeah.
+Adam Harrison: So one thing just to clarify. So just because you have the ERA set up, does that actually does not mean that you are credentialed. Those are like two on, you know, kind of totally separate things.
+Beverly Curtis: Okay. So.
+Beverly Curtis: So I hired. I hired a credentialing company.
+Adam Harrison: Okay.
+Beverly Curtis: And Cigna. I will give you the list. This is the list that they gave me that I.
+Adam Harrison: That I. Okay, I'm going to change this to in Network then.
+Beverly Curtis: Yeah. So that's the list that they gave me, and I entered that list onto therapy notes.
+Beverly Curtis: I will say I'll send you that list. Okay.
+Beverly Curtis: Because I think that that will help.
+Adam Harrison: That'll be helpful. Yeah.
+Beverly Curtis: Yeah. But. But this list on therapy notes is not their list. It's the list that my credentialing company gave me.
+Adam Harrison: Okay.
+Adam Harrison: And did they do all of the. Did they finish all the credentialing here?
+Beverly Curtis: Yeah, they have identified with me that all of these companies I'm credentialed with now, they gave me that list. But then when you go into each of these, I have to still enroll even though I'm credentialed. With. Them I have to finish an enrollment. And this, these are the enrollment pieces. But I couldn't tell if these were the enrollment just for therapy notes. I mean, that to be paid through therapy notes. Or if this is. I got very confused. Or if this is, you know, no matter what, I have to complete these. I assumed I have to complete them to be, you know, for you to submit the billing. And on some of these it asks, are you, you know, submitting this through therapy notes? Are you using a third party?
+Beverly Curtis: And they want the third party information, which would be you guys. And so, so, and, and then, so that's one piece of it.
+Adam Harrison: And then the next piece is.
+Beverly Curtis: So they're asking for that information for the third party. What was the, the other piece that I was gonna. I forget now. But anyway, so I didn't know if this was necessary for me to do, given what you just said earlier on that you want to set up information with the clearinghouse. With your own clearinghouse. What clearinghouse is that?
+Adam Harrison: So we have, we use steady as our clearinghouse. So it's S T E D I.
+Beverly Curtis: They use claims md.
+Adam Harrison: They use claims md. Okay.
+Beverly Curtis: Yeah.
+Adam Harrison: So. Yeah, so exactly. So so, you know, I think it would be sort of, you know, you would have to just enroll with the one you want to. With the clearinghouse you want to use. So you're right. You only need to enroll once. But I would say if you're going to enroll in therapy notes, you know, you should just do your billing through therapy notes. If you want to bill through job site, we should set up the like enrollment through job site.
+Beverly Curtis: Yeah, I, I would like to build through jot. Psych.
+Adam Harrison: Okay.
+Beverly Curtis: Okay. So however you guys want to do this, very happy to turn it over to you.
+Adam Harrison: Okay, awesome. Well, yeah, let me. But this is really helpful. So let me kind of. Let's go through quickly just that clearinghouse setup. We won't do, you know, all the enrollment today, but what we can do is just like get the clearinghouse connected to your job site account so that, you know, you'll be able to start. Start billing through job site. You know, when, when you're ready to make that switch. So I can kind of walk you through that process. It's. It'll just take about like 20 minutes or so.
+Beverly Curtis: Okay.
+Adam Harrison: So I.
+Beverly Curtis: I do want to mention one thing, that I have a question about the schedule on shot site, but. Okay.
+Adam Harrison: Yeah. Do you mind if we just kind of start this and.
+Beverly Curtis: Yeah, go ahead.
+Beverly Curtis: I didn't want to forget about it.
+Adam Harrison: Yeah. And then let's. I'll make sure to remind you to come back to that. All right, so then if you go to this website, steady.com@s T E D I.
+Beverly Curtis: Edi platform, it just.
+Adam Harrison: Yeah, it's just S-T-E- dash dot com. I'll put it in the chat.
+Beverly Curtis: Okay.
+Adam Harrison: And if you want to share screen, I can kind of walk you through on. On how to. How to do.
+Beverly Curtis: Okay. It says I have to sign in.
+Adam Harrison: Yeah. So go ahead and do sign up free. So you should get to this kind of page. Is this what it looks like for you. If you do sign up for free?
+Beverly Curtis: I think I'm on there. Yeah.
+Adam Harrison: Okay, so then you're just going to go to where it says create a healthcare clearinghouse account.
+Beverly Curtis: Okay. Let me put it here for a moment. Okay.
+Adam Harrison: Okay. So are you on this screen that I'm sharing now?
+Beverly Curtis: I can't see yours.
+Adam Harrison: Oh, it might be easier.
+Adam Harrison: Are you able to share your screen and that? And then I can just kind of walk you through it, Create a password. It.
+Beverly Curtis: Okay, so we have basic, developer and enterprise in terms of plans.
+Adam Harrison: Yep, go ahead and do basic. So the free one.
+Beverly Curtis: Know what country we're in. Okay. Okay. Set up mfa.
+Adam Harrison: Yep. That's always fun.
+Beverly Curtis: Okay.
+Adam Harrison: Have you done MFA before?
+Beverly Curtis: I don't know that I've done mfa, but.
+Adam Harrison: So you just need to download it. It's like an. It's. If you have Google Authenticator, the app.
+Adam Harrison: Have you heard? Have you used that before for anything?
+Beverly Curtis: I have so many authenticators, it's silly.
+Adam Harrison: Tell me about it. Tell me about it.
+Beverly Curtis: You know, like I'm, you know, I probably have it here. I'm honestly, I have probably six of them for different things. I can't tell you off the top of my head which one's which, but most try it and see what happens. Okay. Okay. Oh, incorrect authentication code. That interesting. Okay. So is it Google? I have Google Authenticator and Microsoft Authenticator. And those are two different things.
+Beverly Curtis: And this one says Google slash, Microsoft Authenticator.
+Adam Harrison: Yeah, you can pick either one. So whatever you are, whatever you prefer.
+Beverly Curtis: Okay. Oops. Okay.
+Adam Harrison: All right. How's. How's it going so far? Are you through the mfa?
+Beverly Curtis: Yes.
+Adam Harrison: Okay, so you should see in the top right corner, it should say applications or apps or something like that. Yeah, just give that a click. And then it might say, like, you might.
+Beverly Curtis: This account.
+Adam Harrison: Yeah, so that's. That's the. That is what we are kind of like, waiting. This is where we have to sit and wait.
+Beverly Curtis: And, you know, this process may take 20 minutes. Okay.
+Adam Harrison: Yeah. So we have a little time to kill, but after that, it's super quick. All basically, you'll see Jot Psych show up, and then you'll just click it, and then I just get kind of like a key that I put into your Jots like account, and then it's all set up. But so while we're kind of waiting for that, you had a question about scheduling in Jot Psych, so maybe we can tackle that now.
+Beverly Curtis: Okay. If you go under the schedule on. On Jot Psych, the appointments are not accurate.
+Adam Harrison: Oh, really?
+Beverly Curtis: It. It's always been a problem. And I'm. I'm assuming that you're going to bill from those appointments on the appointment.
+Adam Harrison: Yeah, yeah, yeah.
+Beverly Curtis: It is Helter Skelter. I will say that.
+Adam Harrison: Do you mind showing me what it. What's happening? Do you mind sharing, like, your calendar on job site screen?
+Beverly Curtis: Yeah. Where do I share my screen? I always raise hand. More options.
+Adam Harrison: Yeah, it's near the raised hand.
+Beverly Curtis: The middle. Okay.
+Adam Harrison: All right. I can see your screen now, so
+Beverly Curtis: I think you still have control. Can you. Can you hit schedule?
+Beverly Curtis: I don't care.
+Adam Harrison: Oh, I can't click on your screen, but. I think you are probably trying to click on the screen in the Google me instead of in shop.
+Beverly Curtis: Okay. You're so good. Let's see here. Okay, so can you see that? Can, can you see that?
+Adam Harrison: Yep, I can see.
+Beverly Curtis: Okay. All right. Now I've. I've adjusted this somewhat, but okay, look at this. So on the nights. Did I fix this one? Yeah, I fixed it already. So on the ninth Monday I had three Michael Flannery's. I had one at five to six was, was the correct one. I had one at 3:30 and I had one at 9:00'. Clock. Now the reason is that when we talked, he asked if I had a 9 o' clock and then he said that's too early. And then he said he needed something after 3:30 and then we scheduled for 5:00', clock, but.
+Adam Harrison: So it's scheduled for three separate appointments.
+Beverly Curtis: Yeah.
+Adam Harrison: Okay.
+Beverly Curtis: Yesterday, of course, I took this out too. Okay. I don't know why. There's two Dakota Mooney on Thursday you can see at 2:30, you know, So. And then this little note. I just recorded a lecture, so sometimes I'll hit jot psych if I'm recording a lecture and just re. Just record it. So we got a lecture in there. So I won't do that anymore, I promise. See here we've got two Chad Morrises. I'm not sure why. We've got an appointment with no name at 11 o' clock and then Aaron and James at 11 and so if Erin was actually at 11:30, but it scheduled Aaron at 11 with James. So then of course I don't always remember and.
+Adam Harrison: Right.
+Beverly Curtis: And then I have to go into the transcript to look at when it is that they're supposed to. Actually have their appointment. And there was another one yesterday too that was so another thing that happens in the trans. Oh, on the calendar. It'll show the appointment. What will it do? So I saw this patient in January and we decided, we decided to skip February 12th and go to March 12th. And it put her on on February 12th, you know, I said, I'll see you in the, you know, and I, I've been trying to repeat the date, you know, at the end of the visit. I'll say, I'll see you March 12th at 6 o', clock, you know, so that John Psych gets it correct. But it put her in for February 12th at 6. And then I had this dilemma, you know, whatever time it was. Then I had this. Oh, here it was Emma at 3 o'. Clock.
+Beverly Curtis: She had no appointment on the 12th at 3 o'. Clock. Her appointment is in March. So of course I'm texting her saying, it seems to me that you don't have an appointment today. We set it in up in two months. And she said, that's correct. And here it's on my job site schedule. So it just creates a lot of chaos. Now occasionally it will, it'll pick up an appointment that for some reason didn't get populated in, in therapy notes, you know, and then I'm grateful because it picked it up. But just this week, you know, you can see sort of the chaos that it creates and you know, it's just not exactly reliable. And then this appointment at 11 o' clock on Thursday with no name, I don't know what that's about.
+Adam Harrison: Okay, so.
+Beverly Curtis: And then I've got two five 30s on the 10th, you know, it will not, you know, it'll just schedule another person at 5:30. If you already have a 5:30.
+Beverly Curtis: It just doesn't, you know, differentiate. And that may have been my mistake because, you know, occasionally I'm looking at, you know, Zoc Doc and Headway and Alma and I'm, I'm making therapy notes. My master calendar. Because I, I was using Jot Psych as my master calendar, but it was too confusing.
+Adam Harrison: Yeah.
+Beverly Curtis: So I'm a little concerned. I, I know you guys can fix this. I have absolute confidence that it's going to get fixed. But right now it's a problem. And it's going to be a problem if you choose to. Now I thought Nate told me at the, our last meeting. That there would be as you. As the note is completed and I get to sign off on it. I've now seen, you know, let's confirm the billing codes. Let's confirm pdmp. Let's confirm this. I thought he told me we would have a date confirmation on that same little dropdown.
+Adam Harrison: Have a date confirmation.
+Beverly Curtis: A date, you know, confirmation for the next visit on the. On the drop down. I thought. I thought he told me that was going to be a fix. I. I may be wrong, but let me ask Nate about that. Yeah. Because I thought, oh, good, they're going to fix that because it's. It's. Now it's a problem and it's going to be a big problem. Yeah. I'm sure you can see it, you know, a big problem if you're billing from this, because.
+Adam Harrison: Totally.
+Beverly Curtis: Yeah.
+Adam Harrison: So what. What is your ideal, Beverly? I know you have kind of calendars in your MSOs that you use in therapy notes, in jot psych. This is clearly, like, kind of jot Psych calendar is a mess right now. Maybe you have a Google calendar. Like, what is your ideal setup? Is it sort of like, do you decide the next appointment at the end of the visit and then do you want just like, you know, confirm in that same flow of, like, these are the codes, you know, this is the next appointment date. You know, do you. How often do you have, like, you know, regular appointments? Like, oh, it's every Thursday at 3pm and I just want it to always be Thursday. Or is it more, like, dynamic after each session? Like, help me understand a little more what that kind of all looks like for you.
+Beverly Curtis: Typically, I see people anywhere between three weeks and two months. I don't have a standard weekly schedule. I'm not really doing therapy. I'm doing medication management. So if I have an initial visit, I will see them back in three weeks. But they pick the day and time, and we do that at the end of the visit.
+Adam Harrison: Okay.
+Beverly Curtis: So at the end of every visit, I schedule the next visit. So if I see them for an initial visit, it's three weeks. If I. If they're on stimulant, that has to be prescribed every month. I see them every four weeks. And then if they're on, you know, standard medication, that's, you know, never going to change. I see them every. Now I'm seeing them every two to three months. So I do not have a, let's schedule this person every week, you know, and then they, you know, they have work schedules, you know, so at the end of the visit. I say, see, in four weeks, give me a day and time that works for you. And I try to put them in as closely to that day and time as I can.
+Adam Harrison: Got it. And then I'm curious, like, so we've obviously tried a job site to do this, like. Auto scheduling thing based on the encounter and the transcript and the note. I know that it's like. It seems like it's kind of buggy based on what you're sharing because it'll schedule multiple appointments. It'll get the date wrong, look at the time wrong. It won't have the patient name. Like, you know, obviously this needs to be working at like, not 80%, but like 99 to 100% for it to be useful to you. I'm curious, would it be better if we just turned that off entirely?
+Adam Harrison: Because we can turn off that feature and the scheduling can be done more manually. But I'm curious, is it helpful sometimes and it's just these few cases that are wonky that we need to fix, or is it more like, hey, I'd rather just do the scheduling myself, even if it's a little bit extra time. I just want to be sure that everything is correct. Yeah. And it's probably like a personal preference thing.
+Beverly Curtis: Yeah, I know. Yeah. I'm already manually putting it in. I enjoy the fact that it's automatically. That it automatically shows up. You know, I would love it if it worked correctly.
+Adam Harrison: Okay.
+Beverly Curtis: I already manually have to put it in therapy notes, and then if they're being billed through Headway, I have to put it in Headway, and if they're being billed in Alma, I have to put in an Alma. So I don't want to put it in JAT Psych.
+Adam Harrison: Right. Calendars.
+Beverly Curtis: Yeah. It is ridiculous. And Alma and Headway both have sort of the same philosophy. If the patient came to me through them, you know, they sought out me through Alma, then that patient is an Alma patient. And I cannot take them out of Alma now. So I still have to bill through Alma for them. However, the patient can choose to do what they would like to do. You know, so I've talked to the patients about, you know, and I. And I'm. Because Alma and Headway are both limited. Like, I can't prescribe through them and we can't. You know, there's some limitations there. They're really just a billing platform and a recruitment platform.
+Beverly Curtis: I've talked to the patients about going into therapy notes, and a lot of them don't care at all. They're like, sure, do that. So that means they can then be billed through JOT Psych, because I have their verbal permission. And I'm going to send them a form so that they can be billed through job site because eventually I'm going to shut down Alma first and then I'll shut down know, and I'll just be recruiting through zocdoc, which I've limited because. You know, I'm just trying to get all this stuff sorted out. Zocdoc, I have about, you know, five new patients per week right now. Five or six. I could have a lot more. I just have limited my availability there.
+Adam Harrison: So you've also been, you know, not feeling well the last month. So that certainly hasn't helped, I'm sure.
+Beverly Curtis: Right. But as soon as this goes smoothly, I feel like I can just open that back up and. And then I would eventually shut down those other sources. Although I am. You know, another thing, I'm licensed in Maryland and headway is just credentialing me now in Maryland, and so is my independent credential. So those have not. I mean, they're not anywhere yet. But eventually I'll have, I'll pick up some Maryland patients too.
+Adam Harrison: Okay.
+Beverly Curtis: I don't know if that complete. That's too com. That's another complexity for you guys. But patients.
+Adam Harrison: Yeah, I think that should, shouldn't matter for us.
+Beverly Curtis: Okay.
+Adam Harrison: Yeah, it should be fine.
+Beverly Curtis: Okay. So I would imagine, and you know, another three months or so I'll be credentialed in Maryland.
+Adam Harrison: Okay.
+Beverly Curtis: And we will add that to the mix.
+Adam Harrison: Okay. So one thing, Beverly, I don't know if you'd be comfortable like putting us in touch with your credentialing service company that you worked with, because I think they probably have a lot of the documents that, you know, we're looking for. So for example, like Cigna will have like a massive 50 page PDF document of like, here is your agreement. These are the plans where you're in network, where you're at a network. These are like the requirements that your notes have to show in order to get paid. This is like your rate card for. Okay, for 99214. This is what you get reimbursed for, you know, etc. Etc. It'll also have things like, you know, these are the diagnoses codes that are like acceptable versus not. And that'll just be, I think, I think maybe because I don't think it is in therapy notes. I think probably your credentialing company probably has been like doing that and might have them. So if you're comfortable like just introducing us over email, I can maybe speak to them and then that'll also make sure that I know, like, were you credentialed with your personal NPI or a group npi or is it under your practice name or your personal name? Does it depend on the payer? Like, I kind of make sure that, you know, we're lining up with how you're credentialed, so it might be good for us to just coordinate there if. If. If that works for you.
+Beverly Curtis: Yes, that works for me. That's great.
+Adam Harrison: Okay, so yeah, if you don't mind. Is there. Do you have like a person, you are like main contact there?
+Beverly Curtis: I have two people. One is for Pennsylvania, one's for Maryland.
+Adam Harrison: So.
+Beverly Curtis: Yeah. So I can give you those names. It's Cap, line, C, A, P, L, I, N, E.
+Adam Harrison: Okay.
+Adam Harrison: Yeah, that's great. Yeah, I will. Do you have their emails? I can just reach out directly.
+Beverly Curtis: Yeah, I'll send them to you. Yeah, I'll send them to you.
+Adam Harrison: Okay, perfect. So the other thing I wanted to do you want to just knock that out now just before or you want to handle that later on?
+Beverly Curtis: I'll do that later, you know. Okay. I have to find it, but yeah.
+Adam Harrison: Okay.
+Beverly Curtis: I have a patient and not too long here.
+Adam Harrison: Okay. So in that case, maybe I'll just kind of. Maybe we could finish the clearinghouse setup for now.
+Beverly Curtis: Okay.
+Adam Harrison: Let's see if that 20 minute thing has loaded.
+Beverly Curtis: Can you see that? I don't know if you can.
+Adam Harrison: I still see your schedule.
+Beverly Curtis: Okay. Okay. Can you see that?
+Adam Harrison: Yeah. And then go ahead and click on jot Psych on the right hand side and then click on install on the right, the green icon and just go ahead and click confirm.
+Beverly Curtis: Okay. Let me just ask you this.
+Adam Harrison: Yep.
+Beverly Curtis: I'm. I may switch computers soon, so I'll need to do this again on a different computer, right?
+Adam Harrison: No, it won't matter which.
+Beverly Curtis: It won't matter.
+Adam Harrison: Okay, and then where the bot. On the bottom where it says API key credentials, can you go to the, to the right hand part of that box where the. You see the little box on the right hand side of that API key? Yeah. Can you just copy that and then send that to me in an email?
+Beverly Curtis: Okay. Gonna do a double copy.
+Adam Harrison: Yeah, you can do that too. That works either way.
+Beverly Curtis: Okay. Okay. I'm not sure how to send it to you in an email right this moment. Let's see here.
+Adam Harrison: That's okay. Sorry. A little construction going on, so hopefully that's not just going to go on mute so you don't have to listen to the buzzing.
+Beverly Curtis: What are you having? Constructing.
+Adam Harrison: You know, I don't. I don't really know. They're doing something, tearing something out.
+Adam Harrison: It's been going on a while.
+Beverly Curtis: Don't you love it? I worked in a. In an office where they did all kinds of construction on the roadway and right outside the office, and every time that occurred, we lost the Internet. I mean, every day for about three weeks. So. Okay, I sent that to you.
+Adam Harrison: Okay, perfect. Let me just check my email. Okay. I haven't gotten it yet, but I'll just keep a lookout for it.
+Adam Harrison: I'm sure just the firewall or whatever, you know, stuff got to go through.
+Beverly Curtis: It's rural Gettysburg. Everything takes a little longer.
+Adam Harrison: Everything just. We all just got to be a little patient. So let me maybe can we find some time kind of in the back half of next week, and I think be getting pretty close to actually submitting stuff for you at this point. But what I'll do in the meantime is I will get our clearinghouse connected and I'll also catch up with your credentialing folks and make sure we're all, you know, we all have our ducks in a row.
+Beverly Curtis: Wonderful.
+Adam Harrison: And then I'm also going to look into scheduling for you and see if we can get that resolved. I think that'll be important to make sure we have a good system there before we switch the billing. So I don't, you know, we want to make sure the calendar is, like, clear and, you know, there's no random appointments. And then, you know, I think we'll be pretty close to being ready to turn on the billing for you at that point.
+Adam Harrison: We will probably give you also, like, a new template that we are, you know, kind of. We'll. We'll modify based on your existing template, but that'll have all of the specific, you know, documentation requirements that would also be in therapy notes for within your, like, within your note, so that when you sign the note, you have, like, everything that's there for, like, future. Future reference. So anyway, we can go all over all that, like, next week. I know you have a patient in a minute, but what would be a good time for you sometime next week? Maybe in, like, the back half of the week?
+Beverly Curtis: Okay. So while I'm looking, is there a way that you can push the note into therapy notes?
+Adam Harrison: We don't do that right now. So right now it is still kind of like the copy copy paste method. But we will be able to just like once you sign the note in jot psych, we can do all the billing from there. So it's all, it's all done. And then if you want to also put the note in therapy notes, you can do that as well. Although actually now that I say that, I think we are adding like a new feature that will let you do that automatically instead of doing copy paste.
+Beverly Curtis: Yeah.
+Adam Harrison: So that's in beta right now. And I. Can we. We can have you kind of be one of like the first people.
+Adam Harrison: I love being a beta person. What?
+Beverly Curtis: I love being a beta person.
+Adam Harrison: Yeah, it's. It's in beta. So full disclosure.
+Beverly Curtis: But you know, I was a beta John Psych person.
+Adam Harrison: Yeah. Yeah, we're now. We love having you on. On board.
+Beverly Curtis: Okay. Is a ninth. Oh dear. That's not going to work.
+Beverly Curtis: How long do you think we'll need?
+Adam Harrison: I think maybe 30 minutes should work.
+Beverly Curtis: Okay. I mean I can do 9 o' clock on the 20th, which is Friday.
+Adam Harrison: Yeah, that's perfect.
+Beverly Curtis: Or I can do nine o' clock on Thursday.
+Adam Harrison: Let's keep it to Friday because I might be traveling Thursday.
+Beverly Curtis: Okay.
+Adam Harrison: So I will just update that 9 o'. Clock. Gonna send this. So you should have it all now and that'll just. Yeah.
+Beverly Curtis: So I am assuming that I do not have to fill out those forms in therapy notes then. Is that true? Because I will not be receiving funds from therapy notes.
+Adam Harrison: That's. Yeah, that's correct. So we can do all that for you. Have you submitted any claims yet through therapy notes?
+Beverly Curtis: No. No.
+Adam Harrison: Okay, so we'll do all that for you in jot psych.
+Beverly Curtis: Okay, perfect. Wonderful. Okay. All right. And do you require like this week?
+Beverly Curtis: I have not submitted my billing yet and mostly. Well, mostly because I'm just behind. But most people want it submitted in 24 to 72 hours. Is that, is that your time frame or is it the same day?
+Adam Harrison: That's ideal. You know, we can obviously do what works for you. And you know, most commercial payers will have kind of like a 90 day timely filing deadline. So that is kind of the absolute max. But you know, it's usually best practice to do 24 to 48 hours. The note is signed. You know, obviously if you need more time, we're not going to. Gonna, you know, you know, we're not gonna get too, too upset about it or anything like that. But yeah, typically most clients will do kind of like within 24 to 48 hours, but certainly it could stretch a little bit longer for your. Yeah, yeah, yeah. So I think that that answers your question.
+Beverly Curtis: And then I have some self pay folks. You'll be billing them as well?
+Adam Harrison: Yeah, we can do that. We have, we can collect payments directly through job site. We can do all the self pay stuff on our side. If you prefer to do some of that yourself, like that can also work. But usually it's just easier if it's like a lane.
+Beverly Curtis: You know, I have different self pay rates. So it's a scale. It's either 150, 75 or 25. Okay. You know, and it just depends.
+Beverly Curtis: I actually, I mean it sounds a little while but I let the patient decide.
+Adam Harrison: Okay.
+Beverly Curtis: They promise to pay that, that rate.
+Beverly Curtis: I said I only ask that you pay what you say you're going to pay. And I do have, I mean I try to limit it, but I do have several on the $25 rate and those are mostly the insurance companies that I'm still waiting on the credentialing for.
+Beverly Curtis: So I brought them in on the 25 knowing that I'll be credentialed with their insurances and then pretty able to bill. So that's sort of what I've done there.
+Beverly Curtis: And then I have a few that, I mean I've got some folks that are homeless and you know, scrounging around and you know, different phone numbers, different emails, different addresses every visit, you know, kind of thing. So hope hopefully I'll make them better. And they, and they won't be in that situation anymore, but they are paying 25.
+Adam Harrison: Got it. Okay, that's really helpful. And then do you have most of your patients and all their insurance information like documented in therapy notes at this point? Because we can do like a bulk transfer of that.
+Beverly Curtis: I actually have my nurse working on that because a lot of the insurances have changed in January, you know, so we're updating everything.
+Adam Harrison: Okay.
+Adam Harrison: Because I think that'll be the next step also is we're going to make sure everything goes into Jotsag. All the patient info, all the insurance, all the information on who's self pay, who's not, what their rate is and then you know, probably like payment, credit card info or whatever, we'll get all that into job site, got a therapy notes or wherever else and we'll collect any that are outstanding. Where you know, needed. And then, you know, then we can really start. Doing all the billing stuff.
+Beverly Curtis: Yeah. So, you know, basically the plan is that all the recruiting eventually will come from zocdoc.
+Adam Harrison: Yep.
+Beverly Curtis: And you'll have that information, whatever they enter in Sockdoc, which, you know, it's really a crapshoot what they put in there, but they choose.
+Adam Harrison: Yeah.
+Beverly Curtis: You know, they can choose to put their insurance, the expired card in the wrong email, the wrong phone number. So.
+Beverly Curtis: So I try to, you know, correct that on that first visit, but, you know, a lot of it is there, and a lot of it is accurate, and so then you would have that, you know, availability right there. So.
+Adam Harrison: Perfect. Yeah, that sounds good. I think that is an ideal future state.
+Adam Harrison: Okay, so any last questions, Beverly, before I let you go?
+Beverly Curtis: No, I don't think so. You know, my biggest concern was the schedule and knowing that your IT people will look into that and fix it. I have absolute confidence in that.
+Adam Harrison: Yes. We're gonna get started right away. I will harass whoever I need to harass to make sure it gets fixed.
+Beverly Curtis: But, yeah, and I mean, just to emphasize I love the fact the automatic, you know, piece of it now, I could add into my workflow a double check on that. I'd rather not. Right. Because, you know, I'm already putting it in now. You know, just an FYI, I'm using therapy notes because I'm able to do telehealth through therapy notes, and I'm able to prescribe through therapy notes, which job psych doesn't offer.
+Adam Harrison: You know, we do have prescribing now as well.
+Beverly Curtis: Oh, I did not know that.
+Adam Harrison: Yeah. And then telehealth is coming soon as well, but we are kind of just in the early stages of rolling out. Are E prescribed? Would you want, like, a demo of that?
+Beverly Curtis: Absolutely.
+Adam Harrison: Okay.
+Beverly Curtis: Yeah. Who are you using?
+Adam Harrison: We are using. I'm trying to remember the name. Let me see. I have not been as close to it.
+Beverly Curtis: Doctor first shore scripts.
+Adam Harrison: Hold on. Well, let me. Let me have someone from our team who's working on E prescribe reach out to you, and they can. Share more info. And then if you're interested, they can do like a short call with you to kind of demo.
+Beverly Curtis: Does that mean that work?
+Adam Harrison: I just am not as close to the details there.
+Beverly Curtis: The less. The less, you know, other pieces I have to add in, the better, you know?
+Adam Harrison: Yeah, totally. Yeah. So that is kind of already rolling out. And then the telehealth is. We have. We're working on that still, but that will come soon, too.
+Beverly Curtis: Well, then I wouldn't need therapy now.
+Adam Harrison: That's the dream. That's the dream. That's where we are working towards.
+Beverly Curtis: Yeah.
+Adam Harrison: Okay.
+Beverly Curtis: I'm right there with you.
+Adam Harrison: Five calendars, and so, you know, or too many systems. So we're getting there. It's just. It's a process as you know.
+Beverly Curtis: It's just. It's just. It's too much, you know.
+Adam Harrison: Too much.
+Beverly Curtis: Yeah, you know, and. And it. It's. It just distracts me from taking care of my patients, you know, having to open up job psych and then open up and, you know, I. I had that same issue. I'll just mention one more thing. I had the same issue this week three different times where I thought I was recording in Jodpsych, and it did not record. And I, you know, I'm just trying to figure out why I have that problem.
+Beverly Curtis: And it's mostly if I click from the schedule record and then it brings me to the page where, you know, I see the chart and.
+Beverly Curtis: And the record on the right hand side, and you have to hit that again.
+Beverly Curtis: And I'm racing between patients because I'm already a little late, and somehow I miss that record. I am using Scope Health as a backup recorder just in case I missed something in Jot Psych. So I can replicate the note. But that's my other question that I had, and that is, if I miss recording, what do you want me to do? How, you know, I can continue to use a backup and then read it into Jot Psych. I don't know what else to do.
+Adam Harrison: What would you suggest if you missed recording the audio? Yeah, so normally you would just do a dictation afterwards of like a verbal summary, like about three to five minutes, and that, you know, we can generate the note off of that.
+Beverly Curtis: Okay. All right. And is there a. Is there a template for that dictation template?
+Adam Harrison: You can just use the same template you would use if it were a regular encounter? Yeah, so I would just use whatever the normal template is you use.
+Beverly Curtis: Okay. All right. Yeah, I had that. It was more this week than typically happens, so I'm not sure why, but one was an hour and 20 minutes. Didn't record. Okay, recording. So I. You know, I don't know.
+Adam Harrison: So a couple. I'll show you and then I will let you go. But a couple. A couple quick things that can be helpful. Checks. I'll just share my screen.
+Beverly Curtis: Okay.
+Adam Harrison: So can you see that? Okay.
+Beverly Curtis: Yep.
+Adam Harrison: So what I recommend doing is doing this little check button first.
+Beverly Curtis: Okay.
+Adam Harrison: Just make sure that we can actually hear audio. And then when you actually start recording, you know, this kind of wavelength thing will show up. If I just go on mute for a second, I think this will just go flat. So if. If this isn't, you know, moving up and down, that's kind of a red flag. And then I also recommend kind of coming in here and then just making sure that you pick the, you know, you pick a microphone that you recognize what, you know, whatever that. Whatever that might be. So I.
+Beverly Curtis: I think what's happening is that, you know, I start all that. I have the.
+Beverly Curtis: I have the red button going, and I see the wavelength. Then I bring up the note, because I work from the note, and the note covers that up. And then as I'm scrolling down the note or looking at the note, I think I'm turning it off because it covers it up so I can't see it. And then I'm, like, looking up and down the note, and somehow I clicked it off. Okay, interesting. I think I'm starting it. I mean, I do believe I'm starting it. And then when I'm done with the visit, it's shut off and I don't have a note.
+Adam Harrison: Oh, okay.
+Beverly Curtis: I have maybe a portion of the note or none. And that's because when I look at the note, it covers that up, and I have no visual that it's working.
+Adam Harrison: Because you're looking at the note and doing the recording at the same time.
+Beverly Curtis: Yeah, because it, you know, it brings up the former note, and you have that on the left.
+Beverly Curtis: You have the red, you know, recording button on the right. And then right below a portion of the note, it says, view entire note. So I click on that, and that covers up that column. Interesting. And so then I'm scrolling up and down the note, looking for the medications and seeing what the last thing the patient said in the last visit. I just do that and what my recommendations are as I'm talking to the patient. And then when I'm done, there's no recording.
+Adam Harrison: Yeah, okay. That's really helpful. I see exactly what you're saying. When you click on View note, it covers the thing, and
+Beverly Curtis: I don't know that it's shut off, and
+Adam Harrison: you don't know if it's going or not going. That makes a ton of sense. I'm going to actually flag that as well as the scheduling thing.
+Beverly Curtis: Okay, because it was an hour and 20. 20 minutes this week, and I was furious. I just. Now I have it on a backup. I use Scope Health as my backup, or Doximity, but, you know, it isn't nearly as robust as Dot Psych. And, I mean, I can. I can. It's a skeleton of a note, basically, compared to Dotsy, even if I really work on their templates. So I don't want to have to continue to do that, you know, because then I'm trying to record on two devices, you know, I have two different computers that I've started to use so that I don't inadvertently turn off Jot Psych while I'm looking at my prescribing app, you know, So I actually have Jot Psych on a separate computer now. It's still happening some, but it's just difficult, so. Okay, sir.
+Adam Harrison: All right. Well, thank you, Beverly.
+Adam Harrison: This is always really helpful feedback. So, yeah, I'm gonna bring all this back, and I hope you have a great weekend. I'll get working on these things.
+Beverly Curtis: Do you have a valentine that you're going to celebrate Valentine's Day with?
+Adam Harrison: I do, yes. Yeah. So I will be. We will be kind of chilling. Just making. Making some dinner at home.
+Beverly Curtis: So there you go. Yeah.
+Adam Harrison: She is actually, oddly enough, a psychiatry resident.
+Adam Harrison: So I get a lot of work, you know, in my personal life, and so it's great.
+Adam Harrison: So how about. How about you? Do you have a fun plan, or.
+Beverly Curtis: Yep, Yep. I said to my husband this morning, happy Valentine's Day. And he said, is today Valentine's Day? I said, no, it's tomorrow. He. He had a moment of panic.
+Adam Harrison: That's. That's.
+Beverly Curtis: That's a good strategy.
+Adam Harrison: Good strategy. I think my girlfriend tried something similar where she said, oh, my friend Kelsey is worried that her boyfriend isn't gonna get her flowers. And that was, I think, a very subtle way of saying, you're gonna get me flowers. Right. You know, and tomorrow's. Valentine's. Valentine's Day, so it'll be nice. But I hope you have a great Valentine's Day and a nice, nice, relaxing week.
+Beverly Curtis: Thank you. Thank you. Okay, bye.
+Adam Harrison: Bye. Take care. Bye.
+Beverly Curtis: Thank you. Bye.
+Adam Harrison: Bye.

@@ -1,0 +1,201 @@
+Gail Spade Bailey: And I was watching her, and I was like, oh, this is amazing.
+Gail Spade Bailey: You know, such a time saver.
+Christopher Hume: Well, awesome. I'm glad to hear at least your first experience watching JAT Psych was good. And we can certainly try to make sure your first experience using it is great as well. So I guess. One more question, Gail. Will you primarily be doing medication management? Will you be doing therapy?
+Gail Spade Bailey: Primarily med management. Okay. Yeah. I mean, I think we use a therapy code probably because there's a little bit in each, you know, but it's not like formal. Some of the modalities and so forth that, you know, it's just. I think we have limited time with each patient.
+Christopher Hume: Yeah, of course. And so helps to have a note taker. So you're not spending all your time at the end of the day after those quick sessions writing your notes. What we could do today, Gail, and let me know if you were hoping to get something else out of this meeting, but I'd love to have you open up shotsych. I can walk you through how to record.
+Gail Spade Bailey: Yeah, I have it up and up.
+Gail Spade Bailey: I have it up desktop right now in front of me.
+Christopher Hume: Okay, perfect. Would it work for you if we just went through Jot Psych? I explained the features. We can even do an example note to see, kind of make sure everything's working on your end and then go from there.
+Gail Spade Bailey: Yeah, that would be great.
+Christopher Hume: Perfect. To start, you're probably looking at the Jot Psych homepage. It'll say something like Record encounter. Yes. Yep. Could you push the Record Encounter button?
+Gail Spade Bailey: Sure.
+Christopher Hume: That should take you to our recording screen.
+Gail Spade Bailey: Okay, so I'll. I guess I'll skip the tutorial since you're giving it to me.
+Christopher Hume: Yeah, you've got me. I'm even better.
+Gail Spade Bailey: Okay. Yeah, Definitely better. Thank you. Okay, so I think that this screen. Patient session type date. Yeah.
+Christopher Hume: So where it says patient, you can click there. And that's how you can select your patient that the. The note is about. So let me know if you see that dropdown box.
+Gail Spade Bailey: I do. I. It's a plus sign.
+Gail Spade Bailey: So now I've got the first name last. You know, I can put all that information.
+Christopher Hume: So you can put that in if you'd like, or beneath where it tells you it allows you to input patient information. There's also the option to do a note title. Do you see that?
+Gail Spade Bailey: Yeah.
+Christopher Hume: If for whatever reason, you don't want to put in patient information, you can just name the note. So. January 2nd, 1:00pm okay. And go from there. Once you put in a title or select a patient, let me know and then we can go down and select the structure.
+Gail Spade Bailey: Okay, I'll just put the title in, I guess. Perfect. Quick question. Is it tied into the EMR they use?
+Christopher Hume: So right now it's going to be copy paste into the emr and I can show you how to do that. That integration is something we're working on right now.
+Gail Spade Bailey: Okay, got it. Ready for the next instruction?
+Christopher Hume: Okay, next step. So beneath where you selected your patient, you should see sign that says encounter type or session type. Yeah, type. Yep.
+Gail Spade Bailey: So psychiatric intake. Or let's see, there could be a progress Note or therapy. EM add on psychotherapy.
+Christopher Hume: Yep. Which. Which one? Or let's do EM+ add on psychotherapy.
+Gail Spade Bailey: Okay, got it.
+Christopher Hume: Perfect. And then on the right hand side, you'll see the green. Excuse me, green. Oh my goodness. Purple record button. Could you click that? You might get a pop up that says allow microphone.
+Gail Spade Bailey: Yeah, I'll just say allow. Yep. Okay.
+Christopher Hume: And then, Gail, I'm not sure if your computer is going to be able to hear me from your phone, but I would recommend just say a few things. I saw a patient today, anxiety. I prescribed this and I'm going to see them next Friday.
+Gail Spade Bailey: Oh, so very brief.
+Christopher Hume: Just for the example. Yeah, you can have it running for the full encounter. But just so you see how everything works. You can do a brief.
+Gail Spade Bailey: A brief one. Okay, so I saw this patient, Jane Doe for anxiety today and prescribed her Prozac, 10 milligrams. And I will be seeing her next week.
+Christopher Hume: Perfect. Then you can push the stop button. And then beneath the stop button you'll see something. You'll see something that says generate note.
+Gail Spade Bailey: Okay.
+Christopher Hume: Yes, please.
+Gail Spade Bailey: Okay.
+Christopher Hume: And it should take a few seconds, typically between 20 and 40, to create your note.
+Gail Spade Bailey: Okay, Got my green check mark. And there's like the AI node assistant over to the right.
+Christopher Hume: So you just created your first jutsy node and. And then I think what could be helpful, Gail, is if you kind of review those sections. I'm not sure how familiar you are with your EMR yet, but if these look like roughly in line with what you would need for your emr.
+Gail Spade Bailey: Yeah, I think so. I mean, and this is. Let's see. Yeah, this is just a regular note as opposed to like the initial note.
+Christopher Hume: It's not.
+Gail Spade Bailey: Yeah, okay. Yeah, I mean, it. Manveer was going so fast when I was watching her deal with patients, but it. Yeah, this looks pretty standard.
+Christopher Hume: Okay, perfect. Then a few things I want to highlight here. Next to. On your. The top right ish of your screen, you'll see something that's a sign note, I believe Assign. It's a sign. Oh, on the left hand side you'll see a sign note. On the right hand side you'll see sign or complete note. And next to that you'll see copy all sections.
+Gail Spade Bailey: Oh, you know what? I had to close the AI assistant for me to see that.
+Christopher Hume: Okay, complete note or copy all sections.
+Gail Spade Bailey: Okay, which one should I click?
+Christopher Hume: I just wanted to flag for you that copy all sections. If you push that, it will put. It'll allow you to copy your entire note at once.
+Gail Spade Bailey: Oh, I see. It allows me to rate it one to five.
+Christopher Hume: Yeah, you can. That's just a check. You can. You don't need to do that.
+Gail Spade Bailey: And then once I've copied it, I go into complete note.
+Christopher Hume: You can go into complete note. That's just up to you. That's more a feature for people who are using. Yeah, I would, I would press complete it, but that doesn't change anything except just flag it as completed and allow your supervisor to see it's done. Oh, it won't change anything for you.
+Christopher Hume: Okay, so now you can just paste your note into your emr, into a Word document, wherever it needs to go.
+Gail Spade Bailey: So just so you know, like, even though my note I had that brief, you know, conversation or recording, nothing showed up.
+Christopher Hume: Oh, could. On the top left, could you press the transcript button?
+Gail Spade Bailey: Top left. Let's go back. Maybe I should go to edit or not.
+Christopher Hume: If you. Oh, I'm sorry. If so before, where you saw the button that said assign note.
+Christopher Hume: Yeah, a little below that you should see something that says transcript.
+Gail Spade Bailey: I don't see that. I see the on menu for em +add on. Psychotherapy. So the type. And I see. And then I see off to the left like the notes section.
+Gail Spade Bailey: And you know, everything pretty much says NA under all the sections.
+Christopher Hume: Okay. Gail, could you look at. Can you see. I know you're on your phone, but I'm sharing my screen right now over here. It should say transcript.
+Gail Spade Bailey: Yeah, I'm not. I'm not seeing that. I'm not seeing. All I see are the assigned note to patient.
+Gail Spade Bailey: Underneath that I've got the drop down menu. It says EM plazad on psychotherapy.
+Gail Spade Bailey: And then underneath that is it repeats EM plus add on psychotherapy. Everything else looks the same like the note sections. The. And then the name of the note that I put.
+Christopher Hume: You want to turn me around, Gail, and I'll actually just take a look at your screen and see what's going on here.
+Gail Spade Bailey: Sure. Thanks.
+Christopher Hume: Might not let you switch cameras. You might actually just have to point me at the.
+Christopher Hume: Oh, okay, hold on.
+Christopher Hume: I'll just point you. Yep, there we go. Let me see. One sec. Very. So edit template, then note sections. Could you move me to the right a little bit? I know an A and a. An A. Could you move me a little bit more to the right? Very interesting. Let me. I wish I could. Sorry. You know, it might be helpful. Would you be able to join this meeting from your computer? Because then you could share your screen with me.
+Gail Spade Bailey: Let me see if I've got.
+Christopher Hume: I can send the invite to any email if that would be helpful.
+Gail Spade Bailey: Okay, let me go into my email on the computer and say. Pretty sure you sent it already.
+Christopher Hume: Yep. I'm happy to bring it to the top of your inbox if that would be helpful.
+Gail Spade Bailey: Yeah. Do you mind doing that?
+Christopher Hume: Not at all. And I'm going to do it to Gail S. Bailey, gmail.com or is there another.
+Gail Spade Bailey: No, that's the best one.
+Gail Spade Bailey: I'm in there.
+Christopher Hume: Moment. Perfect. You should get that email in a few seconds.
+Gail Spade Bailey: I could just go back down to the other one. I found your original.
+Christopher Hume: Perfect.
+Gail Spade Bailey: It. It's probably going to take a minute to get the camera started. Oops.
+Christopher Hume: No worries. That's why we like to have these before you be patients and use jot. Psych. Just to make sure we work any of these kinks out ahead of time.
+Gail Spade Bailey: Then it's starting. But.
+Gail Spade Bailey: Oh, there you go. Oh, man, my room's a mess. I'm sorry about that.
+Christopher Hume: No worries.
+Gail Spade Bailey: Yeah, I'm here.
+Christopher Hume: Are. Are you in the meeting? I only see your phone.
+Gail Spade Bailey: Oh, maybe I need to turn that off. Let's see. Switch here.
+Christopher Hume: Perfect. There we go. Can you hear me still, Gail? I can't hear you. Down. Underneath me at the bottom of the screen, you'll see a microphone. It let you check to see which microphone and headphones you're using. You're unmuted. Can you hear me, Gail? I still can't hear you. Okay, I just switched.
+Gail Spade Bailey: Yep, now I can hear you.
+Christopher Hume: Yep. Great. Then could you push the share screen button to the right of the microphone and then share your job site screen. We'll get to the bottom of what's going on here. Perfect. Not quite perfect, but hopefully we can make it perfect. Let's push then the three buttons on the right hand side next to the complete note and the sparkles.
+Christopher Hume: Autumn, the top right, it says complete note. Then you'll see some sparkles.
+Gail Spade Bailey: Oh, on here. You mean on.
+Christopher Hume: On job site on jot. Py.
+Gail Spade Bailey: Yep. Oh, there we go. Sorry. Oh, you're actually.
+Christopher Hume: You're in your Google Meet screen right now, which is why you see the green thing you need to click into to your jot Psych tab and then you can click around.
+Gail Spade Bailey: Okay, there we go. This is actually the first time I've used. I've used.
+Christopher Hume: No worries at all. Almost everyone has issues with it. Yep.
+Christopher Hume: The three dots. Find and replace. This is so interesting. I have never. This is a new one to me. Let's try to record again, Gail. And let's have like a real session since we're together and like, I'll be your imaginary patient. We'll do, I don't know, a couple minutes and see if that helps things here.
+Gail Spade Bailey: Okay. So find and replace. Do you want me anything in there yet or.
+Christopher Hume: No, we can cancel out of there. So let's go back to record.
+Gail Spade Bailey: Okay. So that go back to the. I can like home. Is that kind of a.
+Christopher Hume: You can do that or you can always press record. You'll see it to the right in red.
+Gail Spade Bailey: Oh, got it.
+Gail Spade Bailey: Okay, got it.
+Christopher Hume: Okay, so we'll go.
+Gail Spade Bailey: All right. And let me just go ahead and put your name. Perfect. Okay. And I'll just make up a birthday.
+Christopher Hume: Bam.
+Gail Spade Bailey: Okay. All right.
+Christopher Hume: And let's start recording. You might. You might get a pop up that asks you to share your audio. So just. If you need any help when that shows up, just let me know. But let's scroll up and press start recording.
+Gail Spade Bailey: Hi, Chris, it's Gail, your new nurse practitioner here, and welcome. This is. I know you've seen Manbeer in the past, but I just want to welcome you and see how you're doing today. How are you feeling?
+Christopher Hume: Yeah, thanks so much, Gail. I appreciate you seeing me, you know, struggle with a little bit of anxiety. Typically it's a 4 out of 10, but the past couple of weeks it's been a 7 out of 10. Gail, it looks like just looking at the. It's not capturing any audio. Could you push the stop button? I think it's probably a microphone thing, so.
+Gail Spade Bailey: Okay, so could you put.
+Christopher Hume: Could you push the little gear?
+Christopher Hume: Yeah, you push down here, Which to the right above and to the right just like an inch. Yep. To the left a little bit. And to the left a little bit more. You'll see the gear. Yeah.
+Gail Spade Bailey: Okay.
+Christopher Hume: Okay.
+Gail Spade Bailey: Yeah. Let's see if this one works.
+Christopher Hume: Yeah, let's try again.
+Gail Spade Bailey: Okay. All right, I'll just start recording. Hi, I'm Gail. I'm the new nurse practitioner here, and I've seen man beer in the past, but I appreciate you seeing me. I'm real busy at the moment. Any just want to check in with you. How are you feeling today?
+Christopher Hume: Well, I'm doing all right, Gail. I appreciate you seeing me. I told man veer this last time, but my anxiety seems to have increased recently. Typically, I'm at like a 4 out of 10, but past month or so, it's been between an 8 and a 9 out of 10.
+Gail Spade Bailey: Is there anything in particular that triggered just increasing going on at. At work now or at home?
+Christopher Hume: I recently moved down to Virginia beach, and it just. I don't have a big social network here. And then at the same time, my childhood dog passed away. So it just kind of feels like a lot of changes at once, and it's a little bit challenging.
+Gail Spade Bailey: Well, I can certainly understand when you're going through a rough situation right now and going through a move like that is definitely high on life stress levels. But any problems with your. You know, how has that affected your job? Now? I know that's been real important to you to be consistent with that.
+Christopher Hume: Yeah, I feel like I've been able to stay. Consistent, but it's required a lot more work. Not being able to go to the office, not being able to have those hallway conversations have been a big challenge. And, you know, I'm typically very hungry, always eating. Just the past few weeks, it just haven't really had much of an appetite at all. And I've actually been sleeping less than usual, which is. Yeah, out of the ordinary for me.
+Gail Spade Bailey: I was just going to ask you how you. Your stupid span. And that's typical when you're going through grief, you know, losing your dog and, you know, and stress of moving. Are you doing anything to. To help relieve the stress? What kind of coping tools or strategies are you using right now to get through this?
+Christopher Hume: Well, I'm still taking Lexapro, which I've been prescribed for a few years now, 10 milligrams, but it just. I don't know, it doesn't seem like it's working as well as it used to. Aside from that, maybe a few glasses of wine a few nights a week, but not much else.
+Christopher Hume: And then, Gail, we can probably press the stop button and let's see, kind of. This works.
+Christopher Hume: Okay, moment of truth. Our recording. Let's just. Yep.
+Christopher Hume: Generate note, see what we've got. Oh, thank goodness. Well, I don't want to jinx it, but hopefully we figured out what was going on with those microphones, because that's a huge pain that some of our customers face when it's connecting to the wrong microphone and they think it's. Oh, my gosh.
+Gail Spade Bailey: No, absolutely. And if I am doing telehealth from home and units, I definitely would want to make sure.
+Christopher Hume: Yep, there we go. And they're starting to build them up. And then you can see now in the top left, we do have that transcript button. So I guess that didn't show up because there was just nothing caught at all.
+Gail Spade Bailey: Okay, well, if the microphone was.
+Christopher Hume: That was not much of a transcript.
+Gail Spade Bailey: Oh, this is so great. Yes.
+Christopher Hume: Wow. I'm glad we got it up and running. So then just to kind of walk through again, scale how you get this into your emr, you have the copy all sections button in the up, right. Ish. And then if you want to go
+Gail Spade Bailey: one part, sections were copied to the clipboard.
+Christopher Hume: Yep, yep. And then if you just want to. One section, you can push the copy button on the top right hand corner of that section.
+Gail Spade Bailey: So if you. Yeah, assessment. I could do that. Or go over here, either one the left hand
+Christopher Hume: side, and then push copy selected back where copy all used to be. Okay.
+Gail Spade Bailey: Instead of 19, get one.
+Christopher Hume: Yep. And then just two quick things here, Gail. If you push the sparkles next to sign right here. Okay.
+Gail Spade Bailey: Yep. Assist.
+Christopher Hume: Yep. And that's how you can edit your note. So you could say something like, make the note shorter. Make the HPI a narrative summary, make the entire note more robust, and it'll make those changes for you.
+Gail Spade Bailey: And then kind of ask, you know, assist, type play. Yeah, exactly.
+Christopher Hume: And then the end, it should ask you, like, do you want all notes moving forward or all psychiatric intakes to look like this moving forward? Or is this a change just for this note?
+Gail Spade Bailey: Oh. So if I wanted to, I could put that in there. The instructions. Yep.
+Christopher Hume: So you could customize dotsec. Yeah. It meets your style and whatever you need for kind of your. For Eagle views reporting. The last thing here, Gail, that I wanted to show you is I know there's a lot of sections in here. To be honest, you probably don't need all of them for your emr. If you push that edit template button in the top left. Sorry, to the left. Down a little. Down just a little bit. And to the left. Yep. What you can do here is you can kind of rearrange the sections. You can get rid of the sections, or you can add your own custom section.
+Gail Spade Bailey: No, I mean, it is looks like what I would use anyway.
+Christopher Hume: Yeah. Perfect. Well, hopefully you don't have to touch anything and we're perfect off the bat. But I do know sometimes people need tweaks. I just want to make sure you knew how to do that.
+Gail Spade Bailey: Great. And so the psychiatric template would be. This would go forward, like if I never wanted to. I mean, everything that I would want to do at some point, I would think. Follow up email or. I don't know, I like all of them, but if I. Let's say I want rid of one of them. I could click on here and you would click here. You would.
+Christopher Hume: And then I edit is trash can. Yeah, you press the trash can. Exactly. And that edit button is actually just to edit the title name.
+Gail Spade Bailey: Oh, got it. Okay. Okay. Yep.
+Christopher Hume: Perfect.
+Gail Spade Bailey: Thank you.
+Christopher Hume: Oh, you're welcome. And so, Gail, what I told many of what I was going to do is develop a, like a demo video for you and for the team for the Eagle View team, kind of walking through basically everything we went through today. So I'll be sending that out to you guys either later this evening or tomorrow. So you'll have access to that. But if you need any help at all, in the email I sent you earlier today, you have access to my calendar. So feel free to, you know, if you start using us next week and you're like, what the heck was Chris talking about? Feel free to grab time and we can kind of work through any issues you're facing.
+Gail Spade Bailey: Okay, I know. As far as a customizable one and working with the what's her name claim power emr, I think Mandarin. She has to copy and paste patient's name. And I don't know if it has all the information, but the name, I believe diagnoses and medication, I think those are the things that she has to post in there.
+Christopher Hume: She copies them from JOT psych into her EMR or from her
+Gail Spade Bailey: EMR from the EMR into the job. Okay.
+Christopher Hume: Okay.
+Gail Spade Bailey: I mean, you have to confirm. And she was going really fast and I'm trying, but that's what I. Three things that she always had to.
+Christopher Hume: Okay, that's really helpful. I'll check with Manveer and see if there's any way that we could help. Maybe cut down on the copy and pasting a little bit.
+Gail Spade Bailey: That'd be great.
+Christopher Hume: Wonderful.
+Gail Spade Bailey: Yeah. I really like this. Again, this is going to be, I think, a good trial and error for me over the next couple weeks. I'm glad I have this trial here as well. And unfortunately I still work full time as an rn, so I'm doing the NP just kind of gradually a week until I can transition into full time. But anyway, and mainly just because of benefits. They don't have benefits at Eagle View and I'm working with a large health provide health benefits. So I will eventually move into this. And even Manveer, I mean I told her much I loved this and how, you know, since I'm only working like four days a week, four days a month to start with, it may be as efficient with or not efficient, but makes sense financially initially.
+Gail Spade Bailey: But I definitely would want to do this, you know, especially if I'm working even part time instead of barely coming.
+Christopher Hume: Does that make sense? Oh, absolutely. And that's something I sort of. I told my viewer. But I'll certainly make sure to reiterate that everyone has access to the trial. At the end of the trial we can deactivate accounts, but it's really easy to put those accounts back on. So we hope kind of saving you so much time that you get to use this even in the super part time role. But if you need to take a pause, it'll just be deactivated but still within Eagle View. And then whenever you're ready, we can turn it back on for you.
+Gail Spade Bailey: Yeah, no, I mean again, I love the fact that it's fine and the more I just. The more worth it for me. Yeah. So I don't know. And yeah, I'm going to see. And over the next month I'm going to see how I can move into this. And this is if I ended up getting a another job that's an NP job and still stay with Eagle View, I can anywhere. Correct. I mean it's my account.
+Christopher Hume: So.
+Christopher Hume: Your account currently is in the Eagle View, the Eagle View group with Man Veer as your practice manager.
+Gail Spade Bailey: Okay. We.
+Gail Spade Bailey: So I like people count if I end up signing up because it's a group rate.
+Christopher Hume: Is that correct? Right. It depends on how many people in the group and how long of a period you all sign up for.
+Gail Spade Bailey: Okay.
+Christopher Hume: Yeah. But in terms of Dale, just to answer your question, like what happens if you leave Eagle View and you're like, oh my gosh, we can move your templates to your new account. The reason it's just associated with the organization is because of patient information. We can't be moving patient information between organizations.
+Gail Spade Bailey: Oh, I see.
+Christopher Hume: Okay.
+Gail Spade Bailey: Yeah, I just, I didn't. Because if I ended up, it wouldn't be leaving Ingle View. I'm very. It would just be supplementing, you know, if I'm. If they're not doing benefits, I'd prefer to work somewhere part time that has. And, you know, if I did part time, even part time somewhere else, it sounds like I'd almost have to get separate accounts.
+Christopher Hume: Then there's nothing stopping you from using your. Your JOT Psych account. It would just. You have to just be aware of who can see your patient information. So because you're associated with Eagle View, Manveer can see kind of patient information and notes that you input into JOT Psych. Yeah.
+Gail Spade Bailey: So that would be the. Yeah. Yep. Unless there was a way to segregate that or.
+Christopher Hume: Or you just use it without patient information. Like, kind of. I showed you how you can just use a title for a note as opposed to associating it with a patient.
+Gail Spade Bailey: Oh, I see what you're saying. So I could say. And it wouldn't be man very much, but like the psychiatrist who is. I'm collaborating there. I knew the days I work, you can check the notes on Excuse me, these days. And you could go into that. But I don't think you'd be going into Jot Psych. Anyway.
+Christopher Hume: That's the thing.
+Gail Spade Bailey: Man Bear might like the psychiatrist.
+Christopher Hume: Yep. Well, whenever that comes up, Gail, we're happy to work with you to see how we can make that as seamless as possible.
+Gail Spade Bailey: For the time being.
+Christopher Hume: Yeah, for the time being. You'll have access for the next two weeks, unlimited. And then I'm here to kind of help you get up and running. And then at the end of those two weeks, we can figure out what makes sense for you.
+Gail Spade Bailey: Okay. Anyway, you're like a model patient that actually volunteers information.
+Christopher Hume: Nobody you have to ask.
+Gail Spade Bailey: What's your anxiety?
+Christopher Hume: 10 weeks. I got the panics. It's. It's funny when we do the demos versus when we have a provider be the example patient, they're. Yeah. A little less forthcoming.
+Gail Spade Bailey: Yeah, exactly. So made it easy for the. For the example. For Josh, anyway. Yeah. I feel more comfortable coming in here and playing with it and getting people with it and. Yeah, do this. I'll work on this bit more so that my first patient at 9am I'll be ready.
+Christopher Hume: Awesome. Well, best of luck tomorrow, Gail. Congratulations on the new role and let me know if you need anything.
+Gail Spade Bailey: Thank you, Chris. You know, good luck with weather.
+Christopher Hume: Thank you. Oh, my goodness. Yeah, we'll see what happens.
+Gail Spade Bailey: I hope you, you know, Lots of, you know,
+Christopher Hume: lots of layers and lots of hot chocolate.
+Gail Spade Bailey: Yes, exactly. All right. Thank you for your time and being patient.
+Christopher Hume: No, no, of course, of course. Have a good one.
+Gail Spade Bailey: You, too. Take care.

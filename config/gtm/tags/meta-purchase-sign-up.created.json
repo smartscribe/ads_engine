@@ -1,0 +1,30 @@
+{
+  "path": "accounts/6258528322/containers/200880687/workspaces/24/tags/68",
+  "accountId": "6258528322",
+  "containerId": "200880687",
+  "workspaceId": "24",
+  "tagId": "68",
+  "name": "Meta Purchase - Sign Up",
+  "type": "html",
+  "parameter": [
+    {
+      "type": "template",
+      "key": "html",
+      "value": "<script>(function(){var e=\"{{dlv_event_id}}\";var p={value:25,currency:\"USD\",content_name:\"signup\"};if(e&&e!==\"undefined\"&&e!==\"\"){fbq(\"track\",\"Purchase\",p,{eventID:e});}else{fbq(\"track\",\"Purchase\",p);}})();</script>"
+    },
+    {
+      "type": "boolean",
+      "key": "supportDocumentWrite",
+      "value": "false"
+    }
+  ],
+  "fingerprint": "1777926008659",
+  "firingTriggerId": [
+    "65"
+  ],
+  "tagFiringOption": "oncePerEvent",
+  "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6258528322/containers/200880687/workspaces/24/tags/68?apiLink=tag",
+  "consentSettings": {
+    "consentStatus": "notSet"
+  }
+}

@@ -1,0 +1,110 @@
+Emily Kaiser: Hi there.
+Deon: Hi, how are you?
+Emily Kaiser: I'm good. How are you?
+Deon: Good.
+Emily Kaiser: Good. I'm Emily. Thank you for your interest in Jot.
+Deon: Yeah, I did the free trial.
+Emily Kaiser: Oh, okay, cool. When did you do that?
+Deon: I think under like a day ago. So I think about a week ago.
+Emily Kaiser: Okay. What did you think?
+Deon: I loved it.
+Emily Kaiser: Oh, good. I do feel like it saved you a good amount of time.
+Deon: Oh yeah, definitely.
+Emily Kaiser: Okay, awesome. Good to hear. So. Are you looking to sign up today or what is your thought process?
+Deon: So it almost seems like you guys are geared to be like an EHR system. So I have questions about that. And then I have questions about. The ePrescribe.
+Emily Kaiser: Okay, cool. So I guess if we could start by, if you could tell me like a little bit about your day to day workflow and where you're at as far as are you a sole provider or are you a part of a bigger clinic your sole provider? Okay.
+Deon: Yep, sole provider. Just have my own prior practice. Right now I'm using simple practice. I don't do any billing from simple practice. My billing encoder just does it separately.
+Emily Kaiser: Okay, so we have a third party that handles that. Yeah. Do you use like headway or grow?
+Deon: No.
+Emily Kaiser: Okay, so you just have a independent billing team.
+Deon: Yep, it's just one more mention. She does all my billing.
+Emily Kaiser: Okay. Cool. All right, cool. So I can kind of give you an overview. So you said you're interested in the prescribing specifically and then EHR capabilities.
+Deon: Right. Because it looked like. It could go full blown with the EHR.
+Emily Kaiser: Yeah, definitely.
+Deon: I think it was like the June 99 package.
+Emily Kaiser: Yeah. So let me share my screen here. Now do you currently have a website? Or how does that. Okay, so you're, you have a website, your credentialed with payers. Yep. Okay.
+Deon: Yeah, my path has been open for four years.
+Emily Kaiser: Oh nice. Okay, cool. Awesome. Thank you. That just gives me a better understanding kind of to hear where you're currently at so I can best tailor the demo. Can you see my screen?
+Deon: Yeah.
+Emily Kaiser: Okay. So you did your trial. So you're familiar with basically how to record a session. And all things on notes, correct?
+Deon: Yep.
+Emily Kaiser: Okay, cool. So have you used all of the features as far as the patient portal? Or the patient overview?
+Deon: Not a portal. No, I really just did the notes. And played around with, you know, and making. Off and all that.
+Emily Kaiser: Okay. So if you go to patients here at the top and you click into a patient every time. Clicked it twice every time you record with Rowena, it's building this profile in the background. And this kind of becomes your hub. If you're really using drought cycle like an EHR. As you can see, you can prescribe here, you can send forms here. You can request labs, you can create generate clinical documents, send follow-ups to the patient and collect payment as well. So you haven't seen this yet. Okay. So yep, you just find it right here under patients at the top. Also, you can use the schedule, but let's focus on this for a minute and then we can go through a couple of the other things that you see at the top. But basically, as you can see, it keeps all of the patient's information as far as general overview. If you ever were interested in billing, you can do your billing through job psych as well.
+Emily Kaiser: So that is the portion of it. Here are payments you can set up. It will basically walk you through a couple steps and you can set up patient or set up in your practice to collect payments. But going back to the general overview. Here's where you can see the last encounter. You can see treatment plan. Like I said, every time you record with Rowena, this is building.
+Emily Kaiser: So this is kind of a general hub for, you can see what forms you sent to Rowena. And you can send forms by clicking this. So much like our templates, how much of our templates did you explore?
+Deon: Just a little bit. I think I wanted to know like. I have like my own private practice policies and all of that. I wasn't sure if I was able to upload it.
+Emily Kaiser: Yeah. Yeah. So do you mean to send like a form to send to them?
+Deon: Yeah, for them to like e-sign.
+Emily Kaiser: Yes. Okay. So that would be under form. So templates and forms templates are going to be basically based around what type of session you're doing. And you select your template to determine kind of how your note is structured. And forms are going to be anything. Here I can show you.
+Deon: The templates I was good with. Like really like my E&M and then I would just do the psychotherapy add on. Okay.
+Emily Kaiser: That's all I. Perfect. So there is a library if you haven't seen our library. I can show you that. But you also have the capability in templates or forms to create your own, upload your own or pull from our library and kind of edit that way. To show you exactly how to send a form is. I just went right here at the very bottom. As you can see, this is kind of your go to menu. You're trying to communicate or, you know, do an action item with the patient specifically. So if you go to forms. It's basically asking you to personalize your message. So you'll say your practice name. Let's see what is your practicing.
+Deon: Healing. Psychiatry.
+Emily Kaiser: Okay, I'll just keep it short because this is a demo. Like it'll be saved in here. We can go ahead and delete it afterwards. But this just gives you an idea of what the process looks like.
+Emily Kaiser: So it's required. It'll ask for a phone number. Sorry, I have a couple different demo accounts and the other one is kind of already set up, but that's exactly the process. So you would go to forms and that information would be all set up on your end and you could basically just choose what form you're sending. And then you can send it either text message or email. It'll show you a preview message. And all you have to do is click send. Okay. To show you. All the different forms. They're in our forms library here. But again, you have the option to create or upload your own. So all of these forms are something you can send to a patient. If you wanted to add that one that you were mentioning, you just go to build new form. And you can upload the PDF or whatever it may be. And it may ask you a couple follow up questions to customize it. But that's essentially it would be added to your forms library here. And you could send it via the patient portal. Any questions so far?
+Deon: No, looks good.
+Emily Kaiser: Okay. So just kind of scrolling down and going through it. Same thing. You can see all information around diagnoses, medications, documents, medication timeline. And up here is where you can send prescription. So basically we have, can you still see this? Yep. We have a partner, a prescribing partner, dose spot. So dosebot will open up a separate window. And as you can see, the information transfers right over. So if you are using JotSych as an EHR and it has all this patient patient information in here. You won't need to enter any information twice. So you'll see that it has the patient's address insurance information, pharmacy information right here. And all you have to do is go to add prescription. Search your medication. Select which one you want to do. It's going to have a pop up here to ask you a couple questions as far as diagnoses codes and just information that it needs as a prescriber. You create medication and it'll send right to the pharmacy.
+Deon: Okay. Yeah, I used right now I'm using. Doctor first, but I had those spot a couple times before.
+Emily Kaiser: Okay, so you're familiar with the system. How do you like your current system? Are you just feeling like maybe it's not as seamless as it could be?
+Deon: Doctor first? Yeah, I don't like it.
+Emily Kaiser: Okay.
+Deon: Yeah, it's very. Just a very glitchy and not user friendly. And yeah.
+Emily Kaiser: Yeah, a pain. Yeah. So.
+Deon: We basically do they still send out hard tokens?
+Deon: Say that again. Do they still mail out hard tokens? For those spot?
+Emily Kaiser: I don't know. I'm not familiar with that.
+Deon: Yeah. Because like we can do controlled substances to this.
+Emily Kaiser: Right? Yes. Yes, you can.
+Deon: Sometimes they'll send out like a little keychain. So it'll give us like a little number to enter.
+Emily Kaiser: Oh, I see. Okay. Yes. So. That's a good question on how the process like the hard tokens. I haven't heard that term, but I know that you can do controlled substances and it works exactly the same. So you should have no problem with that.
+Deon: Okay.
+Emily Kaiser: Okay, cool. So any questions on patient portal or using Jot psych as an EHR?
+Deon: No, I mean it looks good. Is there like. I'm trying to think the only one thing I like on simple practice? As like a messaging app between me and the patient?
+Emily Kaiser: Instead of texting. So you would be able to send a follow up. So I would imagine this is going to be your best way to navigate that. So at the bottom there, those five icons, basically it's thinking about your last appointment. Okay. And you can edit the document by doing by going here and giving it any sort of feedback. Have you used the AI assistant on your note taking?
+Deon: No, that's because I was like playing around with that and that's why I was going to ask you if it was possible. If I could like get another free trial just to play with it.
+Emily Kaiser: See, so basically let me show you kind of how to use the AI assistant. So if you, this is basically the follow up and the follow up is being created from the last appointment that you recorded for Rowita. So it's giving like a general overview. But here is where I would imagine you can edit it and say edit this information to, you know, say whatever you're trying to message to your client. Okay. And then you can just go ahead and share that way again sending directly to them via text message or email. But let me show you. If you go under notes, so just the same as if you were to report a session and generate the note. You'll see over here that this is your AI note assistant.
+Deon: Yeah, that I was when I did its audits and everything.
+Emily Kaiser: Yes. Okay. So you were able to so you checked out the auditing feature sounds like. How'd you like that?
+Deon: I like that.
+Emily Kaiser: Okay, good. But you can also go in and the edit and you can basically give it any sort of feedback so you could say. Change summary. To bullet points. Basically editing to your preferred template or your preferred format. Changes the side. And you'll see right here it's asking you how you like this. If you want to use this going forward, you can say yes, train this or no, thank you. And the objective there is just because the more feedback you give to AI assistant, the less we're hoping you have to edit. Basis. So how long ago was your last trial? I know you told me.
+Deon: I'd be like honestly like a week ago, but I was like, I never got to like. Play really with it. Just like this part when that was it.
+Emily Kaiser: Okay are you seeing patients in like this these next couple days?
+Deon: Yeah.
+Emily Kaiser: Okay. So what I'm thinking we could probably do is activate your trial again for like five or I mean yeah five days I think is what it is. I'd have to go back and see because I know that they're they do sometimes it's more of an internal question. So I'd have to see what kind of timeline they would be willing to do in other free trial since you did one already. Are you looking at signing up this month?
+Deon: Like after like the five day trial we're never just playing around with that. I paid the 300 right there.
+Emily Kaiser: Okay the 300. So what are you have you seen basically because we're offering so many new features. Jot psych if you go on jot psych.com just to the website you'll see like a pricing menu basically with all of our a la carte features. So are you thinking of here? I can pull it up.
+Deon: At least that's what I got in my head was 300.
+Emily Kaiser: Log out so we can go to the home screen. So you can see this one. Where are you out of where are you located?
+Emily Kaiser: Connecticut oh nice.
+Deon: Yeah.
+Emily Kaiser: I'm in Michigan.
+Emily Kaiser: Oh nice yes it's cold today.
+Deon: Yeah today it actually got into 60?
+Emily Kaiser: Oh nice that's great. Okay can you see this?
+Emily Kaiser: Yep okay so if I scroll down or just go to pricing here. This is kind of how you can build a package so I know you mentioned the everything package everything package does include job bill. I didn't know if this is the one you were thinking.
+Deon: I guess that's what I was like confused with talk to sales like all add ons included like what is that entail?
+Emily Kaiser: That is everything so if you scroll down here you'll see all of the features. So jot site is basically we do your your website we build you a professional update it sounds like you already have that you don't need that that's not included in that a lot of times people will do like a one time build it's a $99 setup but so everything outside of that so you have the EHR integration so we have a Google Chrome extension basically that you would download. If you wanted to attach it to your current. EHR but if you wanted to operate solely basically it would be job bill drop cred if you ever wanted to like credential with new payers we could help you with that audit which is the auditing feature that you've used and then jot our acts is the prescribing.
+Deon: Oh okay that makes sense now
+Emily Kaiser: yeah so kind of these main ones the EHR essential and obviously security and data so if you wanted to do that that would be the everything package. Do you want to know that we've kind of run through it do you want to. Kind of go back to do a five day trial and then we could send.
+Deon: An equivalent yeah I would love to
+Emily Kaiser: okay let's do that so let me see again I have to double check the timeline see if we can do five days but I will send you let me make sure I have your email here.
+Deon: It's very long.
+Deon: Your email yeah that's my name and then the whole company's name. Unless you got my APR on one.
+Emily Kaiser: I do I have your APRN one is that still a good one?
+Deon: Yeah that's fine.
+Emily Kaiser: Okay. It might be useful when you sign up or what is your Jot Psych account under right now is that that email or your other one?
+Deon: I believe it. S a good question.
+Emily Kaiser: I was just going to say it might be useful to if you but you have account already and we can't really switch the email so kind of scratch that I was going to say it would be useful to be under your business email. But not a big deal. Yeah so again.
+Deon: The email that I have here it's not my business it's my APR on
+Emily Kaiser: one okay okay cool so I will go back and I will see if we can start you for five days and then I will just send you an email confirming do you want to set up a follow up email. Let's do maybe or not a follow up email a follow up meeting? What about the end of the week next week maybe Thursday or Friday just after you do your after you've done your free trial and when you're in the process of signing up or have signed up for your own account and we can kind of just like walk through and make sure everything integrated seamlessly.
+Deon: Yeah what time are you thinking for Thursday or Friday?
+Emily Kaiser: I can do pretty much whenever. What works better for you Thursday or Friday?
+Deon: Let's see what I have for patients. So like Eastern Standard Time like I do like a 11:00 a.m.
+Emily Kaiser: Youm are on Eastern Standard Time yeah okay me too okay
+Deon: so I can do like an 11 o'clock.
+Emily Kaiser: Yeah let's do that 12 o'clock. Here. So are you looking at the 16th.
+Emily Kaiser: Yes okay 11 a.m.
+Deon: works perfectly let me pretend like I'm going back on site to make sure. That you know what email actually have saved on there. Okay yeah it's my long.
+Emily Kaiser: Business one okay no problem. So I'll send you an email once we're able to activate your account and then you will see an email come through for that follow up meeting just go ahead and add that to your calendar we went over a lot of information any questions for me?
+Deon: No everything looks really good just wanted to see more of the flow of it that's all
+Emily Kaiser: perfect all right great well thank you for your time and your interest and we'll talk soon right thank you bye bye.

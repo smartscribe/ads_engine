@@ -1,0 +1,127 @@
+Nathan Peereboom: Good. Oh, sorry. You can't see my screen, can you? Or you can't see me. Let me try that.
+jesseniaolivo: Hey, there we go.
+Nathan Peereboom: Hi, how are you?
+jesseniaolivo: Good. How are you? Thank you for your patience. I'm glad we finally caught up.
+Nathan Peereboom: Yeah, me too. Me too. Yeah, well, my name's Nate. I don't know. Have we met before?
+jesseniaolivo: I feel like we've talked via email, maybe.
+Nathan Peereboom: Okay. Yeah, that's a forward meeting, I suppose. I'm the CEO and co-founder of Jotzych and we are just super excited to launch this new credentialing offering. We've got a few folks already in process. And I know that it's something that clinicians find extremely painful. And as someone who built the products, I can assure you it is painful. So tell me, Jazanie, give me like bring me into your world a little bit, help me understand what kind of patients and clients you see where in the US you're located, what you're looking for, all that good stuff.
+jesseniaolivo: Okay, so I'm licensed in Georgia, Florida, and New York. I work primarily out of New York with some of my patients in Florida, I would say about 80% of New York, 20% Florida. Maybe 15% Florida. Working on Georgia DA. I don't have any George License, Georgia patients anymore at all, not anymore at all, because I'm working on the DEA. So I'm taking workers comp patients. But I'd also like to take regular patients. The insurance is in the way. Yeah, I have my own private patients. They pay cash. But I'd like to take patients, you know, who are using their insurance as well as workers compensations. And even with the workers, compatients, if I'm not mistaken, I need to be credentialed. With whomever they're using. But that would eventually be my primary target would be workers comp patients.
+Nathan Peereboom: Okay. Yeah, that makes a lot of sense. Where are you with credentialing right now and how many payers do you want to be credentialed with?
+jesseniaolivo: I honestly don't have a good grasp on where my credentialing is. I started initially with, I think it was either headway or grow. And they were going to start on that, but I didn't follow up. I know that my current company is working on Medicare credentialing. I believe I have Medicaid as well. I don't, but that's in the works as well.
+Nathan Peereboom: Okay.
+jesseniaolivo: But yeah, I'm pretty much from scratch. I don't. I'm not really credentialed with many. I can pull up the list and just show it to you. I'm not getting any patience with ROM credentials currently.
+Nathan Peereboom: Okay.
+jesseniaolivo: Another question just about your list while we're here.
+Nathan Peereboom: Another question, just like while just so I understand where you're at. Do you have like a personal website and like, is your clinic like online, so to speak?
+jesseniaolivo: It's online. Right now I'm using grow. I'm thinking about switching over to simple practice. Of course, if I get credentialed, I wouldn't go through grow. Yeah, I would just kind of do like a simple practice or, you know, if we can work out something, I can go through you guys.
+Nathan Peereboom: But I mean, like if I were a patient and I were trying to find you, are you like, is it clear like a Zocdoc kind of like no, no, no, like a personal website that's like.
+jesseniaolivo: No. Okay.
+Nathan Peereboom: We find that that is typically like a pretty helpful thing for folks. And we're actually building, we'll build your website for free if you decide to credential with us for this week. It's like it's a promotion that we're running. And what happens is we give you the website and you can either have us host it or you can like host it yourself elsewhere elsewhere. But if that's something that's interesting to you, it's a nice thing to do with the credentialing because, you know, just it's part of moving to have your own front door. You know.
+jesseniaolivo: So I heard the part where you said because it kind of broke up a little bit. I heard the part where you said you would help me with a website. And then you said something after that, but then it broke up.
+Nathan Peereboom: Okay. So if you decide this week to start credentialing with us. We gave the fee for building your website. So we'll build your website for you. And then we'll give you the website and you can either have us host it. And maintain it. Or you can host and maintain it yourself, you know, for obviously we don't charge you at all for if you decide to take the website yourself and then we charge a fee per month to maintain it. But just getting the website built is free if you decide the credential with us. So if that's something that you're thinking like, oh, I'd love at least a version of that. It's another good reason to do credentialing with us.
+jesseniaolivo: Okay. What is maintaining it look like?
+Nathan Peereboom: Maintaining it means that we, you know, we buy your domain, we make sure that the domain is attached to the underlying website as you and your practice updates, we update it. We make sure that patients can schedule directly into your EHR into Jot on your website. You know, when you have new imagery or new text that you want us to update, we'll do that for you, et cetera.
+jesseniaolivo: Okay, so the patients will go through the website for scheduling, for billing and for everything.
+Nathan Peereboom: Exactly.
+jesseniaolivo: And how much is it to maintain?
+Nathan Peereboom: That is $100 a month to maintain. But again, you don't have to, what I would recommend is just see the website because there's, again, it's free to build. If you like it, you know, you can decide what to do at that point.
+jesseniaolivo: Okay. And that's just maintaining it, right? That's not counting. Writing scripts and charting and billing or any of that.
+Nathan Peereboom: Yeah. So are you interested in using jobs like as your electronic health record? Because we do all the things you just mentioned.
+jesseniaolivo: It depends on the pricing. Yeah. Because you guys are a little on the higher side. I really like your job psych charting. So I'm accustomed to it. I use it, but you guys are on the higher side when it comes to the services. Yeah. All together.
+Nathan Peereboom: Are you thinking about having a billing company? Like what are you thinking about for billing?
+jesseniaolivo: Definitely want to have a billing company. It would for workers comp, it's a little trickier. So, you know, I'd have to have someone doing it for me, but for regular patients, you know, that are just straightforward insurance. Yeah, definitely billing, scheduling as much as possible.
+jesseniaolivo: One please if possible. Yeah. Yeah.
+Nathan Peereboom: Well, let me just show you kind of what we offer on the billing side just so you have all the information. Okay, so the billing system is kind of the crown jewel of Jobspych. It's hybrid AI and human. And what it does, and you've probably seen this, is it takes your pair documents, it audits your notes with those pair documents to make sure that the notes are really good. It then codes the encounter. And then submits auto appeals, et cetera. So your experiences, you walk into your EHR. All the eligibility is already checked. You do your encounter, we write the clean claim. You sign it. We send it out to insurance. And then, you know, and then we'll auto appeal. We'll deal with patients, all of that jazz.
+Nathan Peereboom: So that's the offering.
+Nathan Peereboom: It's priced between four and 8% of revenue. And if you do the 8%, it's like you're getting everything. I mean, you're getting eligibility checks. Payer documentation. You know, clean claim generation and submission, reconciliation between your ERA and, you know, your contract automated appeals, automated updates, a pair rules. You will detect underpayment in your bank account if that happens. We'll send bills to your patient and deal with that. And you'll have a dedicated billing manager. So the extent, I mean, and of course it's a la carte. You can choose what you want. But the goal here is we want to be your business in a box. We want you to be able to practice clinical care. We want to be able to take away all the administrative work that you don't really want to do. And you don't have to worry about that. None of it's like there's no requirement for contracts or lock in or anything like that. So I think credentialing is like a great way to start. It's a great way to like just, you know, get the ball rolling and you can decide to take that to a different EHR should you choose. But we want you to know that like we're ready to take care of you if you would like to stay in our system.
+jesseniaolivo: Do you guys ever work with workers comp? Because that's a little trickier.
+Nathan Peereboom: We I'm sure, I mean, I can check with our billing team. I can't imagine we haven't. My understanding is that it's very, very similar to at a built out of billing level to. Traditional either government or commercial. Processes. But, but we could check, but we do work with clinics that are working with 50 different payers for a zillion different reasons. I can't imagine that it's not somewhere in our system.
+jesseniaolivo: Would do you guys are you guys familiar with prior offs?
+Nathan Peereboom: Yeah.
+jesseniaolivo: Okay. Because with workers comp a lot of times, let's say if we're giving them a specific medication that's not on the formulary, that's commonly prescribed for whatever their diagnosis is. We still have to put in a prior auth. And even if we were to bump up the medication just a little, we have to put in a prior basically every time any little change is made. We have to put in a prior auth for medications. And that takes up a lot of time. So I was wondering if billing covers that.
+Nathan Peereboom: Yeah, I mean you how do you currently do prior auths?
+jesseniaolivo: So right now the company that I'm at does it for me. The company I was at before I did it for myself. So, you know, I handled all of the prior offs and took the patients hence why I left because it was too much. But now my house, my wheels turning and I'm like, okay, I know how to do both sides. I can do this for myself. And maybe just get help or assistance and then just kind of do it on my own. Yeah.
+Nathan Peereboom: I think that. Prior auths should be a part of our billing suite. So I would be, I can again, I can check. But that's something that you shouldn't have to do. If you're, if you're billing with us, we're trying to do like everything for you. Like we're really trying to own everything.
+Nathan Peereboom: So I can't imagine that we would put prior auths on your feet.
+Nathan Peereboom: That would probably be a part of it. Probably part of the eligibility system. Which, let me see, let me pull this up. So when we do eligibility, we check to see if prior auth is needed. And and I think as part of that, we could probably just submit it for you.
+jesseniaolivo: Yeah. Because that would work is, let's say the person's eligible. Now I'm seeing them for the first visit. I prescribe something. Now I normally end up prescribing something that's on the formulary that's covered by the formulae. But then I have, you know, your outlying patients where either they're, they're allergic. They've tried it before. It doesn't work. They've tried those. They don't work. Or, you know, they're taking something else that's outside of the formulary. That's when I'd have to, when the step has to be taken to put in a prior auth, which is basically the medical documentation. Basically. Logging into the workers comp portal, submitting medical documentation and then putting the reason you need it basically is with the processes. And they like to decline. And then I appeal it. I just put in the same exact documentation again. And then by the third time it's approved.
+Nathan Peereboom: What a nightmare.
+jesseniaolivo: That's so fresh. So that's so I mean, I guess if you're doing workers comp, then it makes sense. But so you do, right now I have the. Job site AI scribe where I can order labs and it does the notes. Yep. I think I saw an addition if you do your medications through there. It's an additional, I think 150 a month or something.
+Nathan Peereboom: No, no, no. It's just $69 a month to do $69 a month.
+jesseniaolivo: Okay, 69. And then. I guess that would cover everything if we're doing. Just trying to add everything. And then if you're doing billing, that would be 8% of whatever the billing is. Yeah. I'm not sure what the comment billing is.
+Nathan Peereboom: Pardon me?
+jesseniaolivo: I'm not sure what the common billing is because I've been doing it cash from my own patients and then through a company. Yeah. That just pays me salary.
+Nathan Peereboom: Yeah, yeah, yeah. Well, the way to think about it is if you work, if you work on like through grow or headway or rule, usually they take around 20 to 35% of your revenue. So that's like one benchmark standard billing companies operate somewhere between six and 8% If they're onshore. And then there are cheaper billing companies that operate like at three to 5% if you hire a team in the Philippines or something like that. So what you have to, the question for you is really like. You sound like you have a sort of complex billing situation. And so my advice to you would be like. You know, use a great billing company. You know, us or someone else who's just got like a sterling reputation and, you know, has a sophisticated system. What we hear with the offshore teams is that there's a lot of communication challenges. When things get complicated, they get lost, you know, et cetera. So. What else would I say? The other thing that's really nice about the reason to do billing with jobs like as opposed to any other billing company, and you really shouldn't bill with us if you don't believe in this as an idea. But the reason that we are a powerful billing engine is because we're using the payer documents which tell you what your contract is with the payers to write the documentation that you then bill for them. And so the fidelity of that is just higher. Like it's just a better, the notes are better, the claims are better, the appeals are better. And all of that results in just like higher revenue. And we also have the ability to check to make sure, hey, you know, like the fee schedule changed, but did what we're charging to the insurance change. So all of that is built into the machine, you know. And I'm not aware of any other billing company that does that. So, so that would be like the reason if you wanted just a really sophisticated billing company, like that's kind of like where our sophistication comes from. And that's the theory of victory.
+jesseniaolivo: Well, I really like John Sai. I feel like you guys are super responsive.
+jesseniaolivo: So that's why I tell them to you guys.
+Nathan Peereboom: Well, I appreciate it.
+jesseniaolivo: Yeah. Very responsive. So, you know, I love that. What would the credentialing look like? What would be the pricing for credentialing?
+Nathan Peereboom: Okay, so credentialing is $350 to start and then $300 per pair. So, but then, you know, we can work out a discount depending on how many pairs you're, you're thinking of. How many pairs are you thinking of? Because we can back into some, some kind of concession based on that.
+jesseniaolivo: Yeah. This is a bit of nude territory for me. So, if I'm being honest, I really don't know what is the amount of payers that I should have to make. It. Reasonable or fluent or, you know, just get a fluid amount of patients. What's the typical amount?
+Nathan Peereboom: Many clinicians do 1015, but if you're just starting out, I mean, one thing that's nice is you can start out with a small amount and, you know, decide, hey, I'm going to gradually like move up. The thing with credentialing is that you want to get the clock started as fast as possible. So if I were in your shoes, I would do like five pairs, you know, start out with, you know, the like five large pairs. In your area. See how the credentialing goes, you know, just get confident with the way that we do it. And then if you want to do another 10 after that, do another 10 after. But just getting five pairs and a new website that like, you know, explains who you are, what your philosophy is, all that jazz is going to be enormously helpful and just kind of kicking the tires and getting rolling.
+jesseniaolivo: Okay. Okay. And are you guys, do you credential with Sedgwick?
+Nathan Peereboom: Credential with anyone you want us to credential with? So yeah, I mean, we, it's an AI system plus humans. So anything that, you know, any kind of weird turn we can figure out.
+jesseniaolivo: Okay. Okay. Do you have package deals if I do the prescribing and Johnny Scribe?
+Nathan Peereboom: We do package. Yeah. So there are different tiers. So if you wanted to do. We don't have a special discount for AI scribe plus e prescription, just to be clear. The deal that we're running for credentialing again is the website. The deal we run with billing is we don't charge you for any of the billing features inside the product. So I think you should think, oh, my EHR is going to probably on a subscription basis cost. But we do, this is one thing we do drop the cost of the scribe to $99. So the subscription cost of the e-prescription plus scribe is $168.
+jesseniaolivo: Oh, okay. So total 160.
+Nathan Peereboom: 168, but yes.
+jesseniaolivo: Because I think I'm paying now 150.
+Nathan Peereboom: Yeah, you're paying 150 right now. Yeah. So I guess there is a discount when you do it.
+jesseniaolivo: So I guess I'll definitely be signing up for the e-prescribe for sure. Okay. And then I have to think about where would I want to do? Who do I want to designate as the payers? The first five at least or six or whatever we're going to do. I know Cedric is one of them. I also wanted to do like no fault. Are you familiar with that? Like no fault cases.
+Nathan Peereboom: Okay.
+jesseniaolivo: Yeah. Okay. So do I need to like, would I have to add like Geico as a payer of some sort? Is that how that works or I don't even know.
+Nathan Peereboom: I don't think so. Here, let me show you what you should do.
+jesseniaolivo: Okay.
+Nathan Peereboom: So share my screen. This is all you have to do and you can search through all of our pairs. So if you go to jotcred. What you do is you drop in documents. When you get to step two or three, it'll ask you which payers you want and you can select the exact pairs you want. So I would go here. And get started just by dropping documents in and it'll start filling out things as you go.
+jesseniaolivo: Okay. Okay. So go to, I'm sorry, start me from the beginning.
+Nathan Peereboom: So go to yeah, totally. Okay. Oh, you can't, sorry, you couldn't see the screen. Okay. So if you go to jotcred there, you should get to a screen that looks like this.
+jesseniaolivo: Okay. Okay. Got it.
+Nathan Peereboom: And you can just like drop in every document you have from a pay or from. Oh, I guess we need to add some language here about what we need. But you'll see, oh, this, yeah, this is missing some stuff. But what we need, let me send you the list. We need. Pull this up for you. But it's things like your DEA license, your resume.
+jesseniaolivo: Like, oh yeah, of course. Right. Yeah. Resume, my degree. Yes.
+Nathan Peereboom: Okay. Oh, my computer's frozen. Okay. So I'm going to send this over to you and like, and then we can, and then you, if you want to just upload that, is this something that you could maybe get done like today so that we can just get started.
+jesseniaolivo: I think so. I think I have everything that you would need.
+Nathan Peereboom: Okay, amazing. Yeah, I think my computer is officially frozen.
+jesseniaolivo: So at least by tonight at least I'm moving things back and forth. But I think by tonight I can have everything in.
+Nathan Peereboom: Okay, great. Well upload again, I'll send you an email after this, but upload everything. We'll get started on credentialing. And then what we'll also do is we can build, I assume that you would want that free website built for you too, right?
+jesseniaolivo: Yes. Yes, absolutely. And then also, okay, and the website is what 100 a month you said.
+Nathan Peereboom: Yep. But to build it is free and you don't have to sign up for, you know, the maintenance of it if you don't want.
+jesseniaolivo: Okay. Okay. Got it. Got it. Okay. So that's optional, the 101 right fully optional.
+Nathan Peereboom: Just sent this to you.
+jesseniaolivo: And then I'd like to add the e prescribe as soon as possible. Because I'd be paying $10 more. Pretty much. It sounds like.
+Nathan Peereboom: Yeah. So let me set you up. With an intake meeting for ePrescribe.
+jesseniaolivo: Okay.
+Nathan Peereboom: Let's see.
+jesseniaolivo: Okay, let me find this. Let me look at my schedule. Okay.
+Nathan Peereboom: So, oh man. That's not good. Okay. Actually, let me just go to.
+jesseniaolivo: Okay, so that's going to be Monday again.
+Nathan Peereboom: Are you free later today?
+jesseniaolivo: Yes, depends on what time though.
+Nathan Peereboom: Okay, how would. 5 p.m. eastern sound to you?
+jesseniaolivo: That's good. I can do 5 pm. Okay. Yeah, that's good. That's perfect actually.
+Nathan Peereboom: Stop sharing this.
+jesseniaolivo: Okay.
+Nathan Peereboom: So I'm going to say. Drop our x onboarding. Okay. Join. Me find yours. Great.
+jesseniaolivo: Send.
+Nathan Peereboom: All right, perfect. So you are set up with time to get rolling with e-prescription. So you're going to get that started today.
+jesseniaolivo: And you'll be okay. Okay. Thank you.
+Nathan Peereboom: Amazing. And then let's just set up a little bit of time to touch base about the, so for the website, we like to do an intake like interview. Where we essentially ask you about, you know, your story, what you care about, your aesthetics, like what basically just all the stuff that we would need to know. Can we. Set up a time to do that?
+jesseniaolivo: Every Monday, the upcoming Monday anytime?
+Nathan Peereboom: Coming Monday? Any chance every Friday?
+jesseniaolivo: Friday. I'm fully booked.
+Nathan Peereboom: You're fully booked. Okay, let's do it Monday. Monday. Let's see. Okay, how does Monday 5:00 PM Eastern sound?
+jesseniaolivo: Yeah, that's fine.
+Nathan Peereboom: Yeah. Okay. Website. Design intake.
+jesseniaolivo: Actually for Monday, can we do because I have to pick up my daughter from Sakura at 5:30. So can we do 4:30?
+jesseniaolivo: Yep, that's great. 4:30 is good.
+Nathan Peereboom: Okay, great. Do I have your phone number?
+jesseniaolivo: Yes.
+Nathan Peereboom: Okay, great. Yeah, I think I thought we'd been texting.
+Nathan Peereboom: So I'm going to also just send you a text to give you an update on like the credentialing situation. Because we're going to try and get everything submitted by the end of the week. If you get us those documents tonight, again, it's just, it's one of those things where once the sooner you get it out the door, the faster, the faster it comes back.
+jesseniaolivo: Okay. All right.
+Nathan Peereboom: Text. Okay. So I'm going to send that to myself. I think we should be good.
+jesseniaolivo: Yeah, and I'll get the list of like, I know Cedric is definitely one of them and I have to look through the others. There's like two major ones that go through workers comp. And I always see Sedgwick, I see the Geico. I see Allstate. Because I would want to do kind of my focus would be workers comp and no fault.
+Nathan Peereboom: Okay, great. Yeah, that sounds like a plan.
+jesseniaolivo: Okay. All right. Thank you.
+Nathan Peereboom: Great. Thank you. Take care.
+jesseniaolivo: All right. Take care.
+Nathan Peereboom: Bye.

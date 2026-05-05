@@ -1,0 +1,114 @@
+Marcus Irven: Good. How's your train?
+Adam Harrison: Pretty smooth. Pretty easy.
+Marcus Irven: Yeah, it usually is.
+Adam Harrison: Yeah, not too bad. How's the rest of your evening?
+Marcus Irven: It was good. You went out for dinner and then came home and went to bed?
+Marcus Irven: Yeah, you know, usual Tuesday night. Usually don't go out for dinner on Tuesday night, but we had some, we had some point. So that was good.
+Adam Harrison: Nice.
+Marcus Irven: All right, I saw your questions. Good questions. So first of all, apparently it is only sms, but email would be easy enough to add if that's something we want to do. You did not get SOS you were doing on Alpha, right?
+Adam Harrison: Yeah, yeah.
+Marcus Irven: Alpha isn't set to set SMS, SMSs. I'm actually getting ready to turn that on. I was working on that right before you sent your message actually. So I have to do a deployment but I'm going to actually just go ahead and do that right now because this one is very safe. So I'm going to merge this and then so It'll be about 10 minutes or so I'll be able to send SMS's from Alpha.
+Adam Harrison: Okay.
+Marcus Irven: There is no connection with appointments at the moment. Was that something that was kind of promised? I don't think Those on the V1 list, I'm not quite.
+Adam Harrison: I don't recall if it was V1 or V2, but I was just curious. Maybe one question is like what is different in the current payments system versus like what we had before you started working on it? Just, just because I'm not sure I'm like fully caught up.
+Marcus Irven: Yeah, sure. The probably the biggest one is the ability to save payment methods on the patient and then auto charge them.
+Marcus Irven: So before, the only before the only thing we could do was send an invoice and then it was up to the patient to pay and they had to do that every time. Now if we have a saved payment method that'll automatically get charged and then also related both the patient can like I guess if you didn't get the sms, you didn't see the invoice yet but they could click save this pay payment method for later also now the provider or whoever can go into the patient record and the patient page and like enter payment and payment methods for them.
+Marcus Irven: Okay, so that's all, that's all new.
+Adam Harrison: Yeah, I can see these here.
+Marcus Irven: Yeah, excellent. Those are all, all open. But if you were to go on to your patient. You could do this now. Yeah. And add a payment method. Good. Go to the payments tab there.
+Adam Harrison: Here.
+Marcus Irven: This page. No, the there. Yeah. And you can add a payment method.
+Adam Harrison: Okay.
+Marcus Irven: And you can do. You can do 424242, 42. For the card number, however many four, choose the. Yeah, yeah.
+Adam Harrison: All these.
+Adam Harrison: Keep all these Mercury cards.
+Marcus Irven: All right. And then any expiration date. That's in the future. Not too far in the future, I guess. And then any cvc, because this is a Visa. Any zip code. Doesn't matter for testing. And you don't have to do this. In fact, I wish I could. I wish I could turn this off, but I can't seem to figure out how to disable this. So just ignore this and save the payment method.
+Adam Harrison: Okay.
+Marcus Irven: Now you'll see there's a payment method. Now, if you send this patient a charge. See how the language changed? Charge on the bottom right.
+Adam Harrison: Very helpful.
+Marcus Irven: Go ahead and send. Send yourself one of those. Now you'll see one. It shows you the payment method. You could add a different one. You could do them. Go and do the amount. And charge. And then. So this time it's going to. It'll send an invoice to the patient still. But it's not gonna. It's not. It's no longer a request for payment. And you'll see here on the invoices there, that. Does that. Need to refresh. Yeah, there you go. The $1 was paid. It might need to try refreshing that page. I'm surprised that it came through, though. So I'm not sure why it's not showing up in the all.
+Adam Harrison: Okay, hold on. Sorry. For some reason, I'm like, no, this is.
+Marcus Irven: There you go. It's there. So I'll have to look into that because it kind of happens asynchronously. So it doesn't. The pages that get the refresh, I'm surprised it showed up in the. Anyway, so you can see them. They're all here. You can click on the invoices to see the invoice link. Like the. The. Maybe it's on the other. Right. That right there. That probably opened another tablet. Oh, no. There you go. I can see the invoice. This is the exact same link that the patient gets. I think it's the same. Looks the same. You see the information there. You download it. The other thing is this stripe. Good to know. Is this stripe link. When the patient gets it, it will show in the language of their browser. One of the requests is sort of multilingual support. So if they are Spanish, you have the browser set to Spanish. They'll see this in Spanish. The other thing that we added that's new is on the patient itself. If you go back to the patient, I'll go to the overview or actually I think the pencil icon on the top. Right. We are going to have our designer look at this page soon. It's a mess. But yeah, this is a preferred language. Now see where it says English.
+Adam Harrison: Preferred language. Which section is it in the contact information?
+Marcus Irven: Oh yeah, we have support Spanish. So the SMS are in Spanish or English depending on this preference. So that's new.
+Adam Harrison: Awesome. This is great. This is great. Yeah, it's nice. You can see kind of a log here.
+Marcus Irven: Yeah. So that shows just for that patient. And then if you go to your practice. Yeah, that is going to show everybody. Customer probably should be patient. We should change that language. Oracle. Yeah, there's a lot of tweaks that need to happen here. This is, this is. This. This is what was there before. But.
+Adam Harrison: Okay, so with regards to an organization.
+Marcus Irven: Yeah.
+Adam Harrison: Would this. If I have like a front desk, I forget the. You know, maybe it's Operations support.
+Marcus Irven: Yeah.
+Adam Harrison: Can they request a payment from any patient currently or.
+Marcus Irven: That's a really good question. Currently, anybody who can see a patient can request it, but I'm not sure. I gotta go to test and see what access they have. But I guess that's the desired state. Right. Is that the operation support people can new patience?
+Adam Harrison: Yeah, I can check on what Valcor has, but yeah, they basically have a front. This is a. They have a front desk team. Well, I'm not sure what they're set up as. Let me look. But they would be the ones doing the request, not the clinicians.
+Marcus Irven: Okay, let me look into that this morning and it will be. It should be an easy. If we. If it needs to be changed. I can't remember what Operations support has access to. If they have access to patients or not. That's.
+Adam Harrison: I'm just looking here the only thing. So I think, I think probably operations support is the role that will need this. Yeah.
+Marcus Irven: Yeah that makes sense to me would be my guess.
+Adam Harrison: Although practice administrator, maybe they already have access now.
+Marcus Irven: Practice administration. Yeah. I'm gonna, I'm gonna go test all the org stuff this morning.
+Adam Harrison: Okay.
+Marcus Irven: But I can make it. So. Yeah, I want to be careful about committing but for sure, for sure. But I think I can make it. I don't, I don't anticipate any problems making it so that by 3 o'. Clock.
+Adam Harrison: All right.
+Marcus Irven: But again they're not gonna be able to do anything until they connect their, their stripe account. So that's going to be sort of like the.
+Adam Harrison: Yeah, that'll be. That'll buy us a little time. But yeah, I think think. I think operations support is the right role. Yeah.
+Marcus Irven: Yeah.
+Adam Harrison: They shouldn't be able to see. Well, they can view clinical notes as operations support.
+Marcus Irven: Okay but great, then they should be able to view patients access all. It says right now that they can't access all patient records, but it seems like they to me.
+Adam Harrison: I think operations support probably shouldn't be able to view clinical notes. Maybe it depends on the organization.
+Marcus Irven: All of this, all of these org role stuff is such a mess.
+Adam Harrison: Okay, so.
+Marcus Irven: So we're due for like revisit of like what, what are these roles and what should they do? Okay. Not that we can do a full audit of that today, but at least we can start the conversation and try to get it so that at least we can support alcorts.
+Adam Harrison: Okay. Maybe I can also treat today as a little bit of like a discovery call then of like hey, in the, in the front desk. Like you know I, I would. I think they need to see like all the profile stuff and appointments, but probably not clinical information. They probably want to keep like some kind of iron curtain between the non clinicians and like the diagnoses and the medications and the notes for a given patient.
+Marcus Irven: Yeah, I think, I think that's a great idea. But I can. So basically you want to demo what we have and then what they need. Is that the idea? And then the next steps will be getting them connected and getting them set up.
+Adam Harrison: Yeah, I think so. I think that feels right just because I think we are number one. They still have to set up their stripe. Actually. Can we see if they have stripe set up already or not? I'm not sure if they do. That would be good to. Validate for ValCort.
+Adam Harrison: Let me see here.
+Marcus Irven: Just send me their organization ID and I'll just do a quick database query, I think.
+Marcus Irven: Oh, it's not going to be quite so simple. Yes, send them to me and give me a few. Give me. I'll give you into that after this call. I don't think we should. On the admin page. Yeah, just send me that and I'll. I'll check. I need to surface some of that in the admin tools.
+Adam Harrison: Okay.
+Marcus Irven: Do you try sending yourself to do another text message now? I think. I think I should send on. On the alpha environment now.
+Adam Harrison: Oh, on alpha. Yeah. Let me go back there.
+Marcus Irven: And then maybe it's good idea for us to, like, do a quick review of Nate Stocks and I'll. I'll kind of show what's there and not there.
+Adam Harrison: Yep, sounds good. You wanted me to send another payment?
+Marcus Irven: Yeah, send a payment to yourself and hopefully you get the text system.
+Adam Harrison: Okay. Charge your payments.
+Marcus Irven: It doesn't matter, you know, text.
+Adam Harrison: Okay.
+Marcus Irven: The message is a little bit different, but.
+Adam Harrison: Yep, just got a text.
+Marcus Irven: Okay, great. So, yeah, that's what the patient would see.
+Adam Harrison: That's like charged $1 to your safeguard. Sorry.
+Marcus Irven: And you can click on and see that. That invoice. Same. The same one that you were looking at from the provider's point of view.
+Adam Harrison: Great.
+Marcus Irven: So there's basically four messages that we send. We send two in English and two in Spanish. One if you have a. If we charge you one of the payment request. So that's good. Now, did.
+Adam Harrison: Sorry, Marcus, Was there. Was there like a recurring payments. Things that you said was in this version or that's the next version.
+Marcus Irven: There's no recurring payments thing. Not sure what. There's definitely. That was definitely not on the V1 list. Can we. Should we switch to.
+Adam Harrison: Switch to the docs?
+Marcus Irven: Yeah, I've got it open here. I could share.
+Adam Harrison: Yep. And my other question was just on the, like, EOS thing, that. That is, like, something they're going to ask about. So I just want to, like, have an answer for them there. Whether that is like, hey, we're working on it, or. Hey, it's not going to happen. Or like, hey, we can set it up next week or in five weeks.
+Marcus Irven: You know, honestly I haven't spent too much time looking at pos. I think it's definitely doable. But I think the question is, is the ability for them to do it, you know, enter them manually into here. Is that, you know, workable or unfeasible?
+Marcus Irven: Yeah, we'll start with this. Yeah. Like I think this should suit their needs. I'm. And then we should spend. I mean if POS is like a really important to them, like we can spend some time on it. I'm guessing it's not tons of work, but honestly I just haven't had it feels low priority. Yeah.
+Adam Harrison: Let's see if this works for them. I agree.
+Marcus Irven: All right. Can you see my screen? Yeah. All right, so this was the V1 Updates 4 Changes card on file. This. So this is what we have now. Sure. Context where this is not there. But I asked, I asked Jackson about this and he said this. We can't do this yet. So we don't really have the information because there's nothing to. We're selling the patient obviously. But the amount basically is the thing that like that'll come later when we get some of the other billing stuff in place. But we like that amount. We just don't have it anywhere. So. And link to the payment of that payment to that counter. Yeah. Although. So that. That's. This is interesting, the payment to that encounter.
+Adam Harrison: Yeah.
+Marcus Irven: I should add something in the back end that just adds up that ID to it. But I don't think that's user facing. That's more of a data relationship thing. Save card on payment page. That's. Yeah, that's. If you were to send yourself a payment you would be able to do that. And then it's in card. POS. That's what we just talked about. So that's V1. And then if we go to. There was some of the stuff for V2 did get done. Not the automated follow up dashboard. I mean not fully. Right. You can't. You can kind of go look at the payments but not like you can't like
+Adam Harrison: filter or chart or stuff like that.
+Marcus Irven: Yeah. There's none of that's there. Payment plans. No. Pipeline view. No. I don't even think this is something we'd be ready to build. Yeah. Spanish language. Yes. Refunds of write offs. No, That's it. Okay. Those are the things. So that's kind of where we are.
+Adam Harrison: Okay. And the Spanish language just to recap that shows up in the SMS that the patient gets and anywhere else or and the invoice as well.
+Marcus Irven: The invoice is. We can force the language, but I end up going with the let Stripe thing, which it supports whatever language the user has got their computer or their browser or whatever set to. So I'm assuming that you know, Spanish speaking people Spanish so they'll see it in Spanish.
+Marcus Irven: If they have it in English, it'll be English. So that if that comes up as a request, like to force it into a language, we can do it. It just seems, seems like it's better to let Stripe do its thing.
+Adam Harrison: Okay, got it. Okay. Anything else we should go over now, you think?
+Marcus Irven: I think we covered everything. Has there been a request about emails or. You were just curious?
+Adam Harrison: No, I was just curious.
+Marcus Irven: So the thing that I'll do some looking at between now and then just to get a better understanding where we are is sort of like the org management side of the things. And I'll check and see if our court is set up or not. I don't. I doubt they are, but I'll check and see.
+Adam Harrison: Okay, perfect. Yeah, those are just the two questions I had on my end. Other than that, I think my objective for today will just be kind of like do, do a demo so they know the basics of kind of how it works. See if they, you know, answer any initial questions they have. See if there are other like core functionalities we're really like missing at this point. Whether it's, you know, I don't know if it's going to be around reporting or scheduling or pos or like what is sort of most burning for them. So maybe we can get some sense of prioritization from there. And then lastly like tbd, maybe we help them set up their own account. We might have to do like a second session to, to do that depending on the org permission stuff. So I guess I'll just stay posted on, on that and we can play that part by ear.
+Marcus Irven: Okay, great.
+Adam Harrison: All right.
+Marcus Irven: It's a three o', clock, right. I'll be, I'll be available.
+Adam Harrison: Okay. Yeah, it's. It's up to you, I think. I think I'm comfortable to kind of run with it, but if you want to join, I think. Of course, like always, always great to have you. So. But you know.
+Marcus Irven: Yeah, yeah, I do have a 230 to 30. 3:30. But I could definitely miss the second half of that. I think it could be valuable just to, like, kind of hear what they're saying, but I could also watch the green later, so.
+Adam Harrison: Yeah, either way. Either way.
+Marcus Irven: So either way, I'll be available to hop on if, you know, if something comes up in Union, but it sounds like you. If you're able to do the demo and that's the focus, then we should be. Should be good.
+Adam Harrison: Yeah, it should be okay. Should be okay. If there's any burning, like, issues that, you know, maybe. Other than that, I think you're probably good.
+Marcus Irven: All right, cool. Sounds good.
+Adam Harrison: All right. Thank you, Marcus.
+Marcus Irven: Talk soon.
+Adam Harrison: Bye.

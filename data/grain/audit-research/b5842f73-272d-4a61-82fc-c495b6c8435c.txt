@@ -1,0 +1,147 @@
+Christopher Hume: Hey, Monica, how are you?
+Monica Dyer: Hello. I'm doing all right. How are you?
+Christopher Hume: Good. Happy Friday. So nice to virtually meet you.
+Monica Dyer: Yeah, likewise. Sorry. Yeah, I had a patient right up till 2:30 and had to run around and grab, grab some water and stuff.
+Christopher Hume: No worries at all. We certainly, certainly know how it is. Appreciate you taking the time.
+Monica Dyer: Yeah, likewise.
+Monica Dyer: So I got to meet with Jack.
+Christopher Hume: Yeah.
+Monica Dyer: Been using jot psych a bit for. Let's see, how many have I done? Almost 10, I think 11.
+Christopher Hume: Great.
+Monica Dyer: Okay. And I haven't done much modification because I'm just really behind on my charting. I'm getting everything kind of up and running and just got credentialed with new insurance this week. So I had like a flurry of new appointments and but yeah, it's been, it's been really useful.
+Christopher Hume: Great. Yeah. Any questions or feedback so far or things you wish were different?
+Monica Dyer: Well, I wish the cost was lower. Yes, I was looking into. Yeah. But depending on what he said, I could talk to you more about for like the insurance and the billing, you know, whether or not it could be more worth it for me.
+Christopher Hume: Yeah, no, absolutely. So I'd love to kind of walk you through. Got bill our new billing features. So we have audit protection, we have eligibility checks and then we're rolling out our ability to build to payers as well.
+Christopher Hume: We're working with a few customers now on the doing their billing, working with some more who are doing eligibility checks and we have a big group of people who are working on us with us on audit protection. But happy to kind of walk you through all those, figure out if we could turn on maybe some beta features for you and then go from there.
+Christopher Hume: Does that sound like a plan, Monica?
+Monica Dyer: Yeah, yeah, that'd be great.
+Christopher Hume: Wonderful. Well, I guess to kick off and I'm sure you, I think, sure Jack has already asked you a lot of these questions so my apologies if any of this is duplicative but would love to hear a little bit just about your practice sort of what setting you practice in. Is it a solo. Are you a solo provider? Are you part of a bigger org? How does it work?
+Monica Dyer: Yes, I was, I was laid off from university from federal funding cuts last summer and so started my solo practice which was the eventual plan. Just kind of had to accelerate that process.
+Christopher Hume: Oh gosh.
+Monica Dyer: But yeah, it's working. It's a lot. Just sort of started the beginning of this month. Being able to see patients and so yeah, solo practice, doing psychiatry and trauma therapy. I'm like family nurse practitioner and psych practitioner. So kind of like integrative mental health.
+Christopher Hume: Wonderful. And so how did you find your, your patients and clients? Did you. Are you using like a growth therapy or a headway or how did that work for you?
+Monica Dyer: Headway. I've only gotten two from there so far, but a lot of my people from the university are following me to private practice.
+Christopher Hume: Wonderful. Okay. And then in terms of sort of eligibility checks and billing, I know might be a little early in the game to ask you how that works for you as you're kind of getting up and running. But, but how are you doing that now to make sure kind of coverage? And you're submitting to billers only Headway for my.
+Monica Dyer: Well, I do have Alma as well, but no, yeah, nobody. I haven't gotten anyone through there, which is a bummer because I paid for it. But yeah, headway has been the sole billing. I have another EHR that I'm thinking can work better. So I'm trying to set everything up that can work from outside of the country as well for travel and then potential eventual move abroad. But so headway can't work that way. So I do need another way to bill that would. Would be allowed to be operated from outside the U.S.
+Christopher Hume: absolutely. That sounds really, really fun to explore. Move abroad. So that's an exciting event on your horizon.
+Monica Dyer: Yeah, definitely.
+Christopher Hume: So this is. Forgive my, my lack of understanding here, but can you. For patients that you brought over from the hospital or who followed you or excuse me, from the university, you can. Even if you didn't receive the patient through headway, you can, you can still bill through headway.
+Monica Dyer: Yeah, I can add them on there and then they'll just send me their insurance card and I drag and drop it on there and it'll do the verification. See they're in network.
+Christopher Hume: Okay. And then typically, what are the. So I know the fees if headway provides you with the customer with the patient is typically somewhere between 20 and 30%. Is that the same if they're just doing billing for you or how does that work?
+Monica Dyer: All I know is the reimbursement rates from their contracts with the insurance companies. And so it's pretty much the same across the board. Okay. From what I know, from what I get, I think so. I don't. I don't think they charge any extra for people that they find.
+Monica Dyer: It's just like they'll connect and then they're getting some off the top for everybody, so. Yep, of course.
+Christopher Hume: Okay. And that is super helpful. So what we'll do now, Monica, is I'll kind of walk you through an overview of Jotville and some of our features. And my CEO Nate was in a.
+Christopher Hume: Is in another meeting right now, but. But he'll join us just to kind of introduce himself and tell you a little bit about JOT Bill as well. And then we can see if there's a good fit here if you'd like to try some of the features and then we can go from there.
+Monica Dyer: Does that.
+Christopher Hume: Good path ahead?
+Monica Dyer: Yeah, sounds good.
+Christopher Hume: Perfect. Monica, while I'm getting my screen stuff here, I'd love to. Where are you currently based?
+Monica Dyer: Just outside of Austin, Texas.
+Christopher Hume: Oh, wonderful. Okay.
+Monica Dyer: Not too cold yet here.
+Christopher Hume: I was gonna say I'm in D.C. and I'm supposed to spend the weekend in New York, so I'm pretty jealous of your weather right now.
+Monica Dyer: Yeah. Are you gonna be able to travel or.
+Christopher Hume: No, I'm definitely gonna be able to make it to New York. I'm a little concerned I won't be able to come back, but yeah. Okay, wonderful. So JobBill, it's a hybrid AI and human billing service. We have some AI portions of the product, but then of course, we have kind of billing specialists in the loop too. So just like to emphasize that right off the top that if you do decide to use Job Site and Jotbill, of course we have all this AI functionality, but we do have people involved to sanity check everything and to make sure everything kind of stays on track for you. So how it works is we see JOT Bill as the full suite of billing related tools that we offer so we can do eligibility checks before the patient shows up. We. With JOT Psych, you create a very robust clinical note, which hopefully you've seen so far. But if we turn on our job audit features that does is it actually starts crafting the notes to line up with the requirements from various payers. If you have a patient who has Cigna, say it can make sure that the note meets cigna's requirements. But if, God forbid, there is an audit in the future, you know your note is going to be way above board and that you're going to be have the best chance of beating that audit.
+Christopher Hume: And then, you know, then you sign the note and JACEC will submit it to the submit it to the claim for you.
+Monica Dyer: Okay. Yeah. We also need to make sure they're covered for the patient so they're not like, oh, I can't consume see you anymore, my insurance said something or another. Yeah.
+Christopher Hume: Exactly right. And it's also, you know, this is all, you know, relatively new to me, finding out the ins and outs of insurances, but the fact that someone can be covered but not covered for certain CPT codes or they're covered and their coverage is active, but they've already had so many sessions this year, so they're actually not. It's a. It's a real web of challenges.
+Christopher Hume: And so jot Psych checks to all of those and kind of sets the eligibility checks apart.
+Monica Dyer: Yeah, the web is an understatement.
+Christopher Hume: I know. And it. And it's funny now, right now that I've started working in this, I see it everywhere. I was at the dentist yesterday, I was going back, and they're like, oh, we're actually doing an eligibility check and our system's slow, so you're going to need to stay in the waiting room for a little bit longer. Oh, my gosh. I can't get away from eligibility checks.
+Monica Dyer: I see them at work.
+Christopher Hume: I see them in my. Yeah, my appointments. Personal appointments. Well, my dentist. Digression aside, how jot psych is. Excuse me. Jotbill is priced. Is for eligibility checks, it's 90 cents. An eligibility check. For the actual billing itself, it's 4 to 8% of successful collections. Again, I don't know for certain, but I know growth therapy and Headway, I typically significantly higher than that. So certainly something to look into. If you're interested in Jotville. I think we might be able to get you a little revenue back there
+Monica Dyer: once I'm individually credentialed through Headway, but I'm working on the individual one.
+Christopher Hume: So how long in. I think it varies state to state. How long does it typically take to get credentialed on your own, Monica?
+Monica Dyer: Depends on the insurance company, but anywhere from a week to four or five months.
+Christopher Hume: Oh, my goodness.
+Monica Dyer: Yeah.
+Christopher Hume: Well, Monica, it looks like Nate, our CEO here, just joined. So. Nate, we were. Monica, I have just been started going through the job build deck, talking about what we have to offer. Monica recently started her own practice. He's using Headway for a lot of her billing and credentialing. And I'm just kind of walking through what Jotbill has to offer to see if there's anything we can roll out while Monica's trying out job site.
+Nathan Peereboom: Awesome. Monica, I know that you probably talked about this with Chris, but can you just give me some background? Like, what's the attraction in moving away from headway for you?
+Monica Dyer: Well, I'm trying to set up my practice to be functional outside of the US and you can't even log on to headway if you're not within the US So that's a big one. But then. I'm working on the individual credentialing as well for that purpose, and just because it can bring you more revenue and I mean, Headway doesn't have a scribe built in, so that's silly.
+Nathan Peereboom: Awesome. That's exciting. Where outside the US Are you trying to build your practice?
+Monica Dyer: I mean, my patients would still be here, but I would live and maybe kind of digital nomad at first to figure out where. But, yeah, it'll be a few years off just trying to get everything set up early on. My husband's in the immigration process here in the US and everything's so dicey that I'm like, let me just go ahead and get everything ready just in case we need to go.
+Nathan Peereboom: Okay, cool. Yeah, I just got back from Mexico City and I was like, you know what? Maybe I'm going to become a digital nomad. Yeah, it's a great life. So help me understand, how big is your current practice outside of Headway right now? And again, I know you probably already said this to Chris. I'm sorry.
+Monica Dyer: No, it's okay. I just got started this month, but I was at a university job until last summer, and so I have a lot of my patients from there that have joined me in my private practice. So I just got credentialed with Blue Cross blue shield, like, two days ago. And so that brought on, like, congrats. 12 or 15 or so. But I probably have 20 something patients right now. But I'm, Yeah, building slowly as I figure out my systems and try to keep up.
+Nathan Peereboom: How do you currently do billing outside of Headway?
+Monica Dyer: Out of pocket, just private pay because I don't have credentialing with other insurance companies.
+Nathan Peereboom: What. What percentage of your current patients are on Blue Cross Blue Shield that you would like? Just, oh, like, hey, I can now take your insurance. And it's amazing for them. It's great. For you about.
+Monica Dyer: Yeah, like, probably 60%. Like 50.
+Nathan Peereboom: 60%. Oh, wow. Okay.
+Nathan Peereboom: So you really do need to kickstart this billing thing. What's important to you when it comes to billing? Like, what are you looking for? There are a lot of options out there. I'm sure. It's kind of overwhelming. What's important to you when you think about, you know, your billing partner?
+Monica Dyer: Well, I mean, access for my patients to be able to work with Marketplace plans and potentially Medicare Medicaid. Would be good because it's, it doesn't, it's not nice to be like, oh, I can't, I can't help you. Like, we don't, I can't use this, this insurance. Yeah, yeah. Still getting used to being a part of this side of things versus just showing up and taking care of someone. So, yeah, access is really important. I mean, I used to do like street medicine in San Antonio, and so I have a lot of contacts of people who are, you know, trying to get off the streets and may have like a marketplace plan or Medicaid or something and would love to be able to, to help them.
+Nathan Peereboom: Yeah. Okay, that makes sense. So you're really looking for someone to help with credentialing too, it sounds like. Because credentialing is how you, you know, actually are allowed to bill for, for any plan, right?
+Monica Dyer: Yeah, I have, I have a friend who is helping me. She used to do that as her full time gig and so she's. Yeah, just helping me get that going.
+Nathan Peereboom: Gotcha. Let me. Can I make a suggestion to you as you go through this process?
+Monica Dyer: Yeah.
+Nathan Peereboom: Okay, so first of all, so exciting. I mean, starting your, your own practice. I mean, look, we're entrepreneurs, you know, we're like in a small company. We're starting up, like, energetically. I just like, feel where you're coming from so much, and I'm really happy for you.
+Monica Dyer: Thank you.
+Nathan Peereboom: The way that we've designed our billing, like, onboarding process, it's designed to give someone like you, like just a little toe dip, several toe dips, so that you don't have to make this decision all at once because it's a big decision, you know, like working with a billing partner. You know, that's a relationship where you want to trust the people you're working with. You want to be on the same page about, you know, what CPT code goes for, what encounter, how appeals work, you know, how like they see the world, how fast they are to respond to you and all that. So, Chris, do you mind, like, popping down to the, the timeline? There's a timeline slide, I think, like, I don't know, it's like 20 slides in front of us and I think. Let's see. Yes, okay, that one. That's perfect.
+Nathan Peereboom: Okay, so here's how, if you were interested, you could dip your toes into this process with us. So we start out with like an introductory call where basically like, we just want to interview you about your patient population, what CPT codes you use, you know, how you do telehealth what's painful for you right now. And then we move you into eligibility checks. And so what we do for eligibility checks is just that. And we run those. It's 90 cents a check just because we use human beings for some of the pieces and parts of it, but it's a really good way for us to understand. Understand who you're like, what your payer mix is, how, how to work with Blue Cross Blue Shield in your area, all that. Then what we do is what's called a JOT Audit calibration. Now do you have JOT audit on your account right now? No.
+Nathan Peereboom: Okay, I'm going to share my screen with you. So you're already using JOT Psych, right? So you kind of know JOT Psych. Okay, so we have this program that's the core of our, you know, billing program called JOT Audit. And what it does is on every single note, it will flag if you've put in like a CPT code that we disagree with and then it'll actually like go and you know, fix the things that, you know, we're recommending. So if you're for example, missing like an mdm, you know, you know, issue, then we'll, we'll go and like, we'll fix it. And you know, you can see exactly like which rules you're compliant in which you're at risk. And, and then you can always go to your, your job audit screen and you can actually see all the rules that we have for your notes and you can see like which notes for any given one of them which are in violation, which are in warning, which are in compliance. And this is how, this is the backbone of how we do billing. It's, it's really, really like state of the art. We, you know, we'll upload all your Blue Cross Blue Shield documents here and these rules will auto generate and then we'll be able to check for your notes before we write a claim. We'll be able to make sure, hey, for the CPT code that you wrote, your notes support that CPT code because that is the biggest mistake that people make.
+Monica Dyer: That's the biggest mistake people make.
+Nathan Peereboom: Some people look and they say, hey, I'm billing, this is great. I'm just submitting claims. And then they get audited and 30% of their revenue gets clawed back. And it's really, really tragic. Chris, do you mind sharing that timeline again? So the next thing that we do, so we do the eligibility checks, then what JOT Audit calibration is, is we'll actually sit down with you and we'll show you, hey, here are your last 10 notes. Here's what we would have built for them. Here are the rules that we're using. And we'll take all of your Blue Cross Blue Shield documents so that you've got something really custom. Then after that we'll probably not do the analysis because you're not billing yet. But if you were billing before, then we'd actually look through all of your previous claims and do a denial analysis and all that. But then at that point, you can decide if you want to go live with us or not. And there's no pressure. There's no integration, there's no time commitment. It's completely fluid. The reason we do it that way is because we really believe in our product. We think that the best sales strategy for us is like, hey, just give people exposure to the product and trust that they see the magic. So what I would say is, you don't have to make a decision about this anytime soon. You can decide if you want to walk through. Through this, this cycle. We're here to hold your hand. We're here to give you a guardrail and a handrail. And at any point you can decide, you know what, I actually, like, want to do something different. So let me pause. I know I've just kind of been talking. Does that make sense? How does that sit for you?
+Monica Dyer: Yeah, so would I, because I am currently billing through headway. So I could put like, which one this one was going for. So it would still apply before I'm credentialed to. This would still be useful.
+Nathan Peereboom: Yeah, totally. And if you have. You did I hear that you have 20 patients who are kind of off of headway that are like, just, you know, you're seeing private pay.
+Monica Dyer: No, I have, I have a few. I mean, I. Before I could accept their insurance, they were like, paying out of pocket. So some of them. Yeah, there's not that many that are going to be solely private pay.
+Nathan Peereboom: Yeah. Well, one thing that we could even do is we could help you, like, collect their insurance information. You know, we could, we could. We have an intake form in our software so you could, you know, you could. What. What ehr do you use Headway?
+Monica Dyer: And then I'm trying out charm ehr.
+Nathan Peereboom: Okay, so we could, you know, help you by, you know, sending an intake form to all of your current patients and be like, hey, this is great. You know, Monica is now, you know, credentialed with Blue Cross Blue Shield. You know, you can fill out this little form, we'll take that insurance information and we can run eligibility checks just to get you rocking and rolling. And then if you choose, if you, if you would like, you know, you can record those encounters with jobs. Like, we'll submit the claims for you. And again, we can run the whole job audit process too, before you actually have to move over. But, but that would be my recommendation. My recommendation would be collect. Collect the Blue Cross Blue Shield insurance information for those patients. They're going to love it. They're going to be so happy.
+Monica Dyer: And I'm not individually credentialed the Blue Cross Blue Shield yet that I'm credentialing through headway with them. Oh, I'm just starting out, like the individual credentialing process.
+Monica Dyer: So that verification thing is going on through headway right now.
+Nathan Peereboom: Okay, cool. That makes sense. That totally makes sense to be applicable. Yeah, totally. Well, how about this? Just in the interest of, like, moving things forward, because I know Chris and I have to run, why don't we set up a meeting to do the intro call where at least we collect the documents to do the job audit for you. And that'll be really easy, you know, like, we'll, you know, we'll just get on a call, you help us by giving us, you know. Hey, these are the CPT codes I built for. These are the. The documents I use, these are like the. You know, the flot. You know, this is my philosophy of. Of, you know, care. And then what we'll do is we'll also put a meeting maybe a week or two down the line from that, and we'll just get on a call and be like, hey, what did you think of the JOT audit results? You've been seeing them on every note. Give us your feedback. Let's walk through the last 10 of them, and then you'll have more information. You may be credentialed by then or not. And then we can decide where to go from there.
+Monica Dyer: How does that sound? Yeah, I. I'm working next week, and then one day the following week, and then I'm taking, like, 18 days off for travel.
+Nathan Peereboom: Yeah. Okay, so it sounds like we have to get this done really early. So it sounds like we.
+Monica Dyer: Or on the other side of that if. Because, yeah, I would have a greater chance of being credentialed individually by then with some companies because my friends been working on it for a couple of weeks now.
+Nathan Peereboom: Perfect.
+Monica Dyer: But, yeah, that might be better. Well, because I'd have, like, a consistent amount of time to put into it.
+Nathan Peereboom: Okay, so let's do this. I've got an idea. Let's collect the documents. Let's do your intake meeting next week. That way we can set it up while you're gone, and it can be ready for you when you come back. And then what we'll do. Chris, do you mind writing. Jotting this down? Let's put like a. Let's put a 60% discount on Monica's first month just so she's not getting charged for the time that she's away. And that way there's no, like, discontinuity between, you know, the before and after of your travel. How does that sound?
+Monica Dyer: Okay, and what's the. What's 100%?
+Nathan Peereboom: Oh, 150 bucks a month.
+Christopher Hume: Okay, so Monica, just to jump in here and. Sorry. Monica actually recently rejoined with the honest user rate.
+Christopher Hume: So her first month is $20 anyway, so.
+Christopher Hume: Oh, my gosh, Monica, you have more than 60.
+Monica Dyer: I was like, okay, is there another. Another charge on top of it? Because.
+Nathan Peereboom: Oh, my gosh, I must have. Chris, you must have gotten me. You must have really taken me out for a drink the night that I agreed to $20 a month. All right, well, let's do this. How Does Wednesday at 3:30 sound for our jot audit intake?
+Christopher Hume: 3:30 Eastern.
+Monica Dyer: Nate.
+Nathan Peereboom: Yeah, sorry. 3:30 Eastern.
+Monica Dyer: Yes, that. That works.
+Nathan Peereboom: Awesome. Okay, great.
+Monica Dyer: So 2:30 Central.
+Nathan Peereboom: Awesome. Chris, do you mind sending out that invite? I'll just leave that in your hands. And then. And then when do you get back from your amazing trip?
+Monica Dyer: On the 23rd.
+Nathan Peereboom: 23rd. A second. Okay. Wow. Wait, this is far more than 18 days. Or. No, it's not. Okay, so you get back on the 23rd. Oh, so a full month from now. That makes sense. All right, and then why don't we do, let's see, Columbia and Bolivia. That's amazing. Oh, you're already.
+Nathan Peereboom: Okay, so let's do this. Do 1pm on the 23rd. Let's just do a little reorientation. Like, hey, you know, this is what jot audit is. This is how it works. And then a week later, we'll do our job audit calibration. So how. How does. How do those times sound for you? So that's 1pm Eastern, 12pm Central on the 23rd.
+Monica Dyer: Day. Okay, 23rd. I do already have some patients lined up that day.
+Nathan Peereboom: Oh, that's totally okay. We can. We can move it around.
+Christopher Hume: All right. Nate, you said the 23rd. And what was the second date?
+Nathan Peereboom: I think we're doing the 23rd as well. So it's two twenty thirds. Oh, wait, no. Is that right? No, no, no, sorry, 23rd. So we're gonna do something on the 28th.
+Christopher Hume: Yep. Yep. Okay. Yep. And then the 23rd of.
+Monica Dyer: Oh, good.
+Monica Dyer: And yeah, you said February. What time that day?
+Nathan Peereboom: We're flexible. What's good for you?
+Monica Dyer: Okay, I have a 1:30 to 2:30 appointment. So you said one. So it'd be like, how long would the coffee.
+Nathan Peereboom: Probably just 20 minutes.
+Monica Dyer: Okay. I could do 1:00 clock central, 2:00 clock eastern.
+Christopher Hume: Awesome. I'm 23rd of February.
+Monica Dyer: Yeah, perfect.
+Nathan Peereboom: Chris, does that work?
+Christopher Hume: Oh, yeah.
+Nathan Peereboom: Perfect. I'm going to be in a doctor's appointment.
+Christopher Hume: Chris, are you going to be.
+Nathan Peereboom: Okay, we've got it. And then let's do a jot audit calibration call. How does 1:30 on Monday? The second sound?
+Monica Dyer: Is that February 2nd?
+Nathan Peereboom: That's March 2nd.
+Monica Dyer: Okay, March 2nd. That's, that's fine. I don't have any. One lined up then. Awesome.
+Nathan Peereboom: So 2:30 our time. 1:30 on March 2nd.
+Monica Dyer: Okay, cool.
+Nathan Peereboom: Monica, I'm excited. I think this is going to be amazing. I really can't wait to, you know, go on this journey together. And yeah, as I, as I said at the beginning, like, we believe in small business. You know, like, we really believe in entrepreneurship, and we're super excited to hopefully walk down that road with you as you build your business.
+Monica Dyer: Awesome. Yeah, I think these could be some really cool tools. Is there any future prescribing within.
+Nathan Peereboom: For, for prescribing? I. We literally just signed a contract to, to build to. With the like for all our DEA paperwork to get this going. So I hope that by the time you get back, we have full prescribing.
+Monica Dyer: Okay. That'd be awesome. So is it functioning? Can it function as an ehr, like legally? Yeah, like, that could be the standalone.
+Nathan Peereboom: Yep. We do the whole kit and caboodle of like, we save your note for seven years. We, like, have all the HIPAA compliant stuff on the back end. A lot of people do use us as their ehr, actually. So, you know, scribe or prescribing is like the one short poll in the tent for psychiatric nurse practitioners and psychiatrists. Yeah. But as I said, we're going to have it probably by the time you get back.
+Christopher Hume: Okay, perfect.
+Nathan Peereboom: Monica, I'm. Yeah. Thank you again for the time and I really look forward to seeing you on Wednesday.
+Monica Dyer: Okay, sounds good. Thank you.
+Nathan Peereboom: All right, you too. Thank you.
+Monica Dyer: Bye. Bye. Bye. Bye.

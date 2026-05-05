@@ -1,0 +1,133 @@
+Tracey Sanderbeck: Hey Becca. Tracy, how are you?
+Becca Bressler: Good, how are you?
+Tracey Sanderbeck: I'm good. Well, not very good, but that's okay.
+Becca Bressler: I'm sorry to hear that.
+Tracey Sanderbeck: I really wanted to be doing more today, but Wednesdays are a terrible day anyway, and my EHR is for the past two days. It's. It's. It's just. We just, you know, the. What's the servers overloaded and we can't send.
+Becca Bressler: No.
+Tracey Sanderbeck: Can access charts and we can't. It's just been an absolute yesterday. It didn't start till a little bit later today. Monday. It's just been. So today's not a good day. But I do have a little bit of feedback real quick.
+Becca Bressler: Yeah. Yeah. I would love to. And then if there's more, we can find time later on.
+Tracey Sanderbeck: Or I plan on. You know, adding some to the schedule and actually trying it. But I wanted to because the patient did send. She did respond. And this is what she said to me. Hold on a minute. I'll show it to you so that you can. It'll make sense probably to you. It doesn't necessarily. Oh, wait a minute. No, that's not the right. You have so many apps of things. There it is. Okay, so tell me if you can see this. This is what she wrote back. She said it's there. That's where she was getting that. When she clicked on that.
+Becca Bressler: Yes, yes. That makes total sense. That. Yeah, I flagged that. So that is noted. And part of the problem is appointment reminders aren't working. The other part is the telehealth link wasn't being included in the appointment reminder. So, like, that's something that we need to add so that the user can click on it there.
+Tracey Sanderbeck: Okay. So, yeah, all three of them said the same thing, and so I just. And by the time length, the afternoon came, my morning guy couldn't do it. And he sent me the same thing. And then by the time I saw her. The problems had started with the EHR and all that stuff. And then I noticed something else that was weird. Let me think. Hold on one minute. What? Okay. You know the new. Let me share my screen so I can show you what one thing I discovered. And I don't know. I'm going to keep an eye on it. To see if this is actually it. But I noticed this today. So, you know, like. I had somebody. Hold on. Let me think. Let me think how I triggered it. I think it was from yesterday. I can't remember how I triggered it. But you know how I had the. I had the people on my schedule, and then I clicked on them for yesterday. Yes. What I ended up doing was taking these people like here she is. I actually, like, deleted her off of the. See how it doesn't say telemedicine. This was one of the telemedicines. This is one of the other telemedicine.
+Becca Bressler: Can you. Can you click it for a second, though? Can you click one of these quick? Yeah. Yeah. So the telehealth isn't selected there.
+Tracey Sanderbeck: Right? Because what I did was I deleted the telehealth visit, because when I had the telehealth visit on there and then the patient couldn't access the telemedicine visit because they were on my schedule under telehealth every single time I clicked record, it was. It came up the telehealth and I couldn't. I couldn't do anything with it because it was. It was. It was still. It was still capturing this as a telehealth visit. Does that make sense?
+Becca Bressler: Would it not let you hit start recording?
+Tracey Sanderbeck: Oh, I don't know. I didn't try. I just. I thought that if I hit record, then it was gonna. You know what? I. That might have been me that.
+Becca Bressler: That's helpful feedback. Like your impression was. I can't record this.
+Tracey Sanderbeck: Because it's going.
+Becca Bressler: Yeah, that's so helpful to know, Tracy, because the reality is you would have been able to record. But if you didn't experience, if you didn't think that, like, that's a design problem for us.
+Tracey Sanderbeck: You know? Okay. And then here's something weird that I did. I also noticed, and I hope it's not just me that's having. I mean, if it just might be this microphone thing ever since we did whatever we did yesterday, I keep having a gift permission for my microphone. But what I noticed was, you know how you guys design that new thing? I probably can't do it. And. Okay, let me attach a patient real quick here. Let's just pretend it's him. Okay, you see how this is. I don't know if it's because we're. I'm sharing a microphone now. But when I. What I noticed was that one when I, like, access the telemedicine thing and then deleting it without somehow something to do with that telemedicine thing, it. It knocked this out. So, you know, like, right when I'm on here, you know how you guys have it set up that it. Ll bars going up and down. So it'll have that red dot. It's. It's not doing it. It's like I'm here. And even when I have. The. When I'm not on a meeting, when I'm just sitting here, this isn't happening. And it happened after I had. Clicked into, like. I think it was a telemedicine or something to do with a telemed visit. And then. So I had to go out and.
+Becca Bressler: Alfred, Tracy. I actually think it'd be really helpful for him to hear this. But do you have to run? Do you want to, like, re.
+Tracey Sanderbeck: I know you have a crazy day. No, I booked off, like, 40 minutes for this because I had a 20 minute slot and I didn't think it was going to be enough. And somebody moved their appointment. So I have a few minutes.
+Becca Bressler: Yeah. Okay. Okay.
+Tracey Sanderbeck: And I even thought it was because this automatically now my thing automatically goes to next instead of app. And I thought I kept trying to put app, but now it only goes to next. I don't know if that is important or not. Yeah.
+Becca Bressler: Let's see what else to say.
+Tracey Sanderbeck: Remember how. Remember how before it would say. App John.
+Becca Bressler: Now you're on next.
+Tracey Sanderbeck: Yeah. Now I'm on next. And that's when I started having, like, issues with the. Like now I have to. Unless I refresh. Not every time. But this morning, every time I would have to click into this and. And give permission. And now when I sign on to jot site from fresh, I have to. I have to go here and give permission. It's not. It's not like the default is to not get the default is set somehow to not give permission. And that's since I switched to the next. I don't know if that makes sense. Hi, Alfred. I'm good. Thank you. You want me to. You want me to go through it with them real quick?
+Becca Bressler: Yes, please. Tracy.
+Tracey Sanderbeck: Sorry. Okay, so what I was telling Becca was, since I've been. Oh, can you see. Can you see my screen now for her now?
+Alfred Souza: I see an infinite. Mirror. So I. I am seeing your screen, but I think it's. You're sharing the Google meet. Yes.
+Tracey Sanderbeck: So now can you see my screen?
+Alfred Souza: Yes, I can. Yeah.
+Tracey Sanderbeck: So I got switched over because of the telemedicine thing. I got switched over to next instead of app. Since that happened. Whenever I sign on a jot psych, I have to. Every single time give permission to for the microphone. And then also I notice, and I'm sure I was trying to tell Becca exactly, but it had something to do when I didn't actually do a telemedicine visit because there's been a little bit of a glitch with the patient getting on the telemedicine, and Becca knows that. And so. But what happened, what I noticed was you see how I'm on here now, and I think it's because I'm sharing my microphone now, so I'm not going to get it. But I'm not getting that. You know how you guys change the thing? So it's the red dot so we can. Even when we're before we're recording, we can see the microphone is working. Yep. It's not doing that anymore for me. Now, later on this afternoon, when I refreshed and I restarted and everything. It started doing it again. But first, initially, like, after I went into a telemedicine visit or on. To where I got thrown into a telemedicine visit when I. When there wasn't one and I had to go delete it, that's when it started to happen. I wasn't getting a red dot. So it's kind of stuck like this. And so then I refresh. And then. Then it will start back up. So I can keep an eye on it and see if that continues or. I don't know if that's something that you. Is some sort of little. If. If it's a user error on my part or if it's. I need to test it out more tomorrow. Which I can do.
+Alfred Souza: No. There. Shouldn't. Be any problem. I guess. More. Concerned or curious about the fact that it's asking you always. To allow for the microphone. So that could be related.
+Tracey Sanderbeck: Do you want me to show you?
+Alfred Souza: Yeah. If you. If you wouldn't mind, would you be able to share, like, the entire screen? Not just because I. That way I could see.
+Tracey Sanderbeck: Let me stop. Like. Yeah. Let me go here and do instead of the window. Oh, do the window the entire window.
+Tracey Sanderbeck: Oh, entire screen.
+Alfred Souza: Screen. Yeah.
+Tracey Sanderbeck: Okay. Now, can you. Can you see now?
+Alfred Souza: Perfect. Oh, okay. So you are using incognito window. I am. I think so. Yeah. Oh, do me a favor. If you click on the three dots on the right. On the top right. Sorry. And you do new window. Instead of new incognito window. Oh, no. Okay, so. No, so never mind. You. You just have dark themes. That's all. Okay.
+Tracey Sanderbeck: Because I have a black screen back here. I don't even know how to fix that. I just. I don't know what's on there. But let me show you. Okay, let me. Let me show you. So here I am with Joss like. And then I go log in. And then I go. Oh, shush. Cat. If it doesn't do it this time, it didn't do it. Are you kidding me? Oh, there's instead of next. Isn't that weird?
+Alfred Souza: It's weird.
+Tracey Sanderbeck: Since I went over. Oh, wait a minute. No, it didn't switch there. Now it's doing it. Hold on a minute. Oh, now it's switching me to app. Now it's switching me to next. Hold on. Let's see what it does. Okay, so now let me do it. See it switched me to next, and then let's go to record. Oh, see, there it is.
+Alfred Souza: See how. Amazing.
+Tracey Sanderbeck: You see how it was moving like normal? Like before I was even signed on. It was like going back and forth. But now that I'm on next. Now watch. Now I have to do this every time. So now enable my microphone, but it tells me access denied. So I go right here. And then I have to do this every time. And then I go here. And then I leave it like that and then I go enable. And then. Oh, do it now. It's bouncing around. But you saw how it wasn't before, so.
+Alfred Souza: Yeah. Do me a favor. Reload. See. See how you got a button at the top that says reload?
+Tracey Sanderbeck: Like something too. I keep getting that like every couple of hours.
+Alfred Souza: I keep getting that. So click on that.
+Tracey Sanderbeck: Let's see. It's still now staying with next this time. And now it's doing it. Yeah. So whenever I get reload button, but I never used to get that before. But now I'm getting it. I probably had it about four times today. I just click reload, but it'll. It'll stop the recording and then I have to.
+Alfred Souza: Of course. And you don't want to. You know. I almost think we should. What's really weird is that you were able to. Reach. The app. Version of the sort of. Of the. Of the application while you are feature flagged as a next user. Yeah.
+Tracey Sanderbeck: And then you saw how it flips. Yeah.
+Alfred Souza: Yeah. That's concerning. For other reasons. Okay, so.
+Alfred Souza: And then that.
+Tracey Sanderbeck: Just so you know that reload was not happening until today.
+Alfred Souza: Correct. So the reload isn't a next app thing. So I. What I think we really should do is just. Put you back on. On regular app. Let me do that right now. And then the problem is that we're going to have to clear your cookies afterwards, because if not logging in is going to be a whole new nightmare. But if you don't mind, we can do that real quick. Let me.
+Tracey Sanderbeck: And then will I be able to test the telemedicine thing tomorrow or. No, I will.
+Alfred Souza: Okay.
+Tracey Sanderbeck: Yeah. I don't have to be on the next to do the telemedicine.
+Alfred Souza: No, no.
+Tracey Sanderbeck: Okay.
+Alfred Souza: Give me one second.
+Tracey Sanderbeck: Yeah, it was weird, though, that I wasn't getting that red dot that came up before I started recording like you guys introduced that a couple weeks ago and I wasn't getting that. Today on and off.
+Alfred Souza: I don't know.
+Tracey Sanderbeck: Do you want me to go back on my jot slide so you can see?
+Alfred Souza: Oh, there it is. Yeah. One second. Okay. Here it is. Okay. I think what we want to do now, if you don't mind. Probably log off jot psych. So if you click on the upper right. Or. Oh, okay. Well. Yeah, you can.
+Tracey Sanderbeck: Do you want me to do something?
+Alfred Souza: No, I think it's. No, I think that's fine. So on the upper right corner, there's those three dots. Okay. And then let's go to delete browsing data.
+Tracey Sanderbeck: Browsing data.
+Alfred Souza: Right. And then cookies browsing as we cache them is click on that cached images and files.
+Tracey Sanderbeck: What about the cookies and all these other autofill?
+Alfred Souza: The, the site settings you can leave.
+Tracey Sanderbeck: Okay.
+Alfred Souza: What about auto fill and the auto fill? I think you can leave also. That shouldn't affect hosted. At. Yeah, let's remove it. Let's leave it. Sorry. Yeah. If you click on see more, what else do we see?
+Alfred Souza: But see more. That's fine. Yeah. So let's click delete beta here.
+Tracey Sanderbeck: Is this okay? You got last seven days, 24 hours.
+Alfred Souza: Seven days. Yeah, that's fine. All right. Oh, and I.
+Tracey Sanderbeck: Was off of there. Okay. Yeah.
+Alfred Souza: It was more destructive than. Than I thought. All right, so now if you try logging into job site, it should just take you to the old app.
+Tracey Sanderbeck: Do you want me to share my screen again? I think I got kicked you off. So you want me to share the entire screen again?
+Alfred Souza: Okay, that would be great.
+Tracey Sanderbeck: Yes, please. Are we good?
+Tracey Sanderbeck: Yep, we're good. So let's sign back on to jot slide.
+Alfred Souza: Login. Login. All right.
+Tracey Sanderbeck: I gotta put my password.
+Alfred Souza: My.
+Tracey Sanderbeck: I think. That's right. No. Pe. Okay. Oh, there it is. Okay. There we go. All right, so this is the app.
+Alfred Souza: And hopefully it stays here. Curtis. All right.
+Tracey Sanderbeck: Let me try one here. Microphone in use. Everything looks like it's going to my default. Oh, good. I wish I could get this damn thing off of there. But I've tried everything. I even. I even went down a rabbit hole to try to get it off there.
+Tracey Sanderbeck: And I repeated all kinds of drivers and all kind of stuff. I cannot get it off.
+Alfred Souza: Yeah, I I still. I still owe you trying to make it so it. Creates your previous it selects your previous. OSIN device as a primary device. Hopefully we can get it. We. We do do that. The problem is that we do it when you first load the page. I don't know if you realize that. It goes from. You saw it briefly, like a default device. And then it picks up the different devices that are available.
+Alfred Souza: So, yeah, I saw that.
+Tracey Sanderbeck: And then. And then it. I think it went to this one or. But I just. I'm so used to it now. I just pee my eye on it.
+Alfred Souza: And if it.
+Tracey Sanderbeck: If it to the other thing, I have to. I just have to get. Rid of it. At least now I don't think I'll have to allow permissions and all that. But if I do, I know how to do it. But, yeah, it looks like I'm. I'm staying on the app jot site and all of that, so.
+Alfred Souza: Okay. Yeah. And. And if you're. If you are being asked to provide permissions. Like continuously, let us know. But I. I think the. The option there would be to actually go inside the settings of your browser and explicitly say, like, you know, four dots. Like, let's. I'm allowing my. I'm allowing the. The microphone and the video always.
+Tracey Sanderbeck: Right. Just started happening to today. I think it was today. It might have been yesterday. I can't remember, but it was at telemedicine thing. So I think that this looks like it fixed whatever. Now it looks like it's loading like it's supposed to or like it was before.
+Alfred Souza: Yeah. I mean, to be honest, it shouldn't have made that. Difference. I think it's mostly out of persistence of your. Of your choices. Let me. Let me see something real quick. Yeah. Okay. Yeah. Hopefully. Hopefully I fix that.
+Tracey Sanderbeck: But I'll. I'll proceed with, I don't know, Becca still here or not, but. Oh, okay. I'll just proceed with. You know, doing some telemedicine visits tomorrow. And then I'll touch base with her and we'll see if it triggers any weird stuff in it, not. So we'll go from there.
+Alfred Souza: Okay. Thank you. Yeah. And. And we should have. We should have a few fixes coming in. One of them is, like, the confirmation. Link, the broken link. It'll be fixed. And looking. Hoping to get that. The telehealth link inside of the email that gets sent out to the users as part of the appointment reminder, hopefully.
+Tracey Sanderbeck: So is there anything else I should be doing? So tomorrow when I send them what I set the reminders and all that like I did. Putting the patients on the schedule should I do anything different? Or are they still going to get that weird.
+Alfred Souza: Error thing that they're. They shouldn't get the error. But essentially, when they were clicking that, all they were doing was confirming, letting you know that they're confirming the appointments. Right. So that. That link wouldn't have given them the. The. The telehealth link yet. I'm hoping to get that in at the end of day today. But. But I don't want to make that promise. So I think right now, and I don't know what.
+Becca Bressler: What.
+Alfred Souza: Post or mention for now. There's there. When you load up the.
+Tracey Sanderbeck: The.
+Alfred Souza: You know, an appointment with Telehealth, you shouldn't be able to either copy the link or press on the send send link to the user and it'll. They'll get a telehealth link that way. So not as part of the reminder.
+Becca Bressler: Yeah. Tracy, once you join. So, like, you'll have to press and you'll be in kind of a waiting room. And once you say join session, you'll then, though Alfred maybe is making a change where you see it earlier, but you'll.
+Alfred Souza: You'll see. You'll see it earlier that you would. That's already in, in the next. So that, that you'll see earlier for sure.
+Tracey Sanderbeck: Okay, so. Okay, Becca, can I have you wait one more second so I can. Make sure that I can add a couple of patients for tomorrow?
+Becca Bressler: Okay, sure. Alfred, feel free to. Feel free to hop on.
+Tracey Sanderbeck: I'll take this. Yeah.
+Alfred Souza: Thank you, as always. Thank you very much. And see you soon. All right. Thanks.
+Tracey Sanderbeck: Thank you. Bye-bye. All right, so tomorrow, let me look through real quick. Where is. See, here we go. What are we doing here? What are we doing? Oh, I'm in June. Okay. Here we go. March. All right, so tomorrow's the 26th. Come on. Here we go. You see what I'm talking about now?
+Becca Bressler: Yes, I do.
+Tracey Sanderbeck: Oh, God, help me. Okay. I cannot get away from this. I can't get away from this. Yeah, fast enough. But that's okay. I'm gonna practice some patience. Okay. All right. So let me look. Not her. Not her. Not her. Not her. Not her. Not her. Not her. Internship. Sherry. Oh, Lord. All slim pickings tomorrow. Probably her. So let me. Let me add her. These people are not good tomorrow and probably him so I can at least do two tomorrow. So let me just make sure that I. Let me run through it with you on here with me to make sure that I'm doing it right.
+Becca Bressler: Yeah.
+Tracey Sanderbeck: Yeah, totally. So Blaze. So tomorrow. Oops. I forgot. Let me see. What time is his 420. So here we go. So we're on tomorrow's schedule, and we're gonna go to. Four. And we're gonna go down basically there. 420. 8 P.M. and we're gonna click telehealth, and we're gonna. Say, oh, we got a good shift, Blaze. You know, a. And we're gonna save. So now he is on reminder.
+Becca Bressler: Your reminder was not set, so.
+Tracey Sanderbeck: Yes, I was just gonna say my reminder. Okay. One day before note, we're gonna do it at custom. And we're gonna do it. Days, minutes, and we're gonna say it 10 minutes for appointment, and we're good. Okay. Is that right?
+Becca Bressler: Yes, you did it right 10 minutes before me.
+Tracey Sanderbeck: Okay. And then what's her name? The other one was before him. 340. Jennifer. So three. Just gonna look for that. 340. Jennifer. I think I got this. Oops. See, this is another thing that's weird. You see how. See how none of my location I'm looking for. It only brings up this many Jennifers.
+Becca Bressler: Yeah, right. You have to, like, add more. No, that's a good point. You should let you scroll to, like, let you scroll.
+Tracey Sanderbeck: And it doesn't. It's so weird. So sometimes I. Then I have to go. What the heck is her last name?
+Becca Bressler: Kill Gannon. Yeah, no, that's such a good point, Tracy.
+Tracey Sanderbeck: I meant to bring that up before. I'm like, why can't I scroll?
+Becca Bressler: Why don't you. That's a really good piece of feedback for us, for sure.
+Tracey Sanderbeck: Very good. All right, so that's her. So 340 Telehealth. And we're going to set a reminder. I'm getting this down pat now. All right. Custom. We're going to say 10 minutes and we're going to say minutes, minutes, minutes. Before schedule save. Us. Okay. Very good. All right. So then we'll message them and do what I did before, and I should. I can email you some feedback, and then if. If things are, I think maybe you tell me what you want, because it's up to you. But I can email you tomorrow after work and let you know kind of real quick how it went, and then we can set up another
+Becca Bressler: meeting, and then I can perfect. Yeah, that sounds perfect to me.
+Tracey Sanderbeck: I'll try some more on Friday as well, and then maybe touch base, like, Monday or whatever, and then we can. If when I have a bigger sample of it, but as long as everything goes good tomorrow, then that's great. I'll just say, hey, everything went good, and I'll do. I'll do Fridays, and then we'll figure out another meeting for next week. Is that good?
+Becca Bressler: That sounds perfect. Thank you so much, Tracy.
+Tracey Sanderbeck: You're welcome.
+Becca Bressler: Have a really good day to you, too.
+Tracey Sanderbeck: Bye.

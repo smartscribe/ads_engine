@@ -1,0 +1,413 @@
+Becca Bressler: This person also didn't accept.
+Marcus Irven: Okay. So there's a good chance this will be a nutshell.
+Becca Bressler: Yeah. So I'm gonna. We can. I'm gonna go off camera, and we'll. And we'll just see if this person shows up. How do I get this? Why can't I find the person? Can you let them in? I actually can't get the. I don't have the side panel. Hey there, Kimberly.
+Kimberly Heath: Can you hear me okay?
+Becca Bressler: Yes, we can hear you. Can you hear us okay?
+Kimberly Heath: Yeah, I can hear you. Yeah.
+Becca Bressler: How's it going?
+Kimberly Heath: Good. How about you?
+Becca Bressler: Good. Just do a quick intro. I'm Becca. I'm the product manager at Jotsta. Here's Marcus.
+Marcus Irven: Hi, Kimberly. I'm one of the engineers here at Jaws. Like, good to meet you.
+Kimberly Heath: Nice to meet you.
+Becca Bressler: So we're told that we're here to get you set up with Johnrx so that you can start prescribing through JOT Psych. Sounds good to you?
+Kimberly Heath: Yeah, I think so. Yeah, it's something.
+Becca Bressler: Do you have a JOT Psych account, Kimberly?
+Kimberly Heath: Yes, I do.
+Becca Bressler: Oh, great. What's the email you use for that? Because I wasn't able to find you.
+Kimberly Heath: Oh, it's doctor.heathkmail.com.
+Becca Bressler: okay, let me. Doctor dot. One second. Actually, Marcus, are you able to. Just because I'm logged into my demo account, are you able to get the info on the admin panel by any chance?
+Marcus Irven: Let me look. Give me one second.
+Becca Bressler: No problem. Kimberly, while we're getting you set up, why don't you just go ahead and share your screen with us, your job site screen, so we can walk you through how to get this going.
+Kimberly Heath: Okay. All right. Well, all right. I think this is. Choose what to share here. Okay, fantastic.
+Becca Bressler: Okay, it's going to take one second for this to show up on your account, Marcus. Let me know if you need my help with anything.
+Marcus Irven: I'm going to turn it on for. Is that okay?
+Becca Bressler: Okay, great. Yeah. Great. So, Kimberly, do you see where it says your practice right now at the top?
+Kimberly Heath: Yes.
+Becca Bressler: Yeah. So if you go there, if you hit your plan, that first one, and you see that pencil icon under actions right there? So if you select that. We might need to refresh this page, actually. So let's see what we see what happens when you click that pencil icon. You scroll down. Yeah. Okay, so. So exit out of this.
+Marcus Irven: Just turn it on.
+Becca Bressler: So maybe give it like 15 to 30 seconds. All right. And then we'll do a refresh on your screen.
+Becca Bressler: All right, you want to try refreshing it, Kimberly? We'll see if that worked. Refresh the screen.
+Kimberly Heath: And then just edit again.
+Becca Bressler: Yeah, let's just try that one more time and scroll down. Exit out of this. Did you. Can you just refresh your web browser? So, like, if you just stick your cursor kind of in the URL on your. On your web browser and just give it a big refresh.
+Kimberly Heath: So you mean, like, you're refreshing the whole page? Do you want me to sign out?
+Becca Bressler: No, no, you don't need to sign out or sign back in. Just if you kind of refresh the whole page.
+Kimberly Heath: Yeah, I don't know. I mean, I hit the little circle or refresh, but here, I'll just open up another. Let's see. Hold on. I got to share the other one that I just opened.
+Becca Bressler: No problem.
+Kimberly Heath: Okay, so. Okay, it's moving.
+Becca Bressler: Okay, so now it's clinicians. Actually, it's no longer your plan, so. But yeah, if you hit clinicians. Now, let's try the pencil one more time.
+Kimberly Heath: Okay, great.
+Becca Bressler: So, JA Rx. That's our E prescription plan. So if you want to select that and hit save changes. Amazing. So the next step, I think, is practice settings. Right, Marcus? Yeah. So if you go ahead and hit practice settings, do you see the tab, Kimberly? There's clinicians, your subscription. Yeah, right there. Practice settings. And if you scroll down, keep scrolling. E Prescriptions. So this is the first spot to connect you to do spot, which is what we're using for prescriptions. So hit click connect to E Prescriptions. And yeah, you're going to have to be putting in. You know, there's going to be a couple steps here where you're putting in some personal information just to get your account fully up and running. But this is step one.
+Kimberly Heath: Okay. Okay. And so I saw the price. It's 69amonth.
+Becca Bressler: It's 69amonth. Yeah. First month, we can. It's about. It's $10 for the first month. So we can offer you. We'll just credit $59 back on your account for this first month.
+Kimberly Heath: Okay. Okay. I think it.
+Becca Bressler: All right, so you did that. So the next step here is. Can you hit the circle icon next to help to the right of help on the upper right hand side, there's a brain. I think it's your brain image right there. Yeah, totally. If you hit that and then go to my access on the side one of the.
+Becca Bressler: Oh, right there. And scroll down. Oh, sorry. Scroll up. I must have missed this to manage your subscription or. Huh?
+Marcus Irven: It's in the clinic.
+Becca Bressler: Oh, it's in clinician. Sorry, my mistake. It's in clinician. That was my bad. Yeah, so scroll down here and keep going. Keep going. Right. So then this is a second step to just read to register yourself with Dosebot. The first one was like your clinic, technically. And then this is for you as a prescriber.
+Kimberly Heath: So just my information again.
+Becca Bressler: Yeah, it's just your information again. And do you prescribe controlled substance? Yeah. Okay, great. So then you'll need your DEA number as well.
+Kimberly Heath: I do. What if I see them in, like, multiple states? Does it matter? I don't know. Do you have.
+Becca Bressler: Does that. Does that mean you have multiple DEA numbers?
+Kimberly Heath: Yes.
+Becca Bressler: I think you could just put one in here.
+Kimberly Heath: Where's the Arizona one? It's the one I want to use. Why am I not seeing it? Id? Dea. California. Hold on, let me just do another search. There it is. Okay. It's gonna be. Yeah, I see patients out of. Technically, out of this. I would probably, mainly, probably see them out of two states. Right, right. MH9917191. Yep. Okay. Yeah. Register. I guess. Again. I hit it. Please enter. Valid. I don't have a fax. Number. All right.
+Becca Bressler: Amazing. So now if you hit open do spot. Now this next step, is it opening a new tab for you?
+Kimberly Heath: Oh, yeah. You want me to show.
+Becca Bressler: Yeah, yeah, go ahead and share that.
+Kimberly Heath: My dose. Oh, there we go. Share.
+Becca Bressler: Amazing.
+Becca Bressler: You can exit out of this if you want. This is just a video, but we're going to walk you through it. So, yeah, there's a couple steps here. First is an agreement and identity proofing. So if you. Yeah, go ahead and complete agreement and we can walk you through some of these other ones.
+Kimberly Heath: Okay. And then this.
+Becca Bressler: Great. Yeah.
+Kimberly Heath: Credit card number. Is this used for the subscription or what is that for?
+Becca Bressler: I'm actually not sure what it's used for. We haven't seen anyone need to use it for anything. But they do ask for it. Marcus, I don't know if you have a better answer.
+Marcus Irven: I think it's just part of the identity verification process that happens to make sure who you are. But it's not used for anything.
+Becca Bressler: Yeah, you won't be charged for anything.
+Kimberly Heath: Okay. All right, well, let me go grab it. I'll be right back.
+Becca Bressler: No problem. It.
+Kimberly Heath: All right. Well, hopefully this one will work. Typing. Okay. 93132. Okay. I mean, it's invalid. Did I miss something? Do not take American Express. Like 1931-30-991. There's airport. Maybe they don't take American Express. Okay, I'm sorry. I'll be right back. No problem.
+Becca Bressler: That would be so strange.
+Kimberly Heath: I could just try to hit submit, I guess, before I walk all the way back downstairs. Well, maybe. I guess it's not going to let me, huh? Okay. Well. Yeah. Okay. I'll be back. Let's try this one. Okay. Well, it likes that one. Okay. Can I go next? No. Why? Everything else is optional. Maybe it doesn't like the blue with.
+Becca Bressler: This is strange.
+Kimberly Heath: Maybe it doesn't like all of this on there. I don't know.
+Becca Bressler: Will you scroll or. Let's see what it says on the. What's the blue at the top? I'm just curious. Send side. So scroll down. Let's see. Oh, by checking the box.
+Kimberly Heath: There's a box you have to check. All right, Perfect. All right. Well, there we go. Is it moving? Did it say it's not? Okay, it's moving. Okay.
+Becca Bressler: So, yeah, you're going to be getting a text. Message to your phone, which is going to be the next step of this identity proofing process.
+Kimberly Heath: Oh, okay.
+Becca Bressler: Let us know when you get it. Sometimes it takes a second or two.
+Kimberly Heath: Yeah, I got the text message.
+Becca Bressler: Oh, amazing. Okay, so, yeah, click the link. Let us know if you have any questions based on what you're seeing so far.
+Kimberly Heath: Nadia says select a document you. Oh, my God. You have got to be kidding. Kidding me. All right, I'll be back. I gotta go get my id. Apparently.
+Becca Bressler: Oh, no, We'll create, like, instead of a packing list for a trip. It's like a.
+Kimberly Heath: Yeah, Sorry I had to go all the way to my car this time. Okay. Okay, where are we at here? We're gonna do this. Here we go. Oh, geez. All right, How close do we need to get here? What do you mean, face not found? What's happening? You need a dark. Oh, it needs a darker. Okay, there we go. Have you guys gotten any feedback on this, or am I like, the first person?
+Becca Bressler: We walked through with one person. It's certainly a lot of steps, unfortunately, that DOE spot requires. But I do think that we need to be preparing people more for the things they need to have ready. Definitely.
+Kimberly Heath: Okay.
+Becca Bressler: Okay, so you're in. So the next step here, just to kind of show you how this works, is if you go back to JOT Psych. I don't know if you have any patients who are in need of a prescription or upcoming patients. We could set one up for you just so you kind of see how this works.
+Kimberly Heath: Okay. At John Psych.
+Becca Bressler: Yeah. So if you go back to JOT Psych and maybe.
+Kimberly Heath: Well, I don't know if I. I don't really submit. Oh, maybe I do. Okay, well, sure. We could look at. I don't know. Do I. I think for a second.
+Becca Bressler: Oh, you know, but Marcus, the idea the. The TFA for.
+Becca Bressler: Can we do that? Yeah, we should. We can do that before one is submitted.
+Marcus Irven: Right?
+Becca Bressler: Okay, cool. Maybe we should do that right now.
+Marcus Irven: Wait.
+Kimberly Heath: Okay.
+Becca Bressler: Yeah, I think just hang tight on this page for a second, Kimberly, actually, because there's a second authentication step needed for prescribing controlled substances, and so we need to set that up for you just so that you don't hit any issues when you try and do that. Marcus is doing that right now.
+Marcus Irven: Okay. Now, I think if you refresh this page, the doze one.
+Marcus Irven: Or what if you click on that bell at the top? Does it. Maybe it takes a second.
+Becca Bressler: Kimberly, you asked if we had gotten any feedback yet. Feel free to provide your own. We want feedback, so.
+Marcus Irven: Yeah.
+Kimberly Heath: Oh, okay. Okay.
+Kimberly Heath: So you guys haven't, like, nobody that you know use this to, like, prescribe medications yet or have we set 1% already?
+Marcus Irven: Yeah, but it's this. This is their first week with this, so. Yeah, the process. So if you want try. Let's try refreshing one more time and see if it comes in.
+Marcus Irven: And we're still learning some of the intricacies of dose spot as we go here as well. Click on the bell. It's not coming through. Maybe you do have to.
+Becca Bressler: Maybe we have to go through the process of trying to. That seems unlikely.
+Marcus Irven: Well, let's go ahead and get a patient set up.
+Becca Bressler: Okay.
+Becca Bressler: Yeah, let's come back to this. So, Kimberly, if you want to. Yeah, let's do JOT site for a second.
+Kimberly Heath: Okay. Is it not showing?
+Becca Bressler: Oh, yeah, no, it's. We're not looking at your screen right now.
+Kimberly Heath: Okay, there we go.
+Becca Bressler: How about that? Great. So can you scroll down for me? Just where it says medications keep going below diagnoses. Yeah. So connect. So there. There's a. At the top of the medication block, actually, so not medication timeline, but right there, there's something that says connect to erx.
+Kimberly Heath: You actually see.
+Becca Bressler: Yeah, right there.
+Kimberly Heath: Okay, so you need date of birth on this patient. Yes.
+Becca Bressler: As well as address information.
+Kimberly Heath: Okay. Why think for a second here. Who are my other patients that you have, Spencer? Cat. Trying to figure that out. So, I mean, we're not really submitting a prescription, right?
+Becca Bressler: No, we don't have to take that step at all. But. But just to show you how this works for one of these patients, we can set them up in Dosebot so you can kind of see. See the process here.
+Kimberly Heath: You don't. Have. Busy. Why do you not have. Maybe. Maybe it just didn't save it. I don't even know. All right, let's see. I don't. Okay, I'm just gonna. It's just gonna go. I can just make it up. Right. Since we're not actually submitting it,
+Becca Bressler: the information needs to be right. So I would set up a patient who presumably you'll prescribe medication to in the future, just to show you how this works. But.
+Becca Bressler: But you'll want it to be their actual information.
+Kimberly Heath: Okay. So we're just gonna have to add a new patient then. Give me a minute. I gotta go to Headway and get the information. I need you to work a little faster.
+Becca Bressler: It.
+Kimberly Heath: All right, so. What? Let me bring this out so I can see it. Okay. Sorry, I didn't realize I needed all of this. Actually, I didn't even know I'd be setting this up. I thought we could just talk about it, but that's okay. Either way, it doesn't bother me too much. Let me see. Date of birth. Do I have the patient's date of birth? Billing. Cool. Oh, here's this whole address. Need a dress? You said you needed a dress.
+Becca Bressler: Yeah.
+Kimberly Heath: Copy paste. I don't think that matters. And then his. Phone number. I still haven't found his date of birth. Give me a minute. Sure. It's somewhere. Paste. All right, we got the phone number. Do we need an email? She. Sure, I'll put an email. Why not? Copy paste.
+Becca Bressler: All right, so now I just have birth. Oh, here, let's. These say optional fields. But I actually think that's like optional in jot Psych, but necessary for dose spot. Is that right, Marcus?
+Marcus Irven: I mean, there's different requirements. You're going to give a. You're going to have a chance to add or edit things.
+Kimberly Heath: There it is.
+Becca Bressler: Found it in dose.
+Marcus Irven: Dose.
+Becca Bressler: But okay, so.
+Becca Bressler: So she still would have been able to create the patient.
+Marcus Irven: Got it. Yeah. In jaw site.
+Kimberly Heath: But okay, it's. He's now created, I think.
+Becca Bressler: Great. Okay, so let's go to that patient's profile. If you click that patient. And then let's scroll back down to medication again and hit connect for erx.
+Kimberly Heath: Oh, there it is.
+Becca Bressler: Right. Connect. Oh. Oh, interesting. So I think. Huh.
+Marcus Irven: Yeah. We need to. This is just a disconnect. The jets like has a.
+Becca Bressler: Oh, yeah.
+Marcus Irven: All in one swan. To fix that.
+Becca Bressler: Yeah. So I would get rid of the common Arizona again.
+Marcus Irven: Perfect. All right, that should have opened another tab for you.
+Becca Bressler: Great. And you, you can click prescribe now. And that should take you to a dose spot, if it didn't already open another tab. Great.
+Kimberly Heath: Okay. Okay.
+Becca Bressler: Okay. Amazing. So this is Dosebot. This is how you go about sending a prescription. You can see add prescription on the left, and you'll pick the pharmacy. Go through the motions of the picking the drug and dose, etc.
+Kimberly Heath: Is this the prescription that we're looking at?
+Becca Bressler: This is the first. It's the pharmacy. Yeah. First you're picking the pharmacy.
+Kimberly Heath: Okay. We'll just say this one sure sounds okay in California. Sure. Why not? It's fine. Okay.
+Becca Bressler: All right. And then you'll hit next.
+Kimberly Heath: Oh, there it is. All right.
+Becca Bressler: I might say no if this is not the preferred pharmacy for this person, but.
+Kimberly Heath: Yeah, it's not, but. Oh, maybe it's just saying yes. I mean, you can always change it, right?
+Becca Bressler: Yeah, you can. You can.
+Kimberly Heath: And then clinic.
+Becca Bressler: Right. So then you would search the medication.
+Kimberly Heath: We're gonna go here. Okay.
+Becca Bressler: This field's optional.
+Kimberly Heath: Don't you have to. I don't even know. Usually when you have to put some type of diagnosis, it's fine. All right, so here we go. Delivery method. Oh, I see what you're saying. Okay.
+Becca Bressler: I think take is really the kind of standard if it's like a capsule or a, you know, an oral pill.
+Kimberly Heath: Okay. Yeah, they don't have oral by mouth or push, shampoo, spray, sprinkle, swallow. I mean, you are swallowing. Swish and swallow. No, take. All right, I guess it's take, dose, quantity, route. Okay. There's oral, there's the route. I can go with that. All right, Tablet. Got it. Frequency. We're gonna go with daily. Wait, what's the other options? One time only. No, daily. Yeah, at bedtime. Directed by physician, daily as needed. All right. Those are a lot of options. Jesus. Okay, this is good. Days supply, day, dose, quantity. What does that mean? You mean like the milligrams? Is that what it sounds like?
+Becca Bressler: I think that's not a required field, but
+Marcus Irven: I think of it like a number. Of tablets that they would take at a time. Like if it's one or two.
+Becca Bressler: Oh, right. Okay.
+Kimberly Heath: Okay. One orally, daily for 90 days. Oh, no. Forever. Forever. How many days are in a year? No, I'm just joking. I don't know why you got to put the days on here. That's weird. What is this? Giving better day. 90 days supply, increase adherence. Okay, you know what? That's fine. 90. We can go with that for right now. Do I have to put patient signature 90 days? Because that just sounds weird. Let me see.
+Kimberly Heath: Let's say take one tablet orally, daily. There you go.
+Becca Bressler: All right.
+Kimberly Heath: I like it. Let me keep it. We'll see if it lets me keep going. All right. Total dispense form Tablet, I guess. Is that what it's asking? Total dispense, 90 refills, one effective date. Sure. Dose calculator. No, wait, let me look at this. That's interesting. All right, I'll take it. Pharmacy notes. No. All right. And then create medication. No. Are we done?
+Becca Bressler: Yeah. That's not going to send it to the pharmacy. So you don't have to worry about that. Sending it to actually send it to the pharmacy. Just to walk you through. You would select next. So you know, and you could add a few different prescriptions if you're. If you're prescribing multiple to the patient. And then once you've added all of the medications, you would hit next. And no word. No worries. This is not gonna. Oh, yeah. Okay. So we can go through another.
+Kimberly Heath: Well, I just wanted to look at like a controlled substance. Right.
+Becca Bressler: So yeah, so that would be helpful for us to go through.
+Kimberly Heath: You do not have permission to send controlled substance. You do not have permission to print controlled substance.
+Marcus Irven: So this is where.
+Kimberly Heath: Because it says California and I only have Arizona in there, it's gonna become an issue, I think.
+Marcus Irven: Well, can you close this out and let's look at that bell icon to see if it ever. No. Try refreshing the page again. This is. Seems like for some reason this isn't taking. Oh, boy. Yeah, still nothing there. So for controlled substances, there is another authentication that you have to do a one time setup thing that you have to do. And for some reason it's not being triggered for you. So we could.
+Becca Bressler: It. Is it possible, Marcus, that it's because she put in a California pharmacy, but the DEA number was for a different state?
+Marcus Irven: It's possible.
+Becca Bressler: Let's just see what happens if we. If we change the pharmacy to the state.
+Kimberly Heath: Sure, sure. All right. Next default manage patient. It's fine. All right, so we got the pharmacy. I think I don't even see it. That's fine. I changed it to an Arizona one. I think. I don't even know manage patient pharmacies. Why? Why is this having continue prescription? I want to delete this. How do I delete?
+Becca Bressler: So I think maybe you just add a second one and then update the default.
+Kimberly Heath: Here, Go here. Add as patients preferred. Sure, why not? All right, success. And then update default pharmacies. Okay, Go back. Oh, my Lord. Remove. All right, great. Now I would like to just update.
+Becca Bressler: You figured it out?
+Marcus Irven: Yes. So now if you refresh the page, hopefully the bell will have a little. There we go.
+Kimberly Heath: All right, we got a bell.
+Marcus Irven: And now you have to go through this. This is another kind of one. One time.
+Becca Bressler: One time.
+Marcus Irven: Yes.
+Kimberly Heath: Okay.
+Becca Bressler: We should send people fruit baskets for getting. Getting themselves through this.
+Kimberly Heath: Okay.
+Becca Bressler: Yeah. And you'll need to select. Oh, okay. Once the link. Yeah. Let us know if you have any questions with. With what you're seeing on your screen.
+Kimberly Heath: Use an activation code. Use a QR code. What? It doesn't have select activation code. It says add account.
+Becca Bressler: So I think you hit next here and then you add the code that should have shown up on your phone.
+Kimberly Heath: Account. I have to add an account on my phone from, like. I don't even know, Honestly. Airbnb, Amazon password. I don't even understand. Use an activation code. Okay, let me try it again. Maybe I'll. I don't know. Maybe it's do spot. I don't even know. Maybe it's child type. Nope. Oh, you can't go back. Oh, yeah, here we go. Go back. No initiation. Well, I'm not sure exactly. Or maybe. Hold on, let me try this.
+Becca Bressler: Let me look up something really quickly.
+Kimberly Heath: I mean, if there's a QR code somewhere, that'd be great. Add your account. So on duo, I'm supposed to add an account. Back. Maybe I go back again. Or I do. Security. Security. All right, what if I chose. Let me. Head back to your app, Go to settings and turn off two face authenticator. Oh, all right. I got here.
+Becca Bressler: I think so what did you. Kimberly, can you tell us, like, what you were doing that got it to work? Because it seems like a bit confusing on your end.
+Kimberly Heath: Yes, it is. Give me 110, let me see if this works, and then I'll tell you. I don't even know how I managed. Please double check information and try again. Let's see. 327-490-2587. That seems to be it. But the activation code isn't working now.
+Becca Bressler: Are you typing? You have to type it into the passcode on the computer. Do you see where it says Duo mobile activation? And there's a passcode.
+Kimberly Heath: Passcode on my phone.
+Becca Bressler: On the computer screen, actually. So if you're looking at do spot, I thought.
+Kimberly Heath: Hold on, let me see what you're seeing. Yeah, you're seeing what I'm seeing.
+Becca Bressler: Yeah. So if you type into the passcode field, the passcode you see on your phone.
+Kimberly Heath: I don't have a passcode on my phone.
+Becca Bressler: Oh, it's not showing you a number.
+Kimberly Heath: I was trying to figure out the reference number, like the activation code.
+Becca Bressler: Yeah. So is there an activation number?
+Kimberly Heath: No.
+Becca Bressler: Can you hold your phone up to the screen for us?
+Kimberly Heath: Sure. This is where I'm at. I Maybe if I can.
+Becca Bressler: Oh, it's a little tough because your background.
+Kimberly Heath: I don't understand why this is like this. It's basically, it just brings up, like, added account when originally, when you hit. When you go into Duo, you download it, it says add an account, use a QR code or view account list for other options. So I use activation code. Right. Because I'm supposed to have an activation code. I thought.
+Becca Bressler: And it didn't give you a.
+Marcus Irven: Did you receive two links to text messages about Duo?
+Kimberly Heath: Let me see. Okay, do a spot. Yes. I can try the other one.
+Becca Bressler: Yeah.
+Kimberly Heath: All right, let's try the other one.
+Becca Bressler: What's the difference in the message you received, Kimberly, between the two? Just so we know, the first one that was giving you trouble and then the second one, like on the text message. Yeah, yeah. Just so we can help guide people if the second one is better.
+Kimberly Heath: Oh, so the first one just says, like, request to insta. Install Duo Mobile. Like an app.
+Kimberly Heath: Okay, so that's requesting the app.
+Becca Bressler: Okay, got it.
+Kimberly Heath: Yeah. And then, so then the other one is like sent you a link for two. Two factor authentication.
+Becca Bressler: Okay. So click that link. I think what the first one is doing is getting you to download the app. And then I think the second one is where you'll get this passcode information.
+Kimberly Heath: Yeah, I think I'm creating the account now. Now this looks. This makes sense.
+Becca Bressler: This makes more sense.
+Kimberly Heath: Yeah, I mean, I guess so. For what? Everything that I just went through. Yes. Username or email to displayed for this account. Doe spot. Sure, why not? Save. All right, so now we're back to account link. So next let's practice how to protect your identity. Really? Okay. Approve image. Imagine you see this but you aren't trying to log in. What would you do? What? I don't know. Deny, I guess. I guess it's a game. It's like testing my knowledge. I'm not sure you prevented a data breach. Great. To protect your identity, you approve when it's you. Okay, next. All right, now you're logging in and you see this?
+Kimberly Heath: I guess that's being approved. All right, perfect. Your confirmation. You confirmed your identity. Great. All right, so now we're going to help Duo improve your experience. You can turn this off anytime. Sure. Allow, I guess. Almost there. Go back where you started to log in and log in again. Okay, great. Jesus. Okay, so I think what it wants me to do, I'm not 100% sure. Is this. Is this here now? Is this what you want me to do? No. Got it. All right, what do you want me to do? Okay. I don't know. Passcode. Is there a passcode? Show. All right, here we go. Jesus.
+Becca Bressler: Amazing.
+Kimberly Heath: Just keep hitting buttons, you'll eventually get it.
+Becca Bressler: Oh, geez.
+Marcus Irven: Thank you so much for your.
+Becca Bressler: Yeah, Kimberly, we're with you, but I. I know it's a struggle.
+Kimberly Heath: I don't see a PIN number though.
+Becca Bressler: So this actually you can create your four digit. It's not very clear, but this is a moment to like, create whatever four digit PIN you want to be using.
+Kimberly Heath: Okay, great. All right, so submit.
+Becca Bressler: Yes, submit.
+Kimberly Heath: All right.
+Marcus Irven: I think you could prescribe controlled substances.
+Becca Bressler: Yes. So now you could add.
+Kimberly Heath: So we add. So how do I get away from this? I changed it to default medication history.
+Becca Bressler: What are we doing default again or you're wanting to go back to the list of medications you started prescribing?
+Kimberly Heath: Yeah, exactly.
+Marcus Irven: There you go. Continue prescription. Right.
+Kimberly Heath: Go where?
+Becca Bressler: Oh, yeah, there's a button that says continue. Prescription on the left. Got it.
+Kimberly Heath: All right, great. So let's just try. Yeah, let's just try this. So what if I didn't? All right, well, that's gonna be. I mean, if I can't add my other DEA number, that's gonna be a problem.
+Becca Bressler: Yeah, let's see what happens here, because we haven't encountered this before. So are you sending a. This is your DEA number. Four, Arizona.
+Kimberly Heath: Yeah.
+Becca Bressler: And you have selected a pharmacy in Arizona. Okay, so this should work.
+Marcus Irven: And we can get your other DEA numbers into Dosebot. It's just we don't. We haven't built a.
+Becca Bressler: Oh, we'll just do it on our end.
+Marcus Irven: Yeah, we'll do it through the administration. This.
+Kimberly Heath: As needed. Okay. I don't like this. As needed. I mean, you could leave it as. As needed for. Right. Okay. And then 90. Transform, refill. Zero. All right. Sure. All right. I think everything's in.
+Becca Bressler: Yeah.
+Kimberly Heath: All right.
+Becca Bressler: Select. Create medication. Amazing. So then if you hit next. So we're not sending it to the pharmacy now. I think that you're kind of queuing this up for later, but when you're ready. Yeah. You'll just select them using those boxes on the left, and then you'll hit approve and send, and that'll send it along to the pharmacy.
+Kimberly Heath: So there's not like another authentication for the dea for the controlled substance.
+Becca Bressler: There's no other authentication step. That's. That's how you send it in.
+Kimberly Heath: So the only thing is. Yeah, I need to get my. Technically, I would want both of my. I have three DEA numbers I would want in there just in case. If I ever use this in California, which I don't see that, but if I ever did.
+Kimberly Heath: We could try to do that. Patience, like. Okay, you want to do it now? You said.
+Marcus Irven: Okay, we could. Yeah, let's try it, if that's okay with Becca. With you.
+Becca Bressler: Yeah. Okay.
+Marcus Irven: Let me bring up my window. I'll show you what I see, and you could help me get your information. We can both share it, however.
+Kimberly Heath: Okay. Okay.
+Marcus Irven: All right. So this is you. And then we could go into your licenses here, and I see your DA number here. And we could add new ones. We could also edit this one. So if we wanted to put in either the DEA registration address or the clinic. I don't know. We're pretty new to this, so we're learning it.
+Kimberly Heath: I've never had anybody ask me for my address when I'm giving DEAs.
+Marcus Irven: Yeah, I mean, they're required. Oh, I see. Just. The state is the only required field, so let's try. Let's try entering. Another DA number for you.
+Kimberly Heath: Oh, yeah. Okay. So let's do. Okay, Give me a minute. Let me get it pulled up here. Like, really tiny here. Let me see if I can make it bigger. There we go. That's bigger. Okay.
+Marcus Irven: And then we could build an interface into job site for managing this. This is. We didn't. We. We. We learned 30 minutes ago that you can have more than one DEA number.
+Kimberly Heath: I'm challenging you guys.
+Marcus Irven: Yeah, no, no, this is great.
+Marcus Irven: I mean, yeah, this has been a very challenging feature for us to build because Becca and I aren't doctors and we can't people, so.
+Becca Bressler: Yeah, yeah. No, we so appreciate your time, Kimberly. This is, you know.
+Kimberly Heath: Yeah, of course.
+Becca Bressler: Hopefully after this, things will feel really smooth for you going forward.
+Kimberly Heath: Yeah, I think so. I'm hoping at least for. Yeah, it's because it's like $70 a month. Yeah. I would like to try it out. And he said it's $10 for the first month. Or is it like.
+Becca Bressler: Yeah, for the first month.
+Kimberly Heath: Okay. And then can you cancel, like, any time?
+Becca Bressler: Yeah.
+Kimberly Heath: Okay, great. All right, so the DEA for we're going to do Hawaii, because that's what I have up, I'm pretty sure. So it's MH975 3179.
+Marcus Irven: You said that's Hawaii.
+Kimberly Heath: Yeah. So that one's Hawaii.
+Marcus Irven: Okay.
+Kimberly Heath: Yeah.
+Marcus Irven: Look at that.
+Kimberly Heath: Yeah. I wonder why.
+Marcus Irven: Should I ask another one and say it's Arizona?
+Kimberly Heath: Yeah, sure. Since it's needed, might as well. Yep. Arizona.
+Becca Bressler: It's interesting. It didn't prevent you from being able to send one.
+Becca Bressler: Like, the number was sufficient and it recognized Arizona. It said so, but.
+Kimberly Heath: And then you get the California one.
+Kimberly Heath: Let me see. I really need to organize this better. MTI. All right, ready? Okay, so MH9274577. Yes. And that one's California. All right, great. So at least I know I can prescribe wherever my patient's at.
+Marcus Irven: Yep, too. That's great.
+Kimberly Heath: All right. Yay. All right, this looks good. And then I guess if I have any issues, what do I do? Who do I call?
+Marcus Irven: Reach out directly to us. You can either go to us.
+Kimberly Heath: Okay.
+Becca Bressler: And.
+Marcus Irven: And if you have any feedback on. On anything, we would love to. Love to hear it. And hopefully it works well for you.
+Kimberly Heath: Okay, perfect. So let's see. So I have. I have Nate at smartscribe Help. Let me see. Who else? Becca Bressler. Where's you guessed info? I just want to make sure I have your con. Okay. That's a calendar. I don't want a calendar. Thank you. All right, well, okay. Email. Oh, here we go. As they have your email addresses here. Okay, Here we go. Bbrustlerpsych.com and then I have Marcusmartscribe. Help. Help. Yeah. Is that right for you guys?
+Marcus Irven: Okay.
+Kimberly Heath: So I can contact either one of you and.
+Becca Bressler: Yes, yeah, absolutely.
+Marcus Irven: We would love to hear how it's going for you even. Yeah, positive, negative, whatever.
+Kimberly Heath: Okay. I have any issues. New windows that pop up. Trying to. It's really controlled substance. Typically you run into roadblocks if there is one. But if it is just, you know, if there's no other like approvals or steps or windows that pop after you hit submit, then it should be.
+Marcus Irven: I think, I think the only thing. At some point it might ask you to go to the Duo app and enter the passcode. Is that right? Or enter your pass code. That's the only. That would be the only thing is you might do it like somewhere.
+Kimberly Heath: Okay, that makes sense. Yeah. Typically there's like an app code and a password. Yeah, it's like.
+Marcus Irven: Yeah. Remember those. Your four digit passcode that you might have to enter that sometimes I think that sometimes you might have to go to Duo. Those are the only. Should be the only barriers to prescribing.
+Becca Bressler: Kimberly, can you just refresh your page one more time? I'm just. I want to make sure that getting. You don't have to do that authentication again with different DEA numbers.
+Marcus Irven: I don't. I don't think so.
+Becca Bressler: Okay. Okay, great. That looks good. No notifications shown.
+Marcus Irven: Yeah.
+Kimberly Heath: Yeah, it doesn't look like Good call. Yeah, I mean, yeah, it looks. Initiate prior Auth for selected. What does that mean? Anybody know what this means down here on the left?
+Becca Bressler: One of them requires a prior authorization.
+Kimberly Heath: From who though? Prior Auth. Initiate Prior Auth. Is that with like. I don't even know what that is. I've never seen this in my life, so in any type of prescribing. So I don't know. Well, why is this to cvs? Hold on close. Oh, see, this one's mayo. So I would have to enter by. This is interesting view details. Is there any way to like alter this prescriber details. Jesus. How do we edit that?
+Becca Bressler: What would you want it to be?
+Kimberly Heath: Well, I probably want it to look a little more professional and probably I guess I would need to put in I guess my. My work address and maybe like, maybe put like at least Kimberly, like my credentials. Like maybe like Kimberly Keys. The dnp, PMH and P. Board certified would probably be ideal. I think that would, you know, because right now it looks a little. I think the pharmacist I think the pharmacist would be like, who is this? Like, it looks a little weird, in my opinion. That's interesting.
+Marcus Irven: Yeah, we can change that.
+Kimberly Heath: Do I do it on my end or do you. Are you. Are we going to do it in your.
+Marcus Irven: Let's do it online for now. And we will look into. I think some of that you could have set when you were connecting to Dospa, but I don't think we have a way for you to edit it currently. So let me do. So I think. Do you want to change the address?
+Kimberly Heath: Yeah. Thinking person here. Do I have these. Trying to think, where is my address that I can easily get. Is it in here? Maybe home. Where. What is the. Hold on. I could do. Maybe it's like north. Give me one second. Sorry.
+Becca Bressler: No, no.
+Kimberly Heath: Is northwest. Yeah, I think it's northwest. Okay. Northwest. Yeah. All right, it's gonna be in here. Sign in. I want this one. Okay. I think this is the one I would want to put registered agent address. All right, here. I'm just going to put it in the message box so you can. There you go.
+Marcus Irven: Great.
+Becca Bressler: Kimberly, I kind of am curious about this prior auth thing you're seeing. Can we try changing the address of the pharmacy that you're sending it to to see if that. I don't know why that would impact it, but I'm. I do want to get to the bottom of that.
+Marcus Irven: I don't know.
+Kimberly Heath: Sorry.
+Marcus Irven: Before. Before we do that, can we just get this straight up? Does this look okay? Kimberly.
+Kimberly Heath: Oh, yeah. Hold on. There we go. Kimberly. Okay, so the name. Let's change that to Kim. And then I was just looking up the credentials.
+Marcus Irven: Would that be the suffix or prefix or. I guess you'd want.
+Kimberly Heath: This one here. Copy. Okay, let me pull up. Window again. Hold on. Okay, so I'm not sure how it's going to be displayed, but it would be next to. I guess. Yeah, let's try it there. Why not? And then there.
+Kimberly Heath: That's my credentials that I want after my name to show that I'm provider
+Marcus Irven: must have at most 10 care. Why?
+Kimberly Heath: Well, you could put. You could take DNP off, I guess. I guess that's not what's really important is like what type of MP and I'm board certified.
+Marcus Irven: I think that's important.
+Kimberly Heath: Okay, great.
+Marcus Irven: And do for. You want like a doctor as a prefix or is this.
+Kimberly Heath: Sure. Yeah, if you can. Is that an option? Yeah. There you go. Or actually, I'm sorry, can you change that to dnp? Can you put in DNP or is that not.
+Becca Bressler: I can do.
+Kimberly Heath: Yeah, I can't. Yeah, I can't falsify that. I'm a doctor basically, but okay. I'm a doctorate of nurse practice, so that's got it.
+Marcus Irven: Okay, perfect. Right. I'm going to save this and then hopefully I would expect that in your dose spot it would change.
+Kimberly Heath: Yeah. Let's take a look here. I don't even know where my screen. I have so many screens open. Where did it go? Here it is. All right. Here it is. Am I. Are you guys still seeing this or no? Yeah, I think it says it is. All right. Oh, let's see.
+Marcus Irven: Okay, so this is the details.
+Kimberly Heath: Yeah.
+Marcus Irven: I probably have to refresh it, try refreshing it. And it's possible that that was set during here
+Kimberly Heath: maybe because do I have to put it in the insurance environment? No, I don't. That's on the. That's on their side, right?
+Marcus Irven: That's on the patient. Go back to nextray. Is that where we saw that now? That still changed it, right? Change your first name at least.
+Kimberly Heath: Okay. Oh, it didn't change the address. Why did you take my address? You took the address out, right? I didn't even double check.
+Marcus Irven: Yeah, let me go back to that. Is. That is very strange.
+Kimberly Heath: I know.
+Marcus Irven: Phoenix, Arizona, right? Wait, I lost. Where did you guys go?
+Kimberly Heath: What is this? Edit. Can I edit this?
+Kimberly Heath: We want to change this. Oh, you could also look up the pharmacy here. That's nice. All right, update medication. Let's see if that prior auth goes away. I don't even understand. I don't understand why that would need a prior auth out of everything.
+Becca Bressler: But see, So I think if you hit next again, we're looking to see. If the Prior Auth thing.
+Kimberly Heath: No. Didn't come off. So I don't know what that means. I don't know if that's what that's going to do, honestly.
+Becca Bressler: Can you click that? What it. If you click Initiate Prior, How do you usually. When Prior Auth is. Oh, sorry, Marcus. Do you have additional questions on your end before we move?
+Marcus Irven: Well, I was just going to say we also have the address on your clinic, so I'm going to try changing that again. Maybe that's pulling up because there's the clinic and there's the clinician. You're kind of both right in your case. So I'm going to change.
+Kimberly Heath: Oh, there you go.
+Marcus Irven: If you go back to the job site and click the patient name again, there's the link from just like, I guess it prescribed.
+Becca Bressler: Yeah.
+Kimberly Heath: Okay. All right. That was interesting. Yeah.
+Becca Bressler: And if you don't mind, just re sharing this.
+Kimberly Heath: Oh, sorry. Give me a minute.
+Marcus Irven: Okay. I've updated your clinic's address to also be your Phoenix.
+Kimberly Heath: Okay. Yeah, maybe that was what it was. All right, so continue prescription on this patient. Next.
+Becca Bressler: Okay, so you're back in Dose spot.
+Kimberly Heath: Oh, whoops, I shared the wrong screen.
+Becca Bressler: No problem, no problem.
+Kimberly Heath: Where's Dosebot? Prescribing app. Yes, share that one. All right, I think. There we go. All right. So.
+Becca Bressler: So, yeah, if you select Zoloft.
+Kimberly Heath: Okay. So that looks good. Oh, my phone number is horrible, actually. I gotta fix that too, actually. I'm sorry. I don't notice everything all at once. I'm sorry.
+Marcus Irven: It's okay. It's okay.
+Kimberly Heath: Don't hate me on this.
+Becca Bressler: At least not at all.
+Kimberly Heath: No, Here, let me go back here. My phone number is 5 2. My work phone number is 581-848. There we go. So that's what I would need that phone number to be updated to.
+Marcus Irven: That's okay.
+Kimberly Heath: Okay. We'll get this done eventually. All right. So the prior auth. I don't know. I could try to do. I could try to Google it. I don't know. Well, so.
+Becca Bressler: So, yeah. Sorry, let me look. Can you. So can you click Initiate Prior Auth? I just want to see what it says.
+Kimberly Heath: Sure. Can you see it?
+Becca Bressler: Yeah. So prior authorization status. Mayo Hospital outpatient selecting medication. So how do you typically see prior authorization requests for medication?
+Kimberly Heath: I never.
+Marcus Irven: I don't.
+Kimberly Heath: I just send the prescription. I don't even know what prior author. What, like, is this for the insurance to cover it? Like, I don't know what that means. Even, like.
+Becca Bressler: Yes. Right. Sometimes.
+Becca Bressler: Sometimes people submit. Do you ever get pushback from the pharmacy where they say, hey, we can't refill this because a prior. Because we need a prior authorization from you. Sometimes it's just you. Sometimes there's like a double check needed from the actual. From the actual clinician. But you've never experienced dealing with prior auths.
+Kimberly Heath: No, the only time that I've had an issue was through my other, like, my W2 business. And that's actually with VA. What they say they'll cover. So they say they don't cover it. Not a prior auth. They just say they won't cover here, you know, and then I have to look at other options that they will cover. That's it. And then I just prescribe again. Same thing. I go through this little pad e scribe and then I push it through. And I've never. The pharmacist has never reached out.
+Becca Bressler: Okay, super interesting. Can you just make sure to let us know if this becomes an issue for you? Like, you know, you look it up quickly and just can't figure it out or you're getting rejections from pharmacies? We definitely want to be made aware of this, Marcus. Sorry, you're about to say something.
+Marcus Irven: And we'll do some research. On our side, too.
+Becca Bressler: Yeah, on our side, too.
+Kimberly Heath: Okay. Okay. And So I know $10 doesn't seem like a lot, but is there any way to just get, like, a free, like, trial period?
+Becca Bressler: So we don't currently have a plan to do free trial periods or. How long of a free trial period are you looking for?
+Kimberly Heath: I guess 30 days would be. I think the 30 days would be fine.
+Marcus Irven: We can.
+Becca Bressler: We can accommodate that, Kimberly.
+Kimberly Heath: Okay.
+Kimberly Heath: Yeah, yeah, I think, like, yeah, the 30 day should be fine. I just want to make sure that it can work seamlessly.
+Becca Bressler: Yeah, definitely. We want that too. It might. What it might end up being is. Is a reimbursement on your account based. But. But yeah, reimbursement, like a refund. Like, you might see a char.
+Becca Bressler: We need to figure out exactly how to enable it.
+Marcus Irven: On our side, I think it would be. We'd give a credit and then.
+Becca Bressler: Okay, yeah, like a credit.
+Marcus Irven: Oh, you might. You might. Yeah, we'll make sure that it comes off. But it might. In my show is a charge.
+Kimberly Heath: Oh, okay. I see what you're saying. Okay, that's fine. Yeah. Well, I'm excited to have this work. I mean, I never thought I would use this for everything, but it looks like you guys are going in that direction.
+Becca Bressler: Yeah, we're hoping to. So this is really exciting for us that you're giving it a shot. And please give us feedback. Any type of feedback is useful feedback.
+Kimberly Heath: Of course. And then you guys don't do lab work right now, or do you?
+Becca Bressler: So you can send lab orders through JOT Psych to patients. We don't yet have that hooked up. Where the results are necessarily. Marcus, correct me if I'm wrong, but you know, the results are not pulled into your. To your note right now. That's not something that. But it is on our backlog. We know that's an important piece of the EHR for some folks, but currently not.
+Kimberly Heath: How do you get the results of the patient? How does the patient get them then? The patient has to send it in.
+Becca Bressler: I'm assuming the patient gets a document. Basically the.
+Kimberly Heath: Like an email. Through email.
+Becca Bressler: Yeah, through email, through text. That's. That's how it gets to them.
+Kimberly Heath: Okay, got it. Well, that's good to know. All right, well, that's an option that I'll look into in the future. Then we'll see how this goes first. One step at a time.
+Becca Bressler: One step at a time. Great. Well, thank you so much, Kimberly.
+Kimberly Heath: All right, well, thank you for your time.
+Marcus Irven: I appreciate it.
+Becca Bressler: Thank you for your time. Take care.
+Kimberly Heath: Okay.

@@ -1,0 +1,133 @@
+Justin: Good, good. I mean we, we never really had much of a. Of a winter. We had one snowstorm last week and that was it. I guess that's when.
+Christopher Hume: That's pretty crazy. This has been quite a busy one out in dc.
+Justin: Yeah, I've got a brother in law who lives out in Maryland, but he works, he works at the Pentagon and oh my gosh, he's kind of been interesting to kind of chat with him.
+Christopher Hume: Yeah. Quite a time to be there. I'm sure it keeps him on his toes. Well, Justin, I just wanted to check in with you on your team. If we could set up an account for you and show you how to use it. How to use it? Exactly. We can set you up. Once we get you set up, we can make you in charge. So I want to make sure we have the right people activated you in that supervisor role and then just check on the status of like, is it good to switch over to auto pay now or do you need to get kind of final approval for anyone or how that works?
+Justin: I don't know, to be honest with you. I would imagine auto pay is fine.
+Christopher Hume: Well, let me show you who we have here.
+Justin: Let me. How do I. Do I have a password?
+Christopher Hume: You don't have an account yet, I don't think. Justin.
+Justin: Yeah. I just clicked on your email.
+Christopher Hume: Oh, perfect.
+Justin: It's asking me to create a password.
+Christopher Hume: Yeah, exactly.
+Justin: Yeah. Sorry. It's ever since it's always busy for people like in my position, but most recently we just finished up interviews for our next training cohort and that has taken up a huge amount of time for us or for me really putting matches up
+Christopher Hume: as you go out to like colleges and, and stuff. Right. To recruit.
+Justin: Yeah. Yeah. So some, some I've. I've got relationships with like five universities and nine programs. Something like that. It's a lot. It's more. Yeah. But yeah, so I had a. I had to go to a handful of universities and kind of table the event, which is great. I mean we want to make sure that we're the right fit and I mean we got more than 40 applicants this year and this is only our second year doing this, which is great. I've got. We're bringing in fewer people, but definitely better. A better fit moving forward. So rather, we had, like. Well, we had 11 total interns. I think only seven are on jot psych, and we're going down to four.
+Christopher Hume: Oh, wow. Okay.
+Justin: And the reason why is that one of the. One of the strategic miscalculations I made is that people need to get their hours. And we've been kind of lagging on that. Even though we're doing a lot, we just have too many people to split. So, like, the averages shrink down. And so feedback from the interns was bring on fewer people so we could have more hours. So we'll be doing just as many sessions, but with fewer people.
+Christopher Hume: Okay. I see you just created your account.
+Justin: Yeah. So what. Where do you want me to go?
+Christopher Hume: I think first thing is I'll add you to the. Gosh, so many tabs open right now. Getting lost in my computer. There we go. So I will add you. Okay. Let me make you a supervisor, and then I'll ask you to refresh your screen. You refresh your screen now, Justin.
+Justin: All right, perfect. It no longer says I have 11 days left on my trial.
+Christopher Hume: Let's.
+Justin: All right. Where do you want me to go?
+Christopher Hume: What would be most useful for you today, Justin? I can walk you through how to record, how to create a template. We could switch you over to an admin account so you don't even. You could just use it to look at your team stuff. How would you like to use job site?
+Justin: Be good to look at the team. And then I would like to learn. Talk. Learn a little bit about how to wrap up accounts. So, like, April 4th, the 1st and second weeks of April, we're. I'm losing four interns, and so I'd like to kind of sunset their accounts. I don't know if there's a way that I can do that or.
+Christopher Hume: There should be. This. This is a test to see if I set the right. Gave you the right account type. Could you share your job site screen and I could just walk you through.
+Justin: Oh, I'm using my work computer.
+Christopher Hume: Oh, okay, no worries.
+Justin: I'm using my. My laptop to talk to you. My work computer.
+Christopher Hume: Oh, then let me share my screen and you can just follow along.
+Justin: Okay.
+Christopher Hume: You can go up to your practice and then go to clinicians.
+Justin: I don't see a your practice. I see billing and auditing and then record.
+Christopher Hume: Could you refresh your screen again, please?
+Justin: Let me log in and log out. Oh, I logged in. Logged out, same thing.
+Christopher Hume: That was probably. I probably failed the test and I didn't give you the correct permissions. Let's see if you refresh again. Now. You're the administrator, so it should work now.
+Christopher Hume: No, Give it a moment here. Just double check.
+Justin: Oh, do I need to verify my email?
+Christopher Hume: You shouldn't have to to get access to this.
+Justin: No, that was it. I verified my email and it popped up.
+Christopher Hume: No way. Oh, my goodness.
+Justin: Appreciate the engineers telling me about that new requirement. Now I can see.
+Christopher Hume: Okay, there we go. There we go.
+Justin: Okay, so we can end Aubrey. Aubrey's no longer with us.
+Christopher Hume: Yep.
+Christopher Hume: So what you do is you press the pencil on the right hand side and then deactivate.
+Justin: Deactivate. Cool. So chill. Brenda. Sequoia. All right, it's everyone. Cool. Let's remove social from practice administrator and building administrator. How do we remove that one?
+Christopher Hume: She is not actually the billing administrator. If that is a. That's still hanging on. I can. If you can't change it, I'll change it this. This week.
+Justin: Okay. Yeah.
+Christopher Hume: That is just from when she was the first. The first user. She was the.
+Justin: She was a practice manager.
+Christopher Hume: She was the. The only one. She's the only one using the software. Practice manager of one.
+Justin: Awesome.
+Christopher Hume: And just before. Oh, so. So I'll remove her billing administrator role. There you go. She no longer has that.
+Justin: So I stumbled upon. I don't know what you're. I was just poking around. So one that I see is create. Org templates. And so this seems to be something. What would be important for us to talk about because I think I shared with you for the most part, everyone's done great. Oh, I'll give you some good. Give you some feedback. Our billing administrator was like, well, I don't read your notes normally, but I've been reading. I've been looking at them and they look really well polished and really cool. And because they share the building with ad with the CEO. And we had our executive team meeting last week and they were like, how is. How's the AI going? I was like, great, this is why we're doing it. So on and so forth. And then the medical director, who's been very antagonistic against using AI was like, how are you using it? And I said, we're using it more as a scribe. It's not. We're not using the live transcription function. It's worked out really well in a lot of. In a lot of different ways. And I think his wheels are finally to start turning. Sadly, that's outside of your scope.
+Christopher Hume: But no, it's always nice to hear positive. Yeah. Positive experience.
+Justin: Yeah. Yeah. I mean, yeah, I love. I. I told us, like, I don't have to worry about it because I trust in the system. It's been vetted well enough. My clinicians have reported really, really positive results. They like how they see their. Their notes being crafted and that. That allows me not to scrutinize the notes as much, which just saves me a ton of time because we're doing. We're really busy right now and I gotta review every single note in this clinic. So it's. For me, Chris, this has been a gods.
+Christopher Hume: Before. We create the templates for your team. Justin just wanted to flag. Brenda hasn't made any notes and Alexis hasn't made notes in like a month. You might just want to deactivate them and we can always turn them on later. But just before the kind of charge goes through, I don't want you guys getting charged for people who aren't really using the software.
+Justin: Yeah, let's do that. So with. Remind me. So Brendan has been kind of a straggler. Alexis has had some, A lot of friction using it because the standard template or the standard report that it generates, she doesn't, it doesn't work. She doesn't like. Okay. And she wasn't as part of your training where there is a. Where you taught us how to kind of learn.
+Christopher Hume: Okay.
+Justin: And so she doesn't have that. I guess I could deactivate it.
+Christopher Hume: I could, I could also just set up a training with her if that would be. If that would be better. But I just want to make sure if she's kind of. Yeah.
+Justin: If I deactivate her, could I reactivate her? Of course.
+Christopher Hume: Yeah.
+Justin: Okay, so let's do that. We. She's a part time employee. I mean she has staff, but she's part time. And. But she does. She's. She is a believer in it, but she just hasn't had a good experience. And it was one. Because she wasn't here during your training. That was definitely something that everyone benefited from. And so what I'll do is I'll shoot her an email or I'll shoot her a message. Just kind of talking about letting her know that I deactivated her drop psych and to talk to you. That work?
+Christopher Hume: Yep. Oh, yeah, yeah, of course. That's what I'm here for.
+Justin: Okay. So going back. So I guess I would like to learn more about the organizational template because. Yeah, I think this is something that we're. We need to do.
+Christopher Hume: Yeah. Oh, how it works. Note or something I can show you. So share my screen here. Just so kind of when your next cohort of people comes through, what you can do is you go documentation. Your note templates. And you create a custom template with kind of the information and the training that kind of meets all of your workflow and kind of your rules then. So you can move sections around, you can add standard sections. So I don't know how to section or I know that's probably not relevant, but just as an example. And then you can use our AI editor button up here. Really start to personalize it. And this is when you say something like, hey, I want the chief complaint to always include these, you know, always include quotes from the client. I want you to add a custom section about this, this and this. Just plain English over here.
+Justin: Do you, do you have any training videos on this stuff?
+Christopher Hume: Yes. Yeah, so you can access those here.
+Justin: Browse tutorials. Yours says learning videos. Mike says browse tutorials. I imagine that's the same.
+Christopher Hume: Really?
+Justin: Let's click on yours. Let me see.
+Christopher Hume: Yeah, they keep me on my toes, that's for sure.
+Christopher Hume: It goes into another tab.
+Justin: Looks like it's. It's tagged to notion. Yeah.
+Christopher Hume: So it's the same. Okay.
+Justin: But it's different. Okay. So I think. So you're aware next week I'm not. I'm. I'm not seeing patients. I've got a next week. As a complete admin, we can. I do, actually, because of our meeting, I do have part of my tasks to update our templates.
+Christopher Hume: Once you get the template structure you like, just want to show you here just is you push this button here, little building looking thing. And then because you're the supervisor, everyone in UPFH is going to now have that.
+Justin: So I don't have that. I've got this, I've got the little star thing. I've got the copy thing. I don't have the third icon.
+Christopher Hume: You don't have the. That might be. If you look at your template over here, Justin, is it the jot psych logo or is it the little man?
+Justin: It's the job site logo.
+Christopher Hume: You can't do it with a job site template. It has to be one that you've customized.
+Justin: Got it. So I don't. So I mean, I created a new template. I don't have.
+Christopher Hume: Yeah, let me see.
+Justin: You can see that.
+Christopher Hume: Oh, you just have the locked button. Is it a lock there?
+Justin: Yeah, it says template lock. I can unlock. I don't know if I can unlock it. So it's unlocked, but I don't have that building icon.
+Christopher Hume: Okay, let me check what's going on your account.
+Justin: So I do start from scratch. It works. But what I went to was organizational templates.
+Christopher Hume: Oh, so you went down. You were in organizational templates. Those are the ones that are already loaded. If you start from scratch or edit any of the existing ones, you should be able to set those as organizational templates.
+Justin: Got it.
+Christopher Hume: Yeah.
+Justin: Makes sense. So what I was. What I was working on was already deployed to the organization.
+Justin: Yeah, got it. Okay. Yeah.
+Justin: And then just go ahead.
+Christopher Hume: The. The one thing to flag, Justin, is if you lock a template. So if it has this little lock button, means no one's gonna be able to edit it. So member of your team, you push it out to them like they get what they get. If you unlock it, then they'll end up with their own version that they can tweak.
+Justin: Okay, So I'll play around with this. Yeah, I think on my end the user management is helpful.
+Christopher Hume: Yeah, nice to be able to see.
+Justin: And then I think the next one will be. Okay, well, I guess I'll figure out how to create new clinicians. Invite. Just invite user.
+Christopher Hume: Yep, exactly.
+Justin: And then. Yeah, so understand users. I'll play around with trying to figure out how to. To build a template and to structure that. I think, like I said, I'm going to my current cohort of trainees. They're going to do whatever that they need to do. But my next group of trainees starts mid May, and that's when we're going to have kind of like. This is really how we do it. And so that. But that's going to require me to really get involved and to really look at job site. So I don't want to, I don't want to take up your time on how to do that. That's on my end.
+Christopher Hume: No, no. And if I, if you need any help, you're like, oh my God, what was Chris talking about? Like we. I can always jump on a call, Justin, and walk through this with you. That's quite literally my job. So I'm more than happy to.
+Justin: Your chief of staff. You're like the co.
+Christopher Hume: CEO I used to coach.
+Justin: I used to coach Jesus. Staff.
+Christopher Hume: Yeah. A little bit of everything, right?
+Justin: That's right. Yeah.
+Christopher Hume: Yeah. So, Justin, I just extended out your little trial. So it'll go into effect tomorrow just in case you need to check with Brenda or anyone on finance about the charge.
+Justin: Okay.
+Christopher Hume: But it'll be $99 a seat once that charge goes through. And it will be the same payment that they used for the discounted month. It'll be the same payment method.
+Justin: How did they get back to you on the check versus electronic payment? Did they talk to you about that? I thought that was really odd.
+Christopher Hume: I was cracking up because to let you know about some jots like lore, apparently one of our first big customers paid us in check. And of course at the end of the year when it came up, it was a big mess trying to figure out how to renew the account because all we have is physical check. So we don't do physical checks anymore. But someone put in a bank account on Brenda's on the invoice. I sent Brenda and then it, I checked it and it said not, not validated. I was like, oh no, I'll need to reach out to them. And then I was getting ready to send you an email and I checked it again and everything was good. It'd been validated, the payment went through.
+Christopher Hume: So we just set up that as your standard billing.
+Justin: Billing method if you ever run into an issue. The person to reach out to would be Bob Kramer. Robert Kramer.
+Christopher Hume: Kramer. Okay.
+Justin: So I think you were on the email.
+Christopher Hume: Yes, yes.
+Justin: He's a cool guy. He's a former FBI special agent, forensic accountant. He's a really.
+Christopher Hume: Oh my gosh.
+Justin: He's. He's retired and he was bored and he was like, I need a new job. And I don't know how he got hired, but he's got the greatest stories.
+Christopher Hume: I'm sure he has some stories. Yeah. Everything must seem pretty chill after that kind of job, right? Hard to get worked up.
+Justin: Yeah. So. Yeah. So thanks for letting me know about the payment. I. I know it's. I mean, it's been approved top to bottom, but I just want to make sure that payment's smooth. I'm sorry about that.
+Christopher Hume: Oh.
+Justin: I mean, that rolled out.
+Christopher Hume: Trust me. Not the first time, and I'm sure not the last time. Takes a little bit of detective work to figure out who the right person is, so it's part of the. Yeah. Part of it.
+Justin: I appreciate. I don't want to take up a whole bunch of time. The. The bulk of this is really on me now to. To kind of standardize. But I think what. What probably I may do is once I get everything up to kind of how I would like it, if I do have any issues or. Or something, I just may reach out to. To get your expertise.
+Christopher Hume: Yep. Yeah, that'd be perfect. Be happy to kind of do a gilding the lily session on the template.
+Justin: Perfect. Love it.
+Christopher Hume: Well, thanks, Justin. Let us know if you're ever in D.C. and hopefully we can come out to Utah sometime again.
+Justin: That would be lovely. Yeah.
+Christopher Hume: Wonderful. Wonderful. Thanks, Justin.
+Justin: Take care. Have a good one. Bye. Bye.

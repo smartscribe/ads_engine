@@ -1,0 +1,102 @@
+Emily Kaiser: Hi, melissa. How are you?
+Melissa Weisman: I'm good, thanks.
+Emily Kaiser: Good. Thank you for joining us today.
+Melissa Weisman: I'm just going to get. I had to join the summer phone. For some reason not working on my browser.
+Emily Kaiser: Okay, well, no worries. I know we had a couple other people joining. Should we wait for them to get going?
+Melissa Weisman: Well, Brie is actually in the room with me right now. Hi, Bri.
+Emily Kaiser: So who you're seeing on your screen, Melissa and Brie, is Chris and Nate. They can kind of help us walk through more of the Jottec features that we spoke about. Job, Bill and eprescription. They can kind of guide the way. And please let us know if you have any questions that we can help with.
+Melissa Weisman: Okay?
+Christopher Hume: Perfect. Well, Melissa, Brie, great to meet you both. Thank you so much for taking the time. Are you in San Diego? So it's right around lunchtime for you.
+Melissa Weisman: I were in san diego.
+Christopher Hume: Okay, well, thank you for taking the time. We really do appreciate it. So then we were saying, my name is Chris. I'll be kind of running the show today. But we also have Nate, our CEO on the line. Just wanted to make sure he said hello and introduce himself.
+Nathan Peereboom: Hey, Melissa. Great to meet you.
+Melissa Weisman: Great to meet you. Brie.
+Nathan Peereboom: Hi. You are in great hands. I'm here just as, like, a phone, a friend. And also to say that genuinely, we are so excited about the possibility of working with you. We've got, obviously, a lot to get through today, but I want you to know that I'm, like, here should you need anything now or. Afterwards.
+Melissa Weisman: Great. Thank you.
+Christopher Hume: So I think to kick off, Melissa, Emily was telling me you're interested in learning a little bit more about John Rx, maybe getting onboarded onto JoTRx. But then you all also discussed maybe some of your colleagues using jobs that may be using jot Bill so what would be the most helpful or what would make this meeting a success.
+Christopher Hume: What would you like me to focus on and discuss first, and then we can go from there?
+Melissa Weisman: I would like to see how the Jotrx works. I have staff typically handle sending medications. That's why I have Brie here. Something she does. So having her see it. She probably have better feedback on.
+Melissa Weisman: I guess if that would be, like, a good system for us.
+Christopher Hume: Okay? Perfect. So I'll walk through how you can sign up and try it out, and then we can go through how the system itself. Works.
+Melissa Weisman: Okay?
+Christopher Hume: Well, let me share my screen. Let me walk you through. Oh, my gosh. This is what happens when I don't have my monitor in front of me. I'm jumping around. Here we go. Okay, so first thing we'll do here, Melissa, is we'll walk through kind of how to get it up and running, and then we can walk through, dose spot our vendor itself. I think we might even have our team member who kind of developed this feature on to walk through and answer some of those nitty gritty questions for you.
+Melissa Weisman: Brief.
+Christopher Hume: S to set up Doe spot. Go to your site home page.
+Melissa Weisman: Your practices. Sorry. Which part? It broke up a little bit.
+Christopher Hume: You go up and you press your practice. Then you choose clinicians. And then you just go down to yourself. Press this. Member button.
+Christopher Hume: Which button are you following along, Brie? Because then I can go a little slower for you.
+Melissa Weisman: For me? I'm so sorry. I'm trying to do something else. I'm paying attention now.
+Christopher Hume: No worries. Sorry.
+Christopher Hume: We're having issues. I know. I'm on a phone.
+Melissa Weisman: Melissa's going it at the same time. Yeah. So I'm on the definitions and I see myself. Just which button did you press for the pop up there?
+Christopher Hume: You press? The little pencil button on the right hand side and there we go. And we can turn it on for you.
+Melissa Weisman: Okay.
+Christopher Hume: I just wanted to start off by showing how to do that. We're happy to walk through setup, but once we do that, It will kind of turn on our X. And there's the fee associated. Now that we know how to do that, we have Becca on, who kind of manages our eprescription and can kind of walk you through those features to make sure you're comfortable with everything before we switch it on for you and Brie for you as well. Potentially.
+Christopher Hume: So, Becca, thanks for jumping in here. Would you be able to just walk us through Dosebot and then answer any prescription specific questions that Bria Melissa might have?
+Becca Bressler: Yes, absolutely. Hi. Really nice to meet. Really nice to meet you.
+Becca Bressler: I'm just going to share my screen for a second. And let's see. Okay? Can you guys see my screen? Okay? Great. So this is.
+Becca Bressler: My account's already set up with Dosebot right now. And so this is a test account, so I can't do as much on Dove spot as you'll be able to. But this is an example patient Rowena, who we set up. And so the one way you can prescribe is from the patient's profile. Right here. So you see medication when you hit prescribe, it opens Dosebot, and it opens you directly into the patient's profile. So there's no second patient search. And Dosebot, it's hooked up directly. You will have to do, like, a patient setup each time. We are collecting the right information for the patient. But then once you put that information in, jobs like it will open it up directly here and so it will show you insurance information. You can manage the patient's pharmacy. So pick your preferred pharmacy so that it's the default. And you have access to patient medication history. So this other subscription, other things that have been prescribed to the patient. So this is an example, and it also will show you. What's the word I'm looking for? Substances. Oh, my God. Controlled substances. Yes, of course.
+Melissa Weisman: Perfect.
+Becca Bressler: Show you history of controlled substances, and you're also able to prescribe controlled substances with JOTRX and at no extra fee. Would do that. Here is you would add prescription type in, let's see, Motrigene. Fill out a series of information here. So the quantity frequency refills any notes that you have for the pharmacy, and then it will create the medication, and then there's just kind of one more step to select and fire it off to the pharmacy. So dosebot's pretty straightforward. We also have resources that we can pass along for you that we've gotten from them to help users with any question they have access anything on dospot. But that's basically it. It's quite simple. Right now on the recorder page. You're supposed to also be able to do it, though.
+Melissa Weisman: I'm not sure right now.
+Becca Bressler: I think I noticed it was missing. Addressing right now, actually. So here it says like, get a demo book setup call, but this is actually where it would say prescribe your patient setup. So, yeah, once you, like, attach a patient, then you can also prescribe directly from the reporting page. We know that a lot of users you're prescribing during the session. So in order to not disrupt your workflow and keep you in the same place during the session, we make easy for you to prescribe directly from here as well.
+Melissa Weisman: I'm sorry, do you have to re enter the patient profile into this as well or at cascades over.
+Becca Bressler: Cascades over.
+Becca Bressler: So as soon as you have your information in here. So if you're setting up a new patient, for instance, you'll have to connect for prescribing and it will ask you for information for that patient. But it's a one time setup. You're only doing it in jobs. Like it says, connect patient. And then from there on out, every time that you are prescribing for that patient, it will pull you into Dosebot, directly into that patient, directly into that patient's profile.
+Melissa Weisman: Thanks.
+Christopher Hume: Yeah.
+Becca Bressler: Thank you. That's it. Let me know if you have any questions about. Let me stop sharing my screen for now.
+Melissa Weisman: Okay?
+Nathan Peereboom: Melissa, Bree, you guys remind. I'm sure I've read it somewhere. Or maybe we talked about it, but where do you guys do eprescription now?
+Melissa Weisman: So we use Khipu ehr and we prescribe through that.
+Nathan Peereboom: Okay, gotcha. Gotcha. That makes sense. Great, Chris, back to you. I know you got. You have an agenda here.
+Christopher Hume: Wonderful. Becca, Nate, thank you both. Melissa, Bree, I know this is probably the most important thing that we're going to talk about today. That's kind of why we're having this call, is to talk about eprescription. So Melissa and then I know Melissa said, brie, that you might have the more tactical questions. Is there anything that we I mostly mean Becca, are expert can answer about e prescription here? Or would you have any interest in sort of trying it out or getting. Anything like that.
+Melissa Weisman: No, I think it was straightforward. Yeah. I don't think there's anything with these things. You never know until you start getting in there and doing the orders. And issues or the differences between keeping what this may be. But no, I think it seems straightforward for now. Yeah, wonderful. Thank you. Yeah. I just know if we'd be prescribing through this and we're almost looking at not even having kipu, we'd be doing so much through this, through that, which would be like. We'd have to take that higher up to chain to see if we can use this, because it. Looks really helpful. Along with the AI scribe. I miss other part writers that we'd really appreciate it. I'm assuming you guys aren't partners with any other EMR systems, right?
+Christopher Hume: Like we're not partners with any EMR or EHRs, but we do have a chrome extension. Of course, we always recommend that you could use us as your ehr, but we do understand that that's sort of a big transition and kind of has to go through leadership. If you'd like to use us for scribe and eprescription, or scribe and billing, or some combination thereof. We actually have a Chrome dom. So it's a one click copy paste into any ehr that can open in Google Chrome.
+Melissa Weisman: Okay?
+Christopher Hume: I'm guessing, Melissa, you do some copying and pasting.
+Melissa Weisman: Now if it's just use a copy all sections or whatever sections I need and that's it.
+Christopher Hume: Yep, that works. That certainly works too. But I know some people don't even like doing that. So we've been rolling out this one click. Integration.
+Melissa Weisman: That's the RX history. I do like that. That has like so that RX history. I know. I had a question. I forgot it. That is showing prescriptions.
+Melissa Weisman: From other providers as well.
+Melissa Weisman: And other places. Yeah, I like that a lot. That kind of feature, because it helps. Sometimes people come in, they're like, oh, I took this thing, and I don't remember the dose, and I don't remember the medications name even. So that's extremely helpful. Yes, thank you.
+Christopher Hume: Then, I guess, in terms of next steps. Melissa and Brie, what can we do for you? We can. We're happy to set you up with eprescribe. We can set up a meeting with your team. We can go over our billing features.
+Christopher Hume: We can set up a free pilot for some of your colleagues. Just. To see if anyone else wants to use the scribe. What would sort of be the best ahead here?
+Melissa Weisman: Yeah, we have another NP coming on at the end of the month, so I'd love. Yeah, for her to be able to try it as well. I wouldn't mind trying the prescribed just to see.
+Christopher Hume: What we can do. Melissa is so he prescribed is $69 a month for our customers who are already with us. We do the data migration for free so we can help you. Maybe you have all your info already in jot psych, but if you need any support bringing information over from Khipu, we can set you up with one of our engineers. They can bring that over for you, and then you can try out eprescribe and not have to if all the information again, all the insurance information, et cetera. So if that would be of interest, we could set up that data transfer call for this week. We'll turn on E prescribe for you, make sure it all looks good, initiate the data transfer, and then you should be able to start trying us out within a few days.
+Melissa Weisman: Yeah, I think I'll just maybe talk it over with. Who do you think would. Keith. I have keys. Ryan's Orion. The owners. Yeah. I'd love to run this by them as well and see what they think about.
+Christopher Hume: Absolutely. And if, Kyle, you talk with them, they have some questions. I know how these go. It's always like, what were those crazy people on the Zoom call talking about? We're happy to share any information with you or jump in a call with them as well, if that would be helpful. So I guess just in. Terms of a check in Melissa and Brie. Would it a time later this week work to one, see how things are going?
+Christopher Hume: And if interested, start the data transfer.
+Melissa Weisman: Yeah, because I can check in with the owners. And see what they think if they want to talk to you guys or if we should just do a trial of it or what?
+Christopher Hume: Yeah, perfect. Would ride a morning work for the check in.
+Melissa Weisman: Sure.
+Christopher Hume: Maybe 12 my time now, in your time.
+Melissa Weisman: My timeline.
+Christopher Hume: Your time. Nine.
+Emily Kaiser: Yes.
+Melissa Weisman: Nine thirty might be safer.
+Christopher Hume: Nine thirty is perfect.
+Melissa Weisman: Okay, cool.
+Christopher Hume: Let me get this. So, Melissa, I have your email. I have breeze email. Would you like me to include? As well on that Friday call.
+Melissa Weisman: Sorry, did you say Kelly?
+Emily Kaiser: Yep.
+Christopher Hume: Kelly A.
+Melissa Weisman: Yeah, we'll try. She was busy today because we have another associated outpatient, so she couldn't make it. But, yeah, she can jump on Friday. That'd be great, too.
+Christopher Hume: Perfect. And I'll make sure, kind of let me take care. Send this to all you. The weather out in San Diego. We have these crazy winds and storms going on in D.C. today.
+Melissa Weisman: It's terrible.
+Christopher Hume: Really? No.
+Melissa Weisman: Oh, my gosh. Over the weekend.
+Christopher Hume: Oh, my gosh. Yeah. We're just hoping the tree doesn't fall in the office.
+Melissa Weisman: I think. What is it down here, the 70s? By the beach, where, like, we can see the ocean from here.
+Christopher Hume: Oh, my gosh.
+Melissa Weisman: Walk down to the beach on a break.
+Christopher Hume: We can't see that from our office. I've seen a street and some cars with tickets on them, but that's about it. Okay. Well, Melissa, Brie, any last questions or anything that we could provide for your meetings with the owners?
+Melissa Weisman: I.
+Melissa Weisman: Don't think so. Okay?
+Christopher Hume: Well, if you think of anything that you need, you have my email, and you have Emily's email and phone number.
+Melissa Weisman: So we're here to help.
+Christopher Hume: If you knew just before Friday, please don't hesitate to reach out.
+Melissa Weisman: Okay, awesome. Thank you so much.
+Christopher Hume: Awesome. So nice to meet you both.
+Melissa Weisman: Down on Friday. Nice to meet you guys.
+Emily Kaiser: Thank you. Thank you.

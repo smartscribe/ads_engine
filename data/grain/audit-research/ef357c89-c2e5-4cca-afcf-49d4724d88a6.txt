@@ -1,0 +1,86 @@
+Nathan Peereboom: New one every single time they see a patient. And you don't have to do that. But whether or not you go with JOT Psych's eligibility check program, I really encourage you to check your eligibility more often. But. But regardless, you know, if one way for you to just, again, get a taste of what it's like to work with us and the kind of quality of product we have is to just do a free week of this. And so, you know, for us, you know, it's whether it's. Whether you want to only do new patients or you want to do the existing patients that you think you already know their. Their eligibility for this week. Either of those is fine. So we're game for either path.
+Steven Eshun: Okay. Okay. Yeah, I'm open for it.
+Nathan Peereboom: All right, great. Well, why don't we do this? And just as a reminder, Stephen, this is kind of the first step in us handling your billing for you. So, you know, this is the first step in us, you know, being able to basically show you, like, hey, this is how we work with insurance companies. This is how we interface with them. This is kind of what we think you should be, you know, billing and charging for your visits. Here's where we think there's risk. So this is just the first toe dip into us hopefully taking your whole billing situation off of your plate. Okay. So, yeah, so I guess in that light, I think that again, if you're. If you're willing, you know, we'd love to start setting you up for just, like, a trial run of eligibility checks, you know, as. As the. As the first taste here. Does. Does that sound good to you?
+Steven Eshun: Yeah, it sounds good.
+Nathan Peereboom: Awesome. Okay, so Chris is going to kind of lead you through the process of kind of getting us access to ehr, and then what we'll do is a week from now, we'll give you eligibility checks on this, this coming week of patients.
+Christopher Hume: Perfect. And so I think, Nate, correct me if I'm wrong here, would make sense, Stephen, if you could share your screen and we could kind of create that account on your EHR together.
+Steven Eshun: Is it on my personal EHR or your site?
+Christopher Hume: Your ehr.
+Steven Eshun: Okay. Okay. Just a minute, please.
+Christopher Hume: Perfect.
+Steven Eshun: Can you see, please?
+Christopher Hume: Yep. I think you're going to go to Settings in the top right hand corner, Steven.
+Steven Eshun: That's it. Okay.
+Christopher Hume: And then go. Sorry, this is my first time actually in Practice Fusion, as crazy as that is. I think. Add user. If you scroll down, maybe it's at the bottom. Let's see. Patient communications, payment collection, practice settings, users. I think you can add users there.
+Steven Eshun: Let me see. Yeah.
+Christopher Hume: Yep. And then if you could let me just look, I pulled up some instructions here. So we log into Practice Fusion Settings, add user. So if you could. And we'll actually use my colleague Adam's email because he'll be the one working with you directly on these eligibility checks. So if you go first name Adam, Last name harrison, h a r r I s o n. And then his. Excuse me, emails a Harrison. @jot psych.com. And then for access level, I believe administrative access is required. So we can just do staff and then admin, I think. Yeah, admin, please.
+Steven Eshun: Okay. Information has been sent to Iverson.
+Christopher Hume: Perfect. Adam, I know you have to jump in a few minutes, but would you be able to see if you have access over there?
+Adam Harrison: Yep. Let me check my email, looks like. Yep. Stephen has added you to Practice Fusion, so I will log in here. I won't, you know, make sure it all works, but should be good to go if you're on my side. And great to meet you, Stephen. By the way, I'm looking forward to getting these checks done for you.
+Steven Eshun: So it says that new users will need to enter practice assets code to activate account. Your practice access code is. So, you know, I have the access code here before you can, you know, activate your account.
+Adam Harrison: Oh, yeah, that would be great. I think I will need that code in order to get plugged in.
+Steven Eshun: Yeah, I think he's showing. He's showing on the screen though.
+Adam Harrison: Okay. Chris, do you mind just sending that to me via chat?
+Christopher Hume: Yep, just sent it to you.
+Adam Harrison: Okay, awesome. Thank you. So let me just double check this email, make sure I have everything I need here. Yep, it should be good. So, Stephen, what we'll plan to do here is I will get logged in to your ehr. What we'll do is we'll take a look at the patients that you have coming up for next week and we will run eligibility checks for that full week of patients. That'll all be like a free pilot check. So this will be no charge to you for a little bit of information on how our eligibility checks work. There's sort of three separate layers of checks that we do, so the first layer is more of a simple portal based check. And then if we need additional information, we do an escalation, which is a, which is a document search of the, of the insurance plans that the patient has. And then the third level is actually a phone call that we will make to insurers. So, you know, depending on what the plan is, we may need to do, you know, just that first basic level of check or that third level of check. But what we want to do is make sure we're doing a very comprehensive check that makes sure that you have all the information you need about your patient and, you know, a high level of confidence whether or not they are covered for your services. So, yeah, any. I guess, any questions on that, Stephen. But. But you should expect a lot of that detail to come through in the report that I'll send out for. For next week.
+Steven Eshun: Okay, so what about maybe in the future you want to do billing? Or, you know, maybe last year I. I took care of some people. I provided services, but I haven't done the billing. Is that one to. How is that one feasible?
+Nathan Peereboom: Hey, I'm so sorry, Steven. I. I had to work with someone on this side. I'm. I'm in transit getting a car at the airport. Were you asking about just, like, how the billing system works and how we get you set up for that?
+Steven Eshun: Yeah. So, yeah, yeah. From what you're telling me, this one is mainly for, you know, to check the status of insurance, whether it's active or not.
+Nathan Peereboom: Yeah. Okay. So the way that the billing program works is. And we can set this up, you know, whenever you're ready. We're kicking off with two, you know, two customers a week roughly right now. And all you have to do is essentially do your note in jot. Psych, click, sign, and then we handle everything else. So we take the note, we turn it into a claim. We take that claim, we submit it to the insurance company. We then look at the insurance company's receipts and make sure that you're getting paid for what they said they were going to pay you. And then we will appeal anything that gets denied. So we handle everything. All you have to do is practice your care and click sign on the note. So that's the general setup for billing, and you can turn that on. It takes about, I would say, three weeks to get it fully set up. But it's something that the setup time is really just an artifact of the fact that we have a backlog. So if we set up a time three weeks from now, put it on the calendar, we'd be able to get you rocking and rolling and billing in 24 hours.
+Christopher Hume: So then in terms of next steps, I think it sounds like. Adam, Nate, Steven, please let me know if I go off the rails here. But I think it sounds like we'll start off over the next next week doing Steven's eligibility checks. Then we will, as long as those are going well, we'll start transitioning him to jot bill in the next few weeks, and then we'll send kind of all reports. Steven, does it make sense to use the email? I'm sorry, I just had it up. Your steveash.net mail.com?
+Steven Eshun: yeah. Steve.net yeah, perfect.
+Christopher Hume: And then I think, Nate, Adam, did I miss anything there before? We kind of move on to close out.
+Nathan Peereboom: Yeah, I think. Yeah, go on, Adam. I think we're about to say the same thing.
+Adam Harrison: Yeah. So Stephen, there's a couple additional things we'll need to be able to run the eligibility checks. Some of this we can get from your ehr, but it's not always in there. So I'm just going to run through that list of things now if that, if that works for you. If you have like five more minutes,
+Steven Eshun: is it okay if maybe you email it? That one, you know, that one would better, please.
+Adam Harrison: Yeah, we can, we can do that. It should be super quick though if, if you don't mind. It's just like your NPI and tax ID and some of those. So if you don't mind doing it now, it should be super quick.
+Steven Eshun: Okay.
+Adam Harrison: Okay, awesome. Thank you. So we just need to know a few things. So your, your provider, MPI and organization. Mpi, if you have it handy.
+Steven Eshun: Okay. You need it right now.
+Adam Harrison: If you have it handy.
+Adam Harrison: Yeah, and we, we can, we can note it down.
+Steven Eshun: No, I mean I have to look for it. I have the, the provider npi, but organization, I don't have it so probably I have to send it to later.
+Adam Harrison: Okay, no worries. What about the organization name you use when for your billing?
+Adam Harrison: Yeah, I have it. Okay. Do you know your organization tax id?
+Steven Eshun: Yeah, that one. I don't have it. Okay, I can email them to you. I have your email address.
+Adam Harrison: Okay, perfect. Yeah, I'll send you an email as well. Just with what we're looking for. One other thing that would be helpful is the CPT codes that you typically use for your visits. Are you normally doing like 99214? Do you do any therapy add ons? Because we can actually do the eligibility check based on the CPT code.
+Steven Eshun: Cpt, you know, it all depends. Initial encounter. It has its own code.
+Steven Eshun: Yes, providing therapy has its own code, doing medication management. So you know, I miss them. It depends on what I do with the patient.
+Adam Harrison: Gotcha. Are there like any most common ones that you use? Like for an intake versus follow up.
+Steven Eshun: Yeah. But you know, I will include it in the email, the ones that I use most.
+Adam Harrison: Okay. All right, great. I'll send you an email just outlining exactly what we need and then. Yeah, be awesome. If you don't mind getting that over as soon as you can. And then would love to find some time with you next week just so we can go over the eligibility results, you know, get your, get your thoughts and feedback and then also talk a little bit about billing.
+Steven Eshun: Yeah, yeah. The billing clarification especially. I was. I didn't get. I think, I think my. I didn't get the answer.
+Steven Eshun: So curious one that I've done. Are we able to do that in case maybe I put a note. I put a patient information. I'll be able to do that better.
+Adam Harrison: Gotcha. I'm sorry, my connection here is not super good. I think I, I may have missed some of that. Do you mind repeating that?
+Steven Eshun: I said for. For instance, let's say I did, I did. I took care of patient last month, December maybe. I've not had opportunity or the chance to build them. Are we able to do that? The previous patient I saw, are we able to do that billing?
+Adam Harrison: Oh, yeah.
+Adam Harrison: You want to bill.
+Nathan Peereboom: Sorry, go ahead.
+Adam Harrison: Yeah, yeah.
+Nathan Peereboom: Hey, Steven. So right now we, we still aren't sure if we can bill retroactively. One of the things that we're going to do if we decide to, you know, help you with your billing is we want to look at your payer contracts. So the contracts you have with the insurance companies, if the payer contracts let us retroactively bill or like we haven't passed the time window when, when we're not allowed to bill, then we're happy to take all of that off your plate. So. So in our next meeting, what would be really, really helpful is if we could kind of get a glimpse of what your backlog is, where you keep those notes and, and also payer contracts.
+Nathan Peereboom: But, but we, we know, like I've got it written down on my pad of paper over here that you've got a billing backlog that, that you'd like us to help with.
+Steven Eshun: Yeah.
+Nathan Peereboom: Okay, great.
+Nathan Peereboom: So Stephen, who maybe we can also do a little async investigation list. What insurance companies do you primarily bill with?
+Steven Eshun: Oh, I think Medicaid.
+Nathan Peereboom: Ah, Medicaid. Okay, gotcha. You know what, Actually, we're gonna. This is great. We're gonna be able to find. You know, your primary insurances through the eligibility checks, and we can do a little investigation here. Can you just remind me what's the furthest back your unbilled visits go for? So, like, what's the longest it's been since you submitted a bill last year?
+Nathan Peereboom: I think last year is in 2025 or last year, as in 12 months ago?
+Steven Eshun: Yeah, yeah, 12 months ago, I think I did. Only two months I didn't get. You know, with my private practice, I don't have a lot of places, so I didn't get a chance to do, you know, 20, 25 day, two months or even. I didn't do any problem about problem. I haven't built it yet.
+Nathan Peereboom: Gotcha. Okay, well, that's totally understandable. We're gonna. We're gonna do a little research on our side and then get back to you. Okay?
+Steven Eshun: Okay.
+Christopher Hume: All right, Nate, just to jump in here, Stephen, I scheduled a check in for next Monday at the same time. Would that work for you? Just so we could review the eligibility checks and then get you some answers on the billing.
+Steven Eshun: All right, and with that one, how does it go? Like, is there fixed payment or. Is done by, you know, pay patient.
+Christopher Hume: So, yeah.
+Nathan Peereboom: Okay, so for billing, it's just based on. It's a percentage of the successful collections that we get. So if you don't make money from us, you know, we. You. You don't pay. And Stephen, I think we might have sent this over, but if not, we'll send it in a screenshot. Okay. But we can send you our exact pricing, so you know, you know precisely what it is. Yeah. So don't worry about that. Okay.
+Steven Eshun: Okay. All right, perfect.
+Christopher Hume: So I think the job site team Steven will get started on those eligibility, or we'll send over those last questions via email, and then we'll get started on eligibility checks. Once you share that info, and then we'll be ready to discuss billing and how we can maybe get you some. Yeah, some bills submitted for the. The work last year, what the feasibility of that is. And again, that'll be 3pm Eastern, a week from today.
+Steven Eshun: Okay.
+Adam Harrison: Yeah, and I've also, Stephen, I've also just sent you an email with those last couple of pieces of information we need just to be able to do the eligibility check. So if you don't mind replying to that whenever you get a chance, that would be awesome. So we can get started?
+Steven Eshun: Okay. Yeah, absolutely. Thank you.
+Christopher Hume: Awesome. Well, thanks, Stephen.
+Nathan Peereboom: Really looking forward. Very exciting.
+Christopher Hume: Thank you.
+Steven Eshun: All right. Thank you. See you next week. Please.
+Christopher Hume: Thank you. Yep. Chat next week, Steven. Have a good one.
+Steven Eshun: You too. Thank you.
+Nathan Peereboom: Hey.

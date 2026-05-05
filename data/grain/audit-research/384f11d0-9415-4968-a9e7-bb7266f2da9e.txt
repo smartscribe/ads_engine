@@ -1,0 +1,155 @@
+Adam Harrison: Good. Good. I feel like Nate and I are kind of back bouncing back and forth with you. You talk to me, and then you talk to Nate, and you talk to me again. And maybe Becca, too. I don't know if you're in touch with her.
+Meredith Hogarty: I was supposed to meet with Becca Friday, but she wasn't able to join. But I met with, I don't know, someone from the engineering team.
+Adam Harrison: Oh, Marcus. Maybe.
+Meredith Hogarty: Maybe. Yeah.
+Adam Harrison: Okay. You're getting to know the whole team pretty soon.
+Adam Harrison: We're going to try to recruit you to come internally. Well, great. Well, how is your Monday starting off? Meredith?
+Meredith Hogarty: Starting off all right? Not too bad. Easy morning so far. Shouldn't jinx myself, but so far so good.
+Adam Harrison: Great, great. Awesome. Well, I'll kind of jump right into things then, I guess. Did you speak with Nate about kind of kicking off with an eligibility pilot with us? Is that like, okay, awesome. So I can kind of walk through what that will look like and kind of the setup there and. Yeah, then answer any questions you have and kind of get things in motion.
+Meredith Hogarty: Awesome.
+Adam Harrison: Perfect. So with eligibility checks right now, we're sort of, you know, the way we're starting out is doing kind of just more like a. You get like a free trial or pilot period where either there's, like, two options to do that. One, you know, you could either just send us a list of people that you wanted us to check and we could send it back, or we could also, like, go. If you give us, like, a account in your ehr, we could go look and then, like, find people in the next week, you know, from your calendar, and then check that way. Either totally works. It's just sort of like what you prefer, what you're comfortable with, but either is totally fine on our end.
+Meredith Hogarty: So that a way to do it where I can just do that in house.
+Adam Harrison: What do you mean?
+Meredith Hogarty: Like, I just want my medical assistant to do it, but okay, like, I just want to be able to do eligibility through jot Psych. Does that make sense?
+Adam Harrison: Yes. Yes. So right now. So, yeah, right now, it's a little more manual. So I could definitely work with your admin to, like, get the pilot set up. We are, like, rolling out so within the product very soon that you'll just be able to, like, go to the calendar, click on, you know, Adam Harrison has a 9am run eligibility check, and then it will tell you, like, oh, is he, you know, is his coverage active or not? What's, like, the patient responsibility? Is it a $20 copay? Is it deductible applies, is it? You know, like.
+Meredith Hogarty: If the. Like, if the insurance is still active, all that.
+Adam Harrison: Yes, yes. So it'll have. If it's active, it'll have, like, mental, you know, is your service covered? And then what is the patient cost share? It's really. Those. Those three things.
+Meredith Hogarty: Yeah. Yeah. So that I think there may have been some miscommunication maybe with Nate, because I'm not. I'm not looking for any type of billing service from you guys. I just. I just want to be able to use the service system to do what I need to do.
+Adam Harrison: Okay, so you just want kind of, like, eligibility. Yeah, yeah. Okay. Makes sense. Yeah, we can definitely. Yeah, we can definitely, like, do a test run with, you know, for you, with that. And then pretty soon we will have it actually, like, within the product. And I can do a training with your front desk person or admin person on how to actually do that. That's probably, like. Yeah.
+Meredith Hogarty: And is that, like, one thing I'm noticing, too? Because I'm trying to understand, like, costs. So, like, when you guys are adding things, it's like an additional cost, which I get, like, prescription. Yes. But, like, I'm also noticing, like, I noticed that there was. Hold on, let me look. Your subscription, like, this, like, data and security thing for, like, $29 a month. Like, that was, like, I didn't really get that. Like, just some feedback, like, yeah, why is my data not secure if I'm paying for this? Like, why do I have to pay an additional $29 to get you guys to sign a baa? Like, that, to me, is kind of weird because baas are usually just signed. Like, it's not. It's just kind of, like, part of the product. And it kind of comes off like, I have to pay an additional $29 a month for my data to be secure, which, like, it should be, so.
+Adam Harrison: No, I totally hear you on that.
+Meredith Hogarty: So I'm just as. I'm like, I wanna do this as an ehr, but I'm trying to figure out, like, what are all the extra things gonna cost? And then the other thing is too, like, if I decide to grow, I need to, like, put that into, like, if I bring on another np, like, is that gonna cost me? How much a month? I don't know. So I guess those are some of my questions too. Like, yeah, and, like, how much do you guys know? Like, how much the billing is going to cost? Like, what does that look like? And when I say that, I don't mean using you guys as billers, because that's not my intent, but just to be able to use the software. Like, different ehrs cost. So, like, what's that going to look like? And also one other thing I definitely need is telehealth, and I said that to Nate. Like, how much is that going to be? So I'm just trying to figure out, like, how much all these things are going to be and what my monthly prices.
+Adam Harrison: Totally makes sense. Yeah, totally makes sense. And I appreciate also the feedback. On the like data piece.
+Meredith Hogarty: Yeah, it just kind of like. Oh. Like I just like to me, I've never. I've never seen that.
+Adam Harrison: Yeah.
+Meredith Hogarty: And it just. Yeah, it just. I don't know. I don't know what. And maybe I'm reading it wrong. Like, is. Is it doing something extra that I'm not getting? Do you know what I mean?
+Adam Harrison: Yeah, I think it's more of like, if you want custom data and security, like insurance policies set up for you. I'm admittedly like not as close to the details on it, but I will, sir, certainly like your reaction makes sense.
+Meredith Hogarty: You know, clear. Like the bia, those are usually signed without issue. Like even like Google, like I have their Gmail, you know, and it's like, okay, sign a va. Like you usually don't pay for that. So I don't understand. Like. Like I have cyber insurance already.
+Meredith Hogarty: So like, is that what it is? Like, I don't get.
+Adam Harrison: Makes sense. Yeah, I will like go back to the team with on that one. Yeah. And then on your other questions. So I think there is sort of a initiative right now that Nate and others are sort of involved with to sort of figure out what the new pricing and packaging construction will be.
+Adam Harrison: You know, there will be. I think there will essentially be something where like you can either do more of an a la carte option. So like, hey, I just want eligibility and billing and that's it. And this in the scribe and then there'll be others. You know, that's like I just want E prescribe and telehealth and the notes and then that's all I want. So there will be more of an a la carte sort of like menu.
+Meredith Hogarty: Yeah.
+Adam Harrison: And then if you're. Sounds like you might be more in the place of like, hey, I kind of want the whole thing, but I don't want to. Yeah, but I don't want to pay like add on by add on by add on and just like.
+Adam Harrison: Yeah, you know. So there will be sort of a package that is like all, you know, the everything package. And that will be like at a discount relative to like if you pick everyone individually. So I don't know exactly where. Where the pricing will net out on that. But.
+Adam Harrison: Yeah, but that is like, I think the model we're like working towards.
+Adam Harrison: Yeah, that makes sense.
+Meredith Hogarty: Yeah. So I just want to be clear about billing. So you guys will have like a way that like my biller can just do the billing through Johnson. Okay. Yeah. What's like the clearinghouse and everything going to be or like, what is like, I'm not a biller, so I don't really know all the terms, but like, right now I've only worked with systems that I have to hook up to another billing system. So right now my EHR hooks up with something called Claims md. So is Jotsych just going to be like Jotsych or are you guys going to be hooking up with another. Like billing software.
+Adam Harrison: Great question, great question. So we. It's a little bit of like in between because I'll try to explain what, what it looks like. So we are not building our own like clearinghouse from scratch. So we have a clearinghouse partner called Steady. It's S T E D I.
+Meredith Hogarty: Okay.
+Adam Harrison: And basically they are more of like a, you know, more of a code based clearinghouse. So basically what the only time you'd really have to go into Steady is you would like create an account and then you would link it to your JOT Psych account. But then all of your billing you'll be able to do within the JOT Psych application. So you don't have to go to like an external website to do your billing. I don't know if that's how it works with like your ehr.
+Meredith Hogarty: It's really annoying.
+Adam Harrison: Yeah, yeah, yeah. So we definitely did not want to do that sort of like link out thing. So it'll all live. All the dashboards, all the like workflows will be within JOT Psych. But it is just like an external clearinghouse that we like use to actually like as like the rails, so to speak of like submitting the claims.
+Meredith Hogarty: Yeah. And you may not know this question, but are we going to do I pay JAWSEC or do I pay Steady?
+Adam Harrison: Because like you would pay. You would pay job site.
+Meredith Hogarty: Yeah.
+Adam Harrison: Okay, so you guys have Steady is sort of like a one time setup you do just to like create your account, link it and then you can kind of like forget about it. Yeah, yeah.
+Meredith Hogarty: It looks the only programmable health care clearinghouse. So they seem unique in some way that I'm sure is important.
+Adam Harrison: Yeah, I think it's. I think the idea is like programmable meaning like, you know, it's more of like code that we take and the job site and then. Yeah, you don't need to go to like steady.com to do all your submissions. It's all lives within job site.
+Adam Harrison: So as you can tell I'm not like a engineer, but that is my kind of basic understanding.
+Meredith Hogarty: Yes. Cool. Awesome. When do you.
+Meredith Hogarty: Do you have any idea like ballpark of when the eligibility, like what we talked about, like it'll be on the jos. Do you have any idea when that may be?
+Adam Harrison: Yeah, I can check with the team. I know it's. We have an engineer working on it right now. So it might be like we might be just like one week out from that or two weeks or something like that. So I mean if you want, Meredith, we can just sort of like, we. We could either do sort of a pilot with more of, like, Excel and. Or, you know, Google Sheets, or if you want to just wait till it's in the product and do, like, a trial run, then, you know, either really works. It's kind of like, just up to your preference, so. Yeah, but we should have it, like, fairly soon. I can check. On, like, exact timing, though. But I would say, you know, this month would be my expectation.
+Meredith Hogarty: That's great. Very cool. Yeah. The only thing that I need to go completely over to Jot Psych and leave my EHR is just the telehealth. Yeah. Because I'm a complete telehealth provider, so that's it.
+Adam Harrison: It's on our list.
+Meredith Hogarty: It's on our list. I know, I know.
+Adam Harrison: It's exciting.
+Meredith Hogarty: Yeah.
+Adam Harrison: Yeah.
+Meredith Hogarty: You guys are rocking and rolling.
+Adam Harrison: We're doing our best. There's a lot to do.
+Adam Harrison: And, you know, it's kind of like you need everything to be right. It's like, if you're 80 of the way there, you don't really get partial credit. You know, you need. You need the whole thing, so.
+Meredith Hogarty: Right, right. And, like, the thing is, like, so the issue, like, with the telehealth, right. So, like, I'm not gonna, like, send this, like, massive email to my patients and be like, I can't. Do you know what I mean? Like, if I'm not ready, that's the problem. Right. Because it's like, I'm not gonna. It's just I can't work out of two EHR. It's like that I already am working out of two EHRs, kind of because I'm using John Psych and just copying the notes. But, yeah, to keep, like, two schedules like that, because I. That would just drive me insane.
+Adam Harrison: Yeah.
+Meredith Hogarty: What I'm saying is I would love to use Jot Psych while we're waiting for the telehealth, but, like, to also have to upkeep a schedule in another EHR to use the telehealth. Like, my brain just can't do that.
+Adam Harrison: Too many calendars.
+Meredith Hogarty: Too many calendars. Yes. Too many calendars. But, yeah, I mean, I think it probably just makes sense to just wait and, you know, a couple weeks to just have it when it's ready. I think that would be great.
+Adam Harrison: Okay.
+Meredith Hogarty: Yeah. Is there anything else that you want to pick my brain about?
+Adam Harrison: That's a. That's a.
+Adam Harrison: That's a big question. There's. There's a lot of. A lot of ways I could go there. So. Yeah, I mean, so one thing I am working on is the billing part of things, so I'm helping to kind of productize it and also do our initial. Like, if you wanted to outsource the service of it as well. So I guess I'm curious, in your current billing system you use now, like, are there anything. Is there anything that you love or hate about it. Like that would kind of anything on either extreme would just be helpful as we are also like kind of designing our own from scratch.
+Meredith Hogarty: So I, I don't do much in terms of billing, but I can tell you what I do. So the only thing that I do is I code and I enter my codes. One thing that is really annoying with the EHR that I use is the only way that I have figured out to get to the place where I need to code is to go through this. Schedule. So, like, being able to code like right from the note is really cool. So. And I had that with another EHR I used to call. Used to use, called Practice Fusion. I could just click and then it brought me to the page. So being able to just. Even if it doesn't bring you to another page, like, being able to just code like right from the note, like, that would be cool.
+Meredith Hogarty: I don't, you know, just like 9 and 2. Oh 4, 908. 3. Done. And if like the diagnosis, a big thing is having the diagnosis, like linked to the code already, that's really helpful. Like what I did in that note, like what the diagnoses are for that note, can that just be like, linked to my code? If I. The billing, that would be cool. What else? The current system I use now, like I said, I have to go back out to the calendar, click the patient. It brings me a tab on the right. I have to put in each code. I can copy previous codes from the date before, but they're not always right. So I put in the code. The diagnoses may carry over depending. And then I have to hit submit and then it brings me to another page and then I have to submit again. That's annoying. Like, only, like, submitting once would be, like, nice. Another thing that's really important. And I think that with jot Psych, because it does the notes, it. Obviously there's a lot less time spent on doing your notes, but knowing what notes I haven't billed for yet is important or I haven't signed is important. So I don't know if there's. But sometimes, like, just in your day, like, something might get missed. So, like, being able to go somewhere and knowing what notes haven't been billed yet is important. What else? And then I talked to Nate about this, like, and I think that this is your guys's dream. Like my dream, which may be your guys's dream. I'm not sure. But I think it would be really cool if I could just do my billing myself and like, everything. Like, I wouldn't have to pay a biller. I don't know if that is what the dream is because I know you guys are, like, doing billing and stuff. There may need to be a person, I don't know. But for me to just be able to have everything automated and not have major issues with insurance and that would be really cool.
+Adam Harrison: Do you know for your biller today, What are the things that he or she is doing that you're like, I don't want to deal with.
+Meredith Hogarty: I don't want to deal with. Yeah. So they are submitting. Like they're just monitoring the billing. So like they're, you know, looking at what claims are rejected, they're resubmitting them, they're you know, contacting patients if there's a billing issue. But I could have my medical assistant do that. But like it needs to be very clear, you know, what the issue is, what the problem is. Because my medical assistant like isn't trained in billing right. So it needs to be like dumbed down. So they're just constantly working the claims. They do set up payment plans with patients if needed, which is rare. They're collecting payment. That's easy. I've wanted to take that in house. But they're like, it gets complicated if someone else does it because I pay Michelle hourly, which is rare. So she gets paid hourly and she's really good. So that's why I wouldn't leave her unless I could do everything myself. I actually told her, I texted her the other day, I was like, I just want to let you know I'm going to be switching to eh. My ehr to jot Psych. And she thought I meant I was switching fillers. And I was like, no, I'm not. What are you talking about? Like. But yeah, so that's what, that's what they do. And you know, I pay her probably like 1300 bucks a month. So I mean I would love to keep more money for myself. I think that's always the goal. Right. But yeah, okay, no, super helpful.
+Adam Harrison: We are working on like finding ways where we can apply AI to help you like do a lot of those manual things automatically. So for example, like a claim gets denied, like can we auto appeal that or at least draft the sort. The whole appeal and then you just press submit. Right. So there's. Yeah, there's a lot, a lot to do there, you know, but that's. We're probably like a little, a little far out from that. So we're just getting the building blocks in place first. So. But that's really helpful. And then I'm trying to think if I had a follow up question to that. It was on the tip of my tongue and I lost it. But no, I think that totally makes sense and is really helpful. Helpful context. I'm sure there's probably also like many others who feel very similar to you of like, you know, I just wish this is something that could just be done for me and I wouldn't have to, like, pay a dedicated person to be constantly doing it. Yeah, right.
+Meredith Hogarty: Because we've always been told, like, in private practice, like, it is better for you to hire a biller. Because you should be seeing patients and, like, making money that way instead of, like, spending time on billing. Right. So it's like, well, if there's a way that I don't have to spend time. That much time on it, then yeah. And like, I think, like, you know, jot psych, like, if you're able to do that, like, I would pay definitely an additional whatever for that because it's gonna be a lot less than $1,300 a month. You know what I mean?
+Meredith Hogarty: So it's like, that could definitely be, like, an additional that, like, people, I think would pay a good amount for because it's going to be less in the long run of what they're paying.
+Adam Harrison: Totally, totally.
+Meredith Hogarty: Yeah.
+Adam Harrison: Okay, Very helpful. And then one thing we are working on is like. And I don't know if this is, like, turned on for you and your account or not, but, like, we have now, like, cpt, CPT recommendations. I don't know. Ja Audit.
+Meredith Hogarty: I don't know if you've heard about it. Yeah, yeah.
+Adam Harrison: I don't know if you've heard about. Yeah, it sounds like you've, like, maybe tried it.
+Meredith Hogarty: I've looked at. Actually got turned off. And then I emailed Nate and I was like, I thought you wanted my feedback. Turn this back on. So we did.
+Meredith Hogarty: Okay, so I do look at it. One thing. So. So I had, like, I like how added or it suggested that I put like, medical necessity and like, the MDM reasoning for it, which I was like, oh, cool, I like this. And so I now, like, put that in all my notes, which I really liked. It offered, like, a template, which I tried. Like, it was a more like insurance friendly template. I tried it once. I need to, like, look at it again and I will. I was just kind of like, huh, this is very different from my note. So I may, like, kind of play around with the template a little bit and see and kind of look at the differences. One thing I do notice about the codes. So, like, it'll say, like, even like, hold on, let me go to the note. Hold on. Let me see what it coded. This one. Okay, so let's see. Billing codes. Okay. Yeah. So this is like an interesting thing. So in jot audit, it gave. Well, I don't know if it's considered jot audit, but it said on my note that I did this morning that it reached moderate complexity. Hold on. I just want to make sure I have the right patient. Is this the right one? Nope.
+Meredith Hogarty: Let me go to the other one. I have a point. Okay, maybe that's not my point. So one thing I'm noticing in. So I have, like, billing codes on my. What's it called? On my template, I have billing codes ICD10 and CMT. And, like, one thing it says is it'll say, like, low to moderate complexity. 99213. There's no such thing as low to moderate complexity, at least in my opinion. Like, it's either low or moderate. Moderate. So it's like, low to moderate, and then it's a 9 and 2 and 3. And I'm like, screw that. Like, if it's Moderate, it's a 99214. So, like, that has been.
+Adam Harrison: Wait, that's really weird. I would be. I'm surprised that it did that. Do you. Do you could. Do you mind showing me if it's on your screen right now? Just because this is definitely, like.
+Meredith Hogarty: And this isn't. Like, this might not be JOT Audit, but it is a template. So.
+Adam Harrison: Okay, so it's like in your note.
+Meredith Hogarty: Yeah, but let me see what JOT Audit did for that one.
+Adam Harrison: Yeah. Because I think we are trying to move away from the. Like, we are trying to. Yeah, we're trying to move away from that template and move things into job audit. Because I think. Yeah, okay. Because it looks like that one says 99214 on the job auto thing.
+Meredith Hogarty: So maybe that's kind of where I'm. Let me see. So this one.
+Adam Harrison: Okay, that says.
+Meredith Hogarty: Well, that's four. Let's see.
+Adam Harrison: Alternative 99213.
+Meredith Hogarty: Oh, it locked me on again.
+Adam Harrison: Oh, no.
+Meredith Hogarty: Yeah. Oh, I. I had it on Friday. Well, I had it all week, and then Friday it locked me out. And then I thought Nate may have fixed it, but maybe not. So.
+Adam Harrison: Okay, let me see if I can enable it. I might be able to. Sorry, it's just slow. It. Okay, try this.
+Meredith Hogarty: Okay.
+Adam Harrison: How about.
+Meredith Hogarty: Should I sign out and sign back in or. Let me refresh.
+Adam Harrison: Yeah, just try refreshing and see. See how that works?
+Meredith Hogarty: Ah, there we go. It's back.
+Meredith Hogarty: Okay, cool on it. So. Oh, then it went away again. Hold on.
+Adam Harrison: Maybe I need to do it over here, too.
+Meredith Hogarty: Okay, it's there. And then it goes away.
+Adam Harrison: Okay, Interesting. Okay. Have to do it over here, too. Okay. This might add a charge to your account, but I'm just going to credit you that. So you should be able to go ahead and.
+Meredith Hogarty: All right, there we go.
+Adam Harrison: Okay.
+Meredith Hogarty: So my initial feedback when I. So I think, like, that at the top is, like, really cool and clear.
+Adam Harrison: One thing.
+Meredith Hogarty: Billing like, that would be cool if you could just go, okay, just like, build, like. Do you know what I mean? Like, that would be really cool. So let me see. One thing is. It's like. It is a little, like, small, and it just. There's kind of like, oh. Like, when I look at this, I'm like, oh, geez. Like, this is a lot of stuff, like. And I kind of, like, ignored a lot of it. I don't know if that's really helpful.
+Meredith Hogarty: No, no, that's okay.
+Adam Harrison: I know it's like something. It's like a newer thing here too.
+Meredith Hogarty: I'm just looking to see what note I've pulled up February 13th. Okay. Like, I definitely agree with those codes. Let me look at my notes from today and see what it does.
+Adam Harrison: Okay.
+Meredith Hogarty: Yeah, I agree with those codes. Yeah, I agree with that. I mean, I think it's like. Let me see what it did for this one. I think it's pretty spot on for just these three that I'm looking at. I agree with those. I think. What's this document? Patient and provider locations. What? View and note Fix with AI or check. What does view and note mean?
+Adam Harrison: I think it just.
+Meredith Hogarty: Oh, it just tell. Okay. Run audit. What's this? I haven't used all of it.
+Adam Harrison: That's okay. Yeah, it's helpful just to see kind of how it looks here.
+Meredith Hogarty: It is a little slow, which, you know, I don't know if that, like, even just sitting here, I'm like, okay, like, what? You know, I think, you know, the thing too, though, to be honest, is I think this, like, jot audit, like, if I had something like this when I first started coding or like, when I first started my practice, like, for me, I. I just.
+Meredith Hogarty: I'm pretty, you know, I just know, you know, so. And like, having jot psych, I'm, like, so much more confident with my documentation now too, that, like, personally, I'm not gonna wait for this.
+Adam Harrison: Yeah, yeah, yeah. It's taking.
+Meredith Hogarty: That makes sense. But, like, For a new provider, for someone new in private practice. Like, I think it would be really helpful because that was definitely something, as a new provider and new to private practice that I was really kind of concerned about, just like insurance audits and all that stuff. But yeah, I don't even know what it's doing right now. Is it just looking over the note and thinking, Yeah, I think so. Yeah. So that just. It's slow and I would wait for it because I'm like, I know what my coding is.
+Adam Harrison: Yeah, it's really slow.
+Meredith Hogarty: Yeah.
+Adam Harrison: Okay. All right. That's helpful. All right, well, I think the
+Meredith Hogarty: feedback with it is really good.
+Adam Harrison: Oh, well, now it's doing something.
+Meredith Hogarty: Here we go. Yeah. Okay.
+Adam Harrison: All right.
+Meredith Hogarty: Yeah, I'll keep. I'll keep playing with it. I haven't really too much, but I'll keep playing with it. See, it's. It's definitely one thing that's nice about it is it is giving the same feedback for each note, which also, like, that kind of builds confidence too, right? Like, okay, yeah, my notes are good other than this and this, you know. But yeah, it definitely. I loved it how it gave the MDM level and the rationale for medical necessity. I thought that was really cool. I liked that. I have never really put that in my notes, but I was like, I'm gonna add this.
+Adam Harrison: Yeah, okay, that's good to know.
+Meredith Hogarty: Yeah. But I guess I wonder, like, even for someone who is new, like, when you think about the jot audit, like, how. How long are they really going to need it for? Do you know what I mean? Because, like, what I'm just saying, like, it says the same things over and over. And then like, once you learn it, once you add it, you're kind of good. But for people who just like the codes coming up like that, I. They may keep it.
+Adam Harrison: Yeah, no, that's a good point. Yeah. Once you sort of get enough reps, you sort of know what you're doing more and then you get a little more comfortable.
+Meredith Hogarty: Yeah, like, it's almost just teaching people. Right? So I don't know, when you think about, like, these add on and the cart things, like, people may say, oh, well, I don't need this anymore. I don't know.
+Adam Harrison: Yeah, it's a great. It's a great question.
+Meredith Hogarty: Yeah. And a lot of this, you guys are just. You're going to learn as you go too, obviously, with what people want and what they don't want. And it'll be really interesting to kind of look at the data. And even when you have people sign up? I think an interesting question if you don't is ask how long they've been doing it, how long have they been a prescriber for or if they. Therapist for. Because that, I think also kind of plays into confidence with coding and stuff.
+Adam Harrison: Yeah.
+Meredith Hogarty: I don't know. Yeah. And for therapists, because I know you guys market a therapist too, they may not need the jot audit as much because that's a little less complex. Yeah. Yeah. Anyway. Okay.
+Adam Harrison: That's really helpful. I'm going to kind of make a note of all these and also share your feedback, you know, with. With the team in terms of eligibility, just to put a pin in that. So we'll wait until it's like, it's in the product to train your. And then what I can do is we might even have that next week, but it may get pushed out a little bit.
+Meredith Hogarty: You know, I don't.
+Adam Harrison: I don't quite know exactly the timing, but we will do like a free three set of initial checks that you and your staff can do.
+Meredith Hogarty: And then.
+Adam Harrison: And then, you know, if you wanted to continue after that, you know, it would. You could. You could continue onwards. And it's.
+Adam Harrison: I think it's 90 cents per check is what we're doing right now.
+Meredith Hogarty: Okay.
+Adam Harrison: But if you wanted to, like, tentatively pencil in something next week, like, I could do it kind of a training on, like, how it works and walk you and your front desk person through it. Or we can kind of like schedule that over email and play it by ear on timing a little bit for now.
+Meredith Hogarty: Sure. Why don't. Why don't we just play it by air so that we. Just let me know when it's ready. Okay. And we'll schedule something when it's ready.
+Adam Harrison: Perfect. Yeah. I'll follow up with you and, you know, then we can. We can go from there.
+Meredith Hogarty: Perfect. Sounds good.
+Adam Harrison: Well, thanks, Meredith. Hope you have a great rest of your week, and we will be in touch.
+Meredith Hogarty: All right, have a good week, Adam.
+Adam Harrison: All right, take care. Bye.
+Meredith Hogarty: Bye.
+Adam Harrison: Bye.

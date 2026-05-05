@@ -1,0 +1,78 @@
+Christopher Hume: Hi.
+Deborah Volat: Hi. I was waiting for you to call me.
+Deborah Volat: Oh, gonna happen.
+Christopher Hume: Sorry about that.
+Deborah Volat: No, no, you did everything you were said you were gonna do. I just spaced out.
+Christopher Hume: I'm glad you found the meeting.
+Deborah Volat: Yeah.
+Christopher Hume: Well, nice to meet you. My name's Chris. At JOT Psych, I help a lot of customers and prospective customers just learn about the software and see if maybe it could be a fit or how they can use it to improve their workflows. So, of course, Deborah, this is your time. Typically, how we run these meetings is. I would love to learn a little bit more about you, and then I can kind of explain job psych and answer any questions you have. But if you already know what you'd like to ask, you can also just jump right into the Q and A section as well.
+Deborah Volat: Okay, well, I'll tell you where I'm at and then you can guide from there. So I'm new, okay. And in my training, I got really little oversight on my charting, so it's a weak place. And it's been taking me so much time and everybody's using AI anyway, and I'm. I'm kind of old school. I'm new to psych, but not new to healthcare. And I also have a personality thing where I think I have to learn it the hard way. And I'm just. JOT Psych is gonna let me let that go because I.
+Christopher Hume: Yeah, I.
+Deborah Volat: I don't want to do. I don't want to spend time on that. It's. I want to spend time with patience. And then. Yeah, it's way more expensive than I thought.
+Christopher Hume: Okay.
+Deborah Volat: So that is a barrier for me. I might do it for a couple months till it kind of helps the ME train a little bit. But I wanted to do the psych specific.
+Christopher Hume: Yep.
+Deborah Volat: For at least a little while till I kind of, you know, fine tune my language and stuff.
+Christopher Hume: And I. I guess the questions I have for you, Deborah, are, are you typically at these medication management sessions with your. Your patients or clients or what sort of encounters do you typically?
+Deborah Volat: I. I love doing therapy. I do med management because it helps sometimes. But my philosophy is like, let's see how little meds you need. So I do do med management. Yes.
+Christopher Hume: Okay. So it's med management and therapy. Are the two correct?
+Deborah Volat: Yeah.
+Deborah Volat: And then most of my appointments are at least 30 minutes. I prefer an hour. I don't do the, like, wham, bam, unless I have one patient who it looks like they're going to go that direction, you know, just meet a couple months. Every couple months. And. 15 minutes refill like that. But.
+Christopher Hume: And then.
+Deborah Volat: And I only have. Sorry, go ahead. You only.
+Christopher Hume: I think you were say how many patients you have, your patient load.
+Deborah Volat: Yeah, at the moment I only have eight patients. So, you know, the price is not proportional for where I'm at in my practice and how.
+Christopher Hume: So you have. And you have your own solo practice. Is that kind of. And are you credentialed yourself? Do you go through like a growth therapy or a Headway or sort of. What's your setup on that side of things?
+Deborah Volat: I'm going through headway. It's mediocre. I also, I. I am paying for Tebra EMR and I like it better. It has E prescribing Headways. Going to do E prescribing, but I can upload notes, which I think is what I'll do. So I might actually, if you could guide me through what the best. Like I have a HIPAA compliant Google account and I've been taking notes and then using that to. I'm not being efficient, I'll tell you that.
+Christopher Hume: So, no, this is all super helpful. So I think what I can do is sort of walk you through how Jetsite works, how you use it, how you would copy and paste into your ehr, into. Should you copy it into Tebra and then submit through Head Headway or how does that work?
+Deborah Volat: Actually, I think I'm gonna get rid of Headway.
+Christopher Hume: Okay.
+Deborah Volat: As soon as. As I'm gonna get rid of Tebra as soon as Headway gets E prescribing and I'll go back to Tebra when I have the bandwidth to deal with getting myself credentialed and all of that. I just, I'm just getting started and it was feeling like too much. So I'm like, Headway wants to make it easier. I know I'm making less, but that's okay. Right now I'm sort of training and getting started and that's the cost of that.
+Christopher Hume: Okay, well, Jetsec, actually, you know, once you try us out, if you're kind of. It's a good experience. We're adding E prescription, I believe, on Monday. So if you'd like to kind of try that out, we'd love to get you in that beta program. Let me and Deborah, I'm sorry, but these meetings are so tight that I have a hard stop at 1:45. I'd be happy to kind of spend, like do a longer session next week.
+Christopher Hume: So I just want to flag that down so I'm not like halfway through something and I have to jump and you're left, is there? Would that be helpful? To do a longer like walk through the most definitely would.
+Deborah Volat: Yeah. Anything tech. I'm accepting all the hand holding I can get.
+Christopher Hume: Right. So then.
+Christopher Hume: And Deborah, where in the country are you based?
+Deborah Volat: California.
+Christopher Hume: California. Okay. So.
+Deborah Volat: And I'm sorry I was late. That's.
+Christopher Hume: Oh no, no, no, no. Trust me. You are not the first and I certainly not the last. I'm glad you made it.
+Christopher Hume: A lot of people can't even find the invite. Would. Would 11am Your time work for like a 30 minute true walkthrough?
+Deborah Volat: What day on Monday?
+Christopher Hume: I'm sorry?
+Deborah Volat: Monday. I could do 30 minutes. I could do 11 to 11:30.
+Christopher Hume: Perfect. Let me. Let's see. 11 to 11:30. Yeah, let's get that on the calendar. Grab your email. 11 to 11:30. Let me send that right now.
+Deborah Volat: And you're emailing that to me?
+Christopher Hume: Yep. Just so I get this on the calendar before the jump. But I'll do a quick walkthrough now and if you want to log create a trial account, Deborah, so you can play around with it today or.
+Deborah Volat: I did do that. Yeah.
+Christopher Hume: Oh, perfect. Okay. And I will reset your trial on Monday so your doesn't start until you actually get the full walkthrough.
+Deborah Volat: Sweet. Thank you.
+Christopher Hume: Oh, of course, of course. But so how it works and maybe you've already done this, so my apologies. But you go record. You press the record button. Looks like I was already playing around patient. And then what you do is you select your patient. I will choose Carlos, you choose your session type. So we can customize all of these templates for you. I'll do this progress note.
+Deborah Volat: What if I'm doing both? Like a 45 minute therapy 15 minute men management.
+Christopher Hume: Yep. We have EM templates with psychotherapy add ons. But we can also if you're like hey, this is almost there. But we need to make some changes. It's pretty easy to make those adjustments.
+Deborah Volat: Okay.
+Christopher Hume: Then you press the start recording button over here. We work for in person or remote sessions. So patient comes into the office or if they're on doxy or zoom or whatever you use jets like work press stop. Then it's easy as generate note.
+Deborah Volat: Okay.
+Christopher Hume: You can add additional context down here. So you can be like patient or client was disheveled if there's something you don't want to say out loud or if you want to record. An additional session here or additional information. So say your patient walks out the door or closes the zoom.
+Christopher Hume: You can then my clinical analysis of this patient is that they're suffering from severe persistent depression. And you can add that context without the patient being in the room.
+Deborah Volat: Nice.
+Christopher Hume: Okay, it will turn that into one comprehensive note.
+Deborah Volat: Before I forget, do you have verbiage that I could add to my intake paperwork where they're signing?
+Deborah Volat: Yep, I will email that to me.
+Christopher Hume: Yes, absolutely. Let me. Yeah, I will email. Let me just add it to my to do list.
+Deborah Volat: Okay. I'd rather it weren't like a whole page. I'd rather were just two sentences that I can add into something I already have. Is that possible?
+Christopher Hume: Unfortunately, we only have like a page. And then our policy is we don't stray from that just so we never, never want to get caught playing with someone else's consent forms because there's ripple effects there. But I'll make sure to send it to you so you can do with it as kind of.
+Christopher Hume: Yeah, this is what I know.
+Deborah Volat: I'm new enough to be paranoid, so I'll just do it. Most people are getting used to it, so it's. That's okay.
+Christopher Hume: It is. It is interesting. Kind of how widely adopted it is. Yeah. So this is what your note could look like. Our summary, achieve complaint. We can adjust all these sections, but we do understand that right off the bat you might need to make some changes. We're not going to read your mind and know exactly how you like your note formatting. So with this AI assistant over here, you can explain to Jot Psych how you would like this note to be changed or how you would like your psychiatric progress notes to be changed moving forward. So you can say, hey, I want my to be shorter. I want it to be all bullet points. I want the summary to always focus on anxiety or depression symptoms. So you can really customize this to whatever information you think is most pertinent. And then I know the question. You said, how do I copy this into my ehr. So we can touch on that. So you copy all sections. So you can copy all sections and then paste in one block. Or if you want to go section by section, you can select those and copy selected sections.
+Deborah Volat: Okay. Oh, my gosh. I'm so excited.
+Christopher Hume: It's. I. Could I joke. I'm not an engineer, so I can. I can say this. It's like magic. I'm like, this is so, so cool. Oh, I'm.
+Deborah Volat: I'm not. I'm not joking. I spent four hours on.
+Christopher Hume: Oh, my goodness.
+Deborah Volat: Two intakes.
+Christopher Hume: Yeah, well, we'd love to, at the very least get. Give you a running start and help with that. And then the last thing. And I do have to jump here in a second. So we'll go in deeper detail, Deborah, on Monday.
+Deborah Volat: But actually, you know, I'm getting. I've gotten two calls.
+Christopher Hume: Oh, my gosh.
+Deborah Volat: Okay. On this.
+Christopher Hume: So I'll let you. I'll let you run. We can dive deeper on Monday. If you have any questions in the meantime, just send me an email.
+Deborah Volat: Thank you. All right, talk to you Monday. Bye.

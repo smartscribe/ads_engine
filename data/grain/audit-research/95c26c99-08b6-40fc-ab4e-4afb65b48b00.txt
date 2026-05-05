@@ -1,0 +1,75 @@
+Becca Bressler: Hey. I'm just prepping green night up here. I'm going to initially. You would want to, too. We can both just mute and go off camera until she gets here. Hopefully she shows up. She scheduled this. Feel free to just.
+Tracey Sanderbeck: Hey, becca.
+Becca Bressler: Hey there, tracy.
+Tracey Sanderbeck: How are you? I'm good.
+Becca Bressler: How are you doing?
+Tracey Sanderbeck: I'm good. Having some I'm having so let me get stopped this I forgot always forget to stop the damn note. I'm having some weird issues today. I'm glad that we're ready so I can show you real quick please we'd love to see your screen. Tracy.
+alfred: Hold on one second.
+Becca Bressler: Alfred, in the call here is our engineer. So he's the big brains in the room for this problem.
+Tracey Sanderbeck: Thank God we got some brains.
+alfred: Hey, Tracy.
+Tracey Sanderbeck: All right, so there. I'm sharing, okay? So let me go into jot psych and let me show you. Let's pull up. Let's just pull up a blank. For? Oh, it's doing a no. Okay, so let's just pull up Blake real quick. Lee L A K E. All right, so, Blake shop. Right. So this is. You see? Okay, so now this came back. But I think it's now. Where's my note? Today's 311, right? Yeah. Okay. I don't know. Okay, so look at these two right here.
+Tracey Sanderbeck: I don't even know what what these are, but they're dated today. And if I click in them, Okay, but now they're showing up. Did you do something? Did you fix something?
+Becca Bressler: Because they've gone into your account and generated the notes. If it says it's been recovered, that's what that. I've done this a few times today, so.
+Tracey Sanderbeck: Gotcha.
+Becca Bressler: Do you think you talk us through what you were seeing before?
+Tracey Sanderbeck: So on this page. Okay, so let me. It's important to show you. So I'm pulling up from here. I'm pulling up from the screen. The l, a. K. Okay, so I'm pulling up from here. And what I'm seeing is I see notes, I see all the notes, I see this, I see that. And then I go to record and I click record. And nothing is showing here. It says there's no notes. And then when I. And then I can. I can start the recording. Let me see if I did. Let me find another one because I think you have fix. Because I keep getting to sing up here saying the notes been recovered. I don't know if that is something. So let me try this other. Because I've been writing these down. So this is Eve. Let me see what is her last name, because it happened with her too. Eve wolf. Okay? All right. So. Yep. So. And also, like, I'm not getting. I wasn't getting this. It was getting. This. And then I'm like, okay, that's good. And then I click on this record and, see, now it's doing it. But I was getting nothing in here. Like, usually I get the last note in here, but C, it says, your recording has been recovered. So this was now. And that's because somebody must have done something. Let me try the last one. Which was. I don't think you've had time to do it. Let's see. Peter. Does it just happen with this guy?
+Becca Bressler: He would have let you know also, if I had done it, I would have, and I don't know that I did.
+Tracey Sanderbeck: See?
+alfred: And there it is right there his.
+Tracey Sanderbeck: And then let me go to record.
+Tracey Sanderbeck: I think what's happening is it's picking it up now because I did a note for today. So let me, let me try another one down here. Let's try a couple that are coming up for today. And let me see Jesse. Smith. Let's just see if I can. So that's 211 record. Nope, that's pulling it up. But that's what was happening. And let me try. Let's try. And let's try this one, because I haven't seen her for a while. A k I r a. That's her. So that's. Let's try record. See, that's exactly what was happening was. And it wouldn't let me access it. And then when I would go back to this, See now. I don't know why I say impending right here. I don't know. But when I would go back to this and I click on the note, there's. There was nothing there.
+Tracey Sanderbeck: And nothing in that other. So let me try another one, Caroline. I don't know if it's six. I don't know if you guys are doing some kind of. Work today or what? Or if it's just me. Okay, so that's 2:17 record. Now it's doing it. Let me see. Donna, See, it's not doing it. On those three that I just had, the Peter, Eve and Blake, But I'm also getting that green thing that says, No, it's been recovered. And I haven't seen that. I've never seen that before, Donna.
+alfred: On a bit. Yeah, there's. There's something odd there. You should not be getting that.
+Tracey Sanderbeck: I haven't really. Let's try her. Let's see. Nope. It's every. See how this says recording note? That's what's coming up. And then here's another thing that's really weird today. And see this microphone. I don't know what it defaults to. I never paid attention to this, but this is not working for me. The Microsoft Teams, it keeps defaulting to that. And. And you see how there's nothing. It's. Nothing's happening. So I have to keep going back. And switching it to my internal. And let's see. Hello? Hello? Hello. Let's see. I don't know if it'll do anything.
+alfred: I don't think it'll work right now because Google. Google Hangouts has control of the microphone at the moment.
+Tracey Sanderbeck: So is this should I be using? I've never paid attention, but for whatever reason, this team's audio device virtual is not working. It's all of a sudden it's. I have. It says that there it can't be. And so I this. And then it works, but I have to keep switching. It back to that is that. I've never paid attention to this. It's never been an issue.
+alfred: Yeah. So once you switch to your preferred. It should be staying with your preferred microphone, so you shouldn't have to be switching back. So that's something we definitely need to take a look because ideally, using.
+Tracey Sanderbeck: Which one should I be using?
+alfred: I don't know. So how do you. How have you normally been if you've never been paying attention? It's probably the internal microphone, the one you should be using.
+Tracey Sanderbeck: Okay, paying attention, but I've had a couple of Google or not meets because I've been meeting with Adam over the billing almost like last two or three days. So I'm wondering if somehow sharing the screen with him that that got turned. I don't know. But I've never. I've never had to pay attention.
+Becca Bressler: I don't know. And Microsoft Teams. Is that a software that you use or with patients?
+Tracey Sanderbeck: Just with you guys. For these meetings.
+Becca Bressler: Okay. Interesting, because ours are Google Meets.
+Tracey Sanderbeck: What did that say?
+Becca Bressler: Is that saying Microsoft Teams? Which is what's especially kind of strange.
+Tracey Sanderbeck: Oh, I thought that's what we were on now. Oh, I don't. I don't mess with Microsoft Teams. I've never used that then. I've used whatever we're on now. Google Meets, maybe. That's what it is. I don't know what this is. I have no idea. I've never seen it before, and I don't do anything. I use zoom. With, like, my financial, you know, some other people, and then I do this. I don't. I don't use teams. I don't even know what that is. Now that you say that, I thought that was you guys. I don't know. That's weird.
+Becca Bressler: Tracy, I actually don't think I'm. Or. Go ahead, Alfred, because you. You would have a better instinct.
+alfred: No, I. So I think. There's a few things going on.
+alfred: I guess the question I have for you is more around process, right? So how you normally work is that you create your schedule and then you go into the patient page and you try to record, like, how do you, how do you normally get. If you could walk me through the straddling between two.
+Tracey Sanderbeck: I have a different ehr I'm just now signed up with you guys. I just used you for AI then I'm just now signing up with Billing so they've, you know, loading all my patients over here and I'm I'M going to eventually be using you guys for an ehr in a whole bit. But right now I just use AI and I use it to send some. Some screening tools. So the way that I do it is I go to patients and bring it up. I used to do the record button. Sometimes it's either or. I do patients and bring them up. And say, like this one. And then I go record now or sometimes I go to here. It just depends. And I don't know why this is in here now. I don't know what's happening, so I have no idea. I think I put her in there, but I don't know how to get her out of there. But I guess change the patient, maybe get this out. Or. Or I'll go to a regular and it'll look like this. Because this is new as well. I think you guys have done something different, so record. And I never had to put a patient here. It was. It looked different. So this is just kind of work in the same way, but looks different. So either go under record, or what I've been doing mostly is going under a patient. And then typing in the patient's name. So, amber. Let's see. Amber. So I pull her up.
+Tracey Sanderbeck: And I go like this. And then I go to record now.
+alfred: Okay. Would you mind clicking record now right now for that?
+Tracey Sanderbeck: See. It says your recording has been recovered.
+Tracey Sanderbeck: I don't get that. I don't know why. What?
+alfred: It's recover. I. I think that's the other thing that we need to do. We probably need to clear your. Your local storage. And we need to look into. So it looks like you probably have a corrupted recording in your. In your local storage right now, and that keeps popping up. For each recording that it thinks it's trying to recover something. It's not actually. It's not actually recovering anything. If it would be recovering, you'd be getting the actual dictation or the recording, particularly under the. Under the recording. Under the recording button.
+Tracey Sanderbeck: Because you see those, like here, it'll say recovered node. And then I. Then I'm like, oh, so I got to get rid of this, because this is when I was having trouble. Let me get rid of this note real quick. Delete. Because that was. That was a note where it would. I couldn't. Get the microphone to work and then there says. Okay. Yeah, usually it'll say like here, I won't even have the person's name. It just says it has recovered note or something. But I'm not seeing that here. Just that blue. So do you know how to. Can you walk me through how to? Clear something. Whatever I need to clear.
+alfred: Yes, absolutely. So if. Let's see. I think. Well, I think it's best of you. Pull up again, Jotsy, for the. The browser window.
+Tracey Sanderbeck: All right.
+alfred: Okay? I would say if you. How do you normally do this? Like I do know. Like, I know how I do it, but it's probably not the most user friendly. So actually, are you on Chrome?
+Tracey Sanderbeck: I'm on chris.
+alfred: Google chrome. Google Chrome. So on the upper right corner, you should be able to see, like, three dots like this. Menu with three dots. So you click on. Yeah, if you click on that. Then one of the options should be delete browsing data.
+Tracey Sanderbeck: Browsing data. Hold on a minute. Let me go back. Up here. Delete. Browsing data. Yeah. Okay, delete.
+alfred: Okay, if you click that. Make sure. Cookies. Yeah, I would go more than. More than an hour. I probably do, like, seven days. And you don't have to get rid of browsing history. You might want to keep that, but you definitely want to get rid of the cookies. You don't have to check the cached image and files. Download history can remain.
+alfred: Auto fill forms. Scroll down a little bit more.
+Tracey Sanderbeck: I think that's.
+alfred: That should suffice. Yeah, okay.
+Tracey Sanderbeck: So now click delete data. All right. Okay? A lot. In there. Okay? All right. Back to Josh. Should I refresh or anything?
+alfred: Yes, please refresh. You might have to log back in.
+Tracey Sanderbeck: There we go. Can you? All. Right. So. Let me. Okay, so they go to Patience. Let's just pick her. And then let's just do a record now, see if that's gone.
+alfred: All right, that looks better.
+Tracey Sanderbeck: Looks better. Oh, and see how this does default?
+alfred: And now it's. Yeah. And now it's working.
+Tracey Sanderbeck: Okay.
+alfred: Yeah. So you were. You were stuck in a. You were. Your browser was stuck in a. In a. In an odd state and. Correct. This is a new version of the recorder. That's why it looks a little bit different. Seeing this and it helps us fix things that are obviously issues. So I'll be taking a look at, you know, why you were getting that green recovery and hardening some of the software to make sure it automatically able to take you out of that stuck state without you having to go ahead and do that. Sorry, I cut you off. Yeah.
+Tracey Sanderbeck: That's okay. Should I go ahead and do that? Maybe, you know, like, once a week, or I should be.
+alfred: No, no. This is the kind of thing that shouldn't happen. But if you find yourself in that state, Again, I would say definitely reach out to us if you don't mind. But you also know how to unstuck yourself. But if you don't let us know, we don't know message.
+Tracey Sanderbeck: I actually think I said I messaged Nate, and then he. Put me back in so that I could just. Because it was just so weird.
+alfred: I was like, there's something different.
+Tracey Sanderbeck: But I knew that you had just done some work, so I didn't know if it was some kind of quirk or whatever, but. Ok, well, I think we're good.
+Becca Bressler: Great. Thank you for bringing it to us, Tracy. Really appreciate it. We wouldn't have known to look into this otherwise, so. Yeah, thank you.
+Tracey Sanderbeck: Thank you for being so responsive. I love you guys. So thank you very much for helping. I appreciate.
+Becca Bressler: Of course. Have a great day.
+alfred: Very nice meeting you.
+Tracey Sanderbeck: Nice to meet you, Albert. Bye. Bye.
+alfred: Bye.

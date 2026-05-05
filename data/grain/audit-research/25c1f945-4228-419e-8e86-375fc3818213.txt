@@ -1,0 +1,228 @@
+Emily Kaiser: How are you?
+Melissa Weisman: I'm good, thanks.
+Emily Kaiser: How are you? Thank you. Thank you for joining today.
+Melissa Weisman: No problem.
+Emily Kaiser: So, I mean, I know we spoke on the phone. I'm Emily, and I will be doing a demo just to kind of answer. Not really a demo, because I know you're already a customer and you've used shots like you're familiar with it. How long have you been using jot psych?
+Melissa Weisman: Maybe since the beginning of the year.
+Emily Kaiser: Oh, okay. How are you liking it so far?
+Melissa Weisman: It's good. It's really helpful.
+Emily Kaiser: Good. Good, good. So, just so I can kind of tailor the demo to be more the most helpful, can you tell me, like, about your line of work? What kind of, like, how many patients you see? Are you a sole provider, part of a practice?
+Melissa Weisman: So. I work for. This company has. Outpatient. And they have residential treatment houses. They have four residential houses with six patients each. I have one of those houses now. And we're in the process of. They had some other contracted providers, so we're in the process of switching those guys out. And then I'll take over all the residential houses. I currently am also handling all of outpatient. We have. I want to say, like, 45 clients right now.
+Emily Kaiser: Ish.
+Melissa Weisman: Yeah. So I'm seeing, you know, partial hospitalization. It's Iop. So I'm seeing the partial. I'm seeing those people, the php. I see them every week. The Iops every two to four weeks, depending on what's going on with them.
+Emily Kaiser: So what? I'll have you do that all sounds great. Thank you for sharing that because it kind of helps me navigate what's going to be most helpful.
+Emily Kaiser: If you could pull up jots like on your end in the same browser of our meeting. So and just a separate tab.
+Melissa Weisman: This is actually, it's not open in Google. It's open in the Gmail app this meeting.
+Emily Kaiser: Oh, are you able to open another tab in the Gmail app? Basically, it's not a browser.
+Melissa Weisman: It's separate from my browser.
+Emily Kaiser: Okay, so that's okay as long as you're okay with. You'll click Share entire screen. Then, rather than selecting a certain tab, that's cool with you. So at the bottom, we'll go ahead and get logged in however you want to do it. And then at the bottom of our meeting, you'll see that little laptop icon with the arrow pointing up, and that's how you share screen.
+Melissa Weisman: Ok? Let me see if I need to have this, because I have an iPad and an external display. Going to see how this will work best.
+Emily Kaiser: Where in the contrary. Based out of California.
+Melissa Weisman: We're in San Diego.
+Emily Kaiser: Nice. So by this nice sunny there?
+Melissa Weisman: Yeah.
+Emily Kaiser: It is, right? So we're supposed to get some snow this weekend. Yes.
+Melissa Weisman: No.
+Emily Kaiser: Absolutely not. We hit 55 this week, and that was big.
+Melissa Weisman: That is really nice. Okay? So first. We.
+Emily Kaiser: Okay? Something's coming up.
+Melissa Weisman: It's thinking about it.
+Emily Kaiser: Just thinking about it. How long have you been in this line of work?
+Melissa Weisman: Since october.
+Emily Kaiser: Okay? Very cool. Yeah.
+Melissa Weisman: I finished school in August.
+Emily Kaiser: Nice. Okay. So how are you liking it so far?
+Melissa Weisman: It's a lot different. I feel like I'm still adjusting to it.
+Emily Kaiser: Fair.
+Melissa Weisman: Yeah. I'm not sure the residential. Sorry, the outpatient environment is quite for me. But that's okay. We actually have another provider coming on with us. Working under the same doctor, so I'm working under a psychiatrist, and we're contracting with this company. Actually, like, work for the company? Is it showing up? It's not showing up on my end.
+Emily Kaiser: It is showing up on my end, but minimize the. The. Our meeting window is. But I see jot. Psych in the background.
+Melissa Weisman: Oh, yeah, perfect. Okay, cooler, if that helps.
+Emily Kaiser: Yeah. Okay, cool. Let's see. Okay, perfect. So let's go ahead and let's dive into. Like I said, I know you've been using dropsite. Do use it every week, use it every day type of thing. Okay, so it sounds like you're familiar with how to record and produce the note. All things like that help me kind of. If there's a different direction that we should be going in, that's more helpful. If you have specific questions along the way, please feel free to just call those out. So we'll start in your notes. Go ahead and go to documentation and click any note and I'd like to take a look at it. And just if you could give me a little bit of feedback on maybe any issues that you're experiencing currently or maybe your biggest frustrations with JOT Psych right now.
+Melissa Weisman: Sure. I don't know if some of these will even show. What's going on? Because I go back and I make sure to fix them. Before I put them into the ehr.
+Emily Kaiser: Wanted. What could be helpful is we could record, like, a little demo. We could do, like, a minute or two of just dialogue, acting like I'm the patient, see what it produces.
+Emily Kaiser: Whatever you think would be best. To see.
+Melissa Weisman: I'm not sure if that would work, mostly because the main issue I'm running into is.
+Emily Kaiser: I guess.
+Melissa Weisman: I don't know how. Like inaccurate documentation. Like. You know, we'll agree to. Okay, we're going to increase your trazodone to 150 milligrams, and it'll say 50 someplace, and it'll say 100 somewhere else.
+Emily Kaiser: Okay?
+Melissa Weisman: Yeah. And sometimes. It'll take whatever we did last. Like, say we did that last week with a medication. Then say we continue the medication. There's no changes to it this week. It'll say like, That we're doing that change this week.
+Melissa Weisman: Even though we're just continuing it. Or it'll say, Yeah, just weird discrepancies like that, especially when it comes to medication. So I find I definitely have to clarify. Yeah, I go over the medication, all of that stuff, with a really fine tooth comb. To make sure, because it'll show up. Continue this medication like now. We discontinued that two weeks ago. Or things like that.
+Emily Kaiser: Okay. Okay, I see. Are you finding that it's, like, completely random like it is. Is it always the milligram amount that is differing, or is it getting completely wrong medications? Just so I can bring some feedback to our engineering team.
+Melissa Weisman: It could be the dose, or like I said, it's bringing something over that's. Like, no, we just continued that. Or it'll say, like, consider this medication. I'm like, no, I told them we're going to start that medication. And I have, like, we talked about a specific dose. Because when I'm doing this, I find, like, I worry sometimes maybe the patient's quiet. So I will repeat. Because I'm closer to the microphone, so I will repeat. I've made a note to, like, do that, like, if. They're saying, you know, like, oh, I want this. Can we increase that medication? I'll say yes. We'll increase your Quetiapine to these many milligrams. At bedtime and else.
+Emily Kaiser: Where?
+Melissa Weisman: Sorry.
+Emily Kaiser: Does it catch it? If you. If you reiterate sometimes it doesn't.
+Melissa Weisman: Yeah.
+Emily Kaiser: Okay?
+Melissa Weisman: And then I have noticed with some newer medications, it doesn't know the names of them. So it'll give me. It'll give me something in quotes that's like it's trying to. Like, phonetically match what the medication is, but it's not as up to date on a lot of new medications.
+Emily Kaiser: Thank you for sharing that. I'm sorry that you've been dealing with that. That definitely sounds frustrating. The whole purpose of Dot Psych is to save clinicians time. So this is really good feedback that I can bring to our internal team so we can work on these specifically, not only for you, but for anybody. Else experiencing it.
+Emily Kaiser: The goal is, the more feedback you give the AI, the less you have to edit.
+Melissa Weisman: Yes. And I find overall, I mean, in the big picture, if I have to go, if I spend a minute or two. Between each client going through this and making sure everything's correct and editing any changes.
+Melissa Weisman: Then it still is saving me a ton of time. In the long run.
+Emily Kaiser: Okay, that's good.
+Melissa Weisman: That's really good.
+Emily Kaiser: Yeah, it's still.
+Melissa Weisman: It's still absolutely beneficial.
+Emily Kaiser: Okay, well, that's really good to hear. I'm glad that you're not finding it like it's wasting your time or anything like that, so that's awesome. Now, when you give. If you could tell me more about when you give the AI feedback. So when you go through and you are looking at medication specifically, Are you going into the plan and, like, clicking on the words backspacing and fixing it yourself, or are you going over to the AI agent and saying, replace this medication with this medication? Does that make sense?
+Melissa Weisman: I've done both.
+Emily Kaiser: Okay.
+Melissa Weisman: Yeah. If I find it's something that's, like, really consistent through the whole thing, Then I use the AI. And I was curious which one? Like, if I do type it in there. And then hit complete note. Is it going to actually use my changes moving forward? Will it do that or do I have to? Is it better to use the AI Thing and say we change it to Was this?
+Emily Kaiser: Yeah. So it kind of depends on the situation, to be honest with you. If there's a one off where you have to change the milligram, You could go in and you could say, change 100 to 150, whatever it may be, by typing it. But if there is something throughout the whole note, like you said, if it's more consistent throughout the note, then I would go over to the AI agent and I would say, change blank throughout the whole note. And if you want that happening in every note, if you're noticing that there's a problem in every note and you want that to change in every note without editing it, so please change in all notes going forward. So give it very specific feedback as to what you want it to do.
+Melissa Weisman: Okay?
+Emily Kaiser: Yeah, tell me what else? What else were you trying to. Are you speaking of medications, are you using Rx?
+Melissa Weisman: No.
+Emily Kaiser: Ok. Have you heard of it? I'm wondering.
+Melissa Weisman: I saw it come up and I just. I haven't looked at.
+Emily Kaiser: Okay. Kind of show you a little bit about it. Just so you know, it's basically to turn it on. You can just activate it on your end, in your settings, and then you can experience it if you wanted to do it for a month or whatever it may be. So what do you currently use for prescribing?
+Melissa Weisman: We use kipu.
+Emily Kaiser: Kipu. Okay.
+Emily Kaiser: Yeah, I'm learning Ehr.
+Melissa Weisman: And we can send medications through it. It has an ERX in there.
+Emily Kaiser: Do you use kipu for? I mean, obviously you are a part of a clinic, so this may be. Do you have a billing team or do you handle billing yourself?
+Melissa Weisman: Billing. Somebody else does all that.
+Emily Kaiser: Okay, so it's not in your ehr. Okay, so.
+Melissa Weisman: If it is, I don't touch it. I don't worry about.
+Emily Kaiser: Yeah, that's always. That's always nice, because that's never a fun experience.
+Melissa Weisman: No.
+Emily Kaiser: So if you go over to your settings. Well, I'm trying to think of the best way to show you this. It's kind of a newer feature, but we're getting really good feedback on it. If you could go to. We could kind of explore, if you don't mind, if you could go to clients. And then click. Anybody? Now, if you scroll down a bit. You use this client feature at all, like this patient profile feature?
+Melissa Weisman: Sometimes I find what I most use is. I love that I can just go back in.
+Emily Kaiser: The encounters here, the history of it all.
+Melissa Weisman: Yeah. So if I. It's. It's a really good quick reference. The medication when I'm making. I have so many clients. When I'm making a medication, I make a medication change, and maybe I don't see them for, like, two weeks. And they come in, I'm like, what did we do?
+Emily Kaiser: Exactly.
+Melissa Weisman: It's nice that I can just look at the last encounter.
+Melissa Weisman: Good really quickly, and then. Medications. Oc. That's. That's one I might have missed. It likes to do that to Seroquel, which isn't even a new medication.
+Emily Kaiser: That is a really good, specific example, if you don't mind me taking a note on that. Like, medication as of what it's producing.
+Melissa Weisman: Yeah. So I know I went back. I'm pretty sure I went back and fixed this in the note. But I have told my my staff.
+Melissa Weisman: Like, hey, if you ever see those, let me know they. Know, I use this AI Thing, and I'm like. I'm trying to stay on top of it, but if you catch any, let me know so I can fix it.
+Melissa Weisman: But, yeah, that one happens a lot. So I find I don't even say seracol anymore. I just say quetiapine because it picks that up fine. Which is. It's the same medication.
+Emily Kaiser: Can you spell the actual medication?
+Melissa Weisman: U e t I a p I n e.
+Emily Kaiser: And it is taking it as like it will produce. What is the is that so?
+Melissa Weisman: Quetiapine is the generic. But what I what I say is seroquel, which is S E R. O. Q u e l.
+Emily Kaiser: Okay. And it produces it as what word?
+Melissa Weisman: This thing here. The ser. It'll say sick. This is the most frequent one.
+Emily Kaiser: Sarah.
+Melissa Weisman: Paul.
+Emily Kaiser: How do you spell that? It's just minimized on my end.
+Melissa Weisman: Oh, c, e, r, e, p, a, l.
+Emily Kaiser: C e r e p a l. Thank you. That's a really good one because.
+Melissa Weisman: Sorry. I have two other medications that I noticed. It happens to a lot of you.
+Emily Kaiser: Okay, great.
+Melissa Weisman: Yeah.
+Melissa Weisman: One is Cobenfi, which is a really new medication. It's only, like, two years old. And that's c o b e, n, f y.
+Emily Kaiser: C, O, B, E, N, F, Y E, N, F, Y.
+Melissa Weisman: Cobenfi. And it'll. It'll make two spellings, sometimes in parentheses with quotations, because it has no idea. It's like, I'm doing my best here.
+Emily Kaiser: This is what I think it sounds like.
+Melissa Weisman: And I realize, like, okay, that's a new medication so I can understand why. That one doesn't pick up. And then another one is, oh, shoot. Oh, Kelbry. Which is also a very new medication for adhd. And that one is spelled q e, l, b r e e.
+Emily Kaiser: Sorry. One more time.
+Melissa Weisman: Q e l u e l b r e e.
+Emily Kaiser: Okay?
+Melissa Weisman: And it does all. Manner of trying to pick up, and it just spells it out phonetically. It's doing its best.
+Emily Kaiser: Yeah. Interesting. Okay. It's interesting that it's new medication, specifically, but like I said, that's really, really good feedback because that's something that tangible that we can go back to our team and say, this is what's happening. So thank you for taking the time to share it.
+Melissa Weisman: Yeah, no problem.
+Emily Kaiser: Okay, so let me go back to your screen, see what you're seeing. Ok, so dot rx. Like you said, this is the patient profile is where we kind of keep all information for the exact reasons that you said. We're hearing from our customers that there's a lot of frustration around the need to hop to so many different systems while you're in front of a patient right before the patient comes in, whatever it may be. Everybody is dealing with that. So jot Psych is working on becoming a one stop shop. System basically, where you can manage everything from job sites. So you can manage your scheduling, your billing, your prescribing, your note taking, as well as your patient hub all in one place. You don't have to leave Dot Psych, basically for the ease of, you know, obviously, logistically navigating through your workflow. But also, I'm sure every system or every app that you're using in the day is a different cost, and so we're hoping to minimize cost for people as well. So that's kind of the idea behind it. You may see this kind of change throughout. I mean, you may have already seen it change a little bit. But you may see it kind of evolve. And just so you know, that is the thought process behind it. Now, for what you currently use for prescribing, do you find that there are, like, what's your biggest frustration with prescribing right now?
+Melissa Weisman: Honest. Honestly. I have somebody that sends in all my orders. Let me see. I know she's. I mean, sometimes it just gets like. I don't know if it's just glitches in it where it, like, doesn't send something or, you know, the right. Dose or whatever isn't coming up or, you know, just. It does some weird things. Every once in a while.
+Emily Kaiser: Okay?
+Melissa Weisman: I. I don't. I couldn't say, like, consistently what.
+Emily Kaiser: Okay. Well, that's okay.
+Emily Kaiser: I mean, have a system in place that you're liking. So in that person that sends your medications in, or do they work for the clinic, I'm assuming?
+Melissa Weisman: Yeah.
+Emily Kaiser: Okay? So it sounds like everybody kind of has a system, which is good. If you guys. I don't know if that would be your decision to try Job Psych if you wanted to try the E prescription. Basically what you do is you go in your settings, which is your initials or your photo right there in the top. Corner.
+Emily Kaiser: And you go to. Let's see, we just changed a bunch of this features, maybe. Oh, actually, it was just at the top there. If you go, maybe clinician. So addrx to your plan and then you go to clinicians. Are you guys just everybody in your practice use jot, psych or just you?
+Melissa Weisman: Just me. When I came on, I talked about, you know, using something like this in AI platform to help with my notes, and one of the owners said he knew somebody that used this, so.
+Emily Kaiser: Okay.
+Melissa Weisman: I just.
+Emily Kaiser: Yeah, yeah. I ask because we have group pricing if everybody is using it or somebody else is interested in using it. If you guys wanted to use it as a group, that is an option. But when you click Clinicians there, it'll go to you. And then add RX to your plan is how you edit and turn that on if you did. Want to, like, try it for a month, experience it, even to, like, compare the types of, I don't know, just experiencing it? I think it'll be interesting for your note taking, specifically because you're having specific issues around medications being reported correctly. So I think that that's why I ask is if you used it or not, because I think it would actually make the information coming through more correct, more accurate. If you are doing your prescription through job.
+Melissa Weisman: So if I use that, it would automatically. In the patient's chart. Have all the medications. Correct?
+Emily Kaiser: Exactly. So basically you wouldn't need to leave job psych, you just prescribe your medications. There. There would be no need to enter information twice. We partner with Dosebot, if you've ever heard of Dose by and basically the systems connect to each other and there's no need. To enter information in twice as far as insurance information, patient information, and then again your patient profiles and just jot psych in general for your profile will become more robust and understand more because you're not missing any kind of information, whether it's billing. Dot RX or whatever patient information, it just kind of becomes a little bit more cohesive. We find. Would you be interested in trying it for a month and see what you think?
+Melissa Weisman: So that just like it sends all the prescriptions. Like an Erx? Kind of.
+Emily Kaiser: Yes, exactly. So I could. We could schedule you with a more in depth product overview to, like, really see it all. We also are doing free data transfers right now because we hear that a lot of people find that to be the frustrating thing is, you know, transferring all of patient information and everything over that you would need or any that you would need to transfer over from your current system. So we are offering free data transfers if that is kind of like, you know, a hesitation.
+Emily Kaiser: But yeah, pretty much. You wouldn't need to leave the system. You would just prescribe and then it would go to Dosebot. They would communicate and then it would to your patient. But we could schedule a with like a more in depth product overview with one of our specialists if. You wanted to know or see more information on.
+Melissa Weisman: I'd like to see more on it. How does that work with controlled substances?
+Emily Kaiser: Should be no different.
+Melissa Weisman: No different. So do you still have to get an ID verification set up?
+Emily Kaiser: Through? That's a good question. We are able to. I know I'm newer to kind of learning Jadrx myself, but I know that we do handle all controlled substances. But I am not 100% sure on, like, the details of it, but I do know it should be no different than anything that you're prescribing through currently.
+Melissa Weisman: Ok, so. Yeah. If I wanted to learn a little more about how it works, probably somebody could probably
+Emily Kaiser: have a little bit more in depth information and they could show you. Just kind of everything of how it works. So let me pull up calendly here. Now for this meeting. I am wondering, because you're at a clinic, if anybody else needs to be invited for it, or are you the decision maker on it?
+Melissa Weisman: How so? Like in using it or.
+Emily Kaiser: Like, just because you said somebody else handles your pushing your medications.
+Emily Kaiser: Yeah, I didn't know if somebody else needs to, like, more information at the clinic as well.
+Melissa Weisman: Yeah, it might be helpful if that. That would be Brie. She sends all my Medicaid. It might be helpful if she was in that. In. In which case, you know, we could just schedule at a time when I'm there. Perfect with her in the office.
+Emily Kaiser: Yeah, that works. Let me just pull this up here, and what we can do is we can schedule it and add Breeze email as well. If there's a conflict, just let me know on the line that we've been communicating on and we can change it.
+Melissa Weisman: Okay, cool. Amy, message her and see.
+Emily Kaiser: Okay, I have Monday, Wednesday and Friday next week available.
+Melissa Weisman: Monday is probably good. Let me make sure she'll be there sometimes.
+Emily Kaiser: Is Brie your office manager?
+Melissa Weisman: No. She's just on. She's on the medical staff. So her job, like, she's got a whole bunch of, like. Things she does. One of them is she sits with me in the visits most of the time. Unless the client wants privacy so that she can make notes of all the med changes.
+Emily Kaiser: Oh, wow. Okay.
+Melissa Weisman: And then so she, like, for the whole day, like, tracks all the med changes we make. Make sure everything is up to date and sent to the pharmacy. Because we for our outpatient. Because a lot of the outpatient clients actually live in housing, we set them up with sober living. So we. They don't handle their own medications.
+Melissa Weisman: Okay, but we order the medications to our location, and then those all get stored. And each client. Well, we. We can't dispense medications. So what we've done to work around that is. They have. Once a week, the clients come in with a big their pill organizers. And then there's staff that gets their medications out. The clients are technically organizing their own meds for the week. Okay. So. And which is nice, because it. It shows them, like, this is your medication regimen, because a lot of them have all these medications, and they're just not used to having to handle all of that themselves.
+Emily Kaiser: Yeah, definitely.
+Melissa Weisman: So it teaches them some autonomy and shows them, like, these. These are your medications. This is what they actually look like. This is what this one's for, like, so that they can pay attention to all of that themselves.
+Emily Kaiser: Great. Yeah, absolutely. Yeah.
+Melissa Weisman: So she orders the meds, and then they're. Delivered. Unless we have a few clients that, like, live at home during the program, and then they just tell us when they need refills. Yeah, so I'm just going to text her.
+Emily Kaiser: Yeah, no problem. So we have on Monday. Oh, wait. You guys are Pacific Standard. Let me change this.
+Melissa Weisman: We are.
+Emily Kaiser: So on Monday we have. I mean we have 6:30am but I'm sure that is too early.
+Melissa Weisman: We have 10 a 10am our time.
+Emily Kaiser: Yep, we have 10 basically. Noon.
+Melissa Weisman: Okay. Oh, you have one at noon.
+Emily Kaiser: Yeah, we could do noon.
+Melissa Weisman: Yeah. How long do you think it would go?
+Emily Kaiser: I would say 30 minutes at most.
+Melissa Weisman: Okay. Sure. And maybe Kelly, actually.
+Emily Kaiser: Okay, yeah.
+Emily Kaiser: We have another?
+Melissa Weisman: Yeah, because Kelly is, like, the head of the medical team. Okay, so that would probably be good for her in your.
+Emily Kaiser: In your clinic.
+Melissa Weisman: How many staff? Oh, gosh. A lot.
+Melissa Weisman: Okay, have you counted? We have. I mean, we have a few people that their job is to pack meds with the clients. There's probably at least three of them. And then, you know, then we have, like, therapists and case managers, and they don't. They don't touch medications. Their notes are not as involved.
+Melissa Weisman: As what I have to do, so those are much easier for them to. Do. And we have one. We have one medical np. And I've showed her what I use because she's also having, like. A It's challenging for her to get all the notes done, so she was asking what I use because staff told her I use an AI thing. But since she's medical, this is more geared to. Behavioral health.
+Emily Kaiser: It is, yes.
+Emily Kaiser: But I am curious to see if it would work for her. We offer a referral that you could. You have a referral code, basically. In your profile, but if you share with that person, you both get $50 off your whatever month.
+Melissa Weisman: Okay?
+Emily Kaiser: So I can show you how to retrieve that before we end the call. But it's just kind of nice as because we hear that all the time. We hear a lot of people say word of mouth. You know, I was with my co worker, my friend, who also struggles with note taking, and you might as well get a little benefit from everybody.
+Melissa Weisman: For sure. And then we're hiring. We're bringing on another nurse practitioner. That's actually going to take over outpatient, and I'm going to stay with residential.
+Melissa Weisman: So, I mean, she might be interested in using it, too.
+Emily Kaiser: We have a lot of nurse practitioners, behavioral health specific nurse practitioners. I would say it's probably like our main customer base. We have a lot of people, nurse practitioners. That. Enjoy job.
+Melissa Weisman: Yeah.
+Emily Kaiser: I have this email set up. If you share with me Bree's email and Kelly's email, then I can add them to it, and again, we can confirm, and if there's any. Any time changing that needs to happen, we can make sure that we do that.
+Melissa Weisman: Okay? Let me see. I don't know if they've made my schedule for Monday yet. Let me just. I don't have that open. No, they haven't set it up yet, but this is my usual Monday, So maybe. Would 11:30 be okay?
+Emily Kaiser: Totally. Yeah, we could do that.
+Melissa Weisman: Let me go back, and then I'll move it. If. If they have to. I know Kelly's usually busier because the owners have another. Outpatient, and that one's more substance use. Related. And then they have like a small, like six bed detox that is with that as well. So Kelly has to handle both. Sorry.
+Emily Kaiser: It's Kelly, one of the owners.
+Melissa Weisman: Oh, no. She's like, the head of the medical. Staff, so she's. Yeah. She handles, like, all of my prior offs. And I don't know, any big issues I have, she takes care of them.
+Emily Kaiser: Very nice.
+Melissa Weisman: Yeah, like, I don't know, some of the billing things, but she's not billing. Strictly billing.
+Emily Kaiser: I see. Well, she may, I mean, will focus on, obviously JOT Rx, but we offer billing solutions as well. Again, trying. To be that one stop shop.
+Emily Kaiser: I know there's so many softwares out there, so if she's interested, we can certainly go over any information like that too.
+Melissa Weisman: Okay?
+Emily Kaiser: Okay, so I am ready for those emails when you have it.
+Melissa Weisman: Oh, okay. Yeah, Sorry. So, essentially, are you guys looking at. Being close to like an ehr.
+Emily Kaiser: Exactly. We would like to be full functioning EHR with all of these different functionalities as far as billing and prescribing in it. By, we say springtime. We're approaching spring, but it does appear to be happening at that timeline. So we're hoping to be that soon. But again, we're having so many people give us feedback about so many systems that they have to use. So we recently rolled out jot bill, audit and drop credentialing. To help clinicians get paid.
+Melissa Weisman: Okay? One of them is typing.
+Emily Kaiser: Okay?
+Melissa Weisman: Next. Kelly's like, what's the worst of the week like? We can do tomorrow.
+Emily Kaiser: Yeah, I don't think we have anything on Friday available, unfortunately.
+Melissa Weisman: That's fine. I think my. No, my Friday is mornings. I have my whole morning booked.
+Emily Kaiser: Okay.
+Melissa Weisman: Let me just get their emails, and then if we have to change it, I'll let you know.
+Emily Kaiser: Perfect. Let's do that.
+Melissa Weisman: Emails. Oh, my gosh. Brianna's is brianna. B r I a n a r. Hc san diego dot com. And then kelly's. Is kelly a. Traditional spelling for Kelly. San diego.com.
+Emily Kaiser: Okay, great. Okay, so you guys should all be getting those emails shortly. Back here. Okay, so we have you scheduled for March 16th at 11:30am Pacific Standard Time.
+Melissa Weisman: Cool.
+Emily Kaiser: Let me change this really quick. I know we went over a good amount of information. Is there anything that we didn't go over that you still have questions on or anything else I could be helpful with? Maybe go over again if it was too much all at once?
+Melissa Weisman: No, I don't.
+Emily Kaiser: Think so.
+Melissa Weisman: Yeah, I think I just. Yeah, the spellings and then it. Not updating things.
+Emily Kaiser: I'll be sharing with the engineering team.
+Melissa Weisman: I had a couple. This happened a few times. I spoke with. I can't remember who I talked to. Last night. Is that?
+Emily Kaiser: Yeah. Nate.
+Melissa Weisman: I spoke with him last time.
+Melissa Weisman: When we, like, checked in and it's done this weird thing where, like. I do somebody's note, I go to another client. We have our session. I do their note and it actually melds to clients together.
+Emily Kaiser: Oh, and you were able to tell Nate this?
+Melissa Weisman: Yeah, it was really strange. Since then, it's only happened once. But before I talk to him, it happened like at least two times, which is really weird. I just delete the note and I dictate everything over again. But, like, it was really odd.
+Emily Kaiser: Yeah. Yeah, that's good to know. I'm sorry to hear that these glitches have been happening. I think maybe with all of the different features that we're bringing into the system, it is, it's meaning a little bit more time to think these days. But we have been taking every piece of feedback that we're getting from last year's and, and giving it to our engineering team, and they are definitely working behind the scenes to try to clear some of this up. So hopefully you will see some improvement in the next couple days. But if any question up, feel free to reach out to me. You can text me or call me on the number that we've been communicating on, or you have an email as well from this Google link. So whatever works for you, I'm happy to support in any way that I can as you navigate it.
+Melissa Weisman: Awesome. Thank you. Great.
+Emily Kaiser: Well, thank you for your time, and we will see you Monday, if not before. Ok, great.
+Melissa Weisman: You too.

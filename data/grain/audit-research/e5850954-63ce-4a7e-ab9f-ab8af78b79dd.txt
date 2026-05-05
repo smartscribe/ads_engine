@@ -1,0 +1,142 @@
+Christopher Hume: Darrell, how are you?
+Jarrell Woods: Good. How about yourself?
+Christopher Hume: Good. Doing well. Thanks. Happy Friday.
+Jarrell Woods: Same to you, man.
+Christopher Hume: Thank you. Well, quickly introduce myself. My name's Chris. I'm chief of staff here at JOT Psych. And so one of my roles is just helping people learn about the software, try to determine if there might be a good fit. Typically, Jarrell, how we structure these meetings is. I'd love to just learn a little bit more about you and sort of why you scheduled this or what inspired you to schedule this meeting today. And then based on kind of what you're looking for, I can give you presentation about job site. I can give you a job site demo. We can really tailor it to whatever makes most sense for your potential use case. If that sounds like a reasonable ahead.
+Jarrell Woods: Yeah, yeah. So I'm currently using Nudge AI.
+Christopher Hume: Okay.
+Jarrell Woods: And I mean, it's a great resource. Wonderful. For one second, man, my wife has been blowing me up.
+Christopher Hume: Give me one. Absolutely.
+Jarrell Woods: Sorry about that. So using Nudge AI to act as an AI scribe for our group notes, predominantly our group notes and even our one on one sessions, it really does a phenomenal job. But through doing some research, I heard that you guys are pretty strong in that space as well in terms of developing pretty comprehensive notes for counseling and therapy sessions. And I think you guys are pretty much tailored for behavioral health clinics. So figured I'd, you know, reach out. I'm obviously not locked into Nudge AI and I'm just looking for the best solution.
+Christopher Hume: Absolutely. And could you maybe tell me a little bit more about. I did a little research before this call, but a little bit more about your organization and sort of the typical sessions. How many sessions a day? How many providers?
+Jarrell Woods: So we are a outpatient mental health and substance abuse facility. Typically a patient will come in, do about three hours of group. Yeah, about three hours of group sessions. Within that, they were pulling them out into different one on one sessions. So they're coming on site usually anywhere from three to five days a week. And having individual sessions, sessions and case management. So the group sessions, you know, could be 20 or up to 20 people.
+Christopher Hume: Wow. Okay.
+Jarrell Woods: And yeah, so with a facilitator running that group. And those groups have different, you know, themes, you know, daily, depending on, you know, what we're addressing that particular week. Yeah, pretty much it.
+Christopher Hume: And then for your counselors, what does a day look like for them? How is it typically split between those group sessions or individual sessions?
+Jarrell Woods: How many? So I mean, you know, a given day, I mean, depending on how many people we have, the number of therapists or practitioners that we have, pretty much predicated on how many people we have in that particular day.
+Jarrell Woods: So like, let's just say if we're rolling 20, we're going to have one facilitator that's running group. We're going to have one case manager on site that might be pulling people out of group over the course of group to do updates of case management. And then we'll have one licensed practitioner that is also doing one on ones and pulling them in out of group. And, you know, it's very staggered. So the patient might only do, depending on their treatment plan, one, one on one counseling session a month or as many as one a week.
+Jarrell Woods: So yeah, so I mean, you're talking one person doing facilitation, one person doing case management, and one person doing one on one. So three people for, you know, to accommodate up to 15 to 20 people. Okay.
+Christopher Hume: Okay. And then could you just tell me sort of. So you looking around, you said no, it's just working for you, but you were looking to see what else is in the space. Is there anything in particular, like a feature that either nudge was lacking or that you heard jot psych had?
+Jarrell Woods: Yeah, notes are a lot like more clinically.
+Christopher Hume: Yeah.
+Jarrell Woods: What's the word I'm looking for? Descriptive or clinically detailed, I guess is the word.
+Christopher Hume: Yeah, yeah, yeah. It's one of the benefits of only doing behavioral health is that we can spend a lot of time kind of perfecting how those notes turn out. Then I guess two more questions for you and then I'm happy to kind of see what makes the most sense for how to kind of demo jotsy for you, I guess. 1 Jamel, how does it does nudge work in those group sessions? What kind of output. Clicks. Are you getting from those 20 person facilitator led?
+Jarrell Woods: Yeah.
+Christopher Hume: Yeah, wrong.
+Jarrell Woods: So it will generate a one kind of master in a soap format. It'll generate a. A MA. You know, I would say like a master group note that will copy and paste into the different patient records and then we go in and then just update them individually with different affects that we've got the facilitator based on the interaction. So it pretty much like, we think it gets us about 70% of the way there and has really compressed the amount of time that's spent on notes. So then, you know, the facilitator can really focus on interactions with the clients as well as being able to identify and capture different effects that are associated to individualize the different notes.
+Christopher Hume: Yep. Okay, that certainly makes sense. I was just checking to see if it was delivering an individualized note for each patient. I say, oh my gosh, that's incredibly impressive. But the one general note that you're tweaking yourself certainly makes sense is I think, technologically pretty par for the course right now.
+Jarrell Woods: Yeah, I mean, it would be amazing if, like, I mean, I've seen some scribes attempt to do that with being able to, you know, do some voice recognition and then align the particular note to that individual. But, I mean, the technology is not there yet.
+Christopher Hume: Yeah. Especially with the group 20, let me tell you. I've certainly been stomping my feet with the engineers. That's like my holy grail. I would love to be able to do the voice recognition. So hopefully we'll be there soon. Wonderful. So, Jerrell, I guess kind of the last question here is sort of your role in the. In the organization. Are you the kind of supervisor?
+Jarrell Woods: The manager, you know, Pardon me, I'm the owner of the business.
+Christopher Hume: The owner. Okay, wonderful. So then, what would be the best outcome for today? I can walk you through kind of the. Can I give you an overview of JOT psych? We can talk about some of our advanced features and our program. So an ability to try JOT psych out at a lower rate, what would be the most helpful for you?
+Jarrell Woods: I would tell you. I mean, you got the call based on the information I shared. Okay. I mean, yeah, I mean, I really am interested in terms of seeing, you know, the level of detail that you guys prescribe. But I mean, I would tell you based on the information I provide, I'm open to your. To you. Piloting this airplane.
+Christopher Hume: Perfect. Perfect. Then before I jump in, what I'll do is I'll go through a brief little overview of job site that touches on all of our features and then we can do a little demo. But before I do, Jerrell, how do you manage billing? Do you typically submit to payers, Medicaid, different insurance companies? How does that process work for you?
+Jarrell Woods: Yeah, we're submitting through Medicaid, you know, and I did notice that you guys have some billing capabilities, but I don't know do what clearinghouse are you guys using?
+Christopher Hume: So I believe I'll have to check. It might be steady, but that also actually might be who we're doing our eligibility checks through. So I'll have to check that with the billing team.
+Jarrell Woods: Okay. It might become cumbersome too because we have a pretty decent setup right now to try to rebuilding you guys. But if it makes life easier, I'm all about making life easier.
+Christopher Hume: Exactly right. How we see it is, and I'll talk about this in a moment, we see it not as like an all in or all out with the billing features we have like eligibility checks, we have audit protection, so kind of features that check the notes against error requirements, in your case, Medicaid, just to make sure they're structured in a way that there's not going to be any audit issues or clawbacks down the line. But we can discuss that during this kind of little walkthrough.
+Jarrell Woods: Okay.
+Christopher Hume: So you're all used to kind of already know a lot about job site. You're already using ascribe. So as I said, I'm going to keep this pretty high level and then we can go through a demo or at least a walkthrough together. Something just like to highlight here is where we really jump up and down in our reputation that we want every note to be audit proof that your claims are accurate to make sure that you can do your work, you can focus on providing care and you don't have to worry about sort of the financial clawbacks or anxieties down the line. And then we do like to note that we've been used for over 1.8 million encounters, most in the U.S. but a few across the globe. So this is something that we certainly have quite a bit of experience with. Essentially the end of this call. You can check this out yourself. Jarrell. We're a. It's very easy to get signed up with job psych. Typically we can get it in, set up in under three minutes and be recording in another minute or two. And so it's something that should be quite easy for any members of your team who are interested in trying to pick up. Then alluding to those comments before I was making about audit protection, on our back end we have various public rules and guidance which ensure that your providers are currently. Creating notes that meet those requirements again to make sure there's no concerns about audit or clawbacks down the line. Again, in these notes, it'll highlight which particular rules jawstack is following to make sure that you understand why your notes are structured a certain way and in some cases to remind your providers. Oh my gosh. I need to make sure. I asked YZ to ensure we can get reimbursed appropriately.
+Jarrell Woods: Okay.
+Christopher Hume: This could be of interest to you, Jerel. We also have a audit risk overview. So I know your team's relatively lean. If you only have three on site, especially if it's a case manager, a individual therapist, and a group therapist, this might not be as relevant. But you can see the notes that people are generating. JOT Psych will check to make sure from an audit perspective they look good. Then it'll flag those notes that look good and also let you know if there's a particular provider often has notes that aren't hitting the quality score. So you can kind of be aware of some of these issues before anyone's conducting an audit or poking around. Let me pause for a moment there, J. Any questions so far? Anything I'm saying that seems out of line or that you'd like me to double click on?
+Jarrell Woods: No, perfect.
+Christopher Hume: That's like infinitely customizable. You can send out forms, you create your own templates. We'll review this all kind of live in a few moments. Always like to emphasize we're of course fully HIPAA compliant. Then again, we've had over 1.8 million notes. We've run a very successful, quite a few very successful case studies. This one showing clinicians saved two hours a day, 80% reporting higher quality. Which is sort of. It's great to hear that in kind of the. Wherever you heard about JOT Psych that that clinical quality was something that kept coming up because that's something we see in our internal reviews as well. And we saw very similar results in that case study out in the Pacific.
+Christopher Hume: I'm going to pause for a moment here, Jerrel, and just kind of show you the options we have for people to try out our software. We have a two week pilot, a four week pilot and a six week pilot. All of them offer unlimited access to anyone in your organization who wants to try us. The differences are for the four and six week pilots, we actually come out to visit you. I think you're out in Arizona, so would love if you chose one of those. And I got to get out of the. The blizzard, the frozen tundra that's Washington, D.C. right now, but also. Yeah, we're in D.C.
+Jarrell Woods: yeah, I'm in. I live in D.C.
+Christopher Hume: oh, you live in D.C. oh,' my gosh. Oh, wonderful. Where in the. Where in D.C. are you?
+Jarrell Woods: Northwest. I'm in Tacoma Park.
+Christopher Hume: Okay, perfect. Our office is in Mount Pleasant.
+Jarrell Woods: Okay. And we're. Where are you based on?
+Christopher Hume: We me we're on 13, we're on Fairmont. So sort of by the. Not too far from the metro stop in between 13th and 14th on Fairmont.
+Jarrell Woods: Cool.
+Christopher Hume: Well, wonderful. Well then we can certainly come visit. Come visit. We have a two week which is free unloaded access. In the four and six weeks we come out and visit and we'll customize your experience. Any sort of templates you may you need or adjustments you make, we'll just do those for you and make sure it's a real white glove experience. Again, any questions here? Jarell, about the pilot, about trying out job site.
+Jarrell Woods: Yeah, so we'll have some templates. What pre built templates do you guys have?
+Christopher Hume: We have a ton.
+Jarrell Woods: Right.
+Jarrell Woods: Pardon me, I'm sure. A ton, right.
+Christopher Hume: We have. Yes. So and I can kind of show you some of them. We have intake, psychiatric progress, soap, dap, burp therapy, medication management. So I think we probably off the shelf have anything you need. Yeah. But I do know maybe your case managers have a very specific way they like to track various cases. If that's something you'd like help with. We could develop those for you. On the four or six week pilot.
+Jarrell Woods: Yeah, I mean with the pilots, my thing is probably instead of paying for a pilot, I would just like to pay for the license outright. Yep, certainly. Yeah. So I mean the two way probably is interesting. I might explore that just to validate and kind of test it up against nudge. But then I would just probably within less than a two week time frame, either pull the trigger or do a yay or nay.
+Christopher Hume: Perfect. Yeah. And that's exactly what it's here for. We want to make it really easy on you. We hope that we can offer more value than kind of you're seeing like higher quality notes, less revisions, all that. Hopefully that's really obvious at the end of two weeks and if it's not, certainly understand you'd be able to make that decision and just apply for you the pricing here. Jerrel, I want to make sure kind of share this up front. This is the job site pricing. So if you have three providers it'd be 150 per person, per se, no contract, anything like that.
+Jarrell Woods: Yep. Yeah, I'm familiar with the pricing.
+Christopher Hume: I did a little bit. Okay.
+Jarrell Woods: Perfect. Contract offering. Okay. Monthly and annual. Okay.
+Christopher Hume: All right. Most of our customers start off monthly. Then if and when they love us, then they'll convert to that annual or two year contract just. Bring that price down.
+Jarrell Woods: But wonderful.
+Christopher Hume: So next steps here. Drill. Would love to kind of walk you through the software itself. There's two ways we can do that. We can do it on my side, but if you just want to sign up, I mean, there's no credit card or anything like that required. Do you want to sign up on your end and I can walk you through from your computer so you can actually get your hands on keyboard and experience it yourself.
+Jarrell Woods: I don't mind. I mean, I'm going to sign up regardless, but I don't mind watching you kind of do it since you're more familiar with.
+Christopher Hume: Yeah, that is true. I certainly, certainly have a little bit of experience with it, so I will go ahead and do that. But I guess one other question. Where is your organization based? So I. I thought I saw Arizona.
+Jarrell Woods: Arizona. Okay. I'm between Arizona and D.C.
+Christopher Hume: like every. Oh, my goodness. Oh, my gosh. Which is your airline of choice?
+Jarrell Woods: United.
+Christopher Hume: United. Oh, my gosh. Mine too. I've taken that flight out to Phoenix myself.
+Jarrell Woods: Yeah. So that's why. Yeah, my. Go to Wonderful.
+Christopher Hume: Okay, what I'll do is I'll walk you through. Right now. What we'll do is we'll go through you or your providers can record with JOT Psych. We'll go through kind of what a note looks like coming out, and then we will go through editing templates and some of the advanced manager supervisor features. So you can see as a supervisor, what additional insights would you be able to collect about your team and their notes? So just please, anytime. You know, talking about Jaws, I could talk about Jaw Stack all day. If you want me to slow down and dive in a little greater detail on something, please just let me know.
+Jarrell Woods: Okay, so to start with job site, this was support group notes. Right.
+Christopher Hume: So typically, in the way you're using Nudge, I believe we would be able to support in that same way. We're going to give a general overview of the session. What JSEC is not yet able to do is take out individual people and say so and so did this and so and so did this. And that's why I asked that question at the beginning. Yep. And I'll also after this call Jerrell, check with the engineering team on if they have any tips or suggestions for how to make those as kind of. Yeah, those group notes as strong as possible. Yep. Press the record button. See, I was actually already doing an example before. And when you record, you're brought to JOT Psych. You can select the patient or in the example of group notes. Maybe you do group session.
+Jarrell Woods: So you can select more than one patient, is that correct?
+Christopher Hume: That is correct. Yep. You can select one patient here or you could kind of name the session here.
+Jarrell Woods: Okay.
+Christopher Hume: And down here you'd select the session type. We would do some editing. Let's just do a therapy and med check. And then you would press this record button. Sounds like most of your sessions are in person, Jarrell. So this would certainly work for in person, but of course we work for remote as well. You can then add additional information down here. Example we give is, you know, if you want to add information about the patient's appearance, that's something that your providers can always type in and it doesn't have to actually be said out loud.
+Jarrell Woods: Okay.
+Christopher Hume: And then generate note. Within 20 to 40 seconds, you'll have a medical note, clinical note, ready to review. Not going to use this nine second dictation to create a note that'll look a little funny, but I will show you an example. One, This example, More robust soap. The additional information as well. What you can do, Jerrel, is fill this into your ehr or copy section. Any questions here about how the notes come out, the structure, anything like that?
+Jarrell Woods: No. I mean, I mean, you know, you connect with your engineering team. Like, I mean, this is like extremely thorough. What I would say would be ideal, I think a limiting factor. You guys have the ability to kind of maybe jot, you know, notes on appearance, but that's only for one person as opposed to, you know, that functionality. You guys had it built in where I could add like 10 patients instead of just one and then it would just pop up a little small additional note for each one and I could just do it in platform.
+Jarrell Woods: Yeah, that would be amazing. Obviously you guys aren't quite there yet, but.
+Christopher Hume: No, that would be, I mean, speak of my language here, Jerrell. This is something I'll flag for the engineering team. I'm so. Yeah, the, the group notes, there's so much opportunity to help kind of cut down time and make it easier.
+Jarrell Woods: The biggest, like. We're using this sometimes in our one on ones, but usually, you know, my practitioners are really good about one on ones and what information capture. But I mean this really becomes a force multiplier when you know, taking consideration group notes, especially once you get past like five or six people.
+Christopher Hume: Yeah. Oh my gosh. Yeah. Okay, so that's certainly kind of a do out for me. I'll check with the team on sort of what we can do there in terms of patients. And then also I know there's some settings that we can set either that kind of make those group settings work better. So I'll make sure we get those turned on on your from when you're trialing us.
+Jarrell Woods: Okay, Yeah, I appreciate that.
+Christopher Hume: And then the other thing I just want to flag to Jerrell on the right hand side over here is our AI note assistant. So that's like in learn how you like your note structured. And so what you can always say is something like make this note less robust, no more than three bullet points. And then you will go back and forth with our AI editor and you can tell exactly what you want your note to be structured.
+Jarrell Woods: Like how do you guys. Do you guys run into any issues with hallucination with maybe doing too many requests or prompts with this AI?
+Christopher Hume: That's a really good question. I would tell you that's very unusual, I would say for we've seen that maybe with providers who have made over 200. Over 200 prompts is the only time that that's popped up once or twice. It's very unusual.
+Jarrell Woods: Okay.
+Christopher Hume: And then what you can say is, hey, jot psych. Yeah, this looks great. This is always what I want this note to look like. And yes, let's train it. So now moving forward, your notes will always look like this. And the idea is you're going to have to do very little editing. The more you use jot Psych, it'll learn your style.
+Jarrell Woods: Yep.
+Christopher Hume: Quickly. You can always adjust your notes from the note template tab over here. So we have a more standard SOAP note that I think is probably closer to what your team's using for their group sessions or here. And you can always edit this as well. You can say jot psych add as I previously did, add a surgical history section at the beginning, add a summary of what the section themes were, etc. Era and you can customize your templates very quickly. So hopefully Jarell, you don't even need our help in getting these up and running.
+Jarrell Woods: Yep.
+Christopher Hume: The last thing I want to show you is kind of as a supervisor and manager, we have. Audit capabilities. So this is a beta feature, so if this is something you'd like turned on, please just let me know. But you can make sure that those rules, as we discussed, your payer rules are included, so your notes take them into consideration when they're generated.
+Jarrell Woods: This would be amazing. Yes, 100%.
+Christopher Hume: Okay, then we'll turn that on for you. And we can. If there's any specific pairs or rules you want included, we can set a perk.
+Jarrell Woods: I think this is one of the strongest functionalities that you guys have in your platform right now. Now, out of all the things we discuss.
+Christopher Hume: Wonderful. Well, this is, frankly. Yeah, this is what we've been spending most of our engineering time is perfecting this. So we'd love. Jelle, honestly, for you to. I'll turn it on for you as soon as you create your account and then any feedback you have. Yeah, hopefully it's perfect.
+Jarrell Woods: Create my account now, just so.
+Christopher Hume: Yeah, let's do that. And I can turn it on for you.
+Jarrell Woods: Let me do that now.
+Christopher Hume: And, Jerell, would you like to set up any of your. Your colleagues with an account?
+Jarrell Woods: Yes, but let me. Let me confirm which ones I want to set it up with. Okay.
+Christopher Hume: Perfect.
+Jarrell Woods: And then I was going to say my clinical director, but she's not running. I want to. Yeah. Yes. Yeah. Confirm who I want to set it up with.
+Christopher Hume: That's perfect. When you set up your account, you can always just go to your practice clinicians and then invite users, and they'll just be added right on. But if they need any help signing up or they need someone to walk them through that, I could do that for them.
+Jarrell Woods: Perfect. I just created an account.
+Christopher Hume: Perfect. Let me turn on these features for you.
+Jarrell Woods: I didn't. I'm not done creating it. I thought I did.
+Christopher Hume: Oh, no worries. You're. As I said, you're keeping me honest with that three minute claim. Let's see if it takes more than three minutes.
+Jarrell Woods: I like that you guys put in here whether you can select if it's referring to a patient or client.
+Christopher Hume: Pretty cool. Yep. And are all. Are all of your patients. Did everyone speak English or are there additional languages spoken?
+Jarrell Woods: Right.
+Christopher Hume: Okay, Let me turn this on for you. J. If you refresh your screen, you should now this to our audit and overview features.
+Jarrell Woods: It's under what?
+Christopher Hume: It's under billing and auditing. And then you select job Audit.
+Jarrell Woods: Yep.
+Christopher Hume: Perfect. And you see the audit Center.
+Jarrell Woods: See the.
+Christopher Hume: What does it say? Audit center at the top of your screen?
+Jarrell Woods: Yep.
+Christopher Hume: Perfect. Then you should be ready to rock. Jarrell, in terms of getting your team up and running, would it make sense to maybe set up a. Now we're coming up on time here. Would it make sense to set up a 15 or 30 minute, just kickoff for next week?
+Jarrell Woods: Yeah, we can.
+Christopher Hume: Yeah. We just love to make sure everyone knows how to use the software so, you know, they're getting the full experience. They're not trying to make sure the right microphone is connected. What time would work for you?
+Jarrell Woods: I'm assuming with this within. You brought up a point with the job, the microphone. So what we're doing right now is we obviously have our. It just captures whatever the system settings are right on the laptop.
+Christopher Hume: Yes, it should. Yep.
+Jarrell Woods: Okay, cool.
+Christopher Hume: Yep. But is there a time maybe on Tuesday that would work for your team?
+Jarrell Woods: Can I get back to you on that? I don't have everybody's calendar in front of me.
+Christopher Hume: Yeah, yeah, of course. I certainly understand. Wonderful. Well then, Jerrell, any last questions before I let you go and. And enjoy your. Your Friday?
+Jarrell Woods: No, no, no, man, I'm good. Just getting prepared for this storm that's about to hit us.
+Christopher Hume: I know, I know. Are you going to be in D.C. or are you getting to Arizona in time to escape?
+Jarrell Woods: Oh, no, I mean, I leave Arizona Sunday night, so.
+Christopher Hume: Oh my goodness.
+Jarrell Woods: Good luck.
+Christopher Hume: A lot of this stuff will be. Yeah, it looks like a pretty. Pretty hectic couple days. Should be fun, I guess. The city is always pretty in the snow, but pretty crazy.
+Jarrell Woods: Yep.
+Christopher Hume: Wonderful. Well, thanks, Jarrell. I'll send a follow up email later today or. First thing Monday, and we get something on the calendar to make sure your team's ready to rock and roll next week.
+Jarrell Woods: Awesome. Thank you so much.
+Christopher Hume: Oh, thanks, Charelle. Have a good one. By.

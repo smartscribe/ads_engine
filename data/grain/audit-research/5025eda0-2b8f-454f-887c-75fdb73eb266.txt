@@ -1,0 +1,165 @@
+Mary Arntz: Hey there. Hi. Good morning. Good morning. I apologize. I have an hour commute and.
+Becca Bressler: Oh, God, no worries.
+Mary Arntz: Let me just try to get you. All right, well, let's go with this here.
+Mary Arntz: Can you hear me? Yeah.
+Becca Bressler: Awesome. I hear a little bit of an echo on my end. Actually, I'm hearing myself. Oh, maybe. Maybe it just stopped doing it there. Yes. That's great. So how can I help you this morning?
+Mary Arntz: Well, so I'm on my phone because my work email or work stuff is different. But I just noticed, like, in the last month or so that the note has changed. I don't know why. It kind of looks like it's more in, like, a edit editing type of setting than what it used to be. Does that make sense?
+Becca Bressler: Yeah. You're talking, like, visually the ui.
+Mary Arntz: Yeah, yeah. And then it started to work, like, using, like, these little, like, squigglies, like, if it doesn't know. So I have to do a lot of editing to get those out, and I'm not sure why. It's like. I'll see if I can find you a little bit of an example. I thought I had one here. It's interventions. That's what it is. Hold on one second. So in, like. Like, let's see. Let's try this one. Therapy. Okay, so can I flip my screen and I'll just kind of show you how it's looking? Oops. How it's looking to me here. Okay, let's try to flip this here. Okay. We don't want the effects. I am so Google Meets a lot. No problem.
+Becca Bressler: I know it's not. It's certainly not my favorite software.
+Mary Arntz: I know. I'm trying to flip the. Oh, here it is. I got it. Got it. Okay, so I'm gonna try to zoom in here. So can you see that? Yes. Can you read it? Hold on.
+Becca Bressler: Yes, I can read it.
+Mary Arntz: Okay, so I do. Like, I'm just gonna show you. Like, it used to just be all in paragraph form, which I liked, but now it's like. Like, it's doing, like, kind of, like the sleep, and then it goes to, like, behaviors and mood.
+Becca Bressler: Oh, I can no longer see it, but I think I know what you're talking about. It has the colon. It almost has like, section. Yes.
+Mary Arntz: Labels with the colon. Yeah. Behavior, cognition, medication, which is good. But it did be prior. It just did this all in a paragraph form, right?
+Mary Arntz: Oh, you can see it again.
+Becca Bressler: Yeah, I can't see the screen. So what you're noticing, though is we put together or we released an upgrade over the last couple of weeks. Weeks. For our processes on the back end and how things are going. And some people have noticed a change in the output of the note as a result of it. I have a tool where I can revert your templates back to how they were two weeks ago. You probably recently saw this change. Yeah. And so if that's something you want me to do, I can do. It will have lost. It will revert back to how it was two weeks ago. So if you did any training in the meantime, it won't keep that. But that's certainly an option that. That we can do here if you would prefer.
+Mary Arntz: That is so in the. The hpi, it's not so bad. I kind of like it. So I'm kind of trying to figure out. I kind of like it, but I'm kind of trying to figure out if I want to keep it that way. But the other thing that I noticed was like, I do therap med management a lot and like, I use interventions and then what does it say? Oh, response to interventions. Or wait, topics discussed and then interventions. Right. So topics discussed is bulleted, which I really like.
+Mary Arntz: But then interventions used isn't. So then I have to go in and bullet all those.
+Becca Bressler: So have you tried using the AI editor to train it?
+Mary Arntz: No, I have not.
+Becca Bressler: So one of the things. Are you able to see my screen if I share it with you?
+Mary Arntz: Yeah, I should be able to. Yeah, I can see you fine. I just can't figure out.
+Becca Bressler: Let me change this for a second. So.
+Mary Arntz: Oh, yep.
+Becca Bressler: So one of the things that you can do here is there's this AI note, assistant editor on the right hand side. So if you like something in your. So let's say. So you're seeing you like some of it in bullets and you want other things in bullets. So like, if I take my hpi, Let me find an example. So if I take my hpi, for instance, and I'm like, oh, I like that the history of issues is in bullets. I like that the other patient details.
+Becca Bressler: I would actually like the presenting issue to be in bullets too.
+Becca Bressler: You can type into this always make the presenting issue section in my HPI Bulleted.
+Mary Arntz: Oh, wait, hold on. Let me see where you did that. Oh my gosh.
+Becca Bressler: So interesting. It did not.
+Mary Arntz: So over there on the side, you said, you just say that and then it.
+Becca Bressler: Yeah, you tell it what you want. Okay, so. But it. This one actually didn't do anything. So I need to ask my team about this.
+Mary Arntz: So I'm just trying to see how did you get to that AI thing you were just.
+Becca Bressler: So if you don't see it, then what you have to do is select this. These stars. Do you see these stars in the upper right?
+Mary Arntz: Let me try. Let me try. A different patient. I wonder, do I have to, like, the notes I have aren't signed.
+Becca Bressler: So does it have to sign?
+Mary Arntz: Yeah, they signed. Okay, so let me make sure I pick one that's signed. Okay. That kind of looks like it's signed. Let me go back. Okay, well, these are signed. Okay. These are all signed and I'm just not.
+Becca Bressler: Oh, so if they, if they are signed, you can't edit them.
+Becca Bressler: So you would have to.
+Mary Arntz: Yeah, yeah, yeah.
+Becca Bressler: That's probably your issue.
+Mary Arntz: Okay. And so I can go over there and say, like, in for the chief complaint. Da, da, da, da. Like, just tell it what I would like.
+Becca Bressler: Yeah. And try and be specific about the section. If it is one specific section. Actually, one way you can do that here. Can I. I'm going to share my screen again. Or actually, you could do it if you click a section.
+Becca Bressler: If you like, click into a section. You should see in the AI chat, it sort of pops up and it says, like editing hpi. So, and you don't have to do that. So it's. It's built so that you can just like, name the section and it should know what section. But that's one other way to do it. If you're like, no, I just want to make sure it's only touching this section. You can click into it and so you can use this chat to tailor it and so you're not manually doing it. And it'll ask you if you're asking it to be formatted in a certain way. The system is designed so that it should pick up that, oh, this is a formatting request. They might or probably want to train this template to always be formatted this way. So it'll ask you, would you like to train this template on this fix? And then you just select yes, if you want it to be trained. So that's a way to like, prevent yourself from having to make the same edits over and over again.
+Mary Arntz: Okay.
+Becca Bressler: Does that make sense?
+Mary Arntz: Yes. So when, before I sign it. Right. I can go into that thing and just like say, in the medication section, list them and that.
+Becca Bressler: Like that. Yeah, exactly.
+Mary Arntz: And then it won't just save it for that note, it will save it for everything.
+Becca Bressler: So if it'll ask you. So some people just make certain, you know, there's some adjustment that are just at the note level, some are at the template level. So you'll have control over if it trains that. Template or not. It'll ask you, it'll prompt you, it'll say, would you like me to, you know, train this template on this particular edit? And you can select yes or no. So if you want it to persist in the template. One thing to note though is we. There's no training on the patient level. So you can't say, always remember this for this patient reason being because, you know, you don't want to train your. If you train your template to say something that's patient specific, every single note that uses this template will include that. So just a, just a warning there.
+Mary Arntz: Okay. And actually I was just looking at your note and I really did like how it was that just the HPI was laid out really simply. I don't know. Yeah. Is there. What did you use for that?
+Becca Bressler: So this. I. It defaulted to this. If you like the HPI looking this way, I could transfer the training of, of this note into your hpi. So, yeah, so that's definitely an option if you're, if you're interested in this HPI section. Otherwise you can, you know, fine tune it using the AI editor.
+Mary Arntz: Okay. Yeah, I just, I feel like, I mean, I watched the original, like training videos and I feel like it's been a huge help and I love it. I just think there's more editing I need to do, you know.
+Becca Bressler: Yeah. So that. Let me. Would you like to see a video for this new editor?
+Mary Arntz: It might be helpful.
+Becca Bressler: So let me send you that. Yep. Because the, the benefit of this new editing tool is what we've noticed is a lot of people wanted to edit multiple sections at once. So people were like going section by section saying like, change PT to patient. Change, change PT to patient. And the thing about this tool is that you can make edits to the entire note at once. So if you want to like, change. If you want to say, like add in the patient's name, I don't know why you would, you know, maybe you would want to do that. You could do that and it would add it in to the entire note at once so you don't have to go section by section. So it's actually in some, you know, meant to save you more time with the editing once you kind of get the hang of. Of that. So let me send you this video, which could be a really good help. I'm going to email it to you. How does that sound?
+Mary Arntz: Yeah, that's fine. What else was I going to say?
+Becca Bressler: The other thing I could show you, Mary, is. There is. Here, let me share my screen Again, If you go into your templates, So you can train your template at the note level. If you're like, I always want this note to be like this. It'll train the template. You can also train your template within the note template. So let's say I. I have my personal progress note. Let's say I want to make. I want to train this template to be a little bit different. I can select this template and then I can hit those stars that say edit with AI. And it will edit. It'll open another editing modal. And what it'll do is it'll generate an example of what this template looks like. And then I could edit it. I could train it this way. So let's say the HPI should always be two paragraphs long. Oh, let's say that. So now it made my HPI two paragraphs. And it will make it so that using this template, it always follows this format. So like in the medication section, please make. Or this. This is going to take me too long to. In the sleep section, please, Bullet. The. What might you call these? The. What might I call one of these things? Like the section.
+Mary Arntz: Well, maybe I should just make a new note.
+Becca Bressler: That bullet is. Did I say bullet? Oh, I did say bullet. Well, I didn't mean to say bullet. I meant to say bold. But you can see what I did here where I said, in the sleep section, please, Bullet. You know, the. The beginning. And so it turned this into a bullet. I bulleted those four sleep headers. And so now if I use this template, like, it'll follow this particular structure. So this is just another way that you can train your template.
+Mary Arntz: And then I have to do that before I sign it. Right. So this would be like I did. I did a patient, and then I'm going in and I'm gonna, like, finish my note. Right. So that's where I do this AI thing and say these things.
+Becca Bressler: Right. So this is in the template builder part. So right now we're note templates. So this is just an example that you're editing. Okay. But it follows the same sort of content. Principle around like picking a note and doing it. But yes, the note, you can only edit before you sign it.
+Becca Bressler: Or you can like click amend and stuff like that. But just because when you're signing it. Right, you're like locking the. The document. Right. Can I ask you, when you're signing, are you using Jot Psych as your system of record? Like when you say sign, is that, is that what you're doing or is that.
+Mary Arntz: No, I signed that note. Like I, I have to sign it for everything to like come together or whatever. Right. And I don't do a lot of editing. I just sign it right away so I can like start copying and pasting it to my, My, my medical record, if that makes sense.
+Becca Bressler: So. And the signing makes it easier for you to copy and paste, Is that why?
+Mary Arntz: Yeah.
+Becca Bressler: Can you say more about that? I actually haven't spoken to a user who's. Who's discussed that. So. Yeah. Can you say more about what makes it easier for you to do that?
+Mary Arntz: Well, because it like kind of like finishes up everything otherwise. Well, honestly, I'm trying to think. I feel like you don't see any. Oh, maybe you do. I feel like it just puts it all together.
+Mary Arntz: I mean, it's, it's how, you know, you process, generate note. Right. And then I sign it and then it's like to me, it's like kind of like a completed version and then that's when I can copy and paste it to my. Yeah, but I don't do a lot of editing it because I don't have time. So I'm just like, sign it and then I'll copy it and da da, da, gotcha. Which I should. I mean, I guess I never thought of like editing it in there. I always think like, you have to sign it to get like the end product. But maybe that's not right.
+Becca Bressler: No, I mean, you can copy and paste before you've hit sign in basically the exact same way. So. So I mean, it's totally your preference. I was just curious because I have. Yeah. I haven't spoken to anyone who has that.
+Mary Arntz: Maybe that's not the right way. I was just like, to me, I just thought if I sign it, then I can get all the pieces and put them in here. But you're right. Like you can just do bits and pieces without signing it.
+Becca Bressler: Yeah, yeah. And then you can use this AI editor tool if you want to edit it in Jot Psych. And then it'll make it. If it's remembering your edits. The idea is then in the future, you don't have to keep keep editing it because it'll learn your formatting preferences.
+Mary Arntz: Okay. And I think I have one more question. So I think that you kind of had this the first note you showed me. And this is my, like, what I put into my. Yeah. So this is what I go off when I'm talking to patients. This is my screen. Right. But then that's not over on my job site, like, template. And I I wanted to address those in. Yeah, hpi.
+Becca Bressler: You can do that. So do you what is that for one particular template, or do you use that structure for multiple.
+Mary Arntz: I use that everyone and then peeds. I have a little bit more.
+Becca Bressler: But I always.
+Mary Arntz: I always address these. And I notice that when I do my. When the note comes up over here, it's not really like some of these they'll address, but not all of them. You know what I mean?
+Becca Bressler: Yeah. This is. So this is something you can use the AI editor to do. So if you open a note, you can say, like, you can copy and paste that list and put it in an editor and be like. Yeah, so select no notes. Yeah, no, I mean, you can do this with a note template too. But. But if we just pick a note that you want to do it on, an unsigned note.
+Mary Arntz: I don't have any right now.
+Becca Bressler: Oh, okay. But what you might do is if you want it to be in the HPI section, you just like select the hpi. You can click into the hpi. You actually not. Not select it there necessarily, but just click into it. I mean, you don't even need to click into it, but you can open the AI and editor that like star if you don't see it.
+Mary Arntz: Okay.
+Becca Bressler: And you could even just copy and paste what you just showed me and say in the hpi, always list these things. Okay. And then it should do that. It should. It should always do that in the template.
+Mary Arntz: And then like, I could say summary statement, put summary statement in the HPI or whatever. Yeah, okay.
+Becca Bressler: You can say, put the summary statement. Always put a summary statement at the top of the HPI followed by the. All of these things.
+Mary Arntz: Yeah, good, that's great. Because another thing is I always have this paragraph of identifying information that I always, like, do that. And then the chief complaint, like, I always, I'm typing everything up on my note over here, and then it's same thing over here. So if I could get this down, I wouldn't have to do all this over here, if that makes sense.
+Becca Bressler: Yeah, a hundred percent. So you can. Totally. And another thing you can do if you have a specific format and if you're like, oh man, it'll take way too much time to like, move all of this over. Let me show you one other thing. So if you go to. Back to your note templates, there's this thing called the template builder.
+Becca Bressler: And you could say, like, upload template. And you could copy and paste your template that you use in your ehr. You could upload a PDF and basically it will create a template that's following, like the very specific structure that you're looking for.
+Mary Arntz: Okay, great. And then so I would like, name that my. Yeah, whatever. Okay, that's cool. Maybe I am hoping to figure that out for adults and then pediatrics, like so. Okay, that's super helpful.
+Becca Bressler: Yeah. So. So those are a few different ways that you can get the template that you want. I asked Mary, and we can set up another call for this. But I noticed that you have the payer aware note.
+Mary Arntz: Yeah, I didn't know what that was.
+Becca Bressler: So did you not sign up for that?
+Mary Arntz: No.
+Becca Bressler: It just showed up in your account.
+Mary Arntz: Yeah. And I don't know why, because. See, you can see, like, everybody has two notes. Oh, I'm sorry. I'll flip it again here. Everybody has two notes with. And they have that pair, like, pair aware notes. And then. Well, this one's, like, working on it. You can see. I don't know why, but.
+Becca Bressler: So, yeah, they don't typically look at those.
+Mary Arntz: I don't know what the.
+Mary Arntz: I don't know what those even mean.
+Becca Bressler: It's interesting because we're in beta on that feature, and I don't think that you should have it if you didn't sign up for it. But I will follow up. Do you want me to get rid of that on your account?
+Mary Arntz: Yeah, that'd be really nice because it's showing two notes at a time. Oh, here, look it. There's.
+Becca Bressler: There's that. Yeah, great. Different. It's a different note. That is. So we have inputted a bunch of rules into this template that we use so that it can help you make sure that it's compliant. So if you actually look over to where the AI editor is, that chat bar. Yeah. You can see something that says audit. And if you click into that, it'll highlight parts of the note that it might suggest improvements on to make it more compliant.
+Mary Arntz: That's super cool.
+Becca Bressler: So anyways, maybe if you want me to leave it on, you can continue exploring this feature, but I can also turn it off for you if you want to get rid of it.
+Mary Arntz: Okay. Oh. Oh, I like that. Okay, so from. So I haven't used this as a note, but I could. Is what is. It's still a note. I guess when I. You saw how it just was like, it looked like a bunch of, like, I don't know, numbers or. It looks weird. I go back to the note.
+Becca Bressler: So. So when you go to your notes, they are obviously listed as two separate notes. Yeah.
+Becca Bressler: See, this is because they are two separate notes, but you can actually get there a different way. So do you notice, I mean, actually, could you pull your phone out a little bit? So do you notice at the top how it says, like, payer aware note and then it says note next to it?
+Mary Arntz: It's the sign.
+Mary Arntz: If you go to the left here. Notes right here.
+Becca Bressler: So those are actually the two notes right there. Like, you can toggle back and forth between them here.
+Becca Bressler: So if you're ever in your note editing and you're curious about the compliance stuff, you can click over to the pair Aware note, always say audit.
+Mary Arntz: All of these are the things that they're recommending I look into.
+Becca Bressler: Is that what it's saying.
+Mary Arntz: Yeah. Oh, that's really interesting. And so if I wanted to change or address these. Yeah. How would I do that?
+Becca Bressler: Yeah. So do you see the little, like, star thing on the right of each of those things?
+Mary Arntz: Yeah.
+Becca Bressler: Like, each of those suggestions. If you click it and you click that Coordination of care.
+Mary Arntz: Okay. Wow.
+Becca Bressler: So it'll apply changes based on the recommendations.
+Mary Arntz: Got you. Wow, that's really cool. So that's like saying, who? Because I do click on coordination of care a lot of times. As a, like, pain, like my minutes or whatever. But this is great because it's saying what kind of communication I had. You know what I mean? Yeah. That's awesome. I love that. Actually might add that in. That's really good.
+Becca Bressler: Yeah. So you can use. You know, this is just another form of the note that you can use your workflow if this is stuff you want to take care of before you move things over into your ehr. But. Okay, so do you want me to leave this on your account?
+Mary Arntz: Then let's do it. For now, I'm. And then if I'm like, this is annoying, I'll let you know. But now I know what it is. Yeah. I kind of want to look through and see what I'm missing and, like, what I can. How it can help.
+Becca Bressler: So. Yeah.
+Mary Arntz: Yeah, if that's okay.
+Becca Bressler: Sure. Absolutely.
+Mary Arntz: Yeah. I thought it was some, like, what else were, like, billing thing that I have nothing to do with. So I was like, oh, I'm not even gonna mess with that because obviously I work for a place that they do all the billing. I don't. I don't know anything about it. You know what I mean? So I was like, oh, I'm not gonna touch that. But it's way more than that. So. Okay.
+Becca Bressler: Yeah. Okay, great. Mary, do you have any other questions or.
+Mary Arntz: I don't think so. I think you give me some really good resources, so I think I'll try to make some changes and whatnot. Okay, great.
+Becca Bressler: Let me send this email to you that has that video. Okay, awesome.
+Mary Arntz: And then what was your piece about the odd. Whatever you wanted me to help with.
+Becca Bressler: So it was that. Actually, I noticed on our end that you had that note and it looked like in our data that you had clicked on it before. But it sounds like maybe you haven't, like, did that look completely. Have you clicked into the Payer aware note before just being like, what is this?
+Mary Arntz: Yeah. Yes, I have. Because I was like, yeah, what? I was like, what? Because all of a sudden two notes popped up and there's been a couple of times where I've done my note in that and I was like, oh, God, this is weird. But then I didn't realize you could go back and forth between the two.
+Mary Arntz: So that's super helpful.
+Becca Bressler: So, yeah, that's really interesting. So I reached out to you because I actually thought everyone that was getting it opted into it.
+Becca Bressler: So I'm surprised to hear that it wound up on your account without that because I'm working on that product right now and trying to collect feedback on if it's useful, if it's providing smart suggestions, et cetera. And so I actually thought you were someone who had signed up for that, but you're not. So we. I. Yeah, but.
+Mary Arntz: And I'm looking. I didn't. This is great. I'm just seeing that it has psychotherapy section where it lists the interventions and the patient. This is way better. This is just one thing that popped up from this audit thing. This is way better detailed for therapy interventions than what's in my just general note, if that makes sense.
+Becca Bressler: Yeah, definitely.
+Mary Arntz: So I, I do think I will kind of look at this,
+Becca Bressler: explore it, you know, let me know if you have any feedback from it. Great. All right, well, great. I'm happy that I was able to help Mary take a look at that video that I sent over. Hopefully that'll help familiarize the tool even more for you. But yeah, feel free to always, you know, sign up for one of these if you have additional questions because we're happy to help make sure this makes sense.
+Mary Arntz: And yeah, yeah, that I feel like this is already going to be awesome. Like I can, I can take everything in my, my note here, figure out, put it in there and then I don't have to do all this copying and pasting. Yeah. I do have one other question. Is there a plan? Like a. What's what I'm thinking about a note, like where it comes up with a plan for you. I know there's is assignments in plan, but I've never seen assignments, assessment and plan.
+Becca Bressler: Yeah. So that's something that you can customize. So let me even show you how to do that again. So like take for example, let me go back into my note templates. What's a, what's a template that might have that like an intake or a.
+Mary Arntz: I'm just in like, just a normal like progress note maybe. Oh, I do therapy.
+Becca Bressler: It's.
+Mary Arntz: Let me just for the.
+Becca Bressler: I mean it doesn't matter for the sake of the demo necessarily, but so let's see. So, so you, you were looking for assignments and plan or assessment and plan.
+Mary Arntz: So I'm saying I would like assessments and plan, but what it does is assignments and plan.
+Becca Bressler: Yeah.
+Mary Arntz: And most I don't like, I don't give us assignments.
+Becca Bressler: Yeah. So you can edit this. So like if you notice like this is my therapy. This is my therapy template right now. But if again, if you click this edit with AI, you can say like,
+Mary Arntz: like would it, would it be able to come up with the assessment and. Because the only reason I know about this is from another. My, my, my work gives me this free AI or free freed, whatever. Yeah. Beside our system and they actually take all the like patient data and like would make an assessment. They would say like major depressive disorder and then it says like plan and then it like does what I'm going to do from my note, if that makes sense.
+Becca Bressler: Yeah. So this will provide suggestions for things like that if you want it to. But so like one way of doing it in this AI editor, like template editor is like. Right. So there's like an assignment and plan. There's a safety assessment, right? I might say remove the assignments and plan section and remove the safety assessment. So maybe I'll do that first. Make sure it removes. Got it. So it got it. Got rid of these. And then I might say add. Add a assessments and plan section to the template. And then what do you want me to say about the assessment and plan sections? Like, include within this an assessment based on the conversation and diagnosis. Assessment and diagnosis, yeah. And then present a plan. Yes. So let's see.
+Mary Arntz: I literally had no idea about that AI section. I'm loving it. Oh, my gosh. Well, it's where.
+Becca Bressler: Oh, plan it. Added it here.
+Mary Arntz: Yeah.
+Becca Bressler: So and then you can, like, adjust this as you want, right? Like, this was the first take based on what I said here. But you can fine tune it by giving it feedback, you know?
+Mary Arntz: Yeah, gotcha. Okay. Perfect. That's awesome. Love it.
+Becca Bressler: Cool. So, yeah, give it a try. Play around with it. See if you can, you know, tweak it to your liking.
+Mary Arntz: And yeah, yeah, I am definitely will start using that audit tool if you want to. If we want to check back in.
+Becca Bressler: Yeah, yeah.
+Mary Arntz: Helpful or not, I don't know.
+Becca Bressler: Definitely I would love to check back in with you after you play around with it for a little while. So let's just keep in touch about that.
+Mary Arntz: Okay.
+Becca Bressler: Great. All right. Thank you so much, Mary.
+Mary Arntz: Thank you. You are a huge help.
+Becca Bressler: Of course. Reach out anytime. Okay.
+Mary Arntz: Have a good day.
+Becca Bressler: Bye.
+Mary Arntz: Bye.

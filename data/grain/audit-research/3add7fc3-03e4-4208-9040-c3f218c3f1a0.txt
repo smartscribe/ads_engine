@@ -1,0 +1,109 @@
+Christopher Hume: Buffalo. So we're hitting all of the. Tier one US cities.
+Emily Kaiser: All right. How's it been so far?
+Christopher Hume: Pretty good. Learned a lot. Hopefully make some sales from it. So it was good.
+Emily Kaiser: But busy, busy.
+Christopher Hume: How's the calling been going?
+Emily Kaiser: Pretty good. I'm still having a good amount of luck with the pause users. So I was just taking a look. I'm trying to count. I think I booked two meetings yesterday from that list. Yeah, but so far pretty good. I'm focusing on this one. I'm on my fourth go around. I want to get through this, and then I'm going to move back to. Yeah.
+Christopher Hume: What are we offering?
+Emily Kaiser: With paused offering, basically just giving, like, a short description of our new features, jot bill jot RX and then during two week free trial. And just kind of going from there, a lot of people are taking me up on the trial and scheduling demos.
+Christopher Hume: Okay. I try to think, because I don't think we want to do a $20 first month again, but we want to offer them some sort of incentive to put in their credit card. So do you have any thoughts? Like, is there anything I'm happy to say since I'm thinking about this? And something we can offer? I just want to make sure. Yeah. Do you have any thoughts?
+Emily Kaiser: I don't know. I haven't gotten on a demo yet. Where I'm trying to think I've gotten on a demo yet. Since booking these meetings where the credit card has been collected. Okay. I think I had one meeting on Friday from this list user, and it was a no show, actually. So, yeah, last Friday.
+Christopher Hume: So, you know, you know what? I think. Consideration, we can be like. I've been on my desktop. I keep running over to grab some kitchen. But we can offer. Like. You say something like, hey, like, you don't need to pay, but if you put in your credit card, we'll develop two free templates for you. And like, hey, you can cancel it before, but, like, we're happy to, like, customize your experience. We just need, like, a little bit of a commitment, and then you can cancel before, you know, your next month. Or even before your first month, like, hey, we don't care. Just, like, put your credit card in, like, we'll customize some templates for you. You could try it out. And just see if that gets anyone, because I just want them to put it in, but I don't want to do, like, the 80 or whatever. It was more than 80 discount.
+Emily Kaiser: Yeah, the 20.
+Christopher Hume: Yeah, the 85 discount. Yeah.
+Emily Kaiser: I think show it. Like, I had a meeting with yesterday. What was his name? Joe?
+Christopher Hume: I have some stuff for you about Joe, too.
+Emily Kaiser: But the just talking about the things that we've added, jot our action bill, he was, like, very incentivized by that. Like that you heard when I was on the phone with him there in d. C. He hadn't been using the system at all. He just knew he was paying for it. Yeah. Beast. Yeah. Yeah. Strange. But. That he. I mean, obviously I sent you those questions, and then he wants to kind of go over that first and, like, talk about integration and then is more open to having a conversation about job bill specifically is what he was interested of over jot Rx. He would want to try job bill first. It sounds.
+Christopher Hume: Sounds like you got it, sir.
+Emily Kaiser: Yes.
+Christopher Hume: Yeah.
+Emily Kaiser: So I think that these new features, they are enticing for our paused users specifically. I feel like people are a lot quicker to say yes to the demos and the free trials just to try it out. So I think I'm going to just try to see if they'll put their credit card in for the 150, of course.
+Christopher Hume: Yeah. And then the two. Yeah. Two free tablets. All right, perfect. Yeah. Just see if you can get it in just, like, in general. That's. Yeah, that's actually a great. Yeah. Let's just see if people are interested. Yeah. I'd say. Yeah. Then after that, it's two free templates. And if people still aren't biting, we'll come up with some sort of. Disc. Or gift for them. Like, maybe we'll do, like, five dollar gift cards or whatever to Starbucks. I just really want to shy away from. I think we over index to people who were. Like, unserious people. And that was purely a me mistake. And so I think I'd rather be rely on you and Jax ability to sell and then see, like, yeah. And then we can slowly add in additional.
+Emily Kaiser: Benefits. Yeah. Even half off is something that people would put their credit card in for. I mean, $20 is immediately like, okay, yes, I'll try it because it's commitment, but then you're right. I think that a lot of people end up canceling because it's such a drastic difference.
+Christopher Hume: Yeah. Luckily, that guy, Dr. Souza did not. Show up to the meeting, so I didn't have to deal with his.
+Emily Kaiser: I'm worried about him over there.
+Christopher Hume: Like a classic example of people get into mental health because they need mental health help.
+Emily Kaiser: That's what I. That's exactly what I was thinking. Like, he is advising people. Yeah. Mental health. And that is wild.
+Christopher Hume: Yeah, not good. Okay, so we're going to start off offering nothing. Then we'll see if they'll put in their card just for the templates. And then we, if that doesn't work, we can talk about some sort of discount gif situation. Yeah. So. You're how many meetings do we have to set up this week?
+Emily Kaiser: So I have one right after this at one o'clock. I'm doing the. I scheduled Vanessa duvet with Becca later, but I'm going to try to do it on my own.
+Christopher Hume: Okay. That's going to be John Rx. Yeah. Damn. All right. Awesome.
+Emily Kaiser: And John Washington on Friday. And then I just saw this come through. From Nate. Leonida. Which I originally booked. I don't know if they had a separate meeting, and this was a follow up because I'm pretty sure that we booked this person in D. C.
+Christopher Hume: Let me see.
+Emily Kaiser: The 27th. This Friday, 4 30.
+Christopher Hume: No, I think this is the only one we ever booked. So maybe it was just a later.
+Emily Kaiser: Maybe. I just got an invitation yesterday.
+Christopher Hume: You probably just added you to the invite. Right?
+Emily Kaiser: Oh, it's actually for April 15. Oh, no, I'm looking at a different one. Sorry. Wrong person. That doesn't make sense.
+Christopher Hume: This is.
+Emily Kaiser: Yeah. Wrong person. I just got him. Mixed up.
+Christopher Hume: Really. Know this person on quite a journey. I met with them. In August. You need a Kenny. Yeah. Okay. Okay, cool. This is good stuff. I think we just keep. Yeah, you've got already some lined up for next week, too. Great. What's going on with Martin? Have we been able to get him any support?
+Emily Kaiser: I was just going to bring him up. I haven't heard anything from engineers. Yeah, well, I know it got moved. To a different chat, like a different thread. And I didn't know if that was their way of, like, prioritizing it differently. Let's see. Moving it.
+Christopher Hume: To the garden.
+Emily Kaiser: Yeah. To the garden. I haven't heard anything yet. I'd love to give him some sort of.
+Christopher Hume: Update. Yeah.
+Emily Kaiser: So basically, it kept changing the date that patient's birthday to today's date. And then when he adds a new patient. Or when we were troubleshooting, it was anybody. He wasn't able to send forms. Basically this. He would be able to select it. And then when we would go down to send the form, it would be grayed out.
+Christopher Hume: They put in there.
+Emily Kaiser: Everything. Birthday. He put in lots of information. I saw him. We tried doing it with an existing customer, and then I had him create just a John Doe and try it that way. And I saw the date change or the birthday change to today's date. And the form wasn't able to send either.
+Christopher Hume: Did you put it in. Do you remember this was customer support?
+Emily Kaiser: Yes.
+Christopher Hume: Yep.
+Emily Kaiser: Yeah.
+Christopher Hume: Cool. Get that sorted out. And for Joe, I don't have an answer for you right now. Okay. Not the best. But, like, let's see. I seem to leave if there's anything we can do. Maybe we can sort of. Get close enough. Because, like, the thing is. The really important thing is doing the. Just getting the job bill meeting.
+Christopher Hume: So if we can, like, stretch it and be like, hey, we could do this for you. Probably. Like we. We would do a lot to get someone like him on board billing. Yeah, we would develop, like, a custom feature for him. I think he's. He works at a huge org. He only has four people signed up right now, but it's.
+Christopher Hume: It's like it would be like a game changer to have him on as a biller.
+Emily Kaiser: He did make it sound like he was kind of explaining that this just the sizing of what he currently has on his jat profile versus the opportunity. But so basically, we went through a little bit of the jot bill presentation, the slide. So he got the gist of it. He's definitely interested. He said that big hold up for him. I think I have my notes right here. Hold up for him would be specifically integration, as you know. Let me see. Go to the right page here. I did offer a free data transfer.
+Christopher Hume: Perfect.
+Emily Kaiser: That was something that was. Causing some hesitation, but specifically wants to know. We put a follow-up meeting on the calendar. In my head, it is to discuss jot Bill Moore, but he was verbal about wanting to have answers to these things for meeting again with me because he's met with Nate before. To discuss drop bill.
+Christopher Hume: So which system he wants to know. Oh, sorry. Which system?
+Emily Kaiser: Yeah, no. Which systems do we integrate with for calendar specifically? Like he wants to know how his schedule is going to be affected if he does this. The Chrome extension, if that applies for the system that he's currently using. Which I don't have a note on the system that he's currently using, unfortunately, do you know.
+Christopher Hume: Off the top of my head.
+Emily Kaiser: So calendar and schedule specifically was a concern. And then he just kept saying, like, figuring out the AI scribe, ease of use, and I was kept offering to, like, be like, okay, let's open now and check it out. And he wanted to kind of set aside some time and figure it out on his own and then come back with questions. So we went over just kind of like the updated. AI scribe assistant, but he didn't really want to, like, edit anything with me.
+Christopher Hume: So. Okay, I'll fill a little bit thought about how we can message this for him. And then we could get that to him before you're meeting in a couple weeks. The last two things from my end, Emily. Could not even tracking HubSpot right now, but that's going to boomerang around on me later this week. Could you just make sure all your deals are in there?
+Emily Kaiser: Yes, absolutely. That is something that I, when I was in DC, I wasn't updating, so I got to go back and.
+Christopher Hume: Yeah, that'd be perfect. And I just want to make sure you've had time to review the, the new comp tracker.
+Emily Kaiser: Yeah. Yeah. Everything looks good on my end.
+Christopher Hume: Let me open it up. Okay. Yep. And you don't have to do it live if you have any other questions this week. I'll make sure you got it. Received it, able to play with it. And then if you have any questions, just let me know by the end of the month. Okay. Conversation.
+Emily Kaiser: Okay, that sounds good. I did write down. Let me my notebooks on the other side here.
+Christopher Hume: Oh, boy. I'm not sure if I'm your, your guy, but do my best.
+Emily Kaiser: Okay. I was watching the grain that you sent me. And I'm wondering, are we still offering ten dollars to try it?
+Christopher Hume: For your first you? Let's do no. It's going to be the same as what we're trying for. Let's start now. Let's see if we can sell it to people without discount.
+Emily Kaiser: Like we're offering them value.
+Christopher Hume: We're doing free data transfer. If there's like a ton of pushback, if let me know and we'll come up with some sort of. It's so funny. I was just talking back about this about like, hey, what works, what didn't work. I want to lean toward no, and we can always add discount later. Once you start offering people discounts, we get kind of addicted to it. But I'm especially concerned about e-prescription. Because we don't have. We have a lot of people signing up and then like have them don't use it. I don't want us to do that again. So let's just try $69 a month. And then if there's pushback, we can adjust.
+Emily Kaiser: Okay. And then you guys were talking about a bundle pricing on that meeting specifically. I don't know if I know that has kind of all changed and is ever evolving, but I just wanted to see if that was still a thing and if that is a thing you were mentioning 249 for all inclusive bundle. What does that all entail? If that is a thing.
+Christopher Hume: Because I'm going to plead my case here that I was right at 249 is the number that was decided upon. I'm actually saw the message yesterday, but Nate was like, oh, that should actually be 299. So we can say 299, but I would like to say I checked all the records we had previously said 249. Okay, so we are offering people everything. This is brutal because I'm actually what I next I see Nate in person. I'm going to like talk to him because I don't think 299 makes any sense. But he is the boss. So we're offering for 299. That is AI scribe e prescription. Unlimited audit. EHR integration. And data and, you know, custom data and security package.
+Emily Kaiser: Data and security package.
+Christopher Hume: What is that? Custom data retention? And a BAA? Which is a business associate agreement.
+Emily Kaiser: Okay.
+Christopher Hume: I don't even care if this, this is on the record and anyone can review my grains. I'm a little concerned, Emily because that is the total price for those if you did it a la carte would be 327. I feel like 299 isn't enough of a discount to be compelling. Okay. But I'm happy to be proven wrong. But if you offer that to someone and they're like, if they balk, I'd appreciate if you let me know.
+Emily Kaiser: Okay, one more time. So that is EHR integration, data security package, jot RX. What am I missing? The AI scribe.
+Christopher Hume: And jot audit.
+Emily Kaiser: Okay. Oh, that was one thing that Joe was interested in was the analysis.
+Christopher Hume: Oh, really?
+Emily Kaiser: We talked about that three for 300.
+Christopher Hume: Bam. Okay, that's great. I'm gonna plead my case. So I was talking with Lee. We don't currently do pound reading integrations. I'm gonna plead my case to the engineers.
+Emily Kaiser: Pardon me. We don't do what?
+Christopher Hume: Calendar integrations.
+Emily Kaiser: Okay.
+Christopher Hume: I'm gonna plead my case to the engineers and see how much they're comfortable with me promising. You might need to check in. I might end up needing you to check in with him. And see what the EHR is.
+Emily Kaiser: Okay, no problem.
+Christopher Hume: Yeah, I'll tag you in that message and we can go from there.
+Emily Kaiser: Okay, I can do that. I thought that was interesting because I feel like a lot of people that I've had demos with and have talked to, they're not interested in the calendar or the schedule. Like, it's a great feature, but, like, there's never a, like, no interest.
+Christopher Hume: No interest is very interesting.
+Emily Kaiser: And so I thought that was interesting that, like, that was one of his main concerns. But.
+Christopher Hume: Figure it out. Okay. Anything else I can help you with, Emily?
+Emily Kaiser: I don't think so.
+Christopher Hume: Let me know. Oh. Let me see something. Do you. Do you have time? At three Eastern for holiday?
+Emily Kaiser: I see. Three Eastern. Is it. Do you know how long it is?
+Christopher Hume: 30 minutes.
+Emily Kaiser: Yeah, I could probably do that.
+Christopher Hume: Okay. It's just a interested Prospect. Okay. I meant to switch this over to your calendar. But. It's a meeting time where I can't change the host. So when I switch it to you, I'm gonna have to change it, like, in our website, in the application.
+Christopher Hume: So just take a second, but I'm gonna start routing these to you for our discussion last week.
+Emily Kaiser: Okay. Any update from that one guy tab?
+Christopher Hume: No, he ghosted us. So do you want to see if you can reel him back in?
+Emily Kaiser: Yeah, let me reach out. And I'm gonna reach out just for the sake of doing it to. I'm forgetting his name.
+Christopher Hume: Dr.
+Emily Kaiser: Kane. We'll see.
+Christopher Hume: Yeah, I appreciate it. That would be great if we could get it.
+Emily Kaiser: Yeah. Okay, sounds good.
+Christopher Hume: All right. Thanks, Emily.
+Emily Kaiser: Appreciate.

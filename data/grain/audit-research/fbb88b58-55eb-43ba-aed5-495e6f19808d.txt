@@ -1,0 +1,219 @@
+Nathan Peereboom: Good, Good. It's so nice to meet you. My name is Nate. I'm the CEO and co founder of JOT Psych,
+jdavis: believe it or not, in the NEI conference several years ago.
+Nathan Peereboom: Oh, my gosh.
+jdavis: Yeah. Your. Your product has saved me a lot of hours. I really appreciate all the work you guys have done into it.
+Nathan Peereboom: Yeah, well, you know, we. We've put a lot of love and care into it. We're proud of it. It's exciting, it's growing a lot. But I mean, mostly like, we're just so grateful to the people who use it and give us feedback. Jeffrey, can you. I know we met at nei, but it's been a few years.
+jdavis: Yeah. Yeah. I don't expect you to remember me. That's okay. Yeah.
+Nathan Peereboom: Well, bring me back into your world. What's changed since then? What's. What's still true? Also, I'm going to turn down this blind because it's bl. But I'm. I'm totally listening. Yeah. Tell me, are you. Are you in Colorado?
+jdavis: No, no, I'm. I'm in St. Louis.
+Nathan Peereboom: Okay.
+jdavis: And so, yeah, I have. I have kind of an interesting practice model, so I cross over. I'm a certified family and psychiatric nurse practitioner, so I cross over into both realms. And largely I use JET Psych exclusively for my psych practice. I would love to use it across my functional health and wellness space too.
+jdavis: Yeah, it just. I don't. I don't know if I've test driven it enough in, you know, my internal medicine and functional health practice to feel like it captures everything. I mean, I couldn't really comment on that. I probably need to do that in order to have any feedback. But from the psych side, I, you know, I've recently, and I'll just be honest, I mean, I've been transparent. I recently test drove a couple other products like Freed, and. And I just don't feel as comfortable in those platforms as I do in JOT Psych. I think your interface is far more friendly and it feels more like an EHR than it does simply an AI scribe. Yeah. Which is a nice thing to see. The fact that you're integrating all of these other pieces into it, it feels like it's going all the way to the EHR platform.
+Nathan Peereboom: Yeah.
+jdavis: Then just.
+Nathan Peereboom: Yeah. I mean, you're kind of reading. You're reading the tea leaves correctly. I mean, this E prescription offering is like. It's like the thing that we've been really, really jazzed about because it does allow a lot of clinics not just psychiatric, not just behavioral health, but if you do primary care, if you do things in the wellness space, It does allow you to sort of have everything. You know, we already do lab orders, we already have forms, we have a calendar, there's obviously the notes. And so what we've launched this month are our billing services and the E prescription. And the goal is, hey, we want people to feel like they walk into the encounter, they see the client, they finish the encounter and that's all they do. It's just human healthcare. It's all, all the administrative stuff that we love to do. Lee and I, we're tech, we're tech nerds. You know, we just want to all the administrative stuff in the fastest, most elegant way possible. And we want the good people who are actually doing real healthcare to not have to worry about it. That's why I started the company. I think probably at any. I told you, like my mom and dad are both in medicine and so, you know, this is a really mission driven thing for us. I would love to understand for you what feels hard about your practice right now. Like the fact that you're like looking at other AI scribes, the fact that you're interested in our E prescription. Like I guess, like why, like why are you interested in changing the way that you work?
+jdavis: Well, so I mean one interesting about my practice, I mean I'm not just in the outpatient service line, so I have, I go to inpatient hospital stays. The, the number of EHRs I have to tap is crazy. And so you know my, the bulk of, well good bulk of my practice is nursing facilities. And of course that's a point click care space and a matrix space for EHR platforms and only the only difficulty I have. And maybe it's just my some level of ignorance and how jot site works and I acknowledge that because there's so many features that, you know, sometimes you just kind of stay on the surface and you don't take a deeper dive. Some of the other features that are appealing are kind of pushing the notes into the existing EHR platform that we have as a practice. Like just rather than a cut and paste kind of like these integrative macros or integrative apps that kind of pull the data into the note without there being like a intervention per field, you know what I mean? Like yeah, cut and paste each field rather than match the fields up and then just, yeah, one button push to have the information fall into the right places. That's a very attractive feature for me because that way I can just review it. Rather than review it, copy, paste, go to the individual fields and drop the data into it. The data integration piece. There's, you know, point, click. Here is a bizarre animal. And who they allow into their space for app integrations. And then the other piece of that is, like, it's not simply getting information from the patient, but I have a lot of dementia patients where I'm having to get information from other informants. And if I see a patient first and then I go to nursing and talk to them, I'd like to be able to capture that, too.
+jdavis: And I feel like I'm. I feel like in jot. Psych, and I could be wrong. You can direct me otherwise. I know that's not the point of our conversation today, but once I stop the recording, I feel like I have to shut the encounter down. Like, I have to, like, close it, and then I don't feel like I can reopen it or I don't know how to reopen it later. Having additional conversations with somebody about the same patient, for example.
+Nathan Peereboom: Yeah, can I. Can I just show you how to do that? Because that. That actually is super, super easy.
+jdavis: That would be great. But.
+Nathan Peereboom: Okay. Okay. So when you go to a recording, you know, first of all, we always like to tell people, start with the schedule.
+Nathan Peereboom: So if I click into a recording and I go here, I can start a recording, and it'll go, go, go, go, go, and then I can end it.
+Nathan Peereboom: Oh, that was not. That was not long enough. Okay, so I'm gonna have to do this longer example. Okay. So essentially what's gonna happen, though, is once I. I think we have to record for, like, 30 seconds. I'll just explain what's happening. The encounter is the place where you log all the documents, files, words, and audio pieces that are required to, like, make a full note. So when I click end recording here, it's going to pop down below this, like, webcam thing. It's going to, like, log it at the bottom, and then you can add. I mean, we have people who do predictations, host dictations. You know, we. We have a whole way that people, like, will add in. You know, they might. They might be a TMS clinic where they walk into the room three different times, you know, between. And so, you know, what they're doing is they're turning on the recorder each time. Okay, let's see. All right. Boom. So, see, it drops down here, and then I can just click add another dictation to the session, and it starts again.
+jdavis: Why does mine look different?
+Nathan Peereboom: Can you share your screen?
+jdavis: Yeah, hang on a second. Let me just. I'm just going to create a.
+Lee Harrold: We. We have a. We have two different versions of the recording screen, and so it's probable that you're on a different one than the one that Nate is seen.
+jdavis: Sure, sure. Me figure out how to share. I gotta find the right button. Oh, I do. You have to stop. Presenting for me to be able to share.
+Nathan Peereboom: Oh, yeah, let me do that. Stop sharing. There you go. Jeffrey, while you're pulling that up, can you remind me, like, how large your practice is? Like, how many folks work with you?
+jdavis: We have 24 providers over almost 8,000 patients.
+Nathan Peereboom: Okay, gotcha.
+jdavis: Spread between. Like I said, our outpatient service line is actually our smallest. Our nursing home practice is huge. Moderate size practice at almost 8,000 patients. And then we have our inpatient side is.
+Nathan Peereboom: How many folks. How many folks around you use jot Psych?
+jdavis: Me, I've been trying to get other people to consider it because we're all independent contractors.
+jdavis: So, yeah, it's like they get obviously a great deal of choice in how they structure their practice, where I'm very aggressive about embracing technology and AI tools and things like that. But I also run the practice and I have my own caseload and I teach, you know, I teach an advanced pharmacology course and I speak and lecture. And so I have to have, like, tools to make my time more productive. I can't just sit down and spend four hours completing notes at the end of a nursing home visit. Nursing homes are an interesting practice location because one, you have a consolidated. You know, you don't schedule patients like you traditionally do in the operations. Yeah, you go in and you, you have your patient list. Yes. And. And then you're, you know, you're catching people where you can.
+Nathan Peereboom: Yeah.
+jdavis: And so you have to have that ability to kind of have a more open schedule. Like if you create blocks of time. Yeah, I get that. You can create a, you know, a 10 minute block of time for a person, but more people just operate off kind of an alphabetical list of sort of sort or room number list, you know, which is.
+Nathan Peereboom: Yeah, we see that with inpatient psych as well, where you're just. You're walking the floor. You know, you're walking the floor.
+jdavis: That's right. So this is what I see.
+Nathan Peereboom: Can I just say one other thing, Jeffrey? And then we'll. We'll look at this. We have a program where we actually will send like two of our team members out to do like a lunch and learn with teams. I don't know if you're interested in that, but what we hear from clinic owners and administrators is that it's a complete inflection moment for the practice people, like having lunch and just being able to get up and be like, hey, this is jot psych. Here are the six things you need to know about. And here's how it's. Going to make your life better. Whenever we do that, we always give everyone in the practice a free month. And what's nice is that it just allows people to like, figure like the grace period, to like, really figure the technology out.
+Nathan Peereboom: Are you, is that something that you would benefit from or you, you guys would be interested in?
+jdavis: Yeah, I mean, I've, I've encouraged, I mean, I've encouraged the practice owner even to use it and a few other people. Everyone asked me what tool you use. I say, well, I use Job Psych. I give them the link. I say, go look at it, man. I mean, I don't even expect any kind of referral bonuses or anything like that. I'm just like, it'll save you a great deal of time, especially on the outpatient side. It's just like I said, I think it's a harder sell for the nursing home people because you do have so many dementia patients that don't give you a lot of information, feedback. And the other piece is the patients are either very soft spoken or they're hard of hearing, or they're, you know, they've got kind of like environmental distractions, you know, that you have to contend with to try and capture the recording. That's a little bit of a challenge. But, you know, logistics aside, I, I still use it in nursing homes too, when I have a patient that I know is, is going to be able to give me feedback. And now I'm actually looking at hiring a person to do predictation work, especially on the med lists, because.
+Nathan Peereboom: Oh, that's cool.
+jdavis: You don't, you don't, you know, there's no integration that allows now that you guys are doing E prescribing, I can see down the road where, you know, you can take those pharmacy files and, you know, if there's any kind of bi directional exchange of information at some point and really kind of integrate that and, and I guess going down that road, you're, I'm assuming when you're doing E prescribing, you're kind of leaving the jot psych platform and going into the prescribing platform, then it goes back and, and putting that information out there because.
+Nathan Peereboom: Yeah, okay, well, okay, so, so here's, here's what I would say. I'm gonna let Lee, like, take over here because I think there's a few things we do want to show you. Let's look at the, like, well, one, if you would like. I would. I think it would be amazing for us to come out there and, you know, just do a lunch and learn. Shadow your practice. Figure out, like, the little nuance. Like, you have a unique practice and the unique changes that we could make to your templates, to your workflows, to the way that the notes, like, knit together. We can do that a lot better for you if we're in person. So if it's something you're interested in, we charge 499 just to come out and do that and have the free month for everyone in the practice. Just so we don't fly out needlessly. So it. Is that something that you want me to like, kind of kick into motion, like kind of get the schedule, like the calendars?
+jdavis: Yeah, we'll do that. We, we do a quarterly, you know, kind of get together. So we would have some advanced planning time. We could probably even get something like Dr. Syed's out largely most of March. I think he has like a few days in there, but he's extraordinarily busy and not that he would have to be a part of. I would ultimately make the decisions. But, you know, we, we are in the market for a completely new electronic health record anyway. That kind of crosses over with all of these different platforms that we have to, where we have touch points and, and you know, where, where we challenge our mips and you know, a few things that I know that you guys aren't there, but you know, certainly, um, it seems like you're pushing towards OEM certification, you know, at some point. So.
+jdavis: Yeah, who knows. But I want providers to have, you know, more quality of life, work, life balance and not spend so much time, you know, trying to complete notes. So, yeah, we can work.
+Nathan Peereboom: Perfect. So. Okay, so I'm gonna, I'll send the follow up for that. That's great. We'll come out March, April, whenever you want.
+jdavis: Okay.
+Nathan Peereboom: Second thing, I do want to just see if this has the same capability. So can you click record on this screen? I'm 95% sure you should still be able to. Okay, so we're talking, we're talking, we're talking. We probably have to do like 20 minutes of this. Okay. While this is, while this is like cooking, Jeffrey Lee is going to walk you through two things today. Okay. The first thing he's going to walk you through is, is E Prescription.
+Nathan Peereboom: We'll get you set up with that so you can give it a try. Now we charge $10 for the first month, so, so it's, you know, you just cancel if you, if you don't like the experience. The second thing though is we have a new product. I, Lee and I have been chatting on the side here. I think you might be one of the first people to get access to it. But we call it JOT Shuttle and it's the integration that you're describing. So it's a chrome extension that drops the note into your ehr, so you don't have to worry about the copy paste workflow. So Lee's going to walk you through E Prescription, he's going to walk you through jot shuttle. So you get set up with both jot shuttle. We are charging $10 a month for. So those are just two things. The last thing I would ask. Oh, and you can click pause here. Let's see if you get the recording thing. Or stop. Actually click stop and review. Okay. Boom. Okay, so then let's click. You see session request. Recording in notes. There's like a little plus there. Yeah. So click that. Okay. Actually click X. Can you click Start recording at the top? Yeah, just try that again. Okay, so that's how you add a second one. Yeah, that's really bad user interface on our side. Okay, cool. Helpful to see that. That's frustrating. You do have the capability. It's not a very easy process. We're going to take that back and we'll like push it to the, to the design team. Okay.
+jdavis: Okay.
+Nathan Peereboom: Okay. So last thing before I just like hand the baton to Lee for, for E Prescription and JOT Shuttle. Have you been using our JOT audit program?
+jdavis: No, I don't know if I'm quite ready for that. I have external auditor that I'm paying for now and I, I, well I haven't even investigated your that honestly Nathan, so. Okay, you know, I, I think I'd need to know more.
+Nathan Peereboom: Okay, well I'll just give you like the 10 second thing on it. Like basically what it does is it takes all your pair documents, it makes binary rules out of all of them and then it screens every single note by those rules.
+Nathan Peereboom: So you know, it is pretty incredible. I mean this is the thing that we feel like honestly most excited about in the software right now because what it does is, you know, for any given note you can open it up and see what your CPT codes are, but more importantly see what you're missing. So for this 99213 there's a missing explicit MDM. It's not like it doesn't actually like hold up the low versus moderate complexity selection. And so what we allow you to do is basically just come in here, you know, make the change based on the note and have a more compliant note at the end of the day.
+Nathan Peereboom: So it's, it's an auditor, but on steroids. It's an auditor that can review every note in real time and it's an auditor that also has a coding engine in it and it's an auditor where you can always update the rules and see, you know, for any given rule, where are you compliant, where are you not? So anyways, it's just something that you should think about if you ever want to learn. I'm always here but, but I do want to say that that's something we hear from a lot of folks is completely changing the way that they, they do documentation.
+jdavis: So we. Do you have a piece in there that looks for, or you know, I guess we, I don't want to say redundancy but like copy paste sorts of things where, you know, you, you don't have like a substantial change in notes from encounter to encounter, like a provider might do, you know, these, these kind of cut and pastes.
+Nathan Peereboom: Well, we, we don't have that feature. Feature because that just is never a problem in JOT Psych. Because when you're using JOT psych, you, you know, you tag a patient. Do you tag patients to your notes?
+jdavis: I don't know what you mean.
+Nathan Peereboom: When you go to make a recording, do you affiliate that recording with a patient like this?
+jdavis: Absolutely. Every time? Yeah.
+Nathan Peereboom: So whenever you do that, it's pulling the context from previous encounter forward. But it is totally like writing an original note that's synthesizing in that old context and the new audio. So we just don't hear that. Like no one has that problem in jobs. Like you're not copying, salting forward. You're.
+jdavis: That's right, it doesn't.
+Nathan Peereboom: So it's not really an.
+Nathan Peereboom: It's not an issue and so we don't screen for it. Okay, Jeffrey, anything, anything else that you are curious about on JOT audit or anything we're doing in the RCM space before I hand this over to Lee?
+jdavis: Nothing specific. I mean, I'm sure I can ask him the questions as well if something comes up. So.
+Nathan Peereboom: Okay, awesome. Okay, great. Well, I'm going to hand it over to Lee and I'm going to probably go off video. But but listen, thank you so much for giving this all a try and we're like super excited to, to come learn from you to build the software around your practice. Like, this is our dream. This is exactly what this mean.
+Lee Harrold: This means a lot. So. Yeah, this is really.
+jdavis: I feel like I might have been, you know, I don't know how long you guys were around, you know, prior to two years ago, but I feel like I was an early adopter, you know, of. Of your tools, ESP especially.
+jdavis: So, you know, I'm excited to still be a part of it.
+Lee Harrold: So cool you've been here for the ride. Yeah. Well, cool. Well, let's, let's get you set up with one of our newest editions. Eve Description Men. So you see this banner, kind of the top? You've got like setup now because setup code.
+jdavis: Do you want me to stop this and you share your screen?
+Lee Harrold: Well, no, because we're going to do it on your screen.
+Lee Harrold: But you can stop this and generate the note.
+jdavis: Okay, sweet.
+Lee Harrold: So I'll have you jump over to your practice just next to record and click the clinicians button underneath that. So the first step is to add it to your plan. So you can do that by clicking the pencil next to Jeff Davis under Active members. And so in the future as we like, add more features, this is going to be your interface to new cool stuff. So Nate mentioned Jotrx right now. Says $69. We'll comp you the difference. So expect that right after this call, but you will be charged $69, and then we'll refund the rest.
+Lee Harrold: So, yeah, once you smack that button, You can hit Save changes and we can begin enrolling you in E prescription. So what do you use right now for E Prescription?
+jdavis: Oh man, I'm in everything.
+jdavis: Four or five different things and they each have, well, headway. Doesn't have anything. But what is it? Is it called Rx Copia or Dr. First? Maybe Dr.
+Lee Harrold: First is one I've worked with before.
+jdavis: Yeah. And then Practice fusion uses I.D. me.
+jdavis: You've seen a few different platforms. Yeah. There's various levels of frustration with each of them. I can't say that you know, any of them particularly excite me. You know, I wish I had like one created, you know, multi factor authenticator versus, you know, having three one. I have to pick.
+Lee Harrold: Yeah, I feel that. Let's jump over to Practice settings. Yep. By clicking that button. And our first step is to connect to a platform called dospot. So you're going to click on that button and then put some information in about your clinic. And this, this phone number does need to be your, your phone number because. Well, I don't know. Do you, do you, do you prescribe controlled substances?
+jdavis: Yeah.
+Lee Harrold: All right. Yeah. Then you will get yet another two factor authentication.
+jdavis: Yeah, I guess. Ask me. So I have two D. I mean I have multiple state licensures, right?
+Lee Harrold: Yeah.
+jdavis: So how does this work when you're multi state licensure and you have different licensure kind of requirements. Like in Missouri I can do schedule threes, fours and fives. In Illinois I have autonomous practice authority and I can do twos, threes and fours. I have different addresses with different DEA numbers. Obviously because I'm prescribing out of different states. I've never been able to kind of wrap my head around how that would work in this single system.
+Lee Harrold: Yeah. The way that, that works inside of this system is once, once you registered, you can put in all of your DEA numbers and associate the addresses that you have in the states with them.
+Lee Harrold: And then do spot will notice that your Illinois DEA number is not capable of prescribing a certain substance if within that state it's not correctly classified.
+jdavis: So I. My main or my personal business comes out of my home address. So that's what I'm putting in.
+Lee Harrold: Okay.
+jdavis: Is that okay or should I.
+Lee Harrold: Yeah, no, that's fine. Cool. Now we're going to jump over to account settings by clicking the register button. Oh, yeah, it's great to fill that out. That a little lower on here. There's the.
+jdavis: Oh, I see you're good.
+Lee Harrold: I think it's at the bottom scroll. There we go. E Prescriptions. Watching someone else watch you type is absolutely the worst.
+jdavis: Can I register with a different, different email that what's on Jot Styke?
+Lee Harrold: Yeah, you can.
+jdavis: My fax number.
+Lee Harrold: Hey, I'm sorry, I don't think I can hear you right now. Your mic has disappeared. Gotcha. Thank you for waving the motion. I thought you were still hunting for your fax number. If you want to share your entire screen, we can take a look at your audio settings now. I can hear you. We're back.
+jdavis: Connects against my phone. Like, when some settings, I'll open and it'll want to connect to my phone. And then it gets weird. I. I guess the street address. Do I put that with my main practice. And then we set up individual addresses for the da like, is that how it works? Okay.
+Lee Harrold: Yep. So you're going to put one in here, and then after this, you have the ability to put more in afterward. So this is just like the DE numbers associated with this. This address.
+jdavis: I have to go find it, Missouri. Make sure it's right. Yeah, But I know that one. Okay. Is this.
+Lee Harrold: Oh, yeah. Can you scroll down? I saw you check one of the boxes. Probably just. Yep. Okay. Your refills and change request. Yeah. Okay. So little thing about E prescription providers is only one DEA number can be. Can have like an active refill change request with one provider at a time. So if. If you wanted to change like a refill request from an active one in one of your other systems over into this one, it's super easy. We just need to collect, like some information from you, submit a support ticket, and then you'll get an email from our system basically saying, hey, Jeff Davis, do you know jawsec? Are you sure these guys are like, you know, trustworthy? And then we'll transfer that over.
+jdavis: Oh, that. I'll change it at this point because most go through my other platform, although I'd like to consolidate all of them. That would be great. But I think what that would even look like we can.
+Lee Harrold: We can get you set up without completing this. That would be fine.
+jdavis: Yeah.
+Lee Harrold: Sweet. So, yeah, refills and change requests for existing things can stay there, but new scripts are things we can. We can prescribe for you.
+jdavis: Should this address be the one connected to this dea?
+Lee Harrold: Yes.
+jdavis: Okay. Okay. Oh, I see. So you can add. Oh, I didn't write down a zip code. Brilliant.
+Lee Harrold: We can go fishing.
+jdavis: Yeah, I know it.
+Lee Harrold: Zip code fishing.
+jdavis: Okay. And now I guess I just work on identity proofing.
+Lee Harrold: Yeah. Oh, it looks like you share. Can you share, like, either your whole screen or, like, like a link? You're good. I saw you click the button, and then I didn't see the thing that popped up. So. Awesome. So you can watch this video or you can just click X and then there are two agreements on this for you to fill out.
+jdavis: I don't need to watch this right now.
+Lee Harrold: No, you're good. You can watch it later if you want. Yeah. Follow text.
+jdavis: I know I'm giving away a lot.
+Lee Harrold: Kirkwood, Missouri.
+jdavis: Yep.
+Lee Harrold: Oh, okay.
+jdavis: My bad.
+Lee Harrold: From. From watching me, though, I was thinking Kirkwood, Illinois, credit card number. So this is for, like, identity verification. This isn't to charge you. They just want to. So they use Experian. Like the credit card. Credit score company. So this is how they'll associate you with your identity.
+jdavis: Right. It.
+Lee Harrold: All right, so this is now going to send you a text, and then you'll need.
+Lee Harrold: Yeah, I see, like, a driver's license or something. Cool. This is probably the most tedious part of the entire process.
+jdavis: Recognize it fully?
+Lee Harrold: Yeah. You've probably done this a couple of times.
+jdavis: Oh, yeah.
+Lee Harrold: You're an expert.
+jdavis: My favorite thing of all, selfies.
+Lee Harrold: My. My house has only one mirror, and I try not to look at it very often. All right. Yeah, you're all set here. So now you can jump back into jets, like. Well, actually, I think so. This. This is. This is going to tell you now to set up tfa, but for DOSA spot to know that you're ready, you have to refresh this page.
+jdavis: This page.
+Lee Harrold: The do spot one. Yep, that one.
+jdavis: So just refresh it.
+Lee Harrold: There we go. So the notification at the top right now, I don't. I don't love the way they set this up. Yeah. Now you can add your phone number and set up duo. The trick I use to keep my.
+jdavis: Oh, I guess I have another one on Duo Mobile, too.
+Lee Harrold: Oh, nice. No new app. Just make sure to name this one, like chat, psych, episcription or something.
+jdavis: Okay.
+Lee Harrold: All right, you're all set up. So next we're going to jump into Jet Psych and see if we can get a patient into dose spot so that we can see it.
+Lee Harrold: Okay, so let's go to a patient, either on the patient's page or on that encounter we just recorded.
+jdavis: So I have this patient that I need to send a script to.
+Lee Harrold: Cool. Scroll down to where it says. Oh, I see you have some. You have some suggestions from notes for diagnosis and medications. Just above those, there's a Connect for ERX button under medications. So if you scroll down to the bottom. Yep, yep. Right next to the add button.
+Lee Harrold: The button that says connect. Yep. Yeah, we should change the color so it's harder, easier to find Earth real quick.
+jdavis: Because sometimes when it doesn't. I mean, I need to be more aggressive now with making sure I put all the data in.
+Lee Harrold: Yeah, before you didn't need to because we didn't use it. Now it's useful.
+jdavis: Oh, what did I do there? I guess. Hang on one second. Come in. Yeah, I know she's on. I have to. Oh, thank. Let Michelle know that I'll be on with patient soon, so I'm running a little late. I know. Was it supposed to be at 11? Okay. Okay.
+Lee Harrold: Yeah. So we have this patient here. You can view their coverage information and you can add a prescription by clicking the plus button to the left. Oh, yeah. So that was notification about direct to consumer shipping pharmacies.
+jdavis: Oh, pharmacy. What pharmacy does she use? It's. Whoops. I love a map.
+Lee Harrold: Yeah, it's. That's really convenient.
+jdavis: So let's see. Got everything grayed out. What do I do? Just search for medication?
+Lee Harrold: I think I got into computers because I never learned how to spel.
+jdavis: Well, I have to see, I have to remember.
+Lee Harrold: Congratulations.
+jdavis: This is the cleanest interface of all of them.
+Lee Harrold: Wow, really?
+jdavis: Yeah. This is some of the interfaces I'm dealing with now is they're just insane.
+Lee Harrold: Oh, great to hear. I'm glad. I'm glad ours is a little easier.
+jdavis: It's really, really clean. So. Okay, awesome.
+jdavis: Can I show you the.
+Lee Harrold: Yeah, that's it. And now you can do that for as as many of your patients as you want.
+jdavis: Okay.
+Lee Harrold: I can go ahead and show you the Chrome extension that will allow you to export jot seg notes into your other ehrs if you want please. Sweet. So. Okay. I am currently sharing my screen. Do you see it?
+jdavis: Yes.
+Lee Harrold: Awesome. So this is it. This is a humble, humble jot shuttle. It's. It's actually like there, there's, there's a version of this on, on the app Store. So the one, the one you're seeing is, is currently going through reviews so the one I'll you tell. Give you today is a little. It's just going to look a little different, but it's the same. So quick walkthrough. I'm using therapy notes on the left here. So this is what their note page looks like. Diagnoses, objective. So this is just a standard soap note on the right, I can see all of my job psych notes.
+jdavis: Okay.
+Lee Harrold: And I can click into any of them. So this is for patient Pray Ryan. And I can see the note. If I wanted to, I could copy a section and paste it in, or even copy just like these if I needed to, or copy everything, put it into one. But that's not what we're here for. We're here for this launch button, which will scan, which will fail because therapy notes has logged me out. All right, great timing. Let's log back into therapy notes. Oh, interesting. Did it.
+jdavis: Oh, well, okay.
+Lee Harrold: Okay. So it populated it. Let me, let me clear it so we can see it happen again in real time. And kind of the way this works is it. It keeps a hash map of. You know, I've never, never been logged out mid section before. So I, I don't know if this is going to. How it's going to work, but it'll take, you know, like 10 to 15 seconds the first time and then every time after that, it'll do it pretty. Pretty immediately. So it looks like it can only find diagnostic justification from. Imagine the plan section of this note. See what it did? Yeah. This is not a great demo list of it.
+jdavis: It's not. It's all good.
+Lee Harrold: So, yeah, if when it, when it fails, fails to pass them over, it'll let you know. Hey, we couldn't find a place to put subjective. So if you have to. Yeah, you have to. But believe it most of the time
+jdavis: because I can see the crossover. I mean, that's okay because the EHR that I do work in, really nursing homes, they have like tab sections, you know, so it's like your first tab is your subjective.
+Lee Harrold: Oh yeah.
+jdavis: Second tab, you know, so you have to go entry into each tab along the way. Rather like in practice, fusion or in this particular one that you're showing, they have everything on one page and you're just doing that kind of crossover and matching the fields. So, you know, I, I would envision I would have to go tab to tab. And kind of match the fields anyway.
+Lee Harrold: That's true. I didn't. I didn't think about that. Could you. So, yeah, I.
+jdavis: I would like to make it.
+Lee Harrold: Make. Yeah, that would be great if you could show me.
+Lee Harrold: Because I would. I would love to build something that would make that easier for you and I think seeing it would make. Would help me.
+jdavis: I mean, I have to show you in the context of. And I'll bring up a blank encounter here.
+Lee Harrold: Yeah, that'd be great. You could.
+Lee Harrold: You could probably tell from this call. Mate. Mates. I'm. I'm the person who build things. So this is really, I think, where I'm gonna.
+jdavis: Yeah, you're gonna see information. I'm sorry, I don't know how to.
+Lee Harrold: That's okay. We're under a baa. And so it's. It's okay. Arsana Health. Is Arsana the name of the ehr?
+jdavis: It is, yeah.
+Lee Harrold: Okay.
+jdavis: And it's lagging for some reason.
+Lee Harrold: It looks good. I like the. I like the branding on the left. It looks very clean.
+jdavis: Oh, yeah, they're. They're.
+Lee Harrold: It's a nice user interface.
+jdavis: Yeah. So I get my patient list this way.
+Lee Harrold: Okay.
+jdavis: And then I can, you know, I can open all encounters from here so I can pick a patient like. Gotcha.
+Lee Harrold: So we'll select a patient and then.
+jdavis: Oh, this is beautiful.
+Lee Harrold: This looks so nice. So this is. This is their patient's record on the right. Okay.
+jdavis: Yep. Yeah. So this will give their demographics, but so their integration with Point Click Care, for example, they are able to extract data from that EHR into our current record. So I can see medications, for example. There's no data input on this patient, but then whatever diagnosis the facility has listed get pulled in order sets. For example, there is an HEI component. So I can go out onto the HEI and look at records from other locations and so forth.
+Lee Harrold: But yeah, show me.
+Lee Harrold: Show me where the notes like.
+jdavis: And they've only built one note for us. Facility, not end users. Let me find a different person. So this is what you kind of get here. So you'll get.
+Lee Harrold: Gotcha.
+jdavis: You'll get tabs across the top here. This is all hpi. So this is all the subjective complaint and it's kind of divided between relevant medical history and symptoms. But the symptoms is really the unlimited field where you put your hpi.
+Lee Harrold: Got it.
+jdavis: So that would be the match. There and then, you know, you can collect other data from the EHR if you want, but not necessary. Primary medical history, past psychiatric history. You can import their problem statements that you looked at before. So these are all like not fillable fields in the same way that I see.
+Lee Harrold: Yeah, they're not like free text there. Are you. Does the, does the system let you create new templates, one that could match a J outside template?
+jdavis: No, we would have to get them to create that template, which we could do. Okay, but they're, you know, they're backwards in that capacity. They have very limited capability relative to building a template. I would like to build a template that is much cleaner and doesn't. Because the providers get all bogged down with all these empty fields. They're like a nurse is notorious for. If I see an empty field, I have to fill it. Telling them like, you don't need to do that. You don't need to collect all this data every time because a lot of it, it's importable from your last visit and it doesn't change. So getting people to kind of wrap their head around that is difficult. Where the rubber meets the road for us is the history and physical. And then back here, the assessment and plan.
+Lee Harrold: I lost the page. Let me see your screen again. Okay. Okay, I see, I see. Oh yeah.
+Lee Harrold: And that's, that's completely filled with like. Yeah, you would.
+Lee Harrold: You have to create subsections that are not free text. So they're not necessarily fillable.
+jdavis: Well, they become pretext when you like open up. We want to import all these. Import data. I don't know why it's not pulling in. Prior. That's weird because I've seen this patient plenty of times. I don't know why it's not pulling.
+Lee Harrold: It's being a jerk. Very, very inconsiderate.
+jdavis: I'm not going to say this anyway.
+Lee Harrold: Sure.
+jdavis: But down here, like these are all free field text. You can put as much data in as you want. So you can list a plan under each diagnosis. You can do an assessment and plan under each diagnosis. Or what I do is I just come down to the assessment overview. That's my assessment and that's my plan. So from JOT Psych, for example, I would pull in the assessment and plan into these two fields specifically.
+Lee Harrold: Gotcha. Okay, so here, let me, let me send you this. Let me send you this extension and then you can. You can install it and see. See how it works for you.
+jdavis: Okay, so it's all tab driven and like, even the MSC is all drop downs. See, they're all like. So that would make like a capturing all that really difficult. It almost would be better if it was free form or something, but.
+Lee Harrold: Yeah. Okay, so here, here's the extension and so you can click on that and add it to your ehr. And I didn't realize the time, but I need to jump off.
+jdavis: Yeah, me too. Patient waiting. So I'll follow up. Extension and.
+Lee Harrold: Sounds great. It was great to meet you, Jeff. I'm glad you're onboarded. Talk to you later.
+jdavis: All right, bye.

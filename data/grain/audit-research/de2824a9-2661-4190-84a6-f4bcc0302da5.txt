@@ -1,0 +1,55 @@
+Christopher Hume: Hey, Debbie.
+Debbie Dunni: Hey. Hi. How are you?
+Christopher Hume: Good. How are you? Happy Friday.
+Debbie Dunni: Yeah. Yes. Thank God it's Friday.
+Christopher Hume: Almost there, right?
+Debbie Dunni: Yes, yes, yes. I have a quick question. So to clarify. So for me to make the decision. Yeah. So one do. Okay. Before we get to that. So what happens? We just like would they be willing or will you guys be migrating all the data? The no documentation.
+Christopher Hume: Not only demographic though we typically transfer all historical patient data over and that's typically a few hundred dollars. But if you would. So you would want to transfer old notes into jot psych as well?
+Christopher Hume: Yes, I would have to check with our engineering team on kind of the feasibility of that. I know we can transfer the patient information and kind of demographics and diagnoses and all of that, but I would need to check on the notes.
+Debbie Dunni: Yeah. Because that's very, very important. Remember because these are the things so the state can come like we need information for the patient for the past three years and we have to be able to give them that. Because once you move from that ehr, then it's gone. That HR is gone. So there is no way. So I need to know that that is very critical in making my. In making the decision making. That's very important. Then the next one I want to ask about is what is the pricing? We didn't talk about the pricing.
+Christopher Hume: So for our full functionality right Now, Debbie, it's $150 per person.
+Debbie Dunni: Oh wow.
+Christopher Hume: And so that's for all of our access. What I would probably recommend is starting off on our AI scribe only. So if you're only using US as an AI scribe, we're $100 per month per person.
+Debbie Dunni: Okay, now let's come back there.
+Debbie Dunni: So 150 is for. What does the 150 entails?
+Christopher Hume: Yep. So that's full access to all of our features. So that's the AI scribe, the forms.
+Debbie Dunni: That is everything but the one for $100 does not involve all these. It's just basic. So no access to forms or what for the $100 a month?
+Christopher Hume: Yep. For the hundred dollars a month. It's just the recording and the note creation features.
+Debbie Dunni: Note creation. Okay. Not creations. And the AI.
+Christopher Hume: Okay.
+Debbie Dunni: Okay. So but can we like. I need the information for the transfer of data. Yep.
+Debbie Dunni: So if they will be able to do that. But now even let's say. Because like this, 150. So if you have a lot of prescribers. So you are still paying that. Because I know for the other ehr, they told me.
+Debbie Dunni: Yeah, maybe the first prescriber you pay this amount, then the subsequent one. So it goes like that. Like that, like that. Essentially. Excuse me. Especially if you're looking at between 10 to 15 or 20. Prescribed. I mean prescribed.
+Christopher Hume: Do you have prescribers or providers?
+Debbie Dunni: No, provider.
+Christopher Hume: Sorry. Okay. I was going to say our, our prescriptions is a whole different thing. That's provider provider.
+Debbie Dunni: So if you are getting stressed there. Yeah. So if you are. Because that is what some of those EHR that I've reached out to, they told me the first providers which charge you this amount, then the next one. So because they're looking at the volume. So we're talking about between 10 and 20 providers. So it goes down like that. So rather than just like okay, the first one, we pay this 150. So everybody pay 150. And I mean I'll just share that with you.
+Christopher Hume: Yes, Debbie, I just wanted to show you. We actually do. And I should have said this, we do have a discount. Once you get over seven providers where it drops down to 130 per person per month.
+Debbie Dunni: I'm sharing. Then you go back to the sharing too. Then if you sign two years contract, it goes back to 104.
+Christopher Hume: Yep. And that is typically paid upfront. So you pay for the your provider's access for two years and what it comes out to is $104 per month per provider.
+Debbie Dunni: So but you have to pay that amount upfront.
+Christopher Hume: Typically. Yes.
+Debbie Dunni: Okay. So but the other monthly one, the monthly contract will be 130.
+Christopher Hume: Yes. As long as you had more than 7%. Providers, which I know you do.
+Debbie Dunni: Okay, okay. Okay.
+Christopher Hume: So Debbie, can I make a. Let me share here. Can I make a suggestion on next step? So I need to get you an answer on bringing the notes over. What is your current ehr?
+Christopher Hume: Icanotes I can notes. That's right. So I'll see the feasibility of integra of exporting and then moving those in to job site and there might be a small fee associated with that. And then the other thing that I would love to help with is I've seen a lot of your providers haven't made notes in job site yet. And while you're making this decision I want to make sure that you're able to try us and have that experience.
+Debbie Dunni: Naturally we try to play around it yesterday I believe yesterday to kind of do like assessments. Yeah. So because the major one would be for the notes in terms of the assessment and the treatment plan. So we tried to play around it yesterday but in terms of the note writing I don't think that's a problem. It's a challenge because they've. Because a lot of the providers they also use other ehr like the other area. I mean other places they work hard so they have there so they don't have problems. So it's not like a challenge for them to use it. So that's why if you see like they know they put the difficult ehr, they've used it in the past. So this is not going to be a challenge for them. So the only one that will are trying to. Yesterday we tried to play around it was the forms. Forms, you know, to upload the forms uploaded. Yes. I believe Ivy and Maria tried to do that yesterday because I was so really like busy yesterday so. But we kind of looking into that. But I don't think that is a challenge for my staff. Yeah, they wouldn't have problem with that. So we just have to know if they can export those data, you know, export those data for us. So if we do that then we pick it up from there to talk about the pricing. I already have idea what the pricing looks like. But we still see what. What we can come up with.
+Christopher Hume: Perfect then.
+Debbie Dunni: Yeah.
+Christopher Hume: Debbie, I will get you an answer probably first thing Monday. Is there any other information I can get for you? Is there anything else you need to help make this decision?
+Debbie Dunni: No, he just does it. That's. That's just it. If they can do that for me.
+Christopher Hume: Hello, Mr.
+Debbie Dunni: Mike? Yes, can I call you? Yeah, can I call you back real quick? Okay. Thank you. So, like I said, once I get that, then I can tentatively make my decision. If you give me the report by Monday, then I'll make the decision. Monday.
+Christopher Hume: Okay, perfect. Then I'll get with our engineering team, see what they've done with ICANN notes in the past to get you an answer. And then, yeah, we can chat on Monday over email, or we can set up another one of these meetings just to kind of what that final decision is.
+Debbie Dunni: Absolutely perfect. Okay.
+Christopher Hume: Well, is it as nice up in Baltimore as it is in D.C.
+Debbie Dunni: baltimore is fine.
+Christopher Hume: It's. It's beautiful today. The.
+Christopher Hume: It started off rainy and gross, and I just walked outside before this meeting. It's beautiful. I couldn't believe.
+Debbie Dunni: Yeah, it is.
+Debbie Dunni: I mean, yeah, the weather is not really bad. I mean, almost a week, so.
+Debbie Dunni: Yeah, a few weeks ago, pretty bad, but nice today. Yeah.
+Christopher Hume: Thank you. Thank you so much. Good luck with your training.
+Debbie Dunni: And I'll be in touch on Monday morning. Yeah, sure. Absolutely. Thank you, Chris. Have a good weekend.
+Christopher Hume: Yes, you too. Bye. Bye.

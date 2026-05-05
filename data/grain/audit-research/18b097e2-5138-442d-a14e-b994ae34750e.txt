@@ -1,0 +1,78 @@
+Jon Baer: Big week. Yes. It is not fair.
+Christopher Hume: How are things going?
+Jon Baer: Good.
+Christopher Hume: Okay, good. So I think today we just love to walk through what's going on with our flow. I think like, let's just start like qualitatively. Do you have any feedback like, hey, this is working. This is not working. This needs to change from your end.
+Jon Baer: The only. I mean, pretty much like what we talked about like last time. I would, I would say, I mean like the definitely like the, the audit risk is good, you know, for people to listen to. Some of the, like I said, some of the flows after know the emails that go straight into like the call stuff and like right back on the list.
+Christopher Hume: Has that not been fixed? Because I thought, I, I wonder if that only changes for new enrollees. Because I think. Let me double check. I have it up right now.
+Jon Baer: Okay. That may. That could have been it. I haven't like noticed anything, but I will say so. I've got my. The last people. I have emails out that are going to be today and then everyone. The hundred people, right? Is that how much we started out with?
+Christopher Hume: It was a little more than 100? Yeah, something like that. Yeah.
+Jon Baer: Okay. Should be like all done, I guess, like, like after at least everyone should be in, in a sequence. So sorry it took a little bit longer than I expected.
+Christopher Hume: Nuts. Um, but we've gotten good insights here and like we have the start of something. I'm pretty excited that we got the two meetings. That was kind of enough for me. And the fact that it's also helping us build a little pipeline with the people. At least one person who's like, follow up later, I think.
+Jon Baer: How did that go? Was that, was that decent? The hygiene? Which one?
+Christopher Hume: Yes. Yeah, yeah, yeah. They. They're between us and one other vendor right now. They. I mean, it's crazy, right, how this cold stuff works. Like, we reached out, she read us, we had a colleague or a like colleague talk about us and then she clicked on your email and booked. It's like crazy timing.
+Jon Baer: Yeah, yeah.
+Christopher Hume: So that one went well. I have a follow up next week. We'll see what happens with Eric Paul. That's in like what, an hour?
+Jon Baer: Yep.
+Christopher Hume: He confirmed that earlier this week, right?
+Jon Baer: Yeah, he sent an email. I. He didn't like confirm via, but he sent the email, he said 2pm still works okay on Wednesday for me, so. Perfect.
+Christopher Hume: It seems like the big issue, John, is just like quality of number is. Does that sound right to you? Like, I feel like so many of these numbers you've been using have been.
+Jon Baer: Yeah, I mean I've been sending you them as I go. Like some I sent a little bit later because it was just like straight busy signals and I was like, maybe they are.
+Jon Baer: Maybe it just is busy. So I'm just gonna wait until the next round.
+Jon Baer: You know, I'll try to do like two or three calls and I'll be like, all right, maybe they're just busy or something. So I'll keep it going and then I'll send the matches. Yeah, I've had some of that, you know, some obviously email kickbacks kind of power of the course. You know, it's, it's not, it's not odd. I, I think in with within true outbound B2B and the more you scale, the more you have, the more you're going to have wrong, you know, information as well. You just kind of, you know, it is what it is. I think maybe on some of those even if, maybe we go try to find them on LinkedIn, maybe send like a DM or a DM video or something and. But yeah, okay.
+Christopher Hume: The other thing that I'm having Emily and Jack run right now is we have a list of all of the b, the solo providers who are licensed in the US and we are right now pain on their clinic numbers to see. Like, okay, like it's a small clinic, like do they really have a receptionist? Are they really going to have phone trees? Like who are we going to be able to get in contact from with? So they kicked that off this morning and so if we see any success there, we're just going to have a top of numbers at least for those smaller, like I don't know, one to five, one to three person clinics that we can push through this sequence. So we need to give them wait, I don't know, as soon as they start booking meetings, like I'm just going to start giving you those numbers too. But I just want to make sure we keep kind of the streams separate so I can like actually look at the metrics and see what's going on and what worked and what didn't work. But just so kind of you're aware of how I'm thinking of building moving forward. We're get. We have this list of all the providers, all the clinics. We have a way to enrich it and I just need to see if we can get meetings booked. And once we can, we're just cranking that up.
+Jon Baer: Cool.
+Christopher Hume: So it looks like you still.
+Christopher Hume: I guess everyone is still in sequence, technically. Is that gonna. Is that going to be enough? Sort of. I mean, I'm still trying to learn, like. Yeah, like, bandwidth and how much time this all takes. This is a significant amount to keep you kind of busy chasing for at least, like, a few days. Right? I know we're not adding Pipeline, but, like, if I don't give you a new lead list until next Wednesday, well, you still have plenty of time. Fine.
+Jon Baer: Honestly, I'm moving a lot slower than I thought I originally was. And that's just like, you know. You know, on me, I'd say even like these last, like, three days, I've probably got like an. An hour a day. You know what I mean? And so it's just been. Because on this side, it's just been really busy right now, and then I'm helping, like, train, so I'm hopefully gonna kind of get out of that soon. But yeah, for as far as me goes, yeah, this is.
+Jon Baer: It's fine for right now.
+Christopher Hume: This is. Yeah, that's perfect. That'll give us just a little bit of flexibility to see, like, what our lead solution is or. Excuse me, our prospect solution.
+Jon Baer: Yeah.
+Christopher Hume: And then we can go kind of apeshit in the next, like, week and a half is my goal.
+Jon Baer: I don't know.
+Jon Baer: Have you ever looked at like. Like a nooks or anything either as well? Have you heard? So they're like. They're Power dollar, technically. Um, but. But. So we used to use it back at, like, my old place, but I could essentially rip like 80 calls in 20 minutes. Really? So you call. You can call five numbers at once, and then the first one that picks up, right. It drops all the other calls and then you're on. You're on that. But it's. It just filters down through like, a list of like. So you could put like a thousand num. You know what I mean? A thousand numbers. Or you could actually have them. They'll integrate within HubSpot. So if you put them in sequence, then you make all your calls to a nooks, but you can call like three to five, one to five people at the same time. And then the ones that don't answer, it just drops off and goes to the next one. And then if they do, then the other kind of hang up and they go into like, a little queue and you can redial those like, after. Um, but it was like.
+Christopher Hume: And it integrates into HubSpot.
+Jon Baer: Yeah, yeah, it'll integrate to any. Any CRM, but as far as, like, the outbound motion. And it's pretty cool because they. They. You can end up in like, in pods, right? So like, like, even, like me, Jack and Emily could dial kind of with each other. And then when somebody answers, they get taken out and they're on like, their separate, you know, separate one.
+Jon Baer: Yeah, but you can see them. It's like hopping on a zoom with everybody and then even us. Like, even if we paused our dials, like, we could hear the conversation to see, like, how the pitch goes and everything like that. It's. It's a really, really cool tool. Maybe just something to look into as you think about, like, building out what we're going to. What you're going to start doing.
+Christopher Hume: Yeah.
+Jon Baer: And do it. You can almost do like a rapid, rapid pace with it in a way.
+Christopher Hume: Well, I mean, we have so many phone numbers right now, and some of them are going to work if you call clinics. I know it's not ideal to not have direct lines, but that's really interesting. I'm going to look at this. I have it up right now. Thanks for flagging that other question for you, John. Oh, go ahead.
+Jon Baer: I was going to say if, if, if you ever are interested or just learning or just taking a demo or having some questions, I have a rep that I know there that I'd be happy to, you know, introduce you to.
+Christopher Hume: Yeah. I'm going to do a little research and then I think I probably in the next couple weeks would like a demo as we scale this up. I guess my other question, Jack, is do you have any experience with the DNC list and like, how people like, oh, cold outbound teams integrate? That. Was that ever something you guys considered at your older jobs, like do not call?
+Jon Baer: Like. Yeah.
+Christopher Hume: You know how to stream that? Yeah. The national do not call list.
+Jon Baer: I'm not sure on that. And I. It was more of an individual, like, scale. So if someone's like, please take me off your call list, like, we could do that.
+Christopher Hume: Okay.
+Jon Baer: But we could still send them emails, you know, so we would just click a button like, you know, do not call. So it would, you know, we couldn't call when it popped up, but we just see, you know, just send emails. But.
+Christopher Hume: Okay. Last thing I just want to do today, John, is just go through deals we've got chugging along here. I think we're in a good spot. Facing him down. Facing him down. Mine is good. These are all. I think. Yeah. I guess the only one, John, is. Do we want to try and get this one back activated?
+Jon Baer: Sure. Joel Lyons.
+Christopher Hume: Yeah. Yeah. Let's just see. I don't know if you could just into your.
+Jon Baer: Yeah, he. He's one. I gotta. I gotta hunt back again.
+Christopher Hume: Slippery guy. Slippery guy.
+Jon Baer: Everybody else. And then valid health, I guess might be one I can.
+Christopher Hume: Yeah. And if somebody. You're like, hey, they're like never gonna. You can just move them to.
+Jon Baer: I.
+Christopher Hume: I started.
+Jon Baer: I started to move some to the. The. What was it? Closed, lost.
+Jon Baer: Closed, lost and returned to later. Yeah, I might maybe the. Let me. Let me try ballad and pro family again.
+Christopher Hume: Wait, there's one more that I just. We have. Give this one back to you.
+Jon Baer: Is that Lance Moyer or.
+Christopher Hume: Yeah, Lance Bender. Lance Bender. Let's see if we reel back in.
+Jon Baer: Okay. Yeah.
+Christopher Hume: Well, anything. I know. John, you said you're not available on Friday this week, is that correct?
+Jon Baer: Yeah, I'm gonna be out and then. And then Monday as well. I'll probably be out. I might get a few hours in like later in the day, but we'll see.
+Christopher Hume: Good.
+Christopher Hume: Doing anything fun Little.
+Jon Baer: Little staycation with the wife?
+Christopher Hume: Yeah, it's very fun. That is awesome. Please do not consider or think about cold outbound. Okay. Well. Oh, that's awesome too. Super Bowl Sunday. Yeah, it's start Monday. Good stuff.
+Jon Baer: Yep.
+Christopher Hume: Well, I will slack you if anything comes up, John, but I think for the next. Yeah. Week or week and a half, let's just stay the course. Let's run through the sequence. Let me know if you have any kind of inspiration or if there's something here. Do you think we need to change and yeah, we're gonna. By the time you get through this flow, we're gonna have a bunch of leads to give you.
+Jon Baer: Awesome. And then the only other thing that I would think within the flows is I think we talked about a little last time is like maybe some flows based on Persona.
+Christopher Hume: Yeah.
+Jon Baer: And really only like the. I would say like the first email is. Is probably that's the only thing that might be a little bit different. Everything else is like pretty good.
+Christopher Hume: I think we need to have different based on Persona and then also based on like stage and their relationship with us because you know, we're going to start having like people that we. You connected with but they weren't ready. We need to bring them back in and we need to have another sequence for them. So that's actually like a whole project I'm giving one of our interns is to start to sort this stuff out because yeah, we're going to need update and like have more flows.
+Jon Baer: Yeah, yeah, yeah. The good news is at least we got the reconnect one. So like.
+Jon Baer: Yeah, that, that, that actually worked really well with a in the beginning. So.
+Christopher Hume: Okay, I'll let go, give you some time back in your day. But if you need anything, John, you know how to reach me.
+Jon Baer: Awesome. Thanks Chris.
+Christopher Hume: Thanks.
+Jon Baer: Bye.

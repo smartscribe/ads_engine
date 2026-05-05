@@ -1,0 +1,71 @@
+Jon Baer: Can you talk again?
+Jon Baer: Hey, what's the matter? There we go. Good. How are you? Happy Friday.
+Christopher Hume: Okay, so how are things going?
+Jon Baer: A couple wrong numbers? I'd call someone picked up. It wasn't them. I had talked to someone today. From the other list. She finally picked up. And she was just a lot and she was pissed. She was. Yeah, yeah. She was just like, why do you keep harassing me? I was like, I'm sorry. Well, you answer your emails.
+Christopher Hume: It just said stop.
+Jon Baer: Yeah. Yeah.
+Christopher Hume: Yeah.
+Christopher Hume: So could you just fly through his DNC?
+Jon Baer: Yep.
+Christopher Hume: Ah, cool. So I was trying to run some analytics. And my like kind of AI slop analytics for saying you had like 60 calls in a row where no one picked up. Is that true?
+Jon Baer: Yeah.
+Jon Baer: That was the other day. It was actually 58. Yeah, 58 calls in a row. Right in sitting. And no, that was last week.
+Christopher Hume: Have you checked your number recently?
+Jon Baer: No, but I know it's fine. I know it works.
+Christopher Hume: Could you like just call me? I want to see what it, what it comes up as.
+Jon Baer: Yeah. I've tested it before and it wasn't spam or anything.
+Christopher Hume: Sometimes they change though, I've noticed.
+Jon Baer: Yeah, I almost mentioned that last week on our call, but then I was like, I didn't.
+Christopher Hume: Yeah, that's tough. That that really makes it hard to convert to make this rational.
+Jon Baer: E.
+Christopher Hume: Like what when you're not getting people to pick up, is it ringing and just not.
+Jon Baer: Mix, you know, some just go straight to voicemail. Some, they just don't answer. Some. It, it rings and then yeah, it brings and then just stop some. It's like, please say your name and you know why you're calling. And then I can tell when people just hang up on it or not.
+Christopher Hume: I'm sorry my number is 203. 46. 1344. That's freaking crazy, dude. I'll pick it up so you get credit for not being spammed.
+Jon Baer: I'll do the other number as well.
+Christopher Hume: Just yeah, let's just double check it.
+Jon Baer: But like a lot of it. I'm starting to use the other number a little bit more just because that lady, the other number and she. Was. Leave me alone. I mean people are getting calls, I guess,
+Christopher Hume: you know, the calls are going through. It. I think I'm going to suggest John is.
+Jon Baer: A new one this morning that answered just no interest.
+Christopher Hume: Okay, let me see, because these are like pretty. Tough. Numbers. And I think like Nate is probably going to be looking for like a definitive decision on what we do here. Probably by the end of next week. Let me see.
+Jon Baer: Never find out. Also want to figure out how many people. That. In the sequence.
+Christopher Hume: Yeah.
+Jon Baer: Have you, because how many people have we put the provider one? I've only, I'm only in the admin right now.
+Christopher Hume: Yeah, let's just do all admin and see. Even if we have to kill some of the people from your old list, I think that old list is pretty shitty.
+Jon Baer: Oh, well, I started honestly, I started skipping some of them. Some of them like people I just know weren't going
+Christopher Hume: to, you know what I mean?
+Jon Baer: Yeah.
+Christopher Hume: So I think we kill those. And then like let's just see how many, let me actually, let's just see how many calls we can do. Like sure what is your schedule look like next week?
+Jon Baer: I mean pretty. I mean.
+Christopher Hume: It's like, you know, everything. Kind of. Because if we could front load and just get some extra people in maybe like Monday, Tuesday, Wednesday, I just think if we're going to need to have like a pretty sizable call volume to kind of present the Nate by this time next week, I think we're only at like, it's only a few, I don't know, what, 30 or 45 who are in the flow from the new list.
+Jon Baer: Yeah. And then I got, I got like another. Like 15 or 20 going in Monday and then like another 10 going in next Wednesday. I already like parse them out. They're just not in yet.
+Christopher Hume: Okay. Yeah, let's just see. Yeah, you know your band was more than I do. Does any way to get extra in? I think Monday, Tuesday next Monday, Tuesday, Wednesday would be the days to do it.
+Jon Baer: But like, and honestly like I can just like. Instead of like putting them in. Flows as well. Like I could just call them. Or put them in like just call only flows or something. I don't know.
+Christopher Hume: Well, I'm kind of wondering is like do we want to, if I just adjust the. Sequence.
+Jon Baer: It just helps having something to fall back on, you know, on the outbound. Like it just makes it a little bit easier like, hey, does like my name or, you know.
+Christopher Hume: Yeah. So I think we still definitely want the first team, the first email.
+Jon Baer: But I think, I mean, I'll put them all in today if you know what I mean. And that way they all go to step two to call for Monday. And then that way I just have a ton to rip out. Why don't I just do that?
+Christopher Hume: Yeah, let's just before we do that, John, one thing first, just so we don't make your life complete hell. Is so we definitely want this first email. I think it gives you something to fall back on. We'll do call, call. Maybe we just.
+Jon Baer: Changed a lot of like the emails on the first ones. To be, to be honest with you. But I like, I've also had like. You know, I was just looking, you know, today at some of them, like I've had some people click like four times, five times, you know, so it's like.
+Christopher Hume: How about we do this? I think like we're not going to make it. Through. More than the first like, like what if you put in everyone, we're not going to make it be the first four steps anyway. So I think I'm just going to add one extra call before these emails. So you'll have one email, three calls. And then it's just a normal flow. So it's just when you put all these people in, it just gives you an extra, an extra call. That you do like call, call, call, call, call. And it just allows us to like figure out like, hey, are these numbers just completely garbage or have we fixed that. And we're back on, on track. Let me just do that right now. So this is just through all admin staff too. That's what I think our best set is going to be. This thing. And we're just going to get rid of this. Do you want me to leave the one business day delay between the first email and first call?
+Jon Baer: I like that.
+Jon Baer: I like to use the leg. Honestly, it might help too if I'm going to throw all these people in.
+Christopher Hume: Yeah. So you can do it today and then you can do all the calls on Monday.
+Jon Baer: I can show you. Like. Like I'll send you. It's like this is what I've been sending to like, like the owners. There's like their first emails because I've really been trying to push the jot.
+Christopher Hume: Bill. Yeah. The email starts with high on the AI assistant. No, no, no.
+Jon Baer: And then the bottom one's a follow up. So that's a second email that goes out.
+Christopher Hume: I kind of love that job. Has have we gotten any traction there?
+Jon Baer: I mean, I've, I've gotten some, I've gotten some looks. And things like that. But that like that's what I've been sending those out to owners. I mean, I've been sending a little bit different if they're like PNMP. But it's just kind of, you know, and if they're like regular office admin, I've been kind of sticking to this. Sometimes I'll just, you know, instead of like practicing your area, I'll just click on them and I'll find the area that they're in just so I can say like, hey, the Austin area, you know, or whatever. Okay. Yeah. Just to give you like a heads up, like kind of like what I'm using.
+Christopher Hume: Um, yeah, no, no, that actually looks really good to me. Um, yeah, I would say, John, I want you to have a lot of autonomy. So when you tweak it for people, that's great. But yeah, let's just see if we can get. Some calls Monday, Tuesday, Wednesday next week. Just churn and burn. And then we can, I think it'll just give us a better picture for Nate on Friday.
+Jon Baer: Okay. All right. I'll get, I'll get them all
+Christopher Hume: and feel free to kill all the old people.
+Jon Baer: Jesus, that's me out of context. I'll have them go through. I'm just going to probably, I'll skip them.
+Christopher Hume: Okay.
+Jon Baer: Yeah. For the most part. And then I'll figure out what I want to do with the emails because that's, that's another thing when you get the big lists and you have to
+Christopher Hume: like, and you have to do the delays.
+Jon Baer: Yeah. So, but yeah, yeah, I'll, I'll, I'll rip it and see what we can get. At least, yeah, see what happens.
+Christopher Hume: So, okay, we'll let it. I need to run. I'm meeting at two and I need to go to the bathroom first. So if you need anything before then. Oh, did you see the collateral I made? Yeah.
+Jon Baer: Yep, I saved them. Okay, cool.
+Christopher Hume: If you need anything else, let me know. It'll take me five minutes for, for basically anything at this point.
+Jon Baer: Nope, should be good. Thank you.
+Christopher Hume: Later.
+Jon's Notetaker: Later.

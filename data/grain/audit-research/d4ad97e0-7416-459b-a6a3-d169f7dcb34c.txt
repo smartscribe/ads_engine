@@ -1,0 +1,242 @@
+Christopher Hume: Hey, what's going on, Harry?
+Harry Campbell: How you doing?
+Christopher Hume: Good. Great to see you again.
+So chat tap2chat: Okay, Let me see if I can go. I'm trying to log into jot. Maybe you should try, too. Oh, no, that's not working. Wait. Josh. Tech. Com. Let's see.
+Christopher Hume: Yeah. Harry, if you have access to.
+Christopher Hume: Your computer might be helpful. To log in just so we can make sure everyone's account is up and running.
+Harry Campbell: Okay, login information.
+Christopher Hume: I'll restart everyone's trial. Or on call here.
+So chat tap2chat: So it didn't remember my email and password. So I don't know. It's a bad thing.
+Christopher Hume: Let me see. The email you use with hyinhealth at gmail com.
+So chat tap2chat: Correct.
+Christopher Hume: Okay? So if you don't remember the password, you can always press the forgot password button, which will be a little beneath.
+So chat tap2chat: But I don't know. Why? Okay, let's just do for power. Then. All right. Let's just get in here. Over this way. Over here. Reset password.
+Christopher Hume: And Harry, how are things going on your end?
+Harry Campbell: Logging?
+Christopher Hume: Wonderful. What we'll use today for. I know we sort of walked through a lot of this last week and week, last meeting. And I think if I remember correctly, I put you on the spot and had you record a session. So we'll do is I'll just quickly walk you through the features again. We can go through together, make sure everything looks good, and then just talk about how I can support you during these next two weeks during the kind of more formal trial period, because. Louis.
+Christopher Hume: Harry, you're on vacation last week or the week before.
+Harry Campbell: I wish I was out of town, working.
+Christopher Hume: Out of town? Excuse me? You're out of town.
+Harry Campbell: I was working, but I was out of.
+Christopher Hume: Yeah, not quite the same when you're traveling for work. Doesn't have to say I'm relaxing. Have you been able?
+So chat tap2chat: Perfect.
+Christopher Hume: So I think first thing here, Denise, would you like to be sort of the supervisor administrator for Harry, so you can kind of see his notes and all that stuff? And then if we add anyone to the group, you're kind of overseeing everything.
+So chat tap2chat: Yes.
+Christopher Hume: Okay, let me set that up.
+So chat tap2chat: You said add someone to the group. What do you mean, add who?
+Christopher Hume: Just in the future, if you'd ever like to add another provider who's taking notes.
+So chat tap2chat: Add another provider? Yeah.
+Christopher Hume: Let me set that up while we're on the call.
+So chat tap2chat: Would I ever be able to be, like, an administrator for all the people in the practice that use, or do I have to go through somebody at jot?
+Harry Campbell: In terms.
+Christopher Hume: We could set you up as an administrator. So we could set you up as the supervisor, the practice administrator, the billing administrator, whatever kind of roles most accurately describe you. We could make sure that you serve that role for everyone on the team.
+So chat tap2chat: Okay?
+Christopher Hume: Harry, I'm going to add you to her group right now.
+So chat tap2chat: This is good. Hammer is big. Everything. The abuse. Substandard, so we haven't really put into evidence. No, sir. I'll just get rid of it.
+Christopher Hume: No worries. So we typically have a presentation here, but I know Denise for you. Especially since you walk through this once with Nate, once with me. I don't think that's a super useful use of our time, so I think probably most useful here would be. I'll walk you through JobSec again. We'll just, Harry, give you the ins and outs to get you up and running the recording. The reviewing your notes, the editing your notes.
+Christopher Hume: And then we can touch on some of those more advanced features like billing and document generation. That's probably not something for this week. And then we'll just say some time at the end for any Q and A or anything like that. Does that sound like a reasonable path ahead here?
+So chat tap2chat: Sounds like a plan.
+Christopher Hume: Perfect.
+So chat tap2chat: Let me just jump for a second so it looks like it says, create your first patient. So I would tell my staff to look at my calendar and load all this information, right?
+Christopher Hume: You mean load all the patient information?
+So chat tap2chat: I guess it can't record anything unless it knows the name. The first name, last name. Identify. Why is that on here? Is that if you're using the EHR or. I don't get it.
+Christopher Hume: No, That's a great question. So some people, most of our customers do input the names because then you see Chris Hume this week and you see Chris Hume next week, next week's note. And then take context from this week's note. And so it remembers the patient, builds an overview. It has more robust text. Aware documentation. And so what we typically do for groups when they come onto jotsyc is we can do a data migration with our engineering team so they can take that information from your ehr, repopulate your patient names and all that good stuff so that instead of having to type in each patient the first time, you have to input all the information. You just select them.
+So chat tap2chat: Okay?
+Christopher Hume: So just to review here. Record scout.
+So chat tap2chat: Psych.
+Christopher Hume: We either record button up top.
+So chat tap2chat: Select your template.
+Christopher Hume: I think I have the updated view. So Harry, you'll see on the left hand side of your screen where you select your template, say soap. Note.
+So chat tap2chat: Select your patient.
+Christopher Hume: Bruce cahill.
+Christopher Hume: And then you just press this record button.
+So chat tap2chat: On your screen. Where'd you get Bruce from?
+Christopher Hume: Oh, Bruce.
+So chat tap2chat: He was already loaded in there.
+Christopher Hume: No. So I selected the attached patient button. Harry. On your screen it might say select patient, and then I selected Bruce.
+Christopher Hume: Or I could have looked at the patient. Too. Say, chris. And if you had someone new. You could press this plus button.
+So chat tap2chat: Harry, I hope you're getting this because you're going to have to show me.
+Harry Campbell: Trying to follow.
+Christopher Hume: Harry, it would be more helpful not to put you on the spot again, but I'd be happy if you want to share your screen and I can walk you through. I know sometimes that's more helpful. Whatever would work best for you.
+Harry Campbell: Okay? I could do that.
+Christopher Hume: Yeah.
+Harry Campbell: All right, so let's see. How do I share my screen? So where it says. Christopher is presenting. Do I do something there?
+So chat tap2chat: Okay, cheers.
+Harry Campbell: Is this the right screen?
+Christopher Hume: Looking great, okay?
+Harry Campbell: All right, so from here am I going to clients?
+Christopher Hume: From here, I would go to record.
+Harry Campbell: Record. Okay. From here. Okay? All right. And then am I supposed to select one of these?
+Christopher Hume: Select session, type.
+Christopher Hume: And then you can choose from the drop down.
+So chat tap2chat: I think it was okay that what it was. Soap therapy now?
+Harry Campbell: Okay?
+Christopher Hume: And then on the right hand side of your screen, Harry, just press that start recording button.
+Harry Campbell: Let's see. This is covered up with stuff. Let's see. Hang on a second.
+Christopher Hume: Big purple circle.
+Harry Campbell: I think it's just covered up with some of the Google stuff. Hang on a second.
+Christopher Hume: It's coming up with my face, probably.
+Harry Campbell: Yeah, it was totally covered. All right, here we go.
+Christopher Hume: This is why we together, okay? Could you press the gear? That's above the start recording button. And let's just make sure we choose. Oh, my goodness. Microphone. Then let's press start recording again. There we go. And, Harry, thanks for seeing me today. I really appreciate it. I won't make you go through a full session with me, but we'll just make sure the audio is working.
+Harry Campbell: Okay? So we want to just check in with you and see how your symptoms are going with your anxiety today.
+Christopher Hume: I've actually got a little better. They're down from a 9 out of 10 to a 7 out of 10. And we can press stop there. Put you on the spot last time. Don't need to do it. Two in a row. Perfect. So if you scroll down.
+So chat tap2chat: You'll see.
+Christopher Hume: That little section is saved. And now you can generate the note. Will be a little bit goofy because we only had about seven seconds of audio. I'll show you how the process works.
+So chat tap2chat: And by the way. We have massive amounts of ammunition to have the high end. Products either the way stupidly.
+So chat tap2chat: I'm very stupid for free. And I'm also.
+So chat tap2chat: What are those prompts there that talk about discharge, summary, ESA letter. What is that?
+Christopher Hume: Yep. So jot Psych can generate documents for you. So these are some of the advanced features I was talking about. If after a session, you're like, oh, my goodness, I need to refer Chris to some other specialists. I need to develop a discharge summary. I need to develop some sort of workplace accommodation. You could push document button right in the middle of that floating bar. And ask it to generate any sort of document for you. If you push that right there, Harry.
+Harry Campbell: Okay? Should I select one of them?
+Christopher Hume: Yeah. Let's just see how it works. This is one of my favorite features. It's like magic to me as the non technical guy.
+So chat tap2chat: But it was given away to Ukraine.
+Christopher Hume: Then any changes you need. You can just put those on the left hand side in the chat.
+So chat tap2chat: Box.
+Christopher Hume: Okay, you can x out of this.
+So chat tap2chat: Harry.
+Christopher Hume: Just what I wanted to flag for you. Is on the right hand side, there's this AI notice system button. If you need changes made to the note. For example, maybe you like your subjective to be narrative paragraph. You can just request those changes in plain English. In that box on the right hand side.
+Harry Campbell: Right here.
+Christopher Hume: Yep, right there. Anything you want either before batting it can be content. And then jot stack will ask you do you want us do you want this to train the template? If you say yes every time moving forward, it will remember what you told it to do and do that again. Whether that's focused on focused on anxiety, format it this way, etc. Denise potentially more relevant to you, but I would just like to flag it while we're. This part of the upshot. Psych. There's that button. In the top, right? You see that, Harry? An audit. And there's a little five.
+Harry Campbell: Right here.
+Christopher Hume: So I know you have, I believe, Article 31. Requirements, like buying sessions to the treatment plan, making sure that the nodes are developed in a particular way. And so, as we discussed last time, what we can do is work with you to make sure those rules are included in your JobSec account as a group, and then it will audit these notes with jot. Audit that's a feature you decide to say, like, hey, flagging, you didn't do xyz. Let's say you didn't connect it to a treatment plan. And you would see that under the at risk. Tab here.
+So chat tap2chat: Would say you should have done this.
+Christopher Hume: Go ahead.
+Harry Campbell: No, I'm just going to say. This would be something you'd click on. That should fix the problem there.
+Christopher Hume: Exactly.
+So chat tap2chat: As soon as this ends those places if it had dropped
+Christopher Hume: and then you would just press regenerate.
+So chat tap2chat: Note. 12.
+Christopher Hume: And the last thing I just want to flag here, Harry. Is that to get this over into your ehr, you can press that copy all sections button.
+So chat tap2chat: S.
+Harry Campbell: And then what do we do from there?
+Christopher Hume: To move it into your ehr.
+Harry Campbell: Yeah, I guess that would be the next step.
+Christopher Hume: Yes, you would just paste it right in. So you right click and press paste.
+Harry Campbell: There are, I guess, different sections where things would normally go.
+Harry Campbell: If we copied all sections, it's just going to be one big block. Of everything, right?
+Christopher Hume: It is. So if you'd prefer to go one section at a time, you can select that. You see, next to headers and identifiers, there's that circle. The left. You can push that. And now you can copy selected. Where copy all sections used to be.
+Harry Campbell: Okay?
+So chat tap2chat: To do with. A certain country. It's not treating us well. Resident. Has the right to stop. So they're interested. Have the righteous stuff.
+Christopher Hume: The last thing I'd like to flag for you, Harry, is I know it sounded like from Denise's comment that most of your or a lot of your notes should be in that soap note format. Is that true or is there another format you often use? No. Okay. Then hopefully soap is perfect. But if, for whatever reason, Harry, you need to create a new template, or Denise, you decide to bring another provider on board and they do something a little different, maybe they're a prescriber. I just want to quickly show you how you can adjust your templates.
+Harry Campbell: Okay?
+So chat tap2chat: Okay?
+Christopher Hume: Did you press the documentation button on the top of your screen?
+Christopher Hume: And then note templates. So we have a whole library down at the bottom left that you can access. We won't go into that now, but we have plenty of templates there. You can start from scratch. You can upload a template. If you're using soap, we're already most of the way there.
+Christopher Hume: But if you select the soap, Therapy template. The top left hand side of your screen.
+Harry Campbell: This one.
+So chat tap2chat: Yep.
+Christopher Hume: You can press the magic sparkles in the top right hand side of your screen.
+So chat tap2chat: This is fantastic.
+Christopher Hume: And now you can make any changes you'd like. Again, just using that box on the right hand side. If you're like, hey, I actually need a section at the top. It includes patient demographics. Or a summary of the session.
+Christopher Hume: You could on the bottom right. Just tell the AI Template folder and it will make those changes for you.
+Harry Campbell: You would type it in here.
+Christopher Hume: Anything from? Add a new section, Reorder the sections, I suppose. That would make it not a soap note. If you reorder it via stay off note or something like that, you'd ask it to change the formatting in sections. Change the focus of sections. Probably not relevant. Harry, if you're just using a standard soap, which is something I want you to know is available for you.
+Harry Campbell: Okay?
+Christopher Hume: The thousand miles a minute that is the full job cycle overview. Harry, I appreciate you bearing with me twice now in two calls as I've made you do a pretend session. Hopefully this one was a little less painful.
+Harry Campbell: One thing, I don't know if it's really a question. So when we did that sort of practice recording, You kind of know what things are good to say.
+Harry Campbell: To make a good note. I don't know whether a real patient would say things the way you would say it.
+Harry Campbell: So I think it would be more like I would have to guide it more. Things that are going to be helpful for the note.
+Christopher Hume: Shotsec does an incredible job, even with pretty ramble ramblings, the wrong word, but pretty circuitous conversations. But yeah, you're right, I probably was a little too easy with it, saying my anxiety is reduced from a 9 out of 10 to a 7 out of 10, making it too easy on you and the
+Harry Campbell: well, yeah, usually they're not going to talk like that unless you specifically guide them to.
+Christopher Hume: Yep. That's kind of the trial to see it in the real line of fire, right? To make sure it's still working for you when you don't have someone like me on the line. He's done.
+Harry Campbell: No, it's just observation.
+Christopher Hume: No, that's a great point.
+So chat tap2chat: Absolutely.
+Christopher Hume: Are there any other questions here? I'd love to maybe check in next Monday or Tuesday just to see how things are going and make sure. Kind of. Any issues come up or anything like that, we can resolve them while you're still on the trial. But, Harry, for you, I know you'll be mostly using it. And Denise, for you, in terms of questions about the pilot, is there anything I can answer here?
+So chat tap2chat: Can I actually use this and actually put it in the ehr of the patient and billet now?
+Christopher Hume: The no.
+So chat tap2chat: Yeah.
+Christopher Hume: Yeah, of course. So you can copy the note right into your ehr and then submit it through your existing billing process. And then I think Nate talked about with you, we also do billing for some of our customers now, and so we have a whole billing process that we'd love to set up with you that would just take a little bit longer because we'd have to transition the insurance information. We'd have to do the data migration so we can do your coverage checks. And we have to review all your contracts. That's certainly something. If we could be of support there. Yes, we can do billing now through your current system with these notes. But in the future you can do it through job site too.
+So chat tap2chat: So, Harry, can you pull up an example of a note that you write on the ehr so maybe he could modify it? Or help us figure out, because there's only three sections that we really fill in.
+Christopher Hume: Yeah.
+So chat tap2chat: Okay, who's present for this session? A subjective of the session and follow up. There's only three sections, so this, even though it's a soap note. Yeah. I don't know how to get it on the screen. He's on the screen. So can you pull up an ehr, like a note?
+Harry Campbell: Yeah, I'm trying to do that now.
+Christopher Hume: That's exactly what this AI editor is for. Denise, we could actually together right now ljotsyc the changes we want made to the soap and say, like, right, that's what I want, and we can do that. I was about to ask you, Denise, did I just hear our president, Donald Duck?
+So chat tap2chat: Yeah.
+Harry Campbell: I don't know.
+So chat tap2chat: Trump says I ran as an evil ideology. I guess he says Iran is an evil ideologist. I guess he's saying he's not. Listen, I don't know. I hope you don't like Trump, but if you do, okay. Do you know he went to Fordham for two years before he went to Wharton?
+So chat tap2chat: I did know. Father paid him to go. His father paid him to go to war. He's so dumb. I know.
+So chat tap2chat: We won't even get into that. So learning to say, I mean, there's so much that a clinician in this mental health field could diagnose him. There's so much stuff there.
+Christopher Hume: Certainly an interesting case study.
+So chat tap2chat: Oh, God. I can't stand. He's destroying the dollar, the markets, everything. Okay, here we go.
+Harry Campbell: So where do you want me to go?
+So chat tap2chat: Are you having a patient coming up anytime? Maybe go to or past patient. Let's go to a past patient where you already wrote the note.
+Harry Campbell: Okay?
+So chat tap2chat: Yeah. So you go down to notes in the blue. Icon. Yeah, and then just click details. In the middle. Toward the right. Toward the right. First line, the details right there. Yeah. And then scroll down so he can see what we need to make the. Okay, see where it says the three boxes. Patience in session. Really fill in the current medications, but we could. Patients in session, current meds, and if you scroll down, there should be two more. We're going to do session focus and ongoing treatment. That's it.
+So chat tap2chat: Okay, those four things.
+Christopher Hume: Oh, no, not a problem at all. I was going to say. We typically charge for templates, but this is so simple. This will take me 15 minutes. After this session, do it for you guys and upload it to your account so everyone has access to it. All of it. Done. This afternoon, Harry.
+Christopher Hume: So you have something you can use,
+So chat tap2chat: you'll do it for anybody that you'll do it for anybody that uses your group. File. Yes.
+Christopher Hume: Anyone that uses it will have access to it.
+So chat tap2chat: How do I add somebody else to the group? To the trial.
+Christopher Hume: That's a great question. Let me show you. Denise to your practice.
+Christopher Hume: And select clinicians. You have an invite user button, and then you just put their email address in.
+So chat tap2chat: Okay, sounds easy enough. Okay?
+Christopher Hume: It's easy enough. If you run into any issues, I'm here to help.
+So chat tap2chat: So basically to go back. Go ahead.
+Harry Campbell: No, I was just going to say so I understand the template that you're doing is going to make it easier to do.
+Christopher Hume: The copy paste thing, it'll be lined up exactly with.
+Christopher Hume: The format you use. So you'll just copy. You're not like, oh, I need to take part from the subjective and part from it's going to be. You're going to have one subjective or you're going to have one. It was people in the session.
+So chat tap2chat: Session medications. Subjective. And then, I don't know, next steps. Discharge. Plan.
+Christopher Hume: And so it'll just be those four sections, so you can just copy paste them right over. You're not picking through different sessions or sections and try to piece it together.
+So chat tap2chat: So, Harry, when we talk to patients, I should say, oh, John, are you at home today? Are you speaking from home? So that they so because usually I write or who's with you? John.
+So chat tap2chat: John, are you at home? So that way it knows, I guess because if you just start talking Usually when we do patient or patience in session I Joe patient I type in patient is speaking from home Patients speaking from the car patient is with their mother.
+So chat tap2chat: So I type that because I see it. But now I should, because this is not going to know. Let's just speak it.
+Christopher Hume: Or Harry, just so you know. And Denise, you will have this big note. Section. It'll be over here on your screen. If you want to type anything in there while you're recording or after you're recording, that information will go into the note as well.
+Harry Campbell: Okay?
+Harry Campbell: Okay, but I guess. I guess to your point, didn't you say it would be certain things that you could say that would kind of prompt. The person to say what you need them to say for that part of.
+So chat tap2chat: The note and also to help
+Harry Campbell: the recording be able to figure out what section we're dealing with.
+So chat tap2chat: Yeah, exactly. Exactly. Like at the end of the session, you can say, okay, John, we'll meet at the regular time next week so it'll know. Ongoing treatment next week. Hopefully it'll pick up 45 minutes sessions or we'll put in it in a note. Or on the side. Yeah. I don't know how.
+Christopher Hume: This AI thing, it does a great job. Just from normal conversation, putting it into the appropriate sections, it is astonishing, honestly.
+Christopher Hume: I'm like, yeah, it's magic to me. So I'd encourage Harry the first couple times. Just don't even worry about it. Just have your normal session. And if we need to adjust afterward, we certainly can. But I think it'll do quite a good job off the bat. When I tweak. That template for you. To capture everything.
+Harry Campbell: So you feel like I'm kind of overthinking it?
+Christopher Hume: I would not worry too much. This is meant to take work off of your plate, not have another thing you need to think about when providing patient care. So all crafted template for you so it knows that it should be looking for this. If you run into issues, we can adjust those during the check in, but I think it should be able to handle this. One. Go ahead, denise.
+So chat tap2chat: So, 12:30. I have a new patient appointment.
+So chat tap2chat: It's a new patient, Harry. You could join if you want, but you probably are busy, so it's on doxy. Me.
+So chat tap2chat: So when I'm on doxy and I'm talking. How do I get this?
+Christopher Hume: You have doxy in one tab, jot stuck in the other tab.
+Harry Campbell: Okay, the audio and golf programs. Okay.
+Christopher Hume: Yep. It'll capture both audio if you use a headset, you just need to make sure that you push the little. Set button next to the gear. But if you're playing audio out loud, which seems like you both are, you should be good to go. Last question for you is just the check in. Would love to do that. Maybe. Let me see. I have plenty of time Friday morning. Sounds like you'll have a few sessions before then. Or Monday afternoon next week. There's a time, Denise and Harry, that would work for you, just to see how things are going, see if any tweaks are required or if we want to add anyone to the account.
+Harry Campbell: Well, Monday is when I'm usually seeing some people, so I guess it depends on what time.
+Christopher Hume: He's free all afternoon. If there's a time Monday afternoon after those sessions, that would work.
+Harry Campbell: Yeah. So I should be.
+Christopher Hume: Would 4:30 work for you and Denise? 4:30 Eastern work to check in on Monday? It's like Denise's screen went black.
+Harry Campbell: Well, I know she had a 1230, but I didn't know. Oh, there she is.
+So chat tap2chat: Can you hear me?
+Harry Campbell: Yes.
+So chat tap2chat: No, I was trying to look at my calendar. Monday is my day off. I don't really want to do it Monday. I have other things. Tuesday is better.
+Christopher Hume: It's Tuesday morning work for YouTube.
+Harry Campbell: Yeah, I have. Let's see.
+Harry Campbell: Do I have Tuesday? Tuesday. Something else?
+So chat tap2chat: Tuesday. I can do it. 10:30.
+Harry Campbell: I have an 11 that I have to be done in time for, but I could do if that's enough time.
+Christopher Hume: We'll keep it quick on Tuesday. It'll just be a check in. Let me put that. Tuesday, 10:30.
+So chat tap2chat: Yeah. If he needs to leave and you have more time, I could stay on.
+Christopher Hume: I'll tell you the news. I don't have a single meeting on Tuesday, so we could take all the time we need. But we'll make sure we help Harry first. And, Harry, just so I'm on your work calendar, too, could you just share your work email?
+Harry Campbell: Sure.
+So chat tap2chat: Hcia.
+Harry Campbell: At Verizon. Net.
+Christopher Hume: Oh, perfect. Okay, that's the one I have. So that's the one I should send the invite to.
+Harry Campbell: Yeah, that's fine.
+So chat tap2chat: Expressing his annual participation and even the pilot midpoint meeting.
+Christopher Hume: Perfect. So I just sent you both an invite.
+Christopher Hume: As I said, I'll take 15 to 30 minutes this afternoon.
+Christopher Hume: To get this template uploaded to your account. Denise. And so I'll share it with everyone. So, Harry, you'll have it too. You'll see.
+So chat tap2chat: Hi, G.
+Christopher Hume: A custom template or something like that. It'll be your first option.
+Christopher Hume: And if you have any sessions before then, you can always, after the fact, change the format.
+So chat tap2chat: Can you hear me?
+Christopher Hume: Yes, loud and clear.
+So chat tap2chat: Okay, so when I go into my doxy and then I want to add, how do I add? Split the screen and add both on the same page.
+Christopher Hume: In terms of which browser are you.
+So chat tap2chat: Safari.
+Christopher Hume: Okay?
+Christopher Hume: What we typically. Yeah. What we recommend is using Google Chrome. That usually works the best with jot. Psych. Yeah. So I'd certainly recommend using Google Chrome, but it would just be kind of grabbing the tab of JobsYC and moving it. And show you. Let me see.
+So chat tap2chat: It led the United States to attack.
+Christopher Hume: What I would recommend doing is just the outside tab and then just. Grab it and pull it to the other side of your screen. Would be my recommendation there, Denise. But if you have it in two separate two tabs in the same window, you don't need to be looking at jobs like during your session. You just need to make sure you press that start recording button.
+So chat tap2chat: Okay?
+Christopher Hume: Well, Denise, I know you have a session coming up here.
+So chat tap2chat: Yes.
+Christopher Hume: I'll get that template up and running. I'll follow up this afternoon to see how things are going. See if I can offer any support before Tuesday. If not, I hope, Denise, you continue to enjoy Tropical paradise. And, Harry, I hope you enjoy your work. Out. I'll be in touch soon, and I'll talk with you about both next week, all right?
+Harry Campbell: Thanks.
+So chat tap2chat: Have a good one.

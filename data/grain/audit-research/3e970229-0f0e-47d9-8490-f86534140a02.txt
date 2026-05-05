@@ -1,0 +1,135 @@
+Christopher Hume: Wonderful. Well, nice to meet you. I'm Chris. Happy Monday.
+Newlife Aspiration Behavioral Health Services: Same to you.
+Christopher Hume: So would love typically how we run these calls is I would just love to take a few minutes here to learn a little bit more about you and kind of your practice and see what interested you and jobs like in our billing services. And then I can sort of give you a rundown or next steps to try any of the features that might be relevant to your interest.
+Newlife Aspiration Behavioral Health Services: Okay, yeah, I am a nurse practitioner and I don't have any one billing for me. I do everything by myself.
+Newlife Aspiration Behavioral Health Services: So I know my practice is not big. But I have used Jud for my charting. I used to, I use it with e-psychiatry, but I think it was, they said they want to do something. I'm not working. I'm not doing any assignments for them now. And so I saw their futures. I'm not sure all everything that they do, but I know we. Use the AI part of it is what I've been using.
+Newlife Aspiration Behavioral Health Services: So I don't know what other service you offer. Until you sent me something regarding the billing.
+Newlife Aspiration Behavioral Health Services: So I like to know what everything that you offer and have a ballpark and see whether I need to. For now, I'm using freed my. Know whether to cancel them and switch to job cycle depending on what the package that you have.
+Christopher Hume: Okay. And then you said you only see you have a low patient load now about how many patients sort of a week are you seeing.
+Newlife Aspiration Behavioral Health Services: Sometimes in a week I could see up to 20 sometimes in a week I could see about five.
+Christopher Hume: And so you use freed for your AI scribe and you're doing the billing yourself. What about your sort of other features like telehealth and e-prescription?
+Newlife Aspiration Behavioral Health Services: My EHR. I use Zoom. Prescription I use practice fusion. I'm all over the place. My EHR I use therapy notes. Something that is encompassing so that I'm not running all over the place.
+Christopher Hume: Yep. And then so you're freed you have I'm sorry was it two EHRs? Or just practice fusion?
+Newlife Aspiration Behavioral Health Services: I only use practice fusion. For my prescription my prescription and my labs it's only the alarm that is keeping me there if I have a service that is that has everything I probably will kick them out. So because I really don't use them but I'm just there. Told her to play me and she just so I use practice fusion because of my prescribing or prescription and their lab. My EHR for my node proper nodding is therapy notes. Is AI.
+Christopher Hume: Wow so that's a lot of systems and then zoom you said for video exactly.
+Newlife Aspiration Behavioral Health Services: Okay phone for video because I work for Trive works and they use advanced MD which is linked to zoom so it's yeah.
+Christopher Hume: And then in terms of credentialing are you independently credentialed are you credentialed through Thrive works how
+Newlife Aspiration Behavioral Health Services: does that work I work for them as I don't know what I'm a contract I don't know what I'm 1099 now double YouTube but I think I'm W2 even though I do one one and a half days for them so they did their own credentialing but for my own practice I did most of my credentialing even though I'm not done but I'm I did almost everything I just I'm struggling with a few of Virginia insurances but I have I did my glucose bluish I did my anthem I did my Sigma I did my Maryland Medicaid but I did everything for myself blindly yeah.
+Christopher Hume: It's such a we do credentialing now it's a such a intense lift there's so much paperwork and tracking it's pretty pretty unbelievable I didn't even ask where in the country are you based? Are you in Maryland?
+Newlife Aspiration Behavioral Health Services: I'm in Virginia now but my CP patients in Maryland and Virginia okay.
+Christopher Hume: I'm based in DC so I'm you know right in the middle wonderful that was incredibly helpful so I can kind of talk to you about our our billing but I think what might be most useful is we're actually some customers especially customers starting their own businesses for using us as kind of an all-in-one EHR so we have. Note taking we have billing we have e prescription we're rolling out telehealth we do forms and all that good stuff. And labs. So I can kind of walk you through some of those advanced features and then I think what could be helpful is if we get you kind of I know you're you're with e psychiatry and they may be deactivated your account but we could certainly get you up and running with an account so you can yeah try us out try some of those features and we can see how we can how
+Newlife Aspiration Behavioral Health Services: we can serve when I had that when I had the job site I would I would open up both the freed and the job site I use the freed for my subjective and all of that I will use your job site for my plan and those because I arranged myself my history physical substance you know I will use just site for all of that but I only use free for my subjective information so I will combine both on the notes so it was really quite fun and easy for me so when I when they deactivated it I wasn't happy I said anyways I'm going to call and see whether I can roll everything if it works to job site
+Christopher Hume: yeah so I guess that's my last question for you before I'll start talking is what would be kind of the. The best like make a successful meeting what features in particular would you like me to make sure kind of we go over what would be a good outcome kind of this morning?
+Newlife Aspiration Behavioral Health Services: I would like to do if you can do everything for me the building my note taking the my prescribed prescription including control yeah of course and then of course the lab and the AI so I'm using one thing I'm not all over.
+Newlife Aspiration Behavioral Health Services: I will love that.
+Christopher Hume: Perfect and what I'll do is I think I'll walk you through our billing and if it looks like something you'd be interested in we can kind of send you I can walk you through how billing works and then I can send you over the materials if you'd like to do billing with us then I'll go through kind of some of the updates to Jot psych and some of those advanced features. And then maybe to wrap up we could get you set up with a with an account I could put you on a trial you could try some of the new features would that work?
+Newlife Aspiration Behavioral Health Services: Yes my problem will be how do I roll over my documents assuming things work out how do I. How do I transition or roll over my documents from practice fusion.
+Christopher Hume: Oh yeah and from therapy notes so that's something our engineers are working on right now. So what they can do is they can take demographic data on all your patients your patient's name their demographics their insurance info their address all that and we can transfer over for you typically a small fee and it takes a few days in terms of the notes that's something I know the engineers are working on last week is how to download all the notes from the EHRs and integrate those into Jot psych so not only do you have kind of the new future notes and the demographic information but also repository of all your old notes that's telling our engineers obtain arrow for you.
+Newlife Aspiration Behavioral Health Services: Okay I don't know why you would charge to do that though but let's just let's just start if it's something that I can do then we'll talk if I can do it I'll figure something out for myself.
+Christopher Hume: It wasn't jot Bill so this starting with this because I know it's kind of what instigated this call you're familiar with Job Psych and I'm not sure if you've seen some of our new advanced features like compliance checks and automatic audits have you seen any of those? Okay so we'll walk through those but essentially what it does is jot psych now can generate notes with your payer contracts in mind right off the bat it's going to develop something that's going to put you in a very good place for your billing to kind of reduce any fear of callbacks or down coding or anything like that. Whether it's you who's submitting the billing or whether it's us doing it for you. We can do eligibility checks for you. As I said we do a clean pair aware notes you can sign the note and then jot site can handle your billing. Any questions so far? It makes us different so we have hypervigilant eligibility checks I think the the real thing if there's anything to take out of this meeting what sets us apart is that. Since we're developing your notes with you in Jobspy with our with our AI and we're linking them where we can link them to your payer contracts it's going to be the highest quality note aligning exactly with what you need to make sure you reimburse appropriately. Automated posting appeals and underpayment detection as well. And on some of our plans we can either help even help select bill pays et cetera from your patients. The important question how is it priced? Anywhere from 4 to 8% of elected revenues?
+Newlife Aspiration Behavioral Health Services: Depending too high too high? Sometimes 2.9 or 2.99 is 3% Okay.
+Christopher Hume: Well certainly if kind of this isn't in Europe can use all the other features and not do billing so it's there's no requirement for that at all.
+Newlife Aspiration Behavioral Health Services: Any any other questions no but so here what is it is it 4% or 6% or 8% what is that or is just different it depends on the plan yeah.
+Christopher Hume: So like on the the six 6% plan we do automated appeals and we do automatic checks on your payers to see kind of what's going on with their payer rules the eight percent the 4% excuse me is just a very standard billing so we do your eligibility checks. We do pair work documentation and we submit all your claims. Yes.
+Christopher Hume: Okay hold on a second no absolutely.
+Newlife Aspiration Behavioral Health Services: No I'm in a meeting but I can. Yeah you can come and clear this. Okay.
+Christopher Hume: Yeah okay sorry oh of course I know important to have the office clean on a Monday sets you up for the week. So those are billing features we're really excited about them but certainly understand. If you prefer just. To try some of jot psych. Features. That's great too. I'll walk you through these and I think as I said I'm really going to highlight here is our compliance features that are now built into job site. So whether it's you or it's us Janere submitting your claims it's going to make sure you're in a in a great place. You're familiar with this recording screen and recording notes with jot psych. So I won't spend too much time here. But we have these. Note. On the right hand side we have our audit this usually takes a little bit of time probably 30 to 40 seconds but jot psych will run an audit of your note and make recommended kind of changes for you. You can see like hey I need to align oh my goodness. Need to update my. Second. Made myself not an administrator oh my goodness. I can say hey it looks like you missed asking about suicidality or homicide.
+Newlife Aspiration Behavioral Health Services: Okay I'm hearing you now.
+Christopher Hume: May want to make an adjustment to your note.
+Newlife Aspiration Behavioral Health Services: That looks.
+Christopher Hume: Access to all your notes here so let's look at. You'll see the codes like will flag how compliant you are? And then you can hey what's actually going on with this note like 38% compliant. It will flag some of those issues. Have you ever seen this feature in Job site? Yeah this is kind of we think something that we're we're super super proud of I think sort of sets us apart from some of the other other scribes so we can help people with billing whether they bill with us or they decide to build on their own.
+Newlife Aspiration Behavioral Health Services: Okay.
+Christopher Hume: This is the really big one the other thing. I'd love to show you is that. You can set up. E-prescription on your account or through dose spot that's $69 a month. So your plan.
+Newlife Aspiration Behavioral Health Services: Are you charging things differently are you charging each feature differently
+Christopher Hume: yes for people who are using our like EHR suite they can buy like the compliance feature and the prescription feature a la carte or if you'd like everything so that describe. Unlimited access to all the like forms and labs the telehealth. And e-prescription it's $299 a month. For all in one. Which hopefully is still a little bit of a savings from kind of having all of your. Kind of spread out across freed and simple practice and your e-prescription. I know we're coming up on time here and I want to be respectful especially on a Monday morning. What questions can I answer for you how could I help you kind of reduce the number of systems you're playing with.
+Newlife Aspiration Behavioral Health Services: Like I told you. My only my greatest fear is how to integrate my. Information from where all the spaces that well the major two places that I am is therapy notes and practice fusion. How to integrate my notes. Into one with jot side without me losing information you know because so much dependent in this thing. So that I can just. Cut out all of these people and do do check out I'm going to calculate my costs and see yeah of course so what I can do something all over.
+Christopher Hume: I could do for you is we could set you up we could get you account you can play with JobSyke and then if you have time next or this week any day this week I can set up just a quick 15 minute meeting with one of our engineers you'd show them your EHR and then they can tell you like yeah it would take us this long to transfer the. Transfer the data over like I'm certain we can do it. And honestly if you're coming over on the the EHR package I would guess we can waive the fee as well. Bigger commitment you're coming your user all the features certainly something
+Newlife Aspiration Behavioral Health Services: we can do you have all the features the labs access to lab if I need to order labs for my patient the villain the AI the prescribing including control substance. Yeah I would do the whole thing I don't want to be going all over the place
+Christopher Hume: it's it's so funny so we travel a lot to visit customers everyone has so many different systems it's it's very challenging. Yes a lot of mental capacity spent jumping between
+Newlife Aspiration Behavioral Health Services: yes for me it's it's it's it's too much can be even though I'm used to that now but I would like to have it all under one umbrella.
+Christopher Hume: Well then I think next steps here could we get you set up with a trial I know you've already used this a ton but we get you set up with a trial that's not associated with e-psychiatry and then also have time later this week to to touch base with an engineer just walk through your EHR
+Newlife Aspiration Behavioral Health Services: yes and having used your system for a while almost two three years now I think you guys should give me a discount
+Christopher Hume: too well I that's above my head but I can certainly at the very least give you a discount on the data migration because I don't want that to be a hurdle to joining us.
+Newlife Aspiration Behavioral Health Services: Okay.
+Christopher Hume: Well while I have my calendar up. Let's just do that first would let me see here would 130 Eastern time on Wednesday for you.
+Newlife Aspiration Behavioral Health Services: One second. What did you say 130 Eastern
+Christopher Hume: time 1 30 Eastern would that work they would work.
+Newlife Aspiration Behavioral Health Services: I don't think I have anything with. I don't think give me a moment let me check my drive works
+Christopher Hume: people see this is the problem too many too many systems
+Newlife Aspiration Behavioral Health Services: yeah let me hop into thrive works and see whether. I have anybody on that day and then block that time.
+Christopher Hume: Where in Virginia are you?
+Christopher Hume: In hundon okay oh very close.
+Newlife Aspiration Behavioral Health Services: Okay Wednesday. The 15th. Okay what time did you say on Wednesday 1 30 Eastern. Yes I have a patient at 12 30 a new patient but that's one hour so 1 30 will work and mid block it you will get an email.
+Christopher Hume: Me send you an email.
+Newlife Aspiration Behavioral Health Services: With job site.
+Christopher Hume: I just sent this to your Yahoo email address.
+Newlife Aspiration Behavioral Health Services: Okay. And how long is the meeting going to be
+Christopher Hume: I just said it for 30 minutes it probably won't even take that long but just in case you start a little late or we run a little long want to make sure I'm not. Just a little extra time 30 on Wednesday.
+Newlife Aspiration Behavioral Health Services: Okay that works for me.
+Christopher Hume: Would you like us to while we're on the line here set you up with a new account.
+Newlife Aspiration Behavioral Health Services: Yeah without I'm not committing anything correct
+Christopher Hume: oh no no no no this would just be so you can use the software this week because I know eSychiatry turned off your account
+Newlife Aspiration Behavioral Health Services: yeah the turned off my account but yeah and I can use the same password to get
+Christopher Hume: in unfortunately not once we have an account that's associated with a. With a group we can't take it out of the group. So we have to create a new account for you so we have to use a different email or if you'd want to use it would have to be yeah a different email from your Yahoo email.
+Newlife Aspiration Behavioral Health Services: Okay you can they can use my business email new life aspiration behavior health
+Christopher Hume: I actually can't create it for you for security reasons I can I can walk you through it so if you go to jot psych.com.
+Newlife Aspiration Behavioral Health Services: Do you want me to do that now
+Christopher Hume: yeah just in case just to make sure we can log you in properly and if there's any any issues or anything like that I can check with the engineers and get them resolved.
+Newlife Aspiration Behavioral Health Services: By okay I am there now it says try for free
+Christopher Hume: request a demo buy for free there we go.
+Newlife Aspiration Behavioral Health Services: For free I'm trying to click on that it's not. Okay. It says welcome back.
+Christopher Hume: Sign in differently right timing differently yep.
+Newlife Aspiration Behavioral Health Services: So I should use the other email
+Christopher Hume: and then when it says sign in differently I think you actually you'll see a button that says don't have an account sign up. You see that?
+Newlife Aspiration Behavioral Health Services: Let me go back.
+Christopher Hume: If you want to share your screen that might be helpful.
+Newlife Aspiration Behavioral Health Services: How do I okay let me see here screen here. Share. I think I'm sharing my screen
+Christopher Hume: right I can't see it yet.
+Newlife Aspiration Behavioral Health Services: Says you're sharing screen sharing now. I can see it. Okay yeah it says your screen sharing.
+Newlife Aspiration Behavioral Health Services: Interesting let me stop and go back. Oh okay I think the reason is let me get out I'm in Zoom.
+Christopher Hume: Oh everybody systems it keeps going up there's too many systems we got to get you all consolidated yes.
+Newlife Aspiration Behavioral Health Services: See this one.
+Christopher Hume: Perfect okay. So now if you push push that try for free button. Now okay and then let's go log in. And then scroll down. That button beneath continue yep sign up yeah. Then you can put in your work email and your password. And you just come up with a password.
+Newlife Aspiration Behavioral Health Services: Okay.
+Christopher Hume: Still listen fill out.
+Newlife Aspiration Behavioral Health Services: If you feel this yep. Is my phone so let me get it.
+Christopher Hume: No worries I'm just going to cross my cup of coffee. You there yep right here and then yep patient is it patient or client that's up to you how much do you refer to your. Encounters yes patient okay then yep then just press next. You could just go take me to the homepage. You know how to use it. Perfect now you're up and running with the new account. I'm going to extend out your trial just so you get a full two weeks and we can discuss. Friday how we would or excuse me Wednesday transferring any of your data.
+Newlife Aspiration Behavioral Health Services: Is this I'm speaking I'm speaking with somebody this Wednesday next tomorrow
+Christopher Hume: yeah two days it'll be me and my colleague.
+Newlife Aspiration Behavioral Health Services: Okay then how do I I know usually I'll go to record here and type in my patient's name how do I because I already have a template I don't know is that going
+Christopher Hume: to give templates in your old account that are custom.
+Newlife Aspiration Behavioral Health Services: I would think so but I would like to request them if it's possible
+Christopher Hume: and have them moved over from the old account.
+Newlife Aspiration Behavioral Health Services: I don't know because they are they activated me so I don't know.
+Christopher Hume: Okay I'll check I'll check and if if there's anything custom in there templates we can move over it's just we can't move over any patient information but I can move the templates.
+Newlife Aspiration Behavioral Health Services: Okay if you what if I want to customize this one since this is going to be my thing how do I do that?
+Christopher Hume: If you press documentation. And then you go note templates.
+Newlife Aspiration Behavioral Health Services: And then.
+Christopher Hume: If you go browse library. And you could do maybe a psychiatric intake.
+Christopher Hume: Okay this is psychiatric so now if you go over to the left hand side and scroll can you scroll up there? Well for some reason your your templates are supposed to show up on the left hand side and it looks like they're not right now I can show you how you can select them for recording if you go and press the record button. Just make sure you have access to all of them. Psychiatric intake then do you see where it says template beneath.
+Newlife Aspiration Behavioral Health Services: Something beneath other so this is.
+Christopher Hume: Right beneath right beneath the orange dot.
+Christopher Hume: Here and then you can choose your template right there.
+Newlife Aspiration Behavioral Health Services: This is the psychiatric intake this is the progress I mean. Okay so assuming I choose that then it starts to record for me
+Christopher Hume: you have to push the button to say start
+Newlife Aspiration Behavioral Health Services: recording yeah so I'm going to yeah I'm going to look at it and see how that works out whether it aligns with what I want but if it's not I can move things around right exactly yep. How do I do that but I don't tell me that
+Christopher Hume: so if you let's see if we can go to a note. Let's see if you have an example note so if you go documentation. Then go notes. So if you click on your example note.
+Newlife Aspiration Behavioral Health Services: Here yep.
+Christopher Hume: So there's a couple ways that you can edit the template. One way is on this right hand side in that yep.
+Newlife Aspiration Behavioral Health Services: You can. Edit here.
+Christopher Hume: Yes so if you press edit and then down below you explain what changes you want made to the note. You would say hey I always want the summary section to be bullet points. And it will say do you want to train the note. And it will remember that for every for every note moving forward every time you use the intake template.
+Newlife Aspiration Behavioral Health Services: Okay. The way it's set up now it is is is okay the only thing is I don't have any section that's one other thing I don't have any section that tells me I mean when you ask them what they like to do their strengths yeah I don't have that their strengths I don't have that it never ever.
+Newlife Aspiration Behavioral Health Services: Records that for me.
+Christopher Hume: I can show you if you go to documentation note templates like I am yep. I think because you're on trial right now that little unlimited template notification is covering your templates I'm going to have the engineers fix that for you. What you but what you can do is you select the template.
+Christopher Hume: Here oh wait it's supposed to be right under that bar where your cursor is okay it's supposed to be somewhere here it'll be right there it will be right there hopefully shortly I'm going to yell at the engineers as soon as we get off this call but then you can push this button up here that says edit with AI which one? I'll show you so can you see on my screen so I selected a template and then I have these sparkles up here.
+Newlife Aspiration Behavioral Health Services: Where is that?
+Christopher Hume: Can you see my screen?
+Newlife Aspiration Behavioral Health Services: Yes.
+Newlife Aspiration Behavioral Health Services: Put a big green okay here okay let me see here
+Christopher Hume: you for some reason don't have access to click on the templates right now
+Newlife Aspiration Behavioral Health Services: okay so it should be somewhere here
+Christopher Hume: yep so you would click on the template you want to make the edit to and then you would click on the sparkles. And then you would just go. A strength. And it would put it into the template for you.
+Newlife Aspiration Behavioral Health Services: Okay well I tried if I'm not able to I mean whoever I will speak to next time would help me.
+Newlife Aspiration Behavioral Health Services: It'll be me don't worry okay that's good access to you.
+Christopher Hume: Yep yep yep we'll we'll have a meeting on Wednesday and you'll have all my email info and all that good stuff okay. Wonderful if any issues come up before Wednesday please please just let me know and I'll work on figure out figuring out what's going on with your templates momentarily okay I'll do that please. Well it's so nice to meet you the time I'm sorry for the confusion this morning but I'm glad we were able to get on the call
+Newlife Aspiration Behavioral Health Services: yes thank you so so much I'll be happy if this works out and I roll over and one one system right yes. All right thank you you have a great rest of your day yeah happy Monday.

@@ -1,10 +1,16 @@
 {
-  "id": "fe42b1d3-6510-429b-bb54-2a0e50b81626",
+  "id": "7cdf0fb1-594b-4917-9e6e-407efea54288",
   "statistical": {
     "winning_patterns": [],
     "losing_patterns": [],
     "coefficient_history": {
       "message_type_education": [
+        {
+          "coefficient": -76.73576989539558,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
         {
           "coefficient": -76.73576989539603,
           "p_value": 1.0,
@@ -38,6 +44,12 @@
       ],
       "message_type_pain_point": [
         {
+          "coefficient": -56.60272311087719,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
+        {
           "coefficient": -56.60272311087775,
           "p_value": 1.0,
           "run_date": "2026-04-09",
@@ -69,6 +81,12 @@
         }
       ],
       "message_type_social_proof": [
+        {
+          "coefficient": -105.81496731388603,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
         {
           "coefficient": -105.81496731388555,
           "p_value": 1.0,
@@ -102,6 +120,12 @@
       ],
       "message_type_urgency": [
         {
+          "coefficient": -196.67100686645784,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
+        {
           "coefficient": -196.6710068664575,
           "p_value": 1.0,
           "run_date": "2026-04-09",
@@ -133,6 +157,12 @@
         }
       ],
       "message_type_value_prop": [
+        {
+          "coefficient": -178.89708582954876,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
         {
           "coefficient": -178.8970858295496,
           "p_value": 1.0,
@@ -166,6 +196,12 @@
       ],
       "hook_type_provocative_claim": [
         {
+          "coefficient": 83.18010039801123,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
+        {
           "coefficient": 83.18010039801189,
           "p_value": 1.0,
           "run_date": "2026-04-09",
@@ -197,6 +233,12 @@
         }
       ],
       "hook_type_question": [
+        {
+          "coefficient": -152.85563654625255,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
         {
           "coefficient": -152.8556365462527,
           "p_value": 1.0,
@@ -230,6 +272,12 @@
       ],
       "hook_type_scenario": [
         {
+          "coefficient": -64.44319609501105,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
+        {
           "coefficient": -64.44319609501119,
           "p_value": 1.0,
           "run_date": "2026-04-09",
@@ -261,6 +309,12 @@
         }
       ],
       "hook_type_statistic": [
+        {
+          "coefficient": -62.51564896885732,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
         {
           "coefficient": -62.51564896885854,
           "p_value": 1.0,
@@ -294,6 +348,12 @@
       ],
       "hook_type_testimonial": [
         {
+          "coefficient": 22.353687149002695,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
+        {
           "coefficient": 22.353687149001814,
           "p_value": 1.0,
           "run_date": "2026-04-09",
@@ -325,6 +385,12 @@
         }
       ],
       "cta_type_see_how": [
+        {
+          "coefficient": -60.9897176648481,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
         {
           "coefficient": -60.98971766484843,
           "p_value": 1.0,
@@ -358,6 +424,12 @@
       ],
       "cta_type_try_free": [
         {
+          "coefficient": -22.955721016611776,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
+        {
           "coefficient": -22.95572101661169,
           "p_value": 1.0,
           "run_date": "2026-04-09",
@@ -389,6 +461,12 @@
         }
       ],
       "tone_clinical": [
+        {
+          "coefficient": -35.95530197807088,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
         {
           "coefficient": -35.955301978070835,
           "p_value": 1.0,
@@ -422,6 +500,12 @@
       ],
       "tone_empathetic": [
         {
+          "coefficient": -33.931749594381074,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
+        {
           "coefficient": -33.931749594381166,
           "p_value": 1.0,
           "run_date": "2026-04-09",
@@ -453,6 +537,12 @@
         }
       ],
       "tone_playful": [
+        {
+          "coefficient": -31.715575930602782,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
         {
           "coefficient": -31.715575930602576,
           "p_value": 1.0,
@@ -486,6 +576,12 @@
       ],
       "tone_provocative_claim": [
         {
+          "coefficient": -154.38604291893745,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
+        {
           "coefficient": -154.38604291893708,
           "p_value": 1.0,
           "run_date": "2026-04-09",
@@ -517,6 +613,12 @@
         }
       ],
       "tone_urgent": [
+        {
+          "coefficient": -58.51527599867448,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
         {
           "coefficient": -58.51527599867531,
           "p_value": 1.0,
@@ -550,6 +652,12 @@
       ],
       "tone_warm": [
         {
+          "coefficient": 0.6378464454574555,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
+        {
           "coefficient": 0.6378464454574413,
           "p_value": 1.0,
           "run_date": "2026-04-09",
@@ -581,6 +689,12 @@
         }
       ],
       "visual_style_mixed_media": [
+        {
+          "coefficient": 9.438314597781122,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
         {
           "coefficient": 9.438314597781357,
           "p_value": 1.0,
@@ -614,6 +728,12 @@
       ],
       "visual_style_photography": [
         {
+          "coefficient": 1.1169545731384112,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
+        {
           "coefficient": 1.1169545731385284,
           "p_value": 1.0,
           "run_date": "2026-04-09",
@@ -645,6 +765,12 @@
         }
       ],
       "visual_style_product_ui": [
+        {
+          "coefficient": 10.702701736543707,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
         {
           "coefficient": 10.70270173654396,
           "p_value": 1.0,
@@ -678,6 +804,12 @@
       ],
       "visual_style_screen_capture": [
         {
+          "coefficient": 138.14447245101275,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
+        {
           "coefficient": 138.1444724510133,
           "p_value": 1.0,
           "run_date": "2026-04-09",
@@ -709,6 +841,12 @@
         }
       ],
       "visual_style_text_heavy": [
+        {
+          "coefficient": 35.06923884154331,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
         {
           "coefficient": 35.06923884154344,
           "p_value": 1.0,
@@ -742,6 +880,12 @@
       ],
       "subject_matter_conceptual": [
         {
+          "coefficient": 5.349920054192571,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
+        {
           "coefficient": 5.34992005419258,
           "p_value": 1.0,
           "run_date": "2026-04-09",
@@ -773,6 +917,12 @@
         }
       ],
       "subject_matter_patient_interaction": [
+        {
+          "coefficient": -27.220557792206563,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
         {
           "coefficient": -27.220557792206577,
           "p_value": 1.0,
@@ -806,6 +956,12 @@
       ],
       "subject_matter_product_ui": [
         {
+          "coefficient": -3.0391679447524496,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
+        {
           "coefficient": -3.0391679447527338,
           "p_value": 1.0,
           "run_date": "2026-04-09",
@@ -837,6 +993,12 @@
         }
       ],
       "subject_matter_workflow_comparison": [
+        {
+          "coefficient": 64.13301238687664,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
         {
           "coefficient": 64.13301238687633,
           "p_value": 1.0,
@@ -870,6 +1032,12 @@
       ],
       "color_mood_brand_primary": [
         {
+          "coefficient": 0.710934166712093,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
+        {
           "coefficient": 0.7109341667125477,
           "p_value": 1.0,
           "run_date": "2026-04-09",
@@ -901,6 +1069,12 @@
         }
       ],
       "color_mood_cool_clinical": [
+        {
+          "coefficient": 28.984394716168595,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
         {
           "coefficient": 28.984394716168836,
           "p_value": 1.0,
@@ -934,6 +1108,12 @@
       ],
       "color_mood_high_contrast": [
         {
+          "coefficient": -48.40179722457033,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
+        {
           "coefficient": -48.401797224569826,
           "p_value": 1.0,
           "run_date": "2026-04-09",
@@ -965,6 +1145,12 @@
         }
       ],
       "color_mood_muted_soft": [
+        {
+          "coefficient": 148.73616875713844,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
         {
           "coefficient": 148.73616875713876,
           "p_value": 1.0,
@@ -998,6 +1184,12 @@
       ],
       "color_mood_warm_earth": [
         {
+          "coefficient": 20.979836213670353,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
+        {
           "coefficient": 20.979836213670616,
           "p_value": 1.0,
           "run_date": "2026-04-09",
@@ -1029,6 +1221,12 @@
         }
       ],
       "text_density_headline_only": [
+        {
+          "coefficient": 191.4813308750695,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
         {
           "coefficient": 191.48133087507006,
           "p_value": 1.0,
@@ -1062,6 +1260,12 @@
       ],
       "text_density_headline_subhead": [
         {
+          "coefficient": 116.6756467509362,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
+        {
           "coefficient": 116.67564675093664,
           "p_value": 1.0,
           "run_date": "2026-04-09",
@@ -1093,6 +1297,12 @@
         }
       ],
       "text_density_minimal_overlay": [
+        {
+          "coefficient": 191.4778496933405,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
         {
           "coefficient": 191.47784969334123,
           "p_value": 1.0,
@@ -1126,6 +1336,12 @@
       ],
       "format_video": [
         {
+          "coefficient": -9.659854343212984,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
+        {
           "coefficient": -9.659854343213086,
           "p_value": 1.0,
           "run_date": "2026-04-09",
@@ -1157,6 +1373,12 @@
         }
       ],
       "headline_word_count": [
+        {
+          "coefficient": -3.999536833788113,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
         {
           "coefficient": -3.99953683378817,
           "p_value": 1.0,
@@ -1190,6 +1412,12 @@
       ],
       "copy_reading_level": [
         {
+          "coefficient": 8.71634685742034,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
+        {
           "coefficient": 8.71634685742054,
           "p_value": 1.0,
           "run_date": "2026-04-09",
@@ -1221,6 +1449,12 @@
         }
       ],
       "uses_number": [
+        {
+          "coefficient": 74.95250702647776,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
         {
           "coefficient": 74.95250702647778,
           "p_value": 1.0,
@@ -1254,6 +1488,12 @@
       ],
       "uses_question": [
         {
+          "coefficient": 28.058912610982862,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
+        {
           "coefficient": 28.058912610983086,
           "p_value": 1.0,
           "run_date": "2026-04-09",
@@ -1285,6 +1525,12 @@
         }
       ],
       "uses_first_person": [
+        {
+          "coefficient": 154.1056499837863,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
         {
           "coefficient": 154.10564998378698,
           "p_value": 1.0,
@@ -1318,6 +1564,12 @@
       ],
       "uses_social_proof": [
         {
+          "coefficient": 39.65535399456098,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
+        {
           "coefficient": 39.655353994560755,
           "p_value": 1.0,
           "run_date": "2026-04-09",
@@ -1350,6 +1602,12 @@
       ],
       "uses_question_x_message_type_education": [
         {
+          "coefficient": 131.1029717453915,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
+        {
           "coefficient": 131.1029717453917,
           "p_value": 1.0,
           "run_date": "2026-04-09",
@@ -1375,6 +1633,12 @@
         }
       ],
       "uses_question_x_visual_style_text_heavy": [
+        {
+          "coefficient": 131.10297174539153,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
         {
           "coefficient": 131.10297174539159,
           "p_value": 1.0,
@@ -1402,6 +1666,12 @@
       ],
       "uses_question_x_subject_matter_conceptual": [
         {
+          "coefficient": 131.1029717453917,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
+        {
           "coefficient": 131.1029717453916,
           "p_value": 1.0,
           "run_date": "2026-04-09",
@@ -1427,6 +1697,12 @@
         }
       ],
       "uses_question_x_color_mood_brand_primary": [
+        {
+          "coefficient": 131.10297174539159,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
         {
           "coefficient": 131.10297174539156,
           "p_value": 1.0,
@@ -1454,6 +1730,12 @@
       ],
       "uses_question_x_text_density_headline_only": [
         {
+          "coefficient": 131.1029717453917,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
+        {
           "coefficient": 131.10297174539159,
           "p_value": 1.0,
           "run_date": "2026-04-09",
@@ -1479,6 +1761,12 @@
         }
       ],
       "uses_social_proof_x_visual_style_screen_capture": [
+        {
+          "coefficient": 207.2510559849134,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
         {
           "coefficient": 207.2510559849135,
           "p_value": 1.0,
@@ -1506,6 +1794,12 @@
       ],
       "uses_social_proof_x_subject_matter_product_ui": [
         {
+          "coefficient": 207.25105598491348,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
+        {
           "coefficient": 207.25105598491322,
           "p_value": 1.0,
           "run_date": "2026-04-09",
@@ -1531,6 +1825,12 @@
         }
       ],
       "uses_social_proof_x_color_mood_cool_clinical": [
+        {
+          "coefficient": 207.25105598491348,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
         {
           "coefficient": 207.25105598491342,
           "p_value": 1.0,
@@ -1558,6 +1858,12 @@
       ],
       "uses_social_proof_x_hook_type_provocative_claim": [
         {
+          "coefficient": -128.16865446288836,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
+        {
           "coefficient": -128.16865446288924,
           "p_value": 1.0,
           "run_date": "2026-04-09",
@@ -1583,6 +1889,12 @@
         }
       ],
       "uses_social_proof_x_tone_warm": [
+        {
+          "coefficient": 142.06110958884508,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
         {
           "coefficient": 142.06110958884452,
           "p_value": 1.0,
@@ -1610,6 +1922,12 @@
       ],
       "uses_social_proof_x_message_type_social_proof": [
         {
+          "coefficient": -105.81496731388489,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
+        {
           "coefficient": -105.8149673138858,
           "p_value": 1.0,
           "run_date": "2026-04-09",
@@ -1635,6 +1953,12 @@
         }
       ],
       "uses_number_x_format_video": [
+        {
+          "coefficient": -78.8197778330108,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
         {
           "coefficient": -78.81977783301105,
           "p_value": 1.0,
@@ -1662,6 +1986,12 @@
       ],
       "uses_number_x_tone_clinical": [
         {
+          "coefficient": 168.56590218097563,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
+        {
           "coefficient": 168.56590218097614,
           "p_value": 1.0,
           "run_date": "2026-04-09",
@@ -1687,6 +2017,12 @@
         }
       ],
       "uses_number_x_hook_type_statistic": [
+        {
+          "coefficient": -62.51564896885788,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
         {
           "coefficient": -62.51564896885732,
           "p_value": 1.0,
@@ -1714,6 +2050,12 @@
       ],
       "uses_number_x_message_type_pain_point": [
         {
+          "coefficient": -154.11070664095197,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
+        {
           "coefficient": -154.1107066409523,
           "p_value": 1.0,
           "run_date": "2026-04-09",
@@ -1739,6 +2081,12 @@
         }
       ],
       "uses_number_x_text_density_headline_subhead": [
+        {
+          "coefficient": -4.493497204679592,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
         {
           "coefficient": -4.493497204679272,
           "p_value": 1.0,
@@ -1766,6 +2114,12 @@
       ],
       "uses_question_x_visual_style_photography": [
         {
+          "coefficient": 33.024545350782454,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
+        {
           "coefficient": 33.024545350782724,
           "p_value": 1.0,
           "run_date": "2026-04-09",
@@ -1791,6 +2145,12 @@
         }
       ],
       "uses_question_x_color_mood_warm_earth": [
+        {
+          "coefficient": 33.957513544416315,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
         {
           "coefficient": 33.957513544416216,
           "p_value": 1.0,
@@ -1818,6 +2178,12 @@
       ],
       "uses_question_x_text_density_headline_subhead": [
         {
+          "coefficient": 33.9575135444162,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
+        {
           "coefficient": 33.957513544416145,
           "p_value": 1.0,
           "run_date": "2026-04-09",
@@ -1843,6 +2209,12 @@
         }
       ],
       "uses_social_proof_x_color_mood_warm_earth": [
+        {
+          "coefficient": 80.01585502745664,
+          "p_value": 1.0,
+          "run_date": "2026-04-15",
+          "n_observations": 141
+        },
         {
           "coefficient": 80.0158550274576,
           "p_value": 1.0,
@@ -1873,7 +2245,7 @@
     "interaction_insights": [],
     "r_squared": 0.5275,
     "n_observations": 141,
-    "last_run_date": "2026-04-09"
+    "last_run_date": "2026-04-15"
   },
   "editorial": {
     "approval_clusters": [
@@ -2092,7 +2464,7 @@
     "day_of_week_performance": {}
   },
   "creative_directions": [],
-  "built_at": "2026-04-09T13:00:00.762102",
+  "built_at": "2026-04-15T13:00:00.932630",
   "data_quality_score": 0.8999999999999999,
   "version": 2
 }

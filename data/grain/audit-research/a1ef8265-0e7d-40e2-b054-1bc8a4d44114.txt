@@ -1,0 +1,89 @@
+JORGE VALCOURT: Okay. Okay. So Becca, my hope is that once Alai miss knows, so if once she sees what you do to check the identity of the doctor that she can do the same with the other providers.
+Becca Bressler: Okay. She's a provider though, right? So we'll walk through the steps with her.
+JORGE VALCOURT: Alimes is the office manager right now at the office. Dr. Almansar, she's the provider and she's going to be in the meeting as well.
+Becca Bressler: Oh, great. Okay, got it. Because yes, we'll need like an actual NPI number to go through the process.
+JORGE VALCOURT: Yeah, sure.
+Becca Bressler: Jorge, I don't see anyone else in your organization right now. The one with the. Did you invite providers to it?
+JORGE VALCOURT: Yep, right now. Dr. Maria Almasar, she received the. Well, she received the invite. We confirmed the. The email.
+Becca Bressler: So she accepted is what you're saying?
+JORGE VALCOURT: Yeah.
+Becca Bressler: Okay.
+JORGE VALCOURT: That was today, maybe an hour ago.
+Becca Bressler: Okay.
+JORGE VALCOURT: You also have@springs doctor email address.
+Becca Bressler: So the ones that you just invited have the same.
+JORGE VALCOURT: Have.
+Becca Bressler: Okay. Because I'm not seeing it on my end, but that's okay if you are. When you look in your clinicians, do you see them there listed?
+JORGE VALCOURT: Let me log into her account.
+Alaimys Torres: Good afternoon.
+JORGE VALCOURT: Hi, Alimis.
+Alaimys Torres: Hi, how are you?
+Becca Bressler: Good, how are you? Nice to meet you.
+Alaimys Torres: Nice meeting you. My name is Alimis, so our provider name is. So Torah Mansa, she's going to be in the next minute.
+Becca Bressler: Okay, gotcha. I am Becca. I am Jot Psych's product manager. So I'm here to walk you through setup.
+JORGE VALCOURT: So, Becca, you say that I should be seeing her name in my account.
+Becca Bressler: Yeah. So will you share your screen, Jorge?
+JORGE VALCOURT: Yeah. Okay, so she does have an account. Email has been verified.
+Becca Bressler: Okay. Yeah.
+Becca Bressler: If you don't mind sharing, I just. Maybe there's just a delay on our end. It's possible, so. Oh, so. So this is her account is what you're saying? Yeah. Did you invite her from. Okay, let me, let me do something really quickly because I think I. I know. Do you mind just going back really quickly so I can.
+JORGE VALCOURT: Yeah, I didn't invite her through my accounts.
+Becca Bressler: No, you did not, is what you're saying. Okay, let me add her. That will be way to do it moving forward. But let me add her right now because I can do it with our admin panel. So I'm going to add.
+JORGE VALCOURT: Good morning, Wendia.
+Becca Bressler: Hello.
+Alaimys Torres: Hi.
+Becca Bressler: We're just getting you set up here. So let's see. So, Jorge, I just added her to your account. The key thing here is. Could you go back. Could you log into your account, Jorge, for a second? Okay, great. And then if you go. Oh, so it looks like you're still in hers. Yes. If you go to clinicians. Great. Now can you click the pencil icon next to Maria's name? And then you're going to add JOTRX at the bottom. Save changes. And so now what we're going to do to set Maria up is do it from her job site profile. So we'll once again log out of this and get back into her profile. So, Maria, some. Some things that you'll. Need for us to go through the entire identity proofing process is it will be asking for credit card information, driver's license that you can take a photo, NPI number, DEA number if you prescribe controlled substances. And I think those are the big ones just, just to, you know, in case you need to grab anything from anywhere. That's what we'd want to have handy. Okay, so first step here is let's click Dr. In the upper right hand corner and if we scroll down on the clinicians page that we're on. Oh, can you refresh this page?
+JORGE VALCOURT: Let me see you enter the doctor's MPI information and billing information.
+Becca Bressler: So let's scroll down.
+JORGE VALCOURT: So you didn't get to this alignment.
+Alaimys Torres: Okay.
+JORGE VALCOURT: You didn't get to this?
+Alaimys Torres: No.
+Becca Bressler: So this is interesting. Is there no ERX that's showing up?
+JORGE VALCOURT: I'm sorry, say again?
+Becca Bressler: There's no option to add dose spot, is there? That is really strange. Can you click my access on the left hand side or. Sorry. Actually it's. It's right there. Yeah, let me just see. No active add ons. Give me one second. Jorge, I'm wondering. I just need to look on my end to see why this is not happening and I might be calling in one of my engineers. If. So, it looks like we have two JA Rx. Let me call up my engineer really quickly,
+JORGE VALCOURT: go ahead and add the MPI number of the clinic and the doctor and all that.
+Becca Bressler: Or yeah, it'll ask you to do it for the dose spot thing. And can you actually just do me a favor? Can you refresh this page one more time? Sorry, I just want to be sure. And then scroll down. Yeah.
+JORGE VALCOURT: You don't see it here?
+Becca Bressler: No, I. I just sent a link to this conversation to our engineer. He's going to hop on because he. Hey Marcus.
+Marcus Irven: Hello.
+Becca Bressler: Let me just catch you up real quickly on what we're seeing. So. So Jorge added JA rx and then we had a clinician, Maria. Signed up with JOT Psych and we added Maria to Jorge's account, set her up with JA rx.
+Becca Bressler: But we're in Maria's account right now in JOT Psych and not seeing the ability in the clinicians page to sign up with dose spot. I confirmed in stripe though. Like Jorge's account has two JA subscriptions on it. So I'm just wondering if you have. If you have any guidance or. This might be something. Jorge, where we actually have to go take a look at it is the clinic is connected. Yes, Jorge's clinic. Oh, you know what? Yes, let me check that really quickly because yes, I believe that's true.
+Marcus Irven: Becca, do you have like an ID handy or I could look up.
+Becca Bressler: Yeah, like a user id.
+Marcus Irven: Org id. Yeah, yeah.
+Becca Bressler: Here, let me slack it to you right now. I have it. All right.
+Becca Bressler: Let me just make sure Jorge, that we have you. Yeah. So Jorge's set up. But Jorge did not set up a clinician account. So I don't know if that's related.
+Marcus Irven: No, I don't. It shouldn't have to. But you know, I don't think we have tested this multi use scenario, but it should work. Let me just quickly look and see if we can see something obvious and if not, we'll have to.
+Becca Bressler: Okay.
+Marcus Irven: Okay. Yeah.
+JORGE VALCOURT: The organization looks good, Man with light skin tone with a laptop. Two, one, three.
+Becca Bressler: Oh, Dr. I'm now seeing it. It's showing up now. It looks like eprescription. Jorge, could you go back to the JOT Psych screen?
+JORGE VALCOURT: Yeah. For this last. Info here and.
+Becca Bressler: Okay. Oh, Marcus. Okay, it looks like it's not showing up. That's so strange.
+Marcus Irven: Maybe it was there be refreshed or something.
+Becca Bressler: Maybe we did. We did refresh it, but anyways, this is something. I'll keep an eye out in the future, but right now it looks like we're good to go, so. Great.
+Marcus Irven: Okay, great. Glad I could.
+Becca Bressler: Yeah. Thanks for hopping on.
+Marcus Irven: Yeah, of course.
+JORGE VALCOURT: Thank you.
+Becca Bressler: Bye.
+Marcus Irven: Bye. Bye.
+JORGE VALCOURT: Okay, so should I press register for e prescribing?
+Becca Bressler: It will need to have all of the information listed in order to set it up. And so every single clinician would be doing this from their account settings.
+JORGE VALCOURT: MPI number of the clinician again?
+Becca Bressler: Yes, of the clinician. And then the state as well is currently empty. And then if you prescribe controlled substances, you'll select that and add the DEA number.
+JORGE VALCOURT: I think we're good to go.
+Becca Bressler: Yeah. The practice information, you don't have to have that filled in for dose spot right now. So as long as everything under prescription is filled in, that is totally fine for now. Yeah. Great. Okay, so now we're going to open dose spot and this is how we do the identity proofing piece of it. So if you just click open dose spot,
+JORGE VALCOURT: this is what we need a doctor for, right?
+Becca Bressler: Yes.
+JORGE VALCOURT: Okay, you're going to need the Dr. Almansor.
+Alaimys Torres: She has a patient at this time.
+JORGE VALCOURT: So how are we going to do this? Wasn't the last patient at 12:15?
+Alaimys Torres: It's the same patient. Was there any scale?
+JORGE VALCOURT: Okay, so let's see. Becca, the doctor needs more time to do this, so we won't be able to move forward with this today.
+Becca Bressler: Okay, no problem. I mean, if she's available later, you can send me a text. I'm available to hop back on. So yeah, let's just coordinate a time so that we can walk through this together.
+JORGE VALCOURT: Okay, sounds good. Apologies for the waste of time.
+Becca Bressler: Please don't apologize. I'm excited to get you guys set up, so. Yeah, we'll be in touch for sure.
+JORGE VALCOURT: Okay, sounds good.
+Becca Bressler: Type.
+Alaimys Torres: Thank you. Okay.

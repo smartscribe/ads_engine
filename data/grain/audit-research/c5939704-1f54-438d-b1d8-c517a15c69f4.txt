@@ -1,0 +1,112 @@
+Becca Bressler: Hey there, Lisa.
+Lisa Donovan: Hi, Becca.
+Becca Bressler: How are you doing?
+Lisa Donovan: Good.
+Becca Bressler: I'm good. I'm so glad we're able to meet and we can resolve this. This template issue for you. Yeah. And I think that this should be pretty smooth and quick. I just want to make sure I'm not futzing with anything I shouldn't be futzing with.
+Becca Bressler: So I'm seeing on my end. Can you actually walk me through how you copied your templates? I'm asking because on my end, it looks like I see DAP Lisa and then a DAP Lisa V2, the other ones that you created V2s for. I don't currently see, like, the V1 version. So I'm just wondering if maybe you renamed it, but it. But didn't copy it, which would explain that.
+Lisa Donovan: Yeah, no, that's a great question. I did exactly the same thing as I did for the dap, but for some reason, instead of it giving me a copy, because I hit duplicate. Yeah. Let me move you somewhere.
+Becca Bressler: Will you share your screen with me?
+Lisa Donovan: Yeah, absolutely.
+Becca Bressler: Great. We can walk through it. Yeah. That's great. You've noticed it too. Like, you're only seeing one of them as a result.
+Lisa Donovan: Yes, I do see the others, but they've dropped to a different section. So let me here.
+Becca Bressler: Oh, I don't know how to do this.
+Lisa Donovan: Okay. So they were up here in my templates, all of them, like this one was. And then when I duplicated it, so I went like, here, do I get you to hide away? There we go. Then I hit duplicate. Yes. Then what happened is, once I renamed it, it got moved down here. Here's the intake v2, and here's the couples v2, but it took away the regular original.
+Becca Bressler: It's completely weird, I guess. First thing, can you. To move it up, Will you pin them if you hit the pin.
+Lisa Donovan: But here's the other thing about them. When I click on them, they no longer have anything in these sections, but the DAP does.
+Becca Bressler: Okay. Yeah. Will you click on the intake, Lisa?
+Lisa Donovan: V2.
+Lisa Donovan: Yeah, there's nothing here anymore.
+Becca Bressler: So can you do me a favor?
+Becca Bressler: Can you hit the star in the upper right for this one? That where you're not seeing. It's next to the duplicate link. They're like those three stars. Yeah, yeah. So it'll pull up an example, and I want to see if this looks right to you when you see the example.
+Lisa Donovan: Okay.
+Becca Bressler: Or like, does this look like the other one? Basically, we were to compare it to the other template because right now it should be a, you know, a copy of it.
+Lisa Donovan: This is short. This is very short for the hpi. It was about four paragraphs before. So that would be the only thing with that.
+Becca Bressler: Can we actually, that's like a really thing with psychosocial.
+Lisa Donovan: It was sections. It was like living situation. Yeah. It was employment, it was sleep, it was sex, it was family, it was religion.
+Becca Bressler: Can we go to that other one that this is a copy from and see what happens when we look at. Oh, this is V2. And this is the one that didn't create a V1.
+Lisa Donovan: Yep. Correct.
+Becca Bressler: Okay. Yeah.
+Lisa Donovan: So the other two just disappeared.
+Becca Bressler: Okay, let me think about this for a second, because that's really strange because for both of these, you just did duplicate, and then you just renamed it and then it.
+Lisa Donovan: Yeah, so if I do, like, a random one, like therapy, because these are fine. I don't use these. I hit duplicate. Then I went here and changed the name B2, and then I went to save. So see, it's not even here anymore. It just went straight down to here. And I don't even have therapy by itself anymore.
+Becca Bressler: Okay, so this. So this is really interesting. And the reason this happened for that one is because I'm just talking out loud here. Yeah. What you changed was a joke. Psych template. And so it just replaced your jot. Psych template. Because it's like, oh, that's not one that you've customized before, Lisa, was that a group template or did other people have it?
+Lisa Donovan: Maybe. That could be. That could be true. But Couples was through my dap. I had just duplicated DAP a while back before you guys changed all this stuff. I duplicated it, and then I just made it into a Couples one because I was. Because when I was editing before, it kept changing all of my notes into Couples when I was like, I do both.
+Becca Bressler: Yeah. Okay, so you created a second one for that. Yeah. So this. Okay. I might need to ask an engineer to help with some of this because of the way that it replaced your template. Actually, you know what, Lisa? I am going to have you try something. So this. So go to intake Lisa. V2. That's one that got replaced. Now duplicate this one and let's. So now I see an intake Lisa without V2. Do you see that one?
+Lisa Donovan: Yeah, I do.
+Becca Bressler: So let's click that.
+Lisa Donovan: Okay.
+Becca Bressler: And now let's open up those three stars for a second.
+Lisa Donovan: Okay, this looks better for psychosocial. Yep. It has occupations for system, substance, sleep. Yep. That's how I liked it for acupuncture, psychosocial, and then for hpi. This. This writes right? Better. Yeah, this looks like it writes better. It's still. It's still usually a lot longer.
+Becca Bressler: Yeah, that may just be because of the example.
+Lisa Donovan: I'm not sure.
+Becca Bressler: So something for us to keep an eye out on, but. Okay, this is. So can we go back to your templates for a second?
+Lisa Donovan: Yes.
+Becca Bressler: So, okay, let's go back to Intake Lisa, and I want you. I just want to watch this and have a screen recording of it.
+Becca Bressler: Can you click duplicate again and change the name? And then let's save.
+Lisa Donovan: Stay that time.
+Becca Bressler: And so if you go down. Yeah. Okay, so now we have both of them. So I think maybe what was happening before. Was they may have been templates that, like, another account had or. Anyways, this is. This is. This is good. Okay, so we have the original intake, and now this is V2.
+Lisa Donovan: So this one too.
+Becca Bressler: So, yeah, let's. Let's try doing the same thing to this. So this also replaced it, right?
+Lisa Donovan: Yeah.
+Becca Bressler: So when we hit duplicate. Great. Then it just kind of moved one back. Right. That. That second one.
+Lisa Donovan: See? Yeah. This is a copy then.
+Becca Bressler: So that's the copy.
+Lisa Donovan: So.
+Becca Bressler: And then if you go to the top, I think I saw a couple Dap Lisa copy. So this is maybe the old one. Yeah.
+Lisa Donovan: So this is the old one. Yeah. Huh.
+Becca Bressler: Yep. Okay, so what I'm gonna do now is because you want to revert this back to the way that it was before. So the ones you just duplicated. Okay, great. So let me now go into your templates. So. All right, so let me. So the ones that you want to Levert are intake, Lisa coupledap, Lisa copy. It already has that name on it.
+Lisa Donovan: And then Dap Lisa. Correct.
+Becca Bressler: Okay, great. So give me a second, and I'm gonna do that for you.
+Lisa Donovan: Now, when you do that, is that going to update any of the notes I've had previously or only for future
+Becca Bressler: notes so you can regenerate those notes? I'll show you how to do that if you would like to do that.
+Becca Bressler: So give me one second.
+Becca Bressler: Let me just make sure.
+Lisa Donovan: Let me.
+Becca Bressler: I'll show you how to do that right after this. I just want to make sure I get to all of these. Changes. Take leaves. Okay, so let's go to. Great. Okay, so let's go to an old note that you're going to want to regenerate.
+Lisa Donovan: Okay. We could go to this one.
+Becca Bressler: So do you see where it says Dap Lisa in the top left?
+Lisa Donovan: Right here?
+Becca Bressler: The drop down.
+Lisa Donovan: Okay.
+Becca Bressler: And then press that refresh button that you see and just say regenerate note. It.
+Lisa Donovan: Okay, let's see. Yes. Looks so much better.
+Becca Bressler: Yeah. So this. So these the three templates that you've called out. I've reverted back to our pre upgrade. So for any note that you just want to regenerate with the template and you can get rid of your V2s if you want. I kept your V2. I suggested the V2 in case some of the new training you did you liked, for whatever reason. But if you like the way these look, for simplicity, I suggest just, like, getting rid of your V2s.
+Becca Bressler: Yeah, you can regenerate any note using one of those templates.
+Lisa Donovan: Okay, perfect. So I can just go to any. No, I'll do it one more time with you here. Okay. Oh, it redoes it. Okay. Okay. I did this dump, actually. Okay. So I can go here. So I just go up here and then go to.
+Becca Bressler: No. So I would recommend getting rid of all of the V2s, because it'll be confusing the one.
+Lisa Donovan: Basically, I.
+Becca Bressler: I adjusted dat Lisa. Like, I didn't adjust any of the V2.
+Lisa Donovan: So actually, even you just want me to refresh is what you're saying.
+Becca Bressler: Basically.
+Lisa Donovan: Don't pick anything.
+Becca Bressler: Okay, that makes sense. So, yeah, for simplicity, we might want to have you just delete all the V. The V2 or whatever V2 you created for. For me, because I really don't want to. I really don't want to confuse you. It's basically those three templates, they're the exact same name, the ones that I reverted. So it's really just a refresh.
+Lisa Donovan: Okay, great. And I guess my other question is if I do want to edit anything moving forward, because I see a little bit that's still, like, first for all of my notes. Now they're making sure that there's. Let's see. Yeah, there's like, this must be a new thing that's getting in there. I'm, like, making sure that safety is. Yeah, like, risk has been a very big thing in the assessment section since the update. It doesn't always need to be in there. So if I wanted to edit that, if I went over here and I change that, I'm just nervous going to redo everything again.
+Becca Bressler: Have you. Is that what your experience was? Like if you type in. Can you remove please, like, or. You don't need to say please.
+Becca Bressler: I don't know why I always do that with these.
+Lisa Donovan: I know, I know.
+Becca Bressler: Me too. Remove, you know, any mentions of risk level from the assessment. Or however you might say it. That was just sort of my language. But that might. Yeah, assessment and plan.
+Lisa Donovan: Let's see what it does. Okay, so it took that out. Okay, so it took it out and now it's not asking me to save it.
+Becca Bressler: So I was like, yeah, so this. So I think because of the way, like, I suggested you wrote it, it didn't take it as a train. So I might set.
+Becca Bressler: I might follow up and be like, do you want this to always persist?
+Lisa Donovan: You don't want to have this in that section? Yeah, I want to be able to put that in when it's necessary.
+Becca Bressler: Yep. So what I might suggest in this moment is if you scroll up a little bit in the note, there's like a revert button. Do you see the backwards arrow next to the section? If you go to the assessment and plan section and do you see. Yeah, yeah. There's like a backwards arrow on the left. You go to the left of that for a second. Go to the left. Oh, here. Yeah, right there. Go to revert to original.
+Lisa Donovan: Okay.
+Becca Bressler: And then let's put back in the box. Say, always leave out, like, forever. Like, always leave out any mention of risk level from the assessment and plan. Never put that in this section.
+Becca Bressler: You know, mentions of always or never.
+Lisa Donovan: Okay. I always leave out any mention of risk level in assessment. Okay, so that was taken out.
+Becca Bressler: Okay, great. So then. Yes, Train this.
+Lisa Donovan: Okay, perfect. Yeah. I was really enjoying that there was an edit versus, like, before you could switch between magic or edit. Just this note. And I appreciated that there was, like, a benefit of only this note. I want this to happen. I don't want you to do it for everything. Because what happened is even in the magic stars or whatever you want to call this, it would. In the past, before this update, it would change everything always.
+Becca Bressler: And I was like, wait, this is meant to be way more intuitive so that you have more control and know when it's updating everything in this template. Right. So. So unless you see that, like, prompt that says train, you can. You should assume that it's only for this note. That said, if you're wanting to save it and you're not seeing that, I just recommend writing the prompt in such a way that is like, always do this or remember for fear. Future notes or things like that. It'll then pick up on that and know to ask, oh, do you want me to train this for the future?
+Lisa Donovan: Okay, that's good to know. Okay, great. And then, yeah, I guess my whole team is feeling kind of frustrated with the new update and the way it's writing things, and I'm just wondering, like, what can I share back to them to get them the support they need? Yeah, templates just seem really. They seem so clinical, and it's way too much detail than what's necessary for an outpatient therapy session. Yeah. And so there's just a lot of challenges that we're noticing in, like, now having our notes done on time, written properly, and not having to edit every little thing and not getting AI to follow us.
+Lisa Donovan: So, yeah, anything you can suggest.
+Becca Bressler: So, first off, really great feedback for me to provide to the rest of the team. Great. It seems like the quickest fix for people to, you know, be satisfied with their note output again is for us to revert templates back to the way that they were before the upgrade. Obviously, like, this tool is here to help train it and stuff, but I totally understand that people don't want to go through the process of doing that again if they are satisfied with the way their notes were looking before. So I would just recommend if people can reach out to the customer support email. There's different people managing it, so it'll actually happen much more quickly than, you know, than just reaching out to me. But if they say that they want their templates changed back to how they were before the upgrade, that someone will take care of, someone will do for them what I just did for you.
+Lisa Donovan: Okay, great.
+Becca Bressler: And the key thing is for people to just make sure they share the name of the template that they want changed back, because that, you know, we definitely don't want to accidentally tinker with the wrong template. So having, like, the very precise name is super helpful for us.
+Lisa Donovan: Okay, great. And then are any of my templates connected to anybody else then now, or are they completely mine? Because I would like that yours were your.
+Lisa Donovan: Yours are yours.
+Becca Bressler: Okay, perfect.
+Lisa Donovan: Perfect. Great. Awesome. Thank you so much. I appreciate it. Yeah, it's this AI system and not having to think through every little thing that I did in a session, having to write it. And the change. Change was like, no, no, no, I totally understand.
+Becca Bressler: I totally understand. You are not the first person who we've heard this from. So it's really helpful to get user feedback and especially when we're making changes that aren't actually meeting users like where they're at, and we don't want to be disrupting your workflow. So I'm really glad that you reached out. And please share with the rest of your team that they should totally email our customers. Port email, and we will change templates.
+Lisa Donovan: Okay, great. I will let them know that. Great.
+Becca Bressler: All right, Have a great rest of your day, Lisa.
+Lisa Donovan: You too. Take care. Okay, bye.

@@ -1,0 +1,98 @@
+Becca Bressler: Hey there, Sean. You're muted in case you're trying to speak.
+Chavonn Davidson-Smith: There we go.
+Becca Bressler: Hey, how are you?
+Chavonn Davidson-Smith: Good, how are you?
+Becca Bressler: Good. You emailed us at the perfect time. I'm super excited that you're interested. We can get you set up asap. The one thing I. The reason I want to talk to you though is I think that it's missing a couple core features that I think our users are probably going to want.
+Chavonn Davidson-Smith: I just want to ask you about that.
+Becca Bressler: So let me pull it up on my computer so I can screen share. Just give me one second.
+Chavonn Davidson-Smith: I'd have to find.
+Chavonn Davidson-Smith: I'm so excited about this because I was like, I gotta have that, I gotta have that. And I love Jot psych. I don't want to leave.
+Becca Bressler: No, totally. What are you using right now for it?
+Chavonn Davidson-Smith: I'm using Bravado Health or treat.
+Becca Bressler: Okay, let me. Sorry, just give me one second because I want to be logging in the right email here. How much are you currently paying for the E prescription?
+Chavonn Davidson-Smith: I believe it's $45 a month.
+Becca Bressler: Okay. It's a little bit more expensive for Jot Psych and it comes with the controlling prescribed. Oh no. What's going on here? Oh, prescribing controlled substances. It's going to be 69amonth, but 10 months for. Or $10 for your first month. Just because we know there's going to be like switching over costs and we don't want people to double pay and things like that. So. All right, let me share my screen. So basically how this is looking interesting. Give me one second. We. So for onboarding, for initially it'll be a like guided onboarding. There's no cost to it, but we definitely want to just make sure users are like comfortable getting on. I don't. I think our first iteration of it, it maybe is not the most user friendly, I would say. Okay. The thing that I am trying to show you but is not totally working right now. Let me go to a patient file. Sorry about this.
+Chavonn Davidson-Smith: No worries.
+Becca Bressler: Should be a button that like. Just says prescribe medication. Let me just see really quickly. Okay. I don't totally need to show you the whole way it works. For the purpose of this conversation though, we can get you set up really quickly. I just have to ask one of my engineers what's happening here.
+Becca Bressler: The question I have for you is what now when you're using E prescription, what are the expectations you have as far as like, what information is brought back into your note? For instance, the way that this is going to work, at least for our early iteration, is either from the patient profile or from the recorder screen. When you add a patient, you'll be able to send a prescription and you'll press a button. It'll open Dose Spot into a new tab. That's the vendor we're using.
+Chavonn Davidson-Smith: Oh, Dose Spot. Wait a minute. That might be the same thing. Thing, because I get an email from Do Spot, but it's called Treat rx. It might actually be the same thing.
+Becca Bressler: Yeah, it's their vendor that different EMRs use for integration purposes. And a really popular one, it's not doctor first, which, you know, I think people have a lot of issues with. But, but the, the user flow will be from these screens. You're going to be able to prescribe medication. The question I have for you is like, what are your expectations for this two way door? Right. So right now, when you prescribe medication in your prescription software, does that information get pulled back into your note? Does it get pulled back into your. It doesn't.
+Chavonn Davidson-Smith: It does not. Because I'm using JOT Psych and I'm using a separate E prescribed tool. So there's nothing from that system that goes over into JOT Psych at all.
+Becca Bressler: So you're using Jawtech as your EHR right now?
+Chavonn Davidson-Smith: Correct.
+Becca Bressler: Oh, I gotcha. Okay, that is helpful. Have you ever used an integrated software before where you're.
+Chavonn Davidson-Smith: No, not with this setup. You mean like other EHRs?
+Becca Bressler: Yeah, yeah.
+Chavonn Davidson-Smith: So I've used Charm before. I've used Advanced md. I've used other ones before. Yeah.
+Becca Bressler: Okay. So what I'd love to know is in those systems where when you would prescribe medication, was it automatically put in the note? Was it automatically in the patient profile? Like, what I want to make sure of is that when you go to prescribe the medication, we're pulling back the info that you're going to want in the patient's chart and putting it in the note in the way that you would expect it. Does that make sense? I'm curious. When you were using Charm, for instance, and you would go to prescribe. Where else might you see that medication? In the ehr?
+Chavonn Davidson-Smith: Yeah. So it would be under the patient's profile. There was actually like a little banner also that similar to what Jot Psych has, that has like, the medications listed at the top. That recent thing that you guys added up there, it's a little icon that says patient medications.
+Becca Bressler: Are you talking about, like in the note, for instance? Like.
+Chavonn Davidson-Smith: Yes, like in the note right here. Yes. So there. There would be a banner in charm that would. Would list the medication. I think it was on the side there, but that would have the medications listed there.
+Chavonn Davidson-Smith: I mean, as far as information, I would just need the name, dose of the medication, the start date.
+Becca Bressler: That's helpful.
+Chavonn Davidson-Smith: Basic information.
+Becca Bressler: And then when you're charting, though, one question I have is around past medications. So I've seen a lot of people with charting, you have to list past medications. When you used charm, was that past medication info in the E prescription software and then made it back to your ehr, or did you, like, manually put the past medication in the ehr? Does that question make sense?
+Chavonn Davidson-Smith: The question makes sense. I'm just trying to remember the workflow. I don't think that I put it in. I mean, I think the past medications would come up, like in my note or my initial intake, but I don't think I was manually putting that in. And I don't think it came from the E prescribe either. I think it was just from the initial appointment. Does that make sense?
+Becca Bressler: I think so. And so what that would mean is from your initial intake, you would add it to their list of medications. But what you would do, for instance, is like, the start and end date would clearly indicate that it's in the past.
+Becca Bressler: This would be like, not is active, right?
+Chavonn Davidson-Smith: It would say inactive.
+Becca Bressler: And so you would have in the patient's chart, like, the history of what had been tried as well as what is active and current.
+Chavonn Davidson-Smith: Yes. What I'm doing now in jot Psycho, I have a. On my template, I have a section for past medication. So when we talk about it during the session, it automatically puts all that in there.
+Becca Bressler: Okay, got it. But do you talk about it every single time or you carry it forward from previous.
+Chavonn Davidson-Smith: It carries forward.
+Becca Bressler: Okay. It carries forward from previous notes. But in your previous EHRs, you would expect all to see the past medications.
+Becca Bressler: Here, when you dealt with, say, like, allergies, for instance, patient allergies, how did that work with the prescription software? Did you like, was that in their patient's chart in, say, charm, and it would automatically update the prescription, correct?
+Chavonn Davidson-Smith: Yes.
+Becca Bressler: Was it. Were you ever in a spot where you would say, like, update the allergy information in the prescription software and then it would change charms allergy information?
+Chavonn Davidson-Smith: No, I think it would go the other way around. What was.
+Becca Bressler: Got it. So it was always in this part of the. Okay, I'm noticing. I don't feel like we have allergy information on here, do we?
+Chavonn Davidson-Smith: It's at the. It's. It's up. It's not in that section, but then in the note section it is.
+Becca Bressler: Right. It's like a section in the note, basically.
+Chavonn Davidson-Smith: No, it's. It's also at the top now. So, like, if you click on that patient name there. Well, I don't know that you can. From there.
+Becca Bressler: Interesting.
+Chavonn Davidson-Smith: No, like, I'm in a note section now. Has the patient name and then next to the patient's name, there's a bunch of icons.
+Becca Bressler: Oh, I know what you're talking about. Yeah, the note there. So you can add it there.
+Chavonn Davidson-Smith: Basically, allergies are listed there. Yeah, but.
+Becca Bressler: But it's not. But.
+Chavonn Davidson-Smith: Well, actually it's not listed there for this patient. And put it in there.
+Becca Bressler: Would the E prescription require you to have allergies listed in the patient before you could prescribe?
+Chavonn Davidson-Smith: Yes.
+Becca Bressler: Okay, so it would basically require you to have it in Charm. What was that experience like? Like, if your patient didn't have allergies, would you like, press prescribe and it would stop you or wouldn't let you.
+Chavonn Davidson-Smith: It wouldn't let you submit it without having that in there.
+Becca Bressler: Okay.
+Chavonn Davidson-Smith: In there? Yeah.
+Becca Bressler: Would it allow you to go to the prescription software or. Or was it. Were you prescribing, like, within Charm?
+Becca Bressler: Basically, there was. So there was no separate. There was no separate window.
+Chavonn Davidson-Smith: Okay. Got. Even had a. It even had an integration with FullScript, which was fantastic for supplements. It had that capability also. Charm did.
+Becca Bressler: Okay. Do you. Have you ever used an EMR with an E prescription? Oh, so right now you're using a separate E prescription software.
+Becca Bressler: Does that also require you to input allergy medication before you prescribe?
+Chavonn Davidson-Smith: Yes.
+Becca Bressler: So sometimes it's in the ehr, but even if you have a standalone product they would carry, they would control that requirement? Basically, yes.
+Chavonn Davidson-Smith: So I have to. Even though it's in my jack Psych. No, I have to add the allergies in for every patient.
+Becca Bressler: Okay, got it. When you do that, or else you can't submit it. Okay.
+Chavonn Davidson-Smith: Which is why we're having this conversation. Because it's too much to do too.
+Becca Bressler: Oh, yeah. It's so annoying. I'm sure the reason I'm asking all these questions is right now we have not built the like tube that makes sure when you add prescription information in dose spot, it brings it back to jot sample psychs patient. So. So you can prescribe with jot psych. Like right now I could set you up where you like click a button, you sign up with dose spot and you start prescribing immediately. The piece that's not totally built is making sure new prescriptions you add in do spot are immediately added back to jot psychs.
+Chavonn Davidson-Smith: Got it.
+Becca Bressler: Now, that's not going to take a long time. I'm just trying to get together a list of, like, requirements as far as, like, what users expect.
+Chavonn Davidson-Smith: Well, that would be. That would be okay, at least, you know, temporarily, because I'm not getting that now.
+Chavonn Davidson-Smith: You know, but, but one thing that I, I would also be interested in and I don't know if this will be a part of how you guys are setting it up, but the, the renewals and so I know in other systems they will notify you if you have a. If the pharmacy has alerted them that a medication needs to be refilled or renewed and you can just click it and renew it. Right now I'm getting a million and ten faxes every single day about.
+Becca Bressler: So that is not something. That's also not something we built yet. Right. Which is like, ultimately we need to have an alert within Jot Psych so that you know when there's an issue. That is also on our list of things to build as we move forward, but it's not there currently. Is that something that you would be okay with temporarily? It sounds like. Yeah.
+Chavonn Davidson-Smith: I love Jot Psych. I start looking at other systems today just simply because of this. I need to be able to at least do. Do the E Prescribe tool. But, but I'm, I, you know, I can be patient.
+Becca Bressler: Do you want to sign up for it right now?
+Chavonn Davidson-Smith: Yeah, I would.
+Becca Bressler: Let me. Give me a second. I want to. See about this.
+Chavonn Davidson-Smith: How do I especially at least you know, to try it out to see how it works.
+Becca Bressler: Totally. Let me. Do you. So I might need to pull my engineer into this because. Because we haven't released it to everyone, we have to figure out how to like turn it on for you. Do you have any availability today to meet about this?
+Chavonn Davidson-Smith: Getting ready to have a patient here at 12:30, but let me see when I'm.
+Becca Bressler: We could truly get you up and running like today.
+Chavonn Davidson-Smith: Um, I'll have some time to. Maybe not until 4:30.
+Becca Bressler: So I have a meeting at 4:30. Do you have something at 5? Potentially?
+Chavonn Davidson-Smith: We can do it at 5.
+Becca Bressler: You're on the east coast.
+Chavonn Davidson-Smith: Yeah.
+Becca Bressler: Okay, great. I'm going to send you an invitation for five and then we will get you set up with it literally today.
+Chavonn Davidson-Smith: Perfect. That sounds amazing. I'm glad I emailed you because I tried like chatting on the job site. I was like, no, I need to find.
+Becca Bressler: No, no, I'm so glad you did and I'm glad I have your phone number because we've chatted like, oh my God, Siobhan. Let me reach out. This is so exciting.
+Chavonn Davidson-Smith: Yes, great. This is perfect. I look forward to the meeting this afternoon.
+Becca Bressler: Yeah, same. We'll get you set up. Thanks, Siobhan.
+Chavonn Davidson-Smith: All right, take care. Bye. Bye.

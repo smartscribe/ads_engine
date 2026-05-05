@@ -1,0 +1,214 @@
+/* JotPsych brand tokens, mirrored from the live landing page CSS.
+   Source of truth: jotpsych.com production CSS + brand guidelines PDF. */
+
+:root {
+  --midnight: #1C1E85;
+  --deep: #1E125E;
+  --warm: #FFF2F5;
+  --sunset: #FD96C9;
+  --afterglow: #813FE8;
+  --daylight: #FFF3C4;
+  --white: #ffffff;
+  --text: #1E125E;
+  --text-muted: #6B7280;
+  --border: rgba(28, 30, 133, 0.10);
+  --border-strong: rgba(28, 30, 133, 0.18);
+  --red: #991B1B;
+  --green: #166534;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+html, body {
+  font-family: 'Archivo', system-ui, -apple-system, sans-serif;
+  color: var(--text);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.eyebrow {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: rgba(28, 30, 133, 0.08);
+  color: var(--midnight);
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 8px 16px;
+  border-radius: 99px;
+}
+
+.eyebrow-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: #ef4444;
+}
+
+.cta-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--midnight);
+  color: var(--white);
+  font-family: 'Archivo', sans-serif;
+  font-weight: 700;
+  font-size: 22px;
+  padding: 18px 36px;
+  border-radius: 99px;
+  text-decoration: none;
+  letter-spacing: -0.01em;
+}
+
+.cta-button.cta-light { background: var(--white); color: var(--midnight); }
+.cta-button.cta-sunset { background: var(--sunset); color: var(--deep); }
+
+/* On midnight bg, auto-flip the CTA to white-bg / midnight-text. */
+.layout-typographic.bg-midnight .cta-button { background: var(--white); color: var(--midnight); }
+.layout-bottom-overlay.bg-midnight .cta-button { background: var(--white); color: var(--midnight); }
+
+.logo {
+  height: 56px;
+  width: auto;
+}
+
+/* Layout: bottom-overlay (image hero + bottom card) */
+.layout-bottom-overlay {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background: var(--warm);
+  overflow: hidden;
+}
+.layout-bottom-overlay .hero-image {
+  position: absolute;
+  inset: 0;
+  background-size: cover;
+  background-position: center;
+}
+.layout-bottom-overlay .hero-image::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, rgba(28, 18, 94, 0) 30%, rgba(28, 18, 94, 0.85) 100%);
+}
+.layout-bottom-overlay .top-bar {
+  position: absolute;
+  top: 32px;
+  left: 32px;
+  right: 32px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 2;
+}
+.layout-bottom-overlay .copy-card {
+  position: absolute;
+  bottom: 32px;
+  left: 32px;
+  right: 32px;
+  background: var(--white);
+  padding: 32px;
+  border-radius: 24px;
+  z-index: 2;
+  box-shadow: 0 20px 60px rgba(28, 18, 94, 0.25);
+}
+.layout-bottom-overlay .copy-card .eyebrow { margin-bottom: 16px; }
+.layout-bottom-overlay .copy-card h1 {
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 1.05;
+  color: var(--deep);
+  margin-bottom: 12px;
+  letter-spacing: -0.02em;
+}
+.layout-bottom-overlay .copy-card .subline {
+  font-size: 22px;
+  color: var(--text-muted);
+  line-height: 1.4;
+  margin-bottom: 20px;
+}
+.layout-bottom-overlay .copy-card .footer-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+}
+.layout-bottom-overlay .copy-card .attribution {
+  font-size: 16px;
+  color: var(--text-muted);
+  font-style: italic;
+}
+
+/* Layout: typographic (no hero image, big text on brand bg) */
+.layout-typographic {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background: var(--warm);
+  display: flex;
+  flex-direction: column;
+  padding: 64px;
+  overflow: hidden;
+}
+.layout-typographic.bg-midnight { background: var(--midnight); color: var(--white); }
+.layout-typographic.bg-midnight h1,
+.layout-typographic.bg-midnight .big-number,
+.layout-typographic.bg-midnight .subline { color: var(--white); }
+.layout-typographic.bg-midnight .eyebrow { background: rgba(255, 255, 255, 0.12); color: var(--white); }
+.layout-typographic .top-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 32px;
+}
+.layout-typographic .center-stack {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.layout-typographic .big-number {
+  font-size: 280px;
+  font-weight: 700;
+  line-height: 0.9;
+  color: var(--midnight);
+  letter-spacing: -0.04em;
+  margin-bottom: 24px;
+}
+.layout-typographic h1 {
+  font-size: 76px;
+  font-weight: 700;
+  line-height: 1.0;
+  color: var(--deep);
+  letter-spacing: -0.02em;
+  margin-bottom: 24px;
+}
+.layout-typographic .subline {
+  font-size: 28px;
+  color: var(--text-muted);
+  line-height: 1.4;
+  margin-bottom: 32px;
+  max-width: 80%;
+}
+.layout-typographic .cta-row {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
+.layout-typographic .source-line {
+  font-size: 18px;
+  color: var(--text-muted);
+  margin-top: 16px;
+  font-style: italic;
+}
+
+/* Story (1080x1920) overrides — tighter horizontal padding, taller flow. */
+.story .layout-bottom-overlay .copy-card h1 { font-size: 64px; }
+.story .layout-bottom-overlay .copy-card .subline { font-size: 26px; }
+.story .layout-typographic { padding: 80px 56px; }
+.story .layout-typographic h1 { font-size: 88px; }
+.story .layout-typographic .big-number { font-size: 320px; }
+.story .layout-typographic .subline { font-size: 32px; max-width: 100%; }

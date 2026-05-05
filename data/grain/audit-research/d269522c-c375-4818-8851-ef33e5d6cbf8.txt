@@ -1,0 +1,189 @@
+Dorina Tulgara: Hello?
+Jack Waugh: Hey, can you hear me?
+Dorina Tulgara: Okay.
+Jack Waugh: Awesome. How's your day going today?
+Dorina Tulgara: Good. Yours?
+Jack Waugh: Pretty good. Can't complain. Definitely ready for the weekend? Yeah. But, well, thanks for taking the time to chat with me today. Just kind of wanted to ask you off the bat, like, I know, I guess you had tried us out for a little while. How did you hear about jot. Psych at first. And what. What made you interested in trying us out?
+Dorina Tulgara: Just on Facebook, I think. And my. My other friend is using it, I think.
+Jack Waugh: Gotcha. Very cool. So are you, like, what. What's your role in the mental health space?
+Dorina Tulgara: Right now I'm trying to open my practice now I'm with Headway. Enrolling.
+Jack Waugh: With Headway. Okay, cool. And how have you. Have you been finding that so far?
+Dorina Tulgara: Yeah, you just have to spend a lot of time reading their instructions and. Yeah, not fun, but it's part of the setting.
+Jack Waugh: It's a process for sure. Well, cool. So I don't know what your current patient load is, but can you kind of walk me through, like, what you're doing right now for your notes and like, how much time you've been spending on your notes right now?
+Dorina Tulgara: Well, right now I use the PCC and has a template, so. And yeah, I'm not the. Because the English is my second language, so obviously it's. But I'm. I'm okay with explaining, like, I don't know. That's why I'm trying to see how I can integrate so I'm more efficient right now since they changed to. Because I used to have a scribe and that my nose will take like 2 hours, 40 patients, but now because of the template, it takes like five hours. It's insane.
+Jack Waugh: Oh, wow. Yeah. So that's like.
+Dorina Tulgara: Well, now I'm picking up because I can. I was not able to type fast because I never needed to. In nursing, you don't really have to type a lot, but now I'm trying to work on my typing skills. But still, when you're tired, you. You don't really move fast.
+Jack Waugh: Yes. Got you. Well, that makes a lot of sense. Yeah.
+Dorina Tulgara: For 40 patients, I mean, that takes about three to four hours. Before, it used to take two hours with a scribe, so it was easy, right?
+Jack Waugh: Yes.
+Jack Waugh: You're looking for something that can kind of. Streamline that workflow for you a little bit. So I'll tell you about what we do and then I'll kind of share my screen with you as well so you can kind of see how JOT psych works. So basically because we're a behavioral health scribe, we're one of the few scribes on the market that's actually trained specifically for psych professionals. So people who use us save anywhere from I've heard up to eight hours a week, people saying they've saved with JOT psych to typically 5 to 8 is the average. In your case, you might see a really significant time reduction in your notes using John Psych. So I'll kind of walk you through how that works and show you that. And then also just wanted to ask before I do that, I know you mentioned you're using Headway right now. Are you using them for like your billing as well?
+Dorina Tulgara: Yeah, for now I have a biller, but he said just start with Headway and then we can transition you.
+Jack Waugh: Gotcha. Well, I'll tell you about this. We actually just released something called JOT Bill and it's something, it's really exciting. Basically we're able to cut the most cost by about 5%. So we're much cheaper. I think we only take between a 4 to 8% cut, whereas like Headway takes like a. Something crazy like a 20% cut. So it's a lot more affordable. And the cool thing about it, the way it works is we run eligibility first then because we have this note system that's like an AI, you know, scribe for behavioral health professionals go through and we have the step with JOT bill that actually makes sure your note is audit proof. So we'll go and make sure the note is like perfect before it gets sent and then we'll also send it out for you on the tail end of that. Does that sound like something you'd be
+Dorina Tulgara: interested in but you also provide the EMR or.
+Jack Waugh: Yeah. So we're two things. We're one, we're an AI scribe and I'll show you that first when I'm sharing green. But the other thing, if you were interested in that, I could set up a separate meeting for you with our chief of staff Chris, who can kind of walk you through that. The other thing we are now doing is handling billing. So it's kind of like a one stop shop for billing and it's a lot cheaper than a lot of the, a lot of the other billers on the market right now.
+Jack Waugh: Yeah, does that so I'll come back to that in a second, and if that's something you want to do, I can happy to set that up, but let me go ahead and share my screen. Are you logged into Jotsych right now, by the way?
+Dorina Tulgara: No.
+Jack Waugh: So if you don't mind logging in, I think that might be cool, because then as I'm clicking on things, you can kind of follow along and. See how it works? Yes. J, o, t, p, s, y, c, h.
+Dorina Tulgara: Do I have a login?
+Jack Waugh: I don't know. I can tell. I can tell your email if you need me to.
+Dorina Tulgara: Oh, which one is it?
+Jack Waugh: D Suslovas at Serenity Path.
+Dorina Tulgara: I recently sign up. I sign up for so much things lately I can't remember.
+Jack Waugh: Yeah, I know. It's hard to keep track of.
+Dorina Tulgara: Okay, so I'm in.
+Jack Waugh: Okay, you're in. Awesome. So just stop me at any point if you have any questions, but I'll kind of like walk you through how, how you go about using JOT Psych. So first you're going to go over to this record window here. And by the way, you said. I know, you said you're opening your own practice. Are you, Are you like a psychiatrist? Are you like a nurse practitioner? Like, or what's your role right now?
+Dorina Tulgara: Yeah, the nurse practitioner.
+Jack Waugh: Nurse practitioner. Okay, cool. So I'll show you some templates that might be of interest to you. We already have some built in, but we also have like a ton of customization options too. Okay, so you're going to click Record first.
+Jack Waugh: You can type by patient name if you want to. You don't have to. Some people would rather leave it blank. That's totally fine. We can't see patient names on our end regardless. Okay. And then for now, we could just select something like Psychiatric intake.
+Dorina Tulgara: But where, where do I select?
+Jack Waugh: You see this little under session type here? Session type. Yeah, session type. And then choose a template.
+Dorina Tulgara: Huh?
+Jack Waugh: Yeah. So intake template. This would be like if you have a new patient walking in.
+Dorina Tulgara: But if I have E, add on psychotherapy, usually all of them, I just select that.
+Jack Waugh: Yes. So if you want to do that one, scroll down a little bit. And then we have that template right here, actually, the E/M plus add on psychotherapy here.
+Jack Waugh: Okay, so maybe that's the one you'd want to click for this case.
+Dorina Tulgara: Yeah. Because that's the 30 minutes usually that includes the therapy.
+Jack Waugh: Definitely. Okay, so once you've got that, all you have to do, you just click start recording and you'll go ahead and record the session. Obviously, like, we don't have time today to like walk through like a whole patient session. But I'll show you some patient sessions we have loaded into JOT Psych that can give you an example of how it kind of looks.
+Dorina Tulgara: But this recording is a different tab. Right.
+Dorina Tulgara: So I have the. For example, I have the EMR tab open. Open.
+Jack Waugh: Yep. So this is a different, different tab.
+Dorina Tulgara: And if I accidentally close it, then that's it.
+Jack Waugh: Yeah. So you might actually be able to get back to it even if you accidentally closed it.
+Jack Waugh: It might still be there depending on your browser. But yeah, you're probably better off not closing it. But I, I've, like, I've done that once or twice and it normally is still there, so it might not go away. But yeah, generally speaking, you'll want the microphone to go. And then you would hit stop when you're done. And then you see this little generate note button here? You just click that.
+Jack Waugh: And I know we're not actually generating a real note right now, but I'll just leave it up to show you how long it is.
+Dorina Tulgara: Okay. Generate note.
+Jack Waugh: Generate note. The reason we do that is if you need to make like multiple recordings, like after a patient walks out, you want to add something else. It. So you can do that.
+Dorina Tulgara: Which one is it the same later?
+Jack Waugh: Yeah. Yes. Well, you can do that as well. So.
+Dorina Tulgara: And the generate note will be. Should I do it now or.
+Jack Waugh: Yeah, if you want to. You don't have to right now because we're not doing a real session. I'll show you what an actual note will look like for you and I'll kind of walk you through that.
+Jack Waugh: So we go here to notes. I'm going to pull up a medication and psychotherapy template. Okay. So. And the note generates really quickly. It normally takes 15 seconds. It's really fast. So I'll scroll through this. You can read through and summary psychiatric history, substance use. So all of this is being picked up from the patient session. And the idea here is we have a fully HIPAA compliant note that's been generated for us. It's already ready to go and formatted.
+Dorina Tulgara: But when the page. When the provider goes over history, do they use the same template to just. No offer.
+Jack Waugh: Yep. So when you go over history with them, all of those answers that you. All you have to do is hit the start button for recording and we'll fill in all of this from your patient session.
+Dorina Tulgara: Yeah, but the provider has a separate template because, you know, to ask questions. What do they usually do?
+Jack Waugh: Oh, I see. Are you talking about like a form before the patient?
+Dorina Tulgara: No, like provider to guide the. Because if the provider doesn't type, do they use like a specific template to ask questions so they don't forget like the details?
+Jack Waugh: You definitely can if you'd like to do that. I think it's. That's kind of changes from provider to provider. I will say you can always add notes here in this session recording and notes things. So if there's anything from. Another template or questions that you want to pull in. You can actually easily type those here and it'll also generate in that note for you. And also something pretty cool. I'll show you the rest of this note here. So, Chief Complaint HPI review of systems. Here's the add on psychotherapy section. Now what I was going to say is if this is something you need, we'll also auto match ICD and DSM codes and if. I don't know if that's something you would need this for, but if you do find you're spending a lot of time looking up like those kind of billing codes, we can actually auto match those for you too. But the idea here is once you're done, you would just hit copy all sections. And this note has already been formatted, ready to be pasted into your ehr.
+Jack Waugh: So I'll just pause there really quick because there's a couple other things I'll show you. But what about the follow up?
+Dorina Tulgara: If for example, last time the patient reported some issues you want to follow up, would that copy from last note or.
+Jack Waugh: Yeah, so their past history from last notes you use within JOT Psych will actually update there. And there's also a patient chart here, so all that information will update there too.
+Dorina Tulgara: So it keeps track of the patient.
+Jack Waugh: It does, yep.
+Jack Waugh: So that's the basic workflow using JOT Psych. We also do have this AI note assistant here. So it's like if you ever say, okay, this summary is cool, but it looks a little short to me, you could say be more detailed from now on on this section and you just click that and it'll write in more detail, kind of maybe in your voice if you want it to write a certain way. So that's another really helpful tool. And the other thing I'll show you really quickly is you can like all of these templates are you can edit them.
+Jack Waugh: So you just go to one of our templates and you make a copy up here. There's like a little duplicate button up here and once you do that, you can add anything you want to these templates. So I think you had just mentioned something a second ago, but let's say I wanted to add maybe the DSM codes to this. I could add those right there and they're all. They'll show up in this medication plus psychotherapy template. Does that make sense?
+Dorina Tulgara: Okay, cool.
+Jack Waugh: Now another thing I want to show you really quickly, but before I do that.
+Jack Waugh: So is this like I want to make sure I walk through all the features you might need for something like JOT Psych. Are there any other things you would be hoping that JOT Psych would be able to do?
+Dorina Tulgara: Well, what do you have experience with the headway charging?
+Jack Waugh: Yeah. So as far as our billing side of things.
+Dorina Tulgara: No, they have the EMR too.
+Jack Waugh: Yeah. So we're. What JOT Psych is, is we're kind of meant to be used alongside EHRs and EMRs to save you time on your notes. Because part of the problem with using the EMRs and EHRs on their own.
+Dorina Tulgara: No, they do have, they do have a template and they said that if to. To use their template. But can I upload their template on your website? So you do formatting based because they won't accept any other template.
+Jack Waugh: Yes, actually you definitely can. I'll show you how to do that. We're actually, we have this really cool custom template builder. So do you see documentation up here? So you click that and then you'll click note templates here and then see this upload template button? You click that. If it's like a PDF, you can just drag and drop the PDF in here. Or if it's just text you want to copy and paste, you can copy and paste it right here and we'll build out that template for you.
+Dorina Tulgara: Okay.
+Jack Waugh: So that's really helpful. Once you've built that, you would go over to this record window and you would just load it into the the template chooser here and it'll show up like right here. This is a couple custom template that I built. I did like a CBT one, but again it can be anything. So if you have headways specific template that's very easy to load into JOT Psych. Cool. Something else really cool if you go over to your patient tab here. So this is an example of like different things you can do with JOT Psych and find for patients.
+Jack Waugh: So all of their diagnosis and any medication changes they make will just like automatically update in their patient chart here. But also pretty cool. I don't know, do you spend like have you found in the past you've had to like write a lot of like accommodation letters or prior authorizations for patients.
+Dorina Tulgara: Yeah, I'll have to do it. So right now at my current job I don't do it because the pharmacy doesn't.
+Jack Waugh: Okay, gotcha. Well, this is a nice feature we have. If you ever do find you need to do it. We will actually just write you one for your patient so you can type in whatever. Maybe it's a pet accommodation. Or maybe it's. Maybe. What was the other ones that came up there? Workplace accommodation. It could be really anything, but let's just do pet. And we'll just automatically write you an accommodation letter for that patient. And the cool thing there is because Jot Psych has their past like notes and everything is we'll tailor it to that patient specifically.
+Dorina Tulgara: Okay.
+Jack Waugh: Yeah. So does that all make sense so far? Just want to pause there real quick.
+Dorina Tulgara: Yeah.
+Jack Waugh: Cool. So does this seem like something you would like using and you feel like would save you some time?
+Dorina Tulgara: Yeah, for sure.
+Jack Waugh: Okay, awesome. So what I can do, then you have the two weeks and I can also give you a discount month for $20 on top of that. That way you can keep using Jot Psych. And I think that gives you. Gives you like 45 days to really get a chance to try us out and use it. Does that sound good?
+Dorina Tulgara: Cool.
+Dorina Tulgara: How much is a month for the discount month?
+Jack Waugh: No, in general or in general. So, yeah, after the discount month, it depends on a couple things. Are you the only provider who would be using Jot Psych at your practice?
+Dorina Tulgara: Yeah.
+Jack Waugh: Okay, gotcha. So basically the way it would work is it's two weeks, then you do the discount month for $20, and then after that it depends on if you pay monthly or annually. If you pay monthly, it's 1,50amonth. If you pay for the year, it comes out to about 1,35amonth. But that's also why we do the discount first, to make sure that you can see it's like saving you all this time and giving you a ton of hours back on your notes.
+Dorina Tulgara: Yeah. Awesome.
+Jack Waugh: Okay, well, I'll help you get set up with that. And I have to approve it for you on my end. So what you can do, see your practice here. So you're going to click that and then you'll click subscriptions here. And then see this Manage subscription button? Okay. So you click that and then let you know, I'll share my screen again. You should see. This screen pop up, Should look like this.
+Dorina Tulgara: Do you see this here? Mm.
+Jack Waugh: Okay, cool. So what you can do is you just click on this purple button for add payment method here and then once you know and I'll. I'll go ahead and approve that on my end so you can get the discount month.
+Dorina Tulgara: Well, I don't have the payments right now, but I can do it later, no problem.
+Jack Waugh: The only thing is I typically have to approve it while we're on the call so it can go through if, if there's a better time. That's fine too. But I'm also happy to like take a quick second if you. If you need a second to, to get whatever you need.
+Dorina Tulgara: No, that's fine. I. I just don't wanna. Two weeks and then I can reach out because. Sure. I don't know when I will start actually seeing patients, so. I see. So you're.
+Jack Waugh: Have you just had curiosity?
+Dorina Tulgara: Are you seeing any patients right now? Well, I'm. I'm full time employed at. But I use PCC so that the only thing there I can copy paste. It's. It's difficult to use jat, the AI there because you have to click a lot there. It's a clickable template. So.
+Jack Waugh: Yeah. Yeah. So it's not really the best for like saving you some, some time on your notes.
+Dorina Tulgara: Oh, you have to click a lot there and you have to enter your own billing code by typing it in. So copy pasting.
+Jack Waugh: Yeah, I hear that. Well, I will tell you we can definitely handle the billing codes for you. That's something we definitely.
+Dorina Tulgara: No, there is only free bill codes I use for that patient and then I already know them by heart. It's just I have to type it in. Yeah, but I don't know if you'll save me any time because I have to click anyway, so.
+Jack Waugh: Well, when you say you don't have.
+Dorina Tulgara: Yeah, well, I have to do a lot of chart reviewing there. So it's not like I will still spend time chart reviewing when you.
+Jack Waugh: And when you say you'll still spend time chart reviewing, can you walk me through what that looks like?
+Jack Waugh: Because we might actually be able to still streamline that.
+Dorina Tulgara: But I'm just curious if that's something because it's a long term care. So it's more about what I talked to. I don't really record. Record. It's in person. It's not telehealth, so I can't record first of all. Okay. And then I spend a lot of more time not with a patient, but with talking with Colla Collaterals. So. And then charge. Reviewing.
+Jack Waugh: Gotcha. And is this all for Psych or is this for. I know you mentioned you were doing something else too.
+Dorina Tulgara: Okay, Psych, the impatient.
+Jack Waugh: Gotcha. And when you say you still have to review the chart, so is your concern that even after is finished, you'll still have to be reviewing the note and spending a lot of time.
+Dorina Tulgara: Yeah, I have to read, review the behaviors, the. All that stuff.
+Jack Waugh: And.
+Dorina Tulgara: And then I have to type. And usually I use ChatGPT to type. I like to record, but I don't know if that's not compliant. But I don't say any names. Yeah, yeah, that's the way to do it.
+Jack Waugh: Well, so the cool thing, I mean, the cool thing with JOT Psych is that process that you're doing. First of all, it sounds pretty cumbersome. It sounds like you have to like juggle a lot of different windows. We're kind of the people who take over that stake step for you, so you don't have to worry about that. So the idea with JOT Psych is we're recording and we're also outputting the note in a format specific to how you would have already had to have edited it. Does that make sense? So rather than going and spending all the time in your chart and having to do that manually, we can actually kind of do that for you. And I'll. I don't think I actually showed you this, but I'm going to show you how you would do that. I didn't get a chance to show you this yet.
+Dorina Tulgara: I don't know how you can save my time at this. When you see patients in person.
+Jack Waugh: Well, here's. Here's what we can do two things, because I know you said you can't. They don't let you record, Is that right?
+Dorina Tulgara: No, you. And you need an agreement signed and facilities usually will not approve it, but.
+Jack Waugh: So you're basically taking notes then, is that right?
+Dorina Tulgara: Yeah.
+Jack Waugh: Okay, so there's two ways that we would still actually save you time. Tell me what you think of this. Okay. Number one, when you go to this record window, obviously for you, you can't really use the microphone side of the recording, but what you can do is you can actually punch in all of your notes here that you took manually and wrote down, if that makes sense. So what that'll mean is your free hand notes that you've been taking in the patient encounter. If you paste them here, it'll still output it to be a HIPAA compliant note so you don't have to spend time formatting it later. Does that sound a little bit more like you would what you would need it for?
+Dorina Tulgara: Yeah, well, no, I think I will. This one is mostly for the palette health. I will use for this for the other job I have right now since it's. It's a lot of copy pasting from the previous note and you just have to add new. New things and new behaviors that is already written. I don't have to kind of put it here and then put it there. So it's because we use a lot of macros there too and then copy paste the previous note.
+Dorina Tulgara: So I don't think that would be efficient. But. But definitely for the private practice because. Right. I want to see patients in between and that will be really helpful. I don't have to spend time writing if I want to juggle two jobs. So that will be really, really helpful to have the. To have this AI.
+Jack Waugh: But I need the patient consent.
+Dorina Tulgara: Right. And yeah.
+Jack Waugh: So you still want to get that? We have forms you can send for patient consent through Jot Psych as well, or you can upload your own. And also a question for you. So right now, I know it sounds like this is a new practice for you with your telehealth. Are you actually like seeing patients through that right now or is this still like brand new?
+Dorina Tulgara: Well, I. I already have some patients lined up, but I'm. I'm still trying to complete as fast as possible my onboarding. I can't see patients without all the forms in place.
+Jack Waugh: Yeah, Yep, that makes a lot of sense.
+Dorina Tulgara: Well, so I'll tell you, once I start marketing, I'll probably have few because I have some requests already.
+Jack Waugh: Awesome. Well, I'll. Here's where we can go for next steps from here then. Number one, while you're doing your free trial, we can meet in a couple of weeks again and see where you're at with your patient load from there and kind of check in to see how everything's been going. If you were able to use this on a few patient encounters.
+Dorina Tulgara: But are you able to extend the free trial? Because I didn't even start seeing patients, so I can't really use a free trial. You know what I mean?
+Jack Waugh: Okay. So unfortunately, I don't know if I can re. Extend it. That. That was also why I mentioned the discount month because that'll take you into like 45 days total. So if you do the Discount month for $20, how long was free trial? So the free trial started when we just spoke. So you have that through. It looks like we extended it for like two weeks, so it should be about. Two weeks from maybe yesterday.
+Dorina Tulgara: I'm not able to use it until I see. I start seeing patients. So I don't know. Can you. Can you cancel it and save my free trial until I.
+Jack Waugh: So I can't cancel it. What I can do, though, if you. If you feel comfortable with it, I can at least get you set up for the discount month. And that way I think. Think that'll take you through like through February at that point will be free or. No, the Discount month is $20, so it's pretty affordable. You're not out too much money at least.
+Dorina Tulgara: Yeah, but I'm trying to keep my subscriptions low right now. There is so many subscriptions on everyone's Psychology Today and everything. And I'm trying not. Not to sign up in advance until I actually set up, if that makes sense. Because that adds up $20 here, then the psychology, then the other. So that would be like a hundred dollars a month. And that's why I'm saying I don't wanna do it in advance.
+Jack Waugh: And I totally hear that, that, you know, that makes a lot of sense. Only question I would ask you is do you think the $20 to save possibly like four to five hours on your note taking could actually be worth it?
+Dorina Tulgara: Yeah, if I actually do it. But I'm not going to do it yet. So, yeah.
+Jack Waugh: Okay. Well, here's what we can at least do. Let me see what I can do for you. We can at least meet in a couple of weeks where. When you're seeing more patients and kind of go from there. In the meantime, if you're able to use JOT Psych with a couple patients, then you can do that. So why don't we plan on meeting like maybe like middle February and kind of touching base from there? Does that sound good to you?
+Dorina Tulgara: Yeah.
+Jack Waugh: Okay, that's cool. So let me go ahead and.
+Dorina Tulgara: And do you have any referral program?
+Jack Waugh: We do have a referral program, actually. So if you log into JOT Psych and someone else signs up now, meaning signs up and they pay for JOT Psych, then you'll get credited for your account as well. So I can show you how to access that. So you go here to your. See these upper. These initials here?
+Dorina Tulgara: Mm.
+Jack Waugh: And see this referral program down here?
+Dorina Tulgara: Yeah.
+Jack Waugh: So you would just share this code. And then if someone signs up with Jotsych who you know, and they end up using it full time and they end up going past their trial, then you'll get credit for your account too. So, yeah, let's. Let's touch base in a couple of weeks and kind of see where you're at. Maybe on, like. Do you think you would be seeing some patients by, like, February 10th?
+Dorina Tulgara: Oh, I think so, yeah.
+Jack Waugh: Okay. Well, I'll go ahead and. You said your central time, is that right?
+Dorina Tulgara: Yeah.
+Jack Waugh: So why don't we say noon Central time on February 10th, and if that. If that works for you.
+Dorina Tulgara: Yeah, that's fine. Cool.
+Jack Waugh: So we can check in then. And while I'm doing that also, I know I mentioned this in the beginning, but if you'd like what I can also do, because I was telling you about our JOT bill thing, especially because you have a new clinic, you might find that really helpful just to save you time and also money so you're not like, spending so much with headway with handling or billing. If that sounds interesting to you, I'd be happy to, like, set you up on a separate call for that. Our chief of staff, Chris, handles that and could tell you a lot about that in detail. So are you. Are you finding, like, billing is something you'd like to do a little bit more with and have AI kind of handle that more?
+Dorina Tulgara: I can answer this question right now. Let me go for onboarding first and then.
+Jack Waugh: Sure.
+Dorina Tulgara: And then I have a billing company from. For 3%. And you said 4 to 8, right?
+Jack Waugh: Well, it depends. So we're. What I can say is we're pretty much. I actually have in my notes here, we typically beat costs by at least 5%.
+Dorina Tulgara: Yeah, that's because I do have 3%. But it's offshore. Right. Obviously. Right.
+Jack Waugh: Yeah. Well, at least when we check back in, I mean, I guess you might not be totally set up for this yet, but at that time, where your clinics growing. When we talk in the future, that's something we can touch base about. So I'm gonna.
+Dorina Tulgara: And do you charge for credentialing or.
+Jack Waugh: No. So the great thing is the first step with jots. Like, I actually have to have Chris answer that for you because he's in charge of the different steps. The first thing we'll do is running eligibility like you're talking about, so before you're even on the platform. But he has a little bit more information. I don't know what phase pricing hits and where. So I'll let him answer that for you if you'd like to do that call with him.
+Dorina Tulgara: Okay.
+Jack Waugh: Yeah, we just rolled this out, so I'm still learning a bit about it myself, but that's fine.
+Dorina Tulgara: Well, that's not important right now. As I said, I still have to go through all the. Headway onboarding, since it's. And then I do have some other credentialing companies willing to. But they charge for the credentialing, so. And headway doesn't, because they charge after that 20 set, so.
+Dorina Tulgara: Yeah, well, that's their catch, I guess.
+Jack Waugh: Yeah, that makes a lot of sense. Yeah. So when the time comes where you have a few more patients and you're looking at some of your options for billing, I'll definitely, you know, give you a little bit more info about it at that time. Okay. But in the meantime, why don't we meet on Tuesday, February 10, around 12pm Central, and then by that time, you should have maybe a few more patients to work with from there.
+Dorina Tulgara: Okay. Yeah, you can send me the calendar. And. I hope I don't have anything that day.
+Jack Waugh: Yeah, let me know if you do. I'm happy to move it to another day so we can always chat then. And I'll. I'll send you this email now.
+Dorina Tulgara: Is that February 10th?
+Jack Waugh: Yes, February 10th.
+Dorina Tulgara: Well, you'll have to do it a little bit later because I think I have to work a day.
+Jack Waugh: Do you know what time?
+Dorina Tulgara: Probably like 2pm okay, no problem.
+Jack Waugh: We should be able to do that 2:00pm so meet at 2:00pm Central Time on the 10th.
+Dorina Tulgara: Yeah, okay.
+Jack Waugh: Yeah, let's do that. So I'll send that to this email again and you'll see it there. And yeah, in the meantime, if you do get a chance to use jot Psych at all, even with just, like, one patient, let me know. I'd love to hear how you're, like, finding everything until then. Otherwise, we'll check back in at that time and we can kind of go from there.
+Dorina Tulgara: Okay.
+Jack Waugh: All right, Dorina. Well, any other questions I can answer today? Does this make sense how you would use Jotsych and go through it?
+Dorina Tulgara: Yeah, thank. No, no questions. Thank you.
+Jack Waugh: Okay, awesome. Well, I'll talk to you in February.
+Dorina Tulgara: Take care. Bye.
+Jack Waugh: Bye.

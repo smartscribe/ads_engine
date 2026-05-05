@@ -1,0 +1,97 @@
+Healing Circle Psychiatric Services: How was your Monday?
+Christopher Hume: Sounded a little busy?
+Healing Circle Psychiatric Services: Oh yeah, I don't know. I don't know if that's like a holiday or what? But they didn't have school. Okay.
+Christopher Hume: Yeah, Monday after Easter sometimes get it off.
+Healing Circle Psychiatric Services: I guess. But. I don't really know if I have. Any new questions other than ones that we went over. Because you said that the tech team still has a ways to go to have everything.
+Christopher Hume: Or like the for the notes and that stuff. Yeah, that is going to be something that we would have to do. We'd have to work out when you and Dr. Alec come on full time. I just really want to make sure that we use this pilot to make sure that at the very least the notes are working properly, the copy pasting into the EHR is working. I know those are actually two issues you had last week, Dallas. I just wanted to see how are things going on that front.
+Healing Circle Psychiatric Services: Yeah, it hasn't been downloaded yet.
+Healing Circle Psychiatric Services: On his site. Okay. I know that he's been on there, so I haven't. I haven't downloaded it on there.
+Christopher Hume: Understood. So that was the big problem. Is there anything else?
+Healing Circle Psychiatric Services: I'm trying to get in there? I have. It looks like.
+Christopher Hume: Dr. Alec made some notes today, which is great.
+Healing Circle Psychiatric Services: Am. I in there? Yet? Yes. Okay. Patience. Oh, our insurances were added.
+Christopher Hume: Yep.
+Healing Circle Psychiatric Services: Did Brittany give you all of these?
+Christopher Hume: You know, I'll have to check with Lee on how he got them all over. Yeah, not sure if they're from Britney or your EHR, but I know he's working on kind of finishing that all up. I'm glad you can see them now.
+Healing Circle Psychiatric Services: Yeah. Oh, interesting. Okay. And then he's been using it. So that's good. And then. Oh wow. All the medications and everything are in there. So when we switch all the way over, you said that we could do that on, like, a Thursday. Because with the meds, with Dr. First, like two people would have to verify him so he would have to verify it's him. Doing it. And then last time I helped him verify. So. We just migrating the meds over and everything. I think that would be the big one.
+Christopher Hume: Yeah. And we discussed doing that on a Thursday. I think Dallas, just to make sure we had plenty of time to get everything kind of set up and all rocking and rolling by Monday. Am I remembering that correctly?
+Healing Circle Psychiatric Services: Yeah.
+Christopher Hume: Yep. So yeah, we would plan on doing that on a Thursday, kind of turn off doctor first turn on Go Spot. Kind of make sure everything's working. And then if there's hopefully there's no hiccups and it's just an easy switch. But if there is a hiccup, then me and the engineering team would spend all weekend making sure it's ready for Monday.
+Healing Circle Psychiatric Services: Okay. All right. Yeah, I'll put that in my notes. Yeah. So I think those were my major questions.
+Christopher Hume: Perfect. Well, this is great Dallas. I'd like to have a call with you where we surprise you with good things where you see the insurance or where Dr. Alex taking notes. So I think the only question is download that thing. Yeah, download that thing.
+Christopher Hume: So if Dr. Alec and you need help with that, I can jump on the calls on a call whenever to walk you through it. And then secondly. I know Brittany primarily does your billing.
+Christopher Hume: But I did want to see how we're kind of, have you looked at the compliance tools at all or anything like that.
+Healing Circle Psychiatric Services: I haven't seen like a note done before, so let me go in here.
+Christopher Hume: Yeah, let's just make sure you have access to those.
+Healing Circle Psychiatric Services: Summary and then there's a red. Button. Oh, it flagged. Okay. It says psychotherapy add-on EM separation. I'm in Jake sir. So. It says rule noncompliance psychotherapy time. Documentation.
+Christopher Hume: So it'll just flag for you some of those. Yeah, some of those compliance issues and maybe they're kind of standard rules. So of course if you're like, no, our insurance companies, our insurance contracts actually don't care. You don't have to follow them. And as we discussed at the beginning, if you guys come on full time, we'll customize all your rules. So it's for your contracts.
+Healing Circle Psychiatric Services: That's what that was a big thing that Britney wanted done was this right CPT codes going out. So. Are they able to like test it out now or does it have to be linked to the patient with their insurance is?
+Christopher Hume: So you can test it now and like, you know, the majority of the rules it's going to catch are like the big rules that are across every insurance company. And that's just loaded up in there now. Some of the nitty gritty stuff, you know, the difference between blue cross machine, North Dakota and blue cross blue shield, South Dakota or Minnesota. Some of that is what we would build that afterward. But most of the rules should be. Yeah. Should be pretty helpful for compliance. Ready.
+Healing Circle Psychiatric Services: Okay. Yeah, we just don't want to delay claims or yeah, I mean
+Christopher Hume: that's the whole the whole reason we're here to help people is so you're not having claims bounce back. Right?
+Healing Circle Psychiatric Services: Yeah. So I'll ask Brittany if that's okay. And then there should be modifiers in here too, right?
+Christopher Hume: Let's modifiers.
+Healing Circle Psychiatric Services: And then. It says that he has an option to fix it. Okay.
+Christopher Hume: Right. Can you see my screen?
+Healing Circle Psychiatric Services: Yeah.
+Christopher Hume: So if you go to this job audit button here, you can actually see just like all the notes at a glance. Of course kind of these are all example notes. So they're pretty, pretty non compliant. But it will even let you quickly scroll through and be like, oh, this one is looking extra non compliant. Might want to flag it for Brittany or Dr. Alex, take another look at.
+Healing Circle Psychiatric Services: You go. Looking at yours or oh you're looking at mine.
+Christopher Hume: I just wanted to make sure that you had access to it on your account. I'm sorry. I thought you were.
+Healing Circle Psychiatric Services: It says billing audit. And then you said jot audit. So yes, I see all of them.
+Christopher Hume: Okay, perfect.
+Christopher Hume: Dallas, I think. Oh, hey Emily, Dallas, this is my colleague Emily who's helping us is starting to help.
+Healing Circle Psychiatric Services: I have too many tabs open.
+Emily Kaiser: Hi Alice. I had a call that went over.
+Healing Circle Psychiatric Services: Okay.
+Christopher Hume: Emily was helping me with a lot of our customers who were trialing software.
+Christopher Hume: I'll still be your point of contacts and all that good stuff. And she'll just be helping future clients. But of course she's always here to help you too. So you just have a bigger team to support you. But I'll be your point of contact for the whole trial period.
+Healing Circle Psychiatric Services: Okay. All right. Sounds good. And then I will go over. Well, let me make that into another screen. There's just too many tabs open.
+Christopher Hume: I don't. Like that's how I live my life, Dallas. I always have too many tabs.
+Healing Circle Psychiatric Services: Yeah, there's like multiple safaris open. My Google. Okay. So when something says that it's 14% when I go to it, it says three not a goal three improving. So. That's not a flag.
+Christopher Hume: Right? It's used a goal. Share your screen, Alice.
+Healing Circle Psychiatric Services: Sorry. I'm embarrassed.
+Christopher Hume: Here, let me share my screen.
+Healing Circle Psychiatric Services: Needs permission. Oh, for me. To share my screen.
+Christopher Hume: Sometimes Safari cannot won't let you share, which is super frustrating if that's what you're using right now.
+Healing Circle Psychiatric Services: Let me go to my settings. Oh no. Okay. This should work now. Does it work?
+Christopher Hume: Yeah, I do my own thing. So just kind of scary. But.
+Healing Circle Psychiatric Services: Okay. So this. That has nothing to do with a flag, right? It's just. Problems.
+Christopher Hume: On his side. Those are problems with how I'm sorry, Dallas. It's still a little blurry for some reason.
+Christopher Hume: But yes, these here. Oh, it's it's better. Okay. So these are. No. So these are not. Flags associated with the. Note. These are just kind of. Patient concerns that it's flagged for you.
+Healing Circle Psychiatric Services: Okay. And then let me go back. I'm trying to find. Like a flagged one. How would I know?
+Christopher Hume: Does it actually say let's go through this together. Let's go to, yeah, the Patrick one.
+Healing Circle Psychiatric Services: Compliance 71% Yep.
+Christopher Hume: And then if you press view full audit. All the concerns for you and the rules that you that are potentially not being followed.
+Healing Circle Psychiatric Services: Okay. I won't go anywhere.
+Christopher Hume: They're not going to click it.
+Healing Circle Psychiatric Services: No.
+Christopher Hume: You could just click the note button on the top. Yeah, top right. There you go.
+Healing Circle Psychiatric Services: And then. So when it says stuff like this, but we know that the patient is on medication in their simple practice. Does that still show as a flag? Like would he have to continue talking to this?
+Christopher Hume: It will show as a flag and JotSync, but you can always. Adjust the notes or because for the time being got a simple practice is your system of record.
+Christopher Hume: You can just be like, hey, it's actually no big deal. I have it all in simple practice. I'm going to copy it over. We don't worry about that. And you can actually, if you'd like, even remove the rule too.
+Healing Circle Psychiatric Services: Okay. Oh, they have his insurance in there. Wow. Oh, that's interesting. Okay. So maybe these are tied to each patient. I didn't even notice that. And then otherwise it should be fine. And then this is the CPT code that we would use.
+Christopher Hume: So that is the one that was selected by Dr. Alec, whoever was doing the notes or whatever was kind of automatically associated with this encounter type. And then J on the right hand side, do you see it recommends a CPT code? Based on your.
+Christopher Hume: Just sorry, this is painful. I know, but if you go up a little bit, it's blue and circled. Oh, you're almost yeah. So there you go. So it'll recommend it for you.
+Healing Circle Psychiatric Services: Okay.
+Christopher Hume: Yep.
+Healing Circle Psychiatric Services: And I'll just click it for fun. And then, so that's the only one then. Because usually he bails out like a 99215 and then a 908. Okay. Is it 330? But this would just be a 90832.
+Christopher Hume: That's how the Jot site standard rule saw it.
+Healing Circle Psychiatric Services: But if Dr.
+Christopher Hume: Alec sort of his specific patient, she starts missing. Like he's like, hey, no, this is definitely. Nine, nine, three, one. Whatever.
+Christopher Hume: Um, we can adjust those rules for him with Brittany when we get kind of get feedback.
+Healing Circle Psychiatric Services: Okay. So I'll put a note in for Brittany. Just. Codes. Yeah, because she knows. All the codes and everything, all of the payers. More than all of us together.
+Christopher Hume: Truly, truly. Yeah. I know how she keeps falling her head.
+Healing Circle Psychiatric Services: Yeah. Oh gosh. Okay. So I think I got it. It says 13 days left. So I think we just have a bit of learning to do as a group.
+Christopher Hume: Yep. You all have plenty, plenty of time. Dallas, I'd love to have another check in to see how things are going now that it looks like Dr. Alex using it. We know your access is working. So if a team would like to touch base on Friday or Monday just so we can kind of finish strong, I'd love to.
+Healing Circle Psychiatric Services: Okay. Yeah, I can do put Monday in there.
+Christopher Hume: Noon.
+Healing Circle Psychiatric Services: Yeah, that should work. All right, sounds good. And then I know that we all have like your personal number so I could have liked to hear Dr. A reach out if they have questions.
+Christopher Hume: But my number, they have my email and you have my calendar.
+Healing Circle Psychiatric Services: So there's no hiding.
+Christopher Hume: I have nowhere to hide Dallas.
+Healing Circle Psychiatric Services: I guess missing your social, I guess. Yeah, right. You can find me on LinkedIn. Oh no. All right, well, thank you.
+Christopher Hume: No, thank you Dallas. And yeah, if anything comes up before Monday, just let me know. Uh, we're here to help.
+Healing Circle Psychiatric Services: Okay.
+Emily Kaiser: All right.
+Emily Kaiser: Thank you so much. Have a good day.
+Christopher Hume: Thanks. Bye. Thanks, Dallas.

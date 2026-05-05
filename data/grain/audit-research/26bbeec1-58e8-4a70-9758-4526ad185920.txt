@@ -1,0 +1,279 @@
+Adam Harrison: Awesome. How is your week going out there?
+michelle.lynn: Not too bad. It's. It's been kind of a crazy week. Just, you know, first of the year stuff and eligibilities are insane this time of year. Not to mention, you know, all of the delayed payments from insurances. I have providers that are like, what is going on? And I'm like, that time of year, we're, you know, beginning of the year, right? Oh, yeah, you just gotta love it.
+Adam Harrison: Even still into February, that's.
+michelle.lynn: It usually goes to the middle of February, first part of March, and then it starts to taper down.
+Adam Harrison: Yeah. Yeah. Well, I'm sorry, but I guess the end is a little bit. Getting close to insight for some of that, hopefully.
+michelle.lynn: Yes. Just in time for us to start the next round of policies starting over in April.
+Adam Harrison: Right, Right. Just in time.
+michelle.lynn: That's what we're in business for, though, right?
+Adam Harrison: Right. That's true. If it was easy, then, you know, they might not need all the help.
+michelle.lynn: Absolutely.
+Adam Harrison: Well, actually, that did prompt a quick question from my side on eligibility because we did get an login from one of our partners. So I've been kind of doing some of my own, you know, kind of checks just to make sure, you know, I'm kind of doing things correctly and. Well, first of all, it looks like, you know, there's a lot of outages this time of year with Florida Blue. You know, lots are like, yeah, kind of down temporarily. But one question I had is there seem to be. For depending on the payer, there seemed to be like a calculator, like patient cost responsibility calculator, where you enter like the service provided and the CPT code and the diagnosis code and it'll tell you the estimated cost share. Is that something you use at all or is it sort of like, hey, I just look at the first sort of screen that we looked at together in availability and that's usually fine. Or. Yeah, I'm curious if that's something that you find useful or not.
+michelle.lynn: So depending on the insurance, we will use it sometimes, but there are some. Some insurances where that is not available for us and that could be based upon whether the provider has the assessment. Essential plan and you know, if they're not paying for the essentials plan with availity. So some of it's not available. So if it is, sometimes we will use it. Yes.
+Adam Harrison: Okay, so it really depends on what the provider is paying for.
+Adam Harrison: Sounds like so we maybe got a little bit lucky.
+Adam Harrison: Yep, got it. Okay. So that's not something you could really consistently rely on.
+michelle.lynn: No.
+Adam Harrison: And just had a broader question on cost share. I'm curious like you know, eligibility seems like, you know, one is the patient, does the patient have active insurance? You know, two is mental health covered and then three is what's going to be the patient cost share when they show up, do they have like, you know, is it totally covered? Is it a copay, is it co insurance, Is it you know, deductible and then a copay, you know. And one thing I was having trouble was determining what that was from just reading that availability homepage. I'm curious like how do you determine the cost share?
+michelle.lynn: And yeah, so depending upon what information we pull again that will prompt whether, like if there's not a lot of information and we are con confused whether it is a co pay or a co insurance, we will call and try to get information. But typically like if it ends up being a deductible or a co insurance, we can typically tell the client what they're going to owe based on what the contracted rate is. And I, like I said before, I like to tell people even if it's not 100% clear that the deductible applies or not because sometimes they'll tell you the deductible applies and then it doesn't really apply.
+michelle.lynn: You don't ever get clear cut answers. So I will always tell them, you know, it shows you have a fifteen hundred dollar deductible if it returns as your client responsibility. This is what your rate will be. If it, if the insurance determines that it's that you're not responsible or your deductible doesn't apply, then this is what your coinsurance will be or your copay will be.
+michelle.lynn: I try to give them like the wide span because you never know 100% what they're going to come back with.
+Adam Harrison: I see. Okay, that's really helpful. And then one other question I had is, you know, I'm sure some of your clients have their own like front desk team that's maybe they're doing eligibility checks or talking to patients to some extent. Right. You can't be like in the room all the time for all the conversations. And so one thing, you know, I was sort of trying to figure out is. You know, what's the right sort of way that we should set up with our clients, you know, in like an optimal scenario? I think, you know, obviously we want to know the eligibility status of everyone coming in and sort of flag people that are like maybe inactive or. We also probably want to know the cost share so that all the billing downstream is done in the right way. But yeah, I'm curious, like they have a front desk and they'll like swipe the credit card for the copay, you know, when the appointment happens. Others maybe bill that, you know, afterwards. So yeah, there's like different models of sort of doing all that. And I'm curious, like, what are, what's the model that you would like, advocate for?
+michelle.lynn: So all of the companies that I bill for, even though they have their front desk people, we did, we 100% do all the billing. So when the client comes in, they check them in and then we bill the card within 24 hours of the session. And the reason that a lot of, a lot of times that they do that is because some people don't, you know, they have a admin that works from home. And so, you know, they don't, they're not necessarily in the office to see who shows and who doesn't show.
+michelle.lynn: And so the way that I tell all of my people is, you know, staff has to have their calendars up to date by the end of business day so that when I bill out, I know if it is a no show cancellation, you know, whatever the case is, so that I know how to charge.
+Adam Harrison: And they also have to collect a credit card. Sounds like.
+michelle.lynn: So they. Most every company requires a credit card on file. Now, sometimes we have clients who don't keep funds on there. Sometimes we have clients that go into their portal and remove their credit cards. But it's pretty, you know, I mean, for the most part, I can honestly say we don't have a ton of that. And I have 30 companies and I don't have a ton of people that remove cards or probably the most typical thing would be HSA and FSA cards won't have funds on them until like their paydays.
+michelle.lynn: But you know, if you ask the client and they say, you know, hey, I get paid on the 5th and the 20th of every month, you can almost guarantee you can go in there and charge those fees out at that time.
+Adam Harrison: Got it, Got it. Okay, that makes a lot of sense. Great. Well, let me. And you, do you do the patient charge within whatever software your client has set up?
+michelle.lynn: Yes.
+Adam Harrison: Is that normally like their EHR or practice management software or something.
+michelle.lynn: Their ehr?
+Adam Harrison: Okay, got it. All right, let me jump into what I actually wanted to discuss with you today. So we have a user who came to us and basically said, I have not done. I don't think any billing for all of 2025.
+michelle.lynn: They survived.
+Adam Harrison: I don't know. It's very unclear to me. So, yeah, it sounds like. I'll give you the context. So this is a solo provider who was seeing patients. He uses Practice Fusion for his ehr, was using an offshore billing company to get credentialed with insurers. I don't know if any of, like, ERA postings or any of that. I don't know if credentialing has been done or not. It's kind of unclear to me at this point. But, you know, he, he said, hey, I'm, you know, I, you know, worked with, like, an offshore company to do the credentialing, and they were going to handle billing for me. What he seems to have said is like, yeah, all I need, you know, what I needed to do was send them a list of patients to bill. And I don't think he ever did that. Or maybe he did for only a very small number of patients. He has since transitioned to using, like, Alma and Grow therapy, which is probably, like, good for him because he seems quite like, unorganized with being able to collect and do payments himself. So, you know, it's. He's probably getting paid now, which is good. But, you know, there is. We did sort of say, hey, you know, we want to help you with, like, you know, kind of the last year of patients that you were seeing. I think there's even some from January of this year and, like, getting those claims submitted so you can at least get some. Some of that revenue. Now. I know there is like, a certain. You have a time window, right. Depending on the payer, where you can't submit things from like, 12 months ago, but maybe 90 days ago or maybe, I don't know, you would know better than me of, like, what those rules are. Yep. But, yeah, I am. And we're also hoping to use this as an opportunity to kind of test out some of the jot psych billing infrastructure. So. You know, I think the idea is we would move a lot of this out of Practice Fusion, all the notes, put it into JOT Psych and then run it through the R Clearinghouse via Jot Psych. We kind of want to do. This is almost like, you know, a test run where, you know, we, we want to test that out and it's sort of a win win because we get to sort of like, you know, make sure everything's working correctly. And he has all this money that he's just never going to see anyway, you know, so it's really like only upside for him at this point. But yeah, I guess I'm. That's sort of the question I've encountered. I do. I did get a login to his Practice Fusion account.
+michelle.lynn: Okay.
+Adam Harrison: So that is good at least. And I've started poking around there, but. And I can share my screen and kind of walk you through some of that. But yeah, I'm just kind of want to come up with a plan here for what we do. Like what's the, what are the tactical steps? I don't know if like first step is probably we need to figure out credentialing or like, you know, are you actually enrolled with these different payers? Then maybe there's something with eras and maybe we need to re enroll because we're switching, you know, to Jot Psych. And I don't know what this old billing company is that he used in the past. There's determining like the list of charts and notes that we actually, you know, want to like, move forward with. So there's a lot of, you know, I'm not quite sure the sequencing and blocking and tackling of all that. So I'd love to like, kind of try to figure some of that out with you. That's what I was hoping to use this time for sure. And then the other challenge is he is a little bit like challenging to understand from a communication standpoint. I don't know if it's something with like, you know, an accent or like English or something like that, but I've like struggled a little bit to kind of follow everything he shared. And you know, it seems like, quite unclear. Just, you know, not, not like a super structured communicator, I guess is how, how I'd put it. So in addition to maybe just general communication challenges. So yeah, I can maybe share. Let me just pull up Practice Fusion first and then I'll. I'll let you kind of react. So we have all.
+michelle.lynn: My first question is, what state is he in? California.
+Adam Harrison: What state is the provider in?
+michelle.lynn: Yeah, it looks like it's a great question.
+Adam Harrison: I think he's on the west coast because he's in Pacific time.
+michelle.lynn: Yeah, so it looks like California is the address there on.
+Adam Harrison: See? Where would I see that? Have you used practice Fusion much?
+michelle.lynn: I have used it a little, but it's been a couple of years, so. Go to. Are you in billing? That's. Your screen's pretty small, but if you can go to billing section and pull up a claim.
+Adam Harrison: Oh, that's the other thing. I think he does his billing through a separate software that he's since stopped paying for.
+michelle.lynn: Probably collaborative D.
+Adam Harrison: I can check my notes, but it was.
+michelle.lynn: There's only certain ones that are. That are. That you can pair with Practice Fusion. Clobbered MD was the one that I worked with with Practice Fusion.
+Adam Harrison: Oh, he said Office Ally.
+michelle.lynn: Oh, so he. Manual. So somebody was manually billing an office Ally because it doesn't.
+michelle.lynn: Or was it billing?
+Adam Harrison: I don't think there was really any billing done. If there was, I think it was very, very little. Yeah.
+michelle.lynn: And then also the practice setup on there.
+Adam Harrison: Practice setup, Yeah.
+michelle.lynn: So your practice settings. Let's go to facilities.
+Adam Harrison: Okay. Yep. Okay.
+michelle.lynn: California. Okay. Okay. I just wanted to know what state. Did he give any indication what insurances he was asking them to credential him with?
+Adam Harrison: It's a great question, I think. Let me see. I'm going to check my notes here. So he explicitly confirmed United and he said Medicare, like broadly. And then he, you know, I did ask him, actually. I'm looking at the transcript. He said things like, you know, everyone, you know, I'm a network with everyone. You know. It's kind of what he said. But he explicitly mentioned United.
+michelle.lynn: Okay. So I would say the very first thing that we would need to do is to go to the provider directories. So like we can go to United Optum directory and we can search by his zip code and his name to find out if he's actually participating provider directories.
+Adam Harrison: Okay.
+michelle.lynn: Yeah.
+Adam Harrison: So what if it's through, like, GROW or Alma? Will that show? We'll be able to look at.
+michelle.lynn: You can't do any billing through Grower Alma.
+Adam Harrison: But they will credential him, right?
+michelle.lynn: They will credential him under their tax id.
+Adam Harrison: Okay, so we just.
+michelle.lynn: Not under his own.
+Adam Harrison: We just search for his tax id, which we should have.
+michelle.lynn: Yep, Right there. That ein.
+Adam Harrison: This is the tax id. Okay.
+michelle.lynn: That's this tax id and then the practice npi.
+michelle.lynn: Yeah, so you'll need those two because that'll determine how they credentialed him.
+Adam Harrison: Perfect.
+michelle.lynn: Then he should have his own NPI as the rendering provider.
+Adam Harrison: Yep. Okay.
+michelle.lynn: Okay. So and then he's got his Medicare number, his UPIN and Medicare group number. So, I mean, that's in here. So that is true that he would be part of the Medicare. So the good thing about some of these is timely filing for Medicare is 365from date of service.
+Adam Harrison: Okay.
+michelle.lynn: So some of those you might be able to capture quickly if we want to get. So here's what I suggest. Honestly, if you can throw these claims into your system very quickly and submit them. The way that most insurance works Is it is 365from the date of service. And then once it denies, then you get. Depending on the company, you can get365 from the date of denial. So, you know, you always want to try to at least, even if you know it's going to deny, get it submitted so that you can then work through the issue and submit it again.
+Adam Harrison: That's a good point. So, you know, that's the other thing here is he hasn't finished all his charting.
+michelle.lynn: But you're gonna pull the notes to finish the charting, right?
+Adam Harrison: Well, he hasn't even finished the notes in some cases.
+Adam Harrison: Oh, so he's pretty scattered.
+michelle.lynn: Yeah.
+Adam Harrison: That's rough. It's pretty rough. You know, it's. I don't know if you have other, like, kind of clients like this, but it's pretty shocking, I guess, to me, at least. Let me see.
+Adam Harrison: Let me just look at, like this one he said, right. Like, this is totally empty.
+michelle.lynn: Oh, yeah. There's nothing there. Yeah. So, like that. I wouldn't even bill for that.
+Adam Harrison: Yeah.
+michelle.lynn: Because here's the thing. This is the other issue that I have with doing some of these things is even if he goes in now and he enters that note, the timestamp on it, if he was to get audited, After an entire year of not submitting these, if he gets audited that time stamp he's probably going to put. Have to give the money back anyways.
+Adam Harrison: Right.
+michelle.lynn: If he fails the audit.
+Adam Harrison: Yeah. So this, this one is actually like filled out to some degree. And then he said in some cases, you know, it was like he would. I don't know what the normal system is that you use to like trigger like okay, this is ready for Michelle's team.
+Adam Harrison: But I'm trying to figure out the right way to kind of like go through all these notes or encounters. Yeah.
+michelle.lynn: So the company that I worked with, when they, after they were done with their note and it was good to go, they would submit a super bill which would send it over to Collaborate MD and then I would bill in Collaborate md.
+Adam Harrison: Okay. He did show me that. Yeah, it was a super bill. So yeah. Find one that has a super bill because there were so.
+michelle.lynn: Yeah. So one that he's already submitted a super bill on. If you go to the encounters on. Let me see. I'm trying to refresh my memory.
+Adam Harrison: I did do like think about doing reports. Yeah. What was signed there were like. Yeah, none of these have been signed either. Right.
+michelle.lynn: Which is. Oh my goodness.
+Adam Harrison: There's one. This one was signed. Let's see if there's a super bill. Here we go. Yeah. Ready for billing.
+michelle.lynn: Yep. So if you click that it'll take you into the billing and then what they generally would do is where it's ready to bill or they would save that and then it would send to the biller. But I don't know how it, how whether this actually works within, you know, if he has, if he quit paying for his office alley. I don't know where this is going to send to.
+Adam Harrison: Yeah, I think he's canceled office alley. So probably we would find some way to export this into job site at this point because.
+michelle.lynn: Yeah.
+Adam Harrison: Before you know, rather than trying to go dig out the skeletons of office Ally.
+michelle.lynn: So you can up there, you can click on print or download.
+Adam Harrison: Yep.
+michelle.lynn: And it should. Yeah. So then it prints at least tells you what code, the number of units. But it doesn't have anything where. Oh, there's the client information. Up top patient.
+Adam Harrison: Yeah. Does it have the insurance here or the.
+michelle.lynn: No, that's what I was looking for. See all the insurance says self pay down there. So this isn't even an insurance claim. His insurance is set to.
+Adam Harrison: Self pay agent says no insurance selected for his self. So it's kind of like right now we can't really do anything for him, it feels like. So I kind of want to give him like a nice bite size thing to start with. Like, hey, let's start with just maybe March of 2025. Can you kind of like do all. You know, January, February might be like a lost cause at this point. So just, let's just start with March. Try to update all your encounters for March and then. Or maybe we just do it for certain providers. Right? I don't know. Like, see.
+michelle.lynn: So is he a PRAC group practice?
+Adam Harrison: He's just solo. He's just.
+Adam Harrison: Oh, I was gonna say.
+michelle.lynn: Well, you said for certain providers. That's why I was like, what? How was it?
+Adam Harrison: Oh, sorry.
+michelle.lynn: Certain payers.
+Adam Harrison: Certain payers.
+michelle.lynn: Okay.
+Adam Harrison: Yes. Sorry, My, my mistake.
+michelle.lynn: No, that's okay. I was just like, oh my gosh.
+Adam Harrison: Oh, that would be crazy. But have you seen anything like this before? Is this just.
+michelle.lynn: Or is this.
+michelle.lynn: I have gone in. Not, not this far, not for a whole year, but I have gone in. In fact, I just, I have one that notes are in. They weren't signed back to September.
+Adam Harrison: No super bill.
+michelle.lynn: So.
+Adam Harrison: Okay.
+michelle.lynn: Yeah, it's some, especially providers and mental health. A lot of the providers that, you know, they just think that they're there to, to provide services and some of them, they don't. There's a lot of them that will do paper notes and they don't realize like you have to have something in a system. Like I actually have a, an older provider. She still to this day will not put her notes in a system. She's just electronics just freak her out. So she writes her notes and then she will get on a call and a video call and she'll like flash. The notes were like here, this is, it's here, look. And I'm like, okay. You know, and I've met with her and she's showed me her paper notes. So I'm just like, oh my gosh, you got to get with the times lady.
+Adam Harrison: So I don't know if like this one, Is there any insurance on this one?
+michelle.lynn: Let's see. Can you go back to. Let me look. Go to profile. Scroll down below the address. So nope. So payment preference on this one is also self pay.
+Adam Harrison: And it's all, you know, we're, we're in. We could do an eligibility scan or something. But it's all a new year, so it probably has changed. Right.
+michelle.lynn: And when you do the eligible. Eligibility scan. You should be able to back date to whatever date you're looking at.
+Adam Harrison: Oh really? Okay, so maybe we can do that.
+michelle.lynn: Insurances will go back that far. Not all.
+Adam Harrison: Okay. Okay.
+michelle.lynn: So what I'm documents really quick.
+Adam Harrison: Yep.
+michelle.lynn: I'm just curious. Nope, nothing's in there. I was just curious if maybe he had them upload cards and if there would be anything in the document section.
+Adam Harrison: Yeah, I'm trying to find a good way to kind of like do some kind of export or fill like reports is pretty limited in this tool.
+michelle.lynn: Yeah.
+Adam Harrison: So I think maybe what we need to have him do is say like well first we should check the payers where he's credentialed. That's what you're saying is the first step. How do, how do I do that?
+michelle.lynn: So the first thing I would do is I would go to the. The pair the payer directory to see if you can see that the client is even in or the. Well not client but the provider is even in the payer directory if you see them listed and it has their address because sometimes they can be listed with an old contractor or you know, so you want to make for sure that it, that it lists at least the their address and possibly the tax ID number to verify that they are credentialed under his and his tax id. Once he is and you find that out, then one of two things can happen. We can either just submit the claims so that they're on file or and in the meantime we can reach out to their credentialing department and ask for a copy of their contract. And you just need to tell them that you know, you, you've just been hired on as a new biller. The old biller had all of the information and we need a copy of the contract so we can make sure everything is set up correctly. And a lot of times they'll give it to you. Sometimes they'll need something from the provider saying that it's okay to give you that information.
+Adam Harrison: Okay. And so sorry for like the very basic question but when you say like go check the payer portals for or the directory what can do you mind just like sharing screen and showing me how you would do that?
+michelle.lynn: Sure.
+Adam Harrison: Like United or something like that.
+michelle.lynn: Let me, let me grab a piece of paper here so I can write down what is this provider's name?
+Adam Harrison: Oh yeah, let me go back to. And is there a way to check all the different payers at once or you got to go one by one?
+michelle.lynn: Gotta go one by one.
+Adam Harrison: Oh boy. Okay. Practice. Practice details.
+michelle.lynn: Okay. I'm gonna see if I can possibly do a. Just so I don't have to write it all down, see if I can. It will.
+Adam Harrison: Yeah. I'll just leave this on the screen if you want to let me. Or, or I, I can do the search myself if you wanna.
+michelle.lynn: Okay, so let's go to Provider Express. Wait, let me look and see.
+Adam Harrison: See Provider Express.
+michelle.lynn: I'm gonna look. Yeah, well, let me look at something else really quick. Yeah, so if you go to. If you search Optum, find a doctor in California.
+Adam Harrison: Okay.
+michelle.lynn: And then I'm going to just kind of walk through this as we go.
+Adam Harrison: Yep. So psychiatry.
+michelle.lynn: Yep. And then. Okay, so you can search by name. And then you can also put a location in just to narrow it down.
+Adam Harrison: Stephen, what was his last name? E S H U N. Let's see. Well, that does pull up California.
+michelle.lynn: Yeah. So I would. Did you put in a location in. Maybe add a zip code over here? I'm pointing over by the search.
+Adam Harrison: Yep. Oh, how does it.
+michelle.lynn: There you go.
+Adam Harrison: What did he have? Let's just try California. Maybe it wants me to do zip code address on here. Let me try. Just scanning through these.
+michelle.lynn: Okay.
+Adam Harrison: See if I can filter on. I don't, I don't see them. So I don't see any psychiatry. But let's see. Cardiology, pediatrics.
+michelle.lynn: So then let's go look. Let's actually go to United Health Care because it's going to depend on which portal, who they credentialed them under. So I would look up the United Health Care, find a provider in color or California.
+Adam Harrison: Okay. Behavioral health.
+michelle.lynn: Yep. And I would do employer individual plans.
+Adam Harrison: Okay. That's new york, california. I just need to get his address. Hold on.
+michelle.lynn: Okay.
+Adam Harrison: It wouldn't surprise me if he actually is not credentialed at all.
+michelle.lynn: It wouldn't. Me either. And so even then, I would still submit the claims for out of network, you know, and hope that we can get some out of network benefits. The one thing I think at this point you have to ask the provider is anything that comes back as client responsibility probably should be written off. That's not really fair to the client to collect from them when he, you know, there was no billing being done.
+Adam Harrison: Right.
+michelle.lynn: I mean, I wouldn't say I would recommend to my providers, like. No, you write it off. This is. This is your mistake or your biller's mistake. This is not their responsibility.
+Adam Harrison: Oh, there we go.
+michelle.lynn: But that's a master's level nurse. Is he a nurse?
+Adam Harrison: I think he's a psychiatric nurse practitioner.
+michelle.lynn: Wow. So let's see, there's his license numbers down there. You could compare to see if his license. There's his npi. Is that NPI match.
+Adam Harrison: Let's see. So he is. He did say in the call when I talked to him he was a. He is a nurse practitioner.
+michelle.lynn: Okay.
+Adam Harrison: So his mpi, we check this back. Switch back over here. So that does seem to match his practice mpi.
+michelle.lynn: Yep.
+Adam Harrison: United is. Is good, but Optum is not. So how does that.
+michelle.lynn: So Optum is the behavioral health side. So anything that is submitted with United should. They should roll it over to Optum.
+Adam Harrison: Okay.
+michelle.lynn: It just depends on what system he was loaded into. But if he has United, anybody who has Optum he should be participating with.
+Adam Harrison: Okay. Because Optum is a subset of.
+michelle.lynn: It's the behavioral health side of United Medical.
+Adam Harrison: So if he's in with Op with United, he's also in with Optum.
+michelle.lynn: You should be in with Optum. Yep.
+Adam Harrison: Okay. Yeah. So I would have to do this kind of one by one.
+michelle.lynn: Yep. You'll want to know. You'll have to go to each of the. And some of the ways that you can check it too is like possibly go to just like Anthem and look under Anthem vs Blue Cross Blue Shield of California and see if you can find them under that same thing with like CIGNA or Evernorth. You'll want to look under their directory.
+Adam Harrison: Okay, so I can do that. Okay. So I think next steps is for me, I'm going to see where is he credentialed, where is he not? So that's. That's pretty clear. So let me just write these down. Steps where credentials and where not. Then I think I should probably look more closely at these charts and just sort of see what we have, what's missing. Like, I don't. Yeah, I need to figure out a way to do that without going one by one. But I'm not sure if that's possible.
+michelle.lynn: That might not be possible. That's. That's how you. You. A lot of times you'll get these. Some of these companies is because they just need somebody who's willing to go in and clean up their system.
+Adam Harrison: Right, right. Because they haven't done it. Yeah, yeah.
+michelle.lynn: A lot of my people, they come to me because they want me to clean their system up. And then. And then they're like, oh, now we'll stay with you.
+Adam Harrison: Interesting. Okay. And then so I should try to figure out like how many notes are in there, how many are done, how many have insurance. Maybe that. Yeah. So it's kind of note completion and insurance.
+michelle.lynn: And if you, if possible, I would try to run. I would try to start like at March and do just like that time frame, because those are the claims you're going to want to get in right away to even meet that timely filing work. I think. I know with Optum, their timely filing is like 90 days, so I would look at that too.
+Adam Harrison: Okay. So I should look up where he's credentialed and then also the timely filing rules for where he is credentialed.
+michelle.lynn: Yep. So it's 180 days for. Unitedhealthcare.
+Adam Harrison: Okay.
+michelle.lynn: So that'll kind of give you an idea of 90 days for Cigna so that you know where to start and how far back you can go, because obviously it's not going to be worth you doing March, April, May for Cigna.
+Adam Harrison: Unless it's Medicaid. Right.
+michelle.lynn: Medicaid's only 180 days, but Medicaid. Is he credentialed with Medicaid?
+Adam Harrison: He's claimed to be.
+michelle.lynn: Yeah. It's usually only 180 days, so. Yeah. And the worst part of that is, is the. The eligibility. Figuring out the eligibility for those clients.
+Adam Harrison: Yeah, totally. Okay, so maybe we'll actually start with more. More recent ones.
+michelle.lynn: Yeah.
+Adam Harrison: And maybe work. Work backwards, because it's probably also easier for him to do the note from, like, a month ago versus six months ago.
+michelle.lynn: Yeah, for sure.
+Adam Harrison: Less audit risk and all that.
+michelle.lynn: Yep.
+Adam Harrison: Okay. So, yeah, we'll probably start recent and work backwards, just Even though we might miss some claims, just because I want to make sure we can at least start doing something here. And I'm worried if we go back 180 days, he's just not gonna. He's not gonna do anything at all.
+michelle.lynn: Yeah, I. I'm a little. I guess I would be a little shocked if he would do any of it, being that he reached out to somebody and didn't already have his notes in place.
+Adam Harrison: Yeah. Like I said, very odd guy, for sure. So quite scattered.
+Adam Harrison: But he does seem to want the help now. But. Yeah. I don't know why he wouldn't have gone back to that other company first or done his notes. Right. So nothing suggests that, you know, he'll change his behavior so far, but we'll see.
+michelle.lynn: Well, I would imagine with. With. If he's with Alma, that he probably would have to, because I don't think that they tolerate that very well, you know, because when. When Alma and Headway first came out, they didn't. They were allowing people to just utilize their platform for entering a payment and getting billed. They weren't requiring notes. Well, then they figured out that, like, they were credentialing under their tax. Id. So they had to have those notes in their system for audit purposes because some providers were like refusing to release those notes to them. And so then they switched over to you have to do your notes in our system.
+Adam Harrison: Interesting. Well, yeah, I think the ALMA is a more recent thing because I think he realized like. My guess is I think he realized like, oh, I don't, I don't. I'm not able to like manage the business side of this myself.
+Adam Harrison: And I need more of a like platform that kind of like does that for me.
+michelle.lynn: Right.
+Adam Harrison: So I think he, I think it sounds like he switched this year over to using those platforms, which, you know, probably good, like self awareness on his part. That's my assumption of like what happened. Yeah. But I don't know, maybe he was using them all along. I'm not sure. And then that, you know, complicates this further because we don't want to have duplicate bills or something like that, I guess across.
+michelle.lynn: Yeah, because that will for sure. And, and I would make for sure that that is the case because that will generate an audit.
+Adam Harrison: Yeah. Okay, good. Good to know. I almost want to say, hey, Stephen, let's start with just one claim that we know the node is done and let's just do that and let's just have you get paid and then let's go from there. What about like the era? We haven't talked about ERA stuff and getting that set up. Do we need to re. Initiate that as jot. Psych or how does that work?
+michelle.lynn: Yeah, because where. Wherever his. So two things. If he didn't have eras set up, then they're probably being mailed to his house or office or wherever. So yeah, you would want to go set that all up because otherwise it's still going to go to mean it could possibly even go overseas again if they're the ones that set it up. So that all has to be switched.
+Adam Harrison: And so the process to do that we pair right in their portal or something somewhere.
+michelle.lynn: So yep, some of them is in their portal, depending on which ones. I mean, I can't tell you all of them, but like you can go into Cigna, Availability, Provider, Express and United, all those can be set up in their portals. But you know, like tricare, if he was part of tricare, California has all kinds of different insurance companies. They have Ambedder, they have Sharp. So there's all kinds of different. Strange insurance companies out there. I have two providers out there and they're forever throwing things at me that I'm like, I've never even heard of that before.
+Adam Harrison: Okay. And do we need his, like, login to do this stuff?
+michelle.lynn: I would. I would use his login if he has them.
+Adam Harrison: He probably doesn't have them.
+michelle.lynn: Probably not. So then you're probably going to have to, my guess is, create platforms. I mean, you have a big project ahead of you because you'd have to create the platforms to make for sure that, you know, and then you have that chance that if the other company did it, that they have them and that all has to be switched over. The one thing you could hope for is that he has enough contact or still has their contact information that you can reach out to that biller and they will provide you with the information.
+Adam Harrison: Yeah, okay, let me try to do that.
+michelle.lynn: I don't know. And by doing that, they may be able to forward you any contracts, because I'm sure that they kept those on record. So they could probably forward you any contracts or credentialing statuses for. For anybody that they were credentialing for.
+Adam Harrison: Yep. Okay. All right. This is super helpful.
+michelle.lynn: Welcome to the billing world.
+Adam Harrison: Yeah. Nice, nice. Easy on ramp.
+michelle.lynn: Yeah. Yeah.
+michelle.lynn: These are always the ones that you're like, oh, yes, I'd love to help you out. And then you get into it and you're like, oh, what have I done?
+Adam Harrison: Yeah. And it's also like, this guy is very, like, it's hard to get a hold of him, and then he's late to meetings and he misses meetings and we reschedule. So just kind of a. It's a tough one, but. But thank you. This is like, I would have no idea what to do if it, you know, if I didn't have your. Your guidance. So I. I appreciate that. I feel like I at least know where to start now and we can kind of take it one step at a time. So.
+michelle.lynn: Yes, absolutely.
+Adam Harrison: Thank you.
+michelle.lynn: Any other questions, let me know. Shoot me an email.
+Adam Harrison: Yeah. Yeah. Well, I did want to come back to just round out on the eligibility topic. One last thing that, you know, I know I'm just, like, a little unsure what the. For. Like, let's say there's a new patient coming to one of your clinics. What is that? Do you own the intake? Does the front desk own the intake? Like, how does that. How does that work?
+michelle.lynn: So the front desk owns the intake and then they send over. So. So I have a couple. So I admin for some of my companies, and so when all that information comes in, then I have it so I can do the eligibility, set them up in the system. All of that for some of the companies that I just do the billing for, they let me know. They actually submit a form to me for me to pull eligibility. And then I have another company that uses Thera SaaS. They just started with it. And it's kind of. It kind of is a flow system. So when the client fills out the information, it goes in there that they're supposed to be required to upload their insurance information and all of that, which notifies us that. That it's in there so that we can do the eligibility. However, I don't think it works real well because we've gone in and there's been several of them that don't have cards. So it's not working as well as they thought it was going to work, but yeah. So typically, though, whenever a new client comes on, I created a form that they give me the basics and upload the cards and then we run the eligibility.
+Adam Harrison: Okay, got it. So that makes sense. That makes sense. That's the form that you. You sent me before, so. Okay, great. Yeah, I can imagine it might look different depending on the clinic, like how much they want their front desk to be involved and. Right, right.
+michelle.lynn: And then, you know, and then again, it depends too, on the portion. Like, if you're just doing the billing side of it, you might not have access to their ehr for any other reason. So then you're going to have to have something that they can generate that information to you. And in all of my companies, I have access to everything. You know, some of them, I have access to the notes, which I don't want. I never.
+michelle.lynn: I don't want that. I don't want to read the notes. I don't have time for that. But in order to do other things in the system, I get access to everything. And then there are some systems I literally just have access to billing stuff. But in that, I can go in and I can look at the insurance, setup the cards, the appointments, you know, things like that.
+Adam Harrison: Got it. Got it. Okay. Super helpful. All right, well, Michelle, I will let you go. I'm going to have a crack at this. This Steven thing, and I'm sure I will have more questions, so I will definitely be talking to you soon.
+michelle.lynn: Well, and we meet again today at three, Right?
+Adam Harrison: I don't have that on my calendar. Is that with Nate?
+michelle.lynn: No, you and I set up a reoccurring. Occurring for every Wednesday.
+Adam Harrison: So I don't have that starting until next week, it looks like. Oh, okay.
+michelle.lynn: No, that's fine. Because I have. I have lots on my calendar, so, I mean, I could clear an hour.
+Adam Harrison: Yeah. I now have like a conflict at three also, so for some reason, I think we had the invite start next week for whatever reason, so
+michelle.lynn: I just wrote everything down in my book.
+Adam Harrison: Oh, okay. So, yeah, it was probably my mistake. I didn't send it out correctly, so.
+michelle.lynn: No, that's okay. So then since I have you here real quick before you go.
+Adam Harrison: Yeah.
+michelle.lynn: I talked to Nate last week, I believe it was. He had just sent us the information for us to get paid.
+Adam Harrison: Yeah.
+michelle.lynn: However, when I go in there for previous payments, Do I just put in like the full time for one date or do you want me to give that to you? Because you said I could ask you about this too and then start logging my. My time for this month now that I actually have access.
+Adam Harrison: Oh, I see. Have you? I guess. Sorry, I didn't realize you were not getting paid yet. I thought that was already like an up and running process, so apologies for that.
+michelle.lynn: That's okay.
+michelle.lynn: And I wouldn't do it for but once a month anyways. Unless you guys want it done differently.
+Adam Harrison: I feel like just the monthly hours is probably fine.
+michelle.lynn: Okay.
+Adam Harrison: I don't know if I'm an approver or if Nate is an approver. I have to let me go look how it's set up. But yeah, I would feel free to just. I think it's broken out into usually like two week increments, But I don't think I even have you. I don't have you as. Let me see. Hold on. And get it logged in. Yeah, I think your time goes directly to Nate and he approves it, so.
+michelle.lynn: So just send him my hours for the last month, and then I should be able to go in and clock in and out in the system now, right?
+Adam Harrison: Yeah. Have you tried going into the system yet?
+michelle.lynn: I did, and that's what. It's what kind of stopped me because it was like by the day, and I was like, I don't know if I should list all the hours by the. In one day or if I should send that to you guys with the dates so that you guys could put it in to your system however you want to put it in.
+Adam Harrison: Okay. I didn't know it was by the day. I thought it was by every two weeks, but. But yeah, I would say maybe. I don't think. I don't think, like, if I was approving it, I probably wouldn't really care to track by day. That's probably, like, annoying for you, but. And I don't think we really, like, need that, but I would say probably by week or two weeks or month, like, whatever is easiest for you and just, like, cluster the hours on. On a day or something like that. I'm not quite sure how it's set up, but, yeah, I. I can tell Nate. Like, hey, I'm just gonna ask, like, Michelle and I spoke, and, you know, she's just gonna do kind of. What's the right grouping for you? Like, what's your preference in terms of the hours? Is it. Is it weekly for you or monthly? Like, what. What. What works for you, Michelle?
+michelle.lynn: So I would rather be paid by the month.
+Adam Harrison: Okay.
+michelle.lynn: Yeah. So, like, my hours up to the 1st of February are nine and a half hours.
+Adam Harrison: Yeah.
+michelle.lynn: And so I didn't know if I needed to go in and go, like, take it back and put in each day or if I should just go in and put. I didn't know how you guys want to do it because then it would run. Now it's going to run into February, which would happen.
+Adam Harrison: I see. I see. So, yeah, just as long as it's in that month, whether it's for the whole. Like, it can all be on one day. But as long as it's, like, you know, January 30th, you know, 30th or whatever, like, 10 hours, you know, February 29th, nine hours. Like, I would probably just do it. Do it that way. I don't think you need to do it, like, each day by day. Break it out.
+michelle.lynn: Okay. All right. That sounds good. I just wanted to. I was gonna send an email about it, and then I was like, yeah, he said I could talk to you. So I just reach out to you and.
+Adam Harrison: Yeah, I think that's fine. I'll just confirm with him, and I'll let you know if, like, he wants it day by day. But I suspect, like, you know, it. It shouldn't. You know, it's not like you're working 40 hours a week, so I.
+Adam Harrison: I don't think it's, like, super important to have a daily breakout, but I'll confirm, but that I would go with that unless you, like, hear otherwise.
+michelle.lynn: Okay, that sounds good.
+Adam Harrison: All right, thanks, Michelle.
+michelle.lynn: All right, take care.
+michelle.lynn: All right, bye.
+Adam Harrison: Thank you. Bye.

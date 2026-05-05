@@ -1,0 +1,95 @@
+Becca Bressler: Hey there, Wendy.
+Wendy Brandeberry: Step on my computer and I'm trying to figure out how to minimize. There's that. Okay.
+Becca Bressler: Hi, how's it going?
+Wendy Brandeberry: It's going. It's been a really busy day. My boss for my day job is blowing up my phone.
+Becca Bressler: I know how that goes. So I'm sorry. Thank you for taking the time to meet. I'm curious, how is the prescribing going for you so far?
+Wendy Brandeberry: I honestly have not had a chance to use it yet.
+Becca Bressler: Okay. Do you mind telling me more about why? Like, is there something with is there like friction?
+Wendy Brandeberry: I didn't have any patience last.
+Becca Bressler: Oh, okay, got it.
+Wendy Brandeberry: So I see two tomorrow, one Thursday, one Friday, and we'll probably be sending out some scripts.
+Becca Bressler: Okay, great. Yeah, just keep me posted on how that's going for you. So, okay, so to get you set up here, let me just make sure you have this.
+Wendy Brandeberry: Okay, I log the jet psych.
+Becca Bressler: Yeah. So log into shots like share your screen. What do you use right now for telehealth? I apologize if I asked you this. Doxy me. And you pay. You don't. Do you do the free version or you pay some amount?
+Wendy Brandeberry: It's 30 some dollars a month.
+Becca Bressler: Okay. All right. So the key thing that I'm going to walk you through how to like set up and how to think about this is the telehealth rooms are or the telehealth feature. So in doxy, do you have like one link? Basically like this is Wendy's telehealth link. Yes. So the core thing to think about here, and if you don't mind just sharing your jot psych screen with me. So the key thing to think about here is that instead of a single link that's attached to you that you can just send your patients to always reach you at. The telehealth is like a room that we create for you tied to a specific appointment. So like on the Jot psych schedule. So I'll walk you through how this works. But can I just ask quickly these do you use our schedule feature? What do you think about the things that show up on your screen? Like are these right? Are these sessions correct the discussions?
+Wendy Brandeberry: Disappointment was auto created from a recent encounter. Let's see 66. 20. Yeah, I haven't really paid that much attention to it, but okay.
+Becca Bressler: So you haven't really like noticed if these are right or wrong basically no I haven't. Okay, so let's go to the schedule for a second because when you're testing this and do you have any patient information in Jotsey as far as like phone numbers for your patients?
+Wendy Brandeberry: I have been. I've been trying to get those added in. Yes.
+Becca Bressler: Okay. So let's go to the schedule for a second. If you just click schedule. Now so the way that like a telehealth appointment gets created is by creating an appointment and selecting telehealth. So let's go through a test run with you and me and we can I can be a fake client. So will you go ahead and create an appointment on your calendar for 115 today because that's upcoming. So let's create an appointment for 115 and we can choose your fake me and then I'll just give you my phone number so we can we can go through this.
+Wendy Brandeberry: Pseudo Sue.
+Becca Bressler: I like that. I haven't heard that one. That's better than Jane Doe phone number. 925. 451. 0337.
+Wendy Brandeberry: Not that it matters.
+Becca Bressler: Okay. No, this is great because it'll send me a link. I'll show you how this works. So what's crucial here is that you select telehealth. That box. Yeah right here and hit save. So one thing to note about this telehealth room is that it is only like available 15 starting 15 minutes before the session, which means like if your patients or clients show up like 20 minutes and click in, it'll say like the room's not available yet. Come back, et cetera. And it also won't show up on your screen until that time. But let me show you what it looks like. So click into that appointment. And hit start recording. So now you'll see this thing that says telehealth ready to join. So currently eventually the way this is going to work hopefully very soon is that do you ever set up a appointment reminders in Jotzy? K?
+Wendy Brandeberry: No.
+Becca Bressler: Okay. So the way that this would ultimately like eventually work is you would create an appointment, you would attach a patient and you would say this telehealth. And then you would have appointment reminders set up for that patient so that they would get a link ahead of their appointment that this is your telehealth link. Okay. For now that's not enabled. So let me just like walk you through how you would test this out with some of your clients. Okay. So hit join session.
+Wendy Brandeberry: Right. Should I hit start recording or just sure, sure.
+Becca Bressler: You can do stuff because actually crucially the telehealth is not recording it for the note. So in order to capture the audio for the note, you do need to hit start recording too. But so do that and then hit join session. Okay. And now hit join call, but you'll want your cameras off. Are you seeing any pop up?
+Wendy Brandeberry: Yeah, it says allow while visiting the site views available camera. Okay. But I want to blur my background because my desk is a mess.
+Becca Bressler: Ing. Does Doxy let you do that?
+Wendy Brandeberry: Yeah. Well doxy, what I really want to do if this will let me is I have a virtual backdrop created with my practice name on it. So if Jat psych will allow me to upload that, that'd be wonderful.
+Becca Bressler: Okay. That's really good feedback. Will you click any of these things and see if you can adjust your background? I don't think you can right now, but I'm just curious what happened.
+Wendy Brandeberry: The camera on or off.
+Becca Bressler: So that's the camera. And then is the other one. What's the one on the far right? Oh, it's okay. It's the speakers. Okay. Yeah. So it looks like you can't do it just yet. But click join call because this is how you get to the place where you can actually send.
+Wendy Brandeberry: Invites and send in marked copy invite link.
+Becca Bressler: Yeah. So hit send invite because I'm your test patient. I'll kind of show you how this goes. Okay. All right. So I got a text message and I am now. Being. I'm giving a request to join. I'm going to like mute myself on this. But then you'll see.
+Wendy Brandeberry: Pseudo suit wants to join. Okay. So I can either admit or deny.
+Becca Bressler: So go ahead and admit.
+Wendy Brandeberry: Okay. And there you are.
+Becca Bressler: So and then Wendy, do you ever. Wait this phone entirely because you can, I'm hearing an echo. Do you ever during your session click around jot psych like go into the note or go across?
+Wendy Brandeberry: I do.
+Becca Bressler: Show you what that's like. So we're on a call right now and don't end it. Pretend like we're in session and start clicking around where you would.
+Wendy Brandeberry: Okay. Documentation. Let's say I wanted to check on somebody's med management visit.
+Wendy Brandeberry: Yeah, that's kind of what we do.
+Becca Bressler: So there's like a picture in picture. You can see still in the bottom right.
+Wendy Brandeberry: Is recording of the session if it will stop.
+Becca Bressler: Say what you're asking again.
+Wendy Brandeberry: Let me open this window back up. This is just weird. Bye honey. My husband's leaving for work. Love you. I was recording this session with you and I said, I wonder if I got if I stopped the recording, if it would stop that echo. But I've just moved things around and I don't know what I've got going on now.
+Becca Bressler: Oh, it's did you did the picture in picture disappear? So do you don't see any video?
+Wendy Brandeberry: No.
+Becca Bressler: What happens if you go to record?
+Wendy Brandeberry: Okay. Okay. Now it's back.
+Becca Bressler: That's interesting that it says return to call because I could see you the whole time.
+Wendy Brandeberry: Do you see where it says recording up there right in the square? If I end this here, does it end the recording? Okay, so that's my cue that I haven't hit recording. I need to see it up there.
+Becca Bressler: Exactly. So I'm going to leave the call right now. But the key, so the key way that this would work, Wendy, is like within as you're testing it with a couple clients is if they're game to like, you know, if you're like, hey, I'm testing out this new software, I'm going to send you the telehealth link, you know, 15 minutes before the appointment. This is how you would do it. You would come into the session and send them the link. And really just what I want to hear from you is like. How it works in your workflow, what you like, what you wish you could do but can't, you know, like even the placement. Like what do you think about where it is on the screen or do you wish it were somewhere else? Like anything and every way that it interacts with your workflow and is helpful or hurtful or creates friction. I want to hear about it. And so I'm wondering if could we set up like 15 minutes even to like check in after you've tried this with a few people?
+Wendy Brandeberry: Yeah. Let me see what I've got. I don't know that I have all my appointments in here. Let me go back to my schedule. And do you want me to get out of this.
+Becca Bressler: Oh yeah, sure. There it is. I see it now. Yeah, you can leave the room.
+Wendy Brandeberry: Okay, so go back to the schedule. Hunter, I saw him last week, so I don't have him. Um, I saw Zach recently, so that's not a real appointment. But Alex McDowell, 6:00 on Thursday is a valid appointment.
+Becca Bressler: We actuallyndy, can we try something really quickly? I'm realizing there might be an issue. Can you rejoin the call that I was in?
+Wendy Brandeberry: Yeah. Let me see if I can figure out how to get back in. It.
+Becca Bressler: You're just. Yeah.
+Wendy Brandeberry: There you go. Well, I hit that and then just start recording.
+Becca Bressler: It'll take you to the page. It'll take you to the recorder. So then join session. So join the call right now. And now what I actually want you to do is go to the schedule up top. Okay. And can you create an appointment that starts at like 1:30, for instance? I think this one we started like 1:15 or yeah, let's just try another one and hit telehealth.
+Wendy Brandeberry: With a regular appointment. I mean, a regular person.
+Becca Bressler: We can just do the same. Do the same thing. Actually, let's just try the same client or actually a different one. Yeah, a different one would be helpful.
+Wendy Brandeberry: Yeah. Let's, let's do one.
+Becca Bressler: I want to see what it looks like when you go to their page.
+Wendy Brandeberry: Okay, let me see. No, I don't want her. If I do Hunter, it'll be good. Because.
+Becca Bressler: And you're going to, yes, you're going to need to select telehealth reminder for it to show you.
+Wendy Brandeberry: And then save.
+Becca Bressler: Yeah. So now can you click Hunter and I just kind of want to see what happens. When you go to that recording. Hit start recording. You have an active telehealth call and another encounter. Okay, cool. That's kind of what we would want to see. Great. That, that is great.
+Wendy Brandeberry: Return to call. So that I'm back to pseudo Sue.
+Becca Bressler: Yes. Then you're back to pseudo Sue. And then what would happen though? Can you go back there? I'm curious what would happen if you said end call if you would then see the other room.
+Wendy Brandeberry: Okay. Here start recording. And call. And then join session.
+Becca Bressler: Yeah. Let's see what happens when you do that. I just want to make sure this and join call.
+Wendy Brandeberry: Oh, is this going to call him though?
+Becca Bressler: No, because you didn't send a link. So this.
+Wendy Brandeberry: Is great.
+Becca Bressler: Okay, amazing. This is great. So does this make sense, Wendy? Just like he, he thinks to know create the calendar event, click telehealth. And then 15 minutes is your window before which you can like get into this.
+Wendy Brandeberry: Okay. So I'll have to tell them that they'll get an invite 15 minutes before not to use the doxy.
+Becca Bressler: Yeah. If you don't, if you have some, you know, clients you think are going to be more receptive to that kind of thing to, you know, being a little flexible. When would be, when would you be free potentially to like regroup and, and give me some of your feedback?
+Wendy Brandeberry: That's what I'm going to, I'm pulling up my ed, my headway calendar to see what I've got booked. Um, actually I have two patients booked tomorrow. And one on Friday. So on Thursday, I've got a big dinner.
+Becca Bressler: Should we check in Monday? Would that be possible?
+Wendy Brandeberry: Yeah, we could probably do Monday. I don't have anything booked right now for Monday.
+Becca Bressler: Okay.
+Wendy Brandeberry: So we could do Monday around the same time. Okay. Work from home day so I can squeeze in our lunch.
+Becca Bressler: Okay, great. So that we started this at one. So let me. Telehealth regroup and I'm going to send you an email. And yeah, I would also love any feedback you have then around
+Wendy Brandeberry: the big, big thing for me would be being able to upload my, my virtual background because I can't do that on doxy. Yeah. And I really don't like to blur my screen and get those, you know.
+Becca Bressler: Yeah, totally. That's really good feedback. I don't know if we'll have that in our like first version, but I definitely think that's, I appreciate you saying that because that's really good feedback for us to hear.
+Wendy Brandeberry: We're going to want to blur their background that are working from home.
+Becca Bressler: Yeah. Totally. Okay. Thank you so much, Wendy. I really appreciate it.
+Wendy Brandeberry: Yeah, no problem.
+Becca Bressler: I'll talk to you soon.
+Wendy Brandeberry: Stop presenting and end the call. Okay. Have a good day, Becca.
+Becca Bressler: You too.
+Wendy Brandeberry: Bye. Bye.

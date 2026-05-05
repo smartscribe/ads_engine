@@ -1,0 +1,138 @@
+Lee Harrold: Hello.
+Becca Bressler: How are you?
+Lee Harrold: I'm good.
+Becca Bressler: You feeling how.
+Lee Harrold: A little better? A little better. I think the rest is definitely helping.
+Becca Bressler: Oh, good, good. Even doing like a half day sort of somewhat and just getting to like take the afternoon.
+Lee Harrold: Yeah. It's been good. The screen not looking at a screen is actually then really effective.
+Becca Bressler: Oh my God, yeah, I can imagine the screens are so bad for this.
+Lee Harrold: Yeah, I'm taking. I can really only do like 10 minutes at a time. And then I have to like look away.
+Becca Bressler: Are there like glasses that you can get to help look at screen? I feel like there are for the general public, like not, you know.
+Lee Harrold: Yeah, I don't know. That. I didn't even think about that.
+Becca Bressler: I might be making it up, but I feel like I've even heard of it being for just any, you know, someone even like me to mitigate or like damage we're doing to ourselves.
+Lee Harrold: I've seen, I've seen the orange lenses. I had a lot of coworkers who use those. But like my understanding is it's effective. That's effectively the same as having your screen on like a warm currency changes the color of the light.
+Becca Bressler: All right, let's take a look. I'm excited about this.
+Lee Harrold: Sweet. All right. Can you, yeah, you can see my screen. Let me close this. So we're starting with a brand new user and I want to start with the CTA. The call to action process.
+Becca Bressler: Sure. Great.
+Lee Harrold: So see Lin Lapid is here. I need to in order. Let's see, let me turn on their CTA.
+Becca Bressler: And that's just like putting them behind a feature flag basically like a gate.
+Lee Harrold: In. Stats. Yeah, exactly. Yeah, we have two one. One enables one lets them use. Oh, I'm wrong. Where is it? Oh, it's in. Yeah, it's where the Google meet is. That's why I can't find it. All right, so.
+Becca Bressler: You know the UTR extension.
+Lee Harrold: You the CTA. Okay, okay. They have that one too.
+Becca Bressler: Okay, cool.
+Lee Harrold: Let's go to page.
+Becca Bressler: There are two different ones. One for the CTA and one for the add on.
+Lee Harrold: Yep. Yeah. So the add on makes it possible for them to purchase the add-on. Yeah.
+Becca Bressler: Well, so. What the call to action should only go for people that have. The add on. So is that going to be like tricky? You know if in stats say we're like, hey, we want 10% of people to pass this gate, can we control that they're the ones that get the CTA?
+Lee Harrold: We would have to. We'd have to add the IDs manually.
+Becca Bressler: Well, so why is that like it should be a part of the feature flag? Like it really should be like, okay, you can purchase EHR Chrome extension. You then are going to get the call to action. And by call to action, you mean like on the copy events.
+Lee Harrold: Right? Yeah.
+Becca Bressler: Yeah. So it should be like baked in.
+Lee Harrold: Yeah, we can do that. We can combine them to their one.
+Becca Bressler: Yeah, it should just be one. But so, okay, let's go. Let's go through it though, just to see that.
+Lee Harrold: So let's see, I generated a note. Type like this. Yeah. So first, let's try it again.
+Becca Bressler: So that's another thing to note, Lee, is the first time user copy is going to get.
+Lee Harrold: CSAT scores.
+Becca Bressler: So we just need to make sure that they're timed separately. So like.
+Lee Harrold: This, this would only have happened for someone who is creating a brand new brand new account.
+Becca Bressler: But, but for, for others, we know that they're not. Going to, yeah. Okay.
+Lee Harrold: Start recording.
+Becca Bressler: But we probably need some type of logic to make sure they're not about to get CSAT pop up.
+Lee Harrold: Right? Yeah. I vaguely remember that being there. Let's ask shot. Hey, is there logic in. The front end that determines whether a user gets a CSAT pop up for the EHR extension CTA on the no copy page? Okay. Oh, yeah, we're in a trial. So let me fast forward this user out of a trial. Too.
+Becca Bressler: So that we can see.
+Lee Harrold: What's that.
+Becca Bressler: Does that matter? Like we'll only get it if they're not trialing.
+Lee Harrold: Ah, no. So that's because we had a little bit. If a user is trialing. They automatically get the. Entitlement. To be able to use a jot shuttle. But when their trial ends, if they're just on a basic plan, then this will be blocked out. So to show that this gets blocked out, I need to accelerate them out of a trial.
+Becca Bressler: They're not locked out immediately, right? Because they get like a certain number of free notes that they can do a month.
+Lee Harrold: Yes, if they have the EHR extension. Feature flag.
+Becca Bressler: Which they would have to see it in the first place.
+Lee Harrold: Right? Yes. Yeah, yeah. But if someone was just like on the Chrome store and the download of the app. And then weren't in the like
+Becca Bressler: 10%, all I'm saying is like if you are a trialer who is using the EHR Chrome extension, when your trial's over, you can still use it, but only for 20 or whatever notes we've decided.
+Lee Harrold: Yeah. Yeah. If you're on the basic plan.
+Becca Bressler: Right. And you didn't purchase it. Okay, cool.
+Lee Harrold: There's no, let's copy this thing and get, oh, we get a CTA. We get a CTA. Oh, we don't get a CTA. Okay, well, let's figure out why we don't get a CTA. In the meantime. Head over to, oh, this user doesn't even have. Okay, so that feature flag. Okay, I just had to refresh. Cool. The first part, the tutorial video is the new tutorial video.
+Becca Bressler: Wait, sorry. We need to go slowerly. Can we go back to that page?
+Lee Harrold: Yeah. Is there?
+Becca Bressler: Yeah.
+Lee Harrold: So.
+Becca Bressler: We had discussed being able to sign up here.
+Lee Harrold: Like the sign up.
+Becca Bressler: The prototype lets you like walks you through. So this is a user who hasn't downloaded it yet. Their account settings, they should not have to go to manage clinicians to start setting it up. They're like prototype that we have lets them. So this is one. It looks like it's already installed, but I kind of want to go through the flow for someone who's not. Installed it yet.
+Lee Harrold: Oh, oh, you're right. You're right. You're right. Yeah. Why is. So this should be set to, who am I looking at? Yeah, this relies on someone having. Emitted a note copy of it. But this user hasn't emitted a note copy of it. So yeah, I wonder why we're in. Yeah, because it should, it should be showing the page with the GIF that like explains what it is.
+Becca Bressler: Yeah, that's kind of where I wanted to take this was like walk through every step of it. Walk through this page, walk through the call to action. Click everything.
+Lee Harrold: Yeah, it looks like it's not working. But it worked. Let me see. It is currently, oh, is it? Here? Okay, yeah, I'll figure out why it's not showing. You're right because it should, this is what I would expect it to show. But for some reason it seems to think we're at the installed unlimited step. But this is the new, this is the new CTA GIF.
+Becca Bressler: Can you refresh? I just kind of want to see it. So great. Cool.
+Lee Harrold: And then it shows clicking, you know, moving to them. Yeah. I wonder. Oh, man, maybe I'm, maybe I'm storing that in localhost. And because I installed it on a different user inside of the same browser. Yeah, that's that's for me to figure out later.
+Becca Bressler: But also if you scroll up. I'm a little confused. So it says included in your trial 15 notes. Is this a trial account or is this a user account?
+Lee Harrold: Right. It's a trial account. So this user is currently traveling.
+Becca Bressler: Got it. I don't, I thought our trialers have unlimited. But if they don't. They don't. Like other add-ons they have unlimited. So we should check what the actual entitlement is for this. And the text should reflect it. If, if the entitlement says 15, I don't want. To hold this up by making it unlimited, but I just want to make sure the text is reflecting their actual entitlement.
+Lee Harrold: Yeah. I'm pretty sure they do have unlimited because that's what the EHR extension behavior does. It actually has. To make sure. This bundle actually has. Unlimited notes during file.
+Becca Bressler: And it's so changed the copy.
+Lee Harrold: Oh yeah. And change the copy. Your flags, the truth.
+Becca Bressler: Okay, so let's. Kind of go back. Well. I mean part of this work walkthrough is making sure it works. So like I would rather like set this down and not walk through the different. Like prototype states. Or they're not prototypes.
+Lee Harrold: But yeah, there's the CTA like onboarding process.
+Becca Bressler: Yeah, I just kind of want to like. See that everything. Can you scroll down? Okay, can you scroll up? So there are. N't instructions on this page. Do we never have those? You know, like the steps. So this is not installed.
+Lee Harrold: Oh yeah. Like.
+Becca Bressler: Yeah, like how to use like you would.
+Lee Harrold: Want the how to use on this not installed state.
+Becca Bressler: Because we have a tutorial inside of the app. We want to give them access to like the tutorial video and everything before they download it.
+Lee Harrold: You know? Oh, that makes sense. Let me take a screenshot.
+Becca Bressler: You know, we don't need that entitlement use code usage card or anything, but like the three step and then the tutorial link is definitely something that like.
+Lee Harrold: Oh, you want these on this on this page?
+Becca Bressler: Can you can you go down? Can you sorry I wasn't looking
+Lee Harrold: you want these three how to use things on this not installed page.
+Becca Bressler: Well, so where would they get the instructions of how to use it? They would just do add to Chrome and then when they add to Chrome like can you take me to add to Chrome right now? What is what happens?
+Lee Harrold: Oh, this. One.
+Becca Bressler: So can we upload this video needs to be updated right
+Lee Harrold: or this yeah all of the promo material gets gets updated at the same time like when we push new push new version.
+Becca Bressler: So if you smart style integration can we scroll down stop copy pasting your clinical notes? Can you click see more? Yeah, so all of this text needs to change.
+Lee Harrold: Okay yeah what what should it
+Becca Bressler: just copy and paste that to me in a slack? And then we have to wait until all the updates push right before we can release this or can we release it? Because the updates that we're pushing are like. Text related.
+Lee Harrold: We can we can release them asynchronously. So we can we can release the code update and then the text separately if we want.
+Becca Bressler: Oh, but there is still a code update we need to make in the Google Chrome store.
+Lee Harrold: Yeah. That's. All this reskinning.
+Becca Bressler: Oh, it hasn't how long does that usually take to get
+Lee Harrold: one time it took one day and every time it took three days.
+Becca Bressler: Okay. So so let's go back if we can.
+Lee Harrold: Do we do we have to jump over to oh wait is watering an yeah watering's at 930. Do you want to do that
+Becca Bressler: or you want to I thought it was at 9:45.
+Becca Bressler: I don't know what time watering is at 9:45.
+Lee Harrold: Okay cool we're good to go.
+Becca Bressler: Hold on. One second. Okay can we go back to the like account settings page for a user who's not installed it yet? Cool I guess we don't need to put the steps in here but if we can get the link to the tutorial that is like pretty key okay.
+Lee Harrold: Like add it maybe up here at the top.
+Becca Bressler: Or yeah is there a way to like next to the. Add to Chrome if there's like another button call to action that's like watch tutorial that's like you know in the the kind of inverse I mean maybe not because that text is too long but I'm just trying to think about like.
+Lee Harrold: Are we are we thinking that people are going to want to watch a tutorial before this they click this add to Chrome video.
+Becca Bressler: Or add to Chrome button I think we want to give people the option to do it so they can see how it works.
+Lee Harrold: Okay because in their minds clicking this will like just add it immediately because they don't know that there's the same tutorial video at the other side of this button. So what if we're like adding like learn more.
+Becca Bressler: Well what does learn oh and then learn more takes them to the Chrome extension because this would have that
+Lee Harrold: tutorial video and then have all this information about yeah what it is.
+Becca Bressler: So. It's an interesting idea. But I do think we want. To call to action that's just. Like.
+Becca Bressler: Get install it yeah yeah I don't think we want to kind of like make it seem like we're like obscuring that another layer.
+Lee Harrold: We can start this interview.
+Becca Bressler: Yeah like an ask cloud like what would it do if we want like a tutorial I mean even next to the Chrome if there's just like a. I feel like there's kind of a classic component for like you know it's like a triangle or whatever but it's like play video I don't know. Yeah we can see what cloud do.
+Lee Harrold: You have a screenshot and tell me if.
+Becca Bressler: I need to get my charger one second sounds good.
+Lee Harrold: Informational. To.
+Becca Bressler: Ilet I run to the restroom real quickly but I'll be right back.
+Lee Harrold: Yeah look at that look at that yeah your recommendation was exactly Claude's recommendation. Yeah I'll take a screenshot and saying if that's what we'll do.
+Becca Bressler: Okay. Hold on. Hold on. Okay sorry. Where are you.
+Lee Harrold: Anything else in the CTA that you want to check out
+Becca Bressler: or do you want other than the video. Oh wait hold on sorry I need to find your hidden deep in the tabs. Yeah here you are. Oh so did it add it did it add the video?
+Lee Harrold: Oh that was chat I didn't I wasn't
+Becca Bressler: like oh sorry what did it say I wasn't looking at the
+Lee Harrold: chat oh like the same thing you recommended like sneak it inside of this banner next to the Chrome button
+Becca Bressler: okay so so let's do that otherwise that's good I'm going to get you text to add to Chrome and then free tier. But I also want to be reviewing the pop up so we need to get that working. So can you do that today and then we can meet later as soon as that's as soon as that.
+Lee Harrold: Yeah. Schedule session. You want to do. One after Sarah Ransom or do you want to do it at like two so there's some some window between
+Becca Bressler: I that person I think canceled my are you looking at my calendar oh you're right yes here at cancel yeah. I kind of want to do it as soon as you can do it as long as I'm not busy so ping me and then if you know if I'm in a call let you know but then can talk immediately after.
+Lee Harrold: Okay that sounds good. Yeah so I'll get it done and then let you know okay thanks Lee in the meantime you want to check out the app itself.
+Lee Harrold: The what that like changes to the app itself
+Becca Bressler: or oh I think I saw these didn't Nate also look at them but here let's. Yeah hold on let me I just need to get the copy to you really quickly oh you're good yeah go ahead.
+Lee Harrold: But yeah it hasn't it hasn't changed since I I think I think the only difference the only thing that I had that you didn't already was the data reconciliation.
+Becca Bressler: And where does that information go?
+Lee Harrold: Into metabase eventually it goes through Gustatzig into metabase so it's queryable.
+Becca Bressler: Okay. Okay so go back.
+Lee Harrold: That one comes from there and then we have this other one.
+Becca Bressler: This patient sink can we go to a note real quickly I just kind of want to see something is there like a deselect all select all situation. Yeah cool yeah this is great so yeah I guess the next steps is I'm getting you copy I want to see it working with the video and then did you see my message about the back end events I need in order to like create this agent?
+Lee Harrold: Yeah yeah I'm going to walk through and make sure that those are those are in the app well I guess I guess yours your yours are new ones so yeah I'll get those in the app. Hello? Yep yeah I see here it is.
+Becca Bressler: Okay cool let's hop over to watering.
+Lee Harrold: Sounds good. I've forgotten how to use my computer.

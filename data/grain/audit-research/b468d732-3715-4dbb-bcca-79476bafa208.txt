@@ -1,0 +1,86 @@
+Becca Bressler: Hey.
+Chavonn Davidson-Smith: Hey there.
+Becca Bressler: How are you?
+Chavonn Davidson-Smith: I am excited as Friday. How about you?
+Becca Bressler: Oh, my God, do I feel the way? Do you have any fun plants this weekend to rest?
+Chavonn Davidson-Smith: I was on vacation all last weekend, so this week has been catch up.
+Becca Bressler: Oh my gosh. Yeah. I'm so excited to get you set up though. Siobhan, can you start by sharing your screen and then I can walk you through this? The setup.
+Becca Bressler: So just to warn you, the setup here with dose spot is a little involved. You're going to be asked for a lot of information. So let me just like kind of tell you what it is first in case you need to go grab things. So, NPI number. Do you prescribe controlled substances?
+Chavonn Davidson-Smith: No, I don't. Yeah, okay.
+Becca Bressler: Okay. So. So, so NPI number. They're going to license, driver's license information. There's, I guess if it's not the DEA number, driver's license, you know, Social Security is something that's going to be asked of you. Address, fax number. If you don't have a fax number, you can just like put in a different number. I think these are. Those are the big ones. But let me just like look at my list really quickly just so you don't get caught off guard if you don't. Oh, one second. Okay. Credit card. Credit cards. That's one of them. Driver's license. Yeah. Okay. I think we covered all of them, so.
+Chavonn Davidson-Smith: Okay. I think I'm good.
+Becca Bressler: Okay, great. So will you go ahead and share your screen?
+Chavonn Davidson-Smith: Sure.
+Becca Bressler: Alrighty. So what we're going to do first is can you go to your practice at the top.
+Chavonn Davidson-Smith: Okay.
+Becca Bressler: And hit your subscription or practice settings. Sorry, it'll. Yeah, you can get here either way. Practice settings. So scroll down. Wait, is it not. Oh, oh, sorry. I know where it is. Wait. Interesting. Oh, maybe I didn't put you behind the. Give me one second.
+Chavonn Davidson-Smith: Okay.
+Becca Bressler: We're like slow rolling this out, so I have to put you behind like a special feature flag in order to see this. It's kind of fun. You're like the third person that we're getting on this, so that's really exciting.
+Chavonn Davidson-Smith: I am so excited about this.
+Becca Bressler: Sorry about this. Just give me a couple minutes.
+Chavonn Davidson-Smith: No worries. That's what I was looking for.
+Becca Bressler: Oh, I know why this is happening. So can you go to clinicians for a second? We actually have to just like sign you up for it. I think so. Yeah. If you go to clinicians, click the pencil next to. To your. Yeah, right there.
+Becca Bressler: And then hit jotrx at the bottom and then save changes. So this is adding it to your subscription. So now have you go back to practice settings. Now. Okay, do you see that? Connect to E Prescription.
+Chavonn Davidson-Smith: Oh, my God. Here we go. Wait, let me change this. This phone number that I'm putting in here, will it need to get text for like, verification?
+Becca Bressler: That's a good question.
+Chavonn Davidson-Smith: Just put my cell phone for now, but I don't see it's calling.
+Becca Bressler: That is a good, great question and I don't know the answer. So keep me posted on what happens there because we could be changing it. We can change it in our admin panel, like if you're getting messages where you don't want them. So, Okay, so now what you're going to do is you're going to click cd, that yellow circle icon in the top, right? Yeah. And then scroll down here on the clinicians page, you see E Prescription. Awesome. So now hit register for E prescribing. Oh, it looks like your date of birth is required. Okay, so now you're going to hit open dose spot.
+Chavonn Davidson-Smith: Oh, yay.
+Becca Bressler: Did it open another tab? Probably. Right. Can you share the other tab? Yeah.
+Chavonn Davidson-Smith: Should I close this?
+Becca Bressler: Yeah, yeah, you can close that. So there's a couple steps here. First is the legal agreement and then the ID proofing.
+Chavonn Davidson-Smith: Oh, is it going to need my hard. Like, am I going to have to verify with my id?
+Becca Bressler: Yeah.
+Becca Bressler: Oh, oh, no, it'll your face, I think. Yeah, I'm pretty sure that's what identity proofing is.
+Chavonn Davidson-Smith: Why does it not come up? Hold on. Crap. I can get it from here, but I can't. I have to go get my credit card. I'm so used to GPAY automatically.
+Chavonn Davidson-Smith: Yeah, totally pulling it up. But I have to grab it.
+Becca Bressler: No problem.
+Chavonn Davidson-Smith: Okay. Sorry about that.
+Becca Bressler: Hold on.
+Chavonn Davidson-Smith: All right.
+Becca Bressler: Something missing. Nice. That looks solid. It looks like the next has is now green. So you're. You're ready to go? So you should get a text.
+Chavonn Davidson-Smith: See I'm glad I put my cell phone so now you can tell people they'll need to put the right a phone number because like most of the solo like I have a virtual phone. They can't receive text.
+Becca Bressler: Oh, that's the number that you put in?
+Chavonn Davidson-Smith: Yeah, yeah.
+Becca Bressler: So this is. You're gonna have. You should update the phone number because you're gonna need to do it via text.
+Chavonn Davidson-Smith: No, I put in my cell phone number so I got.
+Becca Bressler: Oh.
+Chavonn Davidson-Smith: Actually need license.
+Becca Bressler: It.
+Chavonn Davidson-Smith: Alrighty. Trying to scan these photos.
+Becca Bressler: Oh, it's not asking you for your face, it's asking for the id.
+Chavonn Davidson-Smith: Now it's asking for my face.
+Becca Bressler: Okay cool. So you're in. So now let's go back to jot psych and if you could share a jot psych screen. I wanted to show you how this is going to work. So each patient you're going to have to be adding individually. And the way to do that is do you have an upcoming patient or someone you have to send in a prescription for or not really. Okay. Do you have an upcoming patient that you could like queue up, you know, not send the prescription for, but just kind of get into dose spot? So I can walk you through that.
+Chavonn Davidson-Smith: Mm, great. So let's see. All right, so from this screen is where you do the ordering.
+Becca Bressler: So there's a couple different places you could do it. So yeah, you could do it from that screen. And then also if you go to screen for a second and go and just you just for the hell of it. So do. And scroll down, you would see it right there too.
+Chavonn Davidson-Smith: Got it.
+Becca Bressler: Exist in both those places. So. So whoever you want to queue up next, let's go to their page and we can.
+Chavonn Davidson-Smith: Click here.
+Becca Bressler: Yeah, click there. And I. Because I just want to walk you through what this is going to be like. So you're going to need to put in their information.
+Chavonn Davidson-Smith: Mm. Just gonna do this for now.
+Becca Bressler: And so then you can do you see how it turns into prescribe?
+Chavonn Davidson-Smith: Got it. You can add prescription.
+Becca Bressler: Yeah. So can you. Can you share your other screen with me actually?
+Chavonn Davidson-Smith: Oh, did it. Oh. So I'm sorry.
+Becca Bressler: Oh, my God. No worries. I know it's annoying to have to go back and forth. Okay, great. So, Alexis. So, yeah, let me just kind of walk you through how this works. So you would first pick the pharmacy, the preferred pharmacy.
+Chavonn Davidson-Smith: Was it pulling from that far? Okay. Okay.
+Becca Bressler: So then you're going to search the medication that you want to add, And then you're just going to fill out this. All this information.
+Chavonn Davidson-Smith: Okay.
+Becca Bressler: Okay. So then what you'll do is you'll click next, or if you are prescribing multiple, you'll add another one to the list. But if it's just the this, then you can click once. Once you get all the medications that you're prescribing in there, you'll click next and then in order to send it, you'll select it. So you'll select the box notification and then approve and send.
+Chavonn Davidson-Smith: Okay. Pretty straightforward.
+Becca Bressler: Yeah, that's it.
+Chavonn Davidson-Smith: Easy, breezy. Okay, perfect. Any other capabilities of dospa or is it just simply prescribe? Because I know we had talked about.
+Becca Bressler: There are. So there are other capabilities. I need to send you the. I'd love to just, like, send you some materials. Actually. They can do a better job of explaining some of those functionalities. So if you want to just take a look through that because. Yeah, there are. There are definitely other things that you can do here.
+Chavonn Davidson-Smith: Okay, that sounds good. And do that.
+Becca Bressler: Great.
+Becca Bressler: Any other questions?
+Chavonn Davidson-Smith: No, I'm so very excited.
+Becca Bressler: So set up.
+Chavonn Davidson-Smith: They'll. Okay. Because I can change. Okay. Yeah, no, I'm good. Thank you.
+Chavonn Davidson-Smith: Thank you so much.
+Becca Bressler: I'm gonna. Okay, great. I'm giving you $50 off your or doing 10 for first month. So I'm going to reimburse you. So that's your $10 first month. And yeah, please. I'm like, this is exciting. I've been talking to you about this for a while. I know you've been wanting it, so I'm very happy that we were able to do this.
+Chavonn Davidson-Smith: Yes. Thank you so much. I will definitely keep you updated on how it's going.
+Becca Bressler: Definitely. Thank you.
+Chavonn Davidson-Smith: You are. Have a good weekend.
+Becca Bressler: Bye.
+Chavonn Davidson-Smith: Bye.

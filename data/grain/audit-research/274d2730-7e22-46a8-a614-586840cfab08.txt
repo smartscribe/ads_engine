@@ -1,0 +1,106 @@
+Becca Bressler: Hey there, deborah.
+Debra Harvey Stewart: Hi, how are you?
+Becca Bressler: I'm good. How are you doing?
+Debra Harvey Stewart: Well, thank you.
+Becca Bressler: Awesome. Well, it's super nice to meet you. I'm Becca. I'm the product manager here. And I understand that I'm getting you set up with re prescribed product today.
+Debra Harvey Stewart: That is correct.
+Becca Bressler: Amazing. So the best way for us to do this, actually, is if you could share your screen with me, and then I can walk you through the steps.
+Debra Harvey Stewart: Okay. I don't know how to share.
+Becca Bressler: Are you on your computer right now?
+Debra Harvey Stewart: Yes.
+Becca Bressler: Okay, great. So do you see the icons at the bottom of this Google Meet? There's one that's a square with an upward arrow inside of it. Do you see that one?
+Debra Harvey Stewart: Yes. Yes.
+Becca Bressler: Great. So if you select that. And then if you're able to move over to Window, not Chrome Tab, but Window, and select the window where you have jot Psych open, because we'll be going through Drop Psych.
+Debra Harvey Stewart: Also, I need to open Jack's side because I don't have it open.
+Becca Bressler: Yeah, yeah. So start by opening Jot. Psych. And then we'll want to share that window.
+Debra Harvey Stewart: Okay, give me one second. Let me open.
+Becca Bressler: Deborah, can you tell me a bit about yourself? Are you a solo practitioner or what? What brought you to art? You prescribe solution.
+Debra Harvey Stewart: So I'm the clinical director of one of the private practices and I am a psychiatric nurse practitioner there. And I've been the practice was really small, but we're starting to grow now, and the pharmacists are getting a little noise calling in prescriptions. So I was like, it's time for us to go ahead and
+Becca Bressler: so you don't have an E prescription, like a software that you're using it. It's just by phone.
+Debra Harvey Stewart: No, I don't have. I don't have one yet. I'm comparing.
+Becca Bressler: Great, great. Perfect. This is perfect. Okay, so to start, can you please select your practice up at the top? In the top navigation bar. It's the left of record. Yeah, and then you're going to select clinicians. So the first step here is adding RX to your plan. So for the first month, we're giving people a discount. So it's $10 for the first month. First month. And then it's $69 each month after. So right now we're adding it to your subscription. So if you click the pencil icon underneath. Actions. Next to your name. So if you. If you go down, there's this, like, active member box. That says Deborah Harvey Stewart, billing administrator. So, on the far right there is a pencil icon. On the right of this block.
+Debra Harvey Stewart: Okay, hold on.
+Becca Bressler: I think because the screen says actions there it says, I see it says standard. Go to the right a bit. Right a bit. A right a bit. And you'll see a pencil underneath. Actions.
+Debra Harvey Stewart: Okay, I see it now.
+Becca Bressler: Yeah. So scroll down. And you're going to add jotrx. Underneath. Add ons at the bottom. And you're going to hit save changes. Great. So now we've added it to your plan. Can you scroll up a bit on this page? Actually, let's see. Great. So now what we're going to do is we are going to connect you. There's a. There's a practice connection, and then there's like a clinician connection. So you're going to hit this button that says go to practice settings. Yeah. Or you can go that way as well. And then connect to DoseBots. So do spot is our integration partner. This is the platform that you're going to be doing the prescription through, but you'll be able to get there through this. So this is first to set up yourself as an organization. Something to note about this is if the pharmacy is going to call you and have any questions, they're going to use this number that you're putting in. So if you would like that to be your office number, I'd recommend using that one. Okay? Great. So next step after you complete this is just the Connect Clinic. Amazing. So now we're going to register you as a clinician. So you're going to hit next register right there.
+Debra Harvey Stewart: Where is it? At. Blocking our connection thing. The screen is coming up. Okay, I see it.
+Becca Bressler: Yeah. Oh, is my picture kind of in the way you could move?
+Debra Harvey Stewart: I'm moving it around.
+Becca Bressler: Yeah. Okay, great. So now we're going to scroll down on this page. Keep going. Great. So now we are going to be connect. We're going to be. Yeah. So this is now setting yourself up as a clinician?
+Debra Harvey Stewart: Let me just make sure that this fax number is right, because I don't know the facts. I'm going to buy. Six second. Okay? Okay. And then do I just put. Where do I go now?
+Becca Bressler: Yeah. So now you're just filling in this information under E prescription?
+Debra Harvey Stewart: I do prescribe control substance, but I don't have my DEA number with me.
+Becca Bressler: Okay. So you will need to input your DEA number to enable that. So for now we won't do that. But can you just email me once you have that and I can walk you through that process because there will be a separate process.
+Debra Harvey Stewart: Ok.
+Becca Bressler: Yes, I can. Great. So to start now, let's hit register for and you don't currently use another E prescription platform, so that's a no. But then if you go to the bottom of this.
+Debra Harvey Stewart: Practice, but I do in another contract.
+Becca Bressler: Okay, so then can you hit yes at that question.
+Debra Harvey Stewart: You have refills and or changes request enabled. Platform. What does that mean?
+Becca Bressler: From the pharmacy. So does the pharmacy send you refill requests or change requests? Okay? Yes. And do you want to transfer your refills and change requests to this or. No, keep it on your current platform.
+Debra Harvey Stewart: Keep it on the current platform.
+Becca Bressler: Okay, great. So what this means, just to give you a heads up, Deborah, is because you have this in another platform, you will be able to prescribe through our system, no problem. But it will take about a day to enable that because the system at first sort of blocks you because of this other one. But dose spots it support team gets notification, and then they kind of, like, flip a switch. So you won't be able to prescribe something right now, but within a day, it should be resolved for you.
+Debra Harvey Stewart: Just to let you know, Does it matter that the other platform actually uses dosepot too?
+Becca Bressler: That's actually a great question. And. I don't know the answer to that. Let me follow up on that. Actually, I don't know the answer to that. I haven't encountered that yet. But for now, let's just stick with these and then register for e prescribing.
+Debra Harvey Stewart: Okay?
+Becca Bressler: Is nothing happening when you click it. Okay, I'm going to take note of this. Okay? Here's what we're going to. Got it. Note for me. It should tell you that something's not filled in when you try.
+Debra Harvey Stewart: Validation error. The field address won't. Let's be strained with a maximum of 35. Field address 1. Go straight return clinician id.
+Becca Bressler: Oh, this might be. Give me one second. I'm going to look at the admin panel on RN and see what's happening here.
+Debra Harvey Stewart: Okay?
+Becca Bressler: It might be because when you hit prescribe before, it sent the email already and so then it thinks you've already set up. But let me look into this. What was the name? Okay, Deborah Harvey's organization. No clinicians. Found. Email address already exists. That doesn't make any sense. Hold on. I'm going to ping one of my team members, actually, who might be able to help troubleshoot this. Will you just give me one second? He'll be able to hop on. Details.
+Debra Harvey Stewart: I wonder if it's doing that because the other platform. Should I use a different address from an email?
+Becca Bressler: That could be it. Actually. Could you try using a different email for the sake of setting this up? And then I can actually reach out to Dosebot customer support and see if there's going to be an issue here or how we could work around.
+Debra Harvey Stewart: No problem.
+Debra Harvey Stewart: I can try. That.
+Becca Bressler: I appreciate this a lot, Deborah. This is a new product for us, so actually, even while you're starting to use it, it would be so helpful to keep in touch with you and hear how it's going and any feedback you have.
+Debra Harvey Stewart: That's what it was.
+Becca Bressler: Yeah. Okay, so then, now what we're going to do is the identity proofing part of this, which you may remember from the last time you did Dosebot. So you're going to open dose spot to do that?
+Becca Bressler: And I'll walk you through this part. Too.
+Debra Harvey Stewart: What does that mean?
+Becca Bressler: I would say don't worry about this right now.
+Debra Harvey Stewart: Okay, so exit out.
+Becca Bressler: So go ahead and complete the legal agreement, and then I'll walk through the identity proofing with you as well.
+Debra Harvey Stewart: I'm a slow reader, so give me a minute, please.
+Becca Bressler: Take your time. Take your time. Meanwhile, I'm just going to make sure I'm getting a credit on your account for this. So that you're only charged $10 a month. For the first month.
+Debra Harvey Stewart: So, do I have to begin the facial proofing?
+Becca Bressler: Yes. So hit. Begin identity proofing.
+Debra Harvey Stewart: My credit card number up, but it should be run saved. Do I need to go get it?
+Becca Bressler: You will need to enter the credit card. You're not going to be charged for anything, but it's a part of the identity proofing process. It also looks like there are a couple empty fields that need to be adjusted up top, like the date of birth and the address. You might just need a space in the address between drive and building.
+Debra Harvey Stewart: My credit card because I don't have it with me.
+Becca Bressler: Yeah, no problem. Take your time. Sorry.
+Debra Harvey Stewart: Get my credit card.
+Becca Bressler: Yeah. So we'll need that to move on to the next step.
+Debra Harvey Stewart: Give me a second. I have to walk outside.
+Becca Bressler: Yeah, no problem.
+Debra Harvey Stewart: Okay, I'm back. Sorry.
+Becca Bressler: No problem.
+Debra Harvey Stewart: This is going to be emailed to me because the phone doesn't take text.
+Becca Bressler: This actually needs to be a phone number that can take text.
+Debra Harvey Stewart: This is not going to be published. This is not something.
+Becca Bressler: This is just for the identity proofing piece so that you can do that.
+Debra Harvey Stewart: There you go. Middle name.
+Becca Bressler: Can we go through that one more time, Deborah, and just, like, double check the. Let's see.
+Debra Harvey Stewart: Go into a credit profile you may have open. February or 2022. The only one. I'm not really sure. Many things.
+Becca Bressler: Cool. That's great.
+Debra Harvey Stewart: I guess I did.
+Becca Bressler: So you're going to then get a text message? To continue on with the facial recognition process.
+Debra Harvey Stewart: Please open instruction process.
+Becca Bressler: You have not gotten a text yet.
+Debra Harvey Stewart: No.
+Becca Bressler: Oh, no. Okay? Let's give it a couple more seconds.
+Debra Harvey Stewart: Without.
+Becca Bressler: And this is the right phone number that to receive a text message, the one that's listed here.
+Debra Harvey Stewart: It's been spanning.
+Becca Bressler: This is unfortunate. We may have to. We may have to try this again. So let's do update phone number and we can use the same phone number. I haven't seen this happen much, but rarely I've seen this happen where we have to do it a second time. Your identity proving process would be wrong.
+Debra Harvey Stewart: Exactly everything I am.
+Becca Bressler: Yeah. We have to go through this again, unfortunately.
+Debra Harvey Stewart: I just put my id down.
+Becca Bressler: And you're still not getting the phone number.
+Debra Harvey Stewart: No, it's just spelling.
+Becca Bressler: Oh, no, I don't know. What's going on here? Deborah, I think I'm going to have. Let me just look at one thing on my end and see if there's a way that I can initiate it from the admin panel. But I might need to reach out to Dosebot customer support. Let me just see one second here. What I can see on my end. Clinicians, idp field. And just to confirm, your phone's not on, do not disturb or anything like that.
+Debra Harvey Stewart: Okay?
+Becca Bressler: I am wondering, Deborah, if this has anything to do with the fact that you're already registered. So your other platform you use, Dosebot already?
+Debra Harvey Stewart: Yes.
+Becca Bressler: I'm going to need to send in a customer support request to do a spot, and I'll do that immediately. And then I'll follow up with you over email as quickly as possible because I want obviously want to resolve this. In the meantime, I'm going to refund your account to make sure you're not charged at all, since you can't use this yet. But. Let me. Would that be okay, Deborah? I will reach back out to you as soon as I can.
+Debra Harvey Stewart: That's fine. That's perfectly fine.
+Becca Bressler: Okay. All right. So sorry about this, but I'll be in touch.
+Debra Harvey Stewart: Okay, thank you.

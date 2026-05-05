@@ -1,0 +1,66 @@
+Ryan McAnelly: Hey, good morning. How are you?
+Tamela Harrison: I'm fine and yourself.
+Ryan McAnelly: I'm good. Did you have a good weekend?
+Tamela Harrison: I don't know because I still feel exhausted.
+Ryan McAnelly: I understand that. I feel the same way.
+Tamela Harrison: Oh my goodness.
+Ryan McAnelly: We need off on Mondays to catch up.
+Tamela Harrison: That was going good by taking off on Fridays. That doesn't appear to be working.
+Ryan McAnelly: Awesome. Well, it's really nice to meet you. My name is Ryan. I'm part of the customer service or support team here. Shout out. To learn what motivated you to jump on the call today and see how I can help you.
+Tamela Harrison: The quick question, do you know about how long this will take? Because I don't know why I scheduled it this time because I have a 10 o'clock patient coming in.
+Ryan McAnelly: Sure, I guess depending on questions,
+Tamela Harrison: it could take 10 to 15 minutes. So here's the thing. I thought you scheduled according to the situation I was having with. Losing information, not recording the information not recording.
+Ryan McAnelly: Okay. And how long has that issue been? Is that something? How long has that been going on?
+Tamela Harrison: It's been going on for quite a while. And I thought it was me. So I was like, oh, I didn't hit the record button again. Did it again? It didn't, you know, so I'm thinking that. So this time I was like, okay, this is happening too frequent. So this time I specifically said, watched it, hit the record button, watch, you know, the thing going, watch it for a little while, then went on my with my conversation because I knew now it was recording beyond the shadow of a doubt. By the end of the session, I went to hit stop. And it said start recording. So it never acted. It acted as though it never started.
+Ryan McAnelly: Okay. Which was this your most recent session?
+Tamela Harrison: That was, it was on the 8th.
+Ryan McAnelly: About 1007 a.m. eastern time.
+Tamela Harrison: I sure went, whatever the yes, yes.
+Ryan McAnelly: Okay. Let me see. Something definitely happened there. So I can see the back end where I can see your different sessions. So you had two more on the ninth, correct? And did they come through? Okay? Did they record as.
+Tamela Harrison: Normal? Yes. Yes.
+Ryan McAnelly: Okay, I can see something odd happened on the 8th. So typically the conversations are broken down into what we call chunks. So I can see that you had like 47 chunks and 39 chunks on the 9th. But then on the 8th, your session said it was 4700 chunks. So something happened there. So I'm going to. Work with my engineers, engineering team to see if we can diagnose what happened and see. If there's anything that's recoverable there.
+Tamela Harrison: Okay.
+Ryan McAnelly: Because I can see it looks like stuff was recorded. But something obviously went wrong if there's that many chunks of audio in there.
+Tamela Harrison: Okay.
+Ryan McAnelly: No, but I'm glad you brought this to our attention so we can diagnose it and. Have. Our engineering team make this apart. How's this happen? You said this happened on other occasions as well.
+Tamela Harrison: Yes, I would have to go back because what ended up happening because I didn't record any notes. Normally I, you know, would take note, I didn't. So I'm at a bad spot right now because I let it go so far. Now I'm like trying to remember what happened, the discussion I had with that patient. So I find myself remembering bits and pieces of it. So I was like, yeah. It's not a good thing. And I might have to just, you know, bite the bullet on that one and just take a hit on it because there's like two or three of them. I know there was one that I was recording on one patient when I looked at information. It was a whole different patient's information on there.
+Ryan McAnelly: So I know there was, we had an update.
+Tamela Harrison: You know what is that? Sorry about that. That was my office manager.
+Ryan McAnelly: No, that's, that's fine.
+Tamela Harrison: Yeah, no, I just had another situation. Like I said, I was recording on one patient, but someone else's information came in.
+Ryan McAnelly: We, we had, I assume, was that more than two weeks ago? Yes.
+Tamela Harrison: Okay.
+Ryan McAnelly: Because we had an update where that was fixed. So that should not be happening anymore. So there was, there was a bug that our team fixed. So that should not.
+Tamela Harrison: So I don't, and you can't recover the patient's information.
+Ryan McAnelly: So it wasn't just bits and pieces. It was the entire thing with somebody else.
+Tamela Harrison: Yes.
+Ryan McAnelly: Oh man. What you happen to know the date of that interaction as well?
+Tamela Harrison: Was it the second. What was he a no-show on a second? Was that your first the 26th?
+Ryan McAnelly: Yes. Okay, I see that you had a few. Patients on the 26th. Do you know what time it was?
+Tamela Harrison: So I had a patient. It would have been the last one that I saw.
+Ryan McAnelly: Okay. So like 215 Eastern time is when it looks like it started. Okay.
+Tamela Harrison: Because the one, yeah, the one before him was a no show.
+Ryan McAnelly: Okay.
+Tamela Harrison: So, but that everything is recorded. His information, the one o'clock patient's information was recorded. Under the 215 patient. I don't think Mr. Yeah, I don't think Mr. Hill showed up on that day. Yeah, he did not. So yeah, that person did not show up on that day.
+Ryan McAnelly: Okay. You said none of the 215 patients information was in that note.
+Tamela Harrison: Okay. It was all the patient prior. It was a new patient.
+Ryan McAnelly: Okay. No, I appreciate all this information because I'll go to my team again because I do have a recording here, so we'll see.
+Tamela Harrison: Yeah.
+Ryan McAnelly: If that can be someone else's information.
+Tamela Harrison: That's what I'm like, I don't, I don't understand that because that patient didn't even show up that day. The information that was on there didn't show up that day. So I don't understand how that information was there.
+Ryan McAnelly: Because I know we did have an issue around that date. Where patient, some patient information would like bleed over to another patient. So it might be. Date of birth or age or certain items, you know, referencing another patient. But it wasn't the entire. Ty of the session wasn't. So I'm going to check with them on this one too.
+Tamela Harrison: Yeah. The only reason that, like I said, when I went through and I read the history and then like certain statements, stuff that was going on with that, I was like, this is not him. This is totally somebody else.
+Ryan McAnelly: No, I really appreciate you bringing this to our attention.
+Tamela Harrison: Yes, because I mean, like I said on that particular, I had no information on him. So I'm sitting here trying to figure out how am I going to write this guy up with no information. So I don't know if maybe, you know, if the recording, if it showed up, because I always had the patient identify themselves at the beginning of the session. So his name, none of that stuff. So I don't know if there's something you can look at. I don't know if you know which patient it is, the patient's name that's on there to see if that you can find that recording. Or if it showed up somewhere else.
+Ryan McAnelly: Okay. Now, this is, I will go to them this morning here and see what we can solve. So for the four eight session. And then also the three twenty six session. Well, I'm glad to see that the two sessions that happened yesterday went up without a hitch. I will dig deeper into this.
+Tamela Harrison: I find myself now constantly looking instead of paying attention to my patient. I'm constantly looking like this thing recording. Is this thing recording? And I don't want, you know, at the last minute now trying to find another. Avenue to do recording or another AI service. And, you know, I just don't want to keep jumping around, you know, but I, you know, I'm trying to find a free one just for that particular session as a backup.
+Ryan McAnelly: Yeah, that's definitely a distraction that you don't want, like you said, is when you're trying to listen to your patient. No, we'll get, we'll get to the bottom of this, get this resolved.
+Tamela Harrison: Is the.
+Ryan McAnelly: Yeah, and I will reach out to. You with a follow up just to make sure that, you know, everything. S good on our end.
+Tamela Harrison: My biggest thing is like I said, if you're able to at least get me the information, the recording or something so that I can go ahead and try and get this note done. If you can't deny breath, you say it doesn't look like it's going to happen. So I can try and figure out what I need to do. But if I see there's a possibility something's coming my way, then I'll kind of try to hold off for that. But if not, then do what I need to do.
+Ryan McAnelly: No, engineers are pretty quick, so I should have an answer here.
+Tamela Harrison: All right. Appreciate it.
+Ryan McAnelly: Well, I appreciate you reaching out. We'll get to the bottom of this. And if anything else comes up, let us know. We're here to help you as much as we can.
+Tamela Harrison: All right. Thanks, Ryan. I appreciate it.
+Ryan McAnelly: Thank you. Have a good day.
+Tamela Harrison: You-

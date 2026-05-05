@@ -1,0 +1,131 @@
+Nathan Peereboom: Hello.
+jeriece.lovelace: I can hear you.
+Nathan Peereboom: Amazing. Do you mind helping me pronounce your name? Ok. Cool. Reese, so nice to meet you. My name is nate. I'm the CEO and co founder of jot psych. Tell me a little bit about yourself. I mean, I know that you signed up for a billing services call. I would love to start out just by getting to know you a little bit.
+jeriece.lovelace: Yeah. So I'm a psychiatric nurse practitioner. I see psychiatric patients. And I have a small private practice. That's in florida. So I see most of my patients in Florida. I'm also a licensed in other states. That's pretty much about it.
+Nathan Peereboom: Amazing. How did you come to us? What's been your journey? Finding your way to John Psych.
+jeriece.lovelace: That was just sampling different EMR systems. And I guess I came across yours as well. Therapy notes. I tried a lot of them. At least eight of them.
+Nathan Peereboom: Okay, cool. And tell me what you've liked about jot side. Tell me what you found challenging. Give me the real, real.
+jeriece.lovelace: Jet Psych was all right. They didn't do the billing part, but I think they started doing that now.
+Nathan Peereboom: We do? Full building.
+jeriece.lovelace: Yeah. And then the emr does it. Do like lobster.
+Nathan Peereboom: Yeah. When did you try drops like last?
+jeriece.lovelace: It's at least maybe 56 months ago.
+Nathan Peereboom: Oh, my gosh. It's a totally different software. Totally different software.
+jeriece.lovelace: Yeah, okay.
+Nathan Peereboom: So, yes, we do labs. We also do eprescription now, so you can do E prescription, labs, billing. The whole shebang.
+jeriece.lovelace: Yeah, I do my e prescribing independently with md toolbox. Yeah, I use that one. So I just need. I'm with a company, but I was looking for a simple EMR system that do lab integration. No billing at the moment because I do my billing through headway, but eventually I'm going to move away from them and do my own billing. Company.
+Nathan Peereboom: Gotcha. What is preventing you from doing your own billing right now?
+jeriece.lovelace: Just with the time.
+Nathan Peereboom: Yeah. Do you know how much headway it takes? Are you familiar with just how much headway grow rula like these
+jeriece.lovelace: msos, but I think it's around maybe 5 to 10% or something like that.
+Nathan Peereboom: It's 20 to 30%. So whatever. You go with us or not? Therese, I would really encourage you to do your own billing at some point. Just have a company do it. Building companies take, like, 8% of your revenue, but that's less than half to less than a third of what the MSOs are taking, which makes sense. MSOs are doing so much for you. Know they're doing patient acquisition. That's their biggest thing. They do patient acquisition for you, right? So if there is a way for you to bill for yourself, you'll make a lot more money. Which can be really nice, depending on what you want. Okay, so you're interested in jobs, like, as an emr, but for billing, your thought is. Well, if I had. Is your thought. Like, if I had a fast way to do this, if I had a quick way to do this, I'd be, like, excited about it.
+jeriece.lovelace: Yeah. Okay, here.
+Nathan Peereboom: Here's what I would say. You could totally use us as an emr, but I don't know if you'll get that much value without using us for billing, and I want to show you why. Yeah. We have crafted our EMR to be very, very specific to the goal of getting you paid. So you probably remember this, you know, if you've used job site before, but, you know, you make a recording. And the new version of the software. Oops. The new version of the software has an audit feature that on every single note, looks at the note. And basically, you know, will tell you exactly like, hey, here are the CPT codes and here are the rules that you are maybe in violation of based on the pair's, you know, rules that we know.
+jeriece.lovelace: Okay?
+Nathan Peereboom: And what's amazing about this is you can just sign a note in jobs like, you can say, oh, I already did the pdmp, you can sign the note. And what we'll do is we'll go through the entire billing cycle for you. So we will, you know, basically, like, do all the eligibility checks. As you know. You know this happens before. Write the paragraph. Generate claim. And then what we're doing is we're connecting what you get paid in your bank account with what your ERA says, with what your claim, size of what your note says, what your contract says. All that to be in a straight line. So really, the special sauce of jots, like as an ehr, is that it optimizes what you're able to bill for and it takes the billing overhead, like brain stuff and.
+jeriece.lovelace: What about clawback from the insurance company?
+Nathan Peereboom: Oh, yeah. So for clawbacks. I mean, the whole reason why we do the jot audit system is so that you don't get things clawed back. You know, so these are all the rules. That come from? And you can see. Let's just go jump on. So you create all these rules. Or we can create them for you. You send us your payer documents.
+Nathan Peereboom: You're like your contracts with Cigna Aetna, whatever. We create all these rules, and we grade every single note by the rules. So you can go in and say, hey, let's look at MGM or time documentation. And then you can say, hey, these are the notes that I'm missing that on. You can click into a note, see exactly where it's missing key information.
+Nathan Peereboom: And fix the note before you get a claw. Back. Have you ever had a clawback happen?
+jeriece.lovelace: No, but I have friends that had it.
+Nathan Peereboom: Yeah, it's pretty horrific. Dreese, can you just tell me a little bit about, like, where you're at with, like, your. So, okay, emr. Do you have your own EMR right now? What do you use?
+jeriece.lovelace: No, I don't have an EMR yet, but I'm looking forward to getting one. I was thinking about simple practice. Because it's kind of simple and easy.
+Nathan Peereboom: Simple.
+jeriece.lovelace: I did review theirs, and it's. It's fine for what I need. I don't want something too expensive. I don't want something, you know, too cumbersome, too many steps. Yeah.
+Nathan Peereboom: Yeah. I would say the thing that we've optimized for in our software is exactly that, like, simplicity. You know, the clinician's experience is simply, you see, eligibility. You do the encounter and get the note, and then you sign the note and you're done.
+jeriece.lovelace: Right. Yeah, I use it with another practice that I work through, like part time.
+Nathan Peereboom: Oh, cool. Okay. You. You're familiar with job site?
+jeriece.lovelace: Yeah.
+Nathan Peereboom: Okay, so you're using it on a regular basis. Gotcha. What would jots. What would we need to do in order for you to be like, hey, I'm really excited to use Jotsec as my electronic health record?
+jeriece.lovelace: The thing is, Jack is kind of pricey right now, like, out of my budget, so it's good for bigger companies. I can see that. But for my little, small private practice, you know, it's a lot. It's kind of expensive.
+Nathan Peereboom: That makes sense. You. When you think about the fact, though, that we're or this is the difference between us and simple practice. Simple practice is not oriented around making sure that you don't get clawbacks. They're not like. They don't even. They don't claim that they are. Their goal is simply to just have a point and click interface that allows you to write, submit, log. What you are paying for in job site is essentially the de risking of hundreds of thousands of dollars of revenue. You know, we're like an insurance policy basically, that is protecting you and taking care of you as you are, you know, as you're focused on just growing your practice, serving patients, recruiting patients, you know, making sure that their experience is really good. I would say part of what you have to decide is, like, how much you care about that. The other thing that I would say, though, is we could structure your contract in a way that was at risk for us. Like, we could do it such that, like, you know, we only got paid when you got paid, for example. So we could play with some of the. The terms. If that was something that was interesting to you, let me. Let me ask this. You scheduled this call. You know, jot. Psych. Well. When you schedule this call, what was the thing that, like, what was the little flag that went up in your brain? Like. Like what was the thing that you were trying to figure out?
+jeriece.lovelace: Just to see what it's about. Since the last time I sampled it, if you know, I know it's changed now. Where there's villain. So I just wanted to see, like, what. What's the price range now, and if I can even afford it.
+Nathan Peereboom: Yeah, yeah. Well, let me show you kind of how we do billing stuff right now, so. When we price for billing, we do it like this. So if you are, you know, at the. At the highest end, we take only 8% of what you actually collect in your bank account. And in that world, we are doing the eligibility checks, we're doing the payware documentation, we're doing clean claim submission, we're doing, you know, payment posting an ERA analytics, we're automating appeals, we're updating the rules continuously. You've got a dedicated billing manager. You know, we're doing patient collections where you like. We're doing literally everything that is your back office. But you can do smaller versions of that. You know, you can do, you know, the complete package or the essentials package, and you lose some of the stuff at the max. But you get, like, a really, really robust jaris, never has to think about it sort of experience. Now, we typically do charge a subscription fee on top of this if, depending on the software that you want to use, But we could work out a way to. To kind of decrease that or change that for the first year.
+jeriece.lovelace: Okay? And what's the price we're looking at? I also want. I would want the lab integration.
+Nathan Peereboom: You know what? For you, I can just throw that in for free. We can just say, no, no lab, or we won't charge for any labs.
+jeriece.lovelace: Okay?
+Nathan Peereboom: The core software is, of course, $150. Or. Sorry, no, it's not anymore. The course software is $99, and then there's like $69 charge for e prescription. And there's certain things that we have to meter because they charge us money. So things like eligibility tax, we have to charge, like, a little bit per eligibility check just because we get charged to them through some of the partners we have.
+jeriece.lovelace: Yeah. I don't. I don't need to e prescribe. And just the labs and the note taker.
+Nathan Peereboom: Yes. And I think the cost would probably be just like $99 per month. Plus. Plus labs. Of which we'll waive the lengthy.
+jeriece.lovelace: Okay? All right, so I'll. I'll think about it.
+Nathan Peereboom: Okay, well, let me say this so that the deal that I just said. We probably can't keep it open for more than a few days. So if that's something that you are interested in. Just. Can we say that we would touch base maybe Friday and talk it through?
+jeriece.lovelace: Yeah. Well, I work on Friday, but Friday at 5.
+Nathan Peereboom: Yeah. You got a deal.
+jeriece.lovelace: Okay, five.
+Nathan Peereboom: Wait, what 10% are you.
+jeriece.lovelace: Oh, eastern.
+Nathan Peereboom: Perfect. All right.
+jeriece.lovelace: So $99 the lab. And.
+Nathan Peereboom: But. But that's based on us doing billing for you. So if we probably can't wait. If the lab fee. If we're not doing billing.
+jeriece.lovelace: Yeah. Do you do credentialing?
+Nathan Peereboom: Yeah, we do do credentialing. That's a separate service.
+jeriece.lovelace: That one.
+Nathan Peereboom: All right, let me show you our credentialing. So we actually just launched this. We're super excited about it. So. Credentialing. I mean, I won't walk you through all of it, but the nice thing is, like, we're really, really transparent. So you can give us all the payers you want, and we will. It's the same thing. We use AI, we use people. We just attack it as fast as we. Possibly can. AI does the grunt work? Humans do the relationship work? Really, really simple. So we just charge center the fairway for this. It's $350 to set you up and then $300 per pair. Per provider. So just $300 per pair for you. Here's a question. How many payers would you be interested in getting credentialed with?
+jeriece.lovelace: How about 10? I have about 12 right now, but they're on their headway.
+Nathan Peereboom: Can I. Can I make a recommendation, then? Juice? This is the right place to start. Because you could take the credentialing we do and you could use it with another ehr, but you need this done anyways. Like, you have to get this done. And what's great about doing credentialing with us is that you'll be able to get a sense of, like, what it's like to actually work with us, and you'll be able to say, hey, that Nate guy, he promised me this, and this is how it went. And I think that that's probably what you want in a billing partner, too.
+jeriece.lovelace: That's kind of oda by a budget, though. But it's okay. I want. I would be interested in the. Not the credentialing, but the. The billing and the ehr with the lab.
+Nathan Peereboom: Okay?
+Nathan Peereboom: So ehr lab actually start using either of those until you have your credential. Right?
+jeriece.lovelace: I know, but I'm. I'm going to get credential. I have someone that was going to do it.
+Nathan Peereboom: Okay? Yeah. I mean, just.
+jeriece.lovelace: I can do it myself, too. I just don't have the time.
+Nathan Peereboom: Like, how far out of the price range is art? Because we price. We price it at a loss for ourselves.
+jeriece.lovelace: We're charging 100 per pair.
+Nathan Peereboom: Do you know how long it takes, though?
+jeriece.lovelace: To get credential. I think it was 30 to 60 days, something like that.
+Nathan Peereboom: Well, the standard is 90 to 100 days. And what we find is that if someone's charging. Actually, you know what? You should totally feel free to do it. But one thing that you can also do is, like, give us a few of your pairs to do credentialing for, because the thing is that we are excellent at speed. That's the thing that we hang our hat on. And credentialing is all about speed. The difference between credentialing in 180 days and credentialing in 60 days. I mean, it's tens of thousands of dollars of revenue for you. So my. My advice would be, like, You know, give us four payers. And let us show you what we can do.
+jeriece.lovelace: I'll think about that as well.
+Nathan Peereboom: Oh, I think you muted.
+jeriece.lovelace: Yeah. I'll get back to you on Friday about the decision about the ehr.
+Nathan Peereboom: Okay, great. Anything else that you are curious about or would like to kind of discover here?
+jeriece.lovelace: Not really. Oh, does the. The labs like. I'm sure you just click. You know, like, if I get a quest lab, does it just come into the patient's chart? We're after. Download them.
+Nathan Peereboom: Let me show you this, okay? So when you do a lab order, The labs. Come here so you can see the lab orders. When you are making the order. When you're making the order, it happens directly in the chart, so you can just click labs. We'll analyze the conversation you've had for recommendations, and then you can just generate the PDF and send it.
+jeriece.lovelace: Okay?
+Nathan Peereboom: Reese, is there anything that I could say to you right now that would move the needle for you? Because I feel like you're kind of like. I feel like there's so much going on in your head, and I would love to just, like, understand, like, what are you looking for here? What's the thing? What's the killer feature that you're like Nate, if you could promise me X, Y or Z, like, I would be yours.
+jeriece.lovelace: You already did the ehr. The lab and the billing. All right.
+Nathan Peereboom: Yeah, well, okay, Let me ask the question.
+jeriece.lovelace: Credential? Not right now.
+Nathan Peereboom: Okay, let me ask the question the other way. Comes around, it's 5:00 on Friday, and you and I hop on, you know, Google, meet again. What in your mind is the most likely reason you would say no? And go with another vendor.
+jeriece.lovelace: Maybe they're less. I mean. Less monthly. How much was the. The subscription fee?
+Nathan Peereboom: It's $99 just for the scribe. And then so. If you decided you billing with us, we'll waive the like lab fees. Oh, my gosh, I'm forgetting. I think it's somewhere between 49 and $69 a month.
+Nathan Peereboom: Okay, so we can waive those. And. Here's the other thing that we could do for you, Dreese.
+jeriece.lovelace: Yeah.
+Nathan Peereboom: Okay. I've never made this offer to someone before. So you can't tell anyone. Right?
+jeriece.lovelace: Yeah.
+Nathan Peereboom: If you want to do credentialing with us. I'll allow you to use all of the spending on credentialing towards your job site subscriptions. So if you spend 1,000, $2,000 with us, we'll just apply that to your subscriptions. So that you're not paying for both. That would protect us because we can't. Credentialing is a huge amount of work. Even when there's an AI involved. But we want you to have a good experience. And if you're really, like, feeling price sensitive about this, The assurance that you're going to, like, stay with us and work with us is worth us, basically, like, giving you, I don't know, $3,000 off.
+jeriece.lovelace: Okay? So credentialing is included.
+Nathan Peereboom: You said the way we work is credentialing. Like, whatever you spend on credentialing, we would give you in job site credit.
+jeriece.lovelace: Which was the 350 for the initial, and then I think I saw 300 per pair.
+Nathan Peereboom: Yep, that's right.
+jeriece.lovelace: So If I need 10 pairs, that $3,000 plus the 350.
+Nathan Peereboom: That's right.
+jeriece.lovelace: And then you would apply that to the $99 a month subscription, so the year would be like, Almost 1200 or so, yes. And that would include the lab and billing.
+Nathan Peereboom: That would include the lab. The billing is still just, like 4 to 8% of, like, whatever we win for you.
+jeriece.lovelace: Okay? I'll think about it. I mean, $3,000 is a lot of money.
+jeriece.lovelace: I mean, Drizz, this is what I'm even doing it through headway because they, they pay every two weeks. I know they take some percentage. Of course, I, I expect people to. You know, they're going to take a percentage of whatever, but I, I didn't know it was 30%. I don't see that.
+Nathan Peereboom: So it's hard they don't tell you. Yeah, that's the thing. Because the difference between when you bill for a 992-1492 and 592 and three, you know your take with an insurance company is significantly higher than what Hedwig gets. It just is. And headway has to make money. They're not not making money. You know, and so the result is that they take a significant portion of, like, what you and again, 20 to 30% is like the, the industry standard there. And so for us. We have this amazing tool. We can bill for you. And you can get, you know, extra 15% back in terms of your revenue, which is enormous. It's an enormously significant increase in your personal finances.
+jeriece.lovelace: Yeah. All right. I don't think I'm quiet there yet, because it's. I only have, like, for my personal billing, I have, like, six patients. But I mean, it's put there's projected to grow, so it's not like. Going to be six all the time.
+Nathan Peereboom: Teresa, you should just start with one pair. Give us one pair to credential for you just again, so you can see the speed. Give one payer to that person doing 100 and watch how fast we outrun them.
+jeriece.lovelace: Yeah, I know. Aetna is quick and easy and signal. So those are. Those can be credentialed like the very next day. But it's. It's the ones like the Medicare Medicaid, those take a long time.
+Nathan Peereboom: What's your hardest? Give us your most miserable credentialers.
+jeriece.lovelace: Yeah. All right, I'll let you know on Friday.
+Nathan Peereboom: All right. I'm going to put some time. 5:00. And we're going to talk on Friday. Okay? Wait. Let me make sure that this comes to you. Hang tight.
+jeriece.lovelace: Sample some another one and I'll be ready.
+Nathan Peereboom: You're sampling another one.
+jeriece.lovelace: Yeah.
+Nathan Peereboom: Drews, you're killing me.
+Nathan Peereboom: You're killing me. You're keeping me on my toes, though, you know? I would. I. I feel like you're a bargainer. I can tell you. You're someone who. Who likes a good deal. Is that right?
+jeriece.lovelace: Who don't?
+Nathan Peereboom: Some people. Some people? You'd be surprised. Some people don't have the. The. The bartering bug. All right, Johnville. Touch base. Your recent nate. Okay, I'm sending it. Can you just verify that you got this calendar invite?
+jeriece.lovelace: Okay, let's see. Not yet. Hold on.
+Nathan Peereboom: Yeah.
+jeriece.lovelace: You send it to Mind strive.
+Nathan Peereboom: I sent it to Jerryce Lovelace at gmail com.
+jeriece.lovelace: I got it.
+Nathan Peereboom: Okay. Amazing. Well, hey, I'm looking forward to this. I'm going to send you a follow up email that outlines the whole shebang.
+jeriece.lovelace: And there.
+Nathan Peereboom: Right.
+jeriece.lovelace: All right. Sounds good. Thank you.
+Nathan Peereboom: All right, take care.
+jeriece.lovelace: Bye. Bye.
+Nathan Peereboom: Bye.

@@ -1,0 +1,144 @@
+Lee Harrold: I'm going to draft an email letting her know. Hey, sorry we missed you. Here's the link if you want to reschedule. We have you. But I won't send it. Just wait.
+Nathan Peereboom: I would send the text first. Just being like, hey, you know, just so you know, we're on the line.
+Lee Harrold: That's a good idea. I forgot that we have the numbers. It. I usually get a user's number because I'm going to go to Supabase, but I think there's probably an easier way to do it.
+Nathan Peereboom: Well, it's on the invite, so it's super easy.
+Lee Harrold: Oh, I didn't know that. Okay, that is. It. You know, can you send a text?
+Nathan Peereboom: Awesome.
+Lee Harrold: Yeah. If she doesn't show, I have another1@12 and so you can hang out for that.
+Nathan Peereboom: Sweet.
+Lee Harrold: Oh, man, that worked. She said the. The text. She said, join.
+Nathan Peereboom: Love it.
+Lee Harrold: Nate, while we're waiting, I want to show you the do spot dashboard.
+Nathan Peereboom: Sweet.
+Lee Harrold: Can you see my screen?
+Nathan Peereboom: Nope.
+Lee Harrold: Oh, let me.
+Nathan Peereboom: Hey, is this going to show any private information?
+Lee Harrold: No.
+Nathan Peereboom: No. Okay, great.
+Lee Harrold: If I can find it.
+Nathan Peereboom: Oh, Margaret. Okay, I'm going to admit we'll get this later.
+Lee Harrold: Sounds good.
+Nathan Peereboom: All right, bye. Hey, marco. How are you?
+Lee Harrold: How you doing?
+Nathan Peereboom: Can you hear us?
+margaret.arotimi: Yes.
+Nathan Peereboom: Awesome. Hey, I'm going to be off video and on mute for most of this. You're in the great hands of Lee. But I'm here if you have any questions. Right, Margaret?
+margaret.arotimi: Okay.
+Lee Harrold: So, how you doing?
+margaret.arotimi: I'm good.
+Lee Harrold: Sweet. Busy. All right, well, let's keep this short. It was quick shout rx. How much. How much do you know about John rx?
+margaret.arotimi: That's what I use for my documentation. That's my ehr.
+margaret.arotimi: Oh, the rx. No, nothing about rx, just the document. Sorry.
+Lee Harrold: Okay, well, let's. Yeah, let's. Let's. Let's get you set up. The idea behind it is that it'll allow you to perform e prescription for your patients, which is probably, you know, what got you interested in the first place. So to get you started, I'll have you share your screen and open job psych. Awesome. So we're going to go to your practice and then clinicians at the top. Oh, can you hit the reload button at the very bottom of your screen?
+Nathan Peereboom: Margaret, how do you do e prescription now? What's your current process?
+margaret.arotimi: I use the MD toolbox.
+Nathan Peereboom: Okay, gotcha.
+margaret.arotimi: Direct from Tebra.
+Nathan Peereboom: Gotcha.
+Nathan Peereboom: Lee, do you mind if I just back up for one second here?
+Lee Harrold: Yeah, for sure.
+Nathan Peereboom: Margaret, can you just tell us a little bit about yourself? This is just a little thing of mine. I love hearing about people's practices, what kind of clients they serve, what they're dreaming about for the next few years. Can you just give us a little bit of background to help us know you and maybe serve you better?
+margaret.arotimi: My name is Margaret. I have a psychiatric small practice. It's a small practice. I just, I'm just planning to add the medical to my practice. Waiting for some credentialing. Right now. I have the average. For my own practice. I have over 100 patients. But I do practice with. With other companies like a Growth Therapy Headway Vigo. I work with other practices and I do do my, you know, so depending on their platform for Vigor, they have a. Their toolbox on their ehr. I. My primary EHR is Tebra for my company and they do have a. You know, I can order straight from there, but grow therapy and Headway. I have to use a MD toolbox coming out of their EHR to do medication, but I got it. You know, I just figured if I, if I'm already using just psych, what will it look like if I do my prescription from there?
+Nathan Peereboom: Yeah. Okay. So perfect. So that, that Lee is going to walk you through that. I'm just going to ask one more question and then I promise I'm going to shut up and I'm going to let Lee do his magic because I know that that's the most important thing. I am just always curious, for folks who are on these MSOs, and for you in particular, why do you use head. Like if you could have everyone on Tebra and just have your own private practice, would you do that? Like, what prevents you or like, yeah, what, what keeps you with headway? Growth therapy, etc vs hey, I'm gonna like, keep all the revenue. I'm gonna like work in my own. My own business.
+margaret.arotimi: Money.
+Nathan Peereboom: Money. Do you.
+Nathan Peereboom: Is it because like billing is hard? Is it like, like what actually prevents you, though?
+margaret.arotimi: It's not that hard. You know, getting the patients. They get the patients. You see their patients, you get the court. If you have to get your own patients, you have to spend money.
+Nathan Peereboom: Okay, gotcha. So. So patient recruitment is the hard thing for you. If you could solve one thing, it would be patient recruitment.
+margaret.arotimi: Yeah.
+Nathan Peereboom: Gotcha. Okay, cool. All right. That's super helpful, Lee. Back to you. Thank you. Thank you, Margaret. I appreciate you indulging me there.
+Lee Harrold: Yeah, for sure. So it sounds like you're. You're interested in kind of seeing how it'll work. So the. In.
+Lee Harrold: In order to set this up on your account, we'll add it as an add on. Oh, what's up?
+margaret.arotimi: Can I ask Nathan a question? I do have. I do have a bill.
+margaret.arotimi: And I've been thinking, if I want to do my own billing, what will it take? Been asking myself. But the fear I have is the prior authorization and checking patient insurance to make sure that, you know, they have coverage and all that. So that's why I'm.
+Nathan Peereboom: Yeah. I mean, that's something. I mean, Margaret, I'd love to talk to you about our billing product because, you know, we do all of that for you if you. If you would. If you so choose. We do prior authorization checks, we do eligibility checks. All you would have to do is essentially see the patient click sign, and then we do submission, auto appeals, the whole shebang. So that's. That's one of our new offerings. We've got somewhere between, you know, five and ten customers who are. Who are on that right now. So it is new, but what we believe at least, actually. Do you mind if I drive for one sec?
+Lee Harrold: Okay, let me off video here.
+Nathan Peereboom: Okay, one sec.
+margaret.arotimi: All right.
+Nathan Peereboom: So, Margaret, the way that we do billing is based on our JOT audit program. So what we do is we take the documents that you have from your payers, we load in all of these rules based on the documents, and then when you go to submit a bit or when you go to write a note, what you receive is essentially a snapshot of what we believe you should be coding for, and then guidance for how to change it so that it doesn't get denied or if it's audited, it doesn't get clawed back. When you're done, you just click sign, note, and then we take care of everything else. So we submit the claim. If there's any denial, we'll fight it for you. And you just get, you know, you get a check in the mail, basically, or not in the mail, but, you know, you get a check in your bank account. So, I mean, is that something that you're looking for right now? Are you. Are you looking for support on your billing?
+margaret.arotimi: Absolutely. But at what cost? If I use a document?
+Nathan Peereboom: Yeah. So let me show you, let me show you our, our price schedule here. Okay? So this is the way we do pricing for, for our billing service. Okay. And what's important for you to know is that like the way that we price is, we price center of the green, like we do. We don't do anything special price wise. This is industry pricing. So it goes from 4 to 8%, which again is just what everyone else is charging. But what we believe was, first of all, you can choose your level.
+Nathan Peereboom: So at the lowest level, we'll just do all your eligibility checks, we'll do pairware documentation, we'll submit claims. At the complete level, we'll do payment analytics, automated appeals, et cetera. And then at the max level, we'll actually make sure that your bank account says the same thing as your era. Your ERA is in coherence with your contract. Everything is taken care of. So the way that we start out, if you were interested in this, because we know it's a big decision, is we start out by doing what's called a jot bill analysis, where we'll look at what you're billing right now and we'll say to you, hey, Margaret, this is, you know, what you're earning today. This is where money is getting delayed or lost. And this is what changes we recommend. And what, what's nice about that is it allows you to start to understand us as a partner, you know, and it allows you to see, hey, you know, these guys are high insight, they're detail oriented, and they understand my practice. So if you are, if you are interested in this, it's something that we love to do. It's super cheap. You know, we, we lose money on all of these analyses because we believe so much in the value they provide and, and the taste that they give people for the quality of work we do. But the goal is to get you to this situation where you see eligibility and job psych, you see the patient, you sign the note and you're done.
+Nathan Peereboom: And we do everything else for you. So all you have to worry about is where, you know, how do I provide great care for my patients so that they refer other patients and how do I recruit patients that, you know, that I should? I choose that. So, so that's the entire, the entire process. Do you have any questions about that?
+margaret.arotimi: Not at this time, no.
+Nathan Peereboom: Okay. Do you have an interest in doing the, the job bill analysis? Like, would this be helpful for you?
+Nathan Peereboom: We could just set the way it works is, you know, we set up time on your calendar, we could do it on Friday and I could just walk you through all the findings from your analysis. Yes, it's $300 one time cost because we do staff and engineer and an analyst on it. So it takes a few hours of real. Real labor to actually parse through all the data and all that.
+margaret.arotimi: No, I don't. I'm not interested in this. Let's go to prescription.
+Nathan Peereboom: Let's do prescription. Okay. I'm going to stop sharing Lee back to you.
+Lee Harrold: Sounds good. So the first step is to add Javrex to your current plan. So to do that, there's a little pencil symbol on the right side of Margaret. Yep. We can edit our member cjrx. So this is an add on to your standard plan. We. $69 a month. And what this gets you is the ability to add prescriptions to your current patients and future patients inside of an external portal. If we can walk through.
+margaret.arotimi: Does this. This is higher than what I pay right now.
+Lee Harrold: What do you pay right now?
+margaret.arotimi: $50.
+Lee Harrold: $60.
+margaret.arotimi: 50.
+Lee Harrold: Okay. This is $19 more than what you pay right now.
+margaret.arotimi: It's about $46. But pro therapy gives me $50. The actual cost from MD2 bosses for symptoms.
+Lee Harrold: Got you. And all of your patient medication and patient history is inside of Tebra, which is associated with your current. Gotcha. Gotcha. Were you, were you thinking about moving away from that to using job sites completely?
+margaret.arotimi: I just want to see what it is. What is.
+Lee Harrold: Okay.
+margaret.arotimi: I'll be able to pick which one is better. Will I be able to see the patient medication history?
+Lee Harrold: Yeah, yeah. So you'll. And, and if you wanted to, you could import patient medication history from Tebra into Job Psych, so you could have all of.
+margaret.arotimi: I mean, a medication history from everywhere. Because right now, if I go into Tepra, if I, you know, if I get a patient consent, if I click on yes on their medication history, every medication from everybody will pop up, both medical and psych, everywhere for the last. How many years you pop up on that patient?
+Lee Harrold: Oh, yeah, yeah. We can get that into job site for you.
+margaret.arotimi: No. Okay. No. Will I be. If I, if I'm using the. Then I cannot use jot, so it's either or. So if I cancel that, if I come to jot, will I be able to see the patient medication history?
+Lee Harrold: Yes. But in order to do that, we'll need to export your data from Tebra into job site. So we would want to do that probably, you know, before you cancel the Tebra, obviously.
+margaret.arotimi: Yeah, that is too much. That is too. Many steps. That is too many steps. Because the medication that I can see is not just the medication that I ordered, it's medication that other people have ordered for their patients. So if somebody comes to me and they tell me I take a adderall 40mg, if I take history, I will see that. Yeah. The. The last time somebody ordered it was so, so, so dead. And this is the dosage even before.
+Lee Harrold: Yeah. In order for that to be available in Job Psych. The. Yeah, yeah. Nate sneak. Nate's got it.
+margaret.arotimi: That's.
+Lee Harrold: That's all. That's all going to be available. Yeah.
+margaret.arotimi: Okay, nice to know.
+Lee Harrold: Yeah, yeah. Let me see if I have like a demo environment set up so you can kind of see what the user experience of getting medications into Dosebot would be. Oh yeah. The. I learned yesterday that the typical export import process is like time consuming and painful, which was surprising to me because ours is like really, really simple. Really. It's like once you find the CSV from Tebra, you drag it. You'd like drag and drop into our system and it's just there. So I guess I wanted to let you know if that was the thing you were worried about. It's actually rather painless.
+margaret.arotimi: I have a question. Maybe it's a meta question. I don't know. If want to customize my documentation in job site to mirror what I have in Tebra. How do I do that? Because the headings that I have in Tebra is different from the headings that I have in the.
+Lee Harrold: Oh, in your templates.
+margaret.arotimi: Yes, in my template.
+Lee Harrold: Yeah. Yeah, that's. That's pretty easy. So all, all that you need to do, you can do it two ways. Three ways actually. But the way that I recommend for you is to take a note that you've generated inside of.
+Lee Harrold: Inside of Tebra. Oh yeah, that's a great call. Let's. Let's see. What do I have? I think I have a therapy notes account. So. You know what? I don't have a therapy notes account that I have. Oh yeah.
+Nathan Peereboom: Hey, why don't we just show like how to customize in chat Psych and then the exact document that we upload we can play with that.
+Lee Harrold: Sounds good.
+margaret.arotimi: Yeah.
+Lee Harrold: So let's assume you've created a note. In it's going to go back and forth for a while.
+Nathan Peereboom: Leah, I don't think I can see your screen. Margaret, can you.
+margaret.arotimi: Do you want me to share my screen?
+Lee Harrold: Oh, you're right.
+margaret.arotimi: No, sorry.
+Lee Harrold: Here we go. Hey, now we're up. Okay, so we know and love Jaws.
+Lee Harrold: Like, let's head on over to the note template section.
+Lee Harrold: So you have some templates. It sounds like a job site that like aren't serving you because they're not the same.
+Lee Harrold: They don't, they don't look the same.
+Lee Harrold: So there are a couple ways you can do it. One, if you want to export a note from Tebra, you can click and drag it and drop it into here.
+Lee Harrold: And then this will create a template and jot psych that is the same as your existing one. You can also create.
+margaret.arotimi: Can you show that again, please?
+Lee Harrold: Yeah, absolutely. So it's right over here, documentation note templates. And then once we're here, the left, bottom left, there's a create new section. You'll see the templates that you're using in this list.
+Lee Harrold: But really what you want to pay attention to is this upload template button. And yeah, like I mentioned, two ways you can drop a file if you have one, or if you just want to copy and paste the entire note, you can copy in the paste inside of here and that will create a template from it.
+margaret.arotimi: Oh yeah, yeah.
+Lee Harrold: And then the other way, if you wanted to leverage our AI template editor, you could do the same when you copy a lot of text and you paste it in here. Or if you wanted to, you could describe using natural language, like what you want, like I want a SOAP template, One section, four sections and, And one additional section or medication to certain. And then it will go ahead and give us that shot. But then crucially, what it's going to give you as well is this example of what each section would look like.
+margaret.arotimi: Okay.
+Lee Harrold: Yeah. And then you can dial in like, let's say I don't want, you know, like this is kind of a narrative explanation. Explanation for subjective. Let's say for S. I want bullets in a factual voice. And so again, this will edit the template underneath and then present you with the example of the kind of format that would be provided for that. So that's the. That's another option.
+margaret.arotimi: So $69 is higher than what I pay right now. I have to have to think about it because the $50 that go therapy paid, we actually paid it in Margaret.
+Nathan Peereboom: We have a. We have a promotion where we're doing $10 subscription for the first month. Do you want to just try it for $10 and that way you like, get a taste and you can figure out if you want to continue afterwards. So, Lee, why don't we get Margaret set up? We're gonna mark you down for the.
+Nathan Peereboom: You know, we'll give you that discount. So it's only $10. And then you just cancel whenever you want to based on your experience. Okay.
+margaret.arotimi: Okay, awesome.
+Lee Harrold: Let me. Yeah. If you could share your screen, we can get you set up. Hey. Yeah. You found the temple building.
+margaret.arotimi: Nice.
+Lee Harrold: All right, so let's jump back on over to your practice next to record. Yep. Down practice settings or. Yeah, clinicians. And then hit actions. There's a little pencil next to Yep. So this is going to charge you for $69, but then I will credit you the difference and you'll. You'll see that just after this call. Awesome. So next there's a Go to practice settings button at the top of this. Yep, Yep. And then go ahead and click the connect to do spot button. So scroll up a little bit. Yeah, exactly right where it says Yep. So you can put your clinics information. The phone number is going to need to be your personal phone number because as we're prescribing controlled substances, if we want to, we need to configure. A two factor authentication process just to make sure that it's you logging in. You know, I'm realizing it's a little after 12 and I'm going to need to shift focus, but I can get you through this step. Can you change Berry Limbs to use to.
+Lee Harrold: Yeah, like the. The abbreviation instead of the state. It looks like it doesn't like it.
+margaret.arotimi: Okay, MD.
+Nathan Peereboom: Lee, I'll flip over to the other call. If you could just whenever you wrap up, like join, join on the other side.
+Lee Harrold: Thanks, Nate. I'll see you soon.
+Nathan Peereboom: All right. All right, bye.
+Lee Harrold: So sweet. Now you can click the register button. Now that we're connected to Dospot, you can click the below button at the top and it'll show you where you need to be. Oh, sorry, there's an arrow to the. Yeah, we'll just scroll down to that. That'll work.
+margaret.arotimi: This one?
+Lee Harrold: Yep. Perfect. So, yeah, here you'll put some of the same information in again.
+margaret.arotimi: You can see I can type fast.
+Lee Harrold: I am also a slow typer, so I completely understand. I see that the fax number is different from your phone number. That's correct. Is the fax number correct?
+margaret.arotimi: Yeah, it's correct.
+Lee Harrold: Awesome. Cool. Sweet. Yeah. So you prescribe control sentences. Do you have your DEA number?
+margaret.arotimi: Yeah.
+Lee Harrold: Awesome.
+margaret.arotimi: Yeah. Do you need me, audience? No, I have to go.
+Lee Harrold: Okay, well, you can. You can complete this kind of whenever, get up and start editing.
+margaret.arotimi: Okay, so when I put it in there, what else? Do that. Just register. I have to, I have to log out.
+Lee Harrold: Okay. Yeah, put. You can put in your DEA number and then you can, you can come, come back to this and then complete it later if you want.
+Lee Harrold: But it's, it's all. It's all pretty self explanatory. Well, it was. It was great to meet you, Margaret. I'll talk to you soon.
+margaret.arotimi: Thank you.

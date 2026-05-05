@@ -1,0 +1,176 @@
+{
+  "run_id": "never-salt-again-2026-05-04",
+  "generated_at": "2026-05-04T19:34:33Z",
+  "source_landing_page": "/Users/nathanpeereboom/jotpsych-harnesses/jotpsych_gtm/new_landing_page/site/never-salt-again.html",
+  "source_url": "https://jotpsych.com/never-salt-again",
+  "concepts": [
+    {
+      "slug": "negation-never-salt-again",
+      "archetype": "Negation / counter-pattern",
+      "primary_text": "Same-As-Last-Time notes get audited. JotPsych can't write one. By design.",
+      "headline": "Never SALT again.",
+      "description": "By design.",
+      "call_to_action": "LEARN_MORE",
+      "destination_url": "https://jotpsych.com/never-salt-again",
+      "creatives": {
+        "feed_1080x1080": "final/negation-never-salt-again-feed_1080x1080.png",
+        "story_1080x1920": "final/negation-never-salt-again-story_1080x1920.png"
+      },
+      "imagen_prompt": "",
+      "imagen_model": "",
+      "char_counts": {
+        "primary_text": 73,
+        "headline": 17,
+        "description": 10
+      },
+      "validation_errors": []
+    },
+    {
+      "slug": "stat-2m-recoupment",
+      "archetype": "Shocking-stat data card",
+      "primary_text": "$2.02M Civil Monetary Penalties recoupment for cloned BH documentation. OIG settlement, 2019. Real.",
+      "headline": "Civil Monetary Penalties.",
+      "description": "OIG settlement, 2019.",
+      "call_to_action": "LEARN_MORE",
+      "destination_url": "https://jotpsych.com/never-salt-again",
+      "creatives": {
+        "feed_1080x1080": "final/stat-2m-recoupment-feed_1080x1080.png",
+        "story_1080x1920": "final/stat-2m-recoupment-story_1080x1920.png"
+      },
+      "imagen_prompt": "",
+      "imagen_model": "",
+      "char_counts": {
+        "primary_text": 99,
+        "headline": 25,
+        "description": 21
+      },
+      "validation_errors": []
+    },
+    {
+      "slug": "before-after-same-dog",
+      "archetype": "Before/after split",
+      "primary_text": "Same patient. Same dog. The SALT note copies forward week after week. JotPsych can't. By design.",
+      "headline": "Same patient. Same dog. Same note.",
+      "description": "Cloned notes get audited.",
+      "call_to_action": "LEARN_MORE",
+      "destination_url": "https://jotpsych.com/never-salt-again",
+      "creatives": {
+        "feed_1080x1080": "final/before-after-same-dog-feed_1080x1080.png",
+        "story_1080x1920": "final/before-after-same-dog-story_1080x1920.png"
+      },
+      "imagen_prompt": "",
+      "imagen_model": "",
+      "char_counts": {
+        "primary_text": 96,
+        "headline": 34,
+        "description": 25
+      },
+      "validation_errors": []
+    },
+    {
+      "slug": "audit-fear-pas",
+      "archetype": "Audit-fear / Pain-Agitate-Solve",
+      "primary_text": "Same-As-Last-Time notes are the most preventable cause of behavioral-health audit recoupments. By design.",
+      "headline": "One keystroke. One audit.",
+      "description": "Audit risk, structural fix.",
+      "call_to_action": "LEARN_MORE",
+      "destination_url": "https://jotpsych.com/never-salt-again",
+      "creatives": {
+        "feed_1080x1080": "final/audit-fear-pas-feed_1080x1080.png",
+        "story_1080x1920": "final/audit-fear-pas-story_1080x1920.png"
+      },
+      "imagen_prompt": "",
+      "imagen_model": "",
+      "char_counts": {
+        "primary_text": 105,
+        "headline": 25,
+        "description": 27
+      },
+      "validation_errors": []
+    },
+    {
+      "slug": "testimonial-tp-68-notes-behind",
+      "archetype": "Quoted-clinician testimonial",
+      "primary_text": "Our psychiatry dept was audited. The clawback was hundreds of thousands of dollars. I'm 68 notes behind.",
+      "headline": "notes behind.",
+      "description": "T.P., LCSW. Hospital system.",
+      "call_to_action": "LEARN_MORE",
+      "destination_url": "https://jotpsych.com/never-salt-again",
+      "creatives": {
+        "feed_1080x1080": "final/testimonial-tp-68-notes-behind-feed_1080x1080.png",
+        "story_1080x1920": "final/testimonial-tp-68-notes-behind-story_1080x1920.png"
+      },
+      "imagen_prompt": "",
+      "imagen_model": "",
+      "char_counts": {
+        "primary_text": 104,
+        "headline": 13,
+        "description": 28
+      },
+      "validation_errors": []
+    },
+    {
+      "slug": "persona-30-provider-bh",
+      "archetype": "Specific-persona address",
+      "primary_text": "If you run a 30+ provider BH group, SALT is what your providers do at 7pm when they're trying to leave.",
+      "headline": "If you run a 30+ provider BH group:",
+      "description": "30+ provider BH groups.",
+      "call_to_action": "LEARN_MORE",
+      "destination_url": "https://jotpsych.com/never-salt-again",
+      "creatives": {
+        "feed_1080x1080": "final/persona-30-provider-bh-feed_1080x1080.png",
+        "story_1080x1920": "final/persona-30-provider-bh-story_1080x1920.png"
+      },
+      "imagen_prompt": "",
+      "imagen_model": "",
+      "char_counts": {
+        "primary_text": 103,
+        "headline": 35,
+        "description": 23
+      },
+      "validation_errors": []
+    },
+    {
+      "slug": "listicle-5-audit-triggers",
+      "archetype": "Listicle / numbered breakdown",
+      "primary_text": "5 audit triggers most BH admins miss. The first one is what your EHR's copy-forward button creates.",
+      "headline": "5 audit triggers BH admins miss.",
+      "description": "Per OIG audit findings.",
+      "call_to_action": "LEARN_MORE",
+      "destination_url": "https://jotpsych.com/never-salt-again",
+      "creatives": {
+        "feed_1080x1080": "final/listicle-5-audit-triggers-feed_1080x1080.png",
+        "story_1080x1920": "final/listicle-5-audit-triggers-story_1080x1920.png"
+      },
+      "imagen_prompt": "",
+      "imagen_model": "",
+      "char_counts": {
+        "primary_text": 99,
+        "headline": 32,
+        "description": 23
+      },
+      "validation_errors": []
+    },
+    {
+      "slug": "comparison-copy-forward-vs",
+      "archetype": "Comparison / vs",
+      "primary_text": "Legacy EHRs ship a copy-forward button. JotPsych ships a structural answer to it. By design.",
+      "headline": "Copy-forward vs By design.",
+      "description": "Different by structure.",
+      "call_to_action": "LEARN_MORE",
+      "destination_url": "https://jotpsych.com/never-salt-again",
+      "creatives": {
+        "feed_1080x1080": "final/comparison-copy-forward-vs-feed_1080x1080.png",
+        "story_1080x1920": "final/comparison-copy-forward-vs-story_1080x1920.png"
+      },
+      "imagen_prompt": "",
+      "imagen_model": "",
+      "char_counts": {
+        "primary_text": 92,
+        "headline": 26,
+        "description": 23
+      },
+      "validation_errors": []
+    }
+  ]
+}

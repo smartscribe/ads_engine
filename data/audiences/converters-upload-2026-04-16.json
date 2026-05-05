@@ -1,0 +1,24 @@
+{
+  "date": "2026-04-16",
+  "converter_count": 2000,
+  "audience_id": "120245449282160548",
+  "audience_name": "Converters - First Note Completers",
+  "upload": {
+    "batches": 1,
+    "total_hashes": 2000,
+    "responses": [
+      {
+        "audience_id": "120245449282160548",
+        "session_id": "4854754548312271981",
+        "num_received": 2000,
+        "num_invalid_entries": 0,
+        "invalid_entry_samples": {}
+      }
+    ]
+  },
+  "lookalike": {
+    "id": "120245449282540548",
+    "name": "Lookalike - First Note Converters 1%",
+    "status": "created"
+  }
+}

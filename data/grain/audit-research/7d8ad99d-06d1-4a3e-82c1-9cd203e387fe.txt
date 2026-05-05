@@ -1,0 +1,151 @@
+Natalie Poole: Hi, how are you?
+Becca Bressler: I'm good. How are you? Doing well.
+Natalie Poole: I'm well, thank you for asking.
+Becca Bressler: So nice to meet you.
+Natalie Poole: Nice to meet you too. Okay.
+Becca Bressler: Your email was so awesome to read. We're just really excited that you're having a great experience with Jaw audit. It's a new feature that we're still improving and we're starting to roll out to a wider audience and so. Yeah. Anyways, we're. So. We're so glad to hear that it's been helpful for you. I was following along on the email chain and it sounds like you have an interest in using it for educational purposes and, you know. Yeah. Could you just tell me a little bit more about what you're hoping to do?
+Natalie Poole: So I have a private practice. They came out and saw it and yeah, providers, but I also have a training facility. Okay. And so we opened January 6th. But even prior to that I see quite a ton of students and I require that they learn and they use shots like in their training because I think it's just an amazing tool. Actually train using job site to. To able.
+Becca Bressler: Be honest.
+Natalie Poole: I think it's a beautiful way for them to understand documentation.
+Becca Bressler: Yeah.
+Natalie Poole: It gives them a way to be present with a client without trying to take down all these notes.
+Becca Bressler: Yeah.
+Natalie Poole: And then because it has like different features like the billing and all those things, I'm teaching them how well this is what it picked up. But is that really MDD or in those type of things? Right. So challenging their thinking. So that being the case, right now they're utilizing the tool, but I wanted to really allow them to. I want to be able to go and audit their notes.
+Becca Bressler: Got it.
+Natalie Poole: Their preceptor. And I can't because I don't think under their trial they have that ability. I. They have that version of it, maybe. That makes sense.
+Becca Bressler: Yeah. So. So they're on like 10 day trials. What kind of setup are they on?
+Natalie Poole: Right, so they're on the. Originally, they're on their 10 day trial and then I've been sending Nate and I cannot think of the other gentleman's name.
+Natalie Poole: Adam, maybe is his name whoever came out here.
+Becca Bressler: Oh, I think Jackson. I think you might have gone.
+Natalie Poole: Yeah, Jackson. He said to send him an email and let him know who I have and then he'll give them a 60 day like trial while they're with me. Yeah. And so we've been doing it that way. But I typically have like right now today I have a small number, but I can have anywhere from eight to about 15 students. And so we're training together, and so I want to make the tool user friendly for them. $150 is just way astronomical for students to be utilizing when they're not here. Number one, every day. For myself, I don't even see clients, but I use the tool myself. But for students, it's kind of cost exorbitant. So we've been trying to find a workaround with that. And that's kind of what the team I came up with is the 60 day, some of them here for longer. And that does make it a little bit challenging because if they do go on a trial, then they lose all of their previous client information.
+Becca Bressler: Right, right.
+Natalie Poole: So kind of some thoughts about what we can do to kind of maybe utilize or whatever we can do in that area. But also because I am promoting the products so intensely, my only colleagues, but also my students who are going to be employees very, very soon.
+Becca Bressler: Yeah, yeah.
+Natalie Poole: I want to look at what we can do to have a better relationship.
+Becca Bressler: Totally. I think some of this would be a great conversation to have with Nate around, like brand ambassador stuff.
+Natalie Poole: What I can talk to you about you too?
+Becca Bressler: No, no, no. But just to talk about, like on the product front so we can, you know, if they have accounts. JWT Audit was only initially released to a small subset of people that were exploring our payer Aware note. So we're in the process of now, like literally next week, rolling it out to more users. Okay. And so because are you using. Were you using a payer Aware note?
+Natalie Poole: I was. I was using a pair Aware note for some of it, but then I also was using the regular note. And then something I've been noticing and using JA Audit is not only do I like how you can add the different features of medical necessity and all the things under the audit, but also say, for instance, I know that this particular session was a 99214 and it actually flagged as a 99213. I learned that I can go in there now and say, hey, I need you to reconstruct this for a note that is 99214 worthy.
+Becca Bressler: Yeah, 100%. Yeah, no, exactly. That's how we want people to be using the tool so we can definitely get them that feature if they're within your organization.
+Natalie Poole: So that's the thing in my organization right now, which I noticed, which I have a question about. I asked Nate if he can't make sure that my other providers were under my organization and he added them, but I'm not able to see their notes to audit those, if you know what I mean. They're under. Let me see if I can share my screen. Hold on one second.
+Becca Bressler: So, yes, I think why this may be happening, and I think this could be a quick fix.
+Natalie Poole: So I'm going to go here, your screen and. Okay, so let me go here and to here. So say for instance, I'm under my practice and I go to clinicians. All of my clinicians. Where did they go? They're all here. Right.
+Natalie Poole: But when I go over here to documentation or billing job audit, per se, you don't see theirs? No.
+Becca Bressler: So, okay, I think. Let's try something for a second. Can you go to your practice?
+Natalie Poole: Yeah.
+Becca Bressler: Or actually scroll down, scroll down to the bottom of the page.
+Natalie Poole: Huh?
+Becca Bressler: Okay. Yeah. So you don't see your providers. So go to your practice up at the top and click Settings. Now scroll to the bottom. Okay, so scroll up. Sorry, scroll up. Okay. Interesting.
+Becca Bressler: It control how patient information is shared across your information organization wide. So you should be able to see all their patients. Right. So I think what is happening is because they're not using the payer aware or weren't using the payerware template, they weren't given access to JOT audit. So that will be able, like we will be able to change that next week basically because that's when we're rolling it out in a more widespread way. Perfect.
+Natalie Poole: Because I have a staff meeting about it too.
+Becca Bressler: Yeah. So it is an add on feature, which means for the first like 40 notes you get it for free and then it will be an extra charge to like use it for all of the notes. But you know, for the setting that you're talking about, it seems like 40 is probably a good number as like an educational tool for this cohort of people. As far as like pricing goes, we are hope. I don't, I can't give you an affirm date on when, but in the next month or two months we're hoping to roll out like a lower tier offering. So it's like a very limited set of notes a month. It's capped, but it's much cheaper than $150 a month.
+Natalie Poole: Okay.
+Becca Bressler: So just to let you know that that's coming and which will be good
+Natalie Poole: for even some of my staff that are just part time,
+Becca Bressler: 100% and we, we've heard that feedback. We totally understand that some people are just not creating enough notes to make it worth it for them. So can you talk me? Can you. I am curious. So like as from an educational standpoint. So you're using Jaw Audit to audit their notes, but how are you using it? Are you also. Are they using JOT audit themselves? Are you having them read through the rules? Like, I'm just curious to learn more about that.
+Natalie Poole: So what I'm doing is I'm teaching them how to use it to actually either create a template if they need to do one specifically say for adhd or bipolar if they want one specific to that. I teach them how to do their note in there. But I like this tool right here that I want to show you.
+Becca Bressler: Yeah, show me. Because I think what you're talking about is a template builder. Maybe you're teaching them how to build their own templates or.
+Natalie Poole: Oh, yeah, but that's not really the part that I'm looking at out more. I'll tell you the part that I'm most interested in. If I go to documentation.
+Becca Bressler: Yeah.
+Natalie Poole: And I go to notes, and I go to maybe a note right here. This is the part over here that I'm loving the audit. So this is something that I want to teach them because I want them to understand how they did the note, which was fantastic. But these are the areas that they were missing.
+Becca Bressler: Yeah.
+Natalie Poole: And that's a training tool that I think in school they just don't teach as successfully that there was nothing for medical necessity here. These are the things that we're missing and how we can fix that. Right.
+Natalie Poole: So I'm taking that for compliance issues. But then even for my staff, if I go to, I think, draw audit, I like to be able to see our overall rating. But then also if I want to look at the actual clinician.
+Becca Bressler: Yeah.
+Natalie Poole: I want to see what is their rating.
+Becca Bressler: Yeah.
+Natalie Poole: And then what we can do to actually increase it.
+Becca Bressler: Yeah. Right. And. And are you finding. How are you going about doing that? Like finding ways of increasing it? Are you, like going clinician by clinician and kind of seeing where the. Which rules they're not meeting as closely or how are you doing it yet?
+Natalie Poole: So it's just starting. Right. So I have a DNP student who. This is her DNP project is going to be auditing and determining best practices when it comes to educating staff on better documentation. So we're in the very grassroots phrase phase of it for ourselves, but we're using the tool to be able to identify the areas that are deficient.
+Becca Bressler: Got it. That's so exciting to hear that you're finding such. Do you have any feedback about it that we should. You know, I'm the product manager and obviously what. We want to keep improving these products, so I'd love to hear any feedback you have for it.
+Natalie Poole: Okay. So I. Absolutely. From the very, very, very, very beginning, let me tell you why the students are an integral part of job site. Right. So I was using when I first started. Well, I've been in business for a while, but was using Freed. I never really liked it. It's like. But it did what it needed to do. And one of my students came in and I looked at her notes I was reviewing. I'm like, oh, my God. Her notice, absolutely stellar. This is phenomenal. I reached out to her and I found out that Jot Psych was what she was using. I then did the pilot and then I made it mandatory for my office. And then I decided using it for the other students as a teaching tool. The thing that I love about it is how you've continued to expand. I love the ability to now to do notes or prior authorization notes and all those things right in it. So you're doing an amazing job of, I can tell, even pivoting towards maybe more of an EHR system.
+Becca Bressler: Yeah, definitely.
+Natalie Poole: The payer piece is huge for me. I love to be able to make sure that my notes are audit ready. I think all of us freak out about that, but what I would also love to see is that from a training perspective, I know it doesn't always pick up the correct spelling of the medications per se, but. But it would be amazing if you hovered over the medication that it had maybe like car lot or stalls attached to it where you could see what the medication is. Minimum, maximum dose, that type of thing. Almost like a.
+Becca Bressler: Can you show me? Actually, do you mind? Let's open a note and you can show me an example. Example of what you're looking for.
+Natalie Poole: I'll show you. Oops, I'm going to the wrong thing. Let me go into a note. So let's go into this one here. And let's say for here, her note is going to be about adhd. Oh, come on back. Okay, so say, for instance, I go into this note. So cowabri is actually spelled wrong if it was correct. Right. So if I go in and edit this section.
+Becca Bressler: Wait, Natalie, this is really interesting. Sorry to interrupt you, but do you not see I want to show you something and ask if you ever see it, because we have
+Natalie Poole: it used to pop up where it would say it was highlighted in a color. No, it would say something like it's a frequent medication name. Is this the correct medication? Is that what you're talking about?
+Becca Bressler: I think so, but I'm also talking about. Can I share my screen for one second?
+Natalie Poole: Yeah. Let me go back so I can see.
+Becca Bressler: So it highlights in red.
+Becca Bressler: Oh, no, no, you're not having that. And so if it's misspelled, you can click it and then, like, rewrite it to its proper spelling and replace it. That's. You're not seeing that.
+Natalie Poole: No. When I tell you I use this. Well, I teach three times a week, so I'm always in the tool. Like, always. Even when I'm not familiar. No.
+Becca Bressler: Okay, let me. I want to get to the bottom of why, because you should be seeing that, and I suspect that'll help with what you're. The issue that you're describing.
+Natalie Poole: So I like that part. But if you could imagine if I actually hovered over Quelbri, and it actually was like a medication manual, too, where it told me minimum and maximum dose.
+Natalie Poole: And so it's almost like an inpiece pocket companion.
+Becca Bressler: That's really interesting feedback. Like, it just tells you a little bit more about the medication itself.
+Natalie Poole: Yeah. And even, like, you know how you have on the side where you can type in things like add to your note, even. Let's just say, for instance, you're in session. Because I find this particularly with. Maybe not with a seasoned NP like myself, but maybe someone who's newer and for teaching purposes, they're in session. They're like, oh, shoot, like, what do I prescribe? I think Lexapropa. Where do I start? If they can have something on the site where they can kind of type it in, it becomes their quick reference right there where they're talking to the client, and then it can capture it in the note once they decide that that's what they want to add it to.
+Becca Bressler: What do you. What do you mean by that? Like, um. So that while they're recording, they can say what they're prescribing so that it winds up in the note? Is that what you're saying?
+Natalie Poole: So it doesn't have to actually be that way, but at least it would be a way for them to look up the medication while it's still recording. And then, let's say, friends, it's recording our. Our session. The client says, you know, I'm just. So depressed and I'm having anhedonia. I'm having this, I'm having that. Lack of appetite, I'm losing weight, I'm having CR anxiety. And they're like, I think Remron might be a really good choice. So they go over to the site while they're listening to the client and they type in Remron and they find out, oh, starting dose is 7.5 milligrams, maximum dose is 30. Oh, it does this, this, this and that. This is what I could do. And you're like, yeah. And then, and then the provider goes, you know what, I hear you. I think Remron might be a great choice for you. And I was able to be captured because I was able to look it up over here versus having to flip through another tool over here. They're already in the system.
+Becca Bressler: Right, right. You're talking about some way for them to learn about medication through JOT Psych so they're not having to pull up a different. Okay, that's super interesting.
+Natalie Poole: Like if they use car lot or stall as or something. Right. Open evidence, we use it. Right. As a tool to be able to bring it in. And it's actually like literature based or something.
+Becca Bressler: Yeah, that's. That is a really interesting feedback and I'm actually making a note of that right now. I do want to get to the bottom a little bit of why you're not able to see that red thing that I showed you.
+Natalie Poole: Yeah.
+Becca Bressler: What is the user. What is the email address you use for jot site?
+Natalie Poole: Natalie@peaceofmindwellness.info.
+Becca Bressler: Dot in fo yes, Give me one second. I apologize. I just want to make sure. I want to try getting to the bottom of. Hmm. You know, I might have to look. Look this up afterwards and send you an email, but hopefully that is like a good first step in helping you with some of the medication stuff. So you can, you know, you can find and replace throughout the whole note. There is a find and replace tool. It's definitely less easy than just like clicking on the medication. But are you familiar with that tool?
+Natalie Poole: No.
+Becca Bressler: So if you click the three dots next to those stars, if you see like there's the sign note, there's the stars.
+Natalie Poole: Okay, so right here.
+Natalie Poole: Yeah, so you find a replace.
+Becca Bressler: Okay. So if you do see like a word that's misspelled that you want to address throughout the entire note, you can type it here.
+Natalie Poole: Okay.
+Becca Bressler: But let me. I do want to get to the bottom of the, of the lack of that like red highlight because you should be seeing that. Is there any other feedback you have about jot audit as you've been using it? Like, does it feel trustworthy? Are you feeling. Yeah. How. Yeah, Just. What's your impression of it?
+Natalie Poole: I think it's an amazing tool. I haven't seen anything like it before. For I like the. This is the audit part right here. Right.
+Becca Bressler: Right here.
+Natalie Poole: Yeah. So I think for us. So it has the CBT 90791 versus 90792. So as we use the two one, I like that it's pulling out areas that need greater evidence in our note. And I love that, like, if I click this, that it'll actually analyze the request and then it'll ask me specifically where do I want to add it. Do all of it. Just a little bit of it.
+Natalie Poole: Like, very, very specific. And then I noticed that once I say. Let's just say to all three sections, what it does spit back is actually very, very comprehensive and robust.
+Becca Bressler: Awesome.
+Natalie Poole: So I'm liking what it's coming in because, you know, I was reviewing it. Like, is this going to be like kind of like a basic steal? But no, it's really, really thorough. Now, I will tell you this. What will happen sometimes. And I don't know if this is. Okay, hold on a second. It's going to happen. I think it's going to do it in a second. So once it's done with it. Okay, so this is applied to all three sections. I can go now back to the audit and because I just did. I think it was medical necessity. I did. I can check that off now. I could go to the coordination care. So I can go to each one of those and I can take care of it and then I'm set. I almost kind of like it if I noticed when I came back before. Let's try it. Once I. Yeah. You see how medical necessity popped back up.
+Becca Bressler: It came back. Oh, interesting.
+Natalie Poole: Yes. That's the one thing I'm like, why is it bad?
+Becca Bressler: That's been happening to you.
+Natalie Poole: Yes.
+Becca Bressler: Okay, interesting. I will make a note of that. Let's see. Okay. Okay, great.
+Natalie Poole: Now see up here at the top where it has the ICD9 to all of this information up here. If I add, for example, to this note, ICD 10 codes, will it then now put it in the note. Once I've added it automatically that I'm not sure about.
+Becca Bressler: And I don't think so. I think that's kind. I don't think that's one of the things we've set up yet. It's obviously where we're headed because that's crucial. Okay. The primary reason to do it now, which is not obvious to you, but like, we're building a billing system.
+Natalie Poole: I heard.
+Becca Bressler: Yes. So it would be for that first.
+Becca Bressler: But of course, like, at some point we. It needs to get into the note as well.
+Natalie Poole: Okay. All right. Okay. And the reason why I asked is because I noticed, like, it has it here. And then when I got over, Over here, When I've added it here, it didn't actually cross over here.
+Becca Bressler: So it didn't cross over there.
+Natalie Poole: No, but I mean, that's just because I literally am in here playing with it, like, all the time. I'm always doing it, figuring out how it can be better used for us. I love the forms, labs, documents. I probably use the documents probably more than anything, the labs.
+Becca Bressler: Oh, really?
+Natalie Poole: Oh, I use that a lot.
+Becca Bressler: That's really great. You know, we're actually working on e prescription right now.
+Natalie Poole: Listen, I'm telling you. So I use Tabra, and I absolutely have loved Tebra up to this point.
+Becca Bressler: Oh, really?
+Natalie Poole: Yeah. But if this could do the things that a small amount of things that Tebra does, I'd be sold.
+Becca Bressler: Yeah. So hopefully, actually in the next, like, two or so weeks, we'll be having a prescription which, if you're interested, I can put you on a list of, like, early adopters and can reach out to you when we're ready for that.
+Natalie Poole: You also have EPCs.
+Becca Bressler: Yeah.
+Natalie Poole: Okay. So you will have control substances. Okay.
+Becca Bressler: Yeah.
+Natalie Poole: Do you know if Maps is built into it?
+Becca Bressler: So what. Our first version of it is an integration with Dose Spot. I don't know that this answers your question, but. So it'll take you have you. Are you familiar with Dose Spot?
+Natalie Poole: I've heard of it before, but I don't know if I've ever used so.
+Becca Bressler: Because what was the question, if you don't mind me?
+Natalie Poole: So, you know, every state has the pdmp. Yeah. So you have to check Maps. And so it took me forever, but I was able to get Maps integrated into Tebra so that when it goes to the Control Substance menu or screen, Maps is already built in it. It's directly underneath so we don't have to go outside to another platform.
+Becca Bressler: So that won't be built in jot Psych. It may be in Dose Spot because their first version of this is basically like you, you know, create or click, you know.
+Becca Bressler: Yeah, Create Prescription, and it'll take you to this other tab, which is no Spot. So at least for our, you know, first version, because we want to build something really quickly. But, you know, that would be something I think down the line that we'd be able to support and do. Spot may actually support that within its platform. Okay. But I do want to make a list of the things you just said. So let me just see. ICD 10 code to the.
+Natalie Poole: And do you think that you'll ever bring back for those students that are, like, in their programs for a longer period of time. Like more of like the student price again, because that was really helpful.
+Becca Bressler: So I think that the version, it won't be a student price necessarily, but it will be like a low tier price. So it'll be built for someone who is doing less notes for sure. So let's see. Just want to make sure I have a record of this. Anything else, Natalie, that you want to tell me about your experience? Feedback, ways that we can make JOT audit better even?
+Becca Bressler: I don't see this on your screen, actually, but this is something hopefully you would see. Did you create any notes today, Natalie?
+Natalie Poole: No, I have not. So to be honest with you, as I mentioned before, I don't see clients anymore.
+Becca Bressler: I see. Okay.
+Natalie Poole: But I keep the platform because I teach using it. And there are days that I will do an ADHD eval. I do have five girls that I see from a foster home that I'll see there and I'll do those. So when I tell you I probably have very few notes, but I'm the one who's always playing in the system so that I can learn it so that I can teach it.
+Becca Bressler: Yeah. The audit panel, the next. The new version of it, it's a little bit different, but this CPT code is right. It shows you what CPT code it's evaluating your note against and then allows you to change it. So it'll suggest it. It'll be like this kind of matches this CTPT code. But you chose this.
+Becca Bressler: Do you want to stick with the one you chose? And then it will. You can change it. You can say, no, I actually want to be auditing against this code. And then it will show you the risks and flags based on the precise CPT code that you chose. That'll be a cool thing to explore with your students as well.
+Natalie Poole: So now my question for you is what. Or do you have any idea what the tier price will be for a person who's interested in the job audit to stay and not just kind of like in this phase?
+Becca Bressler: Do you mean the add on price for.
+Becca Bressler: I don't know that number off the top of my head.
+Natalie Poole: Would it be an organization price or would it be per user?
+Becca Bressler: It's a per user price.
+Natalie Poole: Okay. Okay.
+Becca Bressler: Yeah. And there's like differences, I believe, between like monthly and yearly. Of course, like that's where you would see a discounted price, but it would be on the per. A per user basis is. Do you have any other questions or feedback before I let you go? I think the next step here it sounds like from the thread that we're on, you know, Nate said you guys should talk about your. Yeah, you're. You're interested in being brand ambassador and what that could look like with JOT Psych. So I be happy to just follow up on the chain and say like Nate, Natalie, you know.
+Natalie Poole: Yeah, Chat said Hey, after I spoke with you that maybe me and him could connect. So I don't know what his availability is today, but I can let him know that I'm done versus email. And if he's available, then cool. If not, we can look at a Cam Callan leaf or maybe him as well.
+Becca Bressler: Sure. Yeah, that sounds great. So, yeah, why don't you follow up via.
+Natalie Poole: Yeah, all right. Sounds good.
+Becca Bressler: Thank you so much, Natalie.
+Natalie Poole: Take care. Bye.
+Becca Bressler: Bye. Bye.

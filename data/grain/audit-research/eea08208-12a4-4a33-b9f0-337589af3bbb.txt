@@ -1,0 +1,45 @@
+Sarah Ransom: Fix the template because it just keeps putting boost around into everything.
+Adam Harrison: Okay, gotcha. So issue with your template. What exactly is the template that's having the issue?
+Sarah Ransom: It's the follow up template.
+Adam Harrison: Okay. Is it one of our default templates or is it customized? You've customized it. Okay. Would you be able to just share screen and kind of show me the template that'll just help us figure out what's going on.
+Sarah Ransom: And it doesn't. So it kind of didn't. It didn't really do it yesterday, but then the beginning of the week, it did it all the time for every single day.
+Adam Harrison: And what exactly is it doing? That's the problem.
+Sarah Ransom: It's putting goose broom as a medication. Just replacing every med I say with buspirone, even if I'm not saying buspiron.
+Adam Harrison: Okay, that is really odd. I'm really sorry about that. Okay, so it's this follow up template. Is this a group? Are you in a group? Is this like a group template?
+Sarah Ransom: No.
+Adam Harrison: Okay. This is just your own.
+Sarah Ransom: Yeah.
+Adam Harrison: Personal template. Okay. And then when was the last time you like customized this template? Like using the AI editor or.
+Sarah Ransom: Yeah, I've been trying all week. I've just been trying to fix that thing. Just trying to put it, you know, telling it. Don't put it in if you don't hear it.
+Adam Harrison: Got it. Okay. And then was it working before you started making edits?
+Sarah Ransom: I mean, I've been making edits throughout. So last week it was totally fine. Or I think actually. Yeah, but a week and a half ago is fine. But then it just started putting boost bromine.
+Adam Harrison: Okay. And is it for like all patients or it's just like specific patients that.
+Sarah Ransom: That.
+Adam Harrison: Wow. Okay, really interesting. So we are probably. What we will do is do like a template reset for you. So it'll just revert back to like an earlier version of the template. I'm going to put in like a ticket for our engineering team to do that for you. Is there like roughly a time that you'd want us to try to like revert back to when it was working better for you? Is it like a week or so?
+Sarah Ransom: Yeah, like a week and a half ago.
+Adam Harrison: Week and a half. Okay. Maybe 10, 10 or so days just to be safe.
+Sarah Ransom: Yeah.
+Adam Harrison: Okay. And then do you mind just. Is this. Are you on the template now that you want change to follow up?
+Sarah Ransom: Yeah, yeah.
+Adam Harrison: Okay. And this, it's just this template, right? It's not any others that I've noticed. Yeah, that you notice. Okay. Would you be able to just take the URL of this page you're on right now and just put it in the chat and that'll just help me make sure that I am fixing the right template for you.
+Sarah Ransom: Where's the chat button?
+Adam Harrison: Oh, it's on the bottom right. Google Meet is like very hard to, to use. I'm so. Yeah. Okay, perfect. Okay, that should, that should work. And let me just make sure I have your account. Do you know what email your account is under? I'm not seeing it under your.
+Adam Harrison: Oh, is it the. Let me look here. Oh, I think I got it. It's your Gmail account.
+Sarah Ransom: Yes.
+Adam Harrison: Okay. I might be able to do this on my end, but I probably will need to put in a ticket here, let me. Oh, do you know which section that is showing up in in the template too?
+Sarah Ransom: Mostly for sure, the follow up email, definitely sometimes the assessment and plan as well.
+Adam Harrison: Okay. Follow up email, sometimes assessment, sometimes plan.
+Sarah Ransom: And sometimes also the hpf.
+Adam Harrison: Okay, got it.
+Sarah Ransom: So basically the whole thing.
+Adam Harrison: Okay. So what I will do is I'll go through this template. Either myself or someone from our team will like make a few tweaks here. So it should be, should be working for you, you know, in the next like few hours here.
+Sarah Ransom: Okay. So should I just log out and give it a few hours?
+Adam Harrison: Yeah, I'll follow up over email and I'll just let you know. Yeah, I'll let you know. Kind of like the. When it's ready to go. But it should be hopefully like a pretty quick fix that we can do here.
+Sarah Ransom: Okay. Is it possible just to also just tweak the initial evaluation, make sure it's not happening there as well? I don't think it is, but sure.
+Adam Harrison: Yeah, we can look at. Which one do you use for that is.
+Sarah Ransom: It's the initial evaluation template.
+Adam Harrison: Okay.
+Sarah Ransom: So those are the only two I use.
+Adam Harrison: Got it. Okay. Great. Well, I will get this fixed for you. I'm sorry this has been, like, kind of a struggle. So thank you, though, for flagging it. And we'll get it. We'll get it resolved as soon as possible for you.
+Sarah Ransom: Thank you.
+Adam Harrison: Thank you, Sarah. All right, take care. Bye.

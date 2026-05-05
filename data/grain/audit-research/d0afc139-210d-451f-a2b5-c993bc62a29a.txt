@@ -1,0 +1,207 @@
+Becca Bressler: Hey there, Mariah.
+Mariah Smith: Hey, Becca. How's it going?
+Becca Bressler: How are you doing?
+Mariah Smith: Good, thanks. Good, thanks.
+Becca Bressler: I'm not used to seeing you on Meet. I Google Meet. I, like, have teams in my head. This is like a fun reversal.
+Mariah Smith: I know. I. I was like, wait, I. I've been mostly. We had Zoo, and I was like, wait, what. What platform are we using? We're good. We got this.
+Becca Bressler: So I have a few, like, questions of piled up since we spoke, actually. So I have my list and would just kind of love to, like, go through them.
+Mariah Smith: Yeah.
+Becca Bressler: And so maybe we can come back to the proxy role and the supervisor role, just because that's more like workflow stuff. Am I able to get other jot. Psych employees, add them as clinic admins? I tried to figure this out, but maybe I can just pull this up and you can kind of direct.
+Mariah Smith: Yeah. Share me your screen. So as a client admin, you should have the ability to add and edit other client admins.
+Becca Bressler: Okay, let's do this. You can see my screen. Okay.
+Mariah Smith: Yes, I got you.
+Becca Bressler: Okay, great. Send push notification. Hey, Marcus.
+Marcus Irven: Hello, Marcus. Good. How are you?
+Mariah Smith: Good, thanks. All right, quickly, Mariah.
+Becca Bressler: I just want to catch Marcus up. Marcus, I have compiled a list of questions in addition to the workflows. We've talked about proxy supervisors. You can hang out, mute yourself, and I can ping you when we get there if you just kind of want to mostly hear about those, but.
+Marcus Irven: Sounds good.
+Marcus Irven: And I have. I have one that we can add at the end.
+Becca Bressler: Okay, great, Great. But I'll. I'll start with my questions here. Okay. Yes. So, Mariah, how shall I.
+Mariah Smith: I believe you would go to the client tab first to start. So the first. First little button that you have. Client.
+Becca Bressler: Oh, client. Oh.
+Mariah Smith: If you go down, Keep going. There you go. Add a client admin.
+Becca Bressler: Oh, amazing. Okay, great. I will not ask you to watch me do that. And then they'll get an email that they have to sign up with an account and all that kind of stuff you guys got.
+Mariah Smith: Yeah.
+Becca Bressler: Fantastic. Okay, second question. So we. So I. And I think you saw this email. Signed up a clinician, tried to submit a prescription, got a transmission error. Yeah, I escalated it. I thought it had to do with what we had already discussed, which is because they had refills change requests enabled elsewhere, there needed to be some sort of switch flipped. The customer support response I got confused me a bit and made me think it was a different issue. But my main question here is. I have since onboarded people who I know are coming from different E prescription platforms and I know have those enabled but still look green on my end. They're not red, which means like I don't think something's been submitted to you guys.
+Becca Bressler: Do they have to try and fail to submit a script in order to trigger that or they shouldn't?
+Mariah Smith: Do you have an example like just a clinician off. Off your.
+Becca Bressler: Yeah, let me do this. Okay, so for instance, Beverly I onboarded today and this is green. I didn't ask her to test sending anything because I assumed that there would be a day delay.
+Mariah Smith: Okay. If you go into that little edit link. Yep. So this is going to be kind of your source of truth. If you go to the clinic information tab, this will be your source of truth of where they sort of stand overall with their sure scripts certificate and registration. So they are in green, which means there isn't a pending error right now. So they can go ahead and prescribe.
+Becca Bressler: Oh.
+Mariah Smith: What you'll see here is the accurate reflection method to message type on what is enabled and what is not. And so it looks like what probably happened here was that they did hit an error when they originally registered, but our team went in and turned off the message types that were causing the problem. So turned off refills and change so that it wouldn't prevent them from prescribing.
+Becca Bressler: Got it. I think what I actually did was I saw that this was green and didn't turn red. And so I was like, oh no, does it only turn red? But I was actually just looking in the wrong spot. So I guess my other like takeaway here is like, let me go into someone else. I onboarded. I would go to edit. I would then go to clinic. Okay, great. And so this person is ready to go.
+Mariah Smith: Then they have everything turned on, so they'll also be able to process refills and change just right out the gate. So it doesn't look like they had those message types enabled at a different provider.
+Becca Bressler: She said she did so but maybe she was mistaken because yeah, obviously it sounds like this is the source of truth with that. Okay, great. So these two can go. I'm going to submit. One of these providers does want to do a change of vendor, so I'll go ahead and submit that through like the support channels. I told her there would be a few day delay so that, you know, she's. She's expecting that. She though had a couple of questions that came up as I was onboarding her and I didn't know So I wanted to ask you. One of them was. We were trying to look for a pharmacy that we couldn't find. There were a couple, so there was like mail order pharmacies. She uses one in St. Louis that we couldn't locate and then Amazon. Was another mail order. Do you guys not have Amazon Pharmacy? I don't know if we were doing something wrong.
+Mariah Smith: We definitely do and we actually have a direct connection with Amazon. So let me double check your configuration that we have those direct connections enabled. We absolutely should. With Amazon, there should be even a functionality where she can see more price transparency and then stock transparency as well.
+Becca Bressler: I'm wondering if I. I should get into like my alpha account to try if that would end up showing like what she saw.
+Mariah Smith: I just. So it looks like that setting was not enabled in your production environment, so I just flipped the switch on that so that, I mean that's more the direct connections. If you're ever wondering about the availability of a pharmacy on our network, one of the things that you should be able to do, if you hit the features button at the top of your screen right there, the pharmacy search, you can search by name, address, zip, any of these particular fields and it should. It will return what's in the sure Scripts network that should be returning in the pharmacy search in your UI.
+Becca Bressler: Okay, so like Express Ship, Missouri, St. Louis.
+Mariah Smith: Let's see.
+Becca Bressler: Yeah, so this is exactly what we were looking for. But it didn't show up when I was. When. When she typed it in and she typed in Express Scripts. So is there a way to like.
+Mariah Smith: So interesting if we. Would it be possible to like get her to video what she's seeing.
+Becca Bressler: I could speak to you actually.
+Mariah Smith: Yeah. Yeah, if you could, because you're actually. It's really interesting. You're the second client to bring up a search this week. I'm wondering if there's like some sort of bug going on. The good news is that it's on the network.
+Mariah Smith: We should be able to surface, so it's not an issue of it being missing from the network altogether. So easier problem. We just need to figure out why it's getting filtered out of the view for whatever reason.
+Becca Bressler: Okay.
+Mariah Smith: Yes.
+Becca Bressler: I could actually like pull it up for you now. I don't know if that's a waste of your time. Send you a video later, but let me.
+Mariah Smith: I'm just curious if you have the ability to show me. That would be fantastic. What we'll likely end up doing is creating another support ticket for it because it will likely need to get kind of bug reviewed by our L2 support team and then sent over to our development team.
+Mariah Smith: Depending on what they find, they'll go through the same steps that you do and just make sure that we can replicate the problem on our side and then service it likely as a. As a high priority bug.
+Becca Bressler: Okay, great. Let me. So we should put in that support ticket is what you're saying.
+Mariah Smith: I mean, I'm happy to also put it in on your behalf, Becca, if that's easier. I'm just super curious. I definitely. So funky.
+Becca Bressler: See. So are you still seeing my screen or just a tab yet?
+Mariah Smith: I still see your screen.
+Becca Bressler: I think you're showing it. I think I'm showing you the wrong thing. So. Okay. So, yeah, so we looked for, Like, for instance, here, let me type it in kind of verbatim what it was. Okay. Did I. Oh, the.
+Mariah Smith: She was searching in production, though, right? Not staging.
+Becca Bressler: Yeah. And then we even went like, mail order and tried this.
+Mariah Smith: Okay. The reason I ask is that it's expected that you would see a different set of pharmacies in staging than you would see a production. But let's go ahead and get a support ticket open and they. They may just ask for more details around, like, which clinician this was. So if you have the clinician ID that was trying to do the search, that would be awesome.
+Becca Bressler: Okay.
+Mariah Smith: But, yeah, one.
+Becca Bressler: Another question that came up with this because she's the person who we're going to submit a change of vendor request for, and she was asking questions about how the pharmacy, like, sends refill requests or kind of asking about those functionalities. And I wasn't sure, and I couldn't find any written materials or like walkthroughs about that part of the product because she was like, oh, most people just send me faxes. I get lots of faxes from the pharmacist, like, from pharmacies.
+Becca Bressler: Is this kind of in lieu of that or it would be.
+Mariah Smith: Yeah, absolutely. So any. So the sure Scripts network that we're operating under to send prescriptions is bidirectional. And so it's an entirely different message type that the pharmacy would initiate on their end to send a refill request or a change request directly to them. And it would populate in Dosebot.
+Becca Bressler: Okay.
+Mariah Smith: So she'll see that. She'll see that kind of pop up in the notification tracker that you have on your side, and then she'll be able to come into do spot. Typically, we. We recommend kind of landing in that kind of dashboard view. Right. So she can see all of her pending items, but it should also show up in that. I'm pointing at your screen like you can see me. The little bell icon. Exactly. Yeah. So she should see that as a task. Exactly. Yep. It will pop right up. And then she can evaluate the details of that message, how many refills, any notes that the pharmacy sent over, and then she'll have the ability to either approve, approve with changes or deny that request and get something.
+Becca Bressler: Okay, got it. But it's fairly straightforward, is what you're saying?
+Mariah Smith: Yes.
+Becca Bressler: Yeah, exactly. Okay, great.
+Mariah Smith: It's the same workflow that we walked through as part of the screen demo. So it will pop up a new window where you'll be able to evaluate the actual request from the pharmacy and then make a decision. There's like radio buttons for what decision you want to take, and then, you know, comment fields, that kind of thing.
+Becca Bressler: The demo. Which demo are you talking about?
+Mariah Smith: So the screen demonstration that we did together as part of your certification, where we walked through that workflow flow. If you have a test script, I can actually send you a test refill if you want right now just to see what that looks like.
+Becca Bressler: I could probably do that on my own time, right? Could you send me a test and I could. Or. No, you have to send me the.
+Mariah Smith: I need to send it. So if we can do it async. If you just want, like, if at some point later today you send a script, just send me the script details and I can send you a test refill or change request so you can see how it populates in your staging environment.
+Becca Bressler: And I can do like, the Arnold Bayes medicine thing is what you would probably recommend. Or here I could actually submit because I'm in a senior unit.
+Mariah Smith: You can add a prescription right now.
+Becca Bressler: Oh, and it doesn't matter what I can kind of prescribe. Simon Staging. Okay, great, let's do that. Async. And then I can just go through it. So I am able to kind of talk to my. Talk to our customers about it, maybe. And again, I'm just like, information gathering. As someone who's going to be doing a lot of support stuff, I want to make sure that I understand these issues. Issues that are coming up. So just. I have one last one before we then, like, move over to workflow stuff, which is this ticket. So this was a. This was what we encounter where I was setting someone up. They did a prescription. It got. It had a transmission error, and I had walked through that because I actually forgot about what you said. And then I was like, oh, this is probably what Mariah was talking about with. It requires a day. Is that what I'm to take away from this message or should I know about some other like common error that may come up?
+Mariah Smith: Service level is nearly good. So the prescription that had the transmission error, what I think she is saying is that it's possible for an error to come up. Looks like it was a controlled substance that was trying to get sent, right?
+Becca Bressler: Yeah.
+Mariah Smith: And in this case, I think what she's saying is like this. The controlled substance service level was not added or was added too close to when the prescription was sent. But I don't know that that necessarily makes sense because the clinician really shouldn't have even been able to send a controlled substance until TFA was initiated. Until they got that all set up. Yeah, we set that up.
+Becca Bressler: Okay, if I can ignore this, I'll ignore it. I just want to make sure I'm, like, learning as much as I can about these common errors.
+Mariah Smith: So when. When you surfaced the clinician to me, when I went in and looked, it appeared that she was in a registration error and it was because of that change of vendor issue.
+Becca Bressler: Okay, go ahead.
+Mariah Smith: So this could have been a misunderstanding, since we did have, like, a script that tried to go out, and whether we were talking transmission error or registration error, that's where I think the support agent may have gotten confused.
+Becca Bressler: Okay, that's super helpful. Okay, so my next questions have to do with the proxy workflow supervisor, Marcus. Do you want to jump in or do you want to save your question for after we talk about those workflows?
+Marcus Irven: I could jump. Mine is actually really quick. I think it's just that I think we need some help with our webhooks, getting them hooked up.
+Mariah Smith: Sure.
+Marcus Irven: I know that we've given you the webhooks. We've just never seen them called, according to our logs. Maybe we're missing something. We just haven't needed them so far, so that's a bit of a big deal. But now we're going to start using them.
+Mariah Smith: Yeah.
+Marcus Irven: Yeah. I've never been called, and I don't think I could be wrong, but I don't think that we were ever given a production secret either.
+Mariah Smith: Okay.
+Marcus Irven: Or we did. I missed it. It's also possible, but we're at the point now where we're ready to start making use of those. And so if we could either, like, let us know if there's something on your side or just we're missing it or. Yeah, if we get some technical help on that.
+Marcus Irven: So let me just put something in the chatter earlier today, too, but I don't think anybody got back to me.
+Mariah Smith: Oh, I'm so sorry. So Jess is on vacation this week, too, so definitely tag me if you need something urgent. Let me go in there right now.
+Mariah Smith: I do see that you have an endpoint configured in your production environment, so let me double check. Let's double check that it's the right endpoint and then I can send you the secret key. I'll send it in just like a secure share file similar to the product.
+Marcus Irven: Any kind of logs of it it was actually called or that it like returned 200 or anything like that or no,
+Mariah Smith: I would need to pull in one of our engineers to do that. I can certainly take a look, but it sounds like if you haven't received. See the secret key, then it's not necessarily set up fully on your side. Right.
+Marcus Irven: Well, we have it set up to. It should return at 200. It doesn't do anything, but it should, like, at least be called. And I could see those that should be able to see that it was called, but it's not doing anything yet. So.
+Mariah Smith: Okay, So I have HTTPs API.psych.comv2webhook//, dospot/notifications. That sound right?
+Marcus Irven: For production.
+Mariah Smith: Okay, perfect.
+Marcus Irven: All right.
+Marcus Irven: Exactly the same, except for API dash test.
+Mariah Smith: Okay, perfect. All right, let me double check who. All right, Jaden was your tech, so I'll see if Jaden can just double check the logs for me on this, and then I will send you over your secret key separately. Just so that you haven't. Let me double check on. So when Jess sent you over your production keys. Yes. Your file did not include the secret key. Right.
+Marcus Irven: Well, you know what? I'm not gonna. I'm not gonna say for sure that's true.
+Marcus Irven: Okay, let me look.
+Mariah Smith: No worries. Either way, I'll.
+Mariah Smith: I'll start getting.
+Marcus Irven: Oh, it does have a secret in there. You know what if those. Not a secret.
+Mariah Smith: Oh, perfect. Okay, good.
+Marcus Irven: I just forgot that I had that.
+Marcus Irven: Okay, so it's just a matter of making sure that they're being called and if there's something that we need to do on our end. Or maybe we're just missing it. I don't know.
+Mariah Smith: No worries. I'll ping Jayden right now and see if we can take a look at the logs quickly.
+Marcus Irven: Thanks.
+Marcus Irven: That's all that I had.
+Becca Bressler: Awesome. Marcus, it might be helpful for. I mean, up to you just to talk about the different workflows that we're trying to build. Mariah, just let me know whenever you are ready.
+Mariah Smith: I am ready.
+Becca Bressler: Great. Okay, I'm gonna share my screen again, so. Okay, so the first one is a proxy role, right? So an assistant who has, you know, the credentials or whatever to like, be able to queue up a prescription. We. As far as, like, supporting. That goes, our clinicians are reaching do spot through Jot Psych. Does that admin also need a Jot Psych account to be able to reach dospot the same way or. Yeah, I guess. I guess that's the question. Would they have to then get into dospot through Jot Psych as well?
+Mariah Smith: So you're. We're talking specifically for the clinic admin?
+Becca Bressler: Yeah, the. I think it's a proxy. Right. That's the right role type for someone who's able to queue up prescriptions.
+Mariah Smith: Right. So sorry, I remember us talking a little bit about the clinician admin, the client admin and then the proxy role. So for the proxy role that would be someone involved in the prescribing process. So they have the ability to queue up prescriptions on behalf of a supervising provider but not send anything independently. And so they would access do spot through the same same. They would, they would launch the iBrain in the same way as a prescribing clinician would through a single sign on generation.
+Becca Bressler: Okay.
+Mariah Smith: And so when you create a proxy role, essentially you create a relationship so that they have a supervising clinician that they are operating on behalf of. And so anything that they queue up would go to that clinician to sign and send.
+Becca Bressler: Does that mean. So just like as far as what that would look like. So I'm a proxy. I know that Marcus is going to see a few people today. I go into their profiles. I, as a proxy I'm able to like queue up certain prescriptions.
+Mariah Smith: Yeah.
+Becca Bressler: Our clinician then the supervisor would need to, you know, it's not, they too are then like going to the patient, getting into the patient dose spot profile through our, you know, patient portal. But then instead they just see, see things that are ready to go to hit like submit.
+Mariah Smith: They would see prescriptions kind of pending in that pending status within that patient's profile.
+Becca Bressler: Okay. And so then that role do we get charged for like the $20 a month as though they're a clinician? That's like a seat that we would get charged for for proxy roles?
+Mariah Smith: No. And let me ripple check on your contract, but I believe you only have prescribing clinicians and prescribing agents spelled out with a particular license fee proxy since they can't actually prescribe anything we typically don't charge for separately.
+Becca Bressler: Okay. Marcus, is your understanding of how Mariah is describing proxy, what you heard from Meredith? Because she like it sounded like she was an admin, this person that Meredith wants to. And so maybe I just don't know the difference between like admin role, proxy role permission.
+Marcus Irven: You know, I don't, I didn't go into that much detail on exactly the task that she wanted her admin to be able to do. I know that she wanted her admin to be able to get in to do. And maybe is there some things also around maybe like refill management or something like that that maybe the admin would do. I'm. I'm speculating, which I shouldn't. We should just stuck with her to see what.
+Becca Bressler: But I think there are like clinic admin roles and proxy roles. Right, Mariah?
+Mariah Smith: Yeah.
+Becca Bressler: So can we just talk about the differences there?
+Mariah Smith: Yeah, yeah. So the clinician admin role does not have any prescribing capability tied to it. It and so they would be able to do things within their own clinic such as adding prescribers, editing existing prescribers, items like that. So if you wanted somebody on site with the clinic who can kind of do some of the support ish functions that you're doing with onboarding, Becca, that would be the clinician admin role that you would want to add. And they would get admin console access as part of that. But it's isolated to just the clinic that they're part of.
+Becca Bressler: Got it.
+Mariah Smith: And so that's the difference between the clinician admin and the client admin roles. Client admin roles are for like yourself and Marcus, since you'll have access to all the clinics within job psych versus someone that's just kind of managing within their own clinic. And so proxy is more the prescribing workflow component.
+Becca Bressler: Yeah. So okay, so and would we add. Not that we want to do this, but like if we wanted to allow an admin to do some of these things, do we add that from here for them? Like we trigger that for them somehow?
+Mariah Smith: Yeah. So if you go back into like your clinic view and take a look at one of your clinicians and just hit that edit. Go into one of your clinicians.
+Becca Bressler: Oh, one of the clinicians. I see.
+Mariah Smith: Okay, so hit that edit. It's one of the roles that you would have access to the clinician admin. Under clinician roles it would just be selecting that radio button and you can select that in addition to a prescribing related role, if that makes sense. So a prescribing role can also be a clinician administrator. A prescribing agent can also be a clinician admin. So it's more. Do you want to add those like.
+Mariah Smith: Oh yeah, Onboarding prescriber admin type functions on top of the ability to send prescriptions or queue up prescriptions.
+Becca Bressler: Okay, so let's say Meredith has like an administrative assistant who we wanted to do this with. And I would hit admin, I would put Meredith's assistance information in here. Meredith assistant though would still launch into dosebot through jot psych or would she have a different. Okay, great.
+Mariah Smith: Well, it depends on what she's trying to do. Right. So if she is queuing up prescriptions, she would launch do spot through jot psych because it's part of the prescription workflow. If she is trying to adjust prescribers demographics, for example. Right. Or add a new prescriber to the clinic, she would do that in the admin console. She would get login.
+Becca Bressler: Right. So, like, kind of like what this is. She would have her own version of this view, basically, is what you're saying, right?
+Mariah Smith: Yes.
+Becca Bressler: Correct. Okay.
+Marcus Irven: And she would log in by going directly to this URL. She wouldn't do it. Like, we don't have a single sign on or anything like that. Right. She'd have a separate email and password to do, Spot.
+Mariah Smith: Correct. Well, she would have access. To the admin console with the. With an email and login like you both have. Right. And then if she needed to queue up prescriptions, if she also had that proxy level role, she would generate.
+Becca Bressler: Okay, got it. So this is super helpful because we've heard, like, I actually met with a clinician who is a psych np but in Texas for stimulants, needs an MD to sign off on it.
+Mariah Smith: Yeah.
+Becca Bressler: And so she was describing a workflow with her EHR where she queues up a stimulant, basically sends an. It sends an email to her supervisor.
+Becca Bressler: Her supervisor gets an email and just like, approves. Is there like an equivalent workflow here?
+Mariah Smith: That's your prescribing agent role. So proxy can't do any sort of prescribing. Right. They can only queue up. Prescribing clinician can do everything. Prescribing agent lives in the middle. So your prescribing agent role can send non controlled substances independently on behalf of like a NPI holding clinician. And so they're actually sending that clinician's information on those scripts as well, but they cannot send controlled substances. So they can queue up a controlled substance, but it would need to be signed off on from their supervising clinician, which is the prescribing agent. That's the middle role, Correct? Yes. And so you would need to create a supervisor.
+Becca Bressler: Wait, wait, sorry, Marcus. I think you were talking about your muted. Like, I have a clinician who can prescribe controlled substances in like, one state. But like, in one state, one would need stimulants signed off by an md so that individual is a prescriber, but is also a prescribing agent. Or I feel like maybe I just misunderstood something.
+Mariah Smith: So there's probably what I would recommend. In this case, it sounds like they're prescribing across state lines, right? Yeah. Okay. In this case, what might be beneficial is to create separate clinics, or at least a clinic separate for that state that, you know, requires a different process. Because in every other state, it sounds like this clinician can operate as a prescribing clinician without any sort of restriction. And they should be good to go in that one clinic that is specific to the state where we have these higher, higher level requirements. You could set them up as a prescribing agent with that supervisor relationship.
+Becca Bressler: So it's actually the state in Texas, she can prescribe pretty much everything other than stimulants. So if she is a prescribing agent, That would mean that someone would have to sign off on all of her substance. Prescriptions. Right.
+Mariah Smith: There's only her control. All of her controlled substance.
+Becca Bressler: All of her control. But as a prescribing agent, she could still prescribe non controlled substances.
+Mariah Smith: Correct.
+Becca Bressler: Okay, let me talk to her a little bit more about exactly what her needs are. I think I understand what you're saying.
+Mariah Smith: It also depends on that specific state's requirements and what you kind of need to demonstrate that you have done. Right. Because the other thing that we could do is set up a supervisor relationship, in which case that that clinician's information also goes along with the prescription. And so if it's just like she needs to have a supervisor on file that goes with the prescription to show like this prescription was written under the supervision of so and so, assuming that they've also reviewed and signed off on it, we could do that in the system. So if you go into the clinic info tab quickly, Becca, the way you would do that, if you were to edit the autumn PC, if you hit that little edit button right over there. See select supervisors in that drop down.
+Becca Bressler: Yeah. So it says none.
+Mariah Smith: Is she the only. Oh, she's the only clinician in this clinic.
+Becca Bressler: She is the only clinician. So if there were two, I could.
+Mariah Smith: You would get another option. Correct. And you can only set one supervisor per clinic. So that's the other kind of limitation that we would need to work around here. But you could in theory set up a supervisor even on a prescribing clinician, which could potentially satisfy this requirement For Texas. We would just kind of need to understand kind of what the pharmacy would be expecting to receive in order to sort of check the box that a supervisor has reviewed this.
+Becca Bressler: Right. Because there's like the supervisor, like I've reviewed this, but this is being prescribed under the clinician. And then there's the, like actually the MD has to prescribe it. And if that's the case, it needs to be a proxy prescriber relationship. Okay, that makes a lot of sense. This is a role that would also need to be launched through Job Psych. Right. And it would be a clinician role, the supervisor.
+Mariah Smith: Any sort of workflow related to sending prescriptions would need to go through job site. If it's more. We're creating clinics, we're creating clinicians, we're editing demographics. That's what's going to happen in the admin console. So if it has to do with sending a prescription, it's always going to happen through the dosebot UI generated through job site.
+Becca Bressler: Got it. I think one of the things Marcus. And maybe this is for you and I to discuss is like, you know, obviously whether or not we have a role for them in jot psych that has a particular name. But how much information do we need to. What is there in for different information? We actually need to collect, to make. To allow them to be a supervisor, or is it kind of the same? Same clinician workflow. And then we could just go in the admin panel and be like, okay, you're a supervisor. We can manually do it for, like, the five people that want to do it. Yeah. So by which I mean, Marcus, this sounds like something we could, like, support tomorrow if we decided.
+Mariah Smith: Yeah.
+Becca Bressler: Charging you like a clinician's seat or something? Not that we want to, but
+Marcus Irven: yeah, I don't think it's too much work. I have a question. Is like, I think we would probably try to avoid giving this admin panel to too many of our customers.
+Marcus Irven: Is it everything that's in the admin panel is doable through the API?
+Mariah Smith: For the most part, yes. Even, you know, setting this supervisor relationship, there is an API endpoint for that within the Jumpstart suite. Yes.
+Marcus Irven: Great.
+Becca Bressler: Okay, cool. Great. I think that covers my questions. I think we have a good sense. Oh, I guess the only other question. Raya, when we did that walkthrough and you showed me how to review some of the error states.
+Becca Bressler: Yeah, I not actually have access to that.
+Mariah Smith: No, you don't, Becca. And that's on me. That was one of like the internal view items versus external. But you bring up a really good point, and I'm escalating it internally because, like, you all should have transparency. My opinion personally is that you all should have transparency into what's happening with that. In general, you if there's any sort of error that's happening on a clinician registration. So this is not a prescription transmission error. This is, you know, we're trying to add a prescriber to the sure Scripts network in Dospot. Those should be getting resolved same day by our support team or escalated back to you. I think what we saw with that one example was there was a delay in the resolution of kind of removing those change of vendor message types that was causing the problem. But in general, those should be a pretty quick turnaround time. And anything that you would need more transparency into should be getting escalated back to you from our team. And you should see that in your dashboard view for those registration error.
+Becca Bressler: Okay, so we want to add a couple of our own, you know, clinic admins to help with onboarding.
+Becca Bressler: How could we get them set up with the Salesforce course piece of this to submit?
+Mariah Smith: Send me their names and email addresses and I'll take care of them.
+Becca Bressler: So I'm gonna send you a couple of those just because I'm going out of town. So we're getting a couple people trained up on. On helping with this. Awesome, awesome. That I think covers. It's like so great having you. I'm like, do I have any other questions?
+Mariah Smith: That's what we're here for.
+Mariah Smith: And Marcus, I did get confirmation from Jaden. He looked at the logs and they are working in production. I can you a couple examples if that's helpful.
+Marcus Irven: It's so strange because I don't see them in my logs at all, but. But I'll. Okay, okay. I'll dig into that a little bit more then.
+Mariah Smith: Okay.
+Marcus Irven: Question. I have another question for you, since we're just keeping that in mind. Probably one of the manual things that we're still doing that's not automated is the initiating the TFA flow through here. Is there any reason why we can't? I know there's an API for it, so we're going to automate it, but it seems like it has to happen after the ID proofing. Is that like a common thing? When we get the ID proof in webhook, we can initiate the tfa and that's fine. Okay, great.
+Mariah Smith: Yep. That's the preferred workflow. So you're going to want to look for that IDP success status and then you can trigger the TFA activation.
+Marcus Irven: Perfect.
+Becca Bressler: What would you recommend, Mariah? Because what we've observed is people have to refresh their browser in order to see the notification.
+Mariah Smith: Okay.
+Becca Bressler: Yeah. So, like, we've been doing it manually where, like, when we send it, they have to refresh to see the notification. Is there anything we can do about that? Or if they, like, relaunch it from Jot Psych. Should that take care of the refresh?
+Mariah Smith: It might be more relaunching it, like generating a new SSO in order to get that to populate. Because I wonder if that might fix once we have, like, the push notifications, like the actual web hook functioning the way that it should. So it sounds like we're listening to the API notification endpoint for right now. Does that sound right? Like, how are they getting the notification right now if we don't think the web hook is working?
+Marcus Irven: They're doing it through dospot, like through the bell icon. We're not pulling that into Java.
+Mariah Smith: Okay, you mean in the bell icon? In the actual ui. Interesting.
+Marcus Irven: Okay, it just. It doesn't like, if we initiate the tfa, they just have to refresh the webpage in order to see the notification. That's I think what Becca's saying.
+Mariah Smith: Got it. Okay, let me ask around internally if that's like an a known expected thing. Seems really strange to me. Let me do some digging and circle back with you guys.
+Becca Bressler: Okay. Amazing. Awesome. That is it from. That's it from us, I guess. Mariah, maybe to circle back. Sorry. If we address this, if our user can't locate the pharmacy in her. But I can confirm it on my end. Is there any workaround? Are they going to be able to prescribe from that pharmacy or not until this gets resolved, like the search function.
+Mariah Smith: I don't know that there is a workaround until we can find a way to address the searching issue, but it seems like a bit like. Like I said, you were the second client that's brought this. Up this week, so that makes me feel like there's a bigger issue at play here, and we should be able to kind of illustrate the urgency and the. The criticality of this. So if you could do me a favor, Becca, once you get that ticket created, send it my way, and I'll get it prioritized with. With the right teams.
+Becca Bressler: Okay, great. And then I'm sending a change of vendor request, which just clinician name, email address, for sure. Script to have contact information, and I think that's it. Name, email, phone number.
+Mariah Smith: Correct.
+Becca Bressler: Yes.
+Mariah Smith: We can pull everything out on our side.
+Becca Bressler: Amazing. Okay, thank you so much.
+Mariah Smith: Yeah, happy to team. Definitely. Don't hesitate to reach out for anything else. I'll keep an eye out for that change of vendor. I'll keep an eye out for that ticket and those additional folks that need the salesforce access. Becca. And then I'll do some digging on the refresh issue on our side. And then Marcus, let me know how things go with the webhook and if you're still having issues, because we can set up some time and bring Jaden into the conversation if we need to do some more, like, technical troubleshooting.
+Marcus Irven: Okay, perfect. Thank you so much.
+Becca Bressler: Great. Thank you so much, Mariah.
+Mariah Smith: Thanks, everybody.
+Becca Bressler: Bye.

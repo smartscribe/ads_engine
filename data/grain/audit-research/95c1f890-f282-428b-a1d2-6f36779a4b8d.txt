@@ -1,0 +1,96 @@
+Lee Harrold: Hey, Marcus. How's it going?
+Marcus Irven: All right. How are you doing?
+Lee Harrold: Good.
+Marcus Irven: Let's see. What happened back there? She forgot.
+Lee Harrold: Let me see. Oh, yeah, yeah. She said she'd be a little.
+Marcus Irven: A little.
+Lee Harrold: She let us know.
+Marcus Irven: Okay, got it.
+Becca Bressler: Marcus, I forgot I invited you. I pinged Lee and said I was running a couple minutes and then forgot to ping you. I apologize.
+Marcus Irven: All good.
+Becca Bressler: Hello, everyone.
+Lee Harrold: Hey, Lee.
+Becca Bressler: So I want to talk about the. We want to talk about the HR chrome extension and just kind of the work that's left to be done there before we can start, like packaging and offering it as an add on. I have UX thoughts based on what I've seen, but I know you have also identified issues that you've. You've noticed that you want to kind of button up. So can we start there? Actually, maybe you can share your screen. And I would love for you to prioritize this after you're wrapping up what it is you're. You know, the patient migration stuff that you're looking at. So, yeah, let's just.
+Lee Harrold: I don't remember if this is in simple practice or in therapy notes, so we're gonna.
+Becca Bressler: You said therapy notes over the message. The issue that you surfaced, but.
+Lee Harrold: Sweet. Whoa, look at that. Exciting and fun.
+Becca Bressler: Marcus.
+Lee Harrold: Okay. I think it might be simple practice. Let's find out. Maybe this is a note. Yes. Awesome. This has things in it.
+Lee Harrold: So what I think is going to happen is it'll find. Oh, you know what? No, I think.
+Lee Harrold: I think it must have been. But it's looking for word. Perhaps the div surrounding the free text area and in. Oh, no, these also don't have. So there must be a subset of. Those. Seem to do a pretty good job. But I think.
+Becca Bressler: Wait, Lee. Sorry. The example you're showing me, the names of the jot psych sections don't match the names on the EHR sections is what it looks like. I don't see a Canadian summary section unless I'm missing something.
+Lee Harrold: Is that true? Yeah. Are we assuming that users are going to create templates that match perfectly?
+Becca Bressler: Yeah, I think that that's what we should expect for V1. And we can make sure they know that, you know, as a part of the. The feature. But I think that that is all that needs to be true for us to. Or that. Yeah.
+Lee Harrold: Okay. This is. This is kind of weird that it pulls rich checkbox instead of plan, but that's pretty minor. And if we wanted to, we could remove this mapping section. Yeah, definitely. That would reduce the possible things that could happen.
+Becca Bressler: Also, if we are for, you know, V1, expecting that the sections match each other, is there need for. Yeah, I would get rid of all the section mapping stuff.
+Lee Harrold: See what I was thinking. Yeah, no, we can. We can drop all the section mapping stuff if they're going to do we need any though, like delivered successfully.
+Becca Bressler: Presumably if the names are the same, we can expect it to be delivered successfully.
+Lee Harrold: Yeah. The only thing that's lost is the click to scroll. Yeah. Whatever. Speed gain is it?
+Becca Bressler: I mean, that's. That's cool. I think we could just package it a little bit differently. So. Yeah, or just show that, you know. Um.
+Lee Harrold: But yeah, I'm on board with dropping section mapping and then this sort of like report situation. I don't know. I feel like we don't actually need this box at all.
+Becca Bressler: Right. I think it's smart to have something that people can click and it'll help them jump to the sections, but.
+Lee Harrold: We could move that to these sections themselves. So if a user we could add little mapped badged into these.
+Lee Harrold: If the user wants to click on that badge that could get us click to scroll. Does it make sense?
+Becca Bressler: What would it look like though?
+Lee Harrold: There would be a green circle Because I just think it
+Becca Bressler: might not be super intuitive that that's like you have. I think actually it's like click to scroll and then you see all the sections and I like it. I think it's nice to have at the top is is my view if we're going to do it at all. I don't know that it would be intuitive that like agree. You know a dot next to it would take you there.
+Lee Harrold: Yeah but something so yeah we could keep this and then have it only contain. So let me lay out our options or options are keep the swim drop down. It will never say like need review or anything. It'll just be green and glowy and happy and instead of deliver successfully we'll just have a click to scroll. All these guys. That's one option. A second option is we just cut this entire drop down and then we don't worry about click to scroll and then allow users to find the pieces visually because we'll assume they will have lined them up.
+Becca Bressler: Yeah, I think I like the first option. I think giving enabling people to do that. You've already built it so I don't think it's like. So I guess does that mean if the section names are the same this is like ready to go? Basically. Yeah.
+Lee Harrold: Okay. I think like a tutorial would be the only other thing that we want to put together. There's a. The boilerplate template that we use to build this Chrome extension has a gallery based tutorial system already. So the lift on that would be super low. We would just need to take a couple of screenshots. So we could put that in here if we wanted to. But yeah, if we didn't want to just pulling this stuff out would be the only thing standing in our way. And then plus whatever UX updates you have, that was it.
+Becca Bressler: Those were the kind of big updates I did think. Wait, can you do me a favor? Can you click those like check next to the copy all button. Select. Okay, got it. Cool. Great. Marcus, do you have any thoughts? Questions?
+Marcus Irven: Yeah, well the other thing we have to figure out is the entitlements side of Right.
+Becca Bressler: What.
+Lee Harrold: Entitlements do we have door at this.
+Marcus Irven: I think it's just going to be binary. Right. Either you have access to it or not. We're not doing any, or are we giving any free. Is there any usage tracking here that we want to do, Becca, where everybody gets some number and then you. You're muted.
+Lee Harrold: How is this being packaged? Like is this. Is this. Is access to the EHR thing, its own thing or is there like a count of. That's just what you said. I just repeated what you said.
+Marcus Irven: You're muted still.
+Becca Bressler: Becca, it's a good question. I need to do some research. Like Chrome extensions, can you. Can they be like monthly charges or it's. Or is it usually just a one time payment for. If you're gonna.
+Marcus Irven: It's not gonna be through the Chrome store, it'll be through our own entitlement system. Right. It's an add on and then we would. If they're logged into their account and we could, we could just check to see if they have it or not.
+Becca Bressler: Got it.
+Becca Bressler: So like theoretically someone could download it, but they're not gonna be able to like access their job site account.
+Marcus Irven: It's like do some for free, some number of copies or what is that experience? Like if they don't. If they haven't bought it, I guess you'd want to like tell them to go buy it, you know, with instructions, you know, like all of that's. Yeah, the whole.
+Becca Bressler: Right.
+Becca Bressler: I mean, it's a good point. I can imagine people wanting to try it before they.
+Becca Bressler: Well, I don't know if we show them a video,
+Marcus Irven: I mean do we included the trial? Do we. You know, all of those things that we got to sort out. But I think it should be like technically fairly straightforward. Right. You're already logged in, such as an API call to get the entitlements and then you know, whether you have it or not, that social takes really the customer experience that we want around it.
+Becca Bressler: Yeah, yeah, let me think on that a little bit. I'm sort of newly jumping into this add on but I guess the to do's there if we decide to show it to. If everyone say can get 20 notes for instance, unless they buy the add on, what we would need there is just like whatever the component is, that's the usage tracker, the gate, which I know are like front end things. And then the decision though impacts how you build out the intent or that's fairly simple. But like, yeah, you're not super blocked by that by not having yet.
+Marcus Irven: No, it's really just the front end. The Chrome extensions experience, the customer experience that we need to start out.
+Becca Bressler: Okay, cool, great. Well, yes, I will get to thinking about that and then that's probably separate conversation to have and include Alfred, But. Yeah.
+Marcus Irven: Are we shuttle the name we're going with?
+Becca Bressler: That's a great question.
+Lee Harrold: I don't have position, but I am totally fine with changing it.
+Becca Bressler: You have heard opposition, Lee?
+Lee Harrold: I have heard no opposition, but I also haven't heard any opinions.
+Becca Bressler: How did it come. Like, how did we. How did we. Did you just come up with that?
+Lee Harrold: I. I came up with it because I figured we were shuttling notes across and when we were doing dropdowns, it took a really long time. And so I built this cute little like animation and made it space themed to fill the space.
+Lee Harrold: But since we're not doing that anymore, I mean, we're still shuttling notes from one section to another. But like the space theme doesn't. There's, there's. There's nothing doing space theme related things.
+Becca Bressler: What's your view, Marcus? I don't have a strong view on these things generally.
+Marcus Irven: I mean, to me it's a little like if I hear Josh shuttle. It's not. Doesn't speak to me like what it is.
+Becca Bressler: Yeah, it doesn't. Yeah, that's.
+Marcus Irven: Yeah.
+Lee Harrold: We should come up with a name that immediately communicates jot extensions or.
+Becca Bressler: Yeah, not everything needs to be like, clever too. Like it could be John.
+Marcus Irven: Like, I think, you know, it doesn't have a job. Like, at one point I think Nate was like, ja is like if we have a, you know, special sauce. But we're not consistent about that. Like, you know, to me, this is not really that. Like there's not. Well, I guess there's a little bit of that. I don't know. I don't have a super strong shuttle. Doesn't really. To me, like, it's not very clear, like what, like anything.
+Becca Bressler: But yeah, I hear that.
+Lee Harrold: What, what, what have. What have people like when we talk to Eeyore about this or really anyone else? Like what. What language? I remember. What language did they use to describe the process of moving notes between ehrs, copying and pasting?
+Becca Bressler: But that's okay. We don't have to like decide that right this second. Marcus, like, I don't know. Is there more you two need to discuss about this right now? Because Marcus, I would love to talk to you about like Alfred's time, that kind of thing for. For this next add on. So if you, if you guys are done, Lee, we can, we can let you hop off.
+Marcus Irven: Okay. I mean, I think the entitlement stuff is straightforward technically, right, Lee? There's nothing strange there. No.
+Lee Harrold: Are we. Do we know yet whether it's an all or nothing thing or we want to add usage tracking to this?
+Marcus Irven: Well, that's what Becca needs to figure out. Cool.
+Lee Harrold: Yeah, keep it posted on that. I'll go do the UX work that we discussed, and then I'll let you know when it's done.
+Becca Bressler: So I know the way that the sprint was originally scoped out. Note refactoring work. I actually don't think that's the right word, but note stability stuff was meant for this. Week. I don't know. Do you know if that's like underway or at all or.
+Marcus Irven: No, no, no. Well, we said it was gonna be next week. I don't remember when we had this conversation or where if you weren't there, but definitely Alfred Jackson and I talked about it.
+Marcus Irven: And so it's going to be this and then forms and then next week we were going to just clear the way that it's just recorder and no stability. Just like. No, nobody bother offering us. It's. We're doing those things. That's what we.
+Becca Bressler: I love that. Do you think this is the type of thing, you know, Alfred has like components that he's already built for these other add ons. Like can Lee do front end work on.
+Marcus Irven: Yeah. Yeah, I think so.
+Becca Bressler: Okay, great. That's. That's great. So then maybe we can just once he's done with the patient, stuff like this can be his sole focus and I can get answers to him about the front end stuff.
+Marcus Irven: Yeah, that'd be great.
+Becca Bressler: Okay, cool. Any other thoughts from you about. About this? Obviously there are a lot of like questions being answered around rollout and etc. But.
+Marcus Irven: Nope, that's. Yeah, I mean, you know, we'll figure out the price.
+Becca Bressler: Yeah.
+Marcus Irven: Is it bundled with other things? Is it standalone? Is it. Yeah.
+Becca Bressler: Yeah.
+Marcus Irven: Okay, cool.
+Becca Bressler: Thanks, Marcus.
+Marcus Irven: All right, talk to you soon.
+Becca Bressler: Bye.

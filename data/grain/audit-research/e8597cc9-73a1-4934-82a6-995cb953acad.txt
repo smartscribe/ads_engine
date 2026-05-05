@@ -1,0 +1,133 @@
+Christopher Hume: Stuff so we're all sharpens iron situation. Customer support. Sharpens customer support.
+Garden Gioia: Oh yeah. I thought overall it went great. Like she was so. She seemed so pleased once we started that out. I thought getting her to. Getting her to figure out how to share her screen was probably the hardest part of it all. But you did it. You did it. That was awesome.
+Garden Gioia: And then, yeah, we got there. I think that hands on learning is like really important for the, the customers, especially if they're not necessarily like technically inclined. You had made a good point afterwards about probably having brought up E prescribe to her.
+Christopher Hume: Yeah, that was a big. It's not top of mind for me because it's such a new product for us.
+Garden Gioia: Yeah.
+Christopher Hume: Keep telling you guys. We're changing so fast, even I sometimes are like, wait, what do we sell? And so I think kind of the learning there is. Yeah, it went. I thought that was actually a very good call. I thought it was a good one for you to be on Joya because you got like the, you got the full experience when she started doing the green flicker thing, which is like I get. Sometimes they think it's the tab and they start like being confused. And then she did it. I was like, perfect. Joy gets to see the full experience. Yeah. I think what I could have done better or something. I want to flag that you didn't see Joya is this morning in the bug and product feature requests I tagged like, hey guys, it's kind of ridiculous that you can press a new section and that button doesn't allow you to create a custom section. Like that's so confusing.
+Garden Gioia: Yeah.
+Christopher Hume: And then so that was important. So I'm glad you saw that. And then two. Yeah, the thing that I need to be better at and you guys will probably be better at because you'll be more focused than I am, is that when we go on these calls, we, we're there to support the customers, but any time we can offer them more value increase, kind of the monthly payment that we receive, we don't want it to seem pushy but like, we definitely want to like strike while the iron's hot. Because she paid for a full year of job site. She's clearly super high intent and I know she's a prescriber, like huge whiff that I didn't just try and sell her on an add on.
+Christopher Hume: So you live in, you live and will improve next time. But that's kind of what I took away there.
+Garden Gioia: Would it, would it make sense to like send a follow up to be like, hey, yeah, yeah, that's something.
+Christopher Hume: It probably does make sense. What I'll actually for you guys. Yeah. If you're like, oh shit, that was actually a perfect person to do. I think a follow up email checking in couching it is like, hey, just want to make sure everything's working. Also realize this might be a valuable feature for you. Let me know if you want to learn more what I'm going to do. Since I have my, my fingers in all of our customer facing pots, here is. I have Emily, one of our SDRs starting an inside sales activity today. So I'm just going to make sure Gadia is on her list. So Gania will get a call either this week or next week. Hey, have you heard of our E prescription?
+Christopher Hume: And that's how we'll handle it.
+Garden Gioia: Sweet. Cool.
+Ryan McAnelly: Perfect.
+Christopher Hume: Okay, so any questions there and then I guess. Ryan, I know we haven't had our meeting yet, but any thoughts or anything about our walkthrough that you have questions on or you didn't realize until we crept this morning?
+Ryan McAnelly: No, just the. I think the biggest thing was the. What was it being able to invite the users to see the different charts. I'm actually walking through and seeing that. I'm excited to hear you pitch the prescription thing here. You talk on that.
+Christopher Hume: Not letting someone else get off the hook.
+Ryan McAnelly: That's right.
+Christopher Hume: No way. I got away, but not whoever this guy is.
+Garden Gioia: Mitchell.
+Ryan McAnelly: Mitchell. Yeah. No, I'm just excited to see you run through that list basis.
+Christopher Hume: Cool. Okay, let's go through front. Right. I realized that you're the, the morning guy, not the afternoon guy. So sorry that I, I was like, hey, could you do just do a draft of front this evening? But I haven't gone through your guys responses yet. So we'll just go through together and see whatever drafts we have and talk through them and just like pause for a moment. What I kind of see like longer term how this role would be. At first it would be customer support team members writing draft responses, me reviewing and launching. Eventually what we want to move this to is that you guys would become those customer support experts. So instead of you writing, me reviewing and sending, we'd probably, we could probably build an AI tool that would automate 80 to 90% of these responses. You're the human in the loop to make sure we're not. You guys probably aren't as locked in on the AI memes, but we want to make sure we're not turning into a slop cannon, just sending out like junk to customers. So you guys would be the triage or the sanity check to make sure that we don't become a swap cannon. And then we could move you to higher value activities such as outreach, meeting with customers, upselling more that customer success motion. Yeah. I just wanted to let you know that certainly for the next week and a half, during this trial period, while you're training, while you're learning and seeing if this is a good fit, you're going to be doing everything by hand. But I do want to flag that we are an AI Company. And these are pretty standard activities. You kind of see the same sort of issues come up every day. So the idea would be to automate this and have you guys sort of be the human in the loop like that. All right, let's go through front here. Okay. So, Ryan, after our meeting this morning, what do you think the answer is?
+Ryan McAnelly: Oh, man. Would it. Would it be. We can generate that through nodes, right?
+Christopher Hume: We would do the document generator.
+Ryan McAnelly: Okay.
+Christopher Hume: And so Joy, are you familiar with our document generator?
+Garden Gioia: Yes, I'm familiar. But yeah, tell me how this, like, connects with this.
+Christopher Hume: So she. Kira is like, hey, what's going on? I need a work lead extension.
+Garden Gioia: So.
+Christopher Hume: People are so funny, right? Like, it's just such an interesting. This is complete aside. But like an interesting, like, mentality thing, how people respond with chatbots.
+Christopher Hume: Like, it's so, like. Well, we could actually write you one until March 5th. March 6th. We can't do that.
+Christopher Hume: There's such an interesting, like the details people provide when they are interacting and they don't know how people read it. But that is for now under that stuff. So what happens here, Joya and I was showing Ryan this this morning, is if you go to a note, you can push this document gen.
+Garden Gioia: Oh, yeah. Huh.
+Christopher Hume: Oh, and you can generate anything. It's like super flexible.
+Garden Gioia: Brilliant.
+Christopher Hume: Yes, we can. So, you know, just be like, yep, of course you can use the document generator, the bottom of any notes, just. And then you would. We're going to send a screenshot with an arrow pointing to it. But that would be the way to handle that one.
+Garden Gioia: And does that. Are you able to generate it based on not just that note, but also just like more of like context, historical context.
+Christopher Hume: And, you know, that was something that we were working on. I. I think right now it's always going to be the most recent note.
+Garden Gioia: Okay.
+Christopher Hume: You can also generate notes from. Jesus Christ. It changes every time I come here.
+Christopher Hume: But if you go to a patient overview, you can also generate a note directly from there.
+Garden Gioia: Oh, great.
+Christopher Hume: I was always under the impression that that took all context. I think it still only takes the most recent note. But that's something we're working to improve. That's a great question, Joy.
+Garden Gioia: Okay. Okay, cool. But that's a great. That's a great feature.
+Christopher Hume: So telehealth phone in person. Corrects the one thing I would. Well, yeah, works. What did it work with? And so correct, correct the only thing and outskirts. Ryan, pop quiz. What are we gonna do for handouts?
+Ryan McAnelly: That would just be the document generator, right?
+Christopher Hume: Oh, yeah.
+Ryan McAnelly: Okay, cool. I just didn't know what she meant by handouts.
+Christopher Hume: Yeah, people often have like training literature or like homework for their clients.
+Ryan McAnelly: Gotcha.
+Christopher Hume: Then documents, telehealth. And phone. The phone. Like we. I think we're just going to say yes. We probably need to, like, she'd have to have it on a speakerphone with her computer running.
+Ryan McAnelly: That's what I thought.
+Christopher Hume: That'd be the one tweak I'd say. And the other thing is, if she's using an interpreter, I would probably do a cop out here and be like, yep, we should work with an interpreter. However, I would recommend setting up a one on one session with our team. No, we want to stay away from too many meetings. I would just say that if someone's. I actually don't know what would happen if there's a translator in the room. So if like. Because Jaws like is going to understand it in both languages. What I'd probably recommend is that if they're going to have an interpreter, they turn off name, name redaction. Because the issue is often like, It gets confused between too many voices and it doesn't know who's talking about who. That would be my recommendation there. That's a really tricky one. So I, I like it. Yeah, we're almost there. I'll tweak it and send it. Yeah, we need to think. I think this is a good one. Look at. I need to think about how we want to deploy you guys in terms of like, do you, you want. Do we want to offer meetings immediately because people like that, or do we want to try and protect your time? I think you might have the right instinct here, Ryan, and I think I've seen you do it too, Joya. In just like offering people meetings, the limiting factor there has been that just like don't have time for all these customer meetings. But the whole point of this role is for you guys to be close to the customer. Customer, make them feel loved, identify upstyle opportunities. So I think this is the right instinct, but we would have to. And this is not on you. I'm just pontificating. And none of you can leave. So I'm sorry, we have to come up with a way to track like, the value of the time and like, what's the best use of your time. So I'd have to come up with some way of like, okay, you know, Ryan and Joy have met with six people last week. Was there any change in outcomes compared to if they just emailed them? Just because you guys will see these meetings very quickly. People will take the time. If you offer it, there's a payment. Oh, my God. I'll deal with that one. So payment error regarding the subscription. How do I fix it? What do you guys think we should do here?
+Garden Gioia: There's a payment error regarding the subscription. How do I fix it?
+Ryan McAnelly: I made a note for you to check in the back end.
+Christopher Hume: There we go. Yeah. So that's going to be the second thing we do. I think the first thing you're going to want to do and you'll be able to do this is like, let's just see if jugdeep.
+Ryan McAnelly: Okay. I searched his email. I didn't search his name.
+Christopher Hume: Oh yeah. People love using multiple emails or sometimes multiple names. Like they'll misspell their name or they're misspelled about their email. Once I signed this woman up for job site, this was like and kind of me just rambling. But no one can leave. So the this woman had in her Google Chrome, her autofill email was misspelled, but she was going through her entire life.
+Garden Gioia: Wow.
+Christopher Hume: Anytime she had to put in her email, just putting in the wrong one.
+Garden Gioia: Wow.
+Christopher Hume: I was like, oh. She's like, I can't log in. What's wrong? It looks like that's not your email.
+Garden Gioia: Oh, wow. Good catch.
+Christopher Hume: So jog deep. Ooh. Oh, my God. So we found out he has two accounts, which is not good. But there's also something wrong with his stripe, so you were going to need to elevate to me anyway. Ryan. Incomplete. Expired. Freaking shoot me. I'm just going to look at stripe. We'll see what's happening. Like, I don't even know what this means.
+Garden Gioia: Cancel. Wait, failed. Succeeded. Canceled. Huh.
+Christopher Hume: It's so interesting. He's clearly sucks. So what's going to happen here is I'm. I was like, you have to ask. Like, this man has four payment methods in. How can this. Like, that's like, definitely a failure of how we have stripes set up. Like, there's no way it should, like, go to his MasterCard and be like, oh, decline. And not try the other ones. Like, he's uploading payment methods for a reason. Interesting. I wonder.
+Garden Gioia: Okay, so now you're in HubSpot.
+Christopher Hume: You guys don't need to worry about HubSpot. Sorry, this is kind of me going. I was just trying to figure out, like, where I was telling Ryan this this morning. All of our comms should be tracked in HubSpot. Just like, not your guys as yet, but all the sales team, customer success team. And so I can see, like, oh, we actually called this guy like 16 times. We. I was trying to see if this was like a reactivation situation because it looks like he was using us. Then he stopped and he reactivated.
+Christopher Hume: And I was wondering if we contributed to that or if he's just doing it himself.
+Garden Gioia: Gotcha.
+Christopher Hume: He canceled accounts twice because they're too expensive. Okay, so the learning here is that you always pull it back up to what's helpful for you guys. The learning here is we want to always make sure you search by name and email and see if there's more than one account. Because typically when someone's like, I paid and I can't log in, it's often just user error. In this case, there's something going on in stripe you'd have to elevate to me, and I'm going to have to elevate to Marcus, who does. Who's like, completely redoing our stripe engineering architecture right now. Because this is the second time this week I've seen someone go expired. Like, I don't even know why that's a. It's an in perpetuity subscription. I don't know why there's an expiration date. Okay, pause, pause. Ryan, you look a little confused.
+Ryan McAnelly: I was going to ask. So if Jack, deep in that situation, if he was recording certain. Some sessions unknowingly on one account, someone another. I think you may have touched on this before. Is there any way to merge those so they can all. Okay, so it's all.
+Christopher Hume: Not if it's across account.
+Christopher Hume: So if the. And if people start giving you a. We always like to say in that situation when they're like, oh, well, I need to create a new account because I'm leaving my clinic. Like, unfortunately, the HIPAA rules, we can't change the email associate with your account or move notes between accounts. That said, we can move over your templates and all your training so you can keep that, but we just can't move for HIPAA reasons. They really freaked out. We could figure something out if they get written consent from the patient and ask. For it. We probably have to figure something out technically. We'll worry about that when it happens.
+Ryan McAnelly: So for this one, I put a note in. I didn't realize it. It didn't come through to you guys, but I was curious. Would. Is this a browser issue that they have, maybe that they're using? They need to use a different.
+Christopher Hume: I have no idea. This is one you'd have to flag for. We have to just flag to the end. You'd flag to me. I'd flag to the engineering team. Eventually, you guys are going to get better at understanding. Okay. This has to go to crispers, and this just goes directly to the engineers. I have no idea. This is our email. Verification is a new requirement, so I would guess just like, technically we mess something up with my instinct. Let me just. Nate has a meeting. Intend this. I need to send him something. The other issue with Edith, just for your background, is that she scheduled time with Emily, one of our SDRs, and is just like. Is very technically challenged. She's been having a ton of technical issues getting her account set up. She signed up with the wrong email. She's done. She's had a lot of trouble. But there also could be some user error here that we're just not aware of. Yeah, so the. What I would just say here, Ryan, before we elevate to the engineers, is ask her for a note. Hey, like, could you share a specific note where this was an issue? Just so, like, we have something to share and where.
+Christopher Hume: Oh, go ahead.
+Garden Gioia: Where does she, like, click or unclick the HTML an option?
+Christopher Hume: So I would say the learning from that one, just before I show the HTML stuff is like, always see how much information we can get first, because, one, the engineers are busy. Two, they're going to be very slow to respond to you because they're very slow. They're fine. To me, like, I basically have to be like, okay, let's sit down and do this together. Just because they have, you know, 10,000 things, they're building the product. When you add that initial data request, one, allows us to quickly respond. Two, makes them feel like we're taking it seriously. Three, a lot of times people just don't respond. And if they're not going to, it's clearly not that pressing of an issue, then, yeah, Yeah, makes sense. So copy paste settings if you go to a note.
+Garden Gioia: Gotcha, gotcha, gotcha, gotcha. Okay, cool. Sweet.
+Christopher Hume: And like again the thing to flag here is we pro like something changed. We don't really. I don't really know what but there was some sort of change recently where people have been complaining about copy paste more but interesting. Let's go. Delete. Let's go. Never a good sign when someone's front ticket is just Chris. Very scary. I like actually cannot.
+Ryan McAnelly: Yeah, I ended up saying like, hey Melissa, if you could just send us a screenshot here. Our team labels this or whatever. See if she can show us what she's seeing.
+Christopher Hume: So did you see it actually looks like she's able to share a screenshot in the chat. It's like PDF.
+Ryan McAnelly: Oh, okay.
+Garden Gioia: No, still processing.
+Christopher Hume: Yeah, so it looks like 2:17, 5pm ish. She had an issue with her note over. Her name is Melissa Kidby. Does she know my name?
+Garden Gioia: Does that happen often in front?
+Christopher Hume: No, but in my personal. There are some customers once they get to know you. If you make the mistake of giving your job site your personal jot. Psych email, I'll get like all caps like Chris, I have a question as the subject and I'm like. Unfortunate. So. There's 2:17 4. Just. Where she is. She's in Oregon. So 4pm is 5pm is like 8pm Yeah. 3:17, 8pm. Looking good. Clearly that's 218. Whoops. Yeah, so I. There's no clear transcripts unless maybe she had an issue earlier in the day and it just spent all day trying to generate it, but that doesn't work. Go look at the notes. You can tell our admin panel is built by engine engineers who don't use the admin panel because you can't see the two sides at the same time to check dates and stuff. 2:17. So this looks actually like 7:37pm this is the note.
+Garden Gioia: Yeah, it's processing. It's an intake too. So it's probably a lot of information.
+Christopher Hume: Transcripts. One. Default note. Let's see.
+Garden Gioia: Transcript there.
+Christopher Hume: Yeah. So this is. I mean, the learning here is you look at transcripts, see if there's one that clearly didn't get turned into a note, and then you can look at notes and see if one's like, stuck in purgatory. This one is clearly in purgatory. And we're just going to need to elevate to the engineers, like, hey, hey, whoever's on duty, we have this note. Stop stuck in processing. Can you generate it or see if something's wrong? And that should be an easy activity for them.
+Garden Gioia: Okay. And so we would just like put that in customer support. Customer support. And like tag some specific. Specific or just.
+Christopher Hume: Yeah, because every week there'll be someone on duty. So this week it's Marcus. That's why he's been getting the brunt. I think next week it's supposed to be Lee, but he switched with Alfred, so I think it'll be me and Alfred next week.
+Garden Gioia: Okay. Okay. And wait, can you go back to how you went, like, how you got to this panel? Yep.
+Christopher Hume: So you just look up a person.
+Garden Gioia: Yeah.
+Christopher Hume: First you have their notes and you have the transcripts. So you just go see more transcripts or see more. And then if you want to look at their templates, you have content.
+Garden Gioia: Right, right, right. Okay. Got it, got it, got it. Okay, thank you.
+Ryan McAnelly: And. And from. Sorry, from here too. Like in. In the templates, you can go in and see what they've trained the AI to do.
+Ryan McAnelly: Can you tell me that real quick again?
+Christopher Hume: Yeah, yeah. If you go templates. So one, if you want to. Like, This is not super user friendly, but. So this is your content. You see all the templates. If you want to look at the training, you can click on one and open it up like, hey, this is what reviews as it generates this section. No way to go. Go back. Which is crazy. If you want to share this with someone, you go content templates, see more and you're like, I want to share the WBMH template with someone.
+Christopher Hume: Then you can copy it to someone else's account or make it the template for an organization. You guys don't need to worry about that right now. I won't have you sending templates for a little bit.
+Garden Gioia: Okay.
+Christopher Hume: But just so you know, some of the functionality.
+Garden Gioia: Okay.
+Christopher Hume: Okay. So let me just make sure Nate is chat is meeting in two minutes. So. Any questions, thoughts, anything that I can help you guys with today as we kind of wind down the week?
+Garden Gioia: No, like more of just like getting exposure is super helpful.
+Christopher Hume: Yep.
+Garden Gioia: So will I put. So like, what's the. So like Ryan did drafts this morning.
+Garden Gioia: Could you do a crack.
+Christopher Hume: Let me check my calendar. Actually, did you do a crack of drafts and just clear out what's in there by kind of early, but 11:30 your time.
+Garden Gioia: By 11:30 my time. Let me double check my calendar. Yeah, sorry.
+Christopher Hume: Checked. Oh, it looks like you actually have something. Oh yeah. I think that should work because you're. Yeah. So if you could just take after your 1:30 mountain time just to go through and see anything that doesn't have a draft, just write one and I'll. And I'll review everything at 2:30 and provide feedback.
+Garden Gioia: Sweet.
+Christopher Hume: I'll be. I was telling Ryan I'm headed out for a wedding, so. Excuse me. I'll review everything at 1:30 my.
+Christopher Hume: Yeah, when you finish. When you finish by 11:30 your time. I'll review from 11:30 your time to 12 and just share any feedback over slack. And then I'm headed out to my time today. So we won't have a noon check in.
+Garden Gioia: Okay. Okay. Sweet.
+Christopher Hume: Then as I was. Now we're overtime here. As I was saying, this was the kind of customer support training week. Next week I'll want things to be a little bit more execution focused. So we will be hopefully doing a little less review on those messages and getting them all out the door during our meetings. Probably be assigning tasks to you, whether it's developing jobs like videos, jobs like articles, jots, like message templates, or calling customers as they sign up. So you guys can really kind of dive all the way into this like customer success, customer support, work stream and just make sure we can really. It's a good fit for kind of. You're liking it? We're liking the outcomes. Have a really easy conversation at the end of next week. Joya, I scheduled time with Ryan for Monday for like the midweek or mid trial check in. Could I just throw something on your calendar for Monday where you're free?
+Garden Gioia: Yeah, yeah, please.
+Christopher Hume: Perfect. Let's do o' clock. So three o' clock your time.
+Garden Gioia: Cool, that's great.
+Christopher Hume: Okay. Any. Go ahead.
+Garden Gioia: No, no. I've got an 11am My time. So one o' clock your time that I. I can easily move around. So if that's any better.
+Christopher Hume: Nope, 5 is perfect for me.
+Garden Gioia: Okay, cool. Sweet. And then I'm out of the office. Thursday, Friday, next week.
+Garden Gioia: I can do this on Thursday, but not Fridays, but just.
+Christopher Hume: Right. All good. All good tracking. If you. Yeah, just make sure you guys get your hours in by 5 o' clock today. I'll make sure everything's approved for the week. I'll let you know if I have any questions. And we should be ready to rock on Monday.
+Garden Gioia: See?
+Ryan McAnelly: Cool.
+Garden Gioia: Awesome.
+Christopher Hume: Thank you guys. Appreciate it.
+Garden Gioia: See you guys.

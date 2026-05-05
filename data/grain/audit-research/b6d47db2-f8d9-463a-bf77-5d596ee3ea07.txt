@@ -1,0 +1,309 @@
+Lee Harrold: Alex here too.
+Alexandra Mae Granada: Yeah. Hello. Good afternoon.
+Lee Harrold: Afternoon. Okay. You have a bunch of templates that we have to, like, make actually work.
+Monica Dyer: Yes. Okay. But something weird just happened may not be your territory. But yesterday I created an encounter while. Talking to. The video crew. And my names are getting all mixed up. I'm meeting with everyone. And to kind of, like, try it out to demonstrate for today. And then I had the encounter today. With the patient at one, and I just got off. And the recording for my encounter today is not there.
+Lee Harrold: So I'm wondering if this through the telehealth, like the job site telehealth?
+Monica Dyer: Yeah.
+Lee Harrold: I fell out of that. Sorry.
+Monica Dyer: Oh, it's okay.
+Lee Harrold: Yeah, let me. Let me see what happened. I was. I was so scared. I jumped out. I gave up.
+Monica Dyer: Oh, you, like, run off to find someone who does this part.
+Lee Harrold: We're all actually here in my house in Indiana. All right, let me log in.
+Monica Dyer: Did you know what time? I'm sorry.
+Lee Harrold: Do you know what time it was roughly?
+Monica Dyer: Just. It was like 104 we started. Okay.
+Lee Harrold: You're on Central. Okay.
+Monica Dyer: Maddox. Johnson.
+Lee Harrold: Hey, you. Yeah, looks like. Yeah, there are no encounters at that time. I don't see a note for it, but I do see. Yeah. Okay. There's. Oh, yeah, it's right here. Okay. Yeah. Let me generate a note from that. I see the transcripts.
+Monica Dyer: No. Notes. Let me show you. Because. Yeah, on. I'm on. I click on the encounter. And I only see the one recording from 17 minutes from yesterday, which I want to delete before we generate note. I think.
+Lee Harrold: Gotcha. Can you show me your screen?
+Monica Dyer: Yes.
+Lee Harrold: And I click generate node. I think before you say that exists. But we can. We can delete it and generate a new one.
+Monica Dyer: Okay. This one. Share. Yes. So it just has this. 17 minute. And then when I clicked on that, this is us talking to.
+Lee Harrold: Alfred.
+Monica Dyer: Alfred. And. And. Styling's broken. My patient did not say that.
+Lee Harrold: Oh, so the same. The same recording was used.
+Monica Dyer: The only one I'm seeing is our conversation from yesterday, which I didn't know was. Didn't really. I think was it. Yeah, I didn't know it was attached to this patient. I forgot. Maybe. But.
+Lee Harrold: Okay, that. That might have been the one I just maybe take a look.
+Monica Dyer: Almost conversation with the patient.
+Lee Harrold: Okay. Yeah. The one that I generated is. Is with an actual patient, and that was the one from about 1:00 today.
+Monica Dyer: Good. But I can't hear. You need to screenshot the evidence.
+Lee Harrold: Maybe. Can you scroll up for a sec? Okay. Yeah. Let me take a screenshot. Oh, actually, wait. No, we. We're. The grain note takers got it, so I can refer to it.
+Monica Dyer: Okay.
+Lee Harrold: We're good to go. Yeah. Okay, so maybe go click on. Yeah, yeah. Yeah, it looks like it just didn't create an encounter. So the transcript is there and it's associated with the patient. And now you have a note. That was generated from it.
+Lee Harrold: So, yeah, that's good feedback for Alfred. It'll make sure he fixes that before the five o'clock.
+Monica Dyer: Okay. Oh, yeah. So I need to let her know to try to meet over here for doing that. Okay.
+Lee Harrold: And then go to documentation next to patients at the top of your screen and then click notes. Yeah, click. That should be the one with Maddox.
+Monica Dyer: Let's find out. Yes, recovered notes. Yeah, this is him. That's like such a not good feeling.
+Lee Harrold: Good save. Yeah.
+Monica Dyer: Yes. Thank you. Okay, so. We. Yes. Had our little list we sent you.
+Lee Harrold: And then.
+Monica Dyer: Other little things since I went to this, too.
+Lee Harrold: Sweet.
+Monica Dyer: I feel like I'm giving them that to y'all faster than we're able to. Resolve them.
+Lee Harrold: I need to hire some people.
+Monica Dyer: We need, like, a meeting every day. So. In the middle of working on a note and once in the middle of recording. It logs off and tells me my session expired.
+Lee Harrold: That's really cool.
+Monica Dyer: So it was all okay. Like, it was. My stuff was still there. The recording still worked. But I'm sure I went like this on the
+Lee Harrold: camera, like for that not to happen. So that was that. Was. Was that using JotStake Telehealth or that. That you were just using regular job?
+Monica Dyer: Site? Regular. Shots. Like, yeah, regular jobs. Because that was before.
+Lee Harrold: Cool. And, you know, like, at what time? That happened?
+Monica Dyer: No. I mean, it logged off today, maybe around 10 something when I was editing a note. Okay. Like, it was like the wheel was spinning. I was waiting for the AI, and then it's like. And it's like you're logged off. I was like. Please don't tell me that I wasn't actually logged on doing that work. But no, everything saved. But I had to, like, log in, go back to the patient, go back to the encounter.
+Lee Harrold: And. Got you. And the whole time you were like, oh, God, is it there?
+Monica Dyer: Is it there?
+Lee Harrold: Yeah.
+Monica Dyer: Disconcerting.
+Lee Harrold: Yeah, we. We ought to say it really aggressively. We definitely don't want. Users to be logged off at any point. So, yeah, I'll. I'll check your log stream and then, like, see what happens.
+Monica Dyer: Okay. Yeah. Like, I mean. I guess if I'm gonna. Log, if I need to, like, refresh my session, like, daily, it would be good, like, right when I open it, the website for the first time, and then it's, like, good for the next 24 hours or something. I don't know. Sure. Then. Cannot read my writing. Not saving. Oh. Yeah. So the patient location. Isn't. Okay. Like, I put in the patient location because it doesn't pull it from the patient address. Still nuts to me that.
+Lee Harrold: Gotcha.
+Monica Dyer: AI is not smart enough for that part. And then I'll, like, put in the location, and then it, like, reset the note, and then that part was gone again. So I, like, had to put in the patient's location a couple different times to get it to actually stay in the note.
+Lee Harrold: In the same note.
+Monica Dyer: Yeah.
+Lee Harrold: We're using the. Using, like, the node editor. And I didn't know. Okay, tell me which. I think that's. That's. That's going to be like a template section thing. Like, I think we need.
+Monica Dyer: I need to take. We're still there, and it was like patient location. Like, unknown. And I was like, the patient, and then it popped up. Bandera, Texas. And then writer lost in Texas. And then I did something else. It. I was trying to fix the times or something, and then it came back and it was like patient location unknown. I was like, bro, we just talked about this. Yeah. So I don't know if it's.
+Lee Harrold: Like.
+Monica Dyer: And what I did notice that I didn't still have the conversation from the AI there, like that part had disappeared. So I don't know if, like, the AI part reset and, like, didn't save its own. Conversation. So you know how, like, you can see the purple. So it was like a new.
+Lee Harrold: Yeah, I'm wondering what might have happened. Yeah, I I'm not sure if. Kind of to your observation. Information that's placed in one chat session and saved to a section is persisted through the. Chat sections. I'll have to learn how that works.
+Monica Dyer: While editing the same note. Yeah. Okay. Then. Okay. Medications, even if they're on the medication list, and I say. Like, please, you know, like, put dose frequency from medication list. It still says, like, doses unknown because we didn't say them out loud during the session.
+Monica Dyer: And I'm like, no, but you have one of the medication lists. Like, please specify what the patient's salon and.
+Lee Harrold: Yes. Yeah, that's a. That's an unfortunate characteristic. So we the. The medication and diagnosis pages on the patient, like, aren't actually used inside of node generation. So to get that context in, you like what we suggest is to put that, like, paste that information into the additional. Document object on. The. The note and any, any, like, on the encounter screen anytime you want to generate a note.
+Monica Dyer: I ain't got time for that.
+Lee Harrold: Yeah. Yeah, I.
+Monica Dyer: It's pretty.
+Lee Harrold: I actually just left a meeting where I was like, why this is why we.
+Monica Dyer: Why are we doing this as they are are already completely, like, totally inefficient and if you like. You tell me, like, one more step.
+Lee Harrold: Like. Yeah. Like, I'm not. There are other options.
+Monica Dyer: Yeah. Like, that's the point of having an EHR, is that it. Even when I don't have AI and any HR will carry the pass note forward with that information already in the note. Like, I need the med list attached to this encounter. The insurance company and stuff.
+Lee Harrold: So.
+Monica Dyer: Okay. And then. Okay, like, here's an example. Like, I went to edit a template that I was in. I'll show you. Which one was that? Oh, this is recovery notes, so we don't even have a template yet. Right. But when I'm editing the template that I'm already in, like, I went. I was using a new one, the addiction one. I went to take out a section because I'm like, oh, I don't want that in there. And then I came back to the note and refreshed the page, and then it's still. And I saved it. And I went back and forth and tried this a few different times, different, like, ways. Like, even not going back to the patient, but going up to patient, clicking it and going back to that encounter. And it still wasn't adjusting that note to take that section out.
+Lee Harrold: Okay, I I think I'm slow today. So let me just kind of, like, restate what I think you said. You created. Actually, can you. Can you show me?
+Monica Dyer: Yeah, like, I'm in a note. And. Okay, this is a bad example because we don't have a template yet, but let me. This is. Sure. Regenerate. And the general theme here is that I'm running into so many, like, weird things all the time. That it's. Like I'm losing it.
+Monica Dyer: I hear you. So. And I'm. I'm like 60 something notes deep now.
+Monica Dyer: Like, yeah, there's a backlog. And. Yeah. And they just, like, I blocked off my week to stop taking new patients and stop letting people make appointments because I have to catch up on these old notes. And I'm only getting them in, like, 30 days after, like, their last minute. I'm about to not be able to bill for them. I had two today that got in just, like, the hour before the deadline. I'm like hour to hour trying to get everything in. Understood. All of these refresh and generating and waiting and waiting. It's like. Yeah, like, down to the minute between patients and stuff. Like. Yeah. Okay. So example. While that was generating, I wanted to get that in the template, edit template. The example here, like, say maybe like. Okay, so I don't necessarily want this in my. In this one. I can have it. Right. Well, okay. I think what I did was I delete our ad. I think I was adding. Yeah, I was adding MSE. There was no mental status exam. So maybe this one already has that. Let me see. Yeah, it does not. Which. It should. They all. Psych nodes need that. So save. Then go back to the patient note. There.
+Lee Harrold: So. Okay. Yeah. So you would. You would need to regenerate. The note so that it. It has the. It can be regenerated with a new section.
+Monica Dyer: How do I regenerate, like, here?
+Lee Harrold: Yep.
+Monica Dyer: Okay. That was not super obvious.
+Lee Harrold: Yeah. I guess. Yeah. So. Yeah, I I could definitely see, like, a use case where, like, if you generated a bunch of nodes with the template and then realized, oh, I actually need this other section for all of these. All these notes. You. You would want to. You would want that to go back and regenerate. All of the notes that that template was set for. And then you. You would probably want, like, to be able to set. A date range. Like, oh, actually, just all of the notes I haven't yet submitted. Within these, like the past three weeks or something. Yeah, that makes sense.
+Monica Dyer: Yeah. I mean, is that why I feel like I'm doing the same thing over and over? Because these notes are already generated, and I just need to regenerate them with the things I'm teaching the template, like training it.
+Lee Harrold: Yes. Yeah. Anytime. Anytime you make a change to a. A template, it doesn't automatically regenerate the. The note.
+Monica Dyer: That may be half of. The issues because I'm like, I swear I've done this. I swear I've done this on every note. Okay.
+Lee Harrold: Yeah, I had no idea. We can walk through and then, like, make sure that's the case, too.
+Monica Dyer: Okay. Well, because I'm. Yeah. And the changes that I've made in the last month aren't applying when I open the note from a month ago.
+Lee Harrold: And so, yeah, that probably that would make sense.
+Monica Dyer: Yeah. I'm almost done, I believe, with the one that's due tonight. But. Well, and then that. Because of that, I just sort of end up regenerating another template to try to get it anywhere close.
+Lee Harrold: So you're ending up with, like, a bunch of different variants of the same template.
+Lee Harrold: And that's, like, a lot to keep track of or the same note.
+Monica Dyer: And then I'm come back to it. I'm like, which one was I working on?
+Lee Harrold: And yes.
+Monica Dyer: Yes. Okay. So.
+Lee Harrold: Let's. Let's take a look at maybe the notes that are due, like in the next couple of days so we can make sure those are. Okay.
+Monica Dyer: So this one, I think I'm mostly. Done with. But. Yes. Okay. Earlier, that did not say last day, but it's because we're now within 24 hours of 11 a.m. i was like, what? Up? Okay, so going to March 4th with Carlos and Laura. And Carlos. Oh, that's his intake. Okay. So I want this to be an intake, but it's also. Okay, we're gonna do addiction because this one is relatively. I've only used it once this morning before. I did a lot of. Things to it.
+Lee Harrold: Hopefully we shall see the fruits of your labor represented in this note.
+Monica Dyer: Please. Paymental status exam is going to have that in there. Good, good. Thing I noticed is that OneNote was suggesting that I do. 90792. Plus 99214. And 90792. Is the diagnostic evaluation. And then 99214 is like a similar category of code. You can't use those together.
+Lee Harrold: Do you remember which template? Generated that? I know that's a deep question.
+Monica Dyer: But this morning, maybe it was. I don't know if I did a 907. I think it was. There was.
+Lee Harrold: One.
+Monica Dyer: I'm not sure. I'm not sure. It was one of.
+Lee Harrold: Knowing that it's scoped to you and was edited today, I can. I can scan. I can scan for it.
+Monica Dyer: Okay, cool. Clicked audit. Okay. And overall question. Or audit. Why doesn't it just automatically do the things that I'm having to audit every time?
+Lee Harrold: Like. Like. Like automatically apply those changes instead of just selling you about them.
+Monica Dyer: Yeah. Like. Let's see what it comes up with. Maybe now, because I'm regenerating this template that I've already. Trained it on. We'll see. This is the one that Alexandra had stuck yesterday. It wouldn't do the audit, and it took a very long time for me, too.
+Lee Harrold: Okay. Make a note of that. Can you copy the URL and send that to me?
+Monica Dyer: Yes. Or, like, just this template. I mean, not this patient. Yeah.
+Lee Harrold: It might just be that I was like, I don't know. I can find out.
+Monica Dyer: Okay. It is very long. It's. And I don't even see the. The telehealth part. Oh, I already want to edit the template. To make it pay or compliant for telehealth.
+Monica Dyer: Oh, I see. Start end times, locations.
+Lee Harrold: Is this. Had you already made those changes to this template?
+Monica Dyer: I might have just had, like, last time I was. I had, like, 20 minutes to hurry up and finish it before I submit more. So I might have just worked it into the note without making its own section.
+Lee Harrold: Yeah, let's. Let's edit this template real quick and then regenerate it.
+Monica Dyer: Okay. So that section is called. Header. I think.
+Lee Harrold: Oh, okay. So if it was a section that you created.
+Monica Dyer: No, I think it would show on this. No. See, like all of these things is what it's going to tell me it needs. And I'm like, I know.
+Lee Harrold: I always do that. Like, I'm aware.
+Monica Dyer: Okay. But then if I do this one. If I don't do this one, that one pops. That thing pops up every time I go to audit.
+Lee Harrold: Let me note that.
+Monica Dyer: I think I've. Mentioned it once before. Okay. And then say I did regenerate this one. It would. It is going to have the. But, yeah. So, like, when I regenerate a pair compliant template of my EM plus add-on psychotherapy, it just goes to EM. And then I lose the psychotherapy. I gain the header.
+Lee Harrold: Oh, it uses a. Did you have the opportunity to select a template? Or did it just. It just, like, picked one to regenerate for you.
+Monica Dyer: It just picks one.
+Lee Harrold: Okay. Okay. I'll note that for Jackson.
+Monica Dyer: I was told the ones that have the numbers on it or the payer compliant ones. But. But I. Went. I want to make my templates pay or compliant already, and so I don't. These audit, audit, audit, audits. Because it's. That's what's the time suck, is that it's like, I'll make one change, then I wait for it, and then I make another change. And then I'm doing the same changes over and over. Yes. Okay, so header, this is the section I was trying to add.
+Lee Harrold: Over in the identifiers.
+Monica Dyer: So when I go to addiction, edit template.
+Lee Harrold: Yeah, it must not be in that.
+Monica Dyer: See? Oh, there it was. Yeah. Not like a standard one.
+Lee Harrold: Apparently, I guess not. But here's. Here's what we can do. Click that drop down again. And let's copy that text. I also would have expected for that to work. So, yeah, click on the one we want to put it in. And then at the top right, there's some sparkles. And then we'll ask the AI to add the header identifier. To produce. Something in this format with this content. And then you can maybe more directly state. What it. What it is supposed to look for. Or produce. But the example will help it.
+Monica Dyer: Okay. To make this payer compliant. Will it know what I mean?
+Lee Harrold: It will not. I would. I would definitely post the example you currently have in your clipboard. Okay. And then if there are any details you. You want to call out to make sure that it adds. I mentioned those two.
+Monica Dyer: Close, close. Okay. So how do I. Okay, save template. And the other ones put it there. So I'm putting it there. And then. Okay, if we go. Let's save now.
+Lee Harrold: Yep. Back.
+Monica Dyer: Your new template is ready to use in your notes.
+Lee Harrold: So let's go to that note.
+Monica Dyer: Okay. Oh, that was back. That. Sorry. Again. Back. Back. Okay. So now I'm going to regenerate with that little. This one. Yes. Hello identifiers.
+Lee Harrold: That's a fun feature.
+Monica Dyer: At least I know that. Yeah, it's doing. It's like we already had this note generated. We just went into this one section.
+Lee Harrold: Why so much? Like what? Look at all those inefficiency. We're sitting there waiting. Yeah, yes, it's. It's. Especially when it's like a longer. Note.
+Monica Dyer: Okay. Patient location on mobile phone. Walking.
+Lee Harrold: It's like probably not super relevant. That's. Is that even accurate? My. My guess is that. That would have been inferred from a transcript, but I. I don't. I don't know what the transcript says.
+Monica Dyer: I'm just trying to make sure, like, that reminded me of another patient, not this one. And so I was. Like, double checking. There's not.
+Lee Harrold: Oh, yeah, I guess skim this transcript. Real quick and make sure it was with Carlos.
+Monica Dyer: Yeah, I guess this is. Oh, okay. At one point, he changed buildings. I think. Facility.
+Lee Harrold: I think that's not the spirit of that field. Like, you should really just be.
+Monica Dyer: Like, based on the address. Yeah, please. And it needs to say Texas, because that's the whole point of giving location, is that we're in the same state. So. Rry. Relating that I'm in Austin because I actually said that during this note. Because he's an awesome, like, oh, I'm in Austin, too. But. Usually I get. Patient in Austin. If. If it knows I'm in Austin, it says the patient's in Austin. Or, like. Or if things come. It's, like, in person. And this thinks it's a cell phone. Okay.
+Lee Harrold: Telephonic.
+Monica Dyer: I don't. Oh, yeah. Provider. I never knows me anymore.
+Lee Harrold: Did it used to?
+Monica Dyer: I think, maybe because. I don't know if we added. When we added Alexandra. But if I'm logged in and the one doing the note. Can it please recognize me? I took it personally.
+Lee Harrold: Yeah, I would, too. I was like, I could change. All right, so I guess. What I think we should do so that this node section as we want it to. Is in the AI notice assistant state. Okay. So I think the three things we wanted to change. Were at the provider will always be you. The patient location will always be Austin because that's where you're licensed in the provider location. No, the patient's other places, too.
+Monica Dyer: Okay. All over Texas. And so that part, it should pull from the patient address that we have so painstakingly entered into John psych.
+Lee Harrold: Understood. Yes.
+Monica Dyer: Because the. The assumption is that they're at home. If there's any other exception, then I don't mind changing that. But Baseline telehealth from home is like. It's a category that I picked on, like a template in the beginning of, like, what. I do is I see patients at home. Number 10 or whatever. And I definitely did tell this template. I I think I said, please. Yeah. Yes. To train this. On that this morning. That's why I picked this one for now, because. I worked on it this morning, and I. I told it provider is always an Austin Texas. And so it did. It caught that today, but I think it's because it was just in that note.
+Lee Harrold: Well, we. We just added the header identity, which. Like, section in here, right?
+Monica Dyer: Or I'm talking about a note I did this morning.
+Lee Harrold: Oh, I'm sorry. I'm sorry.
+Monica Dyer: And so I definitely worked on this template this morning, and. And. Well, at least I said the. It wasn't this section that I said provider location is Austin, Texas, things like that.
+Lee Harrold: You know, that makes sense. Yeah. So let me think every. So the sections don't talk to each other. So when we want to make an edit to one section. Like we have to, like, specify the section that we're talking to so that it's capture.
+Monica Dyer: Yeah, like it says editing here.
+Lee Harrold: Yep.
+Monica Dyer: But, yeah, more importantly, those. It would be great if those were the defaults, like to my location.
+Lee Harrold: And my name. Yeah, it's. It's a no-brainer yeah, like the demographic information of the people.
+Monica Dyer: Like, why am I typing a name on my note in my chart?
+Lee Harrold: This is an AI powered EHR.
+Monica Dyer: Like, what's going on? So, yes. Okay. Audit. Drum roll. This is one that was. I should have clicked that five minutes ago. When he raps. He doesn't stutter.
+Lee Harrold: Did I. Did I stutter?
+Monica Dyer: No. Was it. Would it be any problem if I get, like, multiple windows going at once? If I'm, like, running audits and, like, you know, trying to get a whole bunch of notes going.
+Lee Harrold: Nope, that should work.
+Monica Dyer: Okay. That's going to be my new plan, is to, like, have split screens on all three of my screens and just be clicking, clicking, clicking, clicking, trying to. Do this in a more time efficient way. Yeah. And then part of the problem, too, is that this will be running, and then I'll go over here. In the meantime, and start doing something else, and I have a message and then, you know, like, I lose.
+Lee Harrold: Oh, yeah.
+Monica Dyer: My stream, my consultation. Because. Yeah. Trying not to just sit here. You have questions on any of the ones that we sent you on the email.
+Lee Harrold: I don't think so. Let me review that again.
+Monica Dyer: Okay.
+Lee Harrold: I mean, take away from that was that I need to get your. Templates in a state where you can use them.
+Monica Dyer: But I think refresh button is really. I'm hoping that's going to make a big difference.
+Lee Harrold: Sorry. So. So say that again.
+Monica Dyer: This drop down and then hitting that.
+Lee Harrold: Hopefully. Yeah, that lets us clear through a lot.
+Monica Dyer: Because I was. I didn't know why I was having to redo everything every time.
+Lee Harrold: Yeah, that's not very. It's not very intuitive. Yeah, we need to figure out a way to communicate that.
+Monica Dyer: Because. Yeah, you generate the note, like, right after the recording. But then if you don't get to it for a few days and you've done some editing since then. Like you've updated your template since the last time you generated this note, would you like to regenerate it for the.
+Lee Harrold: Oh, that's such a good idea.
+Monica Dyer: Be like, yeah, man, do that. Of course. And if you could just set that as a default. Too. And, you know, like, I could have the option to make that my default. That'd be.
+Lee Harrold: That'd be good. Anything.
+Monica Dyer: I've also been getting, like, a lot of garbling. And misspelling and stuff. Yeah. Every time I'm saying, please proofread and correct any errors or. Sometimes. Yeah, it'll, like, cut off little bits of sentences. And I ask it to proofread it, and then it gets better. I can't remember if I typed it that in the email. Like, it's more little things that are coming up that. And I can actually, like, write down and communicate.
+Lee Harrold: Yeah, I hear you.
+Monica Dyer: Are other people, like, doing really well with this? Like, am I not getting it somehow?
+Lee Harrold: Is this me? Yeah. So the, like, the only. The only, like, difference I've noticed between your setup and most of our users is just the length of this particular template. But also, this is like a. This is like a. I think this is a tempo that we created, so why?
+Monica Dyer: Well, it's only the second time I've used this template. I mean, in general, like other users just, like, being like, yeah, everything's great. I got it.
+Lee Harrold: I know, like, there's. There must be something else going on.
+Monica Dyer: Like, we. Maybe it's just because I'm so far behind of my notes and I didn't know about that regenerate thing.
+Lee Harrold: Or we have a lot of users who are very, very polite. Like, they all. They all live in the Midwest. They're afraid of explaining.
+Monica Dyer: Okay. This is a lot. Should I refresh the page or just let it keep going?
+Lee Harrold: I don't know what it's doing. Why it's taking so long. Let me check on my end. What's going on here?
+Monica Dyer: Sometimes I just refresh because unlike something must be wrong.
+Lee Harrold: Yeah.
+Monica Dyer: Zoom. AI. Recording for Alexandra and I when we're. We're meeting. And so when we come up with stuff, we're like, okay, there's another one for Lee. Telly.
+Monica Dyer: You are like, you're the name of yacht psych for us.
+Lee Harrold: I love it. I love it.
+Monica Dyer: We're telling. We're talking to you. We're telling you.
+Lee Harrold: I'm the year of jot psych.
+Monica Dyer: Iat.
+Lee Harrold: Rist.
+Monica Dyer: Oh, did dose bot say how long it might be till Alexandra can. Create prescriptions?
+Lee Harrold: No, that. That one's. That one's on us. That's. That's something we need to. So they. They support it. We need. We need to create an integration. In order to support that.
+Monica Dyer: Weeks, months, days.
+Lee Harrold: That's. That'll be weeks. That'll be weeks. So, like, yeah, between, like four and four and six weeks.
+Monica Dyer: Okay. For the list of other things that I. Sent to you.
+Lee Harrold: I'm trying to figure out what's going on with the chat audit session.
+Monica Dyer: Okay. Really long. Will it mess up? Your. Search if I refresh it and see if it does better?
+Lee Harrold: No, you're. You're good to refresh it. I'll be able to find. To find it again. Automatically applying set clinic rules to note. So they're having to go through the audit every time. Like, oh, so this. This is the thing you mentioned where you would like, the tablets you use to have the additions from jot audit added to them. Okay, that makes sense.
+Monica Dyer: Because I changed it and it's like, do you want to train this? And I'm like, yeah. But that may be that I wasn't regenerating the note. I'm hoping. How can I test that?
+Lee Harrold: Yeah, I guess. I guess we could test that by finding. Finding a note and then regenerating it from, like, a template that had been trained from the Java audit process.
+Monica Dyer: So. Okay, after Carlos comes. Okay, this is his. Intake. What were you going to test? I just.
+Lee Harrold: Oh, you're good. We. We wanted to find out if we regenerated a template that had been trained by the JAuta process, if it would. Like, have the fixes from it. From the train.
+Monica Dyer: So first audit. I mean. That's what's. Okay. Let me first. Let me just start with. This one, because I think that's supposed to be the pair compliant one.
+Lee Harrold: Right?
+Monica Dyer: No, the numbers. Can you see the one I'm highlighting?
+Lee Harrold: Oh, no, I. I still see the. The page for Carlos.
+Monica Dyer: Oh, it's just doing that tab. Here we go. All right. Share this tab instead. Hey.
+Lee Harrold: Okay.
+Monica Dyer: There we go. So. So I went to audit. It asked me if I want my payer specific. Audit criteria. And obviously, so maybe if I started with this one. Then. It will already be audited. But, you know, I've regenerated enough notes and still have to retrain it. Like. It.
+Lee Harrold: Something's not adding up here.
+Monica Dyer: Because it's not like I'm using the note that was originally generated. Most of the time I'm changing the template before I start. Is something that I've since realized, okay, this is where I'm going with, or this is the payer compliant one. Loading.
+Lee Harrold: Okay, so we generated. We regenerated this note. And does it have. Oh, I see. I see. And now you want to use jot audit.
+Monica Dyer: Moving.
+Lee Harrold: So this is interesting. Yeah, our node generation does is supposed to be using. Both your demographic information and the patient demographic information. Going on here.
+Monica Dyer: Oh, my. Gosh.
+Lee Harrold: Was it.
+Monica Dyer: Just remembering things. I was meant to do already? Gotcha. Sorry.
+Lee Harrold: I'm like, wow, what is it?
+Monica Dyer: How can I help? Okay, I think it's added is actually starting to go. See, this isn't even a very long one. I don't know why this is taking so long.
+Lee Harrold: Yeah, I'm seeing. Yeah, I'm seeing some weirdness on my end, so I think this is, like, not related to the note template. And I flagged. Like, to remember my team to. Like. Fix it. So I guess we can't really. Test that this applied immediately. But what I can do.
+Monica Dyer: Generally now, I would try to refresh. And sometimes it's faster after that.
+Lee Harrold: Okay. I think I figured out how to get demographic. And medication and diagnosis information. And so let's see. You sent me the name. You sent me the idea of that template. So let me pull that up.
+Monica Dyer: Okay.
+Lee Harrold: Oh, wait, I did. You sent it to me via email.
+Monica Dyer: I bet you didn't follow that link. That you. Asked.
+Lee Harrold: Oh, yeah. For the.
+Lee Harrold: I need the. Oh, actually, I guess you. You can just tell me the name of the template that we want to pull.
+Monica Dyer: I guess. I mean, all of them that are payer compliance seem to need. This part with location and. Okay. For all telehealth, you have to say where you are, where the patient is, or basically that you're both in the same state. Like, that's the compliance issue. And this one is still auditing, by the way. Addiction one.
+Lee Harrold: A lot of faith. In that reading right now. I don't know why. Okay, I think I can. I can figure this out, but it's going to take. A little bit of time. In the meantime.
+Monica Dyer: I can't show you what I need to show you from the audit thing, because this is just stuck in forever.
+Lee Harrold: But basically. It's going to suggest something that should already have been applied to the template. Okay. Cool.
+Monica Dyer: Yeah. And, I mean. I like what I don't understand is when, like, why I can't get to the point where it generates the note. And sure that maybe there's a couple little things, but then. I just can scan it and sign it because. Every time I'm adjusting something and then it's not doing it quite right, then I just did again. But, yeah, I don't think it's that regenerate thing. I don't know. It's usually about the. The payer compliant. Part with the. E and M time add-on psychotherapy time. Most of my notes are. Medical management with. With add-on psychotherapy. And so I do this template a whole lot, I think. And so then. It doesn't. Oh, yeah. That's another thing. I put the psychotherapy time. Up here. Oh, what? Okay, 90. Say it's that one. If I put minutes here. I don't know. Okay. And so. Yes. Also, this isn't. These things are not automating automatically in the note. The PDMP reviewed. And. Oh, and the. The actual start time and end time versus the schedule one. That's. That's when I asked for a start time in time. It shows the scheduled ones versus my actual ones, and so I have to tell it to do the actual ones. And then when I want to break down the time between E and M and psychotherapy, I have to tell it how much time to do because it's not getting that from when I. This is the duration of. Of the. The session. It was long. And then that's the duration of the psychotherapy. So the rest of the minutes should be the EM time.
+Lee Harrold: Got you. Gotcha. Got you.
+Monica Dyer: And I would be really like. I almost feel like AI should be able to say, like, you did about this much medication talking and this much psychotherapy talking, like, goodbye, how it's kind of categorizing things. If it could automatically because I'm estimating most of the time. Anyway.
+Monica Dyer: And so if I have something to go by just remembering what the session was, it would be really awesome.
+Lee Harrold: Yeah, I think. I think we. Yeah, I think we. We tried to build and we discovered it was, like, really, really hard.
+Monica Dyer: But, yeah, that's. That's kind of a separate issue from, like, after I'm just. I'm typing the numbers in. Yeah. And it still doesn't really come through. And the PDMP being reviewed. If I click that. Like, how come the note doesn't know that?
+Lee Harrold: That makes sense?
+Monica Dyer: Okay, we got. We got the audit. Okay, here's an example of where it recommends. 90792 and 99214 together, which you can't build those two together. As far as I know.
+Lee Harrold: Got you.
+Monica Dyer: Because this one makes sense because it's add-on psychotherapy. But this is like a whole separate, like, follow-up visit. And this is an intake anyway.
+Lee Harrold: Yeah.
+Monica Dyer: So now put intake. I mean, I guess sometimes I'm in this position where. Oh, I see. And if I want to do. I'll just say, like. This was an intake session. And, like. Hope that it's because sometimes it'll be, like, medical management and follow up, blah, blah, blah. I'm like, no. Start. Stop not documented. Total EM minutes undocumented. That's where I was talking about before.
+Lee Harrold: Yeah. Even. Even though it has that information at the top, you've only added it. Okay, so it doesn't. This. This template doesn't know that it's in. Well, It. It might. It might know that it's an intake session, but it will have no way to express that it was an intake session, because this template is equipped for a different kind of thing. But it's. It's not like the issue is that we. We selected, like. Attempt. Okay, so it looks like intakes slash diagnostic evaluation.
+Lee Harrold: But we still need the analyze.
+Monica Dyer: So it would be. I mean. Because you can do 99204 or 90792 and then still do add-on psychotherapy to an intake.
+Lee Harrold: Gotcha.
+Monica Dyer: And I spoke to this guy for two and a half hours, so I need some psychotherapy credits.
+Lee Harrold: Yeah, yeah, yeah, yeah.
+Monica Dyer: So it, like, really makes sense. He's doing very well now.
+Lee Harrold: That's good. Yeah, I'm gonna. How do we. I can. I wonder if we can make. A, like. Payerware template. That contains both intake and psychotherapy. Or if the solution here is to, like, generate. Both. I could create both. Both notes. Yeah. Both. One from the intake slash diagnostic evaluation 907. 91. Etc. And then one with the. With the one we currently have. And then, like, They'll, based upon the. The minute breakdown for each.
+Monica Dyer: Well, you don't really want to. Well, yeah. Okay. You don't want to do. You want to bill on medical decision making versus minutes generally?
+Lee Harrold: Okay.
+Monica Dyer: Because minutes can get really hairy. But you do for add-ons Psychotherapy, you do have to specify how many minutes it was between E and M and Psychotherapy. But, like, choose. To choose 99204 done in 205 based on minutes, like, that gets. That doesn't really always give you credit for the complexity of the medical decision.
+Lee Harrold: To add context.
+Monica Dyer: Basically, I can do intake here, and then usually when I do that one, and it's an intake plus psychotherapy, which I've kind of been defaulting to that, I'll ask it, you know, put an add-on psychotherapy section, and then it puts it with in the. I actually think I added it. Do I dare regenerate this note?
+Lee Harrold: This. This note will continue to exist.
+Monica Dyer: Oh, my God. I have an appointment right now at 3:00.
+Lee Harrold: I have a lot to work with, so.
+Monica Dyer: Okay.
+Lee Harrold: We'll keep you posted.
+Monica Dyer: Okay. Let me. I can call him a second. So. That's.
+Lee Harrold: If you. If you regenerate the note, you still get to keep this note. Like, you can see on that top there, there's each of the.
+Monica Dyer: I just won't. Let me tell him I will call him in a few. I thought I was forgetting something for. I was like, really?
+Lee Harrold: Something here.
+Monica Dyer: Okay. I will call. You. Okay, so. I'm on psychotherapy. No, I didn't edit. So I'm just wondering if I can just add an add-on psychotherapy section here. And then.
+Lee Harrold: Yeah, we do edit this template and then add that section.
+Monica Dyer: If I don't use it, then just do a. Then I can just put NA or something in there.
+Lee Harrold: Yeah. Or. Or you could create. Like, a template. Oh, I guess you don't know. At the start of the session if you're going to end up doing add-on psychotherapy.
+Monica Dyer: Like 90 of the time I do.
+Lee Harrold: Oh, okay. So for. For 90 of the time, you could use the template that has that.
+Monica Dyer: Yes. So now I'm going to.
+Lee Harrold: Regenerate. Oh, yeah, that's. That's probably the strat is to have one template that has it. And we're going to have it that doesn't. And then if you discover that you're actually doing that in the session, then you could regenerate the note with the template that has it.
+Monica Dyer: Yeah. Okay. You can see what a big deal it is, though, to switch a template because of the time that it takes for things to generate is. I mean, is my computer slow? Like, is.
+Lee Harrold: No, this is all. This is all on us. This is. Yeah, I know generational is inside of our system.
+Monica Dyer: Good. It has the add-on psychotherapy there. Cool. Yeah. And this. That blank. Even when I type the number over here. It's already there, but it didn't generate that with the. That blank filled in. Do you see which one I mean? The blue.
+Lee Harrold: Yeah. Yeah, I see.
+Monica Dyer: Okay.
+Lee Harrold: Oh, and I. If it's blue, it means you can click on it and then do a.
+Monica Dyer: Full.
+Lee Harrold: Replacement. So that might save you some time. And. Yeah, I understand. I should just know.
+Monica Dyer: I already told it.
+Lee Harrold: Like, I did the work. Respect the work I did.
+Monica Dyer: Yeah. Communicating. Okay. Well. Good deal. I need to take off that follow-up email, but. But, yeah, every time I'm trying to, like, edit. And pick which template and everything, the amount of time that it's taking me is
+Lee Harrold: exceeding the amount of time you feel it saving you.
+Monica Dyer: Yeah. Yeah. It's like taking as long to see a patient as it is to do the note, like. Yeah. Well, I better go see another patient and generate another note.
+Lee Harrold: I'll see what I can do. Thank you so much for. For bringing these to us. And thank you for your time.
+Monica Dyer: Yes. Bye, guys. Okay. Bye-bye.
+Lee Harrold: Bye.

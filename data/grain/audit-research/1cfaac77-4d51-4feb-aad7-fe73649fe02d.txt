@@ -1,0 +1,69 @@
+Christopher Hume: How are you?
+Antoine: Hey Chris, all good, all good. How about yourself?
+Christopher Hume: Doing well? I'm doing well.
+Antoine: Awesome.
+Christopher Hume: I was up in upstate New York earlier this week, so I'm glad to be back in DC a little warmer.
+Antoine: Oh yeah, it is.
+Christopher Hume: Yeah.
+Antoine: Let me try to call David. Because he's mainly gonna have like all the updates.
+Christopher Hume: Okay, wonderful. Thanks Anton. Hey Brittany, how are you?
+Brittainy Wagner (Tidemarkva Admin): Oh, I'm good. How are you?
+Christopher Hume: I'm great. I'm great.
+Antoine: Oh, hey, Brittany.
+Brittainy Wagner (Tidemarkva Admin): Hey, Antoine, how are you doing?
+Antoine: All good, all good. They were joining and want to.
+Christopher Hume: Yeah, there you go. Hey, David, how are you?
+David Yacoub: Hi, Chris? How you doing? Can you hear me okay?
+Christopher Hume: Loud and clear. Loud and clear.
+David Yacoub: Perfect.
+Christopher Hume: Wednesday. How was your week going?
+David Yacoub: It's been going pretty good. Actually. I'm not gonna be kind of transparent. We didn't get to spend too much time playing with the software yet, but I had actually, we had met a little bit earlier, I think, and discussed some of those. Issues that we were having. And I don't know if you had a chance to kind of look into that. I also had some other questions today, so I'm glad we kind of got some time to meet. So I don't know. So I guess some of our other questions I wanted to ask you was regarding like, you know, a ticketing system. I read like online that there was a potential way for us to maybe like send some sort of like internal communication based off the patient potentially. I don't, I tried looking everywhere. And I don't know how to access that feature.
+Christopher Hume: Yep. So right now what we have is you can send an automated notes automated reminders and forms through the schedule feature. So when you schedule an appointment and I can show you David, you could have jot psych send reminders. Day before, et cetera. And you can also send out one off PHQ nines or GAD sevens, anything like that. I think in terms of one off communication, so a patient portal where the patient can ask a question about their medication and your provider can respond in a bespoke way. That's something we're working on right now.
+David Yacoub: Got it. Now what about like, I mean, I think what about like internal communication between staff?
+Christopher Hume: Or between staff. I'm sorry for that.
+David Yacoub: No, no, no, no, no worries.
+Christopher Hume: No, no, no. We do not have a way for staff to communicate within JotSite currently. And that's another feature that we're working on in tandem with the patient portal.
+David Yacoub: Got it. Got it. Got it. Okay. No worries. Also, I don't know if you had, let me see if I could pull it up here one second. Let me just log in here.
+Antoine: Oh yeah, if I made it really quick that you saw that up there. For the communication like for the remainders that we are to send to the patients, do they like get to confirm? Does that change anything in the interface of the platform? Like once a patient confirms an appointment or something like that, is it like interactive or it's just a reminder being sent?
+Christopher Hume: Just a reminder being sent. I think something that we really need to develop is like proof of confirmation, whether that's the patient portal itself or a change in color of the appointment type. But right now it's just a reminder.
+Antoine: Okay, good. Thank you. Sorry David.
+David Yacoub: No, no, no, no, no worries at all. I'm just trying to actually see if I could find, oh, that's not a good patient to try that on. One second. I'm just making a new schedule here. Let's try this patient. Let's go here. Try filtering. Perfect. Okay, well that's awesome. Okay, well, I'm just kind of testing out some of those issues that we were having last time. And it looks like they were fixed. So that's really nice.
+Christopher Hume: Wonderful. Yeah, I met with, I was going to say, David, I met with the engineers last week. On Friday, I guess. So we, we chatted about one of those issues. And then the issue Kristen had that should be resolved now as well. We figured out what's going on there and we fixed it.
+David Yacoub: Perfect. Well, I really appreciate that. I mean, I'm not going to lie. It's been a bit of a busy week because we've been dealing with a lot of like other things that just kind of have been coming up recently. So we kind of had to put a little bit of like, you know, our time to that. And so, but I'm going to be spending some time hopefully this week and really getting some more action on it and testing it out and letting you guys know. But so, so far, do you have any like, and then what about that idea of like exporting information? Is that something that we could potentially do? Like for example, if we wanted like, you know, patient, I think you were telling me that last time that you guys could create us something like that, if that was something that we really, really wanted to do, but not a big deal right now.
+David Yacoub: Just in terms of the confirming that.
+Christopher Hume: Yeah. Long term, if kind of you decide to come on, you're like, hey, we need these reports. Yeah, we get, I wrote some of them down. I don't have them in front of me, but we'd be able to develop those for you.
+David Yacoub: Perfect. Okay. Well, I really appreciate that.
+Christopher Hume: I had one question for you, David. As part of this sort of trial period, you do get two custom templates. Would you, as you're testing JotSych, would you like me to develop those for you so you could see how it would sort of fit with your current workflows? No pressure if you just want to use the off the shelf ones, but I'd be happy to make something custom to brain health. That would be helpful.
+David Yacoub: Yeah, I remember actually you mentioned that that'd be wonderful. And you just need the way that we have our templates, right?
+Christopher Hume: Yeah, if you could just send me.
+David Yacoub: Yeah. Perfect. I will get that sent over to you.
+Christopher Hume: Wonderful. Then I will customize those templates, get them loaded up to your account. Usually it takes a couple business days once I receive them. And then just one other thing. Oh, we talked about e-prescription. I suppose since you haven't had time to kind of play with it too much yet, now might not be the best time. But that's something we can discuss setting up maybe during a check in next week.
+David Yacoub: No worries. Yep, we can do that. I think that sounds great. I really appreciate it.
+Christopher Hume: No, of course. Any other questions or anything I can support with?
+David Yacoub: Honestly, you guys have been really wonderful. I really appreciate that. Seriously.
+Christopher Hume: No, of course. Yeah.
+David Yacoub: No, it's our job now and you're not. I mean, Antoine, if you have anything.
+Antoine: Oh yeah, if I may. You mentioned Chris that you do have like some dashboards and analytics when it comes to the billing does not like include the whole revenue cycle, like in terms of what got built, what got reimbursed. What got denied and everything like in regards to that.
+Christopher Hume: Yep, exactly. Those are some of the, that's the information we typically developed. It's kind of time to payment. What you build, what you actually got paid for, what the difference is there. And so those are, I can actually pull up an example of like a standard in front of me.
+Antoine: Standard.
+Christopher Hume: Billing report out. But we customize these, I'd say for all of our billing customers. So if there's something else you need that isn't included on this list, we could have our engineers build it for you.
+Antoine: Awesome. And I wanted to mention like the analytics that we want from the operational perspective. It might be similar to what's there in the building. Exactly. There's definitely differences there, if that makes sense.
+Christopher Hume: Yep. No, certainly understand that there's going to be different. Operational requirements. But yeah, if our engineers can build these reports, I'm certain that they can build sort of whatever you need, Antoine. What would it, could you do you have any examples just so I can start having the engineers think about it.
+Christopher Hume: So whenever you tell us you want us to develop them, they can just hit the ground running.
+Antoine: Yeah. Top in my mind would be like how many appointments per provider, what the percentage of like the no shows, how many appointments like yeah, eventually went to BNO show and it rescheduling like the type of appointments like the breakdown of it. Like this is a psych appointment. This is a therapy appointment. Etc etc. Like I mean it's basic operational. Analytics that we can like follow through and kind of figure out if there is a gap with the provider X or provider why and we get like to be working on them and so on and so forth.
+Christopher Hume: Yep. Now there's I have no concerns about that Antoine. We'll be able to develop those.
+Christopher Hume: So yeah, but we can certainly go
+Antoine: first like the analytics should be like if I want to pull up a certain day or a certain date I can do that if it's like a period of time like from March 1st to March 25th and so on and so forth. Like it's respective to whatsoever period of time we want to export these analytics.
+Christopher Hume: Yeah, we can do that.
+Antoine: Awesome.
+Christopher Hume: I guess before this might be one of the few times I've put a 15 minute call on the calendar and I've kept to it. So David and Antoine could we put 15 minutes on the calendar for the same time next week. It'll be a check in. David, we'll see kind of how you're experimenting has gone. We can also review the templates that I'll have loaded into your account by then. And we can also, if it seems right, discuss turning on e prescription as well.
+David Yacoub: Yeah, I think that sounds great.
+Antoine: Perfect.
+Christopher Hume: Well Brittany, I know you joined us as well. I just want to check anything from your end.
+Brittainy Wagner (Tidemarkva Admin): No, I think everything's pretty much straightforward. I was just here to offer support if I needed to.
+Christopher Hume: Perfect. Always appreciate you joining Brittany.
+Brittainy Wagner (Tidemarkva Admin): Yep, not a problem.
+Christopher Hume: Oh my gosh everyone, we're going to be meeting on April Fool's Day. So no, no pranks next week. No pranks. Yeah. Well, thank you all. As always, if you have any questions, you have my email. We have that Slack channel together and you have my phone number. So I'm here to support you all. We really appreciate Chris. Thank you so much. Appreciate it.
+Antoine: Thanks David.
+Christopher Hume: Thanks Antoine.
+Antoine: Bye bye. Bye bye. Thank you.

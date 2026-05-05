@@ -1,0 +1,91 @@
+tabitha: I talked to Nate a little bit a couple of weeks ago, and I didn't even know you guys had released it, and it must have been very close to the release date.
+tabitha: Because I think it was pretty fresh. Because I'm in the middle of moving into a new EHR already. And before I did it completely, I wanted to take a look at you guys to be sure. What I want to do.
+Lee Harrold: Sweet. Yeah. So I guess do you already have a JATSEC account? If so, you can walk through that. And if not, I could show you kind of a demo one.
+tabitha: I really don't.
+Lee Harrold: I did.
+tabitha: It's been six months since I've been in it.
+Lee Harrold: So. Sweet. Yeah, I can kind of. Show you. Well, I guess first, first of all, ask what kind of feature? What can you tell me about your practice and what, like, interests you about a fully P2DHR?
+tabitha: Yeah. So I'm a psych ND. I am a nurse practitioner, so I do medication management. I also, and that's one of my questions, will be implementing some women's health this year. Which I know you guys are very behavioral health focused. That's a bit different. So I wanted to be sure that that model would fit. So it's like mental health care, but with a, like a specialization in women's health and hormone replacement, which is more medical. I'm dual certified, so I'm certified as a psych NP and a medical NP. And I have about 300 active patients that I'll be moving into the system. And I do insurance, but I currently use Alma and grow, but I plan on. Doing my own billing once. Starting to implement my own. Doing it on my own, as opposed to paying those companies to do it.
+Lee Harrold: Yeah. Yeah, it is. It is a kind of, I think the entire premise of Alma and grow is, is that if you, if, if you don't have the infrastructure to manage that yourself, like, it's, it's really, really useful and you're paying a premium for access to new patients. But you have more than 300 patients. There's no reason you need to pay that premium anymore.
+Lee Harrold: No, no, I don't. Okay, cool. Yeah, well, I guess there, there are a couple of features, and I think that I can show you. One of them is, is called jot bill. So it's, it's our internal billing service. And then our e prescription integration. So who, who do you currently prescribe with?
+tabitha: So we are connected. I use an EHR now called intake Q or practice Q. Oh, yeah. Who are they connected to? I don't remember who they're connected to. But I do e-prescribing through that.
+tabitha: That I really would like to see, like, the intake, the, the workflow. But just so you know, I have a meeting with Nate again tomorrow.
+tabitha: Oh, okay, cool. Showing me a lot of that. But I really kind of want to see, like. The start to finish. Like, the experience not only on my end, but also the setup, like getting my consent forms in there. How do I get patients to sign consent forms? Is there the ability to do that? What the future growth is going to be for this? Like, what are you guys focused on? As far as what you're hoping to do with it? And, yeah, those, those are kind of like the big things. Because, I mean, the day to day, I think I could learn pretty quickly that. That part is not, I mean, it's obviously important, but I want to make sure that it's going to be something I can even. Use anyway.
+Lee Harrold: Makes perfect sense. Yeah. Okay. I can, I can walk you through that. And then I think, I think I'll let Nate walk you through. Shot bill and kind of the, the future leaning, like future perspective stuff, because that, that's, that's where, where his, his head lies. But I can, I can definitely show you what it would look like to get set up, what it would, what daily use would look like, how you can manage consent forms and send them to patients. And then I might give you a sneak preview of our. E-prescription integration as well. Let me go ahead and share my screen.
+tabitha: When is your ePrescribe going to be all set up?
+Lee Harrold: Oh, it's, it's set up now.
+tabitha: It is.
+Lee Harrold: You see my screen?
+tabitha: Yep. Awesome.
+Lee Harrold: So I will. Log into a development environment. So you're going to see a lot of patient names that look real but are generated. And then you're going to see some stuff that. Yeah. Okay, here we go.
+tabitha: So this is your, it says that you're presenting on the bottom left.
+Lee Harrold: Oh, yeah.
+Lee Harrold: Let me go ahead and close this for you.
+Lee Harrold: I didn't know my screen or yours. Thanks. Yeah. Now, now, now you can see, see those. Yes. So here's our, here's our, here's our home screen. You can see sort of your upcoming sessions here. And manage your schedule on this session. So again, you can see all of these. The red X's are for an upcoming eligibility check feature. So it's insurance information for any of your patients. The idea is you could automatically check because of time if you have it scheduled or manually if they're covered or if you're in network for them. But that's all aside. Let's get to the good stuff, which is. Forms. So we have a form system which allows you to create any form that you want. We have a couple of similar objects or forms and there are documents. The only difference is that a form is something that you want the user to put information into so you can retrieve it. So if I wanted to create a new. If I wanted to create a new form for a patient, we have the forms library with some pre-made ones. I have some that I've created myself. They live in this, this my form section. And again, this, this orange is because we're in a dev account, but you, you can see we have a selection of the most common.
+tabitha: Screening tools.
+Lee Harrold: Yep. Yeah. And so we can use the same. Like. We're, we're going to send both screeners and consent forms using kind of the same Avenue. So either text or over email. We can build a new one with a, if you, if you already have a consent form, it sounds like you have several. You can just go ahead and click this button and then we will automatically ingest it. And create a new form based upon it. You can also use this like drag and drop solution. But to be honest, the majority of our providers prefer to use this AI form generation strategy so you can simply say. Please create a. Consent form for the use of an AI scribe in a behavioral therapy system setting. And then we can sort of say, well, it doesn't work. And you can send forms manually. From the patient page or from this form page. But you can also have them sent automatically. So that's, that's kind of that, that schedule feature. You can. Create what we call appointment types. And pre-program reminders to be sent to users over text or email. Or follow-ups so if you wanted to send. A, a snippet from the conversation, like a set of protocol that you want them to adhere to or, or reference afterward. That can be sent using that system, similarly screeners before or after you could send on a scheduled fashion using that. This is taking some time.
+tabitha: With the screeners, does it self score and does it keep like a, like. A, is it, does it give you a reading, like a feedout?
+Lee Harrold: Yeah, it does. Yeah.
+tabitha: Let me.
+Lee Harrold: I think I have myself as a patient. One of these. Okay, I can maybe add a couple to this anxiety focusing take session. So, yeah, users can provide. I'm just going to put in some arbitrary numbers. Every week. Oh, yes. I need to score. We were more anxious at this time last week. Than we were. Three weeks ago. Even more anxious. So these charts will populate live with whatever combinations of scores are provided from the screeners that we send out. So you can track them over time. And then this is where I mentioned on the patient page you can send screeners to patients. If you didn't want to have them sent manually. And then also, I'll call out this ad score is, is useful if, if you want to conduct the session in person. Or if they filled it out on paper and you want to transcribe it.
+tabitha: Okay.
+Lee Harrold: What, what else is. Oh, yeah. Okay. This is convenient. So this is. I, I don't have any medications inside of this patient, but this will get us to our e prescription platform. We partner with do spot to deliver e prescription. This is not a real address, so don't worry. I haven't added myself. Let's add a prescription just to show you how easy this is. We have a lot of people come from doctor first, and I guess that's not like a particularly. Easy system to use. Oh, this is the pharmacy. Yeah. You could start by selecting a pharmacy. Let's, of course, CVS. I am in Indianapolis, so that part of the address was correct. What part of the country are y'all from?
+tabitha: We're in Florida.
+Lee Harrold: Oh, fantastic.
+tabitha: Yeah. It's so nice out today, too.
+Lee Harrold: So. Oh, yeah. That's why we're all, I guess. Yeah. 77. I was like, I can't, I can't be inside.
+tabitha: No, you definitely cannot.
+Lee Harrold: Yeah. So here, this is really as simple as that. You define. How it's meant to be taken, like how many refills you want. Daily Supply. Okay. That's the prescription. So, yeah, I covered those two pieces. Have you seen our recorder already?
+tabitha: Yeah, I'm, I'm familiar with that one. What about the intake process? So I have forms. I send them to the patient. They complete them. And then it comes back to the system. Do they get reminders? Am I able to send reminders?
+Lee Harrold: You can. Yeah. So they'll, they'll, they'll come back in through the system using this, this forms segment. So if I. Send. One to myself.
+tabitha: My life, there we are. To an engineer, for God's sakes, that's what she said.
+Lee Harrold: You're. Yeah, yeah.
+tabitha: My, my son is in school to be a computer engineer. He's almost done, and he keeps yelling at me for having all those tabs up. So. I, I get it. But I'm surprised.
+Lee Harrold: It's a short-term discipline thing. It's not a long-term discipline thing. He does this for a few years. Yeah. Yeah. This is, this is about as clean as it gets for me.
+tabitha: Oh, gosh. He uses some different browser, too, so I don't know. Probably maybe that's it. I don't know.
+Lee Harrold: Oh, you know what? I, I realized because I'm in a dev environment, actually, I won't receive this form. But I think. Well, more. Here we are.
+tabitha: Okay.
+Lee Harrold: So this is an example of the form completed. Yeah. And when, when they're sent, they'll show up in this section here, and we have access to what it was they, they supplied. And then it's, this is sort of the file management solution. So if you wanted to prove it, you had something on consent for that user, you could go review it here in this forms drop down for this patient.
+tabitha: Okay. So you have to go to forms and look it up. There's not a notification that pops up letting you know there's a form completed.
+Lee Harrold: Correct. Feature there.
+tabitha: That's a good idea.
+Lee Harrold: That's why we, why we do these calls.
+tabitha: Listen, I got a list of ideas. You guys, you guys want to consult with me?
+Lee Harrold: I can. We're always, we're always interesting. I actually mentioned, mentioned that tonight. We, we run, we, we have a sort of internal board. If you're, if you're interested, you might have some, some details for you there.
+tabitha: Well, the engineers might hate me for it, but it's their job.
+Lee Harrold: It's our job.
+tabitha: I know, I know. Yeah. You guys got a. Main. What about, like, if I said, all right, I want to get, I want to go into the system. What is the setup time? Besides obviously getting the patients in there and how that works?
+Lee Harrold: And how that works. I say about two days is the getting the patients in is, is really as simple as you could do this yourself or you could, you know, get on a call with me. Export your patients from intake Q and then drag that zip file into this thing. And then there's a little wizard that will walk you through the process of which one, basically, we, we show you the patients that we found in the files that you brought. And then you can approve, approve or deny them. So, yeah, getting, getting patients in is pretty quick. And then you can use it pretty, pretty much immediately. We can import your appointments. As well. So you wouldn't have to manually create more. You just kind of. Quickly begin using, I said, the scheduling system or continue using practice queue as a scheduling system and just keep your recording coordinates over.
+tabitha: With the scheduling system. Is there like a link that I can attach to my website that allows patients to self schedule and manage their appointments?
+Lee Harrold: This is, again, another phenomenal, phenomenal idea.
+tabitha: You're welcome. I got a list.
+Lee Harrold: That's great. I'm not joking. Nate. Yeah. I'm happy to hear them.
+tabitha: All right. Yeah. I mean, you're gonna regret it, but. I, I mean, I literally could build the perfect EHR. And I'm not just saying that.
+tabitha: Like, I am so meticulous in my, where she knows. Yeah. In my ways. But I know what we want. And I feel like every day we're asking for it, like, as collectively people, people don't know what they need.
+Lee Harrold: Yeah.
+tabitha: Until they see something and you're like, holy moly, that, that's really nice. You can take all of those systems and, like, put it into one. I mean, this is great. But I think that's, I want to talk to Nate tomorrow, but I think you guys are just a little too early still for me to be able to say, right, I can jump in both feet because of those things. The Google calendar, the Google calendar integration, that is going to be big. If you guys can get that, that's going to be great. Like the two way. Or something I had talked to your last person about it. They said that you were looking into it maybe.
+Lee Harrold: But. Oh, yeah, yeah. The ability to, to like manage. All of your calendars directly from Google, I think is that, that would, that would be a game changer.
+tabitha: Yeah. It is a big deal. Oh, it says sync calendar up there.
+Lee Harrold: So what does that mean? Yeah, I was, I was hoping you wouldn't notice.
+tabitha: I was going to sort of surprise you.
+tabitha: That is, it is, it is
+Lee Harrold: a feature that is coming very soon.
+tabitha: All right. I will not say a darn thing.
+Lee Harrold: I promise.
+tabitha: Are your secrets kept with me forever?
+Lee Harrold: I appreciate that.
+tabitha: All right. So anyway, that's one big thing. And then, but you guys, I think you guys are going to grow so fast. You guys are going to be amazing. It's just, it's like I'm already, like, halfway into this new system, and I saw this, and I was like, oh, my God, I want to do this so bad. But we just have a few more things. I think we got to wait for, I think.
+Lee Harrold: Yeah, that makes, that makes perfect sense. And what's nice is, like, shifting between systems, I think, is easier now than it has ever been before. So it, it's not like you're going to incur a massive time loss by shifting to, like, away from practice skewing through what you're moving into.
+tabitha: Well, what I'm moving into, it is a massive time loss because. Oh, really? And I'm meticulous. Because I want to make everything perfect before I start.
+Lee Harrold: That's my problem.
+tabitha: But I think if I, like, in six months from now, have you guys have the product that I need, then you, I, I think you're like 90 there. Then I think that is going to be easy to get into.
+Lee Harrold: Here in six months. We can definitely build the three things you asked for.
+tabitha: Yeah. So I got more, though, so we'll see.
+Lee Harrold: Oh, great. That's perfect.
+tabitha: But I still, I'll talk to Nate tomorrow. I don't know if you, if you talk with him. But, yeah, if he wants to, you know, hear some, some feedback on, you know, some things that I know that at least medication people need, I don't know about therapist.
+tabitha: But I, I got all, I got all the plans.
+Lee Harrold: Yeah, that would be spectacular. I'll, I'll let Nate know. And, and we'll sort of see if he wants to schedule another meeting or just make his session with you longer tomorrow. But I think, I think he would earnestly appreciate your ideals.
+tabitha: Yeah. All right.
+tabitha: Great to meet you. Take care.
+Lee Harrold: Bye-bye. Take it easy.
+tabitha: Bye.

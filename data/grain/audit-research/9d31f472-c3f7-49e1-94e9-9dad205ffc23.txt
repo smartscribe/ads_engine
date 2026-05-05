@@ -1,0 +1,244 @@
+Becca Bressler: Hey Tracy. Oh you're muted. Can you hear me? Yes, perfect. How are you?
+Tray Sanderbeck: I'm good. How are you doing good sorry about all
+Becca Bressler: this back and forth with email but I'm so glad we're getting to sync up. So I just can you. Do me a favor. I'm going to walk you through how this feature works and how you should think about using it while you're testing it. Can you share your Jot Psych screen with me? You are like our second or third person use this. So expect some upgrades after we get feedback from you. But this is you know the drill I think.
+Tray Sanderbeck: Might share my window or my entire screen.
+Becca Bressler: Gestured jot psych window is totally fine.
+Tray Sanderbeck: There. We go.
+Becca Bressler: Great okay so I have enabled this on your account actually let me just check one thing. To make sure. This is going to work well for you. Let's see. So. I'll get myself here. But okay amazing turning this on okay so Tracy the the this is sort of like in a beta phase which means actually when you're using jot psych for this feature you have to use a slightly different URL jot site will be exactly the same for you but instead of app like right now are you using app dot psych.com is that what the URL says ap dot psych.com says.
+Becca Bressler: Mine says app jot sac yes great so this new feature lives on if you go to if you replaced app with the word next and it's just next.jot site.com that's sort of like the. The other platform where we get to test these things out but it works just the same so if you just kind of reload that website. Shouldn't have to log in again you should already be logged in but let's see what happens next.
+Becca Bressler: Okay all right maybe you do maybe I led you astray but let's let's see. Oh great okay awesome so let me just walk you through this telehealth tool so. The way that you sort of create this like telehealth room is always through the schedule so it's tied to an appointment and the thing about this room is that you don't get like one link that persists over time for all of your patients it's sort of like it's like attached to the appointment if you will it's not like this is you know Tracy's link and it's always going to be Tracy's link so as you're testing this some that's something to keep in mind that for a patient that you're going to be seeing and testing this with they have to have an appointment on the calendar and like you could send them the link that way through an appointment reminder. The other thing and if you go back to if you go back to job site for a second I think right now I'm looking at yeah great so not only is it tied to an appointment but very specifically the room only like opens 15 minutes before. So if you schedule with me if I'm your patient and we have a 515 appointment on the calendar today and that's where the telehealth like room lives I try and open it at like 450 it'll just say like oh not ready etc and so it's there's like a 15 minute waiting period and that goes for you too though. So like if you have an appointment on the calendar for an upcoming patient that's like, you know, more than 15 minutes ahead of time and let's go through both of these. I'll show you how this works. So for now can you create an appointment that start like a test appointment that starts at 5 pm. Or this is actually 530 which is good. Let's try this version of it and you can kind of see how this works. Okay. Because you shouldn't be able to. And then click telehealth. Oh, so the other key thing here is you're going to click the telehealth checkbox next to the appointment type. If you go up.
+Tray Sanderbeck: The appointment time this then.
+Becca Bressler: Yeah. So it'll go up a little bit it's right next to that drop appointment type drop down that little checkbox that says telehealth.
+Tray Sanderbeck: Oh God okay great.
+Becca Bressler: Okay. And then you're going to save it. And now like I'll show you how this works. So let's click into here and try going to that session right now. Let's click that and click go to recording or start recording. Excuse me. And you'll have to just enable your microphone.
+Tray Sanderbeck: What microphone are you using?
+Becca Bressler: So you it looks like are talking to me through your computer.
+Tray Sanderbeck: Because I want to get rid of that stupid thing that's causing me all these issues. Remember when I was meeting with the member and had that meet whatever. Microphone is causing all the problems.
+Becca Bressler: Are you still having issues with that?
+Tray Sanderbeck: Oh yeah. Yeah. I still have an issues with it. I can't even go into the appointment. I have to go to record to record anything. Let's just see what happens. Let me just go here. Just let's. Oh great.
+Becca Bressler: Okay. Wait let me ping Alfred really quickly and see if he can join.
+Tray Sanderbeck: Office was blocked by your browser. To enable it click the lock or site setting icon on your address bar. Or dress setting. Fine micron and change it to allow.
+Becca Bressler: Is there an there's a pop up that you've seen that just asked you for permission?
+Tray Sanderbeck: No. No I've never seen this before but remember how I was going on to this and then it was over there was a drop down and I don't know why I've never.
+Becca Bressler: What browser are you on right now?
+Tray Sanderbeck: Google or Google Chrome?
+Becca Bressler: Okay. I'm going to send Alfred a link to this and he's going to come. Hey Alfred.
+Alfred Souza: Hi. How are you? Sorry I'm gonna I'm looking at you here here let me let me move this sorry.
+Becca Bressler: Tracy do you want it yeah yeah perfect. And you can describe the issues you were having Tracy that you were you
+Tray Sanderbeck: said yeah still having issues with that meat you know how that different microphone keeps showing up instead of my computer microphone I have to keep changing it or it locks up my system or I can I can still only record from this button I can't record from you know like going into a patient I can't I can't I can't record from this I'm still having to record from that but then now this is something I've never seen before oh yeah this here it is I've never seen this.
+Alfred Souza: Okay so this is that you explicitly disabled the microphone for Jat psych.
+Becca Bressler: One thing to know Alfred in case this means anything we just got her on next so she's been using app but I just moved her over to next for jot vid I don't know if that would have anything to do with this
+Alfred Souza: but it shouldn't what happens when you click on enable microphone there.
+Alfred Souza: Nothing does something pop up okay so if we click on the three dots at the upper right. Corner of the chrome. Should be able to select settings. Or actually before doing that might be easier to just so in the URL bar the left of what it says HTTPS next. Site so if we click on the little icon that's to the left of that okay.
+Alfred Souza: Oh microphone not allowed here it is yeah so you need to allow it.
+Tray Sanderbeck: Reset permission. Okay now it's allowed I guess okay and now you're gonna want to
+Alfred Souza: either click on that reload okay there it is.
+Tray Sanderbeck: Right very good and it looks like you see all the good issues in that because it's still you see this Microsoft I've tried to take in it I went down a rabbit hole with chat TPT trying to get it all the way off my computer it just keeps coming back on I don't know I I don't know how.
+Alfred Souza: So okay so I I think I've been I've been banging at some of the bugs that you that that we discussed last week but I don't know let me let me look into that a little bit more I won't be able to get rid of it for you but hopefully I'll be able to. Have it so you're not having to switch back to your preferred and and and maybe we can get there so let me look a little bit into
+Tray Sanderbeck: into that this week that's fine but then I caught it the other day. I'm like it wasn't recording then it goes that green box it says something about was your note was recovered and then it generates a note and I haven't even started and then I realized okay but it it defaulted somehow to this but yeah I'm still having that issue okay but we're okay okay.
+Becca Bressler: Thanks Alfred yeah I'm just walking her through
+Alfred Souza: the telehealth okay and just quick thing like next is not a prerequisite for telehealth that's all the way in oh it's not okay yeah so that's food for thought because okay bye thank you.
+Tray Sanderbeck: Okay do I need to was he saying I don't need to change to that
+Becca Bressler: I don't know you don't you can do it either way but but you don't need to is what he's saying actually so we have some users on next though it's not like a it shouldn't disrupt your experience or anything like that and you get all the same functionality but okay so basically once your appointment with telehealth is within the 15 minute window and you go to the appointment you hit join session really importantly though Tracy you also need to record so we are not capturing the audio from the telehealth and using that to transcribe and create the note. So where you are typically starting recording you would still need to press that button to make sure it's capturing the audio.
+Tray Sanderbeck: Okay, so you're. You're saying that starting the telehealth. And then. But I also need to click on the start. Just the notes just like I normally do.
+Becca Bressler: Yeah, yeah. That to capture the audio, you still need to start recording. It's not the telehealth doesn't like replace the audio capture of the recorder sorry go ahead yeah yeah go ahead.
+Tray Sanderbeck: Is it going to be able to just on on this computer I'm going to. Be able to record like have telehealth record and hear like that.
+Becca Bressler: Yes. So let's actually do it right now if you want do you want to create it me as a test patient and you could like send me a message and I'll walk you through just like how this works.
+Tray Sanderbeck: All right so let's go to here. What do you want me to call you?
+Becca Bressler: Whatever you want back a test boring but maybe helpful for the next time we do this.
+Tray Sanderbeck: Right. And new patient and.
+Becca Bressler: Here let me give you my cell phone number so that I'll get the alerts.
+Tray Sanderbeck: Okay. And just doesn't need your birthday
+Becca Bressler: this is optional this is optional just my phone number so that you can send me like appointment reminders and stuff like that. So that's 925. 451. 337.
+Tray Sanderbeck: Okay create the patient. All right now put you on my schedule amazing can I get rid of Melissa
+Becca Bressler: somehow yeah you can delete it so if you open this up.
+Tray Sanderbeck: Open it.
+Becca Bressler: And just hit delete in the bottom right that should delete that for you.
+Tray Sanderbeck: And then now I can put somebody in here. What time is it five?
+Becca Bressler: So do a 531 so yeah let's do five let's do five 30.
+Tray Sanderbeck: Let's do 530 yeah. And then we're going to say Becca. Back and back.
+Becca Bressler: There we are.
+Tray Sanderbeck: Oh there you are. Yep.
+Becca Bressler: So yeah so what you could do when you're testing this out with people is you could either like send that set them up with appointment reminders and they should get the link with that but for this I'll just kind of show you how this works here so click into that and let's open the recorder.
+Tray Sanderbeck: Start recording.
+Becca Bressler: Yeah great so okay so ready to join telehealth ready because we're within the window so for this for this you're going to start recording just to make or you know you can join the session start recording whichever order you want
+Tray Sanderbeck: nothing on here showing me that you're. You're there.
+Becca Bressler: Yes no there's nothing you mean like in a waiting room or anything. Yeah yeah so I'm technically not in a waiting room yet because I haven't gotten I haven't but this is actually a good so can you join session for a second Tracy? Oh no failed to join session can you restart refresh your page.
+Tray Sanderbeck: Well. Okay so i'm going to start over to Obecca test I can't go from here so I have to go from the schedule. Go to my appointment and then I'm going to say start recording.
+Becca Bressler: And then oh and it disappeared where to go.
+Tray Sanderbeck: Okay let's try it again schedule. So we're going to say Becca test and I'm going to say patient information incomplete does
+Becca Bressler: that shouldn't matter that should not matter here.
+Becca Bressler: Okay no yeah okay i'm going to hold on let me. Hang out for it because he's actually working on this too. Let's try. Okay so let's just like try let's start over for a second can you go to schedule and let's like delete the appointment and create a new one.
+Tray Sanderbeck: Okay. And create a new one and it's back up. All right am I doing 5 30 again yeah let's do 5 30. Save it.
+Becca Bressler: Let me go in or you want to wait yeah let's go ahead.
+Tray Sanderbeck: Start recording.
+Becca Bressler: Okay I'm come back Alfred typing I'm just saying he's gonna come. Like what. The heck hello so quick thing Alfred so what Tracy and I did is on her schedule she created I'm I'm a test patient we created it we went to the recorder the telehealth link was there she tried to enter and got an error that she couldn't so then I said refresh the page and then it just like totally disappeared like the telehealth button wasn't there on refresh and we deleted the appointment and then tried it again and I oh you got to click telehealth session for that Tracy.
+Becca Bressler: I didn't have telehealth I bet first time you did though which is why it showed up but then was an error
+Tray Sanderbeck: which was detected from your ILMH therapy.
+Becca Bressler: Appointment type what does that.
+Alfred Souza: S if you would want to update your appointment type so with the new telehealth to always be checked. For now if you're testing I would just just hit save yeah so I'm going to save
+Tray Sanderbeck: that and I'm going to go back in and.
+Becca Bressler: Oh there we go okay so let's hit join session again. This is where we got an error last time. Oh we got an error before getting here though right Tracy?
+Tray Sanderbeck: Yeah wondering about are you sure that.
+Becca Bressler: Yeah I saw the air on that button but okay Alfred I'll let you go we'll keep going and see we can review the grain after but there was some error that you got beforehand.
+Alfred Souza: Yeah I mean right now it's not working it says camera off. So that's a problem. When you you see a little yeah that one can you. Click it and then click it again and see if that does something for us.
+Tray Sanderbeck: Says turn camera off your camera on no I'm wondering if because we're using it are we on the meeting
+Alfred Souza: is that's very likely yeah especially are you in the same is your meeting in the same browser yes. Probably well. Here let me let me test it on my side because I can. Not be the case. Let's do something. If you click again on the on the top bar on the URL to the left of the URL where we enabled the microphone before. Okay if you click there is the is the camera enabled.
+Tray Sanderbeck: I can't click there because oh camera and microphone block okay so
+Alfred Souza: we we definitely don't want to block it if possible.
+Tray Sanderbeck: So camera we're turning on microphones on. Do I just leave it like that
+Alfred Souza: okay now we need to reload so just either click that reload button or yep.
+Tray Sanderbeck: Now we're going to do session oh there we go okay where's Becca?
+Becca Bressler: Oh I haven't joined yet so I'm still in the Google meet so so Tracy if you hit join call.
+Tray Sanderbeck: And call okay.
+Becca Bressler: And then do me a favor hit send invite to patient.
+Tray Sanderbeck: Send invite to patient.
+Becca Bressler: Awesome okay so I should get a notification. All right.
+Tray Sanderbeck: Did that work.
+Becca Bressler: I got one on my computer but.
+Alfred Souza: Yeah and I have some changes to that that we'll be pushing
+Becca Bressler: so hey Alfred so Tracy I'm gonna would she see that I'm like in a waiting room if she were not in this view yes no not in. Like if she exited out.
+Becca Bressler: Exited out no there'd be no like patient waiting or anything like that
+Alfred Souza: currently not so in this view or in the previous view. She should be able to see it but if you're not inside of the telehealth experience you won't see waiting having said that that's probably something we might want to yeah do so bubble it up to that initial join a call yeah to the recorder level.
+Tray Sanderbeck: All right so now it says bt wants to join the call so I say okay. There you are.
+Becca Bressler: Do you need some you know what Tracy maybe maybe today's the day okay cool so this okay Alfred we'll let you go
+Alfred Souza: but yeah let me know I can I can jump back in so thank you very much
+Becca Bressler: okay great so Tracy what we here let me. Turn this off. I'll get out of here. I've left call. Now go exit out of it for one second Tracy like hit that red button okay. So and hit join session for a second let's see what you see before like right there so let's see. I'm going to request to join. I think Alfred saying you should see. Some notification from me but it looks like actually you're not seeing a notification from me at this level either that I'm like here. Okay got it. Okay that's helpful to know so I'm going to leave so. Join request. So a couple things we would love for you to test Tracy so yeah we just want to like hear what you think about this the placement the experience of like you know what features does this lack that you would need for for telehealth like your expectations of what it can do. For instance right now you actually can't switch tabs within JotSyke like there's no it doesn't become like a picture in picture like Google Meet does so you would have to like open a new tab if you were exploring somewhere else in Job Psych which is like something we would want to know if that's some if that's what you would want to do
+Tray Sanderbeck: so when I'm in here I pull up my patient.
+Becca Bressler: Oh.
+Tray Sanderbeck: I can't look around and jot psych while
+Becca Bressler: I'm on oh no you wouldn't have to like open another tab to do it.
+Tray Sanderbeck: So I'd have to have this for telehealth this tab next tab and then I'd have to be over here in my regular jot
+Becca Bressler: psych it doesn't have to be next so like they could be on the same browser like they you know they don't have to they don't have to be in different browsers like if you go to your calendar here for instance you'll see the appointment we just came up with though you'll probably want to close it out of the other browser just so it.
+Tray Sanderbeck: S so where did the telemedicine thing go so if I was on a telemedicine call can you see where what
+Becca Bressler: I'm doing or not yeah yeah you're on your patient list
+Tray Sanderbeck: I'm on the patient list from and next so if I'm using this for telehealth then I'm gonna have to open up a second browser.
+Becca Bressler: To look at the patient page but like presumably that with is something you would want like you wouldn't want to have to do that is what I'm like you would want the flexibility to click around.
+Tray Sanderbeck: Yeah if I'm on if I'm on this. Yeah so if I'm on this because right now it's a different it's going to be different for me because then I'm also going to have to have Dr. Kronos so I'm going to have to click into Dr. Chrono and then I'm going to have to have this job site and then the telehealth.
+Becca Bressler: So, yeah. It's just another third browser got it so for you in order to make this actually usable in Jot psych you would need to be able to go between browsers and three browsers yeah between like jocks like you'd be able to ideally what you would want is to be able to like be on a telehealth call go to the patient but then have the like video in the corner continue with you. Yeah yeah that's super helpful the other thing it would that would be really useful to know if you were to like use it with a couple patients is the placement of it on the recorder page like youe know it it makes it kind of makes some parts of it further away like the notepad. Okay here you mean yeah so like when you say join session like yeah I'm just curious in your workflow ideally like where would this even be while you're in a session?
+Tray Sanderbeck: Yeah just I'm literally just using this for my telehealth otherwise I mean yet it's showing is showing that I can record from this page is showing what note I'm using yeah then if I wanted to while I'm in a session wanted to go over here and see what I did with Becca last month. Then I'd have to go in here. And see oh wait now it take it took why did that happen?
+Becca Bressler: Just took you back to the encounter that you created this is sort of like a pending encounter because we've created it already
+Tray Sanderbeck: so if this was a if this was a previous encounter it would take me to the note
+Becca Bressler: yeah if it was a previous encounter if it would if it had already been created and if a note had already been created
+Tray Sanderbeck: the switches take you this note was. From a month ago and it was not impending it was done. And I could click on it here and pull up the
+Becca Bressler: note and it would be the note yeah yeah but what you're saying is you would not want to have to have multiple tabs to do that you would just want to be able to have the video persist
+Tray Sanderbeck: maybe put it up here somewhere and be able to. Dance around while this is up here I don't know if that's possible
+Becca Bressler: what is the size you would want like when you're doing telehealth are you doing like full how how much is the video for you with the patient?
+Tray Sanderbeck: Well right now it's the size of a laptop. So I see I see me in the corner little tiny me in the corner and then I see the patient and how big is my laptop it is. Can't remember how big this laptop is 17 inch I think so it's the whole you know it's the whole window but it's not necessary I mean that's not necessary something like this size would be fine
+Becca Bressler: yeah what do you feel about okay so so Tracy can you use this with a few patients and then just give me feedback on like how it's working if you like wish it were somewhere else if you do find yourself feeling like man I really wish I could just click the patient tab from here and not have to open another window like just would be curious to know more about your workflow and how this fits inside of it.
+Tray Sanderbeck: Yeah and it's hard because I do, you know, I do well it's not hard I'm just saying I think my feedback will be skewed a little bit. But I can I can imagine because right now I'm having to still use it Dr.
+Becca Bressler: Chrono.
+Tray Sanderbeck: And I'll be bouncing around between Chrono and Jock Psych and so it's just another screen.
+Becca Bressler: It's not that big yeah but you know a lot of our users have other EHRs as well so like our hope here is that we're helping people consolidate some tools because some people have you know their EHR their Jot Psych and Doc C or something you know they have like a standalone and so this is this is the hope of like. Reducing that but if there are things about the experience of it in JotSite that actually don't make your experience better than your previous one like that would be something great to know and just like your wish list item so so yeah.
+Becca Bressler: We know that.
+Tray Sanderbeck: How do I so so I'm going to have to like sign on with a patient and then how do they get how do they get because this is going to confuse them but that's okay what I'll do is I'll sign on and I'll say I'm testing something can you click on now? So how do I send them the link?
+Becca Bressler: So do you have your patient's phone numbers in your system in your Jot Psych system yes if you hit join call for instance this join call button you can send them like that.
+Becca Bressler: To the patient do you use appointment reminders with your patients or no you don't do it here
+Tray Sanderbeck: okay don't use any appointments here they go on the schedule but I haven't put any of my patients on a schedule I'm still scheduling a Dr.
+Tray Sanderbeck: Krono so it would have to be in the patient's note I mean into the patient's chart so I see your name up there that I click. Send. Send an invite and on their end what are they getting what
+Becca Bressler: are they seeing yeah so it's a text message basically or an email if you have it hooked up to email but I get a text message and it just says here's your link for your appointment with Tracy Sanderbeck on March 23rd at 5:30pm and and it's a link that I can pull up. But crucially the only way to create these telehealth rooms is by creating something on the schedule so what you could do since you have to go to the schedule anyways is add your patient to it and hook up appointment reminders because the reminder they get should have the link inside of it.
+Tray Sanderbeck: All right so let me go to let me just while I got you hold on because I don't know how to do it but let me know what am I doing get out of here?
+Becca Bressler: Oh. No.
+Tray Sanderbeck: I can't wait to not have to use Dr. Chrono anymore. It's going to be a little while though all right so let's look at tomorrow where's tomorrow okay Christopher Stewart just trying to find somebody that's easy this guy will be easy Alexander Gell he's a computer dude all right so let's go to my jot site here. And let's well what time was his appointment hold on a minute 9 20. So go to my job site I've never done this but I it looks fairly simple 920 how do I find 920 it doesn't matter I can do it right here can I
+Becca Bressler: 9 20 yeah so and this is for Sunday though you you're picking sorry I should be.
+Tray Sanderbeck: How do I get to Tuesday click on this oh shoot hold on what did I just do?
+Becca Bressler: Yeah you can so go to week right there you can if you click what time are you hoping to do if you go to the Tuesday and you just like click into you can do it day you can do week view but Tracy if you if you're on the week view for instance and you can do it however you want but basically clicking where you see nine and like dragging it a little bit to kind of get your. If you click and drag see how it'll pop up and then and then release
+Tray Sanderbeck: okay but I got to get to 920.
+Becca Bressler: Or is 920. Oh yeah you might have to just do it and then when you open it it'll kind of you'll move it a little bit
+Tray Sanderbeck: but today at 9 20 so I'll have to do it like this. And then G E L L.
+Becca Bressler: Alexander okay and reminder you'll want to have telehealth virtual session clicked.
+Tray Sanderbeck: All right so it's going to be 20 minutes. And then I'm going to save it.
+Becca Bressler: Right. Yes but do you want to set up reminders for the patient because that's how they'll get the text message so do you see where it says reminders.
+Tray Sanderbeck: Reminder. Yeah so one day so it's an appoint reminder I want to do it I want to do it.
+Becca Bressler: Like you can do two hours you could custom
+Tray Sanderbeck: let's do custom and then let's do. Oh geez I can't do like 20 minutes before
+Becca Bressler: they apply I think you can let's hit days for a second I think minutes so then you can do 20 minutes before 20 minutes.
+Tray Sanderbeck: Well let's do five minutes because he's going to be confused I'll send him a message okay schedule. Okay and save yeah and then I'm going to see him oh and it says telemedicine right there
+Becca Bressler: and so Tracy he should get that message with the link if he doesn't definitely we want to know that and then the way to send him the link would be like through the telehealth you just have to join the session yourself before you can see it.
+Tray Sanderbeck: Ability to send it let's see if I can find another one none of these people none of you will be able to figure it out. It's sad to say this but yeah these people some of these people are let's see let's do. She'll be able to figure it out let's do her none of these other ones are going to be all Robert Steincross okay so Sarah Springstead let's do her. Or shoot I forget not 240 okay so we're going to go down to two. I'll just do it this way it's easier 240. Spring stays. If I could scallop brings that.
+Becca Bressler: Health.
+Tray Sanderbeck: And then a reminder. We're going to say. Custom and we're going to say minutes
+Becca Bressler: yeah you know this should be we should give you the option to like really customize even this piece of it. So you don't have to update it every single time five minutes schedule.
+Tray Sanderbeck: And then save. All right and then let's do one more person that might be able to handle it. Let's do Robert Steinkrau so I can do it with three people tomorrow
+Becca Bressler: that is so awesome we so appreciate it.
+Tray Sanderbeck: Three people yep you're welcome. Stein crosses four o'clock. And then all all text them and say hey you're gonna you might get a reminder. Just click on it I'm trying something out what did I say 4 o'clock is his appointment? 4 p.m. And then hella hell and then we're gonna say reminders and we're gonna say minute custom minutes and we're gonna do. Let's do five minutes schedules save okay very good
+Becca Bressler: all right that's great let's let's us you're doing a few tests tomorrow let's just check in Wednesday if we can do you have. Maybe I don't know if you have like 15 minutes to hop on a call Wednesday that we can set aside or if you prefer to just kind of shoot it over via email.
+Tray Sanderbeck: Oh what's happening here I got this little bit here I could do one or I could do a 440. I don't know if that's better for you
+Becca Bressler: yes I can do 440 so let me so let me say 44.
+Tray Sanderbeck: 0.
+Becca Bressler: Or you know I actually yeah yeah 440 should work. Okay let me just send you that right now.
+Tray Sanderbeck: I can smell okay there we go.
+Becca Bressler: Okay I'm gonna send you. Google calendar a calendar invite so that we can hop on one of these Google meet calls but yes I just sent that to you
+Tray Sanderbeck: and then that'll give me opportunity to go through tomorrow and I'll pick out some more people oh no tomorrow is well I might be able to do some Wednesday
+Becca Bressler: a couple Wednesday whatever works for you but even three is a great number
+Tray Sanderbeck: okay I'll try to use some she probably can do it yeah I'll find a couple Wednesday before I meet with you too Robbie Carpenter might be able to do it.
+Becca Bressler: So cool thanks so much Tracy looking forward to talking to you.
+Tray Sanderbeck: Oh real quick Becca can you check with I sent Nate a question he didn't answer me which is I mean I know that you he's super busy but something that I've really been trying to use and I can't use it. Because let me go here and I'll show you real quick so go into the patient's thing and I want to send them send a form. Yeah, this is what my this is what my forms look like. So I have to constantly this is what they get and they send and they fill it out. Yeah, I constantly have to use towards my thing. I have to pull up this which. Where are you so you can so I can see I have to use this. These are all I printed off all those scales and then it takes me I'm not even able to use them because it see I mean I have to fill them all out and then I've got a figure I got to go to each one. And and he said that it's not supposed to be that way and he was going to fix it. When the patient fills it out I get it back just like this. And then I have to go self dislike, you know, then I have to go into my wait.
+Becca Bressler: Sorry Tracy I'm not totally following. So you send your patients forms.
+Tray Sanderbeck: Yep, yep right here like these are just these are yeah they're just like just like anxiety assessments and things.
+Becca Bressler: Yeah. So you're getting them back from the patients but they're not filled in when you get them back. Is that what you're saying?
+Tray Sanderbeck: No, I get them back but they're not graded. I mean there's no grading. Like there should be like he said oh yeah I just get it back filled out like this. I get it back filled out. And it's filled out. But then how do I grade it? I open it up and it's all filled out. But then I have to go into this. I have to I printed off the sheet and it takes me forever. I have to so I print off the sheet. Which one is that let me show you which one that is. Then I have to go look at their answers. So say this is a GAD7 their answers and I have to see they put several days so then I got to go several days. So that's a one.
+Becca Bressler: Oh so what you're saying is this isn't grading it for you. It's not turning it into a numerical thing.
+Tray Sanderbeck: No it's not. It should be. He said, oh no it does that automatically. And I go, no it doesn't. So it's really. I mean honestly I love having these. I absolutely love having them. The patients are good with filling them out but they're really useless to me. I mean I've tried doing it.
+Tray Sanderbeck: Yeah, for sure forever to sit there and engrave them all. And then I have to add them up. I mean look at this is like this is like one that I like right here. I did great. And then I had to and I finally just gave up and put them off to the side. But I talked to Adam. Adam was asking me he's like no it should be graded. You know it should it should give you a numerical score. So I know. Like when you add him up it's either zero to four is minimal anxiety five to nine mile of anxiety 10 to 14 moderate 15 year. And Nate said oh no. It doesn't do that. It should yeah and I'm like well not in mine
+Becca Bressler: it doesn't yeah I'm going to test it myself Tracy I'm doing it right now to see what I can get. Let me see.
+Tray Sanderbeck: And I think you know number one I like using it number two. But I'm pretty sure that you can build for that like that's a billing thing like I think I can bill for doing these these like. GAD sevens and the Beck so I can build for these tools and interpreting them. I don't know how to do it yet but I want to move in that direction.
+Becca Bressler: So Tracy let me is this is what you see I'm guessing.
+Tray Sanderbeck: Yes. That's what I see. When I go to yeah that's exactly right see it says complete yeah. So then I have to go and I see what they wrote and then I have to look up
+Becca Bressler: well so I actually see a score here
+Tray Sanderbeck: now yeah how come I don't I don't you want to see what I see let me yeah okay hold on a second I've got to think of a patient that I did it on hold on a minute. All right let me do let me. How about if you just how about if I send it to you and you do it and send it back to me yeah yeah let's try it. Let's try that okay so we're going to send a form let's just do that one. And next oh no that takes too long let's do the gad it's a lot of that is a lot faster. Selected send the form send the form. Why is it not let me send the form now.
+Becca Bressler: Oh it needs my date of birth
+Tray Sanderbeck: probably yeah to get in what's your what birthday should we use 18 1991. I'll kind of send it all right. Okay now let's see when I open it. Maybe he fixed it and didn't tell me but no I never get a score like that that would be that's what I'm looking for right there yeah let's see.
+Becca Bressler: Randomly fill this in. All right so I submitted it so now refresh this page completed.
+Tray Sanderbeck: It completed. See this is what I get see so if I go to should I go to
+Becca Bressler: full view yeah let's see what full view looks like which is kind of what you saw yeah so that then can you go back to the patient page now let's see what happens
+Tray Sanderbeck: now see I don't get it should
+Becca Bressler: I refresh scroll down will you test at seven did you just send me a gad seven.
+Tray Sanderbeck: I sent it I sent it once and you argued did it back
+Becca Bressler: okay so scroll down so do you see how it says 12.
+Tray Sanderbeck: Shit I wonder if that's been there the whole
+Becca Bressler: flipping time well Tracy that is the gag seven so if you're sending the gadgets up and you'll see the gad seven if you're sending a different assessment though to like make sure that module is in the patient profile because so you're going to see you're going to see the trend of the form that you're sending.
+Tray Sanderbeck: So what if I sent you. What if I wanted to do.
+Becca Bressler: Because I generally you want to do you want to pick another one
+Tray Sanderbeck: yeah let's do another one here let's do the this one okay selected. Sorry. And then now I can send it. All right. I don't think I saw these before but that's okay. Maybe he fixed it or maybe I didn't know to look down here that's I mean this is all I want right here.
+Becca Bressler: No no for sure it's if it's not clear how to how to do something that's on us that's not on you
+Tray Sanderbeck: know yeah I just started kind of playing with these and so I don't think anybody ever really.
+Becca Bressler: Showed me all right let's see going through this pretty quickly okay so now. So you're not going to see if you refresh the page because the only thing that we're showing you is the GAD 7 but do you see where it says so I refresh yeah.
+Tray Sanderbeck: Okay.
+Becca Bressler: So what happens when you hit okay so do you see the four squares on the top right.
+Becca Bressler: On the top right under your initials what right under your like account settings button okay let's try that so click that. So now. What was the thing you just sent me?
+Tray Sanderbeck: I sent you the AR for the adult. What you call it.
+Becca Bressler: ADHD it's not on here so it's not one of those.
+Tray Sanderbeck: Let me see here alcohol no no no no no it is the ASRS version one it's the yeah so I don't have that
+Becca Bressler: okay so that's probably part of the issue because if you had what you would be doing is adding that
+Tray Sanderbeck: so I have so do I need to add the GAD 7 and add should I add these now will it just be do I have to add it to each
+Becca Bressler: patient's chart yes I believe you do but we can try we can check it out see if it if it needs to be added elsewhere but this is good feedback because ideally that's not happening where you have to add it to every single one.
+Becca Bressler: Okay should I try the P yeah let's try that one.
+Tray Sanderbeck: So do you want me to add it or do you want me to try it without adding
+Becca Bressler: it no let's add it let's add it but I don't think you sent me one but we can do that if you want.
+Tray Sanderbeck: So let's go to here and there's this PHQ there we go. That's a quick one too all right now that's on there. Rookie what you doing girl? What you doing girl?
+Becca Bressler: All right so I completed the form so let me refresh.
+Tray Sanderbeck: And then. Let's see so the PHQ nine oh there it is.
+Becca Bressler: Okay yeah so Tracy can you just send me can you write me a list of the scores or the assessments you're sending that you can't add to the patient page because that means we need to like bring that in you know. But if you're able to kind of give me the name of what the assessment is that's really helpful for us
+Tray Sanderbeck: okay it's just the it's the one that I use I guess you
+Becca Bressler: actually sent it to me I can look in our I
+Tray Sanderbeck: can look at my text the a s r s.
+Tray Sanderbeck: Okay great asr only and I probably want the p I'm going to want the. I'd like all of them but let me see. If the backs let's see if that's on there and where's my I didn't I don't have. Maybe I have to add it so I saw their Vex is on here.
+Tray Sanderbeck: So I can but I have to I can't just add this to my account I have to while I'm in the chart in the patient I have to add all of these scores to that patient yes to the page okay so I don't see the ptsd one is missing off of here.
+Becca Bressler: And those are assessments that you send patients from
+Tray Sanderbeck: John sit yeah those are assessments because see if you look here. There should be I thought that oh maybe not yeah I thought there was a PTSD yeah right here P C L dash 5 P T S D.
+Tray Sanderbeck: Yeah and then the Montgomery Asperger Asperger's depression. And then the CSSRS screener. For suicide. And then the why box y dash B o c s let me see I didn't see any of those on here the
+Becca Bressler: y boxy do you mind one more time actually hold let me see if I can get it from my. Verify the name i'm just trying to write down the name of the form so I get the name right AS the one the one we just like an example of the one that you tried to set you sent me but it's not available ASRS
+Tray Sanderbeck: yep so and I have to choose just so you know you might want to mark this off the I do have a choice of the CSSRS screener. So that one's on the list that was one that I asked no I don't even know what that is yeah there it is CSSRS I do have the option to add that so you can take that off because I and let me see the PCL 5. I don't see that on there but let me look. Five I do not have the there's a PCL5 so that can go off your list. PHQ 9 is good and I think. That is why box maybe that one's not on. There. Why. I don't have the why box and that's one that I use the wide dash BOC and then I think that that was it.
+Becca Bressler: I think though the takeaway here is like any assessment you're sending through Jots Psych needs to be available for you to add to the patient page it's great to have a specific example but beyond you know the bigger solution here is just like anything you send needs to be available to bring in
+Tray Sanderbeck: any any type of any type of what you call it. When any type of the screener tools if I can have that available to me to be able to choose that would be great.
+Becca Bressler: Yeah great to choose what to display in the
+Tray Sanderbeck: patient's page is what you're the choose so every patient if I'm going to send them a PHQ nine I need to go over here and in the patient's chart I'm going to have to add the P H Q9 to their chart. Yeah.
+Tray Sanderbeck: Okay got it okay then I know how to do it so if you can update my list of things to choose from.
+Becca Bressler: I will give I'll make a ticket for our engineers I can't promise you that this is going to happen like immediately, but I definitely am going to flag it as something that we should be doing very soon.
+Tray Sanderbeck: Enough. Oh that's Becca. That's because I chose Becca I was going to say I just want to see something real quick. So here's Roberto I need to be in his chart. So here's Roberto I don't have anything test results at the score so his Phq9 is already on his.
+Becca Bressler: For whatever reason yeah I think it defaults I think the patient page to showing you the PHQ nine on his yeah there's there's some like default sections but then you can customize.
+Tray Sanderbeck: Like just be specific so let's see this one yeah this one has excuse me PHQ9 yeah so PHQ excuse me PHQ 9 must automatically default. But yes on the whatever I can choose from here if I can get it over there then I think yeah
+Becca Bressler: okay yeah I'll send that request right
+Tray Sanderbeck: away through this because now at least I can do some of these and I get my score so this very nice okay
+Becca Bressler: thank you so much Tracy i'll talk to you in a couple days after you test out this tool okay we'll do see you later on YouTube by.

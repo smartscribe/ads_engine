@@ -1,0 +1,5 @@
+2026-05-04T21:02:20Z containerVersionId=21 name='purchase-conversion-v1 (FN $150 + SU $25 + Cal $5)' actor=ads-engine-ga-reader trigger=drill-baby-drill plan=purchase-conversion-rebuild-2026-05-04.md
+2026-05-05T01:19:02Z adset=120245858870530548 rebind=success path=pixel_rule rule='{event:Purchase, URL:i_contains jotpsych}' optimization=VALUE cc_id=1604667127308749 note='VALUE eligibility gate bypassed via pixel_rule binding'
+2026-05-05T01:19:49Z event_source_id=1625233994894344 cc_create=success id=1604667127308749 name='Purchase (combined, value-based v1)' note='For reporting visibility; ad set binds via pixel_rule directly, not through this CC.'
+2026-05-05T01:35:58Z containerVersionId=22 name='purchase-conversion-v2 (rewire SignUp + pause legacy 26/27)' actor=ads-engine-ga-reader trigger=drill-baby-drill plan=purchase-conversion-rebuild-2026-05-04.md note='Fixes wrong-trigger SignUp + duplicate-attribution from legacy custom-event tags'
+2026-05-05T01:58:51Z containerVersionId=23 name='cleanup-renames-v1 (CC + GTM grokkability)' actor=ads-engine-ga-reader trigger=drill-baby-drill plan=cleanup-meta-cc-and-gtm-2026-05-04.md

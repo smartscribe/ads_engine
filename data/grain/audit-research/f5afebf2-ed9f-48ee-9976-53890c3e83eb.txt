@@ -1,0 +1,226 @@
+Christopher Hume: Hey, Dr.
+danielle.johnson: Johnson. Hello.
+Christopher Hume: How are you?
+danielle.johnson: Good. How are you?
+Christopher Hume: Good. Great to virtually meet you. My name is Chris.
+danielle.johnson: Hi. Nice to meet you.
+Christopher Hume: Here's my colleague Emily.
+Emily Kaiser: Okay. Nice to meet you.
+danielle.johnson: Nice to meet you too. Hi Taylor.
+Taylor White: Hi, thanks for joining us.
+danielle.johnson: You're welcome.
+Taylor White: That's some good stuff to show you and I've kind of seen a lot of it. So I asked them to kind of demo. And then if you have any questions and they have a couple other things that they can share.
+Christopher Hume: Okay, great. So Dr. Johnson, what we were planning to do today is just the demo walkthrough kind of how JATSYC works, how you create a note. I know a particular interest to some members of the team is kind of integration or how you get those notes over into Epic. You can walk through that as well. And we'll go through our audit features to kind of. Keep all the notes compliant and make sure they're aligned. Is there anything else you'd like us to review today? Do you have any questions or anything that you really like to make sure is answered to make this like a good meeting.
+danielle.johnson: Yeah, I guess is this more of ambient listening or is it. Ambient listening and it's dictating or is it listening to you and it's forming the note? Does that make sense?
+Christopher Hume: Yeah, Jesse is ambiently listening, but it puts it into the clinical note.
+danielle.johnson: Okay.
+Christopher Hume: Okay. Yeah.
+Christopher Hume: So that's a great question.
+danielle.johnson: Okay.
+Christopher Hume: And then in terms of, and we can talk about this sort of, I think after we go through the demo, Dr. Johnson. But Taylor, I think you and Nate last time talked about the opportunities to try Jot Psych. And so we have, I was looking at the notes, it looks like Nate said he'd come out to Cincinnati. So I'll lock that in for him. But we offer plenty of kind of flat rate pilot programs, which is a month where any number of clinicians can try us out. For some of the options we send out are our team. And we do the training in person.
+Christopher Hume: So you can really properly try us before making any sort of long term commitment.
+danielle.johnson: Okay.
+Christopher Hume: Perfect. Well then I can jump right into the demo Dr. Johnson and kind of answer your. Your questions here.
+Emily Kaiser: Okay.
+Christopher Hume: Share my screen. And we also have a presentation that gives a brief overview of JotSpsych. Would it be helpful to go through that first? I don't want to do kind of anything that's repetitive. So I'd be happy to give the quick overview presentation or just jump right into the demo. What would be best for you, Dr.
+danielle.johnson: Johnson? I'm okay with either.
+danielle.johnson: Okay, well then what about you, Taylor?
+Taylor White: I've seen the PowerPoint, the slides put together. So I have those.
+Taylor White: If you want to quickly go through them, you can.
+Taylor White: But I think Taylor is it.
+danielle.johnson: Yeah. Would I understand it if I looked at it without someone?
+danielle.johnson: Okay, yeah, you can just send that to me. Okay.
+Christopher Hume: Okay. Perfect. We try and keep it nice and simple. So yeah, nothing too confusing on there, Dr. Johnson. Let me. Dr. Chaucer, are you, I guess before I jump to too far into the demo here, would love to hear kind of the workflow of your providers? Kind of how do they see patients? What type of sessions do they usually have? And then I can make sure to tailor the demo accordingly.
+danielle.johnson: So for our psychiatrist and psychiatric nurse practitioners, they see patients in the inpatient and outpatient setting. For inpatient, I would say they're generally seeing the patients in the morning and probably document a little bit later in the morning.
+danielle.johnson: Or later in the afternoon. I think the difficulty for inpatients is that they aren't taking their most, you know, they're not taking their computers with them when they see patients. I mean, if this would help them, they could. But I think generally they don't. Whereas for outpatient, whether we see the patients by telehealth or in person, you know, we have our computers. Right in front of us and available.
+Taylor White: I was just going to say, is there an option, maybe not like the full computer, but like an app where they can have their phone with them easier?
+Christopher Hume: You read my mind or Nate gave a good pre presentation.
+Christopher Hume: Yes, we have an app, so you can use this on your phone. Okay. And is most of the kind of friction around note taking most of the time related or the providers you're spending their evenings and weekends? Or is it a compliance concern? Have there been audits or callbacks? What kind of inspired the search for an AI scribe?
+danielle.johnson: A lot of people do take a lot of time even with the templates and Epic, you know, and smartphrases and everything people still documentation can take a lot of time for people. And especially for those who took the right longer notes than other people, it can definitely take a lot of time. Even using Dragon.
+Christopher Hume: You have to go back and edit it.
+danielle.johnson: So that takes time. And not that you don't have to edit this, but I think there were more errors with the Dragon dictation. So yeah, I would say it's definitely a time issue for sure.
+Christopher Hume: Okay. And then, so have you faced any issues with kind of coding or submission for billing or anything like that? Or just mostly just people that their lives spent.
+danielle.johnson: No, I'll let Taylor answer that.
+Taylor White: Not any like big issues that alerted like this specifically. There's always room to improve. But yeah, no like big coding issues or compliance issues. That is the reason why I would say.
+Christopher Hume: Perfect. And one more question that I appreciate heroism. The game of 20 questions before the demo. But Dr. Johnson, how many providers. Excuse me, how many patients does your team typically see in a day? Like the outpatient side, the inpatient side, or one provider would see in a day.
+danielle.johnson: It varies significantly because there are some people who, you know, half their days inpatient half their day is outpatient. Some people who are just doing outpatient. Some people are just doing inpatient. It really varies provider to provider.
+Christopher Hume: Okay. And so outpatient sessions typically a 20 minute medication management or is it also.
+danielle.johnson: A so for medication management, they're actually scheduled in 30 minute blocks.
+danielle.johnson: That doesn't mean we'll take the whole 30 minutes, but sometimes we do sometimes a little bit longer. So yeah, we have 30 minute follow up sessions for new patients anywhere from an hour to 90 minutes. Sometimes a child adolescent people will do two hour new patient sessions.
+Christopher Hume: And then for inpatient, I would imagine those are typically quicker text during the day.
+danielle.johnson: Yes.
+Christopher Hume: Okay. But presumably a lot more patients.
+danielle.johnson: Yes.
+Christopher Hume: Wonderful. That is so, so helpful just to make sure that I'm answering the right things and kind of making sure that you get what you need out of this. Meeting, Dr.
+danielle.johnson: Johnson.
+Christopher Hume: If at any point during the demo you're, you have a specific question, please, please, please just cut me off. I could talk about JATSEC all day. But the goal of this meeting is not for me to get to chat about you outside. It's to just answer any questions you have and see if we can help.
+danielle.johnson: Yeah. And I'm not sure. If this is, I mean, this could be. Depending on how it goes into EPIC. But like on inpatient, the attendings have medical students or residents with them who actually do most of the documentation and they have to test it out. So I just don't know how that process would work.
+Christopher Hume: Okay. Do they show for inpatient, they typically, the students would, they would type the notes for the yes. What we could do is in JotSA, you can set up. Certain. Users who need a co signature on their notes.
+Taylor White: So I'm sure we could sort that out for you. Okay.
+Christopher Hume: So to start now, to get in the fun part, Dr. Johnson, was there any, any other questions off the top?
+danielle.johnson: Go right ahead.
+Christopher Hume: Okay, perfect. So you press the record button. It'll take you to the JotSec recording screen. If you so choose, you could always, you can select a patient. We always recommend this because it allows patient information to be carried from note to note if for whatever reason you'd be more comfortable not including a patient name, you certainly don't have to. Then you select the appointment type and Taylor, I think the appointment type is particularly relevant for you because we can build that out with in person versus remote length of appointment. And then what that does is it helps our coding engine suggest a code that's in line with what you're looking for.
+Taylor White: Yeah.
+Christopher Hume: And then most appointment types are aligned already with a template. So this therapy and med check appointment type is alive with my therapy and med check template. But you could always change the template too if for whatever reason you want to code it as a therapy in med check, but it's really a psych intake template. So you can make those adjustments. Then you go over here, you press the start recording button. On small point for remote sessions is that you need to, if you're wearing headphones, you need to tell Jot psych so it can capture the audio. Press the start recording button. Have a normal session. As you would. Without Jot psych in the room. Talk with the patient, et cetera. At the end of the session, you press this end recording button. And then you can generate the note. Something that I like to emphasize is you can always record additional information after the patient has, say, left the room or close the zoom. So if you want to add your clinical analysis, you can actually record more audio. Or if it over here in the notepad. Any questions here Dr. Johnson, I know sort of this is the probably the most important part of today is just make sure you understand the workflow and how the note is generated.
+danielle.johnson: I think another one of the issues here. Maybe not an issue, but just pretty, a lot of people use different templates for their notes. You prefer it that way, but that's just how it is because you can make your own templates in Epic.
+danielle.johnson: And I guess I'm wondering, so if people does this allow people to make their own templates and if not, or if it does. Would that affect the billing coding issue?
+Christopher Hume: It shouldn't because it will still review their note against the rules no matter what the template is. So it should not impact coding. What you can also do with jot psych Dr. John says you could set a standard template and suggest everyone uses it, but then they certainly have their own free will and ability to create a custom template that meets their epic custom setup. Okay. It's so funny aside how it varies from clinic to clinic where some we work with everyone has their own special template and others we get very. Very specific guidance from leadership. Do not let anyone have their own custom templates. Everyone is using my template. So very, very fun to see that. The end of the session, you press generate note typically within 20 to 40 seconds, this will generate a note for you. Where this is not going to be. A ton of clinical information in it because the only audio captured was me walking you through how JotSec works. Pause for a moment just so you can see how long it typically takes to generate. And I can walk you through an example mode I generated right before this call. So JetCycle generate a note for you and additionally. You'll have the transcript here.
+Taylor White: Okay.
+Christopher Hume: Let's look at. Note. This is a much more realistic therapy and med checkout. So what I'd like to do here is kind of walk through the note is set up, walk through the audit features and kind of the quality, which I think Dr. Johnson Taylor most relevant to both of your respective workflows. This is a jot sec note. You can copy all sections over into your into Epic. Or as we'll review later, we actually have a Chrome integration. So if you open Epic in a web browser, it could be a one click kind of integration.
+danielle.johnson: Okay.
+Christopher Hume: We have this edit. Assistant on the right hand side. So this allows in plain English any provider to say what sort of change they'd like made to their note. The example I'll do is. Make the HPI bullets. I will then make those changes. And then we'll ask if that's something that we want. It to remember every time moving forward. I do hear Dr. John says maybe the first couple notes your providers need to make a few adjustments. But over time it's going to get much, much closer. And they're not going to have to make very many edits at all. Let me pause for a moment. So that's kind of the JATS like know how you edit the note. Now I'd love to jump into some of our compliance and audit features. But any questions first.
+danielle.johnson: I don't think so.
+Christopher Hume: As we'll review later in this session, we have a bunch of preloaded notes built into excuse me proload preloaded rules built into JotSych based on what's required for a 99213 versus a 99214. What JetSec will do for your providers. Is on the right hand side over here right hand side over here flag rules that we've identified as at risk. And so I think this one. Probably in the audio, we did not clearly say state that there was an absence. Of suicidal ideation. So it's flagging that for us and giving us the opportunity to attest a, we actually did discuss that something. It was before the recording or after recording. And make sure it's included in the note and reducing any compliance risk there.
+danielle.johnson: What is the medical necessity statement?
+Christopher Hume: Yep. So I think this, let's see. Node supports low complexity. This would be.
+Taylor White: Okay.
+danielle.johnson: How does it, I'm sorry to interrupt.
+danielle.johnson: How does it so for time documentation when we're documenting my time? How does it capture the time?
+Christopher Hume: Guts that captures time from when you start the recording to the end of the session?
+danielle.johnson: Okay.
+Christopher Hume: So.
+danielle.johnson: For additional time you spent outside of that recording, you have to edit the note then you would yes.
+Christopher Hume: Yep. At that point, yeah. Any other questions about compliance or anything like that.
+danielle.johnson: Is there like a built in statement that says this note was generated by AI or something like that?
+Christopher Hume: That's not something we have off the shelf. But if that's, it would take 15 minutes to develop that for you customer. Or you could go ahead Taylor.
+Taylor White: I was just going to say kind of like that is there. Can we use a lot of like smart phrases and epic for like telehealth disclaimer time, which you mentioned. Can those be created kind of separate from the templates but used. That makes sense.
+Christopher Hume: So you could have a template that has some of those disclaimers automatically in it. So we'll walk through how to customize your template or how to develop a custom template. And we could have one that says this section if telehealth have this disclaimer in it. We can make sure that's included.
+danielle.johnson: Okay.
+Christopher Hume: Any other questions here? I know compliance is kind of both of your world.
+danielle.johnson: So I would love to make sure we answer these. Just double checking. I was under the understanding you had to have some sort of statement if you're using AI for your notes. Is that correct or I notice I've seen that on other places.
+Christopher Hume: Nose is that a requirement or it's never, I'm sure this is something that varies state by state too, but I've never heard that as a requirement. And of course, we always recommend. Well, recommend that everyone kind of reviews and makes any human edits required. So it's not just like, you know, the AI does its thing and submits the note. There does have to be sort of the clinical review before a note is signed.
+Taylor White: Yeah, I believe there's a house bill, Dr. Johnson, that I sent you in an email. That's kind of where that would come from. But it's in the early stages for Ohio.
+Christopher Hume: Then we can review, I think the next things here would be reviewing Dr. Johnson sort of the audit and supervision capabilities you can have in Jot psych. And then we can just talk through how you can customize templates and Dr. Johnson to your point how we can your providers can have templates that match up with Epic Taylor. We can make sure we have those specific phrases in there that you need. Does that make sense? From an audit standpoint? Anyone who's sort of assigned as a supervisor as this job audit overview page. And so what that's going to allow you to do is see all your encounters. And so it's going to show you, hey, it looks like this most recent encounter Becca had is not is only 50% compliant. But I think someone needs to look at that and see what's going on here. Additionally. You can pull it up by condition. So you can see overall how each of your clinicians is performing. And the idea is you can get an idea if someone's struggling to meet the compliance rules. Or use the appropriate CPT codes well before it becomes an issue with an insurance company or a clawback or anything or a down code down the line or anything like that. We could say, oh, what's going on with Dr. Judith Jackson? Client system only had 28% And then you can look at each individual note. And then schedule time with that provider to kind of coach them on whatever changes they need made.
+danielle.johnson: So even if they're getting. The feedback that the note is not compliant, they could still submit it even if they didn't make it compliant.
+Christopher Hume: We could, yeah, we're not in the position to kind of overrule a clinician if they decide it looks good. But we do make sure that that information is elevated in case anyone else would like to take a look.
+danielle.johnson: Okay. So, Taylor, I assume our coders would still be looking at the notes as usual. Yeah. Okay.
+Christopher Hume: The other thing we can do here and we'd work with you here is that you can create custom rules. So Dr. Johnson, whatever your specific. Rules are or contracts with your payers for requirements in your notes, Aylor, maybe it's some of those attestations that we discussed. We can make sure that those are added as custom rules to your entire team and then develop templates that meet those expectations automatically.
+Taylor White: Yeah, I could see that Dr. John says like those. What I look for in the dish summary for quality counsel each month like that kind of stuff. Mental stats exam the pieces we added. And it could flag when it's not. Completed.
+danielle.johnson: Dina, what this allows, so for example with the discharge summary, some of the information are discharged summary like gets pulled from other places like the follow up gets pulled from the social work assessment, for example. I don't know. Can you pull things from other disciplines notes to your note? Does that make sense?
+Christopher Hume: Yeah. So I can show you how anything that's assigned to the patient. So if you have a patient and then create a note, it's going to look at all and if people are sharing patients, it can look at all the context and include that in the note.
+danielle.johnson: Yes.
+Taylor White: Okay. Can it do that if like the social worker didn't use job psych to make their note, but it's an epic.
+Christopher Hume: Fortunately note, the note would have to be in jot cyc right now. That's a great question. Taylor.
+Taylor White: Just thinking on that they could still use jobs like to create their portion of the note and then pull it into epic and pull those other pieces. Of that working. The final note would just be an epic, not in jet psyche with the extra.
+Christopher Hume: Any other sort of compliance questions? I know. We love to emphasize like how this kind of helps billing and kind of removes the stress that hopefully you're not feeling tailored and hopefully none of the providers are feeling, but we certainly have seen it. Any questions here about the audit and compliance tools?
+danielle.johnson: Not related to the audit and compliance. In general isn't just providers who use this or do you do you have facilities or nursing is using it or social work or drug therapy and things like that.
+Christopher Hume: We have. Not yet facilities, but we have administrators who will use us. So we have free administrator seats. So if there's someone who's supporting a provider. They can review the notes and copy and paste them into the EHR or anything like that. We have quite a few therapists and social workers who use Jot psych. We have some kind of groups that use JAWSE that are just therapists or social workers. And then we will have a RN or an intake person. Sometimes you use JotSec as well. So all the information is in one spot under that patient being pulled into all the job site notes.
+danielle.johnson: Okay. Yeah, I don't know if it's needed as much. For them, but I was just curious.
+Christopher Hume: No, absolutely. I mean. The psychiatric notes are specifically challenging and kind of that's why jobs like exists because like this is the place where we saw, oh my gosh, there's so much, so much work here. But we love when especially other behavioral health providers use jot cycle. We certainly have a good cohort of people who does that.
+danielle.johnson: What about. Do you have like non psych templates like for medical HNP? Do you have, can we make a template for that?
+Taylor White: So, okay.
+Christopher Hume: Yeah, we certainly can develop any sort of custom template you'd like in Jot psych. Actually with one of our other customers who does a lot of inpatient work, we develop some medical templates for them. Williams sometimes is create a JATSAC template for internal team recording. So we're completely psych focused, but if you need something a little different or a lot of it different, we can work with you to generate that.
+danielle.johnson: Okay. Okay.
+Christopher Hume: Any other questions before I jump into sort of the template and reviewing how you can customize your templates. These are notes. So JotSyke of course we have a look right here our SOAP therapy template I have on the top of my screen. We have plenty of templates pre-built for you. But Dr. Johnson, we're very familiar that a lot of providers have their own unique way to practice and they don't really want to change that. That's kind of a friction point in adopting a new software. So with Jot psych you can go to any of our custom templates. Or excuse me any of our off the shelf templates and customize it. You can remove sections so you don't want to start summary. And rearrange sections. You can add sections off the shelf. Let's name assessment. And you could also edit with AI. IntelliJot psych. Want a custom section.
+danielle.johnson: For.
+Christopher Hume: We just added. That in just like that. And so Taylor to your, and I know that was a little. Slightly funny section that we probably wouldn't have in your notes. But Taylor, we could do something like an attestation or anything like that that says if telehealth include this exact phrase.
+Taylor White: Okay. Yeah. That's something we use on outpatient. I feel like that's really the main one therapy notes of course have time and that they start and stop time. That's something that. Tires have specifically asked for so we make sure to look for that.
+Christopher Hume: Yep and that is all information tailored that if it should be built automatically into our rules to be like, hey, you need to include start and stop time. But if it's not, we would develop a customized.
+Christopher Hume: Rule for you. You can also if for whatever reason maybe some of your providers have very unique bespoke templates already, they can completely start from scratch. Or if they have a PDF of their template, they can just upload it and there's a template generation wizard that jobs like.
+Taylor White: Have.
+danielle.johnson: Okay.
+Christopher Hume: Whatever you guys need especially. If you do a pilot we'll work with you or even create those templates for you.
+danielle.johnson: Is there additional cost to creating more templates?
+Christopher Hume: So if you're creating the template yourself on a standard Jot psych package, no, you can just create as many templates as you'd like. If you do a paid pilot, we generate the first two for free. If you'd like like, hey, I don't even want to think about this. Have Chris and the engineers do it for us through those first two. It's typically $300 a template.
+danielle.johnson: It looks like it's pretty easy to use the templates that you already have and just maybe rearrange the sections or remove them or things like that. To get what we need.
+Christopher Hume: Yeah, that's always the goal. It's just easier for everyone like, hey, we have this. We know it works. Just make your tweaks. But we understand that maybe work for 90% of people want to make sure we serve that 10% with something super unique.
+danielle.johnson: Okay, sorry it froze on my end, I think.
+Christopher Hume: Yep, no worries. I noticed you, yeah, we're moving there. Dr. Johnson, anything else about template building? What would be the best use of the next sort of, I know we have 29 meetings left for minutes left in this meeting. Be happy to walk you through some of the additional features like forms or e prescription. Would that be helpful?
+Taylor White: Yeah.
+Christopher Hume: Perfect.
+danielle.johnson: I don't think we would need to eat prescription because Epic does that pretty well understood. But yeah, the other things, but credentialing, I'm interested to see how it could help with that.
+Christopher Hume: Okay. Perfect. Let me. I say, would like to send a form to a patient or you always need to send a PHQ-9 before their sessions. You can go to the patient overview. And you can send them a form.
+danielle.johnson: Okay.
+Christopher Hume: Do a PHQ9 GAD7. We have plenty of standard forms built in. But again, just like our templates, we know everyone is unique. And so if you would like a custom template, but that's an intake form administrative form or a custom. Diagnostic form, you can build that in JAT so I can send it to your patients directly through the form. Additionally, you can generate, excuse me. Lab orders as well. If you'd like. Want the standard baseline for Mr. AHIL. And then you can send that to the patient or download it yourself. If you'd like to send a follow up to your patient.
+Taylor White: Okay.
+Christopher Hume: Send this click of a button.
+danielle.johnson: Okay.
+Christopher Hume: Or if you'd like to create some sort of referral document. Rate a referral to. The therapist.
+danielle.johnson: Or.
+Christopher Hume: Typically we would recommend maybe giving it a little bit more guidance than want to the seven words I gave it. But you can see if you give them more guidance, it would give you a much more specific document. And you can always make edits on the left hand side over here.
+danielle.johnson: Okay. How is it getting the schedule if it's not integrating with Epic?
+Christopher Hume: Yep. So some of our customers use JotSec as a full fledged EHR. And so they actually schedule their patients inside JotSych. But people who are already working with another. EHR, they typically just copy and paste or as we're talking about integrate into that EHR and paste their notes.
+danielle.johnson: Okay. Like how you on the, I think it was the very first screen you showed us, you know, how you select the patient. I guess how are we able to do that if the patients aren't actually in here? Does that make sense?
+Christopher Hume: So I can show you how to add a patient. So new patient put their first name, last name, all the information we need. We understand you don't want to do that for every single patient you're already working with. So when clinics onboard, we just do a data migration. So we take kind of, we can take all your information from Epic and upload it into Jot psych. So all the patients that are over there are also in Jail Psych as well. And the only additions you have to do is as new patients come on, you will have to put their first and last name. And if you'd like it their birthday. Okay. But adm could do that for the providers.
+danielle.johnson: Okay.
+Christopher Hume: Any other questions here?
+danielle.johnson: The only way to, I guess, have the notes consistent for each patient is if they are actually in jobs. I guess I'm wondering, can this just be used for transcription? And we copy if it's too much to integrate with Epic initially?
+danielle.johnson: Can it just be used for transcription and copy and paste?
+Christopher Hume: Oh yeah, absolutely. So I would say more than half of our customers use us as Jot psych. They generate their note and then they just copy and paste it over. People never like when you tell them they're going to have to copy and paste. But we made it as simple as is humanly possible. So you can push this button up here. And copies all the sections for you. Or if, you know, in Epic, you have three boxes and you need the sections and jot psych. You know, you can't take all at once. Okay, I want this summary chief complaint and HPI in one section. Okay. And then paste them over.
+danielle.johnson: Yeah. I mean, I hope obviously, hopefully, I hope we can do as much epic integration as possible, but just sometimes those, those things take time.
+Christopher Hume: Yes, yes. No, certainly especially. Because incredible. But yeah, we're very aware that sometimes can be a little slow moving. Yeah.
+Taylor White: So at the simplest way, just a recording and then copying and pasting, we wouldn't get all those extra like auditing billing stuff as much, but.
+Christopher Hume: You would still get that information, Taylor. It would still flag kind of all the audit and all the compliance things for you. The only difference is that your system of record would be, is thick. So if you're making changes to the note in Epic, or people are updating their notes in Epic, you might see something flagged as noncompliant in Job Psych, but it's really because Dr. Chris hyped out a whole new paragraph as soon as he got it into Epic. But it, it shouldn't be a concern and you'd still have. As to all of these features.
+Taylor White: How long does it keep the transcript?
+Christopher Hume: Do you have a set or is that we don't have that's when you ever you delete it, it's gone forever. We no longer have the transcript or the note. The only obviously flag is not particularly relevant for you, but for members who use this as their EHR, we have the mandated, I believe it's seven years where we have to retain notes.
+Taylor White: Yeah. Okay.
+Christopher Hume: Our jot cred is actually in a separate no. So I can walk you through that. Just to kind of show you Dr. Johnson if that be of interest to you and kind of show you how we help providers. The one thing I would just like to show you first is the integration tool and then how it works. It should be pretty straightforward and I don't think it should be a challenge as long as you use Epic and it's web based form. So let me just share my screen really quickly. And apologies for one moment.
+danielle.johnson: There'll be a little bit of a mirror here.
+Christopher Hume: We go so you can see JAWSTEC now.
+danielle.johnson: Is that correct?
+Taylor White: Yes.
+Christopher Hume: Perfect. Ion over here. And so you can open this up if you're using Google Chrome once you can have. Quick open over here and then you open your EHR extension. You select the note. Typically. Got site can read where the boxes are. And as long as you have the same sections and JotSyc and in Epic, you push this lock button launch button and it will fill it out. But if for whatever reason, you know, we have some kinks to work out or you have some super interesting unique epic templates. You can always then just directly copy and paste from one window. So you're not even switching back and forth from Jot site network.
+danielle.johnson: It's all right there.
+Christopher Hume: I just wanted to share that. Before we jump into Jot Craig. Any additional questions or thoughts about. Jot psych that I can answer for you Dr. Johnson?
+danielle.johnson: I don't think so.
+Christopher Hume: Taylor, anything I missed? I know you had a few a few meetings with Nate. I want to make sure I'm no,
+Taylor White: I think you've got it got that all covered. Yeah.
+Christopher Hume: Perfect. This is a little jot cred tool, Dr. Johnson.
+danielle.johnson: Okay.
+Christopher Hume: So essentially what it is is we just handle all the administrative burden. So we. Flex all the information up front. That we know we're going to need. And then we take the responsibility for working with or communicating with the errors and then people ask us sort of what sets us apart. Fortunately, I can't share any of our current customers their information. But we as every change happens, we report it here. So you have a portal. Where you can see, okay, we're, you know, Blue Cross Blue Shield. They received this information and they asked this question that got psych has handled for me. As opposed to what we've heard. And it's a little bit of a black box. For a lot of providers where they kind of submit all their information. Don't hear anything. And then all of a sudden it's perceived. However many months later that accreditation. But this is something that we can support with. We're always happy to do this. With our, with our customers.
+Taylor White: Okay.
+danielle.johnson: Oops.
+Christopher Hume: Any questions here, Taylor or Dr. Johnson?
+danielle.johnson: If we decide to try this. One to set up another meeting with you specifically about the jot credit, our med staff coordinator to see, you know, how she feels about it if she thinks it would be beneficial to her workflow.
+danielle.johnson: Some of it we do on our own. Some of it goes through UC. So it's kind of. There's just a lot of moving parts. It might just be easier for her to stick with what she wanted to be helpful.
+Christopher Hume: However we can help. Yeah, this is certainly not prescriptive. We know everyone has their own process. And credentialing for whatever reason is challenging is so challenging.
+Christopher Hume: So if we can help, we're happy to.
+danielle.johnson: Yeah. Okay.
+Christopher Hume: Taylor and Dr. Josh, if there's any. Did I kind of hit everything we're hoping to discuss today? I want to make sure kind of you there anything else you need so you could step away from this meeting and say, wow, Chris, Chris made sure we got the 411 on all jot site questions I had.
+danielle.johnson: This may be a bit of an unfair question, but like what sets you apart from other systems, especially the ones that are designed for psych.
+Christopher Hume: Yep. Okay. So that's, that's a great question. So the, the first thing we always say is like, hey, like we're purely designed for psych and behavioral health. It's in the name. But if we take that easy one off the table, but we're super proud of Dr. Johnson is the quality of our notes, which capture tries to see, but kind of what we can say right now without you ever even trying job psych is our payer where notes and the rules that we build into the back end and make super transparent for you. Yeah. A lot of people say you're going to have a high quality note. They don't directly tie it to payer requirements. I think that sort of taking one, making sure it's a high quality note done much, much faster is great. But then also giving providers and tailor people on your team, the peace of mind to know that you're not going to have that sort of. Compliance audit down coding. Or maybe no one can completely get rid of that. But if we can as much as we can minimize that is what we think sets us.
+danielle.johnson: Yeah. Okay.
+Christopher Hume: Taylor, I know you and Nate talked about the possibility and I kind of alluded to it at the beginning of this call. Of kicking off or talking about kicking off is maybe a better term. Pilot program. Is that, I don't know if that's something you'd be interested in.
+Taylor White: I guess just more information what that exactly would look like.
+Christopher Hume: Yep. Let me pull up my screen.
+Taylor White: I know there was different like levels ish.
+Christopher Hume: Certainly did a good job and you took great notes, Taylor. Oh my goodness. You know, you know our process better than I do. Let me share my screen. Yep. So there's. Three options we have and all of these are unlimited access to unlimited number of people. And so if you'd like to have all 80 or 85 people charge out psych, we would love that. That would make our day. Or if you'd like to have two people try Jot psych, we'd be a little sad. But that's certainly works too. The difference is that the amount of support we provide. For the one that most people do is the four weeks for 499 and kind of, as I was saying, Dr. Johnson, we would help craft custom templates for you. So if there's kind of a baseline, you'd like all your team to be playing from. We would set that up. And additionally either Nate or me would get to come out to Cincinnati and do an in-person training and do a team lunch maybe Cincinnati Chile. A little messy though for lunch and learn. And so that would be included in both the four week and six week pilot.
+danielle.johnson: And for all of them if we want everyone to try it out, it can be unlimited people for all three levels.
+Christopher Hume: Okay.
+Taylor White: All three levels.
+Christopher Hume: Yeah.
+danielle.johnson: I mean, it's actually not as expensive as I was expecting, I don't think so.
+Christopher Hume: No, we as we try and keep the pilot program super, super low lift. The only reason we charge at all. So when we fly out, we know like people are going to show up to the lunch and stuff like that.
+danielle.johnson: Now the virtual kickoff do people not saying that this is how we're going to choose. But is the virtual kickoff enough? To train people?
+Christopher Hume: I think that typically depends on leadership guidance. I think, you know, we've seen it when there's a clinic where the kind of leadership is super exciting. They're like, you guys are going to try this or we're going to have a stern conversation in two weeks virtual kickoffs pretty good. But you know, it always helps especially with. Especially with some maybe folks who are a little less tech savvy. To get to meet us in person and we actually walk them through signing in on their keyboard. But the virtual kickoff is certainly a great option if there's kind of leadership guardrails making sure that people are actually showing up and actually creating the account.
+danielle.johnson: Okay. Okay. Now this is very helpful. Thank you.
+Christopher Hume: No. Oh my gosh. I really, I know. I should just, I can't imagine how busy your calendar is given kind of all the responsibilities seeing patients and managing, supervising. So I appreciate you carving time out of your day to just learn about us.
+danielle.johnson: Yeah, thank you. Now I think this could be helpful. It's just, you know, deciding the epic piece is kind of what we have to figure out, you know, is this going to be. I know in general people would prefer the Epic integration. But if we don't have Epic integration, what they still use it if believe it or not people. Think, you know, oh, this is an extra step I have to do. Should I just keep using my buddy face?
+Christopher Hume: Well what maybe would be a helpful step then Dr. Johnson is if you or someone on your team wants to meet with me in an engineer, I'd be happy to like we can just test the integration and be like, hey, yeah, it works. This isn't going to be an extra step and then that could kind of be the thumbs up to the pilot. Or hey, we need to make some tweaks. The feasible not feasible. So that way we know where we stand before rolling this out to 85 people. Would that be kind of a good next step.
+danielle.johnson: Yeah, I think in general, whatever we decide to use, it's going to have to work for Taylor and her team.
+danielle.johnson: So she's probably the best person to do that with. Yeah.
+Christopher Hume: Perfect.
+Taylor White: When I think we have a lot of good information. There's a couple things we probably need to discuss internally and then kind of go from there.
+Christopher Hume: Perfect.
+Taylor White: Yeah, I certainly understand discussion to know that we can kind of test that.
+danielle.johnson: Yeah, but I mean, it's a great product. I'm impressed with it.
+Christopher Hume: Yeah, I always joke. I'm not an engineer at this job. So it's all like magic to me.
+Christopher Hume: Like how do you guys, how did we do this? So it's fun for me to get to tell people about it.
+Christopher Hume: Well then I guess in terms of next steps, how would you, if you would kind of be the one who helps out with checking on the integration, would you just a 15 minute check in and see how things stand on Friday or maybe next Monday?
+Taylor White: Yeah, that might be a little quick for us, but yeah, of course.
+Taylor White: Definitely put some on the schedule.
+Christopher Hume: Maybe we could do next Friday. Maybe give you almost a full two weeks that work the 17th. Is that what you're or the 10th sorry I think the 10th.
+Taylor White: Let's put on the calendar for the 10th and I can discuss with our team. And see what that looked like.
+Christopher Hume: Perfect. What what time on the 10th would work for you?
+Taylor White: Does 10 work?
+Christopher Hume: And 10 on the 10th easy to remember and works for me.
+danielle.johnson: And I if I can join, I will. But like I said, Taylor's the most important person to really look at it and see if it will work for our health information management team on the back end.
+Taylor White: Yeah.
+Christopher Hume: Perfect. I just put a little dummy hold on my calendar and I'll send out the actual invite. In a few minutes. Don't need to make everyone watch me do that live.
+Christopher Hume: I know painful to see someone jump between tabs on a computer. But we have a few minutes left. I'm certainly happy to give everyone else a few minutes back on their Monday. But Dr. Johnson, Taylor, any last questions I can answer for you. That you might need kind of when you have your internal discussion. Of course, you can always email me too, but any last things here?
+Taylor White: I will ask what kind of timeframe does it look like? To implement this?
+Christopher Hume: I would say the two longest, the two things that take the longest are the building your custom templates, which typically is. Two to three business days at most. And the data migration. No, you probably have quite a few patients. I don't think I've ever seen a data migration take more than three days. So if we set a week would be unbelievably long, but from deciding to start with us to having everything rocking and rolling a week would be the longest and typically a few days shorter than that.
+Taylor White: And that's all, I think that was the only question I had.
+danielle.johnson: I don't have any additional questions you can think of.
+Christopher Hume: Well, then we could give everyone eight minutes back in Monday. Tana runs the restroom or gets some water or something before the next call. Well, I look forward to chatting on the 10th and Dr. Johnson if you're scheduled permits, I'm reporting them to. You'll have my email if any questions come up, please just let me know.
+danielle.johnson: All right, great. Thank you. I appreciate you both.

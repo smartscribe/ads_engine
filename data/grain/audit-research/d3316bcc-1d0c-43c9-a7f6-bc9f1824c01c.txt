@@ -1,0 +1,188 @@
+Carolyn Mallon: Hello. Hello.
+Becca Bressler: Hi. Carolyn.
+Carolyn Mallon: Hi. How are you?
+Becca Bressler: Good. How are you? Nice to meet you.
+Carolyn Mallon: You as well.
+Carolyn Mallon: You as well. Thank you for taking some time this morning. I understand you guys do E prescribe now, so I'm interested in hearing about it.
+Becca Bressler: Yeah. Are we getting you set up today, or am I just kind of walking you through?
+Carolyn Mallon: Well, we'll start with you walking me through it, and then I guess I'll make a decision.
+Becca Bressler: Absolutely. And you're a JOT Psych user?
+Carolyn Mallon: I am.
+Becca Bressler: Do you. What's the other EHR that you use?
+Carolyn Mallon: It's iconotes.
+Becca Bressler: Okay. And you're looking to move away from it. I understand.
+Carolyn Mallon: Maybe. Gosh, I hate ikenotes. It's been such a disaster. But we've, you know, know, done some comparison shopping and haven't found anything that we feel confident in. And the switching costs are so great.
+Becca Bressler: Yeah, totally. We understand that as people that are building this product, that no matter how terrible someone's EHR is, when you have your entire practice inside of it, and, you know, you're so busy, you're. You have so many things on your plate. It's. It's definitely tough, which. And you want to be doing your due diligence, so. Let me. Give me one second. I need to pull up my test account. I have so many different types of accounts in JOT Psych, so. Just one moment, please, and do you own a practice that uses or.
+Carolyn Mallon: Okay, yeah, so far. It's just. I mean, I have, like, 10 employees. Two of us out of the three prescribers use jot Psych. I. You know, if we were ever able to move EHRs to something better like JOT psych, then it would be three prescribers to start with. And I'm hoping to hire another prescriber soon, so.
+Becca Bressler: Got it.
+Carolyn Mallon: Got it.
+Becca Bressler: We're growing. All right, let me share my screen. Actually, I'm gonna. I'm gonna get going on a bigger monitor so I can show a couple things at once. So our E perscribe integration is with Dosebot.
+Becca Bressler: We did a vendor search, and also. Have heard pretty negative things about Dr. First from our users. So this is what we landed on. And we know you know, other kind of newer tech forward companies are going with this one as well. So this felt like the right match for us. So, okay, you can see my JOT Psych screen. So this the way that you will be able to access Dospot and this, the UX you see is kind of underway right now. We're making a couple changes. Two days, but just to kind of give you a quick snapshot and I want to make sure you can see my whole screen. So you're looking at my tab right now. Let me just change that up. All righty. So okay, so one of the ways to access this is through our patient page. Their medication is the other way is because we know prescribers prescribe in session when they're with their clients.
+Becca Bressler: We also have set it up so that when you're recording in the session you can also launch prescription from this. And so what that does right now is it opens another tab into Dose spot. Once you set up with Dosebot and do the two factor authentic authentication. If you're doing prescribed substances or you know, the first step being an identity proofing step, there's no separate login into Dosebot. So from the patient page you launch directly into that patient's page on Dosebot. Once you've connected them, there's no, you don't have to connect them twice. So for instance, like if I'm setting up a new patient in JOT Psych let's. Or in Dosebot you'll see Connect for erx you'll have to put in some patient information and then once you hit Connect Connect patient it'll open up the patient in Dose spot and then from there on out it takes you right to the patient.
+Carolyn Mallon: Okay, so it's like a one time thing to connect the patient to do spot.
+Becca Bressler: It's a one time thing to connect the patient to do spot. This is a test account, so I can't do everything. But there's, you know, you can control prescribe controlled substances. Is that something that you're practicing? So the setup, there's like a separate a second piece of that as well of course with your DEA number and that requires two factor authentication. Maybe you're familiar with that with your other platform as well. So there's an additional setup step. But yeah, this is basically it. Add prescription. You can manage the patient pharmacy and have a default pharmacy for your patient, which I think is probably add your prescription, access medication history so it has integrated, like.
+Carolyn Mallon: Controlled substance history.
+Becca Bressler: The controlled substance history. So the PDMP is that typically accessed through the p. I could actually. It might take me a second, but I could pull in a time. Test patient if we want to see what shows up in the medication history. But I believe the answer to that is yes. And then you also, if you add a controlled substance there, it will set you up with a link to the PDMP so that you can log in straight from dose spot, you know, to the state database.
+Carolyn Mallon: Okay. So you have to log in. It's not like pulled in to do so is not.
+Becca Bressler: Let me. I would love to follow up with you on that because I've gone through tests but as a non clinician I wasn't. I didn't notice what might have been a controlled substance in the medication history versus wasn't. But I actually wonder should show this as the patient. Anyways, I'll follow up on that particular one. But yeah, you would just add. Let's go lamotrigine. You would fill in, you know, diagnosis code, dose, quantity, any directions, you know, number of refills, etc. Click create medication add. You could, you know, add a list of medications to prescribe multiple at the same time hit next and then basically yeah, fires it off to the pharmacy. Your. Yeah, it's fairly straightforward, fairly simple. Can I answer any questions for you?
+Carolyn Mallon: Yeah. Is there an easy way I think I saw something on there to add a prescription they're taking that's not prescribed by us or was previously prescribed by us. But we're not actually sending a prescription today. We just wanted it included in their med list.
+Carolyn Mallon: When you were tapping around I thought I saw something like that.
+Becca Bressler: So that would show up in the medication history. Oh look, we have this. Okay. Yeah. So this is stuff you would see prescribed by other. Other people. Honestly, maybe you can tell me, do any of these look like prescribed mental health meds?
+Carolyn Mallon: The top one and the Ambien would both be likely prescribed by somebody in psychiatry.
+Becca Bressler: Oh but and a controlled substance or.
+Carolyn Mallon: Oh, the Ambien is a controlled substance.
+Becca Bressler: Right. So they're. That answers that as far as pulling that into the medication history. So yeah, you can see when that was filled.
+Carolyn Mallon: Well what I mean is a little bit. Oh well I see with your three dots so you can add it as a self reported medication. So it shows up in like their ehr profile as a med they're taking.
+Becca Bressler: So with this is very, very new. So you know we're about five people on this so far. We are in the process of building the sync back to Jotsych. So at this moment it does not pull back into the patient profile on jot Psych. That's something we're working on. Now and hope to turn around really quickly. We know that's, like, an essential piece. For people. So right now that is not enabled, but definitely will be. We know that's like crucial, so.
+Carolyn Mallon: Okay. Okay. Yeah. The other thing that would be nice if you guys are going to develop it would be the integrated PDM piece so that you don't have to log in anywhere.
+Becca Bressler: Yeah, I think given the. They call this a jumpstart program, so getting us up and running quickly and so unfortunately, Ghost Spot doesn't have that integrative piece. But I know, you know, long term, if we want to bring this fully in house, that would be something that. Yeah, so it's pretty, pretty simple to get your clinicians on it. So the way that it just works as from like a setup perspective is the practice manager sets it up in the practice settings so that you can enable e prescription for your entire organization. The next piece of it is, as you may have noticed, there's this clinicians page where you can see all of your clinicians and where you are able to invite additional ones. You just add it to their tier. So you click on this pencil icon and you add it to their subscription. And so what that then allows is that clinician can just go into their settings, their clinician page, and they would then have to enter their own personal information. Here's their MPI number, their DEA if they do control substances. So, yeah, it's fairly straightforward. You know, the setup takes a little bit of time. We've been walking people through it, but after that you're kind of off to the races.
+Carolyn Mallon: Yeah. And what is the subscription cost, including the ability to do controlled substances?
+Becca Bressler: It's 69 for the whole thing. So we don't charge extra for controlled substances.
+Carolyn Mallon: 69amonth, I'm assuming 60.
+Becca Bressler: Yes, 69amonth.
+Carolyn Mallon: And that's per user?
+Becca Bressler: Per user, yes.
+Carolyn Mallon: Okay.
+Becca Bressler: Do you have admins that set up prescriptions for other people? Typically like proxies or supervisors or.
+Carolyn Mallon: Okay, no, each. Each of our psychiatric prescribers does all their own.
+Becca Bressler: Okay, got it.
+Carolyn Mallon: Yeah.
+Becca Bressler: Yeah. Let me know if there are other things I can answer or if you want to get set up yourself to like play around with it.
+Carolyn Mallon: Yeah, I'm thinking that I may just try it on my own, Sending a few prescriptions and just play around with it. Like I said, you know, I'm very interested in any product that might be an improvement on what we're currently using. Sure. I don't anticipate that my other prescribers would be using it until and unless you guys really like, release an EHR and we wanted to like use it but I'm interested as somebody who has been using jot Psycho While it's very. Very encouraged by all of your product, like improvements and stuff all the time. I think it would be interesting to try it out and, and just see how it goes.
+Becca Bressler: Sure. So we. A couple just things I want to say and then I have questions for you. So first month we're giving people $10, so we'll set you up but then offer like a credit on your account for your next bill to take care of a lot of that cost month to month. So there's no year contracts that have to be signed here. A couple other things though to just warn you quickly if you are using a different prescription software, which you are, it takes about a day for you to be able to use this spot. Has to kind of like flip a switch because unless. Well, presumably with your other software. Do you have refill requests enabled, change requests enabled?
+Carolyn Mallon: I do, but we don't want it enabled, to be honest. Like we get very annoyed because the pharmacy puts through, I mean tens of them every day for me would have often been discontinued and they're.
+Becca Bressler: I didn't know that, you know, as like a, as a patient myself, I didn't realize that all that was happening behind the scenes.
+Carolyn Mallon: Yeah, it's actually like, you know, when you guys are tweaking things, having the ability to turn that off or on is key. Yeah.
+Becca Bressler: So the sure Scripts only allows that with one platform. So for people who want to bring that over to Dospot, we have to submit a change of vendor request which is like a three day process not, not necessary to have. But because that is enabled elsewhere, it takes Dospot about a day to like be like no sure Scripts, we don't need three days to do this. We just need a day to like enable new prescription writing.
+Becca Bressler: So just to. Yeah, just to give you a little bit of sense of that, one thing is what I wanted to mention and then I'll get you set up here. We'll walk through it together just so I can kind of walk you through some of the onboarding that's required from Dosebots and it can get a little bit confusing. I guess my question for you, Carolyn, because I'm the product manager here, so it's just helpful to hear from users kind of what else we should be thinking about or prioritizing as far as getting your clinicians on jot psych and kind of waiting for the full ehr. What are the major like the missing pieces to really enable that kind of transition
+Carolyn Mallon: for all of like moving into a different ehr? Well, I shared a little spreadsheet yesterday. I think that had a lot of the features that we had been. But I'll tell you, the switching costs, the biggest things that have been barriers, is that. There's so many documents for each client that I've been seeing for five years. Some of them.
+Becca Bressler: Yeah.
+Carolyn Mallon: And all but One of the EHRs we talked to don't offer any assistance in that department. They're just like, have fun downloading and uploading thousands of documents.
+Becca Bressler: Yeah.
+Carolyn Mallon: So that's a big one. And then the other one is the ability to migrate patient demographics and like payment history and stuff like that. If we're using a new product to like track payments and collecting co pays and what their balances might be, etc. Because we have, I imagine, probably at least a thousand clients at the practice right now.
+Becca Bressler: Yeah, yeah, no, that. We certainly hear that the documentation burden of just like making sure your patient's profile is as up to date and enriched as the HR that you're coming from. So that totally makes sense. Let me walk you through this. So would you share your screen with me now and I can walk you through this?
+Carolyn Mallon: Sure. Oh, one last question just to be sure this doesn't like, make it. So I can't use my current EHRs you prescribe. Right. I can use them both if I needed to. Okay, great.
+Becca Bressler: Okay, let me stop sharing. And then if you would share your screen, it might be helpful to share your entire window instead of a tab because it's going to open a new one. Okay.
+Carolyn Mallon: Okay.
+Becca Bressler: Okay.
+Carolyn Mallon: Let's see. So job Psych, I imagine.
+Becca Bressler: Perfect. So if you go to your practice and hit clinicians, let's start by adding this to you. So if you click the pencil icon next to your name and just. Oh, Carolyn, I have to add this to your account now that I know you want to do this. Give me one second.
+Carolyn Mallon: Sure.
+Becca Bressler: Because we're, you know, slow rolling this out and onboarding people. Not everyone sees this on their account right now. So let me. Actually, I just need like a minute and then this should be. How long have you been using job site for?
+Carolyn Mallon: Gosh, at least a year, I think. Maybe more. Maybe a year and a half. At least. And I love it. I tried a few different ones. Part of the. At least at the time. Biggest selling points for me giving up some of the trials with the others I did was that you guys did a good psychotherapy note and at the time anyway, the other platforms were not doing that. And so that was a big reason for me to move over. But you guys have had so many great, you know, improvements over the time. I've been using it. So I pay for my other providers to use it if they would like.
+Becca Bressler: Got it.
+Becca Bressler: No, we're, we're glad to hear that you enjoy our updates. You know, of course there are some people that are like, no, you're my scribe and stop adding features and stuff, but we also hear from a lot of our users ways that we can be more effective. And we definitely want to make sure we're continuing to grow and support our users in ways that we can.
+Carolyn Mallon: I remember talking to somebody and I said, I think that the next stage is having not just integrated scribe features in an ehr, but to have an EHR that tracks clients improvements and changes from visit to visit and incorporates that.
+Becca Bressler: And you guys are doing it.
+Carolyn Mallon: It's great.
+Becca Bressler: Yeah. Well, especially because I think a lot of these legacy EHRs are so old, it's like an add on. You know, they're kind of trying to like bring in new technology and fit it into their very old technology. But there's definitely a benefit to kind of building from the ground up with these. Alrighty, so if you would just exit out of this for a second and give your page a refresh.
+Becca Bressler: Okay, let's try it now. So now if you hit the pencil icon, right? Okay. So jaw RX at the bottom, right there. Save changes. Amazing. Okay, so now do you see where it says practice settings? The tab in this page there, It's. It's up at the top. So clinicians, your subscription. Yeah, right there. So if you scroll down, the next step here is just to connect your clinic. So if you hit connect to E Prescriptions, it will ask you for some information here. Awesome. So then the next step is if you click your picture, the circle on the upper right hand corner to get to your account settings. And then you scroll down on this page and you keep scrolling.
+Carolyn Mallon: Should I fill this out? Missing info?
+Becca Bressler: Yeah, that won't affect.
+Becca Bressler: It'll ask you to fill it out probably right here. But if you go down. Down to E Prescription. Yeah. So now the next step is to fill out this information right here.
+Carolyn Mallon: Okay.
+Becca Bressler: And the phone number piece. Needs to be.
+Carolyn Mallon: Or maybe I can do two factor.
+Becca Bressler: Yeah, I think. I think it may ask you to enter a phone number and dosebot. And that one needs to be something that you can. You know, a mobile phone. But yeah, okay.
+Carolyn Mallon: Yes, yes.
+Becca Bressler: If. If so. And then it'll just ask your DEA.
+Carolyn Mallon: Do.
+Becca Bressler: Okay, great. And so now you're going to hit open dose spot. And you can exit out of this and just continue with the complete agreement.
+Carolyn Mallon: And this, I assume.
+Becca Bressler: Yes. And then that step. Yeah. And this is for the identity proofing. That's why you're being asked for your credit card information. But it won't be charged or anything here.
+Carolyn Mallon: Okay, So I just have to put an annual credit card number.
+Carolyn Mallon: Yeah, I saw it's using Experian. That's interesting. Thinks it's missing something.
+Becca Bressler: We scroll down. Is there anything else below the checkbox?
+Carolyn Mallon: There is not. No. Let me just check. Sometimes these things, when they're highlighted, it doesn't like it.
+Becca Bressler: Oh, yeah. I think that is that. Actually it's the state. There we go. Great. So you should be getting a text message for this next step.
+Carolyn Mallon: Snap a photo by id. Okay. Take a selfie, please. Face an oval. There we go. I had to do this with our current stuff, like something similar with one of my new employees, and man, that was like pulling teeth. Like, it's not. I mean, I know there's a few steps. It's not that complicated, you know, hours.
+Becca Bressler: I swear, the dea, the two factor authentication piece we've noticed, is the one that is really tripping people up because. And you'll see as I walk you through it why. Yeah, it's unfortunate we don't have more control over this part of the process right now.
+Carolyn Mallon: It's still swirling on my phone. I don't know, maybe it just takes a while.
+Becca Bressler: Yeah, I think some. It might just take a second.
+Becca Bressler: Okay, let's just give it a second. It had just asked you to take a photo and then you hit submit or something on that end.
+Carolyn Mallon: Yeah, now it's just. Just doing that.
+Becca Bressler: Okay. Yeah, let's give it another second. I.
+Carolyn Mallon: I think it should says check notifications from Experian on your phone, which. There are no new notifications.
+Becca Bressler: That was the.
+Carolyn Mallon: That was before.
+Becca Bressler: That was the first piece of. This. I mean, this is good for us to know if this has happened. I haven't seen this happen yet with the user that it takes this time, but.
+Carolyn Mallon: Okay, I'm gonna redo having it take the pictures really quick because I'm thinking that might. It might not have liked my photos. It didn't look centered. I don't know. We'll see it.
+Becca Bressler: See, I also might ask if this doesn't work, are you on WI fi right now on your phone?
+Carolyn Mallon: I am, yeah.
+Becca Bressler: Maybe we would try it on the network. If this doesn't work. I don't know if that.
+Carolyn Mallon: I don't know either. It's very weird. You'd think if it doesn't like it, it would give us some sort of message along.
+Becca Bressler: I do, I do think that's true. That's why I don't think it's the. Why don't we do this? Can you hit close? Let's try this again. And if you could just get your phone on the network and off of. Oh, did something happen or you hit close?
+Carolyn Mallon: I just hit close.
+Becca Bressler: Okay.
+Carolyn Mallon: Yeah, I'll turn my phone to the network, not WI fi. Right.
+Becca Bressler: Well, let's try that for a second and see. Are you getting another message from them to start?
+Carolyn Mallon: Not yet. The message I got was from four minutes ago still, so I'm waiting for the new message.
+Becca Bressler: Let's update phone number maybe even if it is the right phone number. Oh, this is annoying that they're asking error your identity. Okay, let's just try putting this information one more time and seeing if we can get this to work.
+Carolyn Mallon: I don't mind.
+Becca Bressler: Oh yeah, the New Hampshire it auto filled to NH again, so you'll have to just select. There we go.
+Carolyn Mallon: Try a different card too, just in case.
+Becca Bressler: Yeah, someone had trouble with American Express at some point, but it didn't let them move on, so. All right, let's see if we can get it.
+Carolyn Mallon: Okay, let's see. I got a new link. Thank you for submitting your verifications in process.
+Becca Bressler: There we go. Look at this. Great. Okay, so now the next step here is for Two factor authentication. I need to do something on my end to make sure you get a notification, so let me just do that right now. Alrighty. Alright, so Carolyn, if you can now refresh your screen one more time and you see a notification in the upper right hand corner. So now this is the two factor authentication piece for controlled substances. So this is where it gets a little confusing.
+Becca Bressler: So I'll walk you through this. So yeah, if you put your mobile phone in again, you're gonna get two text messages. The first one is getting you set up with Duo. And then you're gonna get confused and you're gonna be like, there's a QR code and like something else. And then it's gonna be like, oh, okay, now we go to the second text message.
+Becca Bressler: Okay, so yeah, let's see.
+Carolyn Mallon: So first I want to do the mobile.
+Becca Bressler: Yes. So the first text you get is the, is the one that you want to start with.
+Carolyn Mallon: Okay. Okay. So add your account, use a QR code.
+Becca Bressler: That's where it gets confusing. So now let's look for the second text message in your phone.
+Carolyn Mallon: Name. Your account. Do I call it my business account or my personal or.
+Becca Bressler: Yeah, you can. And I would hit next here on the, on the, on the computer.
+Carolyn Mallon: Okay.
+Becca Bressler: And you should see through here a passcode that shows up once you on your phone.
+Carolyn Mallon: Once I give it an account name.
+Becca Bressler: Yeah.
+Carolyn Mallon: Okay. Let's practice how to protect your identity. But you're saying the app should. Here. This is what I'm saying right now.
+Becca Bressler: Yeah. So what does the blue say? Prescribe.
+Carolyn Mallon: It says practice now or skip it wants to practice how to protect my identity. Probably skip it right now.
+Becca Bressler: Yeah, let's try skipping that.
+Carolyn Mallon: Okay. Allow this. Almost there. Okay. Passcode. I got it.
+Becca Bressler: Great. And then this PIN number is for you to choose. It makes it seem like maybe you've already picked one, but yeah, this is your time to pick. Passcode.
+Carolyn Mallon: Okay.
+Becca Bressler: Amazing. So now you are authorized to prescribe controlled substances as well. And the way to do this is from the patient page. So right now you know, for the next patient you want to prescribe medication for, you enter in their information where I showed you. You know, if you. Yeah. If you go to a. Pick a patient. Right.
+Becca Bressler: So if you scroll down to the medications section, you'll see connect for erx. Yeah. And then. Right, and then once you get that info, really quick.
+Carolyn Mallon: Do they need her phone number, address, everything?
+Becca Bressler: Yeah, I think this will require everything, Though. I'm actually not positive. I'd be curious if it lets you move forward without it.
+Carolyn Mallon: Do you want me to try? Well, there's stars next to it. I guess it's required.
+Becca Bressler: Oh yeah. If there are stars, then.
+Carolyn Mallon: Okay. Let's see.
+Becca Bressler: Great. Yeah. So then this is. Yeah, this is. This is where you'll prescribe from.
+Carolyn Mallon: And this insurance plan, is that like coming from somewhere? This is what she has for her pharmacy benefits.
+Becca Bressler: Yeah. Yeah, this is. Yeah.
+Becca Bressler: It's not coming from Dot Psych. Right.
+Carolyn Mallon: It's not coming from my ehr either. That's great. I mean, if we are in a position where we need to know where to send our prior off, that's handy.
+Becca Bressler: Definitely. Great. Carolyn, let. Just so I kind of can. Bring some information back to my team about your needs. Is the. The move here for you guys is we would need to have all of the things you outlined in the email to get all of your prescribers on Dosebot. Is that fair to say?
+Carolyn Mallon: You mean all of that stuff in the spreadsheet?
+Becca Bressler: Yeah.
+Carolyn Mallon: Well, those are the things we would need if we were going to move ehrs.
+Becca Bressler: Okay.
+Carolyn Mallon: You know, if. If I play around with Dosebot and I really like it, I could get Sandra to use it. The outlier is Jennifer, another prescriber here who is using Freed. She just used it first and didn't want to make a switch. But like I said, if at some point I was to use Jottec as an ehr, then she would obviously be using like for the AI. I do have one question while I'm thinking of it. When you guys build out this ehr, will it also support therapists, not prescribers?
+Becca Bressler: So we technically do. So there are therapy templates. We have a lot of therapists that are using us. We also have. You can collect payments through JOT Psych for like out of network. So we already support that. Are there other specific payments, therapists, features, functionalities you're thinking of?
+Carolyn Mallon: Well, one is the ability to schedule group therapy. We don't do a lot of that at all, but we're hoping to do that in the future. And it's a little more complicated when you've got multiple clients being assigned to the same clinician at the same appointment time slot and recurring.
+Becca Bressler: Got it. Okay, got it. That is helpful information for us to know. So. Yes. Okay, so it's. It's creating calendar appointments, linking it to multiple patients at once. And. Yeah, that makes sense. So I'll bring that back to my team.
+Carolyn Mallon: Yeah.
+Becca Bressler: And let them know. And then as far as this goes. But do you currently prescribe through ikonotes?
+Carolyn Mallon: Well, I prescribe. Yeah. It's integrated with Scripture.
+Becca Bressler: Yeah, sure. Script.
+Carolyn Mallon: Yeah, well, no, it's actually. There's two and it's very confusing.
+Becca Bressler: There's sure Script and there's Scripture. Oh, okay. I didn't realize.
+Carolyn Mallon: Yeah, I didn't realize at first either. I kept getting information about product like thing features that I was supposed to have that I didn't have. And then when I looked into it, it turns out there's two different companies and ours doesn't have the features that are good.
+Becca Bressler: I see. Okay. So if you like Dosebot, you can envision using it without moving your entire EHR to JOT Psych is what you're saying hypothetically.
+Carolyn Mallon: The only thing is that it wouldn't automatically import our prescriptions into our note in the e. In our current ehr. I can.
+Becca Bressler: Right?
+Carolyn Mallon: But if it's all captured in our documentation, it doesn't. Have to be, right?
+Becca Bressler: Yeah, that's what we're. That's what we've seen so far. I mean, we're definitely working on pulling the medication back into job sites like patient profile, but so many of the people were onboarding already have the medication history in jot psych in a way that they like that. That has surprisingly hasn't been as big of a barrier to adopt as I kind of expected. So it sounds like even for you without that, if you like Dosebot, it might still still feel like a good fit for you guys because you already have that medication piece in your notes, sort of.
+Carolyn Mallon: Right? Yeah. Yeah.
+Becca Bressler: Carolyn, will you just keep in touch with me about feedback?
+Becca Bressler: Like, just as a product person, it's really important for me to, you know, know where it's not meeting people's needs so that we can make sure we're like prioritizing features properly. So. So, yeah, play around with it. If there's things that don't work, let me know. If there's things that you're missing, let me know. Any and all feedback. Great feedback for us.
+Carolyn Mallon: Okay. Yeah, I'm. How long does it take to start working? Like, if it's not controlled substances, it should be a day.
+Becca Bressler: So all I will make sure. Yeah. So basically what happens is it'll send an alert to do Spot's support team that like a switch needs to be flipped for you. Um, and so. So, yeah, so it should be a day. I can keep an eye out on your profile from my end and let you know once that piece of it.
+Carolyn Mallon: Yeah, yeah, I'm excited. I. If I'm going to try it, I want to know so that I can enter the clients into the E prescribed before I meet with them. So I'm not taking up appointment time with that.
+Becca Bressler: Yeah, yeah. So let me let you know once I can tell that things are up and running for you and then. Yeah, and then we'll go from there.
+Carolyn Mallon: Okay, sounds good.
+Becca Bressler: Thanks so much. Really nice meeting you.
+Carolyn Mallon: You too. By.

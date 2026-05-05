@@ -1,0 +1,223 @@
+Becca Bressler: What's up? Not much. How's it going?
+Lee Harrold: Pretty good. You found one of those phone booths?
+Becca Bressler: To. I'm actually in one of the jot psych offices right now. I was just hanging out in the. Lobby or it's not even the lobby. It's like the pitch and co-working space couches thing. So I'm really trying to enjoy all the spaces, you know?
+Lee Harrold: Are there. Are the couches comfy? I don't know.
+Becca Bressler: The couches are comfy. I like, before I sat in it, I was like, oh, is this gonna be one of those things that, like, looks cool, but, like, functionally kind of sucks. But I was. I was. I was sensitive back, and it was okay for me.
+Lee Harrold: So. Oh, spectacular.
+Becca Bressler: How's your head?
+Lee Harrold: It's. I. It's so much better. Yeah. Like, I think I probably have, like, a week or two until I can.
+Lee Harrold: I can move physically in. In the same way before. But, like, Monday and Tuesday, I had. I was so much better.
+Becca Bressler: Like, I had short term.
+Lee Harrold: I wasn't constantly surprised by things.
+Becca Bressler: My God, that must be really scary and disorienting to.
+Lee Harrold: Yeah. Yeah, I. I had had one concussion previously about four years ago. And I think if I had not had that experience, I would be freaking the out.
+Becca Bressler: Yeah. Yeah, it'd be a lot of talking to claw and being like, is this normal? What's happening here?
+Lee Harrold: Yeah, yeah, yeah. You're like, I'm having these symptoms. And it would say, like, oh, your. Your brain is bleeding. You know, call ER immediately. Just default to the worst possible lowest risk.
+Becca Bressler: Do you have any plans to come out here to, like, check out the office?
+Lee Harrold: What's your.
+Becca Bressler: No, no.
+Lee Harrold: I. I guess I would have to make that. I mean, that's. That's not like a definitive, like, oh, I'm never gonna do it. It's just. I don't. I haven't actually actively set them up. Just because I have a couple of shows.
+Becca Bressler: Oh, got it. This month.
+Lee Harrold: And then early next month. So if I wanted to, it would be late. May. I just haven't thought about it.
+Becca Bressler: Yeah, they haven't, like, mandated it or anything, though. Okay, cool. Let's jump in. Should we. Where do you want to start? EHR Chrome extension or.
+Lee Harrold: Yeah, that's. Oh, yeah, yeah, yeah. So appointments. Let me kind of share my screen. Like. Like, we all. We all know.
+Becca Bressler: I know. I think the question is, like, is there actually a bug that we should squy? By which I mean, I don't think it was meant to be the case that every time you create a template, it creates a corresponding appointment type. And if that's happening, we shouldn't have. We should not have that happen. You know what's happening, though?
+Lee Harrold: Yeah, that. That was. Yeah, I think that's. What we should change. So here's. Do you see my screen? Which screen do you see?
+Becca Bressler: I just see the two of us in your background. Yeah. Okay, great.
+Lee Harrold: Yeah. So. If I have this appointment type. Yeah. If I have this appointed type.
+Becca Bressler: Yeah.
+Lee Harrold: Oh, I merged this. Okay, I already merged one of the fixes. But before this would just say template. And then it would. Like, be the. It would end up defaulting to the default template. Across the entire system, which is psychiatric intake. And then if I change this, I think this. This is still here. Let's. If I change this template. I don't remember if I need to. Schedule a session or just to open a new. Duplicate. I'm expecting it to have created a new encounter type. So let's see. That was offered behaviorals session template. Now, if I go over here. Yeah. So we have a second one.
+Becca Bressler: So it just created a second appointment type.
+Lee Harrold: Yeah. Yeah. And so this is why everyone is getting, like, all of these.
+Becca Bressler: I actually don't really understand what just happened. Like, what happened that created a second appointment type?
+Lee Harrold: Yeah. So that's. So I moved to. I I I had an appointment type selected, and then I changed the template on it. Yeah. And I think.
+Becca Bressler: And that made a new appointment type. Yeah. And I made it. Oh, yeah. Yeah. So we just need to cut that off, like, wholesale. That should not happen. The key thing is, is like, if someone hits save, then it saved, then it updates the default template for that appointment type. But, like, we definitely should not be creating new appointment type. Yeah. So. So I would. I would actually chalk that up to, like, above.
+Lee Harrold: Is this a.
+Becca Bressler: Is this how we say awful? Yeah. This is how you save and, like, save the. It's very confusing and it's not clear at all.
+Lee Harrold: Oh, because this was like a tiny floppy disk. That's good.
+Becca Bressler: Yeah.
+Lee Harrold: Okay. So then I guess the other. The other thing is, like, the. The two users I spoke with who were having the NA problems. Like, didn't see this. Or, like, didn't know what it was. I think it's not really clear that this is a drop down unless.
+Becca Bressler: Yeah, I agree.
+Lee Harrold: So let's see. I have. One way we could make that clear. Where to put it? Oh, you know what? You commented here already.
+Becca Bressler: Yeah. I don't think I think that that's the right suggestion, but I wonder if there's. If it should become, like, a chip of some type. Like, I don't know, across the app. What are the other. If we have other patterns we use for, like, drop downs that are not just.
+Lee Harrold: Like.
+Becca Bressler: Those same.
+Lee Harrold: Yeah. Views. I guess if we. Yeah, I wonder if. If there's any other place where we have a parent object. That has a child object that we need to edit and change. Because the pattern is typically make a card for the parent object and then put the thing you're changing inside of it. What do we got? Maybe templates. Okay. But it's not. It sounds like we. We definitely don't want to do that second drop down thing.
+Becca Bressler: Yeah. Yeah.
+Becca Bressler: I think we don't want to do the second drop down thing either Jeremy or Anya. Yeah, we're not actually going to be working with either of those two anymore.
+Lee Harrold: We'll definitely not jam it.
+Becca Bressler: Anya doesn't know it yet, but no, just give me a little bit of time to think through it. But. But the immediate thing that we should do is make sure that it does not. Changing a template should not create an appointment type. The only time we are creating an appointment type is if someone, like, manually is, like, create new appointment. Type. Okay. Yeah, we should be updating appointment types if people choose a different template and then, like, save it as their default right on the recorder. So, like, if you hit that save, you're saving what is the default template for Alfred Behavioral Health. But, yeah, circumstances are we creating appointment types for people unless they click it.
+Lee Harrold: Sounds good to me.
+Becca Bressler: That seems like the immediate thing that we could do.
+Lee Harrold: Yeah. Yeah. I think I would stem a bleeding in addition to that. I think we should. Default if. If the user hasn't selected a default template or if. If the user hasn't selected a template for their Porsche appointment type. I think we should default to whatever they have at the top of their.
+Becca Bressler: Oh, that's not.
+Lee Harrold: Whatever it is they have at the top of the list.
+Becca Bressler: Yeah. Yeah. I agree. So, yeah, if there's no default type, but can we make it blue? So, like, if it's not a default type, or do you know how it's like.
+Becca Bressler: Like that's like the dirty view, basically. But can we make it into, like, a dirty view if we're, like, selecting the default for them? Do you know what I mean?
+Lee Harrold: Okay. Oh, so you're saying this blue means that it's not the one that's the Alfred behavioral health?
+Becca Bressler: Well. I guess what I'm trying to. So. So that color is when it's been dirtied. Right. So, like, if you're changing the default. Look at that. The thing that I'm wondering is if you don't have a default template for an appointment type. And we're just picking your most used template. Can we, like, dirty it so that you can see the template we've chosen? And, like, either save it as your def. Like, or does that kind of mix mental models of all this stuff? Do you know what I mean?
+Lee Harrold: Yeah, I hear what you're saying. I think that makes sense. The. The trick is to understand that it's been dirtied. You will need to have seen both, like, the undirty state in the dirty state.
+Becca Bressler: Then ignore me, actually, because I don't think you would get that in this case. But, yes, I agree with you. If there's no default appointment type, let's just select their most recent, you know, their highest priority. I also wonder if there's, like, a UI thing we can do where, like, select appointment types, for instance. If we. We should probably run some sort of analysis, but, like. If people haven't used. So I should look into, like, how many people. Like. If people haven't used a certain appointment type, like, since we launched this, like, we should just, like, make them gray. And, like, you can click on it, but, like, visually. Or there's, like. It's almost like an archive section, or it's like a dormant section or, like, some visual distinction to be like, these are kind of dormant is maybe one quick win we could do.
+Lee Harrold: Yeah. Like, so let's assume everything after armistice day. Is that. In this example, we could sort of add a line across and then gray out all the other, all these others.
+Becca Bressler: And then. Yeah, we would want to be making sure we're not accidentally picking the wrong ones. There's probably a little bit more thinking, but, like, that's just kind of one thought I have. But is there any way for us to realize, like, how many duplicates we've created for people and, like, remove the duplicate?
+Lee Harrold: Yeah. Yeah. So we know. We know anytime. A note was generated with an appointment type. So we could know. How many appointment types existed, but never. That have never been used. One tricky thing, I think, is that if a user creates a duplicate alpha behavior health session template.
+Becca Bressler: And then totally, then we will. That's why I was wondering, is do we have any record of, like, we, like, what triggered the duplication of it? Like. Like if it was like user went and clicked ad appointment type versus we on our back end just created a duplicate.
+Lee Harrold: No, we don't. We don't omit an event for either of those. We do. Yeah, I don't think there's a way to tell if it's. Well, okay, so hopefully duplicates will always have. Oh, yeah, actually. Yeah, this is easier than I thought it would be. They will always share the same name. And the duplicate will always have a created app that is later than the. Than the original one. Yeah. Define those.
+Becca Bressler: We. We could just. We should do some sort of logic where we're. Like. If there's a duplicate. That, like, if there's a duplicate name. And it was created after. And both appointment types have the same default template. Delete it, right? Like, if they have different default templates, we don't want to kind of mess with it, unfortunately. But you know what I mean?
+Lee Harrold: Yeah, I'm gonna write that down. And then we can run that query. That'll tell us. You know, how many of these exist? Material? Divergence? Information.
+Becca Bressler: Yeah, in the appointment type. Like, if. If two appointments have the same information. Yeah. The created after, like, it doesn't even matter which, you know, we'll pick one to delete. I guess. I guess the one we would want to delete is the one that's lower in the list. If there's a way of, like, I don't know if the list is ordered by, like, how recently you used it, but we would want to, like. Like, if they have one of them that's, like, first in the list and one of them that's fifth in the list, we would want to make sure we're deleting the one that's fifth in the list.
+Lee Harrold: You know? Yeah, we. We can run in. In the query that retrieves this, we can have a subquery that tells us. Like, recency of use.
+Becca Bressler: Okay. Yeah. And include divergent information. We'd be including billing information, CPT codes, all the other data that we're collecting. We would want to be, like, aware of.
+Lee Harrold: Makes sense. Everything on here.
+Becca Bressler: Right? Yeah.
+Lee Harrold: Probably fix this. So it's kind of janky.
+Becca Bressler: Oh, totally. There's a ticket for it. Yeah. For sure.
+Lee Harrold: Okay. So I think. Yeah. Definitely. Definitely the fixes we discussed at the top of the call, and then I can get quad to write a query over this. And this will sort of tell us how realistic it's going to be to. Dedupe stuff for users.
+Becca Bressler: Yeah. I'd be curious what number that returns to, like, how many duplicates do we find?
+Lee Harrold: I think it'll be a lot. It was 200 in the last week. So. Cool. All right, so EHR extension stuff with Jane.
+Becca Bressler: Yeah. My first question for you about Jane. So there's a couple things, right? We want to, like, make some upgrades to our EHR extension, like, visually. And there's, like, maybe one new addition that we can walk through if you want to, like, pull up the Prototype. But the second thing is just kind of as we've been going, we've been learning from EHRs, you know, where this sort of breaks. And I'd love to know from you for the Jane thing, if that's been fixed and if the problem that you've noticed. Is one that you can extrapolate beyond Jane. Like, can we imagine that a different EHR? The same issue?
+Lee Harrold: I don't remember. What the issue with Jane was.
+Becca Bressler: Wait, six.
+Lee Harrold: Though? I don't know. Was that trying to remember? I think Chris. Oh, yeah, yeah, yeah, yeah. Chris had set up a template. That was kind of complicated. Oh, no, that. That's what it was. He couldn't. He couldn't set up a custom template in Jane. He had to use the one that the provider used, which has a bunch of, like, drop down subfields. And so. Oh, yeah, I think that thread, I think that thread got dropped. Okay, I'll have to pick that up with him and see, because
+Becca Bressler: it wasn't, like, exposed a problem with our, like, mapping from one section to another section. This was because there was the introduction of drop downs. Is that the idea?
+Lee Harrold: Yeah, there's enough, like, new, complex stuff in the template he was working with. Got it. It's kind of known. It works with Jane. If you create a template that has only free text fields and maps perfectly onto a jot site template.
+Becca Bressler: Well, so this is actually my question, Lee. Like, if you have a template that has free text fields and dropdowns, but your named Free Text fields in the EHR match the name and job site, can it still transfer or are we saying it can't actually transfer to an EHR if there are any drop downs on the page?
+Lee Harrold: Oh, yeah, it can. It can transfer to the free text fields.
+Becca Bressler: Even if there are other drop downs. It'll just kind of ignore. Okay, great. So it's. That's not the problem, basically.
+Lee Harrold: Yeah, it's. It's that there are, like, nested text fields. That it doesn't know how to get inside of.
+Becca Bressler: Fine. Okay, cool. So. So great. So there's no, like, fixes needed to the HR Chrome extension from a, you know, technical perspective that we need to do before we launch it. So now we just kind of want to talk about the upgrade. Should we look at the Prototype together?
+Lee Harrold: Yeah, I think in our direct chat.
+Becca Bressler: Yeah, there's a thread. And if you're just looking at thread, there's a link there.
+Lee Harrold: The very unformally handing this over to you. Here, jot shuttle hyphen Nate. Let me share my screen. Oh, yeah. Okay, here's a thread. Is it. Is it this Netlify?
+Becca Bressler: Yeah, it would be an Elifia. Oh, no, it's not that. Wait. Sorry. Can you. Can you go back to the thread? Can you go up? Yes. Oh, that's the patient. Oh, no.
+Lee Harrold: I guess he just linked the wrong thing.
+Becca Bressler: Where he. No, it looks like he. Can we turn that smart scribe GitHub drop shuttle thing into a prototype? Because it looks like maybe he just. Like. Changed the link or something.
+Lee Harrold: I don't have access to this repo.
+Becca Bressler: Yeah.
+Lee Harrold: So this is. Oh, this is his prototype of the. Oh, I. Okay, cool. Oh, so we've made all these pages. All right. That's. No, that's. That's not going to work.
+Becca Bressler: I guess.
+Lee Harrold: Oh, so this. This would show on the right. Yeah, I. Yeah, I guess. So, like, this. This. This. This would work in the, like, loading screen sort of way where it's completely disconnected from what's actually happening and. Yeah, would see the output way before this finishes.
+Becca Bressler: Oh, really? Like, we would only be able to show this when it was done, not when it was happening.
+Lee Harrold: Well, no, like. Like it would finish on the left, like all the note, all the sections we populated, and then this would. This animation would still be running on the right.
+Becca Bressler: Because it all gets populated at once.
+Lee Harrold: Yep.
+Becca Bressler: Yep.
+Lee Harrold: Yeah. In a single rate. Which. That's fine. Okay, what do we got?
+Becca Bressler: But then it would locate where it didn't find something. Kind of like what you already have, you know, like how you can locate when it is.
+Lee Harrold: Okay, I see that idea. Yeah, it would. If it. If it's done and then. Yeah, we would just move the red X's into this.
+Becca Bressler: Yeah.
+Lee Harrold: I might. Then. Yeah. Okay. And, you know. Yeah, there's. Those Spinners just wouldn't be there.
+Becca Bressler: There's got to be. Can you go to data Recon? The other chip.
+Lee Harrold: Oh, yeah.
+Becca Bressler: Oh, no, that's not it. I don't even know how you get here. Go to all notes. What's the all note?
+Lee Harrold: From. Where do you see all?
+Becca Bressler: Note? So hold on. So list. Let's see. You're looking at list. It has.
+Lee Harrold: Oh, yes. Okay, so these are. These are the template date. Yeah. Date. Patient name or. Yeah, that's the. That's meant to be the. Okay.
+Becca Bressler: But I don't know if we can do that. Right. Because we aren't passing that as a string.
+Lee Harrold: We're. We're not, but we could. I got to change. We can make.
+Becca Bressler: I think we can't for HIPAA reasons. Right?
+Lee Harrold: Think about that.
+Becca Bressler: I think that's why we don't pass it as a string.
+Lee Harrold: No, because we. I mean. Providers can see patient names inside of Jack.
+Becca Bressler: Yeah. Yeah. I would just make sure we can do that here. I don't. I don't know why we wouldn't be able to, but I thought there was, like, maybe a reason why we didn't.
+Lee Harrold: Know HIPAA just means just. They just care that we don't put PII and PHI in the same database. So we're. We're good here.
+Becca Bressler: So let's just, like, step through these so we can see what they look like.
+Lee Harrold: If we. If I click review and push, it brings me to. Oh, interesting. Oh, interesting. So they. Okay, we. It shows you the section title and then.
+Becca Bressler: Yeah, I do think this is missing something we want, which is like copy selected copy all. So it's. Like, oh, look, I guess we have copy nine sections. Yeah. So I guess you can do copy selected. Never mind. It looks like he fixed that.
+Lee Harrold: Oh, that's cool. And it updates. This is a really neat. Kind of. Demo. No match. Oh, okay. So this. This would.
+Becca Bressler: We couldn't do that ahead of time, I don't think.
+Lee Harrold: You're right. We.
+Becca Bressler: Which is fine. That's something we would figure out on the back end. You know, that's something they would see on the back end. They'd be like, success. Success. Success. We couldn't find this section.
+Lee Harrold: And then the next time they wanted to map. The initial violation against that template, we. We would know that that one's missing.
+Becca Bressler: I think the thing that would be really cool, though, for this, like, let's say it couldn't find the social history. If it's, like, no match for this. But then we showed them the text with a copy and are just, like, click copy, and then they kind of manually do it. You know?
+Lee Harrold: How.
+Becca Bressler: Would, like, I actually have a prototype where that might maybe happens.
+Lee Harrold: Yeah, you can find that. It'd be cool to see.
+Becca Bressler: Nate and I are really getting into the whole prototyping business.
+Lee Harrold: Yeah, y'all are Vibe coders. You did it.
+Becca Bressler: I know.
+Lee Harrold: Pretty cool. I guess. I guess you were. You were. You were vib coding even before you joined Jack.
+Becca Bressler: Not like this, though, at all. Here. Let me share my screen. You can see this.
+Lee Harrold: Yep.
+Becca Bressler: You see that? Something like that, maybe.
+Lee Harrold: I love it.
+Becca Bressler: So just something to keep in mind for maybe if I can't find it. That it just kind of singles those out.
+Lee Harrold: Yeah. Wait. So how did you get to the screen? Did you. Did you click the one that was like anything?
+Becca Bressler: It just sort of automatically took you to the next screen.
+Lee Harrold: All right. Which I kind of like because there's only one actionable thing. Like if some. If there are some fails, some failures that occur.
+Becca Bressler: Yeah. I mean, there's a chance they would want to still see the note so they could, like, double check instead of having you get rid of all that stuff. But I don't know. I think that's something worth just trying.
+Lee Harrold: Yeah. I wonder if there's a middle ground where they can see the note. And then we show.
+Lee Harrold: Something to sort of, like, open that section and highlight it or something, you know? Yeah, exactly. With the words like click here to copy manually.
+Becca Bressler: Yeah. Yeah. Okay. And then. Yeah, there's certain things. Like add, like, just advertisement type stuff. That, like, I don't really know. Oh, like the. I don't really know where these, like, show up, basically.
+Lee Harrold: Like, how do you get to patients think? Oh, this button here. Okay.
+Becca Bressler: Want this? Tell us more. Yeah. Let's see what happens if you click that. Can we just click.
+Lee Harrold: Yeah. Take us to.
+Becca Bressler: Yeah.
+Lee Harrold: Shave this feature. I love it. Protecting. So the thinking about product Gates and usage count, we. We probably still want that to live at the top.
+Becca Bressler: Here.
+Lee Harrold: Let me take a look at the existing. App and make sure nothing. We have this EHR. Is there always. We're going to keep, like, this same.
+Becca Bressler: Yeah, I think we. I mean, unless there's a way for us to tell what EHR they're using. I think we should ask for it.
+Lee Harrold: Sounds good. But we. So we still. We still want a tutorial in the app, and we want that to happen when they log in. And we want to make that accessible on an account page. Did he have any. I think he had an account page.
+Becca Bressler: I did have an account page. Yeah.
+Lee Harrold: Sweet.
+Becca Bressler: Yeah. The tutorial will need to update with the new sort of graphic. Like pictures from the.
+Lee Harrold: Last. Where did it go? Okay, cool. Yeah, I think I have a good. Oh, here's our. Here's our account page. Are these. This is just slop?
+Becca Bressler: I have no idea what happens if you click them.
+Lee Harrold: Nothing. I think it's just a lot.
+Becca Bressler: Probably.
+Lee Harrold: Like, I like the idea of keyboard shortcuts.
+Becca Bressler: I don't even know what that. Yeah, but I think it's just like, you know, my account, right? To, like, upgrade this. It's the tutorial.
+Lee Harrold: Yeah, that makes sense to me. Cool. Yeah, I guess we'll just set Claude on this.
+Becca Bressler: Did we do something that's, like, give us feedback and it, like, it's a chat. It's a box. They can type here and it, like, sends it to us or something.
+Lee Harrold: Yeah, we could do that. Where would we want the feedback, like here? Or in, like, where would we want to receive it?
+Becca Bressler: Receive it.
+Lee Harrold: In front or in an event.
+Lee Harrold: That would be cool. Okay.
+Becca Bressler: What do you think about that?
+Lee Harrold: Like. There's a. PR that I've secretly been wanting to merge for weeks that makes it possible to create front tickets from the back end. So that furthers my personal agenda. And I also think that's going to be an easier place to read. Project events. Than or, like, customer feedback than if it was somewhere to die, basically. Yeah. Oh, wait, you know what? You know what? We have that job worker service.
+Becca Bressler: Send it to jot.
+Lee Harrold: And then jot creates a linear task.
+Lee Harrold: And then it goes into our. Yeah, I have this, like, design. Queue and customer. Yeah.
+Becca Bressler: In customers, how are you, like, liking dealing with customers? Like, you seem to like them more than the rest of us.
+Lee Harrold: It's great. Yeah, I've. I've actually really enjoyed it.
+Becca Bressler: Oh, that's great.
+Lee Harrold: Yeah. Like, I had. I had five sessions yesterday and just had a ball getting to know these people and then, like, understanding their problems. And kind of trying to come up with a solution that works.
+Becca Bressler: Oh, nice. Okay, so you're. You are enjoying it. That's great.
+Lee Harrold: Yeah. Yeah. Yeah. I mean, obviously there was. It was like. There was, like, an ego. It's like, oh, I'm not. I'm not doing the thing that it is that I have trained for years to do. But once I sort of reframed it, I was like, oh, actually, wait, all of that work allowed me to add value in, like, a kind of peculiar. And, like, necessary way here. And I was. I was eight. I was able to get over that. That ego block.
+Becca Bressler: Yeah. Well, also, especially if you like doing it, like, that's. And you're really good at it, so it's nice to. Actually get to do more of what you enjoy. Too.
+Lee Harrold: That's a good point. Yeah. I hadn't. I think I hadn't put that. That together. You know, you just. You sort of take for granted the things you're good at. You're like, isn't everyone.
+Becca Bressler: No.
+Lee Harrold: But anyway, I brought this here because there's. We. I'm sure. I don't know what to do with this, and I don't know if I should call it or what, but there exists a growing collection of jot observations from grains and from front of, like, Possible design. Or discovery improvements that could be made that are tied back to user observations about things.
+Becca Bressler: And so I think that is creating these.
+Lee Harrold: Yeah. So we can delete them. We get triage right now. They all live in a bucket in case in the future we want to set. The linear bot or, you know, clot on an aggregation or, like, use your feature request surfacing. Because I think this. This. This data becomes important when we're trying to. To a two by two exercise of, like, what. What design. Features. Like, are people not getting. Yeah. I wonder if there's a label
+Becca Bressler: that's, like, jot recommendations or something.
+Lee Harrold: Oh, so in addition to, like,
+Becca Bressler: Well, it'd be cool to be able to filter by that. Like, this is. This is jot coming up with a solution.
+Lee Harrold: Right? Yeah. So the label is for these is design. So we can. We can filter by any. But you're. But you're. You're saying, like, maybe an additional label or an additional event type?
+Becca Bressler: I don't know. I mean, I guess if jot's the only one assigning things design, and that's probably fine, but, like. I. Yeah, maybe that's not something that even matters, but I'm like, I don't know. Sometimes I'm like, sometimes you wonder where things come from, you know, and it can.
+Lee Harrold: Yeah, that's a good point. We should have it leave a comment. Anytime. It does a thing.
+Becca Bressler: That, like, it generates on its own. It's not, like, from us. It's like it just created its own ticket. Yeah. But is it doing it for all of them? Is it like every customer support issue gets turned into a design ticket or. No.
+Lee Harrold: Not just. Just the ones for which it thinks they're. There happen to be a design ticket. So, like, it's. It's currently my. My entire triage thing is. Is generated. So each time we. We get a front ticket, jot analyzes it and learns the history of the user. And then puts together, like, a ticket for what the actual bug is. And then if it thinks it needs to, it'll create. You know, a design issue and then also an upsell issue. If, like, it sees there's an object for someone to. To upsell them on something. But. Oh, yeah. Why I rather step. Like, we could. We could do the same. Same thing for us. Like, we would make a new label and then got would create a ticket for customer feedback related to a particular feature. And then we could create a view. Like the others for seeing customer feedback for the EHR extension feature. And I think this actually would be an easier place to look at that than in. Cool.
+Becca Bressler: I think that's great. Let's. Let's do that. Okay, so you're going to let this run for Claude, see. See what we can do. A couple things that we'll need to happen, though, is we'll have to take new. We'll have to do a new GIF for the.
+Lee Harrold: Like. Oh, yeah.
+Becca Bressler: Roll out thing. Like, that will need to change. So if you could.
+Becca Bressler: I'll get that again. Yeah. On that. That would be awesome just because I was having trouble with that. And then. Yeah. And then do you mind just posting in the garden? Like, what we discussed related to the appointment types and what the. What the, like, initial fixes that we're going to do, including, like, picking most recent as a default and finding duplicates for, like, no longer making duplicates and then looking for duplicates to see if we can, like, delete them on behalf of our users.
+Lee Harrold: Yeah, yeah, I get that.
+Becca Bressler: That's awesome. Anything else that you want to chat about before you just kind of hit the ground with all this?
+Lee Harrold: Do you like. Do you like the office? Is the commute easy? I think a good sandwich is around it.
+Becca Bressler: Great questions. Commute is not terrible, but I don't like waking up earlier, so I'm, like, not getting here early.
+Becca Bressler: You know, it's like I'm showing up at 9 30 and everyone's here already, but it's like 45 minutes for me. It's near, like, a food hall that has, like, nice, like, food options that are not cheap.
+Becca Bressler: It's not ideal. So. And one of those is not, like, an amazing sandwich. There are. Like. There's a couple, like, sandwiches, I'm sure, throughout. But. Actually, I wonder if Rust and Daughters has, like, a pastrami or if it's just their bagel situation, because there's, like, a Jewish deli situation. But the office is great. Like, the light's awesome. The windows are awesome. The, like, flexible workspaces that you can hang out in aren't great, so no complaints there.
+Lee Harrold: Met anyone cool?
+Becca Bressler: Not outside our team.
+Lee Harrold: No. Okay.
+Becca Bressler: Gotcha. It's a good question, though. It's a good reminder to be a little bit friendlier and.
+Lee Harrold: Yeah, totally.
+Becca Bressler: Cool. Okay, well, glad you're feeling better. Ping me if you have any questions about this and let me know when you have something to show. How long do you think it would take for Claude to try spinning something up? And then giving us, like, an estimate of maybe how long it would take to. To actually wrap up these UX fixes?
+Lee Harrold: Yeah, I don't know. I'm gonna guess between. Between 20 minutes and 30 minutes.
+Becca Bressler: Oh, nice. Just like ping me with what you find, and then we can chat about, like, a timeline stuff.
+Lee Harrold: Sweet.
+Becca Bressler: Okay, cool. I actually have to jump. I'm going to be out of commission starting at 4:30 anyway, so maybe we just kind of regroup tomorrow and see what's up.
+Lee Harrold: Sounds like a plan.
+Becca Bressler: Go ahead. All right, you too.
+Lee Harrold: Bye Lee. Bye.

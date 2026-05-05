@@ -1,0 +1,117 @@
+Lee Harrold: In the background draw on an eraser diagram so that I have. Kind of a mental map going on.
+Christopher Hume: Yep. All right, so let me share my whole. Screen. I'm tired as hell.
+Lee Harrold: I bet. When'd you get back from Buffalo?
+Christopher Hume: Back at like seven. And then are you tracking what's going on with the appointment types?
+Lee Harrold: No. What's going on with the appointment type? S?
+Christopher Hume: There? They were just like kind of not rolled out super well to be frank. Okay. We have like. I'll show you actually. On my screen. Just so you know like, so I can just bitch to you about everything. That's good. Let me tell you one more thing. I actually just had a conversation with Becca about it. So.
+Lee Harrold: He's tracking.
+Christopher Hume: Yeah, you heard of her. Like something happened when we automatically set up. Appointment types. And counter types, excuse me. We ended up with like a bunch of.
+Lee Harrold: Like frankly.
+Christopher Hume: Get in people's encounter types.
+Lee Harrold: Coming from.
+Christopher Hume: Yeah, I know. I don't know. I don't know, Lee. I don't know. I am a lowly users.
+Lee Harrold: How many different organizations got this?
+Christopher Hume: A lot. I'd say the majority. It was, it seems to be especially bad on groups. So we had John who wanted his wanted to add two more annual contracts. It's like you need to fix the appointments. And I had to manually fix them all last night 45 minutes. It took me like two hours. It was up pretty late.
+Lee Harrold: All right.
+Christopher Hume: Chris.
+Christopher Hume: No, I mean, hey, it's literally the job, but it's. Yeah, just a little, just these little nagging things coming from. I don't know. There was like a. Okay, but let's look at my templates one thing at a time. Yeah, but there's like all this shit in here. I'm like, what the fuck is this? And then you can, the only place a customer can delete them is by going to the schedule. And then pressing add appointment. Clicking on an appointment. And it's just like no one's ever going to find that delete button. Okay, so let's look at follow up and counter short. And then we'll also pull it up here. How are you doing? All right, then all me, me, me.
+Lee Harrold: You're good. So I think I gave myself a concussion. I think that's what happened. Someone like really confused and like forgetful. Azure stuff. So I've been like taking a lot of. Like breaks throughout the day so I can just close my eyes.
+Christopher Hume: And refresh. Yeah, I'm sorry. What do you think that was from the elbow to the face?
+Lee Harrold: Yeah, 100% I think I just didn't notice because I was like underslept last week.
+Christopher Hume: Yeah. This actually turned out a lot better than I expected. So I don't know. I truly am a customer at this point, Lee. Where I'm just like bringing up all the same complaints they are like. And then when I go to my.
+Lee Harrold: Go Jane and I try to use the HR extension doesn't pull all the fields in.
+Christopher Hume: Yeah. Which like we'll fix. But the bigger issue is let's go note. Then we're going to open the EHR extension. Go Jane intake encounter. And then we're just going to copy all paste it in. Half. Now of course it works.
+Lee Harrold: Would you, I guess what was the issue you were seeing?
+Christopher Hume: It was just, oh no, it didn't work. Okay. Thank God. So like you see how like some of them, it's actual bullets. Here. And this one, it just smushed everything up into like a line. Then. Yeah, same here, but then some actual real bullets below. Like I couldn't get bolding to work. And it's just like there's no, I was really struggling to get it to play ball at all. So I think like let's just do like a super simple example together to see like an idiot.
+Lee Harrold: Is there like, I think I know what the issue is. Can you drag the like extension open either that or go to the note that is this node inside of job site? Like I what I'm seeing is that the format for each section is different. Yeah. And that makes perfect sense because right, our sections don't talk to each other. They have no idea like what the other ones have put in. And so they've all come up with their own formatting scheme. And some of them looks like our proper markdown. And so they have bullet switch spaces. But others might be introducing like a literal bullet character instead of the hyphen. And again, they don't talk to each other. So they all come up with their own scheme. So when you copied out, it's all going to like, you know, kind of whatever they're doing. But just to verify, let's so assessment and plan that had the bullets we liked.
+Christopher Hume: Can you find the section?
+Lee Harrold: No, it's not.
+Christopher Hume: This is what we did not like.
+Lee Harrold: Okay. Which one was the one that had the bullets we like?
+Christopher Hume: D? I think review assistants were like confirm. Okay. Yeah. Review assistance looks good.
+Lee Harrold: Assessment and plan. T. Okay, so. Let's see like the markdown. Of Garn. We stripped the mark down on a bound copy. You know actually wait, I'm jumping right into solution space. Is this we probably don't want to. Like what are all the other problems and then we can like come back to this.
+Christopher Hume: Just like. I would love to like yeah let's like let's make this bold. You know like they want or like I would like spaces in between each of the sub sections. And it's like so difficult to get it to play along. And it's like borderline for a caveman like me impossible to get a whole note to work.
+Lee Harrold: Okay and you're bolding things inside of Jen or your boarding things.
+Christopher Hume: No, no, I meant inside a jot psych.
+Lee Harrold: Okay. And like sometimes you're voting them and then they don't show up.
+Christopher Hume: As bolded when you'll just do like the star, star, star.
+Lee Harrold: Is it star star star on both sides or just one side?
+Christopher Hume: No, that's a good question.
+Christopher Hume: I think it's both sides.
+Lee Harrold: Okay cool. So that I think what's happening there is that Jane doesn't support my dad formatting. I don't see any oh no, it's not true. I see bold at the top. Yeah. Interesting. So can you. Go ahead? So we think we apply a markdown. Oh, I bet we were stripping markdown. From. The note inside of Jot psych. During the copy. And then the thing at the top is generated like as a result of that copy process after the markdown strip. So that's getting the. Like marked down to bold conversion. And then that's all being pasted into the set. So that's that's why we see bold at the top. We don't see. Hold a second. Um, no, that's not true because you mentioned seeing the asterisks in the pasted content.
+Christopher Hume: That was, yeah, I believe so. So we could like troubleshoot that and confirm.
+Lee Harrold: Yeah.
+Christopher Hume: All right, just grabbing. Up so you can keep talking.
+Lee Harrold: I'm just crying. No, I didn't have anything else.
+Christopher Hume: I'm going to write down.
+Lee Harrold: Kind of losers. So the first thing is that the node section formats aren't the same within a template. So. Some bullets, some strange looking. Issue was. Bold. Doesn't export.
+Christopher Hume: And then spacing like it. I don't even know if it's possible use facing.
+Lee Harrold: But spacing between sections.
+Christopher Hume: No, within a section.
+Lee Harrold: Like between words or between lines like line breaks. Sorry. Oh, okay. Okay, cool. So those are the two issues we have with. That. Uh, what else do we have?
+Christopher Hume: I just think it's yeah, that inability to like make these tweaks like and so then the frustration was. I just like could not figure out what was going on in the prompt to make the formatting different.
+Lee Harrold: Gotcha. Yeah, because we have two layers. There's like. If the prompting control and then there's this like. Copy layer where you have some hard coded configuration. And then there's also this. Toggle button in all the users like account settings and the changes. To copy paste settings. I guess the core issue is the general availability to know how. Formatting changes.
+Christopher Hume: It's like truly almost it's like. Yeah, it's like so I think it's I think it would be basically impossible for a customer to make formatting changes consistently. I mean it's impossible for me.
+Lee Harrold: So I guess and let's. Formatting changes. With it's is it possible to make formatting changes and get like the results you expect within the JATSE note.
+Lee Harrold: Or is it impossible to get the okay no exporting for exporting?
+Christopher Hume: But like still sometimes it like won't play ball either like let's let's just like look at a note right now. First section. Okay. Okay, yeah, so it is mostly the copying over.
+Lee Harrold: Okay cool. That makes sense. All right, what else do we have related to templates?
+Christopher Hume: I would have told you today. Lee.
+Lee Harrold: What do you say? I'm about 13 wait until one o'clock.
+Christopher Hume: Could I ask a favor of you? I'm like frickin underwater right now. Could you try so did you see. Dallas gave us access to. Dr. Alex Freed account?
+Lee Harrold: Uh no I didn't what do we need to do for
+Christopher Hume: we just take his top two templates and make them a job psych.
+Lee Harrold: Yeah.
+Christopher Hume: When you have time to do that today.
+Lee Harrold: Yeah, I can do that right now. No problem. Email. I don't see.
+Christopher Hume: Yep you were on it.
+Lee Harrold: On March 20th. Okay. I was okay that makes sense.
+Christopher Hume: That would just be so awesome.
+Lee Harrold: Thanks.
+Christopher Hume: Lee. I would love if you could just take a like today if we could do healing circle. It would also like I got a haircut this weekend. I was telling Becca this. I was in the hair. I got a haircut this weekend. I think they left too much like in the back. Like I had like a freaking and then I have like a. Crazy. I'm too lazy to go again and fix it and so I guess it's just how I'm going to live
+Lee Harrold: where is it is it like bar you just it's just a matter of like time to
+Christopher Hume: just a matter of time just a matter of time. It's like a 25 minute walk but I just. Like don't want to give up 50 minutes of my day.
+Lee Harrold: Okay I see the email. If you want access to our old EHR ICAN notes. Wait so. Okay this is a different one than the one they gave us the credentials for.
+Christopher Hume: So yeah, he just has two templates in free he wants us to create so they just gave us access to
+Lee Harrold: freed okay are those template names.
+Christopher Hume: Yet to be honest?
+Lee Harrold: Read okay she doesn't say where. The. What the names of those templates are
+Christopher Hume: my hope is that'd be pretty pretty clear Hopefully he's not using like six templates let's find out. But yeah so then so that is like I think our biggest thing and then the secondary like pretty big thing that we want to probably get buttoned up for tomorrow is figure out like why we can't do formatting in Jane and then like buckle down this other template for the. People in Buffalo like you and me work on it to get the bolding and the spacing right and then I think like the output is probably going to be a recommendation to the product engineering team on like what needs to change because I feel like we've been fighting with template builder for like a year now where it's always kind of like acting up and people are sending in tickets I think you and I you and I can use this is like an opportunity to actually yeah just like rip the band-aid off like we have a couple customers who really need templates.
+Lee Harrold: Okay, so just so we're clear for Buffalo what we have to do is. Somehow wizard out the format that they need. And then for.
+Christopher Hume: Dallas we just need to take the top two templates for free to make them a job site just throw them in Dr. Alex. Ander rich and famous I'm going to sleep for like a year.
+Lee Harrold: Nice and easy. Okay she gave us two possible passwords. Hilarious okay, so let's I guess let's dig into the buffalo
+Christopher Hume: note didn't encrypt it no like two emails so like if it gets people are such savages I kind of love it I like my old job like if you like kind of fucked up like that you could like really get in trouble it's funny some people still didn't care just risk it profile clients. Too yeah but it's like. Yeah, it's true I guess DOT is a little different from a small little clinic out in Fargo but it's just so funny it's like. Yeah people let it rip okay, but yeah let's talk about Buffalo and then we can connect you this evening on the other stuff question.
+Lee Harrold: The EHR extension. Thing that's also for Buffalo yeah.
+Christopher Hume: That is probably it's a priority but that's probably lowest priority of everything we're working on right now because like I showed them the copy paste. And they're like oh my god this is great yeah let us know when we could do one click but like two clicks versus one
+Lee Harrold: click yeah they already have a copy paste cool yeah all right formatting let's open let's open the note to make this happen so you said you tried a bunch of stuff and didn't work. So. I don't remember do we have the ability to edit the prompts directly?
+Christopher Hume: Oh we do oh incredible yeah okay I was directly with the props that's not getting so frustrated I couldn't figure it out I'm like if I can't figure this out with the prompts yeah there's no way I'm just like okay here's the prompt for one of my sections I love the formatting here's the problem for the other section can you and it's just like it's like yeah done and then it was just like no.
+Lee Harrold: Okay. Yeah so I guess show me show me the so here's the one that has the formatting we want.
+Christopher Hume: So here's the thing Lee actually like after we spent all time she actually just wants me to edit an existing template. Okay that she made but I think like. We're gonna we're facing the same issues in both of them like this is just notional so we don't need to get too wrapped around the axle fixing it here because we'll fix it in the real one.
+Lee Harrold: Okay so in both cases the solution in my mind is we like add a prefix to a prompt that describes the formatting that we want and then we just paste that into every prompt for each of the template sections and if it works we do the same thing for her.
+Christopher Hume: S.
+Lee Harrold: Is that me is that what you did?
+Christopher Hume: I didn't add a prefix but let's just look up a second plan so here's the prompt for the one that's all fucked up. And I'm gonna send it to you.
+Lee Harrold: Guys call me Alaina with my super long prompt.
+Christopher Hume: That one's messed up. This one is good.
+Lee Harrold: Okay. Try taking the one that worked in. Paste doing it in oh I guess it has different. Now let's. Just. Okay present your sub stash not a bullet point is domain name is there. Each domain. Negative okay any other one. Yeah so no one the one that messed up here you're using the phrase bullet and so what it's going to do is try to create the bullet ASCII character. Or which we don't want we want it to be hyphens so that's why the second one works and the first one doesn't. So.
+Christopher Hume: Yeah so that's that's a good learning so that saved one we'll actually need to make the changes to this so then all right two how can we make line breaks.
+Lee Harrold: Out impossible I I don't know have you seen line breaks? I don't know that's a thing we can even do right now is what I'm asking if you've ever seen a line breaking no no.
+Christopher Hume: It's a it's a great question I don't know if I have off the top of my head it seems wild to me that that'd be all the tools our disposal we can't do line breaks
+Lee Harrold: let me oh okay actually I know why this is happening again it comes down to markdown. So I think there is a particular markdown van for a line breakout how to. Add a line bridge but you know I think the unlock here is in each of our prompts to explain that but it's generating is going to be evaluated as proper markdown and so it can only do that. Okay so it looks like markdown interprets. The BR character as a line break so let me send you with that character looks like. So that's that's how we'll do line breaks. Maybe the prompt would be. You are generating. Text will be. Interpreted. Characters. Yeah okay so. I think this will do us some good. And then we'll just paste this into each of the sections of the node. I'm guessing there are a lot of different sections
+Christopher Hume: is that true no that's fine though so this is helpful and the last thing Lee is bolding sometimes coming through is dash dash dash and then so I think well actually we got to run like moving moving forward I'm going to just play around with the template. Okay using some of the feedback you gave me see if I get to work could you focus on getting those free templates uploaded to Dr. The healing circle group yeah and then yeah that would be so awesome and then we could just get them fucking off our plate for at least a couple like a week and then we can focus on some of these other people we have some time with Buffalo you gave me enough to work this afternoon and tomorrow and then we can touch base the afternoon for whatever trouble I unlock then
+Lee Harrold: one additional question for you so Alita sent you a text so there's practitioners are like seeing so I know yeah watch out that's super dark from like the other three reports we have the other reports are like content from the note directly before is in this one? Of the text was like six to nine months so that's you know
+Christopher Hume: I want to learn well it was saying it was saying that it was pulling data from the wrong. I think it was the. Last encounter.
+Lee Harrold: Does that. Yeah that that square is with the other was one text in that thread that was like it's getting data from three six to nine months ago.
+Lee Harrold: Yeah that's super different that's the one I want to look into.
+Christopher Hume: Here I'll send you the. Most recent. I know you got to jump I got to jump to it so I'll send you the messaging weekend async it or do you have do you have a second
+Lee Harrold: I can just send yeah I don't have anything until one o'clock
+Christopher Hume: okay I got seven and 1230 I can be a second late.
+Lee Harrold: Thank you Chris.
+Lee Harrold: Yeah I'll let you know you got it oh do you know who this provider was
+Christopher Hume: no but I can get that info but that is the issue so the summary is like
+Lee Harrold: you know this is different okay the the summary is from a blue video okay gotcha thank you thank you thank you thank you so
+Christopher Hume: it's so brutal though right like. It's probably a bug but it could also be that they have a duplicate patient. And they're like oh I haven't accidentally clicked the wrong patient name
+Lee Harrold: and you know I didn't think about that
+Christopher Hume: that's it's it's like impossible it's just a fucking nightmare but she said multiple people are complaining she pays a lot of money.
+Lee Harrold: Yeah do I have visibility into their patients? Because we could ask them to use the merge patient tool and cut down on the.
+Christopher Hume: Text and see if we get the name of the provider yeah jump up.

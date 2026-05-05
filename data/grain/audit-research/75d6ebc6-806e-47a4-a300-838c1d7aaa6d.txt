@@ -1,0 +1,103 @@
+brittni roldan: For the month for March.
+Adam Harrison: Wow, that's exciting.
+brittni roldan: Yeah, no, my goal is like 130, so, I mean, it's only the 3rd of March, so I will probably get another, what, 20 something visits before the month is over.
+Adam Harrison: So, yeah.
+brittni roldan: On track for this month. My income was down a little bit for January and February. January was the same as January last year. But it's about. 3,000 less than I'd like to be. So we'll see. But I intentionally took a break for a while. Increased my workload and all that, but I am in the process of trying to ramp things back up.
+Adam Harrison: All right. Well, yeah, would love to help you kind of get RAM fully ramped there. So I guess we can kind of jump into things. On that note, I had kind of an agenda ready for today just based on where we are and kind of the onboarding process, I think. Yeah. The High level is HealthLink. We are good to go. Start billing for those patients. So any recent encounters you've done, feel free to definitely just sign those notes and click Create Claim and then it will enter our queue and we'll be able to submit those for you. I think that could be a nice little bump for you because I'm not sure that you've been getting paid through availability for them. So I think all upside. So I think that's the good news, right?
+brittni roldan: Yes, that is the good news. And then, do you know, is it like, for the previous 90 days for those visits? Yeah. So I'll look back over the last 90 days. Yeah. I've got all their names written down. And that is on my list of things to do for Thursday, because that'll work on the or. I don't see patients on Thursdays, usually. So that's my goal, is to get all those claims submitted for the ones that are eligible for my Health Link patients over the last 90 days.
+Adam Harrison: Amazing. That would be awesome. I think that's. Yeah, that totally makes sense as like a next step. And if by chance you did submit it to availity and you did get paid and it like didn't register, I think those would just. You would just get denials for those. And it's like there's no downside to, like, submitting, right? Is what I'm trying to say. They're certainly not going to pay you more than what you know they want to. So, no, no harm in giving it a try.
+brittni roldan: Exactly.
+Adam Harrison: So I did go through. And, like, from the insurance cards you sent me, I put all that info into Jotsec. The only thing we still need. And I'm not sure if you have this or not. And it's totally fine if you don't, but is, like, the patient address and date of birth stuff. Which usually isn't on the card. So I was wondering if you have like, an intake process for collecting those, and then I can also show you, like, if you don't have that on hand, how it's, like, pretty easy to do with jot Psych. We have like, an intake form built in to. To the product now, so they basically just. Get a text message and fill out their info, but I thought maybe you might already have that on hand and I can just, like, log it in for these five or so we're going to submit claims for.
+brittni roldan: For sure. So it is on my electronic health record. Simple practice, because it has to be there for prescribing purposes. So. Yeah, you just want me to, like, give them to you?
+Adam Harrison: You know what might be easier? Just in case we have to go into simple practice later for, like, the Blue Cross patients versus Because I know that was, like, another group you wanted to maybe look at. It might be easier if you just give me a login and then I don't have to, like, bug you every. Time. I have a question. Would that. Would that work for you?
+brittni roldan: Yeah.
+Adam Harrison: Okay, awesome. Let's maybe go through that now, quickly. Can you go ahead and go into your simple practice? And usually it's, like, pretty easy to just add someone. I can, like, show you where to. Where to put it.
+brittni roldan: Yeah. Let me share my screen. And I lied. Jesse's address is not in the ehr. Which I don't know why, because I know I have prescribed medicine for now.
+Adam Harrison: Okay, no worries. I'll show you. Kind of like how we can get it into jots, like, pretty easily going forward. So. Yeah, go ahead and to. There should be, like, a yeah. Team. And then do you see team on the left hand side there? Right below?
+brittni roldan: Okay.
+Adam Harrison: Yeah. So go ahead and do add team member. And then you can. Do you know my name? Adam Harrison. And then for the email, can you do billing? Plus brittany. @chatslake.com. And if you want, we, I can do, like, a bulk export and, like, upload all the simple practice data into jot Psych if you want. Like, just everything moved over, all the, like, phone numbers, address, insurance for, like, everyone in there.
+brittni roldan: Okay?
+Adam Harrison: Yeah, so we can do that, too. Oh, can you go back to permissions? Because I just got to make sure I can actually look at.
+brittni roldan: Okay?
+Adam Harrison: So, yeah, sometimes, like, the billing permissions don't give you access to see, like, all the patient information. I don't need, like, charting, obviously. So let me just take a look at these. Could you do Scheduler and Biller? Yeah, we don't need practice. Manager that looks like that'll charge you, too. So, yeah, those two should work.
+brittni roldan: Okay?
+Adam Harrison: Go ahead and continue. View and create notes. No, let's turn on documents. Let's turn on the, like, everything.
+Adam Harrison: The client documents and intake documents. Just those two should be fine.
+brittni roldan: Okay?
+Adam Harrison: And then I don't actually. Medications? No, we don't import medications, so we don't need to add that one.
+brittni roldan: Okay?
+Adam Harrison: All right. And then. Yeah, go ahead and send, allowing us to make sure I actually can open it. Spend, like, a minute just doing that. Copy. Address. Harrison, okay? All. Right. Looks like work. Nice. Okay, cool. So I got that. Go ahead and handle the rest of patient data. It seems like you may have address for some, but not all. Is that right?
+brittni roldan: They should be in there. One of the other ones.
+Adam Harrison: Okay.
+brittni roldan: What the heck? That's interesting. I thought it literally had to be in there for prescribing. Let me just. Let me just do something. Yeah. See, there's her address here. Showing up. Over here.
+Adam Harrison: Has date of birth, so that's good. Doesn't look like address.
+brittni roldan: That's so weird. But you don't have access to the prescribing thing.
+Adam Harrison: I just don't believe I do. But this is just from your account, so you should see it in there, right?
+brittni roldan: Right, but I don't understand why the address is not.
+Adam Harrison: Oh, let me see if I can get the prescribing in mind.
+Adam Harrison: So who is this client? Marie Milton.
+brittni roldan: Address in here real quick.
+Adam Harrison: Yeah, I don't have that, like, prescribing tab that you do.
+brittni roldan: Okay, well, I just put Marie's in. Look at jesse.
+Adam Harrison: It's so weird that they put it in one place and not the other.
+brittni roldan: Right? Well, I'm pretty sure. I put it in this other place, and it's just. For whatever reason, it's not there.
+Adam Harrison: Yeah. And compare against my list of people. Too. See here.
+brittni roldan: 's is in there.
+Adam Harrison: Wilkerson.
+brittni roldan: Yeah.
+Adam Harrison: Okay?
+brittni roldan: Yeah, hers is in there.
+Adam Harrison: And you got Jesse.
+brittni roldan: Both jesse's. Well, we only have one Jesse.
+brittni roldan: The other Jess is Jesse Craig, and that's Caitlin's husband's husband. Right?
+Adam Harrison: Yeah.
+brittni roldan: Caitlin Craig is the patient.
+Adam Harrison: And then Marie. We did already. And that. That should be everyone.
+brittni roldan: Yeah.
+Adam Harrison: All right. Great. So I can make sure that's included there. So we have address and date of birth for them.
+brittni roldan: Yeah.
+Adam Harrison: Nice, okay? Great. So we should. Yeah, I think from there, if you can go ahead and just, like, sign, like, if you remember how to, like, sign the notes and then click create claim for them. Then I can kind of take things from there. Let me know if, like, you go through that on Thursday, you have questions, you need to, like, call me and, you know, something is buggy or whatever, just let me know. Otherwise, I think that is a good next step there. Maybe. One thing I just want to show you quickly in jots is because I'm not sure how you're collecting, like address and stuff right now. We have an intake form built in to the platform. And that that might just be, like, a super easy way for us to, like, make sure this is all pretty, like, seamless going forward. Let me. Sorry, I have too many tabs. So let me find where you are. Here. So I'm just going to do a demo, quick demo of kind of how it works. Okay? So this is my account, but it'll be the exact same on yours. You would go to documentation. You go to forms. On the right side, there's this forms library.
+Adam Harrison: And then we have an intake form that's, like, already in here. So you can go ahead and. Like, if you want to edit it, you can edit it. I mean, I don't. Maybe you have your own intake form that you already like or you don't want to collect certain things, but you. You know, basically, we'll get their, like, address and insurance and all that good stuff. Then once you're ready, you can publish. And it should show up in your library. If I refresh, should pop up here. Let me see if this is. I don't know that it's showing up. For some reason. It's because I'm in preview mode. There it is. Okay, so, yeah, now it's kind of published. And then if I. I could send this to you. As a new patient. So if I go to, like, let me just find me in here. I'm not in here. I'll send it to Chris. He's my colleague. So you should be able to click the Send forms to patient button on the bottom. Then you pick, like, the form that you want. Then as long as you have your phone number in there, it's going to go, like, right to their phone, and they can, like, fill it out on their phone. And it'll all populate in their patient profile automatically, so it's pretty easy to do. It's just like, making sure they actually fill it out is always the challenging part. Right? But. But, yeah, this is like how it would work. You know the number that you're sending it to. You can also send it to their email if you want. And this is kind of like what the message would look like.
+brittni roldan: Okay?
+Adam Harrison: Any questions on that? Does that seem like something you might want to use, or what are your thoughts?
+brittni roldan: Yeah. Well, I mean, it sounds like at some point will kind of function as an electronic health record, and I might not necessarily need one outside of that. Yeah. So, yeah, I mean, you know, I'm kind of in this place right now where, you know, Growth Therapy has their intakes and theirs, and everybody's got their own forms. So by the time they get to my ehr, they're like, you know, tired of doing paperwork.
+Adam Harrison: Yeah.
+brittni roldan: Yeah. So I usually just kind of input their email, phone number and address for prescribing purposes. And there's a portal on there, too, if they want to message me on there or whatever. Yeah. I mean, eventually, I might not need simple practice.
+Adam Harrison: So that makes sense. What about your health link? Patients that come, like, direct to you, though, that don't go through, like, an mso?
+brittni roldan: Yeah. So for them, I do have, like, a consent. I do send it from simple practice.
+Adam Harrison: Okay, got it.
+brittni roldan: Okay?
+Adam Harrison: So, yeah, you might want to consider for those, if you're doing like, the billing for them through job site, just, like, send them one form through job site instead. And if you have, like, a printout of the Simple Practice form, it's like you can actually just upload that as a PDF. To jot psych and, like, replicate it for you.
+brittni roldan: Yeah, because I have to have consent for, you know, providing care. I have a consent for my AI service, you know, all that. In here, so, okay.
+Adam Harrison: Yeah. If you also. If you wanted to send that to me, like, over email or something, or even just send me the form or whatever, you. Whatever's easy. We could, like, work on rebuilding that custom for you, too, if you wanted.
+brittni roldan: Yeah, I'm not really so concerned about it. I mean, practice policies. I mean, that might be useful. That's probably useful. That useful. But I mean, as long as you have a general. Consent.
+Adam Harrison: Yeah, we just have, like, a general form right now. I'm not sure if it covers consent, Actually, if it's more of an intake form. I got a review, what we have there. Because those are, you know, a little bit different, but.
+brittni roldan: Yeah. So consent for treatment would be necessary. Consent for recording. You know, and, like, no show policy, stuff like that.
+Adam Harrison: Yeah, Right now we just have, like, consent to treatment, privacy and communications. We don't include. And they, like, will actually sign, but it doesn't include, like, Those other things you mentioned, so we could. We could definitely add that.
+brittni roldan: Okay? Yeah. And I see these. Like this lab button, does that link with, like, quest or how does the lab ordering?
+Adam Harrison: Yeah, good question. So right now it doesn't link to quest, although we will have that in the future. Right now it just creates like a. An order, like a form, basically. Like a printout.
+Adam Harrison: That you can either, like, send to quest, you can, like, Download it and send it to Quest, or you can send it directly to the patient if they're, like, doing it on their own.
+Adam Harrison: But it just is like a. Think of it as like a document generator, basically.
+brittni roldan: It's basically the order. Yeah.
+Adam Harrison: Yeah, exactly. How do you do labs right now? Is it through simple practice or.
+brittni roldan: No, I just have like a quest, like account. I just hop on there. And put their information in order. What I want.
+Adam Harrison: Gotcha. Gotcha. Okay, cool. I think that is. Let me go back to my agenda for today. So we talked about the patient stuff. I think we're good there.
+Adam Harrison: Talked about getting those health links for, like, 2026 to date, kind of, kind of submitted. Went through forms. Maybe we should talk quickly about Blue Cross. I know you mentioned, like, your credentials with them in addition to HealthLink.
+Adam Harrison: Did you want to add them and kind of go through the same process we went through with HealthLink? Or do you not have, like, any Blue Cross patients right now? Just, like, wanted to check. In on on that and see if you wanted to get that ball rolling, too.
+brittni roldan: Well, I would like to. In fact, I sent an email to Lacrosse Blue Shield last week, and it's like, I haven't responded yet. So make sure that, like, my credentialing is still current. And also to ask. I'm in the my blue plan. I have two people who are on my blue, and that's not accepted on handwriting. So I'm wondering if I can build these people's insurance or not, and I don't know. Okay?
+Adam Harrison: Why don't we? So it's just those two?
+brittni roldan: Yeah, that I can think of right now, yes. I mean, I have several people on Blue Cross, Blue Shield on headway. I could probably transfer over. I just would have to go through and look at each of the individual profiles.
+Adam Harrison: Okay, that makes sense. Well, why don't we kind of just.
+Adam Harrison: Why don't we wait for, like, what you hear back from Blue Cross, and we'll just kind of focus on getting the Health Link stuff through for now, and then maybe we circle back to that. You know, next week or something.
+brittni roldan: Okay?
+Adam Harrison: Okay, so I think that all sounds good. What I will do. In kind of. The back half of this week is upload the rest of that patient information I'll submit. Any claims that you create on Thursday. Why don't we just put like a 15 minute check in on for this time next week just to, like, make sure things are kind of moving along or answer any, like, questions you have or maybe Blue Cross has gotten back to you by then. Does, does that work?
+brittni roldan: Yeah, the temp looks good.
+Adam Harrison: Okay. Do you want to just do the same time? This is, like, pretty easy. Pretty easy one for me, but I'm flexible.
+brittni roldan: Yeah, I can do 11:00am Central Standard Time on the chat.
+Adam Harrison: Okay, great. I think we can shorten this to probably, like, 20 minutes now, because I think we're pretty much, like, up and rolling. So more just like if there was. Yeah, Anything that we need to, like, resolve with the claims or something, but I think should be pretty straightforward.
+brittni roldan: Sounds good.
+Adam Harrison: All right, let me send this across. All right. Any other questions on your mind, Brittany, or is this all pretty clear?
+brittni roldan: I think it's all good.
+Adam Harrison: Awesome. All right, well, enjoy the rest of your week here. If you have any questions or anything between now and then, but otherwise, I will see you on the 10th.
+brittni roldan: Sounds good. Have a good day.
+Adam Harrison: All right, bye.

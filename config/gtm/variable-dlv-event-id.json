@@ -1,0 +1,9 @@
+{
+  "name": "dlv_event_id",
+  "type": "v",
+  "parameter": [
+    {"type": "integer", "key": "dataLayerVersion", "value": "2"},
+    {"type": "boolean", "key": "setDefaultValue", "value": "false"},
+    {"type": "template", "key": "name", "value": "event_id"}
+  ]
+}

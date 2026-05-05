@@ -1,0 +1,148 @@
+shataris: Nice to hear again.
+Adam Harrison: Hi, how are you? Can you hear me? Okay? Is my audio working?
+shataris: Yes. Can you hear me?
+Adam Harrison: Yes, yes. This is. This is Adam. I think you spoke to my colleague Nate before.
+shataris: Yes. And Ms. Harris, she's the owner of the city. She is going to be joining in just a moment.
+Adam Harrison: Okay, awesome, awesome.
+shataris: And what was.
+Adam Harrison: What's your name? Terrace. Okay. I wasn't sure if I was going to pronounce that correctly, but great to meet you.
+shataris: You too.
+Adam Harrison: And what is. What is kind of your. Your role?
+shataris: So I do the billing data entry, the current biller that we use. She hands me all of, like, the EOBs, and I enter all of the information into the system. What insurance paid the. The allowed amount. If the patient has a copay, I install that information. I send invoices to the patients if they have balances.
+Adam Harrison: Okay, so kind of like payment posting and patient billing.
+shataris: Yes, sir.
+Adam Harrison: Okay, got it. And then who did you say was the other person joining? Sorry, I'm kind of catching up because I know she spoke with Nate earlier.
+shataris: Yeah, Ms. Lisa Harris.
+Adam Harrison: Okay, got it. Is that is her first name, Lisa?
+shataris: Yes.
+Adam Harrison: Okay, perfect.
+shataris: Yeah, I just talked to her. She'll be here in a moment.
+Adam Harrison: Awesome. And where are you based out of? Where are you calling from today?
+shataris: Panama City, Florida.
+Adam Harrison: Oh, how's the. How's the weather there? It's very cold where I am, so hopefully you have good weather where you are.
+shataris: Yes, it's actually nice today. The last two weeks it was very cold.
+Adam Harrison: It was cold. Right. The whole, like, everyone had a cold front, like, across the whole east coast, it feels like.
+shataris: Yes. Where are you located?
+Adam Harrison: I'm in New York City. So we've had a lot of snow. We think we just got above freezing, you know, in the last. Last, like, few days here. So finally, maybe some of the snow will melt a little bit.
+shataris: Yes. Wow. Yeah, we got snow here last year. A lot of it.
+Adam Harrison: Yeah. That's. Wait, really? All the way down there?
+shataris: Yes. Yeah, it was like the first time in about 30 years, I'm assuming. I don't know, but it was a lot of snow.
+Adam Harrison: Was. How much snow did you get?
+shataris: I think it was between. I think it was around five inches.
+Adam Harrison: Okay. Wow. That's quite a bit. Did everything kind of shut down? I'm assuming so, because. That's like a lot for Florida.
+shataris: Yep. The roads, it pose to pull you over if you're riding on the roads. Yeah. Yeah. Businesses will close for like two and three days.
+Adam Harrison: Wow. I think it's kind of fun though, to have a snow day.
+shataris: I don't know.
+Adam Harrison: I love a snow day.
+shataris: People never thought it would snow here, so it was. Yeah, it was amazing.
+Adam Harrison: Yeah. Even though I still end up working on snow days now, which is kind of disappointing. That's not how it used to be.
+shataris: Yeah.
+Adam Harrison: I think even kids now that gets no days, they still have to do like Zoom school or something. So it's just. Just totally different now.
+shataris: Yes.
+Adam Harrison: And just while we're waiting, do you mind sharing a little more context kind of about. About the practice?
+shataris: Yeah. So Mrs. Harris is a psychiatric nurse practitioner. So she sees patients, she writes prescriptions. She doesn't do canceling or anything like that. We have like Spravada treatments spray that they can do treatment here. About to open up a ketamine injection across the hall.
+shataris: She had to start doing that with her. So she. She's a busy lady.
+Adam Harrison: Absolutely. Yeah. No shortage of work for. For both of you then.
+shataris: That's a lot going on. Can you check and see if she came through the door? I think I heard someone at the door. Yeah, sorry.
+Adam Harrison: No worries.
+shataris: I think she was thinking that the Zoom call was at 12, but I told her it was 12 Eastern, which was 11 hour time.
+Adam Harrison: Oh, I gotcha. You want to try for a little bit later instead or do you think Nao is maybe okay?
+shataris: I think now will be okay. Let me ask her. I think she misread the email with the timing. She'll reply in just a second. How long is this call? Is it an hour?
+Adam Harrison: This is like a 30, 45 minute call. Yeah.
+shataris: Okay. Okay. She has. I know she may have some questions for you. I think she's here. Yeah. Yeah, she's here.
+Adam Harrison: All right, Sounds great. Hi. Is that all of you on the same zoom call there or.
+shataris: No, that's her go. Oh, she's. I'm pretty sure she's gonna log in. She's in her office.
+Adam Harrison: Oh, okay. Oh, gotcha.
+shataris: Yes, I should go in just a second.
+Adam Harrison: Got it.
+shataris: What time is it where you are?
+Adam Harrison: It is noon for me. Or 12. 10.
+shataris: Okay.
+Adam Harrison: Are. Are you. Is it 11 for you?
+shataris: Yes, 11.
+Adam Harrison: No problem at all.
+shataris: So are you one of the founders for the company?
+Adam Harrison: I am not, no. I am kind of leaning up things on our billing side of the house, but yeah, Nate and Jackson are the. Are the two founders. Did you speak with both of them or was it just Nate? Just Nate.
+shataris: Okay.
+Adam Harrison: Yeah, Jackson's great. I'm sure you'll. You'll meet him at some point as well.
+shataris: And how long have upstairs.
+Lisa Harris: Oh, Hi, everybody.
+Adam Harrison: Hi, Lisa. How are you on Central time?
+Lisa Harris: I'm sorry.
+Adam Harrison: No, I'm sorry. That was a mishap on. On our part. So is now still okay? Do you want to do a different time?
+Lisa Harris: No, no, we're fine. I had already actually text back and forth with Nathan this morning and had text. Talked about some other stuff, but. Yeah. So what. Do I need to do this right now?
+Adam Harrison: Yeah. So Nate. Nate shared a little bit of the background context. So I have. I think I have that. I think just the main goal for today is to. To get started by running this billing analysis for you that we do kind of like our. Our audit. So we could kind of just go through that if that's. What. If that sounds like good to you.
+Lisa Harris: Sure, sure.
+Adam Harrison: Is that. Is that what you discussed with Nate on your last call or anything else I'm missing as context?
+Lisa Harris: No, that's what we had talked about. I didn't understand quite. Keith. He talked about. Transferring some data or something like that. I didn't know what that entailed, so I figured find out today.
+Adam Harrison: Yeah, no, we can definitely get into all that maybe before we jump into things more specifically. I have a lot of the context from Nate, but I'd love to just start by kind of like introducing myself and getting to know you and your practice a little bit more. And then, you know, that that'll also just help us make sure we, like, tackle things in the right order and, you know, to make sure it's like, most helpful for you. So. So yeah, I can. I can start. So my name's Adam. I am leading things here on our billing side of the house. So Nate is the founder, as you know, I think. Have you met anyone else from. From our side yet, or just Nate at this point?
+Lisa Harris: Just Nate.
+Adam Harrison: Okay, got it. And are you using. Have you used job site for our. Like, as our scribe? Yes or. Okay, got it. How's that been work? How has that been working for you? I'm always curious.
+Lisa Harris: There's been a. I mean, overall, really. Well, sometimes there's little snafus. Most of it's operator error. I have actually gone into it and tried to look at some of the other features. That I didn't really even consider when we first started using it. And really, most of them weren't available. Now that I've gone in and put in my own kind of made my own template for what I want on there, I could see just using that and not having to copy and paste everything into Practice Fusion. Yeah. One last step. Practice Fusion doesn't offer any kind of AI charting, but I don't recall seeing anything on video for the telemed part, which I pay updoc separately. It's just. It's. There's a link within Practice Fusion, so I'm gonna have to work that out somehow.
+Adam Harrison: Okay. Yeah, sorry, go ahead.
+Lisa Harris: Other than that, I've been super pleased. It's just been. I've had enough time with it now to really learn what it's doing. If I can just remember to hit that start button, I am good.
+Adam Harrison: That's. Yeah, that's surprisingly common. You know, it's just. And then that's. That's stressful. Right. If you realize you forgot to record and you thought it was recording. We're working on some ways to make that. To kind of catch that when that happens.
+Lisa Harris: Well, honestly, since I do take notes on my remarkable. Anyway, during the appointments, if I do forget and just hit record, talk about my notes, and then use that as a note. And it still has worked out really well.
+Adam Harrison: Okay, that's great. And you said you use earlier Practice Fusion. Is that for your ehr. And then for your. Do you do your billing through that as well?
+Lisa Harris: No, I talked to them about doing the billing, and we even tried out some of their stuff, and it was just ridiculous. Yeah. And I mean, after four months, you know, you have to. For the billing, you have to, like, put it in this program and then go out of that program and come to this program and pull it over and then. Yeah, it was super, super confusing.
+Adam Harrison: Okay.
+Lisa Harris: I've used online platforms like Kerio before, and we used to do a lot of billing through ability. And I've talked to several billing program companies or billing platform companies, but it's always worked out that I have a biller, the billing company. I email the super bills to them every day, I put in the next day, blah, blah, blah, and I get paid.
+Adam Harrison: Okay. Oh, I see. So you, you use. You just kind of will submit those as like to up to someone who handles everything for you like after you have the claim or the super bill ready, Is that right?
+Lisa Harris: Yes.
+Adam Harrison: Okay, so you're sending like an. Is it like an email that you send with the super bills every day?
+Lisa Harris: At the end of the day it's a pain in the butt, but okay, it is what it is. My problem with that is that it's expensive for the amount of mistakes that they may make.
+Adam Harrison: I see.
+Lisa Harris: There's no way to get an account aging. There's. Yeah, it's really an imperfect process and I have requested, you know, certain reports to be available and I have money flying out the door because of it.
+Adam Harrison: Okay, so you just don't have very good visibility into like what they're doing and you ask questions and they don't, they don't have the right dashboards that you want to be able to look at.
+Lisa Harris: Right.
+Adam Harrison: Yeah. Okay. Okay. That certainly. Okay. That helps provide some context maybe for this, this conversation. So anything else you feel like is, you know, is worth like mentioning that you think would be helpful context before we jump.
+Lisa Harris: In order to attach to each payer. And Nathan kind of had to rush through his presentation the other day, but in order to attach to each payer, that process for anything that I've done before has not been easy. It's been lengthy, even though I'm credentialed with them and blah, blah, blah. One of my bigger concerns is that, you know, they're going to do a carve out for the buy and bill stuff that we do, which is going to be super easy because it's one g. Code. If that G code is billed, that's a buy. And bill. He also uses that. But when you have, you know, $40,000 that you have on a rolling account with your, your company that provides the medication, then, you know, waiting a couple months for reimbursement would seriously throw me into a tailspin.
+Adam Harrison: Cash flow. Yeah. Getting paid in a timely manner, right? Yeah.
+Lisa Harris: Other than that, pretty all straightforward. We only use probably five or six codes for the. For everything we do. I mean it's a psych office we do in person and telemed visits. We don't schedule a million people a day, so we take time with all of our patients. We have three providers, we have a great support staff. The Spravato billing and the Spravato treatment is done. Well, this provider treatments are. And all of the ordering is done by one person who is greatly missed when she's ever out of the office. But yeah, it's pretty straightforward.
+Adam Harrison: Okay. Yeah, that's. That's good to hear. Do you do like therapy add ons as well, or is it mostly med management for the codes you use?
+Lisa Harris: Therapy, add ons, therapy add ons.
+Adam Harrison: Okay, great. Well, I'm sure Nate kind of walked through how, you know, our, our billing service worked. So I, I won't kind of recap that. But essentially, you know, the idea is you would be able to do the note in jot. Psych. Sign the note, and then from there it's sort of like you don't have to worry about like all of the management of the claim. And, and like we would like abstract a lot of that way for you. So that is kind of like the. Because we have the note, you know, we, we are able to like craft the claim. And yeah, I think Nate mentioned like we can import all of your patient data from. Was it practice. Practice Fusion you said, or advanced. No, Practice Fusion. So you know, and we have like an AI system set up that will. If you have payer contracts as well, like those lengthy like 50100 page docs that you have, probably from when you were credentialed with Cigna or whoever, you know, we can actually upload that into our system as well. And so that the. The note generated will align with what the payers are actually, like, looking for and what your agreements are with them in the document. So should you ever get audited, you know, you have a highly defensible kind of system in place. So. So, yeah, I think Nate probably, like, walked through a lot of that already, so we. We won't kind of like, rehash any of that now unless you have more questions there. But normally, like, the first step in the process, which I think is like, you know, what we should try to go over in the next maybe 10 minutes or so here is normally we just will go into your existing kind of billing system and just do a little bit of, like, an audit of what's going on. Now, just from what you're describing, it sounds like practice fusion. You don't do any of the billing there, and that all lives somewhere else. So we probably wouldn't be able to see, like, the codes that you're billing for and, like, what's getting paid, what's not getting paid. You know, are you getting. Are you under billing? Our payers, like, reimbursing you below the contracted rate that you have with them. It sounds like that would live maybe with your billing service elsewhere that they. They maintain that data. Is that. Am I understanding that correctly?
+Lisa Harris: Kind of, yes and no. Okay. The super bills are generated through there.
+Adam Harrison: Yep.
+Lisa Harris: There is a payment. There's a payment screen where we put in the payments that we get.
+Lisa Harris: Like, go to each individual chart. There'll be a patient, a payment collection tab where, like, if they pay their co. Pay, it's in there. And I believe Guterres, correct me if I'm wrong, you put in that section as well. What, our reimbursements are correct? Yeah.
+Adam Harrison: Oh, that's right. She does all the posting in there. Okay. All right, so then that's. That would actually. We would be able to do our initial kind of phase of work here. So that's. That's great to hear. And yeah, so normally, like, the first two steps that we do are, like, one, we will just get access to your system so that we can do this sort of audit. And we can sometimes, like, find areas where the common things could be, like, certain denials that you're getting, maybe how long it takes certain payers to reimburse you. We can also compare what you're getting paid for each code. Relative to what your contract says you should be getting paid. Sometimes payers actually won't pay you what you're owed for a given code. So, you know, these are things that like just always live in different systems because you have your payer doc and that's like a big PDF that I'm sure is like. I don't know if maybe you've read them. Many people don't, but it's like a super long thing. For each insurance thing, it's different, right?
+Lisa Harris: Yeah.
+Adam Harrison: So it's ridiculous. So. So yeah, that's the first step is to just sort of like kind of do kind of a current state assessment and see like where is their opportunity? Is that getting paid sooner? Is it like we have a specific issue with Cigna, Is it maybe like specific coding that's being done? Is it a denial rate? Is it maybe an eligibility thing? So that's normally where we like to start. And then we can kind of like work with you to get jobs like templates set up in your account that will help you write the perfect note. And then from there, if that all looks good, we would move forward to actually like the claims and that sort of stuff. But we like to just sort of like kind of go one step at a time and you can kind of like opt out at any point in the process if it doesn't feel like the right fit. And yeah, we just kind of like to build baby step it. So. But any questions on that process?
+Lisa Harris: Yeah, I was reading something last night where if you check eligibility, it's 90 cents per eligibility. How will. All right, so with the marketplace that so many people use, it will like when you look it up their eligibility up on availability, it'll say, yes, their policy is enforced. But you know, midway through that it'll say this policy is still in its grade grace period and basically won't pay until after the second or third month. And those patients we have to treat as cash patients because we keep getting burned by not, You know, even though they're, they've paid for one month, that doesn't mean that they paid for a second month, which, you know, like they paid their January payment and we see them in February, it'll still show up as current until they miss a couple. And then if we run that claim again in February, it's going to say, oh no, it ended January 31st.
+Adam Harrison: Yeah. So that is a very real thing where. They will still be. Yeah, exactly. In their grace period. And they can miss payments for a few payments. Right. And they will still be in that grace period.
+Lisa Harris: Right.
+Adam Harrison: But then if they don't end up paying, then insurance can, you know, kind of say, oh, they actually weren't active coverage at the time of service. Right. Even though it's the grace period. So it all depends on whether they pay or not. So. Right. That's a very real. Yeah, a very real thing that you're, you're describing.
+Adam Harrison: And we, we have kind of folks on the team who are, you know, sort of like billing experts with decades of experience like, handling all these different situations that I think this, the cases like that tend to be more of like a case by case of how you would want to handle those situations for your practice and, like, what policies you're comfortable enforcing. So, you know, we could kind of like. I'm happy to pull it. Her. Michelle are sort of like internal, like, billing expert with some of these more like edge cases.
+Adam Harrison: And she could probably do like, a consult for you on, like, handling cases like that where you're putting a really tough bind as a provider. Right. Like, there's no, there's no, there's no great answer, honestly. It's sort of like you have to pick your. The lesser of, you know, two bad options sometimes. Yeah.
+Lisa Harris: Okay. Other than that, you know, I. Pretty much got a lot of the answers that I needed in order to get this step done.
+Adam Harrison: Okay. Yeah. Awesome. So, yeah, I think for this step, we'll just start with kind of the, the like, diagnostic of the current state. That's kind of like what we like to do first. And then, you know, probably we'll find some interesting things. You know, we can, like, go through them together, you know, maybe like, late next week, assuming all goes well and we don't have any, like, system issues. Sometimes it can be a little clunky getting these things set up, as I'm sure you're aware. Okay, great. Well, if it's okay with you, I'd love to spend the next, like, five or so minutes just kind of doing that live. Just. It minimizes kind of like chances that something weird happens and then I have to email and then there's back and forth.
+Adam Harrison: So if you don't mind just going into your. Your system and in practice, Fusion. And then if you can share screen. I can kind of walk you through the different, the different steps.
+Lisa Harris: Okay, Share my screen. How do I share my screen? You know, I've done this before.
+Adam Harrison: Google me is really the worst. And it's, it's at the bottom. It's next to the little like smiling face icon. It's like a computer with an arrow on it. That's, that says Share Screen.
+Lisa Harris: Okay. Share screen. Easy peasy. There you go.
+Adam Harrison: Awesome. So I think you should be able to go to Settings on the top. Excuse me. And then if you scroll down, there should be something like users. Under practice settings. Yeah. At the bottom. And then if you could just add. Yeah. In the top row you can add a user. So you can, you can just do my name. So you can do Adam. Harrison. Harr. Ison. And then for the email, I'm actually going to give you our like billing email. So can you type in billing and then the plus sign? And then what is your, what's your practice name?
+Lisa Harris: Lucidity. Mental Health.
+Adam Harrison: Okay. Could you do Lucidity just plus lucidity out psych dot com.
+Lisa Harris: Right.
+Adam Harrison: It looks like it's a comma, I think.
+Lisa Harris: Yeah, I need my cheaters on.
+Adam Harrison: And then let's see what it gives for access. You can. We might usually. Yeah, let's, let's try staff and see if that works. We might need to go up to like the clinician level. And then if you do admin, let's see. That way we can like do reporting and exports and stuff like that.
+Lisa Harris: Okay.
+Adam Harrison: Okay, let me get this code before you click close on the screen. Hold on. B3, C, D, Y5, A5 and on. Let me just take a screenshot too, so I have it just in case I typed it wrong. All right, I think I got it. So you can go ahead and click close and that's it. Let me check if I got an email. It's always important. Yep, that looks good. Okay, so I think I have, I should have what I need. I may, there is a chance I may need you to upgrade me from staff to like physician, but I think just leave it at staff for now. I can like just send you an email if, if we need to do that. But, but I think it should, it should be totally fine for now. The other thing, you know, it's not. We don't need it for this stage, so we can totally hold off. It will like help us with the analysis though. If you want to compare like your, your, your like negotiated rate with your, with your insurance with, with what you're actually getting paid if you have like your payer contracts. And those would probably come from whenever you did your credentialing, you know, we could definitely incorporate those as well into the analysis. Totally like optional. We can like also layer that in later. Later. I know there's like probably, probably a bunch of different insurance things that you have, you know, that you're credentialed with and it can take some time to like find and pull all those things together. So I, you know, I have my contracts. Okay. Yeah. If you have them all in one central place, like that would be great. And we can, we can like include it in the analysis. Sometimes they will have like kind of a rate card that. Or a fee schedule that's separate from the contract. So that, that's helpful too. Sometimes they're two documents. Sometime there one, everything just depends on the payer, as I'm sure you, you know, you're well aware of being like in the space. The answer is it always depends. Right? It's.
+Adam Harrison: There's never one like clean thing. So, so yeah. Is that something you, you think you might be able to share?
+Lisa Harris: Sure. I can upload it or email it or whatever.
+Adam Harrison: Okay, perfect. Yeah, we can just do like a Google Drive if that, if that works for you. That's probably easiest. And then, yeah, that is all like we needed for this call. We will like get to work on our side and kind of like put our, you know, get our pencils out and start seeing what we, we can find for you. And then I'd love to find some time maybe sometime next week to just like go through everything. Maybe the back half of the week would be better just because it will take a little time to kind of process all this. What, what works best for you.
+Adam Harrison: And I'll keep in mind you guys are one hour behind us. Right.
+Lisa Harris: Okay. Yeah. I don't know why I thought you guys were in California. Maybe it's because Nathan said something about. California yesterday or the other day. So. Usually mid afternoon is like technically one o' clock your time. Noon. My time is pretty much always good because well if we don't have a rep lunch, which we're popular, they like coming here because it's such shenanigans. We usually are free from 12 to 1 or 1:30.
+Adam Harrison: Okay. Do you want to do. Do you have the same time on Friday open next week?
+Lisa Harris: Friday we don't see clients so we can do it earlier if you like. Well actually 11 o' clock my time and 12 o' clock your time would be pretty good.
+Adam Harrison: Yeah, let's do that. That's. That works perfect. So we will, I will send an invite to you and yeah, I'll like. I think the only things here like I'll get into the system make sure everything is working okay. We may have like a few just follow up questions over email and then if you're able to like share the payer contracts, you know we can incorporate that into the analysis as well and then we'll go through it all together next week.
+Lisa Harris: Sure. Absolutely.
+Adam Harrison: Awesome. Well Lisa, great to meet you. I'm excited to see what we can find here. Hopefully some interesting things for you and then yeah, I'll be in touch over email shortly.
+Lisa Harris: Okay, sounds good. Sorry I was late. I was not thinking about the time change.
+Adam Harrison: Oh no, you're totally fine. It's so it's a you wanted 12 year time or 12 my time? Sorry, 12 years. Okay. Yeah, yeah, perfect. Yeah, no, I, for some reason I thought you were, you were eastern so it's my fault as well.
+Lisa Harris: So no big deal. All right.
+Lisa Harris: Well, all right, I'll look for your email. Let me know if you need anything else.
+Adam Harrison: All right, thank you Lisa.
+Adam Harrison: Great to meet you and have a nice weekend. All right, take care. Bye.

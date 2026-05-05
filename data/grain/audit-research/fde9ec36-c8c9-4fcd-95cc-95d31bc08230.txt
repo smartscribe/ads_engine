@@ -1,0 +1,59 @@
+atuvera: Hi Ashley, how you doing? Good, how are you?
+Lee Harrold: You're well. Just grab a seat over here with my favorite coffee shop in all of Indianapolis. It's raining outside. That's a bummer. That's okay. All right, things aren't working. Let's fix the things. Can you show me your screen? So it's basically the issue that. The AI editor just doesn't seem to be doing what it is you need it to do. Oh, this is super weird. I can't, I can like hear you a little bit. But it's really, really quiet. Oh yeah.
+atuvera: Okay, hang on. Is this better?
+atuvera: Oh yeah, that's way better. Currently, I had you connected to my. Other monitors. Apparently it wasn't going through.
+Lee Harrold: Gotcha. Oh geez completely gone change. How did this happen?
+atuvera: Can you hear me now?
+Lee Harrold: Yeah, now I can hear you. It's a little quiet, but it's okay.
+atuvera: So if you lose me.
+Lee Harrold: You know.
+atuvera: But I don't. Dictate them to generate the note. I've created. Templates for my. Adult sessions. And my play therapy sessions.
+Lee Harrold: Okay.
+atuvera: First three or four notes that I do will be amazing. They'll usually turn out they'll usually generate without an issue. I don't have to edit a whole lot. They're usually pretty good. Fourth one, that's when things usually start to get weird. We'll either just say. Underneath the section with nothing there. Be like these add more. And then it'll generate something that doesn't fit the template. It doesn't really match. And then and then like fine. This one and re-record. And even trying to do that didn't work.
+Lee Harrold: Oh, interesting.
+atuvera: Thing. It came up NA again. It kept generating kind of an oddly. Note and then the started now is. It'll a psychiatric intake, which I don't even do though. And I'll be like, no, make it a play therapy note and then it'll regenerate it. And usually the note is okay, but wait several minutes for it to regenerate the note.
+Lee Harrold: Yeah. And you're like, I selected a note template. It should be doing the thing that I selected. That makes perfect sense to me. Okay, so I guess I want to ask clarification on one detail you gave me. So you said after you. Described a system like after it gives you kind of bad output of like getting it to regenerate a note. Did you, did you say you take the transcript from the first note? And then use the transcript to regenerate a second note? Okay.
+atuvera: I will re-dictate.
+Lee Harrold: Oh, you read it. Oh, you redicate the whole thing. Okay, got you. Gotcha. Gotcha. Okay, let's take a look at one of those notes because I'm curious. To see what's in the transcript because in my head, it's like either the transcript is. Like not. Populated with the information the system needs. Or. There's like template weirdness. I know there's some template weirdness in our system I discovered earlier today. So I think that's probably a lot of it, but I do want to take a look at your transcripts.
+atuvera: Perfect.
+Lee Harrold: Okay, so go click on. Click the transcript button. Yep, looks like it has all the information. So these are the words are your words.
+atuvera: This is vacation.
+Lee Harrold: Okay, cool. It looks like it has everything in it. There's anything like missing here. Okay, cool. So if you click on psychiatric intake.
+atuvera: And then it just came up with any.
+Lee Harrold: That was crazy. Like for a second it was there. Right? Yeah. Go click on it. Click on it. Click on play therapy and then go back again.
+atuvera: My therapy, this one is the note I finally did.
+Lee Harrold: Okay. All right. And then click on psychiatric intake again. I think like for a minute it flashed up. No, okay. It must have, I don't know what it's all. Right. And then you're saying if you regenerate with psychiatric intake. If all NAs again.
+atuvera: Fix it. Anyway.
+Lee Harrold: For sure. Okay, can you. Send me the URL for this note and then I can use the ID on it to go on my after this call. To go understand. The sequence of events that like led to those NAs. What our system will do is if it can't find. Relevant content information in the transcript to a section, it will sort of assert that by saying, oh, this section isn't applicable. To the session. But, you know, summary chief complaint, these are probably pretty relevant from the transcript that I read.
+atuvera: And like I said. Coming up with a psychiatric intake when I asked for a play therapy note.
+Lee Harrold: Oh, I see. Okay. Well, yeah, we can, we can, I can fix that for you right now too. So go to schedule at the top left next to Jot side view clients. So on the bottom left of your screen, you'll see the department types in that it's, it's like a complete mess right now. And I discover that early today and we'll resolve it. But basically what's happening is. You don't need, so there, our system has appointment types and they have templates. And you can. Assign to an appointment type things like forms to send before deployment or afterward automatically so patients can fill out a screener. Or, or like a reminder so they know to come at a certain time or like a follow up list. And so that's, that's why you might want to use like you might want to assign a different template to a couple of different appointment types. So that's why those exist. But I think what's happening now is when we're using an appointment type for your play therapy, it's like selecting an intake template. So I want to take a look at the appointment type that you're using for your intake therapy and then change that so that it uses the play therapy template. So probably is do you have a play therapy? Yep. Okay, there's a play therapy. Note. Oh, I see. Okay. So the other thing is. We did a pretty, pretty rough job of like communicating Visual Studio employment types and templates. So you're probably thinking like, oh yeah, I have this flight therapy template. And then that's yeah, so click on play therapy note here.
+atuvera: Okay.
+Lee Harrold: And then in here select a new default node template. The play therapy note. Okay, cool. I guess I'll ask also, is that, is that like your primary template? Oh yeah, you have all these other settings too.
+atuvera: You can scroll down and yeah, this is, I don't use this aspect of jot psych because I work for a health center. So like a female, which is what we use for health. So this is kind of nice. But primarily, yeah, I have a few adults on my roster, but the majority. See kids.
+Lee Harrold: Okay, so the other thing that I think it makes sense for us to do then is to maybe reorder the templates to pick a default one in the future you create a new appointment. Type. So you can click documentation at the top of the screen to the right of clients. Click on note templates. And then on the left, there are like these six dots. You can, you can reorder those. But it sounds like you're probably not using like any of those four. So what I would do is just unpin, like click the yeah. Like all four of those and then you can pin the templates that you have created that you do want to use.
+atuvera: Here.
+Lee Harrold: Yeah. So right now the one at the top of the list is always the default one whenever you're creating a new appointment type. Or if you don't have a template connected to an appointment type. That's for one that's on the top of the list there will be used. So yeah, okay. I think let's go to your schedule and learn your next patient which appointment type is. Kind of picked. Okay, so it's like nothing to do. Oh my god is it April already time is.
+atuvera: Because like I said all my scheduling is done through.
+Lee Harrold: Oh, oh I see okay. So you're just like jumping in here clicking record.
+Lee Harrold: Exactly what I. Hit makes sense.
+atuvera: I pull up like I type in the client and then I just dictate the note and then I copy and paste it into.
+Lee Harrold: Oh, that makes sense. Okay, so let's let's just do that and see what happens. So click record. I'm a child. We're going to do play therapy session. Uh okay, so it's defaulted to the soap. Appointment type. Let's click that drop down. And then find yeah let's say play therapy note. Oh yeah. So you see underneath appointment type where it says template. And then play therapy node is a selected template. So that that's how you'll know the kind of note that's going to be generated in the first time.
+atuvera: For that. Then. To see if the psychiatric intake is popping up there. Or no. Or we have we fixed that now?
+Lee Harrold: Yeah. So if it if that says like yeah if you look there and then it doesn't say play therapy noted says psychiatric template. Intake then it will first generate a psychiatric intent type with your note from that template. Yeah. So the NAs are like really that's the thing I will fix. So I guess the other thing I'm thinking is if you're pasting stuff into Athena. Make that easier for you. Is Athena inside of your web browser? Okay. So we have I guess we have a Chrome extension that will let you. Like copy copy your notes from that Chrome extension directly into the browser. So you have to like drag across. Yeah. I guess before I jump to that. Is is there anything else at the software that I can I can like help you with.
+atuvera: No the NAs and the intake is the only thing that was like really irritating. Getting under my skin.
+Lee Harrold: Yeah and like I'm kind of confused too like why it's just the third one the third or the fourth note is you're killing it for the first two.
+atuvera: And it's pretty that's pretty much I would say every single time like I'll come home and the first two or three like really good and then the fourth one is when like I start having issues and then I'm like redoing them and trying to.
+atuvera: Oh yeah and it's like not listening.
+Lee Harrold: Yeah the chatbot not working is like insult to injury at that point because you're like you you caused this problem and now you can't solve this problem come on.
+atuvera: Kind things to the chat.
+Lee Harrold: Oh no poor chap I said yeah the thing about the chatbot too is like I think it it has a little dot that makes it look like a human is there. But like it's it's it's that that goes to an inbox that like will like read every other hour and so I think I think like people are like oh yeah this is you know I'm chatting and the person isn't responding they're like no it's it's actually it's just it's just like a male male shoot
+atuvera: I feel really really bad the other day when I got a response from you guys and we're like hey we want to fix this problem and I was like oh no. Before and so I mean.
+Lee Harrold: That's so funny.
+atuvera: So. Moment and my husband goes you. Wait a minute and I was like yeah.
+Lee Harrold: It's frustrating you're frustrated you have to you have to like it honestly I think robots are perfectly suited to take that kind of like angst and anger so I think I think that was the correct the correct place to express yourself.
+atuvera: Thank you.
+Lee Harrold: I'll tell you what I'm gonna I'm gonna go back into my cave and see if see if I can solve this NA situation and I guess what would help me with that too is you have any other notes that you've seen that happen to you if you could like either on the call now find them or like after like email me kind of just the same way you did the URL that that would give me other examples that I can sift through and try to figure out. Oh geez I think that something happened on the mic I can't I could see I couldn't hear anything you said just then. Oh here we go now we can hear you.
+atuvera: Froze for a minute but yeah I'm getting ready to spend the next two hours on notes so when
+Lee Harrold: that happens great timing great timing.
+Lee Harrold: All right well hey looking forward to it.
+atuvera: Okay thank you so much great to meet you Ashley. You.

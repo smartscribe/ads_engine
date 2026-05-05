@@ -1,0 +1,168 @@
+Becca Bressler: Hey, Jackson. He never accepted the calendar invite, so I'm just going to keep myself on mute and camera off, and hopefully she shows up. But just to let you know,
+Jackson Bierfeldt: I'll be doing the same thing.
+Becca Bressler: Hey there. Meredith.
+Meredith Hogarty: Hello.
+Becca Bressler: How are you?
+Meredith Hogarty: I'm doing well. How are you?
+Becca Bressler: Good. It's really nice to meet you. I don't think we've met before, but I know you've spoken with a lot of my colleagues.
+Meredith Hogarty: Yes, Jackson here.
+Jackson Bierfeldt: I'm on the call, too, but I'm just going to be lurking in the background, so just wanted to say hi.
+Meredith Hogarty: Feel free to lurk.
+Becca Bressler: Thanks. So, I'm Becca. I am the product manager at JOT Psych and would love to collect feedback from you about Jaw Audit, the new feature that we released.
+Becca Bressler: I love it. If you're willing to share your screen, actually.
+Becca Bressler: And so maybe you can even just reference things specifically about your experience, likes, dislikes.
+Meredith Hogarty: Sure. Give me a second. Is it gonna. Okay, hold on. Because I'm on another browser with the jots, like, today. For whatever reason. Let me just sign out of here. One thing I can tell you off the bat is it's slow.
+Becca Bressler: Yeah. To load.
+Meredith Hogarty: Yeah. Okay.
+Becca Bressler: Would you say, Meredith, you find yourself waiting for it, or in your workflow, are you moving so quickly that you're like, I can't even wait and look at what it's come back with?
+Meredith Hogarty: Mostly the latter, because it's just coming back with the same things over and over. So. So, like, it doesn't really give me anything new. And that's what I was talking about with. I met with Adam the other day. Okay, let me share my screen. Am I in? I am in. Okay. Okay. There we go. Okay. I was talking about this with Adam the other day. Like, so I've been coding now for years, right? Doing my own coding. Like the JOT audit. There are a couple things that I took from it. Like, I liked the mdm, like, complexity paragraph, and I liked the medical necessity. I was like, oh, I like those. But I'm just gonna probably add a template to make sure that those are in there now. But the thing is it just kind of does the same thing over and over and over. So essentially you're just kind of teaching people how to code, which is great. But at some point they're going to learn how to code and they're not going to need it.
+Meredith Hogarty: So someone like me who's been coding for 12 years, I'm very confident in my coding. And even it brought up, it said 9 and 2 and 4 and then it was like, doesn't meet psychotherapy because it was 15 minutes and I was like, screwed. Screw that, we're putting 16. You know what I mean? Like little things like that. But I guess that's my biggest like overall feedback. And then I'll get into some nitty gritty. But like, I think especially with charging like a monthly fee, like for people who know how to code, I don't know how helpful it is on going. If I had a tool like that when I was a new NP and had no idea what I was doing and was nervous about coding, oh my God, like that would have been like, you don't even want to know how much time I spent like looking at those, like the graph, like put up by the apa, like, okay, you know, like, yeah. Would it be helpful for someone in a group practice who owns it, who says, I only want you to use these job audit codes. I don't care about your coding, you know. Sure, yeah. Does that make sense?
+Becca Bressler: 100%. I want. I have a couple follow ups.
+Meredith Hogarty: Yeah.
+Becca Bressler: So you had mentioned a couple things that you liked. Just so I understand like what that translated to. Are you saying that you hit like the fix with AI and then just updated your template with the suggestion was that kind of.
+Meredith Hogarty: That's what I'm going to do. I haven't updated my template yet. So one thing I will know, one thing I will do is I'll hit edit and then I'll say like, add the emd, add the MDM to the, to the assessment and then it'll ask me like, do you want me to teach this? Or whatever. And I have hit that multiple times and it still is not coming up every time in my notes, which is really annoying. That's not happening. I will also try to train it with like my psychotherapy portion of my note. And I say like, please leave medication out of the psychotherapy portion of the note. Like, I don't want any mention that. And it does it sometimes it doesn't do it 100%. So that's another piece of feedback is like, it doesn't always do what I train it to do.
+Becca Bressler: Not reliable.
+Meredith Hogarty: Yeah.
+Becca Bressler: So if we were to go back to the audit tab, though, for a second. So you said you hadn't done it yet, but, like, your sense of what you're seeing is like, oh, this is a suggestion. I'm going to take it, train my template, and then I'm not going to need this anymore because I'll have satisfied. This fix is the way that you're thinking about it, basically.
+Meredith Hogarty: I have been called a savvy user. So I mean, I'm just kidding. Like, yeah, that's what I would do. I mean, right. Like again, because you're, you're teaching people.
+Becca Bressler: Yeah, no, you're 100% right. And this isn't the first time I've heard something like this, which is like, yeah, we're giving people a tool to improve their note and their template. And ideally if it's improved, they're not going to need it anymore. You know, it's like you're kind of working. Yeah. If it's doing its job and working really well. So I guess another question I have for you though is you said I'm seeing the same things every single time. Are they tight? And you gave the example of, you know, it says it's 15 minutes, but like I'm going to, you know, I'm going to write 16. In general, the stuff that you're seeing every time, are you dismissing them for reasons like that where like, are you ever. Like, this is actually wrong like this, this is not an accurate representation of the code, of the actual coding.
+Meredith Hogarty: Yeah, every once in a while. Yes. So like I'll only meet with a person for like, I don't know, say 28 minutes. And, and I would have coded it a 99214 and a 90833 but it'll say 99214 and 90838 or 90836. And I'm like, oh no, that's not right. I didn't even meet with this person for 40 minutes. So every once in a while it does get the code, the add on psychotherapy code wrong. That's why it's so interesting to me when it's like you were only 15 minutes, I'm like, how did you know this for that? But two patients ago you told me it was a 90838.
+Becca Bressler: Yeah.
+Meredith Hogarty: So there is some inconsistencies with that.
+Becca Bressler: Okay.
+Meredith Hogarty: The E M code, most of the time I agree with, every once in a while it will undercode and I'm like, like it'll do a 992 and 3. And I'm like, I think that should go up. And so I'll adjust it. But most of the time I think it gets the E M code correct.
+Becca Bressler: Okay. Yeah. Actually if we were just to like look through the ones you're seeing right now, I would love your impression of what you're seeing.
+Meredith Hogarty: So let me just think about who is this person? Sorry, I don't put my names in it yet, but I want to when you guys delete the transcripts. Okay? So. Okay. Okay. So, for example, yeah, you can see up here the time is 9:03. Excuse me? 1103 to 1116.
+Meredith Hogarty: Yeah, well, I only spent 13 minutes with the patient, but it's telling me 992-139-0833. So if I only spent 13 minutes with the Patient, there's no way I met a 90833. So, like, that's an example, right? And I don't know, like, where it's. Getting that information. It could be because the schedule is saying it's a 30 minute visit. I have a feeling that's what's happening because I don't know. Even like right here in the inconsistent time documentation across encounter header. 30 minutes. But then it says transcript 13 minutes captured in psychotherapy section. 45 minutes of psychotherapy. Like, I don't even know what that means.
+Becca Bressler: Right, right.
+Meredith Hogarty: But it's still saying 90833 section.
+Jackson Bierfeldt: Do we just look and see if there's like something weird that got written into that section?
+Meredith Hogarty: Sure. So this is my own template. So in this, again, this is my own template. This is not a job site template. So this 45 minutes, it just always comes up with random times. And I just ignore that. But this is the psychotherapy section that I created.
+Jackson Bierfeldt: Got it. Thank you.
+Jackson Bierfeldt: And if we. Could you. Could you press edit for a second and could we just try and train if you're comfortable, that section that. Could you just say, like, hey, in the psychotherapy section, don't put a random number there, like a random. Like don't list a, a number in that section unless you know that it's, you know for sure or something. I'm just kind of curious, like, what would happen.
+Meredith Hogarty: Do you mean a time number?
+Jackson Bierfeldt: Yeah, because what it wrote there was 45 minutes.
+Meredith Hogarty: Yeah.
+Jackson Bierfeldt: And then if you hit train, I mean, is. That's. That's something that you probably do want, right? You're like, ah, stop putting that in there. It's just making sure.
+Meredith Hogarty: Yeah, that's fine. So, and again, like sometimes when I hit train, sometimes it works and sometimes it doesn't.
+Jackson Bierfeldt: Yeah. I'm going to go ahead and just like check on the back end here while, while you're going over other things just to make sure that that landed. Yeah, thank you for that.
+Becca Bressler: Awesome. So, okay, so if we go over to the audit tab, it's interesting, Meredith, that, like, it seems like you're quite familiar with this in that you've read it over. You're like maybe revisiting it, even if you haven't started using it to edit your notes, despite
+Meredith Hogarty: I've looked at it and I, I do use it. I just don't use it. Like, I probably use it like 10% of the time.
+Becca Bressler: Got it. And, and what's your workflow for using it? Do you click that, like wand basically to use it, or do you just read it and then write your notes?
+Meredith Hogarty: The wand.
+Becca Bressler: Okay, so. Well, actually, tell me, tell me, Meredith. So like, you read. What is your workflow? You read something that's helpful and then what do you do?
+Meredith Hogarty: Okay, so if I was gonna like look at this. So to let you know too, my medical assistant copies and pastes the note into my chart. So if I have time, I try to look at it before she's gonna do that. So if I say I was gonna do that before she did it, I would go suicide and homicide risk documentation. Okay. This patient's not suicidal or homicidal. So I would go down. And I always note that like denies SI, whatever E M with psychotherapy time separation, Clarify EM level on separate time. Like, okay, whatever. Like my conversations in my head. And the reason why that's there now is because we just asked it not to have a time. So I think that's why that is E M cold level mdm. So this is the one that I've asked it to train multiple times to always put in. I like that. So then I'll. Okay, fix with AI.
+Becca Bressler: Okay, you do press this button.
+Meredith Hogarty: Yeah, I do. And then. Okay, do both. Continue. And then we're thinking. And then I will say like, please, please train to add the MDM to every note in the assessment section. And I've probably told it to do this in the last couple days multiple times. And it, like I said it does sometimes, but it doesn't. But what's interesting is that I've also asked it to do that for medical necessity and like did so maybe, like, I don't know. Does that yes train button have anything to do with it? Like, I feel like sometimes that comes up and sometimes it doesn't.
+Jackson Bierfeldt: Right. Sorry.
+Jackson Bierfeldt: Meredith, one question I have is for your follow up APC template, it looks like you have two. Like the one you're on right now is a copy.
+Meredith Hogarty: Yeah.
+Jackson Bierfeldt: Are you maintaining both to. To like test different things or was that kind of a mistake?
+Meredith Hogarty: No, that was. Cause I had the. I used the follow up APC before. I had my medical assistant copy and paste them and I think I took something out, but I cannot recall what I did. So I try to use the APC copy one.
+Jackson Bierfeldt: Okay, great. Yeah, I just. When I looked on the back end, it looks like you've actually been writing the trainings to both of those.
+Meredith Hogarty: Oh, is that what's happening?
+Jackson Bierfeldt: I think maybe that is why you're like, hey, I trained this and now it's not showing up in the other one.
+Jackson Bierfeldt: I think you've been training two different templates maybe.
+Meredith Hogarty: And I do try to use the copy, but if I'm in a rush. Sometimes I'll just choose that. So do you have to train each individual template?
+Jackson Bierfeldt: Okay, so that's. That is. That is okay. Yep. Great. That's the main learning for. For us on that.
+Meredith Hogarty: Got it.
+Becca Bressler: Awesome. Yeah.
+Meredith Hogarty: Okay, so that makes sense then.
+Becca Bressler: So if you. So if you go back to the audit tab for a second. Yeah, I would just love. Can we like, keep going down And I would just love to hear your reactions to like, what you're seeing.
+Meredith Hogarty: So again, like, it's. It almost like keeps saying the same things. Like, it's literally said E M with psychotherapy time, psychotherapy, add on time, psychotherapy time, documentation requirements. It's literally said the same thing three different times. So it's just like, okay, whatever. And then like, I'm done. That's really all I do. So the only thing personally that I have taken from this so far based on the feedback it's giving me, because I do think that my ADD on psychotherapy, I mean, my follow up APC and follow up copy are pretty thorough. So like, this is all. This is like the basic feedback that I'm getting for each note. We can do another note too, if we want.
+Becca Bressler: Do you ever. You ever hit re audit after you've resolved some of those things? Run audit at the bottom of Uber?
+Meredith Hogarty: I think I have. And it is very slow. And so that's definitely like, yeah. Why? I won't do it.
+Becca Bressler: It's just too slow.
+Meredith Hogarty: And like. And with the level of my confidence in my coding, this is way too slow to sit here.
+Becca Bressler: Yeah, absolutely. Could we go through another one? Meredith, just.
+Meredith Hogarty: Sure. This is a new note I just pulled up. So, like. And then this is part of it too. I'm like, how do I even get out of here? Like, And I'm just like, oh, this is like, so annoying.
+Becca Bressler: I don't. What do you mean by how do I get out of here? Like, what are you trying to do?
+Meredith Hogarty: Circle of death with the running on it? Like. Like that's what I'm talking about. Like, I can't. Okay, I can do that. But like, you know, anytime you see a circle of death, I think you just kind of think you're like frozen. Do you know what I mean? And so that was my initial reaction. Like, oh, God, circle of death. Like, I can't do anything, but I can.
+Becca Bressler: Apparently you couldn't leave the page. That's really.
+Meredith Hogarty: That's how I felt. Yeah. Okay, so let's go to this patient. So, okay, here's the feedback. Feedback. So again, telehealth location documentation, add on psychotherapy, telehealth model. Okay, so again, telehealth stuff, which I document in my ehr, so that doesn't matter to me. Psychotherapy documentation, coordination of care documentation, so. So, okay, so going through this, my initial thing is. Okay, I've seen all these. Huh. I haven't seen that. What's this? And maybe I could have done the eye, but let's see. I mean, I'm always looking to improve my note in any way. So, like, if I look at it and something new catches my attention, I will check it out. But again, not to beat a dead horse, this is really slow. And so. Right.
+Becca Bressler: So, so, so that deterrent, right?
+Meredith Hogarty: Because I'm like, oh, forget it. I don't care about coordination. And then I go and I check my email and I go back to my hr.
+Becca Bressler: Yeah.
+Meredith Hogarty: So. And I just think like, oh, this is new job psych will make it faster and I'll come back and use it when it's faster.
+Becca Bressler: You do have that thought. Like, yeah, that. Oh, I'll try this again. I'm sure it'll get faster at some point. You're not writing it off? No, no.
+Meredith Hogarty: Because you guys continue to improve things. So for me, I'm just like, okay, this is new. Like, it'll get better.
+Becca Bressler: Yeah.
+Meredith Hogarty: But again, like, still thinking. Right? Like it.
+Becca Bressler: Yeah.
+Meredith Hogarty: So if I like, okay, so hold on, let me go back to the. Okay, so I'm curious. Let me look at the. I'm curious what the I would say. Oh, view. And no, I don't know why you clicked that.
+Becca Bressler: That icon before the I.
+Meredith Hogarty: What was that?
+Becca Bressler: Was that the first time you've ever clicked that?
+Meredith Hogarty: I think I've clicked it before, but it's not view in the note. I don't understand why it's taking me to Clonidine.
+Becca Bressler: Yeah. Can you say a little bit more about like, what you are expecting?
+Meredith Hogarty: So I was expecting with the eye for this to give me a little blurb of what this meant.
+Becca Bressler: Got it.
+Meredith Hogarty: Like, what are you going to put in my note? That's what I was expecting.
+Jackson Bierfeldt: So like, Meredith, can you just click on the whole box? Like not on the I. You're expecting this?
+Meredith Hogarty: Yes, I was expecting this. By clicking on the I.
+Becca Bressler: Yeah, got it.
+Meredith Hogarty: So coordination with sleep study and allergies is described, but there is no labeled coordination of care section or documentation are actually attempted. So then I look at this and I go, there is no label of coordination or care section or documentation. And I'm like, yeah, because I didn't. Because she hasn't had the sleep study yet. And then I just go, okay. Like, yeah, it's. It's kind of like telling me that specific one is telling me something that like there, there is no care coordination yet because she's not having her sleep study until tomorrow.
+Becca Bressler: Got it.
+Meredith Hogarty: So it didn't happen. So then I just go, okay, have you clicked?
+Becca Bressler: Have you.
+Meredith Hogarty: Have you done. I have seen that before, but I would not have been able to tell you how I got that before. So I don't think it is that obvious.
+Becca Bressler: Yeah.
+Meredith Hogarty: That you can click. Click that. And like even like I can see now that it like highlights a little bit, but it's. That line is so thin.
+Becca Bressler: Yeah.
+Meredith Hogarty: That like, like, I wonder if it like bolded or something. Like coordination of care documentation. Like, I think when something's bolded, like hyperlinked almost, that almost gives more of an indication. I do think, like the fix with the pencil is very clear and. And the check is obviously clear. The eye. Okay. View and note. Yeah. There to be honest too. Like, it's tiny. Like my eyesight. I like 2020 eyesight, but it's just, it's tiny.
+Becca Bressler: How much of your jot psych. Note, how much of your. What's your setup? Do you have a monitor and a laptop? Like, where is.
+Meredith Hogarty: I just have a laptop. So jot psych is just on like another tab.
+Meredith Hogarty: But it's a full tab.
+Becca Bressler: It's the full laptop.
+Meredith Hogarty: I have the full laptop. Screen. Screen open right now.
+Becca Bressler: Got it.
+Meredith Hogarty: So, yeah. So jot. So like. And I've tried to. I don't even. I thought I could put this somewhere, make it okay. That's not what I wanted to do. I don't think I can make this go away because I was like, if this part came out and then this was bigger, that would be nice.
+Becca Bressler: You could see it a little bit more.
+Meredith Hogarty: Need it more.
+Becca Bressler: Meredith, have you had the experience of like wishing you could disable some of them or like not see them anymore? That hasn't come up in this conversation. But I'm curious if you've like thought about it.
+Meredith Hogarty: Disabled the, like the list on the side here.
+Becca Bressler: Oh, I actually mean the audit rules. Like some of the ones that you're like, okay, I get this every time. But like, I don't. I don't want to see this.
+Meredith Hogarty: Oh, I mean, yeah. Like even. Well, so. So I understand your question. So it's kind of a two part answer. So right now, like for the telehealth location documentation, like, I don't need to see that because I know when my ehr. I have my. My other ehr. I have my template set up that like it's always there. So I just don't need that. So for right now, yes, I would like that. That doesn't come up again. But I do plan to switch to jot psych for my ehr. So like, if that wasn't there, then I would want to know. However, when I do switch, I will just add a template.
+Becca Bressler: Yeah. Would it surprise you if I told you that there's a way to disable it, would you be like, oh, I didn't.
+Meredith Hogarty: Or, yeah, I have no idea how to do that.
+Becca Bressler: Got it. And you wouldn't even expect that. You could. You're not like, oh, I bet you can. I just don't want to look into it, or, um.
+Meredith Hogarty: That's a good question. I will say I've had the thought of, oh, this is annoying. It comes up every time. But I have not had the thought of, I wonder if I can disable that.
+Becca Bressler: Got it. Yeah, interesting. So, like, if you click it, I can just. It sounds like maybe you don't want to disable it because you want to move over as an ehr and it will. You will need it. But if you click the enabled, that. Yeah, yeah. Just so you know.
+Meredith Hogarty: Okay. Yes. So that is definitely not obvious. And I would have had no idea what rule enabled meant.
+Becca Bressler: Got it.
+Meredith Hogarty: So maybe like, even if you want to keep rule enabled, but, like, if you can hover over it, like, what does it mean?
+Becca Bressler: Yeah, this is actually, I've wondered this before. Like, the word rule. Like, do you know what that means? Like, your mental model of, like, oh, these are a set of rules, or like, rules at risk, even.
+Meredith Hogarty: Oh, rules at risk. I never really noticed that. I guess, like, when I see that, I think, you know, I just think back of the, like, you know what I'm talking about When I say, like, the APA template, like the mdm, like, I just kind of think back to that and I think that's what I think with rules.
+Becca Bressler: Yeah. Okay, got it. So that language, like, maps pretty cleanly onto, like, what you think of with.
+Meredith Hogarty: Yeah, Rules at risk. Yeah, I think so.
+Becca Bressler: Can I. Have you ever clicked your Clinics rules? That link?
+Meredith Hogarty: No. Where is that?
+Becca Bressler: So it's at the bottom, it's above.
+Meredith Hogarty: So if you click it.
+Becca Bressler: I'm just curious, have you. Have you ever seen this before?
+Meredith Hogarty: No, I haven't even noticed it. Again, like, everything's small.
+Meredith Hogarty: So it's just kind of like when things are in small, I think our brains go to, like, fine print. Like, just kind of like, oh, that's in fine print. Like, I don't need to read that. I need to see that. You know what I mean? Because it's just so small.
+Becca Bressler: Yeah.
+Meredith Hogarty: So, no, I have not seen this.
+Becca Bressler: Okay, one last question, then I should let you go because we're about to run out of time. Can you go back to a note for a second? Sure.
+Meredith Hogarty: Let's ask you a question really quick. What is compliance with 60%, 50%, what does that mean?
+Becca Bressler: So that is calculated based on the flags that you see. So you have some red flags, some yellow flags you can click over and see what rules you are compliant with. So I just haven't fixed them. Yeah.
+Meredith Hogarty: Okay. So, yeah, distribution of that. Okay.
+Meredith Hogarty: All right, back to a note.
+Meredith Hogarty: Yeah, we'll do a new one.
+Becca Bressler: Have you ever clicked the Learn More video in the bottom right? No. What is your.
+Becca Bressler: After your note is generated? Do you like tutorial videos? Like, I'm just curious what your impression of. Generally they are if you use them, if you like them.
+Meredith Hogarty: I guess based on marshmallow like lacquer. Respond. Like, they're okay. Like, you know, sometimes they're helpful, sometimes they're not. But again, like, if I wanted to take the time to learn more about something that I would use a lot, I might use it. But, no, I've never thought of, like, needing to learn more about jot audit. I think, like, some of the things are clear enough.
+Becca Bressler: Right.
+Meredith Hogarty: And again, I think my mind is still going to. Oh, this is slow.
+Meredith Hogarty: Yeah, it's not really ready yet.
+Becca Bressler: Yeah. Yeah. Meredith, so helpful. We really appreciate your time. You're awesome. I, you know, I would love to reach out to you again if I have more questions. And yeah, whenever you have feedback about this or anything else, please, please, you have me email. Please feel free to reach out. Yeah. Thank you.
+Meredith Hogarty: You're very welcome.
+Jackson Bierfeldt: Thank you. This is gold. Really appreciate your time.
+Meredith Hogarty: Well, I, like, I've told Nate. I think it's really cool that you guys meet with us and get our feedback. It's exciting for us too, because it's like. Ooh, like an ehr. That's actually really gonna work, you know, so that's our goal.
+Jackson Bierfeldt: And we're not psychiatrists, you know, we don't know what's going on. So, I mean, we kind of do, but we got to get it in your hands in order to actually see what's going on.
+Meredith Hogarty: Yeah, we're living it every day.
+Becca Bressler: We cannot do it without you, literally. So thank you.
+Meredith Hogarty: Thank you.
+Meredith Hogarty: Have a good rest of your week.
+Meredith Hogarty: Reach out anytime. Bye.

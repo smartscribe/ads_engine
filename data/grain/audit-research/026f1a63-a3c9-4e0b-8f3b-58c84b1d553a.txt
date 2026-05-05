@@ -1,0 +1,102 @@
+Christopher Hume: It's ROI positive. It doesn't hurt. We'll see how these meetings go. So right now I'll show you what I'm doing. I am taking your new list. And then because I've completely lost the ability to think, I am comparing your cold outbound list against all of our active customers and all of our. All the people I gave John. I should make sure there's no overlap here. Be like somewhere in the vicinity of 90 people. What I am going to have to ask of you, which is a little bit of a pain in the ass, is that like when you're loading people, just make sure. Just make sure. At least for this first batch until I really operationalize everything. You double check that they're not someone who has already been on a cold call campaign or that's actually a paused user and you already called 16 times. We'll go through how to do that.
+Jack Waugh: Would that be checking that in Aloware or in HubSpot?
+Christopher Hume: It'll be in HubSpot.
+Jack Waugh: Okay.
+Christopher Hume: Okay. Guess what happens when you have like 10,000 CSVs. I think I accidentally uploaded. I think I made your. It's not important. I think I made Jack's list. Your list at one point. So he got. What the damn. I really something up here. Let me just see if I can get you like 15 good ones so we can at least get you started today. And I'll just have AI do this like it should, as opposed to me checking you. Can't tell. I have like literally five cell spreadsheets open right now. Just not a way to live in the age of AI. So this madness must stop. But let me just get you locked and loaded. All right, so we're just going to give you the good ones from the bottom here. Let's give you 230 bottom. So what has been the. And this is the other thing I want to say. What has been the wedge that has been working, Jack, on the cold calls specifically? Yeah.
+Jack Waugh: Is it the free offer? So when I'm. A lot of the times, like when I'm reading this, I'm not deviating from the script that much.
+Christopher Hume: Okay.
+Jack Waugh: So at least on this most recent list, I've been getting better results with the script we're using. But if I find like, yeah, I think a lot of times I'm offering the free analysis. If it's like someone's maybe less certain, if they sound like really keen on it right away, then I might just go right for the job Bill product. But, you know, in the times where someone's a little bit like, wanting to learn more, that's when I go for the free analysis. Yeah. The only other real deviation was just that one liner thing that I sent to Emily. You know, because sometimes people need a little more context about like A to Z, what it's actually gonna do for them. But, yeah, those are like the main things that come to mind.
+Christopher Hume: Okay. I mean, so what did we prop. So the guy we just booked with, what did we just say? Like, hey, this is a jot Bill call,
+Jack Waugh: which you remind me which one.
+Christopher Hume: What you can't remember. That is such a good sign, Jack, that you can't remember the people you book. All the specific meetings. Let me see here. We booked with was yesterday. Priscilla.
+Jack Waugh: Oh, yeah, right. Yes. So she was the free analysis call. Yes.
+Christopher Hume: Awesome. Okay. And what's her. I guess we can. What's her story?
+Jack Waugh: Yeah, basically she is a solo provider and is using Grow, but didn't feel like she had a ton of visibility. Like, that was the main thing for her. That was kind of. I was like, well, is there anything that you're finding? Like, is there any trouble you're running into with Grow? Is there anything you're not liking about it? Because at first she was pretty positive about it and she was like, well, I feel like I could have more like visibility into it. Like, I don't. I don't know, like what they take off the top.
+Christopher Hume: Okay.
+Jack Waugh: So I told her, well, that's like kind of where we specialize, you know. Then I told her what job bill was, and so I think the visibility was big for her. Plus also the free analysis just to offer, like, well, you know, if you're not able to peek behind the veil, we can do that for you and show you where Grow might be messing up or, you know, missing things.
+Christopher Hume: Let's freaking go. Okay, that's awesome.
+Jack Waugh: Also, she did mention. Oh, well, she said I don't exactly know how this works or what this means, but she said they pay her regardless of if you. A claim gets denied.
+Christopher Hume: So that is freaking crazy. And well, I mean, we're like, we're thinking of doing that too. It must mean they just take so much freaking money from her that like they don't care if some. They have to reimburse because I think they take like 30 if they're doing like everything. We'll have to have nature check, but we'll see what happens. Good. So we're locking you up contacts right now. We're gonna. Jesus. We're gonna go import. Import data. It's gonna be quick contacts, you know, choose a file. You can tell it's bad, but I'm calling it list 1.5 next. Literally I cannot get the automation up soon enough.
+Jack Waugh: But these uploads, like am I doing these most of the time or are you doing these most.
+Christopher Hume: No, it'll be me. So we've got you there, but I'll. I wanted to show you. Trying to. God damn it. As a header. Oh my God. I was hoping to show you how we load these up and we can make sure it's working properly. Oh, boy. Okay, here we go. Loaded properly. Let's go. Next. Okay, first name, last name. We don't need that. Job title. Job title, location. It's good. Company domain. Don't need Google phone, work, email. Let's change this to. All right, and then company name. Cool. Don't import data on that columns. Awesome. We're going to call this Jack Outbound List. One. Okay, so we're going to put these all here. Then we're put them in a list for you and then you can add them to the sequences as appropriate.
+Jack Waugh: Okay, and where is that? Where's that list?
+Christopher Hume: Yeah, let me. Yeah. And so we'll go. Back. It's like super interesting. You'll see. Actions. God, so painful. Export. No, I literally did this last night. So really good use of your time. Sorry about this, Jack.
+Jack Waugh: No, sir.
+Christopher Hume: Nightmares. Actions. There we go. All right. New static segment add. Call this Jack. Outbound list number one. We're gonna go next. Static. Good. Same process. I don't know why it's such a pain, but. Okay, there we go. So now you should have access to this segment. I'll send you the link over Slack. Let's make sure you can access it. Honestly, 11 minutes. Not that bad. Pretty painful.
+Jack Waugh: Okay. Yep, got it.
+Christopher Hume: Okay. And then could you actually share your screen? Because I'm going to want to.
+Christopher Hume: I think we want to adjust how this is showing. So let's go to View. Jack. Oh, no, I'm sorry. Edit columns. So you're going to want to, on the left hand side, type job title. Yep. And then let's move that to right after name.
+Jack Waugh: Hang on.
+Christopher Hume: All good.
+Jack Waugh: I don't know if I moved it. I thought it was, but I can still see it.
+Christopher Hume: There we go. Yeah. So you can now click job title.
+Jack Waugh: Oh, okay.
+Christopher Hume: Yep. Move it there and then add last activity date. Take that and move it right after job title and apply. Perfect. So this is going to tell you, like who the people are you're going to see the last time we contacted them. Jet. I don't know how Paola keeps ending up in all of our stuff. So click on Paula and let's delete her out of this list. Go delete more.
+Jack Waugh: Can't delete that.
+Christopher Hume: I'm gonna go postal. Let me give you access. I will. Regardless. Don't add someone who we're clearly already bird dogging.
+Jack Waugh: Meaning if you see a last activity date, then that's.
+Christopher Hume: That's recent. It's probably like. Okay, don't. Okay. Yeah. Don't mess with them. I'll have to go into your settings later and make sure you have access to. I can just do it right now.
+Jack Waugh: Sure.
+Christopher Hume: Transitioning and using new software is so painful. Just like, oh my God, this is like two days sort of blown. When we could have just been like burning and churning on alaware. Yeah. Kind of the price uk.
+Jack Waugh: Yeah.
+Christopher Hume: So we're going to go team seats. Jack. Go access one sequence. Sequence. Next. Segments and edit. Active. No settings. There we go. All right, we'll have to figure this out later. I'll just delete her now.
+Jack Waugh: Sure, no problem.
+Christopher Hume: Get her out of here. I don't know. And I'll make sure there's no double tapping here. Let me just. Look like Robin Jones. Make sure there's no overlap with John. Oh, my God. H. Jesus Christ. All right, let me try again. Shannon Scally. All right, well, that sucks. Somehow, despite me checking before it went in, it looks like it's the same list. So let me just. Let's just. For the sake of. Let me just take like five people out of John's list. Or let's just add. Have you add five people right now. Now remove them from John's list. I can deal with whatever wrong later. So let's go. Let's do. Yeah, let's do. Melinda, Check this. Tell you which ones. Okay, let's do Unique health. Let's just put the two people in unique health in here. Remove John's list right now. We just make sure everything's working, and then I'll clean up your list. You type search in segment unique. No way for you to know this, but spelled Y O, U.
+Jack Waugh: Ah. Why are you.
+Christopher Hume: Of course those are the people I don't have in your list. Jesus Christ. Let's. Tucker. Tucker. Just look up Tucker.
+Jack Waugh: Perfect.
+Christopher Hume: Oh, no, no. I was looking for Tucker Psychiatric.
+Christopher Hume: So I am signing you Tucker Psychiatric. I'm going to remove those list to make sure you guys don't double tap them.
+Jack Waugh: Gotcha.
+Christopher Hume: Remove. And let's just make sure that you can add those people to the flow as you're getting this with hits and starts. Free to spend as much time on that alaware list. So let's. So this is a director of operations and two psychiatric nurse practitioners.
+Jack Waugh: Okay.
+Christopher Hume: So we are going to want to. There's two flows here. So operations. They are admin. Psychiatric nurse practitioners, Providers.
+Jack Waugh: Right.
+Christopher Hume: So click Chelsea.
+Jack Waugh: Like her name or select sorry. Okay.
+Christopher Hume: Enroll in sequence scale admin staff.
+Jack Waugh: Okay.
+Christopher Hume: Nothing's playing ball this morning.
+Jack Waugh: Running in. I guess it's better we run into the hiccups now than later.
+Christopher Hume: That is true. When I have you and John calling, like, the same four people at a clinic 15 times each. Yeah, that could. That could lead to some problems.
+Jack Waugh: Right.
+Christopher Hume: The other thing I just want to flag for you is if anyone tells you not to call them, make sure they get flagged as dnc. So we could see. I mean, you know how to do that in alaware, right?
+Jack Waugh: Yeah, in alaware, definitely.
+Christopher Hume: Yeah. Just do it in alaware. So that means we just, like, It's.
+Christopher Hume: We're literally incapable of calling them after that.
+Jack Waugh: Okay.
+Christopher Hume: Do I refresh, like, the whole page, see what happens?
+Jack Waugh: Sure.
+Christopher Hume: Jesus Christ. Okay.
+Jack Waugh: See? Huh. So now I'm actually not seeing that whole group there.
+Christopher Hume: Let me see. I. I'm adding and. Nice. They're in your group. If you refresh, they should be there.
+Jack Waugh: Okay.
+Christopher Hume: And they are no longer not in Jack's group or John's group. Refresh your screen again.
+Jack Waugh: Don't think so.
+Christopher Hume: Awesome. I try. Also. See if it's working, if it shows up when I go into it. No, it didn't. I do have tms institute.
+Christopher Hume: Can you see them? Let's add them to the flow.
+Jack Waugh: Okay. Okay. I guess I can only do one at a time.
+Christopher Hume: Can you really? You're not allowed to add more than one at a time.
+Jack Waugh: Yeah. Enroll in sequence. Just grays out when I select both of them.
+Christopher Hume: Could you put. Let me see what that says. Roll in sequence. Could you just put your cursor. Cursor over it? Okay, so this is something I need to figure out for you because it's not going to be quantity. You're going to be. It's used to end up so much slower if you're manually dialing. Manually adding. So that's good to know.
+Christopher Hume: Okay, let's just add both these people manually to the administrative flow just to make sure that at least works a tiny bit.
+Jack Waugh: Sure. Okay. Scale Admin staff.
+Christopher Hume: Correct.
+Jack Waugh: Already enrolled in a sequence.
+Christopher Hume: Holy shit. Okay. I think you get the point of what we're doing here, Jack. I think I just need to give you a new list and we need to clean up the somehow. I uploaded the same list twice despite making you watch me quality check them in chatbots. So I'm just going to go back to the lab. I'm going to fix this. You're going to have a list today. Let me just see what my calendar looks like. I'm free until three, so I'm just going to make sure this gets resolved and you're up and running. I would love for you to be able to start sending those emails today so we can start calling some of these people tomorrow and testing it out when we're together.
+Jack Waugh: Yeah, makes sense.
+Christopher Hume: Okay, well, I think I probably made more challenges here than I and I answered, but at least we. We got these figured out. We had the issues at the beginning and post the middle, as you said.
+Jack Waugh: Yeah, definitely. Okay. Oh, and then for tomorrow, I was thinking I'd probably aim to get there around 10 ish. 10 15.
+Christopher Hume: Perfect.
+Jack Waugh: Do you know what the situation for that parking space, not a big deal if it's not available, but.
+Christopher Hume: I just want to make sure I plan ahead. So I think you said you had a crv.
+Jack Waugh: Yeah, it's like. It's like a small. It's not even really a full size suv. It's pretty compact.
+Christopher Hume: Yeah. So let's plan on trying to get you into the garage. I'll have Jackson move his motorcycle and then if it's like too disastrous, we'll just do the. I mean we'll just have you move every couple hours or we'll go down to Target together. But I think we can probably fit you in if the motorcycles moved.
+Jack Waugh: Okay, sounds good.
+Christopher Hume: Cool. Awesome. Yeah, we'll plan on about 10. My day is pretty. I've kept it pretty open. I have a few meetings in the morning, but then. Yeah, we should have plenty of time.
+Jack Waugh: Okay, sounds good. I know. I have a follow up at 12:30 tomorrow and like one someone who just randomly booked at 4:30 end of the day.
+Christopher Hume: Awesome.
+Jack Waugh: But other than that it's pretty clear, so.
+Christopher Hume: Super electric. When people book 4:30 meetings like that, you gotta love it. Gotta love it. Okay, cool. Well, Jack, I appreciate your patience. Sorry, this is kind of a cluster this morning. But we'll. We'll get straightened out and looking forward to tomorrow.
+Jack Waugh: Yeah, likewise. Sounds good.
+Christopher Hume: Bye.

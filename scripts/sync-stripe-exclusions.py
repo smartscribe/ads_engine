@@ -22,7 +22,7 @@ from datetime import datetime
 # CONFIG
 # =====================================================================
 STRIPE_KEY = os.environ["STRIPE_SECRET_KEY"]
-META_TOKEN = os.environ["META_ACCESS_TOKEN"]
+META_TOKEN = os.environ["META_ADS_ACCESS_TOKEN"]
 META_ACCOUNT = "act_1582817295627677"
 AUDIENCE_NAME = "Stripe Customers - Auto Exclusion"
 META_API_VERSION = "v21.0"

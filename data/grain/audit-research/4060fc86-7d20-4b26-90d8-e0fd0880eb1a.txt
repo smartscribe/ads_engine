@@ -1,0 +1,58 @@
+Christopher Hume: You're so good. I just had a good five minute read of Wikipedia.
+Becca Bressler: It was awesome.
+Christopher Hume: I ended up on the George III rabbit hole because his wife, who I guess is in Queen Charlotte, who's in. What's that show? The big one on Netflix. Not to.
+Becca Bressler: About George something or something. George the something.
+Christopher Hume: No, about Queen Charlotte. Oh, yeah, it starts with a bid. Bridgerton.
+Becca Bressler: There we go.
+Christopher Hume: Bridgerton. Then I end up going down a rabbit hole. So it was a good five minutes.
+Becca Bressler: That's great.
+Christopher Hume: Cleaning my brain is not worth it.
+Becca Bressler: If I couldn't remember, break your.
+Christopher Hume: How's your first half week back?
+Becca Bressler: Fucking crazy. If I had front this week, I would actually blow my brains out. That always takes up 20 hours of your week. And I already just feel like I'm completely.
+Christopher Hume: There's also something wrong.
+Becca Bressler: Is it the same kind of issues we always see, just in a higher volume, or are they new issues?
+Christopher Hume: Well, I've never seen people with chunks and no note. I've never seen people being like, my notes disappeared. And I'm just getting it from all angles. Clinics are reaching out. I'm like, Jesus. The template training isn't working. I haven't even gotten to put that into there yet. But I had a customer today who's just like, no, it just doesn't work and it errors out.
+Becca Bressler: And is that just to ask, is that using the template builder or do you mean in the note?
+Christopher Hume: The training is not in the note. Is that a known issue? Yes.
+Becca Bressler: So wins week was meant to have themed days like today. Marcus is looking at the note the no editor. He has a day devoted to this exact issue. Training. Obviously depending on what happens with the. Just to validate you, Chris, I'm going to peek. I'm sure you'll peek behind the curtain. I mean, maybe this is like a waste of your time.
+Christopher Hume: No, I love it.
+Becca Bressler: What would I show you? One second. I have raised this to Nate, Jackson, Marcus, multiple times, and I'm like, we need to devote effort to this. So I'm on your side here. Can you see my screen? Yeah. Okay, that's insane. There is. Oh, yeah. Let me show you this. So this is a funnel of the train of someone hitting. Yes, train. And whether or not the training was successful.
+Christopher Hume: It doesn't work 42% of the time.
+Becca Bressler: Yeah. And that's a 30 day view, a seven day view. Is even worse.
+Christopher Hume: Wait. I know. How is this not like.
+Becca Bressler: No, I know. Marcus has, like, a full day scoped out for this exact issue. So. Yeah, like, you and I are on the same team in this regard. So just so you know that you don't have to convince me of anything. I think this is a really.
+Christopher Hume: That is crazy. How long it hasn't. What's 90 days? What if we go, like, the longest?
+Becca Bressler: Yeah. So it seems to have gotten worse.
+Christopher Hume: Okay? But it never really. Well, I guess.
+Becca Bressler: No, it was never like.
+Christopher Hume: Jesus. Well, that's fun. What is going on here? Okay, so kind of. I think we need to, like, figure out a way. So I know we had the conversation before that you need to get feedback from me, but I think. Critically, importantly, like we need to come up with some sort of system. And it's probably going to be us who has to do it, even though we don't have all the information. With, like, information is consolidated and then pushed out through the other flows, and we just. I don't even.
+Becca Bressler: What kind of information? Sorry, what are you talking about here?
+Christopher Hume: Like, yeah, so, like, just, like, product offering information. I don't know about you, but do you know how Jotred works?
+Becca Bressler: I have no idea.
+Christopher Hume: Yeah. Like, I don't know. I mean, I sort of do a little bit because I've been here for it, but, like, there's a lot of things we have on the edges. And, like, I think. And, like, I honestly don't really know how job bill works. Like, I know enough to sell it. But when people get in, like, the nitty gritty details, like, oh, like, what happens at, like, this far down the funnel? I just had to be like, oh, well, it's a new product, you know, that's still in flux. And I think this is going to be a growing problem. And it's come up in conversations with Nate. He's like, yeah, that's kind of you and Becca to kind of figure out how we want to. Handle this. But I just think, like, we're pretty quickly approaching a point where there's just, like, I don't know how, if I needed or anyone needed to get product, like, ground truth on how our offering.
+Becca Bressler: Yeah.
+Christopher Hume: How to do that aside, to go from, like, the tri. The person who's, like, running it, so. Like jot, Bill. I'd go to Adam. Jack craig. I go to nate. AI editor, I go to you. And we probably need something a little more sustainable, like some sort of repository where we keep this information and we just update it as stuff is updated or yell at people to update it. So, like, everyone knows, like, hey, if I'm working on this project, like, I have to keep, like, this product description or whatever product term. It is up to date. Impact the team. Because, like, right now, I'm like, hey, Emily, can you sell Jotred? What is it?
+Christopher Hume: I'm like, well, what isn't it?
+Christopher Hume: It's whatever the customer says they need.
+Becca Bressler: So you know how Nate is having that person, Mia, make the heart.
+Christopher Hume: Yeah.
+Becca Bressler: So I think the initial conceit of that harness is for, like, external facing surfaces, so that when we, like, have a new product launch, something it updates, help it writes marketing copy, blog posts, like, et cetera. I think we should probably add a component to that that is, like, internal facing. So, like, anyone is making updates to their product, launching a product, like, so that jot cred, like, becomes a part of this harness and then we get information back about it, you know, or.
+Christopher Hume: And yeah, we can, like, ask. We can be like, harness. How much does jot crud cost? I think that makes sense. I just think we probably have to scope it out and, like, we don't need to fix this today, but that's like the big growth product gap right now. That like? I have no way of, like, pushing this feedback back aside from, like, I just grabbed Nate. I'm like, hey, just. You know, I got pushed back from two people I tried to sell job credit to today because I said it's too expensive. And, like, we don't actually really have a. Like, I don't know. I don't know how much that's product, but, like, you get the point. Like, I don't know where I would push that, because that's not really a backlog thing.
+Becca Bressler: Right. It's not. It's. Yeah. Yes, like Nate's the only one that can answer. That question. So, I mean, maybe the step here is just to talk to Mia and be like, hey, this is actually another need. It's kind of related to what you're doing.
+Christopher Hume: Yeah, and I'm fine with that sort of the plan for the week, but I just know that this is. Gonna. We're gonna keep running into this issue and say, like, oh, well, if you guys, it's. I just selfishly don't want this to boomerang around on us because, like, this is a huge issue, and I want us to at least be moving the ball in the right direction, because, I mean. Stuff already is slipping. The knowledge gaps at this point across the team are huge.
+Becca Bressler: Yeah.
+Christopher Hume: What's our data migration like? How does that work? Do you know? Maybe you do. I barely do. We can migrate data into jots. Like how?
+Becca Bressler: I know.
+Christopher Hume: No idea.
+Becca Bressler: Something like that is meant to be, like, Lee recording a video in the product launch. Like, video. So, like, that is supposed to be a place so that, like, for certain product updates, like if we launch an onboarding flow or whatever, like, we. The the aim is like, have a video there so someone like you can be like, okay. If I'm demoing, this is how you do it, you know, so like that. Obviously, something like Jotred. There's not, like a product oral. There's not a visual, there's not an image. But. I. I don't know what the output of this harness would be, but I do think something to query, like what you're talking about, you know?
+Christopher Hume: Yeah, I think that's it. And then, like. Yeah, it's just probably a bunch of markdown files with, like, overviews of different features, but then it's going to get. It's just like. There's also only so much that we. It. I don't know. It's a balance, but I think, yeah, that's probably the right next step. Is asking Mia, like, what she thinks the feasibility is as a next step. Okay? After she does the external stuff. Because we'll be fine for the next few weeks, but it's going to spit out of control.
+Becca Bressler: Yeah, I'm gonna. You know that DM that we all have about Mia? I'm just gonna follow up in the dm. Say you and I chatted. Here's a need that we think is kind of related to this and would love building. Does that sound like a good next step?
+Christopher Hume: Yeah, that sounds great. Okay?
+Becca Bressler: Anything else on your mind?
+Christopher Hume: I don't think so. How are the keys?
+Becca Bressler: Great.
+Christopher Hume: Wait.
+Becca Bressler: Can I say something hilarious? I'll kick the grain out. Hold on.
+Christopher Hume: Yeah, most def. We don't need our keys. Conversation pulled into every harness on the in the company.
+Becca Bressler: How do. I. Oh, remove from color.

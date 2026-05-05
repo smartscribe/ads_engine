@@ -1,0 +1,20 @@
+{
+  "name": "Meta Purchase - First Note",
+  "type": "html",
+  "parameter": [
+    {
+      "type": "template",
+      "key": "html",
+      "value": "<script>(function(){var e=\"{{dlv_event_id}}\";var p={value:150,currency:\"USD\",content_name:\"first_note\"};if(e&&e!==\"undefined\"&&e!==\"\"){fbq(\"track\",\"Purchase\",p,{eventID:e});}else{fbq(\"track\",\"Purchase\",p);}})();</script>"
+    },
+    {
+      "type": "boolean",
+      "key": "supportDocumentWrite",
+      "value": "false"
+    }
+  ],
+  "firingTriggerId": [
+    "15"
+  ],
+  "tagFiringOption": "oncePerEvent"
+}

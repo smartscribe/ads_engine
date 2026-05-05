@@ -1,0 +1,53 @@
+{
+  "audience_id": "120245691436380548",
+  "audience_name": "NPPES PMHNPs + Psychiatrists",
+  "total_records": 54136,
+  "batches": 6,
+  "batch_results": [
+    {
+      "audience_id": "120245691436380548",
+      "session_id": "7152659064879796557",
+      "num_received": 10000,
+      "num_invalid_entries": 0,
+      "invalid_entry_samples": {}
+    },
+    {
+      "audience_id": "120245691436380548",
+      "session_id": "7152659064879796557",
+      "num_received": 10000,
+      "num_invalid_entries": 0,
+      "invalid_entry_samples": {}
+    },
+    {
+      "audience_id": "120245691436380548",
+      "session_id": "7152659064879796557",
+      "num_received": 10000,
+      "num_invalid_entries": 0,
+      "invalid_entry_samples": {}
+    },
+    {
+      "audience_id": "120245691436380548",
+      "session_id": "7152659064879796557",
+      "num_received": 10000,
+      "num_invalid_entries": 0,
+      "invalid_entry_samples": {}
+    },
+    {
+      "audience_id": "120245691436380548",
+      "session_id": "7152659064879796557",
+      "num_received": 10000,
+      "num_invalid_entries": 0,
+      "invalid_entry_samples": {}
+    },
+    {
+      "audience_id": "120245691436380548",
+      "session_id": "7152659064879796557",
+      "num_received": 4136,
+      "num_invalid_entries": 0,
+      "invalid_entry_samples": {}
+    }
+  ],
+  "date": "2026-04-21",
+  "lookalike_audience_id": "120245691499170548",
+  "lookalike_audience_name": "Lookalike - NPPES PMHNPs + Psychiatrists 1%"
+}

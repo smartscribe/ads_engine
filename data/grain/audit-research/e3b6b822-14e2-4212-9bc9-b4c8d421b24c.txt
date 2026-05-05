@@ -1,0 +1,63 @@
+Christopher Hume: Hey, Monica, how are you?
+Monica Dyer: Hello. I'm doing all right. How are you?
+Christopher Hume: Good. How was your trip to. How's your trip? Where were you?
+Monica Dyer: I was in Colombia and Bolivia.
+Christopher Hume: Gosh, that must have been incredible.
+Monica Dyer: It was awesome. I just.
+Christopher Hume: Oh, my gosh. Oh, my goodness. Yeah. Really? Oh, my gosh.
+Monica Dyer: Did you have patience after this? So I'm getting ready.
+Christopher Hume: Okay. Okay. I was gonna say, did you have patience this morning? Okay, perfect. Well, I think this was just a check in meeting and we can do maybe a more formal like move the ball forward next week. I think we just want to check in with you when you return just to kind of review what we're. What we talked about and kind of the next steps. So you shared your template with us. We're finalizing that up and it should be locked and loaded shortly. And then you'll be able to play around with jot Psych. You'll have access to the JWT audit features and so I can show you where to find those.
+Monica Dyer: Okay. I don't think I shared a template because I don't really have one. The headway one.
+Christopher Hume: The headway one. Yep. So we're just finishing that up.
+Monica Dyer: Yes. Chat audit is on here. And then you guys are still on track with prescribing?
+Christopher Hume: We actually have prescribing, so that rolled out last week. So we have prescribing and we're actually rolling out. The other thing I want to tell you, Monica, was our credentialing support. So I'm not on that project, but if you'd like to kind of start using kind of John Audit, the new template and then our prescription and, and get. Use us to get credentialed. We can certainly help with all of that.
+Monica Dyer: Okay. I started before I left with like, I think like 17 payers, but.
+Christopher Hume: Oh my goodness.
+Monica Dyer: Yeah. So that. Yeah, I'd love to hear more and just compare in case. Okay. Add any others.
+Christopher Hume: Oh my gosh. How long did it take you to submit all the paperwork for 17 pairs?
+Monica Dyer: No, no time. I just gave him my login for caqh. Okay. They're doing it. So they had to apply for a second NPI for me.
+Christopher Hume: Okay.
+Monica Dyer: Which I didn't realize. And. Yeah, it's just all in process. That's all I know about it.
+Christopher Hume: Super. Yeah. Super interesting. Slow process from what I've heard.
+Monica Dyer: Yeah, for sure. I was glad I got it moving before I left. So, yes, I'm traveling, but I still have things.
+Christopher Hume: Still have things cooking. Right. Okay. Well, wonderful. So, Makai, this was just supposed to be, I think, a check in reminder of who we are and what we're working on for you. So you'll see the headway template loaded up shortly and then I think sort of next week if it would make sense for you, we can just make sure that the template's working, make sure jaw audits working and then if you'd like, get you access to E prescription.
+Monica Dyer: Okay. Yeah. Is there, is there a trial with that? Kind of see how it works.
+Christopher Hume: So I think the Trial month is $10 to try E prescription. So it works as we say. I'd be in the meeting too, but my colleague Lee is our engineer who manages all of our E prescriptions.
+Monica Dyer: He'd turn it on.
+Christopher Hume: He'd turn it on for you. We'd make sure everything's working with jot audit and your template. Then you can see kind of how we're working for you and if you'd like to proceed kind of down the billing pathway.
+Monica Dyer: Okay, cool. Good. Yeah. And I think, see I've been playing with the audit.
+Christopher Hume: Okay.
+Monica Dyer: Yeah, I just looking at encounter audits. I done them and to see how it came out compared to my codes, that's been useful.
+Monica Dyer: But yeah, once I start going by not by headway but by my own billing will be a lot more.
+Christopher Hume: Yeah, of course. Right. Well, perfect. I always joke I'm not known for ending meetings early, but I certainly can give you some time back on your first day. Would next Monday at 2 the same time just work to kind of check in on everything, see how it's been working once you start seeing patients again and then get you or at least show you jotrx to see if that'd be of interest.
+Monica Dyer: Yeah, that works.
+Christopher Hume: And I'm sorry, I meant to eastern. I remember you're in Austin.
+Monica Dyer: That's fine. Yeah.
+Monica Dyer: RX intro and jot audit and then I have some colleagues that are interested in trying things out. Is there. Oh, wonderful. Anyway, any good way to refer people?
+Christopher Hume: Absolutely. Let me. Sorry, I joke. I would make a terrible clinician. I can't type and speak. I'm sorry. Monica, what is your email address? Rosewater Wellness.
+Monica Dyer: Yeah, Rosewater Wellness Care at gmail com.
+Christopher Hume: Oh, there we go. So I can show you how to share this with your friends. And to make sure you get the. The bonus, if you go to your home screen. And then could you actually share screen. Would that be possible?
+Christopher Hume: Yeah, I can walk you through.
+Monica Dyer: Oh, there. My screen was cut off there. Cool. Got it.
+Christopher Hume: Perfect. So. Oh, there it is. If you see in the top right, copy referral link. So if you. If you share that in an email or a text to your friends, they could just click on it, sign up, and you put. You get 50 bucks off, and they get 50 bucks off too.
+Monica Dyer: Okay. And then one colleague had asked me if we can schedule clients through, and I was like, I'm pretty sure I haven't gotten to that.
+Christopher Hume: But using that schedule feature.
+Monica Dyer: Mm.
+Christopher Hume: And then you put in your patient, and it'll send a reminder to them as well.
+Monica Dyer: Okay. And then. But not messaging to patients, right?
+Christopher Hume: Not yet. No. That's something we're working on right now. It's just the automated reminder. You can't, like, send a custom message.
+Monica Dyer: Okay. And when you schedule, does it give them any link to join?
+Christopher Hume: So you still have to do your own. Yeah, your own. Because most of our customers still use Doximity, so we don't have a link yet. But again, that is something we're working on. On moving the recording within jot Psych itself.
+Monica Dyer: Okay. And I'm trying to see if there's, like, a way to. Can you paste any note or, like, link into the.
+Christopher Hume: Unfortunately, not yet. It's just the standard, like, hey, you have an appointment tomorrow, or you have an appointment later today. But it's certainly. Certainly something I've been. I'll keep begging the engineers for, because I think it would add a lot of value.
+Monica Dyer: Yeah, definitely. Because. Yeah, it's confusing to get two different scheduling emails as a patient.
+Christopher Hume: Oh, my God. I know. Everyone has enough emails and enough texts without adding to the confusion.
+Monica Dyer: Definitely.
+Christopher Hume: Anything else I can help with, Monica?
+Monica Dyer: I think that's all. Thank you so much.
+Christopher Hume: No, thank you. And I look forward to showing you E Prescription next week. Good luck on your first day back.
+Monica Dyer: Okay. Yeah. Coffee. Skicking in?
+Christopher Hume: Yeah, right.
+Monica Dyer: 30 minutes. All right. Thank you. Chat later. Bye.
+Christopher Hume: Bye.
+Monica Dyer: Bye. Bye.

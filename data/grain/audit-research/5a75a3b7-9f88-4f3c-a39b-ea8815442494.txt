@@ -1,0 +1,40 @@
+Christopher Hume: Hey, Lisa, how are you?
+Lisa Donovan: Good. How are you?
+Christopher Hume: Wonderful. Thanks for joining.
+Lisa Donovan: Yeah. Thanks for having me.
+Christopher Hume: Of course. So I'm here with my colleague. Brian. Ryan will actually be kind of running the call today. But we're here to just support you and just see how we can get you up and running with jet psych or fix any issues you're facing.
+Lisa Donovan: Perfect. Great. Yeah. So the one thing that's happening is I have one patient that I've saved in that psych that it's not letting me edit at all.
+Christopher Hume: Interesting. Well, I think, Lisa, the first thing here. Would you be able to share your screen?
+Lisa Donovan: Yep, absolutely.
+Christopher Hume: Just to introduce ourselves quickly. I'm sorry. I was so excited to help, I forgot to kind of say who we were, so. I'm Chris. I manage kind of our customer success and customer support activities at JOT Psych. And this is Ryan, my colleague. Ryan has kind of just started at JOT Psych. Last week, so we're getting him up and running. So he's starting to take over some of my calls and help out. But I'll be here as the phone a friend.
+Lisa Donovan: Okay. Perfect. Awesome. Well, good to meet you both.
+Ryan McAnelly: Oh, you, too? So is this the patient here that you've been having issues with?
+Lisa Donovan: It is not. No. Let me go to that patient. Yeah. So, first off, I worked with Becca maybe two weeks ago, maybe last week, and she helped that my style of writing is now good. So now that I see this patient, these notes come out the way I need them to. Previously, I had to edit every single one to get it the way I wanted. So I don't know if I'm gonna ever need to edit this patient again. However, when I go to AI, Let me move you guys out of my way. Not big or small. There you go. So if I go here and I say, I don't know. What's something I want to edit? Take out fatigue. Or it'll just freeze. Can you all still hear me and see me?
+Ryan McAnelly: Yes. Okay.
+Lisa Donovan: Just making sure my computer didn't freeze.
+Ryan McAnelly: Okay, great.
+Lisa Donovan: Oh, now it wants to work.
+Christopher Hume: Always how it happens, right? As soon as you get the help, the it on the line, everything works.
+Lisa Donovan: Yeah, because this. This wasn't happening. It was saying, I don't know what you want. It was like, not sure what you're asking for over and over again. So let's see if it does it.
+Ryan McAnelly: 's thinking how. How he liked the. The software so far.
+Lisa Donovan: I really liked the old version. I liked being able to say when I really liked the system and like being able to give feedback to it so I'd be able to do like the thumbs up this is and say why I really liked that. And then I could see how it would continue to do things that I really liked of, like different statements. It would say so I wish I could give it feedback. Oh, see, now there's there. Okay, take it out. Okay, great. So it's doing it now, but, yeah, it wasn't taking any of my feedback before.
+Ryan McAnelly: No, I'm glad it's working now. And thank you for the feedback and what you've liked in the older version. I know as a software, as a company, we're always, you know, evolving, changing, taking, you know, customer feedback and, you know, adding that to a roadmap. So it's definitely something we can certainly bring up. To our team as they're looking at changes down the road.
+Lisa Donovan: Awesome. Yeah, I appreciate that.
+Christopher Hume: Just to jump in here, Lisa. Does it always take? So it either doesn't work. Sometimes. Or it takes a really long time to make your changes.
+Ryan McAnelly: That's the main go ahead.
+Lisa Donovan: Yeah, I was going to say it hasn't taken this long before this has been the patient that this is. I've only had, like, issues really with it doing anything for this specific client. But, yeah, I've never seen that long.
+Christopher Hume: Okay, well, Ryan and I, we're the. Not the engineers on the team, so typically, we can help qc, and if there's a little thing, we can fix it. But there is, just to kind of validate the concern here. There's definitely something going on behind the scenes. On the engineering side, there's. No way this should have taken so long. You're getting that weird error. The fact that you've had this issue happening before is very, very concerning. So Ryan and I are going to take this. Yeah. Directly to the engineering team. We have a list of issues that they're working to resolve today, and we're going to add this to them to see why this is happening. But are there any other issues or is this just the big one? It's either not listening to your edits or in this case, and hopefully not in future cases, but taking a really long time.
+Lisa Donovan: Yeah. You know, I had a question about having different templates. So I have this template which I use for individual, and then I have another template that I use when I'm working with couples. And it's a similar issue that I had with this individual note or individual template where if I ask for an edit on OneNote within that template and then I say, yes, train it for all of these notes that are in that template. It's not sticking and I don't know why. Like, it keeps doing bullet points each time. And I keep saying, I don't want bullet points. Please keep it in paragraph form. And it's like, okay, great, trained. And then I do another session later on, and it's still not doing that. And I don't know. Yeah. I don't know. Maybe it was the same similar situation to what was happening here.
+Christopher Hume: I would guess that there's a connection here in terms of kind of that issue, the not listening to you or saying it's listening to you and not integrating. But that additional information is really helpful, so we'll make sure that that's included when our engineering team goes blunking to see what's wrong here. I'll make sure that they're aware that you're facing both those issues. Sometimes it won't list at all, and sometimes it tells you it's listening. And then the next node, it's not so frustrating.
+Ryan McAnelly: Yeah.
+Lisa Donovan: And, like, again, Becca did an amazing job, like, so much. Credit to Becca for help her help with this specific depth note. But the other thing I had a question on is if I'm asking it to train, so if I'm talking to AI for this specific template, It's only knowing to do that for this template. Right. It's not going and saying, like, oh, for all templates that you have, it, like, knows that they're different. Right? Okay.
+Christopher Hume: Yes.
+Lisa Donovan: Okay, great. We have.
+Christopher Hume: Go ahead. I was going to say we have our marching orders on things we need to fix for your Lisa. Is there anything else we could help with today? Maybe something riding? Okay. Okay. Sorry we weren't able to fix it on the call, but we'll get to the bottom of this.
+Ryan McAnelly: Yeah.
+Lisa Donovan: I appreciate it. Yeah. Again, like, Becca really helped with being able to get the note to a place where I can not have to worry about having to rewrite the whole note. So I'm. I'm feeling pretty good about that.
+Ryan McAnelly: Awesome, lisa. Thank you for your time, and we'll be in touch with solutions.
+Lisa Donovan: Awesome. Thanks again. All right, you guys take care.
+Ryan McAnelly: All right.
+Lisa Donovan: Bye.
+Ryan McAnelly: See ya.

@@ -1,0 +1,48 @@
+Lee Harrold: Organization. Been made a demo.
+Jackson Bierfeldt: Okay, great. Is this the same meeting that we're doing? The eligibility. Can we start with that? Because I only have nine minutes and I really want to see that.
+Lee Harrold: Yeah, we can do that.
+Lee Harrold: And the other one, I think is a little more something dry.
+Jackson Bierfeldt: But this one I just like to get the demo on, if that's okay. Is that okay with you too, Adam?
+Adam Harrison: I just grab you later today?
+Lee Harrold: Okay, so adam. I need to add this static feature to your account.
+Adam Harrison: I added some patient data for a different drop bill person. If you wanted to, we could do the demo on those folks.
+Lee Harrold: Yeah, that would be good.
+Lee Harrold: I count information.
+Adam Harrison: Do you want me to log into the billing account for her?
+Lee Harrold: For Angie. Do that, and then we can enable. The flag for that account.
+Adam Harrison: Okay? Hold on. So this is the account if you want to enable the flag. And I'll log in. Share my screen. Okay? This guy. I think I added it.
+Lee Harrold: Awesome. Okay, so I just enabled it. Stats here. You can go to. Keep my Craig's account, and then there should be a billing tab.
+Jackson Bierfeldt: Getting a fail for all users.
+Lee Harrold: But there's credentials into stats. Make. Sure. Let's see if it's keying off of an organization. All right. Looks like I also have to leave a three. Let's add this, Oregon, see if that works for us.
+Adam Harrison: Should I give another try?
+Lee Harrold: Okay. Yeah, I got pass here. So I think we have somewhere between five and 10 seconds before we see stuff.
+Adam Harrison: There we go.
+Lee Harrold: Hey. So, yeah, you can initiate an individual eligibility check here. So this will run it for this patient. Looks like we don't have a billing MPI set up on this account. So we'll need to. Set that up and then rerun an eligibility check. Do you know if you have billing? Object associated with this boost account. Let's find it so we can go to your practice. It's to record at the top left. In the middle of the screen.
+Adam Harrison: Sorry for your practice.
+Lee Harrold: Yeah. Don't know where in here.
+Jackson Bierfeldt: Practice settings, clips, billing and claims.
+Lee Harrold: Bonnie claims. Yeah.
+Jackson Bierfeldt: You're trying to see if there's a billing identity. Almost positive there is.
+Lee Harrold: Yeah. It says there's one there. Healing Identity.
+Lee Harrold: Wonder why it thinks there isn't an MPI associated with that.
+Lee Harrold: I can dig up to login.
+Adam Harrison: It shouldn't need an FGI to do an eligibility check either.
+Lee Harrold: Oh, really?
+Adam Harrison: Conceptually, right? Yes.
+Lee Harrold: That makes sense. Conceptually. The API requires an mpi. But you're right. If an eligibility check is this patient. Allowed to receive care. For a given cpt code.
+Jackson Bierfeldt: The API requires npi number.
+Jackson Bierfeldt: Okay, so then we need one.
+Adam Harrison: Is the billing MPI or the provider mpi it requires.
+Lee Harrold: I think there's the billing.
+Jackson Bierfeldt: MPI could be the billing.
+Adam Harrison: Yeah, okay, because I don't actually remember, but it's her billing mpi.
+Adam Harrison: So what that means is.
+Adam Harrison: Okay, they're going to have to enter that to due eligibility check, so. That's helpful to know, but it's like some org thing, because I'm not an individual user, and maybe it's looking for my individual.
+Lee Harrold: Take some time and understand what happened here. But in the meantime, I'll show you. If you wanted to run a batch to eligibility check, if you go to the URL at the top. Just type eligibility checks. Oh, that makes sense. It relies on there being appointments. So if you have appointments. It will check all appointments you have in the next two weeks. And then those will populate your table here. And then running eligibility checks based upon a purpose dedup appointments. And then run a batch check for all the people there, and then the results will show up in your personal calendar.
+Adam Harrison: Super cool. One thing here, I think what's happening is I don't have appointments because this is a billing account. Provider has appointments. It's another one of these group board, calendar view thing where there's probably just like a drop down here that.
+Lee Harrold: It's like select.
+Adam Harrison: Whichever that is. Yeah.
+Lee Harrold: Oh, that. Makes sense. Yeah. Because we already have worldwide apartment sharing, so it would make sense for us to pick the provider in here. Cool.
+Adam Harrison: I got a hop, but thank you, Lee.
+Jackson Bierfeldt: Thanks, Lee.
+Lee Harrold: See you.

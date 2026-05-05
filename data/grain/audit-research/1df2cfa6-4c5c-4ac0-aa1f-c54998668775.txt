@@ -1,0 +1,51 @@
+Becca Bressler: I'm sure it's very confusing. How's it going? Happy Monday.
+chelsea.davis: Happy Monday. How are you?
+Becca Bressler: I'm good. How are you doing?
+chelsea.davis: Good. Thanks.
+Becca Bressler: Let me know how I can help you.
+chelsea.davis: My jet. Psych. Is not letting me record things.
+Becca Bressler: Yeah. Do you want to share your screen with me and I can look at what you see?
+chelsea.davis: Yes. Now. I can't find my. Oh, there it is. Okay, let me just. Make. Sure. Okay. So then when I go to record, it's been doing that stopping thing.
+Becca Bressler: Okay? Yeah. Let me. Give me one second. I just want to ping my team about this. Before or. Actually, I'm just going to put it in customer support channel. Okay. Yeah. So. Sorry. Sorry. And you're saying, yeah, that's strange.
+chelsea.davis: And then also when I go to put in a note, I did like two notes and it didn't. Once everything was on this new jet. Psych. I haven't been able to. I think I've only been able to do one note. And it was very short. Like he didn't catch the whole. Conversation. So I don't know if I wasn't using. Normally I just hit record and then I do. This is how I did it was attach a patient, which usually normally I'll put in my patient's name and then hit record. But it doesn't let me do that.
+Becca Bressler: You're saying it doesn't let you pick your patient first.
+chelsea.davis: Right, okay.
+Becca Bressler: Let me. Stopping. Do you have any other jobs, like Tabs open?
+chelsea.davis: No, just that one.
+Becca Bressler: Okay. The one thing. So I'm going to let my team know about this issue. Can you actually give me one second? Because I actually want to ask my colleague really quickly if he should look at this now. Or I can just. Yeah, if you don't mind giving one second because we're working on this particular. Part of the product, so just give me one second. Okay, I'm just going to pass along your user info and one of the engineers can take a look at it. The way to address this stopping issue right now is to clear cookies. So do you know how to do that?
+chelsea.davis: No. They've told me so many times, and I always forget.
+Becca Bressler: Let me pull up my sort of how to. So I'm directing you in the right order because it's not very intuitive at all. So just give me one second. So this new recorder screen that you're seeing, we sort of rebuilt our recorder. We have users who have a lot of issues with the microphone and not capturing audio. And often that's because they have a lot of different mics and dots. Like, wasn't telling them, like, hey, we can't hear you. Or we're not hooked up to the right mic. So that's why you're seeing this dancing green stuff. And we'll alert you if there's wrong permissions, but just to give you a little more context of why you're seeing the difference, but let me pull up this, like, clear. Cookies walk through. All right, so you should see three vertical dots on the upper right of the browser.
+chelsea.davis: Okay.
+Becca Bressler: Do you see something that says delete browsing data? Yeah. So you can select a time frame, like, typically, the last week should cover it when you see this error, but you could also do all time and make sure that the cookies and cached images and files are selected.
+chelsea.davis: Okay?
+Becca Bressler: And then you'll just click Delete Data. It will ask you to sign into JOT Psych after this again. Chelsea. It looks like there's now three of you in this call. Chelsea.
+Chelsea Davis: Can you hear me now?
+Becca Bressler: Yes, I can hear you.
+Chelsea Davis: I think it's because I press delete the.
+Becca Bressler: Oh, yeah. Probably logged you out or something like that. Do you want to share your screen again? And also just to confirm, is your email associated with your dropsec account? Chelsea davis3gmail.com yes.
+Chelsea Davis: Yep.
+Becca Bressler: Because I'm going to have an engineer look into this.
+Chelsea Davis: Log back in the job site.
+Becca Bressler: Okay, let's see how that. Let's see what happens there. If we go to record.
+Chelsea Davis: Okay? So it works. I guess that's all I needed to do.
+Becca Bressler: Okay. Can you try attaching patient right now? I'm just kind of curious if.
+Chelsea Davis: That. 's. Yeah. So this was one of the ones that didn't catch on Friday.
+Becca Bressler: Did you see this screen on Friday, or is this new for you as of today? This must have been something you saw Friday, then.
+Chelsea Davis: Yeah, I did see this on Friday.
+Becca Bressler: Okay. Do you mind? Actually, because I want to give my engineer the session also. That didn't seem to go through, but let me see. Let's see. What date was Friday? What? Around what time was this session?
+Chelsea Davis: Let me see. I can actually tell you. Let me just go to.
+Becca Bressler: My.
+Chelsea Davis: It's logging me out of my.
+Becca Bressler: Work.
+Chelsea Davis: Sign back in. I want to say she was my 9 o'clock. But. That would have been 35 at eight. 8:00.
+Becca Bressler: In the more 8:00am okay, let me just make sure. Three. What time zone are you in, Chelsea?
+Chelsea Davis: Mountain time.
+Becca Bressler: Mountain time, ok? 358 am. So this is probably. Let me. See? Alrighty. I'm going to send this over to my engineer. It? Captured some of it? Is that what you're saying?
+Chelsea Davis: No, this one didn't capture any.
+Becca Bressler: Did it look like it was recording, or do you. Do you not recall? It did, yeah. Like you saw the waveform kind of moving. Okay?
+Chelsea Davis: I think maybe there's another.
+Becca Bressler: Okay. I'm passing this along to my engineers. They can, like, take a look at why this might have happened. The clear cookies issue for now should help get you, like, moving forward and stuff, being able to use the recorder and selecting patient. But, yeah, we will. We'll look into this issue and see if we can. Kind of understand why that happened, but is there anything else I can help you with at the same time?
+Chelsea Davis: No. No, that's it. Thanks so much.
+Becca Bressler: Awesome. Have a good one.
+Chelsea Davis: You too.
+Becca Bressler: Bye.

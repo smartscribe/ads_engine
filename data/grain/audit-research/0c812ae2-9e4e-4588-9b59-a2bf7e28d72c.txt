@@ -1,0 +1,122 @@
+Jack Waugh: How are you?
+bbwatkins: Good. How about you? Sorry I ran late.
+Jack Waugh: No worries there. No problem at all. Yeah, but so my name is Jack. I think you were talking to my colleague Chris earlier over on the phone and yeah great to talk to you and meet with you. Appreciate you taking the time today.
+bbwatkins: Well likewise.
+Jack Waugh: Yeah well I just kind of wanted to hear you know if you already told Chris about some of this apologies for asking a second of time but just kind of wanted to go through and hear a little bit about how you found out about Jot Psych and kind of what made you interested in wanting to try us.
+bbwatkins: Sure. Well. I'm a therapist and documentation has always been an albatross. I mean for real. And if I could change that if I could change anything in my life I think that's what it would be.
+Jack Waugh: And can you kind of walk me through that a little bit like what what's your current note taking process like right now?
+bbwatkins: Well I have a choice of. Typing things in to a SOAP format. And I'm just not much of a typist never have been. I just never really got the hang of it. And I can also just hand write a note. And scan it in. I know that's not exactly the wave of the future but sometimes I do that it kind of depends.
+Jack Waugh: Gotcha. Okay, that makes sense. Yeah, so basically time saved on notes I would say it seems like that's kind of the key for you is being able to save the time there so you're not having to type at all or handwrite it. Is that right?
+bbwatkins: That's right and also not to have to rehash thinking about it. You know just have it done.
+Jack Waugh: So the ideal then for you would be to kind of like have it maybe even be done before the next patient walks in kind of like once you that would be awesome.
+bbwatkins: That's always my goal but it rarely happens.
+Jack Waugh: Yeah and that's good to hear. You know that's actually how we're designed to be used. That's how we set up Jot Psych. So we've made it so that you have a fully HIPAA compliant note ready to go. For you to just look over check off and copy and paste before your next patient walks in.
+bbwatkins: Boy that's awesome.
+Jack Waugh: Yeah it's a huge time saver and that was the other question I was going to ask you like do you know like about how much time you're spending between all the notes and charting and administrative work like on average per week.
+bbwatkins: Four hours probably.
+Jack Waugh: Yep yeah so I mean people who switch to jot psych I've heard people save like over 10 hours on average it's normally up to eight. So if you're spending four hours you might save. Three three and a half depending on how how you use it. So it could be a huge time saver. And I'll kind of show you how that works. And share my screen in just a minute. But yeah before I jump into that any other things you were hoping to be able to use jot psych for that you were hoping we might be able to do or any other needs you might have that you're kind of looking to solve.
+bbwatkins: Yeah. I would. Sometimes help people with interviews to just help them get some things written up without. Some people. Since I know how to interview people obviously sometimes they ask me to do that.
+bbwatkins: And some this particular person I'm going to get together with her next week but she has a legal issue coming up. And her attorney asked her to write up a summary of some recent events. And she said she's actually a decent writer but she says I'm just having a hard time. I think she's stress related. If you could ask me the questions I think I could pull it together better and I thought well you know if we could do this. If I could use jot psych that would be. Real really good yeah.
+Jack Waugh: So and then it's almost like being able to use it to generate like an email kind of summary to the patients is what you're talking about if I'm understanding correctly.
+bbwatkins: Or is this I guess. Something like that. A general summary.
+Jack Waugh: Gotcha. Okay general summary that you can you can share with with patients right okay perfect we so we do that as well I'll show you how where that is. And then okay before I share my screen just two other questions to ask you there are you like did you already sign up for a jot psych account like do you have a trial account with us right now?
+bbwatkins: I don't think so.
+Jack Waugh: Why don't I walk you through how to do that first because that way when I share my screen you can actually like follow along with me.
+Jack Waugh: And sort of like that way it's not just like I'm showing you all these things you can kind of like click as I'm doing it in front of your computer right now.
+bbwatkins: I am not.
+Jack Waugh: Okay no problem I'm guessing maybe is this not a good time to be in front of one right now for you?
+bbwatkins: I don't have it handy it would be kind of. Time consuming for me to get to one
+Jack Waugh: sure so what we can do then is I'll give you a quick overview today and we can meet again when you can maybe get in front of one and I'll kind of show you what we do I did also want to ask you are you like involved with billing at all at your practice?
+bbwatkins: I'm not.
+Jack Waugh: Gotcha they're kind of taking care of that and handling
+bbwatkins: yeah I mean I've done it in the past but I'm currently in a situation where it's done for me.
+Jack Waugh: Sure just something I ask that's something we started doing as well pretty recently but it's just something I like to ask people just in case okay so let me go ahead and share my screen here and I'll kind of show you how jot psych works and kind of how we can. Help you with some of those things you were mentioning can you see this okay?
+bbwatkins: Sort of kind of.
+Jack Waugh: Okay.
+Jack Waugh: So this is the basic workflow using Jot psych and again if any questions just feel free to stop me at any time.
+Jack Waugh: But I'll just give you a basic overview so it's really easy to use and basically the way it's set up we've trained our scribe on notes that were more likely to get approved through insurance for mental health clinicians. So the notes that were creating are fully HIPAA compliant and they were like really really accurate for psych professionals. Okay. So first step patient walks in you just click on this little record button up here at the top. Okay you can enter their name up here. Actually that is a preexisting patient but if you see here there's attach patient so you can add a new patient you can enter their name youe can also leave it blank some people don't like to add patient identifiers it's totally up to you but we don't store any information either way so we can't see it on our end. You would just select which type of note you want us to populate so in this example I have like an intake so that would be like a new patient but are you using I think you said you were doing a lot with like soap notes.
+bbwatkins: I hate soap notes but that's kind of what we what the practice fusion is what we use and that's built in
+Jack Waugh: what would be your preferred format? If you like that you would like to use or is it only soap notes? That you guys are looking?
+bbwatkins: Well I sometimes I don't just I just don't do all the. All the parts. And just you know just whatever is the simplest is sure
+Jack Waugh: well that would probably be our intake and our progress note template so that's already set up ready to go intake is just if a patient walks in for the first time progress note is any follow up notes that they make. So all you do is you just select that here and then you just hit start recording.
+Jack Waugh: Wow okay so basically I'll let this go for a second just so you can see the process so you don't have to do anything you're in your session right now with the patient you guys are talking and then we'll pretend it's 30 minutes later or something. And then you just hit end recording. And then just make sure you hit see this generate note button. Here. And then we'll just generate a fully HIPAA compliant note for you I'm leaving this up so you can see how long it takes it's normally like under 30 seconds it's really quick Obviously this won't give us a real note because we didn't do a real patient session but I'll show you what one looks like. Okay that's about how long it takes typically and then here's an example so I don't know if you can see this I can definitely read some of it out if it's too hard to see I can see it okay. So we have a summary here. Okay. Chief complaint. HPI here so that's like the full history of this patient.
+bbwatkins: Would that have been previously. Entered?
+Jack Waugh: Yeah great question so it depends if you are using a progress note then yes we'll carry over the information that you've already done but for this case this would be like because I just did an intake template so this would be like the first time you saw a patient oh okay okay but yes absolutely so if you use the progress note it'll pick up the information from the previous session.
+bbwatkins: Wow.
+Jack Waugh: And that includes medication so any changes to their medications will get picked up here. Okay sleep history if you do like tests like the PHQ or the GAD seven those scores will be updated here. Safety assessment. We also automatically DSM and ICD codes I don't know if that involved with that but it's a nice feature to have so yeah. We'll kind of tell you and automatically pull up whatever diagnosis codes and ICD and CPT codes based on the patient encounter so okay.
+bbwatkins: It narrows it down I guess and you can just but you can add a different one I guess if it's not correct
+Jack Waugh: yeah and if you ever wanted to change it you can always just edit that or you can use this little notice assistant here to tell it how you like it to write in the future or how you like it to spot codes for you but this section is typically pretty accurate.
+Jack Waugh: So it should work without much issue and then yeah if you ever have one you want to leave off you can just delete it.
+bbwatkins: Okay.
+Jack Waugh: And then I know you were asking about the email or like a summary we also generate this follow up email here. To your patient so that's automatically written up for you in this note.
+bbwatkins: Okay.
+Jack Waugh: And then once you're done looking over the note you would just hit this little copy all sections button here. And just paste it right into your EHR.
+bbwatkins: Wow okay.
+Jack Waugh: So yeah my God yes yeah it's it's definitely something that just helps you be more present with your patients and not so focused on having to catch every detail it's just you know you get to kind of hand that off to the AI and then you can just look at the note when you're done just to review it and it's pretty much good to go.
+bbwatkins: And you can copy and paste and it delete and all of that.
+Jack Waugh: Okay absolutely so if there's ever anything you need to delete here you can just take it out. Okay copy and paste whatever you need to do to it.
+bbwatkins: I mean there every now and then there's something you just really don't want to document.
+Jack Waugh: You know.
+Jack Waugh: Yeah I totally understand that so yeah you can always take anything out like this is very adjustable so if there's ever something that you want to not be in there you can easily delete it before you copy it so okay. So I'll just pause there for a second does that all make sense so far?
+bbwatkins: Definitely sure.
+Jack Waugh: Awesome okay yeah that's like I mean that's the basic sort of workflow using jot psych I'll show you something else cool I don't know do you spend a lot of time like generating or having to like write up clinical documents for patients.
+bbwatkins: Oh I do and I normally I enjoy writing. But this is just.
+Jack Waugh: It's just tedious yeah so this was a common complaint we were getting all the time so we actually built an auto document writer into this too oh my God okay so basically you would go to that patient tab there and you click on name and you just click documents and then let's say I mean this is like an animal support accommodation letter you can type in anything this is just one example. You can do prior authorization but we'll just kind of write it out for you in like five seconds.
+bbwatkins: Oh my gosh okay okay. The main thing I end up doing is. Oh summaries for people applying for disability or FMLA or that type of thing yep so for disability.
+Jack Waugh: Said FMLA or disability so let's just say yeah right. You could just type that in. And it'll write you that accommodation letter. Too.
+bbwatkins: My goodness okay.
+Jack Waugh: And that's. Pretty much wow workflow with jot psych. Yeah. So any questions on any of this.
+bbwatkins: Well it seems pretty amazing.
+bbwatkins: Yeah I do have one question are you are you a therapist?
+Jack Waugh: I'm not no so I work for jot psych you know I definitely work with therapists all the time being a part of jot tech but no I'm not a therapist myself.
+bbwatkins: You seem to have this terminology down.
+Jack Waugh: Well I like to think so you know we so we actually started this company it was it was cool because the way we started this company was specifically for therapists so a lot of how we're you know we've built it out has been to you know have these understandings in mind kind of right so we definitely we know the pain you guys feel for taking notes and we understand the burden of so yeah. So it's our job to kind of help you carry that and maybe even take a lot of it away. So. Like $20. And then you get, I think that's like 45 days to keep using jot psych and kind of checking it out. Does that sound good to you?
+bbwatkins: Sure. Oh yeah.
+Jack Waugh: Awesome. Let me go ahead and see if I can help you get that. Although I think you would probably. Are you able to get to a computer right now or. Is now a tough time?
+bbwatkins: I'm just not. I'm at home. I.
+Jack Waugh: Yeah. Okay. That's totally fine. So when we talk next, then I can help you get signed up for it then.
+bbwatkins: Okay.
+Jack Waugh: So why don't we plan on talking. Do you have any time? Would you be in front of a computer on like Monday?
+bbwatkins: Actually, I'm taking off work. So next week. So I'm. Things are pretty, pretty free and clear.
+Jack Waugh: Oh, okay. Awesome. So, so then would Monday be cool for you? Would that work?
+bbwatkins: Yeah, that worked fine.
+Jack Waugh: Okay. Are you Central time?
+bbwatkins: I am. Yeah.
+Jack Waugh: I'm looking at my schedule here. How is. Like, 1pm Central time on Monday for you?
+bbwatkins: I need to do. I think I actually, I'm, I've got a lunchtime meeting. So a little later or in the morning would probably be a little better.
+Jack Waugh: Sure. Actually, I could do. I could do 9 a.m. central time.
+bbwatkins: I could do that.
+Jack Waugh: Okay. Let's go ahead and do that. Oh, I'm going to just get you on this meeting here. It's the same thing. Just another Google link that I'll send to you.
+bbwatkins: Okay.
+Jack Waugh: Awesome. Well, yeah, I'm excited for you because I know this is going to be like a huge Time Saver.
+bbwatkins: So definitely. I sometimes supervise students. Would it be, can I, can my students. Use this under me?
+Jack Waugh: You know, that's a good question. Typically it would probably work best if they had their own, like, trial account. We could get you signed up with, like, multiple users on an account, but that would be a little bit extra depending on what you're looking for. Okay. So there is an option to do that if you want to have, like, multiple users under one account. That is something we could do for you. I don't know if it could just be like they all can log into your account because it might not work. As, as well that way. But we can definitely, like, figure out some options there. I can make a note. When we talk on Monday.
+bbwatkins: Sounds good. Yeah.
+Jack Waugh: Cool. Okay, just give me one second here. I'm going to go ahead and just. That meeting link together. Okay. And this email here is okay. Looks like it's. BB Watkins at fanad.net.
+bbwatkins: Correct.
+Jack Waugh: Huh? Okay, perfect. All right. You should be getting a confirmation email here. If you don't mind checking real quick, let me know that you.
+bbwatkins: Yeah, I could do that.
+Jack Waugh: Okay. It's like to make sure it goes through.
+bbwatkins: Yeah. Well, I don't see it yet. Let me.
+Jack Waugh: Looks like it. I think it just came in on my end.
+bbwatkins: Oh, okay.
+Jack Waugh: Yeah. Sometimes it takes a sec.
+bbwatkins: Well, not quite yet.
+Jack Waugh: No problem. We'll give it a. Give it a quick second to see if it was. Oh, and I was going to ask you also. I think it sounded like when you were talking with Chris, maybe you had said there were some other providers at your practice who might be interested. In jot. So I don't know if there's, like, a good time for that. I guess you're off next week, so maybe we can start with just getting you set up. But, you know, in the following weeks to come. We could always have some of them on the next call we do. To kind of walk them through if they're interested.
+bbwatkins: So. Okay.
+Jack Waugh: The reason I mentioned that, too, is it's a little cheaper for a group practice to sign up as well.
+bbwatkins: So is it?
+Jack Waugh: Oh, depending on how many people, if it's only a few people, then it's the same. But if it's enough people that it can be a little more affordable. Okay. Did you, do you see that email in there or is it still taking a minute?
+bbwatkins: I think it's still out there in cyberspace. Okay.
+Jack Waugh: That's okay. You could try checking your spam folder.
+bbwatkins: Yeah, I've been going back and forth between that and inbox.
+Jack Waugh: Well, if it's still not there, I'm going to go ahead and send you another email just so you see the link and all the information we talked about today.
+bbwatkins: Okay.
+Jack Waugh: We'll go ahead and, you know, Monday get you set up with the trial and the discount and all that, and we can kind of touch base from there.
+bbwatkins: Okay, well, that sounds great.
+Jack Waugh: Okay. Beverly. Well, thanks. And feel free to let me know if you have any questions in the meantime, but otherwise I'll. I'll talk to you Monday. I think. I think we're muted. Here. Sorry. I can't. I think. I think you might have hit the. There's like a little microphone button.
+bbwatkins: Oh, yeah, yeah. I don't know how I did that. That's okay.
+Jack Waugh: Yeah, it happens to me all the time. Well, anyway, have a great weekend, and I'll. I'll talk to you Monday.
+bbwatkins: Sounds great. You do the same.
+Jack Waugh: Okay, take care.
+bbwatkins: YouTube. Bye-bye.

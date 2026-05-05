@@ -1,0 +1,167 @@
+Christopher Hume: Hey, Debbie. How are you?
+Debbie Dunni: I'm good. How are you?
+Christopher Hume: Good. Happy, happy Monday. How was your weekend?
+Debbie Dunni: It wasn't bad.
+Christopher Hume: That's good. Are you. Did I see that you're in Baltimore?
+Debbie Dunni: Yes.
+Christopher Hume: Okay. So we're based in D.C. so I guess you had a pretty cold weekend as well.
+Debbie Dunni: No, absolutely.
+Christopher Hume: Yeah.
+Debbie Dunni: Pretty.
+Christopher Hume: Pretty crazy year we're having.
+Debbie Dunni: Yeah, that's true. Well, wonderful.
+Christopher Hume: Well, thanks for kind of taking the time to meet and so excited to learn a little bit about. More about you and your. Your organization. So to kick us off, Chris work here at JOT Psych, just helping customers and prospective customers learn a little bit more about JOT Psych to see if we might be a fit. And typically on these intro calls, Debbie, I just really like to learn more about you and your organization and learn about why you were interested in JOT Psych at all. And hopefully I can answer your questions. If there's a good fit, we can talk about trying the software out. But really this is just a time for. For. Yeah. Us to see if there's a potential fit. Does that sound like a reasonable path ahead for you?
+Debbie Dunni: Yeah, absolutely.
+Christopher Hume: Wonderful.
+Christopher Hume: Well, Debbie, would love to hear a little bit about. I think I saw Golden Hands. Would love to hear about your organization and. And why. Yeah. Why you decided to learn a little bit more about jetsyc.
+Debbie Dunni: Yes, actually I'm looking for a site for documentation.
+Christopher Hume: Okay.
+Debbie Dunni: Clinic. Presently we have the EHR that we use. So many things I try to do with the EHR which they don't have the features. Okay. The first thing is even the ehr, they have a form of, you know, like the HIPAA compliant consent forms. But the program that we provide, we have more detailed forms that is required by the state and they don't have that in their ehr.
+Christopher Hume: Oh my gosh.
+Debbie Dunni: I reach out to what's it called, like Form Builders? Something like Form Builders to see if something they can develop the form so we can integrate it into the ehr.
+Debbie Dunni: So unfortunately they said they don't have the open API, that they don't really have the open API to do that. But I'm looking for something that is more comprehensive, that can tailor towards programs in terms of. Documentations, billing, you know, something that even if you get audit is going to pass the audit, you know. Yes, so that's exactly. So I'm kind of, you know, like I'm still shopping around to see will this be a better fit for, you know, our programs as we just, you know, because I know like when we started the program, I mean dhl, we've been with DHR for over eight years now.
+Christopher Hume: Wow.
+Debbie Dunni: Okay. Yeah, so. And I believe there are so many software out there that's new technology, integrated AI into the, you know, into it, so stuff like that. So that's what I'm looking for. That's what I've been.
+Christopher Hume: Yes, that's super, super helpful, Debbie. And I guess a follow up question there is how big is your organization? How many providers do you have and what's the breakdown between counseling and psychiatrists or psychiatric nurse practitioners? What does that sort of look like at your organization?
+Debbie Dunni: Okay, yes, so basically our organization mainly deal with counseling os. Okay, so for the psychiatrist and the therapist, basically we work with the independent ones.
+Christopher Hume: Okay.
+Debbie Dunni: Okay. Yeah. So our, for our organization is mostly counseling because we are psychiatric rehabilitation. So we partner with independent psychiatrist and the therapist.
+Christopher Hume: Okay, and how big is your team of counselors?
+Debbie Dunni: So we, for the team of councilors, for now we have between 15 and 18, but we extending to other counties. So we're looking about 20 to 20. Between 20 and 30 councillors. Yes.
+Christopher Hume: And so typically do they see their patients or clients? Do they see them in the community? So are they, do they visit them in their house or do clients typically come into the office? How does that work?
+Debbie Dunni: It's combination of everything.
+Debbie Dunni: They see them in the community, the client comes to the office and also like telehealth.
+Christopher Hume: Okay. And then what sort of notes does your team typically make? And, and when do the counselors do those notes? Do they have to do them after hours? Do they have to do them on, on weekends? Is it done during the day? How does that work?
+Debbie Dunni: It's combination of everything. So the. Yeah, so the patient have a treatment plan. So they went with patient treatment goals. So yeah, sometimes they might document the notes in the morning or some of the client. That works. So that means they have to see them in the evening, they do the documentation or sometimes they see the patient. Perhaps might be like weekend for emergency reasons or they're in crisis over the weekend they say them. So it's just combination of everything.
+Christopher Hume: Okay. And then I think my last kind of two questions here before I can give you an overview of job site and we can talk about next steps would be. So you, you, you said you're looking for something to help with billing. How does billing currently work now? Have you run into issues with, with audits from payers and who typically are your payers?
+Debbie Dunni: Typically the payers are Medicaid. We've never run into problem with Medicaid. So even if I say billing because we have external outside billers that does our billing.
+Christopher Hume: Okay.
+Debbie Dunni: So it's just like helping to run the report because we've been with the billers for like over almost 10 years now.
+Christopher Hume: Okay.
+Debbie Dunni: And we've never had any issues even Wonderful. Only two or three times we've been audited. I mean we never running. So it's doing there but where you can run the reports. But I mean with what we're doing now, even with the present ehr, we don't have problem with that.
+Christopher Hume: Okay, perfect. So I guess then just the last thing to review here and just kind of to help me craft what I show you in the little demo. Is the most important thing to you, Debbie, just more robust documentation. There's no like. Are there also concerns about saving time or, or billing codes or anything like that?
+Debbie Dunni: When you say, can you repeat that question one more time?
+Christopher Hume: Is the most important thing for you just more robust documentation or are you also interested in kind of learning about saving your providers time, improving the billing codes they use or anything like that?
+Debbie Dunni: I will say robust documentation.
+Christopher Hume: Okay, perfect. Well then I think that was so helpful. Debbie, I appreciate you bearing with me during the the game of 20 questions there. What I'd love to do is sort of quickly walk you through an overview of job psych and then provide a quick demo the software and then we can see sort of. Yeah.
+Christopher Hume: What the best next steps would be. Does that work?
+Debbie Dunni: Yeah, that's fine.
+Christopher Hume: Perfect. Before I jump in, do you have any questions or anything I can answer right off the top, Debbie?
+Debbie Dunni: No, let's just go through the demo so if I have any questions I'll be able to ask you.
+Christopher Hume: Okay, so then let me just run through a few slides really quickly here. So job psych, all we do is behavioral health. Our notes are crafted in a way that lines up with what your payers and anyone who might audit you is looking for. So we can help make sure your notes are audit proof. And we've entrusted for over 1.8 million notes. Mostly in the us but also across the globe. And we're very easy to use. You can use this on your computer, on your phone, for in person or for telehealth appointments. And I promise it takes less than three minutes to sign up. If you'd like to sign up for a trial today, Debbie, you can, you can hold me to that.
+Debbie Dunni: Okay.
+Christopher Hume: How job psych works is we can load rules into your account to make sure you're lining up with cms, ama, sort of any other organization rules you have. And then we can guarantee that your notes are going to line up with those requirements. And again, just make sure that you have that high quality, robust documentation, includes all the information you need, and make sure that you're kind of completely removing that risk of audit. So it sounds like you're doing a pretty great job of that already. And it will call out why your notes are structured in the way they are, telling you what rules are following and any adjustments you might have to make. And for a supervisor such as yourself, Debbie, you could see your entire team's notes at a glance, see if one person is maybe falling behind a little bit, they're having some lower quality notes. Jatak will flag that for you and allow you to quickly make changes. The other thing I wanted to point out to you, Debbie, is that from a job site note, you can generate additional documents. So whether that's referral letter, a status update about a patient, a workplace accommodation or a treatment plan, you could actually do that all within the software. And the RAI will help give you a really strong first draft of those documents. And again, of course, we're HIPAA compliant. And if you have any questions about our security or compliance, I'm happy to provide materials. Wonderful. That was really the main features I wanted to show you in the presentation, Debbie, just to kind of level set, do you have any questions before I kind of jump into the walkthrough?
+Debbie Dunni: No.
+Christopher Hume: And let me know if my screen is coming through. All right?
+Debbie Dunni: Okay, wonderful.
+Christopher Hume: So job site, as I said, very straightforward. To get up and running, your team, push this record button and what they can do, they can select a patient or name the note. So we'll call this example note. Then select the template. These are customizable. So ever format your team currently uses, we can create that for you within Job Psych. And then you just press this record button over here. Have your normal encounter with your client. At the end of the session, you press the big stop button and generate note. You typically have a note within 20 to 40 seconds.
+Debbie Dunni: Okay.
+Christopher Hume: Any questions there, Debbie?
+Debbie Dunni: So, yes, so for the. You said the format that we have can be customized. And so like let's say, for instance. Excuse me. So we talking about the mental status of the client. So as they speak. So it populates the notes, then the intervention, it will populate it as they go by what the custom form is. Am I correct?
+Christopher Hume: Yep. So we can customize it. So yes, we'll have those sections and all populate as required. So you can either do that as a note template or if you. So that information wouldn't be filled out by the client, correct?
+Debbie Dunni: No, it's by the counselor.
+Christopher Hume: Yep. Then that would just be automatically generated from the session and then the counselor would review it at the end.
+Debbie Dunni: Oh, okay.
+Christopher Hume: And so this is what a note could look like immediately after a session. It's a psychiatric progress note. So maybe a little robust, but so you'd have a note like this. You can make any changes required over here. You can just explain to Jot Psych. Hi, I'd like this note to be shorter. And Jot Psych can make those adjustments for you, and you can generate a clinical document right. From the note itself. So a referral, a recommendation, an authorization, anything like that.
+Debbie Dunni: School.
+Christopher Hume: So, Debbie, I know I've done a lot of talking and shown you kind of. I've run through the whole presentation, kind of run through at least the initial overview of JOT Psych. Do you have any questions? Is there anything I can dive in deeper that would be kind of helpful for you or to make this a successful meeting and information I can provide you with
+Debbie Dunni: because I think your explanation is so broad and it's more explanatory to what I'm looking for. For like the AI integrated note taking.
+Christopher Hume: Yep.
+Debbie Dunni: Which is one of the things that I believe is very, very important. So to be able to. To get paid on time without wasting much of time.
+Christopher Hume: Yeah, yeah.
+Debbie Dunni: So I believe this is exactly like I said, the EHR we've been using, we've been with them for over 80 years, so. And I believe for the AI integrated into the system will very helpful. So which I believe. Yeah, go ahead.
+Christopher Hume: Debbie, what EHR are you currently using?
+Debbie Dunni: Excuse me? It's Icannotes.
+Christopher Hume: Oh, okay. Yep. Very familiar with them.
+Debbie Dunni: Yeah, so I need something more robust and more, you know, what's it called? Anyway, that was more robust and that would less stress free because. Yeah, so rather than writing the notes, taking time for the counselors to do the documentation. So it's something they can just see the clients and automatically, you know. Now one more question. Do you guys have like a treatment plan using like Wiley or what other software do you use for your treatment plan?
+Christopher Hume: So that would actually be another thing that you could generate with this document generator here. You would say something like, please generate a docu, a treatment plan xyz and it could generate that for you and then you. Or you can generate it outside of job site and. And copy it in.
+Debbie Dunni: Oh, okay. So. So the way works is the same way, let's say patient has a treatment as a diagnosis for bipolar.
+Debbie Dunni: So you can just say, can you generate a treatment plan for bipolar disorder?
+Christopher Hume: Yep, absolutely.
+Debbie Dunni: Oh, wow. Okay. Okay, that makes sense.
+Christopher Hume: And then, so as the supervisor, you have access to everyone at the clinic. You'd have access to their notes, so you can review them, you can adjust them, and then you can also grant your billing team access as well. So they can take that and submit it to your payers.
+Debbie Dunni: Okay. Okay. Yes. So now, so another question I have. Is it. So do you have any way to. I know we said about it to customize the form. Okay, so also do you have like in the. That it's really like helping. You to. So let's say a staff is writing a notes. A staff is writing a note and in the process they don't have a complete note.
+Christopher Hume: Yep.
+Debbie Dunni: So is that something that we can develop that if that note is not completed to, to a level, it will not allow them to submit the note.
+Christopher Hume: So it won't stop them from submitting. But what it will do, Debbie, is it will flag for them that their compliance level is extremely low. And if you'd like, we also have a feature that can text your providers or your counselors as well. So like hey, you missed this in your last session. You may want to consider xyz. So jot Psych will flag it for them, suggest adjustments to include. And we'll text them. But we can't stop them from signing it if they, if they're like, nope, it's good, they can sign it. But we will flag and warn them before they do that.
+Debbie Dunni: Oh, okay, that's cool. Okay. Yes. So at least it will let us know what the compliance level.
+Christopher Hume: Yep.
+Debbie Dunni: Okay, good. Okay. Yes. So I believe those. That's the questions that I have.
+Christopher Hume: So Debbie, I think the last thing that I can show you is how we have organizations of your size try jots like out if that's something that you're interested in. As you're trying out all these new tools, we'd love to have one, two or all of your team members try out the software. And we typically do that with something that's called a pilot program. So we have a two week option, a four week option and a six week option that allow unlimited access to all of our features and kind of allow you to try us out at whatever commitment feels the most. Right. So I'm not sure. Can you see my screen?
+Debbie Dunni: Yeah, I can see two weeks, four weeks and six weeks.
+Christopher Hume: Yep. Perfect. So I'm not sure, is this something that would be of interest to you or any of your team members?
+Debbie Dunni: Yeah, absolutely.
+Christopher Hume: Okay.
+Debbie Dunni: Yes. So let me ask one more thing before we. Is there a way that we custom a form in the job site? So let's say because for the ehr, we know we have like the intake form. Form, we know we talk about the treatment plan which you know we can do like generator, which is very important. Then also another thing is the assessment which I believe can also be completed there. Now the intake form can also be included in days. Because we have our own intake form which can be a form builder inside this. So when client comes in, we can have like a tablet for them to just complete the intake and it goes directly into their chart. Zip features like that.
+Christopher Hume: Yep. So I'm not sure. Sorry, I've been jumping around while you're speaking, Debbie. But you can create custom forms in JOT Psych and I have our custom form builder up right now. So what you could do is develop that intake form or just copy it over from the physical form. You have build it in JOT Psych and then you can actually just send it out to your patient on their phone or email before they show up for the session. And they would fill it out. So that's certainly something that we can do for you as well.
+Debbie Dunni: Okay, so what happens to the ones that they don't have like emails or have a phone, but they come in? How do we do that?
+Christopher Hume: That is a great question. I think we would probably have to send it to a generic email at your organization and just say like, hey, their email is your email. And then they could fill it out on the iPad. On your iPad. Your organization's iPad when they arrive.
+Debbie Dunni: Okay, good. And once they do that, then it's kind of migrate into their charts.
+Christopher Hume: Nope. Then it migrates into their chart.
+Debbie Dunni: Oh, okay. Okay, I'm interested. Yeah, that's what I'm saying. I'm trying to look for, you know, the EHL that encompass all those features so I don't have to use the third party like a JOT forms or to kind of. Or canvas to do the form builder for me.
+Debbie Dunni: They have to upload it into the ehr. I don't. I mean, that's what I'm looking. That's what I'm trying to avoid. But I believe you have everything in built with the system.
+Christopher Hume: That's the goal. That's certainly the goal, Debbie. And so what I would love to do, if it makes sense for you, would. Would you be interested in kind of a kickoff meeting for a PI? Like, would you be interested in a pilot and I could do a little training for your team members and get them set up with trial accounts?
+Debbie Dunni: Oh, yeah, that would be great.
+Christopher Hume: Wonderful. Is there. Is there a time maybe later this week that would work for you and we can just do it.
+Debbie Dunni: Can we do. Let me look at my schedule for this Friday so I can ask everybody. Can we do virtual.
+Christopher Hume: Yep, yep, certainly.
+Debbie Dunni: Okay, good. So everybody can send the link to them and they can join. Yes. So yeah, let's put it for this Friday.
+Christopher Hume: Perfect. And then what time works for you, Debbie?
+Debbie Dunni: So can we do 12?
+Christopher Hume: Let me. Yeah, 12 is perfect. 12 to 12:30. And then my only question Debbie is do you want to do the two week, four week or six week trial?
+Debbie Dunni: Can we do the two weeks?
+Christopher Hume: I'll call it.
+Debbie Dunni: My next question is. So let me, let's just decide because like I'm impressed with all the features that you have. So it kind of elevates the stress of the third party, you know, how do we. So everything is, you know, combo. But now my concern is if I'm migrating from moving from I cannot to you. So what happens to the data will just be able to migrate.
+Christopher Hume: So I am not an engineer Debbie, so I can't promise anything. But our engineers have been able to migrate, are typically able to migrate the information over with no issues. After your pilot we would have the engineers test that out and make sure there's no concerns. But we've never had them not be able to do it. Technically ehrs have to let you export your data and they're always able to get it into job site. And we do that for customers typically for free or a very low fee once they become paying customers. So that shouldn't be an issue. But we just have to do an assessment with the engineering team to see the ins and outs of how it would work.
+Debbie Dunni: Okay, that makes sense.
+Christopher Hume: Debbie, my last question for you. I want to be respectful of your time here. Would you be able to send me your colleagues email addresses just so I can add them to the, the training on Friday?
+Debbie Dunni: Yes, I will definitely do that.
+Christopher Hume: Okay, so do you have my email?
+Debbie Dunni: Let me see, let me check my.
+Christopher Hume: I will send you an email right now. Hi Debbie. Just making sure.
+Debbie Dunni: So I believe. Oh, I don't believe, I mean invites but you send an invite. Let me see if I can find your email. Okay. Is it Chris@SmartScript dot out?
+Christopher Hume: Yep, that's one of my email addresses. That one will work.
+Debbie Dunni: Okay, good. Okay, so I will, I will send all the stuff emails to you.
+Christopher Hume: Perfect.
+Debbie Dunni: Yes.
+Christopher Hume: And I'll get everyone on that training on Friday. And if you have any questions before then Debbie, just let me know. I'm happy to answer them. You have my email and you have my phone number too. So you know how to get in touch with me.
+Debbie Dunni: Yeah, absolutely. And also so is it after that we talk about pricing?
+Christopher Hume: Yep. So Jet Psych is for an organization of your size. If you're going month to month, it's $130 per person per month. And then there's discounts if you sign up for longer contracts.
+Debbie Dunni: Longer contract. Like how many years?
+Christopher Hume: Like a year or two. Yep.
+Debbie Dunni: So what would that be? What would the price be?
+Christopher Hume: Let me pull it up right here. So this is all of our pricing information. I can send you this, Debbie, as well.
+Debbie Dunni: Okay. So if you have like one to say, okay, seven to. Let's say seven to 56. So that'll be 117amonth. One year contract. Two year will be 104.
+Christopher Hume: And that's per, per person per month. Yep.
+Debbie Dunni: Okay.
+Christopher Hume: And those, those annual contracts are paid up front, so that's the monthly rate. But it'll be you pay on March 1st every year for your year of access.
+Debbie Dunni: Okay. For. Okay. So. Okay. Okay. Okay. So I guess we'll still talk about the pricing with time. So. But let's set up. Yeah, let's set up the training for Friday, 12 noon.
+Christopher Hume: Perfect. Wonderful. And Debbie, if this, this all goes well and you guys love us during the pilot and you decide to convert to full time, we, we'd love to come up and kind of meet everyone in person for sure. That'd be, that'd be great.
+Debbie Dunni: Okay. Awesome. Awesome. That's. Be good. Yes. Well, thank you so much for your time and yes. So I think I'm impressed with what I see.
+Christopher Hume: Wonderful.
+Debbie Dunni: Yes, absolutely. I look forward to working with you guys.
+Christopher Hume: Yeah, no, I'm looking forward to the, the pilot and the kickoff on, on Friday, Debbie.
+Debbie Dunni: Yeah, sure. Absolutely.
+Christopher Hume: Debbie, just to make sure, did you receive that meeting invite from me? The 1:12 o' clock on Friday?
+Debbie Dunni: Friday. Okay, let me check real quick.
+Christopher Hume: Yeah, Friday the 13th. Oh, okay.
+Debbie Dunni: Oh, wow. You know what? Friday. Oh, that's. Sorry, sorry, sorry. So I have a training on Friday. Yes. So can we do Wednesday?
+Christopher Hume: This Wednesday?
+Debbie Dunni: Yes, of course. Yes. Let me see. Wednesday is okay. Wednesday is okay. So let's do for Wednesday. So let's do for Wednesday. And let's do for two.
+Christopher Hume: Two. That is perfect.
+Debbie Dunni: Wednesday. Yeah. So which is the 11th? Wednesdays, 11:00am okay. Yes. Let's do 11. Yes.
+Christopher Hume: Wonderful. One last question for you, Debbie. Did you. How did you find. Hear about shots? Like, I'm always interested to hear how people learn about us.
+Debbie Dunni: I mean, I was just Google like.
+Christopher Hume: Yeah, okay.
+Debbie Dunni: Google it online. Like, you know, best ehr for, you know, for social. I mean, so and so I saw it and also wonderful. I'm also part of this neighborhood watch. You know, that group belongs to, you know, neighborhood Watch. So it kind of populates there. So that what prompts me to say, okay. Oh, George, psych. I said, okay, let me just Google it and see. So from the neighborhoods watch too, it populates there and people were like talking about it and I said, let me search. And you know, so that's why I scheduled.
+Christopher Hume: Awesome. Well, again, Debbie, this is wonderful. Looking forward to our meeting on Wednesday. Did you get that invite? The updated invite?
+Debbie Dunni: Let me see. Just sign up right now. Yes. Wednesday? Yes. At 2:00pm Perfect.
+Christopher Hume: 2:00pm yes. Great. And then if you could just pass along your colleagues email addresses, I'll get them all invited.
+Debbie Dunni: Sure. Absolutely. I'll do that.
+Christopher Hume: Awesome.
+Christopher Hume: Well, thank you so much, Debbie. I appreciate you taking the time today.
+Debbie Dunni: Yeah, sure. Thank you, Chris.
+Christopher Hume: Yep. Happy Monday. Have a great week.
+Debbie Dunni: You too. You do the same. Thank you.
+Christopher Hume: Bye.
+Debbie Dunni: Bye.

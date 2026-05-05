@@ -1,0 +1,181 @@
+Tracey Sanderbeck: Hey, alfred. Hey.
+alfred: Hi, tracy. How are you?
+Tracey Sanderbeck: I'm good. How are you doing?
+alfred: I'm doing all right Friday.
+Tracey Sanderbeck: Happy about.
+alfred: Yeah. Thank you very much for taking the time to meet with me and walk me through this. I did do a little research. And I think. I guess what I'm really mostly interested is in understanding your workflow. And given the recent changes, I think that's where there might have been some expectations that aren't being met. Hopefully the green thing is gone.
+Tracey Sanderbeck: No, exactly. I left it because now I have a recording going because I just saw a patient. Someone assumed the things that happens. Let me share my screen with you.
+alfred: Please do. Yeah.
+Tracey Sanderbeck: So I left it recording. Because it just happened just now, and this is.
+Tracey Sanderbeck: The most distressing thing for me. So let's see. I hope it does it, but let's see. Because this was a short visit, but let's see. No, it's not going to do it. Of course. So let me end this and then let me generate. So what's happening is. Where did you go? So, as you can see, I have some tabs open. I try to keep as little tabs and I bounce back and forth. So here's my jot site. And then I set it up, and then here's my. Like. I'll go into my patients chart and whatever. The last patient was a longer patient. But then I go back over here because I'm trying to stop it, and it's just a white screen. And I wait, wait, and I wait, and it won't load. And then it says. And then I'll get a box that says. It's not responding. Do you want to wait? Do you want to reload this page?
+alfred: And then I.
+Tracey Sanderbeck: Yeah, and then eventually I'm almost scared because it did it, you know, it's done it quite a few times. I'm afraid I'm going to lose my recording. And so I did it. And it's. What happens is that it stops the recording. And then. And then I get that green box that says.
+alfred: Your note recording was recovered.
+Tracey Sanderbeck: But then I'm still randomly getting. When I go into it, like I showed you before, your thing is, your note has been recovered, and then it just disappears. And then it triggers, like, let me see if I'm still getting this. It triggers that. Oh, yeah, here. No. See how this came back up again? Rid of it. I think that that is being triggered by, and I don't know.
+Tracey Sanderbeck: So if I go into and I pull up a patient. Let's just say it doesn't matter, Lockman, what I saw today. Okay, so say I pull him up. And it seems like when I pull patients up this way, It seems like that sort of triggers me getting. See, here it is again, right here. Your recording has been recovered and I've done nothing. And it sort of triggers before. When we fixed it before, I only. There. And then it went away before it. I only have one to choose from. And then all of a sudden, even. Right after we had our meeting, it triggered it and it came back and it defaulted to this, and I've changed it to this.
+alfred: Ok. Ok.
+Tracey Sanderbeck: Something else that's happening and I'll show you because I took a picture of it. Which is weird. Another it's just some weird stuff going on.
+Tracey Sanderbeck: So this is. Let me see. What patient was this? Hold on, let me think. It's fixed anyway. So the patient had had a visit on February13. And I go in here and I pull the patient up from here. So say it's. Let me think. Let me see. Jennifer. Let's just see. It's not going to do it because it's already. It picked up. Today's the same. It was Jennifer Er. James. Say it was Jennifer James. Okay. So. It shows. This isn't her. It might have been. It might have been a Lexus. It doesn't matter. So it'll show right here. What it showed was, it showed a 19 visit here. And it showed a 3 or a 211 visit here. So then I click record now. And see. I'm getting that box again. There's nothing. There's nothing here at all. And so then I go back and I'm like, wait a minute. So let me see. So. Because I have to go back and do it. And then what it does is it pulls up. Jennifer. It pulls up. Instead of the last note, which is the 2:11 note, it pulls up. The one night the 19 note. So when I go into record.
+Tracey Sanderbeck: I see the 19 note here, which is not the last visit. So then I have to go back. And try to. Then I have to go back and forth. Now, look at how these are. All these are.
+alfred: Yeah. And that's part of the workflow that I wanted to. Discuss. This is something we need to fix on our side. But from what you're telling me, there's something more problematic, which is that white screen.
+alfred: So I'm going to have to. I'm going to have to look into that. There's something that the new encounter page doesn't have that the old one used to have, which was a way of deleting the Encounter page. The problem that's happening right now is that every time you click on that record button, Yes. You're essentially creating a new encounter. And if you don't create a note from that encounter, it just keeps piling on these pending encounters in here. So this is something we need to fix. But I just wanted you to know that that's what that pending means, and that's what these encounters that are now populating here, you know, really. Are. So I think. That's a long way of saying, like, if. You know, for now, until we get the fix out, which we'll try to get soon. You know, be mindful of that. And, you know, if you're. If, if you had clicked it earlier today, I mean, it's okay. The pending encounters won't do anything, but they're just visual noise for. For you right now.
+Tracey Sanderbeck: The one thing too. Was the very first patient with the 19 note that I was telling you about. Or not the 19. The two the 211 note. Was showing as pending as well. And I was like, why is that still pending back from February? So then I went into documentation and I pulled the note up and it was under review, and it was locked in every. I mean, it was all. I mean, it was. It wasn't locked. It was still. So it was there, but on this screen it was. Showing as pending.
+alfred: Correct. And probably what it is is that you had actually created two encounters there. The one that you. That. That. That you generated a note with and then the one that. That remains pending. And I think that.
+Tracey Sanderbeck: Okay? So now let me look at these notes. So how do I get rid of those pending ones? Because they're not showing up here.
+alfred: That's the confusing part. So these are two different things. In the patent portal. What you're looking at are not notes. They are encounters. So they are closer, you know, more tied to the schedule. But not even the schedule because until you. Long story short, there are bug that we need a squash and we need to fix for you. But they are not notes is what I'm trying to say. They're not pending notes, they're essentially just recordings that never happened or encounters that were started. And. And if I started is by clicking that Record now button. Correct that that Record now button is your worst enemy right now in the workflow.
+Tracey Sanderbeck: So much if I click if I go here and put the patient's name, but if I'm going through here, Trigger a lot of problems if I'm using this
+alfred: specifically that record now button down there. That one? Yeah. So I would. I would recommend staying off of that button for now if you have an encounter like that one.
+alfred: This is a problem because I pushed a fix for this yesterday that should have fixed this for you. You. You refreshed your browser, right?
+Tracey Sanderbeck: Yeah, I refreshed it. I shut everything down there down.
+alfred: Okay.
+Tracey Sanderbeck: I shut it down and brought it back up, and it seemed like, oh, it was working. Okay. And then I'm trying to think of what happened. I had, like, a note. I don't think I even went in through there. I can't. Remember.
+Tracey Sanderbeck: And then all of a sudden, I knew. I was like. Oh, here. Now, wait a minute. Yeah. See, when something I'm like. Should I get rid of this off my computer? Because this seems to. Something in here is generating this thing, and once this thing comes up, And it defaults to this. And then I have to go back to this.
+alfred: That's actually something we should be able to get rid of for you right now.
+alfred: If you give me one second. Give me one second, I'll show you how we can. Remove permissions for that. You're in chrome, correct?
+Tracey Sanderbeck: Yes. See, it looks like it's showing to me, this recording right now. See a little red dot up there. Shows me it's 40 recording going on.
+alfred: One second. What thought. Where? Sorry.
+Tracey Sanderbeck: Yeah. Here. This is how I know 40.
+alfred: Ah, okay, so this is a change. I don't have access because of what you're sharing. I don't see exactly what it is that you. That you have up there. But this isn't. This is a feature, not a bug, but it is a change in how things used to be. Right now. The biggest difference is that we're engaging with a microphone before you hit record. And that allows you to test the microphone and modify microphones. So this is solving. Other people. There's, there's lots of issues that we're having with other users and their microphones. So at times, a good example is like, at times, their primary microphone is their laptop, but if they connect it to a screen and they shut the laptop, it automatically used to go to that. Microphone. So that that resulted in a lot of people not having audio in the microphone. So now what we're doing is we're engaging with the microphone whenever you arrive to this page. And it's only when you hit record that it starts recording.
+Tracey Sanderbeck: Now I do see when you're exactly what you're saying when I'm on here and right now talking. This little.
+alfred: See how. Exactly. Exactly. So. So you're being Yuri. What this allows you to do is it allows you to test your microphone before you start recording, whereas before you were kind of getting recorded and. And hoping that. That you were getting something Right. But that's why the dot is new and it is a. Source of confusion. You're not the first user with that feedback.
+Tracey Sanderbeck: I always made sure. Because, believe me, there's been plenty of times that I've done a whole appointment new patients as well, and then I hear to stop it. And I was like, holy crap. I never started the recording, so I'm always. My eyes always going over there to make sure I've got that. That dot. And so now I guess I'm just going to have to toggle into it to make sure I click this.
+alfred: Yeah. So if you click that, try clicking it right now. I believe there's a second thing that should show up in your tab.
+Tracey Sanderbeck: No, nothing.
+alfred: No, nothing.
+Tracey Sanderbeck: Okay.
+alfred: How about in the top? Your top bar or nothing, right?
+Tracey Sanderbeck: Here and there's a red button. And that used to show me that, like I said, but
+alfred: it was already engaged, that I was recording. Okay, let me see if there's something we could do there, like modify something in the tab,
+Tracey Sanderbeck: maybe put a green dot in the middle of it or so I don't know, but something.
+alfred: Yeah, something. We'll definitely take that feedback. But, yeah, for now, what I would recommend is really just making sure that you come in here and that you see the recording, actually, because I rely on that dot heavily.
+Tracey Sanderbeck: And I would have been like, what the heck? Now I know I'll just have to toggle back into the screen to make sure it's recording.
+alfred: Yeah, yeah, I think. Especially for now. But yeah, I think the idea is closer. I don't know if you do any telehealth or anything.
+Tracey Sanderbeck: It's more.
+Tracey Sanderbeck: Like it's all telehealth. Yeah.
+alfred: So when you're joining with these, you usually have, like, a waiting room.
+alfred: Where you can. Where you can toggle your microphone, your video. The recording page has essentially become this waiting room. It's the same thing. And that's the idea that you'd be able to toggle your microphone, ensure that everything's working before you start the recording. Like I said.
+Tracey Sanderbeck: One question. A quick question. I've been wanting to ask this. Long time, and I didn't know who to ask. And you're the guy that I think to ask, I use. So the way I have it set up is I have. I have my Mac right here in front of me. To the right of me. I have my Mac. And that is where I do my doxy site for my tell House. So I sign on, and the patient appears here and. And all of that. And so it picks up the recording because it's in the room. If I plugged in headphones for privacy. To my laptop. So I'm here in the patient here. My computer here is not going to pick it up. Okay?
+alfred: No, no. The only way you could have it pick up is if the. The software that you're using for telehealth allows you to share the telehealth conversation with jots. So in those cases, it usually has to be a browser based. Telehealth application.
+Tracey Sanderbeck: Yeah. Is browser based.
+alfred: It is. In that case, I would say if you actually have it on the same machine, If you pull jots back up, I can show you.
+Tracey Sanderbeck: So I pulled jot site back up.
+alfred: So here, let's actually end this recording. Yeah. All right, you see how to the right of those screen bars, there's that. Yeah.
+Tracey Sanderbeck: Yeah.
+alfred: So here, if you click on this before you start recording, That should pop up like a little screen that asks you which tab or which screen you want to share the audio with.
+Tracey Sanderbeck: It's saying headphone mode. Click to disable.
+alfred: So did you get a pop up when you clicked it at all or no? Try clicking Add a Dictation real quick, if you don't mind. Like with. With that turned on.
+alfred: Okay with that?
+Tracey Sanderbeck: Turn on and do what? Adam.
+alfred: Okay. Yeah.
+Tracey Sanderbeck: Okay, Now. Okay, now it's brought up.
+alfred: So here you would find the other tab where you have your telehealth application running.
+Tracey Sanderbeck: Gotcha.
+alfred: And if you. If you selected like this. Then. Then you use. Then you'd be able to use the same your headphones with microphone. And not rely on ambient sounds to pick up both you and your patient. It's one of these things like I recommend giving it a shot with non crucial patient or with a test patient. If you want me to be a test patient, I'll gladly be one. And that's usually how we are able to support third party telehealth recordings right now.
+Tracey Sanderbeck: But the main thing is is I'm going to have to sign on. Let me show you. I don't know one thing. So where I sign on for doxy? Me. Oh, no, it's not going to do it. I have to. I have to dox and. Hold on a minute. I have to. So this is. I want to make sure, like, so I'd have to. Go into doxy.com here. Oh, what is this? Telet. That's weird. Doxy. Why am I getting that? Let me see. Let me see what this is showing. Is there doxy me? Maybe. That's weird.
+Tracey Sanderbeck: I don't know what that website is. Get out of there. Let's see. Doxy.
+alfred: Yeah, doxy me.
+Tracey Sanderbeck: There it is. And then sign in. Let's see. I've never used it here, so it's sign into. Yeah. Okay. Let it do it. Sign in. Oh, yeah, that's me. Okay. I got somebody waiting. That's okay. All right, so then that would have to do that. And then I would click that, and I see the patient. I just don't know. And then I guess I would bounce back and forth. I would. I would bounce. I could just tab back and forth like that.
+alfred: Either tap, either. Tab back and forth or split your screen in two. Two different browser windows. So if you go to the top right, where it says Chrome, right next to that, you have file, you could say new window. And then you could resize your windows to whatever size you want, and you could just have both things side by side.
+Tracey Sanderbeck: Where do you see that? Over here.
+alfred: Oh, I can't see what you're. You're only sharing the browser itself, so I can't see outside, but if you hover all the way to the top. You should have like the little. You mentioned Apple. Right? So you'll have like an Apple icon and then it says Chrome or something.
+Tracey Sanderbeck: And what is happening now? This. Do you see what weird happen? Look at this mess.
+alfred: Yeah, no, you're sharing your screen now, so.
+Tracey Sanderbeck: Okay, yes. Do you see this? So what do I do? I go.
+alfred: To. I can't see. Sorry. But if you. If you just hover all the way to the top. All the way to. You should have, like, a bar that says that has an apple and maybe a chrome or file or something to the left.
+Tracey Sanderbeck: Okay. And then it's a window. Go to window.
+alfred: New window, correct?
+Tracey Sanderbeck: And then name a window. I don't know. I'll figure it out.
+alfred: You said you need to name it, but, I mean, the other thing is just toggling back and forth.
+Tracey Sanderbeck: You can toggle back and forth. Okay. And you showed me how to do it with my. Okay, that's cool.
+alfred: So usually when you shouldn't have had to press at a dictation to get. That pop up. It usually happen. It might have been because we already had a dictation. But, yeah, ideally. So here. Because it's been us talking. You might want to generate it and get rid of. Well, no. I was going to say. Remove Jennifer as a patient. But we should be able to get rid of enough. But a few things you have to run, right?
+alfred: Yeah, it's okay.
+Tracey Sanderbeck: Yeah, she's early.
+alfred: I'm going to look into that white screen that you mentioned because I think that that's a big one.
+alfred: I mean, that I think is. That I think is the problem.
+Tracey Sanderbeck: It's a big time thing because, you know, I'm just like, oh, my gosh. And then I have to wait and wait. And wait. And that's something that. What day did I meet you? Was that yesterday before?
+alfred: It was either yesterday or the day before. Correct somebody.
+Tracey Sanderbeck: When I started having these problems. I've never had these issues before. I've never. I just go in and it's right. I mean, to see how I click into it. I mean, I don't. I never have to wait and then. But when I. Get that when I get that blank screen, I'm like, No, that's scary.
+alfred: Well, and that. That would also be the cause of the or the green recovery.
+Tracey Sanderbeck: And like I said, the only thing. Just so you know, the only thing that's changed my account. Maybe you guys did something. I mean, I know you changed that record and all this. The only thing, personally, with my account. I don't know if other people are having this issue or if it's just me. Is that they. Recently. Earlier this week, they migrated all of my patients from Dr. Chrono into. I know if that triggered something.
+alfred: No, I think what we've been talking about has all been the new recorder. So. So. So, yeah, let me. Let me look into that. Performance problem.
+Tracey Sanderbeck: So you think it's all when you guys changed over from when you added this, the new record?
+alfred: Yeah.
+Tracey Sanderbeck: Okay, so when you added this going into the patient's chart, and you added that record thing, No, no, no, no.
+alfred: I'll click record all the way at the top.
+Tracey Sanderbeck: This one. Yeah.
+alfred: Yeah. The changes we did here. Is what's causing that white screen, potentially, and it's also what has the trickle effects. That button. Down on the patient page that's been there since probably before my time, to be honest with you.
+Tracey Sanderbeck: Yeah, they added that a while ago. Actually, I asked them to add that. He was like, oh, that's a good idea. Because I thought it would save a. Because it wasn't there for a long time. And the only thing that was there was this record button. So I said, if you're in the patient chart, Why? I think that's when they added that and then. But I. So, yeah, you're right. I think this came about this week, right?
+alfred: Or.
+Tracey Sanderbeck: That's correct.
+alfred: This was Monday, I believe. We'll button it up for sure. Oh, I guess the one thing, if you have time. There's the auto. Get rid of that microphone. Let me see if I. So if you go to Settings, so. That would be, again, the three dots on the. On the top right of chrome. Let's see. I'm doing this right now. Settings. Privacy and security, I believe.
+Tracey Sanderbeck: Privacy and security. I don't have a privacy and security, do I? Password? History download tab. Extension. Delete browsing history.
+alfred: Can you bear with me? Your screen.
+Tracey Sanderbeck: Did I stop sharing?
+alfred: No, I think you're sharing different tabs. The jot site tab.
+Tracey Sanderbeck: Okay, hold on a second. So let me stop it and then restart it and then. Am I. Should I click that I'm sharing whatever. Chrome tab, or should I click Share in the window or entire screen? Entire screen.
+alfred: Entire screen would be. Would be best, I think.
+Tracey Sanderbeck: Higher screen. That's what I thought I was doing. Ok. All right, now can you see? Oh, there we go. We're back over. There.
+alfred: We're back there. But that's. Yeah. So now we can. I can actually see everything, which is great. All right. Yeah. So here. Yeah. Click on Settings all the way at the bottom.
+Tracey Sanderbeck: Settings. All right. Can you still see? Yep.
+alfred: Perfect. And then the bottom one that says site settings.
+Tracey Sanderbeck: Site settings.
+alfred: And here we should be able to find microphone under permission, so click on that. And internal microphone. See up there where it says internal microphone built in? Let's leave that one. Let's swap to The Microsoft Teams 1.
+Tracey Sanderbeck: All right.
+alfred: And. Believe. That's interesting. Not allowed to. So where you see where it says not allowed to use your microphone. Notes Sites added. Is there a way is there a plus there to you don't use this microphone. Correct.
+Tracey Sanderbeck: So I don't even know what Microsoft Teams is
+alfred: is Then click on the button. Yeah, that one.
+Tracey Sanderbeck: Don't allow sites to use your microphone Features that need microphones. My phone won't work. That one?
+alfred: Yeah, that one.
+Tracey Sanderbeck: Okay.
+alfred: And then if you click the back arrow on the top, Up here?
+Tracey Sanderbeck: No, just up there.
+alfred: Correct. All right, so now let's type job, psych on the URL.
+Tracey Sanderbeck: Up here.
+alfred: Yeah. We can do that and hit reload real quick. Don't open that yet.
+Tracey Sanderbeck: Just be loud. Reload.
+alfred: Yeah. Hopefully it's gone.
+Tracey Sanderbeck: Let's see. Hold on. I don't think it is. There it is, and it's not okay. There's an arrow. I always know it's there because when you cleared all that stuff out for a short period of time until I went in, you know, like, through those patient things was gone. It was gone. It was perfect. It said. Yeah, it said default. That's. That's what it said. And that was.
+alfred: And. And you'll get an arrow, even if it's only one option that you have. But you know, tracy, I. Let me do a little more research on this, on. On how you could. We could get rid of it. And I'll share that with you. At this point, I guess it'll be next week, if that's all right. But. Yeah. In the meantime, though, I think. I think that that widescreen that you were describing is very problematic. And I think. I think that's what we need to solve. And so, two things. I'll do that. In the meantime, I'd say in the patient page. Don't use that. Record button until. Until we've fixed it. Use the top record button.
+Tracey Sanderbeck: Record from here. That's what I've been doing. For the most part today. And then at the end, I sort of slipped up and went, okay.
+alfred: So I'll let you know when we fix that button. I'll also priority is that white screen that you were describing.
+Tracey Sanderbeck: Thank you very much. Putting, like a green dot or something in here so that we know. But until then, I'll just. I'll just note a click back in there to make sure I'm actually recording,
+alfred: not to click back in there. I don't think we're going to have. We're going to be able. To modify that. Yeah, I think. I think what changes, now that I think about it, is not up in the tab, but you see that microphone? Next to the URL app job site. No, right below it. That's the one. That one. That's the one that changes. But that's not. That doesn't help you because you want to make sure that you're recording from a different tab. So.
+alfred: Yeah, I need to think about that one.
+Tracey Sanderbeck: Yeah, when I'm in here. I always. My eyeballs go right here. And as long as I got that red dot. I know. Okay, I'm recording.
+alfred: I'm recording.
+Tracey Sanderbeck: Now, I know I can't utilize that because, see, I'm not reporting, but I got the red dot. So I'll have to figure out. I'll just have to know to keep going, opening up and looking at it.
+alfred: Yeah, I think what we'll probably want to do is. Turn it on for a second. Get your microphones. Turn it off. And then, and then let you. And then when you record it comes back on something like that. So it might be a brief 1 second flash, and that's, that's what we would need. So, okay.
+Tracey Sanderbeck: Just so you know, in case I know that I'm not recording. See this right here? I don't know. Can you still. I still share. See, that's my microphone. That's what I'm watching. Right there is. I'm looking, see how it's going. Blah, blah, blah, blah, blah, blah. Make it now. I'm testing, and I know that my microphone's working, and then, you know, so that right there tells me that I'm. My microphone is working.
+alfred: Well, that's the thing. If, if. If the red dot is not on, we can't. We. We don't have access to the. Levels, the microphone level. That's. That's the problem. It's. It's the chicken and egg situation that we have here. Maybe. Maybe what it is is that we can change something. You know how? You see how we have the name.site at the top there?
+alfred: Next to the dot, we might be able to put, like, recording in text as opposed to an icon or something like that or something.
+Tracey Sanderbeck: Yeah, I don't know. Plenty of things going on.
+Tracey Sanderbeck: Okay, as long as. Thank God you told me that. Because I didn't know that until now that I know that I need to click and make go.
+Tracey Sanderbeck: Just keep going back.
+alfred: I think you also have a fairly decent sized screen, so I think what would be beneficial is if you run them in parallel as well.
+Tracey Sanderbeck: So I can.
+Tracey Sanderbeck: I got more my screen. Yeah.
+alfred: So having both browsers open would be. If you do that, the white screen goes away. The white screen problem completely goes away until we fix it.
+Tracey Sanderbeck: I didn't think about that.
+alfred: Yeah, so if I.
+Tracey Sanderbeck: Because I'm using one browser and I have a million tabs open, so if I learn how to split my screen.
+alfred: Right now that I can see your entire screen. I can help you. So, see there where it says file?
+Tracey Sanderbeck: File. Yes.
+alfred: Do new window.
+Tracey Sanderbeck: New window? Yes. Oh, yeah. Yeah, look at that. So then I can put. Let me put Dr. Frono on there. No, let me put. Yeah, but Dr. Chrono on there. Oh, he's. He's already down here. Dr. Chrono on there. And then. Okay, there he is now. What do I do?
+alfred: And then. And then on the other screen, you have Jacksike and you have them both.
+Tracey Sanderbeck: But how do I see? Because I can only see. Do you see what I'm seeing? I don't even know where you are.
+alfred: I do not see what you're seeing, but what we could do.
+Tracey Sanderbeck: There you are. See?
+Tracey Sanderbeck: I click the. All I did was I click. Now I don't know how to do it.
+Tracey Sanderbeck: I click the. Oh, gosh.
+alfred: Yeah, click, click that.
+Tracey Sanderbeck: Oh, there you are. Down there.
+alfred: Try to do this. So now that we have. Yeah, perfect. That's what I want to do here.
+Tracey Sanderbeck: And I can do this. Make it smaller. Oh, I see. Okay. And I don't need this one. Oh, look at me go. Look at me go. Alfred. I'm doing it.
+alfred: Yeah. And now you could have one open, the other open. At least for now. That I can assure you the. The white screen won't be a problem. But it is. It is something we need to fix, so I'll be jumping on that today, this weekend.
+Tracey Sanderbeck: Okay. Very good. All right. Well, I appreciate your time. Thank you very much and absolutely.
+alfred: No. And thank you. Because if we don't hear these things, we, you know, we don't think so. So thank you very much. Okay.
+Tracey Sanderbeck: Thank you so much.
+alfred: You, too. Thank you very much. All right.
+Tracey Sanderbeck: Bye. Bye.
+alfred: Thanks. Bye.

@@ -1,0 +1,226 @@
+Christopher Hume: Go through. Could you screen share with me and let's walk through HubSpot together. Just make sure you're all set up there.
+Jack Waugh: Sure.
+Christopher Hume: Okay, let's just look me up. Can you Krister Hume. The right hand side roll down. Rolling. Okay, there we go. All right, so you have aloair. Can you press the SMS messenger?
+Jack Waugh: Yeah, this thing here probably gonna freak login. Yeah, let me look up what my login is.
+Christopher Hume: We're just not messed around with the auth yeah, yeah, let's.
+Jack Waugh: Okay. Has the same duplicate phone number.
+Christopher Hume: Just press sync.
+Jack Waugh: Okay.
+Christopher Hume: You want to send me a text low. And then let's take sure that comes through. Okay, Cool.
+Jack Waugh: Got it.
+Christopher Hume: And then do you want to just try calling so x out of this we just go over to the left and press the call button.
+Jack Waugh: Okay.
+Christopher Hume: Change provider maybe.
+Jack Waugh: See did that work? Oh, hang on. I think I clicked a button. That's weird.
+Christopher Hume: I can't see anything. Once you press change provider nothing actually happens. How does you push my own number? Keep scrolling. Thought we had it. Twilio.
+Jack Waugh: See Port connect. A third party integration here.
+Christopher Hume: Yeah.
+Jack Waugh: Let's see. Like, we might have done this once, but let's see. Manage. Yeah, it's. It's weird. It says it's connected here.
+Christopher Hume: It. That's so funny. I like, also can't switch from Alaware. Interesting. Like, nothing comes up.
+Jack Waugh: Let's try. Too much for an integration.
+Christopher Hume: Yeah, I know, right? Great. So what browser do you use?
+Jack Waugh: I'm in Chrome right now.
+Christopher Hume: Chrome should work. Let me show you what I'm seeing here. Let's make. I'll show you and then we can together. So I think, I wonder if you just don't have a default number right now, but let's jump into elware. But you might want to jump into.
+Jack Waugh: Okay.
+Christopher Hume: Since we set that line, I wonder.
+Jack Waugh: Users, I do see a place under Calling that just says add phone number, but I don't know if it has to be alert specific for it to do what we're looking for.
+Christopher Hume: Let me.
+Christopher Hume: Let me just sync and then I would love for you to show me what you're seeing. Let me just sync what I'm doing right here. Your emails jaywalk. We signed up for HubSpot with your job site. Dot com.
+Jack Waugh: Yeah, I believe so. Double check.
+Christopher Hume: That's the main email.
+Jack Waugh: Yeah, Yeah, I know there was like a burner account, but yeah, HubSpot is definitely JWA. Atjack.com.
+Christopher Hume: can you show me what you're seeing and I'll let you thank.
+Jack Waugh: Yeah, sure. So it's this little button right here.
+Christopher Hume: Yeah. When I was even. Press it, you can directly add alware.
+Jack Waugh: It's not really through.
+Christopher Hume: Let's not do that yet. Let me see. Wait for this to go through. Do you want to just sign out and sign back in to HubSpot while we're waiting? See if that helps?
+Jack Waugh: Sure.
+Christopher Hume: Old reliable, right?
+Jack Waugh: That's weird.
+Christopher Hume: What's going on?
+Jack Waugh: It's odd. I. I copy. It's telling me I have the wrong password, but I copied that password pretty identically. So let me see if I can sign in with Google.
+Jack Waugh: But I didn't do that last time. All right.
+Christopher Hume: I might have to reset while we get it to sync.
+Jack Waugh: See. See if it did anything here. Nah, same thing. Still.
+Christopher Hume: Let me see. We're going to play with this and if I can't, we don't get to work. I'm just going to schedule a demos project 14.
+Christopher Hume: Okay, this is crazy. Let's give another 10 minutes. Could you share your screen?
+Jack Waugh: Yeah. So, yeah, pretty much the same thing.
+Christopher Hume: Nothing happens when you press change provider.
+Jack Waugh: Oh, wait, that's new.
+Christopher Hume: Where does that take you?
+Jack Waugh: I'll here, I'll reshare. Oh, wait, here's something. Call configurations. Call center.
+Christopher Hume: Yeah. Can you scroll all the way to the bottom?
+Jack Waugh: This just takes me to the same.
+Christopher Hume: Same place.
+Jack Waugh: Same place of like all the apps and then like I search for outwear and then says it's already set up. Yeah. Yeah. I don't know. I do see a settings page for the alware installation. I can share this.
+Christopher Hume: Yeah, let's look at that too. Go to settings. Yeah, this is the nightmare page. It should be. Well, it's. It'll actually go back. So it's literally just that one button and you're able to send text, which is crazy. Yes. I wonder, can you. That's brutal. I can't even recall from here because we won't be sending text. Per. I'm looking at. Walking through your permissions. Chat. You can see what sellers I should look at. John can do it. Okay, So I think what we're going to have to do in the interim here is can you download the Chrome extension? Just go to the Chrome store while I'm trying to sort this out Now I'm just going to set up a meeting with.
+Jack Waugh: Where Chrome extension for Aloware.
+Christopher Hume: Yeah.
+Jack Waugh: All right. Just. Just installed. It.
+Christopher Hume: I'm guessing this is probably me just not understanding. Oh, one last thing we're going to try here, Jack.
+Jack Waugh: I'm gonna.
+Christopher Hume: This is actually a good idea. I'm going to assign you my phone number. As we know my. My phone number works.
+Jack Waugh: Okay.
+Christopher Hume: See if that does anything. And then if not, There's probably enough time wasted on this. We.
+Christopher Hume: Let's walk through the sequences and see if we can do a workaround here. We'll go from there. Could you share. I'm gonna stop sharing. Could you share your screen? J. Good. I'm going to upload a bunch of leads for you.
+Jack Waugh: Okay.
+Christopher Hume: For the time being, let's create one. Just live together.
+Jack Waugh: Okay. So contact.
+Christopher Hume: Yeah, let's do create contact. There. Of course, this person. Let's go with this to you.
+Jack Waugh: Okay. Says this is actually already in something.
+Christopher Hume: Nightmare. Okay. Oh, good. Let's do this person then.
+Christopher Hume: Okay, first name. Let's do Lifecycle. What's the lead status?
+Christopher Hume: Yeah, you don't need one.
+Christopher Hume: Okay, Bid list, name. Don't need it. Lead type. Don't need it. Or lead source. Let me see. Can you click on that full calling spot, lead type, see what the options are? No need to select one. No, no, I'm sorry.
+Jack Waugh: Okay.
+Christopher Hume: And you're not going to be doing. This is like NHS go. Show you how this works. Okay. Now go more. You see in the left like. No, I see. Enroll in a sequence. Oh, go to owner.
+Jack Waugh: Click you.
+Christopher Hume: You can click me? Yeah.
+Jack Waugh: Oh, I didn't. I didn't hear what you said.
+Christopher Hume: Me or any.
+Jack Waugh: And okay.
+Christopher Hume: So it looks like my. The one I want you to use is not available. Sorry. Jack on teeth.
+Jack Waugh: No worries.
+Christopher Hume: Go sharing. Everyone. Refresh.
+Jack Waugh: Sure.
+Christopher Hume: You.
+Jack Waugh: Oh, refresh this page.
+Christopher Hume: Yeah. Oh, okay.
+Christopher Hume: Yeah, so bad. So she is scale 226 providers. So if you click on that,
+Jack Waugh: Just hit start sequence here or a sequence.
+Christopher Hume: Yep. Oh, sorry. Oh, I messed up. All right.
+Jack Waugh: That's not me. No worries.
+Christopher Hume: Go unroll. Try it again.
+Christopher Hume: Third time's the chart.
+Christopher Hume: You might have to refresh your screen.
+Jack Waugh: Yeah. Okay.
+Christopher Hume: And then change your email address at the bottom.
+Jack Waugh: Gotcha.
+Christopher Hume: Now you go start sequence.
+Jack Waugh: Okay.
+Christopher Hume: Okay.
+Christopher Hume: Now you go to. If you search task.
+Jack Waugh: You said tasks. Okay.
+Christopher Hume: The first one.
+Jack Waugh: Okay.
+Christopher Hume: Oh, so we're going to get rid of all your other ones. What was that woman's name?
+Jack Waugh: I think it was Dallas.
+Christopher Hume: Yeah, it was Dallas. She should show up here shortly.
+Christopher Hume: Oh, there it is. You have two, because the first one.
+Jack Waugh: Right. So.
+Christopher Hume: And so you can. Let's just see which one is real.
+Jack Waugh: Yeah. Let's see which one else coming from.
+Christopher Hume: Let's just click on Job Site Connect.
+Jack Waugh: Okay. Let's see.
+Christopher Hume: Okay. That's the one you need to delete. Yep. Okay.
+Jack Waugh: All right, let's try it again. Let's see. Confer. Delete isn't. Yeah.
+Christopher Hume: And then I would delete all your other tasks just so you have a clear gotcha. You might want to respond to. Do the Dallas one first, then delete everything else. Or you just click. Yeah, yeah, yeah.
+Jack Waugh: Might as well. Okay. Actually, I might. Maybe I'll leave this one on here because this is someone I'm meeting with again.
+Christopher Hume: Perfect. You go. Jeff said connect. That'll be an email.
+Christopher Hume: And the thing that's going to be kind of pain in the ass, but if you wanted to call her for now, Jax, you see in the bottom left? That green?
+Jack Waugh: Yep.
+Jack Waugh: Push that and then it goes over to Alware.
+Christopher Hume: It's gonna take you right there.
+Christopher Hume: And if you push. Is it calling?
+Jack Waugh: It's actually calling.
+Christopher Hume: You can cancel.
+Christopher Hume: You can cancel.
+Jack Waugh: Sorry. Those are good. So I guess it just calls automatically.
+Christopher Hume: It'll go right there. If you push the button. It's not as clean. I. And I know there's going to be some friction here. So something I'm going to ask you to do is like, let me know how it's going if this is feasible, or if you're like, dude, this is just too much going on, it's taking too long and we can change the tooling. Let me just switch the. But. So the idea is, Jack, that as soon as you add someone to the sequence, just every day, you're just going to have to go through that tracker and it's just going to be that straightforward. It's going to write the emails for you, you're going to call, and then you just mark it. Done as soon as you do it.
+Christopher Hume: So it's a little bit more structured than what we were doing before, kind of smiling and dialing. And the only thing I ask you to be aware of is that some of these people you're for almost all these people you're going to be, You're going to be reaching out to multiple people at the clinic. So yeah, just be aware that you're hitting a bunch of people. And then you also saw when you go to sequences, there are two sequences, one for admin and one for providers.
+Jack Waugh: Okay. Actually, I don't know if I.
+Christopher Hume: Okay, let's just go. Just go to Chris Hume or like a random. So we can go. Let's add me to a sequence.
+Jack Waugh: Okay.
+Christopher Hume: So there's the providers and then admin staff.
+Jack Waugh: Oh, I see. So this is assuming we're reaching a provider versus like someone at the front desk or.
+Christopher Hume: And so I want you to be aware because like we're, as we discussed last week, we're going to be tweaking our pitch and like doing like as what you've done to great success is that wedge on the free analysis. And I think that's what we want to offer to admin people for the call providers. We probably want to be more time focused because like if we're calling a random provider to place and like this is why, like we're going to meet on Wednesday and we're going to chat about your experience and we're going to see how it's going because I don't actually know what the best way to do this is. Like were unfortunately or fortunately for you, Jack, you sort of proved that this is a viable channel through being an absolute. The thing that pushed me over the edge of being like, we have to invest here. Seriously is your success on the NPEZ database like that you. What is the chicken. You made chicken salad out of chicken shit. Like, that was not a good list and I'm just like stoked with how it turned out. We just have to get a few reps up and then probably you. And you're going to give me feedback on Wednesday and we're going to tighten up this whole process.
+Christopher Hume: But I also want to do some calls together on Wednesday, like be in the room. So that's the goal.
+Jack Waugh: Sure.
+Christopher Hume: What I'm going to do is upload a list of your leads and then you'll have access to the list and you can add like 15 at a time to a sequence.
+Jack Waugh: Okay.
+Christopher Hume: The recommendation made to me by John, So the other SDR is that you don't want to add them all at once or it's going to be completely overwhelming.
+Christopher Hume: Because if you add like a hundred on the first day, then day one, you're doing 100 calls, day two, you're doing 100. Emails, day three, you know, it's just like. And then you're gonna have some days where there's like a gap in the schedule and you're not calling anyone. They're like, you probably want to slow roll.
+Jack Waugh: Okay.
+Christopher Hume: And do 15 day one, 15 day two. And just taper it. Just, just so your work is a little less lumpy. It's a little bit more diverse. It's just like a nicer feeling overall.
+Jack Waugh: Yeah, that makes. That makes a lot. So basically I want to just make sure I understand.
+Jack Waugh: So essentially 15 people per day in this more organized kind of format.
+Jack Waugh: And then from there. Do you mind if I just walk through one of them with you? I want to make sure I the steps to the sequence and I don't miss something. So no Dallas Henson. So after I hit send and complete task, is it just going to take me to the next task automatically from there?
+Christopher Hume: No. Then you'll be in. It'll be in your task list.
+Jack Waugh: Okay. So it's like it's just gonna show up.
+Christopher Hume: You could just. You can go. Yep, there you go.
+Jack Waugh: I think that's. Yeah, I think that's what I wanted to just double check on. Where is like the actual list of the different. Because like when I click this, I think it just takes me back to here. Oh, it's all here.
+Christopher Hume: Are you looking for the sequence?
+Jack Waugh: Well, yeah. So my understanding is that there's a list of things I have to actually do person.
+Jack Waugh: But I'm just trying to see where that actual list of things is.
+Christopher Hume: Could you go to sequences? Let's just go to. I think it'll be more instructive if you go to cold outbound.
+Jack Waugh: Okay.
+Christopher Hume: 126, the top one.
+Jack Waugh: Oh, okay.
+Christopher Hume: And then X out the enrolled by and scroll to the bottom or scroll down. This is where you'll see each of the steps. You're going to see who was I supposed to push through? How many calls were made? Like this is going to give you all the metrics. Is this kind of what you're asking Jack, or no?
+Jack Waugh: Well, I'm just wondering what do I need to check that tells me what I need to. To do, I guess is the question that like, is this. Where's the point of reminder that's actually telling me the things that have to be done for that. Does that make sense or not really.
+Christopher Hume: It should be in your task list.
+Jack Waugh: Am I okay? Maybe I'll miss.
+Christopher Hume: Because it's only going to give you one task at a time for a person.
+Jack Waugh: Oh, okay. I think that's oh, it's not.
+Christopher Hume: So then in. In two days, it's going to be like, okay, Jack, today you have to call Dallas. And it's just the. When you put it in the sequence.
+Jack Waugh: Oh, I.
+Christopher Hume: As long as. As long as once you send that email, you check it off, it's be like, okay. And Dallas is just going to go through that sequence.
+Jack Waugh: Oh, I was missing this part over here.
+Christopher Hume: Yes.
+Jack Waugh: Yeah. Okay. So basically that makes sense. Yeah. So essentially the first task that's going to show up is going to be email or something else most of the time and you're doing that task. It's not like on the same day I'm emailing, calling, text. It's just one thing at a time per person.
+Christopher Hume: Yes. But like of course when you do 15 each day, you're going to end up with calls and texts every day pretty quickly because different people are going to be at different places.
+Jack Waugh: Does that make sense? Can you, can you expand on that last? Yeah.
+Christopher Hume: So you have like a water flow. Right. So let's go to the sequences again and I just want to walk you through like the sequence here.
+Jack Waugh: Sure.
+Christopher Hume: So let's go to. Yeah, so and then if you go to steps, Day one is always going to be an email. But if you scroll down, then day two is going to be a call.
+Christopher Hume: But like it's like day two for your first 15 is day one for your second 15. Okay. So the second 15 are getting an email, first 15 are getting a call. And that's how. And the task list is just going to populate.
+Jack Waugh: Okay, got it. Because it staggers. I see.
+Christopher Hume: Okay, exactly. And so the idea is, I don't think it's a good use of top. Like while we're working out tooling here, I don't want you to have to make a hundred calls in a day when they're all manual, you know, like that's a huge. That's just like shitty cool. Yeah.
+Jack Waugh: Okay, that makes, that makes more sense. Appreciate it.
+Christopher Hume: Okay.
+Christopher Hume: And so this is how you're going to track metrics. And like initially you're still going to be doing smiling and dialing or just like it's more rote. It's just like you're going to get leads, you're going to respond, but. Or you're going to reach out. But as I was saying, what I sort of, what we're going to move forward is not this first batch, but maybe your second batch, your third batch. There's going to be like, hey Jack, like these are high priority, these are medium priority and these are low priority. And like low is like you're just churning and burn and you don't worry about it. Medium is you might want to do a little bit of research.
+Christopher Hume: And then high is like, hey, you're at, I'm giving you the like five really high quality clinics. Like you should probably read about the clinic before you call them. Or you should like really customize the email and not just send the generic one and, like, include the city and like, like that. So we're not starting there because, like, crazy as this job is, I do try to restrict the amount of change we're doing at a time.
+Jack Waugh: Yeah, that makes sense.
+Christopher Hume: Right now you're following the sequence. You're going to do it in HubSpot. I'll probably just create another sequence for you in HubSpot for people who don't have email addresses, and you'll just call in HubSpot just so you can get used to the. Platform. So you're going to have like the three options. You're going to have provider flows, admin flows, and no email flows.
+Jack Waugh: Okay, all right, that, that makes sense. And then I guess so essentially it's going to be like, I'll be emailing 15 people today, and then tomorrow it'll be 15 people that I'm those same 15 people I'm probably calling and then I'm emailing a new 15 people, so on.
+Christopher Hume: And so as you're, as you're wrapping up, you keep burning down that MPES list. If you're like, I got time and Jack, like, if you can spend as much time as you want at this point, like if you want to work. Yeah, well, maybe 100 hours. But if you just like, if you're like, I work 30, 30 hours this week, like, that's fine. Like the, the meetings you're booking are awesome. So, like, don't worry about, I mean, I guess if you're gonna go up to 40s, like, let me know. But yeah, don't. You don't really need to worry about the 20 hour cap anymore.
+Jack Waugh: Okay, that's good to know. Appreciate it.
+Christopher Hume: This is kind of a lot. This is, it's gonna be painful. Like, just to be frank, like, it's gonna be painful here. We're gonna see if we can get this to work and then we're gonna optimize and get you a better caller. And then also, like, I don't love HubSpot. We have a bunch of bullshit in here. So there's gonna be a lot of back and forth. So just like slack me or anything and we can jump back on the line and work through it together. I'm going to create a list for you with your leads. You'll have that this afternoon. You can start loading them up and sending out those emails. What am I missing? Because this has been a lot. I'm sure I'm missing something.
+Jack Waugh: I don't think, I don't think anything. I mean, I guess sort of order of priority would be I'm dealing with the HubSpot tasks first and then as time permits, then you move on to like this.
+Jack Waugh: Then you're having fun with alaware. Yeah. Okay.
+Christopher Hume: Because like, this is something that I have a strong conviction that like, if, if I give you 100, I'm gonna give you like 100 leads. Probably. If you can book one meeting from those 100 leads, like, we're gonna go crazy. Like we're gonna get, like we're gonna get the tooling up. We're gonna get every single lead we can. Yeah, there's a. There's a lot of variables that we need to figure out. We need to figure out, are we targeting the right people? Do you have, like. Do we have the right messaging? But again, I think if you just book one meeting from this, like, we're going to be super stoked, and we can. We can, like, speed up the process down the line and do, like, get you a power dialer inside pub spot. Like, we can set that all up.
+Jack Waugh: Yeah. Okay.
+Christopher Hume: So I think probably the next few days are gonna be a little bit of fight with HubSpot. Getting used to it, but hopefully, you'll be rocking and rolling next week or at the end of this week. Or sooner.
+Christopher Hume: But I just want you to know I'm aware that this campaign.
+Jack Waugh: Yeah, no, that's okay. I mean, I'll. I'll keep you posted on how it's going and if there are any major hiccups, but for now, if I'm just doing, you know, like you said, 15 people at a time, it should be pretty manageable, so.
+Christopher Hume: Okay. And the other thing, Jack, is we've gotten enough the signal here that I'm probably going to try and scale up STR hours in the coming weeks. So if. I don't need an answer now, but if you're interested in increasing your hours more formally. Yeah, we're like, just let me know. We'd love to scale you up. I know you've got record release and tour, maybe a few concerts and who knows a tour, but if you'd be, if you want to scale up, like, there's definitely the appetite or I expect there to be appetite that pretty, that pretty shortly, so just let me know.
+Jack Waugh: Yeah, I mean, as far as scaling up, would that be like more full time, you're thinking, or like,
+Christopher Hume: I mean, if you were looking for 40 hours a week, that's something we would love to get to. But I'm really like, if you want to work 30 hours a week, like, kind of what I mean, I don't know, like, how much time do you have? Because if you're like, Chris, I'm dying to work 40 hours a week, like, we could probably make that work. But I, I didn't get the impression that was the case.
+Jack Waugh: Yeah, let me get back to you on that. I can check, see what my calendar looks like. Maybe not that much just yet, but, but I'll, I'll, I can touch base with you on that because
+Christopher Hume: let me tell you as I was joking about slack, like with what you do with the emphasis database, like, I'd have you 40 hours a week just calling that and booking meeting. So like there's, there's work for you. We'd love to scale you up in the coming weeks. Maybe we can talk about it during our check in on Wednesday if you could just give a little thought, like if you're interested. And as I'm doing planning, I can make sure that if and when we scale up that you're getting the time you deserve.
+Jack Waugh: Okay. Yeah, let me. Yeah, Wednesday we can definitely touch base. I just want to.
+Christopher Hume: Yeah, and there's no pressure here, Jack. I just like we've loved working with you. You're doing a great job and like, if you want more work. We want. We want you to have it.
+Jack Waugh: No, I appreciate that. Yeah, likewise and all. Yeah, I'll definitely get back to you there.
+Christopher Hume: Okay, perfect. All right, let me load these. These people for you. You can start with your first 15 and we go from there.
+Jack Waugh: Cool. Sounds good.
+Christopher Hume: All right, good man. I'll see you on Wednesday. Do you need. I guess since we have extra 12 minutes. Sorry. Never let a meeting end on time. Logistics for Wednesday thinking is just doing like a eight hour, six hour workshop. A lot of calling, a lot of working on stuff together. It doesn't need to be all day. What works for you? Would love to have you all day, but if you want to do like a four or six hour thing, that's as well. Given your flexibility, how close you are.
+Jack Waugh: Yeah, I mean, I was just gonna say if I. Because I was checking out, like, the trains and there's not really a direct train, so if I could come in a little after rush hour, that would be great.
+Christopher Hume: Yeah, yeah, yeah.
+Jack Waugh: I'm probably gonna just drive in and I was gonna ask, I don't know, is there, like, you know of any garages nearby or anywhere?
+Christopher Hume: What kind of car do you have?
+Jack Waugh: I've got, like, a Honda crv. It's like a small suv.
+Christopher Hume: We have a tiny parking spot that you can try. I've never parked around. I've only parked in a spot like, once or twice. And then I always take the Metro. What you can do is the one. There's a park, I think there's a parking garage at the Target. I've never used it, so you can check that out. And then two, like, if you drive in, we can just make sure you move your car every two hours, worst case.
+Jack Waugh: Yeah, but I'll check on the Target one, too, and see. Okay.
+Christopher Hume: And I'll see the garage a little tight because we have Jackson's motorcycle in there. See if we can move that over.
+Jack Waugh: Yeah, Just keep me posted.
+Christopher Hume: Definitely. So, yeah, if you want to come in a little after rush hour, I was thinking maybe we could do like. Yeah. Stuff during the morning. Make sure we do some sort of lunch thing, probably. We always order in, but we'll have like a lunch. I think a bunch of the engineers are going to be here, so you'll get to meet a lot of the team. So it'll be fun. It'll be good. Nice to work in person every once in a while.
+Jack Waugh: Cool. Yeah, no, looking forward to meeting all you guys in person.
+Christopher Hume: I know, it's really weird, right? Like, you have no idea how tall I am. You know, funny stuff like that. Yeah, no, it should be great.
+Jack Waugh: Awesome. Cool.
+Christopher Hume: Cool.
+Jack Waugh: Oh, and do you want to keep. I know we had a check in tomorrow at 11:30. Do you want to keep that?
+Christopher Hume: Unless you need. Let's just leave it on the calendar in case HubSpot's giving you fits. But if you're good and you're just burning tomorrow, you just cancel it.
+Jack Waugh: Okay. All right, Sounds good.
+Christopher Hume: Cool. Thanks, Jeff.
+Jack Waugh: All right, man.
+Christopher Hume: Bye.

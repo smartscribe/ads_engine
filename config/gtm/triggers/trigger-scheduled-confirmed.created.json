@@ -1,0 +1,28 @@
+{
+  "path": "accounts/6258528322/containers/200880687/workspaces/24/triggers/66",
+  "accountId": "6258528322",
+  "containerId": "200880687",
+  "workspaceId": "24",
+  "triggerId": "66",
+  "name": "Calendar Scheduled Page View (jotpsych.com/scheduled-confirmed)",
+  "type": "pageview",
+  "filter": [
+    {
+      "type": "contains",
+      "parameter": [
+        {
+          "type": "template",
+          "key": "arg0",
+          "value": "{{Page URL}}"
+        },
+        {
+          "type": "template",
+          "key": "arg1",
+          "value": "/scheduled-confirmed"
+        }
+      ]
+    }
+  ],
+  "fingerprint": "1777925930837",
+  "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6258528322/containers/200880687/workspaces/24/triggers/66?apiLink=trigger"
+}

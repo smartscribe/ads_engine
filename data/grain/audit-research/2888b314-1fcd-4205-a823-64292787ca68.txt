@@ -1,0 +1,203 @@
+Jack Waugh: I'll give you a sec. Okay. Here we go. Okay. Hey Donna, how are you?
+Donna Williams, LCSW-R: I'm fine. How are you?
+Jack Waugh: I'm doing great, thanks for asking. Yeah. Appreciate you taking the time. Glad. Glad we get to talk face to face a little bit. I know you had booked a meeting with us, so I just kind of wanted to. To ask, you know what. How did you hear about jot Psych and what. What kind of made you interested in trying us out?
+Donna Williams, LCSW-R: Oh, I just synced it on probably either Facebook or I went through my email or something and I'm just. Was looking for something that could write notes for me because it takes me so long to do notes.
+Jack Waugh: Gotcha. That's good to know. I mean that's actually kind of our sweet spot. So we typically like. And I'll. I'll ask you like right now, are you like a. A solo provider? Are you part of like a practice?
+Donna Williams, LCSW-R: A little bit of both. I work in the clinic and I am a provider. I have my own private practice.
+Jack Waugh: Gotcha. That makes sense. How long like on average would you say you're spending on like notes and charting per week right now?
+Donna Williams, LCSW-R: Shoot, I don't know. A lot.
+Donna Williams, LCSW-R: Yeah, probably what I can count. Like I get so behind and I have to pay play catch up. Because if I have people back to back to back, I can't finish a note before I go to the next person.
+Jack Waugh: Right.
+Donna Williams, LCSW-R: So what I'm trying to do is kind of record so I won't forget stuff and then I go back listen to record. That just takes a whole lot of time. Like that's taking much of my time because now I go back and listen to the voice note that I made to just do a note and it might be like an hour session and I only need like five minutes to do the of note stuff in like. And I didn't spend two hours listening to the same thing just to get five minutes of notes. But I, I just have to. That's the, you know, I'm not 25 no more. My memory is, is catching up with my age and I have to do that to just remind myself. That's the only way I know how to do it. I can write notes, but sometimes it takes away from the session. I mean it's. And people don't really like it when you do that sometimes. So I try to find a way where I can give them my whole attention but then be able to go back and do the notes. Some systems have AI guests or some kind of note taking thing and so I was just trying to. How I can hook that up for myself and make it easier for me.
+Jack Waugh: Gotcha. Yeah, so that's really helpful to know and I'll kind of walk you through what we do and then I'll show you like a demo of how JOT Psych works and kind of show you how you could get set up for your practice. So, yeah, I mean, we're one of the few AI scribes that's trained specifically for behavioral health clinicians.
+Jack Waugh: So what this means is like when we trained our system, the language was trained specifically for notes that were more likely to get approved through insurance for psych professionals. And this means a few things. And basically the way it works is like you'll, you'll use it and I'll walk you through, but you'll have like a fully HIPAA compliant note before the next patient even walks in. So it's very quick. It typically saves providers anywhere from five to eight hours per week on their notes and charting. So it's a huge time saver for people. And the nice thing is it just lets you actually be more present with your patients. You're not like you're saying, like, having to listen back to the note and trying to get it done before the next patient comes through. It just kind of takes that off your hands and makes the whole process easier. So I'll show you how that works and I'll share my screen here. And yeah, essentially what, what it does is in about 30 seconds, it'll just generate a fully HIPAA compliant note that's already formatted, ready to go. So it's not just the scribe, it's the actual translation of that into a note that's already set up. So it doesn't have to be formatted for billing purposes later. So let me go ahead and. Oh, and are you. Are you actually logged into JOT Psych right now?
+Donna Williams, LCSW-R: No.
+Jack Waugh: Okay, let me. Have you. Have you had a chance to use it at all? I don't know if you've ever used. Okay, so let me go ahead. I'll reinstate you your trial so you can log in. Just give me one second. Okay, cool. So you should be able to log in now. It looks like you're donna.williamspired counseling services.com under that email. So if you want to log in, you can. That way you can kind of follow along as I'm sharing my screen and showing you how it works.
+Donna Williams, LCSW-R: Okay.
+Jack Waugh: And while you're doing that, are you. Are you doing a lot with like, sort of like standard intake and progress note forms? Are you doing more with like, medication and add on psychotherapy type notes?
+Donna Williams, LCSW-R: No. Okay. Initial notes. I'm a therapist. I don't do medication management.
+Jack Waugh: Gotcha. Okay, so that's cool because I'll show you. The nice thing about job psych also is we have templates that are very tailored to exactly that. So we have already set templates that are set up for like, an intake note for when you first see a patient, and also progress notes for when you're seeing a patient again the second time. So I'll show you that in just a second here. But. So take your time and once you're logged in, just let me know. And you should see this screen here.
+Donna Williams, LCSW-R: Oh, you want me to log in?
+Jack Waugh: Well, if. If you don't mind. I mean, if you have a second, that might be helpful. So that way you can actually follow along as I'm kind of walking you through it. It.
+Donna Williams, LCSW-R: It's like my screen froze.
+Jack Waugh: Oh, okay. No problem. Here, I'll. Maybe that's. Unless that's mine. Maybe. Yeah, you need to log in. Oh, yeah.
+Donna Williams, LCSW-R: Oh, you see here? Yeah. Can you.
+Jack Waugh: Can you hear me?
+Donna Williams, LCSW-R: Okay, I can't see.
+Jack Waugh: Oh, let's.
+Donna Williams, LCSW-R: Let's see. See? Okay.
+Jack Waugh: Yeah, let me know. Are you.
+Donna Williams, LCSW-R: Are you able to hear me? Fine.
+Jack Waugh: It's just the. Huh. And that's. That's just the video. Like you can. Hear what I'm saying?
+Donna Williams, LCSW-R: Okay, I can hear you.
+Jack Waugh: Okay, let me see. It. Hey, Donna, can you hear me okay?
+Donna Williams: Yeah, I came on my phone, so.
+Jack Waugh: Okay, no problem. Yeah, sometimes it can be tough like juggling different things or, you know, just WI fi connections or spotty on different devices. So I know how it is. So let me see here.
+Jack Waugh: I can what I can do, I can share my screen, but also if you want. Are you able to log in on your compute to follow along as we're talking on the phone here?
+Donna Williams: I'm trying to.
+Jack Waugh: Sure. Yeah. Take your time. It should be jot psych.com and there should be like a little login panel right there.
+Donna Williams: I'm just getting a circle. I might need to just start over or something. I don't know.
+Jack Waugh: Yeah, it sounds. Sounds like a possible WI fi or connection issue, but take your time. No rush at all. And you know, if not login, I can always show you on my end and try and kind of share here over the phone. So just let me know if you're still having problems with that.
+Donna Williams: Yeah, if you just want to go on and get started, like show I can look on the phone, I can kind of see what's happening.
+Jack Waugh: Sure, no problem. So here I'm going to share my screen here and I'll kind of just give you the basic walkthrough of how you would go about using JOT Psych. So first, see this window? See how we have our panel on top here of different selections you can make?
+Donna Williams: Yes.
+Jack Waugh: Okay, so the first thing you'll do when a patient walks in is you go to this record window.
+Donna Williams: Uh huh.
+Jack Waugh: And it's pretty simple to use for your case. I think you would. You don't have to select a patient, but you can if you want to. Some people prefer to just leave patient names blank, so it's totally up to you. But if you'd like to just type in their name, you can do that in this little tab here. And then the next thing you'll do is you'll just select which template you want to use. So we have different templates set up for how you want the note to be populated from the encounter. So this is like a pretty standard one would be like an intake template for when you see a new patient. And then you don't have to do anything else. Once you get those two settings set up, you just hit this Start record button.
+Donna Williams: Okay.
+Jack Waugh: Let this go for a minute. Obviously we're not going to do like a whole patient encounter right now, but I'll show you some examples of patient encounters and what those notes look like. So when you're done, you would just hit the stop recording button.
+Donna Williams: Okay.
+Jack Waugh: And then once it's done, you'll click this, this Generate note purple button. And you can also type if for some reason you need to like add additional things there. Or if you need to make like a second recording, you can do another one before the note generates. But once you're ready, you hit Generate Note. Then I'll leave this up even though we're not doing a real patient encounter. Just to show you about how long it typically takes, but it's normally about that quick. And you'll have a pull up one to show you what an actual note will be. But you'll have a full patient encounter that's fully HIPAA compliant in like less than 30 seconds. So before your next patient walks in and this is what the note looks like. So I'll let you read through this. I'll scroll slowly. If you. I'm happy to read some of it. I know it's probably on the phone, so I can always read some of it, if that helps. Yeah. So that summary, chief complaint, HPI, 45 year old male, presents for a follow up psychotherapy visit. Has a history of depression, anxiety and ptsd. Ongoing struggles. I believe it lists CBT and interventions. Here we have a medication tab.
+Jack Waugh: So if you make changes to their medication or in this example on an intake, if it's a patient who's walking in and you need a list of their current medications, it'll automatically pick that up here.
+Donna Williams: Okay.
+Jack Waugh: And what dose they're on as well, which is obviously helpful so you don't have to dig back through that Sleep patterns test and scores like The PHQ and G87 mental status exam safety assessment also we do a really comprehensive safety assessment here. And then this is really great. We also automatch DSM codes and ICD codes and CPT codes for billing purposes.
+Donna Williams: Okay. Neat.
+Jack Waugh: Yeah, so whatever. Like you don't necessarily have to even make a diagnosis. Like we'll just set these codes and kind of suggest them for you to look over. Or you can make one and we'll adjust it based off of that. But there are all your DSM codes. Follow up email also will generate for you to send to the patient.
+Donna Williams: Okay.
+Jack Waugh: And then ICD and CD codes here. So I'm just going to pause there really quick because I know that's a lot of stuff at the same. Does that all make sense so far?
+Donna Williams: Yeah.
+Jack Waugh: Awesome. So does this template look like about what you would need from a note?
+Donna Williams: Yeah.
+Jack Waugh: Gotcha. Anything that. Because you can also set these up if you need to customize them. You can add things. But is there anything you would additionally need on a template like this or does this look about like what, what you would need.
+Donna Williams: It would be for my practice. About what I would need.
+Jack Waugh: Yeah. Right. If that makes sense.
+Donna Williams: Hold on, let me.
+Jack Waugh: Sorry about that.
+Donna Williams: That's okay. I just switched to the computer.
+Jack Waugh: Cool. Awesome. Yeah. So if this is set up the way you would like, then you might not have to make any changes. If you ever did need to change a template, you could go over here to note templates under documentation, and then you could take this intake template. You would just hit this little duplicate button up here, and then you could actually edit it to add any sections you still want on the template. So say you wanted a section for whatever it might be, child developmental history. You could just add that to the template, and it could add that to the node. You may not need that. You might find the intake template as good as is. So just another option. Hey, Donna, can you hear me? Okay.
+Donna Williams: I don't know what's happening.
+Jack Waugh: That's okay. No problem at all.
+Donna Williams: Something's happening.
+Jack Waugh: That's all right. Yeah, I know sometimes it's just a service thing or. Well, anyway.
+Donna Williams: Okay, that's the best. Look, I didn't see. Okay, you can hear me?
+Jack Waugh: Yes. Yes, I can hear you. Okay.
+Donna Williams: Okay, I see the intake copy. It says summary at. What's that? And playing HPI medications. That's fine.
+Jack Waugh: Yeah. So this is just if you need to, like, add sections, but I'm going to pull up the note here again, too, so you can, now that you're on your computer, take a closer look at what all these different sections are here. So this is, like, what it'll populate with.
+Donna Williams: Nice. Okay.
+Jack Waugh: Yeah. So medications will just be picked up here, like we were mentioning, and then. Yeah, all the code, safety assessment. So that's kind of how it works. It's very easy to use. You just go to the record window, select the template, and we kind of do the heavy lifting for you. And the nice thing is again, since this formats this to be HIPAA compliant before you're submitting the note. On average, practitioners who use JOT psych will save anywhere from like five hours up to like we've heard like ten hours a week from people. So it's a big time saver. It just makes it so you can be more present with your patients and not constantly having to focus on like you know, the weeds of all the administration work and all the charting. We know, we know how tough that can be. So, and I'll mention this as well, something pretty cool we do. Do you ever have to write like certain like clinical documents for patients? Like maybe like an accommodation letter or prior authorization?
+Donna Williams: They might ask or.
+Donna Williams: Yeah, you might have to.
+Jack Waugh: Yeah, so there's actually a way. I'll show you. We actually will do that for you. So see this patients tab up here?
+Donna Williams: Yes.
+Jack Waugh: Okay, so if I click one of these patients here and I see this little documents button
+Donna Williams: where make a circle with your. Oh, okay.
+Jack Waugh: Yeah, very bottom of the. Yeah, so you just click on that and then it can be for anything. Here's like an ESA letter, maybe a workplace accommodation, but you can type in whatever it might be.
+Donna Williams: Okay.
+Jack Waugh: And we will actually auto generate you a clinical document for that patient and just write it for you.
+Donna Williams: Oh, cool.
+Jack Waugh: Yeah, it's helpful. You know, it's just another thing to make life easier and you know, that way you don't have to spend more time writing emails and this can really do anything. So any sort of thing you might need to send to a patient, as far as a clinical document goes, it can, can make for you.
+Jack Waugh: Okay, so let me, let me just take a minute to pause there for. Oh and then also this is a cool tab because diagnosis, medications, if you ever need to like reference what's up to date, bless you in a patient encounter or like in a patient's profile, it'll just automatically update here under their patient tab.
+Donna Williams: Now do we have to put that in or do we just put. If we just met somebody and they doing the end thing and they just telling me stuff, is that note gonna generate a diagnos or am I going to have to go in and put it in?
+Jack Waugh: No, you don't have to generate any of these. We will automatically populate these two. As long as you've hit record and you've made the note, then all of these will get updated. So like I never physically entered any of this in here. This was all just because I made a note with this patient and it updated it in their chart automatically from the note.
+Donna Williams: But did you come up with the diagnosis or did your note just populate the diagnosis?
+Jack Waugh: Yeah, so basically those are suggested diagnosis.
+Donna Williams: Okay.
+Jack Waugh: Yeah. So essentially it's still up to you to look over, of course, to make sure you agree with the diagnosis. But based on the session, we will like suggest these codes and it's normally quite accurate as far as these diagnosis codes go.
+Donna Williams: Okay.
+Jack Waugh: So you can look it over, of course. And if you want it to change, you can always change what diagnosis it's using. You can click this edit over here. But. But otherwise, yeah, it's just kind of like we'll pull these up for you so you don't have to like do all the searching for the codes and all that.
+Donna Williams: Okay, cool.
+Jack Waugh: So any other questions about jot psych so far about how it works or how it might help you?
+Donna Williams: So far so good.
+Jack Waugh: Cool. Any other things that you would hope like an AI scribe like this would be able to do for you?
+Donna Williams: Maybe have like this. You know what the CSSR is?
+Jack Waugh: I believe so. So meaning as a part of template.
+Donna Williams: As a template, like when I work at the clinic and somebody comes in with suicide ideations and I want to a CSSR like at the clinic on epic, because they have epic, it just has those sections of risk assessment, the lifetime, the since last visit and the safety plan. It just all like those gories come up so I can push them and the questions will come down. Like I don't have to go look at the questions or add questions into the note.
+Jack Waugh: Gotcha. So we actually do have a CSSR screener built in here to jot psych that you can send out to patients. You can also upload your own if you have something a little more comprehensive. So does this look like the kind of screener you would need or do you need something more specific?
+Donna Williams: I mean this might be good for my practice. I just, I just know at work when those, when those topics pop up, the questions are there. And then I have been doing like some part time work somewhere else and they type all that stuff in and I'm like, I ain't got time to go to.
+Donna Williams: Type all the questions in and do all that. Whereas because I'm so used to at work, like, if you come in and tell me suicide ideations, I go into lifetime cssr, the questions pop down. I go over the questions with them, and then I can go to the safety plan, it pops down. I can ask all the questions to develop the safety plan.
+Donna Williams: Then I can risk assessment. All the questions pop up, like, and I just. I'm just answering the questions and filing the document into. I don't have to, like, at the other place, write all the questions in there and write the answers in. Like, I just don't have time for that. And then I remember all those questions. So that means I gotta have the questions around. I gotta look, go look up what CSSR questions are. So maybe I'm spoiled, but, like, I don't have to look for it because I know if I push suicide ideations, the four sections don't pop down. If I pick a session, a section, all the questions for that section is going to pop down and then I can just file the document.
+Jack Waugh: So what you can do here, would you need that CSSR to be. Is it like something you send to a patient before meeting with them or is it something you're filling out during the meeting?
+Donna Williams: It's something I will fill out with them because I need to hear the answers. I need to know if they had suicide ideations last month. I need to know if they wish they was dead, if they actually had the thoughts of killing themselves. Did they have a plan? What was your intent? Like, I need all of that information to know what to do as far as the therapy piece is concerned.
+Donna Williams: Like, do I need to suggest an inpatient stay or do is the safety plan. Can they. Can they. What's the word? Consent to or agree to safety? Like, can we do a safety plan and they agree to follow the safety plan?
+Jack Waugh: Right.
+Donna Williams: Those things are important because it's going to determine whether I'm calling the hospital saying, hey, this patient needs to come in, or whether I'm going to be okay with a safety plan and maybe speaking to somebody's partner, like their husband, and say, hey, we got to do a safety plan. Are you willing to help them with the safety plan? It's just going to determine what I'm going to do next.
+Jack Waugh: Gotcha. So that, yeah, that makes a lot of sense. I will show you how you can actually set that up in jot Psych here. So remember how before I mentioned if you go to documentation and then note templates here. Yeah. You can duplicate a template and then you can actually edit it. So you just click that little clipboard icon in the upper right hand of the screen and it'll duplicate it for you. So from there, the cool thing is what you can do is you can add a section and you can actually add a custom section. It doesn't have to be one of our preloaded ones here. So there's a suicide risk session. I know. Like, this might actually be pretty close to what you're looking for.
+Jack Waugh: Okay, Does that look about like the kind of preliminary.
+Donna Williams: But it wouldn't. Not the whole cssr because they have like.
+Jack Waugh: Right.
+Donna Williams: They have the whole thing like where it says suicide intent, like on the CSSR for suicide attempt, it asks more specific questions about the intent and, and the method and stuff like that. It is. Can be a lot of patients, people don't like it because they, they said it's too much.
+Jack Waugh: Gotcha. So what you could then do is this is what I would recommend you do because this will set that up. That way you can type in the safety assessment here. We, I mean, we have a couple of them. There's also this one here which is a little more detailed, but you can pick whichever one works better for you. You would click add and then you would just hit save here. And then what you can actually do is when you go to load this template later, like here, I'll show you an example here. You would find that section in here. I know it's not on this template specifically. You would find it. And let's pretend this was the suicide assessment we just talked about. You could actually go over here and then say going forward, include all the following details about CSSR and you could tell it all the things you want in that section. So you would just use this AI note assistant and then we would output that in that exact format.
+Donna Williams: Okay.
+Jack Waugh: Now I'll give you one other option that you have, because if that's a number of steps or if you want to actually upload your own intake template. The really cool thing is we also have custom templates. So if there's a format you're used to working from and there's something you really like, You would go here to documentation and then note templates, and then see this little upload template button here? You can actually just drag and drop it in or if you want to just paste all the text of it and we'll actually just build out that whole template that you're used to working from for you in JOT Psych.
+Donna Williams: Oh, okay.
+Jack Waugh: And I'll show you an example of one. This is one I built myself. Someone who I met with had requested a CBT template.
+Donna Williams: Okay.
+Jack Waugh: And again, I didn't do any work. All I did was I just told it what headings to do. So I told it. Okay, give me cognitive behavioral summary. What's happening in the session Measurement based care interventions. I just typed in all of these little headings here. And then it knew what to do to populate every one of them when I ran the patient encounter.
+Donna Williams: Okay.
+Jack Waugh: Does that, does that kind of make sense? So for you, you would be like inputting like CSSR on one of these sections and then with the kind of bullet points of what you wanted it to do and then any other sections that you're used to working from. And then we'll actually just that note that note template into our system so it can actually populate it from the recording.
+Jack Waugh: Okay, Does that make sense how you would. How you would get to that?
+Donna Williams: Yeah.
+Jack Waugh: Okay, awesome. So any other questions you have about JOT Psych or how you would kind of go about using it?
+Donna Williams: Not right now, and I probably would later.
+Jack Waugh: But yeah, what we can do, I mean, we can meet again in like another week or so and just kind of check in to see how you're doing with everything. And then in the meantime. Oh, hey, Donna. Did I. Did I lose again?
+Donna Williams: No, I'm here.
+Jack Waugh: Okay. Sorry, I thought my screen just. But yeah, anyway. Well, in the meantime, what I can do for you is you have the two weeks and then in addition to that, I can give you a month for a discount at like $20. That way I think it gives you like 45 days to keep using JOT Psych and make sure it's working for you.
+Donna Williams: Does that sound good? Yeah, that sounds good.
+Donna Williams: Okay, well, we haven't talked about pricing if I wanted to keep this for a year. How much is it?
+Jack Waugh: Yeah, so the first month is $20. Cause that's the discount we give everyone who signs up. So after that it depends on a couple of things. Are you. You're just you at your practice, right? There's not other providers?
+Donna Williams: Okay, I have, but I don't know if they want this? It depends on. I want this. Yeah.
+Jack Waugh: I just ask because sometimes it's a little different if you say, oh, my own practice, there's like. Six or seven other providers who would also want to use this, then. Then it changes a little bit. But basically, if it's just you after the first month, if you're paying month to month, it's 150amonth. And then if it's you're paying for the year, it comes out to about 135 per month.
+Donna Williams: 135 per month?
+Jack Waugh: Yeah, but that's why we give you the trial and then the discount month first, so. So you can make sure that that's working for you and doing everything you're hoping it's going to do.
+Donna Williams: Okay.
+Jack Waugh: Yeah. So for now, I'm happy to help you get set up with that. And then we can also touch base in a week and check in to see how it's working for you. But in the meantime, if that all sounds good to you, I can approve you for the discount month and help you get set up there.
+Donna Williams: Okay, so what would you need? The $20?
+Donna Williams: Can I do my free trial? And then if we talk, then what will happen? I want to try it first before I.
+Jack Waugh: Yeah, you're more than welcome to. The only reason I mentioned that is because I have to give the discount while we're on the phone. And just in the new year, I don't always know what our pricing will look like, so sometimes, like, we offer a discount and then it doesn't always stay. So I just wanted to help you get set up with that while we're talking. And we could also meet before that would hit, so you don't feel like you're getting charged unfairly, But I just wanted to help you get set up with that today if you'd like, so that way you can actually take advantage of it while we do have it.
+Donna Williams: So today, are you saying $20?
+Jack Waugh: Yeah, it won't be today. You. You would just input your information and it would be two weeks from today because you're still. You still have the trial going for two weeks. It'll be like two weeks that you're getting it totally free. And then in two weeks from today, it would be $20. And then after that you would be on the month to month or yearly if you decide to go yearly.
+Donna Williams: So. Okay. I just want to make sure you check back with me in case I don't want it.
+Jack Waugh: Absolutely. So what we can do. Yeah, I'm happy to do that. We can actually meet next week because I don't want you feeling like you're getting blindsided by something. I think you're actually going to really find this helps you a lot, but just in the worst case scenario. If for some reason you did want to cancel, we can meet next week so that way you don't feel like you're. You're getting blindsided by anything.
+Donna Williams: Okay, awesome.
+Jack Waugh: Well, I'll set that up and in the meantime, I can help you get set up for the discount here. So are you able to log in to. To Johnson Psych?
+Donna Williams: I don't. I don't know.
+Jack Waugh: Yeah. If you are able to, that would. That would be great because I also want to make sure you can get into the platform. Actually, actually use.
+Donna Williams: Come on. Just a minute.
+Jack Waugh: No problem. Take your time.
+Donna Williams: Okay. It's asking me to sign in, but I don't have no password.
+Jack Waugh: Yeah, so you can do. I can at least tell you the email that I have and then you can do. Forgot password if you need to.
+Donna Williams: Oh, what. What email do you have?
+Jack Waugh: Let me check here. I believe.
+Donna Williams: See, You probably have Donna Dot Williams.
+Jack Waugh: Yeah, it looks like it. Let's see Donna Dot williams@inspired counselingservices.com.
+Donna Williams: Oh, it says invalid state.
+Jack Waugh: Let me. Okay, let me check on that really quick. Just in case it didn't. It should have updated, but let's just make sure. You could try. When you log in and you type in that email, did you try clicking the forgot password button?
+Donna Williams: I went to something. It went to something else, but I'm gonna try it again. It says login.
+Donna Williams: Okay, let me just see. It was hot.
+Jack Waugh: Where are you based?
+Donna Williams: Around and in New York.
+Jack Waugh: Oh, okay. You guys just got hit with this snow. We're based in D.C. so I know.
+Donna Williams: Far away from each other.
+Jack Waugh: No, no, not too far. Yeah, this. The snowstorm we got. It's. It's. I can't remember a time where I've seen snow, like, not melt for so long. I mean, it's just been so cold the last few weeks.
+Donna Williams: Need help getting started? Click here to schedule where I'm on with the person. Hold on.
+Jack Waugh: Yeah, take your time. And if for some reason that email doesn't work, I can always help you get set up with another email.
+Donna Williams: Okay, this screen that I have, let me see if I can share with you what I have. Not sure, but I'm gonna try.
+Jack Waugh: Yeah, it should be like a little share screen button in the bottom of our window. It's like a computer icon with, like an arrow pointing up.
+Donna Williams: Choose. Oh, okay. Here's the windows. It's asking me to choose one. This one?
+Jack Waugh: Yep. There you go. That's it.
+Donna Williams: And this is the screen that I see.
+Jack Waugh: Yep. You're in the right place. So there are, like, all your windows on top, like the record window and the documentation window.
+Donna Williams: Yeah, yeah.
+Jack Waugh: So just to get you signed up for the. For the discount, you would go to your practice. And then see your subscription. Yep. And then you would just click add. Payment method.
+Donna Williams: Well, it says 150amonth.
+Jack Waugh: Yeah, that's. So that's the normal price, but you won't be charged 150. It's just because I have to approve it manually on my end. And then it'll. It'll be dollars.
+Donna Williams: Okay. Word. I'm okay. Okay. You show. Okay. Yeah. About to get on my nerves.
+Jack Waugh: Okay, so it looks like you're all set. So I'll go ahead and approve you for that on my end. And then we'll also meet next week before the $20 a month would even hit. So we can check in and make sure you're liking everything. And I can help answer any questions from there and we can kind of go from there.
+Jack Waugh: Okay, so let me see what I have available for next week. Give me one second here. See, I could do. How is next. I'm just gonna double check something here. Maybe Thursday.
+Jack Waugh: Actually, if you can do Wednesday the 18th, would that work for you? Maybe around noon?
+Donna Williams: No, Wednesday or Thursday. I'm in Kingston. I'm not even.
+Jack Waugh: Oh, no problem.
+Donna Williams: I work in a clinic in the basement. There's no connection.
+Jack Waugh: Gotcha. How was Friday the 20th for you?
+Donna Williams: Oh, Friday the 20th. I could put something down for Friday the 20th.
+Donna Williams: Okay, this depends on what time are you talking about?
+Jack Waugh: Do like 12:30, if that works for you.
+Donna Williams: Okay.
+Jack Waugh: Okay, awesome. So I'll send you another email and that's. Yeah, for Friday the 20th. Put your email. I'll send it to that same email. Give me one second here. Okay, should be coming into your inbox now. Let me know that you received that.
+Donna Williams: Yeah, okay.
+Jack Waugh: Yeah. Well, if you're able to between now and when we talk next, see if you can use this on, you know, five to 10 patient encounters. And then, you know, I can answer any questions. And if you want to email me if you have questions in the meantime, feel free. And then otherwise we can touch base next Friday.
+Donna Williams: Alrighty.
+Jack Waugh: Okay, Donna, well, talk to you then. Thanks.
+Donna Williams: All right, thank you.
+Jack Waugh: Bye.
+Donna Williams: Bye.

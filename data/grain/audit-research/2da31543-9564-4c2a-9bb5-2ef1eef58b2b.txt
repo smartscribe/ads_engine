@@ -1,0 +1,226 @@
+Jack Waugh: Hi. Hi. How are you?
+Chioma cynthia: I'm doing all right. Hi, Jack.
+Jack Waugh: Good to talk to you.
+Chioma cynthia: Yeah.
+Jack Waugh: Yeah. Well, appreciate you taking the time. Yeah. Basically just kind of wanted to ask you how you heard about Jotsy. What. What kind of made you interested in trying this out?
+Chioma cynthia: Okay.
+Jack Waugh: Oh, I'm. I'm sorry. I didn't. I didn't catch that. Do you mind?
+Chioma cynthia: Are you hearing me now?
+Jack Waugh: Yes. Yes.
+Chioma cynthia: Okay. No, I said I think I saw the. The app either on Instagram or on Tick Tock.
+Jack Waugh: Okay, Very cool. And yeah, what. What about Jot. Psych, when you saw the ad was, like, appealing. Was it like trying to save a little bit more time on your notes or something else about it that was interesting.
+Chioma cynthia: Say that again.
+Jack Waugh: Well, I was just wondering was when you saw the ad, was there something about it? Specifically that you were hoping jot Psych would be able to do as far as like helping you save time on notes or. Or something else that you were hoping it would do for you?
+Chioma cynthia: Yeah, I was hoping that it saves time helping me to make. To write my notes and perhaps I really don't know exactly what they do because I've, I've. I've met some that will help you with the differential diagnosis and stuff like that. So I'm just open to see experience, then I'm able to make the right choice for the right basically to a faster note.
+Jack Waugh: Yeah. Okay, awesome. Well, that's actually kind of our sweet spot, so that's good to hear. And how much time would you say you're spending on charting and notes right now? Like per week?
+Chioma cynthia: Just like a ballpark actually, because I just have not yet started seeing Patient. And like I told you in the beginning, I'm trying to set up my own platform. I'm working with a Headway, so in order so to set up my own private practice. So by the time I'm. I'm done with them then. Because I know that Headway, they have a standalone that they use. Okay. So they're not into all these new ads, but for my own private use, it's something that I would like to have. So I'm making all the preparation now in order to select the test that will suit my practice.
+Jack Waugh: Okay, awesome. And yeah, in a second what I can do is I'll share my screen with you and just kind of through how everything works. But that's helpful to hear. So are you only seeing patients at your new practice right now or are you also seeing patients at like your past practice as well?
+Chioma cynthia: No, actually right now I'm not seeing any patient. I'm still working with some collaborators.
+Jack Waugh: Okay, very cool.
+Chioma cynthia: So that I'm saying. So trying to set up with. I think I have to work with headway. So headway. The way it works is that they are going to give you patience and. But you have to have a collaborator that will help to audit your job and make sure that you are doing the right thing. So I've been having a couple of interviews with them to start with them, but I don't intend to stay with them for a long time. All I needed to be just to get the experience then set up my own private practice. So that's where you guys. Your own app comes in. I needed something of my own that I can integrate into my own platform.
+Jack Waugh: Yeah. Okay, cool. So I'll kind of walk you through some of those customizations as well that you're mentioning and making sure we can go over how to, like, tailor everything to what you would need it for. I'm going to share my screen. Did you? It looks like I know for a little bit. I gave you. Maybe you tried Jot Psych recently. Did you get a chance to make any notes with it or have you?
+Chioma cynthia: Not really, no. Because it doesn't make any sense to me. So I stopped.
+Jack Waugh: Okay, okay, let me. Let me go ahead and extend your trial here so you can actually log back in and that way you can follow along with what I'm doing here.
+Jack Waugh: Okay, give me a second. And I think the email I have it under here is chy nky. Okay. So you should be able to log back in now.
+Chioma cynthia: How do I log in? Do I have to go to you guys site?
+Jack Waugh: Yeah, so you would just go to JOT Psych and you'll see this screen when you log in. But you would go to jot psych dot com.
+Chioma cynthia: Okay, I'm supposed to log in, right?
+Jack Waugh: Yeah. And that way you can kind of like follow along with what I'm doing. Yeah, no problem. And take your time. If you. If you want to do like forgot password, you can do that.
+Chioma cynthia: Okay.
+Jack Waugh: And take your time. Just let me know when you see this window here.
+Chioma cynthia: Yeah.
+Jack Waugh: Okay, perfect. Okay, so I'll show you kind of how it works. And you can feel free to just stop me at any time if you have a question or if something isn't making sense. But it's pretty straightforward. So what you're going to do first is you're going to click on this record window. See at the top of the panel here?
+Chioma cynthia: Yeah. Okay.
+Jack Waugh: Yep. So this is where you go to record a patient encounter when the patient walks in.
+Chioma cynthia: Okay.
+Jack Waugh: Okay. So we have our patient here. You can really enter no name if you want. If you want to leave it blank, or if you want to enter and keep a log of which patient it is, you can just enter a new patient here and then what you would. Oh, yeah. So there's. See this little patient drop down here.
+Chioma cynthia: How did you get there? You know what? Let. Let me minimize. So I can follow you up.
+Jack Waugh: Sure, sure.
+Chioma cynthia: Take your time. Yeah, so that. Okay. So that I can be seeing what you're doing. No problem. Okay, So I can follow you now.
+Jack Waugh: Okay, perfect. So you're going to go to this. See this record button up here.
+Chioma cynthia: I don't have that.
+Jack Waugh: It should be kind of. You see like the top of your screen here with these different menu items up here.
+Chioma cynthia: Okay, I've seen it. Yeah, yeah.
+Jack Waugh: So it's the one all the way to the right that says record.
+Chioma cynthia: Yeah. Serra card. Okay.
+Jack Waugh: Okay, you see this? So is this window opened up here now with all the different. Okay, perfect.
+Chioma cynthia: Yeah.
+Jack Waugh: So what you'll do first is you'll enter the patient information. If you don't have to enter their name, but you can if you want to.
+Chioma cynthia: So if you want to, just enter in any name. Okay. Okay.
+Jack Waugh: And then as far as session type. So we could just do psychiatric intake for now for our template. Right. We have different. Templates loaded into JOT Psych, depending on what you need it for. But intake is probably a good starting point because that's like if you have a new patient who walks in.
+Chioma cynthia: Okay, I have the.
+Jack Waugh: Oh, yeah, I should say like choose a template and then you should see like psychiatric intake selected can.
+Chioma cynthia: No, I think he put somebody's record. A different patient. Okay. Okay. Do I say create a new patient or enter.
+Jack Waugh: Yeah, you can do either.
+Chioma cynthia: So you can. Yeah, ask a couple of.
+Chioma cynthia: Date of birth, ID identifier, blah, blah, blah.
+Jack Waugh: Oh, yeah. So all of that, you don't have to put that information. You see there's. It actually says optional fields. You just have to put their first and last name.
+Chioma cynthia: Okay, so enter.
+Jack Waugh: Correction.
+Chioma cynthia: Right. Okay, so we're next.
+Jack Waugh: Okay, so now we would go. That's right.
+Chioma cynthia: Section type. It says your template.
+Jack Waugh: Yep. Yes.
+Chioma cynthia: Have the psychiatric. Yeah, what I just said before. Or your practice.
+Jack Waugh: Yep. So you can do. I mean, depending on what you want me to show you. We have a couple different templates. So we have like an intake template here or if we have like medication with ADD on psychotherapy, if that's the kind of template you would like. But intake would be like the standard one for when a new patient walks in.
+Chioma cynthia: Okay. Yeah, yeah, I'm trying to understand. For the section type.
+Chioma cynthia: Section type you. Because it's not giving me the option here. That's what I'm talking about. So it's not giving me to choose. Whatever.
+Jack Waugh: Oh, that's because you have to click. I know why that is. So if you click this button here, see how it then says.
+Chioma cynthia: Yeah, yeah, yeah. Okay, makes sense. No. Okay, And.
+Jack Waugh: And that's all you have to do. So from there you're just gonna hit start recording.
+Chioma cynthia: Okay.
+Jack Waugh: And then you would just click that start recording button and you can make your recording.
+Jack Waugh: All you would need to do from there to generate the note is when the patient walks out and your recording is over. You would just stop here. And then. Yep. You click Stop recording. And then see the generate note? The purple button here, it says. Generate note.
+Chioma cynthia: Let me see. Generate note. Let me see why you click generate note. Okay. At the back of it. Because I didn't click.
+Chioma cynthia: I didn't click anything.
+Jack Waugh: Oh, okay. Right, yeah. And that's what, obviously we didn't really like record a real session here, but that's the button you would click to generate the note for you.
+Chioma cynthia: Okay.
+Jack Waugh: It's very quick. And the cool thing about Jot Psych is what we basically do is we'll output a full, fully HIPAA compliant note for you. It normally takes like 15 seconds. It's really quick. And you know, I'll show you what one of those notes looks like over here. So this is just like a pre loaded encounter. That should give you a pretty good idea of what. Okay. All right, here we go. Okay, so this is what. Can you see my screen here?
+Chioma cynthia: Yeah.
+Jack Waugh: So I'll let you read through this. This is what a pretty typical intake template would look like.
+Jack Waugh: So we have summary here, we have chief complaint, hpi. So I'll let you read through that quickly.
+Chioma cynthia: So, but these are HPI and blah, blah, blah. The computer generated too.
+Jack Waugh: So all. Yeah, all of this is generated based on the patient sessions.
+Chioma cynthia: You don't have to type in.
+Jack Waugh: Yeah, you're not typing any of it. It's picking it all up and already formatting it to be HIPAA compliant.
+Chioma cynthia: Okay.
+Jack Waugh: Same thing with medications. If you make a change to their medication, it'll update here in this section. Or current medications, sleep patterns, tests and score changes. Here's an assessment section. And then also, I know you mentioned diagnostics, so we'll actually auto match DSM codes and ICD codes for you based on the recording.
+Chioma cynthia: Okay. Yeah, yeah, based on the diagnosis that I chose. Right.
+Jack Waugh: Yeah. So it could be either or like you don't have to make a diagnosis, but you can if you make your diagnosis. We'll match those codes for you as well. Yeah.
+Chioma cynthia: Okay, but can you just generate diagnosis based on the patient's complaint?
+Jack Waugh: Yes. Yeah, it can. That's what this section is actually for. So if the patient just talks, it'll actually pull up these diagnostic codes just based on that as suggestions for you to look over. Yeah, and it's very accurate. It's. And we actually do the same thing. Oh. We also generate a follow up email for you for the patient too. And then also the billing codes here will match those as well. So like ICD and CPT codes will pull those up for you in this section too.
+Chioma cynthia: Okay.
+Jack Waugh: And the great thing about this is it's basically set up to be ready to go. So once you're done, you would just hit this copy all sections button and then you would paste it into your ehr. You see that button right here?
+Chioma cynthia: Yeah. It's a copy oil. Okay.
+Jack Waugh: Yeah. Once you've looked it over and you say, okay, it's ready to go, then you can paste it directly into EHR and you have that full formatting so you don't have to spend all the time. Clinicians who use JOT Psych typically end up saving anywhere from five to eight hours a week because of this process. Because, you know, it just saves so much time for not having to, like, write out everything and format everything properly. It kind of does all that work for you. So.
+Jack Waugh: Right, so I'll pause there really quick. Does that all make sense so far?
+Chioma cynthia: Yeah. Yeah, I think it's making a size. Okay.
+Jack Waugh: Okay.
+Chioma cynthia: And so I like. I like the fact that you give the option of copying from copying all the section, then you now transfer into the. Whatever is a standalone or template or whatever company has that you're working with. Okay. All right.
+Jack Waugh: And yeah, you can always go over here and click certain sections. If you don't want every section in there, you can just select the ones you want to copy. Okay. Yeah. And then you can just hit copy selected.
+Chioma cynthia: Gotcha.
+Jack Waugh: Yeah.
+Chioma cynthia: Okay. How about auditing? Do you guys audit?
+Jack Waugh: Yeah, so actually we do. We actually just released something called JOT Bill, where we're actually helping clinicians do the whole process of billing as well. So how it works is we will submit an eligibility check for you, like for your. All your patients first. So we run like a really wide, comprehensive eligibility check. And then after that, what we do is something called actually JOT audit. And it's like another step above what JOT Psych is here. The way what we're able to do is in addition to this HIPAA compliant note, we're then able to go and tell you exactly what language needs to change. So it's like a perfect note before it gets submitted. And then we actually will do that as well. We'll submit the note for you to insurance and handle and manage all of that. Does that sound like it might be helpful?
+Jack Waugh: Yeah, so that's. Okay. So that's actually a separate thing. So what I could do is I could book you on a separate meeting with our CEO Nate, and you guys could talk about that. That's our product called Jotbill. And I know we're also cheaper. We take less of a cut than companies like Headway do.
+Jack Waugh: Not to say you have to stop using headway. But just for what it's worth,
+Chioma cynthia: it's good to have an idea, I think, to have a second option and, you know.
+Jack Waugh: Yeah, well, I can. While we're talking, there's a couple more things I'll show you with jots, like, in a second. But while we're talking, I'm happy to set you up on that with our. Our CEO Nate.
+Chioma cynthia: No, no, no, no. Not right now.
+Chioma cynthia: Okay, well, yeah, down the line that I have that option also. Yes. Anything that will limit my time of staying and doing all this job is what I want.
+Jack Waugh: Yeah, absolutely.
+Chioma cynthia: You know, I want to. When. When the time comes, I'm gonna. I would like to experience this one first. Then I have your number, and I have your guidance, so I can easily connect it to.
+Jack Waugh: Yeah, we can. We can touch base on that after you've been using it for a while. And one other thing I did want to show you here really quick. If you go over to your patient tab, this is pretty cool. So if I pull up, see, like, up here, patients, and then you, like, select the patient. So in this tab here, if you ever need to, like, look up information about your patient, you can, like, quickly see it all in here. So any diagnosis will be listed and updated here. Any medications will be listed and updated here. And then I was also going to ask you, have you found, like, in the past, you had to spend a lot of time, like, writing clinical documents for patients, like an accommodation letter or a prior authorization?
+Chioma cynthia: Yeah, sometimes. Yeah. Where I did my preceptor. Yeah.
+Jack Waugh: So the cool thing is we actually will do that for you automatically. So if you go to that page, See this little document button down here?
+Chioma cynthia: Okay, hold on. Let me.
+Jack Waugh: Yeah, take your time.
+Chioma cynthia: Documentation. Okay.
+Jack Waugh: Yeah. So actually, this section would be under See Patients. It's next to documentation.
+Chioma cynthia: Yes. See, I saw click patient. Okay.
+Jack Waugh: And then you would just click this Sample.
+Chioma cynthia: Patient here. Sample. I'm trying to find it.
+Jack Waugh: No problem.
+Chioma cynthia: So I just choose one patient. I click on the patient. Okay, what next?
+Jack Waugh: Okay, so see at the bottom here? See this little documents button that pulls up? It's like the very bottom of the. You can also scroll.
+Jack Waugh: You might have to, like, hover your mouse and, like, scroll a little bit. But you should see it. It's in this bottom panel that pops up here.
+Chioma cynthia: It says document.
+Chioma cynthia: I can't find it.
+Jack Waugh: No problem. I'll make sure it comes up for you. Do you see, are you on the same screen that I'm on here?
+Chioma cynthia: Yeah.
+Jack Waugh: Oh, okay. I know why. So scroll down a little bit and you should see if you hover your mouse in this bottom area of the screen. You should see it come up.
+Chioma cynthia: Okay. Because I clicked on your Alfred. Apple said I'm trying to use the same I see record, I see diagnosis that you have there.
+Jack Waugh: These things.
+Chioma cynthia: No, I don't. I'm not seeing those diagnosis. And your, like, your medications, I don't have them.
+Jack Waugh: So do.
+Jack Waugh: Do me a favor if you don't mind. It should pop up, but you have to actually hover your mouse.
+Chioma cynthia: Okay. I have send form to patients, create a lab request form for patients, generate a clinical document. I believe that's it.
+Jack Waugh: Yes, that's the one right there.
+Chioma cynthia: Okay.
+Jack Waugh: All right. So you'd click on that and then all you would do. I mean it can be anything. Any like anything you want it to write. Here's like a academic accommodation. Yeah, but you can just type in prior authorization, whatever it is, and we'll actually write that out for you in like five seconds.
+Chioma cynthia: I see prior authorization for ML. Right. Like click and discharge and. Okay, this chest. Oh, cool. Let me write it down.
+Jack Waugh: Yeah, definitely.
+Chioma cynthia: Okay. Oh, so now that you have to learn.
+Jack Waugh: Yeah, yeah, definitely. It's a. It's a big time saver, you know, it's just there to kind of make your life easier and make it so you're not spending so much time on the, you know, documentation and lets you be a little bit more present with your patients and be able to focus on, you know, the important stuff. So does that all make sense so far?
+Chioma cynthia: Yeah.
+Jack Waugh: Awesome. Okay, so what I can do for you then you have the two weeks and on top of that, I can actually give you a discount month for $20. I think that gives you like 45 days in total to use jot psych and really try it out. Does that sound good?
+Chioma cynthia: Yeah, but, but how much? How much apart from the promotion then apart from your discounts? I'll come to a discount.
+Jack Waugh: Yeah. Ye.
+Chioma cynthia: But yeah, normally. How much does it cost monthly?
+Jack Waugh: Yes. Yeah, Good question. So it depends on a couple of things. Are you one provider at your practice or you guys a bigger practice? Is it like, is it just you.
+Chioma cynthia: For right now is just me because I know that headway will not. I will have to see if they allow this. But even if they don't, I have to find a way to use it because really set up. But I've not seen their standalone. But from the point of view if they are working to use. To use something like you guys. But they're working on it too to develop their own.
+Chioma cynthia: Yeah, but it's something that I would like to use regardless.
+Jack Waugh: Yeah. So basically and as far as our pricing goes, I just asked because if you have like a bigger clinic then our pricing changes a little bit.
+Chioma cynthia: I have a couple of friends that we are trying to build up our own clinic which is you know something that I will suggest to them for us to you know, make our work is just working on a couple of things.
+Jack Waugh: Cool. Well that's. That's good to know. Yeah. For the time being, if it's just you using it basically after the discount month it would be 150 per month or if you pay for the year like annually, it comes out to about 135amonth. So it just depends on which you want to go.
+Chioma cynthia: Okay. So now talk about the discount that you're talking about.
+Jack Waugh: Yeah. So the discount is what we will do for you right now. So that will give you a month for just $20. And that way you can really get a chance to use jot Psych. I think actually with the discount and the trial that's like 45 days in total. So. So gives you a pretty good stretch of time to use it. Yeah. Does that, does that sound good?
+Chioma cynthia: Oh yeah, yeah, yeah, I think so. $20. Okay.
+Jack Waugh: Yeah. Well I can help you get set up with that and I have to okay that from my end here. So I'll show you how to, how to set that up. So what you're going to do, you see your practice up here, Your practice and then you'll just click your subscription.
+Chioma cynthia: I see Practice subscription. Okay.
+Jack Waugh: And then you just click see Manage Subscription here.
+Chioma cynthia: Manage subs. Okay, so manage subscription current period.
+Jack Waugh: I'll share my screen. You should see this page here. Let me know if this is what you're seeing right now.
+Chioma cynthia: Yeah.
+Chioma cynthia: System trial end February 18th. Blah blah blah blah blah blah.
+Jack Waugh: Yeah. So then from there if you're seeing this screen here, you just click on this add payment method button.
+Jack Waugh: And then like once that's in there, I'll go ahead and I can approve your. Discount.
+Chioma cynthia: Okay, but what if I don't want to do it right now?
+Jack Waugh: Well, I have to approve it while we're on the phone. But the good thing is, like, if for some reason you wanted to cancel, you wouldn't even be charged for this at the. Until the end of your two weeks. So you could always cancel it before then. I don't think you'll want to because I think you're going to find this is helping you save a ton of time. But if you did need to, for some reason, you could always cancel. But yeah, I. The reason we do it this way is because I have to be able to actually approve the discount for you while we're. We're talking.
+Chioma cynthia: Yeah. No, no, no, no, no. What I'm saying is that. That when I'm ready, because there's other concert that I needed to do, then I call you and we come back and I'll do it. That you then approve it because I'd be more than happy.
+Chioma cynthia: Yeah, I need. I need. And I still need a consent from my husband to do. To do this.
+Jack Waugh: Sure. No problem.
+Chioma cynthia: So I have your phone number. When? Maybe, let me say I have a meeting with my collaborator on Tuesday. Yeah. Then after Tuesday, then I can call you. Then we can. I can go ahead and. And put it up. Then you can approve it then. Does that sound good?
+Jack Waugh: Wealth? That's fine. The only problem is I don't know how long we'll run this discount for. So that's why I wanted to help you take advantage of it today, just in case, because we just switched over into the new year, and sometimes these discounts don't always stay put. So I just want to make sure I can help you get that while we're talking, while we actually offer it.
+Chioma cynthia: Does that.
+Jack Waugh: And what we could do is this. I can meet you halfway. We could actually meet again before this discount month would even hit. So that way, like, you don't feel like you're getting.
+Chioma cynthia: I want to. When is the time?
+Jack Waugh: Yes. So the time would be. So it would be two weeks from today that it would switch over. And again, it would just be $20. It wouldn't be the full price, but it would be. Let me check here. That would switch over on February 18th. So we could actually meet February 11th next week and we could talk then. And you can make sure it's working for you before that hits.
+Chioma cynthia: 11. Is. That's on Wednesday. Okay. Last promotion is 18. Okay. And I was wishing that I wanted to ask you again.
+Jack Waugh: Yeah, sure.
+Chioma cynthia: With this. I think I should go ahead and speak with Henry so I can start up with. Instead of waiting for my last interview, though. It's just a number of Bunch of things. Yeah. Okay, yeah, I'll do that. I'll wait until 11th then I think probably 11th I should be able to sign up definitely.
+Jack Waugh: Okay, that's fine.
+Chioma cynthia: So I'll go. I'm off. I'm off. I'm. I'm gonna be at home on Wednesday, so.
+Jack Waugh: Sure.
+Chioma cynthia: Yeah.
+Jack Waugh: Okay, well, let's go ahead.
+Chioma cynthia: I really. This is really different from the, from 2:2 because I didn't want the breads for myself and some pot with this. I think this is pretty cool. This is pretty cool.
+Jack Waugh: Yeah, it's.
+Jack Waugh: Well, I'm excited for you to get a chance to try it out and, and I don't know, I know you're not seeing patients and what if you.
+Chioma cynthia: What if, if I bring people? If I bring someone, what goes for me?
+Jack Waugh: Yeah, so we do have some voucher vouchers we offer people. If you use jot Psych, now you have to be a paying job site customer first, but once you do sign up for the disc, if you actually bring a few people on, number one, we can actually give you some credit to your account. And number two, if you bring like a larger practice, then we can offer you discounts for like the larger practice if it's multiple people in the same practice. So. Yeah, so we do have some options there. In the meantime though, why don't we go ahead and meet. I'm just going to look at my calendar for next Wednesday. Let's see here. Does next Wednesday around this time like 2pm does that work for you? This is.
+Chioma cynthia: We met 11 o' clock today?
+Jack Waugh: Yeah. Are you, Are you Pacific time?
+Chioma cynthia: Yeah, Pacific time, yeah.
+Jack Waugh: Oh, yeah. Actually, so it'd be next Wednesday at 11 Pacific Time.
+Chioma cynthia: Okay. Yeah, that works for me.
+Jack Waugh: Okay, awesome. Well, we can touch base there. Let me just go ahead and enter your info.
+Chioma cynthia: Okay.
+Jack Waugh: Okay, awesome. So yeah, we'll, we'll chat and if you get a chance to. I, I don't know if you're going to be able to use this on any patient encounters before then, but feel free.
+Chioma cynthia: Again. I said it again.
+Jack Waugh: Well, I was going to say I don't know if you're going to get a chance to use this on any patient encounters because I know you're not seeing patients right at this moment, but you can at least check it out and let me know if you have any questions while you're checking it out over the next week.
+Chioma cynthia: You guys don't have any practice mode, do you?
+Jack Waugh: We don't. What you can do though is if you want to have AI generate you a cool. Quick like, like sample patient script. Or if you want to load a past patient encounter with your own notes into Jot Psych, you can actually load that in under the record window. Yeah. So you can check it out.
+Chioma cynthia: Let me see how that work.
+Jack Waugh: Sure. Yeah. Show you where that.
+Chioma cynthia: So where does it. Okay. On the, on that is a record. So how do I, do I have to say it or how do I have to copy and paste it
+Jack Waugh: so you don't have to do anything. All you would do you see under the record window here?
+Chioma cynthia: Let me see.
+Jack Waugh: Yeah, you would go here. You would basically go down to see where it says additional notes here.
+Chioma cynthia: Okay.
+Jack Waugh: And you would just paste it in under additional notes.
+Chioma cynthia: I see. Okay.
+Jack Waugh: And you just want to make sure you still make, make like a quick recording, even just like a 10 second recording. So that way that button, even if there's nothing in the recording, that's fine. You just need to do that. So generate note will pop up.
+Chioma cynthia: Okay. Okay, I'll try that.
+Jack Waugh: Awesome.
+Chioma cynthia: I'll try that. I'll try that. All right, Jack, thank you very much for your time. I really appreciate your time. Okay.
+Jack Waugh: Yeah, likewise.
+Chioma cynthia: After we see on the 11th, then I'll, I'll sign up right away.
+Jack Waugh: Okay, perfect. Well, yeah, looking forward to talking with you.
+Jack Waugh: Yeah, 11th at 11:00am Pacific Time.
+Jack Waugh: So that's in your email. Actually, do you mind checking that that went through to your email.
+Chioma cynthia: Hold on. Can something come in now? Okay, yeah.
+Jack Waugh: Okay, yeah. Awesome.
+Jack Waugh: Well, I'll talk to you then.
+Chioma cynthia: All right, thank you, Jack. Thank you for your time. Okay.
+Jack Waugh: Okay. All right, take it easy.

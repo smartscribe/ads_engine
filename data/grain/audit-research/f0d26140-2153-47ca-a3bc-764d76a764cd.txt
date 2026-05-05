@@ -1,0 +1,79 @@
+Christopher Hume: How things are going and if there's anything we can kind of do to help.
+anoraca: Yeah. Give them a couple minutes.
+Christopher Hume: So while we wait for Dr.
+Christopher Hume: Narayan would you mind just giving me a little bit of the backstory for kind of what you're testing for and what I can help you with today. I read Nate's notes and he gave me backfill but always heard from you.
+anoraca: Yeah so I'm with IT doctrine Orion is obviously our CMO so we're kind of tackling this from a couple different angles. My testing has been just really around, you know, how does it work with our EHR? Does the EHR accept the browser extension, you know, paste pasted content that all looked good to me. So, you know, we looked at a couple solutions and I asked Dr. Narayan to say, hey, you know what? I'm not a provider. You got to test it.
+Christopher Hume: I can't tell you which one.
+anoraca: You know what I mean? So that's sort of where we were. He was looking at another testing another product as well, but I think he wasn't able to do it. And we had to push that meeting out.
+Christopher Hume: So.
+anoraca: Hey, good morning.
+Christopher Hume: Hey Dr.
+Ravi Narine: Reed. Good morning.
+Christopher Hume: How are you?
+Ravi Narine: I'm good. I'm good. How are you guys doing?
+Christopher Hume: Good, great. And nice to meet you. Just to quickly introduce myself. My name is Chris and I work very closely with Nate here at Jobs Psych here. I'm filling in for him today. And just, I'm really here to help you as you and Anora test out the software.
+Ravi Narine: The big shoes to fill.
+Christopher Hume: Yeah, I know, right? Very good shoes.
+Ravi Narine: Yeah, Honora, did you have any particular questions?
+anoraca: For me? No. You know, kind of where we left it. I tested a few different products and, and a couple of them look, you know, worked real similar. One of them was a little bit different. But, you know, that's really. I just tested it from the browser extension paste perspective.
+Ravi Narine: So. Yeah, I actually, I hate to say it, but I just tested it.
+anoraca: So.
+Ravi Narine: I, you know, things have been real busy. But I finally got around to getting it done. So no product is great. It looks wonderful. The notes generated are fantastic. From a psychiatric perspective. It's, it captures, you know, exactly what you want and the suggestions are spot on. It's a well built product. The only concern I have with it is when I try to push it to our EHR. The first couple times it failed. So it failed to recognize the different because our web based EHR. Is our web based EHR.
+Ravi Narine: It's not, you know, it's not user friendly so that it would kind of just be like, it's not intuitive, right? So it's the launch button that you click to push it, right? Correct. So it failed a couple times and then I tried it again just now and it was successful. Okay. So I'm hoping Morris is more of a learning thing than inconsistency.
+Christopher Hume: Right?
+Ravi Narine: And we also do recognize that we are going to have to adjust our EHR. To help the AI scribes find the fields easier because ours is not the most intuitive also. So, you know, with that said, I think it's a, you know, it's a wonderful product. The note that was created in JotSych is exactly what I would want documented in EHR. Just getting it there is we just want to make sure it's as seamless process.
+anoraca: Thank you Dr. Narayan quick question. What, what template did you use?
+Ravi Narine: I used basically it was it they had, you guys have, it's called a new evaluation. So that would be your psych eval template basically.
+anoraca: Okay.
+Ravi Narine: So I did a new evaluation and it had all the fields that you would want. Captured. So it was, it was, it was very good. So the patient that I use had a very thick British accent and it actually, you know, caught everything.
+anoraca: Okay. All right. Yeah. When I tested, I wasn't sure how much of a build there would be to create a template that matched something that we had. So I just used like a simple dap format just to just because it was easy and simple.
+Ravi Narine: So yeah, because I think jot psych, you guys have a bunch of templates already built up built in. So you when I. Said on the documentation.
+Ravi Narine: Documentation and then note templates, you can change the templates.
+Christopher Hume: You can choose any from our library. You can edit the ones we have or you can build one from scratch.
+Ravi Narine: Yeah. So there's a psych intake, there's a psych prognode. There's you have, you can have an E and M for the psychotherapy add on. Which is nice. And then if we want to import our own template, we could just kind of pull it in.
+Christopher Hume: Right? Yep. So you see there's that upload template button.
+Ravi Narine: Or upload template.
+Christopher Hume: And then we also if Dr. Marie and if you decide to do the four week pilot with us, we do the first two templates for you as part of that package. And we can get you up and running. As quickly as possible so you're not the one having to craft perfect template.
+Ravi Narine: Yeah. So that's great. I think yeah, that was the big question that Anora had with, you know, with the templates and which ones are standardized and how we can kind of customize our own. If we have one in Microsoft Word and we just import that and the system would automatically just kind of. Build that.
+Christopher Hume: Yeah, I show you how that would work. Would that be helpful?
+Ravi Narine: Yeah. So you were building each field out individually.
+Christopher Hume: Yeah. So you were just. Start with your template here. You would have to convert it actually to a PDF. You drop the PDF right here and the wizard would sort of walk you through each of the fields. It would generate them kind of automatically for you. And then once you have it over here on the left hand side. You can then make. Nitty gritty changes with this AI tool here, so you can say. Make my summary bullet point. Then I'll make those changes for you. And then of course. You can. Share that with your whole team. So everyone's working from the same sheet of music.
+Ravi Narine: Yeah, so that. Yeah, that was mostly what we were. Hoping for. So yeah, I can, you know, I can try and do another practice patient and see if it'll if it all automatically kind of find a fields because the fields are labeled and there's a text box.
+Christopher Hume: The fields in your EHR don't have. Headers.
+Ravi Narine: Sorry.
+Christopher Hume: Are you saying the fields in your EHR don't have headers.
+Ravi Narine: They do.
+Christopher Hume: They do. Okay. And I'm going to be named the same as the JotSyc fields.
+Ravi Narine: Yeah.
+Christopher Hume: So like objective HPI.
+Ravi Narine: HPI. You know. Past like history, past medical history is kind of like the standard standard different fields that you would be filling in. And I think that's why it was able to successfully do it the second or third time I attempted it. Is that actually I should let me just try it one more time with the it did it with the. With the. Prognos. I'm wondering if it's if it'll do it with the. R psyche valve.
+Christopher Hume: And hopefully it's going to work perfectly on the line. But if not Dr. Naren, I can also. Engineers take a look. And if you get them like a dummy account to the EHR, they can make any tweaks required.
+Ravi Narine: Yeah. Okay. Yeah. So it did, it was able to find six of the fields. For the psych eval template, but it didn't get the chief complaints and the subjected HPI. But it does tell you which. Like the green section shows you which fields it found and which ones were successful.
+Christopher Hume: What we could do there, Dr. Marine, is we can help you one with creating your templates to make sure kind of there's a good lineup there. And then also we should have our, as I said, our engineers look at. Your EHR and they can just make sure kind of. With their technical eyes, the integration there and make any tweaks required. So it works properly for all the sections, not just six out of eight or whatever we're at.
+Ravi Narine: Right. Yeah. And we have to make our, we have to make our own adjustments too. And I think we have some. Flexibility and independence in what we can change.
+anoraca: Right? We do. Yeah. Actually, I meet with RC later today to talk about it. Some of the, we, we have the ability to create dynamic progress notes so we can sort of build out our own templates. The challenge becomes there's some features. That may not work well with that. So if those are required features for a provider, then we're going to need our vendors help to build it, which we don't really want to have to pull them in to do that. But who knows how long that'll take. So we still have to figure that piece out.
+Ravi Narine: All right. So yeah, that's that was mostly everything I had at this point.
+Christopher Hume: Okay. And I know sort of during your, your last meeting with Nate and Lee, I believe you might have discussed the pilot program and logistics there. So there any, anything I can answer for you guys about the pilot, anything I answer up the software, anything like that.
+Ravi Narine: No, no, not really. I think we covered, you know, all of it in terms of what, what that would look like. I know they had said he would, you know, send a few of you guys out initially to help out to be on site to kind of, you know, walk providers through everything. Yeah, we have to like, we're still in the, you know, research phase looking at different products, seeing which ones are going to fit us best. And how we are going to, you know, move forward. So once we are, you know, kind of finished talking internally, we will then kind of reach out and decide on, you know, which product we're going to move forward with.
+Christopher Hume: Okay. And. Nate kind of explained that we come out for the pilot program. So that's when people are exploring and that's not just for people who are coming on full time. Yeah. Okay, perfect. Funny when he says we send people out. The people they send out are me.
+Christopher Hume: So I hopefully we kind of proceed down that path that we get to all meet in person as opposed to virtually.
+Ravi Narine: Well then we have multiple sites all over the state. So we have to kind of decide also internally. You know, who and where and when, you know, is this going to be done? Because we have inpatient providers, we have outpatient providers, we have. Substance abuse treatment centers. So, you know, the templates for those locations will need somewhat tweaking depending on what they're doing. Right. So it's going to be, we would want to, if we do a pilot project, we want to do it. In all the sites, not just our outpatient site and then, you know, the inpatient providers and our methadone clinics can't use it. Or, you know, it's not very functional for them.
+Christopher Hume: Absolutely. And that's, yeah, we love that with pilot programs. As many people as we can get on there, it's a, it's a flat fee. So it's fun for us and hopefully that would mean I get to see a few spots in Arizona.
+Ravi Narine: Yeah. So we'll, we'll, we'll see how it goes. I know you guys have already been up to. Like Kingman, Bullhead City area with Mojave mental health. Doing, doing work with them. So our northern kind of, we have clinics in that same area also.
+Christopher Hume: Wonderful.
+Ravi Narine: So, you know, the service that's being provided is very similar.
+Christopher Hume: So.
+Ravi Narine: All right, Nora, do you have anything else?
+anoraca: I don't think so. Not at this time.
+Christopher Hume: Well, then in terms of next steps, I know kind of there's a lot of conversations and there's a lot of decision makers. Is there any, are there any materials that I can provide for you? Or are there anything either after this meeting or on this meeting that would kind of make this easier for your upcoming meetings when you're kind of reviewing all these software options?
+anoraca: Dr. Ryan, I'm thinking at some point when we're standing up the. AI kind of governance strategy, we'll have to put together maybe some ROI, right? Like the cost of investment and then, you know, maybe a 12 month return and kind of put that in front of. The executive team. So I think we should probably start working on that. And then also, you know, we have obviously some work to do on the Axiom side. So I'd like maybe you and I and RC to sit down. Maybe you can take some screenshots of how the import worked for you. So we could sort of put it in front of her so she could and sort of understand what we're trying to do with this. So we need, we need to get further along on that. And then I would like to make sure, you know, before we do a pilot that we're ready to hit the ground running, we've got our people picked out, we've got, you know, our templates figured out and what, how we're going to do it because I'd hate to, you know, move forward and then, oh, wait a minute. We have, it's going to take us two weeks to pull all this other stuff together. So just one, those are just some of the things I was thinking about.
+Ravi Narine: Sounds good. Yeah, I, I think for me, for my schedule, we can chat once the meetings over and we kind of work that out.
+Christopher Hume: Okay. All right.
+Ravi Narine: Well, thanks a lot, Christopher.
+Christopher Hume: Of course, of course. I guess the last question I have for, for you guys before we can get everyone time back on their Thursday, would it make sense just to do a not an hour check in, but a quick 15 or 30 minute check in in a week or two just to see kind of any final questions, anything I can answer and kind of next steps.
+Ravi Narine: I think I'm not sure. Anora, do you want to just wait until we're ready and reach out
+anoraca: or do you want to yeah, we, let's, let's just hold off until we have more to, to offer.
+Ravi Narine: Yeah, we feel bad having to, you know, ask you to reschedule and like we're not ready. So we want to make sure we're doing everything internally. And then, you know, when we meet, it's, it's more productive. So, all right. Thank you.
+anoraca: You're so welcome chat soon.
+Christopher Hume: Have a great day.
+anoraca: Bye.

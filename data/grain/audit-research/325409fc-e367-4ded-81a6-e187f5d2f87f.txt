@@ -1,0 +1,81 @@
+Marcus Irven: Okay, there we go.
+Becca Bressler: All right.
+Marcus Irven: So what I've done is on the patient page, I have built a payment methods block. And here, just keep. Yeah, yeah. This, this page is. It's a good one. It's a doozy. But here we can. You can see. I'll go to a picture that doesn't have. Actually, I'm going to stick with this one for now. Yeah, you can just go in and add payment methods here. So this will be. You know, if they wanted to collect the payment methods in house, this could work. You can add as many as you want. You can have a default. You can delete them. That all works. Actually, I think there's a bug in the default thing, but you get the gist. And then if you send a. So this button now is. Is adapting. If there's a payment method on file, the text changes here a little bit. This now charge payment method on file. This changes a little bit. Charging payment. I can send a text, right? Send a payment and I'll go. It'll send the patient. And why is this. There we go. Send a patient. The text has. But it's already charged. And the other thing now is there's also this new invoices section here. I'll refresh the page because it's not going to automatically load, but. And you can see there's paid here. There's the $10 paid here.
+Jackson Bierfeldt: Wow, that's really.
+Marcus Irven: So the patient will just get a text saying that they were charged $10 with a link to the. To the invoice.
+Jackson Bierfeldt: But did you just pay it?
+Jackson Bierfeldt: How does it already go to pay?
+Marcus Irven: Yeah, because it pays it automatically.
+Jackson Bierfeldt: Okay. That's the new behavior.
+Marcus Irven: I don't know if we need to have that be more like. I think that makes. Yeah, I don't know if it needs to be like an option somewhere or like a asking the provider if they want to use that. That's just.
+Marcus Irven: Yeah, that's how it works.
+Jackson Bierfeldt: Right now I just have two quick UX requests, I think that immediately came to mind. One is when can you open the modal for the payment on file. Sorry. Clicking the charge payment on file from the toolbar on here. Can the top just show which payment method, like using the like last four digits thing, just so that they can like. No. And then if there's a way to switch it here, if that's just like an easy thing, probably a little thing that's like, no or change. And then it can open some other thing, but at least showing the four digits would be good. And then if you exit out of that. I actually think that we should not mix this in with the leg clinical stuff. I know that. I know this page needs, like a whole rethink, but I think we should just make a tab. Like, we've been going into this tab system and whatever philosophical. Philosophical approach to it diverges. But, like, I think we could just have like, you know, one that says overview or something and it's all the stuff that was already on here, and then one that just says like payments or billing or something and then that just has these things in it and they're like fully expanded already.
+Marcus Irven: Yep.
+Jackson Bierfeldt: Yeah, I know that that's. We should like actually do a design workup on the patient page before too long, but I think just as an 8020 pass, like not polluting the clinical info with the payment info, that's like, beneath some stuff and above some stuff, like, it just kind of feels like something that could be like, oh, let me go to the like, patient money area. That makes sense. I don't know.
+Marcus Irven: How does.
+Jackson Bierfeldt: That's just an idea I had. But how does that sit with you two?
+Marcus Irven: Sits well with me now. I almost want to go more. More than two tabs, but maybe that's a different.
+Jackson Bierfeldt: Let's just do two right now. Like we. Becca knows I've been trying to be like, can any do the patients page? Can Ani do the patients page? So it will come sooner rather than later, but I think for now let's just throw a tab, go to the. Make it the like, money area. So it's like clinical area. Money area.
+Marcus Irven: Yeah. Becca, do you have. You look like you were going to say something. You okay?
+Becca Bressler: Oh, no, I wasn't.
+Marcus Irven: Why does this. Why is this one move but no other ones move? All right, it doesn't matter.
+Jackson Bierfeldt: Come on.
+Marcus Irven: I just think the all should move is what I'm really getting at. Randomly would be great. The other thing I've added, it's not quite hooked up yet. Or preferred language here.
+Jackson Bierfeldt: That's great.
+Marcus Irven: That's going to get passed to stripe. Stripe supports it. I guess we'll change our SMS message as well. I'm not going to give us too much in a whole. Whole language thing, but.
+Marcus Irven: No, that's great.
+Jackson Bierfeldt: I mean, just having that is. We can just pass it to the LLM and be like, you know what to do?
+Marcus Irven: Yeah, yeah. We can start doing it for, like, all of these. These things pretty easily, probably. Let me think. Did I forget anything else? I guess the other use case. Let's just go to a patient that doesn't have payment method. So this is. Now this behaves the same way. So I got rid of the due date when if they have a payment method on file because it doesn't seem to make like it made sense. I guess she doesn't have to. Let me send this real quick and sorry.
+Jackson Bierfeldt: Does the. Does the patient get a text when we charge their card?
+Jackson Bierfeldt: Does that text come from Stripe or does it come from us?
+Marcus Irven: Comes from us.
+Jackson Bierfeldt: Okay. Does it go through the patient communication service and get logged and all that? Cool.
+Marcus Irven: Well, let me think about that. If it did before, it does now. If it didn't before, I didn't change it.
+Jackson Bierfeldt: Okay, let's just do a double check on that because I want to make sure any. From now forward, anytime we build anything new that, like, touches the patient.
+Marcus Irven: Yeah, it should make.
+Jackson Bierfeldt: It should make a row in that touch points for sure.
+Marcus Irven: But just be fair. This is not new. This is. All I'm doing is evolving. I'll look and see and see if we want to update it. Like, I mean, we do want to update it, but there's nothing really new here on that.
+Jackson Bierfeldt: Okay. No, I just want to make sure we did update that, though, because, like, this is now starting to get to the territory where we're going to.
+Jackson Bierfeldt: You know, Valcort's gonna. Patients gonna be like, no, we didn't get the thing. And then they're gonna need to be like, well, hold on, let's pull it up. And then they can look and they'll. Oh, we actually didn't send them the thing or it we were supposed to, but it didn't get delivered or whatever. Like, I know we're not going to have that full thing, but if we can at least have the. Like we attempted to send it to you at this time. I want to make sure we're starting to collect it.
+Marcus Irven: And this is the invoice in this case. This patient didn't have payment on file, but they could pay. And then there's the option here.
+Jackson Bierfeldt: This is now the patient view. Like you're pretending to be Megan who clicked on it.
+Marcus Irven: Exactly. Got it. This is Save Patient here for future purchases. And then if that goes. And I don't know yet if there's another way to collect patient payment information from a user besides sending them something and just having them save that.
+Marcus Irven: But then this should.
+Jackson Bierfeldt: Now it'll save that. It'll save that. Oh, nice.
+Marcus Irven: It should have. I tested this flow. I'm not sure, but it should.
+Jackson Bierfeldt: That comes through webhook.
+Marcus Irven: Yeah. Okay. I have not. This isn't going to work because I don't have that web hook running now.
+Marcus Irven: Okay, that's the idea. So we just say that the patient info object on the. On the patient has got the. Payment on file flag. It might still pull in because this might be pulling from Stripe here.
+Jackson Bierfeldt: Was this everything from view from V1?
+Marcus Irven: It's a little bit more. I don't think the invoices were on V1. What's going on here? I'm not sure if the Spanish was on View or not. I can't remember. I haven't looked at the POS stuff, but it's at.
+Jackson Bierfeldt: But it's at least everything in V1.
+Becca Bressler: Yeah.
+Jackson Bierfeldt: Minus the POS.
+Marcus Irven: I think so, yeah.
+Jackson Bierfeldt: Okay. Did we order a POS?
+Marcus Irven: No. I think I might be able to use a phone app as a pos.
+Jackson Bierfeldt: Okay.
+Marcus Irven: That's what I was going for.
+Jackson Bierfeldt: Great. Yeah, that would probably be sufficient. Is there a phone app that makes it so they can tap their phone on your phone? Does that exist? I don't know.
+Marcus Irven: Maybe. Yeah, I think so. How it works, I have no idea how hard. How easy or how hard it's going to be to connect to this, I do not know. Okay, it did save that on there, I don't think.
+Jackson Bierfeldt: But we're seeing the other tab. We can't see.
+Marcus Irven: It did work. It didn't say. Okay, here we go. It didn't save it on the patient record because the webhook is running. But it's. This is working because it does just pull this. This is pulling Stripe directly from Stripe to get these lists. Because we don't store. You don't store. All we do is store a boolean on whether or not they have a payment on file, but in this case it's that. And so the UI is changing, but the backend actually wouldn't know, so.
+Jackson Bierfeldt: Oh, it pulls that from Stripe. Oh, that's great. That. That's even better.
+Jackson Bierfeldt: So we don't have to store credit card numbers.
+Marcus Irven: Yeah, we're not storing credit card numbers.
+Jackson Bierfeldt: Oh, thank goodness. Okay, great.
+Marcus Irven: Yeah. So I think it's pretty much there. And I. Yeah, I don't know. How's it. How's it looking? Feels like what they need.
+Jackson Bierfeldt: I think so. Yeah. If we can just make those little UX tweaks. And then the thing I would like to see in Becca, this is where I. I'd like your input on the process here, if you could, Marcus. Just make a little document that's like, here's V1, and here's the partial V2 that I did. Here's the check marks next to the things. Here's the ones that weren't done yet. And, like, just something digestible where we can, like, show the whole team and everyone can like, look at that and be like, okay, cool, I get it. And then we can use that to then hopefully develop the video of how to use it. Because the next deliverable here is going to be training them to actually use this. So we need to make the screenshots and a little guide and whatever you can do, Claudia Wise, to just update. You know, Nate, on the status of the project and create things so that it's easy for us to teach people how to use this. That would be great.
+Marcus Irven: Okay, well, we'll figure something out. Well, the other thing that I did is I moved the payments into here, although I haven't moved them yet from the, you know, done the migration and move it from the user object to the. Org object. But. And this needs to be really well cleaned up. This is what we have today. So that's new tab here. No longer on this guy. Any reason not to roll this? Like, do I need to put this beyond a feature flag only for Valcor? Any reason not to just release this? Nobody's really using this feature.
+Jackson Bierfeldt: No, some. Some people do and I think this will be like a nice upgrade for them.
+Becca Bressler: Can I make a request here? So as far as like all of the materials for Valcor, can Adam own that for this? Since he's kind of. As far as I understand their like product billing point of contact, we. There's just like a lot of content we need to produce for all of these add ons we're about to release and I would like love some support in that and I'm wondering if we can ask him for help.
+Jackson Bierfeldt: Sure, yeah. But I just mean like from Marcus's perspective.
+Becca Bressler: Yeah, yeah.
+Jackson Bierfeldt: Having built it, just like give Adam like as much stuff that he can run with so that he can go and package it all up. But you and your clients have all the context of what this is and why and all of that. So let's just make that transition to whoever's owning the actual customer facing thing as easy as possible.
+Jackson Bierfeldt: This looks great. And you did. Yeah, that was, that was very quick. Appreciate a quick, a quick win.
+Jackson Bierfeldt: I think this is, this is going to cover most of what they need and I think the fact that they can manually type the patient's card in is going to make it so they can actually get up and running and then we can figure out how to make it so they can like take a tap or a swipe.
+Marcus Irven: Yep. Okay, great.
+Jackson Bierfeldt: I will.
+Marcus Irven: Okay, make those changes and get this out soon.
+Jackson Bierfeldt: All right, thank you. Here's the thing.
+Becca Bressler: It.

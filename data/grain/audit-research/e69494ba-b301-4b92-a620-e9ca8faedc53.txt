@@ -1,0 +1,124 @@
+Mia Soviero: Hi. Good morning. How are you?
+Adam Harrison: Hey. Good morning. I am doing well. How about you?
+Mia Soviero: Good, good. Staying warm?
+Adam Harrison: Yeah. How are you holding up with the. With the snow?
+Mia Soviero: So far so good, it seems. No power outages or anything like that so far, so keeping my fingers crossed.
+Adam Harrison: Awesome. Yeah, same here. Just like. Yeah, it's still coming down, so I'm just looking out the window now. Think it's stopping soon, but.
+Mia Soviero: Yeah, I hope so.
+Adam Harrison: Yeah. But I. Like a snow day. I don't know. I know we just got one and it just all melted, but I still think it's fun.
+Mia Soviero: But you're not sick of it yet?
+Adam Harrison: No, no. I mean, that's the only thing I can tell myself. Right. So I just have to convince myself I'm not sick of it. Otherwise, you know, I don't really have a choice. Right.
+Mia Soviero: So maybe that's.
+Adam Harrison: Maybe it's a coping strategy. I don't know.
+Mia Soviero: Yeah. Yeah.
+Adam Harrison: Thank you. Yeah. Thank you so much for your work on this kind of article. I was just looking through it before we got on the call, I think. Yeah, this seems, like, really, really good. I. I just haven't read the last, like, page or so, but I'll do that after our call. But yeah, I think. Appreciate you kind of jumping into the feedback and it. Yeah, I think it's coming out really well, so probably we'll have, like, a few minor tweaks, but I think this is, like, pretty broadly where. Where we want to take it.
+Mia Soviero: Great, great. I'm glad to hear it. Yeah, I wanted to just schedule this call to check in about that. And then also right now I'm storyboarding for the video, and I'm also starting to put together the infographic. And while I was storyboarding for the video, I had a couple questions come up, so I just wanted to check in with you about those. Yeah, so with this project specifically, I think the most valuable footage to get, if I wanted to include it in the video, would be footage of JOT audit and insurer billing. And I do have faux notes that I've used with other videos that I've created for you guys and faux charting in my JOT Psych account. But I'm wondering whether the folk like claim from those phone notes would even go through JOT audit in a way that would allow me to get footage of that process. And I'd also. I'd love to, like, I'd love to be able to capture JW Audit actually flagging things that are wrong with a chart or wrong with a claim. I think the one that I have is. The template that is, I think, perfect. And so in my account under JOT audit that that chart does not come up flagged with anything. It goes through as perfect, or at least I think so. So I guess I was just wondering if you could. If I could pick your brain a little bit about the process of JWT audit and figure out how I could best go about demonstrating its usefulness mission through capturing footage of. Of my own trial account.
+Adam Harrison: Yep. No, that's super helpful.
+Mia Soviero: Yeah, that portion of JOT psych, like I haven't used JW audit quite yet when. When I've been playing around with it.
+Adam Harrison: No, great question. Yeah. I'm glad we're talking about this because we're sort of like, I think, yeah, let's definitely go through it. I think for GOT audit right now it's pretty focused on like the note as opposed to the claim. So we might not be able to exactly illustrate like the United example here where like we're make. This is more edits to like a claim, I guess, but we might be able to get creative somehow. I'll have to kind of like think about that.
+Mia Soviero: Yeah. And this is just like right now I'm in the storyboarding phase. So this isn't even something that we necessarily have to go ahead with. We don't have to have video footage capturing this. Exactly. But I'm just sort of playing around with what options I have while I'm storyboarding.
+Adam Harrison: Okay, cool.
+Mia Soviero: Yeah, let's.
+Adam Harrison: Let's go through that. So where. Where do you. Would you want to start?
+Mia Soviero: I guess so I'm pulling up my current job audit. I have this example note and I guess I'm wondering like something that I could do potentially is under my JWT audit, when I go to the example note that I've been using for everything, when I click on that note under JOT audit, it just says no note audits found for this encounter. And I assume that meant that there was nothing found that was wrong with the note. Is that correct?
+Adam Harrison: Yeah. Yeah. Do you want to share your screen by the way too? If you. So I can just see.
+Mia Soviero: Yeah, let's see. Pull this up your screen. Let's do.
+Mia Soviero: I think it's this one. Yes. Okay. Okay. So can you. You can see this screen?
+Adam Harrison: Yep.
+Mia Soviero: Okay, this. So this is the. In JWT audit, I've got my example notes here, and this is the one that I've been using for the other videos. It's sort of tweaked from the template that's existing in your JOT Psych account when you create the account as an example note. But I tweaked it a little bit, and I also have these, which are like, faux sessions that I recorded with someone else. And I tried to create, like. Like from scratch, my own therapy session with them to generate. To see how notes would be generated and to capture notes being generated. But this is the one that I would say is, like, the most accurate for what clinicians would be doing. Because I'm not a clinician, so I don't think these other two that I did are the most accurate. But when I click on this, this is what it gives me in Jaw Audit. So I guess since I'm a little more unfamiliar with Jaw Audit and how it works, I'm wondering when a clinician is submitting. So I already submitted this note. When a clinician submits the note, and they want to use the features of JOT audit to determine if their note is ready to be really submitted as a claim. What happens here in JWT Audit? And what would this look like for a real clinician? So submitting a real note.
+Adam Harrison: Yeah. Yeah, it's good. Good question. So let me. Because I think my screen looks a little bit different, so I'm gonna share my screen, if that's okay.
+Mia Soviero: Yeah.
+Adam Harrison: Then we can try to just bridge the two. So do you ever get this, like, sidebar here or.
+Mia Soviero: No, I don't get the audit. The audit sidebar. At least I didn't last time. But let me check real quick right now, because I also. Until this morning, I actually, when I scheduled this call with you, it was because I couldn't access JOT Audit at all. And today I opened it and it was suddenly available. And so I didn't. Maybe it'll be different in my notes now. So let me see.
+Adam Harrison: Okay. Because I know we've been rolling out some new changes. So now, like, people get a limited amount of audit things in their account, so we'll have to make sure you get, like, unlimited access. That's probably part of what's going on here.
+Mia Soviero: Yeah, I'm. Okay. So I'm not seeing that sidebar.
+Adam Harrison: No, the sidebar. Okay. What if. Are you seeing the sidebar at all with, like, the AI editor?
+Mia Soviero: Yes, I see the AI editor. I see my screen is the same as yours is right now.
+Adam Harrison: Okay, now I don't know how to get the AI editor back. All right, where did it go? I toggled it away and now it's. Now it's gone.
+Mia Soviero: It happens, I think.
+Adam Harrison: No, not edit template.
+Mia Soviero: Oh, I think. Is it. Oh, you know what? It's that button. It's that sparkles icon.
+Adam Harrison: That's a sparkle one. Okay.
+Mia Soviero: Yeah, of course I. I just opened that because that. I. I didn't. I hadn't clicked that. And I've got.
+Adam Harrison: You just have edit.
+Mia Soviero: I've got edit. If I click over to audit, it's just loading. I don't know if it needs a second to review my note. And that's why it's loading.
+Adam Harrison: Okay. All right, let's see here.
+Mia Soviero: But. So that's what it would look like. Audit based on your codes. AI recommends instead. Codes.
+Adam Harrison: Yeah. Yeah. I think I would do something like this view where it's like the side panel, because that's how most clinicians will interact with it. Let me just see here. Yeah, that's great.
+Mia Soviero: I didn't. I didn't have that whole side or. I didn't realize I could get that whole sidebar. That's exactly what I'd want to showcase.
+Adam Harrison: Yeah. So if you see what happens, we have like our clinic rules. So you can add any, like, custom rules that you want. So we could add something that's like a United Healthcare rule for. Let's see, what would be a good one to add. I don't know if these will work for the Note.
+Adam Harrison: Maybe excludes 1. So 2 conditions should not be.
+Mia Soviero: So.
+Adam Harrison: Yeah, it would be, actually. Yeah. Might be good to, like, try. So what I would say is, like, I'll get access to you. So you have the same draw audit thing that I do. Because it seems like right now you don't. And then what I would do is try putting in some in your note. You go over here.
+Adam Harrison: I go back. I go to like, diagnosis.
+Mia Soviero: Yeah. And put in like acute stress disorder and ptsd, which are non coding together.
+Adam Harrison: Yeah, yeah. Okay.
+Mia Soviero: Cool.
+Adam Harrison: So try doing that, and then it'll hopefully say something here. I don't think it'll be on the top.
+Mia Soviero: Probably.
+Adam Harrison: It'll be like, probably in this list somewhere.
+Adam Harrison: Okay, so let me. Actually, let's try it. So do you know the actual codes that would be for this? Let's just see. What are the diagnosis codes for this?
+Mia Soviero: PTSD is F43.1.43.1.
+Adam Harrison: All right, so let's diagnosis.
+Mia Soviero: And then if you want to include acute stress disorder, that one is F43.0.
+Adam Harrison: Okay, so let's see. I'm just going to put these in here. Let's run this. I'm curious if it'll flag this or not. Also, I don't think this encounter had anything to do with ptsd, so I don't think so either.
+Mia Soviero: I think.
+Adam Harrison: But we'll find out. Maybe. We'll see. It's good to always put it to the test, right?
+Mia Soviero: Yeah.
+Adam Harrison: But, yeah, I would, you know, I would do something like that where it's like, oh, these codes aren't compatible.
+Adam Harrison: And if that doesn't work, you could probably just do something a little more generic from the dashboard, and that's probably fine, too. Okay. We do have a jot audit video, so you might be able to take footage from that. Some inspiration. Oh, it says it's compliant, so you might have to like. Oh, no. All right. It's just the codes, so let's actually try doing a rule. Let's do a custom rule. Great. New rule. See, how can I make this into more of a rule? It. So let's see here. Do this. So we kind of like a lengthy rule, but so I'm just, like, looking at examples here.
+Mia Soviero: Yeah.
+Adam Harrison: So you see, I like, did this search and it like the thing that popped up was Headway, which was actually like, above some of these other. More like official sources.
+Mia Soviero: Yeah.
+Adam Harrison: Kind of interesting. So this is kind of what we're striving for. Like when people are googling weird billing rules for Jotsy instead of headway or like any of these other ones.
+Mia Soviero: Yeah.
+Adam Harrison: Want something that links to, like, our article. So this is. Yeah, this is like kind of a. They're kind of doing what we want to do, I think.
+Adam Harrison: But back to this. Let's try creating this.
+Mia Soviero: Thank you for taking the time to investigate.
+Adam Harrison: Yeah, no, no, of course. This is Jaw Audit is a. It's a newer feature. You know, it's still kind of like. We're still figuring it out a little bit too, so it's helpful for us also.
+Mia Soviero: Yeah.
+Adam Harrison: Okay. This did a rule. Let's just save it CPT code. Okay. So let's go back. Run audit again. Okay. Well, this might not work, but
+Mia Soviero: I can be more general and I can just show the process of, you know, recommending different codes. And I don't have to be United Healthcare specific.
+Adam Harrison: Yeah, I think that's probably good. And feel free to, like, look at the video too, if you haven't already, and support. The top and shows what applies the relevant rules to this. Note based.
+Adam Harrison: Yeah, and yeah, you could use, you know, I would probably have some. Some violations in this section and you might need to like edit the note to get that or change the template or something.
+Adam Harrison: Yeah, but some good examples are probably in the video here that's like linked from here. And then. Let me see if there's. Sure. See if I can share one other thing. Hold on. So we tried to do like. I think this is sort of more of a mock up, but I think this we decided was like a good example of adding justification to support moderate complexity MDMs. And then we did. This is sort of like a fake. A fake like UI thing. So this is not actually from jaw on it. But supporting medical decision making is usually like a strong example. I think if you. If you needed some inspiration. But yeah, I. I think broadly, I think it's fine to do something more generic where you're kind of just like showing at a high level how it works so someone could more theoretically understand it. It doesn't have to be like specific for United. And then that way we might be able to also reuse the video for like, you know, as a more plug and play thing into other.
+Adam Harrison: Totally in other contexts too.
+Mia Soviero: Yeah. Yeah. Okay. All right. That clears things up a lot for me. And going through that process and seeing. Because I had never seen that audit panel before, that's what I wanted to see.
+Adam Harrison: So thank you. Okay, so is that. Sorry, last thing. Is that still not showing up for you? Because I want to make sure I get that fixed if it's not.
+Mia Soviero: Mm.
+Adam Harrison: See, I'll try to do it now, but I might need to like ping someone on engineering.
+Mia Soviero: Here we go. Oh, it says running audit now.
+Adam Harrison: Okay.
+Mia Soviero: So it looks. It looks like it may be working.
+Adam Harrison: I'm also going to turn on this feature flag for you. Sorry, what were you saying?
+Mia Soviero: I can always shoot you an email if it, for whatever reason, isn't.
+Adam Harrison: Okay.
+Mia Soviero: Isn't actually working, but it looks like it's loading right now.
+Adam Harrison: Okay, cool. It may, like, lock you out after a certain number of attempts. So if that happens, just like, message me and I'll try to, like, get that fixed pretty quick.
+Mia Soviero: Okay, thank you. All right. And then I had one other question, actually, that was more about, like, hours. Yeah. So I got added last Friday, I believe to. Or. Gosh, time is passing quickly. I think it was the previous Friday to rippling to all of my hours, but it only lets me add hours. It only allows for the current week.
+Adam Harrison: Okay.
+Mia Soviero: So I have hours from some like two weeks ago when I started this project that I didn't get to input for this project. And it doesn't let me add them because they're. They're too old at this point. But I hadn't been added to rippling at that point.
+Adam Harrison: Okay, I gotcha.
+Mia Soviero: If there's something on your end that you can do for me to add those hours or if you'd rather me record. I've. I've recorded them in a spreadsheet like I did last time. So I do have them all organized. But yeah, I'm wondering if there's a way to resolve that with rippling.
+Adam Harrison: Yeah, yeah, no worries. Feel free to just like, put the old hours in the current week or whatever. So it's. It doesn't. Yeah, it doesn't really matter. Um, and then so have you. Do I. I'm not sure if Nate put me as the approver or himself, so I'll have to just check on that. It looks like. It looks like I have to potentially approve your hours. So once you've got them in there, just like, message me and I'll. I'll go in and approve them for you.
+Mia Soviero: Gotcha. Okay. So. Sounds good.
+Adam Harrison: Awesome. Well, great. The other thing I wanted to check in on was like, for like, after this project, more of like, longer term stuff. I think you had said that you were kind of working on another project until like the March time frame, so just want to see like, any updates or changes on your side.
+Mia Soviero: Yeah, I still. My project finishes up March 20th. I'm done with it. And so until then, I'm able to dedicate 20 hours a week. After that, I'm able to go full time, so. Immediately after March 20, I am available full time.
+Mia Soviero: I just have this one last project to wrap up for my startup and then things will be a lot more open for me.
+Adam Harrison: Okay, cool. And then in terms of what you're looking for, are you looking for. Are you like, open to different working situations? I think probably, like, what we would love to do is do, like, assuming this project wraps up well, which I think it. It is going well, and I think it will, you know, conclude well. We'd probably want to go to like 20 hours a week with you through when your project ends. And then we would probably want to go more like maybe 30 or 40 or something like that. Probably still in like contract for. For a period of time and then potentially could be like a contract to W2 thing later on. So. Yeah, just. But I just wanted to check like, what you are solving for or like, you know, some people prefer contracts, some people prefer, you know, full time, some people want flexibility.
+Adam Harrison: So anything is fine. I just wanted to, like, kind of check in with you and see where your head was at with all that.
+Mia Soviero: Yeah, thank you. I think after March 20th and after I'm able to dedicate more time to you guys, I'd really like to commit it and I prefer being on sort of a W2 basis rather than a contract basis if I'm working essentially 40 hours a week or almost 40 hours a week. So I would prefer that. Personally, I have loved. I mean, I've gotten to meet you and Nate and I've worked a little bit with Jackson and I've got. I've really loved the interactions that I've had with your team. So I'd love to be sort of more of a member of your team rather than just a contractor with you guys, if that's possible.
+Adam Harrison: Okay, cool. No, that's great to hear. And then the other update is we are moving to New York, actually.
+Mia Soviero: So.
+Adam Harrison: Yeah, so our office is going to be at. It's like Dock 72 or something. It's the Brooklyn Navy Yard, essentially.
+Mia Soviero: So. Okay.
+Adam Harrison: Kind of an interesting location, but. But yeah, can you remind me, like, where you are in the city with that? Like, if we were to do some office stuff, would you be able to come in at all? But we're kind of like, we. It actually starts in March, our lease, but we're probably not really going to get moved in until like, April. But yeah, I wanted to see like, I can't remember where you are in New York if that, like, might work for you to come in as well.
+Mia Soviero: Yeah. Right now I'm splitting my time between Forest Hills and Connecticut, so I'm kind of back and forth. But I'm hoping to be more permanently in New York in a couple months once I wrap up again this project that requires that I spend more time in Connecticut. I'm hoping to commit more and hope. Hopefully move within New York to a better location. So I'll be more, like permanently in New York, and I'll hopefully be in a more convenient location. Because I know. I don't know if you're familiar, but Forest Hills is to Brooklyn is, like, a little crazy.
+Adam Harrison: It's a little tricky. Yeah. Yeah, tricky.
+Mia Soviero: But, yeah. So I am. All of that is where I am is flexible on my end. So, for example, I were to be working with you guys on a W2 basis, I'd be able to choose where it is that I end up being more permanently in a way that is most convenient to getting to the office.
+Adam Harrison: Gotcha. Okay, cool. That all sounds good. Yeah. So I can keep you posted on stuff. I think probably most likely we would do a, like, contract a full time situation still, so. But I have to, like, check in with Nate and see, like, if his head is. If he's, like, in a different place with that versus when we spoke last. So. Yeah, I can keep you posted there. But in the meantime, you know, just let me know as you have questions as you go through this. And, yeah, we can kind of like, stay posted on this.
+Mia Soviero: Sounds good. I appreciate it. All right. I look forward to wrapping up this. This project. I'm excited to get started on the video.
+Adam Harrison: Yeah. Thanks so much, Mia. Talk to you soon.
+Mia Soviero: Thank you. Enjoy your snow.
+Adam Harrison: Yeah, you too. All right, bye.
+Mia Soviero: Bye.

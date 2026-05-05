@@ -1,0 +1,11 @@
+{
+  "name": "CompleteRegistration Event",
+  "type": "customEvent",
+  "customEventFilter": [{
+    "type": "equals",
+    "parameter": [
+      {"type": "template", "key": "arg0", "value": "{{_event}}"},
+      {"type": "template", "key": "arg1", "value": "CompleteRegistration"}
+    ]
+  }]
+}

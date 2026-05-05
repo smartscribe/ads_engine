@@ -1,0 +1,157 @@
+Becca Bressler: Hey, beverly.
+Beverly Curtis: Hello. How are you? I'm good.
+Becca Bressler: How are you doing?
+Beverly Curtis: Good. Sorry, I'm just a minute later.
+Becca Bressler: Oh, no problem at all. So I guess to just walk through this. Do you want to share your screen with me and show me what you're seeing and what issues you might be having? Let me pull up. No spot on my end. The admin panel so I can see.
+Beverly Curtis: I actually think it's okay.
+Becca Bressler: But I'm not. Well, I can also help you just confirm that it's okay.
+Beverly Curtis: That'd be helpful. Okay? All. Right. Did I give you control?
+Becca Bressler: I don't think I have control. Oh, I guess maybe I'm like, is that my green pencil?
+Beverly Curtis: Okay. Why do I have a green dot? What is that about? I don't need any of those things. Stop in it, okay? There we go. All right, let's look. At. Okay?
+Becca Bressler: O. Kay.
+Beverly Curtis: So I am getting. See that complete thing that you prescribe. And then sometimes there's a banner across the top. Up here. That says the same thing, but I don't see that today.
+Becca Bressler: Sometimes you're seeing it on the patient page.
+Beverly Curtis: Yeah, it's on the patient page. So complete ID proofing to E prescribe if I click on that. It has all this information. And it says, again, actually required. And if I open.
+Becca Bressler: I think it may be opening a new window for you. So do you just mind sharing the window when you click on that? Because right now I'm just seeing jot. Psych. But I'm curious what that looked like
+Beverly Curtis: when you see open dose spot to complete.
+Becca Bressler: I think I just see. So I see the tab that says open dose Spot. I wondered if you, like, clicked it. Did you click it?
+Beverly Curtis: Yeah, I did. Yeah.
+Becca Bressler: Okay, so I've only seen Joss Ike, but I'd be curious to see what it looks like. I think if you share your whole window, that probably is easier than a tab. Because I'll ask you to go back to John psych 2 after it to kind of see what's up.
+Beverly Curtis: Okay? I'm going to do the best I can here. You're talking to somebody who.
+Becca Bressler: Oh, my gosh. No worries. Google Meets. Also not very great. Okay. So what happens? So that's what happened when you click complete ID proofing.
+Beverly Curtis: Yeah. So I open it up.
+Beverly Curtis: And then you see, there's nothing here. But let me just say this.
+Beverly Curtis: So I assumed it wasn't working. But then today I thought. Well, you just assumed it wasn't working. You didn't really try. So I went back and tried to send two controlled substances. And let me go back and we'll look at those for a second, if you're okay with that. Because it does look like at least the one went through. You can see this, right? Yeah. And you can see this red banner. But when I went. To, right?
+Becca Bressler: You see prescribe in the medications tab.
+Beverly Curtis: And I actually sent these. To. Prescriptions just about 10 minutes ago, and it looks like they both went through. Would you agree with that? It says pharmacy verified.
+Becca Bressler: Yes. So let me show you what's happening here. Actually, I think you're fine, but if you go back to Jotsec for a second, Ideally, instead of complete eye deprofing to E Prescribe, that button would just say Send prescription so you don't have to scroll down. So what you're seeing is kind of a UI bug on our end in jot psych, but it looks like you actually have no problem prescribing
+Beverly Curtis: I just assumed I did because I followed that read. Totally.
+Beverly Curtis: That's a bug.
+Becca Bressler: You should not see that. It is 100% understandable why you would assume it wasn't going to work. So I'm going to talk to our engineer about that, but for the time being, just kind of ignore those. Ignore those as best as you can, and you should still have no issues with it as you found. But thank you for this feedback. I did not know that this was an issue that was arising.
+Beverly Curtis: I just believed it.
+Becca Bressler: Yeah.
+Beverly Curtis: Who wouldn't?
+Becca Bressler: Who wouldn't?
+Beverly Curtis: You know what? I really didn't try to. I mean, I did send. Non controlled substances, one or two, just to sort of try it out and work out the bugs. But probably the biggest thing that kept me from prescribing from the time we talked till now was that my patients hadn't all been. All the patient info hadn't been imported.
+Beverly Curtis: Yes, I had to put in an address for every single patient. So I was just sort of slowly doing that.
+Beverly Curtis: And I wasn't really prescribing yet, but actually, the prescribing today, and what's interesting is that. When you use this little dual mobile app. You don't really have to enter any numbers back into Dose Spot from the app.
+Beverly Curtis: Like other places, I have a hard token. See, I have two other prescribing and I have a hard token, and you have to press the button and then you have to enter the number back in.
+Becca Bressler: Depress a button that's like, wow.
+Beverly Curtis: Yeah, it's a hard token. Can you see it? And then you press the button and you get a. Number on there. And then you have to put your number back into the computer. And so. That's the other thing. Two other prescribing apps. So I have one in therapy notes, but I have an independent one as well.
+Becca Bressler: Got it. So this seems a little bit easier, at least. If it's just a little better.
+Beverly Curtis: It's like one less step.
+Becca Bressler: I'll say that.
+Beverly Curtis: And it's a little quicker. And then the other thing is that. There is an indication here. What's this? Change sections. I don't know what that is. Okay? Do you know what this change sections is? That's something totally different. It gave me a little prompt about medication that still needed approval. So that was nice, because I don't get that on my other apps. And then I'm just waiting randomly to.
+Becca Bressler: Hear. But can I ask you about that? Beverly, from what I know? Because this is actually something we're trying to improve. You only see those notifications in Dosebot. Like, you're not getting any sort of notification in jot Psych that there is a refill request or a pharmacy note. Right. So, yeah. So you're just noticing it in your workflow when you're going to prescribe. So the next step for us is pulling in those notifications so that you don't have to go to Dose Spot to see that there's a message for you. But. Ok. So were you able to successfully find I know when you and I onboarded, there was a pharmacy. Or is it delivery type?
+Beverly Curtis: Pharmacy or scripts. Yeah.
+Becca Bressler: Did you find that because.
+Beverly Curtis: What happened there with your meeting? You said you're going to meet with them.
+Becca Bressler: Yeah. They said, and I apologize. It was right before I left for vacation. I must have not circled back. We weren't seeing it because we were using my account, which was like a development account.
+Becca Bressler: But your account should have it. But I do want to confirm because they said it is in their system.
+Beverly Curtis: Here it is. Express scripts, home delivery.
+Becca Bressler: Great first one.
+Beverly Curtis: Yeah. Okay, great.
+Becca Bressler: So you have that, and then I think the Amazon one too, if we want to just kind of check. Try that, because I think that came up as well.
+Beverly Curtis: Yeah, pharmacy nation. Yep.
+Becca Bressler: Okay, great. So it sounds like now you have what you need as far as pharmacies go.
+Beverly Curtis: Yeah, and I apologize. I just didn't think it was working.
+Becca Bressler: I've sent in a support ticket and I was like, I don't see this. But then they told me, because I was doing my development account, it's, like, limited data in those development accounts, so. Great. Okay, that's amazing. So it sounds like that's not a blocker for you either. Any other questions or honestly feedback you have because we want to keep improving this. And I know that importing patient information is a burden for sure, hopefully, and it's definitely something that needs to happen. But hopefully we are able to build tools that. Collect patient information and digest it so that you don't have to input every single one.
+Beverly Curtis: So the patient information that shows up for dose spot is generated, it seems, from jot Psych.
+Beverly Curtis: So when I fill out the information, job, psych in terms of the address, then it shows up in the spot just fine. Yeah. So not all my patients. All their information was in jot Psych. It was therapy notes, so they just migrated it over this week.
+Becca Bressler: Oh, you got that done. Great.
+Beverly Curtis: It's done. So that makes the dose spot easier, I would say. The only thing is, and this is just me. I do work from. A note. And from the list of medications. So when I'm speaking with a patient, I go down there. Listen, you're still taking your fluoxicine 20 milligrams once a day, right? And you're still. And then we're talking about those things. I'm looking at their diagnoses. So basically, I've been working from a note. And then I prescribe as I'm talking to them.
+Beverly Curtis: But if I go over here. We've got these medicines here. Do you know, is there a way to mark active medication versus inactive medication? There's a show in inactive.
+Beverly Curtis: But these are both active now. So if I would bring in a patient history, and I don't think she has much. But I don't know for certain. Okay, so it says, no results found. So it's not pulling from her history, whatever it was. And a lot of that is dependent on the pharmacy. If she was using a small in town mom and Pop pharmacy. They're not connected to these national databases, so I won't get anything there. And I don't know if she was or not, but right now I've been prescribing for her since January and I'm not getting any. Results. So that's a little bit of a problem. But now I'm on this page and I'm talking with her, and I don't see. So I have to go back. To her other.
+Beverly Curtis: I guess back to John's Psych.
+Becca Bressler: And look at past meds.
+Beverly Curtis: It's just a little bit. It's a different work. Flow for me. I'll just say that. And prescribe meds at the same time. That's probably my bottom line there.
+Becca Bressler: So can I just say a couple things back to you just to make sure I understand one of them? It sounds like when you. And when you say no. During the session, do you have, like, a previous note open? Because the note happens after you generate, so is that what you mean by you're in the note?
+Beverly Curtis: No, I mean the previous note. I work from the previous note.
+Becca Bressler: Right. But I guess is what I'm. I guess the question is, is part of what you're saying, you want to be able to launch Dopot from the note and not have to go to the patient's profile.
+Beverly Curtis: Probably and be able to. Okay? Here's her note. So I'm looking at the note, and I'll say her. Now, last time we talked, you started saying blankety blank. Okay, so I'm using that. But if I. So I'm using that note. I'm reading it if I hit record, because I'm going to be recording. Okay, so if I start recording, I'm going to press record. And then I'm going to open her notes. So now I don't know if I'm recording anymore because I can't see the red button. I'm assuming I'm recording. But now I can't prescribe. Because I'm not on the prescribing page. So I prescribe during the encounter.
+Beverly Curtis: I don't describe afterwards. So now I can't try. And I also think I'm recording, but it's probably part of my anxiety. That I know if I'm recording or not. So then I go back and I look, I need some. But I go back and I look. But sometimes it's really, truly not recording.
+Beverly Curtis: Because I went from the schedule to record, and it says record, patient, and you're not really recording. It just brings you to this page, and then you have to hit record. But now I don't have. Now I see my meds down here. Which is.
+Becca Bressler: But there's no button for you. Strange, because there's actually supposed to be. So again, this is actually a. Let me pull up my drops. I. Because this is above also because. You are supposed to be able to prescribe from the recording page. That's our intention, actually.
+Beverly Curtis: And that's probably the other reason why I haven't really started using. The dose. Because I haven't worked it out of my workflow.
+Becca Bressler: Yeah, no, understandably so. Okay, this is helpful because you should be able to do it from this recording page because we understand that prescribers prescribe during the session. That's a really common workflow. So it sounds like is one thing I'm hearing from you is just making sure you're able to do that from this. Page is the second thing that you have past history information in jobs like, but it's not in dose spot. And you want the past medication history and dose spot. Was that the other.
+Becca Bressler: Problem you were experiencing.
+Beverly Curtis: It didn't pull her past meds. That's not uncommon, but I think it's related to. It was. She went somewhere where they're not in. But what I want is an active medication spot. In an inactive medication spot. And I just think I haven't used the system enough yet to really see that.
+Becca Bressler: And you're saying you want that in dose spot or.
+Beverly Curtis: Yeah. So when I pull up the meds, I can see. Oh, we just finished. Certera last month, and now we're using Adderall or whatever it is. She went off Prozac, and now I'm starting around something new. But she did have Prozac in the past. I'm not going to ask her. Did you try Proac? When it's right. There, but that I can look at.
+Becca Bressler: Got it. So it's like basically what you're experiencing is when you discontinue a medication. It's not showing up in the past. Medication history in dose bugs.
+Beverly Curtis: I'm just saying that. I pulled another patent. Let me just see here.
+Becca Bressler: Yeah. Maybe we could even just walk through. Oh, also, just to alert you, Beverly, it looks like we're still recording from that encounter, so you probably want to stop and. And delete the recording just so we don't. Yeah. Let's just make sure we delete this so it doesn't enter into your note. Oh, I guess it's creating a note now, but it's no big deal.
+Beverly Curtis: Yeah, I have this issue all the time. I'm waiting for a patient, my husband walks in and says, did you get the mail? No, I didn't get to make. Because we should go get the mail, like, okay. And then I just started. So okay. Yeah. Okay, let's look at Tara. Okay, so her address isn't in there. So? So I can't connect her. So that didn't pull over for some reason.
+Becca Bressler: Okay, but this was important. This was in part of the patient import that you did with us this week. Yeah. Yeah. Okay. I'll tell the team.
+Beverly Curtis: Yeah. Yeah, because she's. She's certainly in the other system. All right. Basically, I just. And I don't know if. This is a true complaint or not so? I just. It would be great to have a list of past meds and current meds. And that is really the best way to prescribe. So you don't get.
+Becca Bressler: But specifically in do spot, you're. That's kind of where the issue is, because here you should be able to mark things as inactive or active. I don't know if you do that in jobs. Psych. Sorry.
+Beverly Curtis: What was that? So I can mark it in job.
+Becca Bressler: Yes. It's not currently built to pull over into Dosebot, though, so. So that would just be to keep it. But can we actually go through this? I'd be curious, like. If you go to a patient. So it's not in the medication history, but I'd be curious what it would be like. If you discontinued. If you mark it, how you might be able to discontinue it in Dosebot so that it moves over to past medication history. But if you scroll to the right on that medication. So do you see where this is active? Or those are diagnoses. But if you go to the medication. And you scroll to the right.
+Beverly Curtis: I have to move this. My little box is here. Okay, scroll to right. Yeah. Okay.
+Becca Bressler: Yeah. Okay. Right. So there is the ability to see active inactive here, but in dose spot. Yeah, I wonder. If. Can we get back into dose spot for a second?
+Beverly Curtis: Yeah. Okay? Let me just put her address. Didn't pull over either. Look at that. Let me just look here.
+Becca Bressler: No. Right. It would show up if it was. Unless. Unless you open it. Let's open it.
+Beverly Curtis: Okay? So it is in there. It didn't go over to Endodote spot.
+Becca Bressler: So. Actually, can we. Can we walk through that again? So this is in the address, and then this is super helpful for us. So then can we just click prescribe and see what happens down below? Just still say connect to draw. Psych.
+Beverly Curtis: I just tried it. Oh, it did connect. It just didn't do it before. We just did it, and it didn't do it. Okay. It did do it. Right.
+Becca Bressler: And so then prescriptions. Got it. So she doesn't have any. She doesn't have any active ones. Probably because you haven't prescribed in dose spot.
+Beverly Curtis: But let me just put her pharmacy in, because then it pulls it pharmacy. Okay, so. So I can't do active prescriptions without having a pharmacy, and I don't believe. Yeah. So her pharmacy. Is not. You know, her pharmacy was in my other system. But that information didn't pull through. Anyway, so. Okay? So we're going to add her pharmacy. We'll make it her default pharmacy, okay? Now we can do medication history. Oh, there it is. See that?
+Becca Bressler: Yes. So when it's the pharmacy.
+Beverly Curtis: So now I have a whole list.
+Becca Bressler: Beverly, can we go back to that previous patient where you were not seeing past medication history?
+Beverly Curtis: Who was that?
+Becca Bressler: Do you know, actually, but before we do, because I don't want to waste your time. Do you know the previous pharmacy she was using or no?
+Beverly Curtis: No. Okay.
+Becca Bressler: Got it. Because my question was, like, if he could input that previous pharmacy, maybe it would then pull it forward. But. Okay, so it's. It sounds like the issue you're facing here. Is her previous medication information. Is not being pulled into Dose Spot because of the pharmacy she used. And what you want is for this information that you have here to be pulled into Dosebot so that the previous. Medication history is is there in Dosebot?
+Beverly Curtis: Dospot will do that. It will. What I'm looking for is the. The ability. And let me I have exactly. Used it. Let's do. Okay? So what I want to do now. Because I've got this entire long list, right?
+Beverly Curtis: Yes, I want to be able to mark some active and some inactive and all my choices are add new prescription or add a self reported medicine.
+Becca Bressler: I see.
+Beverly Curtis: So I want to make an active list and an inactive list. Like here she. This is a. This is Augmentin. And she had a five day supply, so she's probably not taking that anymore. Okay. I want to mark that as inactive. You know?
+Becca Bressler: She had a.
+Beverly Curtis: You know, and I.
+Becca Bressler: Happens if you click it. Is it clickable or no? No. Okay. Right. You want to be able to mark this as a neck.
+Beverly Curtis: Well, let me. Let me mark it as maybe self reported and see what happens. Oh, then it's just. I'm just adding it to a list. Okay, first, that.
+Becca Bressler: List.
+Beverly Curtis: Okay? Yeah. So. So what I'd like to do is, you know, and a lot of these. She's had a lot of antibiotics. A lot of these are. Like the Flocks. Fluoxetine. That would be a medication that I'm going to prescribe. I'm not going to prescribe her. Augmentin. Unlikely. You know, so. And clonazepam. So these would be active medications for me. But. But not some of these other ones. You know? I'm not prescribing her fluconazole for a vaginal infection. So I want to mark those as something that I. That she's having, that she's using, but not of interest to me.
+Becca Bressler: Right. So you want to be able to mark them as active because they're active, but you're not the one that's prescribing it, so it's not showing up in your list of prescriptions that, like, you.
+Beverly Curtis: I don't want to have to, like, sift and sort through. All of these to find the medicine that I want to prescribe for her. I want them all in a nice little list.
+Becca Bressler: You know? So once you prescribe it in Dosebot, you should not have to go back to the medication history to, like, reproscribe it. I think what's happening is just because you're newly using it for this patient, it kind of has that, like, one time setup, if that makes sense. Like, once you prescribe it for Edith, it becomes like an active medication in her dose spot profile.
+Beverly Curtis: I think that's a possibility.
+Becca Bressler: I think that's actually likely the case. So maybe with Edith, I'd be curious, and I want to get the feedback from you, but, like, if you're going to prescribe her one of these things next, If you were to come here, write, send prescription from here, where it moves, that prescription in Dosebot, because. I don't think you'll consistently have to go to medication history to reproscribe. Or send prescription.
+Beverly Curtis: Okay? All right, let's look here. Okay, so this. Oh, okay, so this is for fluoxetine. Can you see this? Okay. Okay? So we can. Oops. Where'd it go? No, that's not it.
+Beverly Curtis: There we go. I was just trying to get it out of. Our way here so I can see what I'm doing. Okay?
+Becca Bressler: It looks like some information may be missing. If we scroll back up. Let's see.
+Beverly Curtis: If that helps. Sometimes it does. Hit.
+Becca Bressler: What happens, Beverly if you click dose delivery method for a second?
+Beverly Curtis: Here.
+Becca Bressler: Yeah, like the drop down.
+Becca Bressler: What happens if you select Take?
+Becca Bressler: I know it's already pre filled in, but I'm just curious. Okay? Yeah, it looks the same. Because I'm trying to figure out what's not. Filled in.
+Beverly Curtis: I think I just hit something and it made it. It screwed it up. Let's see here. Not right. Okay? Let me do that.
+Becca Bressler: What happens if you select no substitutions? I mean, it doesn't say that it's required. Yeah, that doesn't. This is so strange.
+Beverly Curtis: I don't know what happened there. Let's. Let's just stop it and. So that was from the patient list.
+Becca Bressler: Right.
+Beverly Curtis: But it did say create. Create a medication. Maybe you have to add it first.
+Becca Bressler: Like add as a new prescription.
+Beverly Curtis: No. Let's see here. Add as new prescription. That's what I did, right? Yeah.
+Becca Bressler: Let's try it just one more time.
+Beverly Curtis: Okay. Why? I don't know why this doesn't have it. It's F 41.1 for anxiety. I don't know why. It doesn't have the point in there. That is confusing to me. Yeah. Okay?
+Becca Bressler: What happens if you click create medication? Does it tell you what's missing?
+Becca Bressler: No, it doesn't tell you what you're saying.
+Beverly Curtis: It's a dead thing. All right. I'm going to have to run, unfortunately. I'm sorry.
+Becca Bressler: Okay, Okay.
+Beverly Curtis: Okay. I think this is something that. I don't know what's going on with her.
+Becca Bressler: Oh, you have to press cancel. There's something, like, in the bottom right corner.
+Beverly Curtis: Oh, okay. All right. Yeah. Okay. I think you have to add it from here. I just. I think that's where you have to add. Do it that way, then I think it's going to work.
+Becca Bressler: So give it a try. If you have issues, let me know, but. Yes. But I'll follow up with our team so that you're able to prescribe from the record. So that should.
+Beverly Curtis: Yeah, that will change a lot. That. That will really change a lot for me. So.
+Beverly Curtis: Sorry, I'm a little quirky.
+Becca Bressler: No, no. Well. So, Beverly, we're actually, like, changing our recorder. A bit. Just to warn you to be more. We've been having a lot of issues with recorder. Maybe you've noticed this as well with things. So there's kind of a new one coming and that one will definitely have a prescribe button on it. So that'll be coming, like in the next. Week or so. I can even flip it on for you now if you're. If you want to sort of start. Familiar.
+Beverly Curtis: I see yourself.
+Becca Bressler: Okay.
+Beverly Curtis: I have a lot of. You know, it's like I think I'm recording, and then I check and I'm not recording.
+Becca Bressler: Yes. And this is. Yes. This should, like, really help with that. So I'm going to add you on it right now. You'll just need to refresh Psych and. If you still don't see the prescribe button, let me know so that I can tell. Okay, great. Okay. Take care, Beverly.
+Beverly Curtis: Thank you for your help. I appreciate it.
+Becca Bressler: Of course. All right.
+Beverly Curtis: Bye. Bye. Nervous. Get nervous. Do I have. Doc at 11. Externally lost. Here I am so lost, it's ridiculous. Still in my 15 day trial. And the other. I think I can cancel it if I need to. Okay. No. Kevin and hannah. I have no idea how she got in at 10:30. It's blocked out. Unless I put her at a 10:30. But she put into herself.
+Becca Bressler: Hey, beverly. Everly.

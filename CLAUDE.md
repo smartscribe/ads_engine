@@ -35,7 +35,6 @@ Runs ads for JotPsych targeting BH clinicians and SMB clinic decision-makers on 
 ## Current State of Ads (as of Mar 25, 2026)
 
 ### Team
-Adam Harrison — marketing lead, full account history across Meta and Google. Sharing Meta API read-access keys with Alex.
 Matt — Meta contractor, knows the account structure.
 Jenna — Google Ads rep, recurring call.
 Chris Hume — sales, SDR routing for lead form leads.
@@ -118,3 +117,7 @@ whether AI-generated or template-rendered assets win.
 Veo integration is scaffolded. Once image quality is proven, extend to short-form video
 (5–15s) for Meta Reels/Stories and Google Video. LoRA fine-tuning (Daniel's workstream)
 to lock in JotPsych visual identity across generated assets.
+
+## Changelog
+
+**Always update `CHANGELOG.md` when making code changes.** Add new entries at the top of the `## Log` section (reverse chronological order). Each entry includes: date, who, what files changed, why, and any notable decisions. Group related changes into a single entry per session. End each entry with a `---` separator.

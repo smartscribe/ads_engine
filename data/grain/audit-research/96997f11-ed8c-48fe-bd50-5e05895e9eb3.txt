@@ -1,0 +1,88 @@
+Christopher Hume: Hi, Dr. Common Dog, how are you?
+Bobga Fomunung: Oh, I was doing okay before I started having all these glitches.
+Christopher Hume: I'm so sorry to hear that.
+Bobga Fomunung: Yeah, yeah. I'm hoping I can get this result because I got so many patients that are unpending. I mean, it's been a while since I talked with you and I thought I had things under control, but I'm still having some. There are three things that come and I send it the note. I sent a notice to you. I don't know if you read that. I need to get those things. Oh yeah, here they are. Let me start with the first one. When I inadvertently. Once I go to the nodes that have been generated, if I inadvertently delete, for example, I try to copy and instead I paste on top of just nullifies it. I cannot find an undo button. Where do I find that?
+Christopher Hume: So is this inside of a note if you paste the wrong information into a section?
+Bobga Fomunung: No, I write on job site itself. Let's say, for example, I come in there and I'm trying to highlight and copy. Okay. But instead of highlighting and click copy at the time, I'll go ahead and click paste. So whatever I had carried on just deletes it. Paste on what I'm supposed to copy and that information is gone. And I have no way of retrieving that information. So if there's an undo. If there's an undo button where I can click to undo it so that whatever was lost can come back. I'm not able to do that.
+Christopher Hume: Let me share my screen and I think we can help. Is this the screen where you're accident? Yep.
+Christopher Hume: And so you might accidentally like paste in here, Chris? Yeah.
+Bobga Fomunung: Yep. If I. If I. Let's say. Yeah, let's say for example, go. You can go down to. Yeah, any one of them. Let's take the summary. Okay. Or the hpi. Yeah, look at the HPI where you are. Okay. And let's say I highlight that. And instead of clicking, once I highlight, instead of clicking copy, I may go ahead and click paste. And then what happens? That whatever was previously hanging on my mouse would just paste on this one. And then the information that was there is gone. How do I retrieve that?
+Christopher Hume: So do you use a Windows computer or a MacBook?
+Bobga Fomunung: I'm using a Windows.
+Christopher Hume: If you press Control Z like this on your keyboard, it will undo the pace. Control.
+Bobga Fomunung: Control Z.
+Christopher Hume: Yes. Yep.
+Bobga Fomunung: Okay, what if I'm using a MacBook?
+Christopher Hume: Then you press Command Z.
+Bobga Fomunung: Command Z. Let's see here. Okay. So either way will be either contrl. Z or command Z, so there's no button. Up there where I can click on undo button. Okay.
+Christopher Hume: And then the. As sort of a last, last ditch effort, you can also. Page. You can also regenerate your notes. Let's look at one of my notes.
+Bobga Fomunung: Yeah, yeah, I figured as much. I can do that.
+Christopher Hume: Yeah.
+Bobga Fomunung: So all right. But not the control Z or command Z. That's very helpful. That's the first thing. The second thing is that many times and this has happened, and I know I brought it up before, every time there's a component of my evaluation that's so important for my formulation, and that's religion, spirituality. But consistently every time I talk to my patients about church, religion, spirituality. Is that important to you? They will say, yes, it's important, we pray, but we don't go to church. But every time I go into the transcript or every time the notes are generated, it comes and says this was not discussed, even though I'm very sure I discussed it. But that's consistently happening with, with religion and spirituality. Why is that? Is there a way I can overcome that?
+Christopher Hume: Is this in your psychiatric evaluation? Note?
+Bobga Fomunung: Correct.
+Christopher Hume: Here I am looking right now at your. To the adult comprehensive psych.
+Bobga Fomunung: Yeah, if you go. Actually, as a matter of fact, I don't know if you can look at my notes. I can make, actually make a reference to my most recent evaluation. And you can see in there. And I had to go back in there to actually tell the software that no, we did talk about religion. This is what mom said and this is what they said, and I had to go ahead and type it in. But the third question I have is I thought there was a way by which I could dictate into the area where I need the software to incorporate into my notes. But I have no way of dictating. I have to go and type. It takes me so long. Is there a way I can dictate in there?
+Christopher Hume: And so I'll show you how you can dictate. That's a great question. So after a session, let's say you've cord, you have your normal encounter with the patient, etc. Etc.
+Bobga Fomunung: Okay.
+Christopher Hume: You can actually, before you generate the note, right. You can just record another snippet and this can just be you talking, right?
+Bobga Fomunung: That's true. That part of it I know. But this typically happens after I'm insign to. To copy and paste the notes. That's when I realized that there's some information in there that is not included and I need to do that afterwards.
+Christopher Hume: Once you generate the note, unfortunately the only way to edit it is by. You can use our AI edit tool. You can just give it guidance over here, like the patient actually expressed religious XYZ and it will adjust the note or you can type it in a section, but unfortunately you can't dictate after the note is created.
+Bobga Fomunung: Okay, that's what I thought because it was bothersome because on my iOS device, on my iPad device, I can go ahead and click and dictate in any section. So I thought maybe somehow in this software or there's a way by which if I'm using either Windows or MacBook, I can ask the regular AI to just copy or to have my notes put inserted. Because sometimes it's very lengthy and it just takes me so long to type it and I'm not very good at typing and so sometimes it just takes me so long. So there's no way to do that.
+Christopher Hume: Not yet. This is actually, this is not the first time this has come up this week, so something I'll flag for the engineering team.
+Bobga Fomunung: Okay, that would be very helpful because that really one of the reasons why I like software is that it saves me a lot of time. But if it does not capture what I wanted to capture and then because sometimes you will come and say, well, this was not discussed during this encounter. No, I know I discussed it. Then I have to go in there and afterwards and. Because if I don't generate the notes, I wouldn't know what has been omitted. So I have to generate a note, look at what has been omitted, and then try to fill it in. But once I generate the node, like you said, there's no way I can go ahead and include the correction in there. It's already done. So that's really a major error. If you guys can get that result, that would be very helpful because. Because the software is not capturing all of this stuff that I'm talking, it captures some and others it doesn't. And that's, that's, that's the frustration part of it. Now the other part, the other thing that I wanted to bring up is for some reason when I on my template that I use quite often the patients, every time the notes are, the node is generated, it's using the name Cameron. Now one of my previous patients name was Cameron, but somehow that one keeps defaulting into Cameron. And so how do I get rid of that permanently so I don't have to keep doing that for every node that I generate.
+Christopher Hume: Which. Which template was this?
+Bobga Fomunung: My pediatric pediatric psychiatric evaluation.
+Christopher Hume: Okay. Pediatric psychiatric.
+Bobga Fomunung: Yeah, yeah. Dr. Fominance, pediatric psychiatric evaluation.
+Christopher Hume: Let me see. Is it. I actually checked this before our meeting. Let me see what my notes said. I think this is actually in the pediatric progress note. That makes sense.
+Bobga Fomunung: Well, whether progress. This one. Yeah. Progress. Or it happens on both. Because typically when I come in and I'm. Yeah, maybe progress note, whatever it is. But it keeps saying Cameron. Cameron.
+Christopher Hume: Let me see what happened here.
+Bobga Fomunung: Because I want to personalize the notes. I don't like the idea of say, patient, patient, So I like to say, for example, you know, Zach or John. John said this. And then. So I'm trying to personalize it, but sometimes it will just come in and just default to Cameron. And I know I've used Cameron before, but somehow that's. It's in the memory and they keep generating. So I have to go back and say, please replace Cameron with John in all sections. Then he will go ahead and do that after the note has been generated. But I don't want to keep doing that because I may forget and then it might just mess up my notes.
+Christopher Hume: Okay, let me see. So I see the issue and I'm just trying to fix it if I can do it on the line. Okay. So what I'm going to do, Dr. Falmonong, is I. I see the. The issue on our end. It looks like one of the times when you updated the template, it just. The training. The training thought that you always wanted it to say Cameron, not the name.
+Bobga Fomunung: Okay.
+Christopher Hume: So I'm going to set aside some time this afternoon.
+Bobga Fomunung: Okay.
+Christopher Hume: To update your template. I'm going to put it on my calendar.
+Bobga Fomunung: Okay.
+Christopher Hume: And I will take care of that this evening. It shouldn't take very long and so you should have a. There is one thing that might help a little bit with this as well.
+Bobga Fomunung: Okay.
+Christopher Hume: Do you. Do you have job psych up right now?
+Bobga Fomunung: Yeah, I do.
+Christopher Hume: Have you. Could you share your screen and just show you how to adjust settings? So it should automatically, after I make the adjustments, include your patient's name.
+Bobga Fomunung: Yeah. The problem I have every time I contact you is that I'm using an iPad and I'm not sure how to share my screen using my iPad.
+Christopher Hume: Oh, okay. Then I will just show you how to do it from my screen.
+Bobga Fomunung: Okay.
+Christopher Hume: So if you would like it to include your patient's name.
+Bobga Fomunung: Okay.
+Christopher Hume: You can do. Is you go to Settings. So you press that up here.
+Bobga Fomunung: Okay.
+Christopher Hume: Then you go to recording.
+Bobga Fomunung: Okay.
+Christopher Hume: And you can choose not to redact the name.
+Bobga Fomunung: Okay.
+Christopher Hume: So if you choose to not redact the name, jot.
+Christopher Hume: Psych can hear your session here. In the session, you say, hey, John, how are you feeling today? And it will take John and include it in your note.
+Bobga Fomunung: You know what? I have my desktop. I mean, I'll share, but let me see if I can open it up. So I go under. See, I have my template up right now. So I go on. I go under. On. Under settings here.
+Christopher Hume: Yep, under settings in the top right hand corner.
+Bobga Fomunung: Okay. That's under. What you mean is. Okay, go on that recording.
+Christopher Hume: Yep.
+Bobga Fomunung: Okay.
+Christopher Hume: And then you go down to privacy and redaction, and you can uncheck redact names.
+Bobga Fomunung: Okay, let me see. Okay. Yeah, it's unchecked. I have it here.
+Christopher Hume: It's unchecked. Okay, perfect. Then I will adjust your template this evening, and you should see a fix this tomorrow.
+Bobga Fomunung: Okay. Then what is checked, though? You say when I stop recording, stop and review. That's checked. Is that the way it's supposed to be or what does that do?
+Christopher Hume: Yep. Stop and review is good because it allows you to record more than once if you'd like. If you stop, if you select the other one, what will happen is as soon as you stop recording, it will immediately create your note.
+Bobga Fomunung: Oh, I see. So the stop and review allows me to make. Give me some time to add additional notes if I need to. Okay. All right, then I'll leave it at that then. Then is there any. Any other useful information you can share with me on this setting that will help me facilitate my. Anything new?
+Christopher Hume: I think this was the big one that I just want to make sure that had been shared with you.
+Bobga Fomunung: Okay. All right. So there's no. There's no update. Anything new since we last spoke that can help with my notes?
+Christopher Hume: I think. So what I'm going to do is I'm going to go through, try to adjust the back end to fix the religious spirituality stuff.
+Bobga Fomunung: Okay.
+Christopher Hume: And then also try and fix the issue with Cameron.
+Bobga Fomunung: Okay. All right, perfect. Yeah. If you can do that, that would be very helpful. Like I said, Those are the four things I needed to do. Unfortunately, the dictation piece is. Not a whole lot I can do with that. Yeah. I wish there was a way I can just dictate and tell it, because every time. I mean, it does a good job. Once I type it, it will take it and then it will get you. Although sometimes. Sometimes when I type the information, it will come and say, we just keep rolling, say, thinking and thinking and thinking and thinking. And I just have to sit there sometimes. There was a day I stayed for about five or 10 minutes and I kept thinking, but it was not generating the stuff until eventually did. I don't know whether it had to do with the Internet or what it was, but that's. But it just took so long to. By the time it generated the updated the information.
+Christopher Hume: So if you just seen. Yeah, that's something. If that happens again, if you could send us an email and just tell us the time and the day that it happened and we'll have the engineers take a look to figure out why that happens to you.
+Bobga Fomunung: Okay. All right, I will do that. All right. Very well. Thank you very much for the help. I will.
+Christopher Hume: You're so welcome.
+Bobga Fomunung: All right, take care now.
+Christopher Hume: Have a great day. Bye.
+Bobga Fomunung: Bye.

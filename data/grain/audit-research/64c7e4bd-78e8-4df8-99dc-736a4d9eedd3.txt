@@ -1,0 +1,79 @@
+Lee Harrold: Hello.
+Edward Evard: Hey. Sorry about that.
+Lee Harrold: Oh, you're good. How you doing?
+Edward Evard: Good. How are you doing?
+Lee Harrold: Pretty good. I feel like. I feel like I've met you. Maybe I'm wrong. Have we. Have we met before?
+Edward Evard: I don't think so. I've done some stuff with the advisory board. It's been a while.
+Lee Harrold: Okay.
+Lee Harrold: But that must be it, because I feel. Yeah, you seem. You seem familiar. But anyway, nice to see you.
+Edward Evard: Yeah, good to see you too. How are you?
+Lee Harrold: I'm doing. Doing good. Doing good. We're doing jotrx. Yes, jotrx. Okay, so let's get eprescription rolling. Can you share your screen?
+Edward Evard: I can.
+Lee Harrold: Sweet.
+Edward Evard: Yep. So where did you want me to share with? With my current EMR or my job site?
+Lee Harrold: That's your job site, Please.
+Lee Harrold: So you currently use an EMR for E prescription already?
+Edward Evard: Yes.
+Lee Harrold: Okay, cool. All right, so I think just on that there, I need to. After we get you set up, this will be pretty easy. I need to submit a prescription transfer request through SURE Scripts with the information about your existing emr, but that should be pretty easy. And I can get you set up first.
+Edward Evard: Now, am I able to use both or do I have to use one or the other? Because I wanted to try all this and see.
+Lee Harrold: Oh, gotcha.
+Edward Evard: But I'm not. I wanted to see a little more about what you've got. Not necessarily that I want to change yet.
+Lee Harrold: Sure. Yeah. It's a. Like, legally, it's a one or the other thing because your DEA number can only be associated with a single registered prescriber. But I can show you the ui.
+Edward Evard: Yeah, I really wanted to see what you have to offer, so I can.
+Lee Harrold: Oh, that makes sense.
+Edward Evard: Yeah.
+Lee Harrold: Okay. So let me sign in on my side with a dummy account so you can. We're using an integration partner called Dose Spot for E prescription. The advantage of it being integrated with job Psych is that all of your patient information and medical history exists here. And then we can catch any conflicts before we send it to devspot.
+Lee Harrold: Okay, so let me. How do I log in? It. It.
+Edward Evard: Yeah, I've got a group of about 12 clinicians, so that's why I wanted to.
+Lee Harrold: That makes sense.
+Edward Evard: See things first before we make any.
+Lee Harrold: Yeah, that'd be huge. That would be a big transition. I can't figure out how to log into this test account. Which platform do you currently use?
+Edward Evard: Simple Practice.
+Lee Harrold: Simple Practice. Cool. Because I guess if they use. If they use sure Scripts under the hood, then you probably could use both.
+Edward Evard: They used the doctor first. I don't know if that's connected to sure Scripts or not.
+Lee Harrold: It's. It's possible. Yeah. Yeah, there's.
+Edward Evard: Sorry. Is who they use.
+Lee Harrold: Let me check it out. Oh, yeah, yeah. Okay. Yeah, they use. They use share scripts, so.
+Lee Harrold: Oh, Yeah, we probably could. Probably could use both. Sweet. All right, let's get you onboarded then, and then you can take a look at the UI and get a sense for it.
+Edward Evard: Okay. And I've also got a hard stop of 11 o' clock as well. Hopefully that can get us where we need to be at least.
+Lee Harrold: Yeah, I think.
+Lee Harrold: I think we can do it. So what I'm going to do is enable Jaw RX for your account. And. Yeah, I'll make sure to see where we're at in about 10 minutes and then take a call. All right. Is it southeast pa psych. Is that.
+Edward Evard: Yes.
+Lee Harrold: Awesome.
+Edward Evard: Cool.
+Lee Harrold: All right, I've just enabled JOTRx now. We should be able to see some information on your account if you.
+Lee Harrold: Yeah, there's like a 10 to 15 second delay, but. Okay. Yeah, if we go to the. Your practice panel.
+Edward Evard: Okay.
+Lee Harrold: Yeah. Either under conditions or practice settings. All right. It hasn't come into play yet, so we got a little bit of time. Make sure I use the correct id. Can you hit command R to refresh your page? Or, or Control R if you're. I don't know. Are you. Are you a Mac user or a Windows user?
+Edward Evard: I've got the, the windows.
+Lee Harrold: So the windows.
+Edward Evard: The windows just jots like, maybe this is a person to ask.
+Lee Harrold: You're a good person asking.
+Edward Evard: I guess I've got. Was it 16 Ram? Where do you tend to see the optimal. Like, can you recommend like a good hardware for jobs?
+Lee Harrold: Like, where do you see the best? Are you, are you seeing it like kind of slow right now for you? Like, what are you seeing?
+Edward Evard: I'm noticing it's a little slow with the shift over to the payer aware notes.
+Lee Harrold: Ah, okay. So is it, is it that it's taking a long time for payer awareness to generate?
+Edward Evard: I mean, I wouldn't say a long time, but like longer than you.
+Edward Evard: It's long enough that I'm sitting around waiting.
+Lee Harrold: Oh, I see.
+Edward Evard: Yeah. And usually what I'm doing is I'm moving on to the next patient and then coming back and putting in the note from the prior encounter like 30 minutes later. Because I'm waiting for the note to generate for a few minutes.
+Lee Harrold: Yeah. Okay. So I guess I'll mention, I'll say generation doesn't happen on your hardware. So you don't, you don't have to like adjust your hardware for that. That's an us thing. Um, the, the payer aware notes take like a little long. Like it's, it's a, it's kind of a more involved process.
+Edward Evard: Sure.
+Lee Harrold: Um, but yeah, I hear it, it does take. It does take much longer than we would currently like it to.
+Edward Evard: So, so it's not like a RAM issue where. If I had.
+Lee Harrold: No, that's like we are actively trying to make this faster issue.
+Edward Evard: Yeah, well, it's definitely not like a deal breaking issue. I was just wondering if there was anything on that I could do.
+Lee Harrold: No, unfortunately this is. That one is all us. All right, so see why this isn't showing up for you. Can you go to the recording. To the record tab? Oh, you. What is going on?
+Edward Evard: Maybe it's because I'm using the beta. Well, I don't know if it's still in beta.
+Lee Harrold: Oh, what does your URL say? Like, what's, what's the first. Like HTTPs. What's the first. First word after that?
+Edward Evard: All I'm seeing is next jot. Psych.
+Lee Harrold: Okay. Yeah. Oh, so you're on. You're on. Oh, yeah, that's. Yeah. You, you are one of our beta users, so maybe that's why I think why would that. You know, just looking at the time. And given this, I think what I'm going to do is take like 10 minutes and see why we can't get this to show up on our end. And then is it okay if we reschedule this session for next week so you can get a taste like a little later?
+Edward Evard: Yeah, that'd be great. And let me look at the calendar here. How about we plan on.
+Edward Evard: Yeah, what are your times?
+Lee Harrold: So I'm all right, I'm on East. Oh yeah, you're in Virginia. Okay, fine. I could do Monday, 8 to 9 or in the afternoon anytime, 2 to 5, 30.
+Edward Evard: Can you do a 5 o' clock on Monday, February 23rd?
+Lee Harrold: I could, I could. That would work.
+Edward Evard: Okay, sweet.
+Lee Harrold: I will send over, I'll send over an invite.
+Edward Evard: Okay, great. All right, thanks, Harold. Appreciate it.
+Lee Harrold: Yeah, great to meet you. Thanks so much. Have a good one.

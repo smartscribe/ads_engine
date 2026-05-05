@@ -1,0 +1,77 @@
+Christopher Hume: How are you?
+Freeway Psychiatry: Good. How are you?
+Christopher Hume: Good. A little warmer down here in D.C. now. So. Enjoying it?
+Freeway Psychiatry: Oh, that's great. A few things I wanted to go over and I wanted to. Yeah, I wanted to explain our situation a little bit better. So we kind of test ran in, you know, with Moses. The software, we like it, it's. It's a lot better than what we're using now. However, we have a few obstacles and maybe you could come up with some solutions. So definitely. So we have. How many providers do we have all over there?
+Olha Tishchenko: I counted like 13, 14 that use Inscribe.
+Freeway Psychiatry: Yeah. So 14 use Scribe and probably like three don't. Right.
+Christopher Hume: Okay.
+Freeway Psychiatry: Yeah. So. But we could, we could. We're trying to convince them. So now it's a busy practice. You know, they see like over 100 patients a day.
+Freeway Psychiatry: The problem is. The problem is. So we in the new entity. So we use a software there called Practice Fusion, which doesn't have an open API. It has like a. I don't know what it has as like a semi API or whatever the case is. I don't know how Commute did it. Somehow they did it where they're integrated with the software now at the end of. Well, I don't know, it could be at the end of April, it could be at May. We want to get away from the AI scrub we're using there now. And you know, and plus, you know, all the providers will get familiar with the new software, but, you know, we have to. They can't copy and paste because they're already not used to doing that. And the other thing is we are going to switch to Dr. Crow now, but that might be in two, three months. And when, when we switch, we could just keep the job site, you know, and just switch the softwares.
+Christopher Hume: Yep.
+Freeway Psychiatry: So.
+Christopher Hume: Oh, no, sorry, go ahead. You were. I didn't mean to cut you off.
+Freeway Psychiatry: Do you have any questions? I see you have a few questions.
+Christopher Hume: No, I'm just taking notes. No questions yet. No questions yet.
+Freeway Psychiatry: Okay. And the other thing is Ola. So we have providers that are like over 60 years old. We actually have probably a few that are over 65. They're not computer savvy. Ola. Constantly, you know, I don't know, my screen died. Meanwhile, all they have to do is press the button because they pressed it by accident and dimmed the screen. This is how basic some of the stuff is. So she's not a provider. But, but what the other company did is they gave her an account because she has to teach every provider how to do it.
+Christopher Hume: Okay.
+Freeway Psychiatry: And so she's. She'll be like, you know, your teaching person rather than you paying someone. I mean, she would. She pretty much knows the software pretty well at this point, but if she has questions, she'll just ask you and she'll be the middle person, you know, between everyone and that's it. The only thing from your end, like I said, the only thing from your end that has to be done is we have to. I mean, we could give you access to Practice Fusion so you could see how the other company did it, you know, and then if we could mimic that, you know, then we could switch over providers slowly and Ola will teach them, you know, how to use everything. And then when we switch to Dr. Crono, the thing that's going to need to happen is, well, it'll be the same provider, but for a short period of time, maybe like two months or one month. They'll have two accounts at the same time, one in Practice fusion, one in Dr. Chrono, but it'll be the same individual. You know what I mean?
+Christopher Hume: Yep. So they can I.
+Freeway Psychiatry: One, I do have a question now, Igor is Practice Fusion.
+Christopher Hume: Do you open that in browser? Is. You open it in your.
+Freeway Psychiatry: Yeah.
+Christopher Hume: Okay.
+Freeway Psychiatry: Yeah.
+Christopher Hume: Then the, the Chrome extension we developed for Dr. Chrono, we'll have to poke around a little bit, but that should work for Practice Fusion too. So we can, we can set up time with our engineer or we can just get him set up with an account to stress test and make sure it looks good. But that should be a very, very low lift.
+Freeway Psychiatry: Yeah. So if that's a low lift, I mean, we really. As long as you agree to everything else where, you know, they'll have two accounts for 30 days and then we'll, you know, we'll close out the Practice Fusion one. And also Ola would need an account, you know, to teach everybody, you know, how to use it. What else am I missing? Anything?
+Olha Tishchenko: Like, I don't know if you will be able, like, maybe to do like, like Chrome Extension. Because like you gave us only Chrome Extension that we are using now. We have the like templates. We have two for psychotherapy and two for psychiatry, like initial and follow up.
+Christopher Hume: And I'm sorry, Ola, would you like, help developing the templates?
+Olha Tishchenko: Maybe I can share some instructions that we should have mandatory like in all our.
+Christopher Hume: Okay, yeah.
+Freeway Psychiatry: Yeah, like mandatory stuff that we should have. And you know, we also do the tms. I think Hector's currently, I mean we're still trying to convince them. Yeah, maybe some of the therapists will be a little bit more open, you know, let, let's see. You know. Yeah. So Ola, this is why she needs an account because just to play around with it and the provider will come to her and he'll say okay, I want this. And she'll say, well these sentences have to be mandatory in here, you know, and stuff like that. So she, she'll handle a lot of that stuff. And then if she has questions, she'll just have a contact person. So that's basically all that we need. If we could do that and we could, we could. So we would test run it first, see how it works. If it works, we agree to that. And then that 30 day switch, you know, it's the same provider so it's not like you're giving us another account. You know, both of them will be used at the same time and it's, and it's very temporary, so.
+Christopher Hume: But I think they'll be able to use the same jot Psych account and put their notes either into Dr. Chrono or practice Fusion or they can use jot Psych is like the note and then they can put it into whatever ehrs you need it or both and then they can transition fully over to Dr. Chrono so there should be no issues there. And then Igor, I was talking with Ola about this maybe last week or the week before. So typically the admin accounts are free. The only restriction there is no recording. I'm going to see if I can do something for you guys. Ola, if you're going to be our point person for taking troubleshooting issues, I am certainly, certainly want you to have all access so you can do them. Because I know who's going to end up doing it if it's not you.
+Christopher Hume: I just need to check with leadership and see what we could do there. But I don't think that should be a problem.
+Olha Tishchenko: Usually it will be like me.
+Christopher Hume: Yes.
+Olha Tishchenko: All of them like texting if like ehr down or some to issue with printers like I, I handle that.
+Freeway Psychiatry: Yeah. So one more question. One more question Ola. Is there, is there any difference between the Google extension and a direct integration with Dr. Chrono?
+Olha Tishchenko: For now we are using extension. Moses, use an extension.
+Freeway Psychiatry: Okay, but do you think there would be a difference if it was in. Chris, what I'm trying to say is. I mean, even if it's not now, I mean, maybe it'll be in the pipeline and. But it's a truly open, you know, truly open API. Like, no restrictions.
+Christopher Hume: Yeah.
+Freeway Psychiatry: So it's not, you know, rocket science. You know, if you want to bill me for a couple of hours to get it done. Or whatever the case is. You know, I mean I, I just the more integrated it is, the easier it would be and you know, and stuff like that. Let me see. Do you have any other questions? Ola, Chris, do you have any questions like for extension?
+Olha Tishchenko: If you can do like for both for Dr. Krona and for Practice Fusion, it will be helpful because we will not like, like close Practice vision. We need to teach them how to use.
+Olha Tishchenko: So we will have both.
+Freeway Psychiatry: Right. But that, that second Dr. Chrono pen is not even established yet.
+Freeway Psychiatry: So it's going to be well down the road maybe like April or May. So it's not like you know, emergency. And the other thing is there's not really, there's not really any integrations at this point with Practice Fusion. So it's all basically Dr. Chrono. Most of the softwares that we use third party, they love Dr. Chrono and they said it's a very easy integration. Yeah. So maybe just something to look into in the future.
+Christopher Hume: Yeah, no, I, I'll fly this. The engineers I know it's really just a bandwidth thing. They're all working so much. So I think what would make sense is we'll make sure that the Chrome extension is working for simple practice and for Dr. Chrono. So at least for the transition you can use it for both EHRs and then simultaneously I'll have them scope out that direct API integration and see sort of how much time it would take and how much it would cost and then we can go from there.
+Freeway Psychiatry: Right. You see before it was. I couldn't really ask you for that. We have one provider, you know what I mean? Now like change, you know, now it changes everything around a little bit, you know and it's just I don't want Ola doing overtime. You know, if it's integrated usually, you know, there's less errors and it works a lot better. That's all.
+Christopher Hume: Yeah.
+Freeway Psychiatry: Okay.
+Christopher Hume: Well in terms of next steps, I see three things for me. One, Ola, I'm going to see how I can get you that access, the recording access. Two, if you could set again it would probably be Lee. Set Lee up with a Practice Fusion account and he would just double check to make sure Chrome is the extension's working.
+Olha Tishchenko: Yeah, I can show even like that commuters that we have how it works. Like now for example.
+Christopher Hume: Yeah, that would be great. So we could maybe coordinate over email for just a 15 minute meeting with our engineer and we get him set up and he'll check it and then when would you like, kind of to bring these new team members on. Because I'd be happy to do like a. I know. Ola, you'll be handling most of the training, but for this first batch. I'd be happy to do like an onboarding. Welcome to job site training.
+Olha Tishchenko: Yeah, it would be helpful. Like really like as you were told, like we have couple that like not computer friendly. It will be like really hard.
+Christopher Hume: Okay.
+Freeway Psychiatry: Yeah.
+Olha Tishchenko: Maybe you can give some trial for them like to, to try to use that software.
+Christopher Hume: Yep. Yeah.
+Freeway Psychiatry: I mean you'll meet. We have a couple of doctors. I mean we have one M.D. that's very difficult.
+Christopher Hume: Okay.
+Freeway Psychiatry: He's very difficult. But you know, maybe when a new face comes in.
+Christopher Hume: Yeah, right.
+Freeway Psychiatry: You know you could, you know, maybe and more knowledgeable. You know, he keeps insisting that it gets recorded and it says stays somewhere and all these other things. And then he said the patient didn't give consent and then you know, so it just goes and goes and goes. Even though now we started doing. You know, they put in all the consents but it still makes it more difficult. But yeah. Okay. So yeah, we could start, I mean right away. And is there a discount? Because that will give us a total.
+Freeway Psychiatry: I mean it, it's. The ownership is both companies.
+Christopher Hume: Okay.
+Freeway Psychiatry: So that even though there's only one provider, there's going to be three in Apex by April. So probably.
+Olha Tishchenko: I didn't know. I will manage like all providers like from Apex and freeway under one.
+Christopher Hume: Yep. Yeah. As soon as you go over seven providers it goes from 150amonth a person to 130. And then once kind of everything's up and running and working super well, we can also transition you over to an annual plan which there's a discount for as well.
+Freeway Psychiatry: Okay, perfect. Sounds good. Okay. All right. Thank you, Chris. Thanks Igor. That's it.
+Freeway Psychiatry: Have a good day.
+Christopher Hume: Thank you. You too. Ola, would you like to touch base maybe Friday to set up the.
+Olha Tishchenko: Yes, yes. Plus later like I will need like to book for providers some spaces for training because it will be hard, believe me. Okay.
+Christopher Hume: We can maybe plan on doing that next week. And this week will just be you, me and Lee making sure we have the extension set up. Let me see. Would 12 noon on Friday work?
+Olha Tishchenko: Yeah, I'm fine. Anytime. Just send me a link.
+Christopher Hume: Okay. Then I'll get that set up shortly.
+Freeway Psychiatry: Thank you guys.
+Olha Tishchenko: Have a good day.
+Christopher Hume: Awesome. Thank you both.
+Olha Tishchenko: Have a great day. Bye. Bye.

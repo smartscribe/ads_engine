@@ -1,0 +1,88 @@
+Dean Gainey: Good. How are your holidays?
+Nathan Peereboom: Oh, my gosh, I forgot the holidays were recent. They were good. They were good. You know, went up to upstate New York, had a little bit of time out in the wild, you know, all that good stuff. How about yours? Where were you?
+Dean Gainey: I was, I stayed in town, but the last three weeks I was in. I was in North Carolina. So I just got back a few days ago.
+Nathan Peereboom: Nice. Nice. Do you have family out there?
+Dean Gainey: Yep. Yep. That's where I'm from.
+Nathan Peereboom: Oh, that's awesome, Dean. I've only got like 10 minutes here. Unfortunately. It's been a freaking crazy day.
+Nathan Peereboom: We're doing eligibility checks. Are you interested? Do you need eligibility help?
+Dean Gainey: Yeah, I signed up to learn more about it. Um, cool. Yeah. Like, is it an external platform you, you guys use or.
+Nathan Peereboom: Well, let me, let me show you. Screen. All right. All right. So this is kind of what's going on with eligibility checks. So we run quite a few eligibility checks at this point because we've been running them for other clinics. Three questions we're trying to answer with an eligibility check. Binary yes or no to coverage, active coverage. Second for the particular procedures or classic procedures, does the plan cover it and by how much? And then do I need prior authors or other fine print? So we have an API connection to like around 3,400 payers. We do document searches for another 20,000 to 75,000 health plans and then we do some phone call based verification too. So you know, the three layers, you know, this API check. There's, there's like a lot of rich data there. There's even more rich data in the documents that we pull. And then obviously like there's, you know, the best data you can get is through phone call. So, you know, in some ways it's just a traditional eligibility check, but in, in terms of like robustness and accuracy, we're trying to be just like literally the best eligibility check in the entire world. So we've been running this for, yeah, for I guess two months now or so. And, and now we're rolling it out to like a broader base of people. The critical thing is that we just need to like, have a way to transition your patient data into jot psych so that we can run this through jot psych because we'll do it on like a, a weekly basis where we, you know, we go in and we're just like, hey, for all the patients Dean's about to see for the next week, check their eligibility.
+Dean Gainey: Okay. And it's 90 cents per eligibility.
+Nathan Peereboom: Yep. Per per check per check.
+Dean Gainey: Okay. It can you control if, like, rather than. Checking the clients ahead of time. Can you control which clients to do checks on?
+Nathan Peereboom: We're building in that functionality right now. At the moment, it's just like a weekly. Like, everything. Everything for the next week gets run.
+Dean Gainey: Okay, and at. Are the phone calls done with each check, or is that something that has to be like. Yeah. Does that something has to be requested separately?
+Nathan Peereboom: So the phone calls are done for checks where we can't get enough information from the API? Because there are certain things where, like, you check the API, you get data back, and, like, you kind of know, but there are others where you really do need to pick up the phone and call. And so that subsegment is who we call for.
+Dean Gainey: Okay, okay. And. Okay. Are you. Are you guys able to look at the. The raise? So, like, the regional, accountable entities, like, what. What Medicaid, Ray? The. The client would fall under.
+Nathan Peereboom: Oh, wait, that's interesting. Like, can you give me an example? I'm sorry. I actually don't think I know the term Raid. Ra.
+Dean Gainey: Ray.
+Nathan Peereboom: You know what? I actually don't know. I'm not the person who's been doing the phone calling, so I can check. Is that important?
+Dean Gainey: Yeah, especially for therapists, because I can only speak for Colorado, but someone may have Medicaid and therapy codes like 90837 would be billed under. Not directly to Medicaid, but only E and M codes are billed directly to Medicaid, but instead to the. Ray. Like CCHA, you have several different rays. Colorado Community Health Alliance, Colorado Access, and. Yeah, so the 90837 would be billed to that Ray.
+Nathan Peereboom: Interesting. Okay. And it's raes. All right.
+Nathan Peereboom: I'm writing this note down for our team.
+Dean Gainey: Okay.
+Nathan Peereboom: Okay, great. Anything else that is, like, important here, Dean, that you're like. Oh, you guys have to, like. You got to make sure you're thinking about this.
+Dean Gainey: The. The Medicaid raise, probably the most important one, because.
+Nathan Peereboom: Okay, yeah.
+Dean Gainey: Because if. If a therapist were to bill Medicaid, they won't get reimbursed.
+Nathan Peereboom: Gotcha. Understood. Perfect. Any. Okay, great.
+Nathan Peereboom: If you were gonna start using us for eligibility checks, like, when would you want to do, like. Yeah. Is that something that you want to, like, set up a data transition meeting and, you know, just start doing that? Because we can. We can get it rolling kind of whenever you want.
+Dean Gainey: I think probably if. If it could be done. As a, like an ad hoc basis rather than automatically every week, even though that's okay. That's great. My EHR already does. Does that. But if, if I were to. For free. So if I were to do that through you guys, it would add significantly to the bill.
+Nathan Peereboom: Yeah. Do you have to use your EHR for it? Like if you decide not to use the EHR side, could you get around that duplication?
+Dean Gainey: I don't think so. I think it, I think it just does it automatically a few days before and it's already included in the subscription. So like, if I, if I were to do it through you guys at 90 cents a pop, then it would significantly add.
+Nathan Peereboom: Yeah, I understand. Yeah.
+Dean Gainey: Yeah.
+Nathan Peereboom: Okay, cool. Just out of curiosity though, why would you even want jots, like to be able to do the ad hoc checks if your EHR is doing them, do you feel like they're not accurate?
+Dean Gainey: I think actually what they do is they look at whether a patient has the insurance, not really whether or not the provider is covered for the service. And it doesn't really do the best job at. It's not as robust as like what a call would be. I don't know if. Are you, are you able for your call, are you able to tell the AI what to ask during the call or.
+Nathan Peereboom: Yeah, I mean we use. We. Honestly, this part is like probably 80% humans, unfortunately, which is why we have to charge on a per eligibility basis because when the call is like calling is so expensive, it's like, it's. It's really, really challenging. But, but yeah, I mean, on those calls we have a pretty flexible, flexible approach.
+Dean Gainey: Yeah, no, I think I, I don't know if I showed you these guys, but have I, I think I introduced you or Jackson Defuse. They're a YC startup and they do eligibility calls and you can kind of customize what to ask if you. If you wanted to connect with them again. But, but yeah, it's called Fuse Insight.
+Nathan Peereboom: Yeah, I see it.
+Dean Gainey: But they, yeah, they're doing some pretty cool work.
+Nathan Peereboom: Do you use them?
+Dean Gainey: I just play around with their platform. I don't really use them heavily. But I can show you or give you a login to see what it looks like on there on my end.
+Nathan Peereboom: That would be amazing. Would you mind?
+Dean Gainey: Yeah, no problem. Yeah. I'm not at my computer right now, but I can be.
+Nathan Peereboom: Great. Let's see.
+Dean Gainey: But yeah. So, yeah, I just wanted to learn more about it and.
+Dean Gainey: But yeah, I love all the updates that are coming out and we seem to be. And where the jot. Audit. Audit is going. It's. It's learned and grown really fast. It's really cool.
+Nathan Peereboom: Love it. Amazing. That's. That's music to my ears. Music to my ears.
+Dean Gainey: Well, I know you're super busy, so I'll let you go. I'll send a follow up email with login details.
+Nathan Peereboom: Dean, I got. I got amazing. I've got an amazing update for you. I gotta tell you.
+Dean Gainey: What's up?
+Nathan Peereboom: Guess what's. Guess what we're launching next week.
+Dean Gainey: Is it the billing?
+Nathan Peereboom: Billing's already launched, so. Billing, Billing, you know, that's. That's already out the door. That's run as a service right now, but like the back end is all. It's all good. Next week we're launching E Prescription.
+Dean Gainey: Oh, wow. Congrats.
+Nathan Peereboom: Yeah. Do you. Do you have an interest in being like one of our first E Prescription guinea pigs?
+Dean Gainey: Yeah, I'll play around with it.
+Nathan Peereboom: Yeah.
+Dean Gainey: Okay.
+Nathan Peereboom: Can I get you set up for like a kickoff next week?
+Dean Gainey: Yeah.
+Nathan Peereboom: All right. Amazing. How does 10:45 on Friday the 13th sound?
+Dean Gainey: I will actually be at a conference in Nevada, but I have more availability the following week.
+Nathan Peereboom: Great. Awesome. How about Monday the 16th?
+Dean Gainey: Yeah, just tell me the time.
+Nathan Peereboom: Okay. 1:45pm Eastern. So that's 11.
+Dean Gainey: Yeah, 11:45.
+Nathan Peereboom: Okay. Awesome job.
+Dean Gainey: Should work. Yeah.
+Nathan Peereboom: All right, Amazing. Perfect. Well, I'm going to send this over to you. And that is super exciting. I can't wait to hear how. Yeah, how. How, how this goes.
+Dean Gainey: Yeah. Did you guys settle the doctor first?
+Nathan Peereboom: No. Do spot.
+Dean Gainey: Do spot. Oh, okay. Okay, cool.
+Nathan Peereboom: Yeah. All right, sweet. Oh, wait, last question. If you're interested in even trying our eligibility check system, do you want to set up time to have your patients transitioned?
+Dean Gainey: Yeah. Also, why not?
+Nathan Peereboom: Okay, great. Why don't we do that? You want to do? Honestly, we could go right after you want to do 2:30pm Eastern. So like literally right after the JOTRX kickoff, you could do a data transition.
+Dean Gainey: Yeah, that's true. Or actually no. So I have a meeting from 12 to 1 on this. On the 16th. Do you have anything a little bit after or no or before from 12 to one. So that's two to three your time.
+Nathan Peereboom: Two, three. Oh, so that John RX kickoff doesn't work for you. So let me. Okay, great. Why don't we do. What about 3pm My time, 1pm Yours?
+Dean Gainey: That works. Perfect.
+Nathan Peereboom: Okay, great. Okay, let me go to calendar. Over. Okay, let me play around with this. I'll get. I'll get back to you on it. What about for. For the data migration you want to do? How about. How about 1pm my time, 11 yours?
+Dean Gainey: Well, that I have. That's the only other time that day I am busy.
+Nathan Peereboom: Ah, okay. What about 5pm my time? 3pm yours?
+Dean Gainey: That works.
+Nathan Peereboom: Awesome. Okay, great. I will send these over and we'll get you rocking and rolling. All right.
+Dean Gainey: Okay.
+Nathan Peereboom: All right. Beautiful. Dean, I'm excited. Thanks so much for the encouragement. Thanks for this little tip on Fuse. They look. They look really cool.
+Dean Gainey: Yeah. Take it easy.
+Nathan Peereboom: All right, cool. Take care.

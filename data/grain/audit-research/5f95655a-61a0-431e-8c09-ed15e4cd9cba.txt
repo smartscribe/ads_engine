@@ -1,0 +1,113 @@
+Jack Waugh: Hey.
+Melissa Weisman: I'm good, thanks. How are you?
+Jack Waugh: Doing well. Doing well. Yeah. Yeah. Well, thanks for taking the time. Just kind of wanted to check in, see how everything with Jot psych has been going so far.
+Melissa Weisman: Good. It's been able to save me a lot of time and sanity.
+Jack Waugh: Awesome. I'm sorry I missed the second save you a lot of sanity.
+Melissa Weisman: It's been able to save some of my sanity.
+Jack Waugh: Awesome. That's what I love to hear.
+Melissa Weisman: So I ran into a very weird issue yesterday. And I don't know if anybody's ever said this or this was a thing I did accidentally on my end.
+Jack Waugh: Okay.
+Melissa Weisman: So I had to had an admission and I had a follow up in admission. I can't remember what order they were in. But when I looked at the second one that I did, I always try to look it over. Obviously before I put it into the ehr, it had integrated some of the information from the patient I saw before that. And I did two separate recordings. I distinctly like, I went back and I. Because one of them was an intake so I had to make a new profile and everything for them. So I know I recorded them separately. It was the strangest thing and I can go back and like edit it or I can redictate it or something. But has that, has that ever happened?
+Jack Waugh: That. Okay, so that's really good to know. That's the first time I've ever heard of that happening. Incorporated info from other patients. I have, I have one potential thought what maybe could have happened.
+Jack Waugh: But I'm curious to hear from you first. Like, so when you had these two notes, were these like patients you saw back to back or were they right?
+Melissa Weisman: I believe it was one af. Yeah, it was one after the other actually. Wait, it was two intakes.
+Jack Waugh: Yeah, two intakes. Is there any possibility that before you went to make the note that the last patient name could have still been selected in the record window?
+Melissa Weisman: Well, I had to make. They were both two intakes and they both have their own.
+Jack Waugh: Their own separate.
+Melissa Weisman: Yeah. So when I hit, you know, generate the note for the second. Was that new patient. It was a note under that patient's name, but it.
+Jack Waugh: Oh, I see.
+Melissa Weisman: Yeah. So it stole some of the stuff from the other one. I'm like, that's really strange. That's not what they. That's not their history. And I realized that was the one before. I'm like, yeah, that's really.
+Jack Waugh: Yeah, that is really weird. I've actually never heard of that happening.
+Jack Waugh: It might just be like a one off thing. As long as you weren't finding that with like a majority of the.
+Melissa Weisman: That was the first time it's ever happened yesterday. And I looked at my notes from the rest of the day and I can double check and see if it was more than one of those.
+Jack Waugh: Okay, yeah, that. I'll definitely pass that along too just in case there was some kind of bug there. But I haven't heard of that happening before.
+Melissa Weisman: So it's good to know.
+Jack Waugh: I'll definitely keep an eye on that.
+Melissa Weisman: Okay. This one before it. On his. Oh yeah. So in that intake I did. So I had two intakes and then the first one of them I did actually did take information from the follow up that I.
+Jack Waugh: Meaning the follow up of the. Of the other patient.
+Melissa Weisman: The follow up. I actually this is the third like so I saw this follow up first and then I had an intake and it took information from my. And they're, you know, under the patients names.
+Jack Waugh: Okay. Do you mind?
+Melissa Weisman: Looks like it's. It's practically all of.
+Jack Waugh: That's. Yeah, that is really unusual. Let me see if I can help you problem solve there for a second. So do you mind? You don't have to show me the actual notes, but are you able to share your screen just from the record window?
+Melissa Weisman: Oh, I think so. So. Has it worked? Sorry, it's still. It looks like it's still thinking on my end.
+Jack Waugh: It's. I see like a screen broadcast, but I don't know. Are you on your phone right now?
+Melissa Weisman: On my iPad. That's what I always use. I feel like it worked last time. I did. I'm pretty sure I did a screen share last time.
+Jack Waugh: Yeah, you could try. Let's see. I definitely see something, but it's like showing me like a screen broadcast thing.
+Melissa Weisman: Okay. That's what I'm looking at. Like, it's. It's thinking and it's not doing anything.
+Jack Waugh: You could try pulling up another screen and I can see if that takes me. Oh, well, you know what? Here, I'll tell you what, what I'll do at least is I'll share my screen for now.
+Melissa Weisman: Okay.
+Jack Waugh: Then we just make sure we're on the same page. Okay. So the only thing I could think about, I mean, I'll definitely just pass that along. But the only thing I could think of that could have been happening is either a, the patient in like, name accidentally, like coming up as the same patient. But I know you're saying, but the note is from a different patient.
+Melissa Weisman: Yes, from a different. And when I go back and I look at that patient's like, I pull up that client, that notice, it's. There is a note done under their name. But like. And then the last one I saw of the day, which was like, much later, his was fine.
+Jack Waugh: Gotcha.
+Melissa Weisman: Yeah, let me. I'm pretty sure, like.
+Jack Waugh: Yeah, it's good to know. I'm gonna guess this is like a one off weird thing just because I've never heard of that happening before. But what I'm gonna do is I'm gonna reach out to our, our team and just make sure that there wasn't some kind of glitch. And they also might have, like, a more concrete answer as to why that happened. Okay, so I can definitely, like, get back to you and I'll buy, like, probably this week or early next week on that. But otherwise, aside from that one little hiccup there, how has everything else been running for you?
+Melissa Weisman: Yeah, aside from that, it's been really helpful. No issues otherwise. I've gotten used to kind of editing it or making adjustments with that AI once the note is done and going back through it. And I notice it likes to use a lot of abbreviations, so I have to ask it to like, take this abbreviation and turn into something else. Because we have specific lists of approved abbreviations and things that we can't use.
+Jack Waugh: Right?
+Melissa Weisman: Is there a way to make that like a setting so that they're never used in all of the notes? Like for instance, the big one is every time I say at bedtime for medication, it turns it into qhs and we're not allowed to use that abbreviation anymore.
+Jack Waugh: QHS abbreviation?
+Melissa Weisman: Yeah, and I don't know, I don't know. That's like come from the county and state specific abbreviations we can't use. And so I don't know if that varies per region. But yeah. So if that's just like a California thing or if that's just a San Diego thing. And so I. I'll ask the AI like thing once I'm done. Hey, just change all QHS to at bedtime.
+Jack Waugh: Right. Did you when you were using that feature? There is a way that you could do that if you actually tell the AI editor, going forward, only do this on this template. You can actually use that language like from now on on this template. Right, right.
+Melissa Weisman: Okay.
+Jack Waugh: Always use this language and it'll actually make that adjustment permanently for that section.
+Melissa Weisman: Okay, cool, cool.
+Jack Waugh: Yeah, so that should like help you with that. But yeah, otherwise any other things I can help with or any other blockers I can remove or anything like that?
+Melissa Weisman: No, I did notice sometimes, like I panicked and it would say I get this message like, oh, there's no sound detected. Your microphone's not picking up anything. And I would just proceed anyway. And it was picking it. So I don't know if it's just a sense. I don't know if it's a sensitivity issue with my microphone or.
+Jack Waugh: Oh yeah, like on the record window, like is that the little thing that pops up in like the upper left hand corner?
+Melissa Weisman: It pops up at the sort of at the bottom of the screen when I'm in the record thing. It says, okay, yeah, like, you know, sound not detected, like, microphone not whatever. But I've just kept recording and it seems to get everything.
+Jack Waugh: It seems to work. Yeah, yeah, I could understand why that would be nerve wracking for a second. I'm gonna guess that that's almost definitely on the computer system end.
+Melissa Weisman: Okay.
+Jack Waugh: Because as far as jot psych goes, it's really just taking your computer's mic so there. I would check in your like system settings and make sure you have like the default mic set to the one you're normally using.
+Melissa Weisman: Okay.
+Jack Waugh: Because sometimes if like people use multiple microphones or like, you know, if you're using an office computer, it can be like really weird settings like they have some system setting on it. That would be my guess. Otherwise, like, as far as the microphone settings go, I'll show you this here really quick. So, see this little gear icon here?
+Melissa Weisman: Oh, nothing's come up yet.
+Jack Waugh: Oh, here, give me one second. Try to reshare this.
+Melissa Weisman: Oh, I saw it for a second and it went away.
+Jack Waugh: Anyway. Okay.
+Melissa Weisman: I think we had this issue last time, so.
+Jack Waugh: Yeah, let's see if we can get it this time. I'm gonna actually, you know what I'm gonna do? I'll share my whole screen here. Okay. Is that working now?
+Melissa Weisman: No, it did the same thing. It popped up for a second and then it like hid behind.
+Jack Waugh: Okay, I'll show you how to do this. It's. It's very easy to find. So do you see on the record window, see that little like gear icon next to the microphone?
+Melissa Weisman: Let me see. Yes.
+Jack Waugh: So that's gonna be. That little gear icon will show you all of your microphones. So as long as you just make sure you know which one is your default and you have that selected. If there's still a message popping up at the bottom, I would say it's probably a system setting. Like something about the microphone on your computer isn't coming up right away.
+Melissa Weisman: I know.
+Jack Waugh: There's also headphones mode for when you do telehealth. So if you're doing any telehealth visits, you can click that headphones button to the right of it. Maybe that's has something to do with it.
+Melissa Weisman: No, I've never used that because like, that's been an issue. Like something I. So if I am at home and I do telehealth with patients, I find I have to like. Okay, well, obviously this is. My iPad is using its microphone. So I can't use that for the telehealth call. I can't use my iPad for the telehealth call. So if you use. I'll use things on my phone, like Doxy is my personal go to for seeing patients. So I'll put it on my phone so that it's still picking up the noise from my phone.
+Jack Waugh: Right.
+Melissa Weisman: But there's no way it can just. I can use it all on one thing. Right. Because it's the iPads using the microphone for one thing. Right. And it can't.
+Jack Waugh: Yeah, that could be tricky. I.
+Jack Waugh: I know it'll work well if it's in the same, like if you're seeing like, let's say through doxy, like a patient on that window and then you open up jobs like in the other window, then it should work. But if it's on different devices, that's something you would have to test out. I think if your device is at least connected via microphone, you can definitely try it.
+Melissa Weisman: So I, what I do is I put doxy on my phone and it picks up all the sound from the phone on the iPad microphone. So it does work that way. But I curious to see if, like, okay, can I just use it all on one device?
+Jack Waugh: Yeah, I mean, you could definitely try. The thing I can mainly vouch for is if it's all on a computer. So if you use. A doxy tab for you know, let's say like your Chrome browser. And then in the other window you have the job site window open. Then you can select the headphones mode and you can tell it communicate with this. I think that's maybe what you're asking, but.
+Jack Waugh: Yeah, yeah, yeah. Okay. Yeah, okay, I'll try.
+Jack Waugh: I'll share one more time. Let's see if it. Yeah, definitely.
+Melissa Weisman: I'll do it. Somebody see if that works.
+Jack Waugh: Tell me, does this. Did this come up this time or still can you see it there?
+Melissa Weisman: No. You know what's really funny is when I minimize the window that that shows up and obviously like I can't. It's in. It's in like the, the corner of my screen and then I can see it. But then otherwise. Yeah, when I it. That's so weird.
+Jack Waugh: Yeah, that's funny. I mean, I guess as long as you can see generally where I am. So I'm just on this microphone button here and then it's the setting gear right above it and then there's like that little headphones button right over there and there's even a test mic button with like the check mark right over here.
+Melissa Weisman: And then I've note. Oh okay. That's headphones one. Got it.
+Jack Waugh: Yeah. So that headphones thing is what you would do if you want to have your tab communicate with jot psych that you're doing your chat.
+Melissa Weisman: That's cool. Okay, great. That saves me. I'm so glad I remembered that.
+Jack Waugh: Yeah, yeah, definitely. That way you can actually use it on, on the telehealth calls too. So.
+Melissa Weisman: Cool.
+Jack Waugh: Awesome. So I'm gonna definitely. And I'll, I'll shoot them over about that hiccup you had that you mentioned and I'll let you know if we see anything there. It might just be like a one off weird thing but if you notice it again
+Melissa Weisman: it absolutely could be like an operator error thing and I don't know what I did, but otherwise it's been working out really well.
+Jack Waugh: Awesome. Yeah, well definitely glad to hear that and you know, excited to hear that you're getting some of your time back and you know, able to be more. Sounds like, you know, you can be a little more present with patients and that's, that's always great to hear.
+Melissa Weisman: Yeah, that's always really nice. Is like not worrying about having to write everything down or type when I'm talking to them. I don't like doing that.
+Jack Waugh: Right. Yeah. Yeah. It's a lot of hats you guys have to wear, so.
+Melissa Weisman: Yeah. And it's nice that I can just like, what, hit generate note and then I can just. At least it gets saved, right? So I can just copy and paste. Because I'll find sometimes I'm seeing people back to back. I don't have time to put their note in right away, but it saves it. So I can just go back to it and throw them all in the ehr all at once.
+Jack Waugh: Gotcha. Yeah, that makes sense.
+Melissa Weisman: Yeah. And now that I've been using it on multi. Multiple patients, multiple times. It's. It's excellent at remembering. Like. Okay, well, we decreased that medication last time and it can add that into the note because I'm getting to where I can't keep track of some of that adjustments I'm doing every single time. So.
+Jack Waugh: Yeah.
+Melissa Weisman: Great.
+Jack Waugh: Well, I'm really glad to hear that and yeah, well, basically just keep me posted, let me know how everything's going. But I'll definitely run that thing you were hap. You were noticing by everyone and yeah, let me know if you have any other questions if like you need help getting that like telehealth thing working. I think, I think you pretty much.
+Melissa Weisman: Yeah. Yeah, my. The psychiatrist I work under, I told him about it and he got very excited. Anything to help. He's. He see, he's very busy because he sees patients in the hospital in outpatient, his private practice and at board and cares and substance use recovery centers.
+Jack Waugh: Oh, wow.
+Melissa Weisman: So he was really excited. So I'm going to tell him how it went, see if it's something he would try. The problem is he's. He sees a lot of telehealth. I think it would just be the learning curve for him.
+Jack Waugh: Well, if you want what you can do, if you want to pass along his info, I'd be happy to like reach out to him and kind of do a demo call with him that I could help him like set stuff up and give him a chance to ask some questions and see how it works. Yeah. Is there. Would there be a best way to, to reach him?
+Melissa Weisman: Well, I'll. I usually call him every evening to review stuff. So next, when next time I call him, I'll ask him if it's something he's interested in.
+Jack Waugh: Sure, yeah. Feel free to let him know and you can pass along. I'll send you my email so he knows how to reach out to me and yeah, keep me posted. But otherwise, really glad to hear that you're saving some time with job site. So.
+Melissa Weisman: Yeah, it's been very helpful.
+Jack Waugh: Awesome. Okay, cool. Well talk to you soon and yeah, keep you posted.
+Melissa Weisman: Cool. All right, thank you so much.
+Jack Waugh: Bye.
+Melissa Weisman: Bye. Oh my God.

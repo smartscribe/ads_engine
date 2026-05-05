@@ -1,0 +1,147 @@
+Becca Bressler: Hey.
+JORGE VALCOURT: Yes. Let me. I don't see you. Let me look for the screen where you are at. Okay. How are you?
+Becca Bressler: Good. How are you doing?
+JORGE VALCOURT: I am doing well. I see. Yeah, I see you. How are you?
+Becca Bressler: Great. Good. Nice to meet you. I don't think we've met before, but I know you've. You're in touch with other members of my team. Team.
+JORGE VALCOURT: We are.
+Becca Bressler: We are.
+JORGE VALCOURT: Very nice meeting you, Becca.
+Becca Bressler: Yeah. So I understand we're here to get you set up with our E prescription. So I am going to walk you through how to do that and. Yeah, would you just go ahead and share your screen with me?
+JORGE VALCOURT: Okay. Yeah, let's do it. Let's see. I have a few screens open.
+Becca Bressler: Amazing. Okay, so to kick this off, you're going to log into Jot Psych. And before I forget, Jorge, I understand that some of your clinicians are using Jot Audit, our other new feature. Is that right?
+JORGE VALCOURT: Yes. I mean, right now, I don't know how much you know about the clinics, but right now I oversee two different companies.
+Becca Bressler: Okay.
+JORGE VALCOURT: Three offices in total.
+Becca Bressler: Okay. Okay.
+JORGE VALCOURT: One of them is Valkyrie Behavioral. The other one is Peak Health. I want this for Peak Health.
+Becca Bressler: Okay.
+JORGE VALCOURT: Got it tested out first.
+Becca Bressler: So do you have a Jot Psych login for Peak Health? Like a group account?
+JORGE VALCOURT: Yeah, this is it. This is the one.
+Becca Bressler: Oh, great. Amazing. Amazing. And Peak Health, they do not have Jot Audit, right?
+JORGE VALCOURT: I am not quite sure, Becca. I know that we have been talking about it for a few weeks now. I don't know if we started using it.
+Becca Bressler: Okay, the. The reason I ask is we fully intend to give that to you guys for free in order to enable this. There's like a slight chance that your clinicians will see a paywall because we did just release it as like a paid feature add. If that's the case, let us know ASAP and we can resolve that for you. I just kind of want to warn you that there's a slight chance that will happen. Okay, so the way to start here is to hit your practice at the top navigation bar.
+JORGE VALCOURT: Where is that?
+Becca Bressler: There's a.
+JORGE VALCOURT: Yeah, right there.
+Becca Bressler: And then go to clinicians. And to do this, you're going to add the feature. So if you select the pencil icon under actions. Oh, interesting. Okay, can you refresh your browser for me? I just kind of want to see if this. You should see something called Jaw RX that I might need to. Oh, no. So this is a different account. Actually, give me one second. Jorge, I put Valcor here, but can you tell me the email address you used with this account?
+JORGE VALCOURT: Okay, let me find out. I don't know if it is the info. Yeah, infospringsdr.com and I think that will change for Valcort. I created my own, like the admin account for. For me to be able to see the claims and do all that in the future. I don't know if we should go that route here too, or we should wait until we get to that point and then create the admin account.
+Becca Bressler: Okay, let me see. So I, I just added it. So we got to give it like about 30 seconds, then I'll have you refresh again.
+JORGE VALCOURT: Okay.
+Becca Bressler: What are you currently using to prescribe?
+JORGE VALCOURT: What software? We use it through our ehr. I believe it's a doctor first. Could it be.
+Becca Bressler: Okay, yes, I've heard of that one. This is not. Our integration is through something called Do Spot.
+JORGE VALCOURT: Okay.
+Becca Bressler: Okay, let's give it a refresh. Give your page a refresh. Now if you try hitting that pencil icon and you see jaw RX at the bottom. Yes. You're going to select that. And we're giving our sort of early users their first month is $10. So we will set a refund on your account, a credit on your account for, for $59 for this. But go ahead and hit save changes. All right, great. So you've now added this add on to your account, which means you can now enable the clinic and yourself as a clinician. So the next step here is can you select the Practice settings tab on this page? There's some tabs at the top. Your subscription clinicians or on this page, Jorge. So there's clinicians, there's your subscription data and security. You go up a little bit. You take.
+JORGE VALCOURT: Is it here, Abigail?
+Becca Bressler: Yeah. So. So take your mouse and move it up a little bit. There's something you might, you should see called Practice settings. It's above the active member, like block right there. So go up a little bit. Do you see clinicians and your subscription? Okay, yeah. Now move to the right data and security Payer Doc center. Yeah, yeah, right there, no problem. And then scroll down a little bit and you see E Prescriptions. You're going to select connect to E Prescriptions and the next few steps are going to ask you for a lot of information here. The setup, you know, should take hopefully doesn't take too long, but just to warn you so.
+JORGE VALCOURT: So, and this is for. This is the office information.
+Becca Bressler: Yes, this is the office information. And this is where you'll set your clinic name. So maybe this is. If you want to call it something else, you can change the name here as well. But yeah, this is the office information.
+JORGE VALCOURT: Let me. Okay. 305.
+Becca Bressler: Great. So now the next step here is if you go up to the upper right hand corner where you see. It looks like in. It's like the settings button. Yeah. Click that. And then if you scroll down a little bit on this page, you should see, keep scrolling. E Prescription. So this is now where you would register yourself with your npm.
+JORGE VALCOURT: Oh, okay. I am not the clinician. I am only the administrator. So I need to write down the clinician's information, I assume.
+Becca Bressler: Yes. So the thing is though, Jorge, is it looks like your clinicians are not on this account. What would happen typically is you have your practice administrator who sets up the clinic on do spot, and then all of the clinicians on the account, just like you got to this page, would come to their own account settings and they would set this up themselves on their end. That said, it doesn't appear that any of your clinicians are on the job site account, which means they can't set it up.
+JORGE VALCOURT: Okay.
+Becca Bressler: So I'm not sure exactly what you want to do now. I could give you a little bit like of a demo to show you how this would work, if that's helpful.
+JORGE VALCOURT: Yeah, let's. Let's do it for now. So what I need to do to be able to use this, Becca, so we don't waste any more time, will be to get the. All the providers I want to prescribe through Jotsych to open a new account with their information.
+Becca Bressler: Yeah. Do they have job psych accounts?
+JORGE VALCOURT: Well, they use. Right now they use only one. Right now it's being used only for psychology and psychiatry.
+Becca Bressler: Okay.
+JORGE VALCOURT: And they have. I believe they're using the same account to create the notes and then they transfer that over to the other system.
+Becca Bressler: So if they have jots like accounts already, I can just move them into this organization. That's your organization.
+JORGE VALCOURT: I don't think they do have. I don't think they have jobs like account.
+Becca Bressler: I see what you're saying. Yeah.
+Becca Bressler: So in order to enable this, they would need to have jots like accounts and then they would go through the process of setting it up like here. And the way that you would invite them to ensure that they end up in your organization is if you go back to your practice at the tab the top tab and go to clinicians. So there's that Invite user button. You would hit that and send an email to those clinicians. And if you want them to have JOT rx, you would select that as the add on that you would give them. So you would add the email, you would add jotrx. And then once they are in JOT psych, they would be able to set themselves up like this.
+JORGE VALCOURT: Okay, so let me make sure I write down what we need to do. Okay. So they need to open up their own JOTCI account. Okay.
+Becca Bressler: Yeah. So you would invite them, you would write their email, you would select RX so that they have access to that and then they should be able to set it up. I would love Jorge, if you would set. I don't know. I'm about to be on vacation, so I could put you in touch with one of my colleagues. It'd be helpful for us to walk through it with your clinicians just so they. Unfortunately dose spot makes it a little bit more complicated than we would like it to. So it can be helpful to have us there walking you through it.
+JORGE VALCOURT: Okay. So right now I have. I want both clinicians to open their own accounts. One of them is a, is a pediatrician. She is very old. I mean, she's quite old. So I don't expect this to be easy to set up with her.
+Becca Bressler: Okay.
+JORGE VALCOURT: The other one, she's a psychiatry nurse practitioner. So it should be much easier to set it up with her.
+Becca Bressler: Okay. Yeah, we can walk through it with, with your users to make that. To make that as seamless as possible. Give me just one second. I want to make sure that I am able to do this demo because it looked like I'm locked down my account. One second here, Jorge. Apologies. Let's see. Okay. Give me just one second. Alright, just make sure I'm getting this on my account. Save changes. You know what, Jorge? My account. Oh, here we go. Okay. Right, so let me just share my screen with you. I'm going to spare walking you through the setup process because it's laborious and we can walk through that with your actual clinicians. Let me see what screen you see. Okay, great. So.
+JORGE VALCOURT: So basically, yeah, before we get started, I see here when I. In the screen, when I invite the users.
+Becca Bressler: Yes.
+JORGE VALCOURT: I see a practice administrator. The, the account I have open right now is the account. The very first account we created is the account that right now the psychology providers are using to create the notes and then after the note is created, they transfer that note over to the ehr. Should I create my practice administrator account now or can I keep using this one without an issue?
+Becca Bressler: So I don't. Maybe you can ask the question again, but let me see if I can. So as I understand it, the clinicians that you want to invite do not have jots like accounts at all. The practice administrator is you. So that's a role that you like, theoretically could give them, but I wouldn't. So you'll just select clinician for those users and you continue to be the practice administrator of this account so you don't lose any functionality if that's your, if that's the question you're asking.
+JORGE VALCOURT: Well, my question is should I create a separate account and leave this one for the psychology providers?
+Becca Bressler: A separate account for yourself, you mean?
+JORGE VALCOURT: Yes.
+Becca Bressler: What would you want your own account for?
+JORGE VALCOURT: Well, at some point, I don't know if it's going to be the following months, we're going to be submitting claims through the system and I have to have visibility of those claims.
+Becca Bressler: Yes.
+JORGE VALCOURT: Okay, so that account, you'll see that aspect of the, of the program.
+JORGE VALCOURT: Yes, I, and I don't think it's going to be through this account so.
+Becca Bressler: Because it'll be tied to a different psychologist provider right now.
+JORGE VALCOURT: Yeah, Clinic.
+Becca Bressler: Yes. So, but it sounds like you have. You're maintaining two separate jots like accounts right now. Are you these clinicians that you would be adding to this account, are they clinicians? Who would they be a part of you billing through jot Psych? Is that what you're asking? Asking.
+JORGE VALCOURT: Yeah, yeah.
+Becca Bressler: And, and are you saying that you though plan to be billing through a different account that you have on jot Psych. Your account?
+JORGE VALCOURT: No, no, no. It's gonna be totally separate systems, separate accounts, separate everything. Valkyr, it's one thing.
+Becca Bressler: Yeah.
+JORGE VALCOURT: And I'm even considering that that company for E Prescribe, it's only. Only peak. My thing is, since I only have this only account, which right now is being used by the psychology providers to create the notes.
+Becca Bressler: Yeah.
+JORGE VALCOURT: Should I leave it as is and me as. Me as the practice administrator. Practice administrator. Or should I create my own account separate from this one to do the billing things?
+Becca Bressler: Is that what you're asking?
+JORGE VALCOURT: Yeah.
+Becca Bressler: Oh, no, you'll be able to bill through this as the practice administrator. So once that's up and running, that said, what, what you would be doing is you would be billing the claims of these providers in this account. And so if that's what you want, if it's these peak providers, then you should absolutely keep the same account. Your view will be different than your providers. So because you're the practice administrator, you will have access to the suite of billing tools. They will not. But, but yeah, if these are the providers that you are going to be, you know, billing using. Yeah. Like their services, then it should be under the same account.
+JORGE VALCOURT: Okay, good deal. Okay, that's fine. So they're going to create their own accounts and I'm going to invite them.
+Becca Bressler: So great. So the way this works, once you are set up with Jawrx and we go through the identity proofing process, etcetera, you're going to be able to send prescriptions a couple different ways. I will say this user experience is about to change and get a lot better. Right now it's a little bit buried our first version of it, but you'll see on a patient, you'll be in a patient's profile and you can go to the medications tab and just hit prescribe. The other way that you'll be able to do it is from the session itself when you're recording. So if you go to the recorder page, you select the patient. Similarly, you'll be able to go to the medication tab and hit prescribe. What it will do is open up dose spot and your provider or excuse me, the. The patient who you are prescribing for, it will open up the patient's profile the first time. It will, if, if this information is not already in jot psych, the, the patient information, it will ask you to, you know, add additional information for this patient. But basically what it does is it launches dose spot, you know, search your. See, that's the prescription. You add a prescription, you know, let's see, Lamotrigine 150. You fill out this information as far as dose, quantity, frequency, supply, etc, any pharmacy notes here. And then you create the medication. And then it's just like a, you know, you, you can add multiple medications to the same order. They'll populate right here items to prescribe. And once you've populated this list, you'll just click Next and it'll be pretty clear. Do your providers prescribe controlled substances?
+JORGE VALCOURT: The psychiatry one, yes. The pediatrician, very rarely.
+Becca Bressler: Okay, so that just means there's an extra step through Jot Psych when you're signing up. So for instance, let me go back here. Share this tab instead. So what this means is that when you set up your clinician account, oh, it doesn't show this anymore, but there will just be like a toggle that you select as you put in your own information saying that you prescribe controlled substances and it'll ask for your DEA number. There's a second identity, there's a two factor authentication step for that as well. So it's like a little bit more involved of a setup process. But again, once your clinicians are ready to do this, we should set up another call and we can walk them through every step of the way.
+JORGE VALCOURT: Okay, sounds good. Where do I enter the patient's pharmacy?
+Becca Bressler: Yes, great question. So the patient pharmacy. Hold on, let me find my tab again where I am. Right here. Okay, let me go back to Dose Spot. So when you first set up a patient for the first time, your first question will be the pharmacy. And you can set a default pharmacy. But if you want to change it, you know, you just go back. You can either select Manage patient Pharmacies and you can add a different pharmacy and select it as the default. Or when you're going through the prescription flow, you can just select choose pharmacy. Go back a step.
+JORGE VALCOURT: Okay, so that is not entered in the patient profile, that is entered in Dosebot.
+Becca Bressler: Yes, it is entered in dosepot.
+JORGE VALCOURT: Do I have to create another profile in Dosepod for each patient for one time?
+Becca Bressler: If you have your patient's information. So let me like, let me share this tab instead.
+JORGE VALCOURT: So it has to be created twice for Jodec and for those spot.
+Becca Bressler: No, actually. So when you create itin.psych, it will create it in Dosebot. So it's just one time. So you know, if I have a new patient, let's say Alfred. So if I have a patient in jot psych and I don't have all of the information, but I want to connect them to Dosebot. You'll say connect for erx. You'll add this information in the phone number of the street and hit connect patient. And what that will do is it will open up this patient in Dospa. You will not have to add additional information for that patient. You will just need to add it in jot Psych one time in order to create the patient profile inside Dospot. Does that make sense?
+JORGE VALCOURT: Yeah. Okay. Okay, that's fine.
+Becca Bressler: Do you have any other questions, Jorge?
+JORGE VALCOURT: No, Becca. I mean right now just a matter of getting the providers to create the accounts.
+Becca Bressler: Yeah.
+JORGE VALCOURT: And as soon as that's done, start testing the system and see what, what do we need to do to make it work?
+Becca Bressler: Great. So yeah, let me send you, I'm going to follow up with an email. I will send the calendly for, for setup. It will include other people's calendars too, just because I'll be on vacation. So use that when you're scheduling setup for prescription so we can get you guys up and running. And I'll also pass along a link to some resources about Dose Spot if you want to flip through just to see other capabilities. But yeah, definitely keep us in the loop on getting getting your clinicians set up and we're excited to get you up and running.
+JORGE VALCOURT: Okay, Becca, once I get the clinicians to create the account, do we need you guys for anything before we can send medications out? If for the pediatrician on control, yeah.
+Becca Bressler: So what you guys need from us or what we need from you, you know, you're welcome to self serve set yourself up. You don't need to do it with us. The one thing that we would ask is if your clinician is coming from a different E prescription platform and if on that platform they have enabled refills and change requests. So those things need to be transferred over to Do Spot. So sure Scripts only lets those live within one E prescription software. What that means is that particular part of it, getting those two things takes about three days from sure Scripts. Getting someone though to send a new prescription takes about a day because Do Spot needs to flip a switch for that user. Basically we send in a change of vendor request. Within a day you guys should be able to be sending prescriptions and then it'll just be like a couple more business days before you can be doing refills and change requests within dose spot.
+JORGE VALCOURT: Okay, let me ask you about that, Baker. Right now, one of my providers works for another clinic.
+Becca Bressler: Okay?
+JORGE VALCOURT: They will have. Probably another E prescription system. Other end. Is this going to be an issue?
+Becca Bressler: They can send prescriptions through both platforms so there's no issue with sending. They won't be able to enable change requests and refills through both platforms. And this as we understand it is like a sure scripts requirement. So you would encounter this if you're across multiple prescription platforms anyways. So. But they would not have issues sending prescriptions from
+JORGE VALCOURT: Dosebot and that will apply to both controlled and uncontrolled medications. That doesn't matter. They can send control through another portal, same as. Okay. Okay, good. Okay, so I'm going to get this started today. I'm going to have the pediatrician, she's on site today, open on her account. She's gonna need help. So I'm going to go, I'm gonna have someone help her out. Hopefully we can also test how she can create notes through job site. We haven't done that yet with her.
+Becca Bressler: Okay. Do you want help from our team though or you're saying you have someone there that you're gonna have.
+JORGE VALCOURT: Well, I mean if it is what he showed me, it doesn't look too complicated.
+Becca Bressler: So where it gets complicated is. And there. And so I'm happy to be on the call is there's like an identity proofing step through do spot. You have to download an app that enables like two factor authentication. You take a photo, you have your insurance or your, you have your like driver's license id. So there are some steps outside of Jot Psych that can get a little complicated. So I'd be happy to go through that with, with.
+JORGE VALCOURT: Okay. Okay, so that's fine. So if it's complicated then I'm gonna need your help. I'm going to call the office as soon as we finish here to set up some time today to go over, over these steps. In the meantime, I'm going to create her account so she, she has that taken care of.
+Becca Bressler: Okay.
+JORGE VALCOURT: And the part where she has to authenticate herself, then we wait for you and we do it together.
+Becca Bressler: Great, that sounds great. Do you want to just. I think you have my email and you can just reach me through that about setting up a time, if that works. Let me just.
+JORGE VALCOURT: Yeah, be Brazler.
+Becca Bressler: Yes, that's me. And actually Jorge, could I just give you my cell phone number if you guys want to be able to reach me last minute to set something up?
+JORGE VALCOURT: Yeah, that's fine.
+Becca Bressler: Yeah. Okay, so my cell Phone number is 9254-450145-10337. 0337.
+JORGE VALCOURT: Where is that? What is 925 from?
+Becca Bressler: It's the Bay Area.
+JORGE VALCOURT: Bay Area?
+Becca Bressler: California. Yeah.
+JORGE VALCOURT: Okay, beautiful. So you are. What time is it on your end?
+Becca Bressler: I live in New York City. I live in New York City.
+JORGE VALCOURT: Oh.
+Becca Bressler: It's just I grew up there, so, you know, I still have my. My area code.
+JORGE VALCOURT: Good for you. I lost mine. I'm from Puerto Rico.
+Becca Bressler: Oh, yes. You got a new one?
+JORGE VALCOURT: Yeah. Okay. Okay, so I'm going to call the office. Can we tentatively set this up for today at 1pm Eastern?
+Becca Bressler: 1pm Eastern sounds great.
+JORGE VALCOURT: Okay, so let me call the office, set this up, and I will shoot you a text message.
+Becca Bressler: Okay, great.
+JORGE VALCOURT: Are you a Slack or not? Not yet. Right.
+Becca Bressler: I am on slack, but I don't know if you and I can communicate.
+JORGE VALCOURT: I have Jackson, I have Adam here. We have our own channel that we use. Job site Val. Well, it says Valcord for the other company, but I have Adam, Jackson, Janet, myself, Nate, and Credential in person.
+Becca Bressler: Yeah, I don't think I'm on that. So if you want to just reach me via text, like, we could totally just do it that way. If that's easy enough, that's fine. Great. But, so we'll say one. Should I invite this email account, the one that I'm talking to you on my email account info for the. For the Google Meet, or do you want to give me the provider's information as well?
+JORGE VALCOURT: Well, use that one for now. She also has issues with her email every time, so.
+Becca Bressler: Okay, so I'll use. I'll use yours and I'll send a calendar invite for that.
+JORGE VALCOURT: That's fine.
+Becca Bressler: One Eastern. Okay, great. Thank you.
+Becca Bressler: I'm so looking forward to it.
+JORGE VALCOURT: Okay, same here. So you had one.
+Becca Bressler: Bye.
+JORGE VALCOURT: Okay, bye now.

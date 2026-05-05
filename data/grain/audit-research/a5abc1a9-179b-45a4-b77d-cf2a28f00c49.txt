@@ -1,0 +1,139 @@
+Christopher Hume: Hey, Joy.
+Garden Gioia: Hey, Chris. I'm good. How are you?
+Christopher Hume: Doing great. Doing great. Where. Where in the country are you based? Are you in Colorado?
+Garden Gioia: Yeah, I'm in Denver specifically.
+Christopher Hume: Okay.
+Garden Gioia: Yeah.
+Christopher Hume: Did you guys. I guess you did get a blizzard last. Last weekend?
+Garden Gioia: Yeah, we did, but it's still a really dry winter.
+Christopher Hume: Really?
+Garden Gioia: Like what? The east coast is getting nothing at all like that. It's kind of sad.
+Christopher Hume: Yeah, I'm in. I'm in D.C. the snow is wasted here. Should be in the mountains of Colorado for sure, man.
+Garden Gioia: Well, I hope you're enjoying it at least.
+Christopher Hume: Yeah, it's been fun. The city always looks kind of cool when there's snow.
+Garden Gioia: Yeah. Great. Yeah.
+Christopher Hume: Well. Yeah, well, we can kick off in a moment here. And so I'll share your screen. I'll be pretend customer Chris. Then you could just kind of walk me through and answer some of my questions. Anything while I'm still Chris. Chris, any questions or anything off the top before we jump in?
+Garden Gioia: No, I was going to. I was going to. I wasn't sure if we're going to like, jump into role play right away, so you set that tone. I was also going to ask, like, actually, no. I'm just going to let myself sort of like, figure it out in role play.
+Christopher Hume: Perfect.
+Garden Gioia: I'd like ask some questions otherwise. But it is really nice to meet you face to face after all this time, so.
+Christopher Hume: I know, it's so funny. I was thinking that right before I jumped on, we'd only talked on the. On the phone, so. Yes. Nice to meet you. Not in person, but a little. A little more virtually than the self. The foam.
+Garden Gioia: Yeah. Cool. Okay. So I will just tell me when to sort of take it away with sort of like.
+Christopher Hume: Yeah, so I'll. Well, Joy, thanks for taking the time to sort of meet with me today. I'm thinking of downloading job site and I was just hoping you could kind of maybe show me how to create a note. And like, is it possible to adjust my template?
+Garden Gioia: Okay. Yeah, we can absolutely help you with that. I can show you how to do it. Before we even, like, get hands on, though, can you tell me a little bit more about the work you're doing, the studying that you're in, and generally how, like, documentation fits into your workflow right now.
+Christopher Hume: Yeah. So I'm a solo provider. I work with grow therapy. And so it's just, you know, over the past few years, documentation has just taken up so much of my time.
+Christopher Hume: I typically can't finish my notes in session. So I'm either rushing to do them in between sessions or. I mean, to be honest, a lot of this happens in evenings and weekends, and I just can't. I just can't do that anymore. So I'm looking for an AI solution that really helps with that note taking.
+Garden Gioia: Awesome. Yeah. And I guess in an ideal world. Well, actually, let me ask you this first. What are the types of notes that you tend to do? Soap notes? Staff notes?
+Christopher Hume: Yeah, that's a great question. They're primarily. Soap notes.
+Garden Gioia: Okay.
+Christopher Hume: Yeah. So soap notes typically.
+Garden Gioia: Okay. Do you also do any intake notes, discharge summaries?
+Christopher Hume: Yeah, I'll do intake forms. But to be honest, I've been with most of my patients for so long and I don't really need to increase my workload. So if we could just figure out how to get a progress note to work, that would take 95 of my sessions.
+Garden Gioia: Okay, yeah, yeah, yeah. Cool. We can do that. And I should have said at the outset, so like, I'm a customer support specialist here at jots. Like my job is pretty much to make sure, like your job feels easier. So I really want to make sure. I'm asking, I want to make sure that you feel like you can feel comfortable using JOT Psych in your work and so it can reduce the time you're taking. And honestly, you can feel like documentation is a breeze. So. Okay, so you just want to help with progress notes. In ideal world, how would JOT Psych B fit into your. Your life?
+Christopher Hume: Yeah, I mean I just want to have this running during a session. Most of my sessions are remote. Occasionally I'll do something in person, but I just want to be able to have jots like running, have the note created and then just an easy transition of that note into my ehr. You know, the ideal software is something I don't think about that much.
+Garden Gioia: Awesome. Cool. And realistically in getting started with JOT Psych, where would be like a realistic starting point? Do you think it might be hard if you haven't been hands on with it yet? But I'm just, I'm just curious if you see any
+Christopher Hume: constraints, if you could show me how to record a note and copy it into my EHR. I mean, I'd love to use it for my 2 o' clock appointment today. So maybe you could also at the end we could talk about getting me signed up.
+Garden Gioia: Oh, absolutely. Okay. Awesome. Okay, so great. So just sort of setting out a little bit of a plan here. I'll show you on my screen how to record a session. Particularly noted wanting to record your notes while sessions are happening. So I can show you that. We'll make sure you can get set up with SOAP note templates. So that's already at your fingertips. I'll show you how to edit the notes and if you have any questions whatsoever, you know, you can ask me at the end. But also just feel free to interject. I know that everyone kind of learns differently and I want to make sure this is not just about job site, but really about you and like making sure, like, this would work for you. So I'm going to share my screen right now. Let's see. Okay, one second. Here we go. Share. And let me know when you can see that.
+Christopher Hume: Yes. Screen is coming through on my end.
+Garden Gioia: Sweet. Okay, so this is your first. Like eyes on jot site, correct?
+Christopher Hume: That is correct. Yep.
+Garden Gioia: Okay, I'm excited to show you this. So first and foremost, if we are just talking about recording a session, there are a few ways to get there. As you can see, I already have sort of upcoming sessions sort of in my dashboard. That jot psych kind of like tees up. If you look at. See, like where I'm sort of circling right here with my cursor, I can just press record right there. Let me just do that. There's also. If you can see up here and can you see my cursor?
+Christopher Hume: Your cursor looks like it's gone away, actually. Are you referring to the record button in the top middle of your screen?
+Garden Gioia: Yeah, yeah. So top middle, it's red.
+Christopher Hume: Yep, I see that record right there.
+Garden Gioia: And then if you were to go to clients, you'd already maybe have some clients teed up or maybe you want to add a new client. If you see that button served top right, you'd sort of click on a client. And as you can see. Let me just kind of move that. See, yeah, you can find your clients there. And you can see the last encounter, sort of a little bit of a mix or sort of a little summary of what has already took place in the last meeting that you had. And yeah, I just wanted to show you that. Okay, so going back to sort of record, one of the easiest ways or most efficient ways would be to click on record right here. I sort of showed you a client list and that's one way to get there. But right here you can. On your left hand side of the screen, you can select a client and you've got a list of people you might have to type in some words to sort of search for who you're looking for. You know, maybe I want to say, you know, Williams, find R. Williams. And then I'll create Illustrator's Team me up for that client. I'll have the session type and this sort of note I want to take on the left, the date and time. And honestly, you can just press start recording right there and you honestly are free to go.
+Christopher Hume: Do I have to change my. Do I have to, like, call out specific sections like, does this just run during my session?
+Garden Gioia: This will run during your session. So one thing to note is that if you're doing telehealth, you will want to click on this little icon with the headphones, make sure that, you know, like, the browser has access. To record your session, one thing to know is that it has to be in a Chrome browser. But otherwise, like, right now, this is recording us right now in real time. And actually, we'll just let it run for a bit while we're even talking, so.
+Christopher Hume: Sorry, what was that? I was going to say, what is that additional notes section on the bottom right here?
+Garden Gioia: Just some notes that you want to maybe capture. Like, you know, if the client was 10 minutes late or something like that.
+Garden Gioia: And you can just type that in, like, oh, okay.
+Christopher Hume: And that.
+Christopher Hume: That's included in the note.
+Garden Gioia: Yeah. And so I will stop this right now. And just tell me if at all you can't see my screen or where I'm pointing. I'm going to click Generate note.
+Christopher Hume: Okay.
+Garden Gioia: And you'll see sort of jet. Psych's doing its magic. And I just want to show you, obviously this was not a real session. We didn't cover anything clinical. But I just want to show you sort of the time it takes for it to, you know, record that note. And. What?
+Christopher Hume: Wow. So my clinical would be done already, My clinical note?
+Garden Gioia: Pretty much. I think one thing to know is that especially in the beginning jot, Psych's not going to get it perfectly every time. And it's not always going to even get, especially as it learns your style. It won't know that right away. So, yes, a full clinical note will be generated just like that. And it's amazing, as you can see. It's so exciting. However, I do want to make sure that you also know that you can edit this if it is not to your liking, if it's not to your standards, if it's not even to your style of talk. Some ways that you can edit this. And I'm going to move this over here. One thing is over here, you can see this AI Note Assistant. Just to double check. You still see my cursor.
+Christopher Hume: I can see the AI Note assistant, but I don't see your cursor right now.
+Garden Gioia: Okay, that's good to know. AI Note Assistant on the right, you can have that come and go by pressing the circular button with the stars. A little bit of AI magic. For example, what do you call the people you see? Clients? Patients.
+Christopher Hume: I typically call them patients.
+Garden Gioia: Awesome. Okay, so right now this is sort of structured to say clients, and client is sort of shorthand and clt in your notes. Do you write out patient entirely or sort of PT or.
+Christopher Hume: Well, it depends on how much of a rush I'm in, but typically I write out patient in its entirety.
+Garden Gioia: Okay? So on this, on my screen, I'm going to tell the AI note assistant to switch change CLT to patients. I click enter, it's analyzing and then it asks me, which sections would you like to update? I'm going to click apply to all sections. So something I love about jot Psych is the fact that it's incredibly robust and it's also incredibly flexible. It's incredibly powerful and it is not rigid. You can truly make it your own. So I'm going to apply to all sections. Continue. And as you can see. Huh, huh. Yeah, pretty cool.
+Christopher Hume: So, and what is that question it's asking on the right hand side?
+Garden Gioia: So it's just telling me applied changes to all four sections and basically just a recap of just what it did.
+Christopher Hume: Okay. And what does train mean?
+Garden Gioia: Ah, yeah, yeah. Would you like to train all four sections to apply this formatting? Yes. So like I said, it's an incredibly powerful tool and it's constantly learning and you can truly make it to fit your style, fit your notes and all that. So yes, I want to train this. As you can see, it's thinking a little bit training.
+Christopher Hume: What does that mean?
+Garden Gioia: Happens now it's going to apply this formatting, this style of saying patient to all future notes. So you won't even have to edit in the future.
+Christopher Hume: Okay, awesome.
+Garden Gioia: So there's also the old fashioned way though. So sometimes, like I said, jots like maybe won't get it perfectly right or you want to capture a quotation that it didn't. So you can simply just click where you want to edit. Maybe I want to add anxiety, persistent and significant. Significant anxiety present. So.
+Christopher Hume: Oh, wow. Okay.
+Garden Gioia: You can edit in your own words. I'm going to just review, show you how robust even this note is. So it gets the subjective objective assessment.
+Christopher Hume: It captures a lot of information. Could you scroll back to the top?
+Garden Gioia: Certainly. Yeah.
+Christopher Hume: Is it? Oh, okay, Understood. What if I want to add a section? I like to start my notes with just a summary reminder. Is that possible?
+Garden Gioia: Yeah. So one thing you could do and that might bring us to template editing.
+Christopher Hume: Oh, okay.
+Garden Gioia: Yep. One thing you can do, I'll bring us here. So if you go to the top tab where it says documentation.
+Christopher Hume: Yep.
+Garden Gioia: Go to note templates. And this is your. This is sort of where like you can make sure you have, like I said, all your templates at your fingertips.
+Christopher Hume: So.
+Garden Gioia: So let's say, let's take the SOAP notes for therapy. If you wanted to add a section, you simply click on the template that you want to adjust and then you can click on this little edit button. You can rename it if you want. You kind of go here, add a section, let's see. And it'll auto give you some options.
+Christopher Hume: Oh, wow. So there's one hundred and seven available sections.
+Garden Gioia: Yeah, yeah, yeah. There's a ton. So maybe you want to kind of capture like a little bit of like a summary maybe like sort of like the HPI Behavioral Health. You can simply search that HPI Behavioral Health. It gives you a little preview of an example of sort of, you know, how this would be. Show up in a note. And again, you can always customize it as needed. You add the section and there it is. So right under subjective HPI Objective Assessment Plan. Does that make sense so far? I want to make sure I'm not going too fast.
+Christopher Hume: Yeah, no, this makes a ton of sense. You can add a section. Is there a way to add a custom section by chance section?
+Garden Gioia: Yes. Okay, so let me just save this first and let's see, let's see, let's see. I have to move that a little bit. Is there a custom section? Let's see. You know what? Edit with AI. So you can kind of edit with your template and maybe say add summary section to the beginning below subjective. Does that sort of capture it?
+Christopher Hume: Yeah, that's actually exactly where I wanted it.
+Garden Gioia: Perfect. And like it says, doing its magic, added summary inserted below subjective.
+Christopher Hume: Perfect that.
+Garden Gioia: And if you can still see my screen. So there you go.
+Christopher Hume: Yeah, yeah. Oh, that's so cool. So, and I just, in plain English, tell it what I want.
+Garden Gioia: Totally plain English. And if it doesn't get it right, you can give it another direction.
+Christopher Hume: Great.
+Garden Gioia: Like I said, super robust, super responsive, super customizable. So something I love about. The templates too is that you can pin them over here on the side. You can sort of pin which ones you use the most. I don't use birps very much anymore, so I'm going to unpin that. And so you really have like your main, your main templates right there. Let's see. So something I also want to show you though, about templates. I'm going to go back to sort of note templates. I'm going to save. This is that sometimes people are coming to us when they have, you know, like their core documents sort of in their ehr.
+Garden Gioia: And you know, like, maybe we don't have something that totally is like suiting your needs. So I want to show you that you can start from scratch over here. You have some options on the bottom left. You can upload a template, start from scratch, browse the library, or if you have an organization that already has templates, you can find them there.
+Garden Gioia: Start from scratch allows you to add these sections as you kind of saw. You can even customize. But upload a template I think can be really, really important for people who are sort of used to having their, their documents stored somewhere else, like in their ehr.
+Christopher Hume: Yeah.
+Garden Gioia: So I am going to like download, upload, sorry, a discharge summary note template that I actually got from my ehr.
+Christopher Hume: Oh, very cool.
+Garden Gioia: Okay, create the template. As you can see it already just generated sort of like a summary of sort of this what a discharge summary note even is.
+Christopher Hume: So and this is your custom PDF that you uploaded.
+Garden Gioia: Totally custom. And I might have to make some edits to it, but for right now it's going to save me a ton of time rather than sort of like starting, starting from scratch on a template.
+Christopher Hume: Wonderful.
+Garden Gioia: So, Okay, so.
+Christopher Hume: Oh wow.
+Garden Gioia: Yeah. And I'm just going to close these little summaries.
+Garden Gioia: They give very helpful summaries to sort of show what would go in these sections. But even just it out, this would be sort of like my, my practice is discharge summary note. And so I can save this template if, if it wasn't already there. I can now review it, maybe add something maybe I want to add sort of, let's see, maybe like coordination of care.
+Christopher Hume: Oh, very cool.
+Garden Gioia: And maybe I want to actually decide I want coordination of care above post termination plan again, super easy and I'll save and that's that.
+Christopher Hume: This is great. I cut you off there, Joy. Was there something else you were going to show me?
+Garden Gioia: No, I was just going to show you again. Being able to pin those templates.
+Garden Gioia: I'm just going to click it turns purple and now I'll be immediately available when I know I need to use it and sometimes pre populated as a selection when I want to record a note. Something I want to make sure I don't forget to tell you again, going to how flexible and powerful this tool is. It's related to both recording notes and templates. So I know that sometimes we're like flying by the seat of our pants. Maybe a session runs late.
+Christopher Hume: For sure.
+Garden Gioia: Yeah. So something that's so, so, so cool. I'm going to go to my notes. Let's see, I've got this note already sort of set up as a SOAP note. I can edit over here on sort of like upper left hand side of the screen. I can change this to a, let's say a DAP note. It'll kind of give me a little.
+Christopher Hume: It'll take the same information.
+Garden Gioia: Totally same information. You don't have to redo it. Let's say you started recording a note and then you realized, oh, it's set to be a SOAP note, but I really need a DAP note. We can regenerate it and it'll sort of analyze and do its thing and then in just a second we'll get a full DAP note that's totally compatible with the actual session generating sections. Here they come. And again, this is one of my favorite things about jot Psych because it's super, super powerful. But you don't have to be like fragile with it.
+Christopher Hume: Yeah, yeah.
+Garden Gioia: Or even precise. Okay, so there we go. So we've got adapt data assessment. As you can see, it's super filled out. Very, very thorough. Medication adherence is taking just a little bit more time. And then plan. And again, if I want to edit this, I can just kind of click edit none reporter elicited. Yep. I can, you know, bold certain sections if I want. I can again give sort of like the AI note assistant some suggestions or some guidance as well. Does that make sense?
+Christopher Hume: Yeah, this makes a ton of sense to me. No, it's great that we can switch it from a SOAP to a DAP or to any template. So I guess, Joy, my question is how do I sign up for yes, yes, yes.
+Garden Gioia: Okay, great questions. Music to my ears. So if you just go to jotsych. Com, we. You can sign up, you can make an account in just a matter of a few minutes. It's totally HIPAA compliant. And I would also recommend sort of like a little tip is also downloading the app that is we keep it super simple and from there you can just record a session and then it'll automatically, once it's done, it'll automatically upload to sort of like the desktop version that we have and you can take it from there, edit it, sign it, all that.
+Christopher Hume: Wonderful. Well, I just signed up but I appreciate kind of you walking me through all this and taking the time today.
+Garden Gioia: My pleasure. As you start to like start to like mess around with it, get your hands dirty with jot psych. Please don't hesitate to reach out to me if you have any questions, if you're having any tech issues, if you're confused about how some something functions, please reach out. Like I said, my job to make sure that your job feels easier because through using job site.
+Christopher Hume: Wonderful.
+Garden Gioia: Yeah. Okay.
+Christopher Hume: Great break. Real Chris now. That was awesome. Joy. I just think. Two things I just wanted to say I'm super impressed by is one, how you handled me asking you about the custom section.
+Garden Gioia: I asked that a trick question because I was
+Christopher Hume: recently on a customer call and you used to be able to do custom sections with that button and it got moved and I was like, hey, I'm sorry, she don't know where it is. So that got me like very recently. So you did a great job kind of figuring that out on the fly or you already knew and just took you a second. But I was impressed. And then yeah, the other one is just a funny aside. I was with a customer yesterday, a big customer down in Florida, and I was doing the AI note editing and it like acted up on me. I was like, what is going on? And so it's funny having the role reverse and you presenting to me how to use the AI editor. You did a great job. I really like how you tailored it to my use case and then showed me how I could make those edits. So we're wrapping up this process. I will get back to you on next steps, the next like 48 hours. I want to make sure I know this has been like the never ending story. So I want to make sure you came back. You did like great work here that I get you like a final answer by Friday or sometime on Friday. But yeah, this has been awesome. The entire team has really enjoyed getting to meet you and I really appreciate. Yeah, I mean your knowledge of the product was super, super clear. How much have you been using Jawstack? Because, yeah, you could. I mean, maybe you're just a very fast learner, but I remember my first demo, and it was not like that.
+Garden Gioia: Yeah, I did my first. Free trial back, I think in December. But even honestly, when you reactivated my access to it, I feel like there were even new updates that I had to.
+Christopher Hume: Yes.
+Garden Gioia: Yeah. And actually they did. They did actually help.
+Garden Gioia: They actually felt more intuitive, which was awesome to see.
+Christopher Hume: Okay.
+Christopher Hume: Yeah, that's awesome to hear.
+Garden Gioia: I just like dug around in it. It's helpful that I'm a therapist so I like have my own use cases that I can like apply and, and all that.
+Garden Gioia: And so it was helpful.
+Christopher Hume: Yeah, yeah, it was fun to hear you talk about, like, oh, you know, I have, I don't, haven't used staff notes recently or whatever you said there. Yeah, this is great. Do you have any questions for me?
+Garden Gioia: No, I know, I know things are moving at like light speed over there and if things get pushed out even past 48 hours, that's totally fine. There's no rush on my end. If you have any questions or follow ups, definitely let me know. But otherwise I've really enjoyed this, honestly enjoyed this process and I like these exercises.
+Christopher Hume: Yeah, we, we, yeah, we're an AI company for sure, but we might make these at least human centered and like you're. We're actually getting to know you and you're getting to know us. Yeah. Can't let AI take over everything yet. Maybe. I guess we'll see. I guess we'll see eventually. But for now, yes, I appreciate the feedback there and yeah, I'll be in touch soon.
+Garden Gioia: That sounds great. All right, thanks, Chris.
+Christopher Hume: Have a good one. Bye.

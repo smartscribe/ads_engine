@@ -1,0 +1,11 @@
+{
+  "name": "Calendar Scheduled Page View (jotpsych.com/scheduled-confirmed)",
+  "type": "pageview",
+  "filter": [{
+    "type": "contains",
+    "parameter": [
+      {"type": "template", "key": "arg0", "value": "{{Page URL}}"},
+      {"type": "template", "key": "arg1", "value": "/scheduled-confirmed"}
+    ]
+  }]
+}

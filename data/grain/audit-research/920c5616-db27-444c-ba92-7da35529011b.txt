@@ -1,0 +1,552 @@
+Tracey Sanderbeck: Okay? Hey, adam.
+Adam Harrison: How are you?
+Tracey Sanderbeck: I'm good, thank you. Jeanette's getting on right now. She's booting up her computer. She was trying to do it from her phone, and then. I'll let you know she can't. And I just realized now because I don't know what I was thinking. I was looking under. My sign on. And trying to find Jeanette as a user. I couldn't find. I. Maybe it's not done or whatever now. I just signed on to job site using the thing I created for her and they're all of this stuff is there.
+Adam Harrison: Okay, great, great.
+Tracey Sanderbeck: I didn't realize that. Hold on one second. Let me grab my drift. Yeah. Two seconds.
+Adam Harrison: Yeah, yeah. Take your time.
+Tracey Sanderbeck: Hold on one second. I want this computer come up. Oh, my. Gosh. What's the matter? Did you find it? No, my computer won't come up.
+Adam Harrison: It's not giving.
+Tracey Sanderbeck: A city. It's not going to be my. All right, well, hurry up and try to figure it out, will you? Come on, now. Me. It's just not working. What do you mean? Why is your computer not working? Jesus. I'm read through the whole thing, but it's not doing that. Start getting you auction. There's nothing if you look like going on your try to go on your phone again through the email. Can you do that? Google Meets. I just gave you access. I don't know if you saw that. I want to make sure. Let me share my screen with you and show you. Oh, Lord have mercy. I'm sorry. Hold on. I had to get my glasses now. I'm sorry.
+Adam Harrison: No, you're totally fine. No worries at all.
+Tracey Sanderbeck: My dog. All right. Share my screen. Okay, hold on. I want to show you. Window there. And then I'll show you what I did. Hold on a minute. Where are my Dr. Chrono? Staff. Permission. I don't need that staff. Oh, no, I don't need that account. Staff. Are you on there now? Okay, I'm hanging up. She on there now? Probably. All right, hold on, Nate. So I went here view, and then I went down.
+Adam Harrison: Yeah, that's good. Can you also add? Let's see. Is there a way to just give broad permissions?
+Adam Harrison: Because I'd love to also be able to look at individual patient profiles. Sorry, Jeanette, it looks like there's a little feedback on your side. Do you mind just going on mute to start?
+Jeannette Nauman: Yes, we can figure out how to do it.
+Adam Harrison: No worries. It seems better now.
+Tracey Sanderbeck: Turn your tv off. Net. Okay. Let me see. Here, edit.
+Adam Harrison: Yeah, maybe. And then where it says custom on the top, Yeah. Can you try clicking on Custom and see if it gives you a drop down?
+Tracey Sanderbeck: Yeah. Do you see it? Custom billing, nurse, nerd, office manager, staff, public billing. Try that.
+Adam Harrison: Yeah. Tribe, billing. And do you mind scrolling down here? I just want to make sure I can see the patient. Patient profiles, export patients, so definitely need that.
+Adam Harrison: Definitely need that manage templates.
+Tracey Sanderbeck: Manage account. Manage package, show patient balance, billing tab. You got all that? Add new referring sources. Now billing administrator. Disable, blah, blah. You don't need all that.
+Adam Harrison: Oh, yeah, let's do single patient export.
+Tracey Sanderbeck: This one single patient. Ehi, export.
+Adam Harrison: Yeah, both those in the bulk one. And let's see. Maybe just all those with patient in them. Do you mind checking? Because we may have to. I tried to do a patient export and it said it was like 14 business days for Dr. Chrono to do, so I might just do it more manually to start. So as long as I can see their chart.
+Adam Harrison: I should be able to do that.
+Tracey Sanderbeck: User. User. Patient chart said sidebar nav. I don't know what that means. I can tell you what.
+Adam Harrison: Honestly, I don't know. But if you just check them, that'll be. That's, like, the safest way, I guess.
+Tracey Sanderbeck: Mips. Decision Access for Billing Intelligence. Yeah. Practice Intelligence.
+Adam Harrison: Yeah, that looks good. Do you mind going to the top one more time? I just want to make sure I got anything that has patient stuff in here. That all looks good. You can scroll down. I don't need to sign notes. I don't need. Let's. Let's do payments, patient payments in here, just in case that's relevant. Yeah, let's keep going.
+Tracey Sanderbeck: You got access, analytics. Provider.
+Adam Harrison: Yeah, maybe just. That should be. Just to be safe. Keep going. Here.
+Tracey Sanderbeck: Share. It allows access to all patients in the practice group. You need that.
+Adam Harrison: Yeah, let's do that.
+Tracey Sanderbeck: Settings.
+Adam Harrison: I think this should be good, though. You scroll down a little more.
+Tracey Sanderbeck: Custom field setting, office setting, outpatient. Export patient manage permission, manage template form tags. And I think that that's every.
+Adam Harrison: I think this is good.
+Tracey Sanderbeck: Patient balance okay? That's it.
+Adam Harrison: All right, let's try it. So let me refresh on my side and make sure it's actually working.
+Tracey Sanderbeck: Jeanette, got something on an email. Read what it said. Jeanette. I don't haven't seen it, but.
+Adam Harrison: Oh, is it like an export request?
+Tracey Sanderbeck: Yeah. Something.
+Adam Harrison: Yeah, I tried doing that, but I didn't have all the, like. I didn't have your, like, account number, so I just put, like, a placeholder. So yeah. If. If you want to forward that to me, I can kind of handle it from there.
+Adam Harrison: That, you know, you got Jeanette.
+Tracey Sanderbeck: That's you, Jeanette. Can you email it? Or. Yeah, I don't have anything. W9. Yeah, I don't have anything from Dr. Crono. Oh, let me see if it's under Beach Love. I don't know what email they. I think it's under Island Life, but let me see. Let me see. Doctor chonow. H r o. Is down. No, that's not it. Let me try the other one. You on here? Net. Net.
+Jeannette Nauman: Yeah, Unmuted myself.
+Tracey Sanderbeck: Forward it to adam@jotsych.com. let me see. Because I don't know why I wouldn't receive that stupid email.
+Jeannette Nauman: I don't know why I did.
+Tracey Sanderbeck: Yeah. I don't see anything.
+Adam Harrison: Oh, you know what? It probably went to Nate's email, so he probably has it, so I can just ask him. Too.
+Tracey Sanderbeck: Oh, maybe it went to Nate, I don't know. But I didn't get. What's weird is I didn't get the email.
+Adam Harrison: Oh, that is weird.
+Tracey Sanderbeck: Forward it to me too. Afford it to adam@jotsych.com and and island life, mental health. And in that way I have it. I'd like to just see what it says. I mean, it may be asking permission. I can give them permission. Oh, God. Here we go. Did you do it? Nick?
+Jeannette Nauman: Working on it. I'm got my phone. I'm on the computer.
+Tracey Sanderbeck: Join on the phone.
+Jeannette Nauman: I've got two things going here.
+Jeannette Nauman: Get up here.
+Tracey Sanderbeck: At chaos.
+Jeannette Nauman: E s y c h is it just adam at jot psych.
+Tracey Sanderbeck: What com? Yep.
+Jeannette Nauman: And then.
+Tracey Sanderbeck: An island life. That way I can. Nice.
+Jeannette Nauman: Is that all it is? Island life?
+Tracey Sanderbeck: No. Island life. Mental health at gmail com. I wonder if I got something in messages from them. Come on now, damn it. Stepping on this now. Here we go. What do we got here? Doctor Kroner generated a sheet. That must have been you. Download. Did you do this?
+Adam Harrison: Just in, like, a minute ago.
+Tracey Sanderbeck: Yeah. So let's.
+Adam Harrison: I just. I just did it. I think I have what I need to do.
+Tracey Sanderbeck: The cool.
+Adam Harrison: Yeah, I think this looks like it has patient demographics insurance. So that's. I don't. That's actually all I need. I don't need to do the. The whole EHI export because we don't need the notes right now. We just need. We just need, like, their stuff for billing, right? Like demographics, insurance id, you know, date of birth, all that stuff. To fill out a claim.
+Adam Harrison: So I think we're actually good there. We can. We can move on from Dr. Krona.
+Tracey Sanderbeck: Hold on one second. Let me see this. He called me. Pick him up. Before he called me. He gave all his money away to the homeless and. Oh, no.
+Tracey Sanderbeck: And said he was planning to be homeless too. Oh. Gosh. Born in paranoia, Okay? I gotta call them.
+Adam Harrison: Okay?
+Tracey Sanderbeck: All right. Anyway, I gotta change him in this afterwards, but. All right. Where are we? Let me find you. Let me find you. Where are we? There. Okay. All right. Did you get the. I sent you. Yes, I think I sent you. Yeah.
+Adam Harrison: So I. I have what I need now to do the, like, data transfer on the patients. So we're all set on that. So I just. I just exported the file now, so we're. We should be.
+Tracey Sanderbeck: Good. What we're going to do is because we didn't do it this weekend. Because, of course, I didn't figure out until today it dawned on me. She? I made her own account. So you probably just gave her access under her account. And I was looking at my account, trying to see if she was a user, looking all over the place. And so she has to take her dog to the vet. And then a little bit later on, she's going to come by and we're going to sit down and go through jot psych and like. I told her I can't really show her, like, kind of what you went through, and you kind of showed me. But I can at least get her familiar. Like I said, she's never even been on it.
+Adam Harrison: Okay? Well, why don't we kind of go through everything right now, and then I can also send you the recording of this call so that, like, if you're looking at things later, you have. Because there's some new things, too, that we have. Like, we haven't looked at eligibility together yet. We looked a little bit at, like, forms, but I think it would probably be helpful to have, like, a recording of that. I know. Also, you add some, like, additional consent forms that you might want to include. And so if you want to send those to me at some point, I can put them into your account as well.
+Tracey Sanderbeck: Email consent. And one other thing real quick, because if I forget to ask you now that I won't ask you. There used to be a. Let me go on to my job site. Where's my job site? I think this is Jeanette's. Where's mine, Login? Is it going to log me into Jeanette's? I hope not. Hold on a minute. Yeah. Okay, so let me switch. She's going to verify her email, log out, and then let me log back in. Sign in a different way. Island life, okay? There was there. You. There was a thing on here, and it disappeared. Unless I'm not looking at it right where I believe I could. Oh. Merge patients. Ok, so, like, when you. When you come over, whatever. And you see how this. Do I have to? There's no search bar. There's no search. I have to go through each one. There's like, 143. So I have to look at all of these to merge them, but I'm not going to merge these ones. I want to look in them individually. But there's not a way to search. Like when I was entering a patient, I saw that they had two accounts. They had the one lowercase and my uppercase one. And I couldn't. Couldn't find them in here for whatever reason.
+Tracey Sanderbeck: So is there a search bar to merge patients or I just have to go in here and scroll?
+Adam Harrison: So who are you? Can you give me an example of who you're trying to search for?
+Tracey Sanderbeck: I can't remember who it was. Hold on a minute. Trying to think. Okay, Let me go. Let me go to my schedule. And. Come on. Where's my calendar? Okay? Let's just see if there's anybody over here before you do it. Ruth is done. John Littlestone. Trying to see if there's somebody you haven't seen for a while. Since you're probably done. He's done. Wonder if Thomas White has done go into him.
+Adam Harrison: Yeah, I did.
+Tracey Sanderbeck: I've done so many of them. Let me keep going. Find an old one that I would. Have. Oh, maybe John Prudent ball. I bet you he's not.
+Adam Harrison: In.
+Tracey Sanderbeck: Over here. There he is. Okay. So if I look at that. Looks like this is your first time here. Would you like a quick tutorial on how to manage patient records? Probably not.
+Jeannette Nauman: Now.
+Tracey Sanderbeck: That's. That's not an example. I'm sorry. That's not an example because I haven't done it. There isn't more than one of him. There's just one. So here's what I would do. I would just take him. And I would go, john, I would change him to J O, H, N. And then add all this, which I won't. I won't do that right now, but I would add him in. I can't. I can't think of one, but it was like. I had the uppercase, and then I found, like, a lower case chart that belonged to the patient. And I wanted to merge them, but.
+Adam Harrison: Okay. But it wasn't showing up in the list.
+Tracey Sanderbeck: There it was. It wasn't showing up in. It wasn't shown in patient duplication, so I didn't search. Far, but I didn't find one. So I was flipping through all of this, and it didn't identify it. So I don't want to.
+Adam Harrison: We, we don't. I don't think we have that right now. But, like, if you. But we can work on, like, adding that feature. But in the meantime, if you could just send me, like, if you have two patients you find that you want to merge, if you just send me their. Like, send me, send me. The lanes. You can just send them to me over email and I'll merge them, like, on the back end for you. Okay.
+Tracey Sanderbeck: And then, so when you. When you throw all my patients, or when you import all of my patients over here. Where's my paper? So when John Olson, with this birthday, it's not going to create a whole new account. It's going to find this John Olson and it's going to just go into John. And then now the insurance stuff.
+Adam Harrison: Yes.
+Tracey Sanderbeck: And add all of this stuff. Ok, Perfect.
+Adam Harrison: Exactly. Exactly.
+Tracey Sanderbeck: Okay? All right, so you want to take it away?
+Tracey Sanderbeck: What do you want to. You want to show?
+Adam Harrison: No, no, just to close out on that. And then if it's not. If it's not sure. So it's going to default. It's only going to merge them if it's, like, pretty high confidence. That it's, like, actually the same person. If it's not, it'll show up in that, like, list we were just looking at. And then you basically can click like, yes, this is the same person, you know, merge them. If it's not, then you can just leave it as is.
+Tracey Sanderbeck: And I don't think it should be an issue because if it goes in and finds somebody, if it's somebody that I have already done, it's going to have a birthday. If it's somebody that I haven't done, I can't even think of an old, older person that was on think of a name, Jeanette. Who's, like, somebody we haven't seen. And let me think, let me think, let me think. I'm just trying. Okay, well, let's just do. This is a common one. I bet you I know who? Sarah mcelhenney. She's coming back. Sarah M. See, there's two of these Sarah M's, I'm guessing. Let me look and see. Adjustment. Parental stress. Oh, yeah, this is probably her. And then, let's see. Oh, see, I must have. See, back then I was erasing the nodes, so I guess it wouldn't. She has a number and not a letter. But see, it wouldn't automatically put it because it's not going to find somebody with a Sarah M.
+Adam Harrison: Right. And it's also not going to know which of these two Sarah M's, so it'll. It won't merge. But, you know, I guess I would say, like, it looks like you have a lot of duplicates already. Like, before I've done the import, it might be worth kind of like. Merging. Some of those where, like, if you go to merge patients. It might be worth cleaning some of that up, you know, before I do the import. Just. So just to avoid, like, confusion, once we add, like, more variables in here, Right.
+Tracey Sanderbeck: Okay, so I'll go to patient. Where am I going? Patients merge. And then. You mean you go here and see Paul S? I don't know who the hell that is. I mean, I can't think. Can I pull it up? Can I pull him up?
+Adam Harrison: And look at. Can you try clicking on them? Let's see if. I don't know if that'll work. Let me send a note to the team to, like, add that, but because you should be able to look at their chart, you know, when you.
+Tracey Sanderbeck: Here's an example. Angelina Allerton. Okay? So let's pull her up. She's a good example, because I know that I've updated her file. So let's go. Here. Angelina. A n, g, e, l, I, n. Okay. See, here's angelina allerton. And here she is. I'm pretty sure this is her. And so I only have one Angelina. But watch. Oopsie. This is back when I was erasing the notes. So do I want to merge her? Do I just get rid of her? There's nothing in her note. I mean. There's a couple of things. Merger. What would be.
+Adam Harrison: What was the other one? So there's this one and then what's the other one?
+Tracey Sanderbeck: There's angelina there's two a, n, g, e, l, I, n a and I know this is the same for see how this is. And. Oh, there's two notes. Let's see if they're. No, no, no. And let's see if this one has a note. Nope. No, no. See, I must say, this was back when I was.
+Tracey Sanderbeck: So there's not much. See, the.
+Adam Harrison: There's just the medications.
+Tracey Sanderbeck: It's just the medication. Close to workout. I don't know why it says post workout because she doesn't work out. But yeah. Would it be better to just go ahead and merge them?
+Tracey Sanderbeck: Or would it be better to delete one?
+Adam Harrison: I think it'll be pretty much the same outcome, assuming it's the same information in each. So there's no downside, I think, to just merging them.
+Tracey Sanderbeck: You see how it's showing up? It doesn't show this one. Watch under merge. See this, Angelina. Where to help you go, Angelina? See. I can't search her. I just saw her there a minute ago. Where did she go? See, look at Lori. And she's, you know. Where was Angelina? We just saw it. Was it on the top?
+Adam Harrison: Try doing like command or are you on a Mac or PC?
+Tracey Sanderbeck: A Mac.
+Adam Harrison: So try to in command f.
+Adam Harrison: Command f, and then just search, type in a N G, and then there you go.
+Tracey Sanderbeck: Wait a minute. What did you tell me to do? Command F.
+Adam Harrison: Okay, that'll just search for text on your current screen.
+Tracey Sanderbeck: All right, so, see, it's finding these two, but it's not finding the one that has all the information that I've been seeing her under the upper case.
+Adam Harrison: I see. So you would want to merge all.
+Tracey Sanderbeck: I don't want to merge. If I was going to do anything, I'd want to. Merge. If there it's not picking up the uppercase, so I might as well just delete these.
+Adam Harrison: Yeah. There's nothing in there. You could probably just delete them. Yeah.
+Tracey Sanderbeck: Yeah. And see, I can go through these. And. And just look at them and see if there's nothing in them. And at least. And there's no way to delete them from here. I have to just go into the chart.
+Adam Harrison: Yeah. There's no way to delete them now for some of them where there's, like, four of them that might be quickest to just merge them all and then just delete one.
+Tracey Sanderbeck: Good.
+Adam Harrison: If you know you're going to delete it like Beth. I might just merge all and then just. You can delete. Instead of deleting like four, you're just deleting one. And, yeah, it'll. It'll make sure that, you know, confirm the merge, but I think, you know, I think it's okay. You know, this is not like a required step because I'm assuming all your Dr. Chrono data is going to have, like, full, full names, right?
+Tracey Sanderbeck: Yeah. It's going to have their full maze. But if you see. Yeah, see, these are so old. That when I look in here. And it's not going to allow me to even merge this with the. With the one I've been using. So I might as well just merge them like you said and delete them. Yeah.
+Adam Harrison: Yeah. I mean, you could. You could update the. The last name to be like the full last name and then it will show up in the merge list. You know what I mean? So, like, bethp could update the p to be her full last name.
+Tracey Sanderbeck: So if I find one that actually has a note saved, Then I could say merge and then I can go. Let's look at what was another one. Oh, Angelina. Why she's still on here. I must send it so then I can do. Tell me that again what I can do if I wanted to.
+Adam Harrison: Yes. And is this one. You want to merge these two?
+Tracey Sanderbeck: Well, I probably want to get rid of them, but there's nothing in the notes, so.
+Adam Harrison: Yeah, so just merge them for now. Merge selected and then do confirm.
+Tracey Sanderbeck: And then go into Angelina and then go to her profile.
+Adam Harrison: Angelina a. And then just update her last name there to Allerton. You can keep it lowercase so you know that she's kind of the extra one.
+Tracey Sanderbeck: I spelled it wrong. A l, l, e, r, n. That match? Yes. And then go there. And then when I go to the merge, Patients. Merge. Angelina a n g e l. Now I can merge those. Gotcha.
+Adam Harrison: Exactly. Exactly. So if you do feel like there might be anything of, like in her chart, And you want to just keep it. You know, that's probably what I would suggest.
+Tracey Sanderbeck: Okay. All right. And I already looked at her specifically, so there was nothing in there, so I might as well ng l. I probably wouldn't do anything bad. Where she understand. Deleter. Okay. All right. I understand how to do it now. Okay. Very good.
+Adam Harrison: Yeah. But in any case, I can go ahead and do the patient import. It's not, you know, this is more of just like a secondary thing. If you wanted to do that.
+Tracey Sanderbeck: Yeah. Yeah, okay. I can definitely that. You showed me that.
+Tracey Sanderbeck: F Command F. That's helps me a lot. So there you go. Ok.
+Adam Harrison: Yeah. It'll save a little time. All right, well, let's. Let's jump into things here, Tracy. I'm going to have you kind of. Since you're already in your account here, I'll let you kind of. Drive the demo, and I'll just walk you through the different steps, and then we'll just kind of go through it from there. So let's maybe find a patient that you have, like, an upcoming. An appointment with this week. Just. You can pick any random one from your list here.
+Tracey Sanderbeck: All right, so let me go to. Let's do inner wrangle. So let's go to. Oh, no, I don't want to see you guys. Hold on a second. There we go.
+Adam Harrison: All right.
+Tracey Sanderbeck: So, Jeanette, can you see my screen and everything?
+Jeannette Nauman: You're just muted. Yeah.
+Tracey Sanderbeck: Okay? All right, so, yeah. This is what you want me to do? Aaron Jean. Yes. Or this.
+Adam Harrison: Yeah, that. That one works. And go ahead and go to the billing tab.
+Tracey Sanderbeck: Billing. Yep.
+Adam Harrison: Oh, sorry, I'm down. If you scroll, like on this patient tab where it says overview, billing, payments on the left.
+Tracey Sanderbeck: Overview.
+Adam Harrison: Right below that main box, above where it says record Now. Yeah.
+Tracey Sanderbeck: Okay.
+Adam Harrison: Yeah. So that billing tab is going to be where you're going to do eligibility checks. So I haven't done the data transfer yet. So obviously we don't have her insurance info in here yet, but. Let's go ahead and click on. Let me add her insurance info so we can do the check live. Because I want to show you this in kind of real time. So I'll find. Let me find her. I'll log in to Dr. Krono and I'll just read you the insurance number. So go ahead and click on the. On the top, right, with that little pen next to the phone, click on that. And then I'm going to give you under insurance. Go ahead and just under. Oh, do you already know it off the top of your head?
+Tracey Sanderbeck: Yeah, well, she's tricare. I know that.
+Adam Harrison: Okay?
+Tracey Sanderbeck: So let me see anna.
+Adam Harrison: Wrangel.
+Tracey Sanderbeck: I'm pretty sure she's trying here. I probably should check. Are we? West region. Jeanette.
+Adam Harrison: So I don't see her in your Dr. Krono.
+Tracey Sanderbeck: Is that something I'm doing wrong? Here she is right here. Yeah, she. Yeah, she's Tricare east right there. Over tricare.
+Adam Harrison: A rim shell? Yeah.
+Tracey Sanderbeck: I'm sorry. All right, so she works Tricare east. So let me see if I am try Care East.
+Adam Harrison: And then I'll find the number for you here.
+Tracey Sanderbeck: Oh, tricare east. There it is. Plan name do I have? Coverage is pending. Okay.
+Adam Harrison: Yeah. If you see the policy id, I'm still looking for it. You might find it before I do.
+Tracey Sanderbeck: All right. I can probably find it right here.
+Jeannette Nauman: You want the number?
+Adam Harrison: Yeah, yeah.
+Tracey Sanderbeck: One. 835906 wait a minute. Wait a minute. 005018 right.
+Jeannette Nauman: 35906.
+Tracey Sanderbeck: 3590-6005-0183-5906. Do I need to fill this in, Adam? Do I need to fill all of this? All optional. It says optional. Optional.
+Adam Harrison: Yeah, you can leave that. So, yeah, go ahead and close out of this now.
+Tracey Sanderbeck: Click the X on the top.
+Adam Harrison: And then just click on that button and it should run an eligibility check. For her. And since we just added this in my, it may or may not go quickly.
+Adam Harrison: Because we just put the number in a minute ago. But let's see. Let's see if it works. Maybe try refreshing the screen. That might help. Yeah. So let's go back to billing.
+Tracey Sanderbeck: Oh, it looks. Got a little or a pink or a purple thing there now.
+Adam Harrison: Let's meet.
+Tracey Sanderbeck: What does this mean? Not verified. Insurance on file. LGB has not been checked.
+Adam Harrison: See. I'm going to try doing it from the icon on the top. You know what I'm realizing? It's because we have her last name spelled wrong in here.
+Adam Harrison: So we got to change it to. Let's just edit that in here quickly.
+Tracey Sanderbeck: Last name?
+Adam Harrison: So it's just spelled a little differently, I think. It's r a n g e l o e l.
+Tracey Sanderbeck: I said l e l.
+Adam Harrison: Yeah.
+Tracey Sanderbeck: So that's that.
+Adam Harrison: Yeah. Then we can try running it again. Let's see if it'll work this time. And it might just be not working for some reason.
+Tracey Sanderbeck: Now. Maybe I need to refresh. Let's try refreshing. Just so everything is updated. Ran gel. Okay, so let's go. Run eligibility. Tricare might be. We probably should have picked somebody with floor or something, don't you think?
+Jeannette Nauman: Yeah, Tricare is a pain. In there. Sometimes it shows up, sometimes it doesn't, even in our system.
+Tracey Sanderbeck: Yeah. All right. Let's fix somebody else. I mean, we'll come back to that. Let's just fix somebody else. Let's see. She's new. Oh, he's had the same insurance forever. So let's add him. Billy.
+Jeannette Nauman: Awesome.
+Tracey Sanderbeck: Yep. Do you want to. Go here. And then I'm going to go. It's. Very good. And then I think he's Aetna. Pretty sure. Because he's a school board. Pretty sure. Zetna. Yeah. Look at all the aetna. Oh, my God.
+Jeannette Nauman: Do you want the payer id? Will that help you?
+Tracey Sanderbeck: Yeah.
+Jeannette Nauman: 54 is their pay, Rid. 60. Did you get six?
+Tracey Sanderbeck: No. Hell no.
+Jeannette Nauman: 600054.
+Tracey Sanderbeck: There it is. Excellent. Okay. And then what's his number?
+Jeannette Nauman: W247. 860. Eight, fifty. Five.
+Tracey Sanderbeck: Did I do it right?
+Jeannette Nauman: W no.
+Tracey Sanderbeck: 247855.
+Jeannette Nauman: No. 247860.
+Jeannette Nauman: Hold on after the 7860.
+Tracey Sanderbeck: 247-86-0055.
+Jeannette Nauman: No. All right, just start over. W 247.
+Tracey Sanderbeck: 247860.
+Jeannette Nauman: 860855.
+Tracey Sanderbeck: You didn't give it to me, right? All right.
+Jeannette Nauman: No, I think you just typed it wrong.
+Tracey Sanderbeck: Oh, we should probably refresh. Hold on, let me refresh.
+Adam Harrison: I also just had Lee join our call as well. Who? Is. If it's not working, we'll be able to tell us maybe what's going on.
+Tracey Sanderbeck: Oh, look, it says coverage active right there. And then rerun. Ok, now.
+Adam Harrison: Yes. Try clicking on update info because that should open up a box underneath.
+Tracey Sanderbeck: Oh, look at this.
+Tracey Sanderbeck: Look at this net. Look. Do you see it?
+Jeannette Nauman: Barely. I'm on my phone, so it's very small.
+Tracey Sanderbeck: Oh, hell. It just. You open up the box, it says active next to.
+Tracey Sanderbeck: Active patient responsibility. You don't have to flip through and read all that bullshit. Excuse me, both of you. Copay. $50? Yeah, it's right there. Look at that.
+Jeannette Nauman: What?
+Tracey Sanderbeck: Copay. No deductible without.
+Jeannette Nauman: That's lovely.
+Tracey Sanderbeck: Look at this deductible. If you want it all. You should see what we have to do on Dr. Krona while we. I mean, I used to, so I'm fair to say. Look, I mean, it was.
+Tracey Sanderbeck: Well, I mean. Just to give you an example, let's go to.
+Tracey Sanderbeck: I just want to show you guys just a difference here. Olsen. John, let's just. I want to show you what she has to go through every single time. And we have to check it every time because you never know when they haven't told us anything. So. Okay, first we got that whoopty do says active coverage. We've got to run primary insurance. Now we got to wait for this to go.
+Tracey Sanderbeck: And then we have. Okay, he's active. And then we have to go through. Look through all. Keep going. This is. This isn't even a bad one. Then we have to go through a deductible. We have to go through. See if he has a copay. Figure it out somehow. Then we see he's got remaining 500, then we've got to look under CO insurance.
+Tracey Sanderbeck: And then just really make an educated guess? Kind of. But, I mean, we're pretty good at it now because we know we've been doing it for a while, but this is what we have to do. Every patient, believe it or not.
+Jeannette Nauman: Yeah, that's not too bad. I'm on my way. Worse.
+Adam Harrison: Yeah, some of them are.
+Tracey Sanderbeck: But look at this. What? This does. This is beautiful. And then from here, can I jump ahead or do I need to shut up?
+Adam Harrison: No, this is. Yeah, we can keep going, but I guess I will say, you know, this Will. This one. You know, this one. We have all the information, so we're able to say it's active. It's $50. For some of them. You know, because of, like, the data that we have access to. Sometimes maybe 10% of the time it'll say, like, coverage active, but we don't know the patient cost share. And so in that case, you may need to, like, go to the portal and check there or do something like that, but for 90%. Of cases. It should be something that looks just like this.
+Tracey Sanderbeck: Okay? Well, we can always, for right now, jump back into Dr. Chrono and go through. That way, if she, you know, do what she normally does. But you have access to all these different portals too, Jeanette, don't you?
+Jeannette Nauman: Yeah.
+Tracey Sanderbeck: Yeah. All right. And then payment, and then this is where.
+Adam Harrison: Adam yeah, exactly. That might be your. Is that your card here.
+Tracey Sanderbeck: 8524. I don't really know.
+Adam Harrison: I'm not sure if that's maybe the patient car. Maybe that is the patient card. Have you been doing patient payments on here?
+Tracey Sanderbeck: Not through, Dr. Crono. Not through here. But I've been doing it through instrument, which is a whole different system.
+Adam Harrison: Okay, interesting. Yeah, I'm not sure what this payment method is. If, like, the customer added it already himself or if that is a bug or something.
+Tracey Sanderbeck: Yeah. He doesn't know. Let me go get my credit card and see if that's. Yeah. Because that might be my. That might be my business.
+Adam Harrison: Sorry, I didn't see the spot.
+Tracey Sanderbeck: Where's my. Ink card. Oh, there it is. 8524. That's my credit card.
+Adam Harrison: Okay, so it must be because your stripe thing is saved here. So we just need to. That. That's a weird bug. Yeah. I think it's just because your stripe account is connected here. It wants to link your credit card. But what you would do is
+Tracey Sanderbeck: have a strip account, because my stripe account, there's no credit card on there. Because there's my banker information. Remember, we put in my bank and we. We linked my bank so any strike would go through. Why would it have my credit card on there?
+Adam Harrison: I'm not totally sure. Sometimes if you set up, like, Link for another. Like, if you use Link to, like, buy things just on the Internet, then it would be connected to Stripe and it would show up here, too. So even if you didn't set it up through jobs, like, Link is more of a, like, striped. Cross platform thing.
+Tracey Sanderbeck: The only thing I have my business credit card link to is you guys. Dr. Prono. Spruce. That's it.
+Tracey Sanderbeck: Because those are the three things that I pay through that credit card, so I don't know why that would be showing up.
+Adam Harrison: That's. Yeah.
+Tracey Sanderbeck: I need to get that fixed, figure out where to hell that's coming from.
+Adam Harrison: Yeah, okay.
+Tracey Sanderbeck: And the only thing I can think of is it's pulling it. It's pulling it from you guys somehow because I have automatic payments on my credit card through you guys.
+Adam Harrison: Yeah, I'm not sure I will send in a ticket to our team now.
+Tracey Sanderbeck: It says unavailable for this purchase. Oh, see, this is my business account. Unavailable now. That we did through Stripe. This is the one that we connected for. So they can. Anything that is paid goes straight to Chase. So I don't know why this is showing up unavailable. But let's see. Save payment method? I don't know. That's weird.
+Adam Harrison: Yeah, let's go ahead and just cancel for now. But. But what you would do is if you did have, like, a patient, you know, credit card you wanted to put on file, you would just. Yeah. You would do the add payment method. And you know, again, I think you could just click the Try clicking those three boxes on the top right where it says link and you might be able to try pay without link clicking on that. And then you can just enter whatever the patient's card is. So for some reason, It has that filled as a default. We'll get that removed. But you could just put in the patient credit card here.
+Tracey Sanderbeck: All right. And so here's this. This is how we put in the patient credit card. Now, can we show her on here? I thought this was there. But where you can click on it and you can send the patient the text them and email and I mean text the text. And they put their stuff in and paid like you. You know what I'm talking about? Yeah, yeah, exactly.
+Adam Harrison: So. Yeah. So build patients. Or you could just do it from the bottom here.
+Adam Harrison: We're from the bottom. You could. You could go to the patient chart, or you could.
+Adam Harrison: That's kind of the most intuitive way. And then at the bottom, if you. There's like a floating bar at the bottom payment. And so when you click on that, you put in, like, the amount you're requesting. So $20, $50, whatever it is. Yeah, copay. You know, when it's due. And then what will happen is they will get a text message that's saying, you know, Tracy Sanderbeck or, you know, Island. You know what Mental health, depending on how you have your patient communication set up, you know, is requesting this, and then they can fill it. Out on their phone and do the payment over their phone.
+Tracey Sanderbeck: You see that net? Or you can't see that? Oh, I can show you that.
+Jeannette Nauman: Yeah, I can see it.
+Tracey Sanderbeck: No, I can see it. Okay. That's how you text them to get them. Hold on a minute. Let me tell Alex. Alert the dogs in. Please let. I think they're outside. It's hot. I don't know if they went out. Ok, and then let's go back to the eligibility thing. So part of this. Part of all of this. I thought that Nate said that the billing part of the billing was they were.
+Tracey Sanderbeck: Going to look up the eligibility and then tell us what to. What to charge to the patient. Is that right? Or is JET still going to be looking up eligibility and in charging.
+Adam Harrison: I think that would be Jeanette, based on the plan you guys have is more the essentials plan.
+Adam Harrison: So we would do all the insurance stuff, you guys would do all the eligibility and patient stuff.
+Tracey Sanderbeck: What was I going to say? And then so when the bill comes in and it gets paid or whatever. When there's a denial for whatever reason, you guys call and find out why it was denied, resubmitted, and do all that, right?
+Adam Harrison: Yeah, exactly.
+Tracey Sanderbeck: Okay? All right. I'm going to have to talk to him because I thought that his thing was we were going to try to figure out how we were. They were going to look up the eligibility and tell us what the eligibility was, but I might need to clarify that with him, so.
+Adam Harrison: Sorry. What do you mean?
+Tracey Sanderbeck: Tracy, I thought that he said that that was something that she wasn't going to have to do. Look up the eligibility.
+Adam Harrison: Who said that?
+Tracey Sanderbeck: Nate.
+Adam Harrison: Oh, nate. Yeah, I think it just depends on the plan that you're on. So it looks like you're on the 4% plan, which is more of just the insurance side, and then as you go up.
+Tracey Sanderbeck: What's the next one is 6%. And then what do you get? There was. I saw on one of the things that he had. He had like the three boxes. 4% and this is what you get. 6%, this is what you get. And 8%, this is what you get. But I can't find that. I thought it was on the slide that he did. When he did that whole. I can't find it. I don't know. Is there a way to email me those different levels so I can look at those again?
+Adam Harrison: Yeah. Yeah. I'll follow up with that and we can discuss if you want to change, kind of like where you are. Excuse me. I'll follow up with that.
+Tracey Sanderbeck: Okay? All right, perfect. So we'll have to get this. So that would be, you know, because I do want. I want us handling the. So if. If, say, like, we're not going to. We're not going to request it. Once we start getting their. Their cards on file. Then how would she enter a payment? Because this is requesting a payment. And then how would she. Is it that billing? Where am I exactly?
+Adam Harrison: Yeah, it's going to be in the billing and auditing tab. Oh, sorry. On payments. Yeah, that'll show a log just for this patient. Like on the bottom there, invoices.
+Tracey Sanderbeck: You see that? I just went in there and it said, Payment. And then it says, see, they've already taken it out.
+Adam Harrison: What do you mean? I'm taking it out.
+Tracey Sanderbeck: Well, we were just in here, and when I clicked on payments, it came up with my credit card.
+Adam Harrison: Oh, that's. If you click add payment method, it should pop up again. Yeah, yeah, yeah.
+Tracey Sanderbeck: Oh, okay. All right. You're going to get this fixed. This is.
+Adam Harrison: I think that's a little bit. Yeah, exactly. So we'll get that removed, but then all of the payment history will show up in invoices on the bottom.
+Tracey Sanderbeck: So what will this look like? Once? Say, like we don't have the credit card yet. Is it going to have a place where we're going to. It's going to say, add this, add a card.
+Adam Harrison: Yeah. It'll just say, add a card.
+Tracey Sanderbeck: Or just, say, add a card that she puts the information in.
+Adam Harrison: Yeah, and even if you don't have a card, you can still request a payment as long as you have a phone number.
+Jeannette Nauman: Okay, good.
+Tracey Sanderbeck: They all have a phone number. Perfect. Okay.
+Adam Harrison: So it'll show up.
+Tracey Sanderbeck: Probably the easiest would do would send every person that message. I'll send out an email letting them know that we're changing and they're going to get a text message. And that way they can enter their own credit card information, but it needs to be entered right away. And see how many of those we can just get to enter their own without. You having to enter each one of them. Re. Enter each one because we're going to have to ask the patient, because we can't get that information from Instamed either.
+Tracey Sanderbeck: Because we're not even allowed to view the credit card once it's in instabet and it's saved, we can only see the last four, so we can't even pull it from instamed and put it over here.
+Adam Harrison: Okay, I got it.
+Tracey Sanderbeck: Life was square. It was nice because we could pull up the patient and see their whole credit card number. But instimed, we can't do it. Once we put it in and we save it. It's asterisks and then just the last four. And so we don't even have a way to view their credit card. Oh, unless we mention it. Unless we click edit. Can't we click edit and it will show the whole card? Or no. Oh, it does not show the whole change. The expiration date.
+Jeannette Nauman: Right. Expiration date. Or the zip code billings of code or something. Yeah, or. Yeah, it just shows the same thing. There's the asterisks on the last four. If you do edit, doesn't show you the whole car.
+Tracey Sanderbeck: We may be able to look, look back and spruce under each name and see if they sent a credit card and we maybe could enter it from there instead of asking them each time, but I don't know. At the end of the day, think we're going to have to click that button, send the text and let's. Let's see how they respond. Hopefully they respond. All right, so that's that. Okay, so that's the payment. And then once they make the payment. This is all here. Now, what if a patient asks for a super bill or proof that they do? You do super bills in here? We'll still have to get that from Dr. Cron.
+Adam Harrison: Yeah. So we don't do super bills yet, but what would be the typical thing that you would need there?
+Tracey Sanderbeck: Jeanette.
+Jeannette Nauman: What are they? What. What is a super booster?
+Tracey Sanderbeck: Yeah. Why. Why do you have to send super bills if they're doing the insurance themselves?
+Jeannette Nauman: Yeah, well, sometimes, yeah, if they. If they cash paid and then they're going to submit it to themselves, which, I mean, that doesn't happen very often. Sometimes the HRA or HSA will ask them for a receipt, you know, proof of where they spent that money. And so we'll send them a super bill so that they can turn it into the insurance company. But, I mean, it doesn't happen very often. But once in a while.
+Adam Harrison: Okay. I'm not 100% sure how we have that set up right now, but I can. I can follow up with you on that. Or, like, when you need to do one, just. You can let me know and we'll hop on a short call together. Or I'll send. You a video guide.
+Jeannette Nauman: Okay?
+Jeannette Nauman: Yeah, it doesn't happen very often, but I don't use them very often. I'm not wanting. Which is really stupid because the insurance company asks you to send it to them. A lot of times they want the same information that they already have, you know, because they used to do that to me. I mean, like, I'm getting it from you. Information.
+Adam Harrison: Okay? But, yeah, I think what you would do is you would just open up this invoice. Like, there's no invoices for this patient yet because we haven't, like, billed this patient. But on the bottom here, this invoices tab, you should be able to just click on one and it will pop. Up and show, like, what the. What the bill was. But I don't know that it has all the detail of, like. You know, on a super bill, it typically has, like, the provider and service state and, you know, all the detail.
+Jeannette Nauman: There's codes on there and everything. Yeah.
+Adam Harrison: Yeah. So I. I don't know where. Where to do that yet in the system, so I need to just check for the team on that.
+Tracey Sanderbeck: Okay?
+Jeannette Nauman: All right.
+Tracey Sanderbeck: Anything else, Jeanette, that you can think of that we are not?
+Jeannette Nauman: I don't think so.
+Tracey Sanderbeck: Okay? All right. All right.
+Adam Harrison: Okay. So that is eligibility. That's patient payments.
+Adam Harrison: And, Tracy, we set up your stripe account so that will get deposited once the patients get, you know, billed directly. Let's see. Did we talk about intake yet? Intake forms?
+Tracey Sanderbeck: No.
+Adam Harrison: Okay, so let's go through. I'll just show you how it works in Jotsyc, and then we can talk about how to move your existing intake stuff over.
+Tracey Sanderbeck: Okay?
+Adam Harrison: So if you go to where it says documentation, And then click on. Click on forms. And then go to the top where it says forms Library. On the top right? And then you're going to go and do. You can search for intake. In the search bar. And at the bottom there is behavioral health intake form. So maybe just preview that one to start. So this is what our kind of out of the box intake form looks like. This can be.
+Adam Harrison: And there's a few more sections if you scroll down here. So it'll have, like, insurance info, consent. There's, like, some other stuff in here, too. We're actually in the process of updating this, so if you. If you want, if there's things that are missing here, you know, just. Just let. Let us know and we can add it. But this is like our standard intake as of right now.
+Tracey Sanderbeck: Would there be a way to. This might be something. I don't know. It would be helpful for eligibility for sure. If you have people like me that. You know, I'm just looking in the future, which, I mean, I don't know if we need to look that far ahead. But a way to add a picture of the front and back of their insurance card.
+Adam Harrison: Yeah, that's definitely one we're working on. We've gotten that request before.
+Tracey Sanderbeck: There's a lot of information on their phone numbers and all kinds of stuff. All right, what he's talking about is you would take a new patient enter, which is. I can show you what. I might as well show you that real quick. New patient right there. And this is how you enter a new patient. So let's go back to documentation forms, and then from there you're going to go. Well, we're going to save it into somewhere. We're not going to go to the form library. Each time. I'm going to save it into our account.
+Jeannette Nauman: Buddy.
+Tracey Sanderbeck: Once we tweak this form. If we need to, but for right now, You can take this whole form. See it, Jeanette. How it has patient? Ask them all this information. It's going to be insurance, self pay, insurance company, blah, blah, blah. Self assured. Full name, date of birth, address, zip code. Authorize authorized release of information. Direct payment to my provider. Agreed. They sign. What is it going to be like? Sign with their finger. Type situation. Their emergency contact, which we don't. Okay. Their employment information, that would be helpful. And then I'm going to send him all the consents, Jeanette, and they'll be able to sign the consent and blah, blah, blah.
+Tracey Sanderbeck: And then optional clinical background. I'll be able to add this. Like, right now, they're asking about medicines. Diagnosis active. Yeah. This needs to be. How do you. How do I edit this form or. I don't.
+Adam Harrison: So, yeah, this is what you would do is close out of here, so click the X on the top. And then do you already have, like, an intake form that you like?
+Tracey Sanderbeck: Well, I have. Yeah, I have one that I use. I don't necessarily love it, but, I mean, because honestly, the patience is so difficult for them to, you know, that they have to sign on to the portal. They have to. But doing it. But, yeah, I have one that I could add the questions to if I had the ability to do it.
+Tracey Sanderbeck: But, you know, like, I know questions that I like to ask. So let's look at this one. So is this. I don't know whose this is. Patient or patient completed. Personal information. So it has all that emergency content, health care providers.
+Jeannette Nauman: Fabio, you can come in.
+Tracey Sanderbeck: I don't really care about that site history. I like this. This is good. Current symptoms. That's good. Medications and allergies. That's good.
+Jeannette Nauman: Yeah.
+Tracey Sanderbeck: Occupational social. This is good.
+Adam Harrison: This is.
+Tracey Sanderbeck: This is pretty good. And then safety. I don't know what this is. Yeah, this is pretty good. And then where's the consents on here? There's no consents.
+Jeannette Nauman: There's an open sense.
+Adam Harrison: Yeah. So we should. We could even, like. I don't know. It might be worth us kind of like. Putting our heads together on what. Or if you can send me all the different forms that you have and we can sort of put together the perfect intake for you. That might be like a worthwhile. Exercise, but I can just show you here quickly how to, like, create one yourself or edit these if you click on. So for the where it says jot seg forms on the bottom. The, the intake form down there, you'll have to just click Copy. Yeah, click on copy.
+Adam Harrison: And then that'll, that'll let you edit this form. But this is kind of like, it's pretty labor intensive to like, you can build the form out manually like this, you know, like kind of add a sections. And questions and picking if you want single choice or short answer or signatures, right? So you can kind of. You can literally, like, type out everything you want here and then publish it. It's. It's a little time consuming to do, right? That's one option. And if you go back? The the other option is if you go to build new form again on the top. And then click up. There's, there's three options here, so you can, you know, build from scratch is going to take a long time and I, I wouldn't really recommend. You can upload an existing form and we'll like, parse it and then create a jot site form from it.
+Adam Harrison: Or you can actually, with this AI form generator, you can kind of like describe the form you want and just type it out like, okay, the first section I want is patient demographics. And I want to collect, you know, all the key info there. And then I want to have insurance and collect insurance, and then I want to have like, you know, clinical history. And I want to ask these specific questions, and you can. You can type it out, and it'll get pretty close to. To what you actually want.
+Tracey Sanderbeck: What if I don't want to recreate the wheel? And I want to do take and I want to use this.
+Adam Harrison: Yeah, you could just click on Edit for either of those.
+Tracey Sanderbeck: Let's preview this one. Healthcare provider. Emergency law. Occupational. So this one was actually better. Yeah. What if I wanted to use this and then I just wanted to add a few sections down here? Could I just send that to you and then you can add them onto this instead of.
+Adam Harrison: Yeah, that works.
+Tracey Sanderbeck: Because this is all a lot of really. Only thing I would add would be for them to be able to take a picture. And then I can send you my contacts. I mean, my consents. And then I could just add a few things to this. Clinical stuff. It doesn't have to be labor intensive, but, I mean, it's. I mean, it's. I usually have a little bit more information about this. Well, this one didn't have. Where's the. I thought this had, like. Why are you seeking care? Are you still taking Diagno? No, that's the old one. I think it was this one that had all the good stuff. Optional. Yeah, I think it was this one. Current Medicaid? No. That's weird. Where's the one that had about, like, Oh, employment. Here it is. We're just going to employment consents. Optional. That's weird. I thought. Wasn't there one that had, like. Are you thinking of harming yourself? Like. Oh, I saw that.
+Adam Harrison: That was in that one. Yeah.
+Tracey Sanderbeck: This one. Yep. Reason? Oh, yeah. Reason for visit? Yes. So this is medication? Occupational safety and consent. So if I added my consent. So that was psychiatric intake. Patient completing. So if I just added a few. A few sections to this, and including my consents, this would be good enough.
+Adam Harrison: Okay, yeah, that. That works, then. So if you want to just describe. Well, do you know what you want to add now or do you want to send me, like, an email with. I think you need to send me your consent stuff. Right.
+Tracey Sanderbeck: I got to send you the consent. So it's pretty. I'm wondering if I can. I'll show you. What is this? Wants to do what? Access other apps? Just. No, just to give you an idea. This is. This is it right here, which has mostly all of their stuff. That's a shorter one. And then I during the appointment. I fill this out? See, it's a little bit longer. But, I mean, I can. I can shorten some of this stuff and add it to. Print this? I. I doubt it. Because you know what? That would be to simple. Let me see. Let's see in here. I mean, that would. That would be. Yeah. Let's see what this looks like. If I could print this, and I. Of course not. Of course not. See? Thank you, Dr. Crono. You piece of shit. Yeah, so that would be, too. But you know what I can do? I think I can do this. I can do this.
+Tracey Sanderbeck: This is what I've done for. I'll figure it out and I'll put it in a very concise, simple way and I'll just send it in an email. And it doesn't have to be all of this stuff, but there's a couple things on here that I would like. And then I'll send you my consents. And the consents are. I think the consents are pretty quick history.
+Adam Harrison: I believe.
+Tracey Sanderbeck: Well, I think I have them in my email anyway. But I think this, put this way, is under demographics. You see this isn't this. This drives me crazy. No documents. I think it was under documents after all. Signed consents. There they all are. That's not all of them, but because they update them. So it's. It's seven. No, six right now. Right, Jeanette, Seven. Seven, okay?
+Jeannette Nauman: Yeah.
+Tracey Sanderbeck: I thought I took that one out. Remember? I took the one out.
+Jeannette Nauman: You did. That was what made seven.
+Tracey Sanderbeck: It was eight. So there's just seven of these, so I. I can print and copy these and just send them up to you.
+Adam Harrison: Okay. Do you want those all on one giant form, or you like them as separate forms?
+Tracey Sanderbeck: I can show you. I can show you what they look like. I'll bring it up. I don't know. You have the. Tell me. This is what they look like. I mean, they're literally like PDFs that I made and then uploaded into my system. See how the. So would it be easier just to send you, like, the PDF like this, and then you can.
+Adam Harrison: Yeah, that works. That works. That's. That's easy enough. Okay.
+Tracey Sanderbeck: All right, so that's what I'll do, and then I'll just quickly figure out. Like to add on to that one psychiatric intake, and then that's good. All right, so let me just. Let's show Jeanette when she's making a new patient appointment. And we'll go over this later when you come over, Jeanette, but real quick. So then, from here, how does she send this Texas to the patient?
+Adam Harrison: Yeah. So you would actually go to the patient chart. So this is just setting up the form initially, but when you actually want to send it, you go to the chart and then you can. Yeah, exactly, Send forms. So you click the plus. And then you can pick, pick. It'll show up in the list here, and, you know, we'll give it a title and we're ready to publish it, and it'll say, you know, Lmh.
+Tracey Sanderbeck: And that's what we title everything. And keep it easy. That way I know it's mine. Or, or whatever. I don't, you know, whatever.
+Adam Harrison: But, yeah, whatever makes sense to you guys is totally fine.
+Tracey Sanderbeck: And see that, Jeanette? You just click and it's selected and then you go send the form.
+Tracey Sanderbeck: And then here's how you do it. You can write to them. You can email it and do it, but I mean, text it to them and then write whatever you want if you want. Is there a way to change this? And I change this in my account. I don't. It seems a little. But this is what the patient sees. Tracy Center. Can I have my credentials added to this?
+Adam Harrison: Yes, there is a way to do that.
+Tracey Sanderbeck: I changed it in my profile, and I thought it would change it here, but it. It has.
+Adam Harrison: So maybe if you close out of this.
+Tracey Sanderbeck: Okay. But anyway, Jeanette, this is how you do it. This how quick and easy it is. Boom, boom, boom. And you send the form, and then when they send it back, It will show. It'll show right here the name of the form. It'll say pending. And then when they send it back, it'll say complete. And then when you click on it, you'll be able to look at it.
+Jeannette Nauman: Okay?
+Tracey Sanderbeck: Okay, I'll show you one because I have some of the other ones. Okay, Tim, where do you want me to go?
+Adam Harrison: So try going to the top, right, where it says their initials at the top. Or. Yeah, I guess. And then go to down here. No, no, I think it. Oh, yeah. Maybe it is there. So I think you'd have to for communication. Name where it says just add like a comma with whatever you want to show up for your credentials.
+Tracey Sanderbeck: Whenever you do this, if you don't, there's no save or anything. Oh, yeah. It constantly is always saved or whatever you do.
+Adam Harrison: Yeah, that's right.
+Tracey Sanderbeck: Yeah. So it's nice. It's kind of. You got to get used to it. But let's go back to him, and then let's pretend. Let's just say we're going to send this and then we're going to send that. Send it. Yep, that's it. Thank you.
+Adam Harrison: All right. Glad I remembered that.
+Tracey Sanderbeck: Yes. Yes. Okay. So very simple, all right? And then that's that. So I've got to get you the consents and then the other fields. Okay, Other fields.
+Adam Harrison: All right?
+Tracey Sanderbeck: And I think that that's. Excuse me. Sorry. All right, go ahead. Sorry I got ahead of you. You tell me. Where do you want to go next?
+Adam Harrison: Yep. So, what we've done so far, we talked about creating a new patient, doing an eligibility check for them, sending them an intake form requesting a patient payment. I think that's really everything that Jeanette is going to need to work on. And then everything else. Tracy would be more in your court for, like, you know, recording the encounter and signing the note and then pressing create claim at the end of that process. But does that. Could we go through that second part again of like how to sign a note and create a claim.
+Tracey Sanderbeck: Let's do it again. So let's use. Should we use Johnny Appleseed?
+Jeannette Nauman: So I can see that.
+Tracey Sanderbeck: For alfred. What? Jeanette.
+Jeannette Nauman: So I can go, right? I'm going to take Bandit to the vet, okay? 330.
+Tracey Sanderbeck: Okay, bye. Go. Hurry.
+Jeannette Nauman: Isn't it 3:30 now? I mean, it's 3:15 now, right?
+Tracey Sanderbeck: Yeah, you better go. Yeah, okay.
+Jeannette Nauman: All right. See you later. Bye.
+Tracey Sanderbeck: All right.
+Tracey Sanderbeck: Okay, so now I'm in. Alfred Appleseed. And I made a note. So am I going to go here? I just want to see if I remember. Oh, no, that's a schedule. He doesn't have.
+Adam Harrison: He doesn't have a note.
+Tracey Sanderbeck: Let's just go to one of my patients. I don't care. We can just go to one of my page. Let's just. Let's use this guy. But he's a cash. Oh, no, he's a cash pay that's not going to work.
+Adam Harrison: We could still just go through it. It's the same process. Yeah.
+Tracey Sanderbeck: So here's his note. So I'm going to say sign the note.
+Adam Harrison: Yep, that's step one.
+Tracey Sanderbeck: Step one.
+Adam Harrison: And then, yeah, you should just click through these different kind of fields here so the session details. And just make sure this all looks correct to you, because it'll make its best kind of guess based on what the encounter was. Now, this one looks like it was four minutes. So maybe this was like a verbal summary you did afterwards.
+Tracey Sanderbeck: Yeah, because I forgot to click record and I found it way later. So I think this is once from December and last night at CCS 359, I just. I just. He's a cash pay and I just verbally did it. So.
+Adam Harrison: Yeah. So this one you might want to update to click like the. 30, for example, if it was 30 minutes. Or 20, if it was 20. And then from there you would go to billing codes, if that all looks good.
+Tracey Sanderbeck: So when I click, however long it was, So there's no 45. Oh, I can enter it. I can change it. Yeah, so there is. Some of mine are. 40 or 45 is a common one for me. Okay. All right, so where is the start and end day end time going to go? Is that going to go to the insurance?
+Adam Harrison: I don't believe that actually goes on the claim. That's more just for, like, documentation purposes.
+Tracey Sanderbeck: Okay. Is it going to go on my chart?
+Adam Harrison: It'll show up. Yeah. See, it's there on the top there where it says September 5, 3:59 to 4.
+Tracey Sanderbeck: Okay? All right, so it's 45. Okay, that's fine because I, I usually add the. Anyway, that's, that's fine as long as I know how to do it manually so that it can reflect, because it might have a 20 minute point, but I run over because something goes on and it turns into. A 40 minute appointment. OK, billing. Now I'm going to do my billing code and primary and then my add on.
+Tracey Sanderbeck: And then here is my. I can add another. I can add another. So then I add whatever, and then once I'm doing this patient.
+Adam Harrison: More frequently.
+Tracey Sanderbeck: So let's do he's also at F33 point. Let me see. So he is. Partial. Okay. So then I've added that. And then I don't know what this is. What's 33? Should I click on it and see? Oh, generalized anxiety. What's 33? 32 point A. I don't know what that is.
+Adam Harrison: I'm not sure. What does it say? If you hover on it? Say anything.
+Tracey Sanderbeck: Hold on a minute.
+Adam Harrison: Try clicking the X.
+Tracey Sanderbeck: I don't think that's there. There's never a code with an A in it. So this might be just, like, a fluke. So let's. Let's try. Let's try. F 32 point a. Yeah. Nothing. There's no such code as that. I don't know where that came from, so it's just kind of a freaky thing, but. Ok, but what's nice is. If I wanted. If I want to make his depression primary, all I got to do is click it. This is. This is a very nice feature because. Doctor Frono. You have to erase all of them and retype them in the order you want them. So, like, okay, so for, like, example, this patient that I've been treating for anxiety, adhd. And now has schizophrenia. Right. And he has cannabis abuse. And something else. Something else. Now I have to erase all of his and retype them. It's a pain in the butt, but ok, so this is nice. And so now I'm gonna. This is all ready to be built, and then I'm gonna assign my note, and then that's going to send it.
+Adam Harrison: And then there's one more step. After that, you'll have to do.
+Tracey Sanderbeck: Okay?
+Adam Harrison: Which is you'll just need to click Create Claim. And that's when we know that you are done with this note and we will begin processing it for billing. And if there's questions that we have, we will message you about this claim. But that is how you would send it out.
+Tracey Sanderbeck: Okay, Very good, very good.
+Adam Harrison: Last thing I wanted to ask is do you use the Jotsec calendar for your appointments or do you just use Dr. Chrono?
+Tracey Sanderbeck: The only thing that I. Yeah, yes, I use Dr. Krono. But I will tell you what I have discovered, actually, that you showed me, or I think it was Nate that showed. Me this so. Say, the few patients I've had, like two patients. That. Well, not two, but, for example, let's just look at one real quick. Madison. Madison. Let's see if she. Oh, she did it. Okay. But now she did it because I sent it to her in the morning. But I'm busy. Haven't had time to look at it. I remember I told you how I have to look at these and I have to add them all.
+Adam Harrison: You did range from that. I did flag that to the team. They're working on that.
+Tracey Sanderbeck: Okay, great. That'd be. That would be a huge time saver. So when I. I don't generate the note, I click save for later, and then I believe I have to go in the schedule. To access it and click on it in order to go back. And that's the only thing that I use. But these, they're all on here. These people are on here. But I don't use it to schedule appointments. They're on here because I think because I've added. I'm generating. A visit.
+Tracey Sanderbeck: This isn't that I have added. This is just. But this reflects all the patients.
+Adam Harrison: Okay? Cool, cool. All right, so that works. And then I think that's pretty much everything I wanted to go through today. The last part I wanted to mention here. A couple things. Number one. It looks like. It looks like I was looking through Dr. Krono. It looks like you're billing through a group. NPI, type 2 MPI for under, like, you know, island. Island life. And then that's at least what I checked. A few claims in Dr. Krona. That was what I was seeing. And it looks like that's how you're set up. But I know you mentioned that you thought it was, like, on an individual basis, so I did want to check on that before we, like, got anything set up.
+Tracey Sanderbeck: Yeah. I'm not aware, but, I mean, however it is in here, it probably needs to stay because I'm getting paid, so. So let's go into this claim. From december. Can you see and hear where it's the NPI or. No, it's. That would.
+Adam Harrison: Let's scroll down a little. Let's see.
+Tracey Sanderbeck: This is. Everything has been done.
+Adam Harrison: This is just like a. Yeah, like a log. Maybe if we go a little further down where it says view 837p. This. Yeah. Let's look at what it says there.
+Tracey Sanderbeck: Oh, God.
+Adam Harrison: So this looks like.
+Tracey Sanderbeck: Yeah, this is my. This is my group. This is my Medicare group number.
+Adam Harrison: Well, this is a Medicare one, so.
+Tracey Sanderbeck: This patient's not Medicare. This is private insurance.
+Adam Harrison: It's private.
+Tracey Sanderbeck: Okay, but you remember how I showed you when I sent that? I filled out that thing and I. I sent Medicare. I use a different NPI than I. Than I thought. Number 188-1175, right? 118. Yeah. So this 188-117-5925. This must be my group. This was.
+Adam Harrison: I think that is.
+Tracey Sanderbeck: Yeah, because look down here. And. Mm82. You see, this is. This is the one I thought we were using. That's. It must be my individual. My group. But we can look. So can you tell here which one they're using or no?
+Adam Harrison: It's a little hard to tell with this, the way this is laid out, but it's my guess is it's billing under the group with your individual NPI as the rendering. Npi?
+Tracey Sanderbeck: Individual, so it's billing under. Okay, so let's go to.
+Adam Harrison: Because there's, like, a billing npr, like. There's. You can have up to two mpis on a claim. One is the billing mpi, which it looks like is your group mpi.
+Adam Harrison: And then the other one is the rendering in PI, and that's the provider who is doing the service. So if you had, like, if you hired another nurse practice, you know, hired another person. They could still bill under your group, but it would be a different rendering NPI.
+Tracey Sanderbeck: That's exactly. See this right here? Billing, mpi, that's that one. And then rendering is my individual. So this is my group. This is island life, Mental health. And then this is my. This is Tracy Sanderbeck, correct?
+Adam Harrison: Yep. Yep, that's right.
+Tracey Sanderbeck: All right, so that must be it, because this is how it's set up. So this is how every claim is being built right here. Medical billing.
+Adam Harrison: And see. Yep. I think. I think that's correct.
+Tracey Sanderbeck: Yeah. I mean, this super bill. I mean, this is everything to do.
+Adam Harrison: So as long as you're getting paid right now, I would say let's keep it the same. But if you were not getting paid right now, I would say, you know, maybe we need to change things.
+Adam Harrison: But it seems like you're getting paid, so I would just probably keep what we have.
+Tracey Sanderbeck: Yeah. And this is how it's been since day one. This is how it's been since day one. I'M just hoping. I don't want to create. I know up front this is going to create work for Jeanette.
+Adam Harrison: I get it.
+Tracey Sanderbeck: But what I'm going to do is when she comes over, I'm just going to tell her that we're just like I've been doing, we're transitioning into. All have right now, all I'm going to end up with is literally putting my notes over here. Just because this is my ehr. And then until I officially move over or you guys say. You know, it's going to be a while. I mean, I'm. I'm stuck with them till November or September anyway, so trying to take. What I'm going to try to do is go down in a thing and so that. Tell them I'm not using their billing to get rid of all. That so literally, it's going to be like, even my note I'm trying to get rid of. It's just very. Again, it's. Of course, it's very difficult. With anything that you do. So say this note. See, this is just a CI copy and paste my note from jawsight. See it right in here. And then I go down and I have my own review of systems, where you guys have a review of systems. So I've added that to this. And so I'm going to go through and get rid of this review of systems and I'm going to get rid of view of my MSC mse, because this has an MSC in it, which I'm not utilizing.
+Tracey Sanderbeck: I'm going to put this in there. I've already. As you can see, I've already gotten rid of. I don't need the E Force. I think I'll leave that because I'm not sure that that's in my note yet. Up here. I think I can add that somewhere in here the E Force was checked. I know it's on that payer aware one. But I don't find it. I don't know how to add it to my template. And then I'm going to get rid of this and I'm going to get rid of. I'll leave medication consent, because again, I don't think that that is anywhere. On you guys. I don't think that's an option. And then I Like I said, I already got rid of the this is where I had all the. Add on psychotherapy information. And then my follow up. I don't really. I mean, I don't really need that, but I'm slowly getting rid of this. I'm literally going to just have this in Dr. Chrono. I'm trying to see. Where am I? Hold on one second. Let me go back to Joss like Josh likes. Where am I? Draw cyc here. Let me go back to my forms. I might be wrong. No document. No documentation forms. Oh, no, not that. My note template. And then let me go here. And then if I want to add a section. How do I get that browse thing? I always forget. Add a section. Oh, there we go. Do you have an E4 thing? E, F, O, R statement? No, you don't have. You might want to. You might want to. Add that. Just a little statement that E force was, you know, if a narcotic was prescribed this visit, E force was checked or however. See, that's what I have in this statement here. Too much open now, if you look. Let me look at the preview, the note. Because it is basically a requirement. But maybe if you added that so I could add. So people could add it on. To. Oh, it's not a complete no. Of course not. Let me see. You all my guys, just so I can show you. And that was just a little. A little thing that I made up myself and added it. Let's look at this note here. So basically, we're going to be transitioning without officially using you as a primary ehr. E force. E force. Where does e force medication consent. Therapeutic, responsive treatment. No. Where's my E Force statement medication? Oh. If indicated, Florida's E Force database was reviewed prior to session. No inconsistencies were noted. You know, something simple like that. You probably don't have to have the state or whatever, but I don't know if that makes sense. Does that make sense to offer to people?
+Adam Harrison: Yep, Just like that statement at the bottom.
+Tracey Sanderbeck: Yeah, it's just like this little statement. But if you could add it to where we could add it into our. I saw it on the payer aware. Like on payer aware note. I believe there was. I know for a fact there was. There was a statement about. I'm sure of it. I'm sure I saw it like on one of the payer aware notes. I'm sure I saw some statement that E force was. Looked at or something. I'm sure. I'm. I'm sure. I'm almost positive. That that was on. There. Yeah. So eventually, I'm just going to have this. Putting my note. Again, just having this, where this is going to be. This is going to be my note, and then I'm not going to have to. I'm not going to have. I'm going to get rid of all of this because all of this, you guys already have. You guys already have a review of system and see how I have lab order results.
+Adam Harrison: That's another.
+Tracey Sanderbeck: I don't know if that's possible, but another thing like that, because sometimes we order labs.
+Tracey Sanderbeck: And then, like, so if I click. See, yeah, these are my macros labs. And then. But say, like, I did order labs on this patient. You know, I did a vitamin B12 or whatever. Then I would freeze, you know, vitamin B12. Results or whatever, reviewed with patient or whatever. Because that's another way of showing that you Data, you know what I'm saying?
+Adam Harrison: Right. Right. It's okay. Well, Tracy, I will have to run in a minute here, but just to, like, close out for where we are right now. I did also. So I think. We're gonna. We're gonna use your group MPI because I think that's what you've been doing. There are. There's some pair enrollments that we'll need to set up. So for like to be able just to be able to even submit Medicaid claims through job site, there's like an enrollment process that has to happen and can take a few weeks. So I'll send you like. You know, an email that's going to recap everything from today, and we'll have the video I'll send you. A guide. Excuse me on what that includes. And then the.
+Tracey Sanderbeck: Yeah. Found somewhere in here. And I'll have to go in here and do it like I did with Dr. Chrono.
+Adam Harrison: It will probably involve you logging, more likely into, like, your Florida Medicaid portal. And then, like, just.
+Tracey Sanderbeck: But you mean just blue or whatever.
+Adam Harrison: Well, you do. What do you do? Do you do. Hold on. Medicare. Yeah. So did I flip the wrong one here, Dr.
+Tracey Sanderbeck: Chrono. I just clicked. I wish I could find it. Remember we were trying to find it and it was. I couldn't figure out Billing. I couldn't figure out. Where it.
+Adam Harrison: Medicare. That's right. Sorry.
+Tracey Sanderbeck: Medicare. That's okay. Patient analysis. Coding custom? I don't remember, but I went in here. And. I clicked on. Some of them were automatically sent, and some of them I had to do a little something with. So I don't know how you guys do it.
+Tracey Sanderbeck: To change the era.
+Adam Harrison: Yeah, so? So the era we'll go through that, too, once we're ready to change that. So the era we probably want to wait on, because you can only have eras go to one portal. So once you're ready to really stop having them go to Dr. Chrono, we'll set that up in Jotsife. For now. I think it makes sense. I looked at your payer mix. It might make sense to start with now. To start. Basically, we were going to do one pair just because they're. Let me look if I have the numbers here. Because I went through. Your. I went through your Dr. Chrono account, and I think it was that where, like, That or signal was maybe the other one. Cigna was a bit larger, so I thought Aetna might be a little bit better because it was slightly smaller in terms of the number of patients you had or the dollar value of the claims. Let me. Let me just see if I can pull that up. But I think what. What would happen, basically, is if. If you're good to move forward with what we would do is. Yeah. So your totals build. I forget the time period here, but. Blue Cross was the biggest, then United, then Cigna, then Aetna, and then everything else was like, much, much smaller, much fewer claims. Medicare was the next biggest one. But it's sort of like. Goes down quite a bit where we just don't have enough claims, really. That are generated. So I think Aetna kind of strikes the right balance to start, and then we can do the rest afterwards. But what that would mean is we would. You would just, like, create the claim just for your Aetna patients to start, and then everyone else would be same. Same as before in Dr. Krono. Just so we kind of, like, take it once, you know, we do 11 payer to start, make sure everything is good. And maybe it's, like, a little easier for you and Jeanette also to kind of adjust before we, like, make a big switch.
+Tracey Sanderbeck: Is the era the same as the clearinghouse or no?
+Adam Harrison: So the era what that the era is basically like. It's kind of like your receipt from the Payer. So it's basically like, We paid you $100. You submitted a claim for 200. We paid 100. And the patient should pay like a $20 copay. That's what the ERA is. So if you go in, Dr. Chrono, you'll see anything that comes back from the payer. Anytime the payer is sending you something of like, here's what we paid you. That's what the ERA is.
+Tracey Sanderbeck: So is this the so would this be the era o l s e. Is this the era? Is this the era?
+Adam Harrison: So if you click on one of them.
+Tracey Sanderbeck: Bill.
+Adam Harrison: Yeah, exactly.
+Tracey Sanderbeck: This is the era. So this is how much I. Bill this is what it was allowed. Well, let's go over here. So this is how much I build. This is what was allowed. This is the adjustment. This is what insurance paid. Patient paid $25. And yeah, Okay?
+Adam Harrison: That's exactly what the ERA is. So until we get that set up, we're just going to see what was billed. And we won't know what happens afterwards. Unless you went and checked your bank account.
+Tracey Sanderbeck: Okay?
+Adam Harrison: Or they might email you something.
+Tracey Sanderbeck: And you know, it's weird is this was the patient that we ran here, and eligibility, it showed he had a $50 copay. Of $25 copay the whole time I've been seeing him. That's weird.
+Adam Harrison: Well, that's interesting.
+Tracey Sanderbeck: See, it was $50 here, but then he ended up with a 25. He paid $50. Now, I'm going to tell you what this is. And this we run into a lot, just so that you know. And I don't know how you look at it from the back end, but some people, some insurance is consider me a specialist, and some insurance is consider me just a regular provider. I bet you. $50 is his specialist copay, but they view me as a regular provider and like his primary care and all that. I bet his primary. I bet you. Well, let's. We can. We can actually look real quick if we want to just verify that. Let's go. Here, we'll look at his card. He'll probably say it on his card. Documents. Worst documents. Documents. And let's see. I hope he has his card. Documents. Yep, front and back. So here it is. PCP 25 special is exactly what it is. Now why they don't consider me.
+Adam Harrison: You see?
+Tracey Sanderbeck: Yeah. You know, but in yours, it shows. It comes up as a specialist. So I don't know. You know, the way we navigate it is we always. We always charge a specialist. And patients. And then we wait for the claim to come back to figure out which. Which way they're going to go with it. Like, for him we know. So I don't know if somehow your team can fine tune that to be able to look, but I don't know. I don't know how you figured. Out. But that's how we figure it out. We always default to the but somebody like him is an existing patient. We all of a sudden charge, like, $50. He'd be like, why am I being charged $50? It's always $25. So that means she back into Dr. Chrono. And I'm trying not to. I mean, the whole point of this is to not to cut down on workload, not. Increase it. But yeah, it might be one of those.
+Tracey Sanderbeck: I don't know if you need to ask your people that that's in charge of eligibility. I don't, I don't know if that's something that can be fine tuned or whatever. But yeah, we do see that sometimes we enough, enough times that we. Tell the patients that, you know, we're going to charge. They'll say, oh, my copay is 25. And we're like, Or they'll. They'll literally say, assume that I'm a specialist. But then it comes back and they chart and they pay me as a regular. As a regular PCP type.
+Adam Harrison: Anyway, in this case, the insurer said you were 25. Was the patient responsibility.
+Tracey Sanderbeck: Patient says, yeah, the patient. The insurer says, see this? See, the insurance says 25. 25. 25, 25.
+Adam Harrison: Well, that's just. It looks like that's just what the patient actually paid. Not with. They're responsible for. Am I?
+Tracey Sanderbeck: Yeah.
+Adam Harrison: Wrong. Though.
+Tracey Sanderbeck: Yeah, but look, here's what's allowed. Here's what the insurance paid. If you subtract this from this. Oh, I'm sorry. What did I do that for? If you subtract this from this. $25.
+Tracey Sanderbeck: So if his co pay was $50, then this would be a $50 difference. Am I wrong one?
+Adam Harrison: Yes. No, you're right.
+Tracey Sanderbeck: I'm right.
+Adam Harrison: Adjustment insurance paid patient pay. What happens if you just click on the data service for one of these?
+Tracey Sanderbeck: That little button?
+Adam Harrison: Yeah. As I want to see like what the actual era looks like.
+Tracey Sanderbeck: This.
+Adam Harrison: Yeah. So let's see here. Are there? Let's see. I'm saving about 25. This looks like. Is this secondary insurance?
+Tracey Sanderbeck: No, no, he doesn't have secondary. See, a secondary sure is. 00 primary.
+Adam Harrison: 20. Okay.
+Tracey Sanderbeck: Minus 25? Yeah.
+Adam Harrison: Yeah. So I guess I would say, you know, probably it's worth checking. Jeanette. Checking Dr. Chrono. What? You've been billing historically and defaulting, maybe to that. And you know, there. There'll be like a one time initial input into the system. You have to do. With because you can edit the patient copay amount like those numbers in job site. You can edit what goes in there.
+Tracey Sanderbeck: Into. Hold on.
+Adam Harrison: And the billing tab. Under. Like you go into a patient chart and then click billing.
+Tracey Sanderbeck: Patient. Let's look at. Oh, let's look at him again.
+Adam Harrison: And so you can update info.
+Tracey Sanderbeck: Update info.
+Adam Harrison: Yeah. And then you can. You can change that to 25, right? You could type it in.
+Tracey Sanderbeck: Done.
+Adam Harrison: And then done.
+Tracey Sanderbeck: I do. Done. Okay. And then. And then if I rerun it. It should show. Ok, how do I.
+Adam Harrison: Yeah, if you rerun it, it'll probably repull it, so. But let's see what happens. And then click Update info again. Let's see if it's still 50 or if it went back. Let's stay at 25. Okay.
+Tracey Sanderbeck: Okay? All right. Active coverage, copay, $50. It still kept it, but I didn't change that.
+Adam Harrison: Yeah, yeah.
+Tracey Sanderbeck: How did we verify? Their plural ability. 12 call to payer. Okay, we just leave that blank. Verified. Okay. Verified needs review. Okay? All right, so she may have to pull this information over, and then we'll just do what we normally do. Use whatever you guys generate, and then when the bill comes back, Then we can change this.
+Adam Harrison: Yep.
+Tracey Sanderbeck: Yeah. If they come back and they pay.
+Tracey Sanderbeck: You know, the ERA shows that they only really had a $25 copay. I wish I could figure out why they. Why some companies view me as a specialist and some don't, so. But they don't always.
+Adam Harrison: Weird stuff with insurance.
+Tracey Sanderbeck: Yeah. So, okay. And you guys are, like, working on, you know, keeping this as up to date as whatever. Possible, okay? Yeah, exactly. Okay?
+Adam Harrison: All right, so, yeah, so just. Just as far as next steps here, because I do have to run. Let me try to recap them here, because this was a long call.
+Adam Harrison: So, number one, I'm going to upload your patients under Dr. Chrono, and then if you can do the kind of, like, any cleanup deduplication there, we should be good on that. Second. I think you were going to send me some of the forms that you wanted.
+Adam Harrison: Whatever you want in job site, feel free to send that over to me. That was on forms. Billing. We're going to do your group ID instead of individual.
+Adam Harrison: We're going to start with Aetna, if that works for you. And why don't we kick off? I think we probably want to do the patient import, make sure that looks good. Maybe you can send me the forms to make sure that's all kind of squared away. So why don't we plan to reconvene for a shorter meeting on Wednesday, this week or. Just whenever this week works for you.
+Tracey Sanderbeck: And then Thursday, because Wednesday is terrible for me. That's my long.
+Adam Harrison: Yeah, yeah, anytime one's good for you. Thursday.
+Tracey Sanderbeck: Thursday you want to do 5 o'clock?
+Adam Harrison: Do you have anything a little earlier than that? We have a. I have a call. A late call. Thursday.
+Tracey Sanderbeck: Let me look at my schedule. Hold on a minute. Let's look what Thursday looks like.
+Adam Harrison: Or I guess I could also do tomorrow. If you think we could get through everything.
+Tracey Sanderbeck: I'm going to try to get right now and send it to you. So.
+Adam Harrison: Okay. Do you want to do tomorrow? Kind of like five o'clock or so? Because I can definitely get through everything on my side by then.
+Tracey Sanderbeck: All right. Yeah, let me do. Let me. And then I can send you the consents and all that. I'll do that right now. And then I'm going to copy that form and see if I can. I just have to figure out. I'll probably put in a PDF and I'll send it.
+Adam Harrison: So tomorrow.
+Tracey Sanderbeck: Or I can do Thursday. I could do one o'clock.
+Tracey Sanderbeck: I don't know if that's easier for you on Thursday, 1:00. Doesn't matter to me. That's just my break.
+Adam Harrison: Thursday works. Tomorrow is probably a little better for me if you have time, but we can also push to Thursday.
+Tracey Sanderbeck: We can do, we can do tomorrow. What time? Like five. Let me see. This is fast. This is fast. This is fast.
+Adam Harrison: Five.
+Tracey Sanderbeck: Fifteen would be the safe bet, so I don't have to call you.
+Adam Harrison: Let's do 5%, and we can keep it super tight. I think we'll try, like, 20 minutes.
+Adam Harrison: Yeah, it's just sort of like, are we good to start tomorrow, basically? We'll do 11 last, like, walk through of things, if you need, because now you'll actually have the patient info in there and you'll be able to see at the top, like Aetna versus Cigna, et cetera. And so just for the ones that are, you'll need to submit.
+Tracey Sanderbeck: Are you going to import the patients like now? Because I can sit tonight and just double check and try to get through what I can get through.
+Adam Harrison: Yeah, I will. I can do that right after this call. So I can have it for know by 5:00 or so, or maybe 4:00. Or 30.
+Tracey Sanderbeck: Yeah, I'll look back and let me see if she has all these. Yeah, okay. And there's my AI. Yeah, I'll go through right now and I'll print these and then send those, and then I'll figure it out. I'll figure it out and then I'll send you. The form the best I can. I've got to figure out a way to copy.
+Adam Harrison: Yeah, and the forms we can probably handle a little bit later, too, because those are just relevant for new patients. So as long as we can build for existing patients, we should be able to start pretty quickly on. The other one.
+Adam Harrison: And the other thing, I would try to just submit any. If you or Jeanette could submit any Aetna claims like today or tomorrow that you have outstanding, that'll just make sure that the era's, you know, stay pretty, pretty clean, right? Oh, great. That's even better.
+Tracey Sanderbeck: Yeah. So here's my billing right now. And then there's this. Not submitted. I just did. I mean, I just did Friday's lunch. As I was working. All right, so you're.
+Adam Harrison: You're on top of it, then?
+Tracey Sanderbeck: Yeah. So right here. I mean, this is. This is a new patient. It's a placeholder. Oh, these are all self pays. This guy doesn't have Medicare anymore, so I'm holding that. These are all self pay, so, yeah. So we're good.
+Tracey Sanderbeck: I mean, there's no outstanding billing. Everything's been submitted. Yeah.
+Adam Harrison: Great. All right, I'm going to put this on your calendar.
+Tracey Sanderbeck: Figure it out. But that's okay. I'll make sure any aetnas get filled right away tomorrow, so we can do it start on Wednesday. That's fine.
+Tracey Sanderbeck: All right, get this over to you right now before I even walk away for the computer.
+Adam Harrison: Ok, sounds good. I will send you an email with kind of a recap, so it'll all be there. And don't, don't worry about trying to remember everything, but, yeah, we're almost there. I know. It's a process.
+Tracey Sanderbeck: Like I said, Jeanette's going to come over this evening. And I'm going to run through it. But I think, I think she thinks it's pretty easy. We'll see what she does.
+Adam Harrison: Yeah, she seemed to pick it up pretty quick.
+Tracey Sanderbeck: Yeah. As she's quick but you know, it's pretty user friendly and she's doing on her phone. So once she signs all the computer, it'll be even easier. So.
+Adam Harrison: All right.
+Tracey Sanderbeck: Good. Thank you.
+Adam Harrison: Thank you, tracy. Talk soon.
+Tracey Sanderbeck: All right. Bye. Bye.

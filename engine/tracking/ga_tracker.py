@@ -116,6 +116,52 @@ class GAClient:
         response = self._client.run_report(request)
         return self._response_to_frame(response, start_date, end_date)
 
+    def pull_report(
+        self,
+        dimensions: list[str],
+        metrics: list[str],
+        start_date: date,
+        end_date: date,
+        hostname: Optional[str] = None,
+        limit: int = 10000,
+        order_by: Optional[str] = None,
+    ) -> pd.DataFrame:
+        """Generic report. Dimensions and metrics are GA4 API names. Optional
+        hostname filter restricts to one host (e.g. "jotpsych.com")."""
+        from google.analytics.data_v1beta.types import (
+            DateRange,
+            Dimension,
+            Filter,
+            FilterExpression,
+            Metric,
+            OrderBy,
+            RunReportRequest,
+        )
+
+        kwargs = {
+            "property": self._property,
+            "date_ranges": [DateRange(start_date=start_date.isoformat(), end_date=end_date.isoformat())],
+            "dimensions": [Dimension(name=d) for d in dimensions],
+            "metrics": [Metric(name=m) for m in metrics],
+            "order_bys": [OrderBy(
+                metric=OrderBy.MetricOrderBy(metric_name=order_by or metrics[0]),
+                desc=True,
+            )],
+            "limit": limit,
+        }
+        if hostname is not None:
+            kwargs["dimension_filter"] = FilterExpression(
+                filter=Filter(
+                    field_name="hostName",
+                    string_filter=Filter.StringFilter(
+                        match_type=Filter.StringFilter.MatchType.EXACT,
+                        value=hostname,
+                    ),
+                ),
+            )
+        response = self._client.run_report(RunReportRequest(**kwargs))
+        return self._response_to_frame(response, start_date, end_date)
+
     def pull_daily_traffic(
         self,
         start_date: date,

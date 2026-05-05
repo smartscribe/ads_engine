@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Scale: Test: AI for Progress Notes: Concept 4",
+    "old_id": "120244893523650548",
+    "new_id": null,
+    "error": "Invalid parameter"
+  },
+  {
+    "name": "AJ: How Much Did You Underbill?",
+    "old_id": "120244894242480548",
+    "new_id": "120245455535620548",
+    "adset": "Billing & Audit"
+  },
+  {
+    "name": "Farm: EHR V2",
+    "old_id": "120244893439020548",
+    "new_id": "120245455540100548",
+    "adset": "EHR Integration"
+  },
+  {
+    "name": "Scale: Test: AI for Progress Notes Concept 3",
+    "old_id": "120244893521800548",
+    "new_id": null,
+    "error": "Invalid parameter"
+  },
+  {
+    "name": "AJ: Audit Letter Arrives. You're Ready",
+    "old_id": "120244894239200548",
+    "new_id": "120245455546940548",
+    "adset": "Billing & Audit"
+  },
+  {
+    "name": "Scale: PDF to Template",
+    "old_id": "120244893524990548",
+    "new_id": null,
+    "error": "Invalid parameter"
+  },
+  {
+    "name": "Farm: Nate Podcast 4 - ad",
+    "old_id": "120244893449570548",
+    "new_id": "120245455557960548",
+    "adset": "Time Savings"
+  },
+  {
+    "name": "Farm: Test: AI for Progress: Concept 2",
+    "old_id": "120244893532270548",
+    "new_id": null,
+    "error": "Invalid parameter"
+  },
+  {
+    "name": "Farm: Test: KM UGC - Video Concept 2",
+    "old_id": "120244893444770548",
+    "new_id": "120245455562880548",
+    "adset": "UGC / Social Proof"
+  },
+  {
+    "name": "Scale: Test: KM UGC - Video Concept 1",
+    "old_id": "120244893408410548",
+    "new_id": "120245455565070548",
+    "adset": "UGC / Social Proof"
+  },
+  {
+    "name": "AN: 847 Ways payers reject claims",
+    "old_id": "120244894286760548",
+    "new_id": "120245455568100548",
+    "adset": "Billing & Audit"
+  },
+  {
+    "name": "AN: Missing $460?",
+    "old_id": "120244894265260548",
+    "new_id": "120245455570690548",
+    "adset": "Billing & Audit"
+  },
+  {
+    "name": "AN: 47 Different Payer Rules",
+    "old_id": "120244894280990548",
+    "new_id": "120245455572350548",
+    "adset": "Billing & Audit"
+  },
+  {
+    "name": "AN: Stop leaving your practice exposed to audit risk",
+    "old_id": "120244894273890548",
+    "new_id": "120245455574300548",
+    "adset": "Billing & Audit"
+  },
+  {
+    "name": "Scale: AI for Progress Notes",
+    "old_id": "120244893526570548",
+    "new_id": null,
+    "error": "Invalid parameter"
+  },
+  {
+    "name": "AJ: Audit Letter Arrives. You're Ready - Copy",
+    "old_id": "120245348000430548",
+    "new_id": "120245455579160548",
+    "adset": "Billing & Audit"
+  },
+  {
+    "name": "AJ: Audit Ready. Home On Time",
+    "old_id": "120244894248240548",
+    "new_id": "120245455583020548",
+    "adset": "Billing & Audit"
+  },
+  {
+    "name": "Farm: Test: Florence Static 1 - Notes Complete",
+    "old_id": "120244893533780548",
+    "new_id": null,
+    "error": "Invalid parameter"
+  },
+  {
+    "name": "AN: The Work. The Bill",
+    "old_id": "120244894294330548",
+    "new_id": "120245455587280548",
+    "adset": "Billing & Audit"
+  },
+  {
+    "name": "AN: Scribe that Thinks Like an Auditor",
+    "old_id": "120244894285290548",
+    "new_id": "120245455589190548",
+    "adset": "Billing & Audit"
+  },
+  {
+    "name": "AN: Most Stop at the Note",
+    "old_id": "120244894261030548",
+    "new_id": "120245455590460548",
+    "adset": "Billing & Audit"
+  },
+  {
+    "name": "AN: Insurance Game Has Rules",
+    "old_id": "120244894268180548",
+    "new_id": "120245455593810548",
+    "adset": "Billing & Audit"
+  },
+  {
+    "name": "AN: JotAudit Catches What Others Miss",
+    "old_id": "120244894262550548",
+    "new_id": "120245455595660548",
+    "adset": "Billing & Audit"
+  },
+  {
+    "name": "AN: E-prescribe from scribe",
+    "old_id": "120244894258170548",
+    "new_id": "120245455598980548",
+    "adset": "Billing & Audit"
+  },
+  {
+    "name": "AN: Audit Anxiety vs. Confidence",
+    "old_id": "120244894253920548",
+    "new_id": "120245455601340548",
+    "adset": "Billing & Audit"
+  },
+  {
+    "name": "AN: Cigna vs. Aetna Rules",
+    "old_id": "120244894252000548",
+    "new_id": "120245455603130548",
+    "adset": "Billing & Audit"
+  },
+  {
+    "name": "AN: Doing 99214, Billing 99213",
+    "old_id": "120244894282380548",
+    "new_id": "120245455606000548",
+    "adset": "Billing & Audit"
+  },
+  {
+    "name": "AN: 4 Different Logins",
+    "old_id": "120244894250150548",
+    "new_id": "120245455607320548",
+    "adset": "Billing & Audit"
+  },
+  {
+    "name": "AN: Your Notes Are Perfect - Insurance Doesnt Care - Copy",
+    "old_id": "120244896541130548",
+    "new_id": "120245455609510548",
+    "adset": "Billing & Audit"
+  },
+  {
+    "name": "AJ: Cigna Has Rules. JotPsych Knows Them - Copy",
+    "old_id": "120244896519790548",
+    "new_id": "120245455610960548",
+    "adset": "Billing & Audit"
+  }
+]

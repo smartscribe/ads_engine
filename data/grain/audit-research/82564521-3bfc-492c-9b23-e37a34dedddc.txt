@@ -1,0 +1,261 @@
+Becca Bressler: Hey, Beverly. How are you?
+Beverly Curtis: I'm fine. How are you doing?
+Becca Bressler: Good. I don't know if you remember me. We spoke a while back, but it's nice to see you again.
+Beverly Curtis: You look familiar.
+Becca Bressler: Yeah, it's been several months. I know you've been in touch with my colleagues a lot since.
+Beverly Curtis: Okay.
+Becca Bressler: I. So I'm the product manager here, and I'm helping get people set up on our E prescribing platform. Is this. Tell me a little bit about what you're hoping to get out of this meeting. I think maybe just learning about it, or are we getting you set up?
+Beverly Curtis: The less other things I need to hook into, the better. So right now I have a separate E prescribing. I actually have two different platforms I use.
+Becca Bressler: Okay.
+Beverly Curtis: It would be delightful not to have to move out of one thing and go into another. So if I can integrate this in JOT Psych, I'd be very happy.
+Becca Bressler: Okay. Yeah. Let me. Why don't I just walk you through how it looks now and then decide if you want to get set up today. So let me share my screen. This demo is pretty simple. One of the things I'll say is, oh, you know what? I'm sharing a tab and I want to share a screen. So hold on, let's see. One of the. Our user experience of this is being adjusted a little bit right now over the next couple days. So what you see will look a little bit different than what it will look like in a couple days, but it'll be more obvious how you go about prescribing. But basically, the way that we've set this up is you can prescribe medication for patients right now in two different locations. So from the patient page, where you see the medication section in JOT Psych, you can prescribe here. The other way is we know that clinicians are prescribing during their sessions, so we've made it so that you can also prescribe from the recorder page. So while you're recording a session with the patient, there is the medication section, and you can just hit prescribe. So the way that this works when you prescribe is it opens dose spot, which is who we've integrated with for E Prescription.
+Beverly Curtis: Okay.
+Becca Bressler: And Rowena test patient is already set up here, and her pharmacy has already been set up. So you're kind of seeing me one step into the flow. But you can manage the patient pharmacy. And set a default pharmacy for the patient. You can access their medication history which includes like prescribed controlled substance prescriptions as well as other prescriptions prescribed by other people. And then this is how you would go about adding a prescription. So let's just say lamotrigine, oral tablet, you'll put in, you know, the diagnosis code, delivery method, dose, quantity, supply, refill, etc. Any pharmacy notes that you have. And then you will create the medication. And if you're prescribing multiple at the same time, this will populate a list of medications. And then you just select next and on the next page, yeah, you would just select the medication, send to pharmacy and that is it. It's fairly simple. This also includes controlled substance prescribing. So the setup has like an additional two factor authentication step for that part of it, but that you can access the PDMP through dose spot. So when you are prescribing a controlled substance you can check the database and yeah, it's fairly simple. Are there other. Are there questions that I can answer for you?
+Beverly Curtis: So I prescribe in two separate states.
+Becca Bressler: Okay.
+Beverly Curtis: Yeah, yeah.
+Becca Bressler: So we can set you up so. So that. For and personal controlled substances. Yeah, so we can set you up with that. So we'll just. In the onboarding flow as it exists now, it asks for one DEA number. So that'll set you up in one state. But then we have like an admin panel. So we can then add your DEA number for the second state and then that will get you set up and ready to go so that you can prescribe in both.
+Beverly Curtis: Okay. Okay.
+Becca Bressler: Would you like to go ahead and get set up right now? I can walk you through it.
+Beverly Curtis: Yeah, that would be fine.
+Becca Bressler: Great. How much time do you have? Just so, just so I.
+Beverly Curtis: I have a patient at noon.
+Becca Bressler: Okay. Okay, got it. Yeah, we will be done well before that. But just. Just wanted to check. So Beverly, to. To do that. Can we. Oh, and one other thing. I just want to. Or I'll get there when we get there. But can you go ahead and share your screen with me so I can sort of walk you through how to do this?
+Beverly Curtis: Let me get rid of some of these things. I guess it doesn't matter. What do you want me to share?
+Becca Bressler: Yeah, so will you share? So what I'm going to have you do is open jot psych so I can walk you through this. But when you hit share screen, it would be helpful if you can actually select share window because it's going to open dose page. Thought I want to be able to like make it easy for you to show me both.
+Beverly Curtis: Okay. Where is share window to help me here?
+Becca Bressler: So I see you are presenting.
+Beverly Curtis: It tells me stop.
+Becca Bressler: So stop presenting and it'll make you kind of start over. So say stop presenting. And then what you do is when you hit the share, it'll default to a Chrome tab. But you should see the option to share a window.
+Beverly Curtis: Oh, I'm sorry. Yes, I see it. Okay.
+Beverly Curtis: Am I sharing jot Psych?
+Becca Bressler: Yeah, yeah. So does it say window? Are you in the Windows portion? Yeah.
+Becca Bressler: So select jot Psych for now, but then that'll allow me to see the other windows. Okay, great. So the first step here, Beverly, is to add this to your account. So can you select your practice up at the top of the screen?
+Beverly Curtis: Okay, I'm not doing very well here today.
+Becca Bressler: No, no, let me help you.
+Beverly Curtis: Where do you see my practice? Where do you see my practice? I don't, I don't know what you're talking about.
+Becca Bressler: So do you see where you see like schedule, patients, documentation, the tabs at the top of the screen?
+Beverly Curtis: Oh, yeah. Okay.
+Becca Bressler: It's to the left of record actually. So the record button that maybe you. It's right there. Yeah. So if you go to clinicians.
+Becca Bressler: Okay, so select the pencil icon under actions right there. Oh, you know what, I'm going to need you to refresh. So actually exit out of this for a second and then can you refresh your page? Alrighty, let's try that again. Click the pencil. And do you see JA rx down at the bottom as an add on?
+Beverly Curtis: It's very bottom, yes.
+Becca Bressler: That you're going to hit Save changes. Alrighty, so now that we have that set up, the next step here is I'm going to take you to a different page. So do you see underneath your practice on this page, like the heading, your practice, there's the clinic tab. There's a tab that says your subscriptions. Yeah. So go all the way to the end where it says practice settings. Yeah. You're going to scroll down here or and select connect to E prescriptions right there. Yeah. So this is just going to ask for your practice information.
+Beverly Curtis: Okay, great.
+Becca Bressler: So connect clinic. Amazing. Okay, so now your clinic is set up. So the next step here is to just get you set up as a clinician. So can you select the yellow circle in the upper right hand corner that has initials? Yeah, right there. And now scroll down on this page right here. Keep scrolling. Okay, so here's where you're going to set up yourself. So it looks like we have most of your information. We just need your date of birth and then the controlled substance information. And then the DEA number and. Yeah, just pick one state and then I'll get you set up with the other state on my end.
+Beverly Curtis: All right, What are we looking for? I'm sorry? Oh, dea number.
+Becca Bressler: Yeah.
+Beverly Curtis: All right. Okay. That didn't even go. Okay. Sorry.
+Becca Bressler: No problem.
+Beverly Curtis: I'm having a. Before I even talked to you this morning. It was one of those days, you know, it just didn't go quite smoothly this morning. MC8649052. Okay, good. All right. Are we good?
+Becca Bressler: Yes, we are good. Let's do it.
+Beverly Curtis: Register. Free prescribing. Okay.
+Becca Bressler: Oh, the year looks a little funky.
+Beverly Curtis: Oh, what happened there? Oh, I know what happened there. Okay.
+Becca Bressler: Oh, I think maybe it just wants you to take away the to begin with.
+Beverly Curtis: Okay.
+Becca Bressler: All right, great. Alrighty. So then the next up here is to open dose spot and this. Step is going to be. Oh, clinician has not been. Can you go back to dot Psych for a second?
+Beverly Curtis: Yeah.
+Becca Bressler: Can you refresh this page? I haven't seen this error before. I think I can address this on my end, but if you go scroll down and then open do spot. Hold on, let me see what's going on on my end. Just give me one second. I'm also going to take a screenshot of this. I have a meeting with Doswell.
+Beverly Curtis: That npi. Can we go back to the npi?
+Becca Bressler: Yeah. Oh, you think maybe that was the issue?
+Beverly Curtis: The NPI is not right.
+Becca Bressler: Okay. Yeah. So let's go back to jot Psych. Oh, this is interesting. I don't know how. Yes. If you go back to the job site tab.
+Beverly Curtis: Yeah. Okay. Oh, wait. Okay. All right, you got two in there. 1-821-264-045. So that's the rendering NPI. 1-4278. That's my Maryland NPI.
+Becca Bressler: And then was that my.
+Beverly Curtis: That's my group NPI. I'm sorry, that's my group NPI. My NPI two. And this 181. The 1-8212 is my individual NPI.
+Becca Bressler: Okay. So I think in that setting it would have wanted the individual. But let me see what I can do on my end in the admin panel to resolve this. Okay, so can you give me the. Your. Your. Your NPI number? Your individual is 182-12-64045. Alrighty. Let me.
+Beverly Curtis: Okay.
+Becca Bressler: Okay, so now actually, Beverly, can you refresh this page one more time? I think I resolved this for you. And then click Dose spot one more time. Great. Amazing. Okay, This.
+Beverly Curtis: Okay.
+Becca Bressler: You can exit out of this pop up that you see. Great.
+Beverly Curtis: Yeah.
+Becca Bressler: Next two steps. So you'll complete the agreement and then. And then we'll go through the identity proofing process.
+Beverly Curtis: And there's a fee for this with PsyQuest, is that correct? I mean, with JOT. Psych. Is that right?
+Becca Bressler: There's a monthly fee for e prescription. It's $69 a month. That includes the controlled substances.
+Beverly Curtis: Okay.
+Becca Bressler: We're giving people $10 for their first month, so. So I'll apply a credit to your account for the first month, but. Yes.
+Beverly Curtis: Okay. You want me to just click these?
+Becca Bressler: Yeah. And then you'll hit next.
+Beverly Curtis: Okay.
+Becca Bressler: Yes. And now there's some additional information you'll need to do for the identity proofing. It.
+Beverly Curtis: Oh, they want my personal number? Is that what they want?
+Becca Bressler: Yes. And this is so that you can get a text to do the identity proofing.
+Beverly Curtis: So, yeah, You need a credit card.
+Becca Bressler: It's credit card for the identity proofing. So you won't be charged here. It's just a part of the proofing process. And this doesn't really play nice with amex, we've learned. So in case that's the credit card you used, I just want to let you know it's a Visa. Okay, that's great. That should be fine. Great. So you'll click next once you have everything here. Looks like it's all good.
+Beverly Curtis: Okay. I'm just log six, so I tend to reverse numbers. It's really terrible.
+Becca Bressler: Well, you're. You're breaking up a little bit. Beverly, you should get a text message. That's the next step here. So you'll get a text message to do the second part of the process.
+Beverly Curtis: Okay.
+Becca Bressler: And it should guide you through some steps, taking photos of your ID and yourself.
+Beverly Curtis: What do they want? They want my driver's license? Is that what they want?
+Becca Bressler: Yeah. And. And then they'll ask for a selfie as well.
+Beverly Curtis: Sam.
+Becca Bressler: Amazing. Alrighty. So the next step here is I am activating two factor authentication for controlled substance prescribing. So can you go ahead and refresh your page here? Oh, I lost you. There. You are wrong.
+Beverly Curtis: Refresh.
+Becca Bressler: Yeah. So just go ahead and share your window one more time so I can help you here.
+Beverly Curtis: Okay. And I'm sharing jot site, correct?
+Becca Bressler: Yeah. Or actually the other window at this point. The dose spot window.
+Beverly Curtis: Oh, okay. I got another one too. Sharing this tab. Oops. Okay. How's that? That's all I have. I have two. Maybe this one. Is that what you're looking for?
+Becca Bressler: Yes. You're going to click that red notification.
+Beverly Curtis: This the bell.
+Becca Bressler: Yes, the bell.
+Beverly Curtis: Okay.
+Becca Bressler: Yeah. So complete tfa activation. So. Okay, so now what you're going to do. Yes. Is you're going to enter your mobile number for this step.
+Beverly Curtis: Okay. Is I'm. It's okay if we're doing this, but I just want to ask, is there another option? Is there a. Do you have a little thing like this?
+Becca Bressler: No. Yeah, this is. This is the only way for two factor for this.
+Beverly Curtis: Okay. Okay. Okay. I've got to add your account user. QR code.
+Becca Bressler: Yeah. So now you're going to look for the second text message because they should have sent you two.
+Beverly Curtis: Okay. Okay. Are they calling me as well?
+Becca Bressler: No, they're not going to call you.
+Beverly Curtis: Don't worry about that. All right. Okay. It says name your account to continue.
+Becca Bressler: Yes. So you'll just put in whatever name you want. Could be the name of your clinic. And then you'll want to hit next. On the. On the screen.
+Beverly Curtis: Account linked. Practice now.
+Becca Bressler: Yeah. So click next on your screen where you see Doe spot.
+Beverly Curtis: I'm sorry, I'm lost.
+Becca Bressler: Oh, yes, my phone. So actually on the computer for a second. Hit next.
+Beverly Curtis: I'm sorry. Okay. Okay, got it. All right.
+Becca Bressler: Okay, great. So now on your app, this from the second text, do you see a number or a button that you can press that'll show you a passcode?
+Beverly Curtis: No, I have account linked. And then it says practice now. Should I do practice now?
+Becca Bressler: Is there a skip? Can you press the skip button?
+Beverly Curtis: Skip. Yes.
+Becca Bressler: Great. Let me make a note of that.
+Beverly Curtis: Okay.
+Becca Bressler: Okay. Now, do you see a passcode number?
+Beverly Curtis: I do.
+Becca Bressler: Great. So you'll want to add that passcode number into here.
+Beverly Curtis: Okay.
+Becca Bressler: And then you'll set up your PIN here. So this can be whatever you want.
+Beverly Curtis: Okay. Oops.
+Becca Bressler: Amazing. So you are all now set up. So then the way that you will do this in jot Psych. If you want to just go back to jot psych for a second.
+Beverly Curtis: Okay. My head patient.
+Becca Bressler: Oh, and can you go ahead and share your jot psych? Yeah. You're very patient.
+Beverly Curtis: Okay.
+Becca Bressler: So, yeah, well, I can walk you through if you have an upcoming patient who you're going to send a prescription for or someone else. So. So, yeah, scroll. So let's see. Scroll up for a second. So for each of your patients, you'll need to connect them one time so that they're in Dose Spot. But so, yeah, so if you select connect for erx.
+Beverly Curtis: Okay. So I don't have their street addresses and I'll need to add that, right?
+Becca Bressler: Yeah, we will. It will need their information. I don't really know why. And I can ask their support team if there's a way for us to bypass this, but that is what they told us.
+Beverly Curtis: Well, you have to have the street address for controlled substances.
+Becca Bressler: Oh, I see. Okay, that.
+Becca Bressler: That makes sense.
+Beverly Curtis: Yeah, I'll need to add all those.
+Becca Bressler: Okay, but so yeah, once you add that information.
+Beverly Curtis: Okay, yeah, go ahead.
+Becca Bressler: Yeah, so once you add that information, you click connect, you'll be able to open their dose spot profile right there.
+Beverly Curtis: Okay.
+Beverly Curtis: Now you had. I was. I sort of saw this, but I didn't quite ask. You can do medication history and it'll. I'm sorry.
+Becca Bressler: Yeah. Do you want me to show you that real quickly?
+Beverly Curtis: Yeah, please. Yeah, that'd be great.
+Becca Bressler: So right now, the medication history just lives within dosebot. The medication does not yet get pulled back into JOT Psych. What we're planning, what we're working on right now actually, is making sure that when you're prescribing the medication, that medication is pulled back into the patient profile on JOT Psych. But that's not yet available. But the medication history for a patient, you will see. And this is accessible in Dospot.
+Beverly Curtis: Okay.
+Becca Bressler: And you'll see, you know, controlled substances as well.
+Beverly Curtis: Okay. And then can you demonstrate how you find a pharmacy?
+Becca Bressler: Yeah, definitely. So. So basically because I've already set a pharmacy, this kind of defaulted here, but if you don't have a patient's pharmacy set up like a preferred pharmacy, when you open a patient profile, this is actually the first thing you're going to see. So the first step will be to. The first step here will be to select a pharmacy and then, you know, select next. And because I already have a different default, I'll need to add that as a default. But. But yeah, whenever you open a patient. In Dosebot that does not yet have a preferred default pharmacy set, it will pull up this page. So yeah, you'll just.
+Beverly Curtis: Will it keep former pharmacies? You know, some people want some medicines sent to one pharmacy and another medicine sent to another pharmacy.
+Becca Bressler: Yes. So the patient pharmacies you can add, like, let's just add another one.
+Beverly Curtis: Walgreens. Do Walgreens or Walmart. One or the other.
+Becca Bressler: So let's see. Updated. So then you'll see. Great.
+Beverly Curtis: Okay. All right. And will it do mail order of pharmacies as well?
+Becca Bressler: That's a great question, Beverly. Can you walk me through the process for that? For, for from your end? What does that typically look like?
+Beverly Curtis: So one mail order pharmacy is called Express Scripts Home Delivery. And typically on my other apps, I have to market as mail order versus retail because the, the softwares would. Okay, so it's Express scripts. It's in St. Louis, Missouri.
+Becca Bressler: Is it.
+Beverly Curtis: It's not a, it's not a retail. It's a mail order.
+Becca Bressler: So it wouldn't show up here is what you're saying.
+Beverly Curtis: Unless you have an option of choosing retail versus mail order versus specialty. That's the other thing. A specialty pharmacy that I'm not sure about.
+Becca Bressler: Can I follow up with you on that? I actually have a meeting with no Spot today, so I will add that to my list of questions.
+Beverly Curtis: Yeah, so it would be a. It's a mail order only pharmacy. So it's not retail. It's just mail order. Express Scripts Home delivery. I usually use it a lot, actually.
+Becca Bressler: So in Missouri.
+Beverly Curtis: Yeah, St. Louis, Missouri. Yeah. And then, and then there's specialty pharmacies. They usually require a different type of prescribing. You know, they like cvs, has their own specialty pharmacy and those are for medications that are. They could be medications that a rheumatologist prescribes. Or for me it's WakeX, which is a narcolepsy medication. I can't just prescribe it. I have to go through a specialty pharmacy.
+Beverly Curtis: But it would be nice to be able to. Market on the patient's record as to what pharmacy it is. So I don't forget or you know.
+Becca Bressler: Okay, got it. So special, because you're saying some medications, you actually can only send prescriptions to a particular special pharmacy, not just any old Walgreens.
+Beverly Curtis: That's right.
+Becca Bressler: Bought it.
+Beverly Curtis: So.
+Becca Bressler: Yeah.
+Beverly Curtis: And then those specialty pharmacies, they require a form that I fill out and I have to fax it, and then they contact the patient, and then they mail the medication to the patient monthly. But I need to have a record of it, and I also need to have a record of which specialty pharmacy it was.
+Becca Bressler: Yeah.
+Beverly Curtis: And then. And then, even though you have to go through all this rigmarole, my special form and, you know, talk to them and fax stuff and all this, the re. The to renew it the following year, you just send it in. Send it in electronically. No big deal, you know, or even call them and just say, I need to renew this. But fires.
+Becca Bressler: Yeah, okay.
+Beverly Curtis: Requires a lot. But I also need to have a record of what pharmacy that is so I can, you know, renew the medicine.
+Becca Bressler: Okay.
+Beverly Curtis: So the mail order is the biggest problem or the biggest issue, probably. And then the specialty pharmacies would be secondary. But.
+Becca Bressler: Okay. Yeah, let me follow up with them today. I have a meeting with them today so I can get you more. Okay, about that. Great.
+Beverly Curtis: Well, and then like Amazon. Amazon Pharmacy is another mail order pharmacy.
+Becca Bressler: Okay.
+Beverly Curtis: They don't. They don't do controlled substances. Yeah, let's see if we can find them on there.
+Becca Bressler: Oh, look at this.
+Beverly Curtis: Oh, there you go. Okay, so click mail order. There you go. Now do Express Scripts. See if you can get.
+Becca Bressler: So it's St. Louis.
+Beverly Curtis: Yeah, I think you went back to retail. Oh, no, you got me. You got it up there. Okay. And there's specialty long term care. Okay, you got it all there. Express Scripts is the controlled substances, though, as well. So you could click that under those options.
+Beverly Curtis: Yeah, yeah, try that. This is wild.
+Becca Bressler: I wonder if I like.
+Beverly Curtis: You could ask them if they'll add it if it's not there. And Amazon as well. Probably the biggest one. There we go. There it is right there. You just went past it, right? So it's this, huh? Yep.
+Becca Bressler: Express Scripts. Pharmacy just kind of. It doesn't appear to.
+Beverly Curtis: That's interesting. Yeah.
+Becca Bressler: Are there other mail order pharmacies that you could use in the area or.
+Beverly Curtis: Well, Amazon is one, but they don't. I'm not aware of very many that do. Controlled substances. Express Scripts does controlled substances. So. So for my Philadelphia patients, because they cannot get controlled substances very easily, their ADHD meds, it's just a national shortage and Philadelphia is terrible. We use Express Scripts. Huh.
+Becca Bressler: I wonder why it's not showing me at all.
+Beverly Curtis: Yeah. That's odd.
+Becca Bressler: I can ask them about this particular. And Amazon.
+Becca Bressler: That'd be great. So a couple other things. Beverly, with your other prescribe prescription softwares, do you have like, refill and change requests set up?
+Beverly Curtis: Yes. I'm not sure what you mean. I didn't have to set them up. They were just automatically there.
+Becca Bressler: Okay. Some people disable them and actually don't have them with their prescription softwares, so. So there's a couple things here. So because you're moving over from a software that has that. Sure. Scripts only lets you do that through one software. You can prescribe medication through multiple, but you can only do that through one. What that means for what exactly? Specifically, refills like accept refill requests from the pharmacy and.
+Becca Bressler: And submit change requests. So, like changing prescriptions. So those can only exist through one platform. What that means is if you want to do it through us, we have to submit a change of vendor request, which takes about three days. If you don't want to, you don't have to. But what it still means is that it'll take about a day for Dose Spot to say no, no, no. You know, so it initially kind of blocks you from being able to prescribe at all. And so it'll take about a day for sure Script or for Dose Spot to be like, no, no, no, it's okay. Like, we'll wait on these other two things. But Beverly needs to prescribe immediately. And so then, you know, within a day you should be able to actually prescribe. But because you have that set up with. With a different prescription software, there will be a little delay before you can actually use this.
+Beverly Curtis: Right now, I'm not sure I'm really following you. I'm sorry. Sorry. So this is what I think you're saying, that there is a mechanism for pharmacies to request refills to me or to change medications in some way, and that can only go through one channel, basically, is what you're saying. So if I have it set up somewhere else, I can't do it in Jodsych.
+Becca Bressler: Okay, but there's a second piece of it. Maybe that's what you're getting to. But. But the second piece I want to make sure you are aware of also, which is it means that there's going to be about a day delay until you're able to use this even for new prescriptions. So I'll need to put in a message to their support, basically getting them to flip a switch, and then you'll be able to send new prescriptions through Dose Spot.
+Beverly Curtis: Okay, so if I want to have that happen through Dose spot, then what happens?
+Becca Bressler: That part of it will take like three days. So if you want to do those two, if you want to enable that, I'll send Do spot a message, like a change of vendor request. So it'll take about three days before you can use those functionalities in Dospot, but then it'll take about a day before you can submit new prescriptions.
+Beverly Curtis: Okay, and where do those messages come in then? If it's a. So it's communication from the pharmacy, right?
+Becca Bressler: Yes.
+Beverly Curtis: Where do they show up?
+Becca Bressler: I don't have that enabled on my test account, but I do have some resources I can share with you that Dosebot's given me that kind of go over some of the functionalities.
+Beverly Curtis: Okay.
+Beverly Curtis: Are you able to do that now?
+Becca Bressler: Yeah, yeah.
+Beverly Curtis: Why don't we. Why don't I just take a look at it? So I sort of. See, I do have that enabled right now in therapy notes, and I sort of like the way it. Well, I don't always. I don't quite understand it. I haven't used therapy notes that long. So most of the requests, though, come to my fax line. That's the thing, you know, they're not coming through any hr. I mean, if they need something, they fax me, usually one second.
+Becca Bressler: So I actually don't see any of their demos for this one in particular. Particular. Let me add. I can add it to my list, though, because I'm meeting with them today.
+Beverly Curtis: And how many prescribers do you have using your. The prescribing?
+Becca Bressler: We've onboarded five or six people so far, so we actually just started onboarding this week.
+Beverly Curtis: That's what Adam said. Yeah. Okay. Any glitches that anyone mentioned?
+Becca Bressler: There was one, but we've resolved it. Which was initially, someone was having challenges prescribing for people under 18 years old, but we've already fixed that. So that. Other than that. No, we've not heard anything.
+Beverly Curtis: Do you have. I guess this is dose spot, Right. Okay. So it's not you guys. Okay. Typically, it's required that you have a heightened weight.
+Becca Bressler: Yes. And height and weight. Yes.
+Beverly Curtis: And that's. That's in dose spot.
+Becca Bressler: So it's actually in jot. So one of the issues was surfacing that we weren't actually collecting that information, and so someone brought that to our attention. So now when you are connecting a patient. Yeah, yeah. So now when you're connecting a patient from dot Psych, it'll ask for height and weight, and that's how you're able to do that.
+Beverly Curtis: Okay. And then it'll keep that. Yeah. That's been a real challenge for me in terms of just JOT Psych stuff. I tried to put it in my template as a separate area, you know.
+Becca Bressler: Yeah.
+Beverly Curtis: For height and weight, but JOT Psych doesn't capture it. And sometimes. And then I have it under my. The assessment as well. And sometimes it'll capture it there, but not always. Or it'll get the. It'll get the weight, but not the height.
+Beverly Curtis: So I'm writing it down separately every time because that's an objective data point. And. And that. That influences reimbursement. So the more numbers you have, the better, you know.
+Becca Bressler: Yeah.
+Beverly Curtis: And so. But I also need it. You know, that's the other thing. And since we're on that just for a second, I realize this may not be your area, but is there a way we could plot kids height and weight on a growth chart so that, you know, each time, I mean, I meet with a monthly. It would be great, you know, to actually have a growth chart data point so I can see if they're losing weight. Gaining weight.
+Becca Bressler: Yeah. That is a feature we would have to build. We don't have that right now. And so it's something that I can put onto our product backlog, but I don't have a timeline for you on when we would have something like that.
+Beverly Curtis: That would be beautiful, though.
+Beverly Curtis: That would really be great. I mean, I'm a psychiatric provider. I was a pediatrician. Provider first and.
+Becca Bressler: Oh, wow.
+Beverly Curtis: And so it's, the growth chart is like, you know, the gold standard of everything, you know, and it's really hard to see the trend with kids. I'm keeping them on paper, actually.
+Becca Bressler: Can you hear my learning say more about what that allows you to do as a provider, seeing that chart?
+Beverly Curtis: Yeah. So you, you do height, weight and body mass index at one point in time and then over the course, of course, as babies grow, you see the trend in growth really nicely. But even with kids, you could see if they're following along specific growth curves and the growth curves are standard plots in time that children should gain weight over time and they should accomplish height over time. If I have a kid on a controlled substance for adhd, it is known that it can suppress their height and also affect their weight because it suppresses appetite. As I'm looking at their growth curve, they should go up in their growth curve every year by certain percentage points. If their growth is suddenly stunted, I can see that they flatline that across their growth and that they're not attaining their growth goals of height and weight. And I know then that that medication should be changed suppressing their height and their weight. Now the research has shown, there was original research that came out that said it definitely does that, especially with height. And now it says, ah, it doesn't do it so much, you know, maybe 1%, 2 percentage points. But, but weight can definitely be affected and there can be growth failure on certain medications. So I have to plot that and that on paper, basically. Wow. Yeah. So I have kids growth charts on paper. I mean, I mean you can go to the CDC website and download the growth charts, know, and they're by age, you can look at them and see what they are. Boys are separate than girls. So there's boys growth charts and girls growth charts.
+Becca Bressler: Yeah.
+Beverly Curtis: All the way up to age 18. So. But the real, you know, obviously I'm not seeing babies anymore. I used to a lot.
+Becca Bressler: Yeah.
+Beverly Curtis: But you know, the 5 year olds to, you know, 15 year olds is really the population that I'm looking at mostly that would require book growth charts.
+Becca Bressler: Got you. That's really helpful context for us. Yeah, I haven't heard that before, but we can add that to our product backlog for sure. And just understanding the reasoning for it makes a lot of sense. Okay, great, Beverly. So I have a meeting with them later today.
+Becca Bressler: I'm going to follow up with you. I will send you a link to the resources that they have given me just because it shows you some additional functionality that we haven't covered today. But, yes.
+Beverly Curtis: So you know this. I'm looking at Jetsych as my primary source of information for my patients. So whatever the medication module includes, I would like to have. So if so, I don't want you to shut off anything in terms of, you know, how you said you would tell them I'm using, you know, in a situation, I hope that I can use Jot Psych and not use some of my other apps. So if you could, you know, let them know I want all that pharmacy information on this app, that would be great. Yes.
+Becca Bressler: So they won't. We are, like, building the capability for that medication information to live in Jot Psych, but that's something that we would have to do, and it wouldn't just happen with the flip of a switch. So we're hoping to have that in the next, like, week or so. Would you like me to ask, Would you like me to fill out a change of vendor request which would allow you to do refills and med prescription changes through Dosebot, or do you want me to hold off on that piece of it?
+Beverly Curtis: No, go ahead.
+Becca Bressler: Go ahead. Okay, so I'll go ahead and do that and I will also let you know once you're able to send prescriptions, that'll happen in about a day or so. The change of vendor request will take a few more days.
+Beverly Curtis: Okay. And then this app that I downloaded, that's where I'm going to get my code, right. If I'm doing prescribed controlled substances.
+Becca Bressler: Yeah. So the pin. I. I believe what you're doing is you'll just get, like, an authentication. You'll get a push notification and probably have to put in a code just to confirm. So.
+Beverly Curtis: Yeah. Okay. But it's on under this Duo mobile app that they had me download. Okay.
+Becca Bressler: All right. Okay.
+Beverly Curtis: Beverly, great.
+Becca Bressler: So nice working with you. You'll hear more from me. I'm going to be out of town starting on Friday, so if you have additional questions, please reach out to, like, Nate and Adam and they can help and, you know.
+Beverly Curtis: Yeah, go ahead. I'm sorry.
+Becca Bressler: Oh, no, that's okay. As you are probably aware, working with us, billing like you're one of our early customers here, helping us while we're sort of, like, getting this up and running. So if there are any sort of bumps in the road. Of course. Let us know and we'll resolve them as quickly as possible. But, you know, as one of our early adopters, Doctors, we just really appreciate you being along for the. The ride here as we're getting ourselves up and running.
+Beverly Curtis: So I have a funny. A funny story for you.
+Beverly Curtis: Yeah, so, you know, about a year and a half ago or a little more, I saw this ad for an AI scribing software called Shots Like. And so I put in my information, and I get a call from Nate, I believe, and he said, would you be willing to, you know, try all this, you know, and answer some questions regarding our software? And I said, sure. And he said, you're kidding. I said, no, I'm not kidding. I would be glad to do that. But he was the per. He was shocked that I said yes. And I just remember that it was just so funny.
+Becca Bressler: So funny. Have you mentioned that to him before?
+Beverly Curtis: Does he know? I told him on the last.
+Beverly Curtis: It was just so funny because I think he'd been turned down so many times.
+Becca Bressler: Yeah, that's really funny. I love hearing early. You know, I joined the company about six months ago, and so it's a little bit different than I think when they were first getting off the ground running, but still exciting. We're, you know, building a lot of new things and really excited about the future. But that. That's great. I love that.
+Beverly Curtis: The thing that I like about Dotsy is that it's more robust than a lot of other AI softwares. I mean, there's so many out there now, you know, but I. I've trialed a bunch of them, and they just don't provide you the detail. And I have a hearing loss, and it's really hard for me to hear names of things, you know, kids will say. I go to high school. I miss that jot. Psych gets it, you know, so it is really, really helpful when I'm in the middle of, you know, a patient, and I know that Jad Psych picks up those details, and I don't have to worry so much, you know?
+Becca Bressler: Yeah, no, that's. That's great. And we definitely hear that the richer notes that we are able to provide, so. Yeah, that's awesome. Okay, Beverly, I'll let you go, but we'll be in touch.
+Beverly Curtis: All right, thank you. Bye. Bye.

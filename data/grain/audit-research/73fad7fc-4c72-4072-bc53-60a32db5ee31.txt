@@ -1,0 +1,163 @@
+Marcus Irven: Hey, Marcus. Yeah, I'm sorry. I was helping Chris with the stripe issue.
+Adam Harrison: Yeah, no worries. Thanks for being flexible on timing.
+Marcus Irven: Yeah, no worries. How you been? I feel like I haven't seen you in person.
+Adam Harrison: Or in.
+Marcus Irven: And you've seen your face. At least I've seen on slack. You've been doing all right?
+Adam Harrison: Yeah, I'm good. I'm actually headed to D.C. in about an hour, so I will.
+Marcus Irven: Okay.
+Adam Harrison: Be there for. Yeah, for the back half of the week, so. But, yeah, I guess I will probably, most likely see you. Not till the retreat, unless you're coming down to New York. Sometime before then.
+Marcus Irven: Probably not because I'm going. Because we're going to DC next week and then it's just the retreat's just two weeks after, so I doubt. I do.
+Marcus Irven: Yeah, I'll probably see is in the. At the. And then in the navy yard with the next. I probably won't see the office again.
+Adam Harrison: Yeah. Short lived, but, you know, it served its purpose. At least it was cost effective. It was like two grand less than two grand a month, so.
+Marcus Irven: Okay. All right, Good, good, good. All right, let's get. Let's dive into this. So it's all on next. It's not on prod yet, but why don't you do you. Why don't you drive?
+Adam Harrison: Okay.
+Adam Harrison: And I don't know if I have it set up on my account. I'll need to do that.
+Marcus Irven: That's what I was gonna say. The other option would be to use alpha, which then you could like set it up with like fake. David, I don't know if you have you not ever hooked up Stripe Connect?
+Adam Harrison: I don't know. It probably would be good for me to do. Right.
+Marcus Irven: Yeah. It's a bit of a process. As I recall, if you enter bake it. Like bake. I don't even remember what all you have to do. I've done it recently for. On a fake strike, but not the real thing.
+Marcus Irven: Okay, we can go through it. Actually, let's go ahead and it'll be good for you to see a bunch of things. So why don't you share your screen. Go to go to next, we'll start it and then if we want to board go to Alpha, we can.
+Adam Harrison: Okay, perfect. I'm in here now. I wonder if I need to set up something in my admin panel first before you.
+Marcus Irven: Oh, you already. Okay, great. Let's just look at your. Some of your settings here before you click. Click. Clicking. Too crazy here. Are you okay? Go to your practice. We moved. It's all under your practice now. On the top. The top menu. Your practice.
+Adam Harrison: Oh, sorry.
+Marcus Irven: On the top. Yeah, there we go. There's the patient payments. Let's just click on that real quick and see. Okay. It looks like you kind of started setting up, but you didn't finish.
+Marcus Irven: Okay, yeah, let's go ahead and click on that. And I might open. I don't know if it opens another tab or not. You might have to remember what this 0 seconds thing is. Oh, no.
+Adam Harrison: Is this not what you were expecting?
+Marcus Irven: I wouldn't expect for you to have to enter your email address. Let me see if I have to. On next. I thought that we kind of lost all that, but maybe not. You could try to enter your email address. I guess it doesn't hurt. Maybe it does. I don't know. We'll see.
+Adam Harrison: I'll do. I think this is a smart Scribe account. I'll just do that system.
+Marcus Irven: Yeah, that doesn't seem right.
+Adam Harrison: Well, is it because I have a jotseg stripe account for the login to the jots account? I don't know. I can use a different email. Should I do my personal.
+Marcus Irven: Hang on a second. Let me try to figure out what's going on, see if I'm getting this. I just did on Alpha and it went right through.
+Marcus Irven: Did you try it again? Did you go back and.
+Marcus Irven: Oh, oh, yeah, I'm getting on next. Oh, my God. Okay, because I guess we should walk.
+Adam Harrison: They're gonna need to be walked through. How to set this up tomorrow, right?
+Marcus Irven: Yeah.
+Adam Harrison: I don't know if Valcourt has this or not. Yeah.
+Marcus Irven: All right, let's do this. If it's okay, let's. Let's walk you through Alpha just so you kind of see it. And I, you know, I know that at least Jackson wants to create some videos.
+Marcus Irven: I don't know if that's a prerequisite for tomorrow or not.
+Marcus Irven: Okay, let me just. I don't know why on next. It's asking for the email, so I gotta do some investigation there. Okay.
+Adam Harrison: Alpha.
+Marcus Irven: Do you ever use Alpha?
+Adam Harrison: Not too often. This is Alpha.
+Marcus Irven: Yeah. Okay. Okay. So your practice.
+Adam Harrison: I need to enable it.
+Marcus Irven: No, try refreshing patients. No, it should be there.
+Adam Harrison: I think I'm also in an organization. This account.
+Marcus Irven: Yeah, that could be a click on clinic. Clinicians. Let's see. What. Okay, but you're not the. But you're not the practice admin for some reason. That's why it's not working. That's kind of a weird situation. Just click on the pencil and put you. This account is all kinds of weird state. Let's do this. Log out and create a new account.
+Adam Harrison: Okay.
+Marcus Irven: This is like test account kind of problems.
+Adam Harrison: Yeah.
+Marcus Irven: It doesn't have a stripe subscription. Doesn't have anything like. It's okay. Can you. Can you share your screen again?
+Adam Harrison: Yep. Just new tab.
+Marcus Irven: Sign up.
+Adam Harrison: Plus I forget what number I'm on.
+Marcus Irven: You have to change that to a sign up. You're logging in.
+Adam Harrison: Ah, thank you.
+Marcus Irven: Yep.
+Adam Harrison: Okay, so I'm just on. This is app shots. Like, I guess I need to go to Next.
+Marcus Irven: Oh.
+Adam Harrison: Or Alpha.
+Marcus Irven: Alpha. You should have been.
+Adam Harrison: Should have signed. I'm sorry, I wasn't paying attention.
+Marcus Irven: That's okay. It'll still work. You can log in. You can just log in with that account that you just said, but it's going to ask you different.
+Adam Harrison: Oh, interesting.
+Marcus Irven: I think it'll work.
+Adam Harrison: By the way, I don't get that code when it pops up. I just click continue and then I don't know if that's by design or not, but you don't get the.
+Marcus Irven: Yeah, no, that's for job site accounts. We don't actually make you go through it.
+Adam Harrison: Oh, perfect. Okay.
+Marcus Irven: If you have job site.com email addresses, it. All right, I believe this will work while I try to figure out what's going on.
+Adam Harrison: So should I just go try to start setting this up?
+Marcus Irven: Yep.
+Adam Harrison: Okay. And I will have to run to the train station kind of soon, but at least we can get through some of this.
+Marcus Irven: Now we're cooking.
+Adam Harrison: It. Can I leave this blank or do I. Should I fill it out?
+Marcus Irven: If it lets you. I think it's fine. I don't know if it's.
+Adam Harrison: What do I do here?
+Marcus Irven: You could just do, like, test Non oauth. I think it's probably a good one. I don't think it really matters.
+Adam Harrison: Now. It's going to make me go back. That's annoying.
+Marcus Irven: I think you didn't do your social.
+Adam Harrison: This is all test. This is like a test environment, right?
+Marcus Irven: Yeah, exactly.
+Adam Harrison: Interesting.
+Marcus Irven: All right, so now you're connected. Oh. Why does it still say refresh status? I think. Seriously. You just do fake numbers here, I think. Yeah.
+Adam Harrison: I filled this out, though.
+Marcus Irven: Maybe just needed your. Oh, my God.
+Adam Harrison: I think it says it's under review by stripe. But this is a test, so. That doesn't make sense.
+Marcus Irven: It doesn't make any sense. I just went through this yesterday. Or yesterday, last week. We're having.
+Adam Harrison: Invalid. That's why.
+Adam Harrison: All right, So I think I need it to actually put in my real info here.
+Marcus Irven: Okay. It is saying it's a test account, but. Okay. Well, there you go.
+Adam Harrison: All right. Social's going in.
+Marcus Irven: All right.
+Adam Harrison: Still invalid. This is. I put in the right stuff, though.
+Marcus Irven: Update your name and Social Security number. Right at the top. It says usually get testing out with test data, but.
+Adam Harrison: This is like, my actual info, so I'm confused.
+Marcus Irven: Like, it's like, literally me.
+Adam Harrison: This is all. I really know where to go from here. Try a different address, maybe. Doesn't tell me what's wrong either.
+Marcus Irven: No, it doesn't. So naming that Social Security. That is your Social Security. Okay.
+Adam Harrison: Yeah.
+Marcus Irven: Oh, my God. Stripe is usually. Stripe usually kind of works.
+Adam Harrison: Okay, I'm a little unsure what's going on here.
+Marcus Irven: I'm a little unsure too, Adam. I wonder if there's anything that I could find at stripe. Let me open up stripe and see. It's just one of those days when nothing quite goes right there. You want to do your photo id?
+Adam Harrison: Yeah, I could try that. Let me get my photo of it.
+Marcus Irven: I see your. Countless tribal deep as provide an identity document for an adult past you. That's what it says. It says your identity document. Pretty sure I never. Did that.
+Adam Harrison: Taking that. Let's try it again, see if it verifies. Oh, now my driver's license address doesn't match this, but.
+Marcus Irven: Provided. All right, let's fingers crossed. Oh, you canceled or did you?
+Adam Harrison: We'll go on. Just see what happens. All right. We're good. All right, so I have this screen now.
+Marcus Irven: Okay, great. Now if you go to the patient patient page. So now we have a new tab. Like this is a new, slightly new view. You see how there's the. Under the patient overview, there's an overview and payments. Tabs, tabs.
+Marcus Irven: So note to the left. Under. Under this little block, there's like overview. It says overview and payments overview above. Move your mouse up, but not too far up. Oh, I don't see your mouse anymore. There we go. Yeah. Cool. All right, so this is new. So this is a way for them to add payment methods on a patient.
+Adam Harrison: Okay.
+Marcus Irven: And then they also see the invoices here. I just realized. Let's see if this works in alpha. I think. I think alpha might have text messaging current disabled. If go to the payment. The bottom right. The payment on the toolbar. So this is how you request payments for person one. So this is like a one time setup.
+Adam Harrison: Okay.
+Marcus Irven: All right. So the only thing is you might want to edit the patient's telephone number. I just saw that like to send it actually send to you.
+Adam Harrison: I got some error.
+Marcus Irven: Oh, my God. It's just a gender identity. I'm not sure why this is something that.
+Marcus Irven: Well, that's a bug of some sort. Can you just pick a gender identity? I don't know why it's. I've never seen this before, but I know this is something Lee was touching recently, but, like, not that recently. Why does nothing ever work, Adam?
+Adam Harrison: I feel like I'm the problem where it's just.
+Marcus Irven: I feel like. I feel like you're the problem too.
+Adam Harrison: So I. I can't update this right now. Looks like.
+Marcus Irven: Just try to pick. First of all, select the gender identity and the sex. See if that says.
+Adam Harrison: And then do. Let's try this.
+Marcus Irven: Oh my God. Wait, I think this is something with insurance information. This might be. This might be a Jackson special.
+Adam Harrison: Okay.
+Marcus Irven: Is it.
+Adam Harrison: No relation what the bug was. Let's see.
+Marcus Irven: Can you say. Can you copy and paste that and send them to me? This definitely feels like relationship to subscriber on the insurance information.
+Marcus Irven: Yeah, I think this is. I think this is something. Jackson. Brooke.
+Adam Harrison: Okay.
+Adam Harrison: It's not letting me like highlight this.
+Marcus Irven: So you take a screenshot. Just take a screenshot of it.
+Adam Harrison: I didn't screen. I just sent it to you.
+Marcus Irven: Okay. Okay, cool.
+Adam Harrison: So do I need to fill this out, you think?
+Marcus Irven: I wouldn't think so.
+Adam Harrison: Yeah.
+Adam Harrison: Which, I mean. Yeah, maybe.
+Adam Harrison: What is it asking for again? Let's see.
+Marcus Irven: Let me ask.
+Adam Harrison: Expected self. Session. Where that. Where that referring to?
+Adam Harrison: I think it's this. Let's do none. Save. No, didn't save. Oh, I have eligibility in here.
+Adam Harrison: All right, I'm going to try this again. Gender, male. Phone number 203-44-4860. Valid phone number. Expected self. Okay, I gotta do that first. Let's try that.
+Marcus Irven: Oh, my God.
+Adam Harrison: Mail. I'll go down here. Insurance to none. Okay.
+Marcus Irven: All right. I think. Don't know where you're talking. Close this out. We'll go through the process and then I'm gonna. I'll try to get. See what's going on with it. I'll get it fixed.
+Adam Harrison: Okay.
+Marcus Irven: Let's work backwards from tomorrow though, like so. Do we, do we need like training material before tomorrow? Is that the idea?
+Adam Harrison: So tomorrow. So there's a few things, like Valcourt, I think so we're meeting with their front desk staff to train them on how they would request payments. So I don't think we need any materials, but we need to be able to do some kind of demo or show the video. I think also most likely they don't have Stripe set up, but I don't think this is the right forum to do the setup with because we're like meeting with their front desk folks. So really I think we probably in hindsight should have done the setup in a separate session. But maybe we structured as like, hey, we'll do a quick walkthrough of just how it works. And then in the last 10 minutes, maybe we chat with just the practice administrators about setting up Stripe, connect to their bank account so they can get the kind of. That can get deposited into their account.
+Marcus Irven: Okay. Yeah, I think that sounds good. All right, let me try to sort out some of these. These things and maybe we could. I know you have to take off service, so maybe we could say first thing in the morning.
+Adam Harrison: Yeah, if you wanna. Yeah, I can chat in the morning. I'll be on the train. I could probably go to like the cafe car or something if you wanted to chat tonight. So either way, whatever you prefer.
+Marcus Irven: Well, let me see how this goes. Unfortunately, I've got a hard stop about 6:15 tonight, so I'm okay. Probably tomorrow morning, like first thing. Gonna try to see what I can sort out tonight.
+Adam Harrison: Okay. All right, sounds good. And then, I mean, we'll see how it comes together. But would you potentially, like, if needed, be able to join the training at 3 tomorrow? Just. Just in case there is like some bug that happens, it might be helpful to just like have you on kind of either in the meeting or sort of like available to hop on if needed.
+Marcus Irven: Yep, I can't be. I could be available.
+Adam Harrison: Okay, we'll tackle tomorrow morning. Whatever. Whatever makes sense.
+Marcus Irven: Yeah, we'll see where we are. Is there. What is sort of driving like tomorrow? Like, is it just. That's just something they want and
+Adam Harrison: we're kind of like trying to move them on the journey to doing all their billing with us. And since we don't have the claim built yet, the idea is like, well, they already are doing a pretty manual workflow with credit cards and stuff like that, so this is something that already was pretty close to ready. So Nate's thought was like, let's start them on this, and then at least we're, like, getting them on the journey to doing all their payments through us, all their billing through us.
+Marcus Irven: Okay. All right, sounds good. We'll. We'll see you. And you want to just what time do you want to see up in the morning?
+Adam Harrison: I. I'm flexible. What. What time is best for you?
+Marcus Irven: Do you want to. Is nine too early?
+Adam Harrison: No, nine is fine. Do you want to plan on nine?
+Marcus Irven: Let's do nine.
+Adam Harrison: Okay. I'll send. I'll send an invite.
+Marcus Irven: Sounds good. We'll see you then. And fingers crossed, we'll be ready for three.
+Adam Harrison: All right. Thank you, Marcus.
+Marcus Irven: Bye. Bye.
+Adam Harrison: All right. By.

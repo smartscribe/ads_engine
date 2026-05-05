@@ -1,0 +1,174 @@
+Lee Harrold: Hey, how's it going?
+Sevox Medical: Hello, hello, how are you?
+Lee Harrold: Pretty good. Oh, we got an Otis shirt. Oh, awesome. Oh, it is Redding.
+Sevox Medical: Oh, I sure. Music fan, huh?
+Lee Harrold: Yeah, I met him.
+Sevox Medical: I met him.
+Lee Harrold: There's a video of me dancing to him singing. I was at the SF Playhouse. We were doing a reading of a show called Black Odyssey, and Otis came in because they were doing. The. Jukebox musical at the same time. It's pretty sweet.
+Sevox Medical: That means you appreciate real music then, huh? Yeah, this music. Up to day is.
+Lee Harrold: Always good. I don't know.
+Sevox Medical: He's like, some of it is, but you got to really pick and weed through it, you know?
+Lee Harrold: That's true.
+Sevox Medical: That's true.
+Lee Harrold: All right, what can I do you for? Like, I understand there's like one note that we were able to find that was running for a really long time. And I think. I think Ryan worked at work through that with you the other day. But I want to know if that is, if like the content of that makes sense.
+Sevox Medical: I think it probably has a lot of didn't get a chance to because when I got off yesterday, I don't know what has been going on. I think the pollen finally got to me. So I was home when I was responding to a lot of those, but I didn't get a chance to go back because I think he even said that because I sent a message that there were a couple more. And the fact that. I was supposed to be charting on one patient when I looked, the information came up from another patient, but yet some of his information was still in there. And that was the last email that I had sent yesterday. Okay. So I guess you didn't see, you didn't get to see those emails.
+Lee Harrold: No, but I can take a look at those right now.
+Sevox Medical: Yeah. Because there was a couple one. He reprocessed 326. He pushed also pushed through the note for 323 session at 3 p.m. so that should be available. Not, he says, I'm not seeing a recording from 46 around noon. However, I see the session 330. That time did not have a note, which I've now processed. So I gotta go back and look at those because I did close out. I think one of the things that you said was I needed to close it out all the way.
+Lee Harrold: Yeah. Yeah. We had pushed an update and I don't think that your client had refreshed and in order to get it. And so that that should have resolved clients bleeding over into other encounters things.
+Sevox Medical: Okay. Because sometimes it'll come through and say there's an update and you just click on it.
+Lee Harrold: And usually that's fine because then it'll like refresh the page. Something got stuck.
+Sevox Medical: Okay. And I think I need to get back into the habit of, because as with any program software program, you have to shut it down at some point in time. So there are all the updates can come through. And I gotta get because I leave everything open. Lesson learned from me. So I mean, even those coming through, if you were able to bring those through, that is a major, a major. I mean, they're the ones like, hey, if I can't get one, then I'm fine with that.
+Sevox Medical: But for the most part.
+Lee Harrold: So, yeah, let me, let me jump into your account and see what I can find while we're on the call. And I guess the, the other thing that would be useful is if you wanted to review one of the notes he sent over that was really long running. I think what we're going to have to do. Just because it was recording for such a long time, it probably picked up some other audio that isn't related to the recording. So while I'm here, I would like for you to open the transcript for that. And then we can just copy, like, the amount of relevant. Yeah. And then generate a new note from that.
+Sevox Medical: Okay. Because I guess I just have to go through like whenever I said to the patient, okay, you know, let's schedule a follow-up.
+Sevox Medical: And that's usually the answer note. So I have to be okay. Okay. So you want me to open that up while I'm on the phone?
+Lee Harrold: Yeah, because just, just so that I can be here. Cool.
+Sevox Medical: Difference in the laptop and doing the job.
+Lee Harrold: Right. That'll be the same. Oh, can you, was there, was there a note that you wanted me to look at
+Sevox Medical: while you were going to look at? I just, just giving you a couple of the other ones that he had said he reprocessed. 323, 46. He said, I'm not seeing a recording from four, six around noon.
+Lee Harrold: Yep. Yeah, I don't see. Nothing on four six. Actually, nothing on four six at all. Just nothing on four six or four seven.
+Sevox Medical: Okay. Yeah, I didn't have any patience. Four six was the only one that he couldn't find.
+Lee Harrold: Okay. Cool. Yeah, let's, let's just go through this one then. And then I would like to try recording with a patient that you had previously had the encounter bleed over thing with so that we can find out if that's still happening. But first, let's take a look at this node.
+Sevox Medical: Okay. So which note, I don't even know which note was that. Do you remember?
+Lee Harrold: I go find it.
+Sevox Medical: Or with who the client was. They got.
+Lee Harrold: In there. Okay, I think it was on 48. Oh yeah. And it looks like it's your only recording from 4. 8.
+Sevox Medical: Yes. Ariel. So. So what am I doing? So you want me just to.
+Lee Harrold: There's a, there's a transcript button. On the note view page. And, and I want you to click on that.
+Sevox Medical: Okay, so.
+Sevox Medical: I can pull that.
+Sevox Medical: I need to go to the actual documentation.
+Lee Harrold: What am I? We, we, we want to find out if there's anything that's inside of the transcript. That wasn't related to the call.
+Sevox Medical: Okay. So I am on that client's name.
+Sevox Medical: I'm going to, okay, so 48, it says pending.
+Lee Harrold: Okay, what happens when you click on it?
+Sevox Medical: So to open it up. So you want me to go to, I don't see, I don't see where it says transcripts at.
+Lee Harrold: Here. Let me, so at the top left of the page underneath the client's name. You'll see something that says edit template. Do you see that? And then, and then underneath edit template, you'll see the, the name of the template and then to the left of that, it should be like a transcript tab.
+Sevox Medical: No, because, oh, I got to go to the actual temp.
+Lee Harrold: Here, let me show you my screen. I can show you what I'm talking about. Entire, share the entire screen. All right. Do you see my screen?
+Sevox Medical: Yes.
+Lee Harrold: Okay. So if I am okay on the client page, I can click this super fake patient name. And then I can click on this client encounter. Right.
+Sevox Medical: I'm there.
+Lee Harrold: This one hasn't been recorded yet. That's why. Here we go. This one is completed.
+Sevox Medical: So then there's no recording here on this for me though.
+Lee Harrold: Oh, okay. Let me send you. Let me send you the direct link to the note. Which I can get. By grabbing this URL. And changing this. For you. All right, I just sent this URL to you in the Google Meet chat. See if clicking on that opens the note.
+Sevox Medical: I'm going to tell you right now, I have no clue what you're talking about.
+Lee Harrold: Oh, okay, sweet.
+Sevox Medical: So where's the chat at?
+Lee Harrold: If you open the Google meet. Window. Awesome.
+Sevox Medical: Right here. And disappear. I got a window inside of a window. Where's the chat at the bottom?
+Lee Harrold: Bottom right. So there's like four icons. One, there's an eye with a circle. And the one just to the right of the eye with the circle. There's a button that if you hover over, it'll say chat with everyone.
+Sevox Medical: Send a reaction caption. Raised hand.
+Lee Harrold: Yeah. On the far right of that on the far.
+Sevox Medical: Oh, there's the chat.
+Sevox Medical: Okay, I see the little. Okay. So is this going to open up in mine?
+Lee Harrold: Or it should, yeah.
+Sevox Medical: Because I'm already logged in.
+Lee Harrold: Yep.
+Sevox Medical: So does that mean for all of them now?
+Lee Harrold: No, this is just a note that we want to review.
+Sevox Medical: Yes, but if you're having to send me a link for this, all the other ones that he told me he was able to recover.
+Lee Harrold: No, you'll be able to find those as well in the in the note tab. This just seemed like the easiest way to get to the particular note we're looking for.
+Sevox Medical: It's not showing up in the note tab when I opened it. So this one took me. Can you see the screen?
+Lee Harrold: No. Can you share your screen?
+Sevox Medical: Oh. Where's my thing that says share screen? Share screen? Oh, great. I'm thinking this is the one. Yeah, that's it.
+Lee Harrold: Share.
+Sevox Medical: Okay. Okay.
+Lee Harrold: And clicking that link brought you right here.
+Sevox Medical: This is where the link when I clicked on this is what came up.
+Lee Harrold: Okay, so let's click on documentation at the top left next to clients and click on notes. So it should be one of those three.
+Sevox Medical: Now because this is for 326 323 and 330. I don't see the one for oh, here it is down here.
+Lee Harrold: Oh, there it is.
+Sevox Medical: So this is what I, you're telling me I need to do with all of them is to go to this.
+Lee Harrold: Yep. And just make sure the note looks right. And now if you click the transcript button to the left of where it says, oh, so first of all, it was generated as a psychiatric intake note. So we're going to want to change the template. That's just our default. Like if whenever we need to recover note, we just pick the one that's the top of the list. So, but before we regenerate it, let's take a look at the transcript. Okay. So there's a transcript button just underneath that drop. Yep. Nice.
+Sevox Medical: I wish there was a time on this thing.
+Lee Harrold: Yeah, that would be useful.
+Sevox Medical: Okay, thanks for calling. Okay, so that's, I know that's not part of it because I was on the phone. We do one since because I don't know. We want to do one thing early at what time? Okay, this is just some music. Stop by the ranger. What the. Okay.
+Lee Harrold: Yeah. So we can, we can assume anything before the music is probably
+Sevox Medical: gone across the bridge before to pick up our medicine. So. Okay. 43000. That's talking about the medication. So I give this one. Yeah, simply up and say, okay. Okay. I was hungry. Okay. Just. A home cook meal. Okay, that's her talking. I flow whatever's done. It's just. A. Okay, that's still how much we want. That. Checking appointment. It might be 10 or nine. Okay. Free Monday afternoon. We do Wednesday. You want to do Wednesday early? Okay, you want to do Wednesday? What time? Is to the doctor path light? Okay. There's questions for me. I'll be invited. Thank you. Okay. We're ready. On. Here. Yes. I think that's the end of.
+Lee Harrold: It. Awesome. So. Nice. Reddit questions, concerns. Cool.
+Sevox Medical: This here is the last thing that I said to her.
+Lee Harrold: Okay. So now what we'll do. Okay, so I'm going to factor this out. Click the last thing you said and then like drag and highlight. All the way up to the top of the note. And then we're going to put that into our clipboard.
+Sevox Medical: With Ctrl C. Start here.
+Lee Harrold: Yep.
+Sevox Medical: Okay.
+Lee Harrold: Sweet. And now right click and then copy. Yep. Then we're going to click record at the top right. Here. Yep. And select the client and the template that we want.
+Sevox Medical: Select the clients.
+Lee Harrold: Oh, sorry. Back in the record screen. There's an attached client tab at the top.
+Sevox Medical: Oh, I'm so okay.
+Lee Harrold: There's paste into the notepad at the bottom.
+Sevox Medical: Just paste it. Yep.
+Lee Harrold: And then let's set the appointment type to the appointment type that we, we want this to be. So it looks like it's on psychiatric intake. Click that drop down. And then.
+Sevox Medical: See there's nothing that just says med check. It's always this therapy med check.
+Lee Harrold: Do you want one that's just therapy or metric?
+Sevox Medical: No, I just want one that says because it was just a problem check.
+Lee Harrold: Oh yeah. Okay. Well, here yeah, we can do that. Click on any of these. Yeah. And then you can click the pencil inside of the drop down there. And this will let you change the appointment type. So you can name it. Anything you want. And then you can set these like billing defaults. If it's telehealth, you can make that the default. You can set the duration of the session. And then anytime you want to schedule a session with a user, you can assign this appointment type defaults to it.
+Sevox Medical: But how do I change this? Because of the information that's in there? Because you don't have one that says med check.
+Lee Harrold: So click the default note template. These are the templates that are here. But if you wanted to create a new template, I can show you how to do that too.
+Sevox Medical: That's probably what I'm going to need to do. Okay, I'll leave it as follow up. But if you can show me how to create a new one, that way I can put in what I'm looking for because I try to do that before and try to add something specific and it wasn't there.
+Lee Harrold: Yeah, I can show you how to do that. So I see one of the bottom that says therapy slash medcheck with WMDN. Does that look familiar?
+Sevox Medical: I think that was one I threw together because I was trying to do something, but I had to build it from what was there. Oh, yeah. I can't find like something. I was trying to find like medical necessity because I need to put a medical necessity statement in there. But that wasn't in the library.
+Lee Harrold: Yeah. Well, maybe we can actually take a pause in what we're doing now and then generate that template, the one that we want, and then we'll come back to this.
+Sevox Medical: And then we can generate this as a follow up for right now. If you can just show me how to do it that way, I can create, you know, specifically what I want. In my notes because I've been having to cut and piece things together and take this generated.
+Lee Harrold: Let's actually, let's, let's, let's do that right now.
+Sevox Medical: I'm going to leave this as a follow up for right now.
+Lee Harrold: Okay, sure.
+Sevox Medical: And I'll update this as the appointment type and then I'll
+Lee Harrold: you are going to want to pick a note template for this real quick. So right now this is this appointment type doesn't have a template. So that there's appointment types and then there's templates. The template decides what the note's going to look like carries like default duration.
+Sevox Medical: Okay. Okay. Okay.
+Lee Harrold: Yeah. And and it looks like we have a couple of different appointment types called follow up already. So you'll need to change that name.
+Sevox Medical: So just to med check.
+Lee Harrold: Yeah.
+Sevox Medical: Okay.
+Lee Harrold: And then let's pick a note template.
+Lee Harrold: And for now.
+Sevox Medical: Oh, I don't have a follow
+Lee Harrold: medication management might be makes sense since it's like a med check. Cool. Let's hit update appointment type at the bottom right. Uh, unless you want to make a telehealth of default.
+Sevox Medical: No, most of them are telehealth, but I usually do that when I select the appointment.
+Lee Harrold: Okay. Got you. So now you can click start recording and then we just, we just need to do that. We just need to like let it run for five seconds. Nice. And now you can close up. And. So now what it's going to do is take all the information that you put in the notepad and then combine that with a complete lack of information on the recording and then generate a new note. For that patient. So you can click the generate note button. And then we should see a note with just the information with the user needs. Okay. So while that's running, let's jump into documentation and then templates. Yeah, note templates. So at the bottom left, there's a start from scratch, but yeah. So let's click that. And then at the top right corner, there's some sparkles next to like a copy button.
+Sevox Medical: This here? Yeah.
+Lee Harrold: Okay. Go ahead, click that. And now. Ah, we. We can just describe the kind of template that we want. In the chat on the right. So, like here. Yep. Yeah, I would. I would list all of the. Oh, wait, actually, I think. I think you said. You said there's already a template that you started on that had some sections, but not all sections. Is that right?
+Sevox Medical: It had some in there. Yes.
+Lee Harrold: Okay, so we could. We could start from that, or we could start from scratch. Like, if you have a clear idea of all the sections that you want in your template, I would just. Start from scratch and, like, describe all those in this chat here. But if. If you wanted to work for something that existed, we could go and find that. So it's up to you.
+Sevox Medical: So. Because really, because I got to go back and really look at it, because I'd like to clean up everything that I've done so far, because I've just been hit or miss and playing with it, so. Yeah, this is nice to know that I can go to. This AI template Builder. I can't. So if I say I want a Medicare approved template. Would. Or do I need to be specific as far as what I need in there?
+Lee Harrold: You can. You can say you want a Medicare approved template, and then it's going to do its best. But you are going to need to be pretty specific. Like, actually, we could try this now. Like, I I I would say, hey, give me a Medicare approved template.
+Sevox Medical: For, like, okay.
+Lee Harrold: And then we could just see what it comes up with, and then we can, like, fill in the gaps.
+Sevox Medical: Okay.
+Lee Harrold: Because it's. Yeah, like I said, it's going to do its best, but it's not.
+Lee Harrold: It's like workflows change between state and then, like, provider certification so it doesn't really know, like, your specific circumstance.
+Sevox Medical: That can approve template. For. Follow up. And back of the decision making. Follow. Okay, let me just. Make a decision. For 99214. Oh, darn it. I didn't finish it. Ah. Okay. Add patient identifier. Yep. Visit header. With a header.
+Lee Harrold: Oh, weird. I'm. On my side, it says it's just. It says it's just loading. Do you. Do you see the loading spinner or do you see, like, some content?
+Sevox Medical: I see the assistant that can't. Oh, I see it loading. Okay. Thing is heading. Okay.
+Lee Harrold: But it's. Oh, that's. I guess I mentioned that because I'm surprised it should.
+Sevox Medical: It shouldn't be loading. I see, but it was covered. Ask the question. Okay.
+Lee Harrold: So I would respond to the assistant by saying, please. Please make all of those.
+Sevox Medical: Okay. Also just. Information. And medical. Necessity state. Ment should I create first for the 991 visit header. I can say do it in this order.
+Lee Harrold: Yeah, good call.
+Sevox Medical: In. The. In the. Order. That's the way it should always come out anyway. So from this using this AI template Builder. Oh, there we go. Yep.
+Lee Harrold: Yeah. And then the. Does it look like it has everything?
+Sevox Medical: Yes. So if I needed to change this word. We wouldn't put exam. We would put mental. Mental status exam.
+Lee Harrold: I would just say change the name of the exam section to, you know, mental status exam. Or MSE if you want to use the acronym.
+Sevox Medical: Medical necessity statement, our risk assessment.
+Lee Harrold: Oh, geez. I lost track of time.
+Sevox Medical: Okay, that's fine. You gave me. You gave me this. This will definitely help me.
+Lee Harrold: Sweet.
+Sevox Medical: Yeah. Save this and we're good.
+Lee Harrold: Yeah. And then I would go back to, like, any notes that you want to have generated with this new template and then click the regenerate note button on that page. Do you know where that is?
+Sevox Medical: Regenerate?
+Lee Harrold: Yes. On the top.
+Sevox Medical: We ever looked because I piece it together. I've been piecing it together.
+Lee Harrold: So this is. Oh, that's right.
+Sevox Medical: That's right.
+Lee Harrold: You're familiar with that word, folks. Okay. Okay. It'd be great to meet you. And let me know again over email if there are other things you want me to take a look at. But I would review those notes in the meantime and then do the same sort of transcript, you know, verification just to make sure. Right. The content you need.
+Sevox Medical: Okay, so that's how I can do the trans. Just copy the transcript what I need and put it into the notepad and regenerate.
+Lee Harrold: Okay. Yep.
+Sevox Medical: All right. So if I need, because obviously you guys don't have telephone support, so everything has to be done through email.
+Lee Harrold: Yep.
+Sevox Medical: Yeah. Y'all need to fix that. Because in a crunch, because, like, I was in a crunch, and I was just, like, panic mode.
+Lee Harrold: Yeah. Yeah.
+Sevox Medical: Okay. All right. Sorry. Well, I really, really appreciate. This was very helpful for me.
+Lee Harrold: So.
+Sevox Medical: Yeah, I really appreciate. I try to reach out to Jack, who was the one who I originally spoke to. So I have his number, but it just takes a day or two to get back. But I won't hold you because obviously you got another appointment coming up.
+Lee Harrold: So great to meet you. Have a good one.
+Sevox Medical: Thank you. Bye-bye.

@@ -1,0 +1,94 @@
+Wendy: Hello.
+Becca Bressler: Hey, great. I'm super excited to keep this going, and I think we can get through it pretty quickly. So, Wendy, can you screen with me again?
+Wendy: Yeah. How does this look like this? Hang on.
+Becca Bressler: No problem.
+Wendy: No rush on the struggle bus. My work computer for my main job is on the fritz, and I've been struggling with doing anything.
+Becca Bressler: No problem at all.
+Wendy: Psych over here. Why is it not at the bottom? My thing is. Hang on, I'm working on it.
+Becca Bressler: No problem.
+Wendy: I got the. I'm not seeing the share screen. Let me move this up. Oh, there we go. There we go. Okay. Share screen. Window. Here we go. Okay?
+Becca Bressler: Awesome. So great. Okay, so, yeah, let's get into jot site. But actually, yes. Okay, perfect. Now can you go to your. Let's see.
+Becca Bressler: Can you go to where it says we your top right? Your settings. Like your user settings. Yeah. So now if you scroll down. Okay, great. So now we're going to do the second step of this, which is Two Factor authentication. So can you click that? Yes. So now do you see that red notification? Yeah. Okay, great. So this is the last and final step for this, but so click the notification. And complete tfa activation. So you're going to put your cell phone number in here, and it's going to send you, like, two texts, and I'll walk you through what to do with each of them. And then send Duo activation text at the bottom.
+Wendy: Okay?
+Becca Bressler: All right.
+Wendy: I got to send you a request to install Duo Mobile.
+Becca Bressler: Yes. So you're going to open that one first. And you're going to complete the steps until you don't know what to do because it's confusing, and that's a signal.
+Wendy: I put it in there. Now it says open.
+Becca Bressler: Okay, so you open the link, and what do you see?
+Wendy: Third Party Journey or jrny wbranderberry. And it's got a passcode.
+Becca Bressler: Okay, so click next on the screen. On the dose spot screen on your computer. So if you see the passcode. Yeah. Can you enter it here and let's see if that works?
+Wendy: And then. 25. Dual token failed.
+Becca Bressler: Okay, so can you go back to the first text you got and tell me what you see? You have the Duo app by chance?
+Wendy: I must have. I must have. So should I click on the second link?
+Becca Bressler: Well, what happens when you click on the first link?
+Wendy: Just a few. Okay. It says open an app store. And it takes me to where it wants me to open it again.
+Becca Bressler: And then what happens if you open it again?
+Wendy: It gives me another code. Let me try that code.
+Becca Bressler: Okay, maybe try the second text. Go to the second text that you got.
+Wendy: Name your account to continue. Name your account Do Spot, which is fine, right? Save account linked practice now. Okay. It says my account is linked.
+Becca Bressler: So you're not being given any number on that one?
+Wendy: No.
+Becca Bressler: Okay, so then go back to the other one, and let's put the different passcode in here.
+Wendy: Well, now it take me right back to the second one. 857956. Let's try that. I 7956. And then set a pin, so whatever you want.
+Becca Bressler: Yeah.
+Wendy: No.
+Becca Bressler: Incorrect passcode.
+Wendy: Remove Duo and then put it in again?
+Becca Bressler: I don't know. Can you remove the. Do you. So you have the Duo app on your phone?
+Wendy: I must. Let me look.
+Becca Bressler: Yeah, let's try that and see. Have you ever prescribed through Dosebot before?
+Wendy: No, I prescribe through something called I prescribe. I think I do. I hope I'm not screwing something up here. I mean, it says where I could add an account. Maybe. Should I try adding an account?
+Becca Bressler: I don't think you're supposed to add an account. So the first text you got, can you just tell me what are the two texts you got?
+Wendy: Duo Spot has sent you a request to install Duo Mobile, and it's got a link.
+Becca Bressler: Okay, great. So what happened? Can you just, like, walk me through what happens when you open that? Maybe on the screen.
+Wendy: It takes me to the App Store. And it wants. And then it says open.
+Becca Bressler: Okay? So then you hit open.
+Wendy: And I hit that, and it gives me a code, a passcode.
+Becca Bressler: Okay? So it looks like you've already. So maybe we can try deleting the app and reinstalling it. I wonder if that's something. So if you just delete the app off your phone.
+Wendy: I just tried something different and liked it, okay?
+Becca Bressler: Oh, great. Okay. Amazing. So you are set up. So let's go back to jocks, like, for a second. So the way that you send a prescription is like if you go to a patient, so you're going to end up seeing on the recorder screen super, super soon. But pick a patient like an upcoming patient that you have. Or client.
+Wendy: Okay? Any client. It doesn't matter.
+Becca Bressler: It doesn't matter. But, like, just to kind of show you how this will work, So basically, first you have to set up the patient. For jaw rx. So, like, do you see where it says set up patient for ERX underneath upcoming appointment? Yeah. So there's a one time setup for your patients to make sure that all of their information. In there, but once you've connected the patient, Do you see where it says connect for ER on medication?
+Wendy: Connect patient right here.
+Becca Bressler: Yeah. Here, maybe. Actually, what I'm going to do is I'm going to share my screen to just kind of show you.
+Wendy: Stop sharing.
+Becca Bressler: Yeah. Here, I'll share. So, just to give you a sense of, like, how this will work once a patient is set up. You'll be able to prescribe like right here and it will open dose spot. And it will open directly into that patient's dose spot account. But it does require setting up the patient. So for the patient is set up. You'll do that. You'll set up the patient. And then once they're set up, you could either prescribe from here, like I'll show you. Once a patient is set up, you can prescribe from here, like their patient page.
+Wendy: Yeah.
+Becca Bressler: Or you can prescribe from the recorder.
+Wendy: Okay?
+Becca Bressler: But you are all good to go. You should be up and running, able to send prescriptions, controlled substances. All of it. So unless you have any other questions, Wendy, I'd love for you to give it a shot. Give me feedback. I want to hear what you think about it. If it's working for you. What's not working for you?
+Wendy: Yeah. Okay. Yeah, I will work on. I will work on that. I don't. I don't know that I have any further patients scheduled this week, but I've got some next week. So I'll try and send prescriptions in through this.
+Becca Bressler: Amazing. And can I see one more question, Wendy? Do you do tell. What do you. What do you use for telehealth?
+Wendy: Oh, I use doxy.
+Becca Bressler: Ok, so we're actually about to launch a telehealth within jot. Psych.
+Becca Bressler: So that you can just do it from directly in jots. Like, would you be willing to test that out for us?
+Wendy: Sure.
+Becca Bressler: So what we would love to do is actually have you, like, use it with a patient. We can walk you through how to use it, and then if you are willing to test it out with one or two patients next week and give us feedback, that would be so awesome.
+Wendy: Yeah, I can do that.
+Becca Bressler: When are you seeing, like, when's the next patient you might be able to try it out with?
+Wendy: Okay, let me look. Like I said, it's been a. It's been a week. I'm ready for the week to be over.
+Becca Bressler: You and me both. I totally.
+Wendy: I'll tab. Here we go. I gotta get back into my. Get into my headway calendar here. See if I have one open. I do. It might make me log in again. Yep, it's gonna make me log in again. I'm just gonna do it on my screen. Like I said, I've had a lot going on, so I haven't really had a lot of availability for appointments. Now. I had five like last week. That would have been perfect.
+Becca Bressler: Yeah.
+Wendy: My next appointment is the 26. I have a guy.
+Becca Bressler: Okay, got it. So what if we get you set up so that you're able to use it on the 26th? I can schedule some time. When are you free? Next week to get you testing a setup call? Be like a 15 minute call.
+Wendy: Okay? Hang on. Let me see. Look at this calendar. My time is not my own. I tell you, it's terrible. I could do, like, Tuesday, Just about any time in the afternoon. Because that's an offer. Or a field day where I'm out in the community.
+Becca Bressler: Ok. Can you remind me what time zone you're in, Wendy?
+Wendy: Eastern.
+Becca Bressler: You're in Eastern too. Okay, great. So what do you think about 1pm Eastern? Does that work?
+Wendy: That'd be perfect.
+Becca Bressler: Telehealth.
+Wendy: And then if I get any more bookings between now and then, we can give her a test drive.
+Becca Bressler: You could even email me if you get bookings before then, and we can get you set up sooner.
+Wendy: I'd love to try. Included in the jet psych fee.
+Becca Bressler: But I'm curious. How much do you pay for your service?
+Becca Bressler: For Jack, Psych, for Doximity, or.
+Wendy: I think it's doxy. I think it's like $30 a month.
+Becca Bressler: $30 a month. Okay. There's probably going to be an additional fee for it inside Jot, Psych and. We're still trying to figure that. The specifics of it out, but, yes. So there's no commitment to beta test, of course, but just getting your help will be really helpful. So, yes, I just scheduled that for next week so that we can set you up with it and then go from there.
+Wendy: Is there a cost for the beta testing?
+Becca Bressler: $50 for a gift card actually is what we typically do.
+Wendy: Oh, no. I meant, do I have to pay anything to be.
+Becca Bressler: No. We will send you a gift card for it.
+Wendy: Perfect. I'll do it. Yeah.
+Becca Bressler: Great. Okay, awesome. Well, I will see you next week, Monday. And yeah, just let me know how prescribing is going for you and if there are any barriers to getting you to use it, we obviously want it to be working your workflow. Yeah. Great. Thank you. Take care.
+Wendy: Bye. Bye.

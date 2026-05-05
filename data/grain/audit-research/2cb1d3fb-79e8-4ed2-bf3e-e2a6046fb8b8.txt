@@ -1,0 +1,162 @@
+Samantha Oswald: Hi.
+Emily Kaiser: How are you? I'm good. How are you?
+Samantha Oswald: I'm hanging in there.
+Emily Kaiser: Thank you for taking the time to talk to us today. I am just going through and trying to check out to make sure I can get you that second free trial here on my end. If you could work on pulling up J.com on your end.
+Samantha Oswald: Okay. So start your trial.
+Emily Kaiser: Are you able to log in?
+Samantha Oswald: I mean, I could log in from.
+Emily Kaiser: From that same email address.
+Samantha Oswald: Okay, I'll. I'll try logging in.
+Emily Kaiser: Okay. Yeah. I'm curious to see what you see on your end once you log in.
+Samantha Oswald: It says it looks like your JOT site. I mean, it allowed me to log in, but it says action required. Did you mean to cancel? It looks like your JOT Psych subscription has been canceled.
+Emily Kaiser: Are you able to share your screen?
+Samantha Oswald: Yeah. How do I do that?
+Emily Kaiser: So if you go back to our faces next to the microphone and then next to the camera, you'll see that little laptop with the arrow pointing up and that share screen, and then it's going to have you select which screen you want to share.
+Samantha Oswald: You see it?
+Emily Kaiser: Not yet. Did you select smartscribe?
+Samantha Oswald: Yeah.
+Emily Kaiser: Okay, nothing's coming through yet.
+Samantha Oswald: Hold on.
+Emily Kaiser: Okay, now it might. Okay, perfect. Okay, what happens when you click the JOT Seg logo right here? Or if you go to documentation and then notes.
+Samantha Oswald: Okay.
+Emily Kaiser: Okay, let me try one more thing on my end.
+Samantha Oswald: It's not doing it.
+Emily Kaiser: Yeah, It says your subscription. Yeah. If you log out and log back in.
+Samantha Oswald: Okay.
+Emily Kaiser: And if not, I can share my screen. It's. It's possible that it's not letting us. Is this your first or second trial?
+Samantha Oswald: My first.
+Emily Kaiser: Okay. It's possible that it's not letting us do an additional.
+Samantha Oswald: I mean, I could use my email from work.
+Emily Kaiser: Let me see here. Were you able to log out and log back in?
+Samantha Oswald: Same thing. Logged back in. It went right to the. Went right to the screen again.
+Emily Kaiser: Okay. Okay. So let me go to my end and I will share my screen really quick. So you tried the system. You were able to make a couple notes, it sounds like, but you just had to do several edits.
+Samantha Oswald: Yeah. And it's just. I mean, I have so many patients and they're back to back, and I.
+Emily Kaiser: Yeah, no, I get it. We want to be in the business of saving you time, so. And that is, you know, what job psych is created for. So if I can help clear up any of those questions and help you understand, we'd recently added a. It's a sidebar. And basically, I mean, we had this before, but we enhanced it to where you can train the AI so you don't have to go in every single time and make edits.
+Samantha Oswald: So, like, my. My thing is that I tried something called Companion AI. It's a new thing like Jot Psych, but it's a different name. There's tons of them out there. And that one didn't do it. I didn't like that one.
+Samantha Oswald: And then I tried this one, but. So, I mean, me and all my other clinicians, we just use chat GPT. I pay $25 a month. I literally just dictate everything into my note. Like, I could just write like my notes here and they could all random notes, like just little pieces. It doesn't have to be in order. I literally just say everything on my piece of paper and then I say I need a chief complaint history, present illness assessment, diagnosis plan, and it pops it out exactly how it needs to be in the chart.
+Samantha Oswald: So I don't do any. You know what I mean? And I hate to say that.
+Emily Kaiser: Right. No, I mean, that's something we hear often. Just to be. Completely transparent with you. I think the difference between, you know, not only JOT Psych and chatgpt, but JOT Psych and a lot of our competitors is we're behavioral health specific or HIPAA compliant. But also we just, we're backed with privacy. You know, that's a main thing. But let me show you a couple of these new features that we recently added just to show you a little bit of the different differentiation from ChatGPT and a lot of our other competitors. And then I can go back and kind of answer any of the questions you had on editing if that works for you.
+Samantha Oswald: That works for me. Okay. And I, you know, I'm, I'm totally for, you know, if you guys can make it make sense for me and save me time and make it easy.
+Samantha Oswald: So, I mean, I'm all for it. Like, I'll pay for it. I don't mind.
+Emily Kaiser: Yeah, no, that's great to hear. We hear that a lot. We hear that a lot of people like it. It's just, just a matter of allowing it, making it work for them. But we found that a lot of these, these 15 minute demos really clear up a lot of these questions. Let me just jump in really quick and I will show you. So documentation, does this, let me ask you, does this system look different than last time you logged in?
+Samantha Oswald: No.
+Emily Kaiser: Okay, so I wonder if we just kind of enhance some of these features and then added billing and auditing. So basically if you go to see, I'm going to go to Notes, I'm going to try to answer some questions by showing you a example of a note. Keep in mind I use John Doe for a lot of my demos. So you will see that some of this information is maybe talking about multiple different diagnoses or medications. So if it doesn't make complete sense, that's why. Okay, so obviously you know what a note looks like. It gives you all the breakdown of all of these different sections depending on what type of template you are inputting. You also have the option to edit template here and to change the format of your note by whether it's editing the sections right here or just completely changing your template. And it will change the format of your note. Now, I want to focus in here on this AI assistant over here. So if you could tell me what specifically you were needing to edit on all of your notes, that would be super helpful.
+Samantha Oswald: Well, like the pronouns, I had to go on the side on the AI note assistant and I had to say change patient, you know, PT to patient everywhere. I had to do that. Okay. But it was every time. You know what I mean?
+Emily Kaiser: Yeah. Yeah. You shouldn't have to do that every time. So was it for the same or different patient?
+Samantha Oswald: It was for a different patient.
+Emily Kaiser: So every time?
+Samantha Oswald: Yeah. So if I wanted. It wouldn't. Every time it would show up as pt. Instead of writing out the whole patient or symptom sx, it was doing that history, hx, diagnosis dx. And so I was going to have to put over here in my AI assistant, change DX to diagnosis, change history from HX to history, change SX to two symptoms. So that was annoying. If I have to do that on every single note, that's for sure.
+Emily Kaiser: I am hopping into the settings really quick just because you have the ability to change what the system is calling your patient, patient, client, whatever it may be. And I'm wondering if there is a specific setting on site summaries specifically, because it sounds like it's trying to summarize some of those words for you. Now let's see, what section was that happening in?
+Samantha Oswald: I'm wondering if it's happening. The whole note.
+Emily Kaiser: The whole note.
+Samantha Oswald: Is there any way that I can click on the left hand side where it says summary chief complaint, history of present illness and I can just click and say I always want a chief complaint, a history of present illness, assessment, diagnosis and plan and so that's all it will ever pull up for me.
+Emily Kaiser: Well, if that is what you're trying to accomplish, then I would actually suggest going over to note templates and you can try our template builder. You can start from scratch or you can edit any of these templates in here. So what I would probably do, if you like a template, you just don't need that much information, you don't need that many sections.
+Samantha Oswald: Is that correct? Yeah.
+Emily Kaiser: Yeah. Okay, so I would go ahead and now what would that be? Would that be intake for you?
+Samantha Oswald: I do that for every visit.
+Emily Kaiser: Okay, let's see. Looks like I already had.
+Samantha Oswald: I don't do all the, you know, physical exam, review of systems, we don't do all that.
+Emily Kaiser: Okay, so I am just trying to edit here. Okay, so summary chief complaint. So what you would do here when you are logged into job psych is you would find the template that's most applicable that you find yourself using the most. Now before I continue, you do have the option to upload your own template if you have one that you use at your in your practice that you've used for years and that works for you. You can go ahead and upload that and it will create your own template with those specific sections. If that's not an option, if you don't currently have one created, I would find a template that you are using but you're not needing every single section and you have the ability to X out of any. And delete any of the sections that you don't need. Okay.
+Samantha Oswald: So I could. I could go here and just X out of the summary, the medications, medication access all that, and then. And just save that.
+Samantha Oswald: And that would be my template.
+Emily Kaiser: Exactly. And then you would save. And then it would be added to your templates here for quick access.
+Samantha Oswald: Okay.
+Emily Kaiser: And then whatever kind of other templates you use would be added to this little sidebar, which is your template library specifically. Or so when you're going to that Record Encounter button, you don't have to go and select another template. It's just already there for you and ready to go. Now, one thing I do want to show you, I don't know if you were using it like this, but you also have the option of. I know a lot of people mentioned that. They don't. All of these little sections are great, but you might not need every single section. So what you can do, rather than copy all selected sections here is you do have the ability to select a few or however many you want, making it more personalized and customized to your practice and then just copying those selected sections. Okay. So you don't have to edit. You can allow the note to create all the sections that it's going to create based off of the template you choose, and you can copy just a selected few, if that's helpful too.
+Samantha Oswald: Yeah.
+Emily Kaiser: Okay. Now, so what I would like to do, this is hard because I know you can't log in right now, but I don't believe I'm seeing the abbreviations that it was giving you unless you're seeing that on my end right there.
+Samantha Oswald: It says right in the hpi. Depressive sx.
+Emily Kaiser: Oh, oh, okay. Okay. So now can I ask you, sx, what is that summarizing?
+Samantha Oswald: It's a abbreviation for symptom.
+Emily Kaiser: Symptom.
+Samantha Oswald: Okay. Episodic depressive symptoms presenting today.
+Emily Kaiser: Okay. I'm just curious. To be completely transparent, I've never gotten this specific request. So let's see what it does. Change all abbreviations to full words. For example, change SX to symptom. What was another one, you see?
+Samantha Oswald: HX to history, DX to diagnosis. Yeah.
+Emily Kaiser: Okay, let's see what it does. So in our chief complaint, let's see. I'll update. Okay. So it's doing some thinking. It looks like it updated since.
+Samantha Oswald: But I'm just saying, you know, I don't want to have to type that in every time.
+Emily Kaiser: Yes, no, I hear you on that for sure. And that's very important. I am making sure that it did it correctly. Symptoms. Okay, cool. So what it's going to do now or what it should do is after it's done thinking, it looks like it's analyzing the full note. And like I said, I've used this for my demo. So it's quite a lengthy note with not consistent information. So it's thinking about it. But then at the end, once it's done analyzing over here, it should ask you, do you want to train your AI right here? So would you like to train all 19 sections to always apply this formatting? If you click yes train this, it will always apply this formatting going forward. So now you will. Because it's on my profile now, I will no longer have to go through and change those abbreviated words to full words. It just should be all set.
+Samantha Oswald: Okay. Okay, that makes sense.
+Emily Kaiser: What else were you experiencing that you were finding that you had to edit or just anything that was taking up too much time on your end? Tell me a little bit more.
+Samantha Oswald: That was probably the biggest thing I can remember right this second for sure.
+Emily Kaiser: Absolutely. So let me just show you while I have you here, let's go over to forms. So did you. Were you able to send any forms to clients using jot Psych?
+Samantha Oswald: No, I didn't do it. I didn't need to.
+Emily Kaiser: No problem. So let's actually this is your forms library basically. And if you click here, you see all of the different forms that you're able to send to patients. Sorry, I'm trying to move my little window here so you can see my full screen.
+Emily Kaiser: So all of these forms you are able to edit and customize just like all of the templates. Now, were you able to use your client profile at all?
+Samantha Oswald: Yeah, yeah.
+Emily Kaiser: Okay, perfect. So you are familiar with this in the sense that this is where all of the information is held?
+Samantha Oswald: Yeah, yeah.
+Emily Kaiser: Now at the bottom here, if you didn't see this menu, you're able to send forms like we spoke about, request labs, send clinical documents, schedule a follow up, or request payment directly from the patient, which is super helpful, just kind of keeping everything in one system. Now what I will touch on briefly now, can I ask you, have you ever been audited before in your practice?
+Samantha Oswald: No.
+Emily Kaiser: Okay, well, that's great. Hopefully that stays like that, Right? But we recently added a feature because we know it's important to clinic to clinicians, just for sake of time, but also billing purposes and. For the sake of, you know, safety their practice, we want to make sure that we can help with auditing and billing for clinicians. So these are our two newest features. Now I'll just keep it super high level. Basically for audit, we're helping clinicians catch auditing before you submit the claim and billing, we're just taking out that third party necessity and just being that biller for the clinician. Any questions here? If you did want to try the JOT audit feature, this is something that, because it's such a new thing, you may have to pay for it in the future. But right now it's a free. It's a free feature. So I can just turn this on on your account if you end up continuing with job psych and you can test it and see what you think.
+Samantha Oswald: Okay.
+Emily Kaiser: All right. And then the last thing, if you didn't take advantage of it, you also have the ability to manage your schedule. But that is pretty much that now. So I know you tried the free trial and I know we weren't able to. Doesn't seem like we were able to get the free trial going. Another free trial going on your account, unfortunately. But because you did the demo today, you actually have the ability to do your first month for 20 bucks. I know you mentioned that you use ChatGPT and it's a little bit less than ChatGPT, but you wanted to continue trying JOT Psych after the free trial. This is just like a low commitment way of trying another month of JOT psych. Now that we've answered some of your feature or some of your questions, get the most out of it and see what you think of the system if you're interested in that.
+Samantha Oswald: So $20 for a month, correct? Okay, yeah, I could do that.
+Emily Kaiser: Okay, so I'm going to have you. Let me just send a message to our intern.
+Samantha Oswald: Just $20. Cancel before the next.
+Emily Kaiser: Correct. You do have to cancel before the next month. So you would be charged for $20 one month. But say it starts today. Well, it would start today. I'll have you put in your billing information.
+Emily Kaiser: But then it would end and you would be charged the 150 on February 15th.
+Samantha Oswald: Okay, so I need to cancel before. I need to Cancel like on the 13th of February, if you don't want to continue anymore.
+Emily Kaiser: I'm hoping that you like the system enough to kind of keep it going. But we will see, right?
+Samantha Oswald: Yeah, that would be. That would be good. I'll do that.
+Emily Kaiser: Okay, so I'm just going to send a message really quick to our internal team who adds those discounts in live. Now, if you want to head over to your Jotseg account.
+Samantha Oswald: Okay.
+Emily Kaiser: And enter in your billing information, that discount should be insured. Shortly. Should I just. If you are quicker than us, you will see a refund on your end. Just so you know.
+Samantha Oswald: Do I log in?
+Emily Kaiser: Yeah, go ahead and log in.
+Samantha Oswald: But even though I'm already. I'm already logged in, so I have to go to.
+Emily Kaiser: So it's going to ask you. It's not going to let you leave that billing page because you've done your trial.
+Samantha Oswald: I see, I see.
+Emily Kaiser: So that is when you enter in the billing information.
+Samantha Oswald: Okay, hold on a second here.
+Emily Kaiser: No problem.
+Samantha Oswald: Okay. Billing information.
+Emily Kaiser: And if you need to share your screen and have any questions, I can certainly walk you through it.
+Samantha Oswald: I'm going to stop sharing tax id. Well, I'm, I just work for somebody.
+Emily Kaiser: So what is it asking you for a tax id? Are you able to like void that?
+Samantha Oswald: So I see my screen. Can you see my screen?
+Emily Kaiser: No, I cannot.
+Samantha Oswald: Let me see here. What in the world did I just do. You see it?
+Emily Kaiser: I can, Yep. Okay, so this is personal information.
+Samantha Oswald: And then I scroll down and it says, whoops, I don't know, down further. I can't scroll down. And it should. It says my name, my practice information facility information, billing information.
+Emily Kaiser: I think that this is for our new billing feature. So you're actually. So if you go to subscription there, do you see that on the left hand side? That is not needed unless you want to use your job site as like a biller.
+Samantha Oswald: Okay, wait a minute. It's wanting me to put in my. You see right now where it's want me to put in my email
+Emily Kaiser: if it opened up a new tab. Unfortunately, I don't think I can see it. Oh, here we go. Okay.
+Samantha Oswald: Yes, but it won't let me click on. Wait a minute. Okay, just bear with me.
+Emily Kaiser: No problem. Are you able to go back? Okay, let's see. Can you go back one more time?
+Samantha Oswald: Yeah, that's this.
+Emily Kaiser: We're right above 150. Are you able to click that back arrow?
+Samantha Oswald: I don't know why it's not showing you when I'm. Because I'm clicking and you're not seeing. Wait, hold on.
+Emily Kaiser: Okay, here we go. So go to reactivate your subscription there. Okay.
+Samantha Oswald: Okay, hold on. Let me go to this again.
+Emily Kaiser: Yeah, we have a subscription. I want to make sure that you're not already paying for job site and you're just, I don't know, not seeing that. But if you're on my list here, I don't believe you are a paying customer.
+Samantha Oswald: I'm not a paying customer.
+Emily Kaiser: Yeah, let me see.
+Samantha Oswald: It says you already have a subscription with us. No, I don't. Oh, no, that's worrying me because I didn't sign up. I just signed up for the trial and the trial ended.
+Emily Kaiser: I don't believe that you are a paying customer. Like, I don't believe you're paying $150 per month. I can certainly check on my end when I just tried to activate your free trial. I think that's where I would have seen it if you were okay. Yeah, I just see a trial period and I see trial ended.
+Samantha Oswald: So then. Then I click to. You see that? Check your email. What happened?
+Emily Kaiser: Send something to your email.
+Samantha Oswald: Let me look.
+Emily Kaiser: Okay. While you check that really quick. I am just going to. I'll be right back.
+Samantha Oswald: That's okay, right? It.
+Emily Kaiser: Any luck on that?
+Samantha Oswald: Yeah. Let me show you what I see now.
+Emily Kaiser: Okay. If you did switch pages, you can't see. I can't see that new tab. Oh, actually, no, I can. I can. Sorry. Okay, so perfect.
+Samantha Oswald: Hold on a second.
+Emily Kaiser: No problem.
+Samantha Oswald: I have to go. I've been holding it the whole time. It. Okay, So. Where it says.
+Emily Kaiser: Where it says add payment.
+Samantha Oswald: Okay. It won't charge me that 150, though.
+Emily Kaiser: So I am. Like I said, if it charges you that full amount, you'll receive a refund today for 130. We add the discounts manually internally. So I'm just waiting to hear back.
+Samantha Oswald: Okay, so it's going to charge me 150?
+Emily Kaiser: It's possible because I'm waiting to hear back right now, but you would get a refund of $130 today, charging you just $20.
+Samantha Oswald: You promise?
+Emily Kaiser: Yes, I promise. You have my word.
+Emily Kaiser: All right, so while you use job site, while you're using the system, please let me know if you have any questions or anything. You can text me on the number that we've been calling on or communicating on. Sorry, my daughter just woke up from a nap. So, yeah, please reach out if I can help you with anything. Like, if anything comes. Up and you're like, how do I do this? How do I navigate this? Or did you want me to go ahead and do that jot audit feature on yours as well so you can test it out?
+Samantha Oswald: No, I really don't need that. Okay. What? Do you have a direct numbers in case I they don't refund the money?
+Emily Kaiser: Oh, yeah, absolutely. Let me send you a text message on it so you have my information. I'll send you my email as well. But I can guarantee you they will. But please. Yes, let me know if you're not seeing that on your end or anything like that. I've never had anyone have a problem, but I'm happy to help with anything I can. Let me go back to this. We use a dialer system, so let me just send you a quick text. Okay. I just sent that text message. It should come through. That's my email as well. Okay. You can call or text that number.
+Samantha Oswald: Okay. E. Kaiser.
+Emily Kaiser: Yes.
+Samantha Oswald: Okay, perfect. Okay.
+Emily Kaiser: Okay. Let me know if I can help with anything. And thank you for your time today. I really appreciate it.
+Samantha Oswald: Thank you. I appreciate you taking time.
+Emily Kaiser: Not a problem. Have a good day.
+Samantha Oswald: Bye.

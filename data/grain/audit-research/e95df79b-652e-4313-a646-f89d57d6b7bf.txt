@@ -1,0 +1,164 @@
+Jack Waugh: It. Hey, Monica, this is Jack. How's it going? No problem. Yeah, take your time. Just making sure now is still okay for you. Okay. Okay, awesome. I'll see you in that meeting link in a sec. Okay. Hey, how's it going?
+Monica Dyer: Doing well. How are you?
+Jack Waugh: Doing pretty well. It's getting. Getting pretty cold. I know. I don't know if you're on the east coast as well. I know. We're about to get some. Some snow over here, but where are you based around? We're. I'm in D.C.
+Monica Dyer: oh, okay. Yeah, we're near Austin, so it's like 75 out there right now. 65, but it's. Oh, wow. It'll. It's supposed to turn, like, tomorrow evening, freeze at night. So I don't think we're going to have anything that really sticks around too much.
+Jack Waugh: Right. Yeah, that makes sense. Well, Austin I know has. You know, it's probably a little warmer than it is up here. I've heard good things about Austin. I've never been myself, but.
+Monica Dyer: Yeah. Oh, no, it's. It's amazing. It's. It's very unique.
+Jack Waugh: Very cool. Well, yeah, I just kind of wanted to ask, like, how you've been finding everything with jots. Like, have you had a chance to, like, make any notes with it or use any patient encounters or anything? Like. Okay.
+Monica Dyer: Yeah, it's been going great until today. And then I kept clicking. Start recording. I'm trying right now to see what it does. Yeah, and then it. It's like glitching.
+Jack Waugh: Okay. Yeah, let's take a look at that, see what's going on there. Are you able to share your screen?
+Monica Dyer: I got a notification at the bottom. It's like, update is available, but I'm on the website, so I don't know if there's like, an app or Mac.
+Jack Waugh: You could try just clicking the update. There might be, like, a little button in the bottom of the screen that just says, like, update.
+Monica Dyer: Yeah, I did that.
+Jack Waugh: That's all you have to do then.
+Monica Dyer: But it didn't improve things.
+Jack Waugh: Okay, yeah, let's. Let's figure out what's going on there.
+Monica Dyer: My Firefox settings. I came across this the other day. One sec. Record. Privacy security. Okay, give me.
+Jack Waugh: Yeah, yeah. Take your time. No problem.
+Monica Dyer: Here's our meeting. Go back to share. What's it say?
+Jack Waugh: Okay.
+Monica Dyer: System preferences.
+Jack Waugh: Did you already try sharing it from Google directly?
+Monica Dyer: Yeah. Like on the call.
+Jack Waugh: Yeah. So did it give you, like, a permission blocker or something like that?
+Monica Dyer: Well, it asked me if I want to allow it, and I said, allow, and then it says, can't share your screen. Firefox may not have screen recording permission on your computer, which is the case. I don't know how. Where to change that. The other day, this came up, and I was able to click something that sent me to the setting the location in the settings. So now I'm just staring at all the settings, like, where is that? Yeah, right.
+Jack Waugh: Okay, so let's see if we can. I have a feeling I know what this might be, but let's see if we can get that working. Yeah, well, I'll give you a second first to see if you can get your settings. If not, I can always share my screen, and you can tell me where it was happening. But let's see if we can get yours up and running first.
+Monica Dyer: Okay, I think I got it. I. Password. Oh, well, I have to quit and reopen Firefox, so that might cut us off, but I'll jump right back on.
+Jack Waugh: Yeah, no problem at all. Take your time. It.
+Monica Dyer: There we go. I was laughing. I'm like, watch this Will fix. Closing fire. Yeah, I don't see that. It is. It's still spinning. Share this window.
+Jack Waugh: Oh, there it goes. Yep. Okay, so reorder stuck. Click to reset.
+Monica Dyer: Then I click that. Okay, I didn't see that message before, so maybe it really did help to restart Firefox. Oh, okay, that's clicking.
+Jack Waugh: Yeah, I have a feeling this might be a Firefox thing. Maybe something about glitch.
+Monica Dyer: Glitch. Hold on.
+Monica Dyer: Yeah, that works.
+Jack Waugh: Yeah.
+Jack Waugh: So, and typically the recording length, a couple things. You also want to make sure you make a minimum recording length of 20 seconds.
+Jack Waugh: Just you ever are just punching in additional notes and not doing the full session recorded.
+Jack Waugh: If you want to make sure it's just 20 seconds there.
+Monica Dyer: Okay. Yeah. And start it earlier. So I was like trying like making conversation with my patient like opening Doximity to try to have. I guess I stopped using that as a backup. But yeah, maybe it was related to that. Like I did the update and then they had to restart.
+Jack Waugh: Yeah, you can always check for those. Those aren't too frequent but if they ever do pop up, you can always just like when you first open up, just look at the bottom of the screen and it'll tell you there. Typically it shouldn't. If you don't update it, it shouldn't cause an error. So I have a feeling it might have been a browser thing. But good. I'm glad we at least got it working now.
+Monica Dyer: Okay, so how is there an update if I'm on the website?
+Jack Waugh: It's really just an update to the interface. It's not really updating anything on your computer. It's just switching you over to the most up to date interface with your account basically.
+Monica Dyer: Okay. I mean I tried refreshing like reloading the page and everything too and clicked around and came back and tried again and it just stayed that way. So. Okay, but it worked. Now let me try again. Yep.
+Jack Waugh: Yeah, just to make sure.
+Monica Dyer: Otherwise let's see. While I've recorded, I mean shared screen. So notes. Have these so been useful.
+Jack Waugh: Okay, awesome. And are you finding like the note is kind of looking the way you want it to? It's outputting in the sort of.
+Monica Dyer: I'm just behind on going through them and transferring them to my ehr.
+Monica Dyer: I'm like just recording and training. I got credentialed with Blue Cross Blue Shield yesterday and so it's just been like everyone's like, right, give me in dealing with all the scheduling I haven't caught up. Let's see. I don't think any of this is identifying. It's highlighting all medications. Okay. I didn't ask these.
+Jack Waugh: Yeah. So here's the way. I'll tell you how you can edit that so it doesn't cut up. Right. What you'll do is on that section there, just click in. Okay. Yeah. It's on their psychiatric history. And just type from now on, don't list past, you know, different things on here unless already specified in the like. Don't default to an answer on these if not answered.
+Monica Dyer: Okay. Don't list default. Default answers.
+Jack Waugh: Yeah, like don't, don't answer no if it's not specified. Or. You could also, I don't know. Are those questions you'll frequently ask in psychiatric history?
+Monica Dyer: Yes. Okay. These are. This is a patient that I've had for several years. And so it wasn't really like a true intake. It's an intake for my new practice. But so, I mean, I should, like, fill those out.
+Jack Waugh: So now what you would do over to the right there is you would say, yes, train this. And now the AI scribe will actually write like you on that section. So the way you're telling it to write, it'll output that for you.
+Monica Dyer: So will it change now if I refresh it or.
+Jack Waugh: You may have to do. It may take place in a new note because it's technically already created. This note going forward in this template, it'll definitely do that.
+Monica Dyer: Okay.
+Jack Waugh: And if there's ever something that is like that, where you're like, this doesn't look right.
+Monica Dyer: Try.
+Jack Waugh: You can always try that on any section and just get it. That's why we included that. So it can be a little bit more customized in those kind of formatting things.
+Monica Dyer: Okay. Is it a concern that it says zero sections?
+Jack Waugh: You could try. I mean, I don't. I don't think so, but you could. If you want to click over in that section. I just want to see something. The one right above. I'll tell you what, let's. Let's do it one more time just to be. Just to be safe. How about we go off of this page and just come back on? I don't think it's a problem, but I just want to make sure that you don't really. Run into the issue again. Okay, so let's just click X for a second on the editing Psychiatric history. Okay, now let's go back on and click that again under psychiatric history. Yeah, exactly. So now it's editing that, And then you. You could punch it in one more time. I don't think it. I don't think it actually matters, but I'm just being careful so you don't run into the issue again.
+Jack Waugh: Okay, let's see if you enter it. Let's see if it highlights that section now.
+Monica Dyer: Okay.
+Jack Waugh: Yeah. So I guess for some reason it didn't register it the first time. So I guess you would just click that psychiatric history section up there. Yep.
+Monica Dyer: Rewrite.
+Jack Waugh: Yeah. The only thing is, you'll probably want to save the rewrite until you make because it hasn't actually updated this template yet. Okay. See what I mean? Because. So first you want to hit. Yes. Train. Train all night. Okay. You don't want to do that for all 19 sections. Probably just this one.
+Monica Dyer: Not necessarily.
+Jack Waugh: Okay. Okay. So now going forward, it should do that for you, and it should output in that way.
+Monica Dyer: Okay.
+Jack Waugh: And that's how you would make that change on any of these notes that you're using or any section of a template, basically.
+Monica Dyer: Okay. It's very interesting. It need to capitalize so. Like a recovery center.
+Jack Waugh: Oh. Oh, cool. Yeah. Yeah. Sometimes jots, like, does pick up on these little things like that. Since it's actually a behavioral health transcribed like it is a little bit more accurate with the language. And we'll just like, pick up things like that here and there sometimes. So nice.
+Monica Dyer: Okay. Yeah. Such a trip. Like, I don't remember him saying that, but my human brain might have missed it. Wait, did he actually say that? That would normally have been something that I really would have cued in on and said, oh, well, let's talk about that.
+Jack Waugh: Yeah, let me know. Probably didn't just put it in there, but I'd be surprised if it did. Definitely let me know if you found that to be the case.
+Monica Dyer: But is there also a. Oh, the transcript. Right.
+Jack Waugh: Of the. Of the patient session. Yeah. So you should be able to look through it there.
+Monica Dyer: Oh, he said I might not sweat in my sleep. He just misspoke. Okay.
+Jack Waugh: Oh, okay.
+Monica Dyer: Okay. Got. I mean, I might not sweat in my sleep. I'm sorry. I was like, dude, did I miss the fact that patient's not sleeping?
+Jack Waugh: Oh, yeah, Yeah. I see. So he. He meant to say. Yeah, okay, that makes sense. Okay, so I see. So he said I might not. Gotcha.
+Monica Dyer: Okay. So, yeah, I need to go back and go back. Note. Let me see again.
+Jack Waugh: Yeah, And it looks like it also did highlight. I don't know if maybe you highlighted that just there before, but it looks like that. There's, like, a purple highlight in that already.
+Monica Dyer: It's because I did command F and I'm searching for that phrase to get.
+Jack Waugh: I see.
+Monica Dyer: Yeah. When I. It would go away when I took that off. Okay. Yeah. That's funny. It didn't. Didn't catch his thing. I mean, not that you can always.
+Jack Waugh: If there is a section you ever find that's happening on where, like, patients are a little bit more general, you know, you can always do the same thing with the AI node assistant on that section and be like, make sure you don't just update it the first time. Make sure you update the correction that the patient makes, too, because a lot of times people don't want it to do that because they want it to go with the first answer if they're doing, like, an intake.
+Jack Waugh: But, yeah, your case, that might not apply to you as much, so you can always tell it. Hey, make sure you're, like, not just sticking with the first thing he says. Make sure you're, you know, updating those changes.
+Monica Dyer: So especially if he told you that he just smoked a bowl of marijuana before his appointment.
+Jack Waugh: Right, right.
+Monica Dyer: I specify that.
+Jack Waugh: Yeah, that. That's definitely relevant.
+Monica Dyer: Down to just two bowls just in the morning and at night.
+Jack Waugh: Right, right. Quite a cocktail.
+Monica Dyer: He's doing. Amazing.
+Jack Waugh: I'm glad. I'm glad to hear that. Yes, yes.
+Monica Dyer: It's really. It's funny too how like I use stuck sometimes. Like the language I use to explain to patients isn't always like what I want to document. So sometimes.
+Jack Waugh: Yep.
+Monica Dyer: Like I would, you know, like persistent things. But yeah.
+Jack Waugh: And, you know, same thing applies there, which is you can always be like, don't use whatever slang. Like whatever the psych term for slang would be. You know your. You know your own phrases.
+Monica Dyer: Instead of this phrase, use this phrase.
+Jack Waugh: Yeah, yeah. Just if you see any of those phrases you use pop up, you can easily change that so it won't use that again.
+Monica Dyer: Okay.
+Jack Waugh: And just more generically, if there's a section that you see it's picking up too many things like that, you can just say like, hey, be a little bit more formal on this section going forward. Like, don't use.
+Monica Dyer: Okay, yeah, I've worked with Chat GPT for that changing. What is that? Syntax.
+Jack Waugh: Yeah, right, right, syntax. Yeah, exactly. And the nice thing is once you do this on the templates, you're using like once or twice. Like, you probably won't have to do it much again. So the idea is when you get into the flow of it and you've done this with the first couple of notes, like, it'll be outputting the way you want it to. So it'll just be you looking it over, not really making too many changes and just having. Being able to, you know, have it ready to go.
+Monica Dyer: Okay. Yeah, Especially with the for now on.
+Jack Waugh: Right.
+Monica Dyer: Freezing.
+Jack Waugh: Yeah, definitely. Okay, so does that help answer some questions there?
+Monica Dyer: Yeah, definitely. Yeah.
+Jack Waugh: Again, just on the record window, make sure. I think I already told you this, but just make sure after you've done all the recordings that you click the generate note button.
+Jack Waugh: Yeah, I think you are know that, but just in case I didn't specify. Yeah, cool.
+Monica Dyer: Would I be able to tell if I like missed that on any of them?
+Jack Waugh: No, because you just wouldn't see the note.
+Monica Dyer: Okay. Like I have reviewing on some and then complete another.
+Jack Waugh: Okay, yeah, good deal. Awesome. Well, yeah. Any other questions I can help answer for today? I mean, is that all kind of making sense and sounding a little bit more like. Like you would. What you would be wanting jot psych to do?
+Monica Dyer: Yeah, yeah, I think so. Cool. I was supposed to meet with Chris last week and then I had to move it and I thought we moved it to tomorrow to Friday again, but then I just went back and saw when I was looking for my meeting with you, it popped up that I had a meeting with him on Wednesday yesterday.
+Jack Waugh: Oh, okay. Let me. I can go ahead and set that up for you actually, if you want me to. That would be tomorrow, right?
+Monica Dyer: Yeah. Well then I went to his calendar and he has a 1 o' clock and a 2 o' clock central. But I have a patient at 1 and I don't want it to go over into the 2 o' clock hour and then be late to meet him.
+Jack Waugh: So would you be able to do 2:30 tomorrow? Looks like he has that on his calendar.
+Monica Dyer: Yeah.
+Jack Waugh: 2:30 central. Yeah. Okay, I'll go ahead and set you up for that. And this will be in your email. Actually, you probably should let me know that you receive this just to make sure we're all set.
+Monica Dyer: Yeah, I will go add it to the calendar right now. So it's okay.
+Jack Waugh: Perfect. And yeah, one second.
+Monica Dyer: It's a new patient so it'll probably go over a bit. So.
+Jack Waugh: Gotcha. Yeah, yeah. So this is starting. I have you starting with him at 2:30 Central Time, so should hopefully give you enough leeway. But just, you know, text him if you need an extra few minutes or something and I'm sure he'll be okay to accommodate that.
+Monica Dyer: Okay, awesome.
+Jack Waugh: I think that's in your email now. Do you see that there?
+Monica Dyer: Yes, and I'm adding it to my calendar.
+Jack Waugh: Awesome. Cool. Yeah. And then as far as your job site trial goes, it looks like you'll probably be done pretty shortly. I think maybe you have a couple more days. So if you want, I'm happy to set you up for the discount month too so you can keep using it a little bit past the trial. Does that sound sound good?
+Monica Dyer: Yeah, I've got. Was it another week?
+Jack Waugh: I think it's a little. It's like a little less than a week. I can double check here.
+Monica Dyer: I'm traveling for like three weeks in February.
+Jack Waugh: Gotcha. The reason I also mentioned that is typically I can only do it when we talk, so I know sometimes it's like a hassle to set that up later.
+Monica Dyer: Okay.
+Jack Waugh: Yeah, yeah.
+Monica Dyer: So if we did a month now, it would be.
+Jack Waugh: That would take you. So your trial is over at the very. At the 29th, so that would actually take you into February. Like, to the end of February.
+Monica Dyer: Yeah. Okay. I get, like, till. Like 28th.
+Jack Waugh: Yeah, yeah, like through the 28th up until that same time on the 29th. Okay.
+Monica Dyer: Does it leap here?
+Jack Waugh: That is a good question. I don't actually. Let's see, days in February, 20, 26 is. No, no. So. Oh, so you would get through up through March 1st then.
+Monica Dyer: Okay, cool. Then that would. Would be helpful. Okay, cool.
+Jack Waugh: I can go ahead and get you set up for that. So what you're going to do is you're going to go see your practice up there on the top of the screen. Yeah. So click that. Then you'll go to subscriptions and then manage subscription. Okay. And then see the top. I know there's two, but just look at the top one and see the add payment method there. So you can go ahead and put that in and once that's in there, I can, I can approve you on my end.
+Monica Dyer: Okay. Where's my wallet? Okay, connected my bank account. And hit update.
+Jack Waugh: Yeah, and then once you hit that you should be. Okay, just double check. See back to that screen. Okay. Yep, you're all set. So I'll go ahead and approve you for that and then you'll meet with Chris Tomorrow at 2:30 your time.
+Monica Dyer: Okay.
+Jack Waugh: And yeah, in the meantime, if any other questions come up, feel free to just shoot me an email or give me a call. You know, I'm happy to like answer any other questions, but I think you're going to find this helps you deal with some of those things you were noticing. So.
+Monica Dyer: Okay, and then, so when will it. So when will it debit?
+Jack Waugh: Oh, so you are the last day of your trial is the 29th. So it'll switch you over to the discount month for $20 starting then and then the following exactly a month later from that, then you'll be on the full price from there.
+Monica Dyer: Okay. Okay. And so it won't say $20 on there.
+Jack Waugh: It doesn't say it on there. That's. I have to do it on my end.
+Jack Waugh: But you will, you will not be charged $150 for the first
+Monica Dyer: month because there's not 150 in that account.
+Jack Waugh: Okay, yeah, no problem.
+Monica Dyer: Okay.
+Jack Waugh: As long as there's $20, then you're good to go. So.
+Monica Dyer: Yes. There. Awesome.
+Jack Waugh: Well, thank you. I think after that you will find that it's saving you enough time to be like, okay, you know, this is worth it. And even at that, I will say after the discount month you can also do. If you pay annually, it's about 135amonth. So if that's something you want to do after the discount month, just let me know and I can help you get set up with that. Okay, cool.
+Monica Dyer: Well, awesome.
+Jack Waugh: Yeah, absolutely. Monica, let me know how everything goes with Chris tomorrow.
+Monica Dyer: Okay, will do.
+Jack Waugh: Okay. Have a good day.
+Monica Dyer: You too. Bye.
+Jack Waugh: Bye.

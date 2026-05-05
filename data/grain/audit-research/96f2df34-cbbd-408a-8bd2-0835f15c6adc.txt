@@ -1,0 +1,62 @@
+Garden Gioia: Great.
+Christopher Hume: That is good. I'm sure no one will show up, and then I'll be pissed that I cut this short.
+Christopher Hume: But, hey, we do what we can do. So I think what I want to do is just like, let's do three minute check in here. How are you guys doing? How's your first week experience going? Anything we need to change or adjust or you think would be a better use of your time. So we'll do three minutes on that. And then, Ryan, I started looking through your responses. I have a few points of feedback, but overall, very good. You certainly get the assignment. So, Joya, you're top left for me. How are things going? Anything kind of. Any adjustments needed? Anything like that?
+Garden Gioia: Things. So far so good. Excited to sort of, like, give, like, hands on, sort of like.
+Garden Gioia: Or get, like, feedback on, like, my exercise later today of, like, going through the inbox. I'm just chipping away at some of the, like, videos that are in the notion. And then otherwise, like, if there's, like, specific times you want me to block off for next week, that'd be great. Like, the sooner I could get that block, the better. Just so I don't like a session with someone otherwise.
+Christopher Hume: Perfect.
+Garden Gioia: All good so far.
+Christopher Hume: Okay, that's good stuff. And I'll get you those blocks today.
+Christopher Hume: Um, Ryan, how are things from your end?
+Ryan McAnelly: Things? Things are good. Yeah, things are good. The trainings are. The videos and stuff are awesome. Like I said before, my only hiccup is I. I've not had to clock in for a job in a very, very, very long time.
+Ryan McAnelly: So getting used to, in my head to be like, all right, hey, go to rippling and. And clock in and stuff. So that's been my hiccup.
+Christopher Hume: If you. If you end up messing that up, just let me know. It's no big deal. We can always fix it afterward. Okay, cool. That's good. I think really excited to get you guys up and running this week, kind of testing stuff out. There's a few different ways we can go next week. I'm still trying to decide. Probably depends on how the front work goes. But I think a good kind of entry to this role would you would be you guys identifying recurring problems and developing either training guides or just like, standard response templates that we can use. So the idea is there's actually some thinking involved and we're trying to make this one, easier on us to respond to customers, and two, if it's possible, get them to stop reaching customer support at all. So that's one option I'm thinking of. The other option is in the past we've tried to call customers right when they sign up for job site, be like, hey, welcome aboard. Could you want to sign up for a one on one training session? I put some thought into it. We've never really had success with that for a lot of reasons that we won't go into in the next 12 minutes. But it's something I think given both of your demeanors and the great job you did on the demo. Could be a real value add for some of our customers. Just want you to know that next week can be a little different. A little bit more hands or a little bit more. Less training, more acting. And that's why we structured this trial period for two weeks, because I knew this week was going to be slow. Just because. Kind of hard to learn all this so quickly. So I appreciate you bearing with me here.
+Garden Gioia: Yeah, great.
+Christopher Hume: All right, let's rock and roll. Oh, no. Oh, this is actually. Now this woman is setting up e prescription, but she can't find the meeting on her calendar. Let me actually, let me slack our engineer and be like, call Jennifer. She can't find the meeting.
+Garden Gioia: Okay.
+Christopher Hume: This is a one off. This typically wouldn't. That's kind of unusual. Okay, cool.
+Christopher Hume: Are you interested? Delete. You are correct. Feels so good to chew through these. Okay, I think this one came in after you did it, so we'll review later. Delete. Can I send you. No, you cannot. All right, so. Hi, reserve. Happy to find it helpful. Yes. The time comes, you can always hit your subscription. When my current subscription ends, I would say, so this is correct, but I would recommend you just tell her to do it immediately. This is kind of like a nuanced thing here because we want to strike while the iron's hot. And like, if we get someone to convert for a year, like, hell yeah. There's no way for you to know this, Ryan, but when she commits, it should prorate any balance she has outstanding. So she has like, she's already paid for the month. Converts to a year halfway through the month, and she says convert to 150 or convert to a year, she'll get that prorated $75 back. So I would recommend telling her to do that and then keeping an eye on her and checking like tomorrow to make sure that it actually goes through. Because, like, whenever we get someone and guarantee that they're going to be with us for a year, like, oh, yeah, let's do it.
+Ryan McAnelly: Yeah, I think she's. I think she's currently subscribed for the year. So is that. Is that the same thing?
+Christopher Hume: Oh, yeah.
+Ryan McAnelly: I went back. I went back through the notes and last time she reached out was nine months ago.
+Christopher Hume: Oh, my God. Wait, then that's why you guys are taking over my. Some of my duties here. I'm slipping. Hello. That is super interesting. Yeah, okay, great point. Good catch, Ryan. We'll switch switch positions tomorrow. I'll be doing the examples and you'll be correcting me to end a couple months. I'd like to pay for the time in May when my current structure ends. So actually the answer here is it's an automated renewal, so no actual keep on keeping on cool. What she was. This is why I got confused is if she had been trying to convert, this is how she would have done it now from monthly to annual. Yeah.
+Ryan McAnelly: Okay.
+Garden Gioia: And. And it would have prorated like if. Well, I guess she wouldn't have done it. Okay, okay, okay.
+Christopher Hume: If you did it like halfway through a month. Right. So you're paying month to month.
+Garden Gioia: Yeah.
+Christopher Hume: May 1st you pay for job psych, and then you're like, oh, crap, I meant to convert to an annual. You don't have to do it right on May 1st. Just do it whenever and you'll get the prorated so you're not double tapped.
+Garden Gioia: Okay, cool.
+Christopher Hume: Grant, if you have time, we don't need to drop a file in this roadmap. Do you have the. You do have the ability to copy and paste information in this section or even just say it into a separate recording? Yep. That's all correct. Nice job, Brian. And sorry, Joy. I know I'm cruising along here. So.
+Garden Gioia: Problem was something that we can add to our engineers roadmap for future. Future. Okay, sweet.
+Christopher Hume: Yep. So that's like the nice, like, hey, we're definitely going to tell the engineers, don't worry, we listen to you. But then you gave Ryan both of like the, hey, this is the. These are the workarounds.
+Ryan McAnelly: So, like, in that instance, would I then like tag an engineer to add to the roadmap?
+Christopher Hume: You would go, did you guys. Ryan, have you been added to the bug Slack? Yeah, I know this is a little bit rush.
+Ryan McAnelly: I don't think so.
+Christopher Hume: Yeah, let me add you. Okay, so I'll share my screen. So because our engineers are great and AI tools are getting so powerful, all you have to do is say at jots like Slack agent and just say what you. What a customer's asking for and it gets added to the roadmap and they can prioritize, deprioritize, tell you it's stupid. Like, this is so it's literally just typing it in Slack and it gets added.
+Ryan McAnelly: Oh, cool.
+Christopher Hume: It's really, really any.
+Ryan McAnelly: Any random suggestion that comes in.
+Christopher Hume: Yeah, yeah, yeah. I would say if it's like completely bonkers, you probably don't have to put it in there. If they're like, yeah, yeah. If it's something that you're like, well, we're never going to do. Like if someone's like, hey, I want to be able to sell my data to or I want to make money on selling my data. Like, I've had someone say that to me before. You don't need to put that into the Slack tracker.
+Christopher Hume: You can just go to Lip service and say like, hey, that's a great idea. I'll raise it with the team. Doesn't need to be officially added to the roadmap, but most things would go in here. Yeah, cool.
+Garden Gioia: Okay. Like a double up. Like it'll combine them.
+Christopher Hume: So if they double up, no big deal.
+Garden Gioia: Sweet. That's awesome.
+Ryan McAnelly: Oh, cool.
+Christopher Hume: AI is crazy. Okay, I'm looking at the. I actually, Yeah, I think here. This is a really good response, Ryan, to the first half of her message. I have no idea. And so Joy, I just give you the background here.
+Garden Gioia: Yeah.
+Christopher Hume: What happened was she's been begging us to do these, like all these different things with forums. We've been telling her for weeks they're not possible. And then I finally broke down last night. I was like, okay, it actually looks like it's on the roadmap for next week, so you'll be able to share them soon. He's asking for very reasonable things, but she's very insistent. The. Did you know what the second part of this email was about, Brian?
+Ryan McAnelly: No. No. And I was going to ask you that this morning.
+Christopher Hume: Yeah. So it seems like. He is saying. She says this is an example and it does not prove anything. Since nothing is really written. It would be hard to say he agreed to terms if the terms do not show. Actually, I think you handled it pretty well. I think this is just like a. Yep, understood. I'll fly this to the engineering team. You can always ask for more detail here. And it's like, specifically what would you like added to this monthly recurring payment authorization is probably just to make sure she feels really heard. But frankly like I was responding to this email and I'm just like churning and burning trying to make sure all the customers are getting their love and attention. I think your manual. Thanks for your feedback that this over is probably good enough.
+Ryan McAnelly: Okay.
+Christopher Hume: Okay, perfect. Then the rest down here are just kind of recurring ones that I'm dealing with. So in the last three minutes here. What questions, thoughts do we have about this, about today, about next steps?
+Garden Gioia: Probably just like more repetition with this would be helpful. More exposure to the emails that come in and how to troubleshoot would be great.
+Christopher Hume: Oh, you're going to get the repetition, Joya. So yeah, let me know how this afternoon goes. I think I have on the calendar for all of us at 3:30 Eastern and then, Ryan, I invited you to my customer support meeting at 11. Does that time work for you?
+Ryan McAnelly: Yeah, perfect.
+Garden Gioia: Wait, quick, quick question about doing the drafts. What are you. And Ryan, you can probably answer this too. Like, do you. Did you add your draft comment to like add internal comment section or did you wrapped in that section right above it?
+Christopher Hume: Great question for customer support chatbot things. So if you can type a draft, just do the draft and just don't send it. That way when I approve it, I can just jump in, make any adjustments and send for some of them. Some of the chatbots, they're going to automatically close out. And so we had to do the whole like email thing.
+Christopher Hume: So then you can just do a comment.
+Garden Gioia: Okay, okay, I think I got it. All right, sweet.
+Christopher Hume: Like if this was grayed out, you would just leave a comment instead.
+Garden Gioia: But otherwise just put the draft there. Sweet.
+Christopher Hume: Yep, put the draft, don't send it, and then we'll all review it together. Okay, cool. Thanks guys. Appreciate the speed round. And you guys bear with me and Ryan, I'll talk to you in 45 minutes. Oh my God. Enjoy. I'll talk to you 3:30.
+Garden Gioia: Sweet. All right, bye guys.
+Ryan McAnelly: See you. Bye.

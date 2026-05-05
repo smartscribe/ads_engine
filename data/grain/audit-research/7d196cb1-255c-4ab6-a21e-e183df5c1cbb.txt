@@ -1,0 +1,301 @@
+Emily Kaiser: Hi there.
+tctillemans: Hey. Hello.
+Emily Kaiser: How's it going?
+tctillemans: I am good.
+Emily Kaiser: Good. I'm Emily. I will be doing your demo today. So just so I can understand a little bit more about how I can tailor it. To best suit you. Can you tell me a little bit about your line of work and. And your practice overall?
+tctillemans: So I'm a psychiatrist and I have a unusual practice. I work in seven different clinics. Many of them use different softwares. Most of them are like therapy offices. I use like therapy notes, and some of those I'm familiar with a lot of the psychotherapy ones, so they use. So I work with simple practice. Therapy notes. And therapy appointment. And to deal with that, what I do, I use Dragon and then just put that into a Word document and then just insert the Word document to their platforms. You know, that way I don't have to. That way I can use the same format everywhere I go, and I don't go crazy with everywhere is different, you know, Perfect. And now medical director for five other. For five clinics. Some of those. Those. Some of those not. So I'm all over the place. So I have to have one system that's very consistent or I go insane. And now that dragon. Now that copilot is messing up the dragon, and it's causing all these problems. I have to abandon this. And I have a friend of mine who uses yours. So full disclosure. So I met with media writer. Or is it media writer last week.
+Emily Kaiser: Do I have that right? Okay.
+tctillemans: That's the other big form, or. I'm sorry. Yeah. And then this week I'm meeting with you guys. He already uses jot. Psych. So I thought, well, I'll hit you two of the big ones and see which platform meets my needs the most. I'd rather be you guys, because I already somebody that can give me tutorials right in town. And get me up to speed faster, you know?
+Emily Kaiser: Yeah, absolutely. Multiple clinics. Now, you. You mentioned multiple CD clinics. Or are you working, like, privately through them? Just so I understand more.
+tctillemans: Some I'm a medical director of some. I'm just a. I just a contract. I just knock out psych meds there. So it's a little. Everyone's a little different. You know, but I'm looking for a platform where basically I can use the same platform and then just dictate the note with the client, you know, in the room, and then I can just inject that into whichever platform I got to use. Which of those platforms are you already integrated with?
+Emily Kaiser: With the ones that you mentioned. We should be integrated with all of them. You should be able. You should have no problem with integration. Well, I'm not 100% positive, but I can get a list back to you.
+Emily Kaiser: Yeah, if you would, that'd be great.
+tctillemans: Yeah.
+Emily Kaiser: Because that makes a big difference. No, yeah, definitely. So we are. Let me just log in and. You found jots. I get a good time evolving quite a bit right now. I'm not sure I know. You said you had a friend that used jots, like, so I'm not sure how much you know about.
+tctillemans: But right now, much other than I assume you're. There's kind of a format y'all kind of use. Yeah.
+Emily Kaiser: Yeah. Yeah, exactly. So sorry, I'm just trying to log in over here. It's giving me a hard time.
+tctillemans: I know I got to play with it a little bit. One time he was telling me about a year ago, and I said, well, what does it do? I deal with a lot of, you know, trauma, sexual abuse, those kind of things. Because if it's, you know, summarizing our note, I need to make sure it keeps certain really personal data out but yet capsulates enough of anyone reason. Oh, that's the trauma. I know what you're dealing with, you know, so well. Just here I'll show you how to do your little phone app, and he goes, watch this. So I was the patient and I said some really gory, you know, kind of details, and it was just amazing, the summary it did and what it kept out. It kept everything else I wanted out, put everything I needed in. I was like, holy crap, that's a killer app.
+Emily Kaiser: And then I just got really
+tctillemans: swamped and didn't take the time to, you know, get up to speed and get going with you guys. But now life happens. Microsoft's continued incompetence is forcing me towards you guys.
+tctillemans: Okay, okay, well, so it wasn't my discovering you guys and being progressive. It was merely I have to freaking survive at this point.
+Emily Kaiser: Yes, yes, now I get that. And I know that change is hard, so I am loading on my end, and then I'd like to share my screen and show you just realistic information. Not psych, but loading because it seems to be taking its time. Jot Psycho. It is known for the a scribe portion of it. So we are. We.
+tctillemans: We have.
+Emily Kaiser: Are there other portions? Yes. There are. Currently, we are.
+tctillemans: Can you give me a quick overview of what the other things are? Maybe I'll even be more excited and then I'll listen even closer. Not that I'm not already listening with everything Baited breath.
+Emily Kaiser: Yes. No. Right now we're rolling out jot bill jot audit. And helping clinicians get paid and keeping everything under the roof of one system, because we hear that frustration for people, you know, clinicians like yourself.
+tctillemans: Billing platform.
+tctillemans: Yes, as well as actually, because I've been looking for. My private practice has been a cash practice. But I need something to track that better than more efficiently so that. When do you think that's going to be? Not g when we think it, but when's it really going to be real world ready?
+Emily Kaiser: It's already out. You can sign up today.
+tctillemans: And then the other feature, is it ready for prime time or. It's more looking like beta at this point. There's plenty up. A lot of crap.
+Emily Kaiser: No, it's. It's pretty. It's. We have customers right now. No, I mean.
+tctillemans: I mean. Is it all stabilized where you got all the. The kinks worked out? You know, these things release and it's just impossible.
+Emily Kaiser: And everything perfect.
+tctillemans: Are we still fixing some things or is it pretty. Pretty. Been out for a while. It's pretty solid now.
+Emily Kaiser: It has been out for a few months. So I can't say that we're past all of the same things because being in this space, we are constantly improving where we can. But that's kind of the nice thing about it is back a lot of our customers, which is this kind of platform becoming this kind of platform, like a one stop shop.
+tctillemans: If you and the other absolute stickiness of if all you're doing is the first service. They can search services on a dime, but once you have their billing, they're locked in forever.
+Emily Kaiser: Sure. Exactly.
+tctillemans: How do we mean about it? By just saying that is true. In life.
+Emily Kaiser: No, absolutely. Another thing we recently rolled out is JoPrx, which is ePrescription right in Inside Job site.
+tctillemans: Now. Oh, question there. That's huge too. Does that mean what I dictate for my meds will automatically populate in the. In the med portion as well in the Rx, or do I have to hand put all those in?
+Emily Kaiser: Nope. So we. It will. It will be automatic. So we have a partner dose spot. So basically, the two jot psych and dosebot communicates, so there's no need to enter information twice. Insurance information. Information, everything like that.
+tctillemans: You just gave me the killer app.
+Emily Kaiser: Awesome. We. That's exactly what we're trying to do.
+tctillemans: Okay? I can tell right now you've already got the sale. Now let's talk about upgrading me.
+Emily Kaiser: Yeah.
+tctillemans: So now we're only at upgrades. Now, unless you're. Unless your platform really is cumbersome in the dictation, which is the ultimate. It has to do that. Well.
+Emily Kaiser: So if we can tour that a bit.
+tctillemans: Then the other things are the killer apps others don't have. That would be really cool things, because the fact that it could even. Even if I didn't have you do my billing, If it can. Oh, wait. Though. Can it do? Can it inject that data into like. Because some of the clinics I right now use MD Toolbox, if you're familiar with that.
+Emily Kaiser: I'm not personally.
+tctillemans: It's a freestanding program prescribing software that. That's all it does. No billing, no anything. And I use that one, so that way I only have to use one. And it applies to all my clinics. All of them go through there. Okay.
+tctillemans: Okay, so I don't. Have to put, you know, summits are on, you know, one platform or another. In your system, can you? If I'm using your system in like therapy notes, will it auto inject the meds into their prescribing software or can I not do that? Is not integrated for that.
+Emily Kaiser: That's a good question. I don't want to over promise and I'm not one. Hundred percent sure on that. So I'd love to get some clarity on that and provide you with a better answer of that.
+tctillemans: Because if I can only do it at one clinic, it's not really worth my time. If I can do it at a couple of clinics, but not all it's worth my time.
+Emily Kaiser: Yeah, no, exactly. Because you're operating out of multiple clinics. I want to be sure on that one.
+tctillemans: Yeah, I know. I have a very complicated. I mean, literally, I go to a different clinic every single day.
+tctillemans: I am never in the same town every day. So it's a very complex web. And the only way I found that I can achieve that if I have certain platforms are always the same everywhere I go, definitely, but. But if I'm only. But if I'm using this in some clinics and other clinics, it gets really difficult. So if it's. If it's the majority of my clinics, I can do completely through you, you know, at least through my prescribing in that, then that makes a lot of sense. To bundle all these up. I assuming there's just is a bundling fee. Hey, you have this, then you add on prescribing it and then you just added on.
+Emily Kaiser: Exactly. So we're moving towards a la carte pricing just because some people need more features than others. And this gives you the chance to kind of pick and choose exactly what you want to activate on your account.
+Emily Kaiser: So let me go ahead and share my.
+tctillemans: Because I realize I derailed you massively and it's all my fault. If I wanted all three, the billing, the pharmaceutical. I mean, the prescribing and the AI dictation. What are we running a month as a package deal?
+Emily Kaiser: So I think what would be beneficial is, I mean, I can basically grab 150amonth and JotRx $69 a month. But because you're working out of multiple clinics, I'm wondering if group pricing would be more applicable to you. So sorry. One second. Okay? Yeah. So I'm wondering if group pricing would be more applicable. I'm wondering today if I could use our time to kind of show you the platform, show you the features, and then we could set a follow up meeting with one of our specialists who can answer specific direct questions regarding your workflow, regarding pricing, regarding implementing all of these things.
+tctillemans: Absolutely.
+Emily Kaiser: Is that ok?
+tctillemans: I want to do it, Mark.
+tctillemans: You know, it's fine. That's fine. Yeah.
+Emily Kaiser: Okay.
+tctillemans: Yeah. No, it's like, well, while we're on this, if you can give me a ballpark, and you've done a great job of giving me ballparks. Then I was like, I might as well hit it. And then. Because that'll. Yeah. So, yeah, yeah, we'll switch over to.
+Emily Kaiser: Let me see the platform now.
+tctillemans: You know what I'm noticing that is going to be on a. On my phone screen on Google Meet. That is so tiny. Can you send me a link for my computer. I could do it on my computer to see it, because it's.
+tctillemans: It's even let my readers on. I can't read it.
+tctillemans: Let me see if I can shoot me an email or. How are you going to do that?
+Emily Kaiser: Yep. I'm going to send you an email. It's just going to happen.
+tctillemans: I should have brought my iPad. Then I could have had all done there.
+Emily Kaiser: But no problem.
+Emily Kaiser: Let me just make this big. Ger. And where are you? What is a good email? He is a tad.
+tctillemans: C as in Christopher. Tillaman's t I l l e m a n s. @icloud.com and if you get it right the first time, I will be so impressed. No one ever does.
+Emily Kaiser: All right, let's see. Tell me if that came through on your end. I just sent that.
+tctillemans: Okay?
+Emily Kaiser: And I am out of detroit. A little bit north of Detroit.
+tctillemans: Okay. Well, I noticed my uncle is a Kaiser.
+tctillemans: Obviously a very unfortunate name during World War I and World War II, but especially World War I. But I don't mean any. I grew up Minnesota, so I don't. I live down south now. I was like, wow, you never see Kaiser.
+Emily Kaiser: That's so funny, because I hear this quite a bit. I hear that. There are Kaisers. There's some in California, I hear.
+tctillemans: Oh, really?
+Emily Kaiser: But I married. I married into the name, so.
+tctillemans: Okay, I gotcha. Haven't gotten it yet, so I just fell.
+Emily Kaiser: Let me see here.
+tctillemans: People usually leave out the e between, so it's t I l l e m a n s till a man sponetically.
+Emily Kaiser: Yes, Got it. I'm sorry, give me one second.
+tctillemans: Sure. Chicken.
+Emily Kaiser: Okay. Sorry about that. So I spelt it t c t I l e m a n s.
+tctillemans: @icloud.com and that's T as in Pads, c as in Christopher.
+Emily Kaiser: He is a tad il e m.
+Emily Kaiser: No, I mean, so it's Tctillimans.
+tctillemans: And you've got. When you're saying it's a C as in Christopher, not like a P or anything else.
+Emily Kaiser: Yes. Correct.
+tctillemans: I don't have it on my phone or my computer.
+Emily Kaiser: Do you try to just refresh your screen? And if it doesn't? Come through, I would try checking your spam.
+tctillemans: That's a good idea. Yeah. Okay, let me see here. Not there. And my Mac, my iPhone will almost always get all these really easy. So that's what I'm tricking Both. Give me one second. Al, check my cl. No. This isn't one of these things where, like, you millennials start farting with us all screwing up with us old guys and freak us out because, like, no problem.
+tctillemans: It's not like that, is it? Okay.
+Emily Kaiser: No.
+Emily Kaiser: I wonder, is there another email I could send it to?
+tctillemans: Yeah. I don't know. I go there. You could send it to Tctillimans. Mail.com.
+tctillemans: I just got it. Wow.
+Emily Kaiser: I just got my job.
+tctillemans: Well, normally I get things immediately. That's what I was kind of like.
+Emily Kaiser: Well, I just got my phone.
+tctillemans: Now, my PC, my job. That's the other thing I'm trying to get on the PC world and back into the Apple world. Still don't have it on my PC yet. I can't believe it would take that long. Usually, you know, seconds.
+Emily Kaiser: Yeah, I wonder if it's my computer.
+tctillemans: Well, let me. I got an idea.
+tctillemans: I'm going to do this. I'll send it over from mine to that and see if it'll take it better that way.
+Emily Kaiser: Okay.
+tctillemans: At least once I got this. Here. Okay. Or to floor to my computer, see if I can do this way. Sorry about all this.
+Emily Kaiser: No, that's okay. No worry. I always tell people this is the hardest part of navigating to where we need to be. Sharing screens, everything like, that you're not alone.
+tctillemans: Everything that's. Everything that's going wrong. With. With Microsoft and all the crap they're doing behind the scenes on 365, it's just practically unusable some days.
+Emily Kaiser: Oh, man.
+tctillemans: Okay, I got the one. Well, see, I just got it from my phone. Sending it. We're on the same Internet, so I don't know why. I don't know how many firewalls you guys go through, but my world. Emails go through within seconds. Okay, so I got it. Okay, so you just want me to. Let's see. What did you just send me? Just join the Google Meet link. Do you want me to do you want me to do them meeting Link? Like, as in hit the. I'll do it as the meet Google do it that way. Okay? Okay, I'm going to turn the camera off on this. Okay, so switch the call here. Move a call here. I don't see anybody else. Switch. There we go. Can you hear me? Okay?
+Emily Kaiser: I can. Can you hear me?
+tctillemans: If I turn my volume up, I can. There we go. Ok, cool.
+Emily Kaiser: Perfect.
+tctillemans: Got it.
+Emily Kaiser: So, are you able to see the screen? Okay, perfect. So what you're looking at is jot takes home screen. Out of this.
+Emily Kaiser: It's so beautiful. So basically, this is the home screen, so you can go in and log in to jot Psych, and you can just jump right into recording an encounter, scheduling an appointment, managing patient profile. Like I said, we're trying to make it easy and convenient. So you find all of the information you need in one platform.
+tctillemans: You're making Apple else.
+Emily Kaiser: I like.
+tctillemans: Yes, yes.
+Emily Kaiser: So let me see here. So sorry, if you hear background noise, my daughter is. What you can do. With that.
+tctillemans: How old is your daughter?
+Emily Kaiser: Who's 11 and a half.
+tctillemans: Oh, how fun. So she'll be. She'll be wailing in a minute, yeah.
+Emily Kaiser: Let's see. Hopefully not, but. So basically you can go in 60 year old dad.
+tctillemans: So I. Trust me, I get it.
+Emily Kaiser: Oh, I love it. Ok, cool. Do you have sons? Daughter?
+tctillemans: One shepherd, two sheep.
+Emily Kaiser: Okay.
+tctillemans: One daughter and two boys.
+Emily Kaiser: Yes, yes, yes.
+tctillemans: Always don't get that. Women always know. Like, yeah, like you put a man in charge of that.
+Emily Kaiser: Perfect. Okay. So basically, as you can see, you can jump into recording and encounter. And I think it would be most beneficial to show you what is produced once you do record that encounter.
+Emily Kaiser: So you can see notes right here. So let's see here.
+tctillemans: And is this order of what I dictated that day? I'm assuming what I'm saying exactly.
+Emily Kaiser: Yep. Let me see if I can just exit out of this. I'm not sure if it's blocking your view. Okay. You can see here where I'm hovering over everything's going to be the most recently seen patient to the furthest away appointment. So top to bottom. So we'll go ahead. What's that?
+tctillemans: How many days can I save those out?
+Emily Kaiser: Seven years it saves in the system.
+tctillemans: Oh, wow. Your competitor only gives 180 days.
+Emily Kaiser: Oh, interesting. Yeah, I'm, like, 90% dried.
+tctillemans: Seven years believer know thy competition.
+Emily Kaiser: Yeah, yeah. So what you'll see here is every time you record with Alfred Appleseed, we'll say every time you record with this person, it's building a patient profile in the background. So you are able to just kind of jump right in and see what your last is, see what the treatment plan is, see any patient forms that you've sent over from Chat Psych. This is where you can set up your eprescription or whatever that may be. Everything is set up. You be patient encounters, patient documents, diagnoses, medication and medication timeline, as well as just basic demographic information. So that's kind of nice just to keep everything in one spot, but with jot psych, I can show you. How you kind of go to record. I'm not going to court because we are using the microphone. But basically you can record, and it will in 20 to 30 seconds. I should be more specific. So, basically, you can pick your patient up here, and then you pick your form.
+Emily Kaiser: Or your template that you want to use. And you can do all sorts of templates and I can show you that. But for the sake, we'll just go ahead and do intake. And then you would start recording. And then it also, like I said, if you have the patient's name in here, it'll show the last encounter. Demographic information, medication and diagnoses. Information is in job site.
+tctillemans: Okay?
+Emily Kaiser: So then you start recording. In 20 to 30 seconds, it will produce a note. Which is going to look, see if we have one for Alfred. Also you can see John Doe. I use quite a bit with different people, so you may see some conflicting information, but this is much what a note looks like. You have the summary Chief complaint hp based off of the template you choose. Is how it will be produced and organized. You'll see information and then you see the endnote assistant on the right hand side here.
+Emily Kaiser: And basically this is. These are examples that you can give feedback to the AI and say, make the HPI shorter, remember, for all usernose and it will produce. We can just go ahead and do that. So this is the current HP. Decently long, talking about safety, risk, substance use, all of the information needed. Make shorter. You could say something along the lines of change the word patient. You could say, create bullets under this section.
+tctillemans: If I want to just dictate over exactly. Like just punch in this exact words. How do I do that?
+Emily Kaiser: Yeah. Go ahead and type right on it. Right on the note. You can tell the AI to place it for you every time it pops up.
+tctillemans: Or like. Well, say, like, I've got, like, a phrase I want to eliminate. Do I just highlight it and then just tell it? Replace highlighted freight. What you do?
+Emily Kaiser: Right, Exactly. So what you could do is you could hop into the node itself. So how I the end of this sentence, and you can simply backspace. Or you could go over here to the AI scribe. Editor and you can say, limit this sentence. So for that instance, I would imagine it would just be probably quicker to go over to the summary and delete where you see fit. But if you wanted it to train the AI, you can give it feedback here and then it pops up, basically will show you. So remember how long the HPI was before now? It's a lot shorter.
+Emily Kaiser: It's asking us, do we want to train the AI to apply this formatting to HPI going forward so you don't have to go in and edit it every time and say yes or no? Thank you.
+tctillemans: Okay?
+Emily Kaiser: So it's understanding your personal formatting for your note taking. As feedback.
+tctillemans: I'm used to going through notes and dictating things with nuance with Dragon.
+tctillemans: And so I could see where there's places where it's faster to do certain Dragon techniques that it let me do, and other times just let it do its thing. But then when I want to go back and edit, if I'm so used to clicking, hovering, and just telling Dragon what to make it do, and it does it in real time, you guys can probably do 10 times more with that than Dragon ever could, I would imagine. There's anything that I do that I don't have to radically change. I can take the way I already do it and just modify it a bit. Makes my learning curve, obviously, so much faster and easier.
+Emily Kaiser: Yeah, okay. Exactly.
+tctillemans: Can you a little bit for medications and say, I want to see how it does that.
+Emily Kaiser: Yeah, contradicting.
+tctillemans: Just want to see. So that's hpi. You'll have, like, an assessment and medication. Is that the medications of what they've been on, or is that the medications at the end under plan?
+Emily Kaiser: Just kind of see where I am here.
+tctillemans: This is current medications.
+Emily Kaiser: Yes, but just again, to reiterate. This was several different demos. So you may see some information that just simply doesn't make sense. And that's why, because you've had different conversations under this person's profile, the fake profile.
+tctillemans: Because this will may be a little easier because these are all not like a normal no. Typically I'm assuming when I come into a follow up visit, it pulls up the old note and I can take that and then it'll just modify what new I've said, but keep all the old same meds and everything the same until I tell it to change it. Okay, good, because that just saves a lot of time.
+Emily Kaiser: Yes, exactly. So you'll access old history. You'll be able to access old notes. Left hand side. These are all of the different sections that this has created. And say you go through an appointment and you're like accidentally chose the wrong template and go through and you can pick a whole different template and it will redo your note based on that template. After recording.
+tctillemans: What I'm noticing. All these are all these companies, you all kind of do it very similar. All the features are very similar.
+Emily Kaiser: Yeah.
+tctillemans: If you're like, oh, there's a substance abuse history to know about, then you switch over to substance abuse note and boom, it reformats it, which is so powerfully cool.
+Emily Kaiser: Yes. Yes, exactly.
+tctillemans: If there ever was. Jesus. Right?
+Emily Kaiser: Yeah, exactly. So Jotik is specific to behavioral how? That you've tested out a bunch and used a bunch of systems, so I don't know if you knew that Jad Seq was specific to behavioral health. Exactly. So, any questions on any of the sections that you see right now?
+tctillemans: Yeah, could you just scroll down slowly through assessment? I want to see assessment. And then it gives you codes. Then if I can see the way it writes up your meds, like prescribing.
+Emily Kaiser: Well.
+tctillemans: So this, if you can scroll up a little bit, I want to see plan how it does. Okay? Well, slow down. Okay? And obviously, I can format this a lot of ways.
+Emily Kaiser: Yes, exactly.
+Emily Kaiser: Okay, got it. So from here, you can copy and paste your information. To go directly to your ehr and paste it to a word doc, whatever your current system is.
+tctillemans: Yep, yep. Perfect. I mean, I've been on that just because I can do it endlessly any way I want to with Word Doc. But the big thing I need feedback from, if you can follow up in an email, is of those three systems. Simple practice. Therapy notes. I don't know if you got those down earlier. Simple practice therapy notes and therapy appointment.
+tctillemans: What's the level of integration with each of those platforms and specifically. Do you already have integration for downloads? Already there. And then the biggest one is, are they integrated to download medications?
+Emily Kaiser: Yes, I can definitely get back to you on that. Okay.
+tctillemans: I think therapy notes, though, is the only one that set up yet to do prescribing. But if the others are, then great. I'll have the companies buy it. I've just told them in the past I got my own. Don't worry about buying it so I don't keep up if they have it now yet or not.
+Emily Kaiser: Okay, so just one more time. Therapy notes, simple practice, and that was the last.
+tctillemans: Therapy appointment.
+Emily Kaiser: At the appointment. Okay, yeah, let me get back to you on that.
+tctillemans: I hate my therapist. Com. No, I'm kidding. That's not.
+Emily Kaiser: Okay? Perfect.
+tctillemans: We went through everything as far
+Emily Kaiser: as all of the different notes and everything. So again, you can copy and paste by simplicity, clicking whatever sections you want to start over, copy selected.
+tctillemans: How does your program if I don't really give much data in a certain section? Like Melissa's exam because nothing changed. What does it do? Can you show me? Does it just profile no changes, or has it profile that?
+Emily Kaiser: Yeah. So I would say that it would profile no changes, but also it will probably just give a small amount of information. Do you see family history? Yep. Okay, so it's. I mean, I'm picking up the shortest section.
+Emily Kaiser: Because I don't think we spoke about this a lot in a lot of the demos we did. So it will pull out, but if there's not a bunch of family history, it would kind of leave it like that. You do have the option to kind of edit it, fill in the blanks, or change the word infer.
+tctillemans: Well, it should be the thing blank says you never asked. Non contributory says you asked, but it didn't do anything. So that means I got to type that in. But I guess I can format make my format where it already says that.
+Emily Kaiser: You have the eyes. You're recording. There's a spot. To type notes. If you don't want to verbally say something. Out loud. And I would imagine that's also where you can put that information.
+tctillemans: No, what I'm trying to get is where, like a lot of times, yeah, they're not suicidal today, but Jen, specifically ask if it's you're picking up in the gestalt of everything. So I don't want to leave it blank. I wanted to just actually have a phrase that it puts in so that it looks addressed. You know what I mean?
+Emily Kaiser: Sure, absolutely. And that is something that once you have your note, once you're done recording and it's produced and you see something that is where. It's either blank or you want it to say something else. That is where you can go to this AI and train it to. To give whatever feedback you find applicable.
+tctillemans: And then it'll just do that every time you have a note.
+Emily Kaiser: Yes. If you, say, do this specific section moving forward.
+tctillemans: But again, depending on conversation. You have a list of. Encouraged prompts for training like that, I assume. Do you publish that anywhere for us?
+Emily Kaiser: We have some examples, yes. So there are some examples. I don't know if you first saw it, but when we first
+tctillemans: addresses in applicable to all future events, like oh, yeah, I wouldn't have thought to say it that way, but. Then that covers me.
+Emily Kaiser: And the AI will come back and it will ask you if you want. To note going forward. Okay, gotcha.
+tctillemans: Trying to make it sense.
+Emily Kaiser: Idiot. Yeah, no, definitely. I get that. And again, when we did.
+tctillemans: Probably true, but that hurts. That hurts.
+Emily Kaiser: Emily.
+tctillemans: Jesus. They just juggler every time.
+Emily Kaiser: We reschedule your next meeting. They can go through more in depth questions just because they simply have more information than I do. So I can show you basic overview today.
+tctillemans: They don't trust you yet, but I do. I get it.
+Emily Kaiser: I get it. Yes, exactly.
+tctillemans: Well, and now when it comes to trainings, how do you guys. What follow up trainings am I allowed to have once I'm on board with you guys?
+Emily Kaiser: And are there what are the fees and all that?
+Emily Kaiser: As far as training, there are no fees. If you need assistance, we're very hands on. I don't know how you booked today, but I don't got like a confirmation text or anything like that. But typically when you have a meeting booked, you'll get a confirmation text. And on that line that you receive that, you can text, you can call us, you can email us, we can set up meetings just like we can kind of.
+tctillemans: What's the typical system? Once you're, you know, a paying customer three months from now, if I'm like, hey, I need some training on this, what's the typical turnaround? A couple days till I can get on your schedule.
+Emily Kaiser: A week that day, typically, you'll find a calendly link and you just are able to pick.
+tctillemans: Wait a minute. How far out?
+tctillemans: Like in my clinic? I know.
+tctillemans: If I see you today. For a month for you guys. How much space? They're typically where I could get on if it's more urgent.
+Emily Kaiser: You would be able to get on the next day, or sometimes even day of. We're very hands on. We have lots of support.
+tctillemans: Okay, cool.
+Emily Kaiser: Yeah. And again, you can always call Texas email. But typically, when you have an account yourself, what we'll be doing is roles reversed. So what we would do is we log on to a like this. You share your screen, we watch how you navigate, and we guide.
+Emily Kaiser: Yeah, because that way you're making edits in your own account. And it's just easy. So outside of the note. Let me show you our templates and our form. So these are all of the. Let me see. So here's how you access your templates. Basically, if you have a template that you have been using for years or your clinic uses it, whatever it may be, you can upload your own template. You can start a template from scratch using our template builder. You can browse our library, whatever. However you see a these are all of the different templates my friend already uses.
+tctillemans: You guys. How can he send his templates to me? Is that easy?
+Emily Kaiser: He'll know how to like send you a template just over email, like a PDF profile.
+Emily Kaiser: Unless you're in a group I know you mentioned. I mean, like I said, I don't know if group pricing is something that I'm not sure.
+tctillemans: Yeah, I'll have to talk to your folks and figure out what works there.
+Emily Kaiser: Yeah, yeah, yeah. So these are. This is an example. Of a bunch of templates, and in any one of them, You have the option to open it up and edit. So you can delete certain sections, delete certain things that might not feel like it's necessary. Or add certain sections. As well. And then we also have form. So through the patient portal, you are able to send formations. Let me see here. This way or but here's our forms library. This is what I'd like to. We have different.
+Emily Kaiser: You can upload your own, you can create your own, and then you have the basic. Ones. So back to going. If you go back to the patient profile, if you go in here, This little sidebar pops up when you're browsing the patient profile, and here is where you're able to send forms directly to patients. If you click this, it'll give you an option to choose your form. So go ahead and do this, and then it's going to ask you if you want to send it. Via phone number or via email. It'll give you a little preview, and then you can just go ahead and click and the. The patient has it, which is nice and convenient.
+tctillemans: Can that be automated? Where they go out before an appointment? You know, if I use it as for my own medical software, where it'll automate sending out a rating scale every time before the appointment with the appointment schedule.
+Emily Kaiser: Yeah, I do believe that it has to be scheduled. Does it? Give me one.
+tctillemans: If I schedule an appointment? Yeah.
+Emily Kaiser: I'm sorry about that.
+tctillemans: Sorry. Baby's got to be taken care of. I get it. Would you?
+Emily Kaiser: Yeah, right.
+tctillemans: I will believe that.
+Emily Kaiser: What's that?
+tctillemans: I said to have had those luxuries. When we had kid, our closest parent was seven hours away.
+Emily Kaiser: Oh, wow.
+tctillemans: Sorry. No babysitting or.
+Emily Kaiser: Wow, that would be really hard.
+tctillemans: It's amazing. It's easier to make a kit a death of a kid look like sids than you'd think. It's a lot. I'm kidding.
+Emily Kaiser: Oh, boy.
+tctillemans: I need to report him.
+Emily Kaiser: No, no. So I don't believe that you can automate automatically send it? That's a good question. Though there might be a way where you can set it up. To send owned, but I do believe someone has to physically go in button.
+tctillemans: Okay?
+Emily Kaiser: Because it would be really great if you knew.
+tctillemans: Hey, I've got a day of clinic, and this clinic is mostly mood disorders. Everybody, that clinic just, boom. Suddenly gets moved to sort of race.
+Emily Kaiser: Yeah. Absolutely. And that is a question that I'm sure the specialist on your
+tctillemans: AI would be really good at automating such a thing.
+Emily Kaiser: Yes, it may be possible. Might not be aware of it. Yeah, we can get back to you on that one.
+tctillemans: And then I'm sure that improvement initiative you guys announced, we'll get on this in two seconds. I'm sure that total quality improvement initiative you guys announced is going to take care of this in two seconds.
+Emily Kaiser: Right? Right. Exactly.
+tctillemans: Oh, we didn't really mean it. We just said we had.
+Emily Kaiser: Also generate clinical.
+tctillemans: What's interesting is I'm seeing already like, oh, wow, a wonderful system could do this. What if it's because if it's AI based, it'll be agenda. You can have agents that will kind of teach it to do things while the potential to automate tons of tasks is. Super cool. Yeah, okay.
+Emily Kaiser: Yeah. Let's see. I'm trying to think. If there are any other information you can request payment. Send follow up information and generate clinical documents. Again.
+tctillemans: Easy. Getting it back, you know, it's extorting it from them that's the hard part.
+Emily Kaiser: Yes, that is true. But once they do send it back, you will see that it is stored right here in their patient profile. It'll give you a status, a date, all of that good information. This is for patient form specifically, but yes, all things. Other than that, we do have billing and auditing. That is new. Let me see if I can show these features, because I don't believe. Auditing should be on. Okay. So what it would do is once you create note, it goes through. Actually, it might be better to show you here. So once you have a note that is created, You'll see this little button. So what we were doing before is we were talking to the mouses. The audits to edit.
+tctillemans: Oh, okay, sorry. Go ahead.
+Emily Kaiser: So once you click this. It will give you a list of things if it's necessary. That you could change before submitting to billing. And it would allow you to just have less downtime in the billing system overall. It would suggest certain edits to make, so it would audit it before you send it off. Having less lags in the system, pretty much. So I'm not sure that this has any audits to be made. So I don't think anything's going to come up. Thinking about it, but I think that we've already cleared anything on this one.
+tctillemans: But this is kind of where that information would come. It sounds like I'd probably to go over your billing. Is there a special department that teaches you the billing side I need to ask questions to? Probably.
+Emily Kaiser: Yes, exactly. So I know we went over a lot of information, but that's kind of the basis of everything I said. I would love to get you just more information, more specific information, but I think that JOT site could be a really good fit. As somebody who in multiple clinics and looking for a solution that handles multiple areas. As far as billing and E prescription and note taking. Any questions on anything that we went over today?
+tctillemans: No, no, I'll just wait. When can we set up the next one here? Because that'll be much more specific to. Because the dictation stuff and stuff. Yeah, I can learn all that stuff on myself.
+Emily Kaiser: They're all.
+tctillemans: But now what I really need to learn is what can it really do as far as injecting into prescribing software and for billing, because that really determines how I set it up and whether I need to go group billing or what I need to do there.
+tctillemans: Is the next person? Can they go over group billing and all those kind of questions? Is it more just how to use the system?
+Emily Kaiser: Yep. They can go over everything.
+tctillemans: Awesome.
+Emily Kaiser: So let me pull this up. I'm looking at a calendar here.
+Emily Kaiser: We got next week. Okay. Mondays, Wednesday, Monday, Wednesday or Friday.
+tctillemans: Okay, so it looks like I can only train on Monday, Wednesdays or Fridays.
+Emily Kaiser: Are you? Eastern standard time.
+tctillemans: No, I'm in central.
+Emily Kaiser: Okay, let me go ahead and change that.
+tctillemans: Okay? So I'm going to do Friday. I've got a 9am Would that work?
+Emily Kaiser: Yep, we could do that.
+tctillemans: Okay, great.
+Emily Kaiser: So you will receive an email just like you received today. What is a good email to send that one to?
+Emily Kaiser: The TC tillmans@icloud.com and I exited out of that screen. Could you spell your line one more time?
+tctillemans: T I l l. Edward, mary apple, nancy, sam.
+Emily Kaiser: Icloud. Okay, great. So you will receive that shortly. If you have any questions in the meantime, you can reach out to that email that you received the invite. From today.
+tctillemans: Okay, awesome. All right. You did great, Emily. And thank you for being so patient. I know it's kind of like skipping a whole lot of things you wanted to tell me because, like. Well, okay, I kind of know that I really need to follow up on that. I'll forget. It.
+Emily Kaiser: We like to tailor it.
+tctillemans: I know it's. It's hard to do it that way, but. But I appreciate you. Just let me do it my way.
+Emily Kaiser: I'm like.
+tctillemans: I think I'm learning the culture of the company.
+Emily Kaiser: Yeah. Right?
+tctillemans: No, absolutely. The new world is mass, individual mass customization as fast as the speed of light.
+tctillemans: There we go. So, yes, and you did great. And I know we went super fast, but. But you're like, you. I mean, you can't know. Well, yeah, I've already learned how to do that the other company places, so skip that part. It's all the same. I get to go over here, you told me something's tantalizing. I got to know. I got to know. Yeah. So now I love the way, the direction you guys are going, though, for integrating more things. I like it because it's also going to make your company a lot more money, which means you're going to be around longer, but.
+tctillemans: It also provides, more importantly to me, provide some integration and solve some problems where I don't have to be dealing with so many different platforms that don't want to play nice together. Even though they all say that. Yes. Because they all say.
+Emily Kaiser: Oh, yeah, they all do.
+tctillemans: They do. No, that never works. You all say it'll work, and it never works.
+Emily Kaiser: No, exactly. That is exactly what we're striving for here, is just to bring more efficient so clinicians like yourself have more time at the end of the day,
+tctillemans: as you build this big, big business mode around your. Your. Your business. So I'll never be able to swim off the island. Nice job.
+Emily Kaiser: Perfect. Now I'm going to ask you one more question before I let you go. Can you confirm your number for me or number.
+tctillemans: 501. 247. 5714.
+Emily Kaiser: Okay, great. Like I said, you should be receiving that shortly to your icloud email. And if you haven't, please hesitate to reach out. We're happy to help. You for next Friday. And you should be good to go. Thank you for your time today. It was nice to meet you.
+tctillemans: And thank you for not abusing your daughter on screen because I'm a mandatory reporter and got to go through all the rigmarole reporting and.
+Emily Kaiser: God, I would never. I would never.
+tctillemans: Ok. Thanks, emily. Bye. Bye.
+Emily Kaiser: Appreciate it. Thank you. Have a good day. Bye.

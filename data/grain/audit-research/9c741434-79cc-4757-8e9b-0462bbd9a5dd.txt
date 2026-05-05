@@ -1,0 +1,169 @@
+Nathan Peereboom: I don't think I've met Melissa before. Give me some background on, you know, the clinic, what you guys do, how you do it, all that.
+janel: Okay, so Melissa is a solo provider at her own company. She is a nurse practitioner in mental health, behavioral health services, and she does mostly telehealth. She's been doing this for quite a few years now, and she has hired me on to do her billing, credentialing, etc. And then she also has an office manager, and she's just amazing. So it's basically just the three of us ladies, and we all work from our own little sections. I work from home. Melissa has a home office. You know, we just. And it's just amazing. She's the most amazing person.
+Nathan Peereboom: Oh, that's amazing.
+Nathan Peereboom: That's so cool.
+janel: Her patients just love her. So.
+Nathan Peereboom: Yeah. Oh, wow. Then. So that it seems like you guys have a lot of good things going for you. What is. I mean, how you're the biller, like, what's going well and what do you find really challenging? Or what do you wish someone could take off your plate or make easier for you?
+janel: So for me, it would be nice to have things more automated. Like, okay, when a bill come, like when a claim comes back through the clearinghouse and is paid, I found in a lot of programs, the EHR will hold it. It'll just stop. Won't apply the payment until you look at it. Because of the CO codes.
+Nathan Peereboom: Oh, interesting.
+janel: Yeah, the contractual adjustments. So if there's any other code than a CO45, it won't apply the payment until you look at it.
+Nathan Peereboom: Right.
+janel: And it would be interesting. It would be really nice to have those claims show that a payment went through, but then to have, like, another little screen that is like a workflow for me that can say, hey, this claim had other adjustments that you might want to take a look at.
+Nathan Peereboom: Yeah.
+janel: In case I need to reprocess something or anything like that. But to hold the claim and not apply a payment, that's like the worst.
+janel: Because then clients are like, why isn't this paid? And why didn't it? And I'm like, oh, no, yeah, it did get paid. It just wasn't applied.
+Nathan Peereboom: Yeah, that's really tricky of them because it probably benefits them to hold your money for like a longer period of time.
+janel: Right, right. Rather than just applying it into the ehr, it just sits there and I'm like, that's ridiculous. It shouldn't ever just sit there. The money should automatically apply.
+janel: Yeah, but I need a work cue.
+Nathan Peereboom: Yeah.
+janel: You know, Totally, totally. Hey, these claims have come through and there's other adjustments that you need. Look at.
+Nathan Peereboom: Yeah, yeah.
+janel: So a work queue is. That would be the best thing a biller can have in an EHR is a work cue because otherwise I'm going through the clearinghouse one claim at a time and matching it up into the ehr and it takes a long time.
+Nathan Peereboom: Yeah, yeah. So it sounds like something that you want is like almost like an analytical product that like reports, like allows you to dashboard, report out, tie things together, all of that.
+janel: Yeah.
+Nathan Peereboom: Okay. Gotcha. Very cool. Do you have a sense of, you know, you mentioned these adjustments, like, what is your internal sense of like the difference between what you charge and what you should get paid for and what you actually get paid for?
+janel: Oh yeah, we, we get. So it depends on the insurance, but it's about maybe 65% on average is what we get.
+Nathan Peereboom: Yeah.
+janel: So some insurances obviously pay us much less.
+Nathan Peereboom: Yeah.
+janel: And others they give us a bit more. It really is dependent on patients plans and so it's, it's never exact.
+Nathan Peereboom: Yeah.
+janel: Even with Blue Cross you have different plans, so they pay at different rates. So we, we bill out a standard rate across the board and then we just get payment back and then those adjustments fill in the rest. Whether it's, you know, contractual adjustments or other like non paying services, but we have to code them on the claim. So it's kind of. Yeah, it's tricky.
+Nathan Peereboom: Gotcha. Gotcha.
+janel: Does that answer your question?
+Nathan Peereboom: Yeah, it does. It's, it's really, really helpful.
+janel: Okay.
+Nathan Peereboom: So, Chanel. Oh, hey, Melissa. You joined. Nice to see you.
+Melissa Kidby: Hi. Playing WITH background Sorry about that.
+Nathan Peereboom: Wait here, I'll go off video too. I, I won't leave you alone. Are you outside or is that a picture?
+Melissa Kidby: That is a picture. I was just trying to. Put up a picture with my. When my camera was off, but it didn't work well, so now I don't know how to get it off. Sorry, guys.
+Nathan Peereboom: Is that your motorcycle?
+Melissa Kidby: Yeah, that's me on my morning cycle.
+Nathan Peereboom: And I think, wait, that's awesome. That's so cool. Wait, also, I know this is a weird question, but, like, I feel like I have been in that backyard. I grew up in Ohio, and that just, like, the ecology of that yard is so familiar to me. Yeah. Where. Where are you from?
+Melissa Kidby: Oregon. That is not Ohio. But it starts with an O.
+Nathan Peereboom: Okay, well, maybe that's the.
+janel: Yeah, that's the overlap.
+Nathan Peereboom: Okay. Okay, great. So, Melissa, you use jot psych, right? Is. Is. Is that. Am I understanding that correctly?
+Melissa Kidby: Yes, I do.
+Nathan Peereboom: Okay. And Janelle, you. Are you also in jot psych or. No, not yet.
+janel: No, I. I don't partake in the jot psych end, but I came in on this call to learn.
+Melissa Kidby: Yeah.
+janel: So great.
+Nathan Peereboom: Well, why don't we start out? I mean, Melissa, Janelle walked me through a little bit of, like, some of her dreams around, like, how billing could be better at your office.
+Melissa Kidby: Yes.
+Nathan Peereboom: I'm curious for your thoughts on this too. Like, what is your dream? What. What could. What could be better about your billing process? And one way to think about this is like, what part do you really dislike right now? Like, what is the thing where you're like, I don't even know what the solution.
+Melissa Kidby: Oh, I already have the answer to that. I got the answer to that. So, yeah, patients are frustrated that they don't know how much they owe, so they can't go into their portal and see, I have a $20 go copay. They have to guess or they have to assume that. Okay, how many CO pays am I behind? Okay, let me throw out this number. I'll make this payment.
+Nathan Peereboom: So they.
+Melissa Kidby: They. Janelle, they may not know how to get to it. Maybe they have it, but none of them seems to know how to find it.
+Melissa Kidby: Do they have that? Janelle?
+janel: I enter them as I find them.
+Melissa Kidby: Okay.
+janel: So it's either on the card that they send us, or I have to manually go into the entrance portal.
+Melissa Kidby: That's frustrating.
+janel: And pull that information and then enter it manually.
+janel: Yeah, that's another thing. Like, it would be awesome when we ran an eligibility check through the EHR that it pulled that data in. I don't know if that's possible yet, but that would be amazing.
+Nathan Peereboom: Yeah. Yeah. Okay. What. Tell me about your current infrastructure for billing. Like, what do you guys use software wise. What is the. Yeah, like what do you guys use? It sounds like you're got a bunch of different systems because not everything's talking.
+janel: Is that for me or Melissa?
+Nathan Peereboom: Either. Either is good.
+janel: Okay, so we use. Novo Clinical as our ehr.
+Nathan Peereboom: Okay.
+janel: And Waystar as our clearinghouse.
+Nathan Peereboom: Okay.
+janel: And then our patient payment platform is Express Pay.
+Nathan Peereboom: Okay, Gotcha. What are things that you do like about your current system?
+janel: So I like that it gives me big spaces for adding notes to patient profiles concerning claims eligibility, amounts due holds, that kind of thing. I love that. It gives me lots of options for that. It's very well laid out as far as claims history and encounters. It's very intuitive, very easy to follow. I just wish it was a little more automated.
+Nathan Peereboom: Gotcha. Gotcha. Okay.
+Melissa Kidby: And what I like about it is I can go in and look at the claims, and patients will say, well, was this one paid? And I can go back and look, hey, insurance looks like it paid at 100%. Maybe that's why you didn't have a copay.
+Nathan Peereboom: Yeah, okay. Yeah, that makes sense. What? Like, I mean, I guess in terms of. I mean, so, Melissa, in terms of just the parts of job site that you use, just so I'm tracking, like, kind of what you like about your life outside of Jot Psych, what you like inside. A few questions. One, do you charge patients through jots, Like Patient Pay Portal?
+Melissa Kidby: No.
+Nathan Peereboom: Ever? You. Okay, so you only use that. Would you call it Express now or something like that?
+Melissa Kidby: Oh, Express Pay. Yeah.
+Nathan Peereboom: Yeah. Okay. So that's one thing. One thing I would point out is that Jots, like, does have patient payments in it. So if you guys are interested in uniting patient payments and billing or even just doing patient payments in a way where the patient can always see what's, you know, what they owe, and you can always see what the patient owes. That's really, really easy for us. The second thing, though, is I'm curious about, like, how much do you worry about the quality of your notes? Like, do you think about the coherence between what's in your contract, what's in the note, what gets billed, and what hits your bank account? Is that something that you worry about, equality among all of those pieces?
+Melissa Kidby: No, no, sorry.
+Nathan Peereboom: No, that's like, totally fine.
+Melissa Kidby: I had my. Chart notes. And you know, I do this.
+Melissa Kidby: I've done this once so far as have them audited. I paid an audit company to audit my chart notes. Tell me how I'm doing.
+Nathan Peereboom: Yeah.
+Melissa Kidby: And so they did. And they said, wow, your notes are great. This is the only thing I change. And so I'm like, okay, that was a couple years ago. It's about time to have them review my stuff again. Because that's my personal preference. And if they're like, okay, because things change, I need to change something, I will. So I'm not worried about that. No. And that not many providers, I don't think do that. You have somebody audit your own chart notes so that you're not like, stressed when you get your charts audited. Because, Janelle, I've had my chart notes audited in the past and yeah, I've not had, knock on wood, any concerns by the insurance companies. Nobody has declined any payments.
+janel: Yeah, right.
+Melissa Kidby: Okay.
+Nathan Peereboom: Yeah, that makes a lot of sense. Interesting. Okay, cool. The only reason I ask is because, you know, we're launching. So let me, let me. Janelle, Melissa, I'll give you a little overview about how we think about this. So we got into documentation, primarily because documentation just takes a huge amount of time. But what we found was that actually. And Melissa, maybe this is different for you. Most of the people who hire us to write their notes are concerned about audits. They're just concerned about audits and they're concerned about billing. And what we've done is we unite the billing world and the documentation world. So we take all of your, like, payer documents, so your contracts, your fee schedules, your audit tables, all of that. And what we use that for is we use it to create a bunch of rules. And those rules govern the way our notes get written. And so, you know, you can go to jot audit, which I think you all have access to, and you can just add notes and documents. We create all these rules and then every single note gets reviewed by these rules. It's very binary. Just yes or no. And when you go to. And this, you know, this might be something that helps speed things up for you, Janelle. In any note you can see, hey, this is the score I've got. Or, sorry, this is the CPT code that we should bill for or that we are billing for versus what the AI is recommending. And then if I want, I can go through and just touch up the note in coherence with what my payers are writing in the documents I need. And you can see which parts are doing really well too. So that's one thing. What's like, one service that we offer? Melissa, you have free access to this for, like, a bunch of notes every month, so you should just play around with it. And if you have pair documents you want us to upload so that you have an enriched jot audit experience, then. Then that would be great. We'd love to look at those. Read them.
+Melissa Kidby: I have to upgrade and pay in order to do that, though.
+Nathan Peereboom: Oh, okay. Gotcha. So you hit. You hit your limit on jot audit.
+Melissa Kidby: I've never used it.
+Melissa Kidby: How do you know your limit? It doesn't say that I've used it at all. Can I share my screen?
+Nathan Peereboom: Yeah, share your screen, sure.
+Melissa Kidby: Oh God. Which screen? Because it doesn't show me which screen. Here. Window. There we go. Hopefully. I've got, I got five screens, so I think you're on the right one. Yeah, this one here. So this is what it. This is always highlighted up here. I've never used it. The check mark says accept suggested codes, so I've never asked it to audit. I can edit and I can audit, but when I go to audit, this is what I get. Unlock jot audit upgrade to get automatic automated complaints checks and building ready guidance. And I like hit upgrade and it's gonna cost, it's like 60 something dollars a month. I'm like, no thanks.
+Nathan Peereboom: Yeah, okay, well that makes sense. It'll reset.
+Melissa Kidby: Yeah, I don't.
+Nathan Peereboom: Yeah, it'll reset relatively soon. Let me see when your subscription turns over because you get a free, a free chunk of them every month. I think it's like 40.
+Melissa Kidby: March 3rd is my next filling. Next charge date.
+Nathan Peereboom: Yeah. Do you know when you're.
+Nathan Peereboom: When I first started. Yeah, let me see.
+Melissa Kidby: A long time ago. Looks like October 3rd of 2024.
+Nathan Peereboom: Okay, let's see. So your subscription is going to reset March 2nd. So starting March 2nd you'll get another batch of these.
+Melissa Kidby: Oh, okay.
+Nathan Peereboom: So that's one thing that you know, is good for, you know, just something to know. The other thing I would say is we have this other offering right now. And actually Janelle, I think that you might be interested in this where we're offering a. It's like a jot bill analysis. And basically what we do is we go through your, your data. So if you have like multiple systems, we'll just like go through it and tell you exactly like what you're earning today, where money is getting to later lost, which payers are reimbursing you well or not well. And like what we recommend you change to make it better. This is a good like toe dip. If what your pain, the pain that you're feeling is basically just like. We don't know, like tying all the data together is really hard. Um, so I would say, I mean most of the time when people do this, they find themselves surprised and interested and it gives them like good next steps. We offer this because it's a good experience of, you know, changing our relationship with you to be a little bit more partnery. To be such that. You know, if you were going to move to us as your billing service or use our software for your billing, you'd kind of understand the way that we saw the world and how thorough we were about delivering you. Yeah, that constant feed of. Of really high quality information. So this is something that I would say, if you're interested in, you know, we'd be super excited to do it. It's really, really, you know, even if you don't use us afterwards, it's still something that could be really helpful. And then the third thing I would just say is, you know, if you guys are not doing patient payments to us, you. You really should give it a try. We don't charge actually any fee on this for ourselves. We have to charge a credit card processing fee that, that like, goes straight to Stripe, but. But you can hold credit cards. You can charge. You can put in little, you know, notes on this. And then when you go to patient payments, you can see all the patient payments in one place. I haven't filled any patients through here, so you can't see. But I would say that if, if, if that's a pain point for you, Melissa, and you're like, oh, I just wish patients knew exactly what they had to pay. That's the way to do it.
+Melissa Kidby: What? Okay. What I like about Jock is also kind of what I'm not ready for, you know, at the same time, like having the notes that I can just transfer in.
+Melissa Kidby: But you don't have a full EHR system that I would like to use. So I don't have, like, reminders and things like that. It would be nice if it was all one system. Right now it's all a cart. And so it's tough to be piecemealed. And I don't know if Janelle feels the same way, but having it piecemealed. I think I'd have asked Janelle, but it just seems like it would be difficult for. For my biller on one hand because it needs to cross over in the way star at the same time, which is the clearinghouse. And it seems like she'd have to be working in multiple systems for me to know in jot psych how much they need to pay.
+Nathan Peereboom: So a few things. One, and we just launched this. You now can do e prescription workflows in job site.
+Melissa Kidby: Yeah.
+Nathan Peereboom: But the other thing is we do have reminders. So, you know, if you set a, you know, like an appointment for someone you can set, and I have to let me choose a patient. If I put in like a phone number, I can set reminders for them and I can, you know, put, you know, I can totally configure this and schedule it and then make it such that for every time it's that appointment type, that set of reminders gets, gets done. I can update the appointment type so that there's the same reminder sequence for each one. So that's one thing. We also have patient reminders for payments. So at a reminder level, at a prescription level, at a calendar level, like, we actually do have an entire ehr suite. That's the first thing. The second thing is. You can bill directly through jot Psych. So you know, we can put you on a system where you know where you're clicking send and you're. It would be through Steady. It's not through Waystar as a clearinghouse, but it is all in one place and you can go and see, you know, the results of those here. So, so if that's what you're, if you're looking for an all in one system like that that does exist should you want it.
+Melissa Kidby: Okay. All right. Is it PCI compliance with the, the payment portal?
+Nathan Peereboom: PCI compliant? What is that? I mean it's, we use, we use Stripe, which is like the highest level of like blue chip, like payment processing. Everything's HIPAA compliant. I mean we, we use the same like system that all the banks use for their payment like we use.
+Nathan Peereboom: I, I'm sure it's PCI compliant. I can go like get the paperwork on that.
+Melissa Kidby: But yeah, I think the answer is I have to do a PCI compliance for any online bill pay system. I've had to collect payments every year.
+Melissa Kidby: So that's something I have to do annually for just about any system I've ever used.
+Nathan Peereboom: Here we go. Yeah, so. So we are PCI compliant.
+Melissa Kidby: Okay.
+Nathan Peereboom: Yeah. And I can send this to you as well and study what is steady.
+Melissa Kidby: Is it so that she can look up Steady if she's interested in that, that clearinghouse and how difficult is it? Because I mean we do Medicare, we do Medicaid. We do. I was trying to think Air Force. Oh my gosh, you know, Tricare. Thank you. Yeah. And lot I probably. How many insurance do I do? 10, 12 different, you know.
+janel: Well, a lot. The majority of the Oregon Medicaid. We're also going to be adding Washington Medicaid and all the commercial insurances. Pretty much.
+Nathan Peereboom: Yeah. So Steady is a. Again, just like a really strong clearinghouse. We have never come across a payer that we haven't been able to cover. All the ones that you described, we work with Tricare, Medicare, Medicaid, every big commercial. So I'm positive. But, but yeah, Janelle, if you wanted to look into study, it's S T E D I.
+janel: Oh, okay.
+Nathan Peereboom: But it all sits in jot psych. So they're just the back end. It's all like in job psych.
+Melissa Kidby: Yeah, that's what it is for Novo Clinical too. Yeah.
+Melissa Kidby: So it's just not effective.
+Nathan Peereboom: So. Yeah, so that's, that's what I would say. Well, listen, I have to run unfortunately. Okay. A few things. One, Melissa, I have the sense that, like, there are other parts of, like, the current job site platform that you would probably like to use. Like, for example, would you like to be onboarded to, like, either E Prescription or, like, the reminder system? Anything like that? Would that be helpful to you?
+Melissa Kidby: It might be. I mean, there's. There's things that it's missing, too. Like, I need to send out assessments prior to appointments. So, I mean, this is a lot longer than just a few minutes of the chat here, so.
+Melissa Kidby: Yeah, it would probably be better to have you used our.
+Nathan Peereboom: Our forms, though. Like, have you. Have you built, like, a form and then sent, like.
+Melissa Kidby: You know, I didn't even know that was there.
+Nathan Peereboom: Yeah, I feel like you might benefit from just, like, someone walking you through all these EHR features, because we really do have the full suite.
+Melissa Kidby: Okay. Yeah. My office, not Janelle, but my office staff has been full of chaos the last month, and I haven't had much downtime other than babysitting lately, so it's been a little challenge to look at. Anything else?
+Nathan Peereboom: No worries. Why don't I set up some time for you to just, like, get an introduction to all these basic features, and that way. Yeah, I think that that probably would be just, like, helpful for you in understanding, like, what's. What's possible here.
+Melissa Kidby: Yeah. And somebody can send me a request for an appointment if that makes it easier for you. So you can get going to whatever you need to get going. Or we can set up one now.
+Nathan Peereboom: Let's set up one now. I can run two minutes late to my next thing.
+Melissa Kidby: Okay. Better than seven minutes late like me.
+Nathan Peereboom: No, you're totally, totally fine.
+Melissa Kidby: Let's see. I am really busy next week. Really busy. I don't think I could squeeze anything in.
+Nathan Peereboom: Okay, that is totally okay.
+Melissa Kidby: I'm starting the week of the second going forward.
+Nathan Peereboom: Okay, great. How about. How about 1:00pm Monday, the second?
+Melissa Kidby: Is this Pacific Standard Time?
+Nathan Peereboom: Oh, no, I'm sorry. So Pacific Standard time would be 10.
+Melissa Kidby: Thank you. No, that will not work. I can do 10.
+Nathan Peereboom: Okay.
+Melissa Kidby: They can't do 10.
+Nathan Peereboom: 10:30 is perfect.
+Melissa Kidby: Okay, in the length of time.
+Nathan Peereboom: Let's do an hour.
+Melissa Kidby: Okay.
+Nathan Peereboom: And I'm gonna say, melissa, what's your clinic's name?
+Melissa Kidby: It's really long. Wellness Bound. Mental Health.
+Nathan Peereboom: Wellness Bound. Is it one word, Wellness Bound?
+Melissa Kidby: Nope, it's two.
+Nathan Peereboom: Mental Health. EHR feature. Walkthrough. Okay, great.
+Melissa Kidby: All right.
+Melissa Kidby: Thank you so much, Nathan.
+Nathan Peereboom: Yeah, absolutely. And then should I add Janelle on that as well? What's what's helpful for you.
+janel: Yeah, please do. That way I can see it as well.
+Nathan Peereboom: Okay, great. Let me grab those.
+Melissa Kidby: Can always drop out if you like. Nope, this isn't for me. We can start with stuff for you if, you know, then drop out type of thing too, right?
+Nathan Peereboom: Yeah. All right, perfect. Let's see. Add. Whoops. Okay. Boom. Join. Okay, great. Send. Okay, so you guys should have everything here. I just sent it.
+Melissa Kidby: Okay, perfect.
+Nathan Peereboom: All right, beautiful. Hey, thank you both and have a lovely weekend. Okay, thanks.
+Melissa Kidby: You too.
+janel: Thank you. You too.
+Melissa Kidby: Bye.
+Nathan Peereboom: By.

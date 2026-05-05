@@ -1,0 +1,295 @@
+Monica Dyer: Hello. I'm doing well. How are you?
+Lee Harrold: I'm good. Good to see you again.
+Monica Dyer: How is south by southwest?
+Lee Harrold: Oh, man, it was a blast. It was so much fun. But go to either of the barbecue places that you recommended.
+Monica Dyer: But did you get to do what you see in Austin?
+Lee Harrold: Oh, man. Really, really not. I think not as much as I would have liked, but the venue that I like the most was Hotel Vegas. For. Their grillo's pickles showcase. Also, High Noon has a really cool. Kind of like bar location. Oh, I went to the. The Marriott. On the second floor and and saw flat stock to all these cool posters.
+Monica Dyer: Ok.
+Lee Harrold: Yeah. But no, honestly, I did. I didn't get to do as much. It was a very short, short trip, so. But now that I know how cool it is. I'll have to come back and spend more time.
+Monica Dyer: That's really fun. Yeah. Awesome. Well. I booked two sessions kind of in a row. I know.
+Monica Dyer: You have, like, a 15 minute gap between them because you have, like, a whole list here. Let's do it.
+Lee Harrold: Yeah. Let's work through it.
+Monica Dyer: Awesome. I think I saw somewhere about having access to, like, a transcript of the call.
+Lee Harrold: Yeah. Let me show you how to do that. My screen. Yeah. So for each of these. Let me go to recent note through this client encounter. Section, you see the entire note and then next to the the name of the template. There's a. There's a transcript, so you can.
+Monica Dyer: There it is. And so. But it is. It's not. Editable, right?
+Lee Harrold: That's correct. Yeah, we.
+Monica Dyer: We've had times where I forget to stop recording, and then I'm on a phone call. I Instagram reel and it was, like, health related, and so it, like, captured all these things, and I was like, Wondering if it's possible to, like, cut off the end or, like, you know, stop it at a certain point instead.
+Monica Dyer: But I guess not.
+Lee Harrold: Unfortunately, no. Yeah, we. We can't really allow people to, like, change the transcript.
+Monica Dyer: The recording could be. More or less. Or just less?
+Lee Harrold: Yeah.
+Lee Harrold: Like what we. If you could. If you. I guess for future reference, if you happen to. Accidentally put two recordings in the same note. Those. Those we could strip. But if it's in a single. If it's in a single recording, we. We can't. We can't really split that.
+Monica Dyer: Okay, okay. Good to know.
+Lee Harrold: Yeah.
+Monica Dyer: Which is? I had someone. Tell me something that I needed to document, like that might become court record yesterday. So I'm glad that I have the transcript I can check to make sure I'm getting the details correct in the note. And. This. Okay, this is a random idea. The TO dos that you kind of have at the end of a chart, right?
+Lee Harrold: Yeah.
+Monica Dyer: Is there any way to like, or maybe this already exists, to see, like, a consolidated list of your TO dos across patients.
+Lee Harrold: Wow. That would be awesome. We do not. Let me write that down, though. It's a really good idea. Okay?
+Monica Dyer: Because sometimes I'll go back to see the patient, and I'm like, well, look at that to do list. Yeah. So that would be really, really helpful feature, I think. Like to mark them complete. Oh, my gosh.
+Lee Harrold: Yeah, that would be so satisfying. It's funny, I, like, recently, like. Built my own personal to do list for different things I'm trying to do. And I was like, wow, this is so much more effective to have.
+Monica Dyer: Yeah. The dopamine kick of, like, when you check it off is, like, so motivating. Love it.
+Lee Harrold: What's next?
+Monica Dyer: Okay, so I went to make, like, an roi form. To send to someone's previous therapist. And I noticed that I. I need to, like, have it completely.
+Monica Dyer: There's no way to make, like, blanks for the patient to fill in the provider's name. So I couldn't just in, like, one form, and then they could fill it out for different providers. I'd have to make a form for. Each one. On my end.
+Lee Harrold: Okay?
+Monica Dyer: So if I can, like, freaking generate one that would have blanks or, like, I could have. The so the patient could fill in the information. Because I think the only option is for them to sign it or not sign it.
+Lee Harrold: Right now. Can you. Can you share your screen just so I, like, have some video of, like, where. Where you would want that feature to be.
+Monica Dyer: Yes. So. I don't know if it will still be. There. That was for. I. I started generating one. I don't know if it's, like, saves it or not. And. New documents. If I started generating one for a patient, it wouldn't be. And I didn't say, but it's probably not. Doesn't exist. Is that right?
+Lee Harrold: I'm sorry. I was. I was looking away. Oh, I see.
+Monica Dyer: You if I generated a form.
+Lee Harrold: A form for patient. Does it? No. Yeah, you it would only only sent one should populate. But. Yeah. So I guess if. If you move your cursor down to the bottom, we should see a little. Just the cursor to the bottom of the screen. Oh, you know what? I'm wrong. I was expected for there to be a. A toolbar there that would let us send a form. How do we. How do we send. Oh, I bet it's documentation forms at the top. Yeah. Okay, under. Yep, right there.
+Monica Dyer: Last time. How did I do this? It was. I need to mess with these, like the intake. Okay, then I think I did this. Because there's not like a.
+Lee Harrold: Oh, maybe it. Maybe it did save it. I see a couple of drafts there.
+Monica Dyer: Might have been this.
+Lee Harrold: Oh, I guess not. Looks like it was. It was started, but nothing was put in it.
+Monica Dyer: Yeah.
+Lee Harrold: Well, I guess click into the edit for one of those untitled forms, and then we can kind of, like, try to.
+Monica Dyer: So last time I said, like, I need. A Request for Information form. But I need to put. I need to, like, go find this therapist, like. Name and address and contact information and stuff before I could. I can do that right now. I'll come back to it. And then I never came back to it. And then I saw the patient again. I was like, I owe you an roll.
+Lee Harrold: That makes sense. Yeah, you're right. I don't. I think. I think our forms are pretty dumb right now. Give the patient some information or give them a document that they can use. I don't know that we can send it and have them fill out information.
+Monica Dyer: Like on the. Intake. You can fill out these things.
+Lee Harrold: Oh, wait, yeah, that's. That's a good point. So maybe we can. Maybe we can. Maybe we can. All right? Yeah. And then the patient would.
+Monica Dyer: So I guess.
+Lee Harrold: Oh, okay. The court. The core issue is that the patient needs to.
+Monica Dyer: Put their other provider's info to give me permission.
+Lee Harrold: Could we create a form using this form builder? That would would have the slots for that information. Or actually would probably be even easier, is if you add, oh, yeah, yeah, yeah, we can modify this one. Or if you had, like, a form that had all the information you needed to put in, you could upload it and then the system would, like, do its best to make a version of that.
+Monica Dyer: Oh, okay. Even with the blanks, it would do that.
+Lee Harrold: I don't know.
+Monica Dyer: Ask a guy. Our life form Texas. Authorization.
+Lee Harrold: I don't know what.
+Monica Dyer: State by state or just hipaa?
+Lee Harrold: I can't see your screen right now.
+Monica Dyer: Oh, I went to another one. I'm looking for. Template. This is from texas health. I need to do like I'm looking for. Psych. You have to extra. There's an extra level of protection for any, like substance use disorder. Beyond hipaa. So you have to, like, specify. Specify that so that this one won't work, because it needs to be. Okay? This is like a legal organization. That's more legal and medical. Yes. But this is. A literal form in. So, yeah, having one of these as a template would be amazing. Your info. And you can just send it to a patient. Because all the time I'm like, can you try to get the records from that place and send them to me? And they're like, how do I do that? And so if I can say, sending you a form, and then if I have that, I can contact this.
+Lee Harrold: Oh, yeah. That's a. That's a really clever. Can you show me the screen that has the form on it just so I can, like, take a look at Fields?
+Monica Dyer: This is the behavioral health intake form.
+Lee Harrold: Oh, sorry. I thought the. The one that you would want to have inside of Jet.
+Monica Dyer: Yeah, yeah. Can I? Not minimize when I'm sharing, okay? That was the. Austin mind bur. Eau. So. Patience info. And then, like, I authorize.
+Lee Harrold: Oh, it looks like I'm only. I'm still only looking at your Google Chrome. There's a way to share the entire screen. Or if you could switch the window.
+Monica Dyer: Share. Present something else.
+Lee Harrold: Ah, there we are.
+Monica Dyer: Okay just to share this window. But I think. I clicked the wrong one, of course. Hold on.
+Lee Harrold: But now we know the path.
+Monica Dyer: This one. This one.
+Lee Harrold: Hey. Okay. Oh, yeah, yeah. Okay, so it's a form with a bunch of these editable. Yes, absolutely, yes. So, yeah, I guess.
+Monica Dyer: That like is important that it for psych, that it specifies like. Substance use needs to be separate.
+Lee Harrold: Got it.
+Monica Dyer: Yeah.
+Lee Harrold: So I am certain that it could. You could manually construct one of these forms using that builder. I am willing to bet that the AI template builder would do a pretty good job if you described all of it. But that might take even more time than it would take to just make it manually. And. Again. I think there's. There's a decent chance that if you. Like, exported this form in. In PDF format and then uploaded it to the upload field of Template Builder. It would. It would get a lot of it and then you could manually change the rest to dial it in. Yeah, actually, that's. That's probably. The lowest effort. Course of action here. Yeah, perfect. And I'll just kind of sit here and watch while that happens.
+Monica Dyer: I don't want their info.
+Lee Harrold: How do we.
+Monica Dyer: And then I can find a form that. Well, let's try it.
+Lee Harrold: Yeah, our. Our system is going to discard anything that's not, like, section related.
+Monica Dyer: Okay? So then.
+Lee Harrold: Can you show me the. The Jatsec window?
+Monica Dyer: We're working on it. Allow. Okay? Here we go. So.
+Lee Harrold: All right. Yep. Back.
+Monica Dyer: What's going on? My mouse.
+Lee Harrold: Oh, that might take us. Yeah. Okay, upload document.
+Monica Dyer: And then, yeah, on this note, I was like, oh, it would be awesome if y'all had a whole set of, like, the consent forms for telehealth for treating to use the AI scribe.
+Lee Harrold: Oh, yeah.
+Monica Dyer: Billing agreement, like all of that stuff. That you know you need when you start with a new patient. So if you're using this more as an ehr, then you need to.
+Lee Harrold: It would make sense for those forms to already be default ones in the system. Yes, that's a great suggestion.
+Monica Dyer: Do you want that list again?
+Lee Harrold: Yeah, that'd be great. I have telehealth and hipaa. What were the others?
+Monica Dyer: It's like consent to treat. And then consent to use, like the AI scribe. And then there's, like, a billing agreement, like. They're signing that they will pay you.
+Lee Harrold: Gotcha.
+Monica Dyer: I think that's. I think those are the basics. And some of those maybe you can combine. But I think that usually I see those as, like, separate documents. Okay? Yeah.
+Lee Harrold: All right. Authorization. For awesome mind behavioral health. Okay, now. If you delete it, does it. Does it go away? Looks like. Oh, there it goes. Okay. So.
+Monica Dyer: Okay. Oh, cool. First name, last name, date of birth, address. Change. Water recipients. Let's see. Maybe this goes to the following. So that's me. My address. And then how does it send it? Okay? Let me go. I'm going to open this page in Chrome so you can.
+Lee Harrold: Oh, that's a good idea.
+Monica Dyer: Okay? So if they fill it out.
+Lee Harrold: There.
+Monica Dyer: This is for me to send information to another organization.
+Monica Dyer: But I need also. Yeah. So, yeah, the patient has to fill this out on my side and their side, and then we can talk to each other.
+Lee Harrold: Got it.
+Monica Dyer: Like they're giving me permission to share information, and they give them permission to share information, so, yeah. This, this works. So then I can call and say, hi, I'm so and so I have permission to talk to you. Do you have a picture to talk to me about? And then, yeah, they can make sure they get that. They can acknowledge that that's a patient of theirs until they have that permission.
+Lee Harrold: That makes sense.
+Monica Dyer: Okay? So I think this is. On the right track.
+Lee Harrold: Cool. Are there new sections you need to add, or do you think you could just click the publish button and then it would say you're ready to save it?
+Monica Dyer: Are these checkable? Multiple choice?
+Lee Harrold: Yep.
+Monica Dyer: Okay? And multiple choice means you can pick more than one.
+Lee Harrold: Oh, yes.
+Monica Dyer: Single choice. Not like a multiple choice test. Okay?
+Lee Harrold: That is. That is a little unintuitive, isn't it?
+Monica Dyer: The naming? Yeah. Multiple. How do you.
+Lee Harrold: A single choice test.
+Monica Dyer: Yeah. I think it's always like multiple multiples when you had to pick more than once.
+Lee Harrold: Yeah.
+Monica Dyer: Okay, so let me change the name right there. Archicad. O.
+Lee Harrold: Okay?
+Monica Dyer: Publish. Do you have? So form fields are disabled, okay?
+Lee Harrold: Yeah. One way to test like what this looks like as the patient would be to add yourself as a patient and put in like, your own contact information. Like, send it to yourself and then see. See the info pop up.
+Monica Dyer: Okay? Still need to change lesson mine.
+Lee Harrold: There.
+Monica Dyer: Okay?
+Lee Harrold: Cool.
+Monica Dyer: So at least I'm closer on that. That will probably serve the purpose. Okay? I have a Spanish speaking patient. It seems like it's capturing things. I didn't get to look very. I haven't finished the note yet. Is that the case?
+Lee Harrold: That it?
+Monica Dyer: How many languages this speak? And when we speak, like, Spanglish.
+Lee Harrold: So, yeah, I don't remember how many total, but, like, I know it's a spread, like, at least. At least 20. But there is. There's, like, a feature you can. You can add that assists. Oh, but I guess if they're speaking both in the same session, we probably don't want it to look explicitly for Spanish.
+Monica Dyer: Yeah, the.
+Lee Harrold: The English default. Does a solid job of catching other languages if they're captured inside of the same the same session.
+Monica Dyer: Okay? Cool. Yeah, we switch back and forth a lot. And like, she. Like the sentence is, like, mixed for her too.
+Lee Harrold: It is, that is. Let me actually. Yeah, let me on my side, just see if I can figure out where that is. Like, it used to be pretty common, and then we switched, like, transcription providers, and then it, like, it wasn't the thing that we needed to manually.
+Monica Dyer: Ever have someone that I'm seeing through, like a translator?
+Lee Harrold: Oh, yeah.
+Monica Dyer: How that would work.
+Lee Harrold: It's probably going to be impatient.
+Monica Dyer: When I was curious which language is because I speak Haitian Creole.
+Lee Harrold: Oh, yeah, I think. I think that one is covered. I remember it because I was surprised. I was like, oh, wow.
+Monica Dyer: Nice.
+Lee Harrold: Oh, okay. Okay. It looks like, yeah, we. We support a spread of languages. But there are only. Two that we like, English and Spanish, are the only two that we have available in this contact information dropdown. But, you know, I'm. I'm not. I'm honestly not sure if that affects node transcription. Let me check with the team. But just. Just as a test, I guess I would recommend speaking Cajun Creole inside of the recorder and then.
+Monica Dyer: My own session. That would be cool.
+Monica Dyer: We asked that. It's looking. Pretty accurate for the last. Some things I know she said in Spanish. Are here in English. It seems a little bit. Better at capturing, like, what I say in English. Like, sometimes she's speaking Spanish and I'm speaking English because she understands completely. I speak Spanish, but it's, you know, more. I have my scripts. It's more natural this week in. In English. So she's like, just speak English and I'll speak Spanish. Like, okay, got you.
+Monica Dyer: So, yeah, it does seem like it's a little bit more. Heavy on capturing the English stuff. I mean, there's. There's some things here that were definitely, like what she said.
+Lee Harrold: Can you. Can you open the transcript for this note? Click the, yeah, the, like, external thing there. And that's quick. Let's look at the transcripts. To the top left. Underneath. Yep.
+Monica Dyer: Because I got the new job.
+Lee Harrold: See if it's like a solid block of. Spanish that might have been. Or if it transcribes, it fit phonetically. Problemo. Okay, so it seems.
+Monica Dyer: Not. A word. Facial. Facial vision. Okay.
+Lee Harrold: I can't think. I saw. I think I saw a block of Spanish. Look for. Look for locust control. F. Locust. That looked like a Miss.
+Monica Dyer: No case like. How did you spell it?
+Lee Harrold: Locust.
+Monica Dyer: Oh, look. It's a locuda. That was Spanish.
+Lee Harrold: Okay. Oh. So, all right. It's. It's. It's keeping it in Araparo. Crocus. Crocus. So, yeah, it's keeping it in the native language. Cool. And then CLM is going to do a good job of like it is language. Aware.
+Monica Dyer: Well.
+Lee Harrold: That's not good. That's not good. Okay?
+Monica Dyer: Yeah.
+Lee Harrold: Rough.
+Lee Harrold: Oh, can you go back to that? I want to take a screenshot just so that. I think that's a perfect example.
+Monica Dyer: Okay? And this was me, and that was her.
+Lee Harrold: Oh, interesting. So it mislabeled that.
+Monica Dyer: I wonder when it switched. Switch back there. Because that is me. That I do start speaking here. The amazing.
+Monica Dyer: Maybe our voice sounds similar enough that it was hard.
+Lee Harrold: It's a hard problem to solve. I was in, like, Transcription. A little bit of transcription research, like, before I joined and, like, there are a lot of competing vectors to try to make that classification.
+Monica Dyer: Which is between the voices.
+Lee Harrold: Between the voices. But. Okay, yeah, I got some information from my team. So it is, it is, it is supported, but it looks like there's some things we can do, like on the backend to make that a little better than how it currently is. So I. I can't, like, give you, like, a roadmap, so to speak. But yeah. That would be. I think there are some things we can do there.
+Monica Dyer: Okay? Awesome. And then. Okay, so I'm in the situation where for Medicare, Medicaid to prove verify my identity with them, they need someone else from my organization to call and say I am who I am.
+Monica Dyer: So I don't have anyone else in my organization, so my.
+Lee Harrold: Oh.
+Monica Dyer: Mitch and I were saying, like. Oh, okay. Well, maybe we should add each other anyway, and we can just kind of be back up. Like, if one of us is in the hospital, we can, you know, take care of each other's patients if needed. Not like a financial tie, but just kind of like, let me give you access in case of emergency or, you know, maybe even vacation taking call. And so we're like, oh, okay. And he has shots, like, two. And so I was like, oh, let me go see if I can just add you. As a clinician to my practice.
+Monica Dyer: And when I did, I think it was wanting me to pay, like, double. Yes.
+Lee Harrold: Okay, so the way that, that, that sort of system works is it's designed for, like, inclusive practices. So if you, if you. We associate, like, both payment subscriptions into a single account, so if he becomes added to, to the account, Then his monthly subscription is bundled into whichever subscription happens to be there, and then his personal subscription cost is disabled.
+Monica Dyer: Okay. We will keep our own separate practices. Though he would need his own subscription.
+Lee Harrold: Yeah, so that. That probably is not not going to work. Okay? It would. It would bring all of his information into your organization, and the two of you would share the same, same organization.
+Monica Dyer: Okay? So there's no option to, like, be backup providers for each other?
+Lee Harrold: One way you could do it is you can create a new account for him with one of our unpaid roles.
+Monica Dyer: Would he have access to the charts and stuff?
+Lee Harrold: Yeah, he could. Yeah. So if you go to your practice clinicians, You can. Yeah. And then from the drop down. Operations support and supervisor.
+Lee Harrold: Are actually just operation support. Operation support is. Is unpaid. Yeah, okay.
+Monica Dyer: And so that would give access to, okay, clinical notes.
+Monica Dyer: And submit names. Couldn't create.
+Lee Harrold: He couldn't. He couldn't actually do the work. I guess, off the record, you could give him the credentials to your account, and then if he needed to, he could do that. But that. That's problematic. When it comes to signing, because he's obviously the rendering provider in that sense, and none of his information is inside of your. Your ehr. Yeah. So, yeah, I guess a backup member makes makes sense to me intuitively, that that is not currently something we support.
+Monica Dyer: That would convince people to be like, oh, you should get jobs like, too, and then you can be my backup member. It's like a little that probably wouldn't, you know, take anything out of y'all's pockets.
+Lee Harrold: Yeah, because, like, they. That the other user already has a Jets like account is the reason. Why that works. It's just like if you're allowed to. Be a member of a different a clinician, you know, access that.
+Monica Dyer: I think you would get pairs signing up.
+Lee Harrold: That's true. We're both running solo practices, and we want to help each other out.
+Monica Dyer: Yeah.
+Lee Harrold: Let me. Let me see if I can think back to the core problem. Which was? You need. You need someone else from your organization. To confirm your identity. Was that. Was that a jot. Psych constraint? Was something instead of dot seg asking you to get your identity approved or that was something outside.
+Monica Dyer: No, that's credentialing with Medicare and Medicaid. Like, have someone from your HR call us and like. And so we were just saying, okay, we could do this for each other, but we can't commit Medicaid fraud and lie to them, so we should be a part of each other's organizations in some way. And then we could say, yes, I'm the, you know, backup provider for. For him.
+Lee Harrold: I guess. Yes. Setting it up in.
+Lee Harrold: So that's a separate issue.
+Monica Dyer: That's how we started talking about it, but that makes sense.
+Lee Harrold: Okay. Yeah. I was like. Like, I don't. I don't even know if that would still legally be okay if you were just technically on the record as backups and. Job site, because that's. That's separate from, like, you know, the MPI registration, where everyone shares it. Organization mpi. Because that's, that's, that's probably what they're looking for, is if an organization is a, if the parent organization has an mpi, and then. Each of you belong to or are registered to the organization that has that ID associated with it. But anyway. Yeah, no, sorry, we don't. That's a great idea. Okay?
+Monica Dyer: And then, yeah. Speaking of mpis, I just got the npi2 to get individually credentialed. Is that something that I need to enter somewhere I went to look at, like. Oh, okay. Not doing that. Maybe that would be in there.
+Lee Harrold: I'm so sorry.
+Monica Dyer: The mpi. There's npi ones for individuals and mpi2s for practices.
+Lee Harrold: Oh, yes.
+Monica Dyer: So I don't know if it would be. Oh, this is to schedule a call.
+Lee Harrold: Yeah. So I guess for. Yeah, that mpi distinction. To be relevant, you would need to be using Shot Psych for billing. And that is kind of what's going on here is like, you just click the button that would set you up to do the onboarding task to. To use Jack for billing. But I think in your personal. Okay if you click the monogram. Yeah. Oh, yeah. You have a logo? Upgraded. Great. It's not a monogram. There's a place in here practice information. Oh, that's right. That's right. Okay. Yeah, it looks like we only support 1 billion MPI. So you wouldn't.
+Monica Dyer: So maybe I would build to the organization's one. Sweet. I was like, I'm sure that's going to be needed. Awesome. Okay. Oh, yeah. And then back to. Your practice clinicians. I'm going to get a virtual assistant.
+Lee Harrold: Oh, cool.
+Monica Dyer: Okay, so. Which role would be best for that person. Probably Operations.
+Lee Harrold: What.
+Monica Dyer: What tasks do they need to perform? Well. I guess that's. That's the question, Yeah. I mean, if they could help. Yeah, edit the notes, like, you know, get the med list updated and things like that. Checking those. I would want to finalize it. But have them.
+Lee Harrold: Have them for editing.
+Monica Dyer: Audit and stuff, too.
+Lee Harrold: So it looks like.
+Monica Dyer: They would need to be.
+Lee Harrold: They would need to. To save you money. I'm wondering if it makes sense to just make them. One of the roles that can view clinical notes and then send feedback to you about the notes, but in. In order to edit them. Actually, I'm not. I'm not sure about this. Can you. Scroll up and then click. Click Invite User and select Supervisor from the drop down. Yeah. Okay, so it looks like that the supervisor role also doesn't add. Doesn't add a cost, so I think that would be okay. The one to use and then if. Yeah, because they can create an edit notes.
+Monica Dyer: Yeah. Access patient records, submit claims. Manage templates.
+Lee Harrold: That seems really close. To, like, own a friend here.
+Monica Dyer: I guess I don't want them to be able to sign notes. Is the thing.
+Lee Harrold: Oh, that makes sense.
+Monica Dyer: Everything else would be fine.
+Lee Harrold: Supervised. Yeah, so that. So that. That would work for. Oh, yeah, it's not listed here to see if they can sign.
+Monica Dyer: Under a supervisor.
+Lee Harrold: Yeah, it says coming soon. That. I. I think that means it's not currently implemented.
+Monica Dyer: Oh, this part. I thought that meant once I signed up for billing, it would appear.
+Lee Harrold: Oh. I think I should improve this chart so that. It more clearly spells everything out.
+Monica Dyer: Okay? You do everything.
+Lee Harrold: There's a very small team. Oh. Oh, you know what? Okay, I'm sorry. We don't bill for any of these except for clinician. So any. Any of the rules here. That's not clinician would. Would be ones you could assign for free.
+Monica Dyer: If there was a rule for someone who could do everything a supervisor did but not sign the note. That would be.
+Lee Harrold: From the unclear to me if, like anyone who isn't the clinician could sign it. And it intuitively, I think the answer should be no, because, like, you're not. If the other person isn't the person who recorded the note, it is illegal for them to assign it. So I, I can, you know, pretty confidently say that. Other.
+Monica Dyer: But if I put.
+Lee Harrold: Someone shouldn't be able to do that. Sorry.
+Monica Dyer: Could I put a virtual assistant and the supervisor role? Then they could send the notes, right?
+Lee Harrold: If you put a virtual assistant in the supervisor role, they can do cross signing so they can say that. Yeah. After you sign it, they can say that they have viewed it and then that. That's. That's more like if. The use case there is. We have clinics where. The billing clinician who's MPI everyone is using needs to sign in addition to the the pre signing.
+Monica Dyer: Yeah. Will that be? Default. Or will it be. A setting.
+Lee Harrold: Oh, that's. That's. That's default.
+Monica Dyer: Okay?
+Lee Harrold: Yeah, we want to be careful with that.
+Monica Dyer: Yeah, if there was the option there, I would. I would turn that off for a virtual assistant to not have the accidental extra signing. Because that would be my only issue with putting someone in that role. It'd be like, I just don't want them accidentally signing something. And creating some kind of legal issue.
+Lee Harrold: Let me. Let me check real quick and make an account. Okay, let's see. I'll make this account a supervisor. And we'll log in as them.
+Monica Dyer: So I messed up my stripe account, and I don't know how to undo it. Excited.
+Lee Harrold: Tell me more.
+Lee Harrold: I'm trying to figure. Yes, I think I remember. Yeah, there. There was, like, an issue with the card, and it didn't work to change the card. So you can't the script and you created a new one, but the new one doesn't seem to have the add ons, is that correct?
+Monica Dyer: I think that might be someone else. Okay? My issue. Good memory from situation. But I. I have a stripe account. With a different email address, and so I went to set it up through jsc, but I use a email address and now every time I go back to it, it just keeps me stuck with that one so I can't. It wants me to just, you know, go through the whole process again. But I already have a Stripe account. Instead of they want me to create a new one because I'm stuck in this new email.
+Lee Harrold: Oh, gotcha.
+Monica Dyer: Like, timed up, but I don't think it is. How did. Let's see.
+Lee Harrold: It'll be under your practice. And then your subscription.
+Monica Dyer: Okay? So continue setup. See if it still wants me to use this other one. Too many email address problem.
+Lee Harrold: Too popular.
+Monica Dyer: Too communicative. I'm going to, I think. Yeah. So it takes me back onto this, like, second or third page of this process, and I just need to reset it and start from the beginning to use a different email address because I don't want to, like, create a whole separate account.
+Lee Harrold: Oh, it's trying to create.
+Monica Dyer: Because I started with the wrong email address. So it doesn't know me.
+Lee Harrold: Okay. I might be able to do something on my side.
+Monica Dyer: I tried to go back. It just took me back to here. I mean, I guess if I put in the Ein, it might say. You already have an account.
+Lee Harrold: What are the two email addresses? Rosewater Wellness at Gmail. And what's the other one?
+Monica Dyer: Rosewater wellness care at gmail and monica j. Dyer at gmail. The correct one is monica j. Dyer. The one I used here was the rosewater.
+Lee Harrold: Okay? Yeah, so I see. Yeah, I see. The JAT psych subscription associated. Sorry. The stripes. The stripe account associated with the jaw size description is Rosewater Wellness Care, gmail.com. So if I look up Monica J. Dyer, I do not see anything. And so you want to? Change. Okay. You. You would like it to use the Stripe account? For monica j. Dyer.
+Monica Dyer: Right.
+Lee Harrold: See. Can we? What? 's. What's the email address connected to Johnson? It's Rose Water Wellness Care. Ah, okay. Yeah, unfortunately, we're not going to be able to to get that switched over.
+Lee Harrold: I wonder if I could get so do you use stripe for. Sorry, what did you say?
+Monica Dyer: I wonder if I could go to Stripe and change my email address. Like my account.
+Lee Harrold: I think. I think that's the thing that it'll let you do.
+Monica Dyer: Let's see if I have Firefox or Chrome saved. Another thing is, my patient emails are getting saved in Chrome.
+Lee Harrold: Oh, does it. Does it automatically save them when. When you type them in? That's really frustrating.
+Monica Dyer: Like. Maybe. Okay?
+Lee Harrold: Rich business account. And then it doesn't give you any business accounts. Baffling. Your business is connected to platform, you just try to use that platform to access your account dashboard. But it is not our business. That has that because I have stripes in my. Oh. Oh, I see. So you have. All right. Now, understand, there's a monitor jdir account. Through found. And so Strike is saying, please use found. Ok? You want both the found business one and the jot seg one to be one and the same.
+Monica Dyer: Is that possible?
+Lee Harrold: I don't think. Let me think about this for a sec. Won't let us. Change. The email associated with the account. Found might let us. Oh, no. We want it to be the same. And stripe. I don't think that's possible. Sorry.
+Monica Dyer: So I just need to create a new Stripe account.
+Lee Harrold: Yep.
+Monica Dyer: Okay. I was. Like combine them anyway, because it's going to have the same. Ein. It's going to have the same. Info. They might be like, you already have an account. You know how you can get stuck in that loop. Payments continue set up. Okay, well, I will mess with that, because that's not, like, a hugely pressing thing. I want to be able to bill through here, but I can still use found for now. Go through that.
+Lee Harrold: And the thing I was checking on in the background was if. Yes is if the supervisor can sign. Oh, okay. That's what it was. I lost. I lost the credentials for that backup account I was trying to log into. See if I can find. Okie doke. A new one, Supervisor. Yeah, I was in Austin long, but I definitely enjoyed it. A part of me is thinking, yeah, I could probably move there. Much, much warmer, much warmer winters.
+Monica Dyer: Oh, yeah.
+Lee Harrold: Seem brutal. But that's. That's okay. Y.
+Monica Dyer: Eah. I mean, it's kind of like the winter here, though. Like you just do less outside when it's really hot. Never so bad that you can't do things outside, so. Flip. Okay. It's giving me. An option to change my email address here, but. That's probably not the account.
+Lee Harrold: Your screen.
+Monica Dyer: I'm going through and, like, putting in all my stuff and waiting for a stripe to be like, hey, wait a minute, we already have you in here.
+Lee Harrold: Oh, I see. Yeah. So you. Yeah, you could.
+Monica Dyer: Put the other one just to see if they're like.
+Lee Harrold: You already have this count. Yes.
+Monica Dyer: Because. My Ein didn't trigger it. They're so nosy.
+Lee Harrold: It looks like I need to. I need to run soon, but. Yeah, let me know how. This. I'm really curious to see how this pans out. I'll get you an answer on this.
+Monica Dyer: Email address for you for full script.
+Lee Harrold: Oh, fantastic.
+Monica Dyer: Integrations@fullscript.com. And then, yeah. One I wanted to ask about being able to change patient's information on the prescribing app. Like I still can't edit their info.
+Lee Harrold: That's right. That's right. Yeah, I. I spoke with those spot support, and they told me that. It's like two. They think it's too risky to allow providers to do that directly. Which is wild. So we're going to add support. So that that's a thing you can do inside of jot Psych. But in the meantime.
+Monica Dyer: To change it.
+Lee Harrold: You'll have to. Yeah, you'll have to ask me. And then I can, on your behalf, submit a support ticket.
+Monica Dyer: Oh, boy. Okay. So I just have to email you for every little typo I make. Right now?
+Lee Harrold: In the short term, yes.
+Monica Dyer: Sorry.
+Lee Harrold: I'm going to have a few. This is not. This is not like, your fault. This is definitely like a dose spot thing. Like, don't worry about it.
+Monica Dyer: Okay, good deal. All right. Well, thank you so much.
+Lee Harrold: Thank you so much. It's good to see you again. Like that answer, and I'm sorry. You. You gave me an email. Integrations.com. what. What do you need me to do with this?
+Monica Dyer: We talked about full script as a really. It's like for supplements. And you can send labs for patients who don't have insurance really cheap.
+Monica Dyer: And it's a way for providers to recommend supplements and then, you know, they get a percentage back so they integrate with a lot of EHIs and it's, it would be a real.
+Lee Harrold: Oh, I see, I see. It would be awesome if we supported, if, if we integrated with full strips now. I understand. Ok. Yeah. Cool.
+Monica Dyer: A lot of psych people are holistic and do the supplements side of things, so I think it would be a good fit for y'all.
+Lee Harrold: Thank you so much for that recommendation.
+Monica Dyer: Yeah, of course.
+Monica Dyer: All right, well, until next time.
+Lee Harrold: Monica, take it easy.
+Monica Dyer: Take it easy. Bye.

@@ -1,0 +1,147 @@
+Emily Kaiser: Doctor Henzel?
+Jonathan Henzel: Yes, Good morning.
+Emily Kaiser: How are you?
+Jonathan Henzel: Good, good. So I'm going to stay off camera. This is my very early morning for me right now.
+Emily Kaiser: No worries. I'm not sure if you can see us, but this is Chris. Yes, hello. Perfect. So Chris is our staff manager here at JOT Psych. And I know we just kind of wanted to touch base because you recently transitioned to a new practice. But also we have a bunch of new features which we briefly spoke about last time for JOTBILL and JOT Audit, which may come in handy as you kind of are on this journey of opening up a new practice. And then afterwards, I'd love to run through some of our other features just because I know you said you didn't use all of them. So you can kind of watch me as I navigate the screen and I can show you what's new at JOT Psych and how it's intended to be used.
+Jonathan Henzel: Perfect. Yeah. Awesome.
+Emily Kaiser: Cool.
+Jonathan Henzel: Wonderful.
+Christopher Hume: And Emily, just to quickly jump in here and thank you for the intro. Dr. Henzel, it's so nice to meet you.
+Jonathan Henzel: Jonathan, just. Jonathan's fine.
+Christopher Hume: Oh, Jonathan, perfect. Well, Jonathan, great to. Great to meet you virtually. And I think just the first thing I wanted to check on was one. I know we said kind of as you got up and running with your new practice, we wanted to make sure those first two months were kind of reimbursed and you had that transition period. So I initiated those a week or two ago. Wanted to kind of confirm that with you and let you know that you should see that. And if for whatever reason you don't, please just let me know and we'll get it sorted out.
+Jonathan Henzel: No, they. Yeah, that did. You got charged those two months, but then they were. They were reimbursed there.
+Christopher Hume: So thank you.
+Jonathan Henzel: Okay.
+Christopher Hume: No, you're very welcome. And then the second question I had for you, and I would just love to hear a little bit about kind of the practice you're building and sort of where you are in that kind of process. Just be super helpful as Emily and I just review some of these new features with you just so we can make sure we're hitting you with the most relevant. Yeah. Parts of John Psych to take advantage of.
+Jonathan Henzel: Nice. Yeah. So psychiatric medication management. I'm mainly dealing mood, anxiety. Got a few people with schizophrenia, but no, I'm not doing any kind of opioid or alcohol disorder. No eating disorder, motors. So, yeah, that's basically it. So I did put in on because I've modified a long time ago. I modified my progress note for this, so fit my last practice perfectly. I've now added some of the psychotherapy parts that you guys have. So that's. That's been another very welcome addition. I. I go into the auditing, the billing and the CPT section, and I've. I've used it. I definitely think there is. It's not capturing all the things I would be putting into a note.
+Christopher Hume: And so Jonathan, are you looking at the section that just has all the CPT codes listed?
+Jonathan Henzel: It's like a part of your note? Yes. Yep, yep.
+Christopher Hume: So we, that has actually been completely redone and I'll, I'll quickly share my screen and show that to you, I guess just before I jump into the demo. Because once you get me started, I'm so excited. Who knows if you get me to stop walking through just a little bit more. So are you kind of. Do you have your own practice now? Are you.
+Jonathan Henzel: Yep, yep. So I'm on my own now. I'm trying to do everything.
+Christopher Hume: We'll see if that works out.
+Jonathan Henzel: I mean I'm a month in now. This is why I just finished my fourth week. 191 patients start.
+Christopher Hume: Oh my gosh. That's incredible.
+Jonathan Henzel: So, yeah, every single one of my patients apparently, except one that I'm finding out now the hard way came with me.
+Christopher Hume: Wonderful.
+Emily Kaiser: That's great.
+Christopher Hume: And so how do you. So we'll definitely go through the note taking, but what Emily was referring to is we recently rolled out our job bill functionality. What that does is it does eligibility checks. It does. It audits your notes. So it'll identify, hey, you selected this CPT code, but you might actually be able to use this one. And we also do the billing for you is do you have a biller right now or how are you kind of handling that?
+Jonathan Henzel: So, right. I'm still in the credentialing process. The whole. If I had a little more time, I would have had this practice set up in a much better way. But I kind of got blindsided from, from the old practice. So in that regard. So I'm. Right now I'm just charging. I'm writing off almost everything.
+Christopher Hume: Oh my goodness.
+Jonathan Henzel: So yeah, $20,000 write off so far.
+Christopher Hume: Oh my goodness.
+Jonathan Henzel: But next, next month will be a better month. But yeah, so, so the EHR that I use as the billing functionality to advanced md and so far that's what I'm using. It's, it's, it's definitely not easy. But you know, there is a, a rote memory kind of to it. Like, you know, once you're doing it a couple times you kind of get it.
+Christopher Hume: But yeah, it's.
+Jonathan Henzel: Yeah. Not easy going through it.
+Christopher Hume: So do you think you'll have your credentials for. But you'll be credentialed with the payers by February?
+Jonathan Henzel: Mose I've got Cigna and Assurance. Done. Now Medicare, Medicaid has said everything's been submitted. I'm in prior. Process now though, for two weeks. Blue Cross, Blue Shield, looks like that's going to be still the longest and that's going to be my. The bulk of my patients.
+Christopher Hume: Okay, well that, that's all really helpful. So yeah, I can walk you through sort of how we help people with billing and then unfortunately, Jonathan, I will have to jump before the end of this meeting. I just wanted to make sure I joined the beginning to introduce myself and make sure kind of the. Your reimbursements were taken care of.
+Jonathan Henzel: Thank you.
+Christopher Hume: No, I mean, of course when you're starting a business and someone tells you you're not going to get charged or something, and then you do, super frustrating. But I would love to just walk you through jot bill. Emily will walk you through some of the other job site features. And if jot bill is something you'd like to try, we could get you set up for sort of a more formal onboarding intro call with our billing team whenever your schedule permits.
+Jonathan Henzel: Okay. Yeah.
+Christopher Hume: So let me show you now the jot bill. As I said, we sort of have three. There's three pillars. There's first, eligibility checks, which you know, ensure that your clients are maintaining coverage. Maintaining coverage that will reimburse you for the CPT codes you're charging, et cetera. Secondly, there's the audit feature. So what we can do is we'll work with you and we'll take your payer contracts, we'll upload those into job site and then it makes sure that your notes are crafted in a way that is meeting those expectations. And then thirdly, there's the actual billing part where we'll do the billing and kind of audit defense for you.
+Jonathan Henzel: Okay.
+Christopher Hume: Oh, let me show you. So this is the job audit center. So we have obviously a lot of standard rules built in regarding, you know, you need to ask about reading the document, suicidality and homicidality, homicide risk.
+Jonathan Henzel: Okay.
+Christopher Hume: Et cetera. But these would all be customed once you get those contracts from your payers as you're credentialed. And we'd create new rules with you and make sure that that's really tight. And sort of step one, what that would do is you would have note here is that this is our updated audit and CPT codes. It would say, hey, you put in 99213. But you know, you might want to consider a 99213 and a 96127 and it will tell you exactly why. So it's CPT codes you're seeing now. This is like the light speed ahead version of that.
+Christopher Hume: Okay, I know I'm moving at a million miles a minute here.
+Jonathan Henzel: Yeah, this is easy. Yeah.
+Christopher Hume: Any questions or anything like that?
+Jonathan Henzel: No, I mean I, I mean obviously seeing it in, in action is, you know, you got. I, I would need to be in the visit and then of course, no does. All right. Yeah.
+Christopher Hume: Would you be interested in, in setting up a meeting to, to get those rules set up from your, the payer contracts you have?
+Jonathan Henzel: I mean. Yeah, yeah, it depends on. I mean if it, if it, how long. If it's going to take as long as it's taken me to set up the ehr, then, then I don't know that I'll have time.
+Christopher Hume: No, no, no, it would be. You would, we'd talk through it with you and then it'd be like a 30 minute meeting. We talk, do a talk track with you and we would, then you would just share the actual documents with us and we take care of it from there.
+Jonathan Henzel: Gotcha. Okay. And then so are the rules then. Basically they're specific to each payer. So they.
+Jonathan Henzel: You have 30.
+Christopher Hume: Exactly. Exactly.
+Jonathan Henzel: Yeah. I mean that, that's, that would be the only thing is how much time is that going to take? If I have like 30 different payers,
+Christopher Hume: we should be able to load those into the back end based off of your documents. The whole sort of idea, Jonathan, is that this is a pretty low lift of a setup on you and it shouldn't be much more than, than the, the meeting, the intro meeting.
+Jonathan Henzel: Okay.
+Christopher Hume: So we can set that up or I can get you kind of a. I could talk with the team. Say like, hey, we got 30 pairs. How much work, how much of a lift is it going to be on Jonathan send you kind of a rollup and then we could, we could schedule something from there.
+Jonathan Henzel: I mean, yeah, it definitely be interesting. I mean, it's okay be foolish not to see what's out there, but.
+Christopher Hume: Yeah, yeah, then as I said, I'll unfortunately jump here. But Emily, if you could kind of just maybe find a tentative time maybe for the end next week or early the following week and then in that interim, Jonathan, I'll send you kind of a roll up of all the. Hey, here's how long it's going to take all that info and then if that looks good, we can attend the meeting. If you're like, hey, let me get my EHR straightened out and we can come back to this later, then we could just postpone.
+Jonathan Henzel: Gotcha. So advanced is going to roll out February 3rd, 11th and 16th are. Is the rollout for awesome.
+Christopher Hume: Okay. So you'll have, you'll have many options to choose from. You'll have. You'll see all the job stack features, you'll see all the advanced features, and hopefully by the end of February or March, you'll be set up with whatever tech stack works for you.
+Jonathan Henzel: That's. That's probably a good time frame. Yep.
+Christopher Hume: Okay, perfect. Well, then I'll leave you guys to kind of wrap this up. But, Jonathan, I'll be sure to email you after this. So if you have any questions, Emily's here, I'm here. We're here to support you.
+Jonathan Henzel: Appreciate it. Yep. Thank you.
+Christopher Hume: Wonderful. Happy Friday. Have a great weekend.
+Jonathan Henzel: Yeah, you too. Take care.
+Emily Kaiser: So, Jonathan, I'm going to just jump in and share my screen and I know that you're familiar with job psych. You've used job psych in the past. So I'll just kind of run through it briefly and let me know if there's anything that you want me to like, slow down on or hone in on the only.
+Jonathan Henzel: So before. Before you start anything, this is not a big question, but I log in, I use the email of my old practice.
+Jonathan Henzel: I'm no longer with them, so I don't have access to that email.
+Emily Kaiser: Okay.
+Jonathan Henzel: So I've been trying to change it and every time I change it, it denies it. I couldn't get a password recovery if I needed to.
+Emily Kaiser: Yes. Okay, so that is something I believe our engineering team can help with, but I'm not 100%. I don't want to misspeak. So I know that you've been using this one account for a long time, so it wouldn't make sense to switch accounts completely. Correct?
+Jonathan Henzel: Oh, no. So I've got some notes back there right now. So my former boss, I've gotten agreements from everybody that came into my practice. One guy said he was coming to my practice. He went to sign the form, looked like he was signing the form, so I transferred him into my. My practice here. And she's take. She's threatening to take me to the board of nursing.
+Jonathan Henzel: Okay, so the note has the verbal agreement that he was coming with me. And this note right now is, Is evidence.
+Emily Kaiser: Yeah, no, I, I hear you on that. And we don't want to touch it, so I mean, I would definitely recommend even copy and pasting whatever you need into a word doc just to like double secure that.
+Emily Kaiser: Because once something is deleted in jot psych, it is gone. So definitely have an extra copy, but yes. Okay, let me get with the engineering team and let's see what we can do on that because I'm just genuinely not sure and I don't want to misspeak, but I'm sure there's some sort of solution we can offer you because exactly the point you made. You need access to the password reset. So I will send that message forward and get back with you if that's okay.
+Jonathan Henzel: Nice. Yep.
+Emily Kaiser: Okay.
+Jonathan Henzel: Yeah. Again, I know it's probably, you know, not a big deal.
+Emily Kaiser: No, yeah, valid. I was actually going to ask you. I don't even have the name of your new practice. I know we're working from your Yahoo. Do you want to switch that over to your business information?
+Jonathan Henzel: I mean, it's either way, it's fine. Clarity. Psychiatric Solutions is the name of the practice.
+Emily Kaiser: Okay.
+Jonathan Henzel: But this is, you know, I'm not. This is fine.
+Emily Kaiser: Okay, Perfect. Sounds good. So let me show you. Here, let me go to the screen. Okay. Can you see my screen? Okay.
+Jonathan Henzel: Yes.
+Emily Kaiser: Okay. So you're familiar with your notes. Keep in mind that all of these notes I use for. They're just randomly used for demos. So you may see some information that just does. Doesn't necessarily make sense because we've used it a couple of times. So you're familiar with your notes. Here, but really what I want to focus on is the patient portal. Like Chris kind of gave you a little bit of an intro into the billing and auditing and what it is. Exactly. I think that it sounds like it could be a good fit for your practice, but I will leave that information for him to kind of COVID Right now I want to focus on the features that you can use. So I know you mentioned that you're not using all of them or you asked about an option of turning some of them off. What was it specifically? That was frustrating.
+Jonathan Henzel: I mean at this point now I don't remember, but I just remember my note. I couldn't, I wasn't able, like it wasn't as easy just to get to the note when I turned other things on. So I just turned them back off.
+Emily Kaiser: Okay, so let me go over to. I'm just going to open up a note here. So how do you currently transfer the information here and get it to your ehr.
+Jonathan Henzel: Copy. Generally copy and paste and then I'll edit it. Well, I edit it in the, in my software, but.
+Emily Kaiser: Oh, okay. So do you use this AI assistant at all?
+Jonathan Henzel: I did the other. I. So I had a split. I forgot to hit stop on one of the in between visits one time. So I recorded two visits in a row and it, it did split the note up.
+Emily Kaiser: Wonderful. Okay, good to hear. So if you don't know, I don't know how you currently edit it, but I'm not sure what your notes typically look like. But a lot of people like to use it by really making it. So it's this, it's the type of note that they would produce. So say make summary. If your summary normally uses bullet points, you can give it something as broad as that and it will take that information. You get every, any sort of input. You can say like change the word client to the patient's name. You can be as specific as remove every time the patient speaks about the family dog. So it can be anything really. And basically as you give the AI feedback, you're training it to understand what kind of format you like for your notes, to make it just as simple in just one click moving forward. So really all you have to do when you log in is copy and paste. Does that make sense?
+Jonathan Henzel: Yeah, and I've done, I have probably used. It didn't look like this part now. It was like the older looking AI tool and I've done that kind of thing with it. Like.
+Emily Kaiser: Yeah, okay. Okay, perfect. And you've seen, you mentioned, you saw the billing codes as well as follow up emails. So a bunch of information is in here. Oftentimes we hear that all of this information is great, but what if I don't need all this information? You can actually go to your notes or to your templates. Here.
+Jonathan Henzel: I've got a full. My templates are.
+Emily Kaiser: Oh, good. So you've added it, have you created your own?
+Jonathan Henzel: Yes. And then I added that one of the psychotherapy build outs that you guys have, there's a bunch of. Them that were in there. I don't know, it just is, I think just psychotherapy, but okay. Yeah, no, it's been. The categories and all that for the note have been really good.
+Emily Kaiser: Oh, good, good. Glad to hear. That's good feedback. So you can, you know, edit, add or subtract any summaries or any or any sections that you don't want. So this is the patient overview. Just to kind of hop in here. So I don't know how much do you ever use these, these patient profiles?
+Jonathan Henzel: What? So no, I know I'm not really. I mean, I see that I keep the same name obviously and again, I guess I do. But I don't go into the patient profile part because.
+Jonathan Henzel: Okay, you know, I see that it does. I mean there was a visit that I had one day yesterday with the patient and we didn't talk about any of the stuff but, but the full like her past, there was a lot of important stuff that showed up.
+Emily Kaiser: Okay.
+Jonathan Henzel: That was in our history but you know, wasn't relevant necessary to that conversation.
+Emily Kaiser: But I see this.
+Jonathan Henzel: It's definitely there.
+Emily Kaiser: Yes, yes, exactly. So this is just kind of like a hub, think about it, where all the information that you need is right here. A lot of people, a lot of users like to kind of hop into this during or right before an appointment just so they can kind of get an overview of what last encounter, what you and the patient spoke about as well as like basic information, demographic information, scheduling or recording appointments. So you can access anything here as well as what your treatment plan may be for this patient. Patient forms, you can see if you, you can send forms directly to patients from this hub, anywhere in Jatsic where you see this little floating icon pop up. You'll also see it in your documentation. You can send forms to a patient, you can create lab requests to send to a patient, generate clinical document based on this note, send patient follow up and request payment. So the other day I got a question of, you know, I see that on the template, on the note produced, I see that there's an email for a follow up for a patient. What this button does is it takes everything of what would be useful for your patient to know, gives them a friendly appointment reminder as well as like maybe a medication overview what you guys spoke about on your last appointment while also like mentioning things to look out for. Hey, you need to schedule in six weeks, whatever it may be, whatever was mentioned jots like has conversation intelligence. So basically it's taking anything that it thinks could be relevant to you or the patient and sending that friendly reminder ahead and making it easy. So you can just kind of, you could just click share. You can copy to clipboard, download PDF or send directly to patient by phone or email. It gives you a little preview and then you go ahead and you send document. If the email is in the patient profile, all you have to do is click email, it will load and then you just send.
+Jonathan Henzel: Okay. Yeah, no, it's a, it is and I've looked at it a few times. There are definitely times where I, I copied some of the stuff, put it into a different document and then, yeah, gave it right on that.
+Emily Kaiser: A lot of people are just. With a new software and I think that there are many softwares out there that you're probably using for different things. There's so many different features that you might not be aware of. So I just wanted to kind of do a quick overview and let you know that, you know, rather than hopping from different softwares, you can kind of just send it directly. It may just save up a little bit of time. But I know with opening up a new practice, a little bit of time goes a long way. Yeah, definitely.
+Jonathan Henzel: The only, my only hesitation in doing something like that is I, some of my. I live in North Idaho. This is a strange place. The people here, I, I mean they, the most obvious things they won't believe, but, but a conspiracy. Absolutely. They, you know, so I, the fact that I would have two separate systems I think would freak some people out.
+Jonathan Henzel: And I'm not telling because I, I already, I've tried it. I floated out when I first started with the freed, like, hey, if I record this, what you know, that would you be okay with that? Everybody freaked out.
+Emily Kaiser: Ah, okay.
+Jonathan Henzel: This is the one party state. I'm not telling anybody anymore.
+Emily Kaiser: No, I mean, I hear you. If, if somebody's not going to let you or feel comfortable in your recording, you want them to feel comfortable in your office. Of course. And we're definitely sensitive to that. I have some people that do things like they'll. Rather than putting like patient information, for example.
+Jonathan Henzel: Yeah, I don't put the last name at all.
+Emily Kaiser: Yeah, yeah, they'll do first initial, last name. They will not put any demographic information. The thing is all of like you can see I don't have any information in here really regarding a patient. And all of this information and all of these features, they still act as tools for you. So you can do whatever you're comfortable. That's the nice thing about job psych is you don't like nothing's necessarily required to use it. Another thing that's important to note, just as you kind of speak to people, speak to patients is jot. Psych is. Is created to redact any PII information, personal identifying information.
+Jonathan Henzel: So you could. So that's the kind of thing they wouldn't believe.
+Jonathan Henzel: Yeah, but if you told them this was going to do something like, you know, set you up for they're submitting your name to a. To a registry. They're going to take your guns. They would believe that.
+Emily Kaiser: Okay. Yeah, that's tough. That's very tough. I mean, like I said, whatever is comfortable for you. I do have somebody who I think is. She's with a VA. And same kind of situation. She doesn't know how comfortable people would be being recorded or hasn't gotten good feedback regarding it. And she'll kind of give a brief overview after the patient has left the room or after her workday to jot psych for each patient and build these profiles. Just kind of like for herself to get that note and to use all of those features so really the patient doesn't have to be in the room. Kind of an odd solution, but she'll kind of just like give a breakdown of what you guys spoke about and medications, whatever kind of important information could or should go in your note. She'll kind of record herself saying that and then get what she needs from what it produces.
+Jonathan Henzel: And yeah, because after, after the visit I'll, I'll kind of do that summary as well. And so. Yeah, no, I definitely utilize that as well. The only. And I don't know, you know, I know this is not necessarily a question for you, there's probably an engineering question. But if this could be integrated into, directly into the ehr, I would use so many more features because it just would flow right into the same ehr.
+Emily Kaiser: Yes, that is something that we are hoping to have come spring, hopefully before, but we are hoping come spring you will see the full integration as well as E Prescription. So really we are working towards being like a one stop shop as far as platforms go. But Chris can kind of talk more about that as well as our engineering team because it is kind of happening behind the scenes here. So. But yeah, definitely stay tuned for that because that is something that we're really excited here.
+Jonathan Henzel: Yeah, that, that would, that's kind of the last little thing that needs. Yeah, that would be very helpful.
+Emily Kaiser: Yeah. Yeah, that's good feedback. We hear that a lot and we definitely want to make that happen. So those are kind of only. Those are like the only features that I wanted to show you that you might not be using. Anything that comes up. Any questions here? Anything I didn't go over that you've wondered about?
+Jonathan Henzel: No, I mean I, I definitely have seen the, the profile build out for the patient and I mean it is a good. You looking it over. I say yeah, I mean that, that, that it's definitely getting the right information in there and.
+Emily Kaiser: Exactly. Okay, perfect. So what we'll do now then, I'm going to just stop sharing my screen and we can kind of pick a tentative date and time for your next meeting with Chris. I know we talked about this or next week or the end of next week or beginning of the following week. What works for you?
+Jonathan Henzel: The end of next week is going to be my last big. I think we're doing like a two hour training and that's going to be it for me for. For all my advanced stuff. So next Friday is probably going to be a little harder.
+Emily Kaiser: Okay.
+Jonathan Henzel: Monday I'm off. I do Mondays and Fridays are my kind of clerical days. So I don't know what, what even day that would be. Monday, February 10th or something.
+Emily Kaiser: Monday is the 9th and Tuesday is the 10th. Do you mean that you like to schedule or you like to stay away from scheduling on Monday?
+Jonathan Henzel: No, no, Monday, the 9th would be good. Tuesday. Yeah, my weeks, I'm already booked up for the next like two months already.
+Emily Kaiser: Okay, no problem. Yeah, I would imagine that you are very busy with opening a new practice. So what about the ninth? Around this time?
+Jonathan Henzel: Yeah, I mean, nine is so. I. I have narcolepsy.
+Jonathan Henzel: So my best sleep happens from like 6am to. If I could, I would sleep till 1.
+Emily Kaiser: Okay. Like 2 our time. I'm not even sure. What is it, 10?
+Jonathan Henzel: Yeah, that's much better. Yeah, 2, 2 Eastern. 10. 10 Pacific is a lot better than. Yeah, okay.
+Emily Kaiser: Sorry. I was thinking that I couldn't remember if you were Pacific or mountain, but Idaho out there.
+Jonathan Henzel: Boise is a mountain. And where. Where Pacific up north. Moscow, Idaho kind of is where that changes.
+Emily Kaiser: Okay, I see. I didn't know that. Okay, so we will go ahead and schedule you for 10pm 10am 10am sorry. On the 9th. And I will make a note to Chris regarding changing the. The email for you. What would be an email that you want to change it to? Would it be this one?
+Jonathan Henzel: This one's fine. My business one is just jonathan@claritypsychmed.com so the word clarity and then psych and then med. Med.
+Emily Kaiser: Okay.
+Jonathan Henzel: Either one is fine. I mean, that, that I'm not worried. I just. I want everything from that last practice basically gone. That's like the last little thing that they say, you know, that, that size, that, that email.
+Emily Kaiser: Yeah, yeah, definitely. Okay. All right, I will go ahead and send that over. Anything else for me?
+Jonathan Henzel: No, I appreciate your time and yeah, definitely getting more robust each time. Kind of you go into it.
+Emily Kaiser: Yes, that is the goal. We appreciate your time and just your willingness to kind of share what works for you and what doesn't. I will go ahead and send this meeting along and let me know if you have any questions or if I could be helpful with anything.
+Jonathan Henzel: Awesome. Thank you.
+Emily Kaiser: Thank you. Have a good day.
+Jonathan Henzel: You too. Take care.

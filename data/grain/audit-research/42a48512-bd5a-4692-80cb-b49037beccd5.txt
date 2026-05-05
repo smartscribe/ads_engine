@@ -1,0 +1,165 @@
+Christopher Hume: Hi, Cindy. Good afternoon.
+Syndi Horn: Hi. How are you?
+Christopher Hume: Wonderful. Thanks for. Thanks for taking the time to meet today. So nice to meet you.
+Syndi Horn: I'm here, I take it, ashes on, right, Ashley.
+Christopher Hume: Yep.
+Christopher Hume: Okay, we've got Ashley here, so I guess to kick off. Cindy, let me quickly. Oh, Ashley, it looks like you're muted. Oh, well, Cindy, Ashley, so nice to meet both of you. I'm chief of staff here at JOT Psych. So one of my roles is just kind of helping people learn about the software, answer any questions they have, and maybe getting them up and running. I'd love to use today just to learn a little bit more about you and your organization and just see if job Psych might be a good fit.
+Syndi Horn: Okay, perfect.
+Christopher Hume: So I guess to kick us off, Cindy would just love or. Ashley, I know we communicated over email, but we just love to sort of hear about what brought you here today, what you're hoping to get out of this meeting. And then I could tailor it accordingly.
+Syndi Horn: Okay. Well, my role here. I'm Cindy Horn. I'm the director of IT Here at Memorial Hospital.
+Christopher Hume: We're a small critical access hospital.
+Syndi Horn: We have seven outlying clinics. But what we're looking at today is our behavioral health component of it. We have a fairly large behavioral health ambulatory clinic side, but we also have mobile units that go out to our local schools and rotate through there. And so the kids can make their appointments and really have drops in no show rate significantly. So we do anywhere from pediatrics to. We have Jarrow Psych. So.
+Christopher Hume: And so how big is the team? And is it a mix of therapists, psychiatrists?
+Syndi Horn: Yeah, mainly we have mid levels.
+Christopher Hume: That's I ash.
+Syndi Horn: Do we have any actual doctors? They're all mid levels, right? Yeah. So they're all mid levels. Mainly nurse practitioners. I think we do have a couple PAs in the mix and then we have some advanced, I don't know, call them social workers or therapists or whatever you want to call them.
+Syndi Horn: You can tell I'm not clinical. I'm on the IT side of the world. I'm also this on the sit on the HIPAA team, so that's why I'm also here representing the HIPAA side of things. So. And it also comes out of my budget, so I'm here for that part too. So. Yeah, so Ash is. I don't know if Ash is at a point where she can speak. Ash, okay, you can talk.
+Ashley Slater: So I'm Ashley Slater. I'm the clinical informaticist. So I help all of our clinics, behavioral health team and family practice, the nurses and the providers with all things EHR related. So we use EPIC as our ehr. So I'm the piece that connects everything back into that ehr. So that's where I get involved with JOT psych because I'm helping the providers convert those notes over into Epic, etc.
+Christopher Hume: Okay, wonderful. And are some of your providers already using JOT psych? Have they started to.
+Ashley Slater: Yes. So we got a new provider in January and she used JOT psych previously at a private practice. When she came over here, she wanted to continue using that. We have a different AI scribe that we use for our family practice. And she was like, man, jot psych just works a lot better for behavioral health. And so we were like, well, we're open to explore it. Absolutely. And so we had four of our other behavioral health providers that did the free trial. I've had some that have already had their trial run out. I have some that have like three, four days left on their trial. I have two or three of the providers that are still kind of in this like limbo state. So I don't know exactly where, you know, they'll come in with their decision. But yeah, we have, we've started doing the free trials and then we have one user that already pays for her own subscription.
+Christopher Hume: And how is that going with the, the free trials?
+Ashley Slater: Anything that's free trials, I think the free trials are great. When our provider first came over, the one that has history using JOT psych, we had some hiccups, but we worked with Lee Harold on those hiccups and they got everything fixed incredibly quick. I've been working with Nabla is our other AI scribe that we use and I've been working with them. This October will be two years So a year, year and a half that I've been working with them, and it takes a lot longer to get stuff figured out. So I was very impressed at, like, the response time when we did have issues with job psych. I would love, once we, you know, if we get enrolled as an organization, to get more access for myself so that I can play with it and learn the system a little better for them. But I mean, so far, We, you know, we've been able to make it by with only one user that actually has experience with it and the ones that have switched do really like it.
+Christopher Hume: Okay, well, that's all good to hear. I'm sorry you had those issues, but I'm so happy to hear Lee was able to help you with them.
+Ashley Slater: Yeah, and it was, I'm not kidding, like, we started talking about the issues at like 3:30pm on a Wednesday. And like everything was resolved by like Thursday at 9am like it was an incredible turnaround time.
+Christopher Hume: Well then I guess in terms of goals for today's meeting, what would be most helpful? Kind of. Would you like me to walk through kind of what we have in terms of organizational settings, how we can set you up as admins? Do you have any specific questions? What, yeah, what would be a good outcome if we leave this and you're like, oh, that was a great meeting, Chris. Got everything resolved? Yeah. What would the goal be there?
+Syndi Horn: Well, I think first we probably need a W9 from you guys so we can set up arrangements. Do you guys have terms so we can set things up on like a net 30 term? So we can pay monthly for however many license we have? You know, if we have five or ten license, do we get a discount? I just don't know what you guys offer. So I think that's kind of the things I need to know. And, and then like can we get Ashley like an informatics login so she can, you know, do you have like a corporate structure so she can kind of monitor our account and help administrate if for some reason she needs to reset a password or do something funky with an account or something like that?
+Syndi Horn: Is there such a thing like that?
+Christopher Hume: Yeah, absolutely. So let me, I'll kind of show you, I'll show you my job site and we can walk through some of those administrative features and then, yeah, Ashley, we could get you signed up and if you just tell me, I think anyone with your kind of domain, the same domain, I can put you all in a group. And then if some of your providers, if they have. I know sometimes people get a little wonky with the emails. If you want them part of their group, part of your group and they have a different email, they'll just have to kind of request that to me and just say hey.
+Ashley Slater: And so that was. That kind of might answer one of my questions. I was just working with our behavioral health provider that has experience with jot psych and she, you know, she's already been using it for a year or two. So she already has all these profiles created for these patients?
+Christopher Hume: Yep.
+Ashley Slater: Does she lose that or can that pull forward?
+Ashley Slater: Like, she would love to keep her same job psych account, but it just.
+Syndi Horn: You mean if she changed email accounts, like if she went from her.
+Ashley Slater: Yes. Like she just.
+Syndi Horn: At whatever and what to our mhtlc.
+Ashley Slater: Org.
+Christopher Hume: So we can't change the email accounts? Associate the emails associated with accounts. If she creates a new account, what we can do is move all of her templates over.
+Christopher Hume: So like you have your custom templates that's trained, so it's just the way she likes it. But we, we can't move patient data between accounts. That's something that.
+Ashley Slater: Now could she use her current account and just be enrolled with our organization?
+Christopher Hume: Yes, if, if she's like, hey, yeah, I'd like to be added to, to your org. We can do that for her.
+Syndi Horn: Okay, but you can't change that, say her email account on her. Her current account is afilips gmail.com. we can't change it to afilips h t l c dot org.
+Christopher Hume: Unfortunately, no, we can't change that email.
+Christopher Hume: Okay, But let me walk you through.
+Syndi Horn: As an Ashley, I don't know, we'll have to talk about transferring, bringing forward that patient history anyway from her private practice into us. We probably need to have a conversation with Nancy on that anyway for compliance purposes.
+Christopher Hume: Okay, so Ashley or Cindy, have you been able to play around in job psych at all?
+Ashley Slater: I have a little bit. And like mostly just what I've seen the provider doing.
+Christopher Hume: Okay, so what I'll do then is I'll give like a super quick overview just so you know, sort of what's going on here. But we'll focus on the administrative features and then actually if it makes sense, we can actually get you set up today with a trial. I can add, if I can add the other providers who have that MHTLC email address, I can get them added to your group and then don't tell my boss, but they'll all have access for the entirety of your trial. So you then you can sort out kind of payment and all that. And they'll have access through your trial.
+Ashley Slater: Perfect.
+Christopher Hume: So let's walk through jot psych. So record. You select a patient.
+Christopher Hume: Something that I do want to emphasize here, Sydney, especially because you're talking about hipaa, is one you don't need to input patient information. If you'd prefer to just say, hey, this is Chris, or say October or January 28 to 15pm Your providers can just name the note and not put in any patient information at all. That's just something I like to highlight because sometimes a little bit of a sticking point, they select the template that they'd like and we can customize those for you. And then they just record, as I'm sure you're both very familiar, you've used AI scribes. They can record in the session or. Or after the session, if for whatever reason they didn't feel comfortable recording, they can just explain in plain English what happened. Hey, I saw Chris. He was distressed. His. He says his Lexapro is no longer having the same impact. And then you generate the note. Once a note is generated, have something to look a little bit like this. Your providers can edit it using the AI editor on the right hand side. So just plain English. Again, make this note longer and then what it will do is go through the whole note and make it more robust and it will learn from what your providers share so they're not having to make the same edits every time. And then they can customize their templates over here. Now this probably isn't very relevant to you, so I'll keep the general overview there. Unless Sydney or Ashley, you have any questions about like the general functionality.
+Ashley Slater: No, that's really the only part that I have not started to explore just because it's so new to us. Still, I did do that, I did do some template stuff with our other scribes. So like, as we get further along, I definitely want to explore this more so I can help the providers. But this is the area that I haven't really dabbled with yet.
+Christopher Hume: Okay, well then I'll just show you very quickly. It's very straightforward.
+Syndi Horn: You guys go ahead. I have to step in the hall for just a second with somebody and I'll be right back.
+Christopher Hume: So if you go to a template and you need your providers, your providers need an update. Let's say they want their SOAP note changed. Therapy SOAP note, you can rearrange sections.
+Christopher Hume: Okay, you can add sections. We have a bunch of kind of standard ones. And then the part as a non engineer that I find so cool is you can actually edit it with AI so you can say like add a surgical history section at top, make it robust and the jawstack will just put it in for you.
+Ashley Slater: Cool.
+Christopher Hume: Of course I'm going to say that. And it's going to be slow.
+Ashley Slater: That is one thing I've noticed. It's slower than our other one.
+Christopher Hume: Really? Okay, it is.
+Ashley Slater: So I've had to kind of warn my providers, like, hey, I know you're used to the novel turnaround time. It's cool, quick, but this takes longer. But the notes are ten times more robust and hit a lot more behavioral health points. So I can justify it with my providers that it's like worth the wait.
+Christopher Hume: Basically something I just want to highlight is if the note is still generating, they can just go and start their next session. They don't have to wait for the note to be finished to start recording. It'll run in the background. Okay, so then when. Actually, when I make you the practice. Practice administrator, the billing administrator. You'll then have access to this screen.
+Christopher Hume: Okay, so I only have one person in my group. But from here you'll be able to see everyone who's part of your organization. And then you will also be able to see. I can switch accounts and show you actually. But over here you'll be able to see both. All of your clinic notes. So you'll be able to see everyone's notes.
+Ashley Slater: Okay, that's nice because right now with our other one, I have to physically be on their account to see any of this stuff. To troubleshoot.
+Christopher Hume: Nope. So you can have access to everyone's notes. And then depending on what your kind of decisions are around patient data automatically. Jot psych is set up so each member of a group has their own patients. And other providers can't see that. Okay.
+Ashley Slater: They're more siloed.
+Christopher Hume: So that's how the standard set up. But if you prefer, I know some organizations. One day it'll be Susie who's seeing a patient, the next day it's Chris.
+Ashley Slater: Okay.
+Christopher Hume: So you can share. Find it. You can. It's a setting. You can share patient information or patients across the organization. And we could turn that on for you. That's right. I don't think I can do it because I'm the only one in my group. But you would do it from your. Your practice?
+Ashley Slater: Yeah, I don't really think our providers would need that. But again, you.
+Christopher Hume: You just never know. So I think from a administrative standpoint, Ashley, those are the main features. You can see everyone who's in your group. You can review all their notes. You can invite people. And then to handle billing, you would just go your account and go, go subscription. I guess I don't have the right information for. But you. You can input your payment information from account settings. Those are the main administrative features. Or anything I kind of missed. You're like, oh, my gosh, I wish you had that.
+Ashley Slater: Anything like that. No, not really. This is actually more administrative features than our other one has. We don't have too many administrative things we can do on the other one, so this is great.
+Christopher Hume: And before we move on, I know something. How do you do billing and sort of. You ever have issues with billing or callbacks or audits or anything like that?
+Syndi Horn: Well, I think so far Annie's always just paid the bill on her own, so I don't know. We usually just have a bill the way we normally do it and have a bill go to accounts payable or. Me and then I approve it and ship it off to accounts payable and then they pay it. I don't know how you guys want to handle it.
+Christopher Hume: Absolutely. So I, I'm sorry, I was unclear there. I was actually talking about the billing for your encounters, for your behavioral health encounters. I'm sorry, confusing. I'm talking about how to put in your payment information and how to do billing for your encounter. So I apologize.
+Syndi Horn: They all, they import all this through into EPIC and then EPIC actually drops the bill. And that all happens on the EPIC side of things.
+Christopher Hume: Okay, so your providers don't need to input CPT codes or anything like that? No. Okay, understood. Well, if it's ever of interest, we have John Audit, which is kind of a feature that will, if you tell it like what rules you need to follow, like, hey, we need to follow all the Medicaid's rules, it will then structure your notes to meet those requirements, reduce any friction down the line. But it sounds like that's not a big issue, at least for you guys. But actually if you're going to be the administrator, if you ever want access to these features, just let me know, I can turn them on for you. You'll be able to see all the rules that your team's notes are following. You'll be able to see kind of your team's notes and it will identify like, hey, it looks like this one's not really up to snuff or I guess this is 86%. So it looks like this one's pretty good.
+Christopher Hume: But you'll be able to just at a glance see what's going on with your provider's notes.
+Christopher Hume: Okay, Before we do talk about getting your account set up and kind of payment and all that, any last questions about functionality?
+Ashley Slater: I don't really have anything on my end. I kind of just have to get my, get my hands on it.
+Christopher Hume: Okay, perfect. Then Ashley, let's just set you up for a trial. And then would you like me to move all MHTLC people to your group?
+Ashley Slater: Any that are currently set up with the mhtlc?
+Christopher Hume: Yes. Yeah.
+Christopher Hume: That are set up with that email because just once we move someone into a group, then their patients, their notes are associated with the group and not with their account. So we can't move them out. I don't think it should be a problem for the people who are using their work address. But I just like to flag that upfront that once they're in, they can't. It's a one way street.
+Ashley Slater: That's. And that's okay. They should only. They should only need that avenue.
+Christopher Hume: Okay, so we can get you set up right now, actually. Are you on a computer?
+Christopher Hume: Yeah, if you just go to jobsec. Com, and then while we're setting up Ashley's account for. Sorry. If you have to run, certainly.
+Syndi Horn: Nope, I'm, I'm okay. Somebody just knocked on the door, but somebody else in the apartment got it.
+Christopher Hume: So I was going to say in terms of contracts, we typically don't do, we certainly can do a contract but most of our customers start out month to month. It's $150 a month for a provide per provider. And then once you go to 7 or more it drops down to 130 per provider per month. And then if you'd like to sign up for an annual or a longer contract, there are additional discounts in there as well. And I'll make sure I follow up with all that information in an email when we wrap up. But we'll send you a ba. We'll send you a baa. Cindy, would it be best to go to you or is there another member of the organization?
+Syndi Horn: No, you can send it to me and I'll forward it on. And also, do you have a W9?
+Christopher Hume: So we typically don't send out W9s. And forgive my sort of lack of knowledge here, what would the W9 be used for?
+Syndi Horn: I don't know. They just tell me I have to have one from any vendor we do business with.
+Christopher Hume: Okay, well I can certainly get you the baa and then I'll see from my end. I'll check kind of with the team and see what we've done in the past. Might be an easy thing we can send you. But if it's not, then I'll let you know and I'm sure we can sort it out.
+Syndi Horn: The W9 they might run to make sure there's no something against you.
+Christopher Hume: Okay.
+Syndi Horn: For like business wise for Medicare, Medicaid, something billing or something. I don't know if they run it. If they run your some number in some database, something.
+Christopher Hume: Correct. Well, I'll see if I can get that to you. And then Sydney, the BAA is actually going to be via DocuSign. So if I send it to you, it's going to ask you to sign it.
+Syndi Horn: So I want you to send it to Teresa Smith. I'll give you the email address.
+Christopher Hume: Perfect. Yep.
+Syndi Horn: Are you ready?
+Christopher Hume: Let me pull up my strap. I am ready.
+Syndi Horn: P. Smith.
+Christopher Hume: P Smith.
+Syndi Horn: H t l c.org perfect. And it's going to come from you. Do you go by Chris or Christopher?
+Christopher Hume: I go by Chris. Chris.
+Syndi Horn: Okay.
+Christopher Hume: And then Ashley, I'm sorry I got you started on signing up for your account and then I completely derailed the conversation or.
+Ashley Slater: No, that's okay.
+Ashley Slater: I actually had already. Started it. I was waiting for any's referral code, so I kind of paused. So it already had an account set up for me. I just never did like the start trial, so I'm just putting in that information.
+Christopher Hume: Okay, wonderful. Let me in a log. And let me just. While we're all on the phone here, I will check to see who I'm tracking from my end and just let you know who I'm going to add to your group. Ashley.
+Ashley Slater: Perfect. Yeah, I kind of wrote down who I would. Who I know has signed up.
+Christopher Hume: Okay. And you're based in Illinois, is that correct? Where in Illinois are you?
+Ashley Slater: So we're western Illinois. So Carthage, Illinois, technically. But we're like an hour from Missouri. And then What, Cindy? Like 30 minutes from Iowa.
+Syndi Horn: If you look in the hump of Illinois. Where Illinois, Iowa and Missouri all meet in the hump. I call it the pregnant part of Illinois.
+Syndi Horn: That's where we're at.
+Christopher Hume: Okay.
+Ashley Slater: You never heard that before, Cindy.
+Christopher Hume: I. I went to school at Notre Dame, so I was very close to the other side of Illinois. Yeah. A bunch of friends from Chicago.
+Syndi Horn: Chicago.
+Ashley Slater: And that's where. That's where I'm originally from and then migrated.
+Christopher Hume: Okay.
+Ashley Slater: So, yeah, super familiar with that area too.
+Christopher Hume: Okay. So I have Candace, Rock. Lindsay. Lindsay.
+Ashley Slater: Okay.
+Christopher Hume: Phyllis.
+Syndi Horn: Right.
+Christopher Hume: Jacob, Kelsey, and now you, Ashley.
+Ashley Slater: Perfect. And then, yeah, Annie is our one, but she's not on that MHTLC domain.
+Syndi Horn: Yep.
+Syndi Horn: Actually, do you know what her. What her email would be? Her name is probably Kathleen Phillips.
+Ashley Slater: Chris, I'm trying to think.
+Syndi Horn: Or it might be Annie Phillips, but her name on her license is Kathleen Phillips.
+Ashley Slater: I've had to email her before at her other.
+Syndi Horn: It is. I haven't.
+Syndi Horn: I have her only like at counseling something.
+Christopher Hume: She has an Annie Phillips 8@icloud.com Phillips Catherine Phillips.
+Ashley Slater: Yeah. So the one that I see is a@counselingassociatesinc.com Is that what you're saying?
+Christopher Hume: Yep. So I'll leave that up to you guys on how if you want to create a new one, we can move all of our templates over.
+Ashley Slater: We just can't move the patients.
+Christopher Hume: The patient information. I'll leave that to you. And however you guys want to proceed, if she just sends us an email.
+Syndi Horn: Yeah, I wouldn't do anything with her right now. Can we just drop you an email?
+Christopher Hume: Yeah, I'm not gonna do anything right now. Oh no, no.
+Syndi Horn: Yeah, yeah, yeah. Because I.
+Christopher Hume: There's some stuff I'd imagine you have to figure out there.
+Ashley Slater: Chris, do you know if I'm considered like my account is considered in the seven or. No, because it's an admin account.
+Christopher Hume: No, your account is an admin account. So we'll. I'll switch it to admin. You won't have recording privileges. But it also is not.
+Ashley Slater: So I wouldn't be part of the seven. I'm just trying to agree.
+Christopher Hume: You would not be part of the seven. Yep.
+Ashley Slater: You're not part of the seven.
+Christopher Hume: You're a free admin account. Yep.
+Ashley Slater: Okay. That still puts us. If we get Annie, that. That still would put us at seven on the dot.
+Christopher Hume: Yep. Then that would be at the 130 rate.
+Ashley Slater: So Cindy, I'll follow up still with like our providers that I'm not positive on. But just so you know where we're sitting at with numbers.
+Syndi Horn: Okay.
+Christopher Hume: And so just to kind of. I'm sorry. Want to make sure wrap up before we all have to jump. I'll send Teresa the BAA and I'll make sure that you are cc'd. Cindy, I will put everyone into the group with Ashley, aside from Catherine. Annie won't touch that until I get further direction from all of you. Hopefully everyone will have access through your trial. We'll have a little bit of time to figure out billing and how you guys would like to pay. I'll figure out what we can do about the W. W9. Sydney. Hopefully it's really easy. My boss has done it before and they just tell me what to do. If it's going to be any friction there, I'll let you know and I'm sure we can find something to make it work.
+Syndi Horn: Okay, wonderful.
+Christopher Hume: Well, thank you all. Did you guys. Are you guys snowy in Illinois right now?
+Ashley Slater: It's cold. The snow's starting to melt a little bit, but it's cold.
+Christopher Hume: Okay. Yeah, it's. I'm. I'm in dc. It's cold and still very snowy. A little unusual.
+Ashley Slater: We didn't get. I mean, you know, we're used to a lot of snow so we.
+Christopher Hume: Oh my gosh.
+Ashley Slater: A lot of snow, but it's just cold. It's just that cold. But like you don't want to get out of your car and, like, unload the kids because it's just too cold. Like, it's.
+Christopher Hume: Oh, I remember. I remember.
+Ashley Slater: The Midwest winners.
+Christopher Hume: Well, thank you both. I'll communicate over email. If you need anything at all, just let me know.
+Ashley Slater: Sounds good.
+Syndi Horn: Perfect. Thank you. All right, see you.

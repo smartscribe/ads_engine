@@ -1,0 +1,105 @@
+jason.c.driscoll: Thought everything had been situated. And then midweek this week. Everything changed again. I don't know why. I don't know what changed, what's going on. But I have two accounts. One was the one I've been using for a few years. We changed it over to the email address for my company because we paid for it before we had the other email addresses. And now I don't have access to my old account. Which. Is quasi fine, but it's also a couple years of history that I would love to stay with. Right. But I'm also having problems just getting the new account to load. I've cleared my caches. I was restarted my computer. I've done all the. Hey, when you call the cable company, did you restart the box thing?
+Lee Harrold: Right? Like, oh, geez.
+jason.c.driscoll: Yeah. Like the basic stuff. And I just don't know where I'm having issues. Now, mind you, the only way I've been able to work it. Is, and I can't even get the page to load in Google and Chrome. If I open it in Safari, it works, but I can't record there, so I have to use the, I have to use the. Widget. Yeah. And that works, and then that does get into the new account, which is fine, but it's, it's very disjointed, as you can hear. And mind you, I had not had a problem for years until we tried to switch this account over. My thought is, can I just go back to my Gmail account? Because for a few reasons. Mainly because I have all my old patients there. Or all my patients there. And my templates are there. Everything is there. And just mix the JSON dot C. I mean, Jason Monumentality one. And just. Keep that. Yeah. But my only question is, can I just have access to the other account for like a week? So I can, because I want to transfer some information over just for continuity. And I have three notes I need to write today. I don't want to get shut off from that and then just be like, I don't mind handwriting notes, but if I don't have to. It's obviously why I pay for the service.
+Lee Harrold: Sorry.
+Lee Harrold: That's what I'm dealing with. Makes sense. Yeah, I get it. But it sounds like your ask and I think this makes sense to me. Is to like pay for like an additional week of the Gmail account so that you have two active subscriptions for a little bit, move all your stuff for modern mentality into the Gmail account and then just use the Gmail account inside of the modern mentality group. Is that what you're asking for? Essentially. Okay.
+jason.c.driscoll: Yeah. For me, I just, I how I've curated my note and taken so long to get, like, my, my. Follow up and intake notes how I want them. They're verbose and a lot, but I like how they work and I know where to cut things out to make it fast for me. And I just. I, yes, so long story long. I think I want to use the account that's attached to the Gmail. That's ideal.
+Lee Harrold: Okay. I just had a curiosity, like what was the impetus for like creating the second account?
+jason.c.driscoll: My business partner is like, oh, it should all be under one account. And I'm like, does it really matter what my login is? Gotcha. Like, does it really matter? Like, I'll give you my login and password. You can have. I don't care. But you just thought it might be easier to have it all under one. And I think it's just created this challenge that I don't need or want.
+Lee Harrold: Yeah. And also that like you couldn't have anticipated, right?
+Lee Harrold: No, no, it should be, in theory, it should be easy. I have all this stuff in this other account. Surely there's a way to move between, as it turns out, there is, there is not, not a way.
+jason.c.driscoll: Yeah, I thought I would actually just get that all transferred over to the new one. And Nate explained why you can't do that. And I get it. But the weird thing was. This is even more peculiar. Last Friday when I was talking to Nate, I was on, we had another meeting for a different purpose, but. When I was signed into the modern mentality account, which is not linked to my Gmail one, it had the right email address on there when I was on the job psych account, but the logo, you know, like
+Lee Harrold: your, yeah, it's a little monogram or my Gmail was there.
+jason.c.driscoll: So all, which is even more strange because all my old account information was there. But it was signed in under the new account. I'm like, oh, I'm like, maybe they just figured it out, or maybe they did something. I don't know. And then on Wednesday or Tuesday or Wednesday this week, it just went away. And I'm like, yeah.
+Lee Harrold: Oh, yeah, I saw on Tuesday or Wednesday this week is when the other account was canceled. So I think that's why you lost the ability to access it again. But I guess I'm really glad that happened because I can go back and try to understand. Yeah, that's confusing and it was not really how we designed the system.
+jason.c.driscoll: So yeah, I'll tell you when I was it looks, I guarantee it looks like on your end. Monday and Tuesday, I was using the Gmail account. I was not, I was signed in under the modern mentality account, but all my Gmail information was in there.
+Lee Harrold: So yeah, no, that makes perfect sense.
+jason.c.driscoll: Yeah. Like, I don't know. I was like, oh, sweet. They figured it out. This is easy. I'm like rocking and rolling. I didn't lose anything. I have the new, I'm under the new account. I'm like, sweet. But now. I have like 16 or maybe 20 notes in my modern mentality account and they just, they're rubbish.
+Lee Harrold: Yeah, they don't have the templates. Yeah, that definitely sounds like a bank error in like our mistake. Software. That wasn't a great metaphor. I'm sorry.
+jason.c.driscoll: I don't know. I was picking up what you're putting down.
+Lee Harrold: I appreciate that. Okay. Yeah. So I think the easy solution here is for me to start like a week long.
+jason.c.driscoll: Don't put that much work into it.
+Lee Harrold: Trial. Oh no, no, no. Like it's, it's like I'm gonna do like one thing and then you're gonna have access for like a week. And that's how long it'll take for you to transfer your stuff from the mentality account into the
+jason.c.driscoll: honestly, I can probably, I'm gonna write my notes before I go home today.
+Lee Harrold: Oh yeah, you're good.
+jason.c.driscoll: So like a week just gives me a buffer in case I want to reference like transcript or something of what someone says because I had a few intakes and I just sometimes might miss something and I want to make sure I'm able to capture it when I see them next week if I need to follow up.
+Lee Harrold: Sweet.
+jason.c.driscoll: Dealing with that. I have a few questions because I'm having a hard time on him, but we'll deal with that after you're doing what you're doing.
+Lee Harrold: Appreciate that.
+jason.c.driscoll: I'm not needy in the past.
+Lee Harrold: Like.
+jason.c.driscoll: I don't know like three weeks. It's been like a constant back and forth and I feel. Three weeks ago or maybe, maybe it was only two. I was just everything shut off on me again and they put everything back up. So I'm like, I just need to talk to someone. Yeah. And have like a conversation so we can get on the same page so I'm not bouncing between stuff.
+Lee Harrold: Revelation must have. Expected this to take like 15 seconds because I've run into something that I'll see if I can resolve. And if I can't, then I guess I'll have you tell me what else you're looking at and then I'll take care of this after the call.
+jason.c.driscoll: I can sit here and type things. So I'm not, I have nothing until three. So I'm kind of.
+Lee Harrold: All good. All right. I want you to open an incognito window. And try to log into the Gmail account. Is there's sort of known issue. When like trying to log into. Multiple accounts in the same browser. So just want to make sure that for the purposes of this test we. Like. Don't have any variables.
+jason.c.driscoll: Okay.
+Lee Harrold: We're in. Cool.
+jason.c.driscoll: It says seven days left on my free trial.
+Lee Harrold: Perfect.
+jason.c.driscoll: Let's see if my notes are here. I showed they are there they are perfect. That's great because I actually have two nodes here that I need to write from yesterday. So it's perfect.
+Lee Harrold: Thanks.
+jason.c.driscoll: Okay.
+Lee Harrold: Let's take a look at your login books.
+jason.c.driscoll: Let's see. So I guess my. Question is when I go to log in using the. Not an incognito window. Yeah. Get this. Loop. Where it just says it just does nothing. Again. A clear cache. I figure it's a cookies issue. It's not because I've cleared them multiple times a day. And I'm just wondering what the challenge could that be there do you know?
+Lee Harrold: Do some research. No off the top of my head like that sort of thing typically happens if the browser is unable to connect to. Our server for some reason.
+jason.c.driscoll: But it's weird because it would. I could use it. I could do it in safari.
+Lee Harrold: Yeah. That's why that's probably confused. I'm like it's not my friend. It's clearly not a connection this year.
+jason.c.driscoll: And I'm like if it's a it could be you I'm sure it's user error on my end, but I didn't have any problems for a while and I think just it could be the confluence of things going on. With.
+Lee Harrold: But. Like the the peculiarity that sticks out my mind is that like you probably didn't log into Safari with the Gmail account. But if you cleared your cookies in your cache then it shouldn't matter right yeah should Mac. I don't know can you could you try it could you try it now and show me?
+jason.c.driscoll: Maybe just like seeing let me share my screen.
+Lee Harrold: Yeah there's a little like button next to the oh yeah you're
+jason.c.driscoll: familiar you know let's see what screen do I want to share? It's going to work now.
+Lee Harrold: Just how it's how it works someone watches it.
+jason.c.driscoll: Right. Now good.
+Lee Harrold: This is. Right okay can you press the F12 button?
+jason.c.driscoll: F12 I have a Mac my
+Lee Harrold: friend oh okay can you hold function button and then hit the F12 button? It's at the bottom left next to
+jason.c.driscoll: shifting control I got it sorry yeah.
+Lee Harrold: Nothing's happening okay. Instead can you right click on the screen. And then in drop down there should be something that says inspect at the bottom. If you click that does anything come up nope.
+jason.c.driscoll: I can't right click at all but there it is again. Oh you can't see it but. It's on my screen and nothing happens
+Lee Harrold: when you right click nothing happens okay so I right click
+jason.c.driscoll: goes down I click I see inspect I click on inspect nothing happens nothing okay.
+Lee Harrold: Okay that's fine what can I. All right I see something. Can you copy the URL of the page that you're on and send that to the chat of our session? Thanks. Okay that looks okay. And it works in Safari but it doesn't work
+jason.c.driscoll: in Chrome browser I just don't want to use
+Lee Harrold: oh my god it's the new Internet Explorer right.
+jason.c.driscoll: Mike should I be using duckduck go.
+Lee Harrold: Does that still is this still
+jason.c.driscoll: around I don't know I don't know that old reference. And just so you know it's still just looping.
+Lee Harrold: Gotcha. Yeah I see I'm I'm running a search. Okay seems promising. Oh you know what I didn't think about this let. Me. Yeah okay that makes sense yeah so this what you've run into is actually an issue that like we internally face all the time and find super annoying they're like because you were you were you've been using us for for so long like I think it looks like your your Gmail account was sort of one of our beta accounts. And so. When you log into it it. Like has a certain pattern that it uses and a cookie in like a special place that doesn't automatically get cleared and so now that you've logged into the other account in the same browser the two are competing and toggling back and forth and so that's why we see we see this keep you getting. So yeah we can. This is like pretty annoying to solve so let me let me come up with something that I can like a piece of. What's the easiest way I can how we can solve this. Well okay I guess in theory can you show me how you how you cleared your cookies before because there are a couple of different ways to do it.
+jason.c.driscoll: So here you can I don't know why you can't see
+Lee Harrold: can you there's a way to like share the entire screen instead of just a window or a tab yeah.
+jason.c.driscoll: Let me stop sharing. Then share. Entire screen. And then I'll share this.
+Lee Harrold: Good you can see yep I can see everything.
+jason.c.driscoll: So. Go here setting. And every time I've done four weeks right I'm like just get rid of everything log me out of everything.
+Lee Harrold: And delete looking lookin'lookin'look. Store okay, I guess site settings is the only thing we haven't we don't have checked. We check out something real quick
+jason.c.driscoll: do you want to check that.
+Lee Harrold: Or. Won't hurt but I also don't know that it will solve the problem and so I feel bad like recommending something that would I got it. Okay I think the easiest way to do this unfortunately is going to be. Somehow getting that side menu to show up on your screen but now that I can see your entire screen I might be able to get a better idea of like what wasn't working the last time. So I guess can you cancel out of this window? And then go back to that jot psych screen. And then right click. Anywhere okay, so yeah, there's oh okay and go down to inspect. And nothing happens okay, let me learn why. Yes there's another thing we could try can you hold option and then command and then the C button?
+jason.c.driscoll: Click into the screen sorry option command C.
+Lee Harrold: Hey we're in perfect. Okay so there's a console tab at the top next to elements on the left yep. Now at the bottom here see this is pretty annoying type clear and then left friends right parens. Is yep. Yep try that. Okay oh hit hit enter again hit it like two times. Okay didn't work. Okay so go to the application tab. So to the right of memory there's a yep click on that. Perfect. Under storage. On the left click local storage. Oh yeah yep to the one at the top.
+Lee Harrold: Oh you want the top one yep. Click clear site data yeah so you see how it's flipping back and forth. All right there we go. So yeah so now you should be able to click login here. And log into your account yep close that. Yeah so. Oh no okay here's what I'm gonna do. I think I can upgrade that account to use the other one and then we can do the same thing we just did. And then you won't have that issue again. You're a developer congratulations.
+jason.c.driscoll: How's it feel yeah that was like reading a foreign language so yeah what you do yeah diagnosing and prescribing medication for psychiatric illnesses you do this.
+Lee Harrold: That sounds great I didn't I wasn't I was kind of nervous about doing that anyway so someone asked me to I was like oh I don't I'm not qualified. There we go. I should have done that the first time there we go.
+jason.c.driscoll: So.
+Lee Harrold: Going this is your Gmail yeah sorry
+jason.c.driscoll: actually the account I want to use. Okay. But now the question is I want to close even though I'm. Oh yes but I want to log off and see if I should I just open it in a should I open the other one in incognito window?
+Lee Harrold: Yes yeah that way you can you can have both open at the same time either incognito or in Safari because yeah I think what you want is to be able to have both both open at the same time
+jason.c.driscoll: yeah just honestly just for the next. Three hours while I finish up my day.
+Lee Harrold: And then I guess once you finish with with that. We I can cancel your subscription on the the company account and then you can start a new subscription. On this account so you can do that by clicking the subscribe button at the top right but just let me know when you want to cancel the other one and I can go ahead and do that
+jason.c.driscoll: I can this is going to mess your mind up I'm going to actually bring this over. I just logged into the modern mentality account
+Lee Harrold: oh that's really cool I like the way that it does that that it you know is the wrong account
+jason.c.driscoll: I'll just so you can see it let me log off and log back in no see.
+Lee Harrold: Yep there's a Gmail.
+jason.c.driscoll: Okay sign in differently. All right. No. I'm not going to ask why I just did that when I.
+Lee Harrold: Different credentials.
+jason.c.driscoll: Yeah nonetheless okay so I can see
+Lee Harrold: I believe you and I will look into it because you mentioned this had happened before
+jason.c.driscoll: yeah when I was on with Nate he was like like hey I don't know why I can see everything I can but I'm happy and I could do my work but I hope this I was like I guess everything specs anyway so. I guess I am good I just need to by next Friday. We'll just cancel the other one do I need to send a message to anyone
+Lee Harrold: or yeah I need to know when when you would like to stop having access to the other one
+jason.c.driscoll: so that I can just do seven days just. Yeah all right let me put a reminder in my calendar.
+Lee Harrold: Yeah that's perfect.
+jason.c.driscoll: Email. Me to email you or message you?
+Lee Harrold: Yeah that'd be perfect if you could send it to the to the contact.
+Lee Harrold: Email contract at job site yeah because even if even if I don't see it someone else to see it and get it to me.
+jason.c.driscoll: That's all I need. Well thank you for your help you bet yeah sorry no no that's fine that's all I care that is done that's all that matters to me
+Lee Harrold: okay yeah if you're in anything else
+jason.c.driscoll: I appreciate it enjoy your weekend thanks bye.

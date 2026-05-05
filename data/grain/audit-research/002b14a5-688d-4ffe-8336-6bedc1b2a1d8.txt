@@ -1,0 +1,99 @@
+Lee Harrold: All right. So, Dallas, I saw the email that you sent, which is great. It sounds like Chris is going to take care of the templates for you, which definitely set you. In circle. Practice up on the right foot. So we're looking out there. So what I think we should do on this call next is. I saw that you sent the export. I'm glad to hear that. It did not. It was not 150 times. 150,000 times your computer. So that's. Good. I'd like for you to share your screen. And then navigate to the patients page so that we can get that imported for you.
+Healing Circle Psychiatric Services: Oh, that link to the.
+Lee Harrold: Well, so the export, I need you to upload that into. So, do you still have that file locally? I never get it.
+Healing Circle Psychiatric Services: Let me see. Yeah, Because I had sent it in a Google Drive. I wasn't sure what I needed to do with that.
+Lee Harrold: Absolutely. For sure. Yeah, and I saw the link, so thank you for sending that. All we have to do is drag that into a window and job site, find the password.
+Healing Circle Psychiatric Services: I guess it sent it password. Protected.
+Lee Harrold: Oh, do you still have it locally on your computer?
+Healing Circle Psychiatric Services: Yeah.
+Healing Circle Psychiatric Services: It says that it's trying to expand it. I don't know what happened there.
+Lee Harrold: Sure. Can you share a screen?
+Healing Circle Psychiatric Services: Yeah, I'm just waiting for it. To open.
+Lee Harrold: Oh, the chrome situation. Oh, yeah, I know what it's doing. It's opened it in a different window than the one you're currently looking at. So I think if you click. The icon for whatever browser you're using. Yes. Perfect.
+Healing Circle Psychiatric Services: Okay? I'll just use this one. Okay?
+Lee Harrold: Looking good. All right, so at the top. Exit schedule. There's a path that says patients. Click that, and then we should. Oh, yes. Okay. Let me enable this for you. So while I'm doing this, see if you can find, either on your desktop or wherever on your computer, the file that we'll need to upload.
+Healing Circle Psychiatric Services: What's that? So it's trying to open. It in a zip.
+Lee Harrold: That's why I have to unzip it. We can drag the zip in, but. Yeah, I see what you're talking about with your computer chugging on this.
+Christopher Hume: It looks like we lost Lee. I'll be right back.
+Healing Circle Psychiatric Services: At least it'll let it download while he's gone.
+Christopher Hume: Yeah, buys a little time. Let me see what happened there. Was just messaging with Asia, so I think she'll reach out soon, if she hasn't already, to coordinate our trip to come see you all.
+Healing Circle Psychiatric Services: Okay? So how many people are coming?
+Healing Circle Psychiatric Services: Do you know where you're staying?
+Christopher Hume: Not yet. Not yet.
+Healing Circle Psychiatric Services: I would recommend the Jasper. It's the only nice hotel here. Everything else is, like, gross.
+Christopher Hume: That is good intel. Okay, well, look at the Jasper. It'll just be me and one of my colleagues, Becca.
+Healing Circle Psychiatric Services: Oh, okay.
+Christopher Hume: Her scheduling, her schedule permitting, it'll certainly be me and hopefully Becca as well.
+Healing Circle Psychiatric Services: Yeah, because the other options, oh, my gosh, they're just not good. It's more of, like, a boutique hotel. It's nice.
+Christopher Hume: That's good info. Thank you for saving us there. Yeah, I've certainly stayed in a few hotels. I'm like, oh, my goodness.
+Christopher Hume: Not what it looks like in the photos.
+Healing Circle Psychiatric Services: I know, being from Oregon, we have nice hotels here. It's like Holiday Inn.
+Healing Circle Psychiatric Services: Oh, my gosh. Extended stays.
+Christopher Hume: Where were you? In Oregon? Dallas?
+Healing Circle Psychiatric Services: Portland? I grew up in Bridal veil. It was 500ft east of Lateral Falls and then sold the ranch in 2019. Yeah. It was. Gosh. I lived in Portland until 23. And then I've been here.
+Christopher Hume: One of my best friends from college is from Lake Oswego.
+Christopher Hume: So right outside.
+Healing Circle Psychiatric Services: Lovely. Yeah.
+Christopher Hume: I never got to visit them, but it sounds like a lovely, lovely, lovely place.
+Healing Circle Psychiatric Services: So he must have, like, a lake house.
+Christopher Hume: I would guess. I know they certainly. I saw photos of him out on the boat. It was pretty great.
+Healing Circle Psychiatric Services: Yeah. Like, they have, like, the boat ramps built into their home.
+Lee Harrold: So. Awesome. Sorry about that.
+Healing Circle Psychiatric Services: It's exported. Opened.
+Lee Harrold: Okay. Incredible.
+Healing Circle Psychiatric Services: Oh, do I need to share my screen again?
+Lee Harrold: Yeah, if you could.
+Healing Circle Psychiatric Services: Oh, there it is.
+Lee Harrold: Okay.
+Healing Circle Psychiatric Services: I was here. And then where do I.
+Lee Harrold: Can you go ahead and. Yep, I can see. Refresh the stage. Take some time. So there's a little import patience button right next to new patients. So, yeah, just, like, drag it in. Or you can.
+Healing Circle Psychiatric Services: So is it just. Should I start with contacts?
+Lee Harrold: And then client records. That's a good question.
+Healing Circle Psychiatric Services: What's in context?
+Lee Harrold: Let's open that.
+Healing Circle Psychiatric Services: Oh, it's everybody's.
+Lee Harrold: Oh, okay. Just client records.
+Healing Circle Psychiatric Services: I think I would have to start with their contacts, right?
+Lee Harrold: No, because the contacts that's just a bunch of Are so this would be their niceties. No, these are, like their iOS contact. So, like, if you ever go to your phone and then you see, like, anyone, you message. Like a VCF file is the format or type of data, that information. So this. That's. That's different. That's a component of the text. I think if you just drag the. Client records. Folder into. Yep, right there. It'll go ahead and find all that zero byte. That's interesting. Hit up mode. Let's see what happens.
+Healing Circle Psychiatric Services: Yeah, because there's multiple folders in that client record.
+Lee Harrold: Yeah.
+Healing Circle Psychiatric Services: It should.
+Lee Harrold: In the meantime. Yeah? Let's figure out what's inside of the client records, director. I'm just kind of curious on that. All right, check out our medical records as probably. Ah, yes. See what's in there.
+Healing Circle Psychiatric Services: Yeah, so I just clicked a random one.
+Lee Harrold: Sure.
+Lee Harrold: So is this what I need?
+Healing Circle Psychiatric Services: Because these are their names.
+Lee Harrold: Yeah. So it's going to have a hard time finding this team. Don't grow up another level. Hit the refresh button at the top. Right. Chances are. It's chugging.
+Healing Circle Psychiatric Services: Why is it taking forever?
+Lee Harrold: It's a good question. I know it's not a network issue because everything is pretty snappy. It's just hanging out, but it's not. So I think the uploade. D. Oh, it's. It's. It's probably just because the file is kind of large. I'm going to download the file that you sent me and see if I can find a CSV in there. Are you on a Mac? Dallas. Did you know if. If you're on a MacBook?
+Christopher Hume: Lee, I. I can hear you.
+Lee Harrold: Okay. Okay, cool. Alex, if you're speaking very quiet. Maybe the weird. The loading thing was like, prescient of the Internet.
+Healing Circle Psychiatric Services: Weird.
+Lee Harrold: Hey, what's up? Welcome back.
+Healing Circle Psychiatric Services: I don't know. It just canceled.
+Lee Harrold: I don't.
+Healing Circle Psychiatric Services: I don't know what happened there, but the Google calendar. Yeah, it knocked me off.
+Lee Harrold: Yeah, I had, like, the same experience. When I popped it up. Really did it. Weird. Anyways, this is the app still in the same state. Same, like, indeterminate. Is the import screen you're seeing still kind of like a weird loading bar situation, like after you hit Fresh?
+Healing Circle Psychiatric Services: Yeah, it was.
+Lee Harrold: I refreshed.
+Healing Circle Psychiatric Services: I guess I'm not sharing my screen here. Where was it here? Yeah, I tried it and then I refreshed here.
+Healing Circle Psychiatric Services: And then it didn't do anything.
+Lee Harrold: It like black on the import patients. It got tired and fell asleep. Yeah, yeah.
+Healing Circle Psychiatric Services: Should I try dragging like one? One medical record.
+Lee Harrold: Yeah, I think it looks like none of those medical records have csp, so we're not. We're not going to be able to process those. So. Let's. Let's go level up and see if. Well, okay. I guess it didn't find those either. Or maybe it failed to upload to the back end completely. Tell you what. I think there's more work I need to do on my end to figure out why it's having a hard time taking the information in, so I think I'll dig into the export that you gave me and then. Run the import on my side. Data import it. Is that. Is that okay with you?
+Healing Circle Psychiatric Services: Yeah, that's fine.
+Lee Harrold: Is it going to be today?
+Healing Circle Psychiatric Services: Yeah. Should I plan for another time, or do you mean like you're doing?
+Lee Harrold: Like, I'm. I'm going. Oh, I'll probably do it within the next two hours. I know Chris will need another time to get you set up on the templates he needs, but I think for this, we probably won't need set up another time. Unless you want, like, a walkthrough of how to use the outside generally.
+Healing Circle Psychiatric Services: Yeah, I'll need help with that. Because then I can help Dr.
+Lee Harrold: A.
+Christopher Hume: Perfect Spencer Dallas. What we'll do here is Lee will get you all set up from his side with the patients, and then I'll do the templates. And what we'll get that loaded to your account, and then we're happy to do a training for you. Or Dr. A. Appreciate your patience bearing with us.
+Lee Harrold: I know it's a little more painful
+Christopher Hume: than we hope to get the data migrated in, but we'll get it for you.
+Healing Circle Psychiatric Services: Yeah. It's okay, I guess.
+Healing Circle Psychiatric Services: I know he just really wants to use it.
+Christopher Hume: So we'll get him up and running, and we'll make sure nothing starts until no timer starts until he gets the data.
+Lee Harrold: Okay?
+Healing Circle Psychiatric Services: Well, thank you.
+Christopher Hume: Thank you, Dallas.
+Lee Harrold: Thank you for your patience, and we'll be in touch soon.

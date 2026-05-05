@@ -1,0 +1,317 @@
+Nathan Peereboom: It's so nice to meet you.
+sheree.starr8: Nice to see you and meet you.
+Nathan Peereboom: Cherie. Have we met before? I don't think we have.
+sheree.starr8: We probably haven't, but I've been with Jack. I've been on Jack for some months now.
+Nathan Peereboom: Oh, that's amazing. Tell me your story. How did you find us? What's your world? Who do you serve?
+sheree.starr8: So I'm a psychiatric MP and I'm an fnp, but I work in addiction medicine. And before I started addiction medicine, I was doing telehealth, remote visits, off grow therapy. And BAP psychiatry. And I was using a different type of platform. What was it called? It was therapeutic. You know which one I'm talking about? No. It was a platform similar. It's not like Jock, but it transcribed a visit. But it did not fine tune the psychiatric components that I needed. So I was just looking, looking. And then I ran across Psych. I saw the ratings. To see just how many people liked it and how it all. How it benefited people's practice. And I just gave it a trial.
+Nathan Peereboom: Amazing. I'd love to hear that. That's the story of so many of the people that we've been able to work with. My name is Nate. I'm the CEO and co founder of Jobs Psych. And I always like to hear about what clinicians are wanting, almost like, at a spiritual level, over the next, like, let's say, five years, as they're navigating their career and navigating this new moment in history. How would you describe what you want and what you desire for your clinic in the coming few years?
+sheree.starr8: So because I am doing so much. I am an addiction medicine. I'm working with drug court and psych. I'm doing Jerry psych, behavioral adolescence, and I'm in weight loss management. I'm about to start doing hydration. IV hydration therapy, working with wellness. I like the fact that psych will allow me to choose a template and create it, even though it's still some glitchy areas. Where when I want to ask sections to a template I'm trying to still figure out I used to be able but you change the platform change so now I can't add sections to a template like amend them because you may want to add a component like I like the progression progress since last visit section. Is that? I like to start incorporating that in every one of my templates just so I can get a good idea as to how well they're doing, how whether or not doing.
+Nathan Peereboom: Have you used our AI editor to edit a note and then trained based on that edit?
+sheree.starr8: So, yes, that's new, and I like that. But I was so used to the old system. And how it would have progressed since last therapy session already embedded in the template. I was just expecting that I would be able to add that to upcoming templates that I make, and I no longer see that as an option. No more.
+Nathan Peereboom: That is something that I think that we're discussing bringing back. You're not the first person who's brought that up. Can you describe exactly what the dream feature is here for you? What's the exact thing that you wish you could do?
+sheree.starr8: Drag and pull and pull out, like on the Apple. Because I'm a Mac user. You know how you can just move it, drag it in, pull it out? Be able to go to the catalog and then on the right hand side, pull in what you want in your template. In addition, like the drag and click feature. I'm not able to hear you.
+Nathan Peereboom: So when you're making a template, am I understanding that the dragging and dropping of the sections is not working for you, or is it that you in particular want to be able to create a custom section and then use that across a bunch of templates?
+sheree.starr8: Yes. Exactly.
+Nathan Peereboom: Okay, great. Really helpful. So I'm going to just write down a few of these notes, just so we remember them.
+sheree.starr8: And do you think it's better to have the patient's name in the note or just he or she? Sometimes I find their name can be quite entertaining.
+Nathan Peereboom: Yeah, we're kind of named. What's the last entertaining name you've heard?
+sheree.starr8: Well. I'm like, should I head for first name, or should I just leave it as the patient? But I think when you use your name, it's showing more authenticity. Like you are really. This is your patient. You claim an ownership.
+sheree.starr8: When you have your name.
+Nathan Peereboom: We found that people do it differently across all the clinics. So some people really want the patient's name, some people really don't. We don't really have an opinion. The one thing we do have an opinion about, though, is tagging the note to the patient. Do you do that? Do you identify each note? With a patient.
+sheree.starr8: Yeah. I want the first and last name.
+Nathan Peereboom: Yeah, because that's really good. Because it enables the previous notes to inform the next notes, which you obviously know. Okay, cool. So, Cherie, I know that we're on this call because you wanted to use our eprescription service, is that right?
+sheree.starr8: Yes. I want to find out a little bit more about it. And also with the name. Okay, so when I say I'm starting to subscribe, I go and click the name down. Does it merge and use the previous note and help build a future subsequent note? When we're using that same. So say I saw a patient eight weeks ago, and then I'm seeing them tomorrow. Of course. After I record the session, I'm going to go over to the left, pull down that patient's name and put recording note or subscribe note. Will it use that previous information and then the existing information and merge it into a note?
+Nathan Peereboom: No. Right now that doesn't exist. What you have to do is when you're recording, before you start recording, you attach a patient here. And then once you do that, then the previous context flows forward.
+sheree.starr8: So I have to attach, see? And I haven't been doing that, and that's the problem. So you have to show me that one time again. Show it again.
+Nathan Peereboom: So you just click attach patient, and then you just select the patient that you want. You can see different things about them and all that.
+sheree.starr8: And then you go to record.
+Nathan Peereboom: Yes. And then you start recording. You can choose your template here, which I'm sure you know. You can put how long the visit is, your modality, any other information that's really pertinent.
+sheree.starr8: So that's what you have to do. Choose the patient first.
+Nathan Peereboom: Yeah, we do have a. If you're interested, we're doing this thing right now where, for a really low cost, we'll transfer all of your patient data into jobs. Like, I think it's like $300. And what's nice about that is everything is then native in jobs like. And so once you start attaching patient names, you can do all sorts of other really powerful things.
+Nathan Peereboom: So, for example, when I attach a patient name to someone, I then am able to create arbitrary like documentation. Write a plan for the drug, for strategy or something like that. I know that makes no sense, but what it's going to do is it's going to take all the clinical context and basically write an approach. I mean, you have to totally dial this in depending on the patient and what you want, but you can create arbitrary documents, you can create lab orders, you could bill your patient, you could send a follow up email to your patient. You could send intake forms and have that data synthesized.
+Nathan Peereboom: So once you attach a patient to a note, Everything else in drops that kind of blooms and opens for you.
+sheree.starr8: I'm on the job site now, and I don't see that link where it says attach patient. I see. Schedule patients. I see.
+Nathan Peereboom: Could you share your screen just so I could go along with you?
+sheree.starr8: Okay, so now I have to switch devices.
+sheree.starr8: Okay, I'm going to go. To you via.
+Nathan Peereboom: This link. If you sign in on your computer, you'll still be able to. You could have both going on. Or you can just log out of your phone once you're on the laptop. But do you have this link? I can email it to you if it's helpful.
+sheree.starr8: Sure.
+Nathan Peereboom: Okay, let me send you this email. Let's see. All right. Okay, So I just sent it to you. And so if you could open that, you'll be able to jump into this meeting on your phone or on your computer.
+sheree.starr8: So now I'm on my computer.
+Nathan Peereboom: Awesome. Do you want to share your screen?
+sheree.starr8: Sure.
+Nathan Peereboom: Awesome. Can you still hear me, Cherie?
+sheree.starr8: Yes. So are you able to see this?
+Nathan Peereboom: No, not yet. Oh, wait. Yep. Now I can. Great. Okay, perfect.
+sheree.starr8: So do you see where this is the layout? It doesn't say at patients. So say I'm at Mark Counseling. I'm about to see a patient. And I know who it is. Say it's this patient right here. Straight.
+Nathan Peereboom: To impatience in here.
+sheree.starr8: I will click on her. And then where do I go to start recording? Because I want to record her.
+Nathan Peereboom: What a great point. I'm going to add this to her feature backlog right now. If you go up to record at the top of the screen in red, Oh, is it frozen? Is it not moving to record?
+Nathan Peereboom: It's just work. Oh, there we go. Okay.
+sheree.starr8: I have too many windows open.
+Nathan Peereboom: No, that's all right. Wifi is a little slow over there. Okay, so you see on the bottom or at the top left, it says select Patient.
+sheree.starr8: Yes.
+Nathan Peereboom: Okay, now, let's just reference her. Yeah, Glenda.
+sheree.starr8: So. See, it says select patient. So I have to go here and select a patient.
+Nathan Peereboom: Yeah, that's right. So then you can go down to Glinda Hatcher. Yep. There you go. And now you're good.
+sheree.starr8: And then I will start to record.
+Nathan Peereboom: Exactly. Exactly. And then you're good to go.
+sheree.starr8: Proceed with recording. I will proceed with recording. Okay. See, in the past, recently, I would just hit record and then do it after the session.
+Nathan Peereboom: And attach. No. It doesn't. Yeah, it doesn't work that way.
+sheree.starr8: Okay? Okay?
+Nathan Peereboom: Yeah. So why don't we. Yeah, I'd love to answer your questions about e prescription. And if you'd like, I can just, like, help you get it set up just so you can get rock and rolling with it and try it out.
+sheree.starr8: I have a question, though. Is there an additional fee for eprescribing?
+Nathan Peereboom: Yep. Yeah, there is. So your first month is $10, and then after it's like $69 a month. We have to pay every time we do a prescription, which is why we charge for it. So that's just the cost of us using the E prescription Rails that we use.
+sheree.starr8: Awesome. That's not bad.
+Nathan Peereboom: No. No, we think it's a very reasonable fee for. The, like, gazillion dollars that we've spent developing it, so I'm glad you feel the same way. So yeah. It's based on dose spot, so Do Spot is the vendor we use. The way it works is you prescribe in jots like the medication actually flows through DOE spot and then all of the dose spot data flows back in the drop site so that your jot cycle is always updated with like the latest and greatest of the patient's medications.
+sheree.starr8: Okay? Okay. Sounds like a winner. It does. It sounds like it. It can work.
+Nathan Peereboom: I agree.
+sheree.starr8: The work. I really like that.
+Nathan Peereboom: Yeah. I mean, I think that people are really going bananas over it because what it does is it allows you to use jots like as your full ehr, should you choose. You don't have to, of course, you can always just use as is, but I mean, is that something that you'd be interested in? Cherie, are you wanting to use Drought Tech as your electronic health record?
+sheree.starr8: Well, I mean, it's on the fence. It's on something that I. I could consider. And it's not too far fetched. I just want to just see how user friendly the E prescribing feature will be.
+Nathan Peereboom: Yeah. Yeah. I mean, I think that it's a good. It's a good toe dip into, you know, it's one way to think about how we're developing all the other EHR futures. It's one that we've decided to partner with another company on, and so that's a little different than some of the other things that we're doing. That are native, but. But, yeah, I mean, I think that, you know, at $10 for the first month, there's really no reason not to at least play with it. That's in my opinion, though. Just out of curiosity, Sheree, what would you need to believe to move your entire practice to jot psych as the ehr when you say you're on the fence, what's on both sides of that?
+sheree.starr8: Well. The specialty that I have. I see. I have a lot of addiction medicine patients, and I like the way it helps with the note. But how do we merge vital signs? How do we merge their urine? When I do their urine test, whether it's positive, positive abuse, positive for amphetamines, whatever the street drug they're using, I would need something to keep it in a database showing of all of the drug tox screens that the patients had. Including vitamins.
+Nathan Peereboom: Can you go to patients? Let's go to a patient page for a second and I'll show you how that works.
+sheree.starr8: Pick a patient.
+Nathan Peereboom: Yeah, let's pick a patient.
+sheree.starr8: Okay, so let's go. To. Okay, Here. These are the. These are people that I see that. Are dope. Chemical dependence.
+Nathan Peereboom: Okay, so go to the top, right? And there's, like, next to the trash can, there's, like, these little, like, blocks you can see.
+sheree.starr8: Yeah.
+Nathan Peereboom: Okay, awesome. So what you can do here is you can add, I think, as many sections as you want. Let's see. Can you scroll down? I just want to see what else is available here. Mdr test results. Oh, it's all test results. So I. We have another module that does vital signs. But what you want is something like this. Basically something that's following a quantitative feature. You can X out of this. What these sections do is they track longitudinal data. So, for example, and you can scroll down, like, a little bit. Oh, you don't have any sections in yours. Interesting. What you typically see with many folks in, in your field is like the tracking of something like, like the ASAM criteria score or something like that, or PHQ 9 or GAD 7. I think that there's probably some configuration we could do to make that happen on your side. I'd be happy to put you in contact with our product manager, and you could kind of just talk through, like, the best way to make this patient screen work for you.
+sheree.starr8: I would like that. Do the asam criteria. If you look at. If. If I pull the note open, I'm going to show you.
+Nathan Peereboom: Sure.
+sheree.starr8: If you see here.
+Nathan Peereboom: Oh, yeah, there it is. Hey, sam, crunch here.
+sheree.starr8: So if we go here. Here we go.
+Nathan Peereboom: Yeah.
+sheree.starr8: So I would like to have that assistance. Yeah, people that did that are that I do the asm on. And then I do administer the Vivitrol like I want to section for when I'm doing the Vivitrol injection. Where, how the patient responded. And you know Vivitrol is for alcohol withdrawal. When I'm doing the Suboxone or the opioid substance use disorder treatment. And the alcohol use this treatment. I want a section where it shows it it capture where the injection was given. How the patient responded. The consent. The patient consented to the treatment.
+Nathan Peereboom: Yeah. Can you in the AI notice system. It sounds like you want maybe even different section here. Is that right?
+sheree.starr8: Yeah.
+Nathan Peereboom: Can you just describe exactly what you want and then send that through and let's see if the section gets built.
+sheree.starr8: Okay? Let's see if we can do that. Okay? Let's see if we can have them do this. Now, this. This tool has been helpful. I must add. Okay, so it said apply changes to four sections. Okay, I see that.
+Nathan Peereboom: Oh, I was muted. Was that generally what you were hoping to see? Cherie.
+sheree.starr8: Yeah.
+Nathan Peereboom: That was okay. Great. Awesome. Cherie, when you think about how do you do billing right now? Like, outside of the note, like, what are you doing for billing? What are you doing for some of the other parts of your workflow?
+sheree.starr8: Billing is done totally outside. That's something that. The billing is done by the company. Like, I'm working on my own practice, but I also work. I'm contracted with 22 addiction center facilities.
+Nathan Peereboom: Gotcha.
+sheree.starr8: Where? I'm their leading psych np. So they do their billing. I'm just the third party. I'm a contractor. Yeah, but I am working towards spending my practice to where I'll be doing the billing myself. With my patience. I haven't gotten there yet.
+Nathan Peereboom: Do you need any help on your credentialing?
+sheree.starr8: Can I answer that question in two weeks from now?
+Nathan Peereboom: Yeah, sure. What happens in two weeks?
+sheree.starr8: In two weeks, I'll decide which insurance companies I want to move forward with credentialing with.
+Nathan Peereboom: Yeah, I mean, we have a. We have, like, an AI driven credentialing product that, you know, where we basically just take in all of your paperwork. And fight tooth and nail to get you credentialed as fast as possible. So if that's something you'd be interested in, maybe we can put some time on in two weeks to talk about it.
+sheree.starr8: Yes, I would love to. And are we talking about insurers here in Ohio? Because I'm also licensed in Arizona.
+Nathan Peereboom: We do? Any insurance company in the entire country.
+sheree.starr8: Okay?
+Nathan Peereboom: Technically, we would do outside the US but we just don't have that much demand for it.
+sheree.starr8: I'm just working on my licensing in New York. Connecticut. Ohio, florida and arizona.
+Nathan Peereboom: Oh, wow. Okay. Yeah. Do you have licenses in those states yet? Yeah, you should, because you're already practicing. Okay?
+sheree.starr8: I'm waiting for new york.
+Nathan Peereboom: Okay, gotcha. Well, why don't we put a time on for. How does Monday the 9th at like, 1:30pm Eastern Sound to talk about credentialing?
+sheree.starr8: 130. Okay? Do you have anything later in the afternoon?
+Nathan Peereboom: Sure you want to do 230?
+sheree.starr8: What's the latest you can do on that day?
+Nathan Peereboom: Let's see. How about five?
+sheree.starr8: That work better Because I see patients from 9, 8 to 4, 35 o'clock.
+Nathan Peereboom: Great. Okay. Yeah. Let me put this on the calendar. We said five. All right? Edit. Sheree. I'm just going to say credentialing kickoff.
+sheree.starr8: Yeah.
+Nathan Peereboom: Okay? Perfect. Kick. Off. Sheree. All right, perfect. So that's on your calendar. And we'll talk then about that. Shari, before I get off, I do have to run at five. Do you want me to get you. Do you want me to just, like, watch you get started on e prescription and help troubleshoot around that? Is that helpful to you right now?
+sheree.starr8: Sure? Yeah.
+Nathan Peereboom: All right. Awesome. So could you go to record at the top of your screen?
+sheree.starr8: Yes.
+Nathan Peereboom: Perfect. And then on the right side of record, there should be an invitation, basically. Oh, interesting.
+sheree.starr8: No, I don't see it.
+Nathan Peereboom: Just say record. Different patient for right now. Yeah, there you go. Sheree, if you do credentialing with us, I'm going to buy you a new WI Fi router.
+sheree.starr8: Yeah, I need. It.
+Nathan Peereboom: Okay? All right, great. So at the top, let's just click start setup.
+sheree.starr8: Do you see it over here?
+Nathan Peereboom: Well, I see the recording screen, but then the button just at the top, it says, e Prescribe now available. And then on the right, you can see start setup right next to book a setup call. So why don't you click start setup, and then you just walk through it, and I'm just here to, like, help troubleshoot along the way.
+sheree.starr8: Okay? So does it say invite user?
+Nathan Peereboom: Yeah. So why don't you click edit under add RX to your plan? Do you see the edit on the right side?
+sheree.starr8: Yeah.
+Nathan Peereboom: What happens when you click that? Okay? Okay? Can you? You scroll down a little bit? And then click jotrx at the bottom. Perfect. And then click save changes. All right. Let's see. Did that save? I don't know if that's saved at the bottom. Can you try that one more time?
+sheree.starr8: Yeah. No, they could save. It says user already has bundled rx.
+Nathan Peereboom: Gotcha.
+sheree.starr8: Okay.
+Nathan Peereboom: Why don't you click the X? And then I think in the back it says practice settings. So if you x out of this again then you say connected dose spot go to practice settings.
+sheree.starr8: Go to practice. My practice.
+Nathan Peereboom: Well, I think. Do you see Connected dose spot? There's a thing that says go to practice settings on the right of that bar.
+sheree.starr8: Okay? And now connect to doe spot.
+Lee Harrold: Yeah, that's right.
+Nathan Peereboom: Yeah. And then you can just follow this through.
+sheree.starr8: Okay. It says E Prescription Clinic connected successfully.
+Lee Harrold: Okay? Amazing. So our next step is to register you as a provider with Dosebot. So I think your screen now shows. A clinic connected successfully. Icon with a button that says Next Register on it. Do you see that?
+sheree.starr8: Yes.
+Lee Harrold: Awesome. Yeah. Go ahead and click register. And then we can get you the clinician associated with your clinics dosebot account. Cool. Yeah, so click that below button at the very top.
+Lee Harrold: You should auto scroll your screen all the way down to the card panel. Yeah, perfect. So we auto populated this with some of the information we have. If any of it's incorrect, you know, go ahead and correct it.
+sheree.starr8: Okay, so hit register for escribe.
+Lee Harrold: Yep. Do you prescribe control substances?
+sheree.starr8: Some patients may get a stimulant. Some do get stimulants.
+Lee Harrold: Okay. Yeah. If those are considered controlled substances in your state, You want to check that box so that we can ensure that. You're registered within dose spot to do that. Cool. Go ahead and calculate the DEA number for your your clinic state, and if you have other DEA numbers for other states, you can add that after this step. This is just your primary associated EA number. Nice.
+Lee Harrold: So we'll also want to put Citi in right after street address. And then it looks like we'll need you to add your data birth as well. Cool. Do you use another eprescription platform?
+sheree.starr8: Yeah, I'm with Dr. Cloud, and I use. I. I use Dr. First. But it's embedded with Dr. Cloud and Tabra.
+Lee Harrold: Yeah. Okay. So, yeah, I think the answer to that question is probably. Yeah, can you go ahead and hit the yes button there? Cool. Now, do you currently have refills or change requests? Awesome. So what that means is if you want those migrated into do spot. Which we could definitely do. I'll need to submit a support ticket on your behalf, and it's really quick. Basically, you give me your SPI number. Your MPI number and your DE number, and then I can initiate that transfer.
+sheree.starr8: I think I'm going to keep it without merging.
+Lee Harrold: Okay, that sounds good.
+sheree.starr8: On the current platform.
+Lee Harrold: Yeah, that makes sense. And then you can create new prescriptions.
+sheree.starr8: On those thought. Cool. Okay?
+Lee Harrold: So the next step is a photo shoot. You're going to take some selfies, but you have to do it inside of do spot. They're going to ask for your credit card because the organization doing identity verification is Experian. The same. The same that you know, you. You know and love. As your credit score provider. And you also need an id. So if. If you have a driver's license, great, that'll work. If you don't, passport, that'll work.
+sheree.starr8: Okay, I have all that.
+Lee Harrold: Perfect. Yeah, go ahead and smack that open dose button. The big purple one, and then we'll be good to go.
+sheree.starr8: So open up those spot complete identity proofing.
+Lee Harrold: I can't see your screen, but I think you're going to see a video that you can skip and then you'll see on the left. A big, long terms and service agreement that you can either choose to read now or come back to and read later after you agree. And the photo op is the button. Just to the right of that. Do you see what I've described?
+sheree.starr8: It shows. Doe spot log clinician has not been confirmed.
+Lee Harrold: Okay, so it's showing that because you have some. Some ERX refills. In Dr. Hirst, through cloud, through Tebro, and that's completely fine. What I'm going to do is jump into the portal on my end. And confirm your account.
+Lee Harrold: And then we can get some selfies and make sure Experian knows you are you.
+sheree.starr8: So it does show the Tabar platform.
+Lee Harrold: There inside a do spot.
+sheree.starr8: Yeah.
+Lee Harrold: I kind of want to see what you're looking at. Do you think you could go down and press the same button that you used to share the screen the first time? And then click the share whole screen. Section in there.
+sheree.starr8: Okay, I'm sharing now. This is what I'm seeing.
+Lee Harrold: Yeah, yeah, that makes sense. But you mentioned it said Tebra in there.
+sheree.starr8: Well, I decided not to merge the two. I was just going to go with. Do it independently.
+Lee Harrold: On. No, that makes sense. That makes sense. Yeah. And like I said, that's the thing you can do. I just have to. I just have to do it. I was confused. I always confused. I thought there was something in here. Talking about Deborah. But there is not. So I'm just working over here.
+sheree.starr8: Going. It happens. It was just another platform that I do prescribe from and I thought they use Dr. First as well for verification for the ECPs subscribing.
+Lee Harrold: Yeah, yeah. Yeah, that makes sense. As a quick aside. Spring suddenly reared. It's gorgeous head and it is very, very pretty out here in Washington, D.C.
+sheree.starr8: Lucky you we're in the area.
+Lee Harrold: Yeah, I'm based in Indianapolis, but I'm up here for the week. Where are you?
+sheree.starr8: Oh, hi.
+Lee Harrold: Ohio. Oh, excellent, excellent. You know? Actually, I don't. Nate, who's on the call? He's. He's. He's. He's from Ohio himself. Sure. Yeah, we're in Ohio.
+sheree.starr8: I'm from Ohio. What part you're from?
+Nathan Peereboom: Jackson and I, we both grew up in Cleveland.
+sheree.starr8: Oh, okay.
+Lee Harrold: Yeah. What about you?
+sheree.starr8: I'm in university heights.
+Lee Harrold: Oh, my gosh.
+Nathan Peereboom: Yeah, I went to that. Dave's Cosmic Subs by John Carroll, like, all the time.
+sheree.starr8: Oh, so you. You went to john. You were john cure alumni?
+Lee Harrold: No, no. My mom is this.
+Nathan Peereboom: Though.
+sheree.starr8: Okay?
+Nathan Peereboom: Small world.
+Lee Harrold: That's amazing.
+Lee Harrold: That's really fun.
+sheree.starr8: I went to ir and cleveland state. Cleveland state university. Ursula. And I did case western reserve.
+Lee Harrold: That's amazing.
+Nathan Peereboom: That's incredible. Well, all the better to have another Ohioan on the software.
+sheree.starr8: Yeah.
+Nathan Peereboom: Yeah. What's the name of the clinic that you work at? Sheree. I'm wondering if I know it.
+sheree.starr8: Well, I'm at nora north ohio recovery association. 55th and Superior. That's where the addiction and then more counseling. More counseling. Is also. But most notably is you're probably familiar with Alliance. Alliance Health care.
+Nathan Peereboom: I actually don't know alliance.
+sheree.starr8: Okay. You familiar with the Cleveland Clinic and your university hospitals? Metro Health.
+Nathan Peereboom: Yeah, that's where my dad works.
+sheree.starr8: So I used to work there as a floor nurse years ago. But now that I do more private work, I'm more working with private sectors.
+Nathan Peereboom: That makes sense. That totally makes sense.
+Lee Harrold: All right, Cherie, so you're all set up. If you refresh this page. It should have a different. A different message. And if it doesn't, we're going to. I'm going to have you close this window and then go back to Jotsec and then press that.
+sheree.starr8: That button.
+Lee Harrold: That got you here again.
+sheree.starr8: Okay, so let's see here if it's refreshing. Okay.
+Lee Harrold: Yeah, it looks like it's not refreshing, so let's close this window and then go to jobsec, and then. Press the set up identity proofing. Button.
+sheree.starr8: Okay? Complete identity proofing.
+Lee Harrold: Nice. All right? And I'm going to ask you to go back to that shared screen thing. After you press that button. So that I can see what you're looking at.
+sheree.starr8: Okay. Do you see this?
+Lee Harrold: Yeah, I see. I see. Jazz. Yeah? Can you click Open dosepot to complete identity proofing? Okie dok. What do you. What do you see?
+sheree.starr8: A video is prompting me to watch this video.
+Lee Harrold: Yeah, go ahead and skip that. Or you could watch it later. You'll see two cards on this page. The one on the left. Is a terms and service agreement. So if you could open that and then either read it now or assign your name and then read it later, we can get on to the identity proofing step.
+sheree.starr8: Okay. And begin identity proofing.
+Lee Harrold: Sweet. You'll just need to put your personal phone number in because it's going to send you a text.
+sheree.starr8: Oh, that's it. Just put in my personal phone number.
+Lee Harrold: Yeah.
+Lee Harrold: I'm not super sure what you're looking at. Is it asking you to say to do other things, too?
+sheree.starr8: Asking me to put all my personal information, legal name.
+Lee Harrold: Yeah. Yep. Yeah, you can put all that information in. And this, I think, is where it needs the credit card.
+sheree.starr8: Okay? And it needs that for identity proofing.
+Lee Harrold: That's right. Experian. Is going to know that that credit card is associated with you. And then it's going to connect that to the driver's license picture that you take in the next step. It's not going to charge your credit card. You're completely safe.
+sheree.starr8: And it needs driver's license number. As well.
+Lee Harrold: No, I think that field.
+sheree.starr8: That field is option.
+Lee Harrold: You don't. You don't have to do that. Yeah.
+sheree.starr8: Okay? Okay, hit next. So they sent a link. To the phone. And it wants me to do ID verification.
+Lee Harrold: Yeah. So this is that photo shoot I was talking about. You're going to use their. Their process to. Scan your id, the front and the back.
+Lee Harrold: And then you'll take a picture of yourself.
+sheree.starr8: Okay, I'm scanning it now. Okay, I think we're good.
+Lee Harrold: Rock and roll. Well, you can.
+sheree.starr8: I think.
+Lee Harrold: I think you can return to Jotsag now.
+sheree.starr8: Okay?
+Lee Harrold: And our final step. Before we can begin prescribing because we. Prescribe some stimulant every once in a while. We need to make it really, really hard for people who aren't Sharif to log in to do spot. So to do that, we're going to set up a two factor authentication client. On your phone. So you probably have one of these already through Dr. First, it's going to be the same, the same system.
+Lee Harrold: You can set this up.
+sheree.starr8: Yeah, the vip app.
+Lee Harrold: This one might want you to use a different app, but it's possible it lets you use vip. Click the Open Dose Spot button and let's find out.
+sheree.starr8: Where is that open? Where is that at?
+Lee Harrold: I don't see inside of. Inside of Jatzec.
+Lee Harrold: Or if you're inside of Dosebot right now, you can refresh the page. And then you'll see. A notification at the top right of the screen.
+sheree.starr8: Okay. I. See? It says complete tfa activation.
+Lee Harrold: That's what we want.
+sheree.starr8: Okay? So it wants my mobile number.
+Lee Harrold: Yes. It's going to send you a text. Just like before.
+sheree.starr8: Why did I hit that? Okay, I'm downloading duo mobile. It says use QR code or use activation code.
+Lee Harrold: Undue.
+sheree.starr8: Yeah.
+sheree.starr8: What is dosebot? Or the activation code.
+Lee Harrold: I would use the qr code. Can you. Can you click the button at the bottom of your screen that allows you to share different windows? I would love to see your entire desktop so that I can see dose spot.
+sheree.starr8: Okay, so let me share. Entire screen.
+Lee Harrold: Yeah, perfect.
+sheree.starr8: Do you see this now?
+Lee Harrold: I do?
+sheree.starr8: Yeah.
+Lee Harrold: Okay, the Duo app is now synced for Last Step. Please confirm the following information before below to complete the authentication process. All right, so do you have a dose spot? Entry inside of your duo. App.
+sheree.starr8: It says dose. It says account link. Let's practice now. Practice now or skip?
+Lee Harrold: Practice. Now.
+sheree.starr8: Okay? So it has dose. It has show the passcode for dose. Spot.
+Lee Harrold: Yep. Perfect. And now the next thing you have to do is come up with a pin number. So this is.
+sheree.starr8: It says to pass code cannot be found in the Duo app.
+Lee Harrold: No. It's it. It. You. You did it. You did the right thing. Under pin number, I need you to come up with a pin number that you won't forget. And then put that. Like, write it down. Or if you have a password keeper, put it, put it there.
+sheree.starr8: Okay.
+Lee Harrold: Looks like Nate's got a scoot, but I can guide you through the rest. Thanks, Shuri.
+Nathan Peereboom: I'll talk to you in, like, two weeks, okay?
+sheree.starr8: Okay, thank you.
+Lee Harrold: Thanks a lot.
+sheree.starr8: Bye. Bye. Okay?
+Lee Harrold: All right, we're in. Doe spot. Congratulations. So the next thing we're going to do is set up a patient.
+sheree.starr8: Okay?
+Lee Harrold: So you can do that inside of jobs. Like.
+sheree.starr8: Really, I can.
+Lee Harrold: Yeah.
+sheree.starr8: So go. Go. Here. To jet psych. And then, let's see. Go to jot psych.
+Lee Harrold: Yeah.
+Lee Harrold: And you can go to patients.
+Lee Harrold: So, yeah, I find a patient that you want to add.
+sheree.starr8: Okay? Let's go here. Okay? I have a patient. Oh, I see. And set patient up for erx.
+Lee Harrold: That's right. Go ahead and click that button. So, yeah, you have to put in all the information that you have for the patient so they can be connected to no spot.
+sheree.starr8: Okay? Okay? Let me try somebody else. That I can actually send a prescription to. Okay. I'm going to send a prescription to her. And I need her address.
+Lee Harrold: Yes.
+sheree.starr8: O.
+Lee Harrold: Kay.
+sheree.starr8: I'm gonna put her address in. I'm working off two screens now.
+Lee Harrold: Sure.
+sheree.starr8: Here we go.
+Lee Harrold: Bear with me.
+sheree.starr8: My computer is a little sluggish. Wait a second. Okay, I am going to place.
+Lee Harrold: Hey, we're back. Hey, I can't hear you right now, although I see that you've joined the meeting.
+Sheree Starr: Okay, I'm connecting. Patient.
+Lee Harrold: Oh, awesome. I can't see your screen, but just let me know if you. If you run into an issue.
+Sheree Starr: Okay. And then I'll put the prescription in. Okay. I gotta add a prescription.
+Sheree Starr: So it wants you to choose a pharmacy.
+Lee Harrold: First, right?
+Sheree Starr: Okay, I see.
+Lee Harrold: Yeah. So this is. This is where. The prescription would be delivered to that patient that you inputted.
+Sheree Starr: Yeah. Okay? And then once we send it there, Okay, I picked it. Oh, I like it. It's actually sophisticated.
+Lee Harrold: It's quite good. Yeah, I've heard. I've onboarded a couple other folks who've used Dr. First, and everyone is amazed by how simple this interface is.
+Sheree Starr: And what do they like about it?
+Sheree Starr: I like it.
+Lee Harrold: Yeah, they. They told me I haven't used doctor First. But I was. I was told it's just, like, kind of complicated. To prescribe it is patience.
+Sheree Starr: Doctor first is a little bit. It's cumbersome. But this one is dope. Spot is easy. The dose spot is really easy. Can you hear me?
+Lee Harrold: Yeah. Yeah, I appreciate you saying that.
+Sheree Starr: It's easier than doctor First.
+Lee Harrold: Yes. Okay. It sounds like you have a good grip on, like, the system and how it works and stuff. If you need any. Any more help, let me, let me, let me know. I think you're all set.
+Sheree Starr: To you if I had any more problems.
+Lee Harrold: Send an email to support.
+Sheree Starr: Okay. Not to Lee Harold, but just to support.
+Lee Harrold: Yeah, I don't check that inbox, so you'll, you'll want to send it to supportseg.com.
+Sheree Starr: Okay. Thank you so much.
+Lee Harrold: Yeah. It was great to meet you, Sheree. And, you know, I'm delighted we have another Ohioan on our platform.
+Sheree Starr: Yes. You know, I've been born and raised here. So I love it. So it's a good thing.
+Lee Harrold: Go ahead. Take it easy. Have a good night.
+Sheree Starr: You too. Take care. Bye. Bye. Hey, when you want me to bring your cake over? When would you like for me to bring your cake over? You can. If you want. To sheree. When? What time? I'm. Here all afternoon. I'm not going nowhere. Whenever. Well, I wasn't sure if you was leaving out or not. Okay. You know, I don't leave out this late in the afternoon. With my eyes. Ight. Heck. You know? Okay. After I see these two people, I'll bring it. I got three people to see. I'll see you. After that. Okay. All right. No hurry. Ain't no big deal. Here's an I. 'm like, fuck it. Well, no. I started a new job. You. Just telling me. I mean, I'll come up there. It's nothing for me to come up here, I mean. You. Said, here I come. Keep coming. Okay, so we went. So we need help here. Greg million. Okay? What has to be. Okay? It's been a month. Okay? Send me that third home. Like, I'm not going to sit around, I'm not going to go nowhere. Don't get nothing out the deal. So he. Y what you do is. Yes. You least need a million dollars. So. I. Walk into. That. Not bad. It's coming up. What the hell? Favorite cake. He said I order. I'm sorry. It's going to taste good. She said this is too much. This is too much. I can go anywhere. Yeah, let's just. Y. Eah. Tripping because I'm like, I'm happy. I mean, I can always. Oh, they gonna be reaching out to you. Yeah. They, butters? Female. Do you see what I'm saying? Do you see what I'm saying? I'm talking about Melanie. $3 million. 3 million. Follow me up. They don't want that. Money. But. Tomorrow is the 20 eigth. Monday is the third. It's march. He said Feb. 2. He said february. I can log in. To third home. So we can start making these arrangements. I'm planning on going to Turks. And cakes. I was in a million dollar house. She invested. He said. You go there, you get it. Bringing me and they getting that, you know what I'm saying? I know I would take my. Chest, you know what I'm saying? On her chest. Is fractional closet. And so how is this work for you? That was the house, but it was one of the houses. That's the one. Yeah. 10. You know me as hurts. So it worked for you. It's estimated at where? But. I put it in third. So that means I'm going. I want turks. In case. I mean, I'll be. Back. All right, cool. Not having that. I got three mail. She actually bought. It makes sense because they're going to be doing all that. Oh, my God. Because I haven't had a chance. Congratulations. Oh, yeah. Good. You can't really get him involved. Female me at the airport. So she said. You were still. Right. So we're going to work on a strike. Much better. Yeah. How are you doing with the table? T. She's going over there. Hello. This is. Amy lacey, we have. An appointment. So I'm at the hospital. So my phone. All messaged myself for the. Internet. Well, what's wrong? What's going on? Yeah, and I saw that. You said that the medicine is not helping. Me. Anything. We need to switch it out, then. That's the remora. Because what you're taking at night, we need to switch it. Do you still feel a lot? Do you still feel highly anxious? So what we're going to do is give you the hydroxyzine twice a day. When are we seeing each other again? Okay, so why don't we reschedule this and I want to switch it out. We're going to stop the rim around. Okay? And we're going to get you on something that's going to help with. The anxiety. Was there ever. Were you ever diagnosed with bipolar before? Okay? We're going to get you something to help with the anxiety. Okay, so we're going to switch that out. I'll switch it. I'm going to let you know when it's sent to the pharmacy. Well, the Stratera is not helping. You can't focus. What side effects are you having with it? Yeah. It does. Okay? Do me a favor. Let's see. Would you say? Your mood is all over the place. I. Don't get the happiest. Or five minutes. Okay. So, any allergies? Have you any allergies? So I'm going to start you on the motor, Gene. Yeah, it's going to help because we got to. Once the move come down, you're going to be able to focus. And then I got to see you soon. So, like, next week? I'll reschedule. Okay. Bye. Bye. Here. Driving. And it just was. If you are weakness in our salvation. Come on. Here is the malachi. Maybe I need it. In others. You are beginner. Cannot be that shut them up. To diamond miracle adorn his arm cannot feed us. By your daily. So burn up here. From what she meant in the channel. Don't give me a calm girl. That's right away. Nobody. Mrs. Dana. Roug. Her stuff is. Bumble clap, Batman. From out of Jamaica. Hear? This one. Take your. Wife. Any. Time. Hurdle nothing. What it be anybody? Hold on. Your wonder. Ful. Sing. Er. She don't want to stay at home and mine, baby. She won't. Every sponsor. She's happy. She's happy. She loves the city. I. Went to. Make an average fruit. And she gone again. Sing. To. Try. She? Live. The same. Thing. She just loved. English. Thank you. What is she. In me. But this could never be for me. I can be generally. Just coming under, making no money. Made no sense tonight, Love God. In front of her body in front of God. From United Son or the club and your orbit runner. There shall be some means of a. Kid lift me up for you. Why is that? Nobody in front of me, in front of the body. In front of the body. You have to comb them. Sex life must go from it. Right in front of me, in front of the body, right in front of me. We'll take a picture. You can do Ignoring. Do you know, woman? Is a wonderful man. You can. Do much more. Money. You can do what entirely, you know. What happened. For your case, You can do until you love me. Forgiveness. My pot for three months. Lord God. Exist. Ing. My smart would be much more difficult. I wish you a little. First. And take God, preach. Before we move. First. I favor in your. Please. I'm desp. Erate. So I cross the highest. I travel. Let's say together. I. Will. Just see hold you as my king. I will. Do it. I will. Do it. I. Will. Do. Just. Say. To. Behold. You. As my king. Because I want to be. Where you. Are. Got to be. With you. One more time. Wanna be. Where you are. Hel. Lo. Gen. Tlemen. Thank you for coming. I got a young man I want to introduce. We call him Highlighters. Your heart like it's so great. I'm. Just like you. Girl. I got a lot of work. I. Will have a rough. Wiser. I wish I had this two or three people. Just declare. I. Just love to encourage myself sometime. I just. Said. Never. To. Uch. It. Now. What I want to say. Keeping the focus on the patient. 's inferior on our foot. Also to. Develop that facing forward. Take. And release. The brain. I. Try. To. Die. Take. Me to. The. Trut. H. My. Heart. My. Heart. Is my. Arm. Take hold of. Myself. Now I come to you. Just. And it's like a mercy. When you change your medications, you always have to see how the body tolerates it. And starting you off with three was the safest way to go. Now that you're telling me that it's not effective, it's safely to bump you up to five. Milligrams. Clap those hands. Clap those hands. Come on. Clap those. Finger. I have to trust. He's been. So good. I just can't. When. I. Look. At. His. Because I know I got amazing. And. I know I don't deserve. It. Jam. Ie. In the name of Jesus. There is power. In the name of Jesus. There is power. In jesus. Come on. To break every chain. Break every chain. Break every chain. Break every chain. Break every chain. Break every chain let's get together There is power. There is power. You got it. There is. Power. There is power. In. The name of Jesus Break every chain Break every chain Break every chain Declare a great average. Rain. Breathe in your hands, in the air right here. We want to keep silent. Say there's. Enough. Rising. Now shout it out to the brag. We compare. So let's celebrate. Come on, camera, let's do this. Come on. Let me. Run. Today. There's more. Than words I said to was last night don't know me exact day in my head there was a rain. And you told me. That you love me. More than anything in your life. So I guess. You would do me. And. My wife. Is in. Dance. I. Will never. Be. Today. You ever notice how most successful men are married? I'm not saying that getting married makes you rich overnight, right? But what I'm saying is locking in and taking care of that beautiful woman that been holding you down unlocks a different level of favor. The Bible says in the Book of Proverbs that he who finds a wife. Finds a good thing. And obtains favor. But it's. If you ask me. Whether you want. Me. To double. Your successes if I wait. Repentedness. I speak in restfulness. I keep. Wrong. In you. My soul and all within me. Every day is joy. You and savior. I remind it as I reflect upon your goodness. Your love and mercy. Give them the like. See what you. Are not. Everything will pull up real. So we say nothing. Whatever you. Are back. Money. Mayweather in Beluga. We are back. Special day. Valentine's day. Let's toast. To the ones that we love. Happy valentine's day. Cheers. We are back. Every day. Lord, when you savior. My. Dad, as I reflect. On your good. Ness. Your. God. Will. Heal. She? Pulled. My. Soul. There's. The name. Grace and strength just to sin. The day and with each new day when new mercies Cassie, I'm telling you that's what the Lord has done for me is that you made I keep in. My. Call. Ing my family. Don't. You. Guess. What? I'm. Just a singer. Thank you. Jesus. That's why. You. Want to praise. And I say, It makes me want to. Say. Yes. Bigger than the sun and the star. That could have you. Deserv. E. Because I deceived all my. Soul. Must be the. Jesus, then. What did my. Faith.

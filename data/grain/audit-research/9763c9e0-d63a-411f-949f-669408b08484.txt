@@ -1,0 +1,310 @@
+Jackson Bierfeldt: Yeah.
+Adam Harrison: Hi, angie. Hello.
+Angie Corbin: Oh, I can't hear or see anything.
+Jackson Bierfeldt: We can hear you. Hang on.
+Angie Corbin: Can y' all hear me?
+Adam Harrison: I can hear you. Can you hear us?
+Angie Corbin: Okay, there you are. Now I can hear you.
+Jackson Bierfeldt: Hello. Great.
+Angie Corbin: How are you?
+Jackson Bierfeldt: Nice to meet you.
+Angie Corbin: You as well. I'm trying to see if that Tebra thing ever finished doing whatever it was doing.
+Jackson Bierfeldt: Yeah, that was going to be my first question, just to see if that. That finished up so we could get those patients exported for you.
+Angie Corbin: I just walked in the house. Gonna take me just a minute.
+Jackson Bierfeldt: No worries.
+Angie Corbin: Let's see here. I'm so glad it's almost Friday. They're ready. All right, it's ready.
+Jackson Bierfeldt: Great. Angie, would you mind sharing your screen so that we could follow along?
+Jackson Bierfeldt: Oh, heck, I gotta remember how to do that. I can.
+Angie Corbin: Yeah, I just. I've got it open in a different browser, so let me get it open over here.
+Jackson Bierfeldt: Yeah, on this one.
+Angie Corbin: Let me get rid of all this stuff. There we go.
+Jackson Bierfeldt: You have a couple different monitors there.
+Angie Corbin: I do?
+Jackson Bierfeldt: Yep, yep.
+Angie Corbin: Yeah. And I can't. I can't see. I need new glasses, so all. That's not helping.
+Jackson Bierfeldt: I'm a one monitor guy myself. I can't. I don't know how people do it with all the multitasking. I can just focus on one thing at a time.
+Angie Corbin: I can't do one now. Okay, let's see if I can even share it this way. There it goes. Okay, Let me make y' all bigger so I can see. All righty.
+Jackson Bierfeldt: Okay, so which one are we looking at here? Since the beginning of time? 1.
+Angie Corbin: Yeah, I would rather do that one if I can, because I've got some patients on there that I don't see anymore.
+Jackson Bierfeldt: Yeah. Okay, so let's go ahead and click the download button.
+Angie Corbin: Okay. I think I just. Well, I did it on the other browser, so it's not gonna make any difference. Oh, dumb, dumb. I'm sorry. It's been a long week.
+Jackson Bierfeldt: No worries. I. I think.
+Jackson Bierfeldt: Angie, are you able to share your screen and say, like, share the whole screen? Because right now we're just seeing Deborah, and I think we want to just see where the file is and make sure that we can pull that into jot Psych and all of that. There we go. Great. Okay.
+Angie Corbin: Make you bigger. No. Anyways. Okay, so that's all of them.
+Jackson Bierfeldt: Okay, great. Can you go back? One folder is there, like, because each one of those looks like a different patient, right?
+Angie Corbin: Yeah, that's.
+Jackson Bierfeldt: Okay. That's the one that has all of them. Great. Okay, so can you go over into Job Seg?
+Angie Corbin: You are asking a lot of me.
+Jackson Bierfeldt: I know, I'm sorry. I'm gonna ask you to go here and there. Okay, great. Oh, it looks like you already have it. Why don't you just click that reload button down there? You can press hide on the screen sharing thing, and let's just make sure you're on the newest version just so that we're up to date here.
+Jackson Bierfeldt: And then let's go ahead and put the file on there. I think if you just click that, it'll.
+Angie Corbin: Oh, yep. I don't know where y' all went.
+Jackson Bierfeldt: We're still here.
+Angie Corbin: My screen just zipped across the. Okay.
+Jackson Bierfeldt: All right, let's do that. Great. Oh, this will be good. And then everything will be synced up. So you have all your patients and their insurance information and all of that.
+Angie Corbin: All right. It does not do notes, though, correct?
+Jackson Bierfeldt: We do not do notes yet. Out of curiosity, though, what would you be looking for there? Do you just want to view past notes or what? What are you imagining you're gonna need those for? Or is it more just a like. Well, I need.
+Jackson Bierfeldt: I need that for regulatory information. I gotta have access to those notes.
+Angie Corbin: That's one reason. But, I mean, I'm going to continue seeing the patient, so I just want to be able to follow their history. Like, if they're doing their measures, their different rating scales and things, it'd be nice just to have it there. The history.
+Jackson Bierfeldt: Yep. Okay, great. And those ratings scales and stuff that's, like, saved into the. Text of the note or you want.
+Angie Corbin: Kind of the results are typed into the. The note, but the actual scale itself is a different. It's a document. It's saved as a document.
+Jackson Bierfeldt: Okay, that's good. That's good to know, to keep in mind as we're, as we're building that. But no, we don't, we don't pull that forward quite yet. We're just pulling in all the patient's demographic information. So it looks like we have an error there. One second, Let me just see if Lee can take a look at this. I know you were talking to him earlier. Lee, would you mind hopping on and figuring out where we put a zip file in here and we got an unknown error.
+Angie Corbin: Of course.
+Jackson Bierfeldt: Yeah. Great.
+Angie Corbin: If it's weird and it can happen, it's going to happen.
+Jackson Bierfeldt: Yeah. So we'll take a look at that, but let's go ahead and circle back on this and we can talk about getting you set up. Adam, I think what was the second thing we wanted to do here? Get the billing template set up.
+Adam Harrison: Yeah, exactly. Exactly. So, yeah, what I'm kind of hoping to go through with you today is our whole billing workflow. So basically from when you, you know, create a note in job site, how do you go about kind of like submitting that as something that our billing team will then, you know, pros begin work on? Right. So we will process the, the claim, you know, get it submitted and do all the, you know, follow up related to that as needed. So. So really that is like the goal for today. And so it'll be kind of like a little bit of a live demo, but you'll, you'll. We'll do it from your account. So, you know, we just make sure it works on, on your Jot Psych account. Does that work for you?
+Angie Corbin: That works.
+Adam Harrison: Awesome.
+Jackson Bierfeldt: So Angie, can you go over to that other Jot Psych tab that you have open there and. Great. If you can just click login and we'll go over to your. Yep, right there.
+Angie Corbin: Yeah.
+Jackson Bierfeldt: Awesome.
+Jackson Bierfeldt: And then it's all good. Can you go to your notes and can we just see like, what template are you currently used to using in Jaw Psych right now?
+Angie Corbin: Well, I kind of go back and forth because I've created my own one for pro and it. Because it defaults to whatever it defaults to. I usually have to go back in and redo it because I don't think to change it before I start. So I have an intake copy and I have a progress note copy.
+Angie Corbin: And so I kind of go back and forth between those two if it's a repeat patient.
+Jackson Bierfeldt: Okay, great. Yeah, so. And you are taking how much of the Jot Psych note and putting it into Tepper right now?
+Angie Corbin: Most of it.
+Jackson Bierfeldt: Okay, great. And is there anything in your Tebra note right now that is not in your Jot Psych note? You have some sections that are like, oh, I always include something about, you know, the suicide hotline or you know, something like that, like kind of boilerplate thing.
+Angie Corbin: Not really because I usually put that in my plan.
+Jackson Bierfeldt: Okay.
+Angie Corbin: It does not populate that in jot psych. So that's something you have to freehand.
+Jackson Bierfeldt: Yep. Okay, so that is what we want to do now is kind of get you moved over to one of our more like billing ready templates we call them. So they're templates that just like have all of those, you know, nuts and bolts things in them that like the insurance companies are going to require, for instance, like the explicit medical decision making. You know, that's probably not something that you're. I mean, I don't know, but you maybe aren't like typing that out in your cover template right now.
+Jackson Bierfeldt: But we have a billing template that kind of walks through that. So that then later, you know, if that note ever gets pulled for audit, it's all like written in there of like, hey, here's exactly like why this is medically necessary here and there. So why don't we just pick one of these notes right now, One of these patients that you've seen in the past couple days.
+Angie Corbin: Well, let me find somebody that's actually mine and not ruler.
+Angie Corbin: Great, there he is right there. We'll go with him. Okay. I. I think I actually did the audit on him because the button was there.
+Jackson Bierfeldt: Oh, great. Okay, well if you go over to the template, drop downs in the top left. Yeah.
+Angie Corbin: Okay, hang on, let me. There we go. Okay, sorry, templates, It's under documentation.
+Angie Corbin: It says no templates.
+Jackson Bierfeldt: So let's go in there and then I think. Did you zoom your screen in? Is that why. Okay, great. No worries. So do you see at the bottom of the screen under start from scratch, there's a button that says Template library or Browse templates.
+Angie Corbin: Browse template Browse library. Right there.
+Jackson Bierfeldt: That'll work. That'll work just fine. Great. So if you scroll down a little bit in this list. Great. So we have the E M Med Management 1 already in your list. And do you ever do psychotherapy? Add on?
+Angie Corbin: I do sometimes. Okay, great.
+Jackson Bierfeldt: Well, let's add that to the list. List as well. So you can just click add on the one that says EM plus Psychotherapy.
+Angie Corbin: Okay, great.
+Jackson Bierfeldt: Okay, so now on your template list over there on the sidebar, do you see all those little lists? Yeah, let's scroll that down just a little bit and. Great. Okay. At the top there where it says EM Med Management, it's that one at the very top underneath.
+Jackson Bierfeldt: Yeah, right there. Go ahead and just click. Let's go up two or up three.
+Angie Corbin: I guess that one.
+Jackson Bierfeldt: Let's go ahead and click the pin on that one.
+Angie Corbin: Do you see the little pin?
+Jackson Bierfeldt: Yeah.
+Jackson Bierfeldt: And then now we can drag that to the top of your list. So see the little drag icon to the left there? Yeah, right there. There you go.
+Jackson Bierfeldt: And just so you know, that'll make it your default template. Now, so like you were saying before, sometimes it generates with the default one and you forget to switch it. This is a good way to make sure that this is now your default template. So it'll automatically use this one.
+Jackson Bierfeldt: You can always change it to something else. But now let's go back to that patient that we were looking at before.
+Angie Corbin: We can use her because she's 11 2.
+Jackson Bierfeldt: Great. And let's go to.
+Angie Corbin: Because I do need to send in a prescription for her.
+Jackson Bierfeldt: Okay, great. Well, let's go to the note. It looks like you have one from 223.
+Angie Corbin: Okay.
+Jackson Bierfeldt: That maybe you didn't fully generate yet. So let's click on that.
+Angie Corbin: Yeah, I haven't done that. Finished that one yet.
+Jackson Bierfeldt: Oh, it looks like there isn't an audio recording on this one.
+Angie Corbin: If it's in there, it should be though, because I haven't been typing anything in here.
+Jackson Bierfeldt: And jot's like, Well, let's go to one that we know you've done. This one. This one. It looks like you maybe didn't press record on.
+Angie Corbin: It's very possible. And I may have talked to her on the phone, but that just didn't look like my normal route ones. Choose that one.
+Jackson Bierfeldt: Yeah, let's do this one. Okay, great. So now do you see under the patient's name where it says psychiatric Progress note. Let's go ahead and pick your EM Medication management.
+Angie Corbin: Okay.
+Jackson Bierfeldt: And regenerate this note. Great.
+Jackson Bierfeldt: So this is going to show you what the new billing template looks like.
+Jackson Bierfeldt: And Angie, have you used the chat before to customize your template or. You know, add a section. Okay, great. Well, you can do that same thing with this new template. So if there's anything that you know isn't exactly the way you like or you want to add more information to a section or something like that, feel free to continue, you know, training this just like you would your other templates. And also, if you do want to send us a couple of your, like, Tebra notes that are your, like, finalized notes, you know, the system that you're comfortable with, we can go ahead and kind of like merge that for you on our end so that your notes just kind of look more like the ones you're used to in Tebra. Totally up to you. But if you want to send a couple of those along to us, we're happy to do that.
+Jackson Bierfeldt: But the point of this template, like I said before, is that it just contains, like, a lot more of the information that you need to have for billing. So for instance, it says right in here, hey, this was a telehealth visit. The patient was at home. You know, all those kinds of things that, like, need to be in the note. Those will, like, be generated by default in Shabbat.
+Angie Corbin: So.
+Jackson Bierfeldt: Okay, and then have you signed a note in jot psych before?
+Angie Corbin: Yes.
+Jackson Bierfeldt: Okay, great. So can you go ahead and just click Sign note for one second? I want to just show you what this looks like now. Have you done it since we've added in this little box that comes up?
+Angie Corbin: I'm not sure.
+Jackson Bierfeldt: Okay, great. Well, this little box is going to show you everything that you need to see in order to know, like what. What are you actually signing about this note? So if you click on session details right there. Oh, it's okay. No worries.
+Jackson Bierfeldt: They'll just take a second, and then you can click edit or amend and that'll unsign the note.
+Angie Corbin: Oh, okay.
+Jackson Bierfeldt: There you go.
+Angie Corbin: All right.
+Jackson Bierfeldt: So if you click on session details.
+Angie Corbin: I did it right there. Yeah.
+Jackson Bierfeldt: Yep. So you can.
+Jackson Bierfeldt: You can see here that, you know, there's a spot for you to put in the modality, the place of service. So this is important for billing, that this is correct so that we can populate the claim correctly. So this should start to fill in automatically. You really shouldn't have to edit it too much. But if you ever come in here and find that, hey, it says that it's telehealth, but you actually saw them in the office or vice versa. That's just something to check right before you sign it. And then do you do your own billing encoding or are you having us do all of the coding decisions.
+Angie Corbin: I hope you're gonna do it.
+Jackson Bierfeldt: Okay, well, you know, we have some people who still want to guide it because they're like, hey, I actually, I do a 99215 in this situation, and other people don't, but I like to do it that way. So we'll pick the reasonable codes for you based on our system.
+Jackson Bierfeldt: But if you do want to override it or if you do see that our system has done something crazy and you want to fix it, if you click on the billing codes button there. Does that work right there? Yep. This is.
+Jackson Bierfeldt: This is the. The place to. To change that. You can also see the same information just at the top of the note, you see next to the patient's name. If you kind of look from left to right, you'll see the session, how long it was, the codes, and then the diagnosed diagnosis codes.
+Jackson Bierfeldt: So for you, it's probably the diagnosis codes that you really want to, you know, confirm. Again, our system is going to recommend the ones that we think, but, you know, you're the provider, you know, we'll handle all the billing, but it's up to you to say, like, hey, this is, you know, MDD or gad. So if there's anything that is, like, mismatched there to what your expectation is, definitely make sure to. To flag that through us and go ahead and change it on the system.
+Angie Corbin: Okay.
+Jackson Bierfeldt: But then if everything looks good, you can go ahead and click sign note, and let's just go ahead and sign this again. We can come back and unsign it if you're not comfortable with that. But from that moment, then the very last thing you need to do, and we'll go ahead and do this right now, but undo it.
+Jackson Bierfeldt: If you just click that create claim button with the little paper airplane next to it.
+Angie Corbin: Okay.
+Jackson Bierfeldt: That is your signal to us. Hey, I've signed this note. I'm done. It's in your guys's hands now. We'll take it from there and actually go through and, you know, clean it up, check on anything, come back to you. If there's anything that, you know, we need you to change on it, and then we'll submit it to the insurance from there, and hopefully you get paid and everything goes well.
+Angie Corbin: That'd be nice.
+Jackson Bierfeldt: So that's it. So when you're done with the note, you know, so the. The three steps are, you generate your note, and we need you to, like, read it over and edit it in jot. Psych.
+Jackson Bierfeldt: Sign the note, and then just press that create claim button and that's it from that moment onward. You don't need to think about it. We've got it. And we'll report back to you on. On what goes on there.
+Angie Corbin: Easy peasy, easy peasy.
+Jackson Bierfeldt: So do you have any questions on any of that right now?
+Angie Corbin: Not right now, no, sir.
+Jackson Bierfeldt: Okay, great. Well, let's go ahead and just click that amend button so that we unsign this note.
+Angie Corbin: Okay.
+Jackson Bierfeldt: And then, Adam, if you're following along on the back end, let's go ahead and just delete that claim so we don't accidentally submit that. We'll give Angie the actual opportunity to read this over and, you know, sign it on her. On her own time. We just wanted to walk through that.
+Angie Corbin: Okay.
+Jackson Bierfeldt: So, yeah, I mean, that's the. The main thing we wanted to walk through there. Any questions on that workflow? Do you want to run it through again with a different note or.
+Angie Corbin: You seem to have it. Yeah.
+Jackson Bierfeldt: Okay, great. So then let's go back to that patient report.
+Angie Corbin: Okay. Where am I going?
+Jackson Bierfeldt: You know what?
+Jackson Bierfeldt: Actually, I just looked at my message. Lee's gonna work on it, so let's just put pause on that, but we'll try. We got the file and we'll try and get that into your account over the next day so that you have all those patients.
+Angie Corbin: Do I need a login for the prescription service? Are everything donated? A login and password. Username and password for any reason?
+Jackson Bierfeldt: That is a good question. I think you do make your own Dose Spot account. Have you already gone through and done the setup for it yet?
+Angie Corbin: We did. We went through it last night and something. One of my tabs that was open wanted a password and wanted a username and password to log in, but I didn't have one.
+Jackson Bierfeldt: Okay. Yeah, let me. I can just ask. I've really quick. The guy that built it, he's standing right over here. Let me see. But I'm pretty sure you make a username and password for that. While I'm doing that, why don't you go ahead and just click prescribe on one of these and bring up that screen and let's see where you're getting stuck, little boy.
+Angie Corbin: Prescribe. Okay, now you're. I gotta go back, don't I?
+Jackson Bierfeldt: Okay, it sounds like. Actually there shouldn't be an additional password.
+Jackson Bierfeldt: You're accessing it from Jot Psych.
+Angie Corbin: Okay, that's should be good to go. Kind of thinking I know there's a prescribe button somewhere. I thought there was.
+Jackson Bierfeldt: Yeah, it's usually. It's from the. The patient page, so go ahead and click on the patient's name or it's also on the. On the record screen, but looks like you need to set up this patient for erx. Do you see that button that says set out patient for. Yeah.
+Angie Corbin: Oh, boy. Let me find tebra. Watkins. I always get his last name wrong. 16. Okay.
+Jackson Bierfeldt: There you go. So did you get this far before or.
+Angie Corbin: Yeah, yeah, we did one of these last night.
+Jackson Bierfeldt: Okay, great. So I think you click add prescription there on the left.
+Angie Corbin: He changed his pharmacy. Where did he go? He went to. Cvs jackson avenue. Oh, I'm glad that didn't close. Next. No clinic presets. Okay, what's it wanting now? Let me add a prescription.
+Jackson Bierfeldt: Yeah, let's go ahead and click cancel on the bottom right.
+Angie Corbin: Okay.
+Jackson Bierfeldt: Oh, there you go. Nope, I think that's.
+Angie Corbin: I don't remember what he's offered. X 4:30. Okay.
+Jackson Bierfeldt: Do they have the Adderall shampoo yet?
+Angie Corbin: No, never heard of it. Is there such a thing?
+Jackson Bierfeldt: I hope not.
+Angie Corbin: I hope not too, but, you know, I wish I could have it in spray form.
+Jackson Bierfeldt: Oh, then people wouldn't forget to take the pill.
+Angie Corbin: All right, we can't do 90 days. We have to do 31 capsule orally, daily for. Yeah, we don't want that. Okay, no refills. All right.
+Angie Corbin: Now, if I create it, is it going to send it?
+Jackson Bierfeldt: I think so. Well, I think it'll make the medication. So then you can press, you know, send on that. So I think you press next.
+Angie Corbin: Okay. And then choose approving sand. Okay. I just filled it for him, so I don't need to fill it again. Can I cancel it? What?
+Jackson Bierfeldt: Well, I think you could save it as a pending prescription maybe if you don't want to do it right now, but you want it in there for later.
+Angie Corbin: Okay. You got to choose it. All right. Add prescriptions. Well, that's easy enough. Now to do controlled substances. Well, I. I guess that's when I use the authenticator and it'll ask me for the TFA. Yep. Okay.
+Jackson Bierfeldt: Exactly.
+Angie Corbin: Okie dokie. He's also on lithium 300 maybe. Is there any way to pull the prescriptions over? MICTL 200.
+Jackson Bierfeldt: Pull the prescriptions over from Tebra
+Angie Corbin: or to pull up like their pharmacy guide?
+Jackson Bierfeldt: No, I think we don't have that right now.
+Angie Corbin: No problem. I'm just going to call it that for today. Up. I'm not crazy about how it pops up for 30 days because he's not stopping after 30 days. It's just my thinking, Okay, Did I do it last? Because they're gonna think I'm crazy if I send it again. 214. Yeah, it's too soon. They won't save anything. Okay, so I'll need to go back in and manually add all the prescriptions.
+Jackson Bierfeldt: Yeah, I think because it's a new system, it has to learn those new prescriptions, but it will then save those as the, you know, Sigs, so you don't need to, you know, do it anew every single time.
+Angie Corbin: Awesome. All right.
+Jackson Bierfeldt: Okay, great. So I'm going to check in with Lee again really quick on that import and see where we're at there. So just give me one second and maybe in the meantime, Adam, you and Angie can talk about the docs that we're trying to collect.
+Adam Harrison: Yeah, sounds good. Thanks, Jackson. So, Angie, I know you've had a busy few days with a lot of jots. Like, folks, thank you for bearing with us. I know it's probably been a whirlwind 72 hours for you. So I think we are getting pretty close to getting ready though, at this point.
+Adam Harrison: So, you know, we have kind of your clearinghouse set up.
+Adam Harrison: We have, you know, we. We just went through the templates with you of, you know, and how to kind of submit a claim to our billing team. And we're working obviously on the patient, you know, migration piece. So that will be, you know, that'll be important to, to get all the insurance info in there. So we know you know, where to send the claim. The last piece here is just on the like, payer document side of things. So I sent you an email last maybe a day or two ago with like the different docs we're looking for. And I just wanted to check in because I know you did your credentialing some time ago, like how it was going to potentially track those down and. Or if you needed more time to kind of look into those because I know you have had a lot that we've already asked you for. For over the last like couple days here.
+Angie Corbin: I need. I think some of them are the documents. I think a few of them may be in my storage shed.
+Adam Harrison: Okay.
+Angie Corbin: I've got, got two great big binders here full of stuff, but it I'm not finding. I found a couple of acceptance letters and I've reached out to Humana military and they emailed me back and then I got an era email from one insurance company today.
+Jackson Bierfeldt: Okay, Angie, did you do your own credentialing or did you go through a third party?
+Angie Corbin: I had a friend help me.
+Jackson Bierfeldt: Okay, great. Do you, did, did you already reach out to them and see if they have the like electronic versions of some of these?
+Angie Corbin: It's on a hard drive somewhere. I just got to figure out which one it's on, honestly.
+Jackson Bierfeldt: Okay, great. Well, we're not going to let that hold anything up. We're able to go ahead and start here but you know, the more information we have, the more accurate we can be. So we should be good, you know, to just like get started here. But the sooner you can just like get us those electronic versions of these, we can just put those into your account and then you know, everything just gets a little bit tighter.
+Adam Harrison: Yeah. And Angie, just to clarify one thing so to Jackson's point, we definitely don't need all of those like payer docs and fee schedules started.
+Adam Harrison: We certain certainly will help us. For example, like when we get a denial, you know, we, and we don't know why, we'll need to like reference that doc to understand what to actually do.
+Adam Harrison: So it is going to be super important like for us to get things resolved for you. The one thing we do need now is basically a few different identifiers with how you are credentialed so that we can actually submit the claim. So that is like kind of the, the, I guess the, you know, the gating priority at the moment.
+Adam Harrison: And we can go through those like one by one. If, if you want I can, I can pull up my screen and kind of share that with you and we can just talk through each one if you want.
+Angie Corbin: I was trying to find my pico number because I have it somewhere, but today's not that I can find it. All right, so I need to stop sharing my screen, Correct?
+Adam Harrison: Yeah, that either ways. Whatever you prefer.
+Angie Corbin: Where did it go? I can't get my mouse there. Oh, I'm on the wrong. Stop sharing.
+Adam Harrison: Okay, So I'll just put up. Do you know, do you have, do you see this chat on the bottom here?
+Adam Harrison: Are you able to see that. I'll just put into the chat the different things that we're looking for. Actually, maybe it's better if I send you an email so that you have a copy for later. So I'll send to your email and maybe if you could just open that up, we can go through there.
+Angie Corbin: Okay. All right. Because I think I'm using a different email for this than I did. Let me go over to the other one. This is the problem with having two screens is that I move my other computer and now it's not in the same place.
+Adam Harrison: No worries. The email I have for you is your outlook email.
+Angie Corbin: What's the first one of the first letter? What's the first letter?
+Adam Harrison: It's Angie underscore pmhmp. Does that work? Okay, so I just sent it to you and it should be in your inbox, but let me know. Let me know if you don't get it.
+Angie Corbin: I don't know if I can figure out how to get back to it because my little mouse is going everywhere. Make forever crash it and see what happens. Not yet.
+Adam Harrison: Okay, let me try sending.
+Angie Corbin: There it is. I found it. It's in my junk mail.
+Adam Harrison: Oh, your junk mail.
+Angie Corbin: Oh no, you are in my junk mail. Let me move you.
+Adam Harrison: Oh no, that's not good.
+Angie Corbin: Retrain my computer. Don't do that anymore. Okay. All right. For each payer with Blue Cross Blue Shield credentialing approval letter. Welcome letter.
+Adam Harrison: Yeah, so those are the documents. We can skip that to start if those are going to be harder to find. The second part, the information that is kind of the more, the more important thing for us to just be able to submit claims we got to know like your group NPI or if you did, you know, individual NPI when you got credentialed, the tax id, all that good stuff I have.
+Angie Corbin: I think Medicare is the only one that requires the MPI too. If I recall correctly, Medicare is NPI 2.
+Adam Harrison: Everything else is NPI 1.
+Angie Corbin: I believe so, yes.
+Adam Harrison: Okay. All right, that's good to know here.
+Angie Corbin: Okay. All reimbursement policies. I don't recall ever getting any rates from anybody, which is really weird.
+Adam Harrison: Like a fee schedule. Okay.
+Angie Corbin: I think they were.
+Jackson Bierfeldt: Historically, how have you decided what to charge?
+Angie Corbin: Oh, here's one for Medicaid. I used what we had at my old clinic and then compared it with, like, the ones that I did have.
+Angie Corbin: Like, I have Medicaid here. I know Medicaid doesn't pay as well as some other providers, But mostly I used what we had at the clinic that I worked at a couple years ago and just tweaked it just a little bit. Different demographic where I am.
+Jackson Bierfeldt: Right. And you probably overcharge a little bit, understanding that they're gonna, like, pay less anyway, so it's. You're not too worried about underpaying, hopefully. But we'll. We'll check on all that for you and make sure.
+Angie Corbin: All right, here's. This is United Healthcare, I believe. No, this is Blue Cross Blue Shield, and it is not telling me. Which NPI number of you, but I know it's NP. Oh, there it is. NPI one. And it was on 1025 of 24.
+Adam Harrison: That's for which one? You said?
+Angie Corbin: Blue Cross Blue Shield of Mississippi.
+Adam Harrison: Okay. All right, that's great. So that is just under your. Yeah. Individual mpi.
+Angie Corbin: Correct.
+Adam Harrison: Okay, great.
+Angie Corbin: I don't have a text on that one. I'll have to try to find that. Humana military is NPI1. Looking at it this morning.
+Adam Harrison: And that's just registered, like, to your name. Right. Not like a business name, because it's your MPI one.
+Angie Corbin: Initially my name, and then rebuilding Resilience under it.
+Adam Harrison: Okay, got it.
+Angie Corbin: I'm gonna change my address on. All that stuff. And. Metamilitary. Has my tax ID number on it, but it does not have my NPI number. No, that's the one. Okay. It's my. It's actually my npi2 for humana military.
+Adam Harrison: Okay, got it. Got.
+Jackson Bierfeldt: And Angie, I just got the word that we can go ahead and retry your patient import one more time whenever you're ready to do that. Don't want to interrupt you, but.
+Angie Corbin: Okay, just let me know when.
+Jackson Bierfeldt: Yeah, we can do it right now if you want to try. We're just going to try it one more time and if it doesn't work, we're going to, you know, we have the file and we can make it work on our end. But.
+Adam Harrison: Yeah, and Angie, maybe just not because I don't want to put you on the spot with some of these codes. Maybe what I can do is I will set over send you more of like a kind of a form that you can fill out with like just the minimum information that we need for now and then like what we can kind of get later on. So I can put that in like does a Google sheet or an Excel file. Is that something? Does that work for you?
+Angie Corbin: Excel's better because Google just blows my mind.
+Adam Harrison: Excel's better. Okay. Or we could do like micro just like a word doc too, if that's easier. Like whatever works for you. Okay, I'll just do a word. I'll send you a word doc. I'll have kind of for each payer, just the info we need and then that'll just make sure we got, you know, everything correct. And I'm not like writing something down wrong here on the phone when. And then we can kind of take things from there. So let me like pull that together for you now and I'll send it to you tonight. All right.
+Angie Corbin: Now it may be this weekend before I can get to it because I got a bazillion things going on right now. But I'm finding all the documents, so that's a good thing.
+Adam Harrison: That is good, yes. So, Jackson, I think we can kind of flip over to the patient stuff.
+Jackson Bierfeldt: Okay, great. Yeah.
+Jackson Bierfeldt: If you want to share your screen one more time, we're going to try this. It depends entirely on the strength of your Internet connection right now. So we'll see if it's, if it's. So let's go ahead and just refresh this whole page. And then let's try the same thing one more time. Okay, so we'll give that a go in the. Like I said, we. We got the file on, on our end, so if that doesn't go all the way through, we'll be able to get it for you by tomorrow.
+Angie Corbin: Okay. Yeah, our Internet's not right.
+Jackson Bierfeldt: No worries. Okay, great. So we'll just go ahead and try that again. But at least we got the data from Tebra, so we'll be able to put that in once we get this fixed up.
+Angie Corbin: Okay.
+Jackson Bierfeldt: Okay, great. Any other questions? Angie?
+Angie Corbin: Not right now. I don't think so.
+Jackson Bierfeldt: All right, so just as a recap, you know, the only thing you need to change is just try using that new template and, you know, tweaking it to, to your liking. Sign your notes in, in jot Psych. And then when you're ready, when it's, you know, not a rule of one, when it's one that you want us to bill, just click that little create claim button and then we'll get a notification and get that all cleaned and ready to go for you.
+Angie Corbin: Okay, so I'm ready to trial or.
+Jackson Bierfeldt: Yeah, I think it just depends on, you know, which payers we, you know, get your credentialing information from. I guess that would be the, you know, the, the, the real hang up there. But as far as your job site, you know, workflow goes, those are the three buttons you have to press.
+Angie Corbin: Okay.
+Jackson Bierfeldt: So as soon as we get those NPI numbers, you know, for those payers and can create that billing account for you, then we should be good to go to start getting some of these out the door.
+Angie Corbin: Awesome.
+Adam Harrison: Yeah, sorry, go ahead, Angie.
+Angie Corbin: As far as the ones that I have that are still hanging out there, like in La La Land, were those going to be billed? Were y' all going to be able to build. Go back and build those as well, or do I still need to work with Tebra for those?
+Adam Harrison: So if you have like a note already in job site for them, what you can do is just regenerate that as a, in the new template and then we can, you know, just do exactly what Jackson walked you through.
+Angie Corbin: Okay.
+Adam Harrison: I would just say there is usually like a 90 day like timely timeliness deadline. So if you're getting close to that, I would say just go ahead and submit Integra. But if you already have a job site note for that visit, I would say, you know, we can, we can bill for that ourselves.
+Angie Corbin: Okay. And I got some from 2024 that were not paid.
+Jackson Bierfeldt: Oh those ones unfortunately I don't think anyone can help with if they were commercial payers.
+Jackson Bierfeldt: Even, even Medicaid usually has a one year timeline on it.
+Adam Harrison: Yep.
+Angie Corbin: All righty. Well, no big deal. I didn't have it then, I won't have it now. Threaten over.
+Jackson Bierfeldt: But our job is to make sure that never happens again. Angie.
+Angie Corbin: Yes.
+Jackson Bierfeldt: From now on it's see them. You get the note, you press sign, you press claim, it goes out the door and you're getting paid.
+Angie Corbin: That's the future. Amazing. Amazing.
+Jackson Bierfeldt: All right, great. Well, nice meeting you and we'll be in touch soon.
+Angie Corbin: All right, thank you.
+Adam Harrison: Before you go, Jackson, you can drop off. I'm just going to kind of talk on next steps here.
+Adam Harrison: You think we could find some time maybe Wednesday next week to just kind of check in and make sure that we are kind of good to go to get everything rocking and rolling for you?
+Adam Harrison: It should be a quick like 20 minute kind of check in just we can cancel if we don't need it. But if you have any like questions about the payer docs or questions after you've done the new template a few times. I just want to make sure we have kind of a touch point in case we need it.
+Angie Corbin: Will I need to have access to the computer systems or can we just do like a. I can step out for a few minutes from work but I can't have my computer.
+Adam Harrison: Okay. Usually it's better if we could find a time with when you can be in front of your computer just in case so I, you know, let me know what works for your schedule though. We don't need to do Wednesday. We could do another day.
+Angie Corbin: I'll have to look and see if I have patient scheduled for Wednesday. Let me hang on, I got my thing right here. That will be March.
+Adam Harrison: Won't is March. Can you believe it?
+Angie Corbin: Goodness gracious. I've already got a jot psych scheduled at 6.
+Angie Corbin: I don't know who it's with, though.
+Adam Harrison: Oh, let me see. Who's that with? Oh, that's with Nate. Is that with Nate?
+Angie Corbin: Maybe. Is that who I talked to last? No, that's the. The founder.
+Adam Harrison: That's the founder. I'm not sure what. What you guys are going through there, so maybe.
+Adam Harrison: Let me just ask Nate about that.
+Angie Corbin: That's light in the evening. I know it's late for you because it's six o' clock for me.
+Angie Corbin: Yeah, I can. What can I do?
+Adam Harrison: We could probably use like the first 15 minutes of that time with Nate, if that works for you.
+Angie Corbin: Okay.
+Adam Harrison: So, yeah, let's just plan on that.
+Angie Corbin: Okay.
+Adam Harrison: That's okay with your schedule?
+Angie Corbin: Yeah, that's fine. I'll make sure it's blocked off.
+Adam Harrison: Awesome. Well, yeah, I think we'll get that patient data kind of migrated over.
+Angie Corbin: Okay.
+Adam Harrison: And yeah, feel you can. You should feel free, like for your. Your patients that are your patients. Like, go ahead and try, like creating. When you have the note finalized, go ahead and create claims for them, and then that'll get added to our kind of queue of claims to process. And then we will, like, do the bill, do the billing for you for those. So.
+Adam Harrison: So yeah, yeah, sorry, go ahead.
+Angie Corbin: No, no, no, never mind. Brain. Brain for it. Nothing.
+Adam Harrison: Okay. I know it's a lot. If you have any questions, you have my email. I'll also send you this document with like, just like that you can fill out when you have a little downtime. And yeah, we'll. We'll get this up and rolling pretty quickly.
+Angie Corbin: All right, Adam, I appreciate it.
+Adam Harrison: All right.
+Adam Harrison: Thank you, Angie. Have a good rest of your evening.
+Angie Corbin: You too. Bye. Bye.
+Adam Harrison: Take care. Bye.

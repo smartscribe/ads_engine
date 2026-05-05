@@ -1,0 +1,356 @@
+Becca Bressler: Hey there.
+RAVF RAVF1: How are you?
+Becca Bressler: Good. How are you doing?
+RAVF RAVF1: Very well.
+Becca Bressler: I'm Becca. I'm Jotsyke's product manager. It's super nice to meet you. Are we waiting for anyone else, or should we just get going?
+RAVF RAVF1: Yes, we're waiting for Dr. B. I don't know. She sent me this.
+RAVF RAVF1: Church, let me tell her we're here, okay? Okay? Should we wait?
+Becca Bressler: Tabby.
+RAVF RAVF1: Okay? He said she'll join in the minute. She just referred.
+Becca Bressler: Okay. So she'll be here in a second. So you all are exploring. A new ehr. It sounds like potentially using jot psych as the hr. What do you use right now? Oh, you're muted, actually.
+RAVF RAVF1: So currently I work on the different platforms. This is my second year, so I'm trying to start my own thing.
+Becca Bressler: Okay.
+RAVF RAVF1: I want to get credential, like I was saying, because we had an earlier minute. So I want to get credential under my own company. And then follow through with ehr. But I use different. Platform ehr right now.
+Becca Bressler: So that's where. Got it.
+RAVF RAVF1: 's actually joining us. Let me see. She invited me here.
+Becca Bressler: Hi. There.
+genesishealthcarecorp5: One second. Please give me one minute. Okay, I'm going to mute this. So that I can finish. Okay?
+Becca Bressler: Hi there.
+genesishealthcarecorp5: I think.
+Becca Bressler: Oh, I don't know. Can you hear us? All right.
+genesishealthcarecorp5: So how? Have you ever had any thoughts. It's muted. Have you ever had any thoughts of hurting yourself in the past? In the past two weeks, have you had any thought of putting.
+RAVF RAVF1: I don't think she realized she's not muted because of that. You are not muted or mute.
+RAVF RAVF1: Your joy, we can hear you.
+genesishealthcarecorp5: Okay? Muted. The thing. Thank you.
+RAVF RAVF1: This section will join us for teaching. Just rounding up our appointment. Okay, Becca?
+Becca Bressler: Okay. No problem. So, yeah, we'll just wait till she's wrapped up.
+RAVF RAVF1: Yeah.
+Becca Bressler: Okay, no problem. I'm going to put myself on mute so you don't actually. So you don't hear me working in the background, but yeah, I'll be here.
+genesishealthcarecorp5: I have a meeting. After this day, you tell me what was going on. So you need to do more. On your interview. Next one get more knowledge. Hi, how are you? Can you hear me?
+RAVF RAVF1: Yeah, sorry.
+Becca Bressler: It's really nice to meet you. How's it going?
+genesishealthcarecorp5: I'm fine.
+genesishealthcarecorp5: Nice meeting you. Wake up.
+Becca Bressler: So I'm the product manager. I actually think you and I may have met last year at some point but it's been a while and I hear know walking you through our EHR features so I would love to just share my screen. Let me do that.
+genesishealthcarecorp5: Is. You already go this already. Go.
+Becca Bressler: All right. Can you see my screen okay?
+RAVF RAVF1: Yes.
+Becca Bressler: Okay, great. So let me walk you through a series of our ehr features. Do you know though you may know some so I don't want to. Tell you something you already know. Are you familiar with forms, labs, documents? Follow up payment. Do any of these. Are any of these familiar to you, or do you want me to walk through each of these?
+RAVF RAVF1: She's a quick walk through. I don't mind because I don't use. You can walk us through real quick.
+Becca Bressler: Thank you. So each of these, we have capabilities where you can select a series of forms and send them to your patient. So long as you have their phone number, you can send it to their email and it will send them the forms to fill out, and then it will pull it back. Into the account. So you'll see patient documents that are filled out here, and you will see patient forms that are filled out here. So you'll. And one way you can do this is from the patient page. You can also through here, there's like, a designated form area, and so you're able to select send forms from here. So I'll pick Alfred Appleseed, and I'll pick which forms that I want to send to him, but then you. Also have a forms library where you can customize your forms. So these are some forms are public, so you can pick from Jot Psych's forms and then you can also tailor your own. So if you want to, say, get a behavioral intake form, I'm going to copy it so that I can add it to my account. If I like it as is, I'll just publish it and it'll become my own. But then we offer a different set of ways that you can customize this form to your liking. So you can add text boxes, you can add multiple choice boxes, however you want to configure. Your particular, say, like, intake form that gets sent to your client. You can do that here. And then it will add to your forms. You can preview them so you can see what this will look like to your patient. That's the forms. We also have labs so you can send lab orders for your patients. So we have, like, a set of bundles that are already put together. You can pick from individual tests and it will generate a lab PDF. Here, let me put a bundle together. And basically what it'll do is it'll pull up this PDF and you can print it, download it, or send it to your patient via email. And so you'll have a history of the forms that were sent here. But like I showed you before, from a patient, you can also send it directly from the patient page as well using this toolbar. So this is one way that you would send their labs. You can sign it and send generate PDFs to then send. Similarly with document features.
+genesishealthcarecorp5: Sorry, we did that. So if you generate the lab, they can take it to any lab. They can take you to either quest, either laco.
+Becca Bressler: Yeah.
+Becca Bressler: Yeah, it's the lab order. So they can then take it.
+genesishealthcarecorp5: They can take it to any lab?
+Becca Bressler: Yeah, they should be able to. Yeah, I don't think there would be know, obviously insurance coverage I'm sure would be, you know, a factor in what would be covered. But they should be able to take this to any lab. It's an official lab order form. So then, you know, documents is something that we have some of our users use. If they're putting together, you know, workplace accommodation form or an ESA letter for a patient. Use this document generator. Do it. So let's say, like, write an ESA letter for Alfred. And you can use this chatbot to tailor this letter however you want to. And then you can also save it as a template. You can share it. So this is how you would send it to the patient or download it. But then if you also want to save it as a template, Emotional support letter. Let's see. Save template. So then if you want to create one of those going forward, you have it saved to your template list. Payment. So you can request payment from patients. This way, if you have cash, pay patients, or if you're wanting to send charges for kind of miscellaneous paperwork, like, if you're charging for paperwork, this is one way that you might want to charge your patients. And you would just, like, set it up through Stripe, so, you know, enabling your own Stripe account to send and receive payments back. Um, but that's one of the features that we offer. Um, and also something that is especially useful is you can access any of these features from the patient's page. This is a test. Patient I have. But if you're going through your patient's note, you can send any of these things directly from that part of your workflow, too. So in case that better matches your workflow, where in your workflow, you might send some of these forms or paperworks to your patient. Uh, so we offer that as well.
+genesishealthcarecorp5: Um, those are.
+Becca Bressler: Oh, sorry. Do you have any questions before I move on? There's. There's more features I want to show you, but. But any questions about what I just showed you?
+genesishealthcarecorp5: I think that is okay.
+Becca Bressler: Okay? So then I don't know if you've explored jot audit at all. This is one of our newer features.
+genesishealthcarecorp5: Let me, Cindy. Hold on. So the that one audit every. It audits every note. Is that correct?
+RAVF RAVF1: Yeah.
+Becca Bressler: It's auditing your note against a set of rules that we've collected. Publicly available information, payer rules. We also work with clinics. To customize rules. So if you have certain payer documentations, you can make sure that the set of rules that is auditing your notes are tailored to your liking. But, yes, that's what this is. So you're able to sort of see where you where your notes need a little bit more work, and you can use these tools to fix the problems that you see. You can also change the CBT code if the suggested code is not right and these rules, it will audit. Your note against the particular CPT code that you've chosen. Um, and tell you what you missing, where action is suggested, et cetera. So that's like a really cool new feature that we've just released.
+genesishealthcarecorp5: Can you go back to that, to the audits?
+Becca Bressler: What was that?
+genesishealthcarecorp5: Can you go back? Can you read your audit?
+Becca Bressler: Yes. And then you would run audit. So just to give you an example, um. I'm going to click Fix with AI for one of these. Do you want me to add explicit? Let's see. Let's try that. Um. So this is making some changes to the note. It applied some changes based on the feedback and then what you can do to like rerun it and see how it you know what your new like audit score might be. After you make some changes to your note, you would just press run audit and then it would re audit. The note based on your updated note, basically. Um, and so if you don't have any warning flags or things that need attention, you'll just see, like, a nice green check mark that says, you know, audit complete. You've passed all of the audits, so. Yeah, so I didn't do both of these. But if you. Ideally, that's kind of what you would see if you use these to fix all of your. Yeah. To fix all of the flags that are raised. So this is. This is Job Audit, which we're really excited about as a new feature. And then we have ePrescribe also. So we have recently built out an eprescription product, if you want to see that. I just need a second to log into a different account that I have a specific demo. Account for that. If. If you're interested, I can just take a second and do that. Would that be. Would you like to see that?
+genesishealthcarecorp5: Yes. So for the prescribed, are we going to pay for a prescribed separately?
+Becca Bressler: So my understanding from your conversation with Nate is that the package you guys had talked about negotiating, if you were to, you know, decide you want to within the next day, it would include the prescription software.
+Becca Bressler: So that would not be an additional charge from the $200 a month. So let me. I'm going to stop sharing this for one second because I want to get on my other account.
+genesishealthcarecorp5: Sorry. You bet your family. Care.
+Becca Bressler: Let's see.
+genesishealthcarecorp5: Yes. Okay, so you're talking to Dr. Bola. What month are you looking to start? Okay, okay. So you can send your email to Liberty. Liberty. L, I, d e r t y f as in frank. K a r e@gmail.com. Okay? L I b e r t y f as in France ca r e@gmail.com. Okay, so I'm in a meeting. Do you get the email now? You get an email? C as in car. At gmail com.
+genesishealthcarecorp5: This is Dr. Bola b o n a. When are you supposed to submit Day? Because I do have some welding patient warding students. So when is the expected time for you to submit the form? Okay? Okay? Yeah, you send it. Then the office will let you know how much it is for the clinical. Okay? You're welcome, hon. I wish you all the best. Looking forward to talk to you. Okay. All the best. Don't worry. I went to Walton to come. I dnp, so I know, okay. I know. Okay? You're welcome. Mama. Thank you. I'm so sorry.
+Becca Bressler: No problem at all.
+genesishealthcarecorp5: For ways to get to the money.
+Becca Bressler: I'm now in a test account that is hooked up to prescribing. But so with job site. E prescribe. And the interface is changing a little bit so that we can make some improvements to the workflow. But I have a test patient here, Rowena. Basically, on the patient page, you'll see this button to prescribe, and it will open up a new window to do spot, which is our third party prescription. Platform that we are integrated with. And so from here, you can manage the patient's pharmacy. You can add prescriptions as you would. You have access to medication history for your patients and also prescribe controlled substances with Dosebot and access the PDMP through Dosebot. So you'll have to log in using your state login, but you know the link in that is available with inside Dosebot. One thing to note is that for each new patient, depending on, depending on if we offer some services around uploading patient information into our platform, if you're doing billing with us, and so then we would have your patient information, but if not to prescribe for a patient. You would select Connect for ERX after we set you up, and you would just make sure that all of the information is here. Street address, city phone number, date of birth, et cetera, and connect to the patient. And it's a one time thing per patient. And what happens once you've connected the patient is it automatically opens up that patient's profile in dose bots, so you'll be able to immediately access medication history for that patient see, you know, insurance coverage information. So it's a one time setup. And then going forward, so Rowena is a patient who's already been set up and all of the address information was put in. And so then it's as simple as just a one click prescribe. As I showed you before. So there's no double entry needed or anything like that with dose spot. And so if you're interested in that, I can also get you set up. And there's a little bit of setup there with two factor authentication and ID proofing, but typically goes, like, pretty, pretty quickly, if that's something that I'm running for setting up. What was that?
+genesishealthcarecorp5: It will be additional money for setting up.
+Becca Bressler: Oh, no. Setup is no additional cost.
+genesishealthcarecorp5: Okay?
+Becca Bressler: Yeah. So that is our E prescription. And do you have any other questions? I don't know if you've seen the calendar before, if you've worked with the calendar. Also, do you have clinicians underneath you or just your own solo practice?
+genesishealthcarecorp5: Some to have clinician.
+Becca Bressler: Okay, because one of the things related to jot audit. I know I showed you what it looks like in the note, but you also can get an overview of your practices compliance score. So my account right now is just me. So it's not, you know, it doesn't tell much of a story. But if you have multiple clinicians or even a single clinician who you want to monitor their, you know, compliance scores. You can, you know, see the set of rules that we have in our rule library and get a sense of the compliance rating for that. Or you can also go into your clinician's encounters if you want to get a better view of their compliance score for a particular note or looking at their over time progress. So this would be, you know, I can click into this is, you know, clinician Becca me. But you can see their notes here and then also just like a general overview of their compliance scores over time. An average time to submit their notes. If they're signing their notes in jot psych. Yeah.
+genesishealthcarecorp5: So can you open it to a patient's file?
+Becca Bressler: What was that?
+genesishealthcarecorp5: Let's open to a patient file.
+Becca Bressler: Yeah. A patient. So one of your. The clinicians right here? Is that what you're saying? Or you want me to go back up? Okay?
+genesishealthcarecorp5: So this is the way it would be when you start talking to patients. So you do record now? Then you are just talking, is that correct?
+Becca Bressler: Yeah. So you could start. Let's see. Hopefully this doesn't log us out from our. But then also, and this is actually. This is kind of a bug. This is not supposed to be this way because you're actually supposed to be able to prescribe from the Recorder page as well. But that's something our team is. Is looking into. But we've also. Maybe you've seen a different Recorder page. We're in the process of rolling out a different screen than the one that you're seeing here. But, yeah, right now, the best way to prescribe for the patient would be to open the patient's page in jobs like so, because the other icon.
+genesishealthcarecorp5: So it's more like a free talk. It doesn't come. Have you ever seen Icon?
+Becca Bressler: I cannot.
+Becca Bressler: Yeah, I have. I don't. I can't picture it, but I'm familiar with the service.
+genesishealthcarecorp5: I can't ask, like, okay. Like for intake. It will have a meal plan. I can say I can talk. So, for example. For intake. It will different segments. Psych history, medical history, social history. Does job sites as something like that.
+Becca Bressler: Yeah, like an intake form. Yeah, we do. Here, let me. Pull. Let me share my screen again. Yeah. So. So. And you may want to customize it to your liking, but one way to do that would be to go to forms under documentation. And look at your form library. Excuse me. So.
+Becca Bressler: I don't think we actually have a basic intake form. But what you can do is you can build a new form.
+Becca Bressler: And you can upload a document here. So if you have an intake form that you really like how it is, you like how it's laid out, the questions, the sections, you can just upload a PDF here and it will create it for you. You can talk to an AI chatbot to describe the form that you want. So, you know, help me put together an intake form. And these are the set of questions I have or the sections. It sounds like you have a form already that you like and want to use, so I might suggest the PDF upload option, but then you can also build from scratch, which is where it takes you to this view, where you can, you know, add a section.
+Becca Bressler: And let's see, if I want, like, a single, you know, choice question right here. Maybe afterwards I want a dropdown. You know, I need, like, a scale rating right here. So. So there's then the way to, like, basically customize it from scratch and then preview the form to see how it would look for your patients. Does that. Does that answer your question?
+genesishealthcarecorp5: So. So for the therapy, do you have something therapy that you choose? Okay, so another thing I have with Jot Psych is that just using their form because at times when you do intake, It seems that. It seems like it's built below what you're supposed to be building. For example, when you do intake. For us at times we do. 99204. 920. But for you guys, when you finish the notice, we put 99213, 99214.
+Becca Bressler: Oh, you're talking. So you're noticing in Jaw Audit that it's not picking up, that it's an intake? Is that what you're saying?
+genesishealthcarecorp5: Even on the intake. But even when you see patients, it doesn't pick up. Like, for example, I see a patient I've been talking for. Like, at times you may take 45, one hour, depending on this thing. So just like we just do, we just tell you patients, blah, blah, blah. The first part, maybe it will rate it 99213 after spending like 21. Then it will say psychotherapy. Which we say excludes psychotherapy, so it won't build that patient for psychotherapy.
+Becca Bressler: Got it.
+genesishealthcarecorp5: I think, like, jock psych is giving below. Even though you guys want to take all the money.
+Becca Bressler: That's really interesting. Just so I understand and can take it to my team, it sounds like what you're getting here is incorrect. The suggested codes. Yeah, that's interesting. I can let the team know because that's really useful feedback for us. One thing you might try if it's wrong is updating the code here.
+genesishealthcarecorp5: Trust me. I do this.
+Becca Bressler: Yeah, but no, that's obvious reason.
+genesishealthcarecorp5: If they know that I'm using you guys, they may want to look at what I'm using. So at times I use that.
+Becca Bressler: So which are the codes? That is it always intake appointment with psychotherapy. Add on like that particular type of appointment is the one that's being undercoated.
+genesishealthcarecorp5: Yeah, that one. And even at times, regular follow up.
+genesishealthcarecorp5: After it will just put 99213 at times put 99212. I've not been using nine to one too, but at times it will code it more like under code.
+Becca Bressler: Interesting. Do you recall when that happens? What? Some of the. Well, I guess it wouldn't explain it in the At Risk file or.
+genesishealthcarecorp5: Because I don't. Yeah, and another thing, like I told Nat this morning, Is like it's costing me some of my notes because at times it will just in the middle, it will tell me that networking or something. And there are some notes that is still trying to build together for the past two weeks. Okay, one second. I still have notes that it has not generated. That I've seen the patient for the past two weeks.
+Becca Bressler: It still looks like it's stuck in processing. Is that what you're saying?
+genesishealthcarecorp5: Yes.
+Becca Bressler: Let me take a look at something while I have.
+genesishealthcarecorp5: Another thing is that at times I'm talking, then when I look, it's not working. Even when I want to go through it. You just take me to the calendar and be giving me all those error messages.
+Becca Bressler: Can you share your.
+genesishealthcarecorp5: What did you say, Mama?
+Becca Bressler: Would you share your draw? It's like screen with me. I would love to see what you.
+genesishealthcarecorp5: Okay? Okay? O. Kay. Okay?
+Becca Bressler: So you're saying sometimes you're having issues with the recorder, is that right?
+genesishealthcarecorp5: That ends the recorder. So right now. So at times when that happened, I will be going from another, from one explorer to Google or something. Because if now you are my ehr, I can't be doing that. Because most of those signs, I feel frustrated for the day if I have to see all these patients. I mean, just not see the patient because it's getting too much. So this is a patient I just saw. So. Am I going to? I don't think I'm able to go to the patient. You're prescribing. How do I continue? Okay? So let me go to some of these patients. It's not even working. Am I not supposed to be able to click? Because it's not clicking.
+Becca Bressler: I can't tell from your.
+genesishealthcarecorp5: I'm trying to show you, but it's not even clicking.
+Becca Bressler: Are you by any chance clicking on the Google Meet and not the page?
+genesishealthcarecorp5: I'm clicking on the. Let me see. Okay? Okay? Okay, so, for example. Let me go to document. Not. Some. Because with that I'm so frustrated and at times instead of it to do new notes, it will be copying from the last one. So I have to end up thinking about. Okay. What did that patient, what did it say? There's 32.
+genesishealthcarecorp5: Let me just. Because that's what I was trying to tell Nat. Yeah, that is stuck in 27. I'm sure all these notes have not even submitted to 26. 25. Like I was telling him. I have other people that reach out to me. A1.meg assist. This is 2:19. Right. This is losing money.
+Becca Bressler: Yeah. Let me see what I can find out on my this is true.
+genesishealthcarecorp5: 12. This is losing money for me. So this is 2 14. Imagine. I have patients. I have you guys. This is 2:14. If I have you guys at EHR and this happen, that means that is it for the day. This is 2. 18 to 18, you see? This is 2:18. So it's been going on. This is 2:19. So when this happened, what do you have in place? Because I cannot be leaving My. My patient. You see how busy I am? Patient? I'll be calling you 24 hours.
+Becca Bressler: Yeah, unfortunately, we currently don't have any self serve tools to help with that particular issue and the best way is to reach out to customer support. Tell us about the time of the encounter, the day, the time zone. That would, at this point, actually just be the only way that we would be able to assist with this. But I'm looking in your account right now to see what is the email address you use with your drop psych profile.
+genesishealthcarecorp5: Liberty, healthcare. At gmail com.
+Becca Bressler: Pretty healthcare at gmail com.
+genesishealthcarecorp5: Liberty F as in Frank.
+Becca Bressler: Healthcare. Sorry. I want to make sure I'm hearing you. I put it in the chat. Is that right?
+genesishealthcarecorp5: No sk liberty. If then not else. Let me put it here for you.
+Becca Bressler: Do you mind just. Just writing it?
+genesishealthcarecorp5: I don't know where to put. Something, right? You don't know where to write me?
+Becca Bressler: On the bottom right corner, there's, like, a square with lines in it. An icon.
+genesishealthcarecorp5: Let me both see if gmail com.
+Becca Bressler: Oh, I see, I see, I see. So let me look. So what are some of the. Yeah. So I see a few notes here that I can go ahead and fix on my end. That look like they were stuck in processing. Let me go ahead and. Run this for you. In the back.
+genesishealthcarecorp5: So if there's a way, because I can't remember those patients, if there's a way a list of those patients can be sent to me so that I can.
+Becca Bressler: Because I can, I could generate these, and then I'll send you links to the note. That gets generated, if that works for you.
+genesishealthcarecorp5: Okay?
+Becca Bressler: Yeah. Whatever I'm able to see on my end and generate, I can just go ahead and do that, and then I will send you a link to each of them after this. Call. Is there anything else that I can show you with the software? I'm curious, you know, if you're interested in moving Forward with the 200amonth EHR package with prescribing and job audit or. Yeah, I'm curious if you're interested in moving forward on that.
+genesishealthcarecorp5: I don't mind moving on, but I would really like to have. What do you think? Ola. I would like to have. Maybe a test run. Because normally I can give you, like, a monthly.
+Becca Bressler: So the. The test run now would just be those features. We don't do a test run of the E Prescription. We can sign you up, and it would be.
+Becca Bressler: It would be $10 for the first month. And it's a monthly cycle, so you can cancel anytime. But there's not, like, an official test. Like, it would require you going and canceling so we could onboard you with that right now. Or actually, we could set up a time to do it. Unfortunately, I have to run, but.
+genesishealthcarecorp5: And then it's bigger.
+genesishealthcarecorp5: You Want to charge $10 to test one? You guys are not serious. That is too money. You guys are so. You guys are too money. Distance. You want to sign me on again for $10 test run? You want me to. You want me to use your product? You want to take $10 from me?
+Becca Bressler: Well, so our eprescription is typically $69.
+genesishealthcarecorp5: Oh, we don't. A prescription. No, no, no, no. I'm not saying. Okay.
+Becca Bressler: Oh, no, I'm talking about e prescription. It's $10. A month for the first month. Or, excuse me, eprescription would be. Maybe I'm misunderstanding the question.
+genesishealthcarecorp5: What of your ehr. Just to make sure that's the right thing for me.
+genesishealthcarecorp5: Yeah, Going in because I think I rather, since my notes will be in there. Copying from one place to the other. Thing is that when I see patients, I want my patient name to be reflected. In the notes. Like you put patients like an icon. When you are not the impression you say. Okay, if I'm saying Ms. Bola is crusade means Bola presents with it won't say the patient.
+Becca Bressler: Yeah, I understand what you're saying.
+genesishealthcarecorp5: Personified. I want it to be the name. You understand what I'm saying?
+Becca Bressler: I understand what you're saying. We have a feature that removes the name redaction that. I could show you how to turn it on, but I don't know if it does exactly what you're saying. It would require just probably to test it out and. And see if it meets that need.
+genesishealthcarecorp5: What was that? That's why I need a test run. I don't mind moving on, but I need a test run.
+Becca Bressler: So are you a paying user of Jot Psych already? It is. You are.
+genesishealthcarecorp5: You showed me the 150 for the past two years.
+Becca Bressler: I guess I'm a little. What exactly do you mean by test run? You actually have access to the features
+genesishealthcarecorp5: I want s to the ehr. I don't have the ahr. I'm just using it as a note taking.
+Becca Bressler: Yes. Every feature I showed you is in your job site. So you currently have access to forms, you have access to labs, you have access to. Like, everything I showed you is not a different app. It's in your job psych as well. So you could. You could, you know, test it out yourself with your current job. Site.
+Becca Bressler: The only thing you wouldn't be able to test would be eprescription. That's like a separate add on that we can set You.
+genesishealthcarecorp5: You will pay for me now, since I'm coming on. Board. Just $10. $10 a month? You can't pay $10 a month. She used to say. What's wrong with Dr. B? Alance it would be that $10. Influencer, I'm telling you.
+genesishealthcarecorp5: If you bring me, you get people.
+Becca Bressler: Truly the $10. Maybe. Maybe I make. I. Maybe I'm. Maybe you understand what I'm saying, but. But $10, it's just for the. Okay, you do got it. I worry that I maybe confused.
+genesishealthcarecorp5: You guys want to make money, I want to make money. The thing is, all the money I want to make, you guys want to take it. That's why you are doing credentialing for $1,000 per this thing. That's what they are doing. That's why they are credentialing.
+Becca Bressler: But, yeah. So I don't know if there's anything else.
+Becca Bressler: The the EHR features that I showed you, you have access to right now. So you can start using them and just like see how it goes and then let us know. The $200, I think that you were talking to Nate with would be unlimited job audit and the E Prescription platform. But aside from those two, upgrade features. Every other feature I showed you, you have access to to just play around with, see if you like it.
+Becca Bressler: See if it, you know, meets your workflow.
+genesishealthcarecorp5: So it would be. A prescription. And what? And the audit.
+Becca Bressler: And the audit? Yes. Which you.
+genesishealthcarecorp5: Why is it taking $50 from me?
+Becca Bressler: So actually, the job audit feature for unlimited for users is $69 a month, and ePrescription is $69 a month. So typically for those two add ons, actually, you're looking at a lot more than $50. I know that you and Nate were in conversation about, you know, offering like a discounted rate if you were to sign up. But yeah, typically it's actually quite a bit more than 50 for those two additional features.
+genesishealthcarecorp5: This is ehr now. So it's something like I can I don't have to use ICANN again. I'm just trying to put everything together. Exactly. Does that make sense? All that. So it's one like, it's like icann. It's like all this ehr that we're using. Like simple practice. Like it now? So I don't need to copy from one place to the other. So when I see patients, everything is just in, Is that correct?
+RAVF RAVF1: Everything in one place.
+genesishealthcarecorp5: Everything in one place. So the only thing I just need to do so 1 thank you and remember, how do you submit my. You know, after I see patients, I submit it.
+Becca Bressler: For billing.
+genesishealthcarecorp5: What? B Address?
+Becca Bressler: Yeah, I would actually need to put you in touch with a different part of my team. They could walk through and give you a demo if you want to see more about that, but that's a little bit outside my purview right now.
+genesishealthcarecorp5: Needs to be able to go in, access it. For it to be submitted. Yeah.
+Becca Bressler: Totally do. You want me to help? Set up a conversation between you and the person who's running the billing product, and he can walk you through that. Okay.
+genesishealthcarecorp5: Don't forget, I'm not doing billing with you guys. How much do you guys do your billing?
+Becca Bressler: Oh, then I misunderstanding what? I thought you were asking about doing billing. No. Then, yeah, if that's not something you're interested in, I don't need to set you up in a conversation.
+genesishealthcarecorp5: So the way it is with icon, My biller is on it. So normally, when I finish, my bidder will just go scroll everything. Can that be done?
+Becca Bressler: We have admin accounts in JOT Psych, so you can get an admin into your account. Currently, we don't charge for admin seats, so this person would not be able to write notes or edit notes. But they can view notes? They can, yeah. View patients.
+genesishealthcarecorp5: If they want to schedule patients, yeah, they can.
+Becca Bressler: Schedule this role can schedule patients.
+genesishealthcarecorp5: What if like. Sorry, not cna. If they do vital sign, they want to put it, they can do that.
+Becca Bressler: I'm sorry. I don't.
+genesishealthcarecorp5: I don't totally understand if I have nursing assistants, because I have nursing assistants. Okay. They see a patient before me. And put the patient information like vital sign. Do that.
+Becca Bressler: That would be a clinician seat. So the admins don't have the ability to edit patient information or add notes or anything like that. So that the ability so enabling someone to have the ability to update your patient's profile with sensitive patient information would be a clinician seat. At jobs like.
+genesishealthcarecorp5: Well, this is not a clinician that CPation this is just front office that puts vital sign
+Becca Bressler: because let me check up actually on that because I think the way it is now. I can actually send a quick email to my team or let me send a quick.
+genesishealthcarecorp5: Does that make sense? Because I have front office here. So you guys are the one that will be updating my patient license authorization or something, is that correct?
+Becca Bressler: Are you talking about the credentialing.
+genesishealthcarecorp5: Not credentialing. But you remember what not saying.
+genesishealthcarecorp5: About their ehr. The ehr descend. Appointment reminder.
+Becca Bressler: Yeah, we can set up appointment reminders. So, yeah, your administrator can create appointments, add patients to appointments, send appointment reminders.
+genesishealthcarecorp5: So job site can send reminder to patients. Schedule patients for follow up.
+Becca Bressler: Yes.
+RAVF RAVF1: Exactly.
+genesishealthcarecorp5: Student patients remind them. Once again. After I see them, they send notes. Like visit notes, summary to them.
+Becca Bressler: Yeah. They should be able to do that with full with full use of all the HR features.
+genesishealthcarecorp5: Is there where you can send me what ehr worth compost because I really need to move on. If I need to move on, can you send me what you guys do?
+Becca Bressler: Do you mean, like a list of the features that we have?
+genesishealthcarecorp5: Yeah, and what they do. I call this thing? I just said.
+RAVF RAVF1: Okay.
+Becca Bressler: Got it? Yeah, I can go ahead and get that for you.
+genesishealthcarecorp5: Okay?
+Becca Bressler: Great. All right, so why don't I go ahead and get that together for you? I can also send you some notes that I found that were stuck in processing, and then I could have Nate follow up with you. Does that work for you?
+genesishealthcarecorp5: Yeah. And don't forget about the front office, because for icann, we have separates. Like, when I go in, we have an account given to them, and they will be able to go in and do what they need to do.
+Becca Bressler: And can you just tell me what that front office person would be doing? They'd be scheduling appointments. And send appointment reminders. And what other things would that person need to do?
+genesishealthcarecorp5: So the front office, when patients come in, they check them in. How did they check them in? They take their vitals and enter it. Then I will go in and see the patients. Okay.
+Becca Bressler: There's not really a check in necessarily. I mean, they would have access to the calendar. They could. You know, there are notes in the calendar, so you can leave a note for someone so they could look at the calendar event and see if someone's checked in, but we don't have, like, status yet. Associated with calendar events.
+genesishealthcarecorp5: So, Andre and the information, like vital signs for patients.
+Becca Bressler: How do they. They usually, like, put that in the patient's chart is what you're saying.
+genesishealthcarecorp5: Yeah. For icon they will log in. Put vital sign.
+Becca Bressler: Okay, yeah, let me get a little bit more information about that, and then I can get back to you.
+genesishealthcarecorp5: Okay?
+Becca Bressler: Great. Okay, well, thanks so much. I'll have follow up with you as well. And yeah, we'll go from there.
+genesishealthcarecorp5: This has been a church. Sorry.
+Becca Bressler: If that's all, everything's good. Okay, great.
+genesishealthcarecorp5: We follow up with you.
+Becca Bressler: Okay, great. Take care.
+genesishealthcarecorp5: So let's not know that we'll be calling.
+Becca Bressler: What was that?
+genesishealthcarecorp5: Let's not know that. We'll be waiting for him to call.
+Becca Bressler: Okay, I'll let him know.
+genesishealthcarecorp5: Don't forget. Okay, you said everything. Then you are going to pay the $10 for me to be able to use the prescribed.
+RAVF RAVF1: No, they're not paying you. They're not paying $10.
+Becca Bressler: Well, yeah, if you want to get set up on e prescribe, we'll have to do that together. If that's something that you want to do, we'll onboard you. But. But, yeah, for now. How about I send you all the EHR information, I'll send you the notes that you're missing, and I will have Nate make sure that he.
+genesishealthcarecorp5: I remember one thing he said. He said that they can be checking the insurance to make sure for every visit, to make sure that the. Insurance is.
+Becca Bressler: We do pre authorizations as well. I'm not a part of that product, so I would need to. You know, you might need to talk to someone else on my team to get more information about that patient's insurance.
+genesishealthcarecorp5: Is. Is active. Is that correct?
+Becca Bressler: Yeah, we offer that service. Checking patient. Insurance status, etc.
+genesishealthcarecorp5: Oh, okay. So don't worry. You get me.
+RAVF RAVF1: Is that automatic, like, when they put the information into it?
+genesishealthcarecorp5: No, it should be, because that's the way it is with Etna.
+Becca Bressler: Yeah. Right now, we're in the process of building this part of the product. We are doing this for some users. I don't exactly know what the user experience of it's like, but I can set you up with someone on that team who can walk you through what that is, if you want to. Would you be interested in getting on the phone with someone today to talk through that?
+genesishealthcarecorp5: Maybe later. Because you're thinking I need to make the money so that I'll be able to pay. Yeah, because I think that is what got me when he said that, because that is part of it. A lot of patients come in. Some of them their insurance is not active and we don't know. We wouldn't have seen them 234 visits before we know that their insurance is not active. But if we have it, because like I told you, I've used a lot of ehr. Etna is one of them. Ethna check insurance before you start seeing them. Yeah. You understand? So if you guys do that, truly, you got me. And then I'm going to make Allah to come. Don't worry. I'm an influencer. I bring people in.
+Becca Bressler: Love that. Love.
+genesishealthcarecorp5: I have a lot of people that we join. You guys. You guys ought to be paying me for advertising for.
+Becca Bressler: Great. No, we really appreciate that. You know, we're trying to build more features and make sure we're meeting our users where they're at and giving them the tools that they need because we know that you're so busy, you have so many different tools that you're managing, not to mention the fights that you have to put up with insurance companies. So we're, yeah, we're happy to play a part in making.
+genesishealthcarecorp5: Just make sure it's not freezing out on me because that is going to be something. That's why I need a try out before I get off. I can.
+Becca Bressler: Okay, great. Well, yeah, those EHR features I showed you, you have access to right now. So, you know, try them out, see how they work for you. You know, pull in your intake form if you want. You know, upload it as a PDF to see what that intake form would look like in jotsyc and. Great. I'll follow up with you about.
+genesishealthcarecorp5: Because, like, I love what I can. Is there somebody can that can help me? Take something from Icon and put it in your own. That's the question.
+Becca Bressler: That would probably be an additional service. I'm not sure. We have a different team that deals with, like, uploading information from clinicians, but that.
+genesishealthcarecorp5: You see the way I put my glasses.
+Becca Bressler: But do you want me to show you again how you might get that one intake form into Jot Psych?
+Becca Bressler: Okay, I think we went over it, but let me just show you again once or twice.
+genesishealthcarecorp5: What do you think?
+Becca Bressler: I actually. I have another meeting that I'm supposed to get to, but I think we're okay here. I'll send you some information about the EHR stuff. Nate will contact you, and, yeah, we'll go from there.
+genesishealthcarecorp5: Okay. Thank you.
+Becca Bressler: Thank you.
+genesishealthcarecorp5: Thank you. Bye. Bye. What do you think? What do you think?
+RAVF RAVF1: So I've not been using other ehr, but the EHR just looks simple, straightforward. Is that how it is normally?
+genesishealthcarecorp5: Yeah. That's why it is. You just open it, you start talking, and you start taking it.
+RAVF RAVF1: Looks good. Sir.
+genesishealthcarecorp5: Like I said, if insurance is when insurance come in. They don't say that. Oh, you are using jot. Psych. Because I think I have a friend that is even trying to build one ehr for me. So I may not use it for sometimes if that person built that, I may end up using that. Because the person builds depositing build. The person build the way that you don't have to go to K to check for authorization. You can check through that. So depositing is good for it. Anything so the person is trying to.
+RAVF RAVF1: We had about Deborah before.
+genesishealthcarecorp5: I try to get into, but they were giving me coating rubbish for me.
+RAVF RAVF1: Because the Kotel 188 Commission.
+genesishealthcarecorp5: Truly. If this one is okay, I think this is good. To be sincere. 188 and 200 I think is good
+RAVF RAVF1: with but it said that the EHR is part of it. Like I know a couple of people here.
+genesishealthcarecorp5: Yeah, that's what Nafi. You meant Nafi already. That's one of you. Actually. Nafi was the one that actually was telling me to do. Temra. Because what I have is that I cannot be paying 150 for job's sake, then I can be paying Amos, that's too much.
+RAVF RAVF1: How much are you paying for Icann?
+genesishealthcarecorp5: Oh, my God. We pay almost 440.
+RAVF RAVF1: 240.
+genesishealthcarecorp5: They charge me for a prescribe. And they charge me for everybody. I feel like I need to know somebody, that I feel like I need to go back to my IT stuff and think. I'll build something.
+RAVF RAVF1: Do you know Georgette? No, Georgette, that does teaching by exam.
+genesishealthcarecorp5: No.
+RAVF RAVF1: If you're on Facebook, go and look for Georgette. Q. She loved it, right? Now she's a nurse practitioner. She makes over $40 million. She practitioner? She teaches. She does boot camp. She teaches for the exam. She said now she has all these jots, like AI Doc, scribe, documentation. She said she used to love it. Now she brought an Austin and it together and she loves to teach. In the last five years, she's made over $40 million.
+genesishealthcarecorp5: Maybe I need to go and Let me go and please send a link to me so that maybe I need to. Because I want money to make it in this country. I don't see why.
+RAVF RAVF1: I will be working $40 million.
+genesishealthcarecorp5: Just be sleeping. Get somebody to be seeing, patient.
+RAVF RAVF1: Because you manage the business. But at least you know that Pepe has rested.
+genesishealthcarecorp5: You are not stressing. See my gray hair?
+RAVF RAVF1: At what I see is black.
+genesishealthcarecorp5: See my gray hair.
+RAVF RAVF1: I cannot see. They are looking like 16 takeaway. Your skin safe. See everything fresh.
+genesishealthcarecorp5: I don't know. Now you're talking about going to.
+RAVF RAVF1: My sister. Traveling is a mental therapy.
+RAVF RAVF1: Because really, I'm making millennia.
+RAVF RAVF1: Then if you don't enjoy it. You've not heard her nest of killer. No, they are not nice when they are spending money.
+genesishealthcarecorp5: My mom used to say that women will not go in Brooklyn. And you sit down, walk, walk. And her money. Was telling me that the friend left us this morning. Left everything. Is it the father died. The uncle called she Uncle Bastard.
+RAVF RAVF1: Means her work as I think that should always be a balance. And the opinion that you should travel every four to six weeks.
+genesishealthcarecorp5: Don't worry. I'm warming up to join that.
+RAVF RAVF1: The one I want to go to now is either Singapore, Japan or anywhere you go.
+genesishealthcarecorp5: Before I join, can you be bringing something for me? Singapore maland. Ia. Send me the name to join you guys. I told my door.
+RAVF RAVF1: Okay, Not a problem. I'm trying to put. I just put Mandela license with. I want to put. My.
+genesishealthcarecorp5: Let me go back. Do you have a number to reach? Them. Do you have a number to reach them?
+RAVF RAVF1: No. You have to talk to them through that boat.
+genesishealthcarecorp5: Because I don't know why they put me at three points, Four point guinea. I don't know what their problem is. They said that they were not able to receive anything for them. Why did you. Want me shake, because I don't. Rather they pay them for me to pay.
+genesishealthcarecorp5: Because the moment they get you, they cannot get you out of the license, you understand?
+RAVF RAVF1: I need a furnishing number. But I thought I applied for this polishing over. That's what I want to do.
+genesishealthcarecorp5: What is foundation?
+RAVF RAVF1: Number in California. Molo.
+genesishealthcarecorp5: What did you say? I will go to.
+RAVF RAVF1: There's supposed to be a chat box to your right hand side.
+genesishealthcarecorp5: Okay, so kinikinko.
+RAVF RAVF1: What was your question?
+genesishealthcarecorp5: Okay? Let me go. Back. Let me repeat. Okay?
+RAVF RAVF1: You want me to share my screen?
+genesishealthcarecorp5: Yeah. Can you share with? It's not giving me any options. Just say about this. Welcome to Growth Terra for real time. Okay? Yeah. Please share your screen. Let me see. What we really need. Patient knows. Right now, they have, like, three patients.
+RAVF RAVF1: Can you see my screen?
+genesishealthcarecorp5: Yeah.
+RAVF RAVF1: So can you see this still at the right side?
+genesishealthcarecorp5: This one.
+RAVF RAVF1: The thing I clicked on just now.
+genesishealthcarecorp5: Click on it. It was giving me all this end us a message.
+RAVF RAVF1: Send them. They always call you back if you want them to call you back. If it does, this thing doesn't answer your question. The votes. They'll call you back.
+genesishealthcarecorp5: Again. Because make money.
+RAVF RAVF1: I can't make it confidently be 500,000.
+genesishealthcarecorp5: Let me do mine. It was just giving me all these.
+RAVF RAVF1: You can do that now, right?
+genesishealthcarecorp5: Let me share money so that you see what it says. So you need to unshare for me to share.
+RAVF RAVF1: Okay. Sorry.
+genesishealthcarecorp5: Okay? Share. Me. Is that me? This is me. So when I click on this, This is what is giving me.
+RAVF RAVF1: Close first close, please. Click on it again. Scroll down with this one. So it's not letting you send messages. I. Don't know. I don't know if they answered this number. Because I'm running paid. You cannot call the number.
+genesishealthcarecorp5: It's a coincidence. I don't have any incidents up. Time. Subscribe.
+RAVF RAVF1: Why? It shows message. Nico, can you just send a message?
+genesishealthcarecorp5: Where is the message? I don't see any message.
+RAVF RAVF1: No. Go and show.
+genesishealthcarecorp5: Those, shebi.
+RAVF RAVF1: Go up time. If you scroll up. We talk on growth therapy. Okay?
+genesishealthcarecorp5: See how fast. They are.
+RAVF RAVF1: Who are the?
+genesishealthcarecorp5: These are social workers.
+RAVF RAVF1: They are only looking for how to better their life.
+genesishealthcarecorp5: I'm telling you. Oh, it works. Let me see. How? Good work. Becoming provider.
+RAVF RAVF1: Contact us. Go to that contact us.
+genesishealthcarecorp5: Provider. Click here to login. Still bring me back.
+RAVF RAVF1: No, that's it. No. When you first click, click again. But it showed something. Before I show that, did you see? Only lay. Now messages.
+RAVF RAVF1: Send us a message.
+genesishealthcarecorp5: I need someone to contact me. So contact me. About?
+RAVF RAVF1: You say you have low.
+genesishealthcarecorp5: Pink. I need somebody to contact me.
+RAVF RAVF1: Shebi says, because you think they read.
+genesishealthcarecorp5: I don't want to put that.
+RAVF RAVF1: But this ticket. Patient from Growth.
+genesishealthcarecorp5: Is just those two. I don't have new patients. From them.
+RAVF RAVF1: Okay. Good day. I want to know why I'm not getting any more patients from group therapy.
+genesishealthcarecorp5: Why I do not. Patient. From group therapy. Because at the beginning. I work here by myself.
+genesishealthcarecorp5: So maybe those were the time I was dropping the ball, that you understand. Is that okay?
+RAVF RAVF1: Yeah. This is the boat. That first fan.
+genesishealthcarecorp5: Appreciate. What do you say?
+RAVF RAVF1: I said, is the boat that first answer you.
+genesishealthcarecorp5: Now someone can get in touch with me. I will go back to my listing.
+RAVF RAVF1: Too.
+genesishealthcarecorp5: Okay. All. These. Above. Are in order. To get. Patient. Please, someone reach out to me.
+RAVF RAVF1: Connecting with human legend. Ary operation before to save them. Eat lunch.
+genesishealthcarecorp5: How long have you been. That's Sister or Justin. You have. What do you have? On locks.
+RAVF RAVF1: Micro locks. Abi sister locks them in. I don't know if it's Sister Micro.
+genesishealthcarecorp5: How long have you been on the journey?
+RAVF RAVF1: June 2024. So it's going to be two years.
+genesishealthcarecorp5: Wow. Mine is May2025.
+RAVF RAVF1: It's growing.
+genesishealthcarecorp5: Abby.
+RAVF RAVF1: It's very comfortable life.
+genesishealthcarecorp5: Will you talking about money. I want to look different.
+RAVF RAVF1: Maybe sometimes. Then I go.
+genesishealthcarecorp5: But most time.
+RAVF RAVF1: I just park?
+RAVF RAVF1: Okay, Let me let you go. Let me know how it is, okay?
+RAVF RAVF1: Okay, you take. Care.
+genesishealthcarecorp5: Nice talking. Are you sure in class? What is going. On. Because it seems you I taught Christian came to clinical, no. I thought he came into clinical. So why did he come in? You sent some paper from Christian this morning. You sent some paper from Christ. Yeah. That's what he came to say, Yes. I have to. I just signed the paper. I don't know if I'm signing in my bank account. Miss mila. Quick injection. This is home. Okay? Nice to have you. Two. Formulation. 3:59. Big one. Charlie 3, translate. Four times. God, family. Rounds. Five and a half. Turn on. 39. Taking everything away. It's those people that are so. Me, too. I need to find a way. This one that AI doing all this thing with. They don't leave.

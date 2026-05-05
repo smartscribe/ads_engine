@@ -1,0 +1,189 @@
+Adam Harrison: All right, so this is the white one, right?
+janete Cardenas: Oh, it looks like you just shared a few minutes.
+Adam Harrison: A few more, too.
+janete Cardenas: She.
+Adam Harrison: Am I in the right spot here, Janet?
+janete Cardenas: I'm sorry.
+Adam Harrison: Oh, am I. Can you see my screen?
+janete Cardenas: Yes.
+Adam Harrison: Okay. Were there other documents too? It looks like you're sharing a few more things.
+janete Cardenas: Okay. The only thing that you're not going to have right here is the.
+janete Cardenas: The documentation that you're requesting right now that we are working on it. But this one, the codes and everything that you asked me for. The billing. If you go to the tabs, do you see the tabs? All of them?
+Adam Harrison: Yeah. Yeah.
+janete Cardenas: I just wanted to go through each of these tabs.
+Adam Harrison: Yep. So can we. Oh, this is perfect. So, yeah, Requested access. I saw you shared that.
+janete Cardenas: I did.
+janete Cardenas: I just shared that with you.
+Adam Harrison: Yeah. So can you just kind of explain to me this daily medical billing task list, is this what the billing team is doing day to day?
+janete Cardenas: Yes. Yes.
+Adam Harrison: Okay. And this is sort of the order that they go through their day.
+janete Cardenas: All right. Okay.
+Adam Harrison: And you have. There's two people, or maybe there are more, but I think it was two billers on. On your team.
+janete Cardenas: Two billers? Yes.
+Adam Harrison: Okay, so. And do they. Does one of them view like new claims and one of them do follow ups or do they both do everything?
+janete Cardenas: They both do the same thing.
+Adam Harrison: They both do the same. Okay, so it's just divided. How do you divide up the work between them?
+janete Cardenas: It's like we send 80 claims each one. 80 claims in the morning, and then in the afternoon they're gonna start doing like posting or. Or look for denials or called insurance.
+Adam Harrison: Gotcha. Okay, that makes sense. And then these two documents. I saw you also put here. These seem to be Florida. I think it was Medicaid documents.
+janete Cardenas: Florida Medicaid. Remember on the meeting we were talking about the guidelines that we need to follow? Yeah. Okay.
+Adam Harrison: And just, just how do, how do you use these two documents for your billing?
+janete Cardenas: I just make sure that everything that they require, that I can see it on the notes, on the progress notes, like telehealth. When they want. When the patient is seeing telehealth, they would like to see in the progress note that telehealth works in the bathroom, in the kitchen alone. So the provider needs to address that. Very well.
+Adam Harrison: Gotcha. And are you talking about the fee schedule, Doc here,
+janete Cardenas: I just sent you that one. Because Medicaid, they always have the same fee schedule.
+Adam Harrison: Okay.
+janete Cardenas: That's the schedule that we use.
+Adam Harrison: Okay. And then. But for the requirements, you're really talking about this one.
+janete Cardenas: Correct. You know, if you guys. I told you that the other handbook, the Medicaid handbook, so you just want to read it. That's the requirements.
+Adam Harrison: Perfect. Thank you. We will do that for sure. I think that's very clear on this tab on document tracking. So this is sort of an example of you or your team giving requests back to clinicians to make fixes to notes. So it looks like most of them were things like the chief complaint, maybe some. The note being incomplete or missing some information. How many of these typically do you have in a given given day?
+Adam Harrison: I'm sorry, how many requests are you typically sending per day or per week?
+janete Cardenas: How many per dates? Well, maybe you have. Right there is. Stay open. 11. No, no, on your left. This one. It's. Let me see, day of service. Is this one day open. You see 11, November 6th. They put how many over there? Look.
+Adam Harrison: Yep, all of them.
+janete Cardenas: That's a lot.
+Adam Harrison: Yeah.
+janete Cardenas: So it's a lot.
+Adam Harrison: Yes, it's a lot. Okay. And you send this every day, something like this with the new. Whatever that day's needs are.
+janete Cardenas: Yes, yes.
+Adam Harrison: Got you. That makes sense. Perfect. And do folks normally fix things when you ask them, or does it normally take a little extra time?
+Adam Harrison: I'm sorry, do people normally get back to you quickly? The providers, will they actually meet the. This due date you have here or does it take longer? Usually?
+janete Cardenas: Okay, let me explain that spreadsheet right there. We just, we have one person that is the one who's going to contact the providers. So for example, we add those three or four claims that they need to fix right away. They just go into Slack channel that we have that she have with them and let it. And let them know, hey, I need this node, I need this. So she explained everything to them through Slack and, and we, we. She always told them we have like before tomorrow, you need to fix that. I need that to fix as soon as possible. You know, we all, we always give them at a time. A due date. Yes, a due date. You need to give them a due day. If not, you know it's gonna take forever.
+Adam Harrison: Who knows?
+janete Cardenas: Yeah, yeah, we all have priority. So you know, that's why you always need to give them a due date.
+Adam Harrison: Okay, I did have a question on this page. Is this just all of the different payers that you are network with? Is that how I should read this?
+janete Cardenas: Correct. It's the all insurance. Okay, this one for example, it's. We're talking about egoness. The site that we. This one you're gonna be at egoness. You're gonna have the address, the tax id, the mpi. I like to have everything, you know, all the information together. Taxonomy, Medicaid and Medicare number. In this side we're gonna have the no doll with his MPI taxonomy and the Medicare. I didn't put that Medicare. And this one right here, the B. It's all the insurance that we have. Okay. Right here it's like the cleaning house that they go, you know, ability. You're gonna go for Igna in a better health Humana, HMO Molina and Floria Blue. Then we have another cleaning house for behavioral health. Catalan that it goes Care plus, Humana, Medicaid. So simply Healthcare, Healthson and right here, Sunshine is another portal. Those are the one, the login that I give you access.
+Adam Harrison: Okay, and these are all. You're all credentialed with all these?
+janete Cardenas: Yes, correct.
+Adam Harrison: It's all, it's all a network. So Torret. Okay, that makes sense.
+janete Cardenas: And then this one is going to change because I believe that the Magellan is not going to be in charge of behavioral health anymore. So we're working in that one. We're trying to find out where they moving. Doctors and devoted. But you can find those on ability as well. Okay.
+Adam Harrison: Oh, that's. Yep. That makes sense.
+Adam Harrison: Okay, and then this one.
+Adam Harrison: This is for eligibility. Is that right?
+janete Cardenas: Yes. This one I give you right here. You're going to have the cleaning house ability. Egna. These are the plants that we take here just for mdr, just for the codes, you know. This is the website, and you have the. I think the. Okay, it's right here. The username and the password for every portal you're gonna go down and you're gonna see the. The down. Yes. Okay.
+Adam Harrison: Yeah. So one question here. So these are the. These are the plans you're in network with because. Right. That's how I should read it.
+janete Cardenas: Yes.
+Adam Harrison: Okay. There's sometimes, like, just because you're in network with Florida Blue, there may be certain, for example, HMO plans that are not in network for you guys. Right, Right. I don't see any of those here. But that always could be the case. Right. If they don't have a plan, that's something here. They may be out of network. Even if it's, you know, United States.
+janete Cardenas: Yes, that's correct. For example, we used to have Floria Blue with, like, three plants. And at the beginning, we didn't have the MyBlue. This one. And like, two years. Two years ago, we started doing credentialing for MyBlue. So.
+Adam Harrison: Yes. Okay. So when your front desk does eligibility checks, do they have to come into this document and look at the specific plan to make sure it's in network?
+janete Cardenas: They do have something like that. This one. I prepared this spreadsheet for you guys. They do have a binder in the front desk, and they have, like, a spreadsheet like this one.
+Adam Harrison: Okay. Okay.
+janete Cardenas: And when I do, when they get trained, we let us. We'll let them know which insurance we are in network.
+Adam Harrison: Gotcha. Okay, thank you. That makes sense. I did try out these usernames and passwords. This one did work. But for all the other ones, it's. It's either doesn't let me log in, or it makes, you know, it will send you like a. And you probably got a text, you know, requesting, like, pass code.
+janete Cardenas: Some of them, they're gonna ask you for a code. So I don't know if. For those I have to talk with George. For those that is asking you the. The code. I don't know if I can make it a username for you guys, because every time that, you know, if you want to work. In different hours. And they ask you for a code. You need to go to the email. To our email to go and get the code. Because they. They go there. It goes there.
+Adam Harrison: Yeah. So the only one. So this one didn't ask for one. So this one works fine. But all the rest of them, I was having trouble getting logged into.
+janete Cardenas: Sunshine.
+janete Cardenas: No, they don't ask you. It's only signal.
+Adam Harrison: Which one? Sunshine Hill. I know.
+janete Cardenas: Sunshine Health.
+Adam Harrison: This one. So what? I didn't see the username.
+janete Cardenas: Yes, it's. Yes, it's right here. Auto Machine, Sunshine Health. It's Stay well, Sunshine and Better. That one they don't ask you for. It's in 64. Yeah, you right there. You don't have on. I. Okay.
+Adam Harrison: Yeah. I think United was also missing. There are a few of them actually that were missing. I know why.
+janete Cardenas: Because I had all of them. Okay, I will fix that. Okay. I will give you their username and they'll the password for Sunshine.
+Adam Harrison: Okay. Do you have for the other ones too?
+janete Cardenas: Sunshine is Mayella. That's the one that I told you that they're gonna move from. We don't know where. So you can see all those claims and ability.
+Adam Harrison: Okay.
+janete Cardenas: For doctors are devoted. So you can use the same account.
+Adam Harrison: Okay. How about for United?
+janete Cardenas: United.
+Adam Harrison: This one.
+janete Cardenas: Oh, United. Yeah. So it's missing. United. And that's another one that is going to ask you for a code for a verification. I don't know why.
+Adam Harrison: Yeah, it's. It's annoying, right?
+janete Cardenas: Yes.
+Adam Harrison: Well, I think it might be best if we just can get up on our own accounts. Just so you don't have to do code. So maybe that would just be like the easiest path and maybe just to start, because I know there's a lot here, maybe we just focus on some of the bigger ones. Availability covers a lot of your different plans. So we already have that set up. So maybe I know United is. Pretty big for you. I think Optim was pretty big. Maybe just Caron too.
+Adam Harrison: Carol, you need to have.
+janete Cardenas: Yes. You don't have come because they're going to ask you for a code every time that you go.
+Adam Harrison: Yeah, but some of the smaller ones where you don't have as many patients, I think maybe okay to like deprioritize those for now, but we want to make sure we get kind of the big, the big ones where you have like a lot of volume.
+janete Cardenas: Okay, let me, let me ask you if I to the user account, did I use this one, this email?
+Adam Harrison: Yeah, you can use the same one. The same one.
+janete Cardenas: Okay.
+Adam Harrison: Yeah, this is the same one. Keep it really simple. That would be best if possible.
+janete Cardenas: Okay, so we mentioned the United Sun, China, Catalon.
+Adam Harrison: Okay, maybe, maybe Optum too, because I think they're united.
+janete Cardenas: Yeah, it's the same one. It's the same one. Provider. Provider Express.
+Adam Harrison: Yep, perfect.
+janete Cardenas: Sorry, I just.
+Adam Harrison: Okay, all right, what else? I'll keep, keep going here. Yeah, I wanted to understand more about this CPT code. You know, I know these are like different codes and insurance and you also have the providers across the top. So. Yeah, help me understand. You mind just walking me through what, how to kind of read this?
+janete Cardenas: This is a spreadsheet that we use for training. For example, not of the all of the insurance use the same player server. For telehealth some of them use 02 but most of them use 10. Right now they're always changing. So the modifier some of them use 95 and another ones use GT. So that's why I just explained right here which CPD code is for 95 and the player service 10 with insurance in Florida blue. You see Florida blue Telehealth they use CO2 and they do not want modifier. So right here is like the guidelines for every insurance and the codes that we need to use for initials if we have a complex. This is for training purpose.
+Adam Harrison: Okay, so these are if I go to maybe column G, you know, you have two different codes that you would use for initial depending on the complexity.
+janete Cardenas: And then.
+Adam Harrison: Yeah, and then for follow up you're using either 99213, 99214, you know, medium or low complexity. I. Right. And then you also have the 90833 first you do the psychotherapy add on. And this is, these are pretty much like the only codes you would, you would use, right? You wouldn't ever do like a longer psychotherapy session or you don't really go above like a moderate complexity. Is, is that, is that, is that right? Is that, am I reading this correctly?
+janete Cardenas: Yes. What do you mean with moderity 99215?
+Adam Harrison: Yeah, exactly.
+janete Cardenas: Not really. You know, you, you need to look at the. No, not really. These patients comes monthly, almost all of them monthly. So we shouldn't build, we shouldn't have to build 99215. We should have those, those patients is stable.
+Adam Harrison: Okay. Know what I mean?
+janete Cardenas: Yeah. Yep.
+Adam Harrison: And then the 90833, that's, I think that's the 16 to 37 minute one.
+janete Cardenas: Yes, it's the Adam code. We use it as a brief psychotherapy. Some of those patients that comes to psychiatry, they talk a lot. You know, they just talk a lot and, and sometimes they just give them 40 minutes.
+janete Cardenas: So we need to read the, the, the note because sometimes they just give them 20 for the sessions and 20 more for the breath psychotherapy.
+janete Cardenas: Okay, in that case, in that case, me, Jeanette, me, I would only build Instead of building 99213 plus 90832, maybe it's like 20 minute brief psychotherapy. I will do 99214. A 40 minute session. Done.
+Adam Harrison: Okay.
+janete Cardenas: Yeah, you know, Understood.
+Adam Harrison: Understood. And then I think I made a copy of this by accident. So that's what this tab is. So. But this is all very clear. So thank you. I wanted to maybe, I think those all my questions, so that's really helpful. Wanted to maybe just come back to the kind of the broader data tracker I've put together here. So. Can you see my screen right there?
+janete Cardenas: Yes.
+Adam Harrison: Yeah. So availability. That's done. That's completed. There are the other portals, I think, you know, maybe Janet if, you know, you can help set up like new accounts for those.
+janete Cardenas: Yes, I'm going to work with that right now and I'm going to send it to you.
+Adam Harrison: Okay. The collab md, that's done. We are, you know, we've already been working on some analysis for Jorge on that data and advanced md. That one we're still waiting on. So what if you could use the same email we could, you can. We can just use the same email for all of them.
+janete Cardenas: You don't have advance?
+Adam Harrison: No, we don't have advanced yet. Unless I missed an email, but I don't think so.
+janete Cardenas: Just let me. Okay, Let me go to that. It's vulgar. Let me go there. Just give me a second.
+Adam Harrison: Now. Take your time.
+janete Cardenas: Oh, a bench. Okay. Okay, I got it. Sure. Okay. It looks like I'm the only one into this. Purchase it.
+Adam Harrison: I know. I'm sorry.
+Adam Harrison: You have to do everything, Janet. I'm sorry. You have a lot on your plate.
+janete Cardenas: Yeah, it's okay. I like it.
+Adam Harrison: I love it.
+janete Cardenas: And I'm so glad that you guys are working with us. I'm very glad. We like to learn.
+Adam Harrison: Hopefully we can just take some work off your plate, make things easier. We're very excited, too.
+janete Cardenas: I'm going to work with that today in advance. I'm going to give you the login. I'm going to send you the login and everything.
+Adam Harrison: Awesome. The only other things, Janet, probably the most important one, and this is actually one that I had Ebony's name for, but I wasn't sure who was actually like, I know Ebony was working on it, but I don't know if it was you or Jorge who was gonna like send it, but it was all the payer documents. So all the contracts, the fee schedules for each of the different payers. And that's probably actually like the most important thing on this list just so we can actually start training our system based on, you know, your specific contract rules.
+janete Cardenas: I spoke with Ebony in the morning. I just gonna be working on those folders. You know, she have everything that place. Yeah. So I didn't know. So I was like, I just made two folders and I told her to work on that before today. I'm going to be reviewing those documentation folders because I'm not going to send you anything that it's not going to be something that you guys going to keep working on that I'm going to review those documentations and I will send you to you as well. As I got it. I hope so.
+Adam Harrison: Okay. All right. Thank you, Jen. I really. Yeah, I know it's a lot, so I really appreciate.
+janete Cardenas: No, no, it's okay. So it's just for you to know that I. I work with Ebony today in the morning does on contracts and fee schedule. So I should have it today in the afternoon. I hope so.
+Adam Harrison: Okay, I'm just gonna put that in progress. I know you shared a lot of docs already for like, you know, like the billing guidance and you know, the sort of eligibility aids with, you know, what the front desk would use. Is there anything else that would be used for like a new clinician onboarding or training that you think we're missing at this point or do we have most of it?
+janete Cardenas: I think that you have, you know, or you old. I don't know. What else do you need? You know, I don't know if there's like.
+Adam Harrison: When a new clinician would start, if there's like any kind of document or training or even like a video that you share with them.
+Adam Harrison: Yes, we do a training session.
+janete Cardenas: Yeah, we have video training. Like right now we're making one for job site and we have one for advanced. And I just, you know, we just sit down with them and let. With the Florida Medicaid handbook, you know, it's like 40, 24 to 48 hours. How to document the notes, the sessions number, remember, you know, so this is about psychotherapy. So it's. That's it. We don't do anything else within, you know, in training purpose.
+Adam Harrison: Okay. And so do you have like, do you have like videos of that saved somewhere that we could take a look at or should we just look at like the player documents that you're already preparing?
+janete Cardenas: You want to advance video or collab videos?
+Adam Harrison: Yeah, exactly.
+janete Cardenas: Okay, do you want collab for billing or. Well, for billing.
+Adam Harrison: No, that's what you need. Yeah, exactly. Unless. Yeah, whatever you have is great.
+janete Cardenas: Well, remember, I have billing, medical records. I have videos for every department.
+Adam Harrison: I mean, yeah, billing would be helpful, medical records would be helpful. And then anything specific to like any payers would be helpful. But those are probably the main ones. There.
+janete Cardenas: It. Let me see if I can share this with you. I'm going to send you the link through a slack. Okay.
+Adam Harrison: Okay.
+janete Cardenas: Let me see if you can see if we can open this one. I'm gonna be sending you more videos like that one. I'm gonna see if I can. Maybe you can go inside and we have more. I'm gonna try to see how I can add you to the company right here. So you're allowed to see everything that we have from this. We use insurance, but I don't want to do it right now. Okay.
+Adam Harrison: Oh, yeah, that would be easier, so. You know, if there's a way to just add us so you don't have to send them one by one, we can kind of go through our subs. That, that works too. That may save. Yeah, anything we can do to save you time, Janet. That's, that's definitely our goal.
+janete Cardenas: I'm gonna see how I can add you right here. I have 10 videos from Collab and different events as well, so. But I have to see how I can share this one. Just I invite. Yes, I know. Okay, so I use the same email that you. Let me see. What is the email? Billing. Billing something.
+Adam Harrison: Yeah, billing plus Valcort.
+Adam Harrison: I can put it in the chat here.
+janete Cardenas: Okay, I did. I did.
+Adam Harrison: Okay, perfect. So I will take a look at those videos in the loom.
+janete Cardenas: If something is missing, just let me know. And I do have more videos on my drive. Okay. I, I, I have a lot of more than that one that I have right there.
+Adam Harrison: I'll try, I'll hopefully everything's there, but I'll let you know. Thanks, guys.
+janete Cardenas: Okay, I can hear you.
+Adam Harrison: Sorry. The only last thing was if you have something to track appeals that you're doing like a similar spreadsheet to what you do for docs,
+janete Cardenas: Appeals, appeals go through the portal. You can do it through the portal right now because most of the before remember that I am an old builder, so before we were doing it on paper. But right now they do it through the portals.
+Adam Harrison: Okay, so you don't have like a Google sheet, that is you track where things are. You do it all within. You all do it all within. Collabormd. Basically everything is there or the portals, rather.
+janete Cardenas: No, no, no, no. I do have the spreadsheet that I even track billing or the billers. I have the issues, the denials. Why they have the denials? Because I have to. If they have a lot of denials just because billing mistakes, I need to talk with them, you know, to retrain and say, yes, I do have that information. It's like a normal expression, the one that I just send you with appeal, this chart number. Appeal for what do they. To do a follow up? You know, it's just.
+Adam Harrison: Okay, would that be. Would you be able to share that just very simple spreadsheet with us? Because we'd love to know, like, what are the common reasons that, you know, the common things that are coming up that builds up all that.
+janete Cardenas: Okay, I will. That's the. The spreadsheet that we work every day. Okay. That they have to add every issues there. Just. I have to see everything. It's gonna be the first time that I'm not going to be in charge of billing. So I want you to understand that. So.
+janete Cardenas: B, C, B, C.
+Adam Harrison: Of course, of course, of course. Yes. Thank you, Janet. Thank you. So I know this is a lot, you know, of like, different items here. Is it helpful if I send over, like, kind of a summary of what.
+Adam Harrison: What each of the things were? Or do you have. Do you feel like you got it, like, well written down? I might just do it anyway because it's helpful for me to keep track too.
+janete Cardenas: Okay, yes, me too. But, you know, send it to me.
+Adam Harrison: Yes.
+janete Cardenas: No, no. Okay. Yeah.
+Adam Harrison: Okay. I could tell. I totally could tell. Yeah, I like, I like to hear that. Yeah, that's great. So I'll just send it in Slack, if that works. So what I'll do is I'll send in Slack, kind of, you know, just listed out the different documents, and then I'll also link. I'll send a link to this as well, which, you know, has kind of a summary. I need to update this, but yeah, we can just kind of go from there.
+janete Cardenas: Okay. If you. I'm gonna work tomorrow, so if you can give me, you know, I'm going to start working on the contract today because I want to make sure that everything, you know, is good on your. Maybe. I don't know if I'm gonna finish today or. We'll give it to you tomorrow. Okay, so give me until tomorrow, please.
+Adam Harrison: Take. Yeah, totally understand. Take your time. I know it's a lot of work, so thank you for everything you're doing here.
+janete Cardenas: Thank you. Thank you, guys. You're taking my baby. You're taking my baby?
+Adam Harrison: You can. You can. You can still do it. If you watch it, we can all, you know, do billing together, and it'll be. It'll be fun, so.
+janete Cardenas: I know, I know. We're growing up, and we need to, like George said, delegate.
+Adam Harrison: Yeah.
+janete Cardenas: Not building. Not building. Well, yeah, building, building. I like you guys. So, yeah, we're very excited.
+Adam Harrison: So thank you, Janet.
+janete Cardenas: Thank you.
+Adam Harrison: All right. Have a great weekend.
+janete Cardenas: I'll be in touch.
+Adam Harrison: All right.
+janete Cardenas: Bye. Thank you. Bye.

@@ -1,0 +1,28 @@
+{
+  "path": "accounts/6258528322/containers/200880687/workspaces/24/triggers/65",
+  "accountId": "6258528322",
+  "containerId": "200880687",
+  "workspaceId": "24",
+  "triggerId": "65",
+  "name": "CompleteRegistration Event",
+  "type": "customEvent",
+  "customEventFilter": [
+    {
+      "type": "equals",
+      "parameter": [
+        {
+          "type": "template",
+          "key": "arg0",
+          "value": "{{_event}}"
+        },
+        {
+          "type": "template",
+          "key": "arg1",
+          "value": "CompleteRegistration"
+        }
+      ]
+    }
+  ],
+  "fingerprint": "1777925929729",
+  "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6258528322/containers/200880687/workspaces/24/triggers/65?apiLink=trigger"
+}

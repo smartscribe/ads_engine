@@ -1,0 +1,155 @@
+Becca Bressler: Hey.
+Marcus Irven: Hello.
+Becca Bressler: You can do the off camera mute thing after intros if you want. I know you kind of hoped to last time.
+Marcus Irven: Okay, well, I ended up being a little more active than I know if.
+Becca Bressler: Yeah. Hopefully we learned some things that I can then help out with this time, but maybe not.
+Marcus Irven: Either way, I'm here to here to help pull up all of the fun apps that we have. Do you know this person?
+Becca Bressler: Yes, I've talked to her multiple times. Let me actually get her org info really quickly.
+Marcus Irven: Yeah, go ahead and get her the statistic. Save a few.
+Becca Bressler: Yeah. Alrighty.org ID RX. I think I'm not doing this the way that I should, which is the override. I created an organization ID.
+Marcus Irven: Rule. Yeah, that's. I added the other person there as well.
+Becca Bressler: Oh, weird. It's not letting me, like, save it. Oh, it's already in here. I already added her. Okay. That's why. Let me text her. It. While we're waiting, do you want to chat about the.
+Marcus Irven: I wanted to chat. Yeah, we could chat about that, but I also wanted to just chat about, like, next Sprint a little bit.
+Marcus Irven: Yeah, Let's see. Yeah. I think we kind of figured out the plan for transcriptions. I have started in kind of one of my threads, doing some of the backend work to support it. I don't think it's tons of work. It just, you know, work. I think the front end will be pretty straightforward. It'll just be. But there's probably a little UX to figure out. There's like some delete button, and then once you delete the button, you can't regenerate notes. I think that's the only. I think we just decided that's the only thing that you can't do. But there might be some stuff with John Audit or something, too, like, I don't know, like, anything that sort of, like reruns. I think that the AI editor will still work. It does access. Yeah, it looks to me like it doesn't use the transcript, even though it does have access to it.
+Becca Bressler: Okay. Did you guys talk about a timeline, though? Like, are you. Are you getting it done this week or next year?
+Marcus Irven: Like, I was gonna try to do it on the side and see how I can.
+Marcus Irven: Okay, we do probably like. I also got pulled into this appointment stuff this week, which is taking a lot of my time.
+Becca Bressler: Delete the Lee stuff.
+Marcus Irven: It's related. It's the ability to have orphaned appointments essentially. So right now all of our appointments are tied to the user id. The problem right now is we did. We built this before we really had organizations properly. So they're not tied to organizations at all. So that's what I'm. I think I've pretty much had that done now where now all of our appointments are tied to both. And then the next step is then to make it so that the user ID is optional so that we can have like unassigned appointments. That was the. That was the ultimate ask.
+Becca Bressler: If it's unassigned, where would someone view it?
+Marcus Irven: Like theoretically. Yeah, like a practice admin would have a way to. To, to see those. Also the practice admin would have a way to see other people's calendars too. That's sort of like, kind of related to this.
+Becca Bressler: I see like creating an orphan version of. Right. Creating the. Yeah, I see what you're saying.
+Marcus Irven: Yeah. So, yeah, I know I ended up spending a bunch of time on this. Maybe I spent more time than I should have. I don't know. But it does feel like stuff that needed to happen.
+Becca Bressler: But yeah, I am kind of thinking about this like three tier rollout thing. Like we haven't tested it at all. And I feel like we uncovered a lot of stuff just with John Audit.
+Marcus Irven: Yeah, we're testing on this afternoon, right?
+Becca Bressler: Yeah, yeah. But you know, we'll. We'll do like the fur. We'll. We'll surface a collection and then, you know, break and come back. But I am just concerned about. I mean that's one thing to discuss as far as like, you know, it. It seems like at this point that'll spill over into next week for sure.
+Marcus Irven: Is the three tier stuff. I don't. I mean, I hope not, but maybe, you know, I guess so you think we could all the.
+Becca Bressler: I'm just a little concerned with Alfred's time if he is really in the stability world. But.
+Marcus Irven: Well, let's see what we uncover. I'm hoping that it's small stuff.
+Marcus Irven: Okay, I can do it. Or you could just be a little bit. He does on the extra on the side.
+Becca Bressler: But.
+Marcus Irven: Okay. I mean, we. It's not. It shouldn't be. Maybe I'm just not thinking it through, but like it shouldn't be major stuff. We've pretty much tested all of the bundle stuff. It's really just the. I. Yeah, I mean, I don't think there's gonna be major stuff.
+Becca Bressler: Okay.
+Becca Bressler: Like, we unearthed a lot of it through our other testing already.
+Marcus Irven: Yeah, I think so. We'll see what we find, and then we'll go from there. But I'm hopeful that we could get it rolled out this week. I did kind of promise Chris that we could. Turn it on for one org today.
+Marcus Irven: There's an org that he had promised $99 and the trial ends tomorrow. And so I'd rather them do it through this route than to do it in a hacky sort of way that he would. It would do through stripe on the existing route. So. But that's okay. Like, I think that if there are any problems, it's going to be more on like the transition, like the purchasing of it. You know, I think that, you know, I'm pretty confident that the, you know, the entitlement. Oh, you know, that's the thing. We haven't really talked to the entitlement side of things.
+Becca Bressler: What does that mean?
+Marcus Irven: The, like, the blocking of the, like the nodes, the counting. Right.
+Becca Bressler: Yes. Oh, that. Yeah. Right.
+Marcus Irven: Like templates actually seem something confusing.
+Becca Bressler: Like if you can create unlimited while you're trialing, but then you are on a low tier, like just like the experience of not being able to create new templates. But if you delete templates, like. Like.
+Marcus Irven: Yeah, I'm not super worried about some of that, but maybe. But, but yeah, we haven't tested some of that, so. Yeah, we got it. We have to test. I wasn't even thinking about that, like the quota stuff, but it's okay. Like I was thinking more about just like those people get the right stripe products and are they connected and.
+Becca Bressler: Yeah.
+Marcus Irven: But I feel pretty good about all that. So just. Yeah, there could be some of the usage tracking stuff that might be a little bit weird, but I'm also like thinking we find those things are going to be quick fixes.
+Becca Bressler: Okay, cool. Give me one second. I just need it. One second. Yeah, I need to. For. For next part. I need to review the document Nate sent based on our like two by two conversation. To see what's like really new versus a continuation of the. The rollout stuff. We're doing jaw audit improvements. Like was jaw.
+Marcus Irven: Yeah, that's what I'd like to spend some time with you just kind of starting to think through because it's already Wednesday.
+Becca Bressler: Yeah.
+Marcus Irven: So what is on the docket for next Sprint? So maybe we can just do like a rough pass at it. Are we being stood up?
+Becca Bressler: We might be. Let me look at my text. Yeah, she didn't respond. She like really wants this. She emails us about it. Maybe she's just an appointment that's going along. It. Should we just transition over into talking a little bit about. I'm just a little concerned about time. So I have Dean and then we're testing, and then I'm going to. I have to go. I'm going to this Lake Health Tech event thing, which seems kind of maybe interesting. I don't know. With 11 labs. So. To learn about some of their stuff. So I have to run, like, earlier than usual. So. So if. If we don't get through it all today, maybe we could, like, get on a call tomorrow morning to finish hammering it out.
+Marcus Irven: Yeah, I think that's fine. And Alfred and I can keep going if we need to. What is tomorrow Thursday?
+Becca Bressler: Yeah.
+Marcus Irven: Perfect.
+Becca Bressler: But I was just pulling. This up. I was just pulling it up and looking through it. Honestly, based on what's on here, if this is strictly for the next two weeks. Feels so like the rollout and.
+Marcus Irven: Yeah. So I think John Rx is probably like a few days of polish that we want to do now. Yeah.
+Becca Bressler: But not a.
+Marcus Irven: Not much more than that. Maybe the medication. I don't know if that's still something we want to do next spring or if it's waiting. Wait and see. But that's. Those are the things there. Phone uniqueness. I already did this transcription deletion.
+Becca Bressler: You guys are.
+Marcus Irven: Yeah, I can see this.
+Marcus Irven: You have to do this with the quick cat thing. Yeah. I just want to do it right. I don't. I just want to jump straight to the doing it right. It's not that. Not that hard job audit user research phase.
+Becca Bressler: I think that. So I'm lining up calls this week. I have feeling there's gonna be pretty. I would. I wouldn't prioritize a lot of job audit work, if I'm being honest, like people are. I don't know. We'll see what people say when I get them on the phone. But I've already had a couple conversations and nothing super glaring is coming up that I think we should prioritize over rolling out. The other things we're working on.
+Marcus Irven: Okay, so that's mostly John user research. This is your work, not the engineering team.
+Becca Bressler: Well, one of the things that I'm a little bit confused by with this document is like what we were talking about for this week versus next week. I'm trying to wrap up research for it this week so that we can and get the data scientists involved for next so. But I can't imagine there's going to be more than like a day of like polish on some of the stuff that we uncover. But that's. I don't know, maybe I'm too optimistic before I talk to people but based on who I've already talked to anyway, sorry, this already taken care of because I'm not going to do it really beyond until we have like a tier bundle thing to promote altogether. Oh, this.
+Marcus Irven: Yeah. So this I think, yeah, this, this is one of those things that I just keep trying to get back to and things keep popping in front of it, but we should prioritize it.
+Becca Bressler: What I'm wondering about is if Alfred's note stability work would pour into next week. It sounds like he's just uncovering like a lot of stuff and he can make some improvements, but not all improvements. And so it's a question of like do we want him to continue working on it or not.
+Becca Bressler: Yeah, I kind of would like him to honestly.
+Marcus Irven: I would too. Yeah, let's do. Let's do this. Let's. I'm going to create a spreadsheet. Can we. Can we scroll back up to the top and let's just like list them.
+Marcus Irven: Yeah, I'll share my screen too. Just going to list projects here. Chatrx. Scroll down.
+Becca Bressler: Okay.
+Marcus Irven: Well we don't do. Right phone system. Oh no. Now you made mine big. I can't see. Oh wait, mine. Okay.
+Becca Bressler: Transcript Deletion.
+Marcus Irven: Okay, thanks. For some reason I'm just seeing my own transcription deletion. Yeah, sounds good.
+Becca Bressler: Jaw audit Updates.
+Marcus Irven: Updates.
+Becca Bressler: Not that note. Gen V2, I suppose maybe like tier rollouts for new users.
+Marcus Irven: It might not just be new the next two weeks. You might want to go bigger.
+Becca Bressler: I don't think so. Because I think Nate and Jackson are a little bit concerned about. Like mass downgrading. So I think that that decision point we can bring it up, but I think that decision point actually lies with them.
+Marcus Irven: Okay, three tiers. What else?
+Becca Bressler: So jot vid. Jot shuttle is on here Wednesday to do for jot shuttle.
+Marcus Irven: Now we're calling Joshua again.
+Becca Bressler: Well, internally at. Yeah. Do you hate Josh shuttle?
+Marcus Irven: I don't have like. Hate's a strong word. It just doesn't resonate with me. But yeah, I think most importantly that we just like all call the same thing.
+Becca Bressler: Yeah, I don't disagree. I'm trying to think about the marketing though. Like Ehr Chromix, I don't know. So I know that's what we're calling it when someone goes to add it.
+Marcus Irven: I also think at some point all the job stuff is going to be really confusing.
+Marcus Irven: Starting everything if we have like 10 jot things. I think it's gonna be like super confusing for users. And yeah, different products, you know, I don't know.
+Becca Bressler: So they also don't have to be fun like named. I realize. But anyways, so Wednesday is on here.
+Marcus Irven: Oh right. Yeah. Okay. So.
+Becca Bressler: And then there's like F Tux. So I mean Anya. I actually don't really foresee this happening in the next sprint. Anya needs to like do another pass and she's out of town. So Yeah, I don't know that I actually see that happening. And then here are merging issues. So the shared org scheduling shared or go.
+Marcus Irven: Yeah, that's so I've already been working on this one. I'll put it on here. But I think that.
+Becca Bressler: Invite user broken. That's just like a Wednesday thing, right? Or is that more complicated, you think?
+Marcus Irven: Yeah, that's one safe thing.
+Becca Bressler: Okay, great.
+Marcus Irven: Design pipeline is going to be payment disaggregation. What is that?
+Becca Bressler: Oh, this was Chris's request that like someone in finance can pay.
+Marcus Irven: Yeah. I actually don't think this has to be a big task. But structured medication data should bundle this under Genrex. Or should this be.
+Becca Bressler: Yeah, I think so.
+Marcus Irven: Okay, so Wednesday. I mean the talk was doing a two day Wednesday. So we'll put that on there for now. I think the. The other thing is just like I'll say eligibility checks. I don't know exactly what Jackson has lined up for Lee on this. But he hasn't started it yet and it's the end of this week, so.
+Becca Bressler: Yeah, so that'll certainly carry over. Carry over. Oh, you know what's not on here is note stability.
+Marcus Irven: Okay, So let's say John RX is like three days of work.
+Becca Bressler: Okay.
+Marcus Irven: I'm put it for anyone because I'd rather not be the one doing it, but I can do it. If we're doing structured, not medication, then it should be me. But if it's like polishing the UI and stuff like that, then yeah, for sure. Transcription deletion. This could be me, but I also think I can do that this week or have it done by Monday. I'm. I'm still hesitant to commit to like Friday, but. Because already Wednesday. But just one day. Why not? J Audit updates. What kind of updates do you think are gonna happen here?
+Becca Bressler: The. I don't. So, yeah, I mean, if the signal was like, these are bad suggestions and it doesn't make any sense. Like it would be the CPT engine stuff. I'm not really hearing that so far. I'm definitely hearing ways that it's not always right, but that. But that's kind of the extent of what I can think about wanting to do to make updates. If it. If it emerges as though it's actually like a big problem to adopt. But I haven't talked to enough people.
+Becca Bressler: Okay, but maybe like two days max or something like that. Or one.
+Marcus Irven: Okay, this is probably me. No, Gen V2. I would like to carve out like. And I'm lumping a bunch of stuff into this. I'm opening evals, I'm opening monitoring.
+Marcus Irven: We want to revamp our whole note monitoring. So, like, this is just kind of like. What's the word I'm. I'm looking for. I mean, I've been calling it note stability in that thing, but it's just like, yeah, all of the things that Alpha's kind of work on recording, but there's also like this bucket of things to do on note, like making sure the notes finish. I want to bring all that kind of together. And I would like to say that I get three days for this. I'm gonna say four.
+Becca Bressler: Okay.
+Marcus Irven: Three here. I'm hoping that. But it's nothing. But let's just say like let's just give each of us one day on that. EHR chrome extension. Do we think there's anything to do there?
+Becca Bressler: No. If Leaf fixed it, I just kind of haven't even seen it in action working the way that I would want it to. So hopefully no.
+Marcus Irven: Okay. Job vid. I'll just do a job is a big unknown. Let's come back to that one. First time UX and you think that we might not do this?
+Becca Bressler: Well, we don't get Anya until like next Thursday and Friday. So I suppose if she like takes another turn at it and kind of knocks out of the park, we could do it over the second week. But that's also the Wednesday week. Right.
+Marcus Irven: Let's put two days down here. Shared Org scheduling. Oh, this is the stuff that I'm already doing. So unless there's running stuff that our team is supposed to be doing, there's nothing to do there. Payment dis. Aggregation.
+Becca Bressler: Can that also just be like a Wednesday thing? Like here's a. I don't know. Maybe not.
+Marcus Irven: But just one we need to probably give some thought to. I think that I'm gonna. I would almost both bundle like lump this one in with what three tiers. It's almost like these like and maybe more generally speaking I'm gonna. I'm gonna. I'm gonna do it. I think there's just like checkout improvements. I know they're not related to three tiers but they're related to like the stuff that we've done around bundling.
+Becca Bressler: Yeah, there is like and not something I think we need to necessarily focus on this Sprint. But obviously we made like trade off decisions when we were doing bundling to deprioritize some of the UX around like upgrading or downgrading or whatever and at some point we'll probably want to return to it.
+Marcus Irven: Well, I think the one thing that we should do sooner than later is require credit card when they're purchasing an add on during trial or something like that. I think there's something there that feels. The whole process feels a little weird. So I don't know. I think there's just polish on. This. So there's like bug fixes and polish that have to do with. Related to all this stuff. Maybe, maybe this is too. Maybe it's gonna be more than this. But let's just. For now let's see how we're doing on time. Note stability and recorder. Recorder stability. Because I. I put note stability up here with this.
+Becca Bressler: Oh, right. Yeah.
+Becca Bressler: And just like the redesign, the V2 recorder.
+Marcus Irven: Yeah. YouTube recorder. This is. I'm just gonna get put in days here. Three days.
+Becca Bressler: I would say three to be conservative. Maybe.
+Marcus Irven: Yeah. Shared org scheduling. We already said that this one is unknown. All right, so just for fun here, how are we doing on. Okay, I'm already at quota. Okay. Lee's Lee. We haven't really given too much to Lee, but we know that this is going to be. Let's just put a five here because I don't honestly know if that's.
+Becca Bressler: Yeah.
+Marcus Irven: I have no idea what this project even is. Take a guess on numbers, but I'll just put a five there for now. Oh, and Wednesday. So maybe we can give the JRX stuff. Yeah, now he's at quota.
+Becca Bressler: Yeah.
+Marcus Irven: So this is. I mean.
+Becca Bressler: Or Alfred could take a cup. He could probably do JOTRX UI upgrades in less time. But I don't know. Do you feel comfortable? Confident about Lee taking like UI UX stuff?
+Marcus Irven: It's simple. Yeah, I think so.
+Becca Bressler: Like, I think it's simple enough.
+Marcus Irven: Like. I mean, I'd rather give it to Alfred, I think.
+Marcus Irven: But yeah, I think we at least capable there.
+Becca Bressler: Oh, after Friday when I get set up with like all my tools maybe.
+Marcus Irven: Exactly.
+Becca Bressler: I could do a lot.
+Marcus Irven: Oh, we didn't do any. Okay. So I think this one's an unknown, I guess.
+Becca Bressler: Jot vid like scoping like do we want to spend. We probably sooner rather than later need to have an answer for like the level of effort of completing that.
+Marcus Irven: Yeah, we should. But we didn't assign any resources there. So we're saying get to it.
+Marcus Irven: Well, Alfred has eight, right? Yeah. I mean these are. These are guesses though.
+Becca Bressler: Yeah.
+Marcus Irven: And you know, we always underestimate. I mean the thing is there's always stuff that comes in that we don't plan for.
+Becca Bressler: Do we need like a two day Wednesday?
+Marcus Irven: It's a good question. I would. I mean, I think we should spend some time. Look, I mean we have. We have everybody. You know, we're doing engineering week, so I think it's good to take advantage of that. I also would love to take a tech debt. Or when, like one of the days, like be more like tech focused. But we should look at our backlog and kind of see what we want to try to accomplish there.
+Becca Bressler: Yeah, that's. I definitely next week we can carve out time to, to do that and I'll make sure tickets are like, updated and.
+Marcus Irven: Yeah. Do you think it's like, since we are putting everybody co Locating everybody, we should take advantage of that and find some things. Like, it doesn't make sense for us all to go and sit in the same room and then work on three different things. That's been a criticism of the past. When we've got engineering weeks and we haven't worked on same things, it feels just like everybody wasted their time traveling.
+Becca Bressler: Yeah. Yeah.
+Marcus Irven: Is tech deck that or.
+Becca Bressler: No, that still becomes like everyone's working on different stuff.
+Marcus Irven: I mean, that's a good question. I think that we could get like an energy going though, of like,
+Becca Bressler: that's not a very fun Wednesday time.
+Marcus Irven: Yeah. All right, well, I think this is all good stuff that we have working on. I'll ask Alfred and Jackson for a little bit more, like, gut sense of like, what it takes to get job out the door. Because I, I was not involved in that project at all and I don't even know, like, what's left or what's built. So they'll have the most.
+Becca Bressler: Okay, cool.
+Marcus Irven: Growing, you know, creating the add on and stuff. That's easy now. That's great.
+Becca Bressler: Okay. Okay. I can go ahead and create projects and start like filling them out with as much information as I have and then we'll just like tap you in after.
+Marcus Irven: Okay, sounds good.
+Becca Bressler: Cool.
+Marcus Irven: All right. Well, we didn't get another John RX sale.
+Becca Bressler: No, I mean, she really wants it. I hope she texts me back, but we'll see. Okay, I'll talk to you soon though.
+Marcus Irven: All right, thanks.
+Becca Bressler: Bye.

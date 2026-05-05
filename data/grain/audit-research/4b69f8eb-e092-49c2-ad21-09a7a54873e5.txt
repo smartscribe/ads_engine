@@ -1,0 +1,232 @@
+Christopher Hume: Long time. No chat.
+Gioia Garden: Yeah. How was your meeting? In between?
+Christopher Hume: The person actually that I canceled 20 minutes before?
+Gioia Garden: So. Ah, okay.
+Christopher Hume: Non-existent meeting.
+Gioia Garden: Okay.
+Christopher Hume: Perfect. So let's just keep going through what we're doing yesterday. Or two days ago. Have you had any. So you met with Dr. What was his name? Dr. Bobonga.
+Gioia Garden: Yeah, Bob.
+Gioia Garden: Baba, I think I called him yesterday. He asked for a call in one of his emails, and so I called and. Yeah, kind of like I said, he, like, he said he loves jots like, and he's really frustrated with this issue. Because he. He, like, was no longer transcribing his evening sessions tonight, and it was slowing him down because he was. Couldn't rely on it.
+Christopher Hume: Yeah. It was that he. There's like, the note wasn't showing up.
+Gioia Garden: It's okay. It's this issue that, like, at least four or five people have had the same in the past week where they record a session, they see it recording and everything, they generate a note, and then it comes up blank. It's just n a in each section. And I don't have access to see transcripts. But earlier on when this would happen, I think lead checked, like, one or two of them. And he was like, the transcripts are all empty. But, like, on the back end, I can see that there's often, like 41 chunks.
+Christopher Hume: Dr. Bulk. Bulky while we're on together, let me just check. When are you. It looks like he is a meeting with. Ryan on Monday, too. All right.
+Gioia Garden: So it feels like this thing that's, like, kind of. It's hard to pin down because. I've. I've had to respond, like, sorry, the mic, like, the microphone couldn't pick up enough audio to transcribe anything. And maybe it is a micro. Like, there's maybe there's. It's a microphone thing, but it feels like there's, like, a bug that is hard to.
+Christopher Hume: Yeah. So you said this was at, like, two o'clock yesterday, correct? I think it's.
+Gioia Garden: Oh, my God. I need. Let me. Let me look back. 2 p.m. yeah, it was 2 p.m. eastern yesterday.
+Christopher Hume: Yeah. So it's a blank transcript. That stinks.
+Gioia Garden: It has chunks in it, though, right?
+Christopher Hume: Yeah, that doesn't really. This is where my semi technical mind. Doesn't really make sense to me. I think if you could just find two of those and be like, hey, Alfred, hey, jot lots of chunks, no. No transcript. That would be super helpful.
+Gioia Garden: Yeah, I can do that. Lots of chunks.
+Christopher Hume: And if you. If you. Could we actually just, since we have third. Well, we're 25 minutes. Could you just find another one and I'll check the transcript too?
+Gioia Garden: Yeah, yeah, yeah. Let me see. The other one I've got a list. So Lindsay Schmidt and Javier Ruse. I'm wondering if this has the same thing. Yeah. Bob. So Lindsay Schmidt. Let me see. She reached out earlier this week. She said.
+Christopher Hume: Bro.
+Gioia Garden: Oh, wait.
+Christopher Hume: Have you. Oh, my God. Not that I expect you to have Lindsay Schmidt. Memorize, but I'm going to send you a screenshot. This is horrible.
+Gioia Garden: She actually didn't give me a specific one. Let me find Javier. Javier is someone. Actually, let me find Javier. I remember him. Javier. Okay, so Javier said their corn occurred around 11 to 11 45 a.m. today. And that was two days ago. That was one.
+Christopher Hume: Yeah.
+Gioia Garden: 11 and 11 45. I saw one for 1106 to 1152, which was what. Yeah.
+Christopher Hume: Sticks. Yeah.
+Gioia Garden: And that one had chunks, I remember, or I'm pretty sure it did.
+Christopher Hume: Yep. Three, 31 chunks. Yeah, there's nothing in the transcript. Yeah. That's just tough. That's really tough.
+Gioia Garden: Have you seen this before? Is this something that's, like, has just happens right now and then, or is this, like, a kind of new thing?
+Christopher Hume: I have never heard of some having a ton of chunks. And then no transcript. Let me actually see. I was just say right now. This week. Lots chunk. View customers. A transcript. With. No. Okay.
+Gioia Garden: And I think the, I think the first person reach out about that was either Wednesday or Thursday last week. And I think Ryan maybe had that come across today because I saw him ask about a lot of chunks, but having trouble generating a note. Or Ryan, Ryan, like, fielded a ticket for that, too. So it's at least like a handful of people.
+Christopher Hume: All right, let's just see if anyone responds to the bat signal. And in the meantime, let's walk through note generation together. Or template building together.
+Gioia Garden: Okay.
+Christopher Hume: Could you actually share your screen with me, Joya? I think probably the best way to do this is for you to share. I'll walk you through and we'll make sure that you have access to all the right tools. I want to, I don't want to do all this and find out you can't even access. Into the admin panel. Weekend plans. What fun Colorado activities?
+Gioia Garden: Yeah. What am I doing? Going to go see some friends and their baby tonight playing a lot of ultimate frisbee on Sunday.
+Christopher Hume: That is awesome.
+Gioia Garden: Yeah. Doing some yard work tomorrow. But we're to drought, so we can't really, like. Yeah. So it's like kind of like curving how we can do, like, our Landscaping and yard work stuff, so.
+Christopher Hume: Oh, my gosh. Yeah.
+Gioia Garden: Yeah. They're putting, like, there. It's like a stage one drought and they're, like, putting, like, limits and fines for, like, certain usage. If you go beyond it.
+Christopher Hume: So it's like, wow.
+Gioia Garden: Okay. Legit.
+Christopher Hume: No water in the grass.
+Gioia Garden: Yeah, we actually ripped up all our grass anyway. Anyway, so this is my account.
+Christopher Hume: Could you actually share your whole screen? Because we're going to need to have two tabs open. Ed messed up way. This is set right now. I'm going to try and fix this. At some point. I had a big talk with Jackson about it. Like the current situation is pretty unacceptable.
+Gioia Garden: Which. Wait, which one? Which situation?
+Christopher Hume: Just like how you have to edit templates right now. It's kind of a joke.
+Gioia Garden: Oh, yeah.
+Christopher Hume: It's just like kind of painful, kind of slow. You're going to need to have two jot psych tabs, windows open. Let's have them two windows so we can look at them both.
+Gioia Garden: Okay, hold on, hold on, hold on. Sorry, I've never shared, like, my whole screen. So it's saying I need to open system settings.
+Christopher Hume: Oh, my God. I'm sorry.
+Gioia Garden: Yeah, it's okay. Screen to record the content of your screen and audio even while using other applications. Okay. Oh. My God.
+Christopher Hume: No, it's a pain.
+Gioia Garden: I didn't do that. I pressed something and it certainly restarted Chrome.
+Christopher Hume: It's okay. That's. You're just giving me the experience. I'm sure you face with our customers. Oh, you have to go to settings. And then. Oh, and they're gone. I'm in the meeting alone.
+Gioia Garden: Oh, my God. I'm even worse because they can usually figure it out. I, like, can't get. It, like, tells me to keep going back to system settings. I open system settings. And I click on Google Chrome for screen.
+Christopher Hume: Audio record. Then we'll just share one tab to make sure you have access, and then you'll have to look at the other tab yourself, and I'll just trust you.
+Gioia Garden: Okay. Okay, great. All right, so I'll share. I'll figure that out later because that seems like. Okay, so share this.
+Christopher Hume: Could you go to the admin portal? And so, yeah.
+Gioia Garden: Do you want me to share that part or this part?
+Christopher Hume: Share the admin portal. Kirsten Myers. Oh, my God. I need to send that email.
+Gioia Garden: I've been like. Someone from her. Her admin just reached out to today about, like, patient files having trouble loading. So I was just asking for more information.
+Christopher Hume: Okay. Different. Different. Different talk show.
+Christopher Hume: So let's go. Let's just make sure you can go to my account. So let's look up Chris Hume. Which one? First one. And then content.
+Gioia Garden: Let's see. Content.
+Christopher Hume: And let's scroll down. Oh, my. Could you go to your account and see if you can see templates?
+Gioia Garden: Yeah. I'll go to my chat psych one content.
+Christopher Hume: Absolutely killer. All right. So you can't access. This future. So at least we got that out of the way. Okay. Then what I'll do is I'll share my screen. Okay. Just kind of walk you through how we. How I do this. And then. Yeah. Watch Jackson to get you an exit. Okay, so you see on the right hand side notes.
+Gioia Garden: So you're in your account and then on the back, an admin, you're looking at the back end of your account. Okay, great.
+Christopher Hume: New template. Joy example. We're going to regenerate this note with an example for you. I'm going to find it. And remember, I would typically.
+Christopher Hume: Copy the template to my account. Make the edits there. And then. So I can edit live on the other side of the screen and see what the note actually looks like. And also, Sofi, like, really dork it up. It's not live in their account. We can always restore old versions. So it's not that big of a deal, but it's just a lot more stressful when you're actually in their account.
+Gioia Garden: Yeah, that makes sense. So. Go to account content. Down to templates.
+Christopher Hume: Okay. And so I'm already, you know, this is already the account I want to edit on, but you go see more. So like, let's say I was copying it from your account.
+Gioia Garden: I go example.
+Christopher Hume: Because the engineers hate me. Oh, my. It's so poorly designed. It's like actually.
+Christopher Hume: Like joint example. You could go all the way over.
+Christopher Hume: We're going to go duplicate and then copy to your account.
+Gioia Garden: Target user. And, and Target user would be like me to me.
+Christopher Hume: You. Yeah.
+Gioia Garden: Yeah.
+Christopher Hume: But you could do anyone. So someone's like, hey, could you share my template with my friend?
+Gioia Garden: Like, yep. Got it, got it, got it, got it.
+Christopher Hume: And you open up the template. And so we have admin settings. These I'm going to say you're typically not going to use. Yeah, I wouldn't worry about this too much. But then what is important are the sections. And so how we're going to do this. Is. Do you have a cloud account?
+Gioia Garden: No, I don't.
+Gioia Garden: Let's just talk about this last night.
+Christopher Hume: Do you have a. Do you have a corporate card? With us?
+Gioia Garden: Oh, no, I don't have that.
+Christopher Hume: Okay. If you want to set up a claude account with your a free cloud account with your jot psych email, I think we'll probably then just give you a corporate card or put it on my card and get you to like the paid tier.
+Gioia Garden: Okay.
+Christopher Hume: And so like. There's lots of ways to do this. So one, you can look in here. So we have, this is what the prompt is. On the right hand side. So this, can you see, I'm sorry, what, like this?
+Gioia Garden: Yeah. And wait, just to make sure. So you copied the template to your account.
+Gioia Garden: Now you go to own account in the admin panel and then you find this.
+Christopher Hume: Back end.
+Gioia Garden: Okay. Beautiful. Okay, so I can see the sections.
+Christopher Hume: Yep. Correct. So you can go. Like what I would do here. There's like, let's say. Like. Let's just do the easy one.
+Gioia Garden: So.
+Christopher Hume: Here's C quad.
+Gioia Garden: Yeah.
+Christopher Hume: Hi, Claude. The last show hard at my recent ones. Tax rate, clinical accuracy, arthritic bet AI meme. I just need to call those out because, you know, if you see them, I know I'm like a tech bro joke on the left hand side.
+Gioia Garden: Not embarrassing at all.
+Christopher Hume: Living in fidai as a young tech professional. To update a prompt. Subscribe change the output section. I'm going to provide. Current prompt. And. The only thing I would say is. Like. You're going to just want to make sure you're using notional data here and you're not putting like, well, like all our accounts, our notional data, so it's fine. But just a flag that if it's like an actual note, it needs to be just like identified before you do anything like this a bit. Obviously, you know that probably much better than we do. My cloud current prompt, her output. Note to be shorter.
+Christopher Hume: Fix or shorter. Two sentence.
+Gioia Garden: So.
+Christopher Hume: Ends with. Caffeine content and coffee. Okay.
+Gioia Garden: Oh, Kathy, oh, on the left side.
+Christopher Hume: Yeah, no, I still left that side.
+Gioia Garden: I'm just like all the crazy stuff over here.
+Christopher Hume: Negotiating rent.
+Gioia Garden: That's important.
+Christopher Hume: They said, they said no.
+Christopher Hume: They said no.
+Gioia Garden: Claude didn't help me.
+Christopher Hume: Then we're going to save changes. Here. Hey, what it looks like.
+Gioia Garden: Regenerate. Okay.
+Christopher Hume: Where did you say you were originally from? Were you from the east coast?
+Gioia Garden: Yeah, New Jersey originally.
+Christopher Hume: New Jersey. That's right.
+Gioia Garden: Yeah. Yeah. Yeah.
+Christopher Hume: And we talked about Colorado College and all the people from Connecticut.
+Gioia Garden: Yeah. Yeah. When are you making the move to New York?
+Christopher Hume: Well, when I was asking Claude how to negotiate, I was hoping for early May.
+Gioia Garden: Oh, yeah.
+Christopher Hume: But my fiance JoJo, her job's doing a little bit annoying. So probably going to push it to later and. Oh, later in the summer. So we don't like financially devastate ourselves with the move. And she'd probably have to pay for commuting costs. To DC. Meanwhile jot psych is paying for me to commute to New York. It'll probably be like, I guess like July, August, September.
+Gioia Garden: Okay.
+Christopher Hume: Okay.
+Gioia Garden: Yeah.
+Christopher Hume: So nothing too crazy. But I was, like, so ready. I was in. I was touring. I was literally going back to apply for that apartment. I'm like, nah, probably, probably should wait a few months.
+Gioia Garden: Yeah. Smart's not just financially devastate.
+Christopher Hume: Yeah. Yeah. It's gonna. Like, we're in a pretty sweet. We're like a month to month rent control apartment in DC right now. Oh, wow. Yeah, we should, we should be smart about it. Okay, so this is what it looks like. This actually looks pretty good. So, of course, it, like, always, like, when I'm showing, it's like, oh, this doesn't seem so bad. You're gonna get in here and you're gonna be trying to do something for someone, and it's not gonna be playing nice, but it's listening pretty well right now. Okay. Hey, I actually want. The first word of each section. Now.
+Gioia Garden: Okay. Formatting guidelines. Yep. Okay. So then you copy, you go back.
+Christopher Hume: And what I would say is kind of like. And then you make sure you press save. Yep. Then you over here and reset. You probably want to be a little more. Prescriptive than I'm being a clog right now, since we don't actually know what we want it to look like. Like, oh, yeah, that's pretty good. I probably didn't give it enough context. And what would be really good is if you're like, hey, this is an example of what I want it to look like. This is the current problem. This is the current output. Update the prompt. That would be ideal.
+Gioia Garden: Okay. And then it's. I see in the admin panel, it says next to save changes says edit with AI. What does that ever make sense for me? To use that?
+Christopher Hume: If it's like a really easy one?
+Gioia Garden: Yes.
+Christopher Hume: You could just go, like, even this, we probably could have done edit with AI so I can go. And make the chief. But, like, you can see here. Oh, my. God. You can see here that there's, like, something wrong. Oh, did it again? That there's something wrong with how we present examples? And look at the actual section on the right hand side of the chief complaint.
+Gioia Garden: Yeah.
+Christopher Hume: And then the chief complaint example. Or even the HPI. It's, like, terrible. So, like, you can make the changes. But you still have to check them over here because.
+Gioia Garden: Okay. Yeah.
+Christopher Hume: I said, hey, make the chief. Oops. Figure it out. 46 bullet points. Yeah. And so here's where it gets frustrating. So, like, it did not make the change.
+Gioia Garden: Okay.
+Christopher Hume: Yeah. So you have to go in. It's like, oh, wait, I didn't press save. I'm an idiot. That's actually on me.
+Gioia Garden: Oh, okay.
+Christopher Hume: Do it again.
+Gioia Garden: Okay. But generally. For use, like, rely on cloud for these. These edits and the prompt.
+Christopher Hume: You should. I should normally. Actually, what I do is, like, I get in here and I'm, like, fighting with it, and, like, that makes no sense. You should be using cloud.
+Gioia Garden: Okay. And what's like a use case for this? Is it like a high end client who is wanting some more, like, hands-on support with these, or is it 100?
+Christopher Hume: So we are. Going to be. We do this for high value clients. We're like, hey, I want to be filling with you, but your templates are all up. I can't. Like, oh, don't worry. We have, like, our team. So that's one option. Two is more onboarding a group if they pay a fee. We'll do the template for them. As, like, part of their whole package. And then three, if, like, any customer wants it, it's 300 bucks a template. So, like, once you and Ryan and some of the other team members are comfortable with it, like, this could be, like, a great, just like task for you guys. Just like, hey, we have a backlog. Like, people are going to schedule time with you, and they're going to tell you what template they want, and then you just go and do it. Yeah. That's something I kind of want to open up. Yeah, cool. Yeah. So I don't think. There's any right now that I need you to work on. But. As they come up, I'm going to loop you into it. I'll have you do them all. Check them for you.
+Christopher Hume: I mean, it's. It's not rocket science, to be honest. It's just like a pain in the. In the butt, so. And then. Kind of. I don't know. Would you be comfortable if we opened this up to people and started, like, setting them up with you, like, to meet with you to get custom templates?
+Gioia Garden: Yeah, definitely. Because those meetings would be about, like, figuring out what they're looking for, what do they want, what they don't, what they don't want, that kind of thing. And then I just do it on, like, separate from that meeting.
+Christopher Hume: Yeah, yeah, yeah. You don't have to do it live. Oh, my gosh. Yeah. Yeah.
+Christopher Hume: I wouldn't want anyone to see us doing this live.
+Gioia Garden: Yeah. So, yeah, I'm very comfortable with that kind of.
+Christopher Hume: Yeah. So I, like, trying to Wrangle, like, a thousand things right now. But I do want to get. And I know, do you have a meeting now?
+Gioia Garden: No, my next meeting that in 15 minutes with.
+Christopher Hume: All right, perfect. Thank you. I do want to get you in front of customers. So I've been focusing on some of our cold outbound stuff. But over the next couple of weeks, I'm going to put a little bit more thought to seeing how we can better onboard people when they come in the door. As your schedule permits and your interest permits. I'd love to have you kind of meeting with people, trying to route people to you to onboard them and to see if we can increase their one, what they're buying. They come in with the AI scribe. They end up signing up for the EHR. And two, if you're like, hey, I'll do this template for you for 300 bucks. It's that, like, helps them.
+Gioia Garden: Engage. Yeah. Yeah. Cool. That's smart. That's a smart time to offer the template service, too, when they're, like, just.
+Christopher Hume: Yes. They have a template that, like, works for them.
+Gioia Garden: Yeah.
+Christopher Hume: Yeah, exactly. Okay. One last thing I just saw Jackson say that this has been a constant problem.
+Gioia Garden: To that the customer support. This is. Wait, so to the. To the customer support thing that you put in?
+Christopher Hume: Yeah.
+Gioia Garden: Yeah. First one. S always a sign that are blowing malformed audio. Device formatting the files badly. Sounds correct. Yeah, that would be nice to give them a warning, because I think. People get really frustrated when they thought it worked and it didn't.
+Christopher Hume: Which, you know, in their defense, I'd be pretty frustrated, too.
+Gioia Garden: Yeah. And you want them to feel like they can rely on jot psych, you know, like not second guess they should use it. I've not seen this before. Okay, cool. Okay. Okay, cool.
+Christopher Hume: Have you met Alfred?
+Gioia Garden: No.
+Christopher Hume: Let me see if I just get him into this call.
+Gioia Garden: Okay.
+Christopher Hume: Also be fun for you to get to meet him.
+Gioia Garden: Have the engineers been, like, in the. The weeds this week? I feel like they've been, like, quieter than normal.
+Christopher Hume: I have no idea what the engineers are working on this week, to be honest. No, last week they were doing a ton of bug stuff. I truly don't know. I was working. Marcus was, like, literally three feet from me. I just look back, and he was just, like, reading code and talking to Claude all week.
+Gioia Garden: Focus.
+Christopher Hume: Did you. Did you have a video call with him?
+Gioia Garden: I have had a video call with him and then.
+Christopher Hume: Oh, my God. This is vendors and bow tie. Alfred, this is Joya.
+Gioia Garden: Hi.
+Alfred Souza: How are you?
+Gioia Garden: I'm good.
+Alfred Souza: How are you? I'm all right. Probably was better before this meeting, but, hey, you know. Is our MVP.
+Christopher Hume: She has just taken a lot of the. A lot of the hits for us the past couple weeks.
+Alfred Souza: So let me just.
+Christopher Hume: I have actually. It could be a thing, right? Alfred, that it's just like, I am just like. Just like our customers. Something is always broken, but then I notice it and I see it everywhere.
+Christopher Hume: So I certainly understand that this could be a known issue, but I have really never seen something before where, like, this guy. Dr. Boba or Dr. Fomanong. Who's so nice, actually made you watch videos of him before. Okay. During. During grain night on Retreat, he's the guy. That basically tortured by our software.
+Gioia Garden: And he still loves it.
+Christopher Hume: He's so nice. She has this. Event. 46 chunks of this encounter, 46 chunks, the note. It's all NAs. And then the only is four words.
+Alfred Souza: Yeah. Live reading.
+Christopher Hume: It was always under the impression, Alfred, because I'm a simple-minded semi-technical guy, like when there were chunks, that there was something in there. I didn't know you could do that many blank chunks.
+Alfred Souza: No, that's. That's not true. So many things can happen.
+Christopher Hume: Right?
+Alfred Souza: Yes. Users on Bluetooth. Microphones. Microphone disconnects. Happens all the time. Also just regular microphone. Issues. Right. So the.
+Christopher Hume: But then what is in. So then the chunks are just empty chunks, which there's, like, no data in.
+Alfred Souza: Correct. Correct. Now, here's the thing. I take it back because a disconnected microphone, we will reconnect to the next available microphone.
+Alfred Souza: Now, the next available microphone, if it is. Not picking audio. But it is connected, it'll just go blank. Right. So. Now a full on disconnect. Will let. Or. Or actually, that's. That's not even true because we even check that there's audio coming in. So if no audio is coming in. We will switch. Microphone. If audio. If we don't find a microphone where audio is coming in. We've becomes like this. You're not recording. Yeah. Warning, so. But we don't. We don't stop the recorder. Now. You know, it just keeps going.
+Gioia Garden: Okay.
+Alfred Souza: Low volume recordings. That could be this. Right. So that's also a problem. There. The threshold by which we are measuring, oh, is this microphone picking up audio? Is probably lower than what. The. The transcription service would need to be able to turn. That audio into something that it doesn't consider mumble. D.
+Christopher Hume: Right.
+Alfred Souza: So. So. You know, the. The problem that I'm seeing, and correct me if I'm wrong, is that this user, right, has had good recordings. It's not. It's not just. This.
+Alfred Souza: It's not just this one. It's. It's like just this one, or is it that he's been having.
+Christopher Hume: We're seeing it across custom. This is just one example. We've probably seen four. I don't know. Like a non zero. Enough for a pattern over the past weeks. And it's something that I have never seen or, like, registered seeing as a pattern before in customer support where we're having multiple people with a bunch of chunks and a blank note.
+Alfred Souza: So there I'll. There. Have seen it before.
+Alfred Souza: That's what I'm saying.
+Christopher Hume: I just. I haven't seen it, and now I just, like, see it everywhere. But if it's completely possible.
+Alfred Souza: Right. But if we're seeing an uptick.
+Christopher Hume: I think the next steps here, Joy, could you just find as many as you can, like a three or four that you were tracking and just in that thread at some point this afternoon put the user ID and the transcript ID, Alfred?
+Alfred Souza: Yeah.
+Christopher Hume: Yeah. And then. And then you can investigate those and we'll see what's going on here.
+Alfred Souza: Yeah, we can. We can take a look. I think the. The. The problem here. Is going to be because this. This came up, I think last week or two weeks ago, Lee brought. One of these cases up. Yeah. And. And the problem is that. As long as the microphone is connected and we're recording. We're not generating an error. Yeah. Right. And. And that part of it stands out of, like, you'll have many meetings where there are moments of silence, for example. Say a person. A person's reflecting or whatever or sobbing on the corner. Right. Whether that. Right. So we can't. We can't start. Firing alarms when there's silence. Yeah. And that's where the difficulty comes.
+Christopher Hume: So.
+Alfred Souza: But having said that, I do think we can look at the time. We can look at the patient. We can try to. We can try to correlate, like, things that could have happened based on what we have.
+Gioia Garden: Yeah. Does this have. Could this have any link to that person who reached out about having audio artifacts in her, in her sessions where her patients are hearing a lot of, like, fuzzy or fuzzy background noise?
+Alfred Souza: Yeah. Okay. You know, that's.
+Gioia Garden: I I.
+Alfred Souza: But yes, to your point, if the audio that's coming in, right, is muffled. Feedback or whatever, right? Then the transcription service won't be able to or won't necessarily be able to discern. And. And that could be this. Yeah. So one. One question, something that we might want to follow up, at least. Let's see if you find, like, the handful that Chris was saying, what we probably want to do is find out if they were telehealth. In person or not. I think those.
+Christopher Hume: Dr. Famanung, I don't know telehealth versus in person, but I know he does a lot on his iPad.
+Gioia Garden: His. Yeah, this was on his iPad. I'm right now. One thing I'd want to check with him is, like, if he had Bluetooth headphones connected to the iPad and then the headphones were.
+Christopher Hume: Like, he did not strike me as a Bluetooth headphones kind of guy. But you're right. We do need to check that. He struck me as a OG aux cord.
+Gioia Garden: He's got an iPad.
+Alfred Souza: I mean, that's fancy. That's fancy. Fire tablet or something. But I. I have a different. Series of problems. Right, which. Which doesn't necessarily. Mean that this was it. But I would. Have we asked jot to investigate this transcript?
+Christopher Hume: You have. I'm sorry.
+Gioia Garden: Yeah, I asked. I asked it last night after I got off the phone with him. John, like, double check. It's worth asking if Chrome has full access to his microphone. I asked him that. He said he checked. He said yes.
+Alfred Souza: Didn't find something somewhere. Or let's. I can ask him again. I think the problem with.
+Christopher Hume: Alfred, just to jump in here, Joy has to jump onto a customer. Oh.
+Alfred Souza: Oh, perfect. Sorry. What I was going to say, the problem with. With these. The iOS devices is that they're. They have. They're notorious for. Ruining stuff, especially when they start running out of battery. Like, if they go. If they go into. Into battery saving mode, they. They're also. They also have problems. They're known to have problems with storage. And if they have low storage, they start. They start ejecting it. But the problem, the difference there is that if we're not storing, we're not sending. You don't get the chunks. So it definitely wasn't that. But, yeah. When you compile these, I'll. I'll find some time to take a look as well.
+Gioia Garden: Okay.
+Alfred Souza: Okay. Yeah.
+Christopher Hume: Okay.
+Alfred Souza: Very nice meeting you. Yeah. Like. And. And thanks for everything. And Chris, as always, may you have a beautiful weekend.
+Christopher Hume: Beautiful weekend ahead, Alfred.
+Alfred Souza: Beautiful weekend.
+Gioia Garden: All right.
+Alfred Souza: Nice. Thank you.

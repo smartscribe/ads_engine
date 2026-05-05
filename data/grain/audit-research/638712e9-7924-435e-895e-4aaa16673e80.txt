@@ -1,0 +1,102 @@
+Becca Bressler: Hey there.
++1 512-***-**14: Hi.
+Becca Bressler: How's it going?
++1 512-***-**14: Good. How are you?
+Becca Bressler: Good. No problem.
++1 512-***-**14: So, drop site. So I was told about this site with another colleague, and I tried to use it, but I don't know if I'm using it the right way because in my understanding, it's supposed to be as a note, and I'm not sure if I am. Maybe I'm supposed to put a. A template in there to give it some more information on what I want my note to look. Yeah.
+Becca Bressler: Yeah. Is that your question? Like, how to basically use it?
++1 512-***-**14: Yeah. How do you basically do it here? Yeah.
++1 512-***-**14: Because I use Doximity once in a while, and for my notes I could just listen to my visits and it'll give me like, a nice little note.
+Becca Bressler: Okay.
++1 512-***-**14: Yeah.
+Becca Bressler: So can I. Actually, would. Do you mind giving me one second? I would love to invite our designer to this conversation. She is actually working on this exact problem, and it would be great if I could bring her in. Would that be all right with you?
++1 512-***-**14: Yeah, that's fine.
+Becca Bressler: Okay. Give me one second. Yeah. And maybe we could even ask you questions because this is actually really helpful to. To hear that this is confusing for you, but. So let me share my screen. Make sure I have the right.
++1 512-***-**14: I'm calling you. So maybe I should do a video.
+Becca Bressler: Oh, yeah, video, I think would be actually really useful.
++1 512-***-**14: Okay. Or if.
+Becca Bressler: If you can see me. I mean, I think that's probably sufficient. Let me just, like. Let me just make sure I'm logging into the right account just for this. Just one moment, please.
++1 512-***-**14: I can also join the Google Meets that's Here.
+Becca Bressler: Job site account. Okay. Let me just share my screen for a second. Marissa. So is. Is this the. The screen that you're. You're seeing?
++1 512-***-**14: Basically, I can't see you. Let me join the. Let me join the. Let me join via the link you. Because I just called you.
+Becca Bressler: Okay.
+Chi&Chidi Ozokwere: Okay, There we go. Okay, There we go. All right. Are you there?
+Becca Bressler: Yeah.
+Chi&Chidi Ozokwere: Okay, perfect. Thank you.
+Becca Bressler: Can you see my screen?
+Chi&Chidi Ozokwere: Okay. Yeah, I see it.
+Becca Bressler: Okay, so is this what you see, basically, when you've tried it?
+Chi&Chidi Ozokwere: Yes. So that's what I see. And then I just went into a note that I did the other day. Yes, that's what I see.
+Becca Bressler: Okay, so just so I understand your question, Marissa, Is it just like, how do you use this, Pete?
+Chi&Chidi Ozokwere: How do you. And I guess so say if I want. So this is just for psych, right?
+Becca Bressler: Yeah.
+Chi&Chidi Ozokwere: Okay, so if I want a specific template, I've heard that I can just upload a template in somewhere. Where do I put it?
+Becca Bressler: Okay, so that's. Do you understand this piece of it, though, that this is where the templates, like, get selected? Is that clear to you, or do you need me to walk?
+Chi&Chidi Ozokwere: Yeah, like, I can put. Yes, I can put, like, a psych and psych that. No, I know. Understand that. And how to record. Like, all I did is push record, and I think I put something like psych somewhere.
+Becca Bressler: Okay, got it. But you want to be able to customize a template and upload something, is what you're saying?
+Chi&Chidi Ozokwere: Yeah, if I could.
+Becca Bressler: Great. So the way that you do that is you go to documentation and you go to note templates, and right here you can click start your template.
+Chi&Chidi Ozokwere: Okay.
+Becca Bressler: And if you upload a PDF or you just, like, copy and paste one of your notes that is laid out and has the section headings the way that you want, you truly just select Create template and does it for you. I can pull up an example. I can, like, you know, find a mock template, if you would like, in chat gbt, and then we can go through it together if that would be helpful.
+Chi&Chidi Ozokwere: That's fine. Thank you.
+Becca Bressler: Okay, so create a mock. Okay, one second. I want to have something that I can copy and paste. All right. I'm just making sure I have a good.
+Chi&Chidi Ozokwere: How's your day going? Thanks for meeting with me today.
+Becca Bressler: Oh yeah, of course. Sorry for the delay here. I just want to make sure I have. I don't actually just a quick warning. I don't know if this is actually the format that you would be uploading. So we'll see how this, how this goes. But just to kind of give you a flav flavor of how this would work is. Okay. So I'm copying and pasting some text in here that I just had GPT put together. I'm just going to delete this for a second. It has like chief complaint, it has chief concern, interval history, etc. So I'm gonna go create template. This piece takes a little bit while you know, it's just, it's absorbing a lot of information and compiling it and structuring it. So your note generation and things like that won't take as long as this, this step does. But.
+Chi&Chidi Ozokwere: And how I heard about this is that another colleague of mine, where she works, her clinic uses this solely. Like this is all they use.
+Becca Bressler: Oh cool.
+Chi&Chidi Ozokwere: Psych. Yeah. And so just kind of. I just tried trialed it to see if it's something I'm going to buy. Right. Like to use because I'm in primary care right now but I'm crossing over to psych so.
+Becca Bressler: Awesome. Yeah. Well please do give us feedback as you're. As you're trying it out. Especially helpful for us to hear from new users like yourself who are just getting familiar with it
+Chi&Chidi Ozokwere: and it's nice because it looks, it looks like it gives ICD codes and things like that too. Cool, that's lovely. And the billing code.
+Becca Bressler: Come on.
+Chi&Chidi Ozokwere: Template builder has a lot of information in there, I think.
+Becca Bressler: Yeah, there is a lot of information.
+Chi&Chidi Ozokwere: Yeah. Maybe like a psych.
+Becca Bressler: Less than a minute. Not today. It is a lot of information.
+Chi&Chidi Ozokwere: Yeah, maybe it was a lot. Which not every business is going to be like a full psyche Val. It's just like a follow up or something.
+Becca Bressler: Yeah, and it's just like the first time generation of the template too have it. But I do want to be able to show you like how you edit it.
+Chi&Chidi Ozokwere: Okay.
+Becca Bressler: And if this takes too long, I'll just jump ahead to showing you the edit piece because it'll look pretty similar to what you end up seeing here.
+Chi&Chidi Ozokwere: Okay.
+Becca Bressler: You can actually probably do that right now. Let me just like keep this going and see what happens if I open new tab. Oh, here we go. Look at this.
+Chi&Chidi Ozokwere: Is there.
+Becca Bressler: Okay, so it took. It says words only because that's what ChatGPT said. I said no checkboxes. So. So, okay. So yes. So it took all of this template basically that I uploaded as free text and it put it in sections and it formatted the way that it was formatted when I uploaded the text. And then this box right here you can use to modify your template. So maybe you want to say like there's no HPI section. Please add an HPI section that is narrative format and two paragraphs. Okay, so put at the bottom. And then maybe I'll. Can I drag it from here? I don't know if I can drag it from here, but I can definitely drag it from elsewhere. Let's see. Can you?
+Chi&Chidi Ozokwere: Nice.
+Becca Bressler: Cool. So. So. And then, yeah, you can just tailor it to your liking this way. And so then once you go, oh, did I not save it though? Okay, I might have made an error here, which is that I should have saved it. And then once you save it though, it shouldn't. It will wind up here. Here.
+Becca Bressler: Templates that you can use and then you can adjust the note, but then you can always go back to that template and keep tailoring it here. And the way that you would do that is by clicking that little star button in this. But yeah. Does that make sense?
+Chi&Chidi Ozokwere: Yes, that does. I like that.
+Becca Bressler: Do you have any other questions that I can answer while I'm here? While we're here.
+Chi&Chidi Ozokwere: So. And then. So I see that at the end of the visit it always gives like the assessment and plan. I like that. It's fine. If I ever wanted to turn that off and I didn't want it to give me like an assessment, like it's what they recommend, how to. Is there a way to do that?
+Becca Bressler: Like, if you want to delete this section? Basically.
+Chi&Chidi Ozokwere: Okay, so I can just delete it. It's not. I just don't just delete it. Don't necessarily turn it off. I should always have it on, basically.
+Becca Bressler: Yeah. There's no way to like turn it on or turn it off.
+Becca Bressler: You would be deleting the section or just, you know, not copying it over, basically. I mean, you can always create two templates that are like nearly identical, but one is like with assessment and plan without. And then in one of them you could just be like, remove the assessment section from the template. I missed it a little, but I think it should still. Nope. Thanks. Actually, you know, I don't know what it's going to do if I say that, but. Yeah. Yeah. So does that, does that make sense?
+Chi&Chidi Ozokwere: Yes. And it looks like there's so much more to Psych in the sense. Like it's something that you can use as your own for your practice. Like you can put your patients in here and you can put them on the schedule and then you can. It's so lovely. Okay, great.
+Becca Bressler: Yeah. We also are just launching E Prescribe, so that is available as well. So. Yeah. We also do like in house billing if you're interested in meeting with someone from our team who's working on that product. So. Yeah.
+Chi&Chidi Ozokwere: Yeah. And then do you. So I'm a nurse practitioner. Do you guys have like clinic collaborating physicians available to or is that something I would find on my own?
+Becca Bressler: Do you mean access for individuals who could like sign on fond notes? Is that what you mean?
+Chi&Chidi Ozokwere: Yeah, because like, so I work out of California, but I'm in Texas. Right. So I know my prescribing abilities are very different.
+Becca Bressler: Yeah.
+Chi&Chidi Ozokwere: Is different from what I'm doing in Texas, which I'm not working in Texas right now because of that. And so I would still probably need a like a doctor or psychiatrist if I ever wanted to do something on my own.
+Becca Bressler: Yes, we are building that literally next week. Like that's our end to enable that. Yeah. So that's really exciting to hear you're interested in that because that's actually literally our next week.
+Chi&Chidi Ozokwere: Right. Oh, there's going to be. So like I said, I'm a family nurse practitioner, has been for seven years. And so there's three of us graduating in August that are going to be all psych nps. So we're like, let's do something on our own.
+Becca Bressler: Awesome.
+Chi&Chidi Ozokwere: No, that's great.
+Becca Bressler: And we also, if you have a second, I can show you one other thing we have which is maybe helpful. Oh, I don't know if I can do it with. Have you looked into the audit tool at all?
+Chi&Chidi Ozokwere: No, I just literally saw it. I'm like, oh, there's an auditing.
+Becca Bressler: Let me show you. Give me one second. Now I want to say I'm gonna get chatgpt. Right? Can you write an example? No. Let me, like, show you something that I think is very cool. Test patient. I'm going to start this recording, and then I'm going to just, like, add text to this additional text box. To generate the note. Oh, you know what? But I'm going to stop it. No worries. We'll pick up right where you left. Absolutely. Let's add some structure.
+Becca Bressler: My chatgpt started talking to me and I didn't like that at all.
+Chi&Chidi Ozokwere: We use that one a lot when we're talking to people who speak different languages. It's great.
+Becca Bressler: Yeah. I've not explored the feature yet at all actually.
+Chi&Chidi Ozokwere: It's great actually. Yeah. Oh really?
+Becca Bressler: Yeah. I end up dictating a lot into it. It's just so funny how as soon as these tools be available to you, like suddenly typing is too much to ask. I'm like, I don't wanna my question, you know,
+Chi&Chidi Ozokwere: it's all gonna make us very like I don't know, I'm not lazy but just not ability. Not decrease ability to go back to what, what we were doing before. Like.
+Chi&Chidi Ozokwere: Yeah, because it's so convenient, you know.
+Becca Bressler: Totally. Yes. Your impatience for.
+Chi&Chidi Ozokwere: Sure.
+Becca Bressler: I just want to get like a good note example. Actually you know what? I'm going to log into a different account. That is exactly what I'm going to do. One second. Oh, I thought it logged me out for a second. Okay. But it didn't. Sorry about the delay here, but it actually seems like this tool will be really interesting to you, so I'm going to show it. Great. Oh my God. Sometimes I. My fingers get stuck and I can't even type my own password. Okay, so we have this audit tool which is over here essentially and I can find one that has like a little bit more flags to takes the session context and then the session information from the transcript and it runs an audit against it. So let me see if I can find it. So based on the session information and you can choose to add a CPT code for it to audit against. But if it doesn't it may suggest an audit code based on your documentation and based on what it picked up from the session.
+Becca Bressler: And what it's going to do is basically we have uploaded a bunch of rules like publicly available payer documents for different insurances and we have this rules engine basically. Basically that we audit the notes again. So we'll tell you, like, if something's missing. A medical necessity statement is required. There's different levels of flag. So, like, action suggested versus, you know, warrant. Like, this is actually missing. And you'll need to. This. You can also change the CPT code if you're like, oh, no, this is actually a 99213. I want you to, you know, audit the note against that code. It'll do that. And so the reason I bring this up is I think it's an especially good tool for people that are starting practices, especially when they're, like, going out on their own and just making sure, you know, everyone is, like, fully aligned on, like, what makes for a compliant node and what you need to do to, you know, meet certain CBT requirements. So. Yeah. Anyways, I just wanted to show you that tool as well.
+Chi&Chidi Ozokwere: That's lovely. Perfect. Thank you so much, Becca.
+Becca Bressler: I appreciate it. Awesome. Well, really nice to meet you. And yeah, reach out anytime. Send feedback if you have it, you know, but we hope you, like, enjoy playing with the. Playing with the tool.
+Chi&Chidi Ozokwere: I'm so excited. Thank you so much.
+Becca Bressler: Of course. Have a good day.
+Chi&Chidi Ozokwere: Are you too. Bye.

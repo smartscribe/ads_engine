@@ -1,0 +1,80 @@
+Gioia Garden: Nice, very nice.
+Christopher Hume: Yeah. How has stuff, how has truck been still a little bit more manageable this week?
+Gioia Garden: Yeah. Yeah. I'm more busy. So, like, I felt like today I was kind of playing catch up more than I was last week. Nothing crazy. Honestly, something I'm seeing. I'm getting a lot of. It feels like a lot. It's probably just a handful, but something I'm seeing that I haven't really seen much of as much before is like people who are like, I am recording. And it's generating a blank note. And it could just be, it really could just be like microphone's not catching enough audio like over and over and over again. But it's like the past few days people have been saying that and it. Like, so I'm just wondering if there's something underlying that, but I haven't enough like data.
+Christopher Hume: Okay. Yeah, maybe we should say like if you have another one of those come in this week, let's like flag it and let's like let's just like put be like, hey jot at Marcus, you pick people this week with blank notes. Here is the link to the blank notes. What's going on here and we'll just see what happens.
+Gioia Garden: Yeah, I mean, I might just do that anyway.
+Gioia Garden: I was just responding to someone about that right now and I'm willing to. Regeneration worked. Cool. So I should flag Marcus too.
+Christopher Hume: Or you can just do jot.
+Gioia Garden: Okay. Cool. Cool. Otherwise things are good. With front. Yeah, I just flagged one for you. That seems like new business, but also she's having issues. Rx. Like and and it's my understanding she should have access to it during her trial, right?
+Christopher Hume: No, that's the one thing we don't give access to.
+Gioia Garden: Okay. Okay. Then okay, so then yeah, probably you can like.
+Christopher Hume: Then my question.
+Gioia Garden: But yeah someone named Kristen she's got two therapists. Like a nursery of assistant.
+Christopher Hume: So yeah. Super exciting. Okay cool let me show you how to make templates.
+Gioia Garden: This is like a nightmare.
+Christopher Hume: Not a good process. You played around making your own templates before.
+Gioia Garden: Yeah I have.
+Christopher Hume: Let me share my screen. We're going to walk through the. Normal people do it. And then we'll go through like the advanced features that you and I have access to.
+Gioia Garden: Okay.
+Christopher Hume: Like my new logos.
+Gioia Garden: Yeah it's nifty.
+Christopher Hume: Okay. Your documentation note templates you can start with your template. I don't really like that feature it barely works. So I typically like start from scratch. AI. Give me. HPI CC. Objective. Medication. Order it asked it to but okay. Oh you could be like reorder yeah yeah. David has made a new template over here. And then you can also rearrange from here. So then you also kind of when you edit you're like. The HPI. Stick to like 12. But the issue is I don't know if you've noticed this that the. Like the. Example that you see in this format. Is like not super accurate. Like it can look perfect here and then use it for an actual note and said not right. It's pretty good for simple notes but if someone's been working on a template editing it for like weeks or months or like she's been using it for years and she makes it a little too cherry time she's going to make a change over here. It's going to look okay and then he or she is going to use it in a session and it's going to be completely different.
+Gioia Garden: Because of the multiple layers of edits.
+Christopher Hume: Know why this I think it's mostly just because the example however we develop the example like. The presenting example is not super robust. I think it's just like this feature is like not super good. To be honest.
+Gioia Garden: Good to know.
+Christopher Hume: So you saved it and like if you have someone who just needs a super simple template you can do it just like this bam yeah, let me do that for you. Get it done get her done. What about when we have a high value customer. Who like wants like very specific that you're having trouble with.
+Gioia Garden: Like what would I do?
+Christopher Hume: No I there's no way for you to actually know this so I'm just going to tell you. Great so you go to. V2. Assume. And you can see everyone's templates. Let's actually let me take one of yours so kind of you see the full Julia we'll take your jot psych templates. Here this is not well designed you go see more you go discharge summary notes go all the way over here. Copy this.
+Gioia Garden: Oh interesting. Whoa okay.
+Christopher Hume: Now I have my copy on my account that I can play with and will not impact you okay typically how I recommend doing this just so you like don't have to get stressed about it but so you know you actually can everything that we're about to do on my account I could have done directly in your account as an admin.
+Gioia Garden: Okay.
+Christopher Hume: Just stressful and I like yelling at you though and you just want to imply.
+Gioia Garden: I got called discharge yeah I think it was a discharge summary.
+Christopher Hume: So many templates. It's also possible I sent it to the wrong question. Right now. Actually get this to work. Actually I'll just say I'll just set one of mine to you okay and I'll edit in your account.
+Gioia Garden: Okay.
+Christopher Hume: Click on a template because there's no way oh there we go. Okay so we'll go which one was I just working on. Whatever. We're just going to go example perfect. You can't click on it though you have to find it scroll over okay. Well there are all you so let's just go the first one copy template. Why were there three we'll never know.
+Gioia Garden: Yes got it.
+Christopher Hume: Okay when you click on a template on someone's notes. You can see all the sections and then you see the prompts that are used to write the sections. The reason I recommend doing this in your account aside from one people can't aren't going to yell at you. Can't trust the example it shows you. My screen I'll show you how I do this. Actually so this is how I would do it I'd go to my account make the changes but. Let me just go to my account and you'll see why in a second. If you dizzy with all the open close. Share local. So. Terrible. I need to fix this. Template. There's a few what'll actually look like. And then like so let's look at it let's see what we think like. What.
+Gioia Garden: Are you serious does someone else reached out about this they when they regenerate the node it's empty this week.
+Christopher Hume: Well that's really good that we figured out how to get the issue but not good for this demo. What you would do is you would go oh. The the HPI like. Actually like want this to be way more.
+Gioia Garden: Robust so it's like.
+Christopher Hume: In guidance. Make each.
+Gioia Garden: Our graph.
+Christopher Hume: Start with a bolded word. And you go. Save. And let's regenerate the note and see if it it's working properly now. And what I would actually recommend what I do a lot is kind of copying. Into chat GPT. Prompt be like hey I like to formatting except for this and this and you tell me can you adjust the prompt for me and copy that into the back end regenerate see how it looks like no just did this wrong can you change it again? I find that is helpful for me as someone who's not like super prompt engineer.
+Christopher Hume: So does this make sense conceptually we're going to have to have another. Meeting on this if they regenerate thing isn't working because that's like the whole point is you kind of go around and around here
+Gioia Garden: yeah it makes sense so you I will essentially copy an organization or a practitioner's template to my account. Make adjustments to edit the template based on what they're looking for and as I'm doing that process I will also be seeing examples of like what is this what are these edits generating
+Christopher Hume: in a note you pre as you break it will have two screens one like just keep regenerating the note and the others like the bat end where you're like making the prompt changes.
+Gioia Garden: Yeah yeah so conceptually that makes sense.
+Christopher Hume: Okay so we'll let me just find time on Friday because I'm actually just going to go grab like Marcus or Jackson right now and be like WTF. And then we can redo this one like the freaking product is working.
+Gioia Garden: I've got time on Friday let's see pretty much like. The middle of my day.
+Gioia Garden: Okay we're at the start because I my first session's at 9:00 a.m. my time so 11 year time I could do earlier.
+Christopher Hume: Let's do would 115 my time work so 11 15 years.
+Christopher Hume: Yeah that was great. Chris. Would you try to re. Could you try to regenerate a note under your account right now.
+Gioia Garden: Yeah. Let's see my practice account or my.
+Christopher Hume: Account okay let's see documentation no let's try is your practice account next or app.
+Christopher Hume: It's app let's try that one.
+Gioia Garden: Okay. Let's see documentation. Notes. Let's see this. Okay. No I don't want to do that one sorry. Let's do. This guy regenerate no edit template. Let's do a depth. Regenerate okay.
+Christopher Hume: A moment of truth here.
+Gioia Garden: It's still working but so far. Yeah it worked it generated content.
+Christopher Hume: Okay can you. See. Is there one in front right now of someone who can't regenerate.
+Christopher Hume: Yeah hold on let me oh yeah this person Kira Harris can you change this knot instead of taking
+Gioia Garden: yeah I guess I'm going to follow up with her just to clarify but
+Christopher Hume: you definitely thought that she was in the AI editor and she accidentally did chat
+Gioia Garden: that's what I that's what I figured. Okay so Lindsay schmidz from interpersonal psychiatry she said notes are being regenerated blank let me see I think she reached out maybe Monday. Let me find and my understanding my understanding was. That she. Like they're coming out with content but they're regenerating blank so regeneration note to do template the new one is blank and then I asked. All right so I followed up thank you for coming back to me this has been numerous charts ongoing for about a month not just my account other MPs their original note remains it's just when choosing another template it usually regenerates a new note and then you have both. But for the new note it comes up with all the there's no text underneath it. So basically, yeah summarize the original note remains and it has content and then it regenerates blank like kind of what you just saw. Lindsay Schmidt she reached out two days ago.
+Christopher Hume: Let me try one more time.
+Gioia Garden: And let me see I know I put this in. I know I put this in slack let me see what was responded.
+Christopher Hume: Yeah I'm gonna go just father Becca right now and see if I can get her attested and then if it doesn't work for her I'm gonna get the engineers to look at it. This is crazy.
+Gioia Garden: Okay and I looks.
+Gioia Garden: Like hold on. I need to code level investigation. Yeah so I put this into the bug channel. Oh and you actually asked which org and I said interpersonal psychiatry Lee said I'll see what I can find out jot said some stuff and then the tent dropped off.
+Christopher Hume: I'll bring it back to the top but I want to see if I get it to flare up on anyone else's account okay cool. The joys of software okay I'll talk to you on Friday I think I don't think there's any burning front tickets for me are there do you want me to call the woman in Iowa.
+Gioia Garden: Which one which woman was that?
+Christopher Hume: Kristen I'll call Kristen I'll do recall yeah
+Gioia Garden: animal Kristen I think I'm going to reach out to some people who seem really inflamed with jot psych yeah I figured I'd just set up like a free Google voice account unless you have a recommendation for another platform oh.
+Christopher Hume: Can you turn that on on your on your what should we call it?
+Christopher Hume: Yeah like my Gmail platform your your job type Gmail yeah voice I think we all should have.
+Gioia Garden: Sign him in chat sake. Your account isn't ready for Google Voice yet.
+Christopher Hume: I like cannot wait to sell border bodies technology it's too much too much the robots need to take over I'm done. Me I I think I'm oh my god dual authenticate. Yes it's me. See users manage. This what I find voice all right here we go. Bad office. Users. There we go let's assign you a number. DC office which we don't have any more is your location so yeah we'll probably have to change at some point. You should have the number now it it might take if you don't get it in like the next 30 minutes let me know but I can.
+Gioia Garden: Awesome okay registration pending yeah I say it says my phone number is 301 yeah okay can you
+Christopher Hume: give those people call I appreciate it
+Gioia Garden: yeah definitely and then I don't think anything else is burning you'll call Kristen and yeah sounds good reach out if you need anything though
+Christopher Hume: awesome thank you Joy I appreciate chat Friday.

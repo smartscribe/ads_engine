@@ -1,0 +1,187 @@
+Lee Harrold: Wow, it's nice and sunny. I think spring is like finally here.
+m.durand: That's great.
+Lee Harrold: Yeah. So tell me about yourself. What kind of medicine do you practice?
+m.durand: Yeah, so I'm a physician assistant working in psychiatry and working in Charlotte, North Carolina.
+Lee Harrold: Oh, cool.
+m.durand: Yeah, it's good. I like it. I'm just like in an outpatient practice. Child, adolescent and adult.
+Lee Harrold: Sounds pretty chill relatively.
+m.durand: Yeah, it's actually very chill. I get to do pretty much whatever I want with my schedule. So it's actually incredibly chill. Yeah, it's great. I could call out tomorrow and it'd be good to reschedule. That's fine. Yeah, that's fine. Yeah. So it's good. Yeah, I like it.
+Lee Harrold: Well, cool. And it sounds like you're interested in moving your patients into JotSite from your current EHR.
+m.durand: So yeah, we've been using, well, I've been using JotEc now since probably has it been August or September. Yeah. So for a little bit while, but mostly using it as like the dictation service and then copy and pasting over to our remark.
+Lee Harrold: Yeah. And that's in the intent is to continue using it that way.
+m.durand: Yes.
+Lee Harrold: Well, we can go ahead and get your patients in the chat. So can you share your screen?
+m.durand: Yes, actually. Well, so I scheduled the visit today specifically because I was having an issue with it.
+Lee Harrold: Oh, okay. Oh, so you were trying to do the import already.
+m.durand: No, I don't know what it's scheduled this as,
+Lee Harrold: but it was more like now I understand.
+m.durand: Sorry. Yeah, I was having an issue with, like. Editing it, like using the AI. And just take a look. Yeah, so I don't, I guess if it wasn't, I guess I didn't explain it right or it was, it got booked weird. So. Let me try to share my screen here. I don't know. I don't use this. I don't know where the button is.
+Lee Harrold: Here it is. Okay. It's like a smiley face right next to that.
+m.durand: Okay.
+Lee Harrold: So.
+m.durand: Tell me, since I guess it's a different thing than what we both thought it was. Tell me what you mean me to do to help or to give you the information.
+Lee Harrold: Yeah, for sure. I guess, yeah. So you said the error is that like you're trying to use this AI note editor and it's just not doing what you expect it to. Is that the issue?
+m.durand: Yeah. Okay, cool.
+Lee Harrold: I guess, yeah, show me an example of a note you're trying to edit and I can see what I can do to make it behave.
+m.durand: Let me see if this is one that has a good example.
+Lee Harrold: So it.
+m.durand: Now let me pull a different note. Let's pick a random one.
+Lee Harrold: See? What other cards?
+m.durand: Yeah, it is. Okay, there we go. So. I have been using this one template, just this EM add on psychotherapy with plant. I've, like, kind of. Changed it to the way that I want it to be. But then I have one section here that is like my own section. And it used to work great. It used to never have an issue. But the plan summary, like I always wanted to just be formatted exactly like this. But every single note, almost, I would say 95% of notes. The AI chat thing to then copy and paste. This into. The thingy. And then it fixes it exactly the way I want it the way that it's supposed to be,
+Lee Harrold: but you have to do it like every single time.
+m.durand: Every single time. And then it says, do you want to train it? And I say, yeah.
+Lee Harrold: And you're like, yeah, do that.
+m.durand: And it's like, I will ignore you. Maintained the training. And it's to the point now where it makes me a little bit nuts.
+Lee Harrold: So that's why we need a professional pressure wash this robot.
+m.durand: I'm either doing something insanely wrong. Or I just. Yeah. So then it does it. Okay. And then I look at the plan summary. Look, it's exactly the way that I want it to be written.
+Lee Harrold: And to be honest, I don't, I don't know either.
+Lee Harrold: It seems like it's being really ornery.
+m.durand: And this has been the case. Like. So there was one point where, and I could tell you exactly when it was.
+Lee Harrold: It was when.
+m.durand: So you know how you can scroll. You see how I'm scrolling here. Yeah. But none of this. Scrolls away.
+Lee Harrold: Like it. Oh, yeah. Like we're zoomed in pretty far. Is that you hit.
+m.durand: It at like a small.
+Lee Harrold: Oh, okay.
+Lee Harrold: Is that better? No, this is, this is good. I guess the reason the reason the reason that I mentioned that is like, I think we're on like. 60 or like 160% zoom inside of JAWSEC right now.
+Lee Harrold: Like if you were to go to the browser at the top, where is it? What browser are you using? Or I guess yeah, control minus a couple times. You get a little bit more screen real estate.
+m.durand: Yeah. Which that part doesn't bother me. Okay. Sorry. Yeah, sorry. It's okay. It's more so saying like this line right here. It used to be able to go away when I would scroll.
+m.durand: And that went away.
+Lee Harrold: That exact moment in time.
+m.durand: Decided to start being a jerk. And so I don't know if I need to totally reformat it or if there's any like tips or tricks you have.
+Lee Harrold: Well. What I'm going to do is maybe just change it directly. On my end because it sounds like something is wrong with the AI editor in that particular note because it sounds like you haven't noticed it failing to take your instruction. On any of the other sections
+m.durand: because yeah, the others, the other sections like for a little while the AI thing would be. Like, you know, I think you might want this kind of formatting.
+m.durand: And I'm like, I don't know.
+m.durand: I don't know why it changed the way. And so then I would just put it back. And then it was fine. And it's been really fine other than that's the one section that I'm having a hard time. Sometimes I have a hard time. Let me show you up at the.
+Lee Harrold: Top.
+m.durand: Like I used to put the patient's age in here. But then every like other patient was always a 25 year old female.
+Lee Harrold: Yes. Yeah. If you yeah, it's using that as an example and it's like, oh, this is what you want, right?
+m.durand: Everyone is the same. Yeah. And it's like, no, it's a 38 year old dude. And so I just got rid of that. But like that was the only other weird editing thing. Sometimes I have some difficulty with it, but for the most part, it has been formatted the way that I want it, and I'm happy with it. Other than now, like the. And maybe it's because this is the only. Like fully custom section that I have where I have it. Very particular to have my practice works. I'm not sure.
+Lee Harrold: Yeah. So tell you what, I'm taking a look. Now at what we're using. Let me just see if I can fix this quickly. You can see an up close look of my eye
+m.durand: as I'm running back and forth.
+Lee Harrold: No, you're fine. Sorry. Okay, can you paste into the chat the sentence that you keep that you constantly supply? And just never listen to?
+m.durand: Yeah, where find the chat box here. Oh yeah.
+Lee Harrold: To the right of the sneaky hamburger menu in the small view. Include all mids and doses in plan summary.
+m.durand: Yeah, literally that's all that's I copy and paste that in. Sometimes without proofreading the note because I'm like, I know it doesn't. And then sometimes well and what's crazy about it, it's hard.
+Lee Harrold: You're good.
+m.durand: In this. No, it only changed the plan summary as you saw up here. It knows the doses like it knows so.
+Lee Harrold: And it rice it. That other incentives can't yeah.
+m.durand: Right. And so it's not even an issue of it like not having them information because I didn't say it. It's like. I just it's a formatting problem, I guess because then sometimes and this one isn't a good example because this patient's only on one med. But then sometimes it'll be. Like it'll pull old stuff where it's completely irrelevant and it's the instructions from the last visit. Yet the assessment plan part is accurate. And so then I put that little sentence in and it's like, oh yeah, you actually do want that.
+Lee Harrold: Okay, got it. Had to lose some little work. So yeah, sometimes you'll see, you'll, you'll notice inconsistencies between the sections because they don't, they don't really talk to each other. They're like, they each have their own. I think of them as like perspectives. Like they're all.
+m.durand: Interesting.
+Lee Harrold: Okay. Sharing their take on what happened in the session. So they all have like some criteria that they're looking for and stuff they're listening for. So yeah, stuff will get weird if like you ask a couple of them to try to look for the similar thing. Because they'll have noticed different. Ly different facts will have become, what did you say?
+m.durand: They're like looking through different lenses at the same.
+Lee Harrold: Yeah, that's a great, that's a great metaphor.
+m.durand: Yes, that makes sense. I didn't know that. I thought it was all just.
+m.durand: The same kind of, I mean, I'm not naked.
+Lee Harrold: It was like less. Yeah, we, it was a little less effective when. We had a single thing look at everything. It would, it would miss, it would miss details that like each, if, if we, if we had broken it up each one, each other one would have gotten. Yeah, let's see if I can't just change this direct. Okay. I'm just, I'm just going to add this. Add your line directly to. Selection and then we can try to regenerate a couple notes. I might. Send you a transcript, like a fake transcript to paste into the additional note section. And then we can just run a couple to see if it works.
+m.durand: Yeah.
+Lee Harrold: Let me just scan this quickly. Okay. Do you want. The sentence, the patient presents via telehealth from home for a recheck? Oh.
+m.durand: Always are you talking about like yes, because majority of mine, that is the case, but that like the way that my auditors read my notes, that it has to be right there. Otherwise they like where do they know where was it?
+m.durand: I don't know this time. Like read two more sentences.
+Lee Harrold: They can't, they won't. So yeah, they refuse.
+m.durand: Yes. And that's why I like the plan summaries. So like the summary and the plan summary are like the two things that have to have like specific verbiage in certain spots. And it's like, gotcha. Yeah.
+Lee Harrold: Wait, sorry. Was the thing you sent me? Was that for the summary for the plan summary?
+m.durand: Plan summary.
+Lee Harrold: Okay, I'll quickly remove that from the summary.
+m.durand: Yeah, I'm glad we talked. At the very, very end.
+Lee Harrold: Include only these elements. Medication instructions. Therapy continuation follow up time frame. Medication instructions.
+m.durand: Yeah, it should literally be like continue Prozac 40. Continue the Motrigine 25. Stop taking Wellbutrin. Follow up informed ones.
+Lee Harrold: Like straightforward.
+m.durand: That's exactly so that like when the people doing refills and stuff need to know what was, what was Morgan talking about. Like they can just. It's like a reference, basically.
+Lee Harrold: Makes sense.
+m.durand: Yeah.
+Lee Harrold: I was reading. Who is a book? I see where I was having an issue. It's just become. Like the amount of information that it has to draw from to try to understand how to create this as we go. Really long. And so I think it's just getting confused.
+m.durand: It's like how many times. Yeah. It's like putting the same information in.
+Lee Harrold: Okay, maybe we just scratch it and let's do that.
+Lee Harrold: Yeah, let's start from scratch. Actually, here's how we should do this.
+m.durand: Can you find somebody with like a complicated note?
+Lee Harrold: Yeah. Or like describe. Oh yeah, here's what we can do. Like describe to me knowing that I'm someone who doesn't know really anything at all. Medicine. Or, well, I guess helping people. Like there's really, I know almost nothing. Like if you could describe to me how I would format this note and then like type that in. Maybe that's what we can use here.
+m.durand: Okay. You want me to type it in to tell you?
+Lee Harrold: Yeah, yeah, put that in this chat and then I'll use that and that'll be our guidance for this lens.
+m.durand: Okay, let me think how it would say this. And as frequency. We'll start with that, I think.
+Lee Harrold: Fantastic. I was clicking and dragging over it in this side chat and Google thought that meant I wanted to move it. But it allowed me to continue dragging.
+m.durand: So just chasing it across.
+Lee Harrold: All right. So I'm going to save this. And let's see if we can't find a complicated one. And then try to try to regenerate the note for it.
+m.durand: Okay. You want me to find somebody then, let me think.
+Lee Harrold: Go fishing.
+m.durand: I'm going see, let's do this one. I believe this would be a good one. I mean, most of what this person's doing is going to be continuing stuff.
+Lee Harrold: But.
+m.durand: I mean, this one is pretty much the way I would want it written. That's the crazy thing.
+Lee Harrold: Nailed it there.
+m.durand: Yeah. Yeah. But I mean, do we want to regenerate that or regenerate like one that's messed up?
+Lee Harrold: Let's find one that's missed out.
+m.durand: Okay, let me see. If this one is messed. If this one's right.
+Lee Harrold: I'll be.
+m.durand: Yeah, there you go. See how it just says mg. It's like you know the milligrams. I know you know it.
+Lee Harrold: Yeah, just say it's come on.
+m.durand: Now you know it. Just put the number. Because then it doesn't for some of it. I don't know why. It must have been like you said, I just prompted it too many times that it just is wigging out.
+Lee Harrold: I'm doing my best. I don't know what you want. Right. So to regen it, you can click the dropdown. Where it says em add on psychotherapies. And then, yep. Oh yeah, you've done this a few times.
+m.durand: Yeah, yeah.
+Lee Harrold: She's a professional.
+m.durand: I got it. I got it.
+Lee Harrold: Don't worry. Spinner spin. Almost. So close.
+m.durand: She's almost there. Oh man. See that's like way too much.
+Lee Harrold: Let's pair that down.
+m.durand: Previously taken it.
+Lee Harrold: No. It's hiding in front of us. Okay, we wrote right line by line instructions. Breach mitigation. The patient is taking the information for each medication should include name, dose. Frequency. Indicate if they are continuing. Okay, so let's add some specific
+m.durand: written as what if we just said like the instruction should be written as continuentilics 20 once a day. Next slide. And then like increase Ritalin to 20 milligrams twice a day. Next slide. That's how it should be.
+Lee Harrold: I'll give it an example. But I won't use those words lest everyone take Ritalin.
+Lee Harrold: No, I think I think a lot of people got in trouble for that actually Morgan. I don't think we should really. Over prescription. I guess just generally bad. Okay. All right. Can you say that again? And then I'll type it verbatim. Yeah. And then I'll replace.
+m.durand: It should be written as. Like continues 20 milligrams.
+Lee Harrold: Once a day.
+m.durand: And then the next slide. But I don't want there to be a little bullet dots.
+Lee Harrold: No bolo dots.
+m.durand: Yeah. And then this all reminds me of one other thing I have to tell you that is. Also confusing. And it is this section. I don't know how I'm going to be able to show this to you by sharing just one screen. But when I. Take that section. If I don't touch it, I don't edit it and I copy it and paste it. It copies and paste it as formatted. But if I go in and even hit like the space bar on that section, it will suddenly double space all of it.
+Lee Harrold: In chat with outside.
+m.durand: No, once I copy and paste.
+Lee Harrold: Where are you pasting it into?
+m.durand: My EMR.
+Lee Harrold: Which EMR.
+m.durand: We use in sync.
+Lee Harrold: Okay. I haven't used it one before.
+m.durand: That's crazy. Only section that it does it in like if I edit other sections. Copies and paste fine. But in the plan summary section, if I do even like if I add a period. It will double space all of it.
+m.durand: That is only when it's copy.
+Lee Harrold: Have you tried like copying it into like notepad or a word doc try and then like editing and then moving it over? That's crazy. Like I don't know.
+m.durand: Yeah, let me do this one. All right. Copy. Yep it does it like if I just pasted it into like a sticky note on my computer and it's double spaced.
+Lee Harrold: Interesting. Yeah. Okay. So I'll note not to use line breaks. It's not use bullets. Or line breaks. So I think it's inserting a secret markdown character. That ends up. Double space again.
+m.durand: I mean you know I don't know.
+Lee Harrold: I'm spitting in the wind. I don't know. Okay. And the last. Let's say follow up. Like.
+m.durand: Let me see if it does it like this one too. Now copy like the one we just reformatted.
+Lee Harrold: Yeah I would be curious to win. No doesn't.
+m.durand: Okay formatted the same except for the last line but I think that's normal like it doesn't look. Like it normally does. But also there's like bullets and stuff. So I don't know maybe like erasing all the stuff that you guys.
+Lee Harrold: Okay I just I just saved a new version. So let's try let's try to regenerate this node again.
+m.durand: I'll queue up the general would I like go in. And see what all the is there a way to see what the prompts are for each of these like how the AI is what the assumptions are.
+Lee Harrold: That would be. That would be super useful I think for a lot of our users and so so intimidating. For a lot of our kids. If there was some sort of like yeah, like super user secret button you could click
+m.durand: three times now right and so then I can just see like what assumptions are you making
+Lee Harrold: why can I change them directly yeah.
+m.durand: Because really the only way to change the formatting is through. The note view like this.
+Lee Harrold: Right that's right.
+m.durand: Okay.
+Lee Harrold: It's not wait. No weird it didn't didn't give us bullets it's using m dash to separate things there aren't double spaces between things each phrase is one line used milligrams the first two times and it oh does not specified okay for quantitative
+m.durand: so then if it says does not specify it just needs to be pulling the dose from previous information like if I didn't change it and I didn't say that it should assume. Gotcha previous dose the previous.
+Lee Harrold: So it's it has access to the note that came immediately before that anything before that it won't have access to but you're saying it had that in the in the previous note?
+m.durand: The know before the plan summary will always have whether I do it or the AI does it will have that information always okay. So like if it pulls the previous plan summary the exact same formatting.
+Lee Harrold: Wording but it should keep pulling it forward forever yeah yeah. You know what I think this. I think this is pulling from the note that we just generated before which didn't which didn't have. The previous was that that would explain why this this has the lip break in that chain. We delete that now I wonder if we can delete that yes. Yeah.
+m.durand: Oh not the transcript yeah we want to do that.
+Lee Harrold: Yeah okay I think I think actually we can't delete the individual notes it's okay
+m.durand: well we you can you got to do it like.
+Lee Harrold: Oh that's right for you yeah.
+m.durand: Right here.
+Lee Harrold: I'm learning I'm learning new stuff.
+m.durand: I mean I've been using for professional I know that's what I'm like I promise I can handle seeing the assumptions for the AI I assure you I'm capable yeah but okay so I feel like now that you've reset it because I didn't know how to reset it I can get it back to the formatting I want is there a way for me to reset it if it does go back to being crazy?
+Lee Harrold: I think the way to reset it would be to send us an email and then we can reset it
+m.durand: for you're going to get like a like a quarterly email like hey can you can you reset my plan summary
+Lee Harrold: absolutely how are the Carolinas right now is it right
+m.durand: well and the reason I say that because I'm sorry I have a patient at three so I have to like go and see but right. Basically now that like that's been reset I think I can get it back to like the way that I want it to be because I feel like the other sections have been good about figuring out it was like ever since one update I don't know. Why like there was just one update that happened and the formatting got kind of wonky and then I think I kept trying to get it back and probably over that actually makes perfect sense yeah I probably over instructed the AI.
+Lee Harrold: And because we didn't show you how to like change its lens there was no way you could diagnose it yourself
+m.durand: basically sitting here like it's playing tricks on me I notice
+Lee Harrold: yeah it is actively antagonized me great
+m.durand: yeah exactly yeah to get me this is this is where it starts the robots are taking over so anyway I feel like that was what I needed to get it. Fixed Fantastic so I'll just continue to like give it the instruction I need for it to be the way that I think it should be formatted. And then if we get back to a point of it being silly or it won't train and maintain it then I'll just have you reset it again or I can make a new one I guess I could try to make a new
+Lee Harrold: plan you could start fresh by deleting that section and starting again actually that would yeah that might be short short short of contacting me that would be the most effective way to do it quickly
+m.durand: with that just real quick when I have this to like looking at this. This is the main one that I use if I do want to add a section is there a way to add a completely blank section like so why was it come on so in here I can search all the public libraries sections but is there one that's just like blank or like one that I can.
+Lee Harrold: The way to do that would be to exit out of this session and then click the sparkles at the top right of this screen and then enter the AI editor mode and then say hey I want a new section. That is X y and Z
+m.durand: got it okay I didn't know that I didn't know where to find that that's helpful okay.
+Lee Harrold: Thank you absolutely well hey enjoy your session of three and it was great to meet you
+m.durand: yes you too sorry I sent you on that. Wild ride you thought you were coming in for data migration
+Lee Harrold: and it was I was ready I had my tools I had my toolkit.
+m.durand: Thank you for your help I appreciate it and hopefully hopefully you won't be getting quarterly emails about resetting my plan summary there and some of them yeah thank you bye.

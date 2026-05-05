@@ -1,0 +1,260 @@
+Heather Rigney: Of course.
+Becca Bressler: So the reason that I. And I'm going to ask you to share your screen at some point, but with JOT Psych, the reason I'm reaching out is I noticed that you have minimally interacted with one of our newer features called JOT Audit. And I'm just looking to get some feedback from you. Do you even know what I'm talking about?
+Heather Rigney: Okay. Is it. Yeah, it's the little AI window that pops up on the right. And then you press. You can chat or you can audit.
+Becca Bressler: Right? Yes.
+Heather Rigney: Perfect. I'm going to share my screen with you. Yeah, I'm working on a template right now because we. Since the new rollout happened, usually we spend six hours at work. Now we're spending 14 hours at work since the new rollout with JOT Psych. It's been terrible for us. We. It's. So anyways. Yeah. So I'm so glad we're having this meeting because I feel like we'll be able to get to the bottom of it. But let me share with you. What do I do? Allow to share. Window, Right?
+Becca Bressler: Yes.
+Heather Rigney: Okay. Window Safari. Okay. Do you see me my stuff now?
+Becca Bressler: Yes. It's a little blurry. It's actually quite blurry, but I don't know why because presumably it's not. I don't know if it's a connection. An Internet connection thing.
+Heather Rigney: Wait, stop presenting. Hold on. I might have did it wrong. I'm not very tech savvy. I'm just going to share my whole screen.
+Becca Bressler: Okay.
+Heather Rigney: I don't have any secrets. Needs permission. Oh, my God. I'm sorry.
+Becca Bressler: Oh, please don't apologize at all. Google Meet is not. Yeah, it's. It's not a great platform.
+Heather Rigney: Okay. Privacy. Yeah. Right. Now let's try it again. Choose content to share. Settings for me and updates. Settings. Oh, my God. I'm so sorry. Oh, no problem. Let's figure this out. General. Okay. Do you see it now?
+Becca Bressler: I think you need to. Yeah, it's coming. It's coming. So, you know, it's still a little blurry, but I think we could probably make it work. Anyways, let's just give it a try. Okay. It could be just, like, an Internet connection thing. The. I'm curious when you go to audit. I'm just trying to get a sense. I've noticed that you not much, but have, like, explored it at least. Like, you've clicked on a couple of things, and I just kind of would love to hear more about that. Like, was. Are you curious or was it an accident?
+Heather Rigney: No, no. So. So one of my jobs at. Oh, my God. The. The daycare is calling. Yeah. I'm so sorry. Oh, my God. Of course. Hi, Jazzlyn. Is everything okay? Hey. Hi, Heather. I was just calling you. There was just a small incident with Colby. He. He just wanted to play with a friend in the kitchen area in the classroom. Friend didn't want to play so much and bit him in the finger. Oh, no. Did it break the skin? Oh, no, no. So he kind of had a reflex and got to pull away. So it was just a little nab. It was red at one point.
+Becca Bressler: Okay.
+Heather Rigney: No, A. Okay. No worries. Thank you so much. I appreciate you letting me know. Thanks, you too. Bye. Bye, Becca. I'm so sorry. Okay, so here's. Here's my. Here's my thing. I'm trying to audit to our specific inpatient code, 99232. And I don't know if that I can get that code on here. And how come it's not loading now?
+Becca Bressler: It's a great question. Can you go over to the payer aware. Can you click. Do you see where it says pair aware note? Can you click that? Yeah.
+Becca Bressler: So you should be able to see it in your note, too. And ultimately, like, we're going to be doing away with this payerware note, so it's always going to exist within the note. But, yeah, I would love to, like, get. So. So, yeah, tell me a little bit about you. What you were. This code. How. Yeah, I just kind of want to hear it all. And how. How you came to this.
+Heather Rigney: Yeah. Okay, so I. One of my. Because we work fee for service inpatient, right. Uhs for profit setting, we always need to document why the patient cannot walk out the door today. Right. So what I've been doing is taking the provider inputs, and I made, like, a GPT and I have this interqual criteria that I need every provider input to meet. And then I. I take the notes from the EMR and I make sure that the notes that we're publishing and signing meet all the interqual criteria. Because we want to make the most money and we want to provide a good service to the hospital. So they keep us on. Right. So we want to make sure we have no denials. So I have this grading system that I made.
+Becca Bressler: So. Heather, can I back you up for a second? Yeah. Can you tell me a little bit about this code? What I'm hearing from you is your documentation has to support billing of a certain code. Can you tell me about what this code is and can you tell me what the documentation needs to show to support it?
+Heather Rigney: Yes, yes, yes. Interqual. We must meet Interqual criteria for 99232. So when our providers dictate, I need them to mention all 11 of these things.
+Becca Bressler: Right?
+Heather Rigney: Okay. The opening line, we know how to put that into job site. We got it. It gives us it every time. Right. Then our provider should say like all of these quotes. Right? My issue is in a perfect world when I just use ChatGPT, I, I can, I can say these quotes and it'll spit me out a perfect Note that is 11 sentences and it's synthesized correctly. It doesn't add anything, it doesn't hallucinate. Because I coached my GPT not to hallucinate. Right. It doesn't, you know, it's not redundant. It doesn't make things up. And it gives me a perfect 11 sentence, brief note. Right. When I, when I say these things into jot Psych, it makes things up, it repeats itself. It omits certain items. So we're having to spend a lot of time editing the notes. Now we, we need to use.psych because it's HIPAA compliant, because we want all of our providers to use the same format so we can monitor their productivity. Right. So we don't want, we want to discourage providers from using other dictation services that they might procure on their own. So we, we, our goal is to make dots, like perfect. Right.
+Becca Bressler: So, and what in your EHR is this just like one big text box that you end up copying and pasting it to, or is this just like one section in your EHR that it goes into?
+Heather Rigney: So the, the hospital system that we're at has right now, they have this proprietary bed board, which is horrible. And it is, it is a rectangle progress note, and then it's a treatment plan. And then it's a bunch of check boxes where we're going to do the MSC and medication compliance and discharge date and estimated length of stay. And then at the last page, there's another box where the utilization management Department wants us to write our like number 11, right here. The plan includes this, and that's why they're unsafe for discharge today.
+Becca Bressler: Got it. But otherwise, do these numbers just like go in different boxes in your.
+Heather Rigney: No, no, no, no. These numbers are just how we organized it so it's easier for people to make sure they're hitting all 11 points. When we're having our internal discussions on, on how we should be documenting on patients, the numbers don't mean anything. It's just the 11 criteria that are required to be in the note somewhere that we write do.
+Becca Bressler: But do they do? Like, let's say you hit all 11 in your dictation. I guess maybe what I, what I'm hearing from you is like jot Psych. You guys have a template in Jot Psych that matches like what should go where ideally, and, and that's what you're copying over.
+Heather Rigney: So I, at first I thought that that's what I needed to do with the new rollout. I'm like, perfect. I'll just make a. Give Jot Psych the directions that you're going to get these 11 domains and then you're going to spit me out a nice good note. Well, it was. Jot Psych was spitting me out first. It spit me out this exactly right. Number one, identification patient. Right. And then I told it stop putting in those titles and headers. And then it started writing. It wasn't a header anymore. It was identification with a colon. And then the sentence. And then it is pretty verbose. So providers were spending a lot of time going through and making sure all of those little fake headers were deleted in the long paragraph. Right. So that, that didn't work. So anyways, I worked with Dr. Takahashi and we ended up making what we're using now, which is this.
+Becca Bressler: Oh, this is, this is going to regenerate your note, which maybe is fine, but you could click.
+Heather Rigney: No, it's fine. This is test note.
+Heather Rigney: So, yeah, so, yeah, the inpatient progress note 2026 and failed to regenerate.
+Becca Bressler: Can you click the note? Can you go to the note instead of the payer aware note and then try it?
+Heather Rigney: Yeah.
+Becca Bressler: Well, here it is.
+Heather Rigney: This is the inpatient Mugan 2026. So now what I'm doing today, this is my fourth test note. It's. My grader is telling me that it's. They're like not going to get denied. They're just super wordy and they are. It keeps doing this.
+Heather Rigney: It's saying things that I'm not saying.
+Becca Bressler: Because you're copying the transcript also.
+Heather Rigney: No, I'm not. I'm copying the transcript into my GPT.
+Becca Bressler: Yeah, right. So that it can review what the notes are doing.
+Heather Rigney: Yeah, exactly. Because you're nothing with a bad transcript. Right. It's dots. Like it's not a clinical decision maker, it's a formatter. So yeah, that's. And which is why part of my job is to coach the providers on that clinical side. So we're where our, our inputs are good. Because you, you're nothing if you don't have a good input. So we have that, that part covered. Right. That's why I have the 11 domain, so the providers can go through and I know their clinical reasoning is on point, but it's
+Becca Bressler: still started doing with the new update. Heather.
+Heather Rigney: I started in December. I didn't know there was going to be a new update. I started in December and then, you know, it kind of coincided with the update and now we're still working on the template. Does that make sense?
+Becca Bressler: Yeah. Can I. So I actually just kind of want to back up and ask you about the job audit stuff and we can come back to this. But, like, so obviously having a tool that helps you understand the compliance of your documentation, meeting certain criteria really, really matters. Is that why you clicked audit? Did you know why you just like, oh, what's this thing? Did you sign up for it or.
+Heather Rigney: I assumed that it was going to tell me where I'm at with meeting the criteria for the code that I want. Yeah, I intuitively thought that. Yeah.
+Becca Bressler: So then can you walk me through your experience of investigating it and like, just as a user, like, what are you seeing? What do you wish you could do that you can't? Are the flags even correct? Right. Like, there's like an accur question here.
+Heather Rigney: Yeah. I feel like the flag is super wordy.
+Becca Bressler: Okay.
+Heather Rigney: I wish it just said, like, needs this, needs this, needs this. Missing this, like, this note. Just although the case involves high safety risk, like, and then it gets cut off. Right. So I'm. I'm a provider who sees 35 to 40 patients every Saturday and Sunday. I don't have time to freaking. Yeah, expand that paragraph.
+Becca Bressler: Yeah. Do you. What do you think about the recommended code?
+Heather Rigney: 90834 is like a. It's not. That's not a base code that I can build. That would be an add on. I need a 99232 or a 99233.
+Becca Bressler: Okay. So nine. Oh, this, this code right here requires another add on if you're going to bill for it, is what you're saying.
+Heather Rigney: Yeah. And we don't even. We would do 90833. Hold on, let me see what 90834 is exactly. It's not for inpatient hospital. So. Nope, wouldn't even pertain to us.
+Becca Bressler: Okay, so if you're so. Yeah. Can you just like, walk me through your experience? So it's wordy. Like, when you look at it, like, what are the other reactions you have? So you look at this code. This isn't the right code. Like, what would you. Like, what would you ideally like to do to make this work for you?
+Heather Rigney: I wish I could change. Like, I want to tell it. I need to meet criteria for 99232. And what am I missing?
+Heather Rigney: Yeah, that would, that would solve all of our problems at Moogen.
+Becca Bressler: Oh, my God. So you want to be able to input the code that it's assessing? Yeah. Awesome. Can you just for the hell of it, I know it's too wordy, but can you open the non compliant things and, like, just tell me your reaction to, like, the quality of what you're seeing.
+Heather Rigney: Okay. It looks like I don't open them, I just hover over them. Right. Although the case involves high safety risk and recent. There's no time.
+Heather Rigney: So I think that's like a high yield way to say that.
+Becca Bressler: So then what would you. If, like, let's say it was briefer and you were like, oh, that's helpful to know. Like, what do you think your next step would be here to implement it?
+Heather Rigney: I think I would just. Can I. I would like to add in an addendum to the transcript and have it regenerate my entire note.
+Becca Bressler: Got it. Can you say more about why you would want to add it to the transcript? Is this because. So my apologies. It's. I'm struggling to read it. Is the idea that this is what this is telling you is that you didn't say something in the transient.
+Heather Rigney: Exactly. Yeah. There's no documentation of coordination of care efforts or attempts to contact other providers. So for 90834, I guess it's a complex outpatient code which requires coordination due to, like, comorbidities. Right. So. And when we are, we're opening our outpatient office in next month. So this is going to pertain to us what you guys already have loaded in.
+Becca Bressler: Right.
+Heather Rigney: We're going to be using this. And that's going to mean, like, if I'm. I have somebody with alcohol use disorder and they have elevated LFTs, I'm going to have to call their doctor at Northwestern. And Now I can bill 9834. So I'll have to document that. Yeah. So that this makes a lot of sense to me as a provider. I just want to have an. I want to have a button where I can talk into my computer, I guess, and be like, phone doctor. So. And so yesterday we discussed ongoing medication regimen. We'll continue to monitor LFTs. Patient has appointment with this doctor next month, and we'll see me two weeks after that. And right then I would meet the criteria.
+Heather Rigney: Yeah, so that would be easy because I can add it in super quick like that.
+Becca Bressler: So do you have like, do you see this little wand icon?
+Heather Rigney: Yes.
+Becca Bressler: Do you have any idea what that might do? Or like.
+Heather Rigney: Well, I know it's a. It's a magician AI thing, but I never pressed it. Should I press it?
+Becca Bressler: Yeah, let's see. Why didn't you press it like your instinct was to say, oh, I just want to add to the transcript and regenerate. Why would you not be interested in. Or like. Yeah, why did you. Was your instinct not to press this
+Heather Rigney: because I just have no trust in job psych AI right now. And as a high volume provider, I'm like, oh, I can't even get into the AI. But that's because I'm conditioned for this rapid inpatient world. Right? I would imagine. I mean, I'm, I'm like an. I'm a very, like, AI person. I want to have AI take over my life, so I do. I. I do go for AI But I just have a bias right now with shotsych.
+Becca Bressler: Yeah. And is this specific to, like, what you've been experiencing since December or is this kind of just.
+Heather Rigney: No, this is since. This is since the rollout. It got. The AI got more difficult to work with.
+Becca Bressler: Okay, got it. So what do you see right now and what do you think about the results?
+Heather Rigney: No, I think it's good. So we clicked the wand and I just have to add it in. Add into the box right here what I did. I'm going to select what domain it is. So I'm going to add the treatment change and then I'm going to talk about. Or I can actually do this one for like, the scenario I just gave. Or I could do both, I imagine. So I'm going to say, like, spoke with outside doctor about comorbid. This is my substance abuse girl right now. Comortive cocaine use. Coordinate outpatient substance use treatment and introduce the idea of naltrexone LAI to manage addiction. I think that will meet the criteria. Let's see. Okay. So now I'm going to go back to my audit and see if it. Nope, I still don't meet it. Right. Oh, reanalyze. Okay. So it got better.
+Becca Bressler: Did you review the changes it made? I'm curious, like, what your impression.
+Heather Rigney: Sorry, I didn't just. I didn't just read it. As part of ongoing medical decision making, coordinated with their outside physician to align an outpatient substance use treatment. Yeah, I think that's good.
+Becca Bressler: Okay. So you. You like that? Okay. Can I just keep watching you do this, though? I'm just curious, like, how you're.
+Heather Rigney: Yeah, yeah, yeah, yeah. I'm. I'm. I'm putting on my outpatient hat. Sorry.
+Becca Bressler: I was gonna take me.
+Heather Rigney: Note. Does not document income. Medical decision making elements. Okay. So I guess I want to add. I don't. We don't want. We don't. Add time like that. Like when we submit it to billing, something that we would do in our workflow. Can I ask it a question?
+Becca Bressler: Let's see. I want to watch you. Yeah. So what is your instinct? What question do you want to ask?
+Heather Rigney: I want the AI to tell me, how do I make them? How do I make the note? Me. 90834 criteria. So this is those options.
+Becca Bressler: Oh. Like, which of those is the right one? Okay. This. This is so helpful.
+Heather Rigney: Hold on. Let me.
+Becca Bressler: Yeah. What is your experience of, like, what just happened when you added that, asked that question? Were you hoping to get an answer? How do you feel fact that it just changed something?
+Heather Rigney: Well, I love it. If it. If I'm going to pass the test, if I can trust it, and it automatically does that, I'm ecstatic.
+Becca Bressler: Okay.
+Heather Rigney: Okay. I'm still not passing the test. Okay. So it's telling me I have two issues, and then I come over here to audit. I have two issues.
+Becca Bressler: One here.
+Heather Rigney: Yeah. Yeah. I would be really confused about
+Becca Bressler: that because you see two red dots. One issue.
+Heather Rigney: Okay. Yeah. Now, this could be actually the template because for inpatient psychotherapy has to be distinct, but for 90834. Okay. It must be distinct and separate. Okay, so it is.
+Becca Bressler: Yeah. So can you walk me through what you're thinking? Are you confused?
+Heather Rigney: Yeah, I'm trying to figure out what it's missing. Oh, our code. Our code changed.
+Becca Bressler: Oh, interesting.
+Heather Rigney: Oh, I don't like that the code changed.
+Becca Bressler: Yeah, super interesting, huh? And can you say, like, more about why you don't like it? You could, like. Yeah, just.
+Heather Rigney: Well, I don't like it because I. As a provider, I'm thinking about. Everything I have to do to meet the requirements for that code. And now my code just changed and I don't know what path I'm going down now.
+Becca Bressler: Yeah, that makes total sense.
+Heather Rigney: I wish I could easily tell it, change this code right here for sure. Be like, no, I want 99232. Yeah.
+Becca Bressler: Because do you feel like as a provider, you know, one of the things I think this is trying to balance is like, I know what to code, but I need help making sure my documentation meets it to. I'm not exactly sure what to code. So can you help me? Like, it sounds like you fall into the camp of like, I know what to code, I just need to make sure my documentation.
+Heather Rigney: Yeah, I think that's weird, that provider.
+Becca Bressler: Sometimes, like, I think we see it more with like, newer providers, but. But yeah, there's a large spectrum of people needing, like, assistance with coding, etc.
+Heather Rigney: Oh yeah, because like, you should know what service you're providing, you know?
+Becca Bressler: Yeah. Or. Or not. No, not that they don't know. I think they don't know if it like, meets the requirements for, for a particular thing. Right. So like psychotherapy, add on, like, does this meet? Do you know what I'm saying?
+Heather Rigney: Like, I do. And then, and then you have to be careful for like your license protection.
+Becca Bressler: Right.
+Heather Rigney: It's like a whole, this is whole school of thought of like, you know, in the inpatient space, the weekday providers, they only do 99231 because they're seeing them five days a week, Monday through Friday. So they're going to document on improvements. We're seeing them two days a week. So we're not documenting on improvements, we're documenting on what they still need to work on.
+Becca Bressler: Right.
+Heather Rigney: And so it's like, it kind of gets into like, you know what I mean?
+Becca Bressler: Yeah, yeah, yeah, totally. So let's try this again. So you tried something. You are still hitting an issue with it. What might you do next? Would you try again? Would you be like, huh? Okay, let's see what the AI editor comes back. I mean, I'm saying all of this under the guise of like, or not guys, but in the world in which you would trust Jot Psych to use this, like, headline, I wouldn't use this because I don't trust Jot Psych's output. But like, in this world where we're like, testing it, can you envision that you would, like, click it again to be like, huh? Still doesn't meet it. Let's try again. Or like, what's your reaction here?
+Heather Rigney: I would. This would be time limited for me, right? I'm expected to have this encounter done from the patient walks in the office to the patient walks out in the outpatient space in like 57 minutes. So it would be time limited for me. So I would have my designated 10 minutes to spend on my documentation.
+Becca Bressler: If it's.
+Heather Rigney: It didn't work. I would go to my GPT and I would, I know it's going to be perfect. And I would put that and close the chart.
+Becca Bressler: So you would. Basically your move would be like, okay, I'm still not meeting this compliance for some reason. Copy paste ChatGPT, tell me what, how to make this more compliant and then you would put it back, is what you're saying. Yeah, okay, that's super helpful.
+Heather Rigney: Or I would like, just read like for my inpatient notes. Like I just read them, right? And I'm like, no, no, no. Yes, yes, yes. I know what to say. Yeah, right. I would just stop using it at this point because we wanted to just copy paste.
+Becca Bressler: Yeah. What is your. So when you see something. So one of the things that this feature offers, though it's not obvious, is you can upload your own rules to this, like, engine, right? So for instance, if you go to your. Or can you go to billing and auditing Nav navigation.
+Heather Rigney: Yes.
+Becca Bressler: And go to JOT audit. So basically what you're seeing are based on a set of rules that jot psychs put together from like a lot of different sources. But you can delete rules that don't apply to you. You can create your own rules based on your practice, based on a variety of things. Right? So some practices have really strict guidelines that they give clinicians. You can upload payer documents. So your actual payer contracts with insurance to inform this. Now, none of that is obvious.
+Heather Rigney: Clicked on this a couple weeks ago, but I was like, okay, wait, this is. I. It was too high level for me.
+Becca Bressler: I wasn't.
+Heather Rigney: It's like too much.
+Becca Bressler: You're like, I don't know what this is or what do you mean when you say high level? Actually, can you.
+Heather Rigney: Yeah, yeah. I didn't want to mess anything up, right? So I'm like, oh, I know. Providers in our clinic are like, oh my God, somebody edited the template. It's messed up. So I didn't know enough. And so I hesitated.
+Becca Bressler: I didn't want to like, you're like, I don't want to touch because it could affect other people.
+Heather Rigney: Yeah, I don't want to change any rules. But I, I was looking at this and I'm like, huh? And kind of what you just said, I. I thought about that. I'm like, are we editing the templates wrong? Are we giving. We're telling the rules in the editor, but are we. It sounds like we could put the rules here.
+Becca Bressler: So this would inform that like, audit tab that you're seeing when you first came here. So I totally understand the feeling of, like, I don't want to touch this because I don't want to affect other people. Did you kind of. Were you able to, like, intuit what it even was, or were you like, I don't know what this is.
+Heather Rigney: Like, what was your. No, no, it made. It made sense to me. I feel like the rule name was, like, the rules, right? The things that we have to document on and then how many notes jot. Psych reviewed under the total audit column. Compliant is how many notes met it. Warning is teeter tottering. Like it's gonna go either way depending on who your um, person is. And then non compliant, they failed the test. Right. So I got that the most violated rule. I'm like, oh, we only have one Iop provider, so that doesn't apply to us. Most compliant rule. I think that's so funny because that's my GPT tells me the same thing. Total rules. That makes sense to me. Like we, they didn't do everything probably in the book. That's how many rules we have for Mugen and then overall compliance rate. That's. That's easy for me to interpret. So I kind of like got all that. I knew it was like a data thing.
+Becca Bressler: Can you what happens when you click compare providers? I'm curious if you can see something. Oh, okay.
+Heather Rigney: So let's do nae nae and then let's do.
+Heather Rigney: Okay, So yeah, like this. Nina's has way more notes than I do from like a baseline. Let's see if I could add a provider who's like been here longer.
+Becca Bressler: Kelsey, Heather, what is your role where you work? Are you, do you oversee providers? Are you like a practice administrator
+Heather Rigney: or so I am a nurse practitioner. Okay. But I just for some extra money, like an extra addition to my salary, I do like admin stuff for Dr. Akira, who's our CEO. Okay. And so this is something that he needs to do. And so he assigned me to do this job. So I'm not like in management at all. Right. This is just something I like, oh, I want to make extra money. What can I else can I do? And he assigned this role to me. But as far as, like, I own, I own this, right? I'm he, you know, I communicate with the providers about their feedback and I coach them on how to get better. Like, I own this project.
+Heather Rigney: So hopefully I'll figure out how to improve Mugen documentation for all Mugen providers so we're more efficient.
+Becca Bressler: What is your impression of what you've just tried? Like, one of the things I'm trying to evaluate here is this is like a beta feature. So the people who signed up with it, like have been in touch with us, they know that it's in beta. And one of the things I'm trying to evaluate is like, how far we are from being able to put this in front of more people based on what you've seen so far. Far. Are you like interested in continuing to explore it or are you like, this is trash. Like, this doesn't work. Like, yeah, what's your. Where are you on the spectrum?
+Heather Rigney: No, I think this is great. I think that two things come to mind. I need to customize the rules, right? Because this is like not like, you know, allergy documentation. We have a section for that in our note. Right. So we're not going to write that in the body of the note. It's automatically put in the system upon admission and it's always in the note and that meets the insurance criteria. Right. So things like that, providers are not going to speak that in their dictation.
+Becca Bressler: What does that mean? Okay, so this is super interesting. So what does that mean for this? Would you're like, I would remove it because it's never going to be
+Heather Rigney: there or I don't want, I don't want to show this to providers. And then they're like, oh, well, this is moot because it has all these irrelevant things and they don't take the feedback serious. That's what I could see happening.
+Becca Bressler: So is the idea just to say it back to you like. Yeah, yeah. I don't want them to see a flag about missing allergies because they, we both know they didn't say anything about allergies in the session. So that would make them like distrust the system.
+Heather Rigney: Exactly. Yeah, yeah, it's. It wouldn't pertain to them and they'd be like, oh my gosh, that feedback doesn't mean anything. I'm going to keep doing what I'm doing and then we still have the same results because you're still doing what you're doing. You're not taking my feedback serious.
+Becca Bressler: And is that because like allergy information is captured in your EHR differently? Like you click boxes or it's dropped. Like, yeah. How is allergy information captured in your ehr?
+Heather Rigney: That intake, it's hard lined and then it carries into every single no that we do. Right. Discharge paperwork, there's an allergy box. Every progress note, there's an allergy box. And just to save time, it's already just hard lined in there from admission. In our ehr, we can change it, right. If they develop an allergy or we find an allergy while they're under our care, we can change it and it'll continue to hardline, but it's just something that shows up in every single note when we click new note.
+Becca Bressler: Got it. So this is super interesting because also, do you have to go, we're like, five minutes over.
+Heather Rigney: I don't want to take too much time. No, this is my job today. So you tell me when you're done.
+Becca Bressler: I'm ready for me. You're great. I'm really enjoying talking to you.
+Heather Rigney: This is, like, so helpful. Helpful for me, too.
+Becca Bressler: Yeah. And I so, like, one of the things we're balancing here is we want people to use ultimately Jot Psych as their system of record to send to billing. And so to your point about our EHR already had, like, the allergy information is already automatically being put into the note. For a user who's coming to jot Psych and is using us to do their billing, like, it would be important to flag it for them not to be like, hey, you didn't talk about allergies. But to be like, hey, Hey, before you submit, make sure you put something in here for allergies. Right?
+Becca Bressler: Because like in this imagined scenario they don't have their EHR where they're click, click, clicking. Can you like, you know, I'm just trying to think about the like tension there between like telling someone, like, hey, just remember before you submit, you need to have allergies here versus like, you know, oh, I don't want my providers to see that because like, duh, there's no allergies.
+Heather Rigney: Right. I'm thinking about this in a different way. I'm, I'm developing providers, right. So I want them to know I'm giving them high level good information. But for what you're saying. Yeah, no, it's important because it's, it's not a complete HPI if you don't include allergies.
+Becca Bressler: Yeah, but it sounds like what you want is the, it sounds like what you appreciate is the flexibility to like remove certain rules, basically.
+Heather Rigney: Yeah, yeah, yeah, that's great. If I can, if I can customize it to what is most important for our particular line of service that we're evaluating. That's really important for Mugen.
+Becca Bressler: And is your sense that like all of those rules would. Any rule that would be related to something not picked up in session you would remove basically, like anything having to do with allergies, anything like, like mental status exam stuff. Because I know people click in their EHRs a lot for that. Like, is that something you would remove like any rule pertaining to mental status exam or.
+Heather Rigney: That's hard. No, I would, I would keep the MSC because that's part of our 11 domains. We have to speak to one point of the MSC because that's how insurance companies got it. Prove that you actually did the encounter.
+Becca Bressler: So you do. Right. Okay, so there needs to be some quote or whatever it may be. No. Okay. Yeah.
+Heather Rigney: Monotone speech notable.
+Becca Bressler: Yeah. So based on what you've seen, it sounds like you're interested in continuing to explore. Like nothing was trust breaking. Where you're like, this is trash.
+Heather Rigney: I'm not going to try. No, no, no, no. I don't think it's trash. This part. No, no, no. I love dots. Like, I think the, I think how I. My knowledge of working with the AI is trash, but this is helping me is.
+Becca Bressler: Okay, great. So you're, you're, you would continue to explain. Can you do me a favor, Heather?
+Heather Rigney: Like, yeah.
+Becca Bressler: As you continue to explore, can you just like shoot me feedback whenever you know, even if you're like, I want the ability to do this or, like.
+Becca Bressler: Yeah, obviously, you're a very busy woman. I don't. I don't mean to request more of your time, but.
+Heather Rigney: No, no, no, no, no.
+Becca Bressler: This is great. Do you have around this any features that are missing? Anything that are conf. That's confusing? Like, you know, literally? I would love to hear, like, any and all of it. Okay. Do you want to talk about your template stuff now? Because I know you guys are having some issues. One thing I just want to say is, like, we have created a tool because we've heard this from our upgrade. We've created a tool where we. We can roll back your templates to where they were before the update. Do you want me to do that for your templates?
+Heather Rigney: Well, Dr. Akira talked to some guy who works there.
+Heather Rigney: I don't know.
+Becca Bressler: Did that already happen?
+Heather Rigney: Yeah, we already. Yeah, over the weekend. They already rolled it back to December 2025.
+Becca Bressler: Okay.
+Heather Rigney: So that. And that helped a lot. That was a big improvement. Now the only thing that is still there is like the redundancy and, and like the making. Hallucinating, making things up that we didn't say. Right.
+Becca Bressler: So that more since the upgrade.
+Heather Rigney: More. Yeah, yeah, we're seeing it more even after the, the he reverted it back to December. That was all six providers I was working with on Sunday were like, oh my God, it's still hallucinating. I literally said denies si and it's saying overt suicide risk remains or something.
+Becca Bressler: Yeah. Is that not really something that you guys noticed before? Because the, because technically with the. I guess this is like really surprising to me because as far as I know, the rollback technically like literally deletes it what it was before. So I'm just trying to figure out like what could be causing the difference. Was this just not something you guys noticed at all before? Or like you noticed it, but it wasn't as apparent?
+Heather Rigney: You know, I can't answer that. It could just be like recency bias.
+Becca Bressler: Right.
+Heather Rigney: And we're just hyper aware.
+Becca Bressler: I mean, which doesn't mean that's not frustrating. Like let's.
+Heather Rigney: I want to make sure that.
+Becca Bressler: Yeah, of course.
+Heather Rigney: Yeah, yeah, yeah. No, no, no, I got you, I got you. But it's good to know that. That it's now revert back to the old AI version. Yeah.
+Becca Bressler: Like, so there's nothing new in it in the training that should. That would explain that. I mean, I'm of course going to talk to my team about it, but.
+Heather Rigney: Okay.
+Becca Bressler: No, that's.
+Heather Rigney: Maybe we just didn't recognize it before. Okay. Or providers did recognize it and they didn't, you know, they just were like, okay, well this is the tool we use.
+Becca Bressler: I'll delete it.
+Becca Bressler: Yeah, I mean it's great to know. Like we want, we don't want the tool to hallucinate. But I'm just trying to like diagnose what. Yeah. Here. So. But, but no, I mean generally like feedback. I will be providing the rest of the team that you guys are just noticing that happening a lot. Yeah.
+Heather Rigney: Okay, so, so we, we have this template right here. Inpatient P.N. mugen 2026.
+Becca Bressler: Right. Yeah.
+Heather Rigney: This is the one that Dr. Akira wants us to use.
+Becca Bressler: Yeah. Why can't. You should be able to edit it.
+Heather Rigney: I know, and I'm an administrator, right? I don't know why I can't edit it.
+Becca Bressler: Yeah. So can I take a screenshot of this screen? Screen for a second.
+Heather Rigney: Do you mind?
+Becca Bressler: Yeah, yeah. Because this is something I'm going to put in my team right now. And I mean, this is a dumb question, Heather, but. But you are logged into your account right now. Yeah, I am ichar.
+Heather Rigney: Yeah. Yeah. No, that's not a dumb question. Me all day, I'm like, wait, wrong account.
+Becca Bressler: Okay, so I just put an ask out to my team because you should have that. But anyways, carry on, please. I just. I mean, maybe that is the problem.
+Heather Rigney: Okay, so this, the new rule. This doesn't affect the templates or. It does. No. So. Oh, no, the audit. It affects the audit tool on the side. Yeah. So how can you give me like a one minute, like, synopsis of how I can effectively use this for like, these problems I've told you about? What it.
+Becca Bressler: This tool would not help you with issues. This tool is really just about. I mean, you know, I'm like thinking on the spot here, but I. I don't know that a rule around hallucination would do anything here, if that makes sense.
+Heather Rigney: Okay. Because literally what we were doing is like saying, do not add things that I didn't say in the transcript and clicking the AI and then refreshing the note. Does that make sense?
+Becca Bressler: What do you mean by refreshing the note?
+Heather Rigney: Oh, let me show you.
+Becca Bressler: Let me show you.
+Heather Rigney: Yeah. Oh my. I'm like, where. Who's all these notes? Okay, so watch. I'll go here. This is what we've been doing. So I'm going to be like, do not add anything that I didn't say in the transcript. And then you send it. And then this happens. Let me just read it. No. Oh, my God. It's my literal transcript. That's not good.
+Becca Bressler: Yeah, it's interesting that like interpreted as.
+Heather Rigney: It's very concrete, this AI. Yeah.
+Becca Bressler: So do me a favor. Do you see the back arrow next to the section? Because that's a revert button.
+Heather Rigney: Wait. Oh, right here. Yeah.
+Becca Bressler: Have you noticed that before, by the way?
+Heather Rigney: No, I never did. When I, when I say refresh the note, I mean this right here, we were clicking, we were giving it feedback and then clicking this to implement the changes.
+Becca Bressler: Okay, that's super interesting. So you were typing, can you say why? So you were typing into the chat bot, then why refresh?
+Heather Rigney: Because no, I didn't even start that. Dr. Akira was like, oh, you have to click this refresh button. At first I thought if I just type it in here, it'll fix it.
+Becca Bressler: Just to make sure I can explain what's happening. The refresh is going to be useful for you to regenerate notes that were created post update. Because what the refresh will do is basically regenerate the note with the rolled back template. But thing you're typing in now and the reflect refresh actually have no connection to each other.
+Becca Bressler: So like anything in this edit chat is going to like update the current note, but it's not going to be related at all to a regenerate action.
+Heather Rigney: Okay, but don't I, don't I need to say like apply to all future notes?
+Becca Bressler: Yes. So yes. Okay, so, but this is super helpful feedback. Your thought was in order to apply it to all future notes, you had to type it in the chat box and, and refresh. Okay, so, so no, but this is really helpful to hear because that's like you, you know, that's our bad for not making this super clear. So one of the ways to do it is here, let's try typing something
+Heather Rigney: like I want to tell it to like still package it up in a pretty bow. Like I would tell ChatGPT, but I don't think I can talk to this AI like that. Do not add anything that I didn't say in the transcript. But still format the note here.
+Becca Bressler: Why don't we try something? Because you want it to do it for the entire note, right?
+Heather Rigney: Well, I don't want to mess with anybody else's work.
+Becca Bressler: So is this a shared, Is this a shared template?
+Heather Rigney: Template? Yeah.
+Becca Bressler: Okay, got it. So then I mean, so technically you have training permissions or you should, you don't right now, but like as a practice administrator you should be able to train this template. Are you trying to train it with this particular feedback or no?
+Heather Rigney: Well, I want to make sure it's perfect before I train it across every single note.
+Becca Bressler: Got it.
+Heather Rigney: Right. Because I have providers working today, but I don't want to mess with their note at 11:45.
+Becca Bressler: Yeah, got it. So you won't be able to see this here, let me see. Have you ever seen do you only ever use practice? Templates or organization wide templates?
+Heather Rigney: No, no, no. Like, I made my, like a lot of my own templates. I deleted them now like this 11 domain follow up one. Okay, I made that. That was one that I was testing last weekend. So that's the one I'm talking about where I remember, I have those 11 domains earlier.
+Becca Bressler: Yes, yes. So have you seen, when you've used that AI note assistant on the right, have you seen something pop up that says, would you like to train this for future notes? Have you seen that pop up before?
+Heather Rigney: No, not that I can recall.
+Becca Bressler: So I want to show you something with my screen, actually.
+Heather Rigney: Okay, let me go back to you. Do I need to take it off?
+Becca Bressler: Maybe. Let me try. Can you see my screen?
+Heather Rigney: Yes.
+Becca Bressler: So, Okay, so I want to show you something which is the way that this should work when you have training permissions on a template is like if you use language that's like always, never for all notes, etc. You can see what I'm typing.
+Heather Rigney: Yes. Okay.
+Becca Bressler: Oh, this didn't work. Okay, well, there we go. I'm gonna screenshot this, right?
+Heather Rigney: Because you said HPI section and that's a section on the left.
+Becca Bressler: Yeah, hold on.
+Heather Rigney: Now you're editing hpi.
+Becca Bressler: You should be able to just type hpi and yeah, you don't have to, but I'm just trying it.
+Heather Rigney: No, I did that before. Right. Put like in my 11 domain template, I put like edit the medical. The medical required necessity statement. And then would you like to train HPI to all? Oh yeah, I've seen that.
+Becca Bressler: To always apply. This didn't work right now. But like, if this does work for you. Yes. Train is what applies it to the template. So just so you know, like when you are, when you have the ability to train the template, this is how it would go and it picks up based on the language you use. So like if you say always or never, like that's when it would prompt this. But I'm taking photos of this because this should work differently. Okay. I don't know what's happening here. This should what you should. See is the changes applying to this. Yeah. To train. I'm not sure why this isn't working.
+Heather Rigney: Yeah, we've done that before. Like, we've. That's what we were doing. Okay, so we know about that.
+Becca Bressler: Okay. Anyways, all to say, like, the regenerating. So here's what I'll say if I believe if you train the template and then regenerate it, it will regenerate with the trained template. That said, ideally, if you're training it in the note, you won't need to because the note will already have, like incorporated the changes.
+Heather Rigney: Does that make sense? Yeah. You don't have to do it twice.
+Becca Bressler: Got it. You don't have to know it's. But regeneration might be helpful for you for notes that are on the. The, like, updated template that you guys don't like.
+Becca Bressler: So if you go back and regenerate, you'll get the old format.
+Heather Rigney: Right, right, right. Maybe that's like they thought that you had to do that because we dictate as we're rounding and then we get down to the doctor's lounge and then we look at all our notes. So then we made a change to the first note that we looked at. Oh, it's fucked up. And then we go back to intake. Now every patient we open, we regenerate it. Okay, got it.
+Becca Bressler: Okay. Okay. Heather, is there anything else that you want to chat about? Like, I've certainly gotten more than enough helpful feedback from you, but no, I think I'm good.
+Heather Rigney: I'm really, really grateful that you are going to hear all of our feedback and hopefully give us some good pointers so we can have good notes.
+Becca Bressler: I would definitely recommend using the AI editor to give feedback around. And it's true, it's clearly very sensitive to language, but around, like, make sure to not include things that were not. Maybe, maybe not use the word transcript, but say, like, do not include things that were or never include things in the notes that were not explicitly, like, discussed in the session. Right. So that's maybe a little bit more. It doesn't tie it exactly to the transcript, if that makes sense. Yeah, that's one suggestion. But sometimes it does just take, like trying it with language in it. It's. It's unfortunately not as smart as ChatGPT. Right. I know with ChatGPT you get to be a little bit more looser, but that's my best guidance for you right now with particular issue.
+Heather Rigney: That's really helpful.
+Becca Bressler: Great. Okay, Heather, thank you so much for your time.
+Heather Rigney: Yes, thank you. I'm really sorry I took so much of your time.
+Becca Bressler: No, no. Oh, my God. You're a much busier and more important person than I am, so I really appreciate it. And we'll send you over gift card. Please send me any feedback you have around your audit. So. And like, if you're open to it, I'd love to, like, check back in in a week. Or maybe we can hop on another call to talk about it more thoroughly.
+Heather Rigney: Yeah, definitely.
+Becca Bressler: Thank you so much, Heather.
+Heather Rigney: Bye.
+Becca Bressler: Bye.

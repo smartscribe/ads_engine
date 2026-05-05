@@ -1,0 +1,121 @@
+Aleida Cruz: Your Wednesday Much better than my Tuesday.
+Christopher Hume: That's good.
+Aleida Cruz: Those people better be happy that I wasn't in the office yesterday, or I might have killed a few of them. Oh, my God, what a day. They were driving me insane. Their main template was gone. Oh, dear. Oh, well. Somebody deleted it. I thought they couldn't do that anymore.
+Christopher Hume: Let me take care of. You still missing your template ale?
+Aleida Cruz: Well, we're using yours.
+Aleida Cruz: Perfect, but it will not regenerate.
+Aleida Cruz: Okay, we can record from scratch, but we can't regenerate using it. I was hoping that they would take yesterday morning's notes and regenerate them with that one. Because they were using a psychotherapy template, and that's just not going to gut it.
+Christopher Hume: Okay. So what we're going to do later is we're going to get you which template was it that they.
+Aleida Cruz: What? The one that they deleted. I think it was called either. Med follow up. Or I have to look. Let me look. Oh, my God. It's weird because the template is there, but it's just blank. It has no sections in it at all.
+Christopher Hume: Okay? This is something. If you just tell me the name we can restore.
+Aleida Cruz: If I'm going to use yours, I don't really need.
+Christopher Hume: Yeah. Do you like it? So I saw you gave me.
+Aleida Cruz: Yours is much better. Yeah, yours is good. But I sent you the few little things that I saw in it. And I didn't think that anything was. Major.
+Christopher Hume: That's awesome.
+Aleida Cruz: If you can get it to do what I want it to do, great. If not. And I'll have to figure something else out.
+Christopher Hume: But it's supposed to be much more robust. This is like our new I gave you early access to our new template builder or our new template backend. So it's supposed to be a lot smarter, a lot more connected, so hopefully it runs faster. Okay.
+Aleida Cruz: It runs faster, and it's pretty good. I mean, in terms of capturing the information, but it's not capturing. And I don't know. I don't even know if you can do anything about it. It's not capturing anything from labs and tests. It says none. Every single one that I looked at for yesterday for everybody that did them. It said none, and I would go back and look to see. Okay, well, did this patient have this stuff? Yeah. It was there before, so it might be that it wasn't done during this visit, but it was done in a prior visit, and it wasn't picking up on that at all.
+Christopher Hume: Okay.
+Aleida Cruz: One that I was using was picking it up, so I don't really know.
+Christopher Hume: Then we should be able to fix that. That shouldn't be too big of an issue.
+Aleida Cruz: What is this? Is this new? I don't know what I'm doing. Let me see the note. My template is called. I have no idea what the hell the template is called.
+Christopher Hume: It is. It has npi in the title, if that helps.
+Aleida Cruz: What do you mean?
+Christopher Hume: Are you looking for the template I built for you.
+Aleida Cruz: No, I know.
+Christopher Hume: I'm sorry.
+Aleida Cruz: No, I'm looking for the one that they deleted.
+Christopher Hume: Okay?
+Aleida Cruz: I have no idea which one it is. It was a follow up. God. Think it was mid follow up.
+Aleida Cruz: But I have met. No, it can't be that one, because I have that one. That was no good. That one's terrible. Follow up meds. You know what? I'll have to email you or text you. I'll have to ask. I have no idea. I have to go back and look at my text. The bazillion text messages from yesterday.
+Christopher Hume: If you want us to restore it, we certainly can. If not, you can just use the one we made for you. I'll make those changes alone. And I'll figure out why you can't regenerate. Because that should not be an issue, so that should be something that should be resolved. Yeah, it shouldn't be a problem.
+Aleida Cruz: Can I copy that template over? Copy it? To use your sections that I like. In a different template because that readout template, it's terrible.
+Aleida Cruz: Yeah, the ones that you guys restored for me. You restored three different versions. And none of them are really. One was missing an entire section. And the other ones were not that good. So I ended up using the one that was missing the entire section and just doing a quickie. And now they're all complaining about it's not formatted the same. I'm like, hey. I just did a quickie thing. You would at least get grab the information that's needed in that section. I know it's not formatted right? But yours is formatted, right? So I thought if I could use your sections and then create maybe the new HPI section for the Reval, because I think that's all I have to do.
+Christopher Hume: Is that all you need, Alita? Is it just the hpi?
+Aleida Cruz: I think, yeah.
+Christopher Hume: If you keep it between us. But when I make these changes to the current template, the new one I built for you, I can just make you. If it's only a few new sections, I'll just make a new reeval for you as well, as kind of part of the whole package of trying to get you up and running on these new. If you just want to tell me what sections. From and just let me know from yours everybody's liking.
+Aleida Cruz: And yours is called interval history. But in the reeval the hpi, the interval history is the hpi. Or the follow up for the follow up visits.
+Aleida Cruz: We call it interval history. Because it's really what it is. What's happened since the last time we saw you? For the revalve. We have to go back and. And do. It's like an evaluation where we're just. It's an updated evaluation.
+Aleida Cruz: So we have to go back and go through patient history again, you know, school and whatever and education and tell whatever, so.
+Aleida Cruz: So you could probably. So I'm thinking I'm going to look. Well, if. If my section. I don't know. I. I don't know what you can do, but if this. If the HPA section is good in that reeval, maybe you could just pop my HPI in with this stuff. The only thing that changes in the reval, it's the hpi. And then in the. You have so many sections in yours.
+Christopher Hume: I tried to make them a
+Aleida Cruz: little easier to tweak the instructions and orders. Which is. Which is really no big deal, because I can just. Oh, I don't know. I don't know how that works. And the instructions and orders. There's just like a couple more things that I have to put in for the revalue records from the primary care.
+Christopher Hume: And do you like your know and consent?
+Aleida Cruz: That's it for the Reval.
+Christopher Hume: Yeah.
+Aleida Cruz: That's it. So just in instructions and orders, which is a short section. It's the same as what it is here. Same instructions in order. But we also have to address the fact that when we do a re eval, we get updated records from the pcp. And get consents all over again. That's it. So it's just adding those two things, and then I'll look to see what my rebound looks like.
+Christopher Hume: Yeah. So a lot of what I'll do is I'll make the changes requested to the follow up, I'll copy it and tweak it so it can be a re eval and I'll pop those looking.
+Aleida Cruz: I'm looking at the reval, the HPI section.
+Aleida Cruz: I'm looking at the HPI section and it is actually exactly the same.
+Aleida Cruz: As a follow up visit. It's just that. You know what? It's not even that. It's going to be a new section. It'll be that. It'll be the interval history section. Plus a history section, a patient history, where we just. We do. Social history, family history. All the history, medical history, psych history. So it's just. It's. It's really just adding a history section.
+Christopher Hume: For the.
+Christopher Hume: That shouldn't be a problem. The. The. I think the thing that's going to take the longest is just making sure I make the changes you requested to the the follow up.
+Aleida Cruz: I figured. I figured.
+Christopher Hume: Yeah.
+Aleida Cruz: And then give me. Do you think that you can get that you can make one quick change and. Send me a new one.
+Aleida Cruz: What's the patient's age?
+Christopher Hume: Let me see. Yeah, I'll do that.
+Aleida Cruz: I don't know what happened there.
+Christopher Hume: Where is it supposed to be, Elena?
+Aleida Cruz: In the interval section. It's at the very top.
+Aleida Cruz: It should be the first that I talk about.
+Christopher Hume: Yes Let me few template.
+Aleida Cruz: I don't know why it says it only will say. It'll either say this is. An adolescent or this patient who is between 60 and 80 years old. Something, stuff like that. It's like, I wanted to say how old they are, but if it doesn't know how old they are. But I mean, we have dates of birth in there for all the patients. They should know how old they are. If it doesn't know how old they are, then it needs to just omit it. And not say things like, Not documented.
+Christopher Hume: Okay?
+Aleida Cruz: In other words, when it where it says 34 year old male accompanied by it would. If we don't know the age, it would be just male patient accompanied by. Just omit the years altogether. You know, we never. We never, ever, ever want to document in a note that. We don't have something documented. Especially something like the patient's age, because we obviously know the patient's age.
+Christopher Hume: When providing the age, provide the exact age. Example 28. If we don't know the age, just omit that part of the sentence. Entirely. Okay? Just made. Excuse me. That's change on our backend, Elida. I'll do a little bit more of a robust review of everything and check, it'll probably be tomorrow or Friday. And then I will make that second template for you based off of this one and the feedback you gave me.
+Christopher Hume: Okay, the other question. The other two things I have for you, Elena. Is 1. I know you want to share sections between templates. I just want to let you know that this is something that we have the entire kind of product and business team has flagged as like a something the engineers need to work on. Was there before. I know, I know. I certainly know. So we've flagged it as something that we want to add back because, man, I know it is a point of emphasis in our internal meeting. So I just wanted to let you know that we do listen, we do hear you, and we're pushing for that. And then secondly, I don't know why. You can't delete your org templates. I am having the same exact had the same exact issue when I went to try myself. So we're going to.
+Aleida Cruz: Well, I don't want to. I don't want to delete them. I want to remove them. For Morgan, is it?
+Christopher Hume: Yes.
+Aleida Cruz: I want to put them back. Can you just share your screen with me so I can see? What you're doing.
+Christopher Hume: Yeah. So you just don't want them to be an org template at all.
+Aleida Cruz: If I decide. Yeah, if I decide that I really, you know, because my people, I'm telling you, I really think that my staff is probably worse than anybody out there, because I can't believe that I. Cannot believe that everybody in this country. Is. I cannot believe that psychiatrists and nurse practitioners are this dumb throughout the country. That's my point. They get confused. Because, you know, I put your NEI in there, but I also had an old one in there for a follow up. And they're like, well, you got two in there. And I'm like, jesus. What do you want me to do? I can't remove it.
+Christopher Hume: No. This is actually something that. I'm not sure if I just missed the training on how to do this, but it's something that I don't see how to do right now from that you're supposed to be able to do. It. I'll show you. And I'm sure you already checked this. You're supposed to be able to do it from this screen.
+Aleida Cruz: But I think I've done it before.
+Christopher Hume: Yeah, and for some reason it's not working right now or that it doesn't take. So I'm actually just going to go and bother the engineering team right now. We're all co working today, so I'm going to see if I can get you a quick answer to this. Alida.
+Aleida Cruz: Okay. So that's one thing, and then the other thing is on my templates, when you go to my note. What is it? Documentation notes or not notes, but the other notes. Or note templates. Documentation note templates. Okay, so what happened? What's happening? I don't know why? Because now it's happened twice. My provider should have. They have all these things on there and they've got some of them. That they've pinned and not pinned and whatever. They should only have on their list. The templates that they use. So what happens is they're like, I never use this template. Let me delete it. Well, it deletes it from everything. From everybody.
+Christopher Hume: And so a lot of that should not happen again. That was an oversight on my part. I was in transit when we were I know. I was in transit when we were resolving it last week, and I didn't get through everyone's permissions. I literally, on this call, just removed everyone's permission so that should not happen again. That's on me. And that's my apologies.
+Aleida Cruz: Something you had to do.
+Christopher Hume: Yep. I had to go in and just remove access.
+Aleida Cruz: Should I test it? Why can't I? I got to log in as somebody else to test it.
+Aleida Cruz: You could have someone test, but I can delete them, right? If I delete it. If I delete it from your templates, it should not delete it. From organization templates, correct?
+Christopher Hume: Well, if you delete a template as. The supervisor and is the practice administrator that would impact everyone, because you're the only one who's supposed to be able to control the templates.
+Aleida Cruz: But if I do, I have, like, a bazillion of them on my templates list.
+Christopher Hume: So what I would do is just press the. Is just unpin them.
+Aleida Cruz: Oh, my God. But, yeah, that's what I did. Okay, that's what I did. But it's a bazillion of them. All right. So I'm not going to worry about that.
+Christopher Hume: Yeah, don't worry.
+Aleida Cruz: I'm not going to worry about that. That doesn't seem to be top priority for me. It's just I want to make sure that when they delete, they don't delete my organization template.
+Christopher Hume: That should be. If that should not happen again. If you want to test it with one of your colleagues'login please do.
+Aleida Cruz: What I'll do is I'll make a little dummy. One that I don't care. Yeah, I'll be smart about it because I'll just make a real quick dummy template or use one of the ones on my list that I need to delete.
+Christopher Hume: That I really delete.
+Aleida Cruz: Okay? So that's the main thing.
+Christopher Hume: Okay, so we need to make those adjustments for you. I'll take care of those Thursday or Friday. And we also need to see why you can't remove org templates. I'm going to go handle that right now.
+Aleida Cruz: Okay? And please, you sort of. Kind of left us in the lurch. I still need to get Dr. Hong on the system.
+Christopher Hume: Yes, I would love to do that. I just wanted to make sure you were comfortable with the template before we brought Dr. Hong on board. But if you think that the new template we developed is close enough to where he'd. Be comfortable with it. I can do that whenever. Works for you.
+Aleida Cruz: Yeah, it's good enough.
+Christopher Hume: Fix the agent, fix the age.
+Aleida Cruz: Because I sent a group message this morning and then everybody was complaining. I'm like, you're going to have to go in and edit people. I don't want it to say this. Patient is between 50 and 60 years old. I better not find that in the charts. They were all complaining.
+Christopher Hume: Well, hopefully I just fixed it, but I'll do a deeper dive. Later this week and test it myself. And then do you want me to reach out to Dr. Hong directly?
+Aleida Cruz: No. Go through victoria.
+Christopher Hume: Will do.
+Aleida Cruz: Yeah. He doesn't know what his schedule is.
+Aleida Cruz: He just shows up and sees whatever.
+Aleida Cruz: Page whoever's there, whatever's on his sheet for the day.
+Christopher Hume: Nice way to do it, that's for sure.
+Aleida Cruz: So the only other thing that I wanted. That I think I put in the email, too. Oh, I already told you about it. The labs and tests. Right, Labs and tests, populating the information. So I don't think that's. I don't think it's a template issue. I think it's. Why isn't it finding? Why isn't. It finding it ever.
+Christopher Hume: Yeah, it might be something that when I developed it, I told it to look at lab. Only look at labs that were discussed during the session or something like that. So I'll poke around and see what's going on there.
+Aleida Cruz: Okay. All right, so that's pretty much it. Wait a minute. Juanita told me something. Wait a minute. Oh, wait. She texted me something a little while ago, and I said, oh, I'm going to meet with him in overall. And then I forgot. I didn't forget. Just. I didn't realize that it was that time. Where's Juana?
+Christopher Hume: Time flies when you're having fun, right, Alita?
+Aleida Cruz: Nothing that I plan to do today. Have I done? Where's wanna? I just had this discussion with her, like, a few minutes ago. Was it a group conversation? Oh, here I go. Oh, it's a Bible that she can't regenerate the nei. We need to be. I need to be able to regenerate that.
+Aleida Cruz: Of course, because I want to go back. I want to go back in for the morning patients yesterday. We want to regenerate the ones that they did in psychotherapy so they can get those put in the patient's charts.
+Christopher Hume: Yep, I'll go.
+Aleida Cruz: It's weird.
+Aleida Cruz: It's just weird because it'll.
+Aleida Cruz: Work, I can select it and do it. To record the session, but it will not let me use it to regenerate.
+Christopher Hume: I'll go. The two questions I'll ask right now and I need to later is why you can't regenerate and why you can't remove templates from the org. And then I'll take care of
+Aleida Cruz: the other ones and then I will email you the stuff for the reval.
+Christopher Hume: Perfect.
+Aleida Cruz: I'm going to take a look at that right now. Okay.
+Aleida Cruz: All right, thanks.
+Christopher Hume: Bye.
+Aleida Cruz: Bye.

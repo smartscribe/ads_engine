@@ -1,0 +1,112 @@
+Lee Harrold: You got your paper? Cool.
+Healing Circle Psychiatric Services: Oh, did you get beat up?
+Christopher Hume: A little bit.
+Lee Harrold: I did. No, I was trying to help somebody up and then caught an elbow from someone who. Didn't notice that I was bending over to help the other person up.
+Christopher Hume: Oh, no.
+Healing Circle Psychiatric Services: Are you sure that's the real story, or did you actually get beat up?
+Lee Harrold: Well, you see, I fell down in the shower, and my spouse is in the room next to me.
+Christopher Hume: Hey, Marcus, thanks for joining us. So Dallas just wanted to quickly introduce you to Marcus. He's our edit engineering here. So I wanted to make sure, in addition to the medium guns of me and Lee, we brought the big gun to Marcus to make sure we get all your data transferred over correctly. I think, Dallas, what would probably be the best way to proceed here, unless you guys would prefer differently, is we can walk through kind of what's missing, the issues we're facing, and then Lee and Marcus will help kind of scope out how we're going to fix that and how we can get you guys. Up and running to make sure that tomorrow is official kickoff and visit is as productive as possible. Would that work?
+Healing Circle Psychiatric Services: Yeah, I'm logging into my job site.
+Christopher Hume: Okay? But I think I'm going through my little tracker here. Dallas, the first thing we're missing is that addresses didn't transfer over into jot.
+Healing Circle Psychiatric Services: Yeah, a lot of them didn't.
+Christopher Hume: Okay? We're also looking at a lot of dates of birth didn't transfer. Pronouns and gender didn't transfer. Two engineers on the line. Dallas a good place to be.
+Healing Circle Psychiatric Services: Okay? Oh, it's with my work email. Okay?
+Christopher Hume: And just let me know.
+Christopher Hume: When you're ready for me to walk through kind of the things that we're hoping to get Lee and Marcus fix.
+Healing Circle Psychiatric Services: All right. I think I could be able to get him here.
+Christopher Hume: Have you been able to log in, or are you still facing issues?
+Healing Circle Psychiatric Services: No. I'm just not illiterate today. Must be the night quail.
+Christopher Hume: Yeah. Nyquil will do that.
+Healing Circle Psychiatric Services: Nike will do that.
+Christopher Hume: Sleep well though. Such trade offs. The only good part about being sick is that sweet Nyquil nuts.
+Healing Circle Psychiatric Services: Not the daytime one.
+Christopher Hume: Yeah, that's true.
+Healing Circle Psychiatric Services: Anyway. Okay, perfect. So when I go to patients and then do I need to share my screen?
+Christopher Hume: I think that might just be helpful. I believe we're tracking most of the issues, but that would be great if you could show us your screen.
+Healing Circle Psychiatric Services: Okay?
+Christopher Hume: Dallas. Just so you know, I'll probably have to jump off this call a little early. My Uber coming to take me to the airport to take me to Fargo, so. My apologies.
+Healing Circle Psychiatric Services: I have to run. Oh, how exciting. It is flat land.
+Christopher Hume: It is exciting.
+Healing Circle Psychiatric Services: A new plan for me. Yeah. Okay, so jots. Ych.
+Christopher Hume: Perfect.
+Healing Circle Psychiatric Services: I don't know. I'll just go to a random one. So, Tyler, this is in here.
+Healing Circle Psychiatric Services: He doesn't want this stuff in there. So when I pulled all of the data from Simple Practice, their nickname in there, okay? The date of birth did not pull either. Okay. Gender didn't pull. And then demographic info. So. Address? Some of them pulled forward, but not all of them. Phone number? Emergency contact, which isn't. I mean, that should be in there. Especially when he's doing telehealth. Employment info I'm not worried about or insurance. It's just mostly like this stuff he can't use. And he kind of needs to know this stuff, too.
+Christopher Hume: No, of course. Right.
+Healing Circle Psychiatric Services: Otherwise. That's what needs to get going in order for him to use it.
+Christopher Hume: Just one question before we jump into getting this solved. Did at least all of the people come over? There wasn't an issue about it dropping people or anything like that. It was just the people came with not enough information.
+Healing Circle Psychiatric Services: Yeah, I think everybody, because I did the whole poll.
+Christopher Hume: Ok.
+Healing Circle Psychiatric Services: And Lee and I had went over that last week that certain features of simple practice just does not pull.
+Christopher Hume: Okay?
+Healing Circle Psychiatric Services: So if I go to that chart, I was tyler. So it has that nickname in here because that's for billing. But his real name's Tyler. Bo. And then his date of birth would be in your contact details. Yeah, it has, like, the emergency contacts. It just wouldn't pull. So Dr. Alec can't really use it. And that's why I asked you guys. I'm gonna have to give you access to our ehr.
+Christopher Hume: Go ahead, Lee. You're the tech guy here.
+Lee Harrold: So. Yeah, like. Like. Like we discussed, Alice, I think, in the last call, when we discovered. That the client export, you know, doesn't. Support the export of the values that you mentioned. It becomes kind of like, you know, an internal conversation for us, like, do we want to build a new thing to automate export using the simple practice. PDF. Export. That, you know, remember the one that was like multiple gigabytes, you know, that you uploaded to Google Drive and sent over. That's a path forward. You know, if we wanted to get gender and secretary insurance names and data birth. And emergency contacts.
+Healing Circle Psychiatric Services: But that didn't have it in there.
+Healing Circle Psychiatric Services: In that big one.
+Lee Harrold: I think it. I think it may have. I think it may have had that in there in the PDF. Reports.
+Lee Harrold: In my drive.
+Marcus Irven: So are you using all of the things that are missing that they need isn't available through the normal simple practice export? Is that the issue at hand? Are you sure? It's everything.
+Healing Circle Psychiatric Services: So Dr. Alec just can't use it like he can't use jot Psych without like their date of birth. Without their home address in there, like, with the nickname in there. So it's a lot of editing that, like, we just don't have time for. So I pulled everything that I could from simple practice. And I put it into job psych, but it wasn't pulling, like, their date of birth, their emergency contact, their gender, nothing. So we're having to scram last minute before appointments and trying to, like, clean it up in order for him to use it, or it just won't work.
+Lee Harrold: Gotcha.
+Healing Circle Psychiatric Services: So I think I know you told me to hire some friends, Lee, but I don't really have that many friends.
+Marcus Irven: I want to do that.
+Lee Harrold: Absolutely. Looking at this CSV, there are about 300 patients. And. I think 60 of them. 60 of those 300 contain, you know, like the insurance, do not charge or secondary do not charge. Sessions.
+Healing Circle Psychiatric Services: Yeah. And that's from tide mark. Gotcha.
+Lee Harrold: So I I think the lift wouldn't be too high for us and our end to create an account login and then manually delete. Those tide mark additions. Yeah, inside of Jatzech, if that would help you. The the address is is surprising because looking through this CSV, I see that there are about 150. Total clients that don't have an address. And so I would imagine that it's. It's like if you went to, for example, Jared no Insurance Zone. You would see that, like he, you know, inside of simple practice also doesn't have an address. So I'm wondering if that, you know, like that might account for the missing addresses. Because there's, you know, there's a 50, 50 chance if you click on a patient in that seg now that they. Won't have that address.
+Healing Circle Psychiatric Services: Okay? I'm going to Jared. No, it sure, it's easy. Yes. Yeah.
+Healing Circle Psychiatric Services: So that must have been, like, a new patient. So. Yeah, I guess the ones that I'm just really worried about are just the ones that don't say. What did it say? No insurance, no cc. I, I, I don't really care about those, but the ones without an address, like, do you Am I able to give you guys access to our simple practice to just copy and paste what's.
+Lee Harrold: You absolutely could.
+Healing Circle Psychiatric Services: And, yeah, that's what I'm hoping to do.
+Lee Harrold: Someone who. Who has an address inside of Simple Practice, but doesn't currently have an address. In jot Psych. That. That I think would be a good. A good case we can discover, you know, like, because it sounds like. Many of the imported patients in jobs like DO have an address, so there were some for which it didn't come in for some reason, but they also actually address inside of simple practice.
+Healing Circle Psychiatric Services: Yeah, and, like, sometimes the apartment number didn't pull forward either. And so in their emergency contact, when he's doing telehealth, That has to pull forward.
+Lee Harrold: Yeah.
+Healing Circle Psychiatric Services: And so again, has an emergency contact.
+Lee Harrold: Yeah, I think for emergency contact. I'll have to go back and look and see if the PDF from that huge export. Contains that information. And if not, our options are either manual copy and paste, or we build, like, a custom kind of scraping tool that can go through all of these and export that information. But yeah, emergency contact just isn't supported by the default patient export from Simple Practice.
+Marcus Irven: Yeah. I think as a next step, if you could give us access, then we could go through and see what we were able to do. We could let you know.
+Healing Circle Psychiatric Services: By later this afternoon.
+Marcus Irven: What? What we're able to commit to.
+Healing Circle Psychiatric Services: Okay. Do you want to be here, Marcus or Lee?
+Marcus Irven: Yeah, let's give it to Lee. But I'll sit over his shoulder, and we can look together if necessary.
+Healing Circle Psychiatric Services: And then it's the jot Psych or whatever that email is.
+Lee Harrold: Yeah, let's get that right over.
+Healing Circle Psychiatric Services: Okay. I think it's going to ask for a date of birth.
+Christopher Hume: They will put it in and then he'll transfer it over to jobs like, too.
+Healing Circle Psychiatric Services: But when I create the account, it needs like, a date of birth.
+Christopher Hume: Oh, okay.
+Healing Circle Psychiatric Services: Do I put your phone number like.
+Christopher Hume: Lee, just. Just while we're doing this, I. My Uber to start the journey to Fargo is about to arrive, so I'll have to drop. But, Dallas, I'll send you an email from the airport just with the plan for tomorrow and looping and Assia, just to make sure we've got lunch. But if you need anything at all, I'll be checking by email. And I really look forward to meeting you in person tomorrow.
+Healing Circle Psychiatric Services: Have fun with that flight.
+Healing Circle Psychiatric Services: Hopefully you're not flying Delta.
+Marcus Irven: What's going on with Delta?
+Healing Circle Psychiatric Services: I don't know. I'm a United girl.
+Christopher Hume: I'm usually a United person, too, but I'm Delta today, so you stressed me out there. I'll love.
+Healing Circle Psychiatric Services: I'll see you soon, Lee.
+Christopher Hume: Marcus. I'll be in touch to make sure we're ready.
+Marcus Irven: We'll follow up and we'll follow up later today with what we can do. Thank you.
+Christopher Hume: It was nice.
+Healing Circle Psychiatric Services: Thank you so much. Bye. Okay? Oh, he left, too. So it's.
+Lee Harrold: It's just you and me, okay?
+Healing Circle Psychiatric Services: I can make you an account and then. I guess. Just email me if it doesn't work. Or since you have EHR access, you could just message me in there.
+Lee Harrold: Okay, yeah, either or. I'll probably email you, but I just don't know how reliable the EHR messaging is.
+Healing Circle Psychiatric Services: But yeah, yeah, after that data pull, I don't know either. So.
+Lee Harrold: Yeah, seriously. Can you? Yeah, I guess. While we're on the call, could you just add. Add me now and then I can. Get into email, make sure it's set up.
+Healing Circle Psychiatric Services: Team members. Our team member. And. Then email. Gosh. Go back. There's too many tabs open. Oh, your birthday, like 7. 7 97. Wow.
+Lee Harrold: Yeah. A lot of sevens.
+Healing Circle Psychiatric Services: I know. I have a Halloween birthday.
+Lee Harrold: Cool. That's a cool birthday.
+Healing Circle Psychiatric Services: Yeah. So it's a supervisor. So for team members who can supervise. Okay, yeah, I'll do that. Because then you could see everything. And then continue. Okay? You don't have an nbi.
+Lee Harrold: I do not.
+Healing Circle Psychiatric Services: It says the email jot is already associated with a Simple Practice account. Oh, so you must have made, like, a different, simple practice.
+Lee Harrold: I did. Oh, that's true. I did a different email. Use. Try this one.
+Healing Circle Psychiatric Services: Okay? All right, so it should have went.
+Lee Harrold: Okay, let me check. Cool. I have it. Let me log in. Skip for now. Customizing your account. Okay, great. Yeah, I'm available. So now I'm going to jump on with Marcus, and then we'll take a look at what it is we can do.
+Healing Circle Psychiatric Services: Okay, well, I'm sorry you got the shitty job, but I did what I could.
+Lee Harrold: Yeah, I think it's. It's. Yeah, it's a simple practice situation now. We'll see what we can do. I think you enjoy talking to Chris. He's a really great guy.
+Healing Circle Psychiatric Services: Good friend. I know. Do you guys know each other from, like, I don't know. How.
+Healing Circle Psychiatric Services: How did you guys meet each other?
+Lee Harrold: We're just so. We're just all pretty close. It's a small team, and so we. We spent a lot of hands on time together.
+Healing Circle Psychiatric Services: Yeah, because it seems pretty close. I know Brittany mentioned that, like, you guys are teaming up together. Or something, so, yeah.
+Lee Harrold: That's good, too.
+Healing Circle Psychiatric Services: No, I love brittany. But all right. Well, thank you.
+Lee Harrold: Thank you.
+Healing Circle Psychiatric Services: Have a good.

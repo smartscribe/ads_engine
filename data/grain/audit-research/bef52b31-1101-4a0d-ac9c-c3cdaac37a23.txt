@@ -1,0 +1,201 @@
+Becca Bressler: And then I put together. Let's see. The first thing I think we can talk about, Marcus, is like some of the events that we're tracking in Static. And Alfred will join for that. And then I have like, other things you and I can maybe talk about whether or not he's like, needed for it. I mean, I think there's some like, testing we probably still need to, like, we haven't gone through all the flows, but maybe. I mean, do you think that's where we should start? Let me show you what I put together for us to talk about also.
+Marcus Irven: Hello.
+Becca Bressler: Okay, so here in the chat. So these are the like events that I listed at the bottom that are just for this first role. So job and then data and security. Do you guys see it? Oh yeah. You're in here. So do these all look good to you? I don't know if I'm missing for this first rollout. These seem like the.
+Becca Bressler: The spots we want to track.
+Marcus Irven: Sorry, we're still reading. I think we need probably some metabase events too.
+Becca Bressler: Yeah.
+Marcus Irven: And so I. Yeah, what I. Yeah, I guess the age old question. What goes in meta base? What goes in the status? I mean, I think for stat segregate, it's mostly just around like every. Every user interact. Every key user interaction needs to have events. Yes.
+Marcus Irven: And then we do just need like some basic semantic event around. This person added this, you know, this bundle.
+Becca Bressler: Yeah.
+Marcus Irven: They updated their payment effort. All of those kind of key things that. Happen like those are metabase events.
+Becca Bressler: Update payment info. This something like purchased is just meant to be like. Right. So they selected it and then this is just like when they check out payment, whatever is like this is maybe not its own event jaw audit purchased, but maybe it's like metadata inside of the checkout event or like final payment event. I. I don't have a strong view, but.
+Marcus Irven: Well, the way that it is is right, it's you add add ons to your subscription or add. I don't know what terminology we want to use. You know, the stripe terminology is we're adding a product to your subscription. You know, a product in bundles one to one and add on is a type of bundle. And then there's really two stripe events. Right. There's the ad update payment information and then there's the reactivate subscription.
+Marcus Irven: We're doing all those in one kind of one swoop. Those are two things that happen in Stripe. But mostly I think the thing that we're caring about, we care about. Yeah, I think updating payment info and reactivate subscription. Should we couple those or separate those? Probably keep those separated. Right.
+Becca Bressler: Is that just. You are in your subscription page and you decide you want to change your. The credit card you use, that's update payment info and then reactivate subscription. Is that like you're paused because your trial's over and then you add your payment?
+Marcus Irven: Yeah, yeah.
+Becca Bressler: I mean we definitely want to track. We definitely want to be able to see what's what, whether they're the same event with different information.
+Marcus Irven: Yeah, I think most of this that you have here are really metabase events.
+Marcus Irven: Okay, then the question is, do you want to see them in statsig?
+Becca Bressler: Yeah, definitely. Because I'm going to be tracking like funnels in statsig too, so.
+Marcus Irven: So interesting.
+Becca Bressler: Add on selected. That's like a click event. I mean, it doesn't hurt me to have it in Metabase also
+Marcus Irven: that one shouldn't go in metabase. Yeah, you're right. The selected stuff.
+Becca Bressler: Right. The call to action clicked. Maybe we don't need my suggestion.
+Marcus Irven: Do we already have events around all this stuff or is this something that we need to go add? You're muted.
+Marcus Irven: Oh, you've probably been talking this whole time and we've been just ignoring.
+Alfred Souza: I have been talking this whole time. Yeah. Okay. No, so we have, we have all these like interaction level events. Already fired. Firing.
+Marcus Irven: Do you want to just like kind of create that catalog and so that we can kind of review what we have and see if there's any like, obviously gaps. We don't have the metabase events. I'll do the same. I'll go create these and then share them out and then we can review them. Would that be a better way of doing it?
+Alfred Souza: That works for me. The one thing that I'm not capturing right now that I think we will want in stating somehow is the outcome of some of these things. So it's like I go ahead and I purchased it, you know, now it's active. Does that make sense? Like the user now has this.
+Alfred Souza: I mean it's almost like a metaverse query on the user at this point.
+Marcus Irven: I think what we really. Sorry, I'm going to probably jump around a little bit. I think what we probably really want Alfred, is every event that we send to statsig we probably want to know their subscription level paused, active, whatever and then the add on the their bundles. Like that's probably useful just for every single thing we ever send a static
+Becca Bressler: and they're ultimately will want their tier too.
+Marcus Irven: Yeah.
+Alfred Souza: You mean at the user level?
+Marcus Irven: At the user level for every event.
+Alfred Souza: Okay, so I mean so, so yeah. So that we haven't done that would be.
+Marcus Irven: But we have all the user. We have it on the user info object.
+Alfred Souza: Right.
+Marcus Irven: So it's just a matter of passing it to passing it.
+Alfred Souza: Yeah, it's the same thing we did with the organization size. We would just include all that. Yeah. So now it's part of the user.
+Alfred Souza: Yeah, that's easy. We should be able to do that.
+Alfred Souza: Now that's not an event. Right. That's just we still need all these events and we'll. We'll have these events.
+Marcus Irven: All right.
+Becca Bressler: Yeah. So because I'm just looking at this right now. So like subscription add on added and then like add on name. Like is add on name. Ideally where I would see the type of add on it is or I don't name.
+Alfred Souza: We'll give you the human readable for sure. The ID is.
+Becca Bressler: Yeah. So currently it doesn't look like there's any names for these. Oh look, I see we have these guys.
+Marcus Irven: It.
+Becca Bressler: Okay.
+Alfred Souza: We're definitely missing some stuff, though, so. All right, well, let me. Let me generate something and get back to you with that. I'm good.
+Becca Bressler: Okay, cool. Marcus, should we stay on and we can talk about other rollout stuff?
+Marcus Irven: Yep.
+Becca Bressler: Okay. Bye, Alfred. Okay, so I've just. I've been playing around with, like, a couple different ways of. Like, I have a different rollout doc that I haven't put in front of you, which I think is better than the first one I started, but this one is actually just for jaw audit. I'm trying to narrow, like, the.
+Marcus Irven: Yep.
+Becca Bressler: We're covering in a doc.
+Marcus Irven: Yeah.
+Becca Bressler: Crazy. So here, let me put it in. And. And we don't need to go through everything. I think a lot of it is, like, for me, just, like, cohorting and making sure certain dashboards are set. But I think there's, like, hypotheses and stuff I can, you know, fill out.
+Becca Bressler: And, like, I think the stuff that it would be helpful for us to talk about is, like, I guess if you scroll towards the bottom, like, the rollout mechanics and the monitoring plan and the rollback plan,
+Marcus Irven: To take a minute, read through the talk.
+Becca Bressler: What?
+Marcus Irven: I just take a minute and read through this?
+Becca Bressler: Yeah, yeah, definitely. Definitely. I just don't want to waste your time with stuff, but, yeah, definitely.
+Marcus Irven: Let me just read through it. Okay. I've run this through.
+Becca Bressler: What do you think as far as a template goes? It feels like a little less busy than the other one I was working on.
+Becca Bressler: A lot of it's for me, I would say mostly, but it's.
+Marcus Irven: Yeah. I was trying to think of what I think about this, so formulating my thoughts. It feels a little. Maybe a little heavy still.
+Becca Bressler: Okay.
+Marcus Irven: And also. Like, just like going from the top. Okay. Feature overview. Great. Addressable market and cohort analysis. This. This I don't think I quite understand.
+Becca Bressler: So some of this stuff I actually think ultimately I'm going to delete. It's just like, for me, a helpful reminder of like, what this stuff is. So, for instance, like, some of the dashboards I'm going to be setting up are actually like, this is a provider at a group organization for larger than one. This is a B2C user. So we know they're, you know, our provider segments. Table is guessing that they own their own group clinic. Because I actually want to like, look at adoption stuff on a more granular level. So I mean. And maybe what. I just need to keep this in a different document so that it doesn't make this one, like, heavy. But like, a lot of this stuff I'm ultimately going to delete, like, examples and stuff like that.
+Marcus Irven: It's more just. Yeah, yeah. It might also just be like an ordering thing. It's like that feels like we're jumping into that without like, really talking about what we're rolling out or the specifics of it. Like, so maybe it's just order thing. I'm not sure. I'm just. I'm giving my. Like.
+Becca Bressler: Yeah, yeah. Okay, let me. There's like a. Probably like a data analysis post rollout or something.
+Marcus Irven: Yeah, something like that almost. Yeah. Maybe it's even an appendix or. I don't know. Like. Yeah. Not like saying it's not useful. Just sort of feels like that's the first thing that you're seeing and it's not very clear, like, what we're doing. What is the dependencies section supposed to be?
+Becca Bressler: I think it's like, for example, if we were rolling out, I mean, thinking about like the AI editor, like, if this were for like the AI editor, it would, like, the RBAC stuff for groups would be an example of that. Like, until we have those permissions for groups, we wouldn't want to roll it out.
+Marcus Irven: Right.
+Becca Bressler: And so, yeah, I don't see anything here, which is why I kind of left it. Na, yeah.
+Marcus Irven: Experiment. Do you think this rollout is made a little bit more complicated by the fact that we're not just rolling out Data audit, we are rolling out. Our add on system or our new subscription. You know, there's. There's a lot of stuff in this release. I don't know if that muddies things.
+Becca Bressler: Is that what things?
+Marcus Irven: If it muddies things too much. But like, I do. I do think it's important that we like know that we're not breaking again. I'm just kind of thinking out loud that we're not breaking conversion in general. Right. Like, I think like not even just conversion of John Audit, that we're. That we're not affecting the conversion of. Yeah, yeah, that's a smart point. I think that's one thing that we might want to make sure that we're watching.
+Becca Bressler: Yeah, that's a good point. I also don't know if generally this isn't the place for what Nate and Jackson had requested. As far as every rollout should be testing something. Right. Like a small surface area experiment for this one. It's the way that we're framing the new feature for the user. And I've talked to Alfred about this, but maybe that doesn't belong in a document like this because I don't know.
+Marcus Irven: Yeah. Well, if I'm just reading through this at first, it feels like that's what this document's about, is this experiment. But that's like. Like a.
+Becca Bressler: That's not.
+Marcus Irven: Yeah. I need a little bit of what we're rolling out. It should. I think it probably should be in here. But like that's not really what we're testing with this rollout. Like what we're testing. I mean, this is what we're testing, but we're also testing.
+Becca Bressler: Yeah.
+Marcus Irven: Something much bigger.
+Becca Bressler: Yeah. Okay.
+Marcus Irven: I just feel like the things that are most important are like sections 7, 8, and 9 to me.
+Becca Bressler: Yeah.
+Marcus Irven: Like those almost should be the. Like what we lead with.
+Becca Bressler: Yeah. Okay. That's helpful. Yeah, Those are certainly what I want to talk to you about right now. So lead with seven, eight or six, two, I guess.
+Marcus Irven: Like what do we communicate? Like, that's part of it too. 6, 7, 8 and 9. Maybe 11. Like. Yeah, like what are we doing? And feels like where we should like get that solid.
+Becca Bressler: Okay. Okay, that's helpful feedback for out of this. And I can definitely, like, address. Are there other things you want to talk about just about the doc in general before we actually just dive into, like 789 stuff?
+Marcus Irven: No, I think they are the. Maybe just like a. I'm aligned in here somewhere. Like, even if they don't have real dates in them, like the steps that we're doing, it feels a little spread out, but it's like, I almost just want to see, like, okay, we're testing it, we're sending out communication, or, you know, all of the different things that we're doing just like in one place.
+Becca Bressler: Got it.
+Marcus Irven: So like, then we're, you know, we're two weeks out or, you know, two days out, we're looking at this number. You know, I think.
+Marcus Irven: I think I've said this before. It's like the decision points. Like, where. Where are those?
+Becca Bressler: Okay. Am I kind of capturing a lot of the stuff in my comment? Are you looking at my screen?
+Marcus Irven: I wasn't looking. Sorry.
+Becca Bressler: And this is like, obviously chicken scratch, but.
+Marcus Irven: Yeah, that's right. Feel free to get pushed back into scrimmage. Give you my. My real time.
+Becca Bressler: No, no, no. It's super helpful reactions.
+Marcus Irven: Yeah, I guess it's kind of what you have on the rollout checklist now that I scrolling down.
+Becca Bressler: It's like, yeah, I was going here. This is actually helpful. Maybe this actually just goes at the top and then like, we. You can break down it into more details after.
+Marcus Irven: I think that that makes sense to me.
+Becca Bressler: Yeah. Yeah. I guess this is what this is. Now that I'm like, reading it through all the way.
+Marcus Irven: I haven't made it that far, but that's exactly what I was wanting to see. I think at the beginning it's just like, what are we doing?
+Becca Bressler: Yeah, totally. Oh, my God. I, like, completely. I was literally working on this earlier. Just completely forgot. So, yeah, well, I think that's good edits and I can like totally make adjustments to this doc and like the template that I'll be using. Should we talk about the. Seven, eight, nine stuff here?
+Marcus Irven: Yeah, actually, can we look at the rollout checklist and just look at that first and then.
+Becca Bressler: Oh, yeah, yeah, sure. Yeah, yeah.
+Marcus Irven: So. So should we just check off dependencies resolved?
+Becca Bressler: Yeah, yeah.
+Becca Bressler: This I'm still on, but communications asset created. I'm just going to do video marketing, email help. Just to break it out.
+Marcus Irven: All right. Should we put like owners by these.
+Becca Bressler: Yeah, yeah, sure.
+Marcus Irven: Monitoring set up the student. Right. Identify B2B groups. Why are we going to roll out B2B groups?
+Becca Bressler: Yeah, so this is something I asked. I've been noticing in. Are you asking about this thing that I highlighted?
+Marcus Irven: Yes, I.
+Becca Bressler: So I, I keep seeing in JOT bill that they're like kicking off groups with like JOT audit. And I am concerned that like, if. I've been concerned, certain that if these groups just suddenly get a paywall, there's like some confusion there. Maybe they're not aware that that's coming. So Chris and Adam and Nate didn't reply to me. But then I saw Chris today and he, he said, I sent him a list of everyone on jaw audit. Right now. He's like, there's a ton of big B2B and special situations here. I don't think we can just turn on the paywall on Wednesday.
+Marcus Irven: I. I think anybody that has John Audit today, we probably shouldn't turn. I'm just thinking, yeah, we probably shouldn't turn this on. And then we should have a plan for how we move them over. We should move them over quickly, hopefully. And whether or not we give it to them for free or.
+Becca Bressler: Yeah.
+Marcus Irven: Or not. But like, at least it's like they have the. It's like add on controlled at some point.
+Becca Bressler: Yeah.
+Becca Bressler: From the pay law. How would I write this? Remove current draw audit users from the.
+Marcus Irven: From the feet. From the feature gate, I guess. Really?
+Marcus Irven: Yeah, because that's how we're going to roll it out.
+Becca Bressler: Okay.
+Marcus Irven: Rollback plan confirmed. Okay. That's what we're talking about today.
+Becca Bressler: Yeah.
+Marcus Irven: What's the internal comms that we're going to send?
+Becca Bressler: I think it's. I'll do it. It's just like an announcement in like, if you see this in front, like please flag it asap, that kind of stuff. So this is kind of like support team briefed situation, internal comms.
+Marcus Irven: Okay, got it. Okay. Launch day smoke test cohort enabled. Okay, so this is the. Starting to roll this out. So we said we're going to roll this out to. So really this is rolling out to 10% of user of orcs, or do we have a number there? 5%, 2%.
+Becca Bressler: 10% is 150. Yeah, that works 10% fine.
+Marcus Irven: And I think it should just be random with, you know, excluding the people that we want to exclude. But other than that, let's just like turn on the dial because then we could. Because I think that's what we want to do is like turn it up till it gets to 100%. Right?
+Becca Bressler: Yeah.
+Marcus Irven: First communication set. What is this?
+Becca Bressler: This was gonna be like a email announcement to all users. Yeah, I suppose there's like a launching soon, but maybe this doesn't make sense right here. Maybe I'll actually just. Yeah, this is a. This is the thing. I need to like research more about best practices of like what this sort of marketing message is. Rollout cadence is like when you're kind of dialing it up for people. But that said, I could send it to just those 10% I think of people. I think.
+Marcus Irven: I mean, I think we should. Yeah, I don't. I'm hesitant to do that because then you have to figure out who those 10% are and say like, I think we should just let stat sign do its thing and roll it out to people. But maybe there's a. If we want to, I think we could also just wait till it's on 100% just in a job audit is here kind of thing.
+Becca Bressler: Yeah. Okay.
+Marcus Irven: Monitoring active team. So for this it's really. Really, like, we're just not wanting to, like, break anything. Right? Like, what are the initial metrics that we're monitoring here?
+Becca Bressler: Yeah. So what I'm, like, concerned about, though, I don't know if impossible is, like, are. Could. Could we be releasing something that we don't really realize that's actually going to be impacting the AI editor? So, like, because the audit edit and the editor are related or, like, suddenly this means that, like, I. I don't know what could happen, but it seems like there's so much messiness in the way that, like, things. Yeah.
+Becca Bressler: Review or is there a way of. I guess this is an idea I had before. Like, can we measure rage clicks? So if, like, people are, like, rage clicking on audit, it probably means it's not opening. Like, what are the kinds of things that we can
+Marcus Irven: just do, like, review things here? Review. I'm sorry if. I'm sorry if I'm rewriting your stuff. Marcus, please stop. I'm just putting a few things here that we can monitor metrics, Form operational metrics. Do we want to probably also want to look at, like, stats and replays?
+Becca Bressler: That's a good idea. Yeah, that's a really good idea.
+Marcus Irven: And this is, like, kind of, like the same issues for tickets. I guess the question is, when does this happen?
+Becca Bressler: I mean, it's going to be a
+Marcus Irven: little bit ongoing, but do we want, like, a decision point here?
+Becca Bressler: Like, I mean, I think we only need to give it a couple days. Like, I think there's different levels of, like, concern. You know, if people. If it's not working, if it's, like, broken, we want to be alerted to that somehow. And I'm not exactly sure. Like, I mean, I think two days is kind of what I read is, like, you give it 48 hours, and if things look clear, then you're good.
+Marcus Irven: Did you add Jackson on here or did I.
+Becca Bressler: I did not.
+Marcus Irven: I'm gonna tell myself, but I'm not sure how I. Okay, so should we just say this is Friday?
+Marcus Irven: Yeah, this is gonna be us?
+Becca Bressler: I guess that's what this is right here. Yeah.
+Marcus Irven: Go now. Expand to go. Send marketing to go. Okay, that's fine. So do you think we would. I guess this is a little bit of, like, decision point here. Like, expand the full audience. But we might also decide to expand it to 25% or something.
+Becca Bressler: Yeah. And.
+Marcus Irven: Okay, this is. This is great. I think this is the. Yeah. To me, this is probably just the most important thing at the top.
+Becca Bressler: Yeah. Yeah. I'll move this for sure.
+Marcus Irven: Then everything else is, like, almost an appendix that just outlines, like, the details of this. Right. It doesn't have to be appendix, but, like, sort of the specifics, like,
+Becca Bressler: assets are like an appendix, probably. Right. Like. Yeah. Okay. That's helpful. I can totally move this around. Anything you think we need to discuss here? It sounds like we have our date set up of, like, when to do these things. Monitoring. Like, does that feel intuitive? Like, what it is we would be monitoring?
+Marcus Irven: Yeah. Yeah. From. Well, from an operational standpoint. Yes. The other thing I was thinking about doing, or I was wondering if we should do, is I don't know if you're aware, but there's a Slack channel where we post automatically whenever anybody signs up that I think Chris is the only person that uses, where he reaches out to. Like, he's there to reach out to people. I don't think. Sorry, I lost you. Where did you go? Becca? There you go. I wonder if we should. It just. It's just on sign up right now. I wonder if we should add something there when every. Anybody converts or adds an add on or removes it, like basically any of these, like, sort of key things. I wonder if we want to be looking at that in real time.
+Marcus Irven: It doesn't happen that often.
+Becca Bressler: Yeah, I guess it'd be conversion. One of the things. Yeah, that's. That's a good. Like conversions, like upgrades or downgrades.
+Marcus Irven: Exactly.
+Becca Bressler: And then the more granular stuff can live elsewhere because, like, you know, one of the things we want to know is like, are people reaching the feature, the wall, but not converting too. But I don't know that we need that in Slack.
+Becca Bressler: Did you set that up or.
+Marcus Irven: No. Lead it. But I. I could add to it. It's called New Users, I think new. New customers. The sl.
+Becca Bressler: I guess one of the things from this launch that's not on here is like telemetry setup. What was that?
+Marcus Irven: What happened?
+Becca Bressler: Look at my page. Who did that?
+Marcus Irven: I think you just clicked on yourself or something.
+Becca Bressler: No. Yeah, I know. That's a funny banner, though.
+Marcus Irven: That is a funny banner. What is my banner.
+Becca Bressler: I know. What is your banner?
+Marcus Irven: It's a little Monet. Nice.
+Becca Bressler: What would be a. Just in the practice of. Given our last, like, retro rollback, like, what would we need to see?
+Marcus Irven: Well, I think it depends, right? I think it's. If it's immediate, like we roll it out and you know, within the first, you know, hour or two, like, People are complaining something's not working. You know, we just. We would just roll it back with the Statsig feature 8 go back to 0. I think the. Where it gets. The only. The only I think time where it gets a little bit more complicated then is if people have bought Jaw Audit, and then we have to. We'll have to be a little bit more cautious about rolling back.
+Becca Bressler: Right, right. Which makes having that Slack alert really helpful because we'll be able to know if people have purchased it easily.
+Marcus Irven: Yeah. Yeah. My. I don't think that, you know, people are going to buy Jaw Audit in the first week.
+Becca Bressler: Me neither.
+Marcus Irven: For variety of reasons. One, they're getting a free. Free.
+Becca Bressler: They're getting for free. Exactly.
+Marcus Irven: So I would be surprised if there was any Jaw Audit purchases that weren't like. Like, like sales. Like, you know, maybe. Maybe. Maybe Chris or Nate talked to someone and talked them into buying it or something. But I don't think there's going to be any. Any organic Jaw purchases in the first week. I could be wrong. But. But if there are purchases there, then I think we're gonna have to have just a conversation about how we roll. Roll back. But at that point, I think our preference would be for rolling forward. Right? Yeah.
+Becca Bressler: Okay. So it seems like the thing is just like looking at customer support complaints about something else in the product not working or even if Jaw Audit, like.
+Marcus Irven: Yeah, it's all of the things that we're monitoring. Like if you receive something weird in the metric nobody's using, you know, AI editor all of a sudden, you know, or. Or we see a bunch of errors coming through. Right, Something like that.
+Becca Bressler: Yeah, the errors. Is that stuff that's already set up based on the kind of stuff that you've done already? Yeah.
+Marcus Irven: Okay. Yeah. Yeah, we have. We have a pretty good insight now to errors in general. Not like great alerts around them yet, but I'm watching them very closely because there's still a lot of noise in them, to be honest with you. We have a lot of errors that happen in our system, which I'm trying to work on reducing. And I'm going to set up a specific dashboard around subscriptions that we can watch, but I'll be keeping a close eye on them.
+Becca Bressler: Okay. Okay, cool. Anything else on here that you think you and I should talk about or. Like, I feel like we covered a lot of the, like, product analytics stuff we still need to capture with Alfred. You're gonna take a look at the Slack notification stuff like. That we can set up. I'm still working on the dashboards, but once we have those, like, analytic events, I'm able to, you know, fill that out more. Anything else you think we're not. We haven't covered? I do want to show you. You don't have to read this now, but. Oh, I put it in the 2x2 channel, but. The. I also put together like, a one pager for just the experiment that we're running with this rollout.
+Marcus Irven: So there's like, the.
+Becca Bressler: The actual, like, hypothesis is there and. Here, I'll send it to you. Yeah. Anyhow, no pressure. Should we go through some of the product now or is it not really in a state to, like, isn't.
+Becca Bressler: Has not much last time we did it.
+Marcus Irven: Now some things have, but we also have some things to do. What. What's your schedule like today?
+Becca Bressler: So I'm going to be leaving for the airport at like, 3:34.
+Marcus Irven: 3:15? Why don't we. You said 3:30 or 3:15. Should we do it? 2:30?
+Becca Bressler: Oh, yeah, that works. You can do 230.
+Marcus Irven: I'll go pack. Okay. I'll. I'll offer. We'll do a 230 testing session.
+Becca Bressler: Also, Marcus, I've been going back and forth a little bit with Anya about, like, updating some wireframes for prescription. I'm sure I don't need to get that to today, I think, because there's, like, other stuff going on. But if I get it to you, like, Wednesday or like, Thursday morning, is that. Or. Yeah, ideally, when would you have that stuff, given all the other things happening?
+Marcus Irven: How. How big your changes are we talking about?
+Becca Bressler: They're. I don't think they're big. I think it's just, like, where to place certain things.
+Marcus Irven: Okay. Yeah, that's fine. Thursday's fine.
+Becca Bressler: Okay. Yeah. Or, like, presumably, like, certain entry points can just, like, take you to the subscription page or, like, take you to the. My. It's not my access, but the settings or something like that. Right? Like, that's a.
+Marcus Irven: Yeah.
+Becca Bressler: Okay.
+Marcus Irven: Okay, Cool.
+Becca Bressler: All right.
+Marcus Irven: See you soon.

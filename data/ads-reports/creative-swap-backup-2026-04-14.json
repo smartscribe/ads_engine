@@ -1,0 +1,1610 @@
+{
+  "captured_at": "2026-04-14",
+  "purpose": "Ad URL swap \u2014 all audit ads EXCEPT AJ Audit Letter Farm (performing); all get /audit or /making-time-for-presence with UTMs via url_tags",
+  "untouched": "ad_id=120244894239200548 (AJ: Audit Letter Arrives - Farm) \u2014 left on creative 1464865358669532 pointing to homepage, per n-sensitive performing-ad protection",
+  "rollback": "For each swap, POST /{ad_id} with creative={id: <src_cid>} using META_ADS_ACCESS_TOKEN",
+  "swaps": [
+    {
+      "src_cid": "1464865358669532",
+      "label": "AJ Audit Letter (Scale:Winners Copy only)",
+      "ad_id": "120245348000430548",
+      "ad_name": "AJ: Audit Letter Arrives. You're Ready - Copy",
+      "new_path": "/audit",
+      "full_spec": {
+        "id": "1464865358669532",
+        "name": "PMHNPs and Psychiatrists trust us with their documentation 2026-04-05-75378c86fe92e37202a06d3f2174b160",
+        "object_type": "SHARE",
+        "object_story_spec": {
+          "page_id": "127683153772433",
+          "instagram_user_id": "17841466259294846",
+          "link_data": {
+            "link": "http://jotpsych.com/",
+            "image_hash": "0e353033f6fc0d8933d3e1620bcdd6ae",
+            "call_to_action": {
+              "type": "SEE_DETAILS"
+            }
+          }
+        },
+        "asset_feed_spec": {
+          "bodies": [
+            {
+              "text": "A psychiatrist in Ohio got audited last month. Cigna requested 18 months of records. She uses JotPsych. Every note had verified CPT codes, ICD-10 documentation, and medical necessity already locked in. She sent the files. No weekend spent reconstructing sessions. No clawbacks. That's what audit-ready actually means."
+            },
+            {
+              "text": "Ohio psychiatrist audited by Cigna? No sweat!\n\u2022 18 months of records requested\n\u2022 JotPsych had her back with:\n    Verified CPT codes \n    ICD-10 documentation \n    Medical necessity locked in\nShe sent the files and avoided a weekend of hassle. What would you do if you were audited today?"
+            },
+            {
+              "text": "Ohio psychiatrist audited by Cigna last month\n18 months of records requested, no problem!\nShe uses JotPsych:\n\u2022 Verified CPT codes in every note\n\u2022 ICD-10 documentation locked and loaded \n\u2022 Medical necessity already covered\n\n Sent files, done! No weekend wasted on reconstruction. No clawbacks either.\nWhat's your audit plan?"
+            },
+            {
+              "text": "Ohio psychiatrist audited by Cigna!\n18 months of records requested, but no sweat with JotPsych. \n\u2022 Verified CPT codes in every note\n\u2022 ICD-10 documentation locked down tight\n\u2022 Medical necessity already established\n\nShe sent the files and breathed a sigh of relief.\nNo weekends wasted reconstructing sessions. No clawbacks either! What's your audit prep plan?"
+            },
+            {
+              "text": "Ohio psychiatrist audited by Cigna? No problem!\n\u2022 18 months of records requested\n\u2022 JotPsych user had verified CPT codes, ICD-10 & medical necessity ready\nNo weekend spent on paperwork or worrying about clawbacks! What's your audit plan?"
+            },
+            {
+              "text": "Ohio psychiatrist audited by Cigna last month!\n\u2022 18 months of records requested\nBut she was prepared with JotPsych:\n\u2022 Verified CPT codes on every note \n\u2022 ICD-10 documentation locked in \n\u2022 Medical necessity already confirmed\n\nShe sent the files and avoided a weekend of hassle. No clawbacks, no stress! What does audit-ready mean to you?"
+            }
+          ],
+          "descriptions": [
+            {
+              "text": "Every payer has different documentation requirements. JotPsych tailors your notes to your specific payers."
+            }
+          ],
+          "titles": [
+            {
+              "text": "PMHNPs and Psychiatrists trust us with their documentation"
+            }
+          ],
+          "optimization_type": "DEGREES_OF_FREEDOM"
+        },
+        "degrees_of_freedom_spec": {
+          "creative_features_spec": {
+            "advantage_plus_creative": {
+              "enroll_status": "OPT_OUT"
+            },
+            "cv_transformation": {
+              "enroll_status": "OPT_OUT"
+            },
+            "enhance_cta": {
+              "enroll_status": "OPT_IN"
+            },
+            "image_animation": {
+              "enroll_status": "OPT_OUT"
+            },
+            "image_brightness_and_contrast": {
+              "enroll_status": "OPT_IN"
+            },
+            "image_templates": {
+              "enroll_status": "OPT_OUT"
+            },
+            "image_touchups": {
+              "enroll_status": "OPT_OUT"
+            },
+            "inline_comment": {
+              "enroll_status": "OPT_IN"
+            },
+            "pac_relaxation": {
+              "enroll_status": "OPT_OUT"
+            },
+            "product_extensions": {
+              "enroll_status": "OPT_IN",
+              "customizations": {
+                "pe_carousel": {
+                  "enroll_status": "OPT_IN"
+                }
+              }
+            },
+            "replace_media_text": {
+              "enroll_status": "OPT_OUT"
+            },
+            "reveal_details_over_time": {
+              "enroll_status": "OPT_IN"
+            },
+            "show_destination_blurbs": {
+              "enroll_status": "OPT_IN"
+            },
+            "show_summary": {
+              "enroll_status": "OPT_IN"
+            },
+            "site_extensions": {
+              "enroll_status": "OPT_OUT"
+            },
+            "standard_enhancements": {
+              "enroll_status": "OPT_IN"
+            },
+            "text_optimizations": {
+              "enroll_status": "OPT_OUT"
+            },
+            "text_translation": {
+              "enroll_status": "OPT_OUT"
+            }
+          }
+        },
+        "url_tags": "utm_source={{site_source_name}}&utm_medium=paid_social&utm_campaign={{campaign.id}}&utm_content={{adset.id}}&utm_term={{ad.id}}",
+        "title": "PMHNPs and Psychiatrists trust us with their documentation",
+        "body": "A psychiatrist in Ohio got audited last month. Cigna requested 18 months of records. She uses JotPsych. Every note had verified CPT codes, ICD-10 documentation, and medical necessity already locked in. She sent the files. No weekend spent reconstructing sessions. No clawbacks. That's what audit-ready actually means.",
+        "authorization_category": "NONE"
+      },
+      "new_link": "https://jotpsych.com/audit",
+      "new_spec": {
+        "object_story_spec": {
+          "page_id": "127683153772433",
+          "instagram_user_id": "17841466259294846",
+          "link_data": {
+            "link": "https://jotpsych.com/audit",
+            "image_hash": "0e353033f6fc0d8933d3e1620bcdd6ae",
+            "call_to_action": {
+              "type": "SEE_DETAILS"
+            }
+          }
+        },
+        "url_tags": "utm_source={{site_source_name}}&utm_medium=paid_social&utm_campaign={{campaign.id}}&utm_content={{adset.id}}&utm_term={{ad.id}}",
+        "asset_feed_spec": {
+          "bodies": [
+            {
+              "text": "A psychiatrist in Ohio got audited last month. Cigna requested 18 months of records. She uses JotPsych. Every note had verified CPT codes, ICD-10 documentation, and medical necessity already locked in. She sent the files. No weekend spent reconstructing sessions. No clawbacks. That's what audit-ready actually means."
+            },
+            {
+              "text": "Ohio psychiatrist audited by Cigna? No sweat!\n\u2022 18 months of records requested\n\u2022 JotPsych had her back with:\n    Verified CPT codes \n    ICD-10 documentation \n    Medical necessity locked in\nShe sent the files and avoided a weekend of hassle. What would you do if you were audited today?"
+            },
+            {
+              "text": "Ohio psychiatrist audited by Cigna last month\n18 months of records requested, no problem!\nShe uses JotPsych:\n\u2022 Verified CPT codes in every note\n\u2022 ICD-10 documentation locked and loaded \n\u2022 Medical necessity already covered\n\n Sent files, done! No weekend wasted on reconstruction. No clawbacks either.\nWhat's your audit plan?"
+            },
+            {
+              "text": "Ohio psychiatrist audited by Cigna!\n18 months of records requested, but no sweat with JotPsych. \n\u2022 Verified CPT codes in every note\n\u2022 ICD-10 documentation locked down tight\n\u2022 Medical necessity already established\n\nShe sent the files and breathed a sigh of relief.\nNo weekends wasted reconstructing sessions. No clawbacks either! What's your audit prep plan?"
+            },
+            {
+              "text": "Ohio psychiatrist audited by Cigna? No problem!\n\u2022 18 months of records requested\n\u2022 JotPsych user had verified CPT codes, ICD-10 & medical necessity ready\nNo weekend spent on paperwork or worrying about clawbacks! What's your audit plan?"
+            },
+            {
+              "text": "Ohio psychiatrist audited by Cigna last month!\n\u2022 18 months of records requested\nBut she was prepared with JotPsych:\n\u2022 Verified CPT codes on every note \n\u2022 ICD-10 documentation locked in \n\u2022 Medical necessity already confirmed\n\nShe sent the files and avoided a weekend of hassle. No clawbacks, no stress! What does audit-ready mean to you?"
+            }
+          ],
+          "descriptions": [
+            {
+              "text": "Every payer has different documentation requirements. JotPsych tailors your notes to your specific payers."
+            }
+          ],
+          "titles": [
+            {
+              "text": "PMHNPs and Psychiatrists trust us with their documentation"
+            }
+          ],
+          "optimization_type": "DEGREES_OF_FREEDOM"
+        },
+        "degrees_of_freedom_spec": {
+          "creative_features_spec": {
+            "advantage_plus_creative": {
+              "enroll_status": "OPT_OUT"
+            },
+            "cv_transformation": {
+              "enroll_status": "OPT_OUT"
+            },
+            "enhance_cta": {
+              "enroll_status": "OPT_IN"
+            },
+            "image_animation": {
+              "enroll_status": "OPT_OUT"
+            },
+            "image_brightness_and_contrast": {
+              "enroll_status": "OPT_IN"
+            },
+            "image_templates": {
+              "enroll_status": "OPT_OUT"
+            },
+            "image_touchups": {
+              "enroll_status": "OPT_OUT"
+            },
+            "inline_comment": {
+              "enroll_status": "OPT_IN"
+            },
+            "pac_relaxation": {
+              "enroll_status": "OPT_OUT"
+            },
+            "product_extensions": {
+              "enroll_status": "OPT_IN",
+              "customizations": {
+                "pe_carousel": {
+                  "enroll_status": "OPT_IN"
+                }
+              }
+            },
+            "replace_media_text": {
+              "enroll_status": "OPT_OUT"
+            },
+            "reveal_details_over_time": {
+              "enroll_status": "OPT_IN"
+            },
+            "show_destination_blurbs": {
+              "enroll_status": "OPT_IN"
+            },
+            "show_summary": {
+              "enroll_status": "OPT_IN"
+            },
+            "site_extensions": {
+              "enroll_status": "OPT_OUT"
+            },
+            "text_optimizations": {
+              "enroll_status": "OPT_OUT"
+            },
+            "text_translation": {
+              "enroll_status": "OPT_OUT"
+            }
+          }
+        },
+        "name": "AJ Audit Letter (Scale:Winners Copy only) \u2014 URL swap 2026-04-14"
+      },
+      "create_error": "{\"error\":{\"message\":\"Invalid parameter\",\"type\":\"OAuthException\",\"code\":100,\"error_subcode\":3858504,\"is_transient\":false,\"error_user_title\":\"Creative should not include standard enhancements\",\"error_user_msg\":\"Including standard enhancements field in creative has been deprecated. Please choose to set individual features instead. Learn more here: https:\\/\\/fburl.com\\/hyth50xo\",\"fbtrace_id\":\"AJLM-TZAyxJ5wvd9tdVnwff\"}}",
+      "new_creative_id": "1424433392702110",
+      "swap_ok": true,
+      "live_link": "https://jotpsych.com/audit",
+      "live_url_tags": "utm_source={{site_source_name}}&utm_medium=paid_social&utm_campaign={{campaign.id}}&utm_content={{adset.id}}&utm_term={{ad.id}}"
+    },
+    {
+      "src_cid": "1939172640038270",
+      "label": "AJ Audit Ready Home On Time",
+      "ad_id": "120244894248240548",
+      "ad_name": "AJ: Audit Ready. Home On Time",
+      "new_path": "/audit",
+      "full_spec": {
+        "id": "1939172640038270",
+        "name": "PMHNPs and Psychiatrists trust us with their documentation 2026-04-05-58efea9c3b1efed4b811dd1fe9a5a958",
+        "object_type": "VIDEO",
+        "object_story_spec": {
+          "page_id": "127683153772433",
+          "instagram_user_id": "17841466259294846",
+          "video_data": {
+            "video_id": "1657996238668114",
+            "call_to_action": {
+              "type": "SEE_DETAILS",
+              "value": {
+                "link": "http://jotpsych.com/"
+              }
+            },
+            "image_url": "https://www.facebook.com/ads/image/?d=AQIcpgVsQlbWJyqhrE_9WOZHj5OCXQYSdFiHcjXYSwgYSt8s8oj_LcQbhRHc0demWbX-F6wqukDkaYC8ez8j4nkyjYMpaeMbnsCq4GyEoheCxMUFpdHzFSVQeQqtJHAfp1P9tSYp4p5n2-6vLkYxLcDd",
+            "image_hash": "93f20c6e8c3e4eaed2b4a66e43909cea"
+          }
+        },
+        "asset_feed_spec": {
+          "bodies": [
+            {
+              "text": "JotPsych writes notes with correct CPT codes and payer compliance. Done before you leave."
+            },
+            {
+              "text": "Say goodbye to after-hours paperwork!\n\nJotPsych saves you time with:\n\u2022 Accurate CPT codes\n\u2022 Payer compliance guaranteed\n\nGet back to your life, we've got this!"
+            },
+            {
+              "text": "Say goodbye to paperwork!\nGet accurate notes with correct CPT codes\nEnsure payer compliance, every time \nAll done before you leave the office! What would you do with that extra free time?"
+            },
+            {
+              "text": "Say goodbye to paperwork!\nGet accurate CPT codes and payer compliance with JotPsych. \nNotes are ready before you leave the office!"
+            },
+            {
+              "text": "Say goodbye to paperwork!\nJotPsych generates notes with accurate CPT codes and ensures payer compliance.\nFinish your documentation before you leave the office - every time!"
+            }
+          ],
+          "descriptions": [
+            {
+              "text": ""
+            }
+          ],
+          "titles": [
+            {
+              "text": "PMHNPs and Psychiatrists trust us with their documentation"
+            }
+          ],
+          "optimization_type": "DEGREES_OF_FREEDOM"
+        },
+        "degrees_of_freedom_spec": {
+          "creative_features_spec": {
+            "advantage_plus_creative": {
+              "enroll_status": "OPT_OUT"
+            },
+            "cv_transformation": {
+              "enroll_status": "OPT_OUT"
+            },
+            "enhance_cta": {
+              "enroll_status": "OPT_IN"
+            },
+            "image_animation": {
+              "enroll_status": "OPT_OUT"
+            },
+            "image_templates": {
+              "enroll_status": "OPT_OUT"
+            },
+            "image_touchups": {
+              "enroll_status": "OPT_OUT"
+            },
+            "inline_comment": {
+              "enroll_status": "OPT_IN"
+            },
+            "pac_relaxation": {
+              "enroll_status": "OPT_OUT"
+            },
+            "product_extensions": {
+              "enroll_status": "OPT_IN",
+              "customizations": {
+                "pe_carousel": {
+                  "enroll_status": "OPT_IN"
+                }
+              }
+            },
+            "replace_media_text": {
+              "enroll_status": "OPT_OUT"
+            },
+            "reveal_details_over_time": {
+              "enroll_status": "OPT_IN"
+            },
+            "show_destination_blurbs": {
+              "enroll_status": "OPT_IN"
+            },
+            "show_summary": {
+              "enroll_status": "OPT_IN"
+            },
+            "site_extensions": {
+              "enroll_status": "OPT_OUT"
+            },
+            "standard_enhancements": {
+              "enroll_status": "OPT_IN"
+            },
+            "text_optimizations": {
+              "enroll_status": "OPT_OUT"
+            },
+            "text_translation": {
+              "enroll_status": "OPT_OUT"
+            },
+            "video_auto_crop": {
+              "enroll_status": "OPT_OUT"
+            }
+          }
+        },
+        "url_tags": "utm_source={{site_source_name}}&utm_medium=paid_social&utm_campaign={{campaign.id}}&utm_content={{adset.id}}&utm_term={{ad.id}}",
+        "title": "PMHNPs and Psychiatrists trust us with their documentation",
+        "body": "JotPsych writes notes with correct CPT codes and payer compliance. Done before you leave.",
+        "authorization_category": "NONE"
+      },
+      "new_link": "https://jotpsych.com/audit",
+      "new_spec": {
+        "object_story_spec": {
+          "page_id": "127683153772433",
+          "instagram_user_id": "17841466259294846",
+          "video_data": {
+            "video_id": "1657996238668114",
+            "call_to_action": {
+              "type": "SEE_DETAILS",
+              "value": {
+                "link": "https://jotpsych.com/audit"
+              }
+            },
+            "image_hash": "93f20c6e8c3e4eaed2b4a66e43909cea"
+          }
+        },
+        "url_tags": "utm_source={{site_source_name}}&utm_medium=paid_social&utm_campaign={{campaign.id}}&utm_content={{adset.id}}&utm_term={{ad.id}}",
+        "asset_feed_spec": {
+          "bodies": [
+            {
+              "text": "JotPsych writes notes with correct CPT codes and payer compliance. Done before you leave."
+            },
+            {
+              "text": "Say goodbye to after-hours paperwork!\n\nJotPsych saves you time with:\n\u2022 Accurate CPT codes\n\u2022 Payer compliance guaranteed\n\nGet back to your life, we've got this!"
+            },
+            {
+              "text": "Say goodbye to paperwork!\nGet accurate notes with correct CPT codes\nEnsure payer compliance, every time \nAll done before you leave the office! What would you do with that extra free time?"
+            },
+            {
+              "text": "Say goodbye to paperwork!\nGet accurate CPT codes and payer compliance with JotPsych. \nNotes are ready before you leave the office!"
+            },
+            {
+              "text": "Say goodbye to paperwork!\nJotPsych generates notes with accurate CPT codes and ensures payer compliance.\nFinish your documentation before you leave the office - every time!"
+            }
+          ],
+          "descriptions": [
+            {
+              "text": ""
+            }
+          ],
+          "titles": [
+            {
+              "text": "PMHNPs and Psychiatrists trust us with their documentation"
+            }
+          ],
+          "optimization_type": "DEGREES_OF_FREEDOM"
+        },
+        "degrees_of_freedom_spec": {
+          "creative_features_spec": {
+            "advantage_plus_creative": {
+              "enroll_status": "OPT_OUT"
+            },
+            "cv_transformation": {
+              "enroll_status": "OPT_OUT"
+            },
+            "enhance_cta": {
+              "enroll_status": "OPT_IN"
+            },
+            "image_animation": {
+              "enroll_status": "OPT_OUT"
+            },
+            "image_templates": {
+              "enroll_status": "OPT_OUT"
+            },
+            "image_touchups": {
+              "enroll_status": "OPT_OUT"
+            },
+            "inline_comment": {
+              "enroll_status": "OPT_IN"
+            },
+            "pac_relaxation": {
+              "enroll_status": "OPT_OUT"
+            },
+            "product_extensions": {
+              "enroll_status": "OPT_IN",
+              "customizations": {
+                "pe_carousel": {
+                  "enroll_status": "OPT_IN"
+                }
+              }
+            },
+            "replace_media_text": {
+              "enroll_status": "OPT_OUT"
+            },
+            "reveal_details_over_time": {
+              "enroll_status": "OPT_IN"
+            },
+            "show_destination_blurbs": {
+              "enroll_status": "OPT_IN"
+            },
+            "show_summary": {
+              "enroll_status": "OPT_IN"
+            },
+            "site_extensions": {
+              "enroll_status": "OPT_OUT"
+            },
+            "text_optimizations": {
+              "enroll_status": "OPT_OUT"
+            },
+            "text_translation": {
+              "enroll_status": "OPT_OUT"
+            },
+            "video_auto_crop": {
+              "enroll_status": "OPT_OUT"
+            }
+          }
+        },
+        "name": "AJ Audit Ready Home On Time \u2014 URL swap 2026-04-14"
+      },
+      "create_error": "{\"error\":{\"message\":\"Invalid parameter\",\"type\":\"OAuthException\",\"code\":100,\"error_subcode\":1443051,\"is_transient\":false,\"error_user_title\":\"ObjectStorySpecRedundant\",\"error_user_msg\":\"Only one of image_url and image_hash should be specified in the field video_data of object_story_spec.\",\"fbtrace_id\":\"ABQoXEBtn6MEPmByxnLYMB1\"}}",
+      "new_creative_id": "959025040064961",
+      "swap_ok": true,
+      "live_link": "https://jotpsych.com/audit",
+      "live_url_tags": "utm_source={{site_source_name}}&utm_medium=paid_social&utm_campaign={{campaign.id}}&utm_content={{adset.id}}&utm_term={{ad.id}}"
+    },
+    {
+      "src_cid": "1485513453200367",
+      "label": "AN JotAudit Catches",
+      "ad_id": "120244894262550548",
+      "ad_name": "AN: JotAudit Catches What Others Miss",
+      "new_path": "/audit",
+      "full_spec": {
+        "id": "1485513453200367",
+        "name": "PMHNPs and Psychiatrists trust us with their documentation 2026-04-05-86f334d9342a17038b0f96be885cf997",
+        "object_type": "SHARE",
+        "object_story_spec": {
+          "page_id": "127683153772433",
+          "instagram_user_id": "17841466259294846",
+          "link_data": {
+            "link": "http://jotpsych.com/",
+            "image_hash": "4d964800492b027de66ffcd29036294c",
+            "call_to_action": {
+              "type": "SEE_DETAILS"
+            }
+          }
+        },
+        "asset_feed_spec": {
+          "bodies": [
+            {
+              "text": "While basic scribes just transcribe, JotAudit runs real-time compliance checks on every note. 150+ rules from AMA, APA, and major payers built right in. Fix documentation gaps with one click \u2014 before they cost you thousands in clawbacks."
+            },
+            {
+              "text": "Ditch basic transcription services!\n\nJotAudit runs real-time compliance checks on every note, using 150+ rules from AMA, APA & major payers.\nFix documentation gaps with one click and avoid costly clawbacks.\n\nIs your practice at risk?"
+            },
+            {
+              "text": "Don't just transcribe, get compliant!\n\n\u2022 150+ rules from AMA, APA & major payers built-in\n\u2022 Real-time checks on every note to catch errors \n\u2022 Fix gaps with one click and avoid costly clawbacks\n\nIs your documentation putting you at risk?"
+            },
+            {
+              "text": "Say goodbye to tedious audits! \nJotAudit's real-time compliance checks ensure your notes meet 150+ rules from AMA, APA & top payers. \n\u2022 Fix documentation gaps with one click\n\u2022 Avoid costly clawbacks - thousands of dollars at stake!\nTake control of your compliance today"
+            },
+            {
+              "text": "Ditch basic scribes that just transcribe!\nJotAudit runs real-time compliance checks on every note with 150+ rules from AMA, APA & major payers built-in.\n\n\u2022 Fix documentation gaps in one click\n\u2022 Avoid thousands in clawbacks\n\nUpgrade to JotAudit today!"
+            },
+            {
+              "text": "Say goodbye to tedious transcriptions!\nJotAudit does more than just write notes - it runs real-time compliance checks against 150+ rules from AMA, APA & major payers.\n\nFix documentation gaps in one click and avoid costly clawbacks. Are thousands of dollars slipping away due to incomplete records?"
+            }
+          ],
+          "descriptions": [
+            {
+              "text": "Every payer has different documentation requirements. JotPsych tailors your notes to your specific payers."
+            }
+          ],
+          "titles": [
+            {
+              "text": "PMHNPs and Psychiatrists trust us with their documentation"
+            }
+          ],
+          "optimization_type": "DEGREES_OF_FREEDOM"
+        },
+        "degrees_of_freedom_spec": {
+          "creative_features_spec": {
+            "advantage_plus_creative": {
+              "enroll_status": "OPT_OUT"
+            },
+            "cv_transformation": {
+              "enroll_status": "OPT_OUT"
+            },
+            "enhance_cta": {
+              "enroll_status": "OPT_IN"
+            },
+            "image_animation": {
+              "enroll_status": "OPT_OUT"
+            },
+            "image_brightness_and_contrast": {
+              "enroll_status": "OPT_IN"
+            },
+            "image_templates": {
+              "enroll_status": "OPT_OUT"
+            },
+            "image_touchups": {
+              "enroll_status": "OPT_OUT"
+            },
+            "inline_comment": {
+              "enroll_status": "OPT_IN"
+            },
+            "pac_relaxation": {
+              "enroll_status": "OPT_OUT"
+            },
+            "product_extensions": {
+              "enroll_status": "OPT_IN",
+              "customizations": {
+                "pe_carousel": {
+                  "enroll_status": "OPT_IN"
+                }
+              }
+            },
+            "replace_media_text": {
+              "enroll_status": "OPT_OUT"
+            },
+            "reveal_details_over_time": {
+              "enroll_status": "OPT_IN"
+            },
+            "show_destination_blurbs": {
+              "enroll_status": "OPT_IN"
+            },
+            "show_summary": {
+              "enroll_status": "OPT_IN"
+            },
+            "site_extensions": {
+              "enroll_status": "OPT_OUT"
+            },
+            "standard_enhancements": {
+              "enroll_status": "OPT_IN"
+            },
+            "text_optimizations": {
+              "enroll_status": "OPT_OUT"
+            },
+            "text_translation": {
+              "enroll_status": "OPT_OUT"
+            }
+          }
+        },
+        "url_tags": "utm_source={{site_source_name}}&utm_medium=paid_social&utm_campaign={{campaign.id}}&utm_content={{adset.id}}&utm_term={{ad.id}}",
+        "title": "PMHNPs and Psychiatrists trust us with their documentation",
+        "body": "While basic scribes just transcribe, JotAudit runs real-time compliance checks on every note. 150+ rules from AMA, APA, and major payers built right in. Fix documentation gaps with one click \u2014 before they cost you thousands in clawbacks.",
+        "authorization_category": "NONE"
+      },
+      "new_link": "https://jotpsych.com/audit",
+      "new_spec": {
+        "object_story_spec": {
+          "page_id": "127683153772433",
+          "instagram_user_id": "17841466259294846",
+          "link_data": {
+            "link": "https://jotpsych.com/audit",
+            "image_hash": "4d964800492b027de66ffcd29036294c",
+            "call_to_action": {
+              "type": "SEE_DETAILS"
+            }
+          }
+        },
+        "url_tags": "utm_source={{site_source_name}}&utm_medium=paid_social&utm_campaign={{campaign.id}}&utm_content={{adset.id}}&utm_term={{ad.id}}",
+        "asset_feed_spec": {
+          "bodies": [
+            {
+              "text": "While basic scribes just transcribe, JotAudit runs real-time compliance checks on every note. 150+ rules from AMA, APA, and major payers built right in. Fix documentation gaps with one click \u2014 before they cost you thousands in clawbacks."
+            },
+            {
+              "text": "Ditch basic transcription services!\n\nJotAudit runs real-time compliance checks on every note, using 150+ rules from AMA, APA & major payers.\nFix documentation gaps with one click and avoid costly clawbacks.\n\nIs your practice at risk?"
+            },
+            {
+              "text": "Don't just transcribe, get compliant!\n\n\u2022 150+ rules from AMA, APA & major payers built-in\n\u2022 Real-time checks on every note to catch errors \n\u2022 Fix gaps with one click and avoid costly clawbacks\n\nIs your documentation putting you at risk?"
+            },
+            {
+              "text": "Say goodbye to tedious audits! \nJotAudit's real-time compliance checks ensure your notes meet 150+ rules from AMA, APA & top payers. \n\u2022 Fix documentation gaps with one click\n\u2022 Avoid costly clawbacks - thousands of dollars at stake!\nTake control of your compliance today"
+            },
+            {
+              "text": "Ditch basic scribes that just transcribe!\nJotAudit runs real-time compliance checks on every note with 150+ rules from AMA, APA & major payers built-in.\n\n\u2022 Fix documentation gaps in one click\n\u2022 Avoid thousands in clawbacks\n\nUpgrade to JotAudit today!"
+            },
+            {
+              "text": "Say goodbye to tedious transcriptions!\nJotAudit does more than just write notes - it runs real-time compliance checks against 150+ rules from AMA, APA & major payers.\n\nFix documentation gaps in one click and avoid costly clawbacks. Are thousands of dollars slipping away due to incomplete records?"
+            }
+          ],
+          "descriptions": [
+            {
+              "text": "Every payer has different documentation requirements. JotPsych tailors your notes to your specific payers."
+            }
+          ],
+          "titles": [
+            {
+              "text": "PMHNPs and Psychiatrists trust us with their documentation"
+            }
+          ],
+          "optimization_type": "DEGREES_OF_FREEDOM"
+        },
+        "degrees_of_freedom_spec": {
+          "creative_features_spec": {
+            "advantage_plus_creative": {
+              "enroll_status": "OPT_OUT"
+            },
+            "cv_transformation": {
+              "enroll_status": "OPT_OUT"
+            },
+            "enhance_cta": {
+              "enroll_status": "OPT_IN"
+            },
+            "image_animation": {
+              "enroll_status": "OPT_OUT"
+            },
+            "image_brightness_and_contrast": {
+              "enroll_status": "OPT_IN"
+            },
+            "image_templates": {
+              "enroll_status": "OPT_OUT"
+            },
+            "image_touchups": {
+              "enroll_status": "OPT_OUT"
+            },
+            "inline_comment": {
+              "enroll_status": "OPT_IN"
+            },
+            "pac_relaxation": {
+              "enroll_status": "OPT_OUT"
+            },
+            "product_extensions": {
+              "enroll_status": "OPT_IN",
+              "customizations": {
+                "pe_carousel": {
+                  "enroll_status": "OPT_IN"
+                }
+              }
+            },
+            "replace_media_text": {
+              "enroll_status": "OPT_OUT"
+            },
+            "reveal_details_over_time": {
+              "enroll_status": "OPT_IN"
+            },
+            "show_destination_blurbs": {
+              "enroll_status": "OPT_IN"
+            },
+            "show_summary": {
+              "enroll_status": "OPT_IN"
+            },
+            "site_extensions": {
+              "enroll_status": "OPT_OUT"
+            },
+            "text_optimizations": {
+              "enroll_status": "OPT_OUT"
+            },
+            "text_translation": {
+              "enroll_status": "OPT_OUT"
+            }
+          }
+        },
+        "name": "AN JotAudit Catches \u2014 URL swap 2026-04-14"
+      },
+      "create_error": "{\"error\":{\"message\":\"Invalid parameter\",\"type\":\"OAuthException\",\"code\":100,\"error_subcode\":3858504,\"is_transient\":false,\"error_user_title\":\"Creative should not include standard enhancements\",\"error_user_msg\":\"Including standard enhancements field in creative has been deprecated. Please choose to set individual features instead. Learn more here: https:\\/\\/fburl.com\\/hyth50xo\",\"fbtrace_id\":\"A-jZxQ3fCef9qZ6YWZAB-Ep\"}}",
+      "new_creative_id": "1614538273182017",
+      "swap_ok": true,
+      "live_link": "https://jotpsych.com/audit",
+      "live_url_tags": "utm_source={{site_source_name}}&utm_medium=paid_social&utm_campaign={{campaign.id}}&utm_content={{adset.id}}&utm_term={{ad.id}}"
+    },
+    {
+      "src_cid": "1403992808151777",
+      "label": "AN Audit Anxiety",
+      "ad_id": "120244894253920548",
+      "ad_name": "AN: Audit Anxiety vs. Confidence",
+      "new_path": "/audit",
+      "full_spec": {
+        "id": "1403992808151777",
+        "name": "PMHNPs and Psychiatrists trust us with their documentation 2026-04-05-73245d7ee1edd461b926815d85fed3a3",
+        "object_type": "SHARE",
+        "object_story_spec": {
+          "page_id": "127683153772433",
+          "instagram_user_id": "17841466259294846",
+          "link_data": {
+            "link": "http://jotpsych.com/",
+            "image_hash": "10e7ef06f9308ffc4d692858dd6b73ec",
+            "call_to_action": {
+              "type": "SEE_DETAILS"
+            }
+          }
+        },
+        "asset_feed_spec": {
+          "bodies": [
+            {
+              "text": "JotPsych isn't just faster documentation \u2014 it's smarter protection. Built-in audit intelligence reviews every note against 150+ compliance rules from major payers. Issues get flagged and fixed in real-time, not during expensive audits."
+            },
+            {
+              "text": "Say goodbye to audit anxiety!\n\nJotPsych's built-in intelligence reviews every note against 150+ compliance rules from major payers. \nIssues are flagged and fixed in real-time, saving you time and money.\nNo more surprises during audits!\nGet smarter protection today!"
+            },
+            {
+              "text": "Say goodbye to costly audits!\nJotPsych's smart documentation flags compliance issues in real-time, checking against 150+ rules from major payers. \nReview and fix instantly - no more surprises down the line!"
+            },
+            {
+              "text": "Say goodbye to tedious audits! JotPsych's built-in audit intelligence reviews every note against 150+ compliance rules in real-time. \n\n\u2022 Flags issues instantly\n\u2022 Fixes problems on the spot, not during costly audits\n\nSmarter protection for your practice starts here"
+            },
+            {
+              "text": "Say goodbye to tedious documentation and hello to smarter protection with JotPsych!\n\u2022 150+ compliance rules from major payers built-in\n\u2022 Real-time audit intelligence flags issues for instant fix \nAvoid costly audits, stay compliant! Try it now"
+            },
+            {
+              "text": "Say goodbye to costly audits!\nJotPsych's built-in audit intelligence reviews every note against 150+ compliance rules from major payers. \nIssues are flagged and fixed in real-time, ensuring you're always protected.\nIs your current documentation putting you at risk? Switch to JotPsych today!"
+            }
+          ],
+          "descriptions": [
+            {
+              "text": "Every payer has different documentation requirements. JotPsych tailors your notes to your specific payers."
+            }
+          ],
+          "titles": [
+            {
+              "text": "PMHNPs and Psychiatrists trust us with their documentation"
+            }
+          ],
+          "optimization_type": "DEGREES_OF_FREEDOM"
+        },
+        "degrees_of_freedom_spec": {
+          "creative_features_spec": {
+            "advantage_plus_creative": {
+              "enroll_status": "OPT_OUT"
+            },
+            "cv_transformation": {
+              "enroll_status": "OPT_OUT"
+            },
+            "enhance_cta": {
+              "enroll_status": "OPT_IN"
+            },
+            "image_animation": {
+              "enroll_status": "OPT_OUT"
+            },
+            "image_brightness_and_contrast": {
+              "enroll_status": "OPT_IN"
+            },
+            "image_templates": {
+              "enroll_status": "OPT_OUT"
+            },
+            "image_touchups": {
+              "enroll_status": "OPT_OUT"
+            },
+            "inline_comment": {
+              "enroll_status": "OPT_IN"
+            },
+            "pac_relaxation": {
+              "enroll_status": "OPT_OUT"
+            },
+            "product_extensions": {
+              "enroll_status": "OPT_IN",
+              "customizations": {
+                "pe_carousel": {
+                  "enroll_status": "OPT_IN"
+                }
+              }
+            },
+            "replace_media_text": {
+              "enroll_status": "OPT_OUT"
+            },
+            "reveal_details_over_time": {
+              "enroll_status": "OPT_IN"
+            },
+            "show_destination_blurbs": {
+              "enroll_status": "OPT_IN"
+            },
+            "show_summary": {
+              "enroll_status": "OPT_IN"
+            },
+            "site_extensions": {
+              "enroll_status": "OPT_OUT"
+            },
+            "standard_enhancements": {
+              "enroll_status": "OPT_IN"
+            },
+            "text_optimizations": {
+              "enroll_status": "OPT_OUT"
+            },
+            "text_translation": {
+              "enroll_status": "OPT_OUT"
+            }
+          }
+        },
+        "url_tags": "utm_source={{site_source_name}}&utm_medium=paid_social&utm_campaign={{campaign.id}}&utm_content={{adset.id}}&utm_term={{ad.id}}",
+        "title": "PMHNPs and Psychiatrists trust us with their documentation",
+        "body": "JotPsych isn't just faster documentation \u2014 it's smarter protection. Built-in audit intelligence reviews every note against 150+ compliance rules from major payers. Issues get flagged and fixed in real-time, not during expensive audits.",
+        "authorization_category": "NONE"
+      },
+      "new_link": "https://jotpsych.com/audit",
+      "new_spec": {
+        "object_story_spec": {
+          "page_id": "127683153772433",
+          "instagram_user_id": "17841466259294846",
+          "link_data": {
+            "link": "https://jotpsych.com/audit",
+            "image_hash": "10e7ef06f9308ffc4d692858dd6b73ec",
+            "call_to_action": {
+              "type": "SEE_DETAILS"
+            }
+          }
+        },
+        "url_tags": "utm_source={{site_source_name}}&utm_medium=paid_social&utm_campaign={{campaign.id}}&utm_content={{adset.id}}&utm_term={{ad.id}}",
+        "asset_feed_spec": {
+          "bodies": [
+            {
+              "text": "JotPsych isn't just faster documentation \u2014 it's smarter protection. Built-in audit intelligence reviews every note against 150+ compliance rules from major payers. Issues get flagged and fixed in real-time, not during expensive audits."
+            },
+            {
+              "text": "Say goodbye to audit anxiety!\n\nJotPsych's built-in intelligence reviews every note against 150+ compliance rules from major payers. \nIssues are flagged and fixed in real-time, saving you time and money.\nNo more surprises during audits!\nGet smarter protection today!"
+            },
+            {
+              "text": "Say goodbye to costly audits!\nJotPsych's smart documentation flags compliance issues in real-time, checking against 150+ rules from major payers. \nReview and fix instantly - no more surprises down the line!"
+            },
+            {
+              "text": "Say goodbye to tedious audits! JotPsych's built-in audit intelligence reviews every note against 150+ compliance rules in real-time. \n\n\u2022 Flags issues instantly\n\u2022 Fixes problems on the spot, not during costly audits\n\nSmarter protection for your practice starts here"
+            },
+            {
+              "text": "Say goodbye to tedious documentation and hello to smarter protection with JotPsych!\n\u2022 150+ compliance rules from major payers built-in\n\u2022 Real-time audit intelligence flags issues for instant fix \nAvoid costly audits, stay compliant! Try it now"
+            },
+            {
+              "text": "Say goodbye to costly audits!\nJotPsych's built-in audit intelligence reviews every note against 150+ compliance rules from major payers. \nIssues are flagged and fixed in real-time, ensuring you're always protected.\nIs your current documentation putting you at risk? Switch to JotPsych today!"
+            }
+          ],
+          "descriptions": [
+            {
+              "text": "Every payer has different documentation requirements. JotPsych tailors your notes to your specific payers."
+            }
+          ],
+          "titles": [
+            {
+              "text": "PMHNPs and Psychiatrists trust us with their documentation"
+            }
+          ],
+          "optimization_type": "DEGREES_OF_FREEDOM"
+        },
+        "degrees_of_freedom_spec": {
+          "creative_features_spec": {
+            "advantage_plus_creative": {
+              "enroll_status": "OPT_OUT"
+            },
+            "cv_transformation": {
+              "enroll_status": "OPT_OUT"
+            },
+            "enhance_cta": {
+              "enroll_status": "OPT_IN"
+            },
+            "image_animation": {
+              "enroll_status": "OPT_OUT"
+            },
+            "image_brightness_and_contrast": {
+              "enroll_status": "OPT_IN"
+            },
+            "image_templates": {
+              "enroll_status": "OPT_OUT"
+            },
+            "image_touchups": {
+              "enroll_status": "OPT_OUT"
+            },
+            "inline_comment": {
+              "enroll_status": "OPT_IN"
+            },
+            "pac_relaxation": {
+              "enroll_status": "OPT_OUT"
+            },
+            "product_extensions": {
+              "enroll_status": "OPT_IN",
+              "customizations": {
+                "pe_carousel": {
+                  "enroll_status": "OPT_IN"
+                }
+              }
+            },
+            "replace_media_text": {
+              "enroll_status": "OPT_OUT"
+            },
+            "reveal_details_over_time": {
+              "enroll_status": "OPT_IN"
+            },
+            "show_destination_blurbs": {
+              "enroll_status": "OPT_IN"
+            },
+            "show_summary": {
+              "enroll_status": "OPT_IN"
+            },
+            "site_extensions": {
+              "enroll_status": "OPT_OUT"
+            },
+            "text_optimizations": {
+              "enroll_status": "OPT_OUT"
+            },
+            "text_translation": {
+              "enroll_status": "OPT_OUT"
+            }
+          }
+        },
+        "name": "AN Audit Anxiety \u2014 URL swap 2026-04-14"
+      },
+      "create_error": "{\"error\":{\"message\":\"Invalid parameter\",\"type\":\"OAuthException\",\"code\":100,\"error_subcode\":3858504,\"is_transient\":false,\"error_user_title\":\"Creative should not include standard enhancements\",\"error_user_msg\":\"Including standard enhancements field in creative has been deprecated. Please choose to set individual features instead. Learn more here: https:\\/\\/fburl.com\\/hyth50xo\",\"fbtrace_id\":\"AUSZHW7HZexRuVLvgtiztTp\"}}",
+      "new_creative_id": "1435558051102392",
+      "swap_ok": true,
+      "live_link": "https://jotpsych.com/audit",
+      "live_url_tags": "utm_source={{site_source_name}}&utm_medium=paid_social&utm_campaign={{campaign.id}}&utm_content={{adset.id}}&utm_term={{ad.id}}"
+    },
+    {
+      "src_cid": "1880489825943730",
+      "label": "AN Scribe Thinks",
+      "ad_id": "120244894285290548",
+      "ad_name": "AN: Scribe that Thinks Like an Auditor",
+      "new_path": "/audit",
+      "full_spec": {
+        "id": "1880489825943730",
+        "name": "PMHNPs and Psychiatrists trust us with their documentation 2026-04-05-d0fe6b5b6ad26deeac7c7fd9b93c1be5",
+        "object_type": "SHARE",
+        "object_story_spec": {
+          "page_id": "127683153772433",
+          "instagram_user_id": "17841466259294846",
+          "link_data": {
+            "link": "http://jotpsych.com/",
+            "image_hash": "abaefec8e18696b5951a4419d4f12ac4",
+            "call_to_action": {
+              "type": "SEE_DETAILS"
+            }
+          }
+        },
+        "asset_feed_spec": {
+          "bodies": [
+            {
+              "text": "Most scribes transcribe and leave you vulnerable. JotAudit actively protects your revenue by checking every note against 150+ compliance rules from major payers. Catch documentation gaps and coding mismatches before auditors do \u2014 with one-click fixes."
+            },
+            {
+              "text": "Don't let transcription errors put your revenue at risk! \nJotAudit's got you covered with:\n\u2022 150+ compliance rules from major payers\n\u2022 Automatic gap detection & coding mismatch alerts\nFix issues in one click - before auditors even notice!\nAre you protected?"
+            },
+            {
+              "text": "Don't let transcription vulnerabilities put your revenue at risk! \nJotAudit protects you with:\n\u2022 150+ compliance rules from major payers\n\u2022 One-click fixes for documentation gaps & coding mismatches\nCatch errors before auditors do. Is your practice protected?"
+            },
+            {
+              "text": "Don't let transcription mistakes cost you!\n\nMost scribes leave your revenue vulnerable. JotAudit actively protects it by checking every note against 150+ compliance rules from major payers.\n\n\u2022 Catch documentation gaps\n\u2022 Identify coding mismatches\n\nFix errors with one click before auditors find them!"
+            },
+            {
+              "text": "Don't let sloppy transcriptions put your revenue at risk! \nJotAudit checks every note against 150+ compliance rules from top payers\nCatch documentation gaps and coding errors BEFORE auditors do!\nOne-click fixes to keep you safe and compliant."
+            },
+            {
+              "text": "Don't let transcription mistakes put your revenue at risk!\n\nJotAudit protects you with:\n\u2022 150+ compliance checks from major payers\n\u2022 Instant detection of documentation gaps & coding mismatches\nFix errors in one click - before auditors find them!"
+            }
+          ],
+          "descriptions": [
+            {
+              "text": "Every payer has different documentation requirements. JotPsych tailors your notes to your specific payers."
+            }
+          ],
+          "titles": [
+            {
+              "text": "PMHNPs and Psychiatrists trust us with their documentation"
+            }
+          ],
+          "optimization_type": "DEGREES_OF_FREEDOM"
+        },
+        "degrees_of_freedom_spec": {
+          "creative_features_spec": {
+            "advantage_plus_creative": {
+              "enroll_status": "OPT_OUT"
+            },
+            "cv_transformation": {
+              "enroll_status": "OPT_OUT"
+            },
+            "enhance_cta": {
+              "enroll_status": "OPT_IN"
+            },
+            "image_animation": {
+              "enroll_status": "OPT_OUT"
+            },
+            "image_brightness_and_contrast": {
+              "enroll_status": "OPT_IN"
+            },
+            "image_templates": {
+              "enroll_status": "OPT_OUT"
+            },
+            "image_touchups": {
+              "enroll_status": "OPT_OUT"
+            },
+            "inline_comment": {
+              "enroll_status": "OPT_IN"
+            },
+            "pac_relaxation": {
+              "enroll_status": "OPT_OUT"
+            },
+            "product_extensions": {
+              "enroll_status": "OPT_IN",
+              "customizations": {
+                "pe_carousel": {
+                  "enroll_status": "OPT_IN"
+                }
+              }
+            },
+            "replace_media_text": {
+              "enroll_status": "OPT_OUT"
+            },
+            "reveal_details_over_time": {
+              "enroll_status": "OPT_IN"
+            },
+            "show_destination_blurbs": {
+              "enroll_status": "OPT_IN"
+            },
+            "show_summary": {
+              "enroll_status": "OPT_IN"
+            },
+            "site_extensions": {
+              "enroll_status": "OPT_OUT"
+            },
+            "standard_enhancements": {
+              "enroll_status": "OPT_IN"
+            },
+            "text_optimizations": {
+              "enroll_status": "OPT_OUT"
+            },
+            "text_translation": {
+              "enroll_status": "OPT_OUT"
+            }
+          }
+        },
+        "url_tags": "utm_source={{site_source_name}}&utm_medium=paid_social&utm_campaign={{campaign.id}}&utm_content={{adset.id}}&utm_term={{ad.id}}",
+        "title": "PMHNPs and Psychiatrists trust us with their documentation",
+        "body": "Most scribes transcribe and leave you vulnerable. JotAudit actively protects your revenue by checking every note against 150+ compliance rules from major payers. Catch documentation gaps and coding mismatches before auditors do \u2014 with one-click fixes.",
+        "authorization_category": "NONE"
+      },
+      "new_link": "https://jotpsych.com/audit",
+      "new_spec": {
+        "object_story_spec": {
+          "page_id": "127683153772433",
+          "instagram_user_id": "17841466259294846",
+          "link_data": {
+            "link": "https://jotpsych.com/audit",
+            "image_hash": "abaefec8e18696b5951a4419d4f12ac4",
+            "call_to_action": {
+              "type": "SEE_DETAILS"
+            }
+          }
+        },
+        "url_tags": "utm_source={{site_source_name}}&utm_medium=paid_social&utm_campaign={{campaign.id}}&utm_content={{adset.id}}&utm_term={{ad.id}}",
+        "asset_feed_spec": {
+          "bodies": [
+            {
+              "text": "Most scribes transcribe and leave you vulnerable. JotAudit actively protects your revenue by checking every note against 150+ compliance rules from major payers. Catch documentation gaps and coding mismatches before auditors do \u2014 with one-click fixes."
+            },
+            {
+              "text": "Don't let transcription errors put your revenue at risk! \nJotAudit's got you covered with:\n\u2022 150+ compliance rules from major payers\n\u2022 Automatic gap detection & coding mismatch alerts\nFix issues in one click - before auditors even notice!\nAre you protected?"
+            },
+            {
+              "text": "Don't let transcription vulnerabilities put your revenue at risk! \nJotAudit protects you with:\n\u2022 150+ compliance rules from major payers\n\u2022 One-click fixes for documentation gaps & coding mismatches\nCatch errors before auditors do. Is your practice protected?"
+            },
+            {
+              "text": "Don't let transcription mistakes cost you!\n\nMost scribes leave your revenue vulnerable. JotAudit actively protects it by checking every note against 150+ compliance rules from major payers.\n\n\u2022 Catch documentation gaps\n\u2022 Identify coding mismatches\n\nFix errors with one click before auditors find them!"
+            },
+            {
+              "text": "Don't let sloppy transcriptions put your revenue at risk! \nJotAudit checks every note against 150+ compliance rules from top payers\nCatch documentation gaps and coding errors BEFORE auditors do!\nOne-click fixes to keep you safe and compliant."
+            },
+            {
+              "text": "Don't let transcription mistakes put your revenue at risk!\n\nJotAudit protects you with:\n\u2022 150+ compliance checks from major payers\n\u2022 Instant detection of documentation gaps & coding mismatches\nFix errors in one click - before auditors find them!"
+            }
+          ],
+          "descriptions": [
+            {
+              "text": "Every payer has different documentation requirements. JotPsych tailors your notes to your specific payers."
+            }
+          ],
+          "titles": [
+            {
+              "text": "PMHNPs and Psychiatrists trust us with their documentation"
+            }
+          ],
+          "optimization_type": "DEGREES_OF_FREEDOM"
+        },
+        "degrees_of_freedom_spec": {
+          "creative_features_spec": {
+            "advantage_plus_creative": {
+              "enroll_status": "OPT_OUT"
+            },
+            "cv_transformation": {
+              "enroll_status": "OPT_OUT"
+            },
+            "enhance_cta": {
+              "enroll_status": "OPT_IN"
+            },
+            "image_animation": {
+              "enroll_status": "OPT_OUT"
+            },
+            "image_brightness_and_contrast": {
+              "enroll_status": "OPT_IN"
+            },
+            "image_templates": {
+              "enroll_status": "OPT_OUT"
+            },
+            "image_touchups": {
+              "enroll_status": "OPT_OUT"
+            },
+            "inline_comment": {
+              "enroll_status": "OPT_IN"
+            },
+            "pac_relaxation": {
+              "enroll_status": "OPT_OUT"
+            },
+            "product_extensions": {
+              "enroll_status": "OPT_IN",
+              "customizations": {
+                "pe_carousel": {
+                  "enroll_status": "OPT_IN"
+                }
+              }
+            },
+            "replace_media_text": {
+              "enroll_status": "OPT_OUT"
+            },
+            "reveal_details_over_time": {
+              "enroll_status": "OPT_IN"
+            },
+            "show_destination_blurbs": {
+              "enroll_status": "OPT_IN"
+            },
+            "show_summary": {
+              "enroll_status": "OPT_IN"
+            },
+            "site_extensions": {
+              "enroll_status": "OPT_OUT"
+            },
+            "text_optimizations": {
+              "enroll_status": "OPT_OUT"
+            },
+            "text_translation": {
+              "enroll_status": "OPT_OUT"
+            }
+          }
+        },
+        "name": "AN Scribe Thinks \u2014 URL swap 2026-04-14"
+      },
+      "create_error": "{\"error\":{\"message\":\"Invalid parameter\",\"type\":\"OAuthException\",\"code\":100,\"error_subcode\":3858504,\"is_transient\":false,\"error_user_title\":\"Creative should not include standard enhancements\",\"error_user_msg\":\"Including standard enhancements field in creative has been deprecated. Please choose to set individual features instead. Learn more here: https:\\/\\/fburl.com\\/hyth50xo\",\"fbtrace_id\":\"Au1huOtk4aU_546qj6bhYvt\"}}",
+      "new_creative_id": "3395299680626239",
+      "swap_ok": true,
+      "live_link": "https://jotpsych.com/audit",
+      "live_url_tags": "utm_source={{site_source_name}}&utm_medium=paid_social&utm_campaign={{campaign.id}}&utm_content={{adset.id}}&utm_term={{ad.id}}"
+    },
+    {
+      "src_cid": "1285949533478114",
+      "label": "AN Stop leaving",
+      "ad_id": "120244894273890548",
+      "ad_name": "AN: Stop leaving your practice exposed to audit risk",
+      "new_path": "/audit",
+      "full_spec": {
+        "id": "1285949533478114",
+        "name": "PMHNPs and Psychiatrists trust us with their documentation 2026-04-05-7724e8bd29259217024f3a8a8c84c33c",
+        "object_type": "SHARE",
+        "object_story_spec": {
+          "page_id": "127683153772433",
+          "instagram_user_id": "17841466259294846",
+          "link_data": {
+            "link": "http://jotpsych.com/",
+            "image_hash": "4a5fd22f49c5eff5363b5f30beeed508",
+            "call_to_action": {
+              "type": "SEE_DETAILS"
+            }
+          }
+        },
+        "asset_feed_spec": {
+          "bodies": [
+            {
+              "text": "Every note your clinicians write is checked against 150 compliance rules automatically. JotAudit catches documentation gaps and coding mismatches that trigger clawbacks \u2014 fixing issues in one click before auditors see them. Your practice stays protected."
+            },
+            {
+              "text": "Say goodbye to costly clawbacks!\n\nJotAudit checks every note against 150 compliance rules, catching:\n\u2022 Documentation gaps\n\u2022 Coding mismatches\n\nFix issues in one click before auditors notice. Protect your practice today!"
+            },
+            {
+              "text": "Protect Your Practice from Clawbacks!\n\n\u2022 JotAudit checks every note against 150 compliance rules\n\u2022 Catches documentation gaps & coding mismatches in real-time \n\u2022 Fix issues with just one click before auditors notice\n\nKeep your practice safe, today!"
+            },
+            {
+              "text": "Say goodbye to costly clawbacks!\n\nJotAudit checks every note against 150 compliance rules\nCatches documentation gaps and coding mismatches in real-time\nFix issues with just one click before auditors even see them\n\nProtect your practice from unnecessary fines today!"
+            },
+            {
+              "text": "Say goodbye to costly clawbacks!\n\nOur JotAudit tool checks every note against 150 compliance rules in real-time, catching:\n\u2022 Documentation gaps\n\u2022 Coding mismatches\n\nFix issues with just one click before auditors notice. Protect your practice today!"
+            },
+            {
+              "text": "Say goodbye to audit anxiety!\n\n\u2022 150 compliance rules checked automatically\n\u2022 Catch documentation gaps & coding mismatches instantly \n\u2022 Fix issues in one click before auditors see them \n\nProtect your practice from clawbacks. Try JotAudit today!"
+            }
+          ],
+          "descriptions": [
+            {
+              "text": "Every payer has different documentation requirements. JotPsych tailors your notes to your specific payers."
+            }
+          ],
+          "titles": [
+            {
+              "text": "PMHNPs and Psychiatrists trust us with their documentation"
+            }
+          ],
+          "optimization_type": "DEGREES_OF_FREEDOM"
+        },
+        "degrees_of_freedom_spec": {
+          "creative_features_spec": {
+            "advantage_plus_creative": {
+              "enroll_status": "OPT_OUT"
+            },
+            "cv_transformation": {
+              "enroll_status": "OPT_OUT"
+            },
+            "enhance_cta": {
+              "enroll_status": "OPT_IN"
+            },
+            "image_animation": {
+              "enroll_status": "OPT_OUT"
+            },
+            "image_brightness_and_contrast": {
+              "enroll_status": "OPT_IN"
+            },
+            "image_templates": {
+              "enroll_status": "OPT_OUT"
+            },
+            "image_touchups": {
+              "enroll_status": "OPT_OUT"
+            },
+            "inline_comment": {
+              "enroll_status": "OPT_IN"
+            },
+            "pac_relaxation": {
+              "enroll_status": "OPT_OUT"
+            },
+            "product_extensions": {
+              "enroll_status": "OPT_IN",
+              "customizations": {
+                "pe_carousel": {
+                  "enroll_status": "OPT_IN"
+                }
+              }
+            },
+            "replace_media_text": {
+              "enroll_status": "OPT_OUT"
+            },
+            "reveal_details_over_time": {
+              "enroll_status": "OPT_IN"
+            },
+            "show_destination_blurbs": {
+              "enroll_status": "OPT_IN"
+            },
+            "show_summary": {
+              "enroll_status": "OPT_IN"
+            },
+            "site_extensions": {
+              "enroll_status": "OPT_OUT"
+            },
+            "standard_enhancements": {
+              "enroll_status": "OPT_IN"
+            },
+            "text_optimizations": {
+              "enroll_status": "OPT_OUT"
+            },
+            "text_translation": {
+              "enroll_status": "OPT_OUT"
+            }
+          }
+        },
+        "url_tags": "utm_source={{site_source_name}}&utm_medium=paid_social&utm_campaign={{campaign.id}}&utm_content={{adset.id}}&utm_term={{ad.id}}",
+        "title": "PMHNPs and Psychiatrists trust us with their documentation",
+        "body": "Every note your clinicians write is checked against 150 compliance rules automatically. JotAudit catches documentation gaps and coding mismatches that trigger clawbacks \u2014 fixing issues in one click before auditors see them. Your practice stays protected.",
+        "authorization_category": "NONE"
+      },
+      "new_link": "https://jotpsych.com/audit",
+      "new_spec": {
+        "object_story_spec": {
+          "page_id": "127683153772433",
+          "instagram_user_id": "17841466259294846",
+          "link_data": {
+            "link": "https://jotpsych.com/audit",
+            "image_hash": "4a5fd22f49c5eff5363b5f30beeed508",
+            "call_to_action": {
+              "type": "SEE_DETAILS"
+            }
+          }
+        },
+        "url_tags": "utm_source={{site_source_name}}&utm_medium=paid_social&utm_campaign={{campaign.id}}&utm_content={{adset.id}}&utm_term={{ad.id}}",
+        "asset_feed_spec": {
+          "bodies": [
+            {
+              "text": "Every note your clinicians write is checked against 150 compliance rules automatically. JotAudit catches documentation gaps and coding mismatches that trigger clawbacks \u2014 fixing issues in one click before auditors see them. Your practice stays protected."
+            },
+            {
+              "text": "Say goodbye to costly clawbacks!\n\nJotAudit checks every note against 150 compliance rules, catching:\n\u2022 Documentation gaps\n\u2022 Coding mismatches\n\nFix issues in one click before auditors notice. Protect your practice today!"
+            },
+            {
+              "text": "Protect Your Practice from Clawbacks!\n\n\u2022 JotAudit checks every note against 150 compliance rules\n\u2022 Catches documentation gaps & coding mismatches in real-time \n\u2022 Fix issues with just one click before auditors notice\n\nKeep your practice safe, today!"
+            },
+            {
+              "text": "Say goodbye to costly clawbacks!\n\nJotAudit checks every note against 150 compliance rules\nCatches documentation gaps and coding mismatches in real-time\nFix issues with just one click before auditors even see them\n\nProtect your practice from unnecessary fines today!"
+            },
+            {
+              "text": "Say goodbye to costly clawbacks!\n\nOur JotAudit tool checks every note against 150 compliance rules in real-time, catching:\n\u2022 Documentation gaps\n\u2022 Coding mismatches\n\nFix issues with just one click before auditors notice. Protect your practice today!"
+            },
+            {
+              "text": "Say goodbye to audit anxiety!\n\n\u2022 150 compliance rules checked automatically\n\u2022 Catch documentation gaps & coding mismatches instantly \n\u2022 Fix issues in one click before auditors see them \n\nProtect your practice from clawbacks. Try JotAudit today!"
+            }
+          ],
+          "descriptions": [
+            {
+              "text": "Every payer has different documentation requirements. JotPsych tailors your notes to your specific payers."
+            }
+          ],
+          "titles": [
+            {
+              "text": "PMHNPs and Psychiatrists trust us with their documentation"
+            }
+          ],
+          "optimization_type": "DEGREES_OF_FREEDOM"
+        },
+        "degrees_of_freedom_spec": {
+          "creative_features_spec": {
+            "advantage_plus_creative": {
+              "enroll_status": "OPT_OUT"
+            },
+            "cv_transformation": {
+              "enroll_status": "OPT_OUT"
+            },
+            "enhance_cta": {
+              "enroll_status": "OPT_IN"
+            },
+            "image_animation": {
+              "enroll_status": "OPT_OUT"
+            },
+            "image_brightness_and_contrast": {
+              "enroll_status": "OPT_IN"
+            },
+            "image_templates": {
+              "enroll_status": "OPT_OUT"
+            },
+            "image_touchups": {
+              "enroll_status": "OPT_OUT"
+            },
+            "inline_comment": {
+              "enroll_status": "OPT_IN"
+            },
+            "pac_relaxation": {
+              "enroll_status": "OPT_OUT"
+            },
+            "product_extensions": {
+              "enroll_status": "OPT_IN",
+              "customizations": {
+                "pe_carousel": {
+                  "enroll_status": "OPT_IN"
+                }
+              }
+            },
+            "replace_media_text": {
+              "enroll_status": "OPT_OUT"
+            },
+            "reveal_details_over_time": {
+              "enroll_status": "OPT_IN"
+            },
+            "show_destination_blurbs": {
+              "enroll_status": "OPT_IN"
+            },
+            "show_summary": {
+              "enroll_status": "OPT_IN"
+            },
+            "site_extensions": {
+              "enroll_status": "OPT_OUT"
+            },
+            "text_optimizations": {
+              "enroll_status": "OPT_OUT"
+            },
+            "text_translation": {
+              "enroll_status": "OPT_OUT"
+            }
+          }
+        },
+        "name": "AN Stop leaving \u2014 URL swap 2026-04-14"
+      },
+      "create_error": "{\"error\":{\"message\":\"Invalid parameter\",\"type\":\"OAuthException\",\"code\":100,\"error_subcode\":3858504,\"is_transient\":false,\"error_user_title\":\"Creative should not include standard enhancements\",\"error_user_msg\":\"Including standard enhancements field in creative has been deprecated. Please choose to set individual features instead. Learn more here: https:\\/\\/fburl.com\\/hyth50xo\",\"fbtrace_id\":\"A-3Yhh2S7X7YBhs-WF6oBNW\"}}",
+      "new_creative_id": "2003315803931503",
+      "swap_ok": true,
+      "live_link": "https://jotpsych.com/audit",
+      "live_url_tags": "utm_source={{site_source_name}}&utm_medium=paid_social&utm_campaign={{campaign.id}}&utm_content={{adset.id}}&utm_term={{ad.id}}"
+    },
+    {
+      "src_cid": "728612216169042",
+      "label": "Nate Podcast 4",
+      "ad_id": "120244893449570548",
+      "ad_name": "Farm: Nate Podcast 4 - ad",
+      "new_path": "/making-time-for-presence",
+      "full_spec": {
+        "id": "728612216169042",
+        "name": "AI Notes, Built for Behavioral Health 2025-05-15-85c946385067cb93022dc4ed590480fe",
+        "object_type": "VIDEO",
+        "object_story_spec": {
+          "page_id": "127683153772433",
+          "instagram_user_id": "17841466259294846",
+          "video_data": {
+            "video_id": "1036710121854220",
+            "call_to_action": {
+              "type": "LEARN_MORE",
+              "value": {
+                "link": "http://www.jotpsych.com/?utm_source={{site_source_name}}&utm_medium={{placement}}&utm_campaign={{campaign.name}}&utm_content={{adset.name}}"
+              }
+            },
+            "image_url": "https://www.facebook.com/ads/image/?d=AQIzHEhz6mWsErn9J6wFk_hFXQ72DesGNk7kWkwPfvlMAE2WQyPBGB4RaZFLo7yuHHb1DqtJ7nUOJuIzHaCv5URKHu5fG1yAxf-TI4Tg_SHS4uHHAH4H-lnUCrSaYCthxcsOwHdz8WDipZQMIwlNTcSV",
+            "image_hash": "9aa1f3ef2f1849413404884329220888"
+          }
+        },
+        "asset_feed_spec": {
+          "bodies": [
+            {
+              "text": "Psychiatrists spend 1\u20132 hours a day finishing notes."
+            },
+            {
+              "text": "HIPAA-secure. Built specifically for behavioral health."
+            },
+            {
+              "text": "JotPsych\u2019s AI scribe helps you cut documentation time by 90%, so you can focus on medication management and patient care \u2014 not templates, not checkboxes."
+            }
+          ],
+          "descriptions": [
+            {
+              "text": "Designed for psychiatry workflows \u2014 from intake to med follow-ups."
+            }
+          ],
+          "titles": [
+            {
+              "text": "AI Notes, Built for Behavioral Health"
+            },
+            {
+              "text": "Clinical Notes in Minutes, Not Hours"
+            },
+            {
+              "text": "Trusted by Psychiatrists & PMHNPs"
+            }
+          ],
+          "optimization_type": "DEGREES_OF_FREEDOM"
+        },
+        "degrees_of_freedom_spec": {
+          "creative_features_spec": {
+            "advantage_plus_creative": {
+              "enroll_status": "OPT_IN"
+            },
+            "inline_comment": {
+              "enroll_status": "OPT_IN"
+            },
+            "product_extensions": {
+              "enroll_status": "OPT_OUT"
+            },
+            "site_extensions": {
+              "enroll_status": "OPT_IN"
+            },
+            "standard_enhancements": {
+              "enroll_status": "OPT_IN"
+            },
+            "text_optimizations": {
+              "enroll_status": "OPT_IN",
+              "customizations": {
+                "text_extraction": {
+                  "enroll_status": "OPT_IN"
+                }
+              }
+            },
+            "video_auto_crop": {
+              "enroll_status": "OPT_IN"
+            },
+            "video_filtering": {
+              "enroll_status": "OPT_IN"
+            }
+          }
+        },
+        "title": "AI Notes, Built for Behavioral Health",
+        "body": "Psychiatrists spend 1\u20132 hours a day finishing notes.",
+        "instagram_permalink_url": "https://www.instagram.com/p/DJsmYwvglqB/",
+        "effective_instagram_media_id": "17894963937210410",
+        "authorization_category": "NONE"
+      },
+      "new_link": "https://jotpsych.com/making-time-for-presence",
+      "new_spec": {
+        "object_story_spec": {
+          "page_id": "127683153772433",
+          "instagram_user_id": "17841466259294846",
+          "video_data": {
+            "video_id": "1036710121854220",
+            "call_to_action": {
+              "type": "LEARN_MORE",
+              "value": {
+                "link": "https://jotpsych.com/making-time-for-presence"
+              }
+            },
+            "image_hash": "9aa1f3ef2f1849413404884329220888"
+          }
+        },
+        "url_tags": "utm_source={{site_source_name}}&utm_medium=paid_social&utm_campaign={{campaign.id}}&utm_content={{adset.id}}&utm_term={{ad.id}}",
+        "asset_feed_spec": {
+          "bodies": [
+            {
+              "text": "Psychiatrists spend 1\u20132 hours a day finishing notes."
+            },
+            {
+              "text": "HIPAA-secure. Built specifically for behavioral health."
+            },
+            {
+              "text": "JotPsych\u2019s AI scribe helps you cut documentation time by 90%, so you can focus on medication management and patient care \u2014 not templates, not checkboxes."
+            }
+          ],
+          "descriptions": [
+            {
+              "text": "Designed for psychiatry workflows \u2014 from intake to med follow-ups."
+            }
+          ],
+          "titles": [
+            {
+              "text": "AI Notes, Built for Behavioral Health"
+            },
+            {
+              "text": "Clinical Notes in Minutes, Not Hours"
+            },
+            {
+              "text": "Trusted by Psychiatrists & PMHNPs"
+            }
+          ],
+          "optimization_type": "DEGREES_OF_FREEDOM"
+        },
+        "degrees_of_freedom_spec": {
+          "creative_features_spec": {
+            "advantage_plus_creative": {
+              "enroll_status": "OPT_IN"
+            },
+            "inline_comment": {
+              "enroll_status": "OPT_IN"
+            },
+            "product_extensions": {
+              "enroll_status": "OPT_OUT"
+            },
+            "site_extensions": {
+              "enroll_status": "OPT_IN"
+            },
+            "text_optimizations": {
+              "enroll_status": "OPT_IN",
+              "customizations": {
+                "text_extraction": {
+                  "enroll_status": "OPT_IN"
+                }
+              }
+            },
+            "video_auto_crop": {
+              "enroll_status": "OPT_IN"
+            },
+            "video_filtering": {
+              "enroll_status": "OPT_IN"
+            }
+          }
+        },
+        "name": "Nate Podcast 4 \u2014 URL swap 2026-04-14"
+      },
+      "create_error": "{\"error\":{\"message\":\"Invalid parameter\",\"type\":\"OAuthException\",\"code\":100,\"error_subcode\":1443051,\"is_transient\":false,\"error_user_title\":\"ObjectStorySpecRedundant\",\"error_user_msg\":\"Only one of image_url and image_hash should be specified in the field video_data of object_story_spec.\",\"fbtrace_id\":\"A8h2fqSuywKugURD9RNhihS\"}}",
+      "new_creative_id": "1295949422475680",
+      "swap_ok": true,
+      "live_link": "https://jotpsych.com/making-time-for-presence",
+      "live_url_tags": "utm_source={{site_source_name}}&utm_medium=paid_social&utm_campaign={{campaign.id}}&utm_content={{adset.id}}&utm_term={{ad.id}}"
+    }
+  ]
+}

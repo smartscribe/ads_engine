@@ -1,0 +1,285 @@
+Adam Harrison: Hey, Nate, how's it going?
+Nathan Peereboom: I am great. I'm gonna let Beverly in it, and I'm gonna kind of just sit out on this call. Okay, awesome.
+Adam Harrison: Do you want to take the part where, like, at the end where we're kind of walking through the billing deck? Sure. Or do you want me to take that?
+Nathan Peereboom: I can if you want to.
+Adam Harrison: Yeah, I can do.
+Nathan Peereboom: No, no, I can do that.
+Adam Harrison: That sounds great. Okay. Okay, perfect.
+Nathan Peereboom: Just the note tape.
+Adam Harrison: I can ping her in a minute or two.
+Nathan Peereboom: Yeah, perfect. Hey, I just had an interview with someone who I think is going to actually be on awesome for our content group. So she's this super interesting person. Let me. Let me find her on LinkedIn. She's this, like, neuroscientist who does content creation, but her thing is very, like, she basically, like, wants to own strategy, production, scripting, like, stuff like that, but she doesn't want to do. But she doesn't. She can't be the face of the content because she works at, like, Columbia, and, like, they can't endorse medical stuff. Anyways, we'll talk about it later. Hey, Beverly.
+Beverly Curtis: Hi. I'm sorry I'm a little bit late. I apologize.
+Nathan Peereboom: That's totally fine. I'm gonna be off camera for most of this call just because I'm scrambling on something, but. But I'll be listening in and. And then I'll. I'll chime in at the end here.
+Beverly Curtis: Okay. Okay.
+Adam Harrison: Awesome. Well, nice to see you again, Beverly. How was your. Yeah. How was your new year? How was your.
+Beverly Curtis: Your brief? Very nice. Yeah. Quiet.
+Adam Harrison: Awesome. Hopefully you got to. Seems like you had a little break in some of your patient volume. A little. Little time to regroup and so, Awesome.
+Beverly Curtis: I took some time off, although it seems like a blur.
+Adam Harrison: Right. Right back into. It seems like things are. Things are busy once again. Awesome. Well, I'll jump right into things. Just in the interest of time here, I think had on our agenda three things for today. The first one was I wanted to check in with you on how those eligibility checks have been for you. I know Asia has been sending you updates over email, so would love to get any feedback on those and discuss if that's something you want to continue or if that's something you want to pause on. So that's number one. Number two is. Would love to. We turned on JOT audit for you in JWT Psych. I'm not sure if you saw kind of a difference in some of the user experience, but in particular I'm curious to understand if those CPT code recommendations are lining up better for you versus where they were a few weeks ago. We can spend a few minutes on that. Then from there would love to circle back to our initial conversation around billing and sort of check in on that and the potential next steps there, but that's what I had. Any, anything that's on your mind though, Beverly, that we should like talk through or any questions on any of that?
+Beverly Curtis: I don't think so. I think we can go ahead and proceed.
+Adam Harrison: All right, sounds good then. So I guess first thing on the eligibility checks. So ASEA has been sending those through. It seems like, you know, a little bit of a mixed bag in terms of eligibility. Some. Some that seem pretty clean and, and clear, others where there were a few issues. So why don't I just get your like, high level feedback on, you know, were those helpful for you? Were you finding those to be, you know, accurate? Were you finding them to be the right level of information and. Yeah, just curious. Any. Any thoughts on that to start out?
+Beverly Curtis: I think they were fine. I have a couple other sources to do that work as well.
+Beverly Curtis: So headway does it. Alma does it. Therapy notes does it. So in a sense, I don't feel I need you to do that. I'm not sure how that works though, with proceeding to do billing. If you're not doing eligibility checks, just throw that out there. Is that a problem for you?
+Nathan Peereboom: Hey, Beverly.
+Nathan Peereboom: Yeah, I would say, you know, if you think about our get our goal as a billing company, we care a lot about you getting reimbursed. You know, and part of that is that we want to own the entire process of, you know, catching reimbursement errors really early. So it's really hard for us to do. I mean, I suppose we could do JOT bill without the eligibility checks, but your denial rates are just going to be far higher because we haven't gone through the process of like catching things even like typos. Even when the person does have insurance, what the eligibility check gives us is the verification early on that we have the information correct, which we find really, really helpful. My recommendation would be to use our eligibility product if you're. Using job bill. But it is negotiable. But, but it's hard for us to think about, like, disaggregating that and it not being a. I know. Factor that deteriorates your experience, you know?
+Beverly Curtis: Well, it's not. I appreciate what you're saying, and I, from your perspective, I can absolutely see where, you know, you have to do some eligibility checking. You know, that's just part of billing. I have it done through therapy notes or headway. So now eventually, I'll be out of headway, so that won't be a source of eligibility anymore. But therapy notes charges me 14 cents. Yeah. An eligibility check. So that's different than 90, You know, 90 cents adds up over. Over a month, you know, so anyway, and Adam has access to therapy notes, and so the eligibility check could be run through therapy notes. It's something we can still talk about. I haven't made a final decision, but it changes my budget some, and I have understood. I have to decide if that's. Is that. If that's something I need to do or not, you know, so. Yes.
+Nathan Peereboom: Okay, well, why don't we, why don't we do this? What is the number of patients you have that are not on headway?
+Beverly Curtis: Okay, well, I have headway, and Alma, so. Okay, I, I, I'll have to give that to you. I could, I could guesstimate, but I don't particularly want to do that.
+Nathan Peereboom: So that. Let's do this then. Why don't I, Why don't I walk through what we do with drop bill, and then we. Let's circle back around to the eligibility check question afterwards. Does that sound good, Beverly?
+Beverly Curtis: Yeah, that's fine. That's fine.
+Nathan Peereboom: Okay, so I know we've talked about drop bill before, but what I'm going to do is I'm just going to walk through it once more just so we. We have a refresher, if that makes sense, and then we'll talk about kind of the timeline, you know, for, for proceeding.
+Beverly Curtis: Sound good? That's fine. Yep.
+Nathan Peereboom: All right, perfect. And before I do this, are there any things you want me to make sure that I cover in, in this kind of tiny presentation? Anything where you're like, hey, the real place I want to get to is, like, diving deep in this particular aspect.
+Beverly Curtis: No, there's.
+Beverly Curtis: So, you know, I haven't billed independently before, so in looking at this little journey, and as I become credentialed in therapy notes, I'm entering in all the insurers that I'm credentialed with. But then each of those insurers still requires that I go in and I enroll and I fill out their form, which sometimes is a little complex. So I had started to do that, but I noticed that the form has to be filled out differently if there's a third party biller. Okay. Yeah. So I'm already sort of inundated with forms. And so to repeat that, it seems a little bit awesome, you know, totally. I can do it, but it just is another layer of burden, so to speak. And so I just want to mention that to you that all those forms would then need to be redone. And there's probably 20 of them or so at this point I'm waiting for, and I don't have all those completed yet, so. So in this process, just so I don't forget to mention it, I would need the information from you guys to enter into those forms so that I have the appropriate information for jot billing to occur.
+Nathan Peereboom: Does that make sense?
+Nathan Peereboom: Yep, 100% makes sense. And we can actually sit with you as you fill out those forms. So we can either come in person or we can just do it virtually. Because for us, it's actually really helpful to see what you're seeing on the side of the insurers. It's really great for us to, you know, understand, hey, even in one of these insurance portals, like, what is available, you know, like, what kind of resources could we, you know, access or even automate through that would allow us to be even better at either eligibility checking or, you know, appeals denial or appealing denials, et cetera. So I think it would be a really good beginning of the partnership for us to just help you with filling out those forms and work together on them.
+Nathan Peereboom: Okay, All right, cool. So let's see. Let's go into slideshow mode. Okay. So just as a reminder, Beverly and I know this is all familiar to you, but, you know, the program is a hybrid AI plus billing, human billing engine. It starts with the eligibility checks, proceeds to, like, be, you know, in our pair aware note harness. Like, you know, the notes that you write are going to be built with the rules that come from your payers. And then we audit the note using our JOT audit system. We code the note with our proprietary coding system, and then we build a claim that we're also doing some checks on with with our special JOT psych system. And then after that, we've got humans that will validate for edge cases and help manage denials and all that. So from your perspective, nothing should change in terms of how you practice with jot. Psych. You record a note. You click sign and then you're done. Like you should not be touching anything else in this process. What we're going to do though is we will set you up with a monthly review with our team where you, Adam and I sit down and we say, hey, here's what's going on with your billing. This is how many visits you did. This is what we submitted for them. This is where they are in the pipeline. This is how we could get even better as a team in making sure that you have a high clean claims rate and that you're billing at the top of your license. In terms of pricing, there are three different tiers. So there's kind of like the most essential tier which just involves eligibility checks, that pairware documentation and coding and generating clean claims. As we go up into the complete and max plan, there's more involvement in everything that comes after. So dealing with payment posting and analyzing the era as it comes back, automating appeals, keeping up to date with the payer rules that you are subject to because they change every two to four months. And then at the top level we'll do things like underpayment detection and we'll also manage and chase your patient collections if that's important to you. So, so you can choose, you know, exactly like what plan is right for you. My guess is that probably the complete plan is the right kind of middle ground where, you know, it's not overkill. It doesn't like, you know, it's, it's not that complicated. You know, it's a pretty middle of the road plan, but it should still perform better than any human billing company out there. So that's kind of the general program. I can walk through, you know, some more detail about, you know, exactly what's inside of it. But I think that probably what you're curious about is just like how we start rolling. So we're already through the eligibility setup. You know, we've got access to your EHR and all that is moving well. So we have all the data about your patients and about you in order to do our billing. The thing that, and we've also done some note encoding calibrations. The thing that it sounds like we are going to need is one, documentation around your payers and the contracts you have with them and then two, we want to help you with setting up, you know, job site in your payer portal so that we can support, you know, that whole signup process. So I think it's actually fairly simple and we probably should just decide one, the plan that you want to be on. And two, what is the best way that we as a team can make signing up with the payers and, you know, doing a little bit of a handoff with some of the critical contracts and documents that they give you to us? So that's in our AI engine and we're writing notes that cohere with that, we're billing in coherence with that, and we're able to report. Board out on. On success.
+Beverly Curtis: Okay, that makes sense.
+Nathan Peereboom: Just out of curiosity, do you have a preference for. Let's actually just talk timeline here. So when I think that, you know, we would love. Beverly, remind me, where in the US Are you? I'm sorry. I'm totally forgetting.
+Beverly Curtis: That's all right. That's all right. I'm in Gettysburg, Pennsylvania.
+Nathan Peereboom: Oh, my gosh. Okay, so we're, like, really close. Have we.
+Beverly Curtis: We don't. Yeah. Where are you. Where are you located?
+Nathan Peereboom: We're in Washington, D.C. so we're. We're spitting distance.
+Beverly Curtis: Oh, I thought you were near Scranton or someplace.
+Nathan Peereboom: Okay. No, but you know what? You might have. I bet the reason you thought that was because we have a team member named MacKenzie who lives in. In the Philadelphia area, and I think she sometimes zips up there. So you're not. You're not totally wrong at all. Okay. I think what probably makes sense is for us to get a day on the calendar where we can actually just drive up and spend the day doing the handoff with you, and we can, like, you know, literally sit next to you at your computer. It probably won't even take a day. It'll probably take, like, two or three hours. Go through these forms, find anything that's, like, on your computer that'll help us, like, have more context and then move forward from there. How does that sound to you?
+Beverly Curtis: That's okay, except my house is being totally renovated, so I don't really have a space for people to come right now. I could come to you.
+Nathan Peereboom: We won't make you come to us. That's. That's. You can even do it in, like, a Starbucks. Like, we don't have to. And we don't have to stay. You know, of course, we would probably just drive in and then drive out. So even if there's a chair next to wherever you're sitting right now, like, that would totally work for us.
+Beverly Curtis: I have another office. I have an office in Frederick.
+Nathan Peereboom: Oh, my gosh. Frederick, Virginia. Frederick, Maryland.
+Beverly Curtis: Okay, perfect.
+Nathan Peereboom: Yeah, let's do Frederick, Maryland.
+Beverly Curtis: Okay. That would be.
+Nathan Peereboom: Okay, let me look at the schedule. Would Friday the 23rd work for you?
+Beverly Curtis: One moment here. Give me one moment. I bring up the tag.
+Nathan Peereboom: No worries.
+Beverly Curtis: Okay. Yeah. Sometimes it's a little hard to. I. I've got to work around work.
+Nathan Peereboom: What are you having renovated there, Beverly?
+Beverly Curtis: It's. We have a house that was built in 1830, and so.
+Nathan Peereboom: Oh, that's really cool.
+Beverly Curtis: It's all log, but the siding is going to be coming off. Right now we're putting in floors, so. Okay. The 23rd actually looks pretty good.
+Nathan Peereboom: Awesome.
+Beverly Curtis: You want to. Can we. Do we do afternoon? Is that possible?
+Nathan Peereboom: Yep. That's perfect. Afternoon is great.
+Beverly Curtis: Okay.
+Nathan Peereboom: What is, like, noon to, like, four? Look?
+Beverly Curtis: Yeah, that would be fine. Yeah.
+Nathan Peereboom: All right, perfect. So we'll figure out which of us are going to be there. But, Beverly, the only thing that you. There are only two things that we need from you before then. The first is we're going to send over an msa, and so we just need you to, like, docusign that just so we're under contract. And then two, if you could just as much as possible, like, just kind of collect in a single folder any documents you have and maybe even pre. Send them to us if you can. That way, we'll come into that gathering, like, having all the information about where our blind spots are, what we're missing, questions we have all that jazz. Don't. If you can't do that or you don't have time, don't worry. Like, the reason we're coming is that we can all do it together, but anything that we can do beforehand will, of course, make that time more efficient or.
+Beverly Curtis: Okay. Okay. All right. Perfect.
+Nathan Peereboom: All right, Perfect. And then can you also just send over the address of your Fredericksburg office?
+Beverly Curtis: It's Frederick. It's not in Maryland. It's not Frederick. Maryland.
+Nathan Peereboom: Frederick.
+Beverly Curtis: Sorry. Frederick. Yeah. You don't want to go to Virginia.
+Nathan Peereboom: Fredericksburg is in Virginia. Perfect.
+Beverly Curtis: Yeah.
+Nathan Peereboom: If you actually just say it, I can write it down right now.
+Beverly Curtis: Oh, you're. You're asking a lot here. Okay, I'll send it to you.
+Nathan Peereboom: I will send it to me. Send it to me. That's perfect.
+Beverly Curtis: Okay.
+Nathan Peereboom: Okay. All right, great.
+Beverly Curtis: Down the street and around the corner, by the way, in case you're interested, there's a. Pardon me. Good Chinese. Right. Right down the street and around the corner.
+Adam Harrison: If you.
+Nathan Peereboom: If you are. Well, that means we're sending Jackson, because Jackson love Chinese food. Oh, really? That's. That's ideal. Okay. No, that's perfect. Okay, great. Adam, I know this is kind of your rodeo here, so I think that I've got enough to start logistics on my side. I'll hand. Hand the mic back to you.
+Adam Harrison: Yeah, no, thank you. I think this all sounds good as next steps here. And we can knock through a lot of the blocking and tackling, I think, in person. So I don't think we need to go through all, you know, we don't need to get into the nitty gritty on this call. I think it'll be a lot easier once we're all huddled over a laptop together. One thing that I would love to do, Beverly, is just to check in on the new. There was. We turned on JOT audit for you recently, so you may have seen, like, a slightly different recording screen as well as, like, a notes screen. Right. And in particular, you should have started seeing CPT codes that were recommended or, you know, that the JOT psych AI has suggested based on your note. Was curious if that was something you have had a chance to take a look at. And if not, totally fine. But I think it might be a good use of time to just spend 10 minutes kind of spot checking some of those to make sure that our coding calibrations are working okay.
+Beverly Curtis: All right. So I just pulled up a note. A random note.
+Adam Harrison: Yeah. Do you mind sharing your screen? That way we can kind of look at it together. Just because I know that, you know, the. The user. The user experience changed, and so I just want to make sure I show you, like, where to find all the information.
+Beverly Curtis: It's.
+Beverly Curtis: Oops, did you lose me?
+Adam Harrison: Oh, I'm still here.
+Beverly Curtis: All right, give me a moment here. Just trying to clean up my screen a little bit. So you don't see a thousand tabs, but I guess it's okay if you do. You can also share.
+Adam Harrison: Yeah. Specific window if you want, but totally up to you.
+Beverly Curtis: All right. Okay. Where do I share my screen? Okay. Can you see that?
+Adam Harrison: Yep.
+Beverly Curtis: Okay. All right, so this has a code mismatch. So I. I actually just pulled this up, so I really don't know what the mismatch is exactly. Okay. I can't. Really?
+Nathan Peereboom: Yeah. Beverly, this looks like a pretty clear bug in our system because you didn't enter any code. We didn't recommend a code. I think this is something we just got to take back to our engineer.
+Beverly Curtis: Okay.
+Nathan Peereboom: Can you do us a favor, though? Can you type in what you think the CPT code is? And then at the bottom right, can you click reanalyz?
+Beverly Curtis: All right, I'm going to stop sharing for a minute so I can peek at that. Oh, here we go. Okay.
+Nathan Peereboom: It. It's actually super helpful if we can see what's going on on your screen, just because we don't always get the customer perspective in terms of what's confusing or grokable or. Right.
+Adam Harrison: All that jazz.
+Beverly Curtis: Yeah, I just couldn't scroll down when I had it in share mode for some reason. Let's see here. What is going.
+Nathan Peereboom: Oh, I think you might have been looking at the screen in Google Meet.
+Beverly Curtis: Yeah.
+Nathan Peereboom: Yeah. So I think you have to actually be on the screen itself. So if you share that tab and then you just go to that tab and interact, we'll be able to see what you're doing.
+Beverly Curtis: Okay. All right. All right, you can see that.
+Nathan Peereboom: Is that correct? So go to the top of this note, Beverly, and there's a little button. Yeah. Okay, so right under the name, you'll see there's, like, time and date, and then just to the right of that, it says, enter CPT codes. A question mark. Yeah, click that one. Okay, perfect. Now let's give this a. Yeah, whatever you think this note is, just throw on a primary code and let's see what happens here.
+Beverly Curtis: Okay, awesome.
+Nathan Peereboom: Okay, perfect. And then let's reanalyze and see what happens on the bottom right. It's in the audit panel. I'm so sorry. I shouldn't.
+Beverly Curtis: Yeah, there we go. You're. You're working with somebody who. Pretty tech savvy, but I'm also has my dhd, so. Beverly, I.
+Nathan Peereboom: I can't tell you how many times Jackson or Adam watch me use a computer, and it's just painful to them. I'm the exact same way. I have. I can't find where buttons are. I forget my login.
+Beverly Curtis: Yeah, but you're brilliant, so that it makes up for everything.
+Nathan Peereboom: I don't. I'm not brilliant, but. But I've got good, good partners, so it all makes up for it.
+Beverly Curtis: There you go. Okay. But it seems to have. Popped back up again. Okay. Nine, one.
+Nathan Peereboom: Okay. Okay.
+Beverly Curtis: Recommended. Why does it say that?
+Nathan Peereboom: So, yeah, it looks like our recommendation engine just doesn't know what to do with this. Which is super interesting. On the, on the right hand side of the screen, does that non compliance rule seem relevant? If you click user code included, but the note explicitly states no em or psychotherapy were billed. Can you click that magic wand and let's just see what happens?
+Beverly Curtis: Oh, I know what this. The problem is here. We should not be looking at this note. I. I couldn't remember. This guy was a no show, so.
+Nathan Peereboom: Oh, yeah.
+Beverly Curtis: So yeah, he was an osho.
+Nathan Peereboom: Hey, so our, our recommendation engine was right. We shouldn't be charging.
+Beverly Curtis: Charging anything.
+Nathan Peereboom: That's right.
+Beverly Curtis: Okay, now I have, you know, the time here because I have it. There's a tendency for my patients to log in very late, so I keep jot psyched up so that I don't have to scramble at the last minute to start it, you know, and they, they log in on any moment. So that's why there's 26 minutes noted there. I gave him 26 minutes before I no showed him.
+Nathan Peereboom: Beautiful. Okay, great. Can we go to another note where the patient actually did show up?
+Beverly Curtis: Thanks. Yeah, that, that would be reasonable. Okay, let's see here.
+Nathan Peereboom: Oh, and Beverly, just a question about, about no shows. Do you ever charge for no shows, like to the insurer or do you only do like a copay to the patient or something like that?
+Beverly Curtis: They. They pay the fee. The insurance doesn't pay for no shows.
+Nathan Peereboom: Understood.
+Beverly Curtis: Okay, cool stuff. I charge. I have listed as $45, but. And that's what it's been when I've worked with different organizations. It's a pretty hefty fee for people who tend to go to the hospital a lot, you know, or you know, or have challenges regarding even clicking into an appointment. Sometimes their anxiety is just too high, so I often leave it. I just, you know, I. I want to keep my patients. I don't want to alienate them. Now if someone's clearly using the no show, say I. I had a person who no showed at least four or five times. Now each time she was in the hospital for something, but like the fifth time then I charged her, you know.
+Nathan Peereboom: Understood. Okay, great. Do you ever charge. Do you charge patients through Jotsych? Do you use our patient?
+Beverly Curtis: I have a few times. The self pay people headway requires that you file or they sign a self pay form even though they've submitted a form of payment. Like their. Their credit cards already on file.
+Beverly Curtis: They still require that they sign this form, and a lot of people just don't do it. So I just. Because I've already have. I've just filled them through jobs like, then I've only done a few, maybe two or three, but that's worked out pretty well. So.
+Nathan Peereboom: Perfect. Okay, great.
+Beverly Curtis: Okay, so here's Jillian. Oops. Okay. And we'll go to this note. Okay, now this is your note, so to speak.
+Nathan Peereboom: Awesome. Okay, great. And let's go to the audit on the top right. Looks like there's no. Let's see what's going on there. Oh, my gosh.
+Beverly Curtis: Incredible.
+Nathan Peereboom: But I'm not seeing a CPT code. Jackson, maybe you can chime in here.
+Jackson Bierfeldt: We're looking at the pair aware note. We should switch over to the other note.
+Nathan Peereboom: Oh, so. Oh, right below that inch. Below that?
+Beverly Curtis: What do you mean an inch below that?
+Nathan Peereboom: If you sc. If you move your cursor down next to pairware. No, left side of the screen, there's another button that says note. Sorry, this is a. Not good at user interface. But if you just click the note part, you'll be able to go to.
+Beverly Curtis: No, right there.
+Nathan Peereboom: Yep, exactly. All right. Okay, so let me. Let's start out just with the CPT code recommendation. Is this a 99213 with a 90836 is your opinion.
+Beverly Curtis: Oh, okay. Probably. Yes, it is. No, not. Not a 990836. No.
+Nathan Peereboom: Yeah, tell. Tell us about why and you know, your thoughts on it.
+Beverly Curtis: So a 90836 requires a certain element of time for. For therapy, for psychotherapy. And this. This visit was a shorter visit. It was less complex, and it did not require the 990836. So that I would say that would be a. That's a. That's a mismatch, so to speak. 90836 is related to almost. So there's 90833 and 90836 is related to 38 to 52 minutes of psychotherapy. And this whole visit was only 18 minutes.
+Nathan Peereboom: Gotcha. Okay, so on the suggestions, it says psychotherapy time for the add on 40 minutes is clearly documented. It sounds like 40 minutes is not actually what should have been listed here.
+Beverly Curtis: 40 minutes is not clearly documented.
+Nathan Peereboom: No, the whole 18 minutes. Gotcha.
+Beverly Curtis: Okay. To 11:23am.
+Nathan Peereboom: Great. Super helpful feedback. Thank you.
+Nathan Peereboom: Yeah, and maybe we could look at, like, two or three others really quick.
+Jackson Bierfeldt: Can you press command F? I just want to see where this 40 minutes is coming from. In this. In this note. Or control F. Do you know how to do the search.
+Beverly Curtis: On a web page? Not really, because I'm really a Mac user.
+Jackson Bierfeldt: Do you see the control button on your keyboard?
+Beverly Curtis: Yeah.
+Jackson Bierfeldt: Control F.
+Jackson Bierfeldt: And then if you press that and hit F. Oh, it's not showing a little search bar on the browser anywhere.
+Nathan Peereboom: I think it's command Control F. Right.
+Jackson Bierfeldt: Oh, sorry. Is this a Mac that we're on?
+Beverly Curtis: No, I'm not on a Mac.
+Jackson Bierfeldt: No.
+Nathan Peereboom: Oh, I apologize.
+Beverly Curtis: Yeah, I'm not on a Mac. I typically use Mac for everything else except for my work, which I'm not a very good to say that.
+Nathan Peereboom: Beverly, you can also go to the top of your screen and go, is there Edit Find or something like that. Sorry, I don't. I don't have a Windows computer, so I'm not sure.
+Beverly Curtis: Yeah, see, I don't.
+Nathan Peereboom: No.
+Beverly Curtis: Yeah.
+Nathan Peereboom: Okay. You know, how about this? Beverly, could you just copy and paste the URL of this page and put it in our chat window in Google Meet, and we'll look at it on our side. No worries.
+Beverly Curtis: Okay.
+Nathan Peereboom: Did you get that? Okay, we can look at this on our side. Yep. Let's go to another note while we're. While we're looking.
+Beverly Curtis: Okay. This one.
+Nathan Peereboom: Great. So Beverly, same set of questions here. One, are we getting the CPT codes right or wrong? And then two, when you look at the compliance, you know, flags and the suggestions, which of those feel right and which of them.
+Beverly Curtis: Just looking here for a second. I'm sorry, I'm just looking at one thing. Okay. All right. Okay. So what's listed here is the 999213 and 90833. And so this one I would say is a little bit iffy. It is a 32 minute visit. I would say the complexity was not as significant as other visits. Although there is some complexity to it. I would still bill it as a 99213, I think, and then. And a 90833 just because of the level of complexity. It's saying here that the therapy session duration XX minutes wasn't filled in, you know, because I take this note and put it in another, you know, another billing in Headway or Alma or somewhere. Then I fill in those minutes when I, when I, when I put it in the other organization's billing platform. So they just, they just have a section where you have to put in the minutes. So I don't use it here, I use it over there. Yeah, I would put about 18 minutes in for, for psychotherapy.
+Nathan Peereboom: Can you just walk through that process here? Like just how you would do that? Like maybe click the wand or go to the section and reanalyze. Just like whatever you would do in this moment, being that like we flagged that the minutes are missing and if we were billing this, you know, you weren't going to build through an mso, you're going to build through us. Like, what would that look like for you?
+Beverly Curtis: I would just click on those two double X's there where it says add on psychotherapy. See those two X's I just click in there and write in my 18 minutes.
+Nathan Peereboom: Awesome. Let's do that and then reanalyze and see what happens. Happens.
+Beverly Curtis: Okay.
+Nathan Peereboom: Super, super helpful.
+Beverly Curtis: I have a question for Michelle, if she's available. Is she there?
+Nathan Peereboom: Yeah, she.
+Beverly Curtis: Michelle, I have a question for you. This is always the question among, among my peers. All right, so with this patient, I, I spent 32 minutes with him. Now, I do know some people that would bill psychotherapy as 32 minutes. The entire session I divided up regarding medication management. You know, it's all sort of integrated, to be honest. You know, you know, if he complains about something regarding some, you know, some physical ailment he has, I counsel him about that. We go back to the medication management and we go back and forth. So I generally, you know, take an estimate on the amount of time I actually spent in psychotherapy versus medication management. Do you think that's the correct approach or do you think the entire 32 minutes is psychotherapy?
+Michelle Lynn: No, I think that you dividing it up is a wise decision because the range for psychotherapy for a 90833 is 16 to 37 minutes. So if you're spending 18 minutes of that, then I think you're dividing it up wisely.
+Beverly Curtis: Okay, So I should not be charging the, the entire duration of time 32 minutes and bill 30 or a 35 minute psychotherapy, when really I only spent about 18 minutes on
+Michelle Lynn: psychotherapy and the duration is 16 minutes to 37 minutes. So as long as you're within that time range, you're going to bill the 90833 code, let's say 16 minutes, then you would not bill that.
+Beverly Curtis: Right. But what happens if the whole visit is 40 minutes, say 45 minutes, the entire visit, and
+Michelle Lynn: you're spending 30 minutes of that?
+Beverly Curtis: My question, when I bill for 45 minutes of psychotherapy, or would I bill for a portion of that time in psychotherapy?
+Michelle Lynn: You would bill for a portion of that time in psychotherapy. So for instance, like your 99213, so we're saying 45 minutes. So a 99213, the duration is the 20 to 29 minute range. And then you've got the other. So basically, as long as you're billing both of those and your time ranges fit in within those time frames, and your note states that you are covering medication management and psychotherapy, you're going to be fine to bill those.
+Beverly Curtis: Okay? Fine. All right. Okay. That was just a discussion I had within a group of people in private practice. And, um, I. I told them they could not bill for the entire time psychotherapy when they're doing medication management as well.
+Beverly Curtis: So we're on the same page.
+Michelle Lynn: Yeah. As long as it's within that time frame, then, you know, if you're just spending 18 minutes, it falls under that time frame. You can bill that. You're just documenting the. The amount of time you're spending. And that's the most important. That's what's going to get you audited, is if you're saying you're spending 37 minutes every single session doing psychotherapy, you're going to want to know what exactly you were doing in that 37 minutes.
+Beverly Curtis: Okay. All right. Thank you. Okay, so the reanalyzing puts us into 99213 and 90833, which I would agree with. N.
+Nathan Peereboom: Amazing. That is what we like to hear. Okay, great. Let's. Beverly, if you don't mind, let's do maybe two more notes just from a calibration standpoint, and then we will let you go. And we will see you next Friday.
+Beverly Curtis: We have an appointment next Friday.
+Nathan Peereboom: I think we're coming to visit you in person next Friday.
+Beverly Curtis: Oh, I thought that was. I'm sorry. I wrote that down wrong. What? What? What? Okay, let's do this first.
+Nathan Peereboom: Yep, the 23rd. The 23rd of of January.
+Beverly Curtis: All right. And I. Okay, let me just. Let me look. I'm sorry.
+Beverly Curtis: I was thinking when you said that, I was thinking it was February, but I'm pretty sure I wrote it down for. For January. Just give me a moment here. Okay?
+Beverly Curtis: No worries, guys. Okay, Schedule. We did Kushbar. Okay, here we go. Oh, Okay. Okay.
+Nathan Peereboom: Oh, we got a 99214. We'd love to see that.
+Beverly Curtis: Okay, what does this say? It says the note clearly separates psychotherapy content and indicates 90833 + 99204, but it does not explicitly document. Oh, so they're talking about this time down here. Yeah. Is there a way that that can be filled in. Automatically somehow?
+Nathan Peereboom: The.
+Beverly Curtis: Because I myself. Where is it? Yeah, I actually added that whole thing and I thought myself, If I verbally say it, do you think it'll pick it up?
+Jackson Bierfeldt: Yeah. And Beverly, can you actually. Can you click on the Payer aware note button there? Have you looked at these experimental notes? Yes.
+Beverly Curtis: At all?
+Jackson Bierfeldt: Yes. So this is like, you know, a different take on the note that actually should be a lot shorter than your other one. I think your other one has, like, a lot of extraneous information in it. And this one is, you know, targeted more at just like providing exactly what the. What the billing needs here. So in here it should have the time written in a more reasonable place. Probably in the EM section has its. Its time.
+Beverly Curtis: It doesn't have psychotherapy in it.
+Jackson Bierfeldt: That's probably in the next section. In the psychotherapy section.
+Beverly Curtis: It gives the same duration of time. Yeah, that is the appointment time, not the actual start, stop time. The actual start and stop was 4:25 to 4:50.
+Jackson Bierfeldt: Right. Okay. Yep.
+Jackson Bierfeldt: That's good for us.
+Beverly Curtis: Yeah. So. And I appreciate the fact that you're saying there's a lot of extraneous stuff in my. In my own note. All of that. Almost all of that is required in headway. I literally got it.
+Jackson Bierfeldt: Okay.
+Beverly Curtis: I have to put all that stuff in headway one way or another. So. And some of my stuff in my notes are. Is if I'm doing. If I have to send a summary or something, I have one section there that's a little more of a summary. And so it's sort of a second hbi and I just use that if I need to for a letter or something. So. Yeah, it does. Look, I would agree with you extraneous, but actually headway requires most of that. And they actually are requiring another separate section on controlled substances statements. So I have to add that into my note now. So. So in a sense, while you may feel your note is okay, I would say that it may be missing some things that headway is requiring. And why they're requiring it is because payers are requiring it.
+Jackson Bierfeldt: So.
+Beverly Curtis: Right.
+Jackson Bierfeldt: Makes sense.
+Beverly Curtis: Yeah. Okay, one more. Oh, this is, this is. You're good with this one?
+Nathan Peereboom: Actually, I think that's great, actually.
+Beverly Curtis: The, the psychotherapy is not correct. You've got 90826.
+Nathan Peereboom: It's a 90833 because the 60 Minutes is wrong.
+Beverly Curtis: Right, Got it. Okay.
+Nathan Peereboom: Yeah, that's all time driven.
+Beverly Curtis: Hit every analyze and see if it comes up with the right thing.
+Nathan Peereboom: Well, we still have 60 minutes in there under psychotherapy. It says total minutes dot 60. I see right in the center of the screen right now. So it's probably gonna make the same mistake.
+Beverly Curtis: I see, yeah.
+Nathan Peereboom: So we just have to figure out a way to. Yep, there it is.
+Beverly Curtis: That's a mistake.
+Nathan Peereboom: Yeah. Okay, great. So we have to figure out a way to, to get time, you know, more correct here. So Funny. Some people want it based on the calendar, some people want it based on the recording. It's. We probably just need to offer kind of both options and a verification of the time that's there. So really helpful.
+Beverly Curtis: I see. So is there a possibility that right. As we end recording there, we could enter in the time frame for psychotherapy? Is that a possibility somewhere in there?
+Jackson Bierfeldt: Yeah.
+Jackson Bierfeldt: The other thing is coming in the next version of the, of the recorder that you should see next week.
+Beverly Curtis: Okay. Okay, that would be great because
+Jackson Bierfeldt: usually by the end of this, because we know a lot of these things, it's like, yeah, you know it while you're on the recorder screen.
+Beverly Curtis: Right. And then if I look back at the, at some point and I haven't put it in, I'm like, oh, oh, what was that? Who was this? And I have to rethink it and try to figure it out. I do have a backup recorder that I use just as a backup and I can usually figure it out from that one. I can't figure it out from this one. But. Okay. Anything else?
+Nathan Peereboom: Let's maybe just do one more note. Just for the sake of just beating the dead horse. Let's look at one more note and just calibrate for last time.
+Beverly Curtis: Okay.
+Nathan Peereboom: Well, that's interesting. You clicked start recording.
+Beverly Curtis: I did.
+Nathan Peereboom: Oh, I see.
+Beverly Curtis: I did. Okay. Yeah. Okay, let me go back. All right. Oh, how. Where. How did I get to the snippy for. From the schedule. I've been clicking on the schedule. I've been going up here.
+Nathan Peereboom: I think we don't have audio for this encounter yet. So maybe you're thinking of a previous. Previous note for this patient, which you could find on the patient page.
+Beverly Curtis: Yeah, but I saw her yesterday. I must not have. I must not have recorded it. Yeah, I. I don't know why that happens. All right, Amber, it says pending. So what does that mean that it didn't quite record. See the pending here?
+Nathan Peereboom: Yeah, yeah, it looks like we don't have any audio in here.
+Beverly Curtis: Okay. Okay, gotcha. Yeah, I must not have recorded that one.
+Jackson Bierfeldt: Can you go to documentation and click on notes and let's just look at your notes from that time yesterday and see if maybe you recorded it.
+Beverly Curtis: So you're saying yesterday?
+Jackson Bierfeldt: Yeah, we can look. I mean, is that it? The one that says 7:37pm Was it a follow up with a 45 year old female patient do?
+Beverly Curtis: Yes. This one?
+Jackson Bierfeldt: Yeah.
+Beverly Curtis: So it says, reviewing recovered note. How about that? Okay. Oh, you know what? So it may be that when I finished that session, I didn't shut the recording off is what happened. And that way, that's why it's looking like it's 10:30pm Two hours.
+Jackson Bierfeldt: Sometimes that happens if people don't press stop. Rather than. Rather than not giving you the note at some point, we just cut it off and generate it for you.
+Beverly Curtis: Okay. All right, so I would say that. Let's see what we got here. I would say this is likely a 99214. And a 90833. Okay. But we can't really tell from here, can.
+Nathan Peereboom: You?
+Beverly Curtis: All right. Is anyone there?
+Nathan Peereboom: Yep. Sorry, I'm just. Just kind of taking it in.
+Beverly Curtis: Yeah.
+Nathan Peereboom: When you say we can't really tell, what do you mean?
+Beverly Curtis: Well, I mean you can't tell. I know what I did. I talked to her for about 40 minutes, and I would say about 20 minutes. That was counseling. So I'm going to charge her. 99214 and a 90833.
+Nathan Peereboom: Understood. Okay, gotcha. Great.
+Beverly Curtis: Yeah. So what would we do in this situation where.
+Nathan Peereboom: Yeah. In this situation, we would just ask that. You know, I think probably.
+Jackson Bierfeldt: Yeah, you could also in the top left up there where it says psychiatric intake, since this wasn't an intake, that. That's just the template it recovered it with. You might want to switch this over to, you know, your psychiatric telehealth evaluation note or whatever template you normally use, and that'll probably be more sensitive to the specifics of that conversation, Beverly. So I understand what. What templates you use. So do you use this psychiatric telehealth evaluation for most of your sessions?
+Beverly Curtis: I do, because it has all the things in it that therapy notes require. Requires, if that headway requires.
+Jackson Bierfeldt: So are you using a different template for an intake versus a follow up at this point or are you just using this template forever?
+Beverly Curtis: I was, I will use the intake for a new patient, typically.
+Jackson Bierfeldt: Okay, so.
+Beverly Curtis: And sometimes I add things and take things away from this one, but. Okay. Now I added the prescription drug monitoring this section because the audit kept coming up with, you know, you didn't document your pdmp. And so again, that's in a separate template in my other billing platform that I have to, you know, the headway is all sectioned off and you have to cut and paste into each of their little sections, which I do from your note from JOT Psych. You can add in an entire note if you want to, but then they don't guarantee that there won't be an audit if you don't use their template. So I cut and paste from JOT Psych into Headway and in JOT Psych, the PDMP is a separate little checkoff box. But I added it in here because my audit from Jotsack kept saying, you don't have a PDMP check reported. So.
+Jackson Bierfeldt: Great.
+Beverly Curtis: And there it is. So.
+Jackson Bierfeldt: Yeah. Beverly, I'm going to share my screen for a second.
+Jackson Bierfeldt: Can you jump back to the Google Meet or are you able to see this?
+Beverly Curtis: I'm able to see that.
+Jackson Bierfeldt: Okay, great. This is, Sorry, this is too big. This is just a heads up on like how the recorder is going to look for you very soon. And we, we, we do actually have, you know, a section now where on the, the recorder, you know, you press record and you talk to the, to the patient and, and all of that, but right in here, like before you finish it, if you did do pdmp, which I assume you're doing most of the time, you just click this and then it turns green. And then the note will know you have that it's already got the telehealth consent, the location confirmed, you know, all the stuff that you're supposed to do if it was telehealth. And then if you do add, you know, a, you know, psychotherapy, add on code to it, it'll ask you right here, oh, hey, how many psychotherapy minutes did you do?
+Jackson Bierfeldt: And then you can just confirm that. So you can just kind of have all these things, all your ducks in a row right here before you press generate note and then it'll like insert all that information into the note.
+Jackson Bierfeldt: That's exactly what I was thinking. So I appreciate. Exactly. Yeah. So I just wanted to, you know, flash this on, on your screen before. Before it comes into the app.
+Beverly Curtis: Okay. All right.
+Nathan Peereboom: All right, awesome. Well, I know we've come up to time here, Beverly. If you. If you have any other questions, we can go through them, and if not, let's just confirm that we're all talking about January for next week. Yeah. And. And then we'll kick off then.
+Nathan Peereboom: And again, we're going to send an MSA over, so just make sure you send. You sign that and get it back to us, you know, whenever you can. Okay.
+Beverly Curtis: Okay. Let me just. Oh, okay. I'm sorry. You are correct. It's next Friday the 23rd.
+Nathan Peereboom: Okay, I got it. All right. All right, fantastic. Hey, listen, we really look forward to chatting with you and meeting you in person, too. It's always fun to meet someone who's part of the jot psych family, so we can't wait.
+Beverly Curtis: Okay. All right, thank you so much.
+Nathan Peereboom: All right, take care.
+Beverly Curtis: Thanks, everyone. Okay, bye. Bye. Bye.

@@ -1,0 +1,227 @@
+Adam Harrison: Cool. I think where we left off, we talked about Brittany. Last time. So I think all is kind of good there. Yes.
+Emily Kaiser: Let me pull up my screen here. Just like kind of follow along. Through it.
+Adam Harrison: Did you have any questions on Brittany?
+Emily Kaiser: I don't think so. I think I'm pretty up on her.
+Adam Harrison: All right, great.
+Emily Kaiser: Okay. Cool. So I am back. I was just navigating to the Google Drive, but now I'm back and I can see the list of customers.
+Adam Harrison: Okay, sweet. So let's go to. Let's talk about tracing next.
+Emily Kaiser: Okay.
+Adam Harrison: So I'll pull up. Her kind of thing here. She is Tracy. She's a solo provider in Florida. She does have one person on her staff and that who does her like billing and kind of all the administrative stuff. Right now. We are fully live with one pair.
+Emily Kaiser: And.
+Adam Harrison: Start EFT. We don't. This is like not applicable because it's going directly to her bank account already, so nothing about EFT for Aetna.
+Emily Kaiser: What is TBC stand for?
+Adam Harrison: I think it's to be confirmed.
+Emily Kaiser: Oh, okay, I see.
+Adam Harrison: Yeah. So you can just ignore that. So yeah, as far as her, she is.
+Emily Kaiser: Wait, I'm sorry. I want to understand that a little bit more because I thought I did. So EFT is. The payment part of this, like how that connect.
+Adam Harrison: Exactly.
+Emily Kaiser: It's like.
+Adam Harrison: Before you set up EFT, you're just getting checks in the mail. Okay. It's basically just direct deposit.
+Emily Kaiser: Okay, perfect. And then Aetna has direct deposit to go directly to Tracy. So that's why we don't worry about it.
+Adam Harrison: Yeah, she already has that set up, so nothing needed there.
+Emily Kaiser: Okay.
+Adam Harrison: So Tracy, yeah, she's using Aetna. She. We're, we're kind of starting with that payer for her. It's all the setup is done. She hasn't actually. Like, sent us or created any claims in JotSafe yet. So the next step is sort of just, yeah, like I, like I wrote here. Just kind of like make follow up with her, try to make sure that she's actually like create getting those claims created and we're submitting them for her.
+Emily Kaiser: Okay. And when this may be something that we've already gone over, but when you say she's making sure she's creating the claims just on. Jot psych. Yeah. Like taking her notes and pushing it through to the insurance.
+Adam Harrison: Yeah. So, you know, when you finish your note, you sign the note and then there's a button to create claim. So we got to make sure she is like doing that process.
+Emily Kaiser: Okay. And she's at the 4% plan. So she is. Basic. Like, how does it differ that part of it? From like the 6% or the 8% as far as like how much work we're doing on the back end versus how much she's pushing through.
+Adam Harrison: Yeah, good question. I will. This is kind of. How we're thinking about it. I'm going to put it. I also save it in this folder here. All right. So I just dropped in a new. Like thing with our pricing. This is Nate and Jackson are sort of on board with this, but it's a little bit. Like we haven't really formalized it yet.
+Emily Kaiser: Okay.
+Adam Harrison: But essentially this is like what my suggestion is. So this is 4% This is 6%. This is 8% Okay, cool. Included means you have access to it. And then managed means like we do it for you.
+Emily Kaiser: Okay.
+Adam Harrison: So the only thing we are doing for her. Is like. Creating and submitting the claim for her.
+Emily Kaiser: In this plan.
+Adam Harrison: And then for 8%, we're doing like everything basically.
+Emily Kaiser: Okay. So she is creating the claim on her end. But then we go in and we push it all the way through.
+Adam Harrison: Yeah. All she does is click like create and then we scrub the claim. Submit the claim. You know, do any follow up that's needed.
+Emily Kaiser: Okay. Sorry, my guard dog.
+Adam Harrison: On mute. First. You're good. Good question. All right, back to Tracy. Yeah. So we'll just make sure that those, I'll, I'll send her an email and I'll introduce, I don't know if I should introduce you yet. I guess I'll keep it to Jackson at this point. Okay. But, and I'll let him like make the introduction when it's the, I guess right time. But yeah, we will just want to like start getting her claims submitted, you know, monitoring to make sure she's getting paid. So like once you submit, you have to wait for the era to come back. Then she also has a bunch of other payers. You know, outside of Aetna. So once she is like kind of comfortable with Aetna, you know, we should kind of try to push her on these, all these other ones. But for now we're just trying to, you know, crawl, walk, run.
+Emily Kaiser: Right. And where is like the list of all the other payers that, is there a list or is it's just something that was discussed.
+Adam Harrison: Yeah. So. There's like these. Documents on file here. So. That'll have. This will have like, it'll have the list of payers in basically like her intake. We also in that same one password account. Have her. Have her like EHR. We have a login to her EHR. And so we actually can go look and be like, okay, you know, we actually recommend it Aetna because it was like, you know, kind of like a smaller payer, but it was big enough to be like a good pilot candidate. So. Yeah, so we could actually just look in her EHR and see like all the other ones, but we also have like the documents that she's, you know, that she. Shared with us initially.
+Emily Kaiser: Okay. And are you recommending are we recommending Aetna for everybody or just her?
+Adam Harrison: No, it's sort of case by case. So for her, it was just because I looked at like her existing payer mix and her EHR. And this was just like a good candidate. But sometimes it's Cigna, sometimes it's Blue Cross. Like, you know, there isn't really the only bad candidate would be probably like Medicare, Medicaid because that is just like more complicated and takes longer to set up.
+Emily Kaiser: Right. Have you crossed that bridge yet? Have you connected anybody with the two?
+Adam Harrison: No, we haven't done that yet. So that'll be, that'll be a good one to. Work on. Yeah.
+Emily Kaiser: Okay. Sounds good.
+Adam Harrison: All right, that's Tracy. I think that's pretty much it. Right now. We don't have like meetings on the calendar with her. So I'll just follow up over email. And yeah, and make sure that. She stays engaged.
+Emily Kaiser: Okay, that sounds good.
+Adam Harrison: So that was Tracy. Let's talk about Beverly now.
+Emily Kaiser: Curtis.
+Adam Harrison: Curtis. This one has a different format. That's weird. This one's not as pretty. Oh, that's okay.
+Emily Kaiser: So I see three handover.
+Adam Harrison: They're all the same.
+Adam Harrison: That's just they're all the same. Yeah.
+Emily Kaiser: Okay.
+Adam Harrison: Do not worry. Yeah. The PDF will just be like easier for you to open.
+Emily Kaiser: Okay.
+Adam Harrison: That's why that's there. Okay. So. Beverly. Yeah, so for her, she's also a solo provider. She does it all herself. She has been. In the process of getting credentialing with this firm called CapLine. So credentialing. I think. You know, you and Nate probably, I think that was actually the question you had for me before, but yeah. Yeah. Credentialing is just like getting. Sort of like in the payer's database. Be able to. You know, to be like registered with them. Yeah. And then this whole setup is like happens after all the credentialing stuff. So she right now, let me see if I. It's really weird. I don't know why this one looks different than the other ones. But yeah, so she is like in the process of getting credentialed. So she has some payers that are finished, others that are. In progress. So it is a little bit of. Like. Yeah, it's, it's a little bit of like. In progress situation. But I have gone ahead and like, and, and also I have like the contact for these folks. And like a dashboard that we can log into and it should be in, I think it's in her folder. Somewhere here. I'll have to look if it's not. I'll add it.
+Emily Kaiser: So we're basically waiting to get information from CapLine. Like to start the process to get confirmation that the credentialing is done.
+Adam Harrison: So. We're not really waiting because we have enough of them done that it's okay. So there's like actually like maybe like five or 10 pairs that are already done. So yeah, so we're already like submitting things for her. There's just going to be like some more. Payers that come online.
+Emily Kaiser: You know, over time.
+Adam Harrison: That we'll just need to like keep adding to her account.
+Emily Kaiser: Okay. And then. It's there a sheet for Beverly on kind of like where we're at with each payer.
+Adam Harrison: Yeah. So I would say. That will just be within steady. Okay. So if you go into study. I'll switch to that screen now. So I'll show you where we are after I kind of run through here. But yeah, I meet with her once a week, usually Friday mornings today that got rescheduled to Monday morning. So I added you to that if you can join.
+Adam Harrison: If not, Jackson is joining. So no worries. Let's see. Yeah, that's about it. And we basically just. Check in with her once a week, see what's going on with. Like claims that she. Claims that she wants to submit. And then. We'll have to like add more pairs over time as she. Does gets more enrollments done and gets more patients. Yeah, because right now she's only has like a few patients that she's billing with us.
+Emily Kaiser: Okay.
+Adam Harrison: I'm trying to get into study.
+Emily Kaiser: Did it, I forget, did you set me up with study?
+Adam Harrison: So many different in the one password account?
+Emily Kaiser: Okay.
+Adam Harrison: So for now I'll just share my screen.
+Emily Kaiser: Okay.
+Adam Harrison: Yeah. So these are all the enrollments. So like capital Blue Cross. This is to submit a claim. This is to like check the status of the claim. And then this is the payment, which is still provisioning. So that this actually isn't like set up yet for some reason can take a while study now.
+Emily Kaiser: And I just want to make sure I know how to navigate to where you are. Yeah. I'm just going to Beverly Curtis under her name.
+Adam Harrison: So you pick it's a side quest is her. That's her name on the top.
+Emily Kaiser: Side quest. I don't see that.
+Adam Harrison: On like the, do you see the top right of my screen here?
+Emily Kaiser: Yes.
+Adam Harrison: You should be able to pick. This is like you pick a provider basically.
+Emily Kaiser: I have like a different tab system. Let me show you what I'm seeing. I don't have anything.
+Adam Harrison: Oh, this is this looks like one password.
+Emily Kaiser: Oh geez. Okay. Okay.
+Adam Harrison: So this is where you get the login. Where it says steady login billing account. It's kind of in the middle of your screen.
+Emily Kaiser: Oh, right here. Okay.
+Adam Harrison: Yeah. So that's where you get the login.
+Emily Kaiser: I see.
+Adam Harrison: Okay, so then here you'll see it.
+Emily Kaiser: I see. Okay. And then this is just the website.
+Adam Harrison: Yeah. Yeah.
+Emily Kaiser: Okay. Easy. Enough. So it's saying a multi factor authentication.
+Adam Harrison: Yeah, that's the one time password. That you see there. On.
+Emily Kaiser: Oh, I see.
+Adam Harrison: Okay. Yeah.
+Emily Kaiser: It's like, where is this going? Okay. Let me share my other screen because I realize you can only see the one. So this is what I'm looking at now. Oh, and this is the drop down you were talking about.
+Adam Harrison: Yeah.
+Emily Kaiser: Okay. So what was it called? Side quest side quest?
+Adam Harrison: Yeah.
+Adam Harrison: And then if you go to. You're going to enrollments. At the top. And then all enrollments. That's going to show you. The list of all the. These are all the pairs.
+Emily Kaiser: I see.
+Adam Harrison: Yeah.
+Emily Kaiser: Okay, cool.
+Adam Harrison: Yep. So yeah, most of them are live. Some of them are provisioning. And then there's some that I haven't even set up yet. Because. It's, she's like too early in the process.
+Emily Kaiser: Is that the provider action required ones?
+Adam Harrison: No, those are. Those are ones I still have to like, those are ones we actually. Like will need to like work with her to set up. She hasn't had any patience that fit under either of those two. So I haven't like prioritized it yet. But it would be a good just like administrative thing to like get those done.
+Emily Kaiser: So she chose to be credentialed. With this payer, even though she doesn't have patients or she's just knows that it's a big payer in that community. Yeah, exactly.
+Adam Harrison: You know, in the future she might have pairs.
+Emily Kaiser: Okay. Okay, cool.
+Adam Harrison: And then, yeah, so if you go to. Let's see. Yeah, if you go to like claims over here. On the top. And then files. So here, this is like also what you'll see the same thing you'll see in JotSec of like all the different. Sending and receiving. You know, eras and claims and so if you click into any of these, you could see like. The what's, you know, what's actually going on.
+Emily Kaiser: I see. Okay.
+Adam Harrison: Not the most fun screen to look at, but yeah.
+Emily Kaiser: Gosh, yeah. Feels like a different language even when we were on the meeting with Michelle is a totally new thing for me.
+Adam Harrison: Absolutely. But yeah, that's pretty much it on Beverly. Let's maybe keep moving. Forward. To Angela. Okay. So Angela is. She's a solo provider. She's sort of like moonlighting. You know, so she's doing, she works at a prison, but she is sees some of her patients on the side. Right now she only has like 10 patients that she's seeing. And they're all Blue Cross Blue Shield, Mississippi as the pair. And then there's like a handful of other payers that she's credentialed with, but she doesn't have any patience with. So it's kind of like. Not a priority at the moment. Okay. So for Blue Cross Blue Shield, she has been updating like the address that she has with them on file. And then once that is like good and approved. We need to. Do all the, like, enrollment for her and like get everything set up. So immediate next steps follow up with her. Like make sure her address is now on file. Again, I'll send out some follow up emails like today Monday to kind of like just keep the ball rolling on stuff. Once that is done. We'll need to actually set up the enrollments for. Like EDI and ERA and then probably also EFT will need the helper set up. It'll just go to her bank account. But we. You know, we're not really responsible for this because she's on the 4% But we probably should help her with it.
+Emily Kaiser: I see. Okay.
+Adam Harrison: So.
+Emily Kaiser: I'm getting confused because again, just new worries. So we're not responsible for the EFT on the 4% package because that. But isn't that where, like direct deposit essentially? So why not?
+Adam Harrison: Question? Like, yeah, I think, I think. We're not actually like, it's not our, it's, she just hasn't go to her own bank account.
+Emily Kaiser: And I guess I'm wondering if she is using Jot Bill. And we're doing the billing for her. How does the payment go from the payment goes directly from the insurance company to her? Yeah. Okay. Yeah, a different percentage, like a higher package. It would go to jot psych and then to the customer. Yep. Okay, I see.
+Adam Harrison: Yep. So we can help her if she doesn't have direct deposit set up. We can help her do that. But it's also like that'll basically be like, go into Blue Cross Blue Shields portal and like find direct deposit. And like, you know, do the setup. Um, it's not something we can do from like within our system.
+Emily Kaiser: Okay.
+Adam Harrison: Yeah.
+Emily Kaiser: And I'm in her practice name building resilience on study and nothing is here because she's not like really technically rolling it.
+Adam Harrison: Right? Yeah. So I'm just been waiting on her like address confirmation to get updated because yeah, the way the enrollments work, it's like, you know. Your MPI number, you know, your address. Some other stuff. So I'm just like waiting for that to be final just sort of like keep things clean and clear and just not risk some error happening during enrollment.
+Emily Kaiser: Okay. Sounds good.
+Adam Harrison: Yep. So following up with her on address confirmation, I'll do that and then we may need to chase her a little bit because she can be hard to wrangle down. We'll need to set up. The enrollments with Blue Cross afterwards. We can do that within, you know, inside JotSyke or inside steady. I think, you know, Jackson will probably be able to. You know, help with that. I've also asked for her fee schedule, which is just. Like, this is part of the like onboarding checklist sort of thing. That just tells us how much we bill for each thing. And then. We don't really have a good, I like, I like to get like a standing weekly call with these folks just because it's hard to like keep things moving forward strictly over email. So she's one I don't have that right now. Because we rescheduled and like whatever. And then we like lost the calendar invite. But yeah, for her, I think it would be good to get a standing call. Just moving things forward. Again, these are probably things that like. We should just discuss with Nate and Jackson or you should discuss with Nate and Jackson on like. If it makes sense for him to run those if you are going to run, you know, all that stuff or maybe we're not going to do weekly calls,
+Emily Kaiser: you know, like the idea of a weekly call because this is a lot of information to kind of keep track of. Yeah. Yeah. So I get the thought process there. But yes.
+Adam Harrison: Yeah, I think it's just like they don't really do, you really need to like nudge them a lot. And so a lot of times you just have to like get on a call and do stuff together. Because otherwise they like won't follow up. And it can just like drift.
+Emily Kaiser: And yeah.
+Adam Harrison: Yeah then it just drips and then they're like not really using the product and then it's like, you know, it's just not good.
+Adam Harrison: So yeah, and then, you know, once all the enrollments are done, then we'll like, you know, submit her first claims. But yeah, that's pretty much it. She's pretty simple. It's just a, just a handful of patients.
+Emily Kaiser: Okay.
+Adam Harrison: All right. Let's go to. Last one is Amanda. All right. So Amanda is kind of. One where I actually don't have a weekly call.
+Emily Kaiser: Okay.
+Adam Harrison: And part of that is kind of by choice. Because she just.
+Emily Kaiser: Like.
+Adam Harrison: Will talk your ear off and kind of go on like side tangents
+Emily Kaiser: and it's not what you want to do with your time is what you're saying.
+Adam Harrison: Yeah, it's like you'll get on a call and it's like we have like three things we need to accomplish in the first 20 minutes she will just monologue on like something kind of related. Yeah, so. But she's great. Like she is. Yeah, she has a ton of like good product insight and feedback. Okay. And she is like a long time job psych Enthusiast and user and for her she has a small group practice. So it's her. Plus a few. Other providers. They're in her. Arkansas office. That's her main office. And then she also has one provider in Missouri. Okay. So we're just focusing on Arkansas right now, her main office. And just again also just one pair. So it's just Blue Cross Blue Shield. We are like currently like live, you know processing claims. This is her account, right? This is what we looked at with Michelle on Wednesday was her. Situation. So those were all her like eras that we were looking at and her like claims. So she. Yeah, she is.
+Emily Kaiser: Like.
+Adam Harrison: In a pretty good spot. She is like definitely one of the more sophisticated users or customers that we have. Like she actually knows how billing works. And she's like gets pretty in the weeds. Whereas like. Beverly will sometimes. Yeah there's she just is like has a higher level of sophistication on some of the other ones around. How she likes to operate. And her just knowledge of like insurance and billing and coding. Like she's she's just like very knowledgeable. So. Yeah, she's she's a good one to have. And basically she's so she's also on the 8% But she just wants the payments going directly to her account. So we're not. We're not doing any kind of intermediary setup.
+Emily Kaiser: So no EFTs.
+Adam Harrison: Right now we have T, you know, that's just we don't we don't need to worry about it because she already has it set up.
+Emily Kaiser: Okay.
+Adam Harrison: So yeah I think for her it's just sort of a weekly thing where. We're trying to like process these Blue Cross Blue Shield claims every week, you know, like reviewing. What's happening, you know, working with Michelle basically like what we did this week is just like that's kind of the process. She's going to have. Maybe like five to 10 new claims every week. We'll, we'll kind of review them, see what's happening, see what's getting denied. Try to. Like, you know. Just fix any denials, all that stuff.
+Emily Kaiser: Okay. Like this one.
+Emily Kaiser: What's that upkeep with this one?
+Adam Harrison: Yeah more upkeep with this one. Yeah. What else? She. Think what I would say is like this month should probably focus on like. Really nailing Blue Cross Blue Shield and like getting that running smoothly and cleanly and we feel confident about how that's going. And then we should talk to her about like the next phase. And like make a plan with her to like migrate everything else into JotSec. And she, you know, we, we need to like, I think. Build the product out a little more before we're ready to have that. Conversation. But her timeline is like May. You know, to sort of make that switch.
+Emily Kaiser: Okay. And do you mean like moving like what else does she need to integrate to Jot Psych, I guess.
+Adam Harrison: Yeah, good question. So right now she has. She uses valent, which is another just like. Tool for billing. So right now she does all her billing in like another platform. So it's already set up and like running there. Okay. So what we've done is just moved Blue Cross like we've just moved that one pair out of Valentine into JotSec. And then her goal is like she wants to cancel valent. And again, we have like a login for that in one password. But she wants to get everything off of Valeant and into Job Psych. And her timeline for that is like, you know, in the next two to three months.
+Emily Kaiser: Okay. And being in our operating out of two different states in her practice at least. So how many payers does she have?
+Adam Harrison: To look again in her. She gave us info for like forget how many pairs. It wasn't a ton. I think it was like maybe 10 or something like that. Okay. But Blue Cross was one of the bigger ones.
+Emily Kaiser: So. Right.
+Adam Harrison: Yeah. That's pretty much it. The, that's all the customers. Any questions on just. Context there. And then I think. All what I'll try to do is I want to get you set up in our Nirvana tool for eligibility checks. And I think we can probably call it a day for now.
+Emily Kaiser: Okay. Yeah. I mean, I don't think any questions I appreciate the information that you put together because it is gives me a good idea of what to do next and what we have on file and what, you know, we're missing. So perfect. Thank you.
+Adam Harrison: Cool. Yeah. So you should have gotten an email for like one verify or nirvana or something like that.
+Emily Kaiser: Today.
+Adam Harrison: Yeah, I just sent it like at the start of this call.
+Emily Kaiser: Ing jot site. Weird. It's sending me a confirmation email and then I'm clicking it to verify my email and it's telling me the link expired, but it hasn't even been like a minute. And see what happens.
+Adam Harrison: So I was muted. So this is all the like eligibility checks. This is kind of like steady, but for eligibility.
+Emily Kaiser: Okay.
+Adam Harrison: So what I will actually do. Is. Like. Is I'll sometimes do like eligibility checks. And I don't really have a process around like when I do this when I don't yet right now. But. Like for Beverly in particular, she was seeing a lot of patients who just.
+Emily Kaiser: Like.
+Adam Harrison: Didn't have insurance or that she wasn't credentialed with. So I think it's just good to know like kind of how to do a check and what back. So basically you just kind of go into this checker, you put in like. You know some basic info. So this is like the first name. The last name date of birth. You pick like who the payer is, what the ideas. And then this npi is the. Is like the provider's MPI. That's just. Like tied to the provider. You'll see it in their like job psych account or on their intake paperwork. It'll be. And then once you run the search. You can look in here and this will tell you like the results. And this is basically this is just like an example of a random one. But this just tells you their, their coverage. So what this one is copay, no deductible without a pocket max. So she is going to have a $40 copay. For this visit. But she's eligible and you know, she has coverage.
+Emily Kaiser: I see.
+Adam Harrison: For someone like. This one. You know, no policy found. That's one where I like emailed Beverly and was like, hey, I saw you created a claim for Jackson. I ran an eligibility check for him. It looks like. He doesn't have insurance. Or he has a new plan. So we need to like get his latest information before we submit this claim.
+Emily Kaiser: Okay.
+Adam Harrison: Yeah. The other thing is sometimes Beverly will also. So that the way eligibility checks work is. It just tells you. It tells you about the person you're doing the check on. But it doesn't tell you anything about like the provider. And if the provider. Is like in or out of network. Or with that pair.
+Emily Kaiser: So, okay.
+Adam Harrison: So that's one kind of quirk here. So like.
+Emily Kaiser: So the eligibility check. It's not checking the insurance.
+Adam Harrison: Of checking the insurance for the patient. Okay.
+Emily Kaiser: But it.
+Adam Harrison: Doesn't tell you whether or not, like, connected to this provider.
+Emily Kaiser: Yeah.
+Adam Harrison: So you kind of have to know who you're like in network with. So. Like Beverly also saw some patients that it's like that they are. You know, let's just maybe they have like blue cross blue shield. But. Beverly is like not credentialed with Blue Cross Blue Shield. That's going to get denied. Because it's not like they don't have her on file. But the coverage will show up as like active.
+Emily Kaiser: So where do we come in in that scenario? Like do we go to Beverly and say this customer isn't in network
+Adam Harrison: or how does that sort of, it's sort of their responsibility. The only reason I bring it up is more just like for your understanding. Like they should really know.
+Emily Kaiser: Like she should be aware that this patient is in a network already. It's not really on us to communicate that.
+Adam Harrison: Yes, but for just Beverly in particular. And I think it's going to come up with some people who are. Like just newer to starting their own practice. That just is like a dynamic to be aware of is all.
+Emily Kaiser: For sure.
+Adam Harrison: So I think like a good practice like what I try to do is when I get a batch of claims sort of the process is. Get the patient like info run it through this eligibility check make sure it looks good. That's sort of step one. Step two go to the claim. Like, you know, make sure the things are like filled out correctly. You can work with Michelle or Jackson or just like. To kind of do that. And then step three is like submit if all looks good. So I try to like do an eligibility check before every claim that I. Submit just just as like just so later if it gets denied. You know it's sort of like we knew about it already or I can I can proactively flag it. Like hey Beverly just so you know like you know this patient you know we have to build them it looks like they have a deductible plan so they're going to be responsible for the full amount. You know that's just like. It's just important to kind of like know and sort of flag these things ahead of time.
+Emily Kaiser: So when you say you do an eligibility check before you run every claim. So say like Beverly has two customers and Blue Cross Blue Shield. And we know that like we know the customers with Blue Cross. I hope this makes sense is with Blue Cross Blue Shield. You're running the eligibility check knowing that like what else is it checking? I guess besides if but it doesn't show if they're a network.
+Adam Harrison: Yeah so what it's going to show it'll show like. It's going to the key things you're looking for are like. Number one. Is the plan active. And is coverage active. So like these two bubbles here. Just the fact that like there is insurance and it's active that's like a great that's a great start. Okay a lot of times think about like Beverly she has people coming from like Zocdoc and Zocdoc it's like you upload your insurance card from like 2014 but then you never updated it. Because like why would I like what do I care if ZocDoc has my insurance card right and then Beverly is like not doing these eligibility checks herself. And just seeing the patients and kind of figuring out insurance later. And then you know we go to Bill and then it's like going to get denied because that insurance no longer accurate so when running it sorry go ahead. So what we're trying to really do is like coach the providers to use our like in application.
+Emily Kaiser: Eligibility because that's a feature in Jot site.
+Adam Harrison: At the start of a visit or before they can do like a batch run. Of like next week's patients. We should do an eligibility check. Before they like walk in the door. The eligibility check feature is still sort of like. Kind of. You know, it's like not really fully there yet in the product.
+Emily Kaiser: It like works, but it's not like very polished. I've never seen it. I don't know where they yeah exactly
+Adam Harrison: it's kind of hidden and so I and it so I just use this thing instead.
+Emily Kaiser: It's actually this.
+Adam Harrison: Is like within Jot site we have like an integration with Nirvana. So this basically same information also you can get from JotSych doing an eligibility check. But I'm just doing it in here for now because it's like. It's just like simpler and it's I get the information I need easier. So yeah, what we're trying to do is coach them to like do eligibility checks before the visit.
+Emily Kaiser: But.
+Adam Harrison: They're not always doing that in Beverly's case. So I will like run it myself before we submit any claims just so we sort of like know what we're walking into like when a claim goes out.
+Emily Kaiser: Okay and outside of checking to see if they're active. Are there any other like big things you're looking for plan status?
+Adam Harrison: You're looking for coverage status. And then. You're looking for like what is the payment structure, the benefit structure. Okay. Like that from here. So in this case this is I did a check for psychotherapy, mental health. This is a fully covered benefit. Member obligation is going to be zero dollars.
+Emily Kaiser: Nice.
+Adam Harrison: So that's that's kind of like what I look for.
+Emily Kaiser: How do you run that eligibility check? I'm looking at the Nirvana screen.
+Adam Harrison: Yeah, it's just in this checker. Tab. And then you just put in the. It's like, you know, if I was running this for myself, I would put in like, you know, Adam Harrison. You know. Yeah. And then my, this for my insurance card, right, member ID error. And then this MPI is like the provider has one. And so you just put that in there.
+Emily Kaiser: Okay. And every time you run in eligibility check, it's 90 cents for the provider.
+Adam Harrison: Yes. So. But I don't think we're really like billing that right now.
+Emily Kaiser: Oh, okay.
+Adam Harrison: But yeah, that is that is the arrangement. Um, I'm not really, yeah, I think. I'm also part of why I'm running it in here is I don't think they get billed if I run it from this. So I don't really want to charge them for eligibility checks that I'm running on their behalf. I guess we could. I just, we just haven't like done that yet.
+Emily Kaiser: Okay. We promote it like that. That's why I ask.
+Adam Harrison: Yeah, we're still sort of like figuring out the workflow for that. But probably how it should be is it's like for someone like Amanda. On Friday, either me or her staff is doing a batch eligibility check for all of next week. And then she's getting billed like 20 bucks or whatever to do that. Okay. So yeah, this is in the JobSeq product under like billing under. Like if you go to, it's like kind of hidden.
+Adam Harrison: But I think it's just helpful to like have this platform so you can do it like you don't have to worry about. It changing a job site.
+Adam Harrison: Like you can just come here and do it if you if you ever need to. Okay.
+Emily Kaiser: That makes sense.
+Adam Harrison: And then in a worst case scenario, sometimes you'll need to call and then a lot of times ASEA on the team has been helping to like make those calls if we ever have to do that. She's been really great about doing that. Okay.
+Emily Kaiser: Good to know.
+Adam Harrison: Yeah. All right. Well, those are the main things I will. Yeah, I guess. Are you talking to Nate and Jackson on Monday on Monday?
+Emily Kaiser: I think 5:30, 5:30 to 6.
+Emily Kaiser: Okay when is your last day?
+Adam Harrison: Monday?
+Emily Kaiser: Oh, it is Monday.
+Adam Harrison: Okay. Yeah. So yeah, I'll try to like. I will try to. Maybe I'll try to like, I don't know, do you want to chat more tomorrow before I go on anything or sorry not tomorrow? Monday, I mean before I go.
+Emily Kaiser: I think it'd be super, I don't know what your last day entails. And I also, like I said, I don't know exactly what they're going to have. Me doing as far as billing. I don't know. I think I maybe should join this meeting with Beverly. And then maybe I could ask you any, any questions that kind of pop up.
+Adam Harrison: But yeah.
+Adam Harrison: Yeah, that sounds good. I think, I think let's plan on that. And then, you know, I think worst case. Like I've documented everything. Jackson also has been like super close. I already kind of was playing the hand this directly to Jackson. So we've already kind of done a full transition there. So he can also just relay stuff to you if there's other things that come up. And it might be something where Jackson is sort of owning this and pulling you in to help on like specific things.
+Emily Kaiser: That's kind of what I'm thinking.
+Emily Kaiser: But that seems like this information has been super helpful because I'm like a know nothing audience with billing and I really appreciate your help.
+Adam Harrison: Yeah, of course. Yeah. So it's a lot to learn.
+Emily Kaiser: I know it's yeah easy to mess up.
+Adam Harrison: Yeah. Yeah. But no, I think you're good. And yeah, thanks for jumping in and taking.
+Emily Kaiser: Absolutely again. Good luck to you. What's next for you?
+Adam Harrison: Yeah. So I am kind of finalizing those still, but I'll be staying in New York, you know, standing tech. So, but I'll keep you posted. On. Yeah, I'm kind of ironing out the final details here.
+Emily Kaiser: Well, that's exciting. You know, new beginnings are always fun.
+Adam Harrison: Yeah, yeah, totally, totally.
+Emily Kaiser: So enjoy everything and I really appreciate your help.
+Adam Harrison: Yeah, thanks so much Emily.
+Emily Kaiser: Bye. Have a good weekend.
+Adam Harrison: Take care. Bye.

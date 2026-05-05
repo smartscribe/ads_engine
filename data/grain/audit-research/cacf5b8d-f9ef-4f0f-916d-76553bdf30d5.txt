@@ -1,0 +1,165 @@
+Jackson Bierfeldt: Next slide. Hello, Next Monday and just like hear kind of what we've been thinking around this.
+janete Cardenas: George.
+Jackson Bierfeldt: All right, perfect.
+janete Cardenas: George.
+Jackson Bierfeldt: Okay, perfect. We'll send you a text and yeah, just love to carry Jackson.
+Adam Harrison: We're getting like from you. I don't know if your mic is maybe set to your computer versus your headphones.
+Jackson Bierfeldt: Maybe that's better. Thanks. Okay, Jorge, I saw you on and in the car. There you are. If you can then think, we're all good. Okay.
+Adam Harrison: We can't hear you, but it seems like you can maybe hear us, Jorge.
+janete Cardenas: Yes.
+JORGE VALCOURT: There we go. Yeah, great. Okay, I hear you now too.
+Jackson Bierfeldt: Okay, good. Great. Okay, well, I see that you. So, you know, we will keep it less visual on. On your front there and just kind of give you the update here. But yeah. Adam, do you want to just go through the agenda really quick and then I'll launch into the JW audit?
+Adam Harrison: Yeah, absolutely. So I can kind of recap sort of where we are in the process here and then talk a little bit about what we want to focus on today. So our kind of first phase here is focused much more on document collection, getting access to your different systems. So been working with Janet to collect all those things. I think we're in a pretty good spot as of right now. There's just a couple, like, more lower priority things we're still looking for. But we got all the payer docs. We got, you know, collab MD access. We got a lot of kind of guidance around billing codes. And so Janet has been super helpful getting all that over to us. So the next step in that process is like ingesting all that data and setting up jot audit for you guys to make sure that you're notes are written in a way that's going to be highly compliant and highly, you know, payer specific and tailored to those specific guidelines. So that's what Jackson has spent, you know, the last week or so working on. So he'll kind of walk through that and then from there we can kind of talk about some other more tactical next steps related to getting set up on. The billing side of things. But I think really today we wanted to focus mostly on the note portion and making sure that going walking through the jaw, audit results and making sure that we set you guys up with, you know, kind of the perfect note for, for, you know, each individual payer that you work with. But any questions on that, Janet or Jorge or Jackson? Anything I. I missed that you want to add? Yeah, yeah, go ahead. Jorge.
+JORGE VALCOURT: Yes. I mean, how did the meeting with Ebony go? I know you two, you two or three met last week or the week prior. The purpose of that meeting was for you guys to got to get your hands on the contracts. Did you get all the contracts you needed or not?
+Adam Harrison: We got, I think 90% of it. Janet, I think you mentioned there were like one or two that might be missing, but I think we have enough to, you know, it's not a blocker for us at this stage. So super helpful, super well organized. Like, we got, you know, what we need. There may be a few odds or ends that we can like, fold in, you know, as time goes, but for like the purpose of this stage of work, like, we have everything we need.
+JORGE VALCOURT: Okay, so we can get off the loop for now, right?
+Adam Harrison: I would say so, yeah.
+JORGE VALCOURT: Okay, that's fine. So I'm going to do that for now. It's going to be then Jenna and myself taking care of. Thanks.
+Jackson Bierfeldt: Sounds good. Yeah, no, we got a lot of robust information in that. It had all the contracts that the fee schedules, it had some of the addendums that you've made over the years. We have those dates, so we're still processing those right now. And Jorge, I know you cannot see this exactly right now, but when you or Maria like log into your account later under the your practice tab, we have this payer docs center that you'll be able to go into. And you can actually click in here and see the information as we're ingesting it. You can come in and actually see all the different rates that we're pulling in, the different rules that we're finding from those documents. So this is something I encourage you to go into later and just take a look at because it might be interesting to you, especially if you haven't, like read all 450 pages of each of these documents before. This is designed to kind of give you an overview about, hey, inside of these documents, what's kind of interesting, what's important, what are the timelines? Which ones differ from other ones? When are the renewal dates? Is everything on track for those? There's also a rate comparison table down here that you'll see that automatically gets generated so you can actually just kind of look and see, you know, side by side. Wait, what am I getting paid from these different payers for the different licenses and things like that? So this is just like an informational view, but it kind of reflects our, you know, process right now. So we have six of these. Imported, and we're working through a couple of the other ones. Some of the documents, you know, had payer manuals attached to them, which we were able to pull more information from. Some of them had less information. So we'll return once we get to the next step of, like, hey, you know, we might actually need, you know, Sunshine Health's payer manual. They don't make that publicly available. And then we'll. We'll revert to you and let you know what else we need. But you should think that we have like 90% of it from right now. And then when we do need something else, we'll let you know very specifically and see if we can hunt that down. But we have what we need to start moving here.
+JORGE VALCOURT: Okay. Has the timeline changed at all since the first time we met?
+Jackson Bierfeldt: The timeline for getting you towards billing?
+JORGE VALCOURT: Yes.
+Jackson Bierfeldt: No, I think we're still on the timeline. We do need to, you know, go step by step here. And the next step is getting your documentation in order.
+JORGE VALCOURT: Yeah, no, I know. I was just wondering after seeing the documents, if anything, if any of the documents you saw is going to delay the process, but I don't think this is the case.
+Jackson Bierfeldt: No, no, we haven't seen any. There's nothing. There's no, like, crazy surprise that leaked out here. You know, the main purpose of these documents was just to figure out, hey, what are the different, you know, filing deadlines for the different payers? What are the fee schedules associated with them? How do we do teleheal rate modifiers and codes with each of them? And we're starting to pull that information in. So, yeah, the next step that we want to look at is Jorge or Janet. Could either of you tell me, have you had a chance to really come in and look at your audit dashboard yet? Has this screen been something that you've spent much time looking at?
+JORGE VALCOURT: I have.
+Jackson Bierfeldt: Okay, great.
+Adam Harrison: No, no, no great.
+Jackson Bierfeldt: No worries there. I will send you a link on Slack afterwards to this specifically so that when you have some time, you can get in and start poking around on your own. But what's happening now is we've taken some of these rules from your new documents and we've put them into the system and they're starting to get applied to every single encounter. So you can actually look in here and see, okay, you know, Guido Nodal, or, you know, whoever is operating under him, you know, saw this patient. You can come in and see exactly what was going on in the session, what billing code we associated with it, and then how compliant it is. With the different rules in your system. And the main takeaway right now is that, you know, everything is mostly fine, but we are getting low compliance scores because the templates that you're using in JOT Psych is not including a lot of information that you're putting. Payer contacts, contracts, ask before. And most of those are things like documenting the telehealth or if the patient is above the age of 12, making sure that there's a substance use section in there. You know, little things like that. So we think that the next step here is for us to actually build you a new template that you ask your providers in the prescribing space to use so. So that we can watch those compliance numbers go up so that then we know that the note is actually ready to go through the billing process and it's going to pass audit and pass muster with your different payers. So that's something we'd like to develop this week so that starting next week, your providers can use this new template and then start increasing their compliance scores in anticipation of us starting to build these notes. To do that, what we would want is, is to get a couple of notes as examples from your advanced md. So whatever your prescribers are actually saving and signing in your EHR right now, if we could just get a couple examples of those so that we can model our template largely after what they're already used to and then add in the sections that we need to for compliance reasons. And then we should have a note that comes right out of JOT Psych that is, you know, ready to go and requires little editing.
+JORGE VALCOURT: Okay, that is fine. We can do that. These are the two things that you mentioned, Jackson. I am 98% sure that we include them in the, in the template. The substance abuse or substance use is on the age. I don't know if they ask the age every time they see the patient, but I'm sure it's in the template. So I'm surprised just like, didn't see it there.
+Jackson Bierfeldt: Yeah, well, that's something we'll have to look into because those are the main things that are coming up in the audit assessment. So either, you know, the template drifted or something needs to change on the behavior there. But that's what we're going to look at this week and just come back to you with like, hey, here's, here's the formal proposal. The best case scenario is that we don't have to change the template very much. You know, maybe something just like, isn't getting put through or they're not picking the patient that has the age on it or something. So we'll look at that. But the goal here is to just make a, you know, minor procedural adjustment on either the template or like, how the providers are selecting whether they're doing telehealth or not so that we know that the note that's coming out of it contains truly everything that it needs to in order to past mustard building wise.
+JORGE VALCOURT: Understood. Okay, we can't do that. How many do you need?
+Jackson Bierfeldt: As many as possible. So I mean if you could shoot us 10 different notes, that would be fantastic.
+JORGE VALCOURT: That will be only follow up notes.
+Jackson Bierfeldt: We'd like to see follow ups and intentions.
+janete Cardenas: Jumping takes. Yeah.
+Adam Harrison: Yeah. And if it's easier, Janet, if you don't mind just creating an account for us in advance, then, you know, we. We won't need to bug you to pull specific notes, and we can just, you know, ask you. Ask you questions as needed. That. That might just be most efficient, but totally up to you, Janet. You know, whatever. Whatever you think is the. The best way to do that.
+JORGE VALCOURT: Okay.
+Jackson Bierfeldt: Okay, great. Yeah. So that's our proposed next step as far as getting the documentation in order. And then I think from there, Adam, we want to start looking at the patient payments. Is that correct?
+Adam Harrison: Yeah, yeah. And maybe just on kind of the template point. One other couple other, like, trips. Just kind of like housekeeping items. Wanted to talk through. So, Jorge, Janet, I guess you wanted to start with Dr. Nodal, you know, to kind of start out here. Are you in? Do you want to include the providers under him as well, or just his. His patients for, like, our initial scope Just wanted to clarify that because we should get kind of accounts set up for each of them so that we know, like, who is the rendering provider versus the, you know, the billing provider when we do. When we do the notes and create the claims.
+JORGE VALCOURT: Okay. Now we should include all of them, all providers in the psychiatry department.
+Adam Harrison: Okay. Okay, great. And that is how many prescribers we have.
+JORGE VALCOURT: Three people.
+janete Cardenas: Three.
+Adam Harrison: Three. Right.
+janete Cardenas: Okay.
+Adam Harrison: And that includes Dr. Nodal.
+janete Cardenas: Yes. Yeah.
+Adam Harrison: Okay, perfect. So I think at some point after we get the template really dialed in, we should probably do a little bit of kind of a training session with. With those three providers just to make sure that they're comfortable using the template. They know kind of how to log things in the system to make sure we get all the inputs right for billing. But I think for right now, we can kind of table that for right now, but we should kind of tentatively pencil that in for like, another week or so out from when we get the template really locked and loaded.
+Jackson Bierfeldt: Yeah. And they're all using jot Psych already, right? Like, they don't need to be trained on it. They're used to using it, logging in through Dr. Nodal's account. Okay, great. So that makes it easier.
+Adam Harrison: Perfect. So, yeah, that was the only other two things I had, Jackson, were one, kind of the patient billing point, and then two was the steady account setup. We could do that live or we could do that kind of async. So whatever you want, however you want to tackle those two things. Or if you want to just focus on the patient billing stuff, that's totally fine, too.
+Jackson Bierfeldt: Yeah. So, I mean, our proposal is that the very next step here is probably to start collecting your patient co pays and your patient contributions through our system. So we mentioned before that we could send out those text messages so that they can easily pay them on the phone. And then you mentioned that some of your patients are unlikely to be able to do that. So you would want to make sure that you have an actual, like, card reader in the office that they could tap or swipe a card on. Am I understanding that correctly?
+janete Cardenas: Yes, that's right.
+Jackson Bierfeldt: Okay, great. Yeah. So we would be able to set that up. We just need to order that little, you know, piece of plastic that would plug into an iPad or a phone or something to your office in order to handle that, that point of sale system. But then we would also just need to get your front desk people, the ones that are, you know, currently using. I forgot what you were using. Worldpay or something like that. We would just need to, you know, give them a small training on how to do that through the job site billing system.
+JORGE VALCOURT: That is fine, Jason. So I understand this correctly, all those payments will show up in the patient chart, right?
+Jackson Bierfeldt: That's correct.
+JORGE VALCOURT: That's why you want to do it through.
+Jackson Bierfeldt: Okay.
+janete Cardenas: Yep.
+Jackson Bierfeldt: And then we would have all that information so we could build it into the reporting that we do on the rest of the building. We're just trying to bring it all into one data house.
+JORGE VALCOURT: Okay, that's fine.
+Jackson Bierfeldt: Okay, so we will. We will put that together and get you some information on that shortly. And then the. Sorry, Adam, what was the. What was the last thing we wanted to go through?
+Adam Harrison: The steady account setup.
+Jackson Bierfeldt: The steady account, yes. So the clearinghouse that we use is steady, and we just need you to make a free account there. It'll take two minutes and then link it to your jot Psych account, and then they will give us access to start running it on your behalf. But you have to create it with your email and press the link button. And then we can start the process of making sure that we're enrolled with all of your payers. And most of your commercial payers aren't going to require anything there for submitting claims. But I do believe that your Medicaid pair is. That's sunshine, right?
+janete Cardenas: Yes.
+Jackson Bierfeldt: That's what Florida.
+janete Cardenas: Yeah.
+Jackson Bierfeldt: So that one does have a paperwork process that we need to initiate in order to tell them that we're about to start submitting claims to them. And they estimate that that takes one to two weeks. On their end to process. So we just want to, like, get that started as soon as possible so that we can make sure everything's hooked up as we, you know, get to the claim submission process.
+JORGE VALCOURT: And they want you to do that because they are subsidized by Medicaid.
+Jackson Bierfeldt: That's the reason I actually think every single Medicaid payer requires you to enroll with them. I don't. I don't exactly know the reason why, but they all require enrollment for claim submission. You can't just submit. Yeah, the commercial payers all let you submit claims without enrollment. They require enrollment for the whole era process, which is, you know, the next phase of this. But for Medicaid ones, you do have to enroll in order to submit claims as well. So given that that one has that one to two week processing point, I. I just want to make sure that we start that as soon as possible so that we don't get hung up later.
+JORGE VALCOURT: Agreed.
+Jackson Bierfeldt: Yeah. So we could start that steady account literally right now, if you're ready to do it, Janet. Or we could give you instructions over slack on how to do it and then we could do it asynchronously a little bit later today. Totally up to you.
+janete Cardenas: Okay, let's just do it right now. You have time. Great.
+Jackson Bierfeldt: Yeah, we'd love to do right now. So could you just share your screen so that we can follow along? Great. Okay. And then if you could type s t e d I steady into the search bar.
+janete Cardenas: Like that.
+Jackson Bierfeldt: STDA I think you might be sharing a different screen. Do you have two screens? I'm seeing one with a planet behind it. S t e d I.
+janete Cardenas: Hold on. S t. D. I. That's what I did.
+Jackson Bierfeldt: St. E, as in.
+janete Cardenas: Yeah, thank you, Adam, because I don't know why I'm sharing this. Just give me a second.
+Jackson Bierfeldt: No worries.
+janete Cardenas: Just give me a second.
+Jackson Bierfeldt: Yeah, we can't see your screen anymore.
+janete Cardenas: I don't know why. Just give me a second.
+Jackson Bierfeldt: There we go.
+Jackson Bierfeldt: Okay, so it's five letters. S, T.
+janete Cardenas: I know.
+Jackson Bierfeldt: Yeah.
+janete Cardenas: Yeah, that's what I'm doing. That's what I'm doing. But I don't know why you guys doesn't see it.
+Jackson Bierfeldt: I can see the Google. Yes. So.
+janete Cardenas: Stdi.
+Jackson Bierfeldt: Yes. We just need to add the E in the middle there.
+janete Cardenas: Oh, yeah.
+Adam Harrison: There. You got it. Third one down in that list.
+janete Cardenas: Made a notable sin.
+JORGE VALCOURT: You cannot get it to work, Janet.
+janete Cardenas: No, no.
+JORGE VALCOURT: Okay, that's fine. Send the instructions through the channel and we can take care of it today.
+Jackson Bierfeldt: I'm gonna be in my office too soon.
+JORGE VALCOURT: I can't help Janet or I can't do it.
+Jackson Bierfeldt: Okay, that sounds good.
+Adam Harrison: Should we. Should we just. While I have you both here, should we just lock in a time for next week to review the templates? So that would probably be one session and then maybe another one. Just a short training with your front desk on the payments. Patient payments.
+Adam Harrison: Yeah, we are flexible, so whatever works best for you both. Sometime next week. Yeah, would be great.
+JORGE VALCOURT: Janet, I don't think we need to have the entire front desk in the training. As long as you have one or two main people there, they can train the rest. And we'll send you a video, too, so you can pass it to everyone else.
+janete Cardenas: Yeah.
+JORGE VALCOURT: Yeah. So from. This will be easy. The other meeting you want to. To have to go over the. You. You need a training meeting with the. The psychiatry providers, right?
+Jackson Bierfeldt: Yeah, I would say at least one of them. You know, just so that we can show them and have them, you know, respond to it. I don't think we need all of them, but if you have one who's kind of in charge of the documentation, that would be sufficient.
+JORGE VALCOURT: How do you want to manage that?
+janete Cardenas: Can we use Angelica?
+JORGE VALCOURT: Angelica. Okay. And she will train Nodal. And. Would it be. Oh, Chris? No. Puerto.
+janete Cardenas: Why not? Why not?
+JORGE VALCOURT: Well, do you think Chris can be in the meeting and.
+janete Cardenas: And with Angelica? Yeah, of course they can be together.
+JORGE VALCOURT: Okay.
+janete Cardenas: Can be there as well.
+JORGE VALCOURT: Okay, that's fine. Okay, so let's set it up for next week. What time is she. It's this week or next week, guys.
+janete Cardenas: Next week.
+Jackson Bierfeldt: Next week. We'll develop this week.
+JORGE VALCOURT: Yeah. Okay, so, Janet, you have to put some time in the schedule for. For that. That meeting. It will take what, 30 minutes, you think, or less?
+Jackson Bierfeldt: 20? Let's say 20 minutes. It's just a temperature check to make sure everything is good. And yeah, it shouldn't require too much from them. It's mostly just to say, hey, here's the new template. Here's how it's different. Make sure that it looks good to them, and if they have any feedback, we want to receive it so we can iterate quickly on it.
+JORGE VALCOURT: Yeah, that's fine. And she's pretty good with job, psych, and technology, so she'll be fast. Okay, so Janet, put her in next Wednesday, please.
+janete Cardenas: 30 minutes. 20.
+JORGE VALCOURT: Can get this out of the way? Yeah, 20 minutes.
+Jackson Bierfeldt: Just 20 minutes. Yep.
+JORGE VALCOURT: We have the training with the same day.
+janete Cardenas: Okay. 3:00pm it's good. Hello?
+Jackson Bierfeldt: You're muted. Adam.
+Adam Harrison: Sorry. 3:00pm on Monday. Was it Wednesday?
+JORGE VALCOURT: Wednesday, Wednesday, 11:11.
+janete Cardenas: No, I'm sorry. The 18.
+Adam Harrison: That works. Yep. Either of those times.
+janete Cardenas: Did you say 3 or 11? Okay. No, 11. Just give us. It's the 18. 11. I'm sorry. 1120.
+Adam Harrison: 1120-1140.
+janete Cardenas: Yes.
+Adam Harrison: Okay. And that will be Janet, will you be able to add whoever the right folks are from. From your side?
+JORGE VALCOURT: Yeah, it's gonna be Angelica, Adam.
+Adam Harrison: Okay. Do I have her email?
+JORGE VALCOURT: You don't have to worry. Send it to Janet and we will take over. Yes, we'll send it to be two people, Angelica and Chris. That way they can. They can channel that information to the other providers.
+Adam Harrison: Okay, I'll just add Janet, then.
+janete Cardenas: Just plug in 1122, 1140, and then.
+Adam Harrison: What about for the front desk? Did you say three?
+janete Cardenas: Run this the same day?
+Adam Harrison: Sure, yeah, that's fine.
+janete Cardenas: Wednesday.
+JORGE VALCOURT: Is it. Is it Wednesday? The best day for that? Janet, would you have someone in Cowpen to maybe ud. So you don't need.
+janete Cardenas: Yes, a good day. Wednesday. I got a radio I can do. Wednesday, 11.
+Adam Harrison: 18 at 3pm Yep, that works for us.
+janete Cardenas: So Wednesday. No.
+Adam Harrison: All right, I just sent out invites for both of those to you, Janet. So I'll just. If you could just coordinate on your side with whoever needs it. All right, so I'll kind of follow up here in Slack with the.
+Jackson Bierfeldt: Great. So just to summarize, we're good on docs right now. We want advanced MD access so that we can pull those notes. And if you can't do access to that, then we would just like to see 10 notes across, follow ups and inputs. And then we're going to build that template for you. And then next week we're going to get you set up on the paying the patient paying collection system through us. And then we're going to get your psychiatry providers on the new note template so that we are ensuring that all of the JOT audits are starting to pass. Does that sound right?
+JORGE VALCOURT: That sounds good.
+JORGE VALCOURT: Let me ask you one more thing, Jasmine Ivey. I got a question from, from Chris. This is a person you're going to meet with next Wednesday. She's having issues with the psychology template. Apparently the information is not transferring correctly or something is going on with a template that she needs some help with. I can get the details between today and tomorrow. I send you a message through Slack, if we can fix it through Slack. Beautiful. If we need to meet then with the site, then.
+Jackson Bierfeldt: That sounds perfect. Yep. If you get me the details, I'm sure we can look at it from there. And then I'll do a call with them if I need to, but we'll try to do it.
+JORGE VALCOURT: Sounds good. Okay, Sounds good. Okay guys, anything else we need to cover?
+Jackson Bierfeldt: No, I think we're set here.
+JORGE VALCOURT: Okay. Can you send me that document you shared with us today in the first five minutes of the meeting?
+Jackson Bierfeldt: Yes. Yeah, I'll send you. Yeah, it's a. It's a link for you to look at inside of job site, I believe. Are you using, are you just using Maria's account to log in to look at the, the Valcourt docs? Because your account, Jorge, is connected to a different practice, right?
+JORGE VALCOURT: Yeah, right now I am. Have been using the Miami Springs account the most, creating charts, sending documents out and all that. Okay. For Valkart, I haven't logged in. Okay. Jo, it's been always through peak.
+JORGE VALCOURT: But you tell me where to go and what you use and I do it.
+Jackson Bierfeldt: Okay? Yeah, I'll send you a message. We're just gonna have you make an account for the Valcort account and add that in there so that you can view everything. Because that's just going to be your main place to go and view these tables and these audits and the payer documents and all of that. We'll just have you make an account there. We'll send you a little message on slack telling you what to do, and we'll set that up.
+JORGE VALCOURT: Okay. And in the future, this is the account we're going to use to see the claims and put the claims through and all that, right?
+Jackson Bierfeldt: Yeah, it'll be the account. Yeah, it'll be the account you use. Yeah, once. Once you have, you know, if you have, you know, Janet, she'll have her own account for the billing access and things like that, but this will be the account you use to log in to just view everything, to have that real.
+JORGE VALCOURT: Okay, good. Okay, so good progress, guys.
+Jackson Bierfeldt: All right, thanks so much.
+JORGE VALCOURT: Okay, thank you, guys. Thank you, Janet.
+janete Cardenas: Bye.
+Jackson Bierfeldt: Thanks, Janet. Bye.

@@ -1,0 +1,121 @@
+Jorge Valcourt: Chart. Number if we want that day to be today instead of tomorrow. So we write down today. Some things that the patient won't know. But if we leave it to the patient. We will never finish with that document.
+Jackson Bierfeldt: Right. Okay, so it's like pre filling the form a little bit with information about that patient and their patient number, the chart number or something like that, okay? All right. Yeah, we will take a look, and I'll get back to you on how long it might take for us to add that, okay?
+Jorge Valcourt: Okay, so, Jackson, Adam, this is Alaimees. Avemis is another of our builders.
+Jackson Bierfeldt: Great. And I've got your account set up. Allow me. So, thank you so much for creating that on Friday ahead of time. Or has there anyone else that we're waiting on to join here as of right now?
+Janete Cardenas: Okay.
+Jackson Bierfeldt: Was there somebody that was going to be helping the prescribers learn how to do the co signing? You mentioned that there's a new documentation assistant.
+Jorge Valcourt: Yeah. Edwin. Janet, do you think. Is Erwin done with Nol? We can get him in here.
+Jackson Bierfeldt: If not, we can send the video later.
+Janete Cardenas: So that'll be. Good.
+Jorge Valcourt: The video is.
+Janete Cardenas: We know that right now.
+Jorge Valcourt: What about Hitler?
+Janete Cardenas: Okay? Let me ask you.
+Jorge Valcourt: He lives in that office, Jackson. So it's better to have someone in that office in here?
+Jackson Bierfeldt: Okay. Yeah, that'd be great. I just want to make sure that somebody. Who will be working with the prescribers can show them where the buttons are.
+Alaimys Torres: First name is Ebony. He is a peter. Yes. First name is Ebony. He is a prize. Yeah.
+Jackson Bierfeldt: Okay, great. Well, in the meantime, while we're waiting for that, maybe I can just start with showing you the billing workflow in the back end. Does that work for you?
+Jorge Valcourt: There's a healer right here. After you met her.
+Jackson Bierfeldt: The time you were at the clinic. I.
+Information Office: Hold in. Hello.
+Jackson Bierfeldt: Okay, great. So I'm just going to share my this screen. Okay, so, alignees, this is what you will see when you log into that jot psych account that you created. So this is the view that we have. For billers.
+Alaimys Torres: And your account is set up to be a billing account.
+Jackson Bierfeldt: And what I just want to show you is that if you come into this billing and auditing, Page and you go into JOT audit. This is where you're going to be able to see all of the different notes that go through the JOT psych system.
+Jackson Bierfeldt: And you can see the billing codes that are being associated with those so that you can kind of check on those as we begin to do this. Billing. I think part of your workflow is going to be firming those billing codes and actually pressing the like, hey, submit this to billing button. So I just wanted you to see that this is where you can start coming in and seeing some of those codes now. As we start this process. Soon you are going to see a page that looks like this. Where you'll be able to see these codes and you'll actually be able to create claims. From in here once the providers have signed them. And what that will look like is you'll be able to actually see the C1500 form in here, and then you can check everything is correct before we go ahead and submit it. Yes, jorge.
+Jorge Valcourt: Jackson. So you're saying that we're going to be able to see what are the status in that note? Of the nodes.
+Jackson Bierfeldt: Exactly. Yep. So on this page here, we can see that all of these notes right now are in draft. It looks like this one has actually been signed. So I can come in here. And see. Okay, this note has been signed. We'll have the co signed symbol in a second here. That's what I'll show on the next part of this call. Because a lot of these notes are going to require two signatures, the author provider and then the billing provider.
+Jackson Bierfeldt: And then you'll be able to press create claim. We haven't set that up for your account just yet, but you'll create from here and then be able to send it out.
+Jorge Valcourt: The very first status or there is one before draft.
+Jackson Bierfeldt: Draft is the very first status Draft means that they recorded it with jot psych and created the note and then signed is the next one. That's after they press the sign button.
+Jorge Valcourt: Okay, so if the node wasn't recorded. I'm telling you from experience, if the node wasn't recorded, it still. Shows us draft.
+Jackson Bierfeldt: No, sorry. Draft is only for encounters where they actually recorded it.
+Jorge Valcourt: Okay, if it wasn't done because it didn't work. Something came up.
+Janete Cardenas: There haven't.
+Jorge Valcourt: What happened?
+Jackson Bierfeldt: Yeah, you would not see that.
+Jackson Bierfeldt: You're saying if you had an appointment, but they didn't create a job site note right now, we would not see that in this view.
+Jorge Valcourt: Okay?
+Alaimys Torres: I'm not sure that's why we're calling.
+Alaimys Torres: Okay, that's fine.
+Jackson Bierfeldt: I just wanted to show you this alignment so that you can see this. I'll be sending you some more information soon on actually how to. How to access this, but I just wanted to make sure that you saw this right now so that you knew where those buttons were. Yeah. Question.
+Alaimys Torres: S select all the sign in notes were encountered. 18712.
+Jackson Bierfeldt: You mean like, are you going to be able to select multiple of them and create. Yeah, yeah. Yes, you will. So you don't have to. You don't have to click every single one one by one.
+Alaimys Torres: Eight.
+Jackson Bierfeldt: Okay, great. Well, now then, I will show the signing flow.
+Jackson Bierfeldt: That we put together. So one moment. This is what your actual providers are going to be seeing. Let me share this window. Great. So this is a fake note that I just made on one of these accounts. So don't pay too much attention to the content of the note. But what I want to show you is how your providers who need co signatures are going to interact with the notes so when they see the jot psych note and they've gone ahead and they've edited it and they're ready for the note to actually be done and to go to billing. They'll go ahead and click this sign note button, and then they will see this message that says, your supervisor will be notified to cosign. So after they press this button. They're done. And it says, awaiting code signature.
+Jackson Bierfeldt: And then I'll show you what the supervisor account looks like. One moment. Okay, so now this is what Dr. Nodal or someone who's doing the actual signature, the supervisor signatures, we'll see in their jot. Psych. They'll get this little notification anytime that one of their supervisees has signed a note and it'll say, hey, you have one thing here. They'll see this cosine needed button and inside of here will be a list of all the notes that they need to go and do a co signature on. So they will click on this and they'll be able to read the entire note if they need to send it back to the provider for any reason to ask for more edits. They can press this button and then the provider will get a notification. But if everything looks good, they can press the co sign button and then that will go into this electronically signed mode. And if you press this, you'll actually download the signed PDF. So once this has been co signed, we store the note in our compliant EHR for seven years so that everything is tracked there in both provider signatures will be on the note. Yes, Jorge.
+Jorge Valcourt: Okay. Can you show how it will look when they request the edits?
+Jackson Bierfeldt: Yes, I can. So let me go back. To this other account. One moment. Great. So now I'm looking at this. If I go ahead and request the edits, it will go into your supervisor requested edits to this note mode. And then I will log back into the other account. So now this account is the one of the provider who needs a signature. They'll see a notification here that says edits needed. On this note. So they'll get their own queue of hey, here are the notes that I said were done, but the supervisor said was not done. I now need to go back into this note. I need to make the edits and then I can resubmit for cosignature after I've made those edits.
+Jorge Valcourt: Okay, but is the person signing the note making comments or letting the therapist know what needs to be. Edited.
+Jackson Bierfeldt: Right now, we assume that you would do that in your own chat.
+Jorge Valcourt: But if you want to make
+Jackson Bierfeldt: but if it would be useful to have something right here that just says, hey, here's the notes that you want to edit, we can add that very easily.
+Jorge Valcourt: I think that would be a lot useful. Very useful. Jackson, that way. We are not relying on another platform.
+Jackson Bierfeldt: That makes sense to me. We'll get that added in. So those will just show up inside of this box right here. What it'll say Dr. Nodal requested that you add additional information to the mental status exam, and then they can make those edits, and then press this button again and it'll go through that flow.
+Jorge Valcourt: Thank you, Dixie. Beautiful.
+Janete Cardenas: Yeah, jenny. Had a wild villain find something on the node that they need to fix before sending.
+Jorge Valcourt: It to the insurance.
+Janete Cardenas: To the insurance? How? They send it back to the providers.
+Jackson Bierfeldt: That is a great question. I think we'll set it up this exact same way. So the feedback that they request will still go through this. The provider will still see it as edits needed.
+Jackson Bierfeldt: And then they'll be able to see what changes they need to make. It'll work the same way as the supervisor.
+Janete Cardenas: They would be able to do an addendum to the note. After they both sign the note.
+Jackson Bierfeldt: That's correct. And that's how our system works. It is an addendum system. So once you sign the note, it's legally signed. But then if you need to make changes, you can press Amend and you can add an additional addendum to the note. We follow that same practice so that everything is legally compliant, so that once the notes signed, that copy of the note will always exist.
+Jorge Valcourt: Okay.
+Janete Cardenas: Perfect. Okay.
+Jackson Bierfeldt: Great. Yeah. So that is the main thing we wanted to show you is just how this co signing flow works. And this is live today, so we can actually get this set up in your account and I'll go ahead and we'll have that additional information, Jorge, where it shows them the comments I'll have. That done today so everybody will see it by tomorrow. Thank you.
+Jorge Valcourt: Do you think, Janet? Do you think we are? Ready to use this. You think? No, Dal can use this.
+Janete Cardenas: We need to start. Yeah, we can try. Yes.
+Jorge Valcourt: Okay.
+Janete Cardenas: Yeah, we need to do Great.
+Jackson Bierfeldt: So just to confirm, so is the supervising. Okay, I'm just going to make. This is your account right now. I'm logged in with one of your billing accounts. So I'm just going to make these changes right now so that those are done. And then are these the. Four clinicians that require signatures.
+Jorge Valcourt: Right now. Besala is there? Yeah, Angelica is there. At Cosette. It's no longer with us.
+Janete Cardenas: It's no longer. Yes.
+Jackson Bierfeldt: Okay, so I'm going to go ahead and deactivate Cosette. Okay?
+Jorge Valcourt: Armando. That's right. He needs someone to sign his notes. Banes. Akano, that's Operations. Melissa? She's gone. Too. She's their honeymoon right now.
+Janete Cardenas: I see. Good day.
+Jackson Bierfeldt: Okay? Great. So I think the one thing that. And by the way, this page that I'm on right here, you get to it by going to your practice and clinicians and Jorge and Janet, you both have access to this page. The one thing that still does need to be done for some of these providers. Is just making sure that their information is up to date for signature purposes. So it looks like Dr. Nodal has the license number, the state, and the NPI number. What is Dr. Nodal's license level? Great. So I've updated that, and you might want to just check for these three clinicians that that information is up to date for them as well. It looks like some of them are missing their license numbers.
+Jorge Valcourt: Yeah. There are interns, so some of them might not have an MPI number yet. Since we don't build for them. Do we need? Does that information need to be there for us to create a profile or.
+Jackson Bierfeldt: No. So, just to be clear, this NPI number that it's asking for here is their rendering. NPI number? Not the billing one. The billing one will still go through Dr. Nodal's NPI number, but this is. The NPN number that would be written onto the note when you sign it. They don't need to have that NPI number on it if they don't have one yet. But if they do have one, I recommend filling in that information now. But at a very minimum, you should just make sure that their license type and their license number is correct. For these three providers.
+Janete Cardenas: Okay?
+Jackson Bierfeldt: And then we should be ready for everyone to sign and then start the billing process.
+Jorge Valcourt: Okay, Jackson, so it sounds like we are ready to start building through the system.
+Jackson Bierfeldt: Yep. We're ready to start submitting the claims through Job Psych. So I think what we talked about is you still want to keep Collab MD for a while so that you can still receive the billing there, because that's where you have your ANR buckets and all of that. And we don't want to change that right away, but we do want to get people to start doing billing through the job site interface, and we're able to start that.
+Jackson Bierfeldt: Yeah, we have a question. Almez.
+Alaimys Torres: Yes. I want the opinions. So we are ready for the city payment. Job site. Would you send the guys for now?
+Jackson Bierfeldt: We're just submitting the claims through Jot Psych right now. You're still going to receive them in collab for a short time.
+Jorge Valcourt: Okay, how is that going to work, Alaim, if we don't put the claim through job site, through collab. I will collab Know that I claim without.
+Janete Cardenas: Good question.
+Alaimys Torres: Yeah. So when the game is called, when the building is coming, how we assign the payment to the claim. If we don't send the claim to collaborate and we don't create the clinical lab. So we have to clear the training website for now.
+Jorge Valcourt: Yeah, right now, Jackson.
+Jorge Valcourt: Is this how I understand that you let me know if there is something. I'm missing. We're going to create a node in the. Billing step. It assigns the code. We push that claim through, it gets paid. But what we're thinking right now, Jackson, is that Collab will receive the ERA or the aob, and we'll receive that payment just as we are doing right now. With Godava, the bank or through Czech. We are questioning right now is if Collab doesn't know that a claim went out. So if they don't have proof or a claim number or how will they know what that payment is for?
+Janete Cardenas: We're going to close the claim.
+Jackson Bierfeldt: Okay, great. Adam and I will look into that. We have access to your collab account, so we will look in and do some forensics to figure out how that process will work. So until we have that figured out, you don't need to submit these. Of course, but we do just want to start with the signing. Process that we are ready to go ahead with.
+Jorge Valcourt: No, I agree. Luckily, Jackson, the volume. Will be minimal. Okay, so we can start maybe with one provider, maybe one day a week, putting claims through. So we can track and keep a good eye on the claims and then we can increase that volume.
+Jackson Bierfeldt: Another option would be if you have one payer that you want to move over entirely first, like even moving the ERA into jot psych. That is what we're doing with some other. Clinics. Some of them are starting with their payers that they have the most problems with, so that we can start with our AI powered denial process. So that's another thing I think we could think about is if there's one particularly problematic payer that we'd actually want to do the entire move over to. Jot psych first and start tackling those that might work.
+Jorge Valcourt: Aligned is Janet.
+Janete Cardenas: Yes. No. No. Yes.
+Jorge Valcourt: Sure. Do you have an insurance in mind that you want to tackle first?
+Janete Cardenas: Florida blue signal. One of them.
+Jackson Bierfeldt: Okay? All right. I will look at. We'll take a look at your data and see which one of those might make the most sense. But just to make sure. I heard. So you said Florida blue and cigna. A good candidates for maybe moving over to job site first.
+Janete Cardenas: Maybe. You know what? Maybe we can close the claims through the appointments status. I don't know.
+Jackson Bierfeldt: In Collab md. Okay, Closing claims to appointments. I will look into that.
+Janete Cardenas: Alan, you haven't say anything. Hi, alan.
+Adam Harrison: Jackson's running the show here. Yeah.
+Jackson Bierfeldt: Okay, great. Well, I think then the very next step, though, is just making sure that your prescribers are starting to use this new template that we talked about and are starting to use the co signature flow. And to that end, I think actually right now they're all signing into one account. I think everybody is still sharing Dr. Nodal's account. And we should probably get the other prescribers to use their own accounts. They've all created their accounts. They have access to the same patients. So all that information is shared, but we would need them to start logging into their own account so that when they sign, it's signing as them and not.
+Jorge Valcourt: Okay, I agree. Okay, so, Janet, let's start with Armando. I mean, it's too late to do it today, probably, but tomorrow? We can ask him. Hey, armando. And start using Jotsyc to sign the notes and see what we get out of that.
+Janete Cardenas: Okay?
+Jorge Valcourt: Okay. No, that is in tomorrow.
+Adam Harrison: Too.
+Jorge Valcourt: Do you have someone in Kaupen that you want to get started with this?
+Janete Cardenas: Matthew? Yes, Matthew.
+Jorge Valcourt: We will have three people. Using the system.
+Jackson Bierfeldt: Okay, great. I don't see an account for Matthew yet, so we'll have to create one of those.
+Jorge Valcourt: Yeah, okay. Do you need me to.
+Janete Cardenas: Well, that's. I'm going to send you the information.
+Jorge Valcourt: Okay, good.
+Janete Cardenas: Thank you. Lenny, do you want the email? Huge email.
+Jorge Valcourt: Yeah. Was it? The AC aligned is to create a new one new account.
+Alaimys Torres: Another software that I used before. So it's similar encounters to claim. That we clean. I can do that every single goes and everything. Once ecw.
+Jackson Bierfeldt: Great. Okay, well, I'm sorry. I do need to run to another meeting right now, but it sounds like we have our next steps here, and we'll be in close communication around how things go tomorrow. So just let me know if you have any other questions, and I'm happy to jump on and troubleshoot. With anyone that has any problems.
+Jorge Valcourt: Okay? Okay, guys. Thank you, Adam. Thank you. Jason.
+Jorge Valcourt: Thank you, thank you. Bye.

@@ -1,0 +1,150 @@
+mitchell: All right, one second. I found that email you sent me. Let me look at that real quick.
+Christopher Hume: Perfect.
+mitchell: Oh. Come on. All right, here it is. Cool. Okay, so. Yeah, I saw that. You said prescribing internationally shouldn't be a problem. And then, I mean, I wanted to see about. Question you about. Charging for services? I guess. Does it absolutely have to be a request? Because I saw. Let me share my screen with you. The client page here. Give me one second. On this practice guy, Alfred Appleseed. Like payment methods. It wouldn't be like, saved here. And I can just charge it after the service is done.
+Christopher Hume: This is interesting. So, I know we were working on storing payment methods. It looks like they might have rolled that out. And I just wasn't in the meeting yet because that's certainly something we're working toward. I'll need to check to make sure that this is up active and running. Yeah, but no, this is awesome. That is certainly what we're planning to go. Mitchell, I did want to get in front of our skis last week when we were talking for sure. But I'll let you know if that is live. Or if it's not, when it will be live.
+mitchell: Cool. Yeah, that's a good thing because I don't want to be chasing.
+Christopher Hume: No.
+mitchell: Oh, my God, I cannot, because I can't even do that with people that have refused to fill out a simple two click form on Alma. I'm like, for the love of God, please just do it, man.
+Christopher Hume: Trust you, Mitchell. I know the pain of trying to get people to do something on the computer. Oh, my goodness. It's unbelievable. Unbelievable.
+mitchell: Yeah, so that's going to be great. I am locked in with the appeal people until November. I did ask if I get out earlier. The answer was no. So I don't want to waste those hundreds of dollars.
+Christopher Hume: No.
+mitchell: I'm definitely interested in jot. Psych. I think with the payment stuff. Absolutely. That'd be awesome. The other one, though. I tried to do an roi. Let me show you this real quick. Couldn't figure out how to fill it out. Like, with the lab stuff, it looked pretty simple. Let's say. Oh, gosh. Where did it go?
+mitchell: Yeah, it's so cool. You can fill it out.
+Christopher Hume: That's awesome.
+mitchell: Really cool. But there's no way to do that for, like, an roi. That I saw.
+Christopher Hume: Okay?
+mitchell: And you're looking for something? Forms or. Where did I put it? I made one earlier. Oh, no. Let's say. I don't know how. Like, how does everyone else do it on your platform? Do you have any idea?
+Christopher Hume: Right off the top of. Remind me here. Mitchell, do you need both the patient and your supervising clinician to sign these?
+mitchell: No supervising will look at, like, I don't know, like five charts at most a month. Okay? They don't need to look at G87's PHQ9s. They don't need to look at release of information requests. That's just overkill, for sure.
+Christopher Hume: Okay. So is it just. It's you and the patient who needs to sign the release of information?
+mitchell: It would just be a patient, honestly.
+Christopher Hume: What I think we would probably do for you, Mitchell, is if you go to documentation. Forms. And then you go to form library in the top right. We would create a custom form for you, your Release for Information form that you could digitally send to your patients and that they can sign in JOT Psych, and then you can print or whatever.
+mitchell: That would be awesome in November if you all have that and the way for charged cash pay people.
+Christopher Hume: Yeah, we will certainly. I mean, you should be able to do the release for information now.
+Christopher Hume: So what I would kind of encourage. Did you try to start building a form.
+mitchell: Yeah, yeah, yeah.
+mitchell: I uploaded one. Let me show you what happened with that. So let's say, like, this was one I was just messing around with.
+Christopher Hume: Yeah. Since we have a little bit of time before you becoming older, I'd love to hear what's working and what's not working with this form so we can make sure that the engineers.
+mitchell: This is the first time I've seen this stuff on the left.
+Christopher Hume: Yes.
+mitchell: I was going through another way. I think I was looking at forms here and, like, maybe I made a template or something. I don't know what I did. Earlier.
+Christopher Hume: So. Yeah. So the idea is with forms, you can add one, it'll reviewing your existing form now, but you can also add any type of block you'd like.
+mitchell: That's cool. Yeah, this looks better. And they can. We can click on it and all sorts.
+Christopher Hume: Awesome.
+mitchell: Yeah, that's cool. Okay. Yeah. Yeah. All right. This looks better now. All right, so how do we do that? We went to, like, forms and then.
+Christopher Hume: Yeah, it's a little frustrating how to get to build your custom forms. I really wish and I will raise it to the engineering team. You probably shouldn't have to go through all of these clicks, but let's just publish this so you save it. Publishing, so that's in the top, right? You can always come back and edit it later.
+mitchell: Then the people will just have to click here and then they'll sign for them. All right, so publish.
+Christopher Hume: So if you go to documentation in the top left, And you go to forms. This is going to show you every form that you've sent. Right now, it looks like you haven't sent any, which makes sense.
+Christopher Hume: And then if you want to look at the library. Oh, looks like we need someone there. I forgot. We'll see. Oh, no, no, no, we haven't. It's suggesting some you can send in.
+mitchell: Yeah. So then. Okay, cool. Okay? And they'll just text it to them, okay?
+Christopher Hume: Yep.
+mitchell: But there's no way to like, because I want to do, like, the little edits in there, like, add their name and like, maybe, I don't know, put two and from in there for them because they've been missing that up. Almost every time.
+Christopher Hume: Really? So that's something I'll have to flag for the engineers. Right now, it falls to the person filling out the form to put in that information. That's a good point. That, like if you're doing, for example, a DocuSign, you can preload the form with some information. To reduce the chances of confusion.
+mitchell: Labs.
+mitchell: Like, I wouldn't want them to, like, say, what labs? What we need. Like, I'm going to put those in. Yeah. If I could do an edit, like the lab thing, that would be super cool. Then there'd be zero hassle. They do is click the sign good to go. I don't have to send it. Like two or three more communications. Be like, hey, please in the two section, put this person.
+Christopher Hume: Yeah. Mitchell, my question is, when looking at the template you had, it looked like you had. You had client signature and then also a witness signature, Would you need two people?
+mitchell: I don't think I need to witness.
+mitchell: I think that's, like, in person, if I don't know.
+Christopher Hume: All right. Just wanted to make sure, because I think right now only one person can sign at a time. I just wanted to. If that was.
+mitchell: A. No, I just need the client. For sure. I just use this. It was like a counseling office in town. I just took theirs and. Okay.
+Christopher Hume: Wonderful. Any. Let me see. Any other questions, Mitchell? Are you in the process of doing your credentialing, or is that something that you're going to wait.
+mitchell: Until this summer to do. Wait for now. Yeah. What was the price point on that?
+mitchell: You said I didn't see that info.
+Christopher Hume: Let me. That is a great thing, Jotred. Okay? So it's a 350 base payment just to, like, collect all the information from you and load it up real quick. In the next $300 are up pay.
+mitchell: All right, so can you go over that one more time? 350 for what now?
+Christopher Hume: 350. That's just kind of like the base starter fee for us to set up the system for you and all that. And then once we set that up, it's $300 per pair.
+mitchell: And then 300 per payer.
+Christopher Hume: And then if you'd like us to, like, maintain your. I know credentialing sometimes has to be updated. There's new rules, all that stuff. If you want us to track that for you, it's 150amonth.
+mitchell: Okay.
+Christopher Hume: That's certainly optional. Once your credential, you can decide whether you like that service.
+mitchell: And let's say if I get credentialed through, like a Northern organization, get that all set up. Then could I still use, like, the jot. What was it? Jot Bought it. Is that what that is?
+Christopher Hume: Oh, yeah, of course. Yep. You could just share those pair documents with us. The credentialing doesn't have to go through us.
+mitchell: Okay, cool. Yeah, I hold off on that now because there's some that are charging, like, I don't know, 30, 50 bucks per pay or so.
+Christopher Hume: Really?
+mitchell: Yeah, I can afford that. I can't definitely 300 right now.
+Christopher Hume: No, I certainly understand. Which services do you use for credentialing?
+mitchell: I have to. Look, my friends just did it, okay? Let's see if she told me. Okay, never mind. My friend did it for $50 per pair, and they did their MPI2 and everything. She didn't tell me who it was, though. Oh, maybe. Dastify is what she said. So I don't know.
+Christopher Hume: Okay?
+mitchell: You want to buy them out?
+Christopher Hume: Yeah, right. Price point.
+mitchell: That would be cool.
+Christopher Hume: Yeah, no, I just would love to see, kind of if. Make sure we're offering additional value for the additional cost there. So I'll follow up, Mitchell, and just if there's anything additional included with ours that isn't standard on the market. Just so you know why the price point's different.
+mitchell: Yeah. And then let me look at that email one more time. You said, like, for. The billing. It says 4% of successful collections. Do you all have. Do you all sometimes not get a successful collection of.
+Christopher Hume: Just wondering that word. So you know you won't get charged if we that you submit something someone somehow slipped through the cracks you're not using us for. Your eligibility checks we submit for someone who doesn't have an insurance. Proper insurance coverage. You're not getting charged to 4% the submission if you're not getting paid. We wouldn't do that to you is what that means.
+mitchell: All right, that makes more sense. I was like, how many? No, no, non successful. Collections. Will there be?
+Christopher Hume: No, no, that's protection for you, not for us.
+mitchell: All right, cool. Yeah, so it might be interested in that later, too. But, yeah, I think November, if, like, everything's looking good, I might just do the full switch over.
+Christopher Hume: Yeah, that'd be wonderful. I guess. In the meantime, Mitchell, I'm gonna. I saw you haven't been able to take any notes yet. Just want to make sure you're able to experience that, too. So I'll bump out your trial a little bit just so you have a little bit more time to play with it and just. See. You know how our notes work. What would make sense for a check in. We'd love to just see how things are going. I know you're maybe moving, maybe not and you see how we can support user build your business when would make sense for you.
+mitchell: They will be traveling. I think we leave tomorrow for a couple vacation. But I'm still be like free in the mornings, okay?
+Christopher Hume: And it probably makes sense, Mitchell, to kind of get a little bit closer to when you'll be planning to make your. Your transition. In terms of system, just so check in, make sure we have everything you need, answer any additional questions that come up.
+mitchell: Oh, yeah? And how much more was the. Let me stop sharing my screen. Unless you don't need to look at that anymore. Oh, yeah. So, yeah. And how much more was the E prescribe? You said like everything was 2:49.49.
+Christopher Hume: So the all inclusive is 2:49. If you just want the scribe and eprescription E prescription as a standalone is $69 a month. But typically, you know, we're going to be rolling out video features. We're going to be rolling out. The future as well that I'm blanking on. But the all inclusive price will be 2. 49.
+Christopher Hume: Or that's what we at least expect.
+mitchell: I did have one other question. Is there a way to, like, schedule I want to do a Gad 7 and PhQ 9 before every appointment. Is there a way to, like, schedule those to be sent or something?
+Christopher Hume: There should. Let me check here.
+mitchell: So I see this thin form.
+Christopher Hume: Yeah. So let me show you. We're actually. Our engineers are doing a pretty crazy sprint week right now, and one of the things they're working on is fixing up the calendar.
+Christopher Hume: So Mitchell, let me tell you, they will be hearing about self service. Scheduling because I know that's a pain point for you guys.
+mitchell: Yeah. I mean, that'd be super cool. I mean, we could do it ourselves, but it's a lot easier for them just, like.
+Christopher Hume: Yeah.
+mitchell: Especially with, like, the initial ones just to, like, schedule it and it's on there. It's ready to roll.
+Christopher Hume: It ends up just sort of being a drag on your time.
+mitchell: Too, right?
+Christopher Hume: So when you go to schedule an appointment, you could choose the patient, the appointment type. The reminders you would like set. So we'll send reminder day before and you can also choose the forms you want send and when.
+mitchell: Oh cool. All right. Then I can do that for every before every appointment.
+Christopher Hume: Well, you can make this a recurring appointment type.
+mitchell: That would be cool.
+Christopher Hume: Weekly.
+mitchell: Oh, nice qa.
+Christopher Hume: 4.0.
+mitchell: All right. Awesome. Was there something else I was going to ask about? Gosh, let me see. Oh, yeah. What are your reimbursement rates right now? I know, like. I guess that would be. I guess if we. Get, like, with your credentialing? Do you all have, like, Preferred rates for, like, insurance companies? Or is it pretty much the same as, like, an individual, like, nobody, like me? Trying to get credentialed.
+Christopher Hume: Like rates in terms of how you're reimbursed, like the rate at which you reimbursed for your services.
+mitchell: Right.
+Christopher Hume: Yeah, right now we're pretty in line. Kind of. Just with standards. I would not say you're a nobody, Mitchell, but I would guess our rates would be pretty in line with what you're getting. Because our billing features are still pretty, pretty new in the grand scheme of insurance companies. Yeah, pretty standard.
+mitchell: Okay. Yeah, no worries. Just wanted to pick your brain on that one for the 4 to 8%. So I was wondering, like, what the starting point was.
+Christopher Hume: For that.
+mitchell: Yeah, okay. We can note of that real quick.
+Christopher Hume: Too.
+mitchell: And how long can I get access to, like, playing around with this thing? I know. Like, I mean, I'm not going to, like, abuse or anything. I barely have time to even, like, look at it.
+Christopher Hume: I'll extend you out for another two weeks, Mitchell, so you can play, like. Yeah, I certainly know you're. Not abusing it. So, yeah, I'll give you another two weeks after this meeting so you can play around with it, and then we can maybe check in in the spring just to see how things are going and if that October, November timeline still looks good for you for a potential transition.
+mitchell: Yeah. And you said it's, like, pretty seamless. I can just, like, pretty much. Move everything over from simple practice pretty easily.
+Christopher Hume: Yes. So we can walk you through it. Or if you just want our engineers to do it, it's typically like 300 bucks, and they'll do it for you.
+mitchell: All right.
+Christopher Hume: And then Mitchell, in terms of checking in, would maybe we could do something in mid April, maybe like the April 22nd.
+mitchell: Yeah. Let me see here. Oh, never mind. That was march. Okay. April 22nd. Yeah. What time are you thinking?
+Christopher Hume: Vacant is the same time work for you.
+mitchell: Let's see. What was that? 9:30 Central.
+Christopher Hume: Yes. Correct.
+mitchell: Yeah, that would work. So 4:22. Nine, 30. Cool.
+Christopher Hume: And just set you to meeting, invite Mitchell.
+mitchell: All right. Thank you.
+Christopher Hume: We're on the line. I'll get you extended access.
+mitchell: Nice. I think my friend setting up the E prescribe, I want to pick her brain on what she thinks of that.
+Christopher Hume: Awesome.
+mitchell: Send. Yeah, I think she got set up yesterday, is going to meet with you all again today or something.
+Christopher Hume: Perfect. Always is your friend. Who is your friend?
+mitchell: What's her name? Monica.
+Christopher Hume: Yeah. Oh, my God. Monica. I was meeting with her on Monday.
+mitchell: Yeah, she's cool.
+Christopher Hume: Yeah, she's awesome.
+mitchell: Yeah, she's another one that's thinking about leaving the country because her husband is Palestinian and they just, like, totally screwed over there. Citizenship status stuff.
+Christopher Hume: Can't imagine. It's a nightmare.
+mitchell: It is a nightmare, man. Hopefully it'll be over soon.
+Christopher Hume: Yeah, we shall see. Well, on that happy note, is there anything else I can in at least a small world of job sites that I can help you with, Mitchell?
+mitchell: No, I mean, I think everything's looking good. Especially if we can, like. Yeah. In the form thing looks more. Let's see. Yeah. I think he walked me through how to do the forms. It's kind of like, play around with that because there's, like, a little weird to get to. Forms library and then build new form. Ok, cool. Yeah. I mean, Jotag's looking pretty clean. And easy to use so far.
+Christopher Hume: So we're trying to do make it clean, simple for you guys.
+mitchell: I know it'd be great.
+Christopher Hume: The ehrs that are out there, it's unbelievable. I'm a. I'm a tech guy. We'll shadow clinics, and I watch them go through the ehr. I'm like, how do you learn any of this? You're clicking, stuff's popping out.
+mitchell: Do you ever see Meditech by chance?
+Christopher Hume: Oh, I haven't. I haven't had the pleasure of seeing that one.
+mitchell: It's like, based on Ms.
+mitchell: Dose, so you have to do like F4, F5s, F12. Like. Oh, it's awful, man. It's used by the largest healthcare corporation in the world. Hca.
+Christopher Hume: Yeah. Lucky them. Get that contract. Don't really need to innovate a ton, do you?
+mitchell: Oh, it's terrible, ma'am. All right. Yeah, thanks for getting it, like, nice and easy to use. Like, abuse so many baddie charts, it's ridiculous.
+Christopher Hume: Well, I'm glad you think that because we spent a lot of time trying to do that. So thank you for the kind words there, Mitchell. And if you need anything before April, just let me know. I'm just an email. Email away.
+mitchell: Cool. Yeah. I'm glad you all are responsive and, like, open the feedback. That's really cool.
+Christopher Hume: Yeah, we love it. The more feedback, the better. If it goes right to the engineers, right?
+mitchell: Because simple practice was like, no, we're not doing that. It's impossible. I'm like, really, dude? Easy fix of the code.
+Christopher Hume: That was certainly possible. Certainly possible.
+mitchell: Yeah, I love it. All right, well, thanks, guys.
+Christopher Hume: Thanks, Mitchell. Appreciate it.

@@ -1,0 +1,83 @@
+Jack Waugh: Cool.
+Paul Christensen: And you know, it's new, right? So I was getting something, you know, new and stuff like that. You know, I worked on templates and you know, mess did a couple of things there. So that was helpful. This morning I was actually just beginning to use the AI assistant to help move things around because like for example I didn't really like how my plans are coming up or my follow up emails and things like that. So I was like trying to, to work with that. And so I don't tons of time here to this, this today here. But you know one, I do want to continue to try to use it. So I'm okay, you know, continuing here for a little bit. I'll be honest, there are a couple other scribes out there that I do want to try maybe if this doesn't fit and that's okay. But so far like I do like in terms of behavioral health focused, like it's doing some things I really like specific, you know, I think specifically like the safety assessment I think is really good. It's like I'm stoked that you guys like have that and how it like shows up. I think that's often like a really labor of some charting aspect of it. And I think how that shows up and it's like I think that's really good because you know, I just got up, my last patient had suicidal ideations. Right. And so you know, having that there is like, you know, so it's helpful. I think that's sweet. It's really good. You know, the attention to the DSM 5 codes in this section I think is really good. There's just a couple options, you know. And so I think it's just working with the AI I think is great. Yeah, the. And so I had more questions until I started using the assistant. I was like, oh, I could just move this around. The one thing I had though was like I started goofing around with the plan and I like, you know, it's like hey, can you try this in paragraph format? No. And then like was interesting. I was trying to like make changes to the follow up email but then it actually made the changes to the plan as well. And so I had to like sort of try to tell it to like just focus on this section.
+Jack Waugh: Yeah.
+Paul Christensen: And then I was, and then I, I told the AI to do it a couple of times and it was like hey, try this, try this.
+Paul Christensen: And then eventually I was like I don't like any of that. Can we go back to what we did previously? And it didn't know how to do that, and so I don't know if the AI assistant makes changes. Can I go back to what did you first use? I don't know. Is that a thing that it knows how to do yet?
+Jack Waugh: Yeah. I'll show you how you can set that up. I'll share my screen in a second. I think I know why it did that, and you can tell me if you already tried this, but I have a feeling why it might have done that.
+Jack Waugh: So I'm going to share here, and you tell me if you already tried this, then we could troubleshoot in a different way. But my. My inclination tells me that this is probably what it is. Okay, so. Gonna pull up this, this is like a medication with psychotherapy note. I don't know if that is what you were using. Maybe, maybe I'll go to.
+Paul Christensen: I haven't, but that's actually some of like I've tried the integrative ones because me being a naturopath, but like I actually may do the E M with the psycho because I do a lot of psycho education psychotherapy, so I may include that as well. But I don't, I can't bill for those psychotherapy codes which pisses me off so much insurance. But, but so you know, my enm. But that's, that's fine. I, I, my billing is fairly simple, so I can maybe even work with that in terms of AI to like focus on how I want my, you know, if it wants to do that. So which is cool. That's nice. So cool.
+Jack Waugh: Yeah. So my inclination. So there's two things I think could have gone on there. Okay. So you said like the follow up. This one actually doesn't have a follow up email. But anyway, regardless, the section that you want to change.
+Paul Christensen: Yeah.
+Jack Waugh: Did you make sure that. Okay.
+Jack Waugh: You did make sure that it had that. Okay.
+Paul Christensen: Yep. I know, I, I know that you know in the thing here, but I was asking it to like make changes to the plan and then I click on the next one follow up and maybe it got confused a little bit, but that's okay.
+Jack Waugh: And when you use that language, did you type in like from now on on this note in this section or did you just say like the general change? Because I know if you put specifically from now like that kind of language from now on or going forward, then that's when it'll apply it going forward. But sometimes if it's like unclear instruction that that was my second thought is maybe if you just put like from now on on this section.
+Paul Christensen: Yeah, yeah.
+Jack Waugh: And then it'll.
+Jack Waugh: I, you know.
+Paul Christensen: Well, it was. Yes, I feel you. I was beginning to notice that. But it's cool because we'll add some changes. Then it will say there's that those boxes to click that it says you want me to use them now on too? So I have been doing those.
+Jack Waugh: Okay, gotcha. Good to know.
+Paul Christensen: Yeah.
+Jack Waugh: Yeah. So if you need to reset anything from there.
+Paul Christensen: Yes.
+Jack Waugh: You can go back to any of these templates here. So it's under documentation and note templates. And then if there's something you already set up and you're like, okay, let's just. This one got a little messed up. Let's just reset it and then I want to add my custom section to it, or whatever you wanted to do to it. You can always just go back to these jot psych kind of stock templates and then just duplicate one of them up here. So it's that little clipboard.
+Paul Christensen: I didn't know that's there. Okay.
+Jack Waugh: Yeah.
+Paul Christensen: Oh, and then just start it over with that template, Right? Yep.
+Jack Waugh: So if you have to add a couple of sections.
+Paul Christensen: Great. So that then brings up. So the AI Assistant, when making changes and learning my style is only template specific, Is that correct?
+Jack Waugh: Correct.
+Paul Christensen: Okay, so it's not across the board. Sorry.
+Jack Waugh: Yeah, yeah, go ahead.
+Paul Christensen: Yeah. Per section, per template. So like, you know, because there's like the psychiatric new intake and then there's the progress note. I've just been using those a little bit. So I'll have to sort of request the same types of changes separate. That's okay. That's perfect.
+Jack Waugh: Yeah, it's like one. You could think of it like one per template. Like if you do something on the summary of one type of template, you'll have to do it again. And the reason is sometimes we hear people want a totally different type of summary on one template do on another.
+Jack Waugh: And that's where it gets tricky. It's like, okay, do we apply it to all or you know.
+Jack Waugh: Yeah, so that's.
+Paul Christensen: Yeah, that's. I think that's. I think that's. I think that's great. You're right. Like, you know, when it comes to psychiatric evaluations, I really want to paragraph robust like talk and you know what it is when it's not versus like follow ups. I'm like, yeah, dude, just give me like three, five bullets. Like it's fine. Yeah, right. So in terms of like the. Even the plans and stuff like that. So. Okay, that sounds good. Those are my only questions. Other than that it's been going okay. You know, some of the things like in. In inputting brief demographics isn't fun. But I recognize if I just do that once only because that helps a little bit with the charting components. But that's fine. Doesn't take long. The one thing was like I did review, so I gotta ask. We talked a lot about consent last time, you know, and stuff like that. I looked at the consent form that jot psyche and I have a. I, Man, I can't remember where I found it.
+Jack Waugh: Let me see if I can probably understand forms here. Forms library.
+Paul Christensen: Yeah, yeah, you're. Is it my practice forms? I can't remember. I think it is in forms. Yeah. And then oops. Forms library. Yes. No, it wasn't. Where was it?
+Jack Waugh: Yeah, I'm looking forward as well. I know it's.
+Paul Christensen: I saw it and I. Originally that's why I didn't use this. Oh man. Here. Public. No, all forms. Where is it? I. It was. Okay, let me. Give me one sec here. I remember finding it. Maybe it's other. Is it other docs? No, because that would just be mine. Oh, that's right. That's where it is. Okay, I found it. It's in like the patient consent. So there's language in here that says specifically how data will be used. Documentation, jot. Psych will be used just for creation of medical notes based on conversations during consultation. These notes will be part of the medical record. Great. Compliance with laws like, you know, it's HIPAA compliant. Awesome.
+Paul Christensen: And quality assurance. The collected data may be used for quality assurance and continuous improvement at jaw psych, as well as the clinic and hospital treating you. So the last part, as well as the clinic or hospital treating you, makes sense. But the collected data may be used for quality assurance and continuous improvement. That. And I apologize and ask my first. That language is like, vague and strange and can be construed as not being HIPAA compliant. So, like, what do they mean by collected data? And then what do they mean by quality assurance and continuous improvement? So therefore, like, what is the AI or what is the scribe doing? And like, what data is it collecting? Because technically it shouldn't be collecting any data at all. But, like, it is. And so that, that, like, statement there is like, it's frankly, like, really weird. And considering we're like a hic, HIPAA compliant platform.
+Jack Waugh: And so, like, do you mind telling me what page this.
+Jack Waugh: I want to make sure I'm seeing what you're seeing too.
+Paul Christensen: I got you. I got you. Yeah, yeah, yeah. Oh, yeah. I'm not even on your screen, but sorry. Go up to the help.
+Paul Christensen: Oh, in the upper right.
+Jack Waugh: Yep.
+Paul Christensen: And then go to patient consent privacy, and then click on the download template.
+Jack Waugh: Okay, I see. Okay.
+Paul Christensen: And then it'll bring up that, that sentence. Not sure if yours is.
+Jack Waugh: Yep, I think I see it. Okay, so. And I see how data will be used. Right.
+Paul Christensen: Yeah. In that second bullet format.
+Jack Waugh: Continuous improvement. Collected data. Yeah. So here's what I'll do.
+Jack Waugh: I can do one of two things because this is something definitely for our tech team. I. After we spoke, I did confirm, like, we definitely don't store data, but I will confirm, like, the. What this exactly means in the context of, like, what we're doing with it. Because I don't want you, like, worrying and thinking we're saying one thing and then doing another thing with it.
+Paul Christensen: I would appreciate. It's an interesting statement and it's. In the world of AI, man, I mean, this is what people, like, are like, what are you doing with the stuff that we're doing? Right.
+Paul Christensen: And so, like, really knowing what. What the collected data. Like, I need a definition of what collected data, because I know this is like, my patients will ask it. Most of them have been really sweet. I've been doing just like, oral. Hey, I'm doing a trial. You cool with this? And, you know, they've been fine, but in terms of my intake forms continuing with this, like, you know, I'll have to have them sign off on it. So.
+Jack Waugh: Cool. So you just want a definition of what what collected data specifically and kind of know what that exactly means in the context.
+Paul Christensen: Yeah, they'll collect the data. Means for quality assurance and continuous improvement. So, like, gotcha. The collected. And then, like, what do we mean by quality assurance? I mean, is that like, okay, we want to make sure that. The AI is doing its thing. Like that makes sense, right? We gotta have checks and balances on this stuff moving forward. But like. Yeah, how. And is it doing that locally? Is it doing it on its server? Is it like, how is it. Yeah, so yeah, that would be. That would be great to know. Just so I can. If people ask, I need to know to tell them. Yeah, so that'd be great.
+Jack Waugh: Well, so I'll definitely get that information for you. I could probably get that for you by like tomorrow at the latest. And then if there were more questions, I could always have you meet with one of our engineers too. That way you guys could.
+Paul Christensen: That's right. You brought it up.
+Jack Waugh: Yeah, but let me try and get that first so I can at least get that information back to you.
+Paul Christensen: Yeah, that'd be cool. I'd appreciate that.
+Jack Waugh: Yeah, absolutely.
+Paul Christensen: That's it though, man. Other than that, you know, I think it's. I'm just sort of getting used to it a little bit more. I don't know how much time it actually saves me. I'll be frank. But like, I think create. If I wrote a note in the same way this thing's writing a note, it would be a lot longer. And so I think there's some aspects of like no creation that I think is more robust, which I really appreciate.
+Jack Waugh: Right.
+Paul Christensen: And I think now this morning, using the AI assistant, I think just learning how to like have it listen to me a little bit further is good. At this time, I don't. There's no need for me to have like the billing or any of that stuff. And I don't know if that will be for me moving forward as I have all those things set up.
+Jack Waugh: Sure.
+Paul Christensen: But I think for right now, you know, we'll continue with that. And I think you mentioned you have. I did sign up for it. We have, you know, put in my credit card. So will this just like move forward with a monthly charge? Right.
+Jack Waugh: Yes, you'll be on the full month to month after this. Now you.
+Jack Waugh: You can also, if you ever want to like get an extra discount on top of that. You can also pay for the year and you'll.
+Paul Christensen: That's right.
+Jack Waugh: It'll be a little bit cheaper. So you can always let me know if you decide to do that.
+Paul Christensen: But for the time being, yeah,
+Jack Waugh: you're just month to month, so you can cancel at any time now. I think what you'll find is once you get these templates set up the way you would like them to be, like with the language, I think you'll find they pretty much it's just plug in and it kind of works right out the gate. But it's just the setup in the beginning that might make it seem like it's taking a little more time.
+Paul Christensen: Yeah. You know, and some of the things is, you know, obviously, like, it doesn't do a great job sometimes with medications and supplements. And knowing like what we're doing does make a lot of mistakes there. I do realize the HPI for the most part is like pretty good. There's very rarely do I have to make a lot of changes which everyone little things here and there when I read through. But yeah, the hardest part will be like how to integrate this with my current ehr. And right now I'm copying pasting every section, but not everyone. And so I think it's I'll have to see move forward. But. It will take a little bit of time, but, like, you know, it's nice having some of this stuff here. So I really appreciate you reaching out, you know, and.
+Jack Waugh: Yeah.
+Paul Christensen: And sort of helping me scratch this itch which has been here for a little bit. So thank you. Yeah, absolutely.
+Jack Waugh: Well, I'm glad it's helping. And I'll definitely find out the answer to that question for you.
+Paul Christensen: Yeah, appreciate it.
+Jack Waugh: In the meantime, if other questions come up, you can just keep me posted. I think you'll find, like, the more you use it, the more time it'll save you, so I think everybody even knows that here.
+Paul Christensen: Yeah, that sounds good. Yeah. Cool. Well, thanks, Jack. Really appreciate it. Gotta run, but, yeah, hit me up. Send me an email here anytime you have some of that information, and then I'll maybe reply if I need to meet with your engineers to just get further stuff, like, I'm probably doing that and appreciate the invite to do so.
+Jack Waugh: Yeah, absolutely, Paul. Appreciate it. All right, man.
+Paul Christensen: Yeah.
+Paul Christensen: Good to see you, Jack. All right, later. Bye. Bye.

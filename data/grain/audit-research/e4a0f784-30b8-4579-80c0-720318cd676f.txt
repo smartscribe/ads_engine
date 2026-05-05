@@ -1,0 +1,57 @@
+Christopher Hume: Back on the front bot. So she doesn't use it a ton. Which I think is pretty telling. Which so I'm like, hey, what I need from you is next week to. Really like review it, see if you can use it. And then I want to make like a keeper kill decision. So we're not like constantly having meetings about this bot that's not changing. But what she said would be super helpful is if there was a way that jot could like, and I'm sure Jot can do this, we're just not surfacing it. Track like give her at a glance. Like what we've already said to customers, like when they've reached like that kind of stuff, which I think like the problem they were facing last time they reached out because I think. This is probably we didn't think about a ton when we were switching who was managing front every week. But she's not getting messages from the same people. She's seeing them like week after week. Because like remember like what we told them if we have something outstanding and when you're like just jumping into the fire, I don't even think about that like whatever. Let's see what I can do to help get them through the day. Yeah, that's my thought. I haven't had time to like flesh this out into something better to bring you guys. But she said that would be the real value. And I think on first glance I kind of agree that that could really up our customer support.
+Marcus Irven: Are we feeding from back into the knowledge core? Yeah.
+Lee Harrold: Yeah those are so jot like we don't have anything that would push that information into front. But if a user asks about a front. Encounter to jot ahead of time. So like let's see this works. Like if I pull up someone in front now like what's the last thing
+Christopher Hume: like hey job what did we say to them what trouble do we have? Have we what trouble do they have and have we resolved it?
+Lee Harrold: Yeah. So there's a whole thread with this guy Mason Rivera. So let's ask about Mason Rivera.
+Christopher Hume: Here while you're doing that Lee we'll we'll dual track this. Marcus did kind of unrelated but I was getting lost in a sauce with jot. So like our form shared? Across the org.
+Marcus Irven: So it looks like and just kind of. It looks like the back end supports it. But I don't think we've ever exposed it as a front end feature.
+Lee Harrold: So. Let's.
+Marcus Irven: That's my guess here. I was hoping it seems like Jack kind of got stuck. Let me kick Jot and see if.
+Christopher Hume: It's doing with the front review.
+Lee Harrold: Give me the eyes see.
+Marcus Irven: Maybe jot. I just got the eyes.
+Lee Harrold: Let me dig up what we know about Mason Rivera. Nothing in my memory but just no error. Let's check the knowledge base. Good stuff and pull up the email thread to see exactly what he said. So yeah it looks like we have. We have front in there.
+Marcus Irven: Screen.
+Lee Harrold: Oh yeah.
+Marcus Irven: Chargers really busy right now. Did he respond to you?
+Christopher Hume: Responded okay.
+Lee Harrold: You see this is the beginning of.
+Christopher Hume: Yeah cool.
+Lee Harrold: Make it bigger. Full picture okay. We told him. And we have a link to the conversation in front. What would be the easiest way to tell Joy to ask in slack?
+Marcus Irven: Okay and then see if it's useful and then we could. Because you probably could push this back into front somehow.
+Lee Harrold: Yeah like as an internal comment. Like once a day maybe.
+Christopher Hume: Yeah I feel like the issue though is like there's so many like BS tickets you know like half of them are like BS where it's just someone like. With some like asinine thing we just need to respond to
+Marcus Irven: we could have some intelligence behind it like because we already processing every front message direct to do the draft so instead of doing a draft or in addition to the draft it could be like if this is you know such and such and there is something in knowledge core because it might not always be first time won't be anything. So you know something like that just having some like if if there's some value stuff push it into a comment might be a but why don't we start with this just to see if it's valuable because let's not push something in the front if it's not.
+Christopher Hume: One yeah that sounds good I'll tell Joy I sugar feedback I'll tell Ryan Esther his feedback and then have make sure that they both take a keep a very close eye on the response to this week and so we can decide whether.
+Marcus Irven: Yeah I think that'd be great yeah if they're if they're if they're not valuable why are they not valuable if they are valuable Gray will make them more valuable and we could we can make a decision
+Christopher Hume: she did say she's like I don't really use them that much I did notice if like it seems like they're way more natural now which is good so I think like from other written standpoint we we've come a long way from herd which is good
+Marcus Irven: I like the herd but all right fair enough just everyone start start with herd emoji. All right cool cool. Can you this thread right here I'm on just type in it.
+Lee Harrold: Yeah.
+Marcus Irven: Thread and see if we can help Monica it seems like but kind of maybe test it out first but it seems like. If we made a form. Orgascoped I just checked in the database there's zero forms in the database org scoped but if we made them orgascoped it sounds like it would do what she wants it to do. So maybe for now. Test it see if that solves her problem we could just do a manually for we could also probably pretty easily build an admin tool for this. Obviously we want to build into the app but that's probably a little bit more like product thinking. All that stuff like manually do it cool and it solves our problem and awesome.
+Lee Harrold: Okay so to be clear like all of the forms in her account. We we want to now make org scoped.
+Lee Harrold: We want to make capable of being org scoped.
+Marcus Irven: Chris, are you following?
+Christopher Hume: Oh, sorry. I was going to say I think jump in semi-technical mind. I think her admin just made a bunch of forms and changing. So I'm not sure what Marcus was suggesting. Whether you wanted all those in her org level or if you just, here's what I would do. Copying them over to her account in the database.
+Marcus Irven: It's not even a copy. We can just make them shared in the same word. But here's what I do. I would one test it, make sure it actually works before we reach out to her. And say, and then assuming that it works. Just reach out to her and say, hey, look, we don't have this feature yet, but we can, we don't have this feature enabled in the front end, but we could do it for you in the back end. And what do you, what do you want? Here's, here's your, all the forms in your org. You want them all shared. Or just some of them.
+Lee Harrold: Yeah, that makes sense.
+Christopher Hume: And this is, I feel like. They're pretty good grasp of the product. And then I guess they're in for a loop. So why, while I have you guys hostage for three and a half minutes, why do we allow providers to share. Patients, but not notes?
+Marcus Irven: We'll give you a share notes. You can see other people's notes. If, well, it depends on the role.
+Christopher Hume: Yeah. If you're a provider and a provider, like if Lee and I are providers in an org, I can, and we're sharing patience. Lee, I can see Lee's patients and their demographics. And I think I can record a note for his patients where I'm like, oh, what did I talk? What did Lee talk about with Marcus last week?
+Marcus Irven: I mean, I think the short answer, Chris, is like, this is just evolved over time.
+Christopher Hume: Okay. So there's not like.
+Marcus Irven: I mean, you could argue that, hey, you know, okay, some clinics, right, they share patients see multiple providers, right? That's, that's, I think, a common thing.
+Marcus Irven: But you might not want to share the private things that you talked about, or you might, it might be like a psychiatrist and a therapist see the same patient. Maybe they don't want to like share the same things. I don't, I don't know.
+Christopher Hume: Okay. No, that's fine.
+Marcus Irven: I was just, I honestly don't think anybody's ever really thought it through and like figured out the right thing to do.
+Christopher Hume: No, it's so funny. I was just like, Lee, I was freaking convinced that you could. And it was a bug. And you're like, no, you can't. I'm like, jot's like, no, you can't. And then I tested it. I'm like, all right, I'm just crazy. I've literally thought that forever.
+Lee Harrold: Yeah, that, that came up with Alita too. Like she, she asserts even that it used to work and it's, and at some point in recent history stopped working.
+Christopher Hume: Probably a bug, to be honest. It's a bug that she found through like aggressive stress testing of every feature in our product.
+Marcus Irven: I mean, practice owners can see other nodes, right? Yes, yeah, yeah.
+Christopher Hume: Practice owners and supervisors. And I think even operations assistants, but it's just tough to make everyone in operations assistant.
+Marcus Irven: Well, it's not what we want.
+Christopher Hume: Definitely not. Okay. And then Lee, I have one more thing for you with it. You might have. Some notes on her on her team's accounts that are taking forever to load. I'll send you just a little slack about it.
+Lee Harrold: Over text. Are they, are they like, like, like how forever, like hours or like four hours? Yeah.
+Christopher Hume: When she texted me.
+Lee Harrold: Yeah, we can figure out what's going on there.
+Christopher Hume: Minimum maintenance to maintain MRR. Lee, we're just holding on to it tonight because I'm pretty that Monday for sure. Yeah, no, it's all good. I just want to make sure I don't forget. Sweet. To you. And if we can play and say.
+Lee Harrold: I have, I have a show which is going to be like, we'll see.

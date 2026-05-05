@@ -1,0 +1,30 @@
+{
+  "path": "accounts/6258528322/containers/200880687/workspaces/24/tags/67",
+  "accountId": "6258528322",
+  "containerId": "200880687",
+  "workspaceId": "24",
+  "tagId": "67",
+  "name": "Meta Purchase - First Note",
+  "type": "html",
+  "parameter": [
+    {
+      "type": "template",
+      "key": "html",
+      "value": "<script>(function(){var e=\"{{dlv_event_id}}\";var p={value:150,currency:\"USD\",content_name:\"first_note\"};if(e&&e!==\"undefined\"&&e!==\"\"){fbq(\"track\",\"Purchase\",p,{eventID:e});}else{fbq(\"track\",\"Purchase\",p);}})();</script>"
+    },
+    {
+      "type": "boolean",
+      "key": "supportDocumentWrite",
+      "value": "false"
+    }
+  ],
+  "fingerprint": "1777926007433",
+  "firingTriggerId": [
+    "15"
+  ],
+  "tagFiringOption": "oncePerEvent",
+  "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6258528322/containers/200880687/workspaces/24/tags/67?apiLink=tag",
+  "consentSettings": {
+    "consentStatus": "notSet"
+  }
+}

@@ -1,0 +1,337 @@
+Adam Harrison: Hi, Angie.
+Angie Corbin: Hello.
+Adam Harrison: Hi. How are you?
+Angie Corbin: I'm good. How are you?
+Adam Harrison: I am doing well.
+Angie Corbin: I got on to them today with the security camera, so they're kind of freaked out about peopleless voices.
+Adam Harrison: Sorry, what did you say?
+Angie Corbin: I said I had to get on to them today using the security camera, so they're kind of freaked out hearing voices with nobody here.
+Adam Harrison: Oh, no.
+Adam Harrison: And, and where are you based out of, Angie?
+Angie Corbin: I am in Mississippi.
+Adam Harrison: Mississippi. How is. How is everything down in Mississippi? How's the weather this time of year?
+Angie Corbin: It was really cold this morning and very, very windy. But now it's cool and just a little windy. Where are you located?
+Adam Harrison: I'm in New York, so we just got like a foot of snow here over the weekend. So I am, you know, trying to dig myself out over here.
+Angie Corbin: Yeah, I'm glad it's you and not me.
+Adam Harrison: Yeah, yeah. I'm jealous. But that's what I signed up for when I lived here, so I.
+Adam Harrison: I guess, I suppose that's just how it goes. Awesome. Well, I think you spoke with. Was it Nate or Chris last from our team? I'm just checking. Checking my notes here. You spoke with both of them?
+Angie Corbin: Yes.
+Adam Harrison: Awesome. And how did that go? Where did you guys kind of leave things? I know you know this call we're going to get you set up for. For billing, but just wanted to check from your perspective, you know, Anything else on your mind?
+Angie Corbin: Yeah, there's lots of stuff.
+Angie Corbin: I don't know exactly what it was. Is there a telehealth aspect with shots like. Or is that something I have to do with like doxy me or something like that?
+Adam Harrison: Yeah, it's a great question. We are working on it. Is the answer. It's a commonly requested feature, so we just did E prescribe recently and I think that next on our list. Those are like two things we hear. We hear a lot. So we're working on it, but not quite yet.
+Angie Corbin: Okay. No big deal.
+Adam Harrison: And you got set up with. Or you're getting set up tomorrow, I think on E prescribed with one of my colleagues. Is that right?
+Angie Corbin: Yes, I think so. I left my driver's license in the truck. I need to get that.
+Adam Harrison: Yep, no rush.
+Angie Corbin: I'm gonna run. I'm gonna step out and grab that real quick. I'll be right back.
+Adam Harrison: Yeah, go ahead. I'll be.
+Angie Corbin: Everywhere. Okay, So what do we do next?
+Adam Harrison: Yeah, so we can kind of jump into things here. I have a checklist of, you know, kind of an onboarding checklist of what we go through to get you set up. So we can just kind of start marching down that. I think Nate mentioned you were going to be on kind of our fast, fast track program to get you started really quickly. So we, you know, we'll get through as much as we can today, but we may need to schedule just some follow up time later in the week. But we'll try to be like, really efficient and, you know, kind of make the best use of the time. So the first step that we usually start with is, is to get access to your existing EHR or practice management platform. I think you use TBRA is what?
+Angie Corbin: Na. Yeah.
+Adam Harrison: So what we can do is if we can get like a admin account for that, we can then transfer over all the patient data on our end. So that you don't have to, like, do that, you know, manually yourself, one by one. So that's usually like a good first step. So we could probably start there if that. If that works for you.
+Angie Corbin: Yeah, there's not many, so shouldn't take long.
+Adam Harrison: Okay, great. So do you mind just pulling up your TBRA and sharing screen and I will show you how to add us to your account?
+Angie Corbin: Yes, Give me one second.
+Adam Harrison: Take your time.
+Angie Corbin: I'm not very technologically advanced, so takes me a moment.
+Adam Harrison: No rush at all.
+Angie Corbin: Ah, S. Hang on. I gotta open it. Do I have to open it in the. Yeah, I have to open it in the same browser. O. How long have you been in New York?
+Adam Harrison: Oh, I've been here a while. Maybe I went to school upstate. Then I've been in the city since then. So all in all, like 10 years or so.
+Angie Corbin: Oh, wow.
+Adam Harrison: So yeah. I enjoy it though. How about you? How long have you been in Mississippi?
+Angie Corbin: Pretty much forever.
+Adam Harrison: Born and raised.
+Angie Corbin: I've moved around a little bit, but. And always keeps bringing me back. Okay.
+Adam Harrison: All right. Very nice. Do you go by Angela or Angie normally?
+Angie Corbin: Angie's fine. Either one.
+Adam Harrison: Okay, Angie. I can do that. So can you try clicking on maybe your photo in the top right, and then go to practice settings. That's what we need.
+Angie Corbin: Okay.
+Adam Harrison: And then if there is on the left. Is there anything. Yeah, user settings on the left side.
+Angie Corbin: What?
+Adam Harrison: Then go ahead and click Add new user. And then you can do non provider on the top. And then, yeah, go ahead. And for account information, you can do Adam. And then last name Harrison.
+Angie Corbin: Yeah. Is that right?
+Adam Harrison: Yeah. 1s. Yep. And then for email, can you actually do billing? And then the plus sign? And then corbin@jotsych.com phone. I think we can leave blank for password. Let's just make something up. Maybe like, I don't know, password, 1, 2, 3, exclamation point, all lowercase. I'll. I'll change it after I get logged in. Probably.
+Angie Corbin: My husband just walked in. This is Chris. I don't know if you can see him or not.
+Adam Harrison: I can't see him, but. Hi, Chris.
+Angie Corbin: Hi.
+Adam Harrison: Yeah, that. That works.
+Angie Corbin: I didn't feel like it felt right.
+Adam Harrison: Yep.
+Angie Corbin: I know that one. Didn't want to do wrong.
+Adam Harrison: Oh, you got a squiggly there. Yeah.
+Angie Corbin: All right, let's include different cases, and I'm gonna make the P capitalize.
+Adam Harrison: Okay. Thank you. Yeah, it's always. They always make you do that.
+Angie Corbin: I can't stand Tamra.
+Adam Harrison: All right, and then can you just pick all of the roles just so that will kind of make sure we can get what we need and we don't. I don't think we need. We don't need emergency access. I'm not sure what that is. Leave that blank and then create user. All right, there we go. I'll have to add my photo in there later, so you can see me on there, but if you don't mind, I'm just going to take 30 seconds and make sure that all worked, because you'd be surprised how many times it doesn't. And just while I'm doing this here, do you mind filling me in a little bit on kind of yourself and your. Your practice and kind of, you know, it's. I assume you're kind of in a. Are you in a solo practice doing.
+Adam Harrison: Is it a mix of telehealth in person?
+Angie Corbin: I have to let my in person go, so I'm only doing telehealth. Right now.
+Adam Harrison: Okay.
+Angie Corbin: I am solo. I thought it was a good idea to try to do it all on my own. No, it's not.
+Adam Harrison: Okay. Were you doing like, Alma and Headway and those beforehand or something?
+Angie Corbin: I do Rolla part time.
+Angie Corbin: You know, when I have patients, I've done one person with Headway and was not. I'm not satisfied with headway at all. I've just kind of ignore them headway.
+Adam Harrison: Like the platform is.
+Angie Corbin: I wasn't getting any patients from them.
+Adam Harrison: Oh, interesting.
+Angie Corbin: So I just haven't. Yeah. The clinic that I was working at shut down unexpectedly right after Christmas in 2024. So that was a surprise to everyone. Yeah, that's about it. I don't have many people in my practice because, Deborah, they're. I don't understand their billing and their support's not really good. So I have lots of outstanding claims. We don't think they understand their ability.
+Angie Corbin: Yeah, because they can't give her a straight answer about anything.
+Adam Harrison: Okay. Well, that is frustrating. I'm sorry.
+Angie Corbin: Very.
+Adam Harrison: So you've been using Tebra for how long now or. When did you. Let me. Sorry, let me back up. When did you first you kind of. Your independent credentialing.
+Angie Corbin: October. September. October 2024.
+Adam Harrison: Okay. And then when did you start, you know, kind of seeing patients through Tebra?
+Angie Corbin: We used them at the clinic that I was employed with, so it was the only platform that I was familiar with. But when I opened, my practice was in. Like I said, October 2024.
+Adam Harrison: Got it. Got it. Okay. Okay. And so the. I just got signed into Tebra. It looks like there's maybe like a dozen or so patients in here. Are these the patients that you're seeing independently and the rest are through, like Rula or something like that?
+Angie Corbin: Yes. I would like to try to grow my practice. I have a little more time to put to it right now than I did previously.
+Adam Harrison: Okay.
+Angie Corbin: Got it, got it.
+Adam Harrison: Okay, so these would be probably the patients we would at least start with though, the ones that are in Febra. Okay. And there. Are there any that are not included here?
+Angie Corbin: No, not in my private. Not for just me. I have some with Rula, but not, not for me.
+Adam Harrison: Okay, perfect.
+Angie Corbin: She had a few. Transfer over to Rula.
+Adam Harrison: I see, I see. Transfer from Rula to where to or transfer from?
+Angie Corbin: I had some that came with me from the previous clinic. Actually, that's where all of them came from. Is from my previous employer. I've tried to bring some other people in, but because I was only doing telehealth, they really weren't interested because they were local.
+Adam Harrison: Got it.
+Angie Corbin: And then also because the billing is so discombobulated, it just really wasn't. Wasn't worth the headache.
+Adam Harrison: Okay, got it. All right, I think this is clear. One other question would be as far as, like, we can get into more of this later, but just while we're on the topic, as far as like, what kind of care you provide? Do you do a mix of med management and psychotherapy? Add ons or just med? Just one or the other.
+Angie Corbin: Both.
+Adam Harrison: Okay, you do both. Got it. Great. And then you're using job site pretty regular regularly for like your notes, is that right?
+Angie Corbin: Yes.
+Adam Harrison: Okay, got it. And do you usually save your patients in jot psych or you just do like a new note every time they're saved? They're saved in there. Okay. Because we could probably just merge them in so you can, you know, you'll have all their history in there. One other thing I want to ask is about how you're doing, like co pays or things like that. Are you doing that through Tubra or.
+Angie Corbin: Sometimes.
+Angie Corbin: Sometimes I want to think about it.
+Adam Harrison: Okay. And do you, how do you do that? Do you have like their credit card on file or.
+Angie Corbin: I do.
+Adam Harrison: Okay, perfect. Perfect.
+Angie Corbin: But the, the problem I'm having with Tebra is my applying the copay because I have people with negative balances that I've not received anything but maybe one or two copays. So there, you know, there's no way that. That's right.
+Adam Harrison: Got it. Okay. Okay. We'll have to look into that. All right, great. Well, thank you for kind of giving me the rundown there. If, if it's okay with you, I'll just share my screen. Screen quickly just so you have kind of a lay of the land of you know, where we're going.
+Angie Corbin: If I was wanting to stop sharing mine.
+Adam Harrison: Yeah, yeah, if you don't mind, that would be. That would be great.
+Angie Corbin: One question that I did have. Do you, does jockslight dictate what bank I have to use?
+Adam Harrison: Great question. So there's a few different options for how that can go. There is, you can just have payments go to your bank account directly, which is one option. Another option is we will, we have like an intermediary account that would be just. It's with our banking partner Mercury. So that would basically the way it would work is it would flow into Mercury for like a one business day and then into your bank account. And the only advantage of doing that instead would be we can do like reconciliations between what your claim was, what the ERA says and what the bank says to make sure that all those things are actually lining up. So I, it's kind of up to you. You know, it is like, you know, your money. So I understand like your inclination either way. But yeah. And we can also like talk through that in more detail when we get to that stuff. Do you have like a strong initial preference there for one way or the other?
+Angie Corbin: I like the sound of the reconciliation. What is the time frame from once it goes to the bank where you're reconciling?
+Adam Harrison: So we would do, we would normally kind of report out on like a monthly basis of what's happening just to make sure like hey, for January, this is what was submitted, this is what the eras came back and this is actually what was deposited in your account. And you know, we would usually meet with you once a month and kind of like go over that.
+Adam Harrison: And then if there's anything, you know, odd we would be, we would be like obviously acting on that sooner than like a month. But that is like kind of the default meeting cadence. And if there's issues, we would like bring that to and on a more of an as needed basis.
+Angie Corbin: So if I'm understanding that correctly, there'd be basically a 30 day lag time reconciliation before she would actually see payment.
+Adam Harrison: Oh no, sorry. So you would actually get the payment like one day later. Just as far as like our kind of reporting cadence right now that's more of like a monthly time horizon. But if it was like really important for you to review more regularly, we could, I don't see why we wouldn't be able to like do that more often. You know, that's just kind of the default.
+Angie Corbin: Okay.
+Adam Harrison: But you'd be getting paid right away in either case. Sorry, does that answer your question?
+Angie Corbin: Yes.
+Adam Harrison: Okay. Okay, awesome. So I'm going to share my screen here. This is going to be a little scary because it's going to look like a long list, but it's not as bad as it looks. So this is kind of, kind of our checklist here. So we just actually kind of went through this which is, you know, just talking about your practice. We also did this, which is going through your sort of ehr. Nate. I'm not sure if Nate did this with you or not. It may not be relevant for Tebra, but we can do sort of an analysis on what's happening there.
+Adam Harrison: I don't think we would have done that because we just got access now. So we can definitely like circle back to that if it's helpful. But if you're not getting any payments at all, I don't think we're gonna find too much there. Okay then. So where we are kind of currently is setting up our clearinghouse which is. We use a. A partner clearinghouse called Steady and just. There's like a setup process there to kind of get that connected to your Jot Psych account. It's like a one time setup.
+Adam Harrison: You'll never have to look at Steady again. But we don't act, we don't. Like we didn't build our own clearinghouse. We use like a partner for that. Everything will actually just be within JOT psych. So. So you won't have to look at that again. And then we'll kind of go down the list here. But basically the other things are getting all your credentialing information right? Like how are you credentialed with each payer? You know, make sure we have the right. Did you do an individual mpi? Did you do an organization MPI for when you got credentialed? What's your fee schedule look like? You know, all that, all that fun stuff. And then there's some other stuff here. This is more, this is all kind of more around the payment stuff. So you can submit a claim. This is to make sure we actually know what happens to that claim and that you get paid. Patient payments. That's another piece here. CO pays everything else. We'll do the data transfer of your. It'll be super quick because there's not like a ton of patience to do. And then we'll walk you through how to kind of do the workflow within Jot Psych and that's basically it. So it looks like a long list. In reality, I think we can kind of speed through a lot of this today and then do like, a follow up maybe later in this week. To kind of close everything else out.
+Angie Corbin: Okay.
+Adam Harrison: But any initial questions on that? Otherwise, I will just go ahead and get us started right here, if that's okay with you.
+Angie Corbin: Well, I'm going to have to collect my credentialing information for all the. Provide the insurances, so. Yeah, may take me just a bit.
+Adam Harrison: Yeah, no worries. And sometimes if it's easier, you can also, if you worked with like a credentialing service. Oh, you. Did you do it all yourself?
+Angie Corbin: Yeah.
+Adam Harrison: Okay, so yeah, we'll kind of like talk through what we really need there and what's more nice to have, because I know that's going to be like, probably a pain to. So I give you a lot of credit for doing that all on your own. It's. I'm sure it was.
+Angie Corbin: Maybe it was not easy and that's why I'm in the situation I'm in.
+Adam Harrison: Yeah. Yeah. All right, well, the next step here is the clearinghouse setup. So. So would you be able to go to steady.com? i'll put it in the chat here. And actually before, before you do, for your email, do you use like a Gmail or do you use. Do you have like a business email that you use?
+Angie Corbin: I have a business and I also have an Outlook that I use.
+Adam Harrison: Okay, got it. All right, so it should work just fine then. So I'll put it in the chat. I don't know. Can you see the chat there on the bottom of your screen?
+Angie Corbin: Yes, sir.
+Adam Harrison: Awesome.
+Angie Corbin: Okay.
+Adam Harrison: All right, so go ahead and click sign in or sorry, sign up free on the top. And if you want to share your screen, I can kind of help to walk you through.
+Adam Harrison: Okay, take your time.
+Angie Corbin: Okay.
+Adam Harrison: All right, so you're going to do the first one, which is Healthcare Clearinghouse.
+Angie Corbin: Oh, get on the right screen.
+Adam Harrison: There you go.
+Angie Corbin: Is it not going to take my.
+Adam Harrison: Oh, it doesn't like Outlook. I think it wants something like, like.com is like a business domain. Do you have a business domain? Otherwise there's a link I can send you that'll work.
+Angie Corbin: Or I do not.
+Adam Harrison: Okay, hold on. Give me one.
+Angie Corbin: Wait, I don't have a look. No, I don't because I didn't pay for it.
+Adam Harrison: Yeah, no worries. Give me one minute. I have a link here. I will send you. Okay. All right, so try giving this one a click.
+Angie Corbin: I'm not sure what I just did. Let's see here. Oh, sugar. Okay. That's what I did. It took me right back to the same place.
+Adam Harrison: Yeah, it'll look the same, but this one should let you to your regular email.
+Angie Corbin: Okay, let's.
+Angie Corbin: Let's see here. Use my government name. One of them spelled wrong. I gotta pick the right one. Okay, Yeah, I'll change it later. Okay, so sign up.
+Adam Harrison: Yep. Go ahead and sign up. It's gonna make you do all this.
+Adam Harrison: Like two separate confirmation things you'll have to do.
+Angie Corbin: Lord have mercy. I can't even say that. So you're not following. Why is it not sharing this with you? There we go. Share this tab and see it. Okay.
+Adam Harrison: Yeah, just do basic. You won't. Oh, yeah, sorry. You'll need to just enter a name so you can do, like, your practice name. Yeah, okay.
+Angie Corbin: Basic.
+Adam Harrison: Basic, Yep. You don't. You don't pay for this. We. We pay for it on our side. So, yeah, just do Basic and then agree the terms. And you'll just need to do your. Your zip code.
+Angie Corbin: He's getting there, I suppose.
+Adam Harrison: There it goes. Oh, yeah. That's why we budget a lot of time. There's all sorts of fun steps involved. Sometimes. This might. I can actually speed this part up because we have a contact steady, So they should be able to approve this if I just message them. Hold on.
+Angie Corbin: It.
+Adam Harrison: Okay, well, this is loading. Should we just talk a little bit about the payer and credentialing stuff? So which payers are you credentialed with? Do you know?
+Angie Corbin: Blue Cross, Blue Shield of Mississippi, United Health Care, one of the Tricares Optum over North, One of the Medicaids and I think Medicare.
+Adam Harrison: Gotcha. Okay, that's helpful. Do you know, for your current patients that you're seeing? Because we could also maybe start with those. Do you know, is that like a subset of that broader group?
+Angie Corbin: They're all Blue Cross, Blue Shield.
+Adam Harrison: Okay, so that's the one we should really prioritize if we had to right that in.
+Angie Corbin: And tricare. I really want to try to get into seeing more VA patients or VA patients.
+Adam Harrison: Okay, Great. So, yeah, I think I'm happy to like help you find it, you know, live on this call if you want. But essentially what we need are like just those initial credentialing documents. And I can send you an email that actually outlines like.
+Angie Corbin: Okay.
+Adam Harrison: Specifics of like each document and what we're looking for. But basically there's a few things. One is your, your kind of payer contract and that'll be this like 50 page PDF document that, you know, I'm sure you read very closely and.
+Angie Corbin: Oh yeah, all that jazz.
+Adam Harrison: So that's one. The other one is usually you get like a welcome letter and that just confirms like your NPI and what they have like in their system for you. The third one is like a fee schedule. So that just tells us like what we should be billing for each code. And then sometimes there's some additional ones for Medicare and Medicaid, but we'll. I can kind of like share that like offline with you. There's your Picos number and all that stuff.
+Angie Corbin: Okay, I have that somewhere.
+Adam Harrison: Awesome. All right, well, we may need to kind of maybe come back to this step because it looks like it's going to take a long time here unfortunately. So why don't we kind of move to the next stage here which would be getting your going actually into your job site account.
+Angie Corbin: All right, I gotta remember my password.
+Adam Harrison: All right, there we go. So you. Have you gotten patient payments set up in here by chance or like your Stripe account? Does that sound familiar at all to you?
+Angie Corbin: I do not.
+Adam Harrison: Okay, no worries at all. Do you mind zooming out a little bit? And then we will be able to kind of see the menu.
+Angie Corbin: You may have to walk me through that.
+Adam Harrison: If you hit. Are you on a Mac or PC?
+Angie Corbin: PC.
+Adam Harrison: Let me see. So if you hit Control and then minus, that should zoom out a little bit.
+Angie Corbin: Hey, you learn something every day.
+Adam Harrison: There you go. Yeah. So can you try going over to. Let me see. I gotta remember here because I just did this a minute ago. Oh, and sorry, what was the email you used to sign up for steady there? They're asking me.
+Angie Corbin: Let me send it to you because it's kind of weird.
+Adam Harrison: Or the organization name. That works too.
+Angie Corbin: Oops.
+Adam Harrison: Oh, there we go. Got it? Yep. All right, I'm gonna send it. All right, so. God's sake. Now we can go into. Can you go into. Sorry, I lost your window here. Yeah. Can you click on billing and auditing on the top and then click on Bill patients and when it drops down or Bill clients, and then, yeah, go ahead and click get started. And what this does, basically is it's gonna. This is our payment partner, Stripe. I don't know if. Have you used Stripe before?
+Angie Corbin: I believe so.
+Adam Harrison: Yeah. So they just. Basically this will. This set up here will allow you to get like in jot. Psych you. Or, or I could hit like request payment and then they will either get a text message. If you don't have their credit card. If you do have their credit card, it'll just charge their credit card and that'll just go right into your bank account.
+Angie Corbin: What is the current use of the credit card?
+Adam Harrison: That is a good question. I will have to let you know. I think Stripe has like a 2 or 3% processing fee or something like that. I can check and let you know.
+Angie Corbin: Okay, thank you. Excuse me. Oh, goodness.
+Adam Harrison: So are you seeing here this sign in to Express screen?
+Angie Corbin: Yes.
+Adam Harrison: Okay, so let's go through that together if that's okay with you. Just. Just in case you have questions as we go along.
+Adam Harrison: Okay, I'm still seeing. What screen are you seeing right now? I'm seeing like an email address screen.
+Angie Corbin: Yes, that's where I am.
+Adam Harrison: Okay.
+Adam Harrison: So, yeah, go ahead and enter whatever email you want to use and do continue. Sorry, it's not. It's not a fun.
+Angie Corbin: No, I'm just. I don't. I never know whether I want to use my business number or my personal number.
+Adam Harrison: Yeah, no, I totally get it.
+Angie Corbin: Somehow people are finding me on the interweb and using my personal number and I don't like it.
+Adam Harrison: Yeah.
+Angie Corbin: Okay. Sorry. I'm trying to get up to a contractor about getting my house levels. My steady account has been approved. Said it sent me a code. Can I close the tabra?
+Adam Harrison: Yeah, go ahead.
+Angie Corbin: I got too many things open. Okay. Payment from these? Clinical trial? No. Oh, shoot. I got to put a different phone number in. Hang on.
+Adam Harrison: Okay.
+Angie Corbin: Okay, so that wants what's on my driver's license, correct?
+Adam Harrison: Let me see here. Yeah, I think so.
+Angie Corbin: Yeah. Every single cotton picking name I've ever had on here. But we're going to just go this.
+Adam Harrison: It?
+Angie Corbin: I don't have a website anymore. Add product description instead.
+Adam Harrison: Yeah, that's probably fine. Whatever you want to put there.
+Angie Corbin: Okay. It wouldn't let me put a space in there. Not a valid URL, This call.
+Adam Harrison: Click. Try clicking on the Add product description instead. That might open a thing.
+Adam Harrison: There you go.
+Angie Corbin: Okay. Charge customers.
+Adam Harrison: Yep.
+Angie Corbin: Okay. It's not going to be on there.
+Adam Harrison: Oh, no, it's like a local bank or something. Okay. You might have already set it up already.
+Angie Corbin: I have a strike with Pepper.
+Adam Harrison: Oh, okay. Well, that's good.
+Angie Corbin: Possibly.
+Adam Harrison: That may save us a little time here.
+Angie Corbin: I don't know if that's it or not. That's not my checking account number.
+Adam Harrison: Okay, so I would probably do a new one then.
+Angie Corbin: Yeah, I'm going to have to go find a check because I don't know what my account number is. Hey, Chris. You can't hear. Let me run grab a checkbook real quick. I'll be right back.
+Adam Harrison: No, yeah, no problem.
+Angie Corbin: It. Where's the foundation?
+Adam Harrison: All right, I think that worked. So do you mind clicking on request payment and just see. See if that brings up a screen there. Okay. Perfect. Awesome.
+Angie Corbin: Hey, stop.
+Adam Harrison: All right, so I can kind of walk you through how this works. I think you're on our, like, more essentials plan, which means that you would be doing the patient billing part of this, and we would be doing all the insurance stuff. Okay, so basically how it works is. Is at the end of the session, you would just like pick a. You would. You would click Request payment. You could do this from like the patient profile or, or from the note. There's like a button to get to this screen. And then you would just pick the client from the dropdown. So if you click into where it says client. Yeah, you should see all your kind of patients there. So there. Yeah, you can just pick one as an example. It won't, it won't do anything. You would enter, you know, the amount. And the only thing you do need is a phone number for your patient. Do you have that in Tebra?
+Angie Corbin: Probably not.
+Angie Corbin: Okay, so those are mostly rule of patients.
+Adam Harrison: Got it. Okay, so yeah, there's. Yeah. So you would just need to get like a phone number from them the next time you see them. And then you could like add it to their job site profile. And then you would go to this screen and you would request a payment. And then from here it'll go directly into your. Your bank account.
+Angie Corbin: Okay.
+Adam Harrison: I do want to also show you one other thing is. So this assumes you don't have their credit card on file. So what will happen is they will get a text message. It'll be like a secure message from, you know, from Angela or Dr. Corbin or, you know, however you. You want to be set up.
+Adam Harrison: They would click a link and then they would complete the payment on their phone. Or you can get their credit card info and then you can add it to their account. And so it'll just go directly to their card right away. And if you have. Yeah, I can show you how to do that quickly if, if you want.
+Angie Corbin: All right, so just click cancel out of this.
+Adam Harrison: Yeah, yeah, go ahead and cancel that. And then go to.
+Angie Corbin: Yeah, go to.
+Adam Harrison: Pick one of your clients.
+Angie Corbin: I've kind of played around with it just a little bit.
+Adam Harrison: Yeah. And then on the left hand side, you should see next to overview, on the left should be like a payments button. It's kind of hidden there. It's on the left right above where it says record now.
+Angie Corbin: Oh, okay.
+Adam Harrison: Yep. So then you would just click add payment method, that button, and then that, then that will bring up a screen to put in their credit card. And it's pretty straightforward. And then that bottom tab there, invoices, you can see like everything that you. You've requested what's open, what's paid. And then if you go to billing and auditing on the top and go to bill clients, you will also see like a full list across everyone populate here so you can see like the whole. The whole shebang. Awesome. Well, I think let's maybe jump back over to steady if that works for you. Because I think it's been approved and I just want to make sure that you are able to log in.
+Angie Corbin: Okay. Okay. What is mfa?
+Adam Harrison: Oh, that's going to be like Google Authenticator or one of those things. Have you had to do that?
+Angie Corbin: Yes. And. Well, I have the Microsoft Authenticator app. Microsoft.
+Adam Harrison: Yeah, that. That. You could do that one too. Either one.
+Angie Corbin: Okay. Oh, okay, I see. Okay, I see what it is now. Oh, I'm lazy. Well, I didn't do what it was supposed to. It's not going to. It. Maybe it did. Hang on. Manual setup. Oh, Lord have mercy. Verify the code from the app. Okay, so I gotta add it to my app, correct?
+Adam Harrison: Yep.
+Angie Corbin: Maybe this is. I don't know if this work or not. Nope. Okay, so I gotta add it somehow.
+Adam Harrison: You might need to just. Yeah, might need to like take a. Use the. I'm not sure because I can't see your screen, but.
+Angie Corbin: Oh, I'm sorry.
+Adam Harrison: That's all right.
+Angie Corbin: Let's try this and see what happens.
+Adam Harrison: So let me see if I can help. I think I have Microsoft Authenticator. So I think what you have to do is go to. On when you get into the app that's not yet.
+Angie Corbin: Okay.
+Adam Harrison: There should be a bot. A button on the bottom, right? Like a blue. A blue button. So, yeah, go ahead and hold that up to the.
+Angie Corbin: There it is.
+Adam Harrison: And then that should give you a code you can use. There you go. All right. And then that's the last time you'll have to ever do that.
+Angie Corbin: Okay.
+Adam Harrison: All right, cool. So let's go ahead. And the last step here is just go to apps on the top. And sometimes this will take a minute to load, but.
+Adam Harrison: Nope, it's ready. Okay, great. So then go ahead and go click on Jot Psych on the bottom.
+Angie Corbin: Is there a mobile app for Jot Psych?
+Adam Harrison: We have. You can, like, log into Jotsych on your browser, on your phone. We do have a mobile app, but I think, honestly, it's like, a little bit out of date with the current software.
+Angie Corbin: Okay.
+Adam Harrison: Yeah, Right. And then this sometimes takes like 30 seconds or so.
+Angie Corbin: Okay.
+Adam Harrison: All right, and then where the. The API key at the bottom.
+Adam Harrison: Can you copy and paste that into the chat? I just need to put that into your Jots like account on the back end. Perfect. All right, let me see if I can do this now quickly.
+Angie Corbin: I appreciate you coming on so late with me.
+Adam Harrison: Oh, no problem. I appreciate you staying on late in your day too. All right, do you know which of looks like you have a few different jobs like accounts? Do you know which one is active of. Is it PM HNP at Outlook or is it the Hotmail one?
+Angie Corbin: Do you think? Outlook.
+Adam Harrison: Outlook.com?
+Angie Corbin: right.
+Adam Harrison: Okay, let me just make sure that's.
+Adam Harrison: So I have note, the most recent Note from Like 3 days ago in here. Does that seem right?
+Angie Corbin: I didn't even realize I had another one.
+Adam Harrison: Yeah, sometimes the sign up can be a little confusing and you actually accidentally will create like a new account when you think you're just signing in. I've certainly, certainly done that before too. All right, so I'm going to set this up really quickly. I'll just make sure this all works. And your, your clinic name. Rebuilding Resilience. That okay?
+Angie Corbin: Yes, sir.
+Adam Harrison: I like it.
+Angie Corbin: Thank you. That was my goal.
+Adam Harrison: All right, so this gets into the fun part here, which is kind of like we can either do this now or we can wait till you have the payer docs, but we need to set up your billing identity which would be like what the billing NPI is that you use. That could be your individual npi. Could also be if you have an NPI for Rebuilding Resilience. And then the legal name, you know, the address, all of this. The important thing is that it just matches however you set up your credentialing. That is like the only thing to keep in mind. So if you know it off the top of your head, we can do it now. But if, if you want to like review your docs first, we can also do it like later in the week.
+Angie Corbin: I know I have one that uses my NPI2, but everything else uses my NPI1. Okay. Required you to get a separate one.
+Adam Harrison: Okay, awesome. So maybe I'll switch and I'll share my screen now if that's okay. And I will just maybe have you help kind of type in these fields for me. I can zoom in here.
+Angie Corbin: Yeah, I'm old. My eyes don't work very good sometimes.
+Adam Harrison: So you're in. I think this would be your individual npi.
+Angie Corbin: Okay. It's 1144-965-8879.
+Adam Harrison: All right. And then we either need like an ein or ssc. And depending how you set it up.
+Angie Corbin: All right, it's 99. 4470. 277.
+Adam Harrison: Does that look right?
+Angie Corbin: 994.
+Adam Harrison: Okay. And is this Rebuilding Resilience or something else?
+Angie Corbin: No, it's Rebuilding Resilience.
+Adam Harrison: Resilience llc.
+Angie Corbin: I guess that matters. I don't know.
+Adam Harrison: Yeah, good call. And then the address.
+Angie Corbin: Just use my home address. 202buckley.b u, C K L E, Y. Jones Road, Cleveland, Mississippi, Miss.
+Adam Harrison: Oh, sorry.
+Angie Corbin: 38732.
+Adam Harrison: All right. And then contact. We can do. Do this.
+Angie Corbin: My number for that one.
+Adam Harrison: Oh, no. Well, I'm just getting our support number so you hopefully don't have to deal with. Deal with these calls. So this address, is that your. Like what you did for your credentialing, do you think?
+Angie Corbin: Probably. For some of them. Not for all of them, because I didn't have an office when I did my credentialing.
+Adam Harrison: Okay, let's just keep it for now and, you know, we. We can, like, come back to it later if needed. So let's see if that works. Invalid npi. Let's see. I might have done the wrong. Is this the right thing here?
+Angie Corbin: 1-444-965-8879.
+Adam Harrison: Yeah, that does look right. Oh, let's try adding a taxonomy code here. Are you a psychiatrist or psychiatric nurse practitioner?
+Angie Corbin: Nurse practitioner.
+Adam Harrison: Okay, Let's try this again. Check digits. Interesting. This is your mpi, though.
+Angie Corbin: Right. Uhhuh. Supposedly. I mean, double check it. Remember where I saved it?
+Adam Harrison: Could be an error on our side. So I'll just have our. Have our engineering team look at it. But. But yeah, that. That works. We. We should have kind of. What. And then as far as payers, you said the main one was Blue Cross Blue Shield of Mississippi.
+Angie Corbin: Mississippi.
+Adam Harrison: See if they need enrollment. Okay. We will need to enroll. So that will take a little time. So I will just do that separately. Okay. All right. I'm going to come back to our checklist here and then I think we can wrap up because we already have. I'm looking at the time we went a little over what I said we would do, so Sorry about that.
+Angie Corbin: It's fine.
+Adam Harrison: All right, so I think this is done. This is done.
+Angie Corbin: I see what the problem is.
+Adam Harrison: What's that?
+Angie Corbin: I gave you the wrong NPI number. I wrote it down incorrectly.
+Adam Harrison: Oh, okay. I can fix it now if you have it. Ready?
+Angie Corbin: Yeah. 1, 1, 449-6-589-8.
+Adam Harrison: Okay, let me try that one. All right. That looks good. That. That worked.
+Angie Corbin: Okay.
+Adam Harrison: Okay, so just kind of recapping what we got through today and what's kind of next. I'll come back to our checklist here. Okay. Zoom in a bit. Oh, sorry. I gotta do that here. Okay. So we did. We did this. We talked about your practice. We got access to Tebra, got Bill. I think we're skipping that for now. We did steady. This one we'll need to do still. So I'm going to bold that. We did this. We're going to have to do this. I will do this on my side. This as well. Still need to do. I will do this on my side as well. We did stripe, so that's done. We're going to do that tomorrow with Lee. We didn't really do a walkthrough of how to like submit something to our billing team and jots.
+Adam Harrison: Like we'll do a separate. Session on that. I think this is probably already a lot of information so we'll save that for, for a later day and then yeah, that's, that's pretty much it. We, that's kind of the whole thing. So let's talk about this payer document piece. So like I mentioned there'll be basically this is like the 50 page PDF. This will be like your welcome letter with you know the effective date and you know all the NPI and address and all the other information on just how you're credentialed if you did something like ELF link that's more of a network like a single thing that you enroll with that gives you access to a network. I don't think that applies here but you know you should also have a fee schedule as well. So it's just really these first three things. But yeah, I think you know I'll just send you an email that kind of outlines all this in terms of what we need specifically and, and then we can regroup probably later in the week and go through this. What is a good time for. I guess question would be how much time do you need to kind of like find all the payers. When do you want to regroup kind of after that?
+Angie Corbin: Well let's see. I have a meeting tomorrow with somebody about something I think that's with Lee.
+Adam Harrison: He's going to be doing the E prescribed stuff and that'll be like the main thing for tomorrow I think.
+Angie Corbin: Okay. And then I've got Thursday at the same time like 5:30 Thursday.
+Adam Harrison: Let me just make sure that works. It should work. Hold on. Yeah, why don't we do Thursday at 5:30?
+Adam Harrison: Okay, so I'll send, I'll send an invite. Yeah so on that one we'll go through the payer doc stuff. Hopefully if you can send it ahead of time that would be really helpful. And then we'll also do sort of a, a training on how to like actually mark something as like hey I want job site to bill for this. Like there's a few steps, it's pretty, it's pretty straightforward and then, and then that's pretty much it. We can handle a lot of the stuff that. That needs to happen with getting the payers and things set up on our side. I think actually since since you are on our like basic plan, the, the default there is payments will just go to your bank account and we won't be doing like the reconciliation that's actually on our like full service model, which, you know, I don't, I don't think you necessarily need right now, just given the number of patients you're seeing, but certainly just something to think about for the future, but. Well, yeah, we should be able to kind of like get everything we need this week and then, you know, I'll probably for sure have some insurance issue that pops up and I ask you for something. So we'll just be like very much in touch after that. But a lot of the heavy lifting should be done this week. So thanks for making the kind of investment up. It's a lot of work.
+Angie Corbin: I appreciate it.
+Adam Harrison: All right, well, have a good rest of your evening and I look forward to seeing you in about 48 hours.
+Angie Corbin: All right, see you then. Have a good night.
+Adam Harrison: All right, good night.
+Angie Corbin: Bye.

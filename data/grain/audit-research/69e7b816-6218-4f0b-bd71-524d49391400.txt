@@ -1,0 +1,152 @@
+Jack Waugh: Hi, Janice.
+Janice Wentworth: How are you? I'm good. How are you?
+Jack Waugh: Doing great. Doing great.
+Janice Wentworth: Good. Let me turn up my volume, Shut my door so I can hear you better.
+Jack Waugh: Hold on. No problem. Take your time.
+Janice Wentworth: Okay.
+Jack Waugh: Awesome. Yeah. Well, good to speak face to face. I know we chatted a little over the phone before. Yeah. Yeah. Just kind of wanted to ask, like, how you kind of found out about jot psych and what. What made you interested in trying us out?
+Janice Wentworth: Well, I mean, I've tried jot psych, Jet psych out, I think a year ago. And I was. I did the. Like the free week or. I can't remember what it was, but I was trying out a bunch of different ones and I wound up going with Deep cura for a while, but they're. It's like so complicated. Yeah. So I. Then I started. I've been using up heel for the last six months, I think.
+Jack Waugh: Okay.
+Janice Wentworth: And I like that because they have the telehealth integrated into it.
+Jack Waugh: Gotcha. Yeah. Meaning like you can do remote visits.
+Janice Wentworth: Yeah. And.
+Jack Waugh: Yeah, yeah, we. We have that as well, but that's good to know. Okay. Yeah. And as far as uphill goes, is there anything you're. Anything else you like about it or anything? Maybe you wish it could be doing a little bit better.
+Janice Wentworth: I. I like it because I have therapy included in all of my sessions, but it. I feel like it's more. More towards therapy, so if I do a psych eval, it doesn't have everything that I need. And I know I could probably go in there and change stuff around, but who's got time for that?
+Jack Waugh: And when you say psych evaluation, are you talking about, like, medication with psychotherapy?
+Janice Wentworth: Okay. Yeah.
+Jack Waugh: Yeah, Good to know. Yeah. So we actually have a template already set up for that in. In jots. Like, I'll show you how that works. Okay, cool. And anything else that you maybe wish it could do a little bit better? Are you, like, anything else you're finding? Like, is it saving you time on notes at all or is it. Are you still spending a lot of time?
+Janice Wentworth: Yeah, no, it saves me a lot of time. I don't really have to change a lot of the wording. I know with AI, they don't. It doesn't get everything perfect, so you still have to go in there and fine tune what was said sometimes. But it's. It's been pretty good. Overall. I wish it had more because it's more geared towards the therapy. It doesn't really have a lot of the icd. I would like for it to have the CPT codes. There are, like, justification, billing, certain things.
+Jack Waugh: Yeah, we do actually. We auto match icd, CPT and DSM codes. All right there for you, so.
+Janice Wentworth: Oh, good.
+Jack Waugh: Okay. Yeah, I'll kind of walk you through and share my screen in a second. And just so you can get an idea of kind of what we do, basically, we're one of the few scribes, we might be the only one actually trained specifically for behavioral health clinicians.
+Jack Waugh: So, you know, people who switch over to us find a few things. One, they find they save a lot more time on their notes just because you don't actually have to edit the note if it's more accurate, you know? Yeah. And that's the other side because it's so customizable and because it's already set up with so many templates that are built for psych professionals, it really is more accurate out the gate and people find it just works better for what they're hoping it's going to do. Yeah, I'll kind of show you that and, you know, walk you through all that. But. And are you. Are you like a solo practitioner or is it just you at your practice?
+Janice Wentworth: Me?
+Jack Waugh: Yep. Awesome. Very cool. Yeah. And, oh, also, I meant to ask you. So it looks like you had maybe done a trial recently or I don't know if maybe I set you up with that. I can't remember. But did you get a chance to use JobSec at all?
+Janice Wentworth: Not, not this, not in the last year.
+Jack Waugh: Okay.
+Janice Wentworth: No problem. I did have a trial. It was under a different email address, so.
+Jack Waugh: So let me do this. If you actually want to log in, I'm going to share my screen. And because I know we had already extended that for you, I think. So let me. If you want to log in while I'm, like, walking you through, that way you can kind of, like, follow along with what I'm doing.
+Janice Wentworth: Did you send me an invite there?
+Jack Waugh: It's. I can give you the. Email. It's under. If that helps. It's. Unless you want to use a totally new email address.
+Janice Wentworth: I would be using the Jana at Brighter Days.
+Jack Waugh: Yes. Yep, that's the one I have here. So if you log in, you should be able to get access.
+Jack Waugh: Now, Do I have a password that I don't know, but
+Janice Wentworth: because I got logged in under this email before, so.
+Jack Waugh: Yeah, no, and take. Take your time with that. If for some reason that. That's like the account we have you under for this, but you know, if it doesn't work or something like, you can take a second to reset it or whatever. Whatever you need to do. Just that way I can, like, as I'm doing stuff, you can follow along so you know how to, like, get to it when you use yourself. And I'll go ahead and share here.
+Janice Wentworth: Oh, it looks like I have another account in the same.
+Jack Waugh: Foreign.
+Janice Wentworth: I do not remember logging into this under this email address, so maybe I did it in my sleep. I do that sometimes.
+Jack Waugh: It's possible. You know, let's see. I'll double check that. I'm pretty sure it's. Yeah, jana@brighterdays mhw.com right?
+Janice Wentworth: Yes. I'm just gonna reset it right now.
+Jack Waugh: Take your.
+Janice Wentworth: All right, All right. Passwords changed. Now I can go.
+Jack Waugh: Yeah. And while you're logging in there, I'll make sure I show you all those things you were just mentioning. You know, telehealth is definitely something we do as well as, like, the psych specific evaluation. So I'll kind of walk you through where those templates are and how you set that up.
+Janice Wentworth: Okay. All right. Oh, got it.
+Jack Waugh: Take your time.
+Janice Wentworth: No rush at all. Sorry. You said it. Are you. You sharing your.
+Jack Waugh: What do you. I'm. I'm sharing mine. I. I just was gonna see if you wanted to log in, so that way you can okay along with it. But, you know, if. If you're not in yet, that's okay. I can just show you from my end.
+Jack Waugh: I'm logged in. Oh, okay. Perfect. Awesome. Yeah. So basically, and just feel free to stop me anytime if like, a question comes up or something. But I'll kind of just walk you through the basic, like, workflow using JOT Psych. So the first thing you're going to do is go over to your record window. So once you're in this record window, that's at the top of your screen panel here.
+Janice Wentworth: Okay.
+Jack Waugh: You can type in the patient name if you want to. You don't have to. Some people prefer to leave it blank. It's totally up to you. And the way it works is you go to session, type here. And I think for your case you would be looking at this one that says E/M plus add on psychotherapy.
+Janice Wentworth: Yeah.
+Jack Waugh: So that's. That would just be like the template that you can select. We have a bunch of different templates as well, and you can actually, like, customize them too. But that's probably your kind of bread and butter template right there.
+Janice Wentworth: Yeah. Oh, select patient. So manage patients.
+Jack Waugh: Yeah, so you can actually add new patients just from this window here. You don't have to go to a new tab, but if you want to add someone from this, like, record window, you just hit this plus sign for new patient, and you can just type their first and last name and any information.
+Janice Wentworth: Got it.
+Jack Waugh: All right. Yeah, yeah. So if I just select this patient here and then basically all you need to do from there is just hit start recording.
+Janice Wentworth: Okay.
+Jack Waugh: And I'll let this go just for a second. Obviously, we don't have to, like, go through a whole pretend patient encounter right now, but I'll kind of like show you some notes that it's done for me, like in these, Like, I'm not a psychiatrist, but I've used the software several times just to see kind of how it works. And I'll show you preloaded things that I've done in here, give you an idea what it looks like. Okay, so once you're done, you just hit stop recording. And then you're going to hit. See this generate note button here? Oh, and actually, you know what? Before I do that, I'll tell you this. See these buttons over here? Yes. So these are your settings for telehealth over here.
+Janice Wentworth: Okay.
+Jack Waugh: So to start session with headphones for telehealth, you just click this button and you can click the microphone settings here. But other than that, it'll work for you for telehealth right off the bat.
+Janice Wentworth: So.
+Jack Waugh: And then, yeah, when you're done, the other cool thing, the reason we do it this way is in case you want to make other recordings, you can do a few recordings or add additional notes down here if you'd like. But other than that, once you're ready to go, you just click that generate note button. And it normally takes like less than 30 seconds. I mean, that one obviously was really quick because we didn't actually do a real note. But I'll show you what an actual note looks like down here. This is. Okay. Yeah. So this is an example of something that's a medication and psychotherapy template. So I'll let you read through this. I'll kind of scroll slowly.
+Janice Wentworth: Okay.
+Jack Waugh: So any medication changes will get picked up. Substance use, chief complaint, hpi.
+Janice Wentworth: Okay.
+Jack Waugh: History, medications, review of systems. Okay. And then here's your psychotherapy session. About ICD and billing as well. So I'm going to show you how you can add that to this template specifically. We actually have that loaded in another template, but if you want it on this one, it's really easy to do. And I'll also show you this. Let's say this summary section here looked a little short to you, and it could be on any of these sections. You just click this. And then we have this AI note assistant here. So you can tell it from now on on this template, right. In bullet points on this section and it'll actually format it that way for you Forward.
+Janice Wentworth: Yes. Okay.
+Jack Waugh: All right. As long as you type in like from now on or going forward, then it'll know every time I want this section to output this way. Okay. Yeah, it's a huge time saver. It just makes it so you don't have to like, actually keep editing the note later.
+Janice Wentworth: Yeah.
+Jack Waugh: Yes. So let me also show you. And then basically, when you're done with the note, you would just hit copy all sections and it's ready to go. You can paste it right into your ehr. Okay. Before I show you the codes and how to add that section, does that all make sense so far?
+Janice Wentworth: Yes. Real quick. So with the telehealth, there's. Is there an actual telehealth where I can connect through job site to the telehealth?
+Jack Waugh: Oh, so as far as telehealth, we don't have a direct telehealth platform in job site, but we do work alongside any telehealth platform or any sort of like video call platform.
+Janice Wentworth: Right.
+Jack Waugh: So yeah, we're not, we don't have like a, an individual call thing set up in Jot Psych, but it will work with any, you know. Yeah, any call system.
+Janice Wentworth: Okay. That would, I would just have to do that, figure out who to use for that.
+Jack Waugh: Yeah, and honestly, like, most standard ones should integrate. It's really just your mic setting up, you know. But that's computer end. Like as long as that's set on your computer settings, then you should have no problem getting that here. Okay, so I'm going to show you how to actually edit the template too, because I know you had mentioned the codes. So see if you click documentation here and then note templates. So what we're going to do is we're going to scroll down to our psychotherapy template here and you may need to, you actually need to copy it first to edit it. So just hit this duplicate button and then you'll see you can add all these sections here. Okay, so let's say one of the sections I'm going to add is dsm. Just came up there. There we go. And you can add the DSM codes from there. There's also a section for ICD and CPT code. Cmt. Icd. Yep, right here. And let me pull up another note where you can actually see what that looks like. So like in our intake template, we already have those loaded in. Okay. Okay. So yeah, we'll auto match all of the DSM codes for you.
+Janice Wentworth: Okay.
+Jack Waugh: And same thing with ICD and CPT codes.
+Janice Wentworth: Okay. Oh, nice. Okay.
+Jack Waugh: Yeah, just a huge time saver so you don't have to like go and look all that up on your own.
+Janice Wentworth: Yeah, that's good. Okay.
+Jack Waugh: And does that make sense how you would add that to that other template?
+Janice Wentworth: Yeah.
+Jack Waugh: Yep. Cool, cool. And then something else I'll show you that's really cool. If you go over here to your patient tab, there's a lot you can do just like looking at the patient chart within Jot Psych. So. If I click this patient here, couple things. I don't know if you send forms to patients at all.
+Janice Wentworth: I do.
+Jack Waugh: Yeah. So I know something we hear is a complaint for people is like having to dig through their email and see like, okay, who sent me what form, when is, you know. So the nice thing is if you do it through JOT Psych, all of their answers will actually just show up in JOT Psych in one place. And the way that works is you can actually just send the patient a form. So like we have a ton of like the various forms here.
+Janice Wentworth: Yeah.
+Jack Waugh: Yep. Like the PHQ, the Gad7.
+Jack Waugh: That's, that's cool.
+Jack Waugh: Just a nice feature if you choose to use it.
+Jack Waugh: Yeah, I'm sorry, I didn't mean to cut you off there.
+Janice Wentworth: What? What? That's okay. I just switched over to OzMind, so OzMind has that feature too. But this, I really like the, the layout. It makes it easier to, to navigate.
+Jack Waugh: Yeah, it's just kind of like you can see it all in one place because then like down here their recent like diagnosis will come up. Their most up to date medication history will come up. So it's nice to like have that all kind of in one spot.
+Jack Waugh: Yeah, I'll show you this too. I don't know, do you spend a lot of time having to write like certain clinical documents for patients, like an accommodation letter or.
+Janice Wentworth: Okay, so.
+Jack Waugh: Yeah, well this, this is like a super common complaint. I know. It is also a big time eater. So we'll actually write you that automatically for you.
+Jack Waugh: So if you just click this documents button, like academic. I mean it can be anything. You can type in whatever. This is just one example. We'll write you an academic accommodation for this patient if you want it to be a prior authorization. Pet accommodation, whatever it. Yeah, cool.
+Janice Wentworth: Okay. I do like that.
+Jack Waugh: Yeah. And again, it's just there to save you more time and you know, make it so you can actually be more present with your patients and not have to like get bogged down and all of the, you know, all of the paperwork all the time.
+Janice Wentworth: Yeah.
+Jack Waugh: So I'll pause there really quick.
+Jack Waugh: Does that, does that all make sense so far?
+Janice Wentworth: It does, yes.
+Jack Waugh: Okay, cool. Awesome. Well, yeah, I'm glad to hear it. Any other questions about JOT Psych in general?
+Jack Waugh: How it like works, how you set it up? Okay, cool.
+Janice Wentworth: No, I think it's pretty, pretty straightforward.
+Jack Waugh: Awesome. Well, yeah, well, what I can do then you have the two weeks and on top of that I can give you a month for $20. So that way you can get. I think it gives you, like, 45 days to keep using jot psych, and then we can touch base in a couple weeks from there. Does that sound good?
+Janice Wentworth: Yeah. Yeah, so I'm not playing around with it.
+Jack Waugh: Awesome. So I'll show you how to set that up. I have to approve it from my end.
+Jack Waugh: Okay, so you're gonna just go. To see this. Your practice button up here.
+Janice Wentworth: Yeah.
+Jack Waugh: You're going to click that and then you're going to click on subscriptions here.
+Janice Wentworth: Okay.
+Jack Waugh: And then do you see this Manage subscription button? So you click that and it should take you to a new page. I'll reshare my screen so you see what that looks like. Let me know if it asks for your email, but I don't think it will. It should look like this.
+Janice Wentworth: Yep.
+Jack Waugh: Okay, awesome. So if you click on the add payment method here, once you have that in there, I'll go ahead and approve you for the discount.
+Janice Wentworth: Okay. I don't have them to speak to me. Let me go find my. Get my purse.
+Jack Waugh: Yeah, no problem. Take your time.
+Janice Wentworth: Oh, there's two of them. So interesting.
+Jack Waugh: Oh, yeah, it's the top one. Okay. That's from like your last.
+Janice Wentworth: Oh, okay. Okay.
+Jack Waugh: Okay, cool. So it should take you back to this page and you should just see like the last four digits of your card here. Do you see that?
+Janice Wentworth: Yeah.
+Jack Waugh: Okay, perfect. Yeah, Once you see that, then I can. I'll approve you now for the discount.
+Janice Wentworth: Oh, I got it on both of them. Two prescriptions. I need to stop one of these. What the heck?
+Jack Waugh: Oh, did it show? Okay, if you can share your screen with me, I can tell you if it. Sometimes that happens where it shows two, but I think it should just charge you for one. Are you able to share your screen?
+Janice Wentworth: Yeah. How do I share? Tell me.
+Jack Waugh: I don't know. I know it's different in, like, every. Everyone. Okay, so on Google Meet, see the bottom of the screen? There's like a little computer icon with like an arrow.
+Janice Wentworth: Okay.
+Jack Waugh: Yep. And then you just share that tab specifically.
+Janice Wentworth: I think that's it.
+Jack Waugh: Let me see. No, I think you're okay. I think it's just actually scroll up just a little bit.
+Janice Wentworth: Let me get over there.
+Jack Waugh: No problem.
+Janice Wentworth: I don't. The bottom one, because I think I subscribed to both. Let's try.
+Jack Waugh: Let's try it. Let's try it. I don't think that should charge you twice, but let's make sure we. Okay. Okay, cool. Yep, you're good to go.
+Jack Waugh: So, okay, preview for that and then let's also meet. Maybe, like, do you think by next week, would that give you enough time to try this out with maybe 5, 10 patient encounters?
+Janice Wentworth: Let me see what it looks like next week.
+Jack Waugh: Or we could do one more week after that. Just whatever works best.
+Janice Wentworth: Yeah, let's do not next week, but the week after.
+Jack Waugh: Sure. How is. How's Thursday, February 5th for you?
+Janice Wentworth: That's good. We want to do 12:30 again.
+Jack Waugh: Yeah. And can you remind me, are you Mountain time? Yes.
+Janice Wentworth: Okay. Arizona time, whatever that means to you.
+Jack Waugh: Yeah, yeah. Yes. So actually, would you be able to do noon your time?
+Janice Wentworth: Yeah, sure.
+Jack Waugh: Let's go ahead and do that. And basically from now until then, if you're able to try and make maybe like 10 notes with this, that would be great. That way I can help you answer any questions and you can let me know if anything pops up and I'll. We'll go from there.
+Janice Wentworth: Okay, that sounds good.
+Jack Waugh: Awesome. Well, Janice, I'm looking forward to hearing how you're finding everything and also excited for you because I know this is going to save you a ton of time and hassle, so definitely excited for you to have this in your practice. Me, too. Awesome.
+Janice Wentworth: All right, Jack. Thank you. Hope you have a good rest of your week.
+Jack Waugh: Yeah, you as well. Talk to you on the fifth.
+Janice Wentworth: Thanks.

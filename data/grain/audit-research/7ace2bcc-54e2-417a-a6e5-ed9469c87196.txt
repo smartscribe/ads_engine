@@ -1,0 +1,108 @@
+Becca Bressler: Hey there, Christophe.
+Christa Aslanian: Hi.
+Becca Bressler: How are you doing?
+Christa Aslanian: I'm doing well. How are you?
+Becca Bressler: I'm doing really well. So nice to meet you.
+Christa Aslanian: You as well.
+Becca Bressler: I'm Becca. I am Jotsyke's product manager, and I'm excited to get you set up with our eprescribe. That's what we're here.
+Christa Aslanian: To do.
+Becca Bressler: So to start, can I ask you to share your screen? So what I'm going to have you do is pull up, but then it's going to open another window as well eventually. So ideally, you're sharing your window. You'll notice it'll like on. On Google, meet it, it'll say, share your Chrome tab. But then if you scoot over to window, then I can see the whole thing. Krista, tell me a little bit about yourself. What is drawing you to.
+Christa Aslanian: Are you using? Psych? Nurse practitioner. I've been doing this quite a while. And it's helped me, like, in both, like, you know, acute practice and outpatient practice. But what I'm ultimately wanting to do is. So is it fair to say that, like, now jopsych with person use psych as like my ehr? 100%.
+Becca Bressler: You can sign your notes in EHR we store securely for seven years as we're, you know, obligated to. So 100% that's what we're hoping for. Yeah.
+Becca Bressler: Yeah, that's what I figured.
+Christa Aslanian: I was like, I just want to use jot psych like I love it. It's been really helpful to me. As long as we can get it going here. Okay, so. Let's see. What am I trying to do? Share tab.
+Becca Bressler: So the share button. Let me know if you need help finding it. Google Meets.
+Christa Aslanian: Kind of annoying, but I'm like, in this weird world of, like, Google Meets. Pilot. Like, I'm just like, where is all of my stuff sometimes, do you know? Like. I'm like, is that everyone or is that me? Okay, so let's see. I don't see it. Where is it? Oh, here. Share screen, share.
+Becca Bressler: Screen. Oh, great. And yeah, just choose window. It'll pull up like, you'll see some options of what to share.
+Becca Bressler: And if you choose a window that Ms. Johnson week.
+Christa Aslanian: Perfect.
+Becca Bressler: Amazing. Okay, fantastic. So the first. Oh, this is an interesting view. Just. I want to ask you about this page, actually. So you only see audit, you don't see Edit.
+Christa Aslanian: Yeah, I can switch it. I can do both. I can either do audit or edit. Okay, great.
+Becca Bressler: I just wanted to make sure. Okay, so to get you up and running, what we're going to do right now is we're going to head to your practice, that tab up top. On the navigation, so you're at documentation, and if you just, like, scooch over. Oh, I think I might have lost you, Krista. You froze a bit. Oh, you're back. You're back. You're back.
+Christa Aslanian: Okay?
+Becca Bressler: Okay, so if you. If you click your practice up top or you hover over your practice. And then press get to clinicians. That first Tab clinicians. Awesome. So the first thing. Oh, you have it added. Okay, great. So the next step, then. Can you go to Practice Settings? It's one of the tabs here.
+Christa Aslanian: Practice settings. There we go.
+Becca Bressler: Exactly. So you've done identity proofing. So the two factor authentication. So you prescribe controlled substances is. Great. So did you do that step? Let's. Let's hit go to account settings for a second.
+Christa Aslanian: I do want to ask that. So I did. But, like, okay, let's see if it's working. Oh, it worked. Okay. It must have just taken a couple of days. I was like, I would like to open this, can you? You can still see my screen, right?
+Becca Bressler: Yes. So let's.
+Becca Bressler: Let's hit open and see what happens. You can exit out of this. Yeah. So you'll see a task. But actually, Krista, give me some feedback there. What was taking two days to see?
+Christa Aslanian: Well, it was weird. It was like I was the identification with Experian, and, like, it was just this hiccup. Like, I was like, okay. So I couldn't. I couldn't, for whatever reason, like, verify my identity through experience. So then it gives you the option. To. Gives you the option, like verify your identity through. What is it? Health ID or whatever.
+Becca Bressler: Yeah, so you got an error is what you're saying, because dose spot. Yes, I know what you're talking about. Dose spot. They're like ID proofing thing is down, so they direct you somewhere else. But then it's extremely. But it's very unclear after that step, like, Call them.
+Christa Aslanian: And honestly, why I'm kind of here because I was like, I need to make sure. I mean, if I'm going to start using, just like I need to make sure I can prescribe drugs, so.
+Becca Bressler: So, Chrissy, you were doing this on your own. Like, you were. You were setting yourself up on your own. No one has walked you through this. Okay, great. No. Yeah. This is so annoying. I know. Exactly what you're talking about. And they said they're going to address it, like, by April 1st. But anyways, let's keep going, because I can. I can help you with. So if you go over to the prescribing tab that you had just opened, you'll see a notification. A red notification. So this is for the Two Factor Authentication. Step. And this part's a little annoying. Like, confusing. So I'm here to walk you through kind of messages.
+Christa Aslanian: Right, send me. Passcode in the demo. App.
+Becca Bressler: So this is where you have to go to that second text you got. You should have gotten two texts.
+Christa Aslanian: Yes. Okay, so the second one. And that's one. This is where I put in the.
+Becca Bressler: Yeah. So you're going to open that up, and that will give you the passcode that you have to type in.
+Christa Aslanian: Okay. Gotcha.
+Becca Bressler: Text you should see.
+Christa Aslanian: Hold on.
+Becca Bressler: Let me know if you have any questions.
+Christa Aslanian: Hold on a second. Do I open the fern or not? Go to the second one.
+Becca Bressler: Oh. So you have to open the first one first because that's how you get the app for this two factor authentication. But you'll get to a place with the first text where you're like, what do I do? It says QR code. And that's how you know that you know that that's. Then you kind of hit the wall on the first text, and then we go to the second one.
+Christa Aslanian: Okay? Open.
+Becca Bressler: The first one.
+Christa Aslanian: Well, I can open it. Like I've had that. App, so I'm just, like, wondering why it's not letting me.
+Becca Bressler: What does it say when you open it?
+Christa Aslanian: It says, welcome back. Let's get your accounts connected. So then I say, continue, and it does nothing.
+Becca Bressler: Okay, so can we open the second text then? Let's see.
+Becca Bressler: This might be because you already have it.
+Christa Aslanian: Failed invalidator has expired. Please contact your administrator for new activation code.
+Becca Bressler: Let me see what I can. Yeah. Let's see what I can do on my. Hey, Krista, what's the name of the clinic you set yourselves up with? Yourself.
+Christa Aslanian: Mountain Bluebird. Psychiatry. And that's my own practice.
+Becca Bressler: Great. So, let's see. You just look on. Okay, so, ID proofing complete.
+Christa Aslanian: Here we go.
+Christa Aslanian: Oh, yeah, I've got it. Sorry.
+Becca Bressler: Oh, no. Do you mind telling me what happened just so I can duo?
+Christa Aslanian: I went to the app because I actually had the app on my phone. Okay. And so this is coming up now as Dose Spot. Okay. And it comes up. I have a passcode, and it says refresh passcode.
+Becca Bressler: Okay, so let's go back to the notification, because I think we need to get back to that step to pass it in.
+Becca Bressler: You might then get another text, but let's.
+Christa Aslanian: Let's see what time. Yeah.
+Becca Bressler: Let's see. Yeah, let's see what happens. And then hit next. And then I think you're likely to get another text, but let's see, another two text potentially. Yeah, let's give another second and then if not, we can go back to the 897197 is the. Yeah, the passcode. Let's try the passcode that they gave you. Hopefully you're not going to need another one because we. And then this pin is for you to decide. So it's kind of whatever you want. Yeah. Amazing, okay? We are in. So now you can start prescribing. You shouldn't have an issue. The way to do that through JOT Psych, we're making some updates so that you should be able to do it on the record screen very, very soon. Right now, though. I can show you. If you want to go back to Jot Psych until it's on the record screen, I can show you how to do this. So if you pick a patient. Let's just maybe an upcoming patient or any patient, just to kind of show you how this works. So you see where it says set patient up for ERs. So for one, there will be a one time setup for your patients where you're going to have to input their information. Once you do that, it's like one click. So once you've set, you'll hit prescribe and it will open. In in dose spot.
+Christa Aslanian: Okay?
+Becca Bressler: Okay, so there's not, like, a double setup putting in additional patient information, but that's how you get there. Do you have any other questions? You want to, like, walk through one together or.
+Christa Aslanian: No, not at all. Yeah, I'm. I'm. That was it. Yeah. Great.
+Becca Bressler: Amazing. Crystal. Well, you. You have my email. Keep in touch if you have feedback, things you don't like. This is like new. You're, like, one of our early adopters, and so we want to make sure. Like, improving it and building it in a way that.
+Christa Aslanian: Yeah, and if you need other psycho writers, I can help. I've honestly been using so, you know, as my scribe. So, like, yeah, I was. I just love it, and I'm so, so.
+Becca Bressler: Think there are other prescribers who might be interested in getting onboarded for prescribing.
+Christa Aslanian: I know. To people use it. The best for psych. Honestly, like, to me, it's just best. So I've used a few different. Yeah, also.
+Becca Bressler: Also, Krista, there's a referral. I don't know if you've noticed this on your home page. If you want to go to the Jotsyc homepage. For a second, like you can get credit for this. So there. You have a referral link. Someone will get $50 off their first month, you'll get $50 back, and it's an unlimited referral rate. It's not like it's not one time you can do it as many times. So anyways, just so you get some credit for putting the word out, I just want to point out.
+Christa Aslanian: Totally.
+Becca Bressler: Yeah.
+Christa Aslanian: Awesome.
+Becca Bressler: Awesome. Well, thank you so much. Well, Krista, actually, while I have you on here, we're about to roll out telehealth. What do you use for telehealth right now?
+Christa Aslanian: I am using. Zoom. Okay, let me just tell you what I My situation. I am now working from home, back home, working from home. And I have a job that I work like. Across the country from home, but seeing patients in the er because that's, like, where my history is from. But I've been working, like, kind of a side hustle, like with Page, and then I've just asserted my own practice. And so I haven't really seen. Telehealth patient. With Mountain bluebird psychiatry, if that makes sense. Mountain blue country is my business. Seen, like through. Getting referrals through headway. And so what I was planning to do was just to use Health Zoom, the HIPAA compliance zoom.
+Christa Aslanian: Okay, but if there's going to be health platform. We'll use it.
+Becca Bressler: Yeah, so. So we're about to roll that out, actually, and I'm looking for within the next week or two. I'm actually looking for beta users right now. Would you be open to that? We could, like, set up.
+Christa Aslanian: I would love that, yes.
+Becca Bressler: You have any upcoming appointments do you have any upcoming appointments with that via, like, telehealth. And I could say, like, I could walk you through how it works, and I could be like, hey, Krista, do you mind using this with a couple of your patients and telling me how it works?
+Christa Aslanian: Absolutely can have a couple of. I have a couple of patients next week that we could do that with.
+Becca Bressler: Okay. Amazing. That is so awesome. Let me. I probably need a little bit of time to get.
+Becca Bressler: Yeah, let me just email you. But, like, I would love to. That's. That's great.
+Christa Aslanian: I'm just, like, getting started with my own business. I have a couple patients I used to see and I'm seeing back, and they want to see me through my private practice, so they'll be flexible as well.
+Becca Bressler: Okay. That's fantastic. It's so great to meet users who are game to like, try and stuff and give us feedback. Have you tried the jaw audit feature at all? I'm just curious if you've.
+Christa Aslanian: The audit feature. Yes.
+Becca Bressler: Yeah.
+Christa Aslanian: I love it. Yeah.
+Becca Bressler: Go ahead.
+Christa Aslanian: Yeah.
+Becca Bressler: What's your feeling about, like, purchasing it? Right. So, like, we give you a certain amount of month. Did you look into purchasing it? Like, what. What was your. Okay, and can you just talk to me a little bit about why, like, what was your experience that made you not consider that or if you like it?
+Christa Aslanian: Well, the only reason I didn't was because I ultimately, like, hadn't been, like, submitting anything through job site for billing.
+Becca Bressler: Okay.
+Christa Aslanian: I mean, I have to a degree, but I'm pretty good, too, at, like, looking. I know what criteria I feel like I need to meet. I've been doing this a while, so it's like, for the. I typically. But I. Not to say I wouldn't use it. Like, honestly, I think it's a great tool. I actually look at it a lot, to be honest with you. Like, what I am doing is like copying and pasting and so. Make sure to follow up.
+Becca Bressler: It totally does. But I guess part of what I'm hearing from you is, like, it's a cool tool, but it's not valuable enough to you that you would pay for it necessarily. Like, you're cool with only getting a limited amount.
+Christa Aslanian: But again, like, this is new to me, so, like, I could use it for my own business. The other thing I'm wanting to do is I'm going to do, like. The reason I actually would use it is I am going to start doing, like, in home, like, geriatric psychiatric capacity evaluations for the elderly. So that as long as I'm a, you know, that to me is an audit to 100% use, then, because I'm going to be submitting that to Medicare. Right. And so those are evaluations that need to be spot on and like to make sure that I don't miss any of the elements, but when I've been using jot psych for the past, like. However many months. Like, I'm working at practice. Like, I'm submitting everything, and it's pretty. Like, I know. Like, if it's a pretty standard adult psychiatric evaluation. I mean, I've been doing this seven years. Like, I know what elements I have to hit to get reimbursed. I. Know what you know. I know the msc, the safety, like, all the psychiatric val, that type of stuff. So I've never had any issue, knock on wood, with reimbursement. Per se, but like, I could potentially with this, my new business, because. And that is a reason for me to use audit, if that makes sense.
+Becca Bressler: Totally. What is your plan for how you're going to do billing with your private practice?
+Christa Aslanian: I have no all my billing. Oh, I was going to use headway.
+Becca Bressler: Okay?
+Christa Aslanian: For Billy.
+Becca Bressler: We. So we also have, like, a billing service that we're rolling out. So I don't know if it's too early for you because of where you're at in your process of building your practice, but if you are interested in learning more about that, so we have. We're like. Integrated with a clearinghouse, and people are, like, submitting bills through job psych. So whenever the time is right for you, if that's also something that's interesting just to, like, consolidate your tool, streamline it.
+Christa Aslanian: I would be. Totally honestly, if Jot Sayk had everything I needed for my practice, I would use it.
+Becca Bressler: Yeah, we also are doing, like, credentialing now, which I know is something. Yeah. So as. As you get up and running, I mean, if you're interested, I can put you in touch with the team. Now, if you want to just kind of wait until you're up and running, you and I can keep in touch about that. Whatever, like, feels right for you.
+Christa Aslanian: I would love to get in touch with the team now.
+Becca Bressler: Okay, great. Let me. Yeah, I will facilitate that. I'll do an intro and then they can take it from there.
+Christa Aslanian: Please, with any and all.
+Becca Bressler: I am going to shoot you an email so we can set up the, like, telehealth piece and get you up and running to test that out next week. But yeah, we're super excited about all of this, so I am as well.
+Christa Aslanian: It's awesome. So awesome.
+Becca Bressler: Have a great day.
+Christa Aslanian: You too. Bye.

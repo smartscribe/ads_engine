@@ -1,0 +1,212 @@
+Lee Harrold: Doing good. It's a Friday. I'm hanging in there. I'm ready.
+Crystal Hooyman: Yep. I've been painting all morning, so I.
+Lee Harrold: Yeah, like, for fun. A new. A new. A new location.
+Crystal Hooyman: Walls, a room in my house. Okay.
+Lee Harrold: That's brutal. Yeah. Yeah.
+Lee Harrold: I'm glad you brought the arm race. That's good.
+Crystal Hooyman: Turning it into an office. So that's the nice part.
+Lee Harrold: In anticipation of work. That's. That is.
+Crystal Hooyman: Yes. Yes.
+Lee Harrold: All right, so let's see. JOTRx. Okay, Crystal, can you tell me. Let's see. Let's get. Let's start by getting jsycon running on your side. And then you can show me your screen and then I can kind of walk you through this process. Yeah, yeah, let's. Let's go for it.
+Crystal Hooyman: One second. I already have it up and running, so I can do that.
+Lee Harrold: Oh, nice. Yeah. You way faster than me. You don't need me.
+Crystal Hooyman: I use it every day for work because I. I was using something else, but then I trialed this and I really liked it. So went to just this. And then I saw yesterday. I'm like, oh, they're. They're prescribing now.
+Lee Harrold: I need to look at this. We're. We're pretty. We're pretty excited about it, I think. I think we're going to be able to help a lot of people.
+Crystal Hooyman: Yeah.
+Lee Harrold: Okie doke. So go ahead, click on your practice right next to record at the top of the bar. Yep. Go to clinicians or practice settings. Either one of those. Okey doke. I'm looking for a bar. Looking for a bar at the top of your section. Not seeing. What's kind of weird. Can you click on the record screen?
+Crystal Hooyman: Sure.
+Lee Harrold: Sweet. Record different patient. Unless. Unless we want to schedule a session for lunch break.
+Crystal Hooyman: No, not usually.
+Lee Harrold: We're not here either. Let me check Something kind of tough to onboard if we got nothing to. No boats.
+Crystal Hooyman: I like boats, but not here because it's cold here right now. Where are you? Wisconsin.
+Lee Harrold: Oh, man. I lived in.
+Lee Harrold: I lived in Madison for like a year and a half and I was. That was a very cold year of my life.
+Crystal Hooyman: It was gorgeous. This whole last week, like we broke some records for highs. Like we hit 59 on Monday and Tuesday, but now it's like 30 and snowing.
+Lee Harrold: That is unacceptable.
+Crystal Hooyman: It is brutal.
+Lee Harrold: The bait and switch.
+Crystal Hooyman: Yes.
+Lee Harrold: Here is your org id. Let's make sure that your org ID has this.
+Crystal Hooyman: So the big reason why I'm looking for being able to prescribe is because myself and we'll say a co worker are branching out and starting our own thing. We've already kind of started but into options for being able to prescribe scribe. Because the facility I work 1099 for has a EHR. But I don't want to use. That makes sense.
+Lee Harrold: They didn't, you know, see.
+Crystal Hooyman: Yeah.
+Lee Harrold: Like. Crystal, what are you doing?
+Crystal Hooyman: Crystal, you're coming.
+Lee Harrold: Okay, I see. I see what had happened on this end. Cool. All right, let's. So in like, I don't know, 10, 15 seconds, we should be able to see the banner that we're looking for. Well, that's exciting. That's exciting. To branching out and starting to see, like clients with your own practice.
+Crystal Hooyman: Yep, yep. It's. It'll be. It's been a lot of work, but, you know.
+Lee Harrold: Yeah, that's gonna be a game changing. Okay. And you're. And so you're setting up this office. So you're probably looking to telehealth. Is that. Is that the.
+Crystal Hooyman: Yep. We're going to do mostly telehealth until we get a building. So to say. We had been renting a little place, but they just like almost tripled the rent for it and it's literally a room. So. Yeah, we're going to find something different for that.
+Lee Harrold: Which part of Wisconsin are you in?
+Crystal Hooyman: I am in like the Kaukana area and then the practice I work for is in Green Bay.
+Lee Harrold: Gotcha. Okay. Okay. Yeah, that is. That's a cold part of Wisconsin.
+Crystal Hooyman: Yeah, it's a little chilly.
+Lee Harrold: All right, let's. So I'll have you refresh your page and we'll see what we see. Still nothing. Can you go back to your practice?
+Crystal Hooyman: Sure. There.
+Lee Harrold: Hey. Sweet. All right, let's. Let's click that button. Should take us to the clinicians page. Cool. Now there's a little arrow at the. Oh, yeah. Okay, so add JOTRX to your plan. Yeah. So the very first step is pay $60. So JotRx is this add on. And once. Once we enable the add on to your account, we can make an account for you. And then. Do you. Do you prescribe controlled substances?
+Crystal Hooyman: I do.
+Lee Harrold: Okay, cool. So you have a DEA number.
+Crystal Hooyman: I do.
+Lee Harrold: Awesome. Yeah. So we can.
+Crystal Hooyman: Very expensive number.
+Lee Harrold: Yeah. Right.
+Crystal Hooyman: $888. For that number.
+Lee Harrold: Wow. Yeah. I'm sure it has made you at least $888.
+Crystal Hooyman: Oh, it has. Yes, it has. It's just like, holy crap. All of that for a number?
+Lee Harrold: Yeah, Seriously. All right, so go ahead, click that. Click that pencil down underneath actions. Okay. And then jotrx down there is that add on?
+Crystal Hooyman: Okay, Sweet.
+Lee Harrold: Now we can click the Go to practice settings button at the top for that little banner there.
+Lee Harrold: Oh, yeah, here we go. So step one is hit the connect to do spot button. Yep. So this. This will be your. Your. I guess if it's your. If you don't have a space yet, you can use. You can use a home address.
+Crystal Hooyman: Okay. I mean, we kind of.
+Crystal Hooyman: We have an idea of what we're going to do, but we just don't have it set up yet. Does anybody else see the address that's in here?
+Lee Harrold: Yeah, but you can change it like this. This is what's going to be registered in those spot. So sure, sure. Scripts will use this as like your registered organization address once you begin prescribing. But again, you can change it.
+Crystal Hooyman: So can I just use the clinic that I'm at right now?
+Lee Harrold: Yeah.
+Crystal Hooyman: Okay. And this should be my phone number, I'm assuming.
+Lee Harrold: Yep. So, yeah, this is. This has to be your phone number because. Because you're prescribing controlled substances. We need to configure two factor authentication.
+Lee Harrold: So you'll get a text and it'll say, hey, you are Crystal.
+Crystal Hooyman: I am. Most days I try. Okay, sweet.
+Lee Harrold: Next we hit the register button. So this took us back to this page. So if we scroll down underneath personal information, way down to the bottom of the page. Yep. So we got that info you put in. Yeah. So the DA number is going to do some work for us now.
+Crystal Hooyman: Okay. Hold on. I gotta find my notes. I have it in my phone.
+Crystal Hooyman: When I don't have memorized yet.
+Lee Harrold: I started using a picture. Password keeper for everything. And let me tell you, that has significantly increased the quality of my life.
+Crystal Hooyman: I have one of those too that I used to use. It was through Dropbox, but they recently got rid of it.
+Lee Harrold: Oh no, I didn't like Dropbox. Drop their service. Drop their.
+Lee Harrold: That's what I was told.
+Crystal Hooyman: I haven't really looked at it because I also use Google since I have a million Google accounts.
+Lee Harrold: Gotcha. Okie doke. So next question. Do you currently use another E prescription platform?
+Crystal Hooyman: Yes. So we use. At the clinic, we use. Where the heck is it? Authy.
+Lee Harrold: Okay. Oh, do you use the same DEA number for both?
+Crystal Hooyman: I do.
+Lee Harrold: Okay. All right. I think this might not. So what I'm thinking about now is like DEA numbers can only be registered with one E prescription provider at a time. So like normally what we do is if you're ready to jump with both feed into job sites rx, we like submit a transfer request to share scripts and then they reach out to you and say, hey, are you, you know, are you on board with transferring your DEA to our service? But I'm going to imagine you would like to continue prescribing your current clinic.
+Crystal Hooyman: Yep.
+Lee Harrold: Okay. So I guess what we could do is set you up in this system so that in the interim until you either get a new DEA number or you switch completely, you can prescribe non controlled substances. Would that like, does that work?
+Crystal Hooyman: We don't typically get more than one DEA number.
+Lee Harrold: Okay, Is it. It's like one per stay, right?
+Crystal Hooyman: Yep. One per state.
+Lee Harrold: Yeah. Yeah. How do we. I think I'll reach out to do spot and then get some clarification on this because I. All right. Actually, yeah. Tell you what, let's. Let's, let's get you in the system and then let's figure out.
+Crystal Hooyman: And it's not a huge rush for prescribing through here because we were just worrying about getting it set up. So I will still prescribe through my work stuff, but this will be coming in the future is essentially what it is. So I have some time.
+Lee Harrold: Okay.
+Lee Harrold: All right, perfect. So in that case, what we can do is use this number and register for E prescribing here and then we'll set up 2fa inside of Dopespot for you while I on the back end fit. Figure out, like, the details of transfer. I obviously won't submit a transfer request.
+Crystal Hooyman: Yeah.
+Lee Harrold: And you will not receive something from sure scripts that asks if you want to transfer. So you're safe to continue prescribing.
+Crystal Hooyman: Okay, cool.
+Lee Harrold: So we can register for E prescribing. And then I think this brings us to Doe Spot. String should have most two characters. Oh, it doesn't like that. Wisconsin is spelled out.
+Crystal Hooyman: Oh, Okay.
+Lee Harrold: So this part is really fun. You get to. To take part in a photo shoot.
+Crystal Hooyman: Oh, yeah.
+Lee Harrold: So if you. If you have, like, a driver's license or. I don't think it takes a birth certificate. I don't know why I almost said that. But, like, either driver's license or a passport will work for this. And then after that, you can take a picture of yourself, and it will use AI magic to determine that you is you.
+Crystal Hooyman: That I am me. Okay. Yeah, I can go grab my driver's license. Hold on one second.
+Lee Harrold: Okay, Right smack that open button. Did it open a new page?
+Crystal Hooyman: It did, but it says login. Field clinician has not been confirmed. For further assistance, please contact Dose Spot support.
+Lee Harrold: Well, I think that's my cue. Can you. I. I can't. I. Looks like I can only see the jot psych screen right now.
+Crystal Hooyman: Yeah, there. Because it opened a new tab. It looks like.
+Lee Harrold: All right, let me jump into the Dosebot console and discover. All right. There's your organization. Error there. Okay. Yeah. So this is. This is just that the. That the DEA number has already been associated with something else. So you're. You're like, on the platform. But I thought for some reason this would allow us to, like, get you inside so you can see how to use it. But I am incorrect. So congratulations.
+Crystal Hooyman: I got it. It's all good.
+Lee Harrold: You're officially in. Let me see if there's anything else I can, like, offer you, like some kind of cool look into how it works or what this will add. I think. Yeah. I think actually if you go back to jetsyc now, you should see. Oh, no, because we have to complete identity proofing first. Can I. Let's see if I can override identity proofing for you. It. All right. All right. I think now if you go back and try to click that button again, you can. What's it say? Same. Same angry error.
+Crystal Hooyman: It's good. Nope. It's good.
+Lee Harrold: All right. Awesome. All right. Are you ready for your closeup, Mr.
+Crystal Hooyman: Milch? Not really, but sure, Yeah.
+Crystal Hooyman: Can I just X out of this?
+Lee Harrold: Unless you want to watch it. I don't want to deny you the pleasure.
+Crystal Hooyman: Not right now. So I need to do the agreement and then the identity part.
+Lee Harrold: Yeah, either order.
+Lee Harrold: But yeah, I think you can print this if you want to. If you want to skim it later. Oh, no, you can copy it, but there's no. It is available on the portal.
+Crystal Hooyman: I was going to say, I'm sure you have access to it to go back and look at it. The normal mumbo jumbo.
+Lee Harrold: Yeah. Please don't sue us. But if you do.
+Crystal Hooyman: Right. Yep.
+Lee Harrold: So this will be all the same stuff as before. The most interesting part to me of the preceding page was learning that Experian is the agency that does COD partners with. For this and for this address.
+Crystal Hooyman: Do I put the same address I used before?
+Lee Harrold: Yep.
+Crystal Hooyman: Okay.
+Lee Harrold: So this. This is. Yeah. Mostly to ensure that you are you. So as long as like you are registered as an employee at that address, then I am. Cool.
+Crystal Hooyman: That's actually where my DEA is registered too. Because I don't want it registered to my house wise.
+Lee Harrold: Yeah. Is that. I've never thought about that before. Is that. Is that just like in a publicly accessible.
+Crystal Hooyman: It is.
+Lee Harrold: I also wouldn't want that. Right? Yeah, I would. I would get a P.O. box.
+Crystal Hooyman: Yep.
+Lee Harrold: Yeah. That was a surprise to me when I learned that NPI numbers were.
+Crystal Hooyman: Yep.
+Crystal Hooyman: It's all public access database.
+Lee Harrold: There's just a database out there that. This one's optional. You know, you don't have to put a driver's license in if you don't want to.
+Crystal Hooyman: Okay.
+Lee Harrold: What does it want? Why would it let us.
+Crystal Hooyman: Oh, I know I picked it, but it didn't stay.
+Lee Harrold: Apparently you did your part.
+Crystal Hooyman: Oh, geez. I don't know what any of those are, so I'm gonna assume.
+Lee Harrold: No, not me. I did one of these a couple weeks ago, and one of the questions was like, this is your. Your mother previously had the following names, and, like, none of you know, none of them were ones that I had recognized.
+Crystal Hooyman: Oh, this last one is a horrible question for me. Do you know how many vehicles I have registered in my name? One pops out, so I'm okay. But we have, like, 15 vehicles because my husband owns an auto shop.
+Lee Harrold: Oh, no.
+Crystal Hooyman: So I was almost like, oh, crap, this is gonna be bad. But nope, one of them stands.
+Lee Harrold: There's gonna be, like, 15 of these. Yeah.
+Crystal Hooyman: Yes.
+Lee Harrold: Due to wrong. Invalid.
+Crystal Hooyman: I bet you the one question was probably wrong.
+Lee Harrold: Yeah. Or like. Yeah, that's. That's. Honestly, I was probably like, the bank info, it was like.
+Crystal Hooyman: Yes.
+Lee Harrold: A subsidiary of one of your. The banks you actually use.
+Crystal Hooyman: That's the problem because so many of them are, like, different names that they're under.
+Crystal Hooyman: Yeah, I know is right. This one, I'm gonna say it's none of those, because I think it's actually 25. All of them. Yes. Oh, look at me go.
+Lee Harrold: Hey, nice work.
+Crystal Hooyman: Got it right the second time around.
+Lee Harrold: Yeah. That's how I got through the, like, mom surname question. And I asked my mother later, and it turns out she. She had been previously married, but, like, didn't tell anyone of the family.
+Crystal Hooyman: Yeah, it's like. That's amazing.
+Lee Harrold: Yeah. She was like, 22.
+Crystal Hooyman: Yeah.
+Lee Harrold: Did it text you?
+Crystal Hooyman: It has not yet.
+Lee Harrold: So phone number? Correct. 920404. 1705.
+Crystal Hooyman: I'm pretty sure. Let me. Let me check. It's my work phone, so I don't use it that much.
+Lee Harrold: That's horrible.
+Lee Harrold: But turns out it's, like, not registered at all, it seems.
+Crystal Hooyman: 920-404-1705. Yes, that's what it says.
+Lee Harrold: That looks right.
+Crystal Hooyman: I mean, I can put it to a different phone number. I have several cell phones, so I can change it to my. My other phone number that I use a lot. I can do that. Where is it. Now? I'm going to have to answer those questions again. Damn.
+Lee Harrold: We know the answers now, so.
+Lee Harrold: Oh, maybe not, I guess. Let me check the portal, see if it says anything about having sent a. Sent a message.
+Crystal Hooyman: I got it on my other phone.
+Lee Harrold: Oh, okay. Okay, cool.
+Crystal Hooyman: Yeah, just doing the whole capture the ID stuff.
+Lee Harrold: Oh, my God. That took me. Honestly, that took me like, 15 minutes.
+Crystal Hooyman: It's not easy. They definitely don't make it easy.
+Lee Harrold: Like, I get that it's hard. Like, I. I built. I built a system like that a few years ago. And, like, they're like light and angles and.
+Crystal Hooyman: Relative telling you to hold steady. I'm like, okay, I can only hold my hand steady for so long.
+Lee Harrold: Listen, I've been painting all day.
+Crystal Hooyman: Yes. Especially because I have carpal tunnel. And my other one is I messed my thumb up. I don't know what I did.
+Lee Harrold: Oh, geez, I'm giving too many thumbs up. Too. Too vigorous.
+Crystal Hooyman: It's telling me to hold it steady, but I literally have my phone propped up and it's not moving. I'm. You're good. I'm in a meeting.
+Lee Harrold: Like, come on, try. I don't know. One thing that worked for me was, like, starting really far back and then, like, gradually moving it forward until it. I remember having to be, like, way farther back than I thought I thought I needed to be.
+Crystal Hooyman: It's definitely weird.
+Lee Harrold: I think one of my coaches. Oh, it works.
+Crystal Hooyman: Finally. Okay, there, we're in.
+Lee Harrold: Awesome. You can head back over to Jot Psych now. You're good.
+Crystal Hooyman: You're not hurting anything, Heather. I'm just working on getting something set up in my program. Okay. Now I gotta share the other tab with you there. Okay.
+Lee Harrold: And we're back. Okay. So it thinks you need to set up two factor authentication because we set that thing about E prescription and I overrode it. So we don't. We don't have to do that right now.
+Crystal Hooyman: Okay.
+Lee Harrold: But yeah, that's.
+Lee Harrold: Oh, yeah, let me think. I think that. I think I actually have to. In order for you to see my E prescription stuff, I will have to override something. Something in your profile. But I don't. Maybe I'm wrong. If you. Let's go to. Go to a patient. Any. Any patient. And then in the medication section, we might or might not see Connect erx. Yep. Yeah. So this. This. This will allow you to add patients into your Dosebot portal.
+Crystal Hooyman: Okay.
+Lee Harrold: And let me. Let me get you a link to your. To your portal, since I don't think the app is going to show it because of that TFA thing. Oh, wait. Okay, here. No, this. This is actually we should do. I'll initiate. Oh, I can't do that without the other. Okay. Try this. Okay. Yeah, so go. Go back to that screen, I think. Practice settings. You're way ahead of me. Yeah. Oh, I'm wrong. Okay. It looks like. Oh, yeah. Okay, you can get to it from here. If you scroll down, click the two factor authentication button. This also takes into account settings.
+Crystal Hooyman: Okay.
+Lee Harrold: There we go. At the bottom of this, we can start that process. All right, I see task one, and at the top right, there's a notification.
+Crystal Hooyman: Account name. So should I change the account name to something for me? Because it just says dose spot right now.
+Lee Harrold: Yep. Yeah, it'll. So this is going to, like, live inside of Duo. So whatever you need it to say to remember that this is like the Jot Psych E prescription platform. Sign in. So you'll. You'll use this anytime you need to gain access to the DOSbot platform.
+Crystal Hooyman: Okay.
+Lee Harrold: All right, so now if we go back to Jot Psych, This will take like 10 or 15 seconds for no spot to tell us that you have finished setting this up. And then you can refresh, and it should all disappear. Hey, there we go. Cool. Yeah. So you can. Kind of add patience to. To register them at. At your leisure. And then as you do, there should be a link in, I think, at the bottom of this page that will let you. Yeah.
+Crystal Hooyman: Spot.
+Lee Harrold: Yeah. And then I. I don't know that it'll show a lot of information now because. Because there's like a lot in here. But once you start adding folks, you'll. You'll see them.
+Crystal Hooyman: Okay.
+Lee Harrold: Begin writing prescriptions through this platform.
+Crystal Hooyman: Cool.
+Lee Harrold: I can walk you through the process of adding a patient if you want. Otherwise, like, you're all set up.
+Crystal Hooyman: Is it just the. How it showed before the. Where you click on the connect thing and it does that?
+Lee Harrold: Yeah.
+Lee Harrold: Okay, let's do one. Let's.
+Crystal Hooyman: I was going to say that seems. Seems pretty straightforward.
+Lee Harrold: I kind of just follow the instructions. So.
+Crystal Hooyman: Yeah. Okay.
+Lee Harrold: Yep. And now you can prescribe.
+Crystal Hooyman: Okay, cool. Besides controlled stuff for right now because that we have to figure out yet. Okay. Okay, cool.
+Lee Harrold: Cool. It was great to meet you, Crystal.
+Crystal Hooyman: Yeah, thank you very much. I appreciate it.
+Lee Harrold: I'll reach out once I. Once I figure out how that'll work.
+Crystal Hooyman: Okay, sounds good. Thank you very much. I appreciate it. Thank you for all your help. For sure. Take it easy. Bite.

@@ -1,0 +1,171 @@
+jessica: Good.
+Christopher Hume: I think that was actually just. What?
+jessica: I know. Okay, hang on just a sec. Oh, there she is. Okay, we got it.
+jessica: How are we? Good. Just so you guys know, I'm going to be muted most of the time because I have an audiobook playing for my sixth son, so Liz is going to do most of the talking here.
+Christopher Hume: Well, so nice to meet you both. And thanks for kind of setting up this time on. I know it was a quick turnaround and we're moving it around. So, so excited to get to meet. Typically how we run these is I'll do a qlik intro intrusively as well, and would love to just learn a little bit more about you, kind of what you're looking for. And then we can tailor a Jotsec walkthrough a jawsight presentation to whatever makes the most sense. For you. Chris I work here at jotsyc. A lot of my work revolves around helping customers, prospective customers, learn about the product and see how it can offer them the most value. So hopefully that's what we're going to do this morning. And I'm here with my colleague, Lee. He's one of our top engineers. And he's responsible for our EHR integration, so he'll be making sure we can demo that today. But, Lee, I don't want to steal all your thunder. Sorry about your accomplishments. If you just want to say a quick hello.
+Lee Harrold: Yeah, you pretty much nailed it. I'm here to support any technical questions you have today.
+liz: Okay, great.
+Christopher Hume: Callers, you say? Well, Liz would love to hear about you.
+liz: Okay. Yeah, for sure. Jessica and I are the founders of the clinic. We're about entering our fourth year. I do all of the operational side. Jessica as a psychiatric nurse practitioner and does most of the clinical side.
+liz: We are small psychiatric and mental health clinic there's. Seven of us total.
+liz: We have three psych nurse practitioners who medicate medication management and one therapist who does therapy. And we're looking for something to help, mostly our psych providers, save them time. Something that's accurate, easy to use, something that's secure. And, yeah, those are basic goals. What other information would you need to know at this point?
+Christopher Hume: I guess, sort of what encouraged you guys to start looking for an AI scribe solution? Now, was there a particular like, oh, my God, part of the job is killing us.
+liz: Our employees keep asking for it. We take very detailed, specific notes. We charge.
+liz: We often bill the higher level because we have higher level complexity with our patients notes. They take a lot of time. And, yeah, we're seeing what options are to help ease the burden in our clinicians.
+Christopher Hume: And then have you ever. I think the other question I like to ask. Have you ever faced issues with your notes not being robust enough with audits or clawbacks? Is that something that's ever come up or is it just kind of like a looming specter that everyone has in the back of the head?
+liz: No. Ours are really robust.
+Christopher Hume: Okay.
+liz: We've had a lot of people ask for notes, and we've never had an issue.
+Christopher Hume: Wonderful. Well, great.
+Christopher Hume: So it sounds like Jessica's work.
+liz: She's excellent at that.
+Christopher Hume: Jessica, that is great to hear. We've been to some clinics and. Oh, my gosh, that can be quite a nightmare when they start going through everything with a fine tooth comb. This is great.
+Christopher Hume: I think Josike is our sweet spot. Is that. To be honest, our sweet spot is the nurse psychiatric nurse practitioner world. If not a majority, I would say a plurality. So the most customers we have are psychiatric nurse practitioners. We're meeting with PMHMPs all the time.
+Christopher Hume: And job site is just developed for behavioral health and psych is in the name. So this is what we eat Dream Leap about. Is kind of your world, so I'd love to kind of walk you through our platform. I think. One more question before I jump in. You said you're already using simple practices. That correct, Liz?
+liz: I practice Fusion, actually.
+Christopher Hume: Practice Fusion. Oh, my gosh. Excuse me. Already using Practice Fusion. Is there any other software your team uses or you use to manage the practice?
+liz: For all of our communication with patients just because it's integrated practice fusion.
+Christopher Hume: And then do you do prescribing and that sort of work through practice fusion as well?
+liz: Yes, we do. Okay?
+Christopher Hume: Perfect. So this and then I guess the last thing before I jump into my spiel here. I appreciate everyone bearing with the 20 questions on a Friday morning is what would be a good outcome for today. I just want to make sure that we really like you walk out of this. I've answered all your questions. Is there anything in particular that you want to make sure I cover? So make sure we're getting what you need.
+liz: That's a great question. I think it's just kind of what we talked about. How it works, how it can integrate with practice. Fusion. What are your security measures? And ease of use and kind of how much time that typically for site providers, how much time does it save them?
+Christopher Hume: Okay, perfect. I think I can get you those answers.
+Christopher Hume: Okay, so what we'll do is I'll walk through a quick presentation on jobsych small group. So please jump in and ask me questions. Cut me off. It's for you. It's not for me to get to show you all our pretty slides. So I'll try and keep that quick and. Then we'll go into an actual demo and Lee will show you the fusion integration. And then just to kind of tee you up with something I think would be particularly relevant is that we offer pilot programs and we have a detailed slide on this.
+Christopher Hume: But kind of, if this seems interesting, at the end of this call, we'd be happy to set up something for your providers and your therapist, your prescribers and therapists, where we have discounted rates to try it for two weeks, four weeks, six weeks to see, sort of, hey, is this something that works for us before jumping all the way in.
+Christopher Hume: Okay, but let me share my screen. Please let me know if this is coming through all right for you. Okay? Perfect. So jot. Psych. What are we? So we're an AI engine that helps make sure that you're able to turn every note into the appropriate revenue, not worrying about audit. Audits, making sure your claims are accurate and making sure your paid appropriately and on time. We're reducing that burden on your clinicians. I always joke. Hopefully, Liz, we can get you to Liz and Jessica. We can get you a sign up for a trial count on this call. And you can hold me to account if it takes more than three minutes. Usually it does. It's a very quick sign up process and Jazz Tech is quite simple to use. How it works is you have us running either during a session where you record the encounter with your patient. Or a clinician after the session can in plain English just sort of l jostle like what happened. And JAC will put that into a psychiatric or any note format in your case, likely medication management therapy, ADD on. And then just to flag some of what makes us different, I'm sure you're having conversations with quite a few other AI scribes right now. Some of our colleagues and friends, like Freed and Heidi and all the other great softwares that are out there, people say, what makes you guys different? One. As I said, we only do behavioral health. We're not trying to be a solution for everyone under the sun. And then additionally we error requirements built into our software. A job site will flag automatically. Any concerns around. Hey, it looks like you're doing a 99215, but you didn't include this discussion of suicidality. Do you want to attest that you actually had this conversation and it will flag? Information like for you and your team just to make sure that you're well oiled machine. No flag sources. Allow you to make quick attestations. Then Liz and Jessica as sort of the leadership team. You'll have a bird's eye view where you can see your entire team's notes. What the quality is looking like and dive down. Even to. The provider level or even a note level. Hey, what's going on with this note? Why does it have a bad compliance score and job cycles?
+liz: Help.
+Christopher Hume: Let me pause for a second there, Luis and Jessica. I can keep going and I will, but I know it's always nice when the presenter comes up for error.
+Christopher Hume: Do you have any questions so far or anything I can answer for you?
+liz: Not so far.
+Christopher Hume: Either a good thing or a bad thing, right? Either doing a good job or everyone so confused, raise my hand if I have a question. Okay, Perfect. So, Jos Said, we go beyond just sort of notetaking. You can send forms through Jot Psych, you can create a lab order slips, you can generate any sort of document. So maybe a workplace accommodation, substance use evaluation. We're actually doing billing now as well. And we also do E prescription. The eprescription and billing are add on, so you certainly don't need to start off with those. But I do want a flag that we see ourselves as a one stop shop practice management EHR software for some of our keys out and you lose. That's certainly something we can serve you with. And you'll have a patient overview so you'll be able to see the recent encounters. Your patient had immediately jumped to those notes, see all the forms you sent their diagnoses. Customize your templates. Whenever you need and practice Fusion. Liz and Jessica, you can build or we can build with you. And you can fill out forms. And here's our security and hipaa. Liz, I know this is important to you, and so I want to make sure we flag it. We're fully HIPAA compliant. And then the other thing that I like to flag is that once you delete a note, it's gone. We can't restore it. You can't restore it. It gets rid of both the note and transcript. That's something that usually is a great feature. It's something we're very proud. Of. However, if you accidentally delete the wrong note, an email, customer support, we really can't get it back, even if you ask very nicely, and that has happened before. I'm sorry, do you have any questions there about security or anything like that?
+liz: So that's for the recording and the transcript. Once we deleted it.
+Christopher Hume: The recording is gone as soon as the node is generated. We never save the audio. You're left with a transcript and the notes. When you delete the note, it deletes both the node and the transcript permanently.
+liz: Okay. I assume everything's deidentified and all that.
+Christopher Hume: Yep. So how we Our standard settings are when you use jot Psych. The transcript actually has all PII redacted. Automatically. So you're left with a transcript that if you start the session, Jessica, and you say, hey, Chris, How are you feeling today? The transcript will say, Hey. Name.
+Christopher Hume: How are you feeling today? If you want to unredact, you can change those settings, but we always err on the side of extra security. And if some of our customers maybe want a little bit, want to pair that back a little bit, we give that option to you.
+liz: This is directly related, but since it came up saying the name around pronouns are. You specify pronouns.
+Christopher Hume: Yep.
+liz: Absolutely. Okay.
+Christopher Hume: And I'll show you how to do that.
+liz: Liz.
+Christopher Hume: We shot for over 1.8 million notes. I think this is, be honest, a little out of date at this point. We're over 2 million. We just flagged that to say again. All we do is think about behavioral health and treatment. There's some fairly recent case studies, and I think Liz to. Your question here about how much time can our clinicians expect to save? So we've seen some where people are submitting nodes 60%. This was at an addiction clinic. Submitting about 60% quicker, saving over 1/2 hours a day. For clinician. In their notes. And then we had another clinic in the Pacific Northwest. Where clinicians were saving about 50 minutes a day. 60% were saying they're significantly higher quality. And we do like to emphasize no one said that the quality declined. So 100% said their notes were and quality are better.
+liz: Great.
+Christopher Hume: This is Liz and Jessica. As I try to sort of prime the pump at the beginning of this conversation or this presentation. Just wanted to let you know our options we have for trying the software. Through the two week pilot, which is unlimited access to all jot psych features with the exception of eprescription for free. Anyone at your clinic, anywhere in your organization. The Courage Clinic can try it. Just play with it.
+Christopher Hume: As many sessions as they want. If you'd like to do the four week program, that's $500. Again, it's unlimited access. We'll develop two custom templates for you. And my favorite part is we also do an in person training, so most likely. I would come out to see you, we'd all have lunch together, and I would train your staff at how to use the software. And if you'd like a little more time, there's also a six week program as well. Any questions here?
+liz: It's very cool. Options.
+Christopher Hume: Then this is really the last kind of big slide I wanted to review with you. I think now would be time to walk through the scribe. And Lee, if you could just. While I'm doing the scribe, get ready to just do a quick demo practice fusion. And then we'll save a little time at the end, Liz and Jessica to talk about next steps and go from there. But I guess I know you've got a book on tape going in the background, but if you need anything or have any questions from your vantage point, please let me know.
+liz: Great.
+Christopher Hume: So this is what the JAT psych home screen looks like. And what we'll do today is we'll just walk through some of the basic how you get up and running features. So we'll talk about. Hey, this is the recording screen. This is what a note will look like. This is how you can update your template. And then we'll also look at some of the audit rules, and then I'll kick it over to Lee to do how you could get it over into practice Fusion. Record with Jobsike. The record button. You go to the record screen.
+Christopher Hume: You select your appointment type and your template. So therapy and med check I think might be relevant to some of your colleagues. You select the patient. We'll go with bruce cahill. And then you press this start recording button over here.
+Christopher Hume: Got sec works for in person and remote sessions.
+jessica: How do the patient names. Do we have to enter all the patient names or when you pick a patient. Populated.
+Christopher Hume: Yeah, that's a great question, Jessica. And this is why we have Lee on the line. So there's two options here. You can add them in manually. Or if you decide to do one of the paid Lee actually does a data transfer over as a part of that package. So he can transfer data over from simple practice into jot psych. So you would already have your patients here in the drop down she'd go.
+liz: So that would be all past patients.
+liz: And as new patients come in, then we have to add them in or.
+Christopher Hume: Yep, you would add them in. And when you're doing a onesie twosie, you can just go, new patient, you go new.
+liz: Okay?
+Christopher Hume: Generate.
+jessica: It has to be assigned to a patient and can just record, and then you put it in the patient's note.
+Christopher Hume: No, that's a great point. Jessica, if you prefer not to use patient name or just record the note, you certainly can do that. We recommend including patient identifier because that's sort of the magic of jot Psych is it will learn about the patient over time. It will remember past sessions. Let's say anxiety was really bad for me last week. And this week when I come in, my anxiety has gone from a 7 out of 10 to a 2 out of 10. The note can say something like anxiety has decreased in those it's the same patient, but you certainly don't have to do.
+jessica: And if it's not storing the info, how does it pick up the patient's history to know that it was? Is it looking at past notes in the chart, or how is it knowing that.
+Christopher Hume: It doesn't save. Are you talking about the name redactions in the transcript?
+jessica: Yeah. If I assigned it to a patient, where is it pulling the data from to know that last week anxiety was worse versus this week it's better. If that wasn't verbalized, how does assigning it help that?
+Christopher Hume: So if you assign, let's say this Bruce Cahill. Assign a name to a patient. It will track all of their notes in the patient overview tab. And so this therapy note. We had it 11:15. On the 6th and look back at the therapy note from earlier that day. Say? Oh, anxiety has increased or decreased. So that's what assigning the patient does. I'm sorry, Jessica, does that answer your question?
+jessica: Yeah. So it's essentially storing the data somewhere from previous appointments if we assign it.
+Christopher Hume: If you recycle it. That is correct.
+jessica: So when we talk about. We can delete recordings, transcripts right away. If we do that, then those won't be under the patient's name, correct?
+Christopher Hume: Yeah. Then they won't be anywhere. Jotsec won't remember them, jacksec won't reference them, and that's certainly just up. To kind of your security stance. Whatever works for you and Liz.
+liz: And what do you think are the advantages? Obviously. It can help you with showing that anxiety is decreased, as you said. But also, does it give patient summaries before you start off too, with some things? Okay.
+Christopher Hume: Oh my gosh, Liz, that's so awesome that you were able to call that out. So, yes, it would give you a patient summary right here of the last encounter allow you to. I mean, I don't have a patient selected or I have this imaginary patient, but it would give you the demographics, medications and diagnoses. So in addition to having a more robust note, it would also allow your team to, at a glance, be like, oh, this is what we talked about. The dog passed away last week. Need to make sure to check on how they're doing. And that's the future I know some of our customers really like. And so thanks for kind of doing my job there, Liz, and calling it out. I'm sorry, Liz, do you have a question? Another question?
+liz: Well, no. I said you bet. Thank you.
+Christopher Hume: Oh, you bet. Let me just make sure. I'm cognizant of time here. So after a session, Note could look something like this. Typically, these are generated within 20 to 40 seconds. Then you can. Upcycle, run, automatic, edit. And this is kind of what I referenced for you, Jessica and Liz, so it's, like, lagging for me. That the current medication. List. We did not discuss current medications, flagging that as a potential concern for when this node is submitted for claims. And then this is the magic. AI Node assistant against the AI Notice system magic to me, where you can edit your note. So in plain English, over here, you can explain what changes you want made. And this could be anything from focus on anxiety to make this entire note more robust and significantly longer. Gothic will learn kind of the format for your template over time, so you may have to make some changes for the first few notes. Learn, and then it's going to be a much quicker process moving forward. Jessica, I think it sounds like you're the one who's made sure the whole team is staying above board and you're not having any issues with your notes. So what you can do as a supervisor is you can create a template and say, like, guys, this is the template. It's trained the way we like it. And you can share it with everyone. And then everyone's playing from the same organizational sheet of music there. Just to quickly show we have a whole library full of templates. You can create your own templates and you can customize the existing templates. Don't want to be respectful of everyone's time. And another big thing here is the integration to practice fusion. So I want to give Lee a little bit of time to show that. But this is something. Liz and Jessica, if you're interested in trying out jotsyc, we'll make sure that your templates are really tailored to what you need. So you have a good trial and your team can have a good trialing.
+liz: And it sounds like the tool we'll learn from us as well as we do our notes.
+Christopher Hume: Yes, exactly. So. Any general questions about job psych, this demo or anything like that before Lee knows us. The EHR integration.
+liz: Are you able to do templates for common letters that send to patients? Emotional support, animal school excuses, things like that.
+Christopher Hume: So. If you go to documents, you can generate like a one off or you can have a template. Oh, yeah. I need a esa support.
+Christopher Hume: And then it'll generate.
+liz: Okay? Yeah, let's do the practice Fusion stuff. And then if we have more loss. Then perfect.
+Christopher Hume: Leave. The floor is yours to show. Integration.
+Lee Harrold: Fantastic. So this probably looks familiar for you.
+liz: Y.
+Lee Harrold: Process is pretty simple.
+Lee Harrold: We have this EHR extension that's on the Chrome App Store. Again. Very simple. Two tabs.
+Lee Harrold: You'll see all the notes that you've recorded inside of Chat Psych here on the right.
+Lee Harrold: You click into one, you can review the content directly.
+Lee Harrold: And if you want to, you can copy sections individually. Or select several. But the most exciting feature is you can click this auto fill launch button. And then we'll populate. Your practice Fusion note.
+liz: Content.
+Lee Harrold: Here. If you want to verify that, you can click some of these buttons.
+Lee Harrold: And make sure it kind of lines up with your expectations.
+liz: Okay, great. So you'd write it kind of in the. I don't know if it's a desktop version or web based version or whatever. You do the recording and all that there and then you come to this extension and it would transfer it over. Yes, they're all synced.
+Lee Harrold: Yeah. The only caveat that I'll call out is that this extension works by mapping the title of your jazz notes into the title of your practice fusion note sections. So you would want to create a jag note template. That aligns with your practice fusion node template.
+Lee Harrold: Which is very simple using our AI Editor. Or our template feature.
+liz: Okay, cool. Yeah, we use soap for both.
+Lee Harrold: Perfect.
+liz: Okay.
+Christopher Hume: You picked a good template to download, then.
+Lee Harrold: It's a rare one.
+Christopher Hume: For sure.
+liz: Yeah.
+Lee Harrold: Any questions I can answer about this.
+liz: No, that makes sense.
+Christopher Hume: No. Oh, no. I was just saying. Listen, Jessica, what would be a helpful next step for you? Would you like to. Happy to go over the pilot options if you'd like to review those. I'm not sure. Yeah. We have a few more minutes here.
+liz: Okay, let me see. What's your error rate?
+Christopher Hume: Our error rate?
+liz: The rate that is an error. Like the correct. How accurate are your notes?
+Christopher Hume: They're highly accurate. I don't know if we at least the non technical mind that I have. I'm not tracking the engineering error rate, but I can tell you what sets us apart is kind of our ability to generate behavioral health notes or very high quality. And that's something on the conference circuit in talking with trialers and customers. That's why people will come to us from a platform like three or Heidi, because we pride ourselves and all we think about is high quality behavioral health notes, not medium quality cardiology, podiatry, psychiatry notes.
+Lee Harrold: Okay, I can speak to the direct word error rate of our transcription service. That's between 2 and 7%. But it's worth noting that given the cumulative history of patient details as well as all the patient related demographic and care context that you will have provided by working. The actual note that's generated has a much lower error rate than that.
+liz: Okay, great. Okay? Let's see. What are the. Are there any types.
+jessica: Go ahead, Jessica. What are your prices? Past.
+Christopher Hume: Yes, absolutely. No, you're right. I was so excited to walk through the practice Fusion integration. I think I probably jumped the presentation early. So the base rate for jobs, psych for the scribes, for the document generation, or kind of, the forms, the lab orders, all of that is $150 a month.
+Christopher Hume: With that, we have 40 compliance checks per provider. The non features we offer. So the integration with simple practice is $10 a month, the ePrescription is $69 a month and unlimited access to compliance features is also $69 a month. And we offer kind of an all in one flat fee. If you want to put everything in jetsight for $249 a month. I know that was a little fast, so let me make sure I write that all up and send it to you afterward so you can review the pricing. But any questions there, Jessica? About the pricing, the structure, anything like that?
+jessica: I don't think so. I'll take a look at what you afterwards. I appreciate it.
+Christopher Hume: No.
+liz: Of course you guys have vision down the road to do. Be an ehr too. Like completely everything all at once.
+Christopher Hume: Yep. So some of our customers actually do use this as an EHR, and that's what we see the 249 pricing as. So we have scheduling and jot psych the forms and jot psych. You can e prescribe through Jot Psych, so if that's something you'd like to try as well. We can run your demoing us. We'd love if you try this out as an EHR2. Sign your notes in there because that's certainly something a service we do provide and plan to ramp up.
+liz: Okay, sounds good. How long have you all been around? And why were you founded originally?
+Christopher Hume: A great question. So our founders have been working on Jotsyc for about three years now. Our CEO is. Dag is a neuro oncologist and his mom is a palliative nurse practitioner. He always saw a lot of charting in his childhood home. And his best friend from college is our CTO who's always wanted to start a company with kind of AI. And so the AI best friend and the charting best friend came together. They did a bunch of interviews with different providers to see where the biggest pain point was in note taking. And it turned out to be behavioral health. So that's where Jotzip was founded. And that's why we're serving kind of you guys today in a meeting with you, as opposed to at a podiatry or optometry convention.
+liz: Let's see. Do you have any that when you send us, could you send us like an example? Obviously de identified, but like a real world note from a provider.
+Christopher Hume: We have plenty what that note looks like. Yeah, we have plenty of notional notes. I can make sure we get you one of those. Do you see kind of what it would look like?
+liz: Sounds good. Do you happen to have the option to. So we're all telehealth right now. But we may be moving to some in person.
+liz: Do you have the option, like a mobile option?
+Christopher Hume: Again. You're on the. On the call with the right guy. So we have an app for your phones. You can also. Yeah, we. Of course. I should have said this. I'm sorry. We work for Telewer. Telehealth and in person sessions.
+liz: Okay? Okay? I. Think that is all I have right now.
+jessica: Do you have a sample consent form for using AI?
+Christopher Hume: Yep. And so we'll make sure that that's included in that. Well, if I send Jessica with our pricing, I'll include our we have like a hey, this is how we recommend talking about it. And here's a PDF you can use if you so choose.
+jessica: Okay. Yeah, that's great. And then if aside to proceed, we wanted. I think this was a part of package, but we wanted. To have folks come to our teen eating, just do a demo. Before the actual training.
+Christopher Hume: Is that facility? A telehealth demo. I'll do as many telehealth any time of day anywhere with anyone and then if you decide to go with with a paid trial period, you'll get a in person demo onboarding as well, but certainly beforehand as many people as you'd like me to demo with. I'd love to. That's quite literally my job.
+jessica: Okay, great.
+Christopher Hume: Awesome. Did. I see you're based in Colorado.
+liz: Our clinic is in Colorado and all our businesses and we used to live there, but we are in Pennsylvania. Now.
+Christopher Hume: Oh, penn. Okay, we're in. We're in D.C.
+liz: so not too far away. Not too far. Yeah. From the east coast with us.
+Christopher Hume: Yeah.
+liz: I just thought of one more question. Oh, so you know. I know what you said. Some folks use you all as an ehr. What does your communication with patients. Look like. Are you able to send patients like post visit summaries?
+Christopher Hume: Stuff like that. You can send post visit Summer. Oh, I'm not sharing my screen anymore.
+Christopher Hume: You can send post visit summaries with this just directly from the notes. So you'll follow up. Goes out to the patient. You can also jot site can set up Automated reminders, automated PHQ9s, automated forms. The one thing we're working on now, just to be totally upfront, is the patient portal. Where you can send one off. Bespoke messages. That's something that is in the works. It's not a roadmap, but isn't in the platform yet.
+liz: Okay? All right. Yeah. Right. Now, as far as the platform, other than, like, sending patient messages, say, if you just had to communicate back and forth about, they have questions about how to take them out, blah, blah, blah, whatever. Is there an option for that?
+Christopher Hume: No, not. Yet.
+liz: Okay? Gosh. I'm sure I'll think of some other things, but I can email you those.
+Christopher Hume: You certainly can. You'll know how to find me with. So make sure you have my calendar.
+liz: Too.
+Christopher Hume: So I'll send you the pricing. I'll send you that consent form. Would it make sense? I know you probably need to chat and check some of your team members. Would it check to just do a 15 minute check in next week to see how things are going, see if there's any last questions and then discuss how you'd like to proceed.
+liz: So maybe let's wait on that. We're looking at a couple different ones. We got to try to make some decisions.
+liz: Who do you get asked about that?
+Christopher Hume: Yeah, of course.
+liz: Oh, gosh, my brain. A question comes in and then it leaves right away. Oh, what is your support for the team look like? It's not beyond just implementing access. How easy is it, access to get someone to help us?
+Christopher Hume: You're asking the right. The right guy. So I manage our customer support team. So you can from a link up here. You can always book onboarding or contact support. We have team members who their whole role is tracking that port inbox. Or you can just schedule time directly with them. And. Something that I'd like to highlight is we have a team of actual people doing this.
+Christopher Hume: Talk to a real person. It's a team of me, and I have two colleagues who work with me, and we manage for support, so you'll be able to meet with one of us.
+liz: Okay. So you can call or chat.
+Christopher Hume: Yeah. Or you can email or set up meetings with us, or you can just. Onboarding, and then you could grab time.
+Christopher Hume: Especially on our calendar.
+jessica: And if there was something going on tech wise, how long does it take for someone to respond? Typically.
+Christopher Hume: That's a good question. I don't have, like, an hour. I don't know our hour response rate right now, but it is certainly within the day. I am in the support inbox, typically twice a day. And my team is in. Checking on it regularly when I'm not in it. So if there's an urgent issue, we shouldn't be responding within hours. It's not going to be within days or weeks or anything.
+Lee Harrold: It helps that we're a very tight team, and so we're in very close communication.
+liz: Okay, that's great. Okay? Yeah, I'm sure I'll think of more. About?
+Christopher Hume: Well, if you have any questions. Yeah, you can send me an email or you can book onboarding time to test our process. But. Yeah, this was just. I appreciate you kind of. Yeah. Again, making the time on a Friday and jumping on the line. So I'll send those materials to you. I want to make sure that I send you a realistic note. So I'll probably batch everything up and get it to you on Monday morning, if anything. Comes up before then, just send me. Please send me an email. And I'll get your questions answered.
+liz: Great. Thank you so much, Chris.
+Lee Harrold: Great to meet you, Liz and Jessica.
+jessica: Thanks, you guys. You, too.
+Christopher Hume: Thank you, guys. Have a great weekend.
+jessica: You too.
+liz: Bye. Bye.

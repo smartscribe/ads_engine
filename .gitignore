@@ -17,3 +17,7 @@ node_modules/
 # Harness/runtime artifacts
 .claude/scheduled_tasks.lock
 .playwright-mcp/
+
+# NPPES raw pulls + checkpoints (~100MB each)
+data/audiences/nppes-raw-*.json
+data/audiences/nppes-checkpoint.json

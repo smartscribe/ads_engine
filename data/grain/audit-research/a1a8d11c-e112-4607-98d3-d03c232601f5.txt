@@ -1,0 +1,88 @@
+Martin Schwarting: Hey, Lee.
+Lee Harrold: How's it going?
+Martin Schwarting: How you doing?
+Martin Schwarting: Thank you so much for getting in touch. I was just playing around with jot psych, and it's very predictable.
+Lee Harrold: It's not. It's not working.
+Martin Schwarting: It's not working. Let's share the screen with you here.
+Lee Harrold: Yeah. Look to see what's going on.
+Martin Schwarting: Share screen. We'll do the allowed to share screen.
+Lee Harrold: Okay, so date of births are being written. As today's date.
+Martin Schwarting: Yes. Here. Have a look. Have a look. So here's. I just put this guy in here. John Doe. That's my mobile number. And the date of birth.
+Lee Harrold: Keeps on.
+Martin Schwarting: It keeps on reverting back to the today's date. So say now reverts back to today's date. And whenever this happens, you are not able to send any kind of a form. Here's the consent. And what happens is the send form button down here is grayed out. And now if I change, I was playing around with it. And obviously I saw that there was a connection with the date of birth. So typically, if I go 0101001, there we go. Typically. This fixes the issue in terms of being able to send a form. But now the patient is 125 years old. So I can hit the send note. Oh, I have to reload before I can do that. I have to reload. So I reload the page. There he is. 125 years old. Send form, consent. And I am able to send it right here. Send form.
+Lee Harrold: At. That's crazy. I haven't seen that before. I'm going to try to do that real quick. Send me the URL of the website that you're currently on.
+Martin Schwarting: The URL. Yeah, of course.
+Lee Harrold: Yeah. Because with that, what that contains is the patient ID. So I can take a look at what happened on our vacuum. And jumped in there. And the next thing we're going to do is just see if I can do this same thing.
+Martin Schwarting: All right. Where do I send you the URL?
+Lee Harrold: If you go to send a reaction.
+Martin Schwarting: Send a reaction.
+Lee Harrold: Okay. At the very bottom right. Of the screen next to. Yeah, there's a message chat with everyone.
+Martin Schwarting: Chat with everyone. Okay. Rob, right here. Okay. There you go.
+Lee Harrold: Fantastic. Thank you, bur. Den.
+Lee Harrold: Say again, please. Oh, I said fantastic. Thank you. All right, so now I'm gonna. Oh, interesting. Can you show me your jet side screen again?
+Martin Schwarting: My. Yep.
+Lee Harrold: Right here. Yep. Perfect. Give me one second.
+Martin Schwarting: I'm gonna mute the TV behind me.
+Lee Harrold: Sounds good.
+Martin Schwarting: All right.
+Lee Harrold: Okay, so this is only happening. For. Like, new patients that you create, right? Yeah. Well, for old, old tapes.
+Martin Schwarting: Yeah, well, I was able to. Yeah, I was able to add the other ones. In two cases. I, like, played around with it until it finally worked for whatever reason, and I'm not really sure what I did differently.
+Lee Harrold: Gotcha. Let me try to create a new. John do on my side. Okay, I'll create this client.
+Martin Schwarting: You could do Jane Doe.
+Lee Harrold: That way we can tell. That would. That would be easier in nomenclature. Okay, I use this random birthday. Cool. And then I'll hit the refresh button. And the date of birth is saved. Okay, interesting. What browser are you using?
+Martin Schwarting: Really? It just worked free like that.
+Lee Harrold: Yeah, I don't.
+Martin Schwarting: I'm using Safari.
+Lee Harrold: Safari. Okay. Yeah, I know Safari is like the. The internet Explorer. Of. Of today. It doesn't get, like, updates, mostly because. Chrome. Is like the market winner. So it's to set. Sort of standards for the rest of. Of the market to adhere to. And then Safari, because it's running.
+Martin Schwarting: So I should be. I should be using Google Chrome, is what you're saying.
+Lee Harrold: I recommend that.
+Martin Schwarting: But, I mean, do I have to look? I'm not. I'm not that computer savvy. I have to download the Google Chrome, right?
+Martin Schwarting: Yeah, that's right. So let me see here. You can see my screen, right?
+Lee Harrold: Yep.
+Martin Schwarting: I'm gonna.
+Lee Harrold: I'm gonna try to do this in Safari, too, because I. I don't understand how this could have happened.
+Martin Schwarting: Like, even into. All right, I'm downloading Chrome. Allow. Downloads. Google Chrome. Okay, so I have to drag this over here.
+Lee Harrold: Yep.
+Martin Schwarting: Okay. It looks like I already have it. I'm just gonna replace it. Okay. Where would I. Where would I find Google Chrome here?
+Lee Harrold: So if you hold command and press space. You can type Chrome.
+Martin Schwarting: Again.
+Lee Harrold: Command button and then click. Click the spacebar.
+Martin Schwarting: And then command space.
+Lee Harrold: Yep. That'll open. Yeah. Spotlight search and then type Chrome.
+Lee Harrold: Google Chrome right here. No, it's not there. Weird. That's. It found a website. It found a Google search. It should be in your applications folder because we saw it.
+Martin Schwarting: Drag in there applications and apps. Google.
+Lee Harrold: Might just be Chrome. You might have omitted the company name. Nothing. Okay, what's going on? Let's just scroll down so you can find it.
+Martin Schwarting: Utilities.
+Lee Harrold: Directory.
+Martin Schwarting: Hold on. Social. No. No.
+Lee Harrold: All right, well, I'm gonna see if I can. I just open Safari. I'm gonna try to replicate this on Safari.
+Martin Schwarting: Okay. A few steps left. Open launch. Fad. To DMG. Applications. Oh, okay. It worked now. What's next?
+Lee Harrold: Yep. Once you drag it in there. Oh, it says already there. Oh, okay. I bet. I bet Mac OS just didn't index. It has an indexed.
+Martin Schwarting: Oh, here it is.
+Martin Schwarting: Oh, All right. Open. Okay. Do you want to change your. Yep, I'm gonna use Chrome. You're saying that's the way to go.
+Lee Harrold: Yes, sir.
+Martin Schwarting: Sign in. Okay. I guess I have to use this phone now here. Okay. Yes, I'm in. Okay. And now jot psych.com. Login. Again. I guess I have to look up the password here.
+Lee Harrold: Yep. If you don't have it on you.
+Martin Schwarting: It's. It's got to be on the phone. S.
+Lee Harrold: Okay, let me make a Jane Doe. Create client. Okay, so remind me, you created a client or a patient.
+Martin Schwarting: I can't find the password under jot psych here. Maybe it's a pass key. Let me see here. How do I. What am I doing?
+Lee Harrold: Is it possible that you used a Google account to do this?
+Martin Schwarting: Yeah. Continue with Google.
+Lee Harrold: John. So there we go. There we go.
+Martin Schwarting: Okay, good, good, good, good. Patience. Let's do a new patient. Jack. 1988. Gender male. I'm gonna put my phone number in again 302. Create patient. Oh, yeah, that worked.
+Martin Schwarting: Okay, now let's click on it. That worked. I'm so happy. I'm so happy. I can't even. Yes. Send form. Look at that.
+Martin Schwarting: It was maybe just that I was using Safari, but, I mean, this is good Intel for you guys to have, too, right?
+Lee Harrold: Yeah, I just did this in Safari, and I was able to reproduce exactly the bug that you described.
+Martin Schwarting: So. Holy.
+Lee Harrold: Holy. Dude, you're a champion. Thank you so much.
+Martin Schwarting: Thank you.
+Martin Schwarting: You're the champion.
+Lee Harrold: Thank you so much.
+Martin Schwarting: I'm so glad because I really, really love your product.
+Lee Harrold: You know, like, why is this happening?
+Martin Schwarting: Yeah, I'm. I'm so glad it's. I think. I think we figured it out, and I'm. I feel like a dinosaur after our conversation still using Safari. So I'm gonna make the switch to Chrome.
+Lee Harrold: And I appreciate all your help.
+Martin Schwarting: Yeah. This is a very. This is. This is the best thing to happen to me all day because I. You know, I've been having to have the patients fill out a. A paper consent form and stuff, so.
+Martin Schwarting: Oh, no, I'm sorry. It's fine. Minor inconvenience, you know? Yeah. So appreciate you, man. Great to meet you.
+Lee Harrold: Let me know if anything else I can help with.
+Martin Schwarting: Will do. Will do. Have a great day. All right, take care.

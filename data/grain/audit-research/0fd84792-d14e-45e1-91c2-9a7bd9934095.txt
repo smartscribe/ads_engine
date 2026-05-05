@@ -1,0 +1,127 @@
+Becca Bressler: Sa. Hello.
+alfred: Good morning.
+Becca Bressler: No problem.
+alfred: It.
+Becca Bressler: I'm just checking front to make sure. Oh, my God. Haircut. I just checked out the.
+alfred: See?
+Becca Bressler: Looking fresh.
+alfred: Yeah, yeah.
+Becca Bressler: Respectable. You're picking, like, the coldest time of year to take.
+alfred: Take off.
+Becca Bressler: Okay, let me see. I just want to make sure. Okay. Nothing in customer support that suggests she isn't showing. I am. Oh. I muted myself. Nothing in front that suggests she's not coming. But I am going to take care of a customer support thing while I am here.
+alfred: This is AI Edit tool, right? That she's not.
+Becca Bressler: Yes, she's on the old. And she's on the old editor note page, which is super weird. All right, I'm gonna email her. That. All right. I just sent her an email with this link, so hopefully she hops on. I will be doing some stuff in the background. I'm actually going to run to the restroom while we're waiting. You're the one who can help her more than me anyways. But I'll be on.
+alfred: One sec. It. It's. It.
+Becca Bressler: No. Amanda. Hey, Alfred. One thing I thought about yesterday that I don't think we've checked in on related to bundling is. I'm going to share my screen in a second. Is, is this.
+alfred: Okay?
+Becca Bressler: Do you recall this by any chance?
+alfred: I mean, there's a lot. No, I have not done that.
+Becca Bressler: I, I figured and you know, hopefully this isn't like a, a big lift, but just to flag.
+Becca Bressler: No, it's not, it's not a big list, but let me add a project for it because I,
+alfred: I should do or, or a task to the existing.
+Becca Bressler: Right, right.
+alfred: The S.
+Becca Bressler: Of course. Yeah, I'll do that right now. But I just wanted to flag what that is.
+alfred: That's a good, that's a good call. Complete this and I still owe you like the different locked out states.
+Becca Bressler: Okay.
+alfred: And there's something. I need to find ways of locking myself out. Does that make sense?
+Becca Bressler: Totally. This is like an ongoing with so many parts of our project product. Yeah.
+alfred: I think I have old test accounts that should be locked at this point, so hopefully. Oh, I definitely do. Yeah.
+Becca Bressler: Yeah. So I could even fire you over one of my test accounts because I, I literally got a mess. I have like two emails in my inbox about it.
+alfred: So I, I get them all the time. I just need to remember which one. Which one it is, you know. But.
+Becca Bressler: Let me know when is like the right. Obviously there's a. I'm trying to. I'm juggling a few things but I obviously need to do like a writing pass on some of this stuff for. So even this signup page for example, isn't the right text and I mean I can, I'll do that today but like I especially want to know it when some of this stuff is like a blocker, you know. So yeah, like is sometime today okay for that, for that kind of stuff? Or, or sooner today is better? Do you know what I mean? Basically, like, to be more specific, you know, this is an old, this is an old thing I did on the user journey stuff. But like pay or wear notes is like not a thing is not going to be a thing. So maybe I'll just write that in the message which is just like. Or write it in the ticket. But you know, I want to do a writing pass on some of the other stuff too. Like. What's a good example? Oh right. Like I think. Like I'll probably take out follow up emails, for instance. Oh, you're. You're muted or I can't hear you. I don't think you're muted, but I suddenly can't hear you.
+alfred: Can you hear me now?
+alfred: Yeah, okay, sorry. Yeah, those ended up making it into a config in the back end. But I think I can change them. I'm actually trying. I was trying to do something about it as well on Thursday, but if not, we might need Marcus basically for those.
+Becca Bressler: For those edits. Okay.
+alfred: Yeah, I think what we should do is like one big pass of everything and kind of update all the different places. I did my best as well with the warning for the gates and for the usage card and all that stuff. But you know, again, a lot of that is coming from the back end. Probably all should be coming from the back end right now. I do have a mapping because certain things as they came from the backend didn't make sense. Like the descriptions were too long to use, like, or the usage, you know, stuff like that. The names came with underscores and that sort of thing. Not like really human readable. So we are doing some. Some stuff there that we probably shouldn't be again because, you know, when new bundles get added, removed or whatever, it'd be nice to not have. It'd be nice that all that stuff come from a centralized place. Since we're here and we're doing show and tell, let me actually get some stuff running. I think, I think the single user journey thing in a very good spot. Oh, cool. Sorry. I'm also getting text from the renter of state. That's still.
+Becca Bressler: Oh, no. Do you want to deal? Like, I don't think Amanda's coming.
+alfred: Deal with that. Like, that guy's been driving me crazy.
+Becca Bressler: Okay, okay.
+alfred: Super, super impatient. Even though I said don't take your car up the hill, now the car is up the hill.
+alfred: This is what inspired the.
+alfred: This is what inspired the. I'm not kidding. Becca, please, please tell your sister I need. I need this. And the guy's being like super impatient. It's like, dude, you have to wait till it finished snowing for the plow to come. You know, the plow services the whole community. It won't come to service you. It costs a thousand plus dollars. You just have to wait or do what we say. Don't take a stupid car up there. So, yeah, sorry.
+Becca Bressler: No, I thought I laughed out loud when I saw it.
+alfred: He's like pinging me right now also. He's like, oh, I'm do something else the world. I need to turn stuff on. Okay, sorry. Monday mornings are always rough.
+Becca Bressler: Yeah, I feel you. I realize you're. You're probably already up early with your kid, but. But I try and sleep on Monday.
+alfred: Not today because. Not today because I'm okay.
+Becca Bressler: So it was like that's.
+alfred: I. I usually am, but I was. I was allowed an extra hour to two hours in bed and. And now I'm paying the cost because I'm still like not fully here.
+Becca Bressler: No, me too.
+Becca Bressler: I've only had two sips of my coffee and it's. Yeah, I need more than two sips.
+alfred: Yes, the function. So look, I mean, I think at the end of the day the, the thing with. The thing with Amanda's is very likely that she has like an. An extension on her browser that. Like an anti. Tracking or an anti. You know, ad blocker, these sorts of things will. Will. Especially something that's like specific for tracking because statsig is a tracking mechanism. So ad blocker like the. Have something I guess based on the error that she has installed that's blocking this. Now it's a problem. I mean, what we need to do is take the 20 minutes that it needs to actually gut the old one and she'll get the new thing and would be nice to see exactly what it is. So we're aware of what the. What the problems are.
+Becca Bressler: But. Yeah, I'm gonna. I'll loop you into the email chain because if she doesn't show, you could even ask the question. Yeah, we can maybe set up another time, but let's see.
+alfred: Yeah, but I, I guess the question is like, should we just flip the switch at this point?
+Becca Bressler: Oh yeah. Is there any reason not to.
+alfred: How long does it. I don't think so.
+alfred: Yeah, no, it's. It's. It's two minute dev time and whatever deployment time takes. Right. So it's not a long. It's the type of cleanup that we should be doing after we fully release features anyway. Got it. I would actually make the case that once we fully release things, we need to allow ourselves time for this. Always just good practice because if not we end up with a lot of dead code in the application anyway, so.
+alfred: Yeah, well, that.
+Becca Bressler: That's maybe a better use. Is this a you thing or a Marcus thing? Typically?
+alfred: Is it a Marcus. That's a me thing. No, this is a me thing.
+Becca Bressler: So.
+alfred: Yeah. Yeah.
+Becca Bressler: So probably better anyways than sitting on this call, so.
+alfred: Well, no, I, Yeah, I think the call was useful because we are relying on the service quite heavily. For rollouts and to see what types of issues we might be getting in the future.
+Becca Bressler: Right.
+alfred: Yeah. Is important that we should have more.
+Becca Bressler: Right? Like ad blockers are not. They're not common, right?
+alfred: No, exactly. And ad blockers shouldn't do it.
+Becca Bressler: Tracking, I guess, is the one that you pursue.
+alfred: Yeah, tracking maybe. Look, it could also be like a firewall network thing in her office. I doubt it. You know, again, to your point, we would have expected more of this. I mean, we are. We also know of the one other individual that's on a. On an Android device. I don't know. Let me see if I can turn this on real quick since I have you here and I'll show you this. Get some. Get some feedback. We have watering today.
+Becca Bressler: Marcus took it off the calendar actually.
+alfred: Okay, so we don't have anything.
+Becca Bressler: I have another customer support meeting at like 9:30, but that's a ways away, so. Yeah, I'm not rushed.
+alfred: You?
+Becca Bressler: I have like four customer support meetings that came out of LA being on front last week.
+Becca Bressler: Oh, no, it's okay. It's.
+alfred: I'm front this week, so.
+Becca Bressler: Are you.
+alfred: Yeah.
+Becca Bressler: I'm glad Nate is. I. I hope that he gets as many issues as I did. I don't know, it's.
+Becca Bressler: It's helpful to be on the front lines, you know, feeling the pain.
+alfred: Yeah. Yes. And. And then there's also like, if it's like last week, I wouldn't want to have to also be trying to deliver something, you know? Yeah, yeah.
+Becca Bressler: Like be.
+alfred: It's helpful. No, he's familiar with it though, so. I'm forgetting what the name of this is. Payment. Payment.
+Becca Bressler: I actually think over the last two weeks I. I spent at least 30 hours dealing with front stuff. Like just because of the nature of some of the stuff that happened, I'm like, damn, that's a lot of working hours.
+alfred: Yeah.
+Becca Bressler: But that's why Chris actually is proposing hiring like a part time customer support person.
+alfred: So I think it would be good and I'd even make the case that we need to get into a place where some of the things that happen can be done with the cursor type thing. It's like at cursor, do this. Or get me the information or actually do the fix. And then it gets reviewed by us and merged and that sort of thing. Share screen. Boom. Okay, so this is kind of where this is.
+Becca Bressler: Let me open it wider again.
+alfred: I think. I don't think he's sending. So the text that you had is not the same that Marcus is now sending. Yeah. And I'd say, like, some of these things can be probably said like up here, the same as Basic but add, you know, so you don't get to lists like that are this big.
+Becca Bressler: Wait, sorry, were you. Sorry, can you just back up? What did you say before? Get to lists that are this big?
+alfred: Yeah, so usually when it's like additive. So a good example is like here you get unlimited notes, unlimited templates, and in no AI training. So these three could be bundled into like something that says, like famous basic tier.
+Becca Bressler: Something in low volume. Yeah, yeah.
+alfred: Because if not, everything just becomes this huge list of checklists kind of thing.
+Becca Bressler: Yeah, totally.
+alfred: And right now it's taking too much vertical space. I think that's really where I'm going with that. To the point that I might want to move that monthly, annual to the right or left. But, you know. But yeah, if you do annual, monthly, and then you do, you know, any of these now you can add, you can go back to.
+Becca Bressler: So cool.
+alfred: You can change it. And then here, when you continue to pay here, you would. Normal. This would. Normally, I hadn't linked here already, it would kind of look like that.
+Becca Bressler: So you have like your.
+alfred: Right, yeah, so you have your. Your what you've paid for. You can go back and edit it again. You can change the billing cycle.
+Becca Bressler: What happens if you hit edit? How do you get back to the tier? So, like, you can go. Oh, so it takes you back to the first one.
+alfred: Back to the flow.
+alfred: Yeah, back to the flow.
+Becca Bressler: This is great. This makes us look so grown up. I feel like. Do you know what I mean, though?
+alfred: Like, you know. Yes, yes, I do.
+Becca Bressler: Yeah, it really does. I'm like, oh, we look like a real socks.
+alfred: It's, you know, if you spend a little time on things.
+Becca Bressler: So. Okay. Yeah, for sure.
+alfred: Anyways.
+Becca Bressler: Yeah.
+alfred: All right, so that's this. If I activate, I think right now. Yeah, there's an error. Don't worry about it. But this is. This is fully unaccepted. I have it on a testing. This is not me physically locked out. So I'll find. I'll find those three, the other locked out cases and see what it is that we want to do for each one of those.
+Becca Bressler: Can you send me a screenshot of those? Just because then I can start thinking about the copy before it's like in alpha.
+alfred: Well, it might just be this. We might want to send people to the same flow. Really? But maybe not.
+Becca Bressler: Oh yeah, I just mean the bundle copy that you like called out. Like I can start.
+alfred: Oh, okay.
+Becca Bressler: Like if you send screenshots, I can just start thinking about like this and then what you see on the next page, if it's. Or I'll just give a pass on the next page.
+alfred: Maybe it's. Let me just do that right now. Let's see here. I'm not thrilled of the green either, so. So here I'm missing the features under each one of these. So I was trying to add that to the back end code and I got some errors and then something else happened that I'm not going to get into and I stopped working because this was again on a Saturday and I got angry. Yeah. All right.
+Becca Bressler: But yeah, yeah, here I can actually take screenshots. Can you just go back both of them here. Oh, you have them.
+alfred: Okay, got it. Yeah, I just. I'm sending them right now. Oh, no. All right. Should be in your slack.
+Becca Bressler: Okay. Amazing. Perfect. So, yeah, I can give that. I can give that a look. All right. Anything else you want to show before. Before we split?
+alfred: No, I think I need to move into the more subscriptiony part of all. Not a subscription. The clinician less worried about that one. Like the big group. Like the work Marcus did is fairly all right. I think, you know, there is some stuff that I found out through trying to figure out some of the stripe work that we could probably improve. So I'll be working on that part now. But I. I am going to be working more on getting coffee and definitely do that.
+Becca Bressler: I try to.
+Becca Bressler: Honestly, if I can. Whip up breakfast before my 9:30.
+alfred: Before. Yeah, so let's. Let's do that.
+Becca Bressler: Okay, great. Okay. Bye, Alfred.
+alfred: I'll talk to you later. Good morning, Becca.
+Becca Bressler: Thanks.
+alfred: Good morning. I'll talk to you later. Bye. Thanks.

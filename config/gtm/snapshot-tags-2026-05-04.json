@@ -1,0 +1,1789 @@
+{
+  "tag": [
+    {
+      "path": "accounts/6258528322/containers/200880687/workspaces/24/tags/63",
+      "accountId": "6258528322",
+      "containerId": "200880687",
+      "workspaceId": "24",
+      "tagId": "63",
+      "name": "Group Practice Meeting Booked",
+      "type": "awct",
+      "parameter": [
+        {
+          "type": "boolean",
+          "key": "enableNewCustomerReporting",
+          "value": "false"
+        },
+        {
+          "type": "boolean",
+          "key": "enableConversionLinker",
+          "value": "true"
+        },
+        {
+          "type": "boolean",
+          "key": "enableProductReporting",
+          "value": "false"
+        },
+        {
+          "type": "template",
+          "key": "conversionValue",
+          "value": "500"
+        },
+        {
+          "type": "template",
+          "key": "conversionCookiePrefix",
+          "value": "_gcl"
+        },
+        {
+          "type": "boolean",
+          "key": "enableShippingData",
+          "value": "false"
+        },
+        {
+          "type": "template",
+          "key": "conversionId",
+          "value": "11416945570"
+        },
+        {
+          "type": "template",
+          "key": "conversionLabel",
+          "value": "0VFLCJmq0OwaEKKHg8Qq"
+        },
+        {
+          "type": "boolean",
+          "key": "rdp",
+          "value": "false"
+        }
+      ],
+      "fingerprint": "1752020541867",
+      "firingTriggerId": [
+        "62"
+      ],
+      "tagFiringOption": "oncePerEvent",
+      "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6258528322/containers/200880687/workspaces/24/tags/63?apiLink=tag",
+      "monitoringMetadata": {
+        "type": "map"
+      },
+      "consentSettings": {
+        "consentStatus": "notSet"
+      }
+    },
+    {
+      "path": "accounts/6258528322/containers/200880687/workspaces/24/tags/61",
+      "accountId": "6258528322",
+      "containerId": "200880687",
+      "workspaceId": "24",
+      "tagId": "61",
+      "name": "Private Practice Meeting Booked",
+      "type": "awct",
+      "parameter": [
+        {
+          "type": "boolean",
+          "key": "enableNewCustomerReporting",
+          "value": "false"
+        },
+        {
+          "type": "boolean",
+          "key": "enableConversionLinker",
+          "value": "true"
+        },
+        {
+          "type": "boolean",
+          "key": "enableProductReporting",
+          "value": "false"
+        },
+        {
+          "type": "template",
+          "key": "conversionValue",
+          "value": "75"
+        },
+        {
+          "type": "template",
+          "key": "conversionCookiePrefix",
+          "value": "_gcl"
+        },
+        {
+          "type": "boolean",
+          "key": "enableShippingData",
+          "value": "false"
+        },
+        {
+          "type": "template",
+          "key": "conversionId",
+          "value": "11416945570"
+        },
+        {
+          "type": "template",
+          "key": "conversionLabel",
+          "value": "oP_fCInbz-waEKKHg8Qq"
+        },
+        {
+          "type": "boolean",
+          "key": "rdp",
+          "value": "false"
+        }
+      ],
+      "fingerprint": "1752019606951",
+      "firingTriggerId": [
+        "60"
+      ],
+      "tagFiringOption": "oncePerEvent",
+      "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6258528322/containers/200880687/workspaces/24/tags/61?apiLink=tag",
+      "monitoringMetadata": {
+        "type": "map"
+      },
+      "consentSettings": {
+        "consentStatus": "notSet"
+      }
+    },
+    {
+      "path": "accounts/6258528322/containers/200880687/workspaces/24/tags/45",
+      "accountId": "6258528322",
+      "containerId": "200880687",
+      "workspaceId": "24",
+      "tagId": "45",
+      "name": "LinkedIn_First Note",
+      "type": "cvt_TB7ZX",
+      "parameter": [
+        {
+          "type": "template",
+          "key": "customUrl"
+        },
+        {
+          "type": "template",
+          "key": "eventId"
+        },
+        {
+          "type": "template",
+          "key": "partnerId",
+          "value": "6348473"
+        },
+        {
+          "type": "template",
+          "key": "conversionId",
+          "value": "21453857"
+        }
+      ],
+      "fingerprint": "1741704405072",
+      "firingTriggerId": [
+        "15"
+      ],
+      "tagFiringOption": "oncePerEvent",
+      "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6258528322/containers/200880687/workspaces/24/tags/45?apiLink=tag",
+      "monitoringMetadata": {
+        "type": "map"
+      },
+      "consentSettings": {
+        "consentStatus": "notSet"
+      }
+    },
+    {
+      "path": "accounts/6258528322/containers/200880687/workspaces/24/tags/56",
+      "accountId": "6258528322",
+      "containerId": "200880687",
+      "workspaceId": "24",
+      "tagId": "56",
+      "name": "FB_CONVERSIONS_API-1625233994894344-Web-Tag-GA4_Config",
+      "type": "googtag",
+      "parameter": [
+        {
+          "type": "template",
+          "key": "tagId",
+          "value": "G-B7Q5FRBQRH"
+        },
+        {
+          "type": "list",
+          "key": "configSettingsTable",
+          "list": [
+            {
+              "type": "map",
+              "map": [
+                {
+                  "type": "template",
+                  "key": "parameter",
+                  "value": "transport_url"
+                },
+                {
+                  "type": "template",
+                  "key": "parameterValue",
+                  "value": "https://server-side-tagging-z4zkeg2xnq-uc.a.run.app"
+                }
+              ]
+            },
+            {
+              "type": "map",
+              "map": [
+                {
+                  "type": "template",
+                  "key": "parameter",
+                  "value": "send_page_view"
+                },
+                {
+                  "type": "template",
+                  "key": "parameterValue",
+                  "value": "true"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fingerprint": "1741811141476",
+      "firingTriggerId": [
+        "46"
+      ],
+      "tagFiringOption": "oncePerEvent",
+      "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6258528322/containers/200880687/workspaces/24/tags/56?apiLink=tag",
+      "consentSettings": {
+        "consentStatus": "notSet"
+      }
+    },
+    {
+      "path": "accounts/6258528322/containers/200880687/workspaces/24/tags/57",
+      "accountId": "6258528322",
+      "containerId": "200880687",
+      "workspaceId": "24",
+      "tagId": "57",
+      "name": "FB_CONVERSIONS_API-1625233994894344-Web-Tag-GA4_Event",
+      "type": "gaawe",
+      "parameter": [
+        {
+          "type": "list",
+          "key": "eventSettingsTable",
+          "list": [
+            {
+              "type": "map",
+              "map": [
+                {
+                  "type": "template",
+                  "key": "parameter",
+                  "value": "user_data"
+                },
+                {
+                  "type": "template",
+                  "key": "parameterValue",
+                  "value": "{{FB_CONVERSIONS_API-1625233994894344-Web-Variable-User_Data}}"
+                }
+              ]
+            },
+            {
+              "type": "map",
+              "map": [
+                {
+                  "type": "template",
+                  "key": "parameter",
+                  "value": "currency"
+                },
+                {
+                  "type": "template",
+                  "key": "parameterValue",
+                  "value": "{{FB_CONVERSIONS_API-1625233994894344-Web-Variable-Custom_Data_Currency}}"
+                }
+              ]
+            },
+            {
+              "type": "map",
+              "map": [
+                {
+                  "type": "template",
+                  "key": "parameter",
+                  "value": "items"
+                },
+                {
+                  "type": "template",
+                  "key": "parameterValue",
+                  "value": "{{FB_CONVERSIONS_API-1625233994894344-Web-Variable-Custom_Data_Items}}"
+                }
+              ]
+            },
+            {
+              "type": "map",
+              "map": [
+                {
+                  "type": "template",
+                  "key": "parameter",
+                  "value": "transaction_id"
+                },
+                {
+                  "type": "template",
+                  "key": "parameterValue",
+                  "value": "{{FB_CONVERSIONS_API-1625233994894344-Web-Variable-Custom_Data_Transaction_ID}}"
+                }
+              ]
+            },
+            {
+              "type": "map",
+              "map": [
+                {
+                  "type": "template",
+                  "key": "parameter",
+                  "value": "value"
+                },
+                {
+                  "type": "template",
+                  "key": "parameterValue",
+                  "value": "{{FB_CONVERSIONS_API-1625233994894344-Web-Variable-Custom_Data_Value}}"
+                }
+              ]
+            },
+            {
+              "type": "map",
+              "map": [
+                {
+                  "type": "template",
+                  "key": "parameter",
+                  "value": "event_id"
+                },
+                {
+                  "type": "template",
+                  "key": "parameterValue",
+                  "value": "{{FB_CONVERSIONS_API-1625233994894344-Web-Variable-Event_ID_Constant}}"
+                }
+              ]
+            },
+            {
+              "type": "map",
+              "map": [
+                {
+                  "type": "template",
+                  "key": "parameter",
+                  "value": "event_name"
+                },
+                {
+                  "type": "template",
+                  "key": "parameterValue",
+                  "value": "{{FB_CONVERSIONS_API-1625233994894344-Web-Variable-FBEventName}}"
+                }
+              ]
+            },
+            {
+              "type": "map",
+              "map": [
+                {
+                  "type": "template",
+                  "key": "parameter",
+                  "value": "first_party_collection"
+                },
+                {
+                  "type": "template",
+                  "key": "parameterValue",
+                  "value": "true"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "template",
+          "key": "eventName",
+          "value": "{{Event}}"
+        },
+        {
+          "type": "template",
+          "key": "measurementIdOverride",
+          "value": "G-B7Q5FRBQRH"
+        }
+      ],
+      "fingerprint": "1741811142093",
+      "firingTriggerId": [
+        "46",
+        "47"
+      ],
+      "tagFiringOption": "oncePerEvent",
+      "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6258528322/containers/200880687/workspaces/24/tags/57?apiLink=tag",
+      "consentSettings": {
+        "consentStatus": "notSet"
+      }
+    },
+    {
+      "path": "accounts/6258528322/containers/200880687/workspaces/24/tags/58",
+      "accountId": "6258528322",
+      "containerId": "200880687",
+      "workspaceId": "24",
+      "tagId": "58",
+      "name": "FB_CONVERSIONS_API-1625233994894344-Web-Tag-Pixel_Event",
+      "type": "html",
+      "parameter": [
+        {
+          "type": "template",
+          "key": "html",
+          "value": "\n<script>\n  fbq('track', {{FB_CONVERSIONS_API-1625233994894344-Web-Variable-FBEventName}},\n    {\n      'currency': {{FB_CONVERSIONS_API-1625233994894344-Web-Variable-Custom_Data_Currency}},\n      'contents': {{FB_CONVERSIONS_API-1625233994894344-Web-Variable-Custom_Data_Items}},\n      'order_id': {{FB_CONVERSIONS_API-1625233994894344-Web-Variable-Custom_Data_Transaction_ID}},\n      'value': {{FB_CONVERSIONS_API-1625233994894344-Web-Variable-Custom_Data_Value}},\n    },\n    {\n      'eventID': {{FB_CONVERSIONS_API-1625233994894344-Web-Variable-Event_ID_Constant}},\n    }\n  );\n</script>"
+        },
+        {
+          "type": "boolean",
+          "key": "supportDocumentWrite",
+          "value": "false"
+        }
+      ],
+      "fingerprint": "1741811142769",
+      "firingTriggerId": [
+        "47"
+      ],
+      "tagFiringOption": "oncePerEvent",
+      "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6258528322/containers/200880687/workspaces/24/tags/58?apiLink=tag",
+      "consentSettings": {
+        "consentStatus": "notSet"
+      }
+    },
+    {
+      "path": "accounts/6258528322/containers/200880687/workspaces/24/tags/59",
+      "accountId": "6258528322",
+      "containerId": "200880687",
+      "workspaceId": "24",
+      "tagId": "59",
+      "name": "FB_CONVERSIONS_API-1625233994894344-Web-Tag-Pixel_Setup",
+      "type": "html",
+      "parameter": [
+        {
+          "type": "template",
+          "key": "html",
+          "value": "<!-- Facebook Pixel Code -->\n<script nonce=\"fzZdDOzU\">\n!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?\nn.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;\nn.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;\nt.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,\ndocument,'script','https://connect.facebook.net/en_US/fbevents.js');\n\nfbq('init', '1625233994894344');\nfbq('set', 'agent', 'gtmss', '1625233994894344');\n\nfbq('track', {{FB_CONVERSIONS_API-1625233994894344-Web-Variable-FBEventName}}, {}, {'eventID': {{FB_CONVERSIONS_API-1625233994894344-Web-Variable-Event_ID_Constant}}});\n</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\nsrc=\"https://www.facebook.com/tr?id=1625233994894344&ev=PageView&noscript=1\"\n/></noscript>\n<!-- End Facebook Pixel Code -->"
+        },
+        {
+          "type": "boolean",
+          "key": "supportDocumentWrite",
+          "value": "false"
+        }
+      ],
+      "fingerprint": "1741811143810",
+      "firingTriggerId": [
+        "46"
+      ],
+      "tagFiringOption": "oncePerEvent",
+      "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6258528322/containers/200880687/workspaces/24/tags/59?apiLink=tag",
+      "consentSettings": {
+        "consentStatus": "notSet"
+      }
+    },
+    {
+      "path": "accounts/6258528322/containers/200880687/workspaces/24/tags/20",
+      "accountId": "6258528322",
+      "containerId": "200880687",
+      "workspaceId": "24",
+      "tagId": "20",
+      "name": "GA4 - Knowledge Base Clicked Event",
+      "type": "gaawe",
+      "parameter": [
+        {
+          "type": "boolean",
+          "key": "sendEcommerceData",
+          "value": "false"
+        },
+        {
+          "type": "boolean",
+          "key": "enhancedUserId",
+          "value": "false"
+        },
+        {
+          "type": "template",
+          "key": "eventName",
+          "value": "help_knowledge base_clicked"
+        },
+        {
+          "type": "template",
+          "key": "measurementIdOverride",
+          "value": "{{GA4 ID}}"
+        }
+      ],
+      "fingerprint": "1738332274151",
+      "firingTriggerId": [
+        "19"
+      ],
+      "tagFiringOption": "oncePerEvent",
+      "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6258528322/containers/200880687/workspaces/24/tags/20?apiLink=tag",
+      "paused": true,
+      "monitoringMetadata": {
+        "type": "map"
+      },
+      "consentSettings": {
+        "consentStatus": "notSet"
+      }
+    },
+    {
+      "path": "accounts/6258528322/containers/200880687/workspaces/24/tags/29",
+      "accountId": "6258528322",
+      "containerId": "200880687",
+      "workspaceId": "24",
+      "tagId": "29",
+      "name": "Meta First Note 2 - Test",
+      "type": "html",
+      "parameter": [
+        {
+          "type": "template",
+          "key": "html",
+          "value": "<script>\n  fbq('track', 'FirstNote');\n</script>"
+        },
+        {
+          "type": "boolean",
+          "key": "supportDocumentWrite",
+          "value": "false"
+        }
+      ],
+      "fingerprint": "1738160590902",
+      "firingTriggerId": [
+        "15"
+      ],
+      "tagFiringOption": "oncePerEvent",
+      "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6258528322/containers/200880687/workspaces/24/tags/29?apiLink=tag",
+      "paused": true,
+      "monitoringMetadata": {
+        "type": "map"
+      },
+      "consentSettings": {
+        "consentStatus": "notSet"
+      }
+    },
+    {
+      "path": "accounts/6258528322/containers/200880687/workspaces/24/tags/31",
+      "accountId": "6258528322",
+      "containerId": "200880687",
+      "workspaceId": "24",
+      "tagId": "31",
+      "name": "Meta - Knowledge Base Clicked Event",
+      "type": "cvt_200880687_24",
+      "parameter": [
+        {
+          "type": "boolean",
+          "key": "disablePushState",
+          "value": "false"
+        },
+        {
+          "type": "template",
+          "key": "pixelId",
+          "value": "{{Meta Pixel ID}}"
+        },
+        {
+          "type": "boolean",
+          "key": "disableAutoConfig",
+          "value": "false"
+        },
+        {
+          "type": "boolean",
+          "key": "enhancedEcommerce",
+          "value": "false"
+        },
+        {
+          "type": "boolean",
+          "key": "dpoLDU",
+          "value": "false"
+        },
+        {
+          "type": "template",
+          "key": "eventName",
+          "value": "custom"
+        },
+        {
+          "type": "boolean",
+          "key": "objectPropertiesFromVariable",
+          "value": "false"
+        },
+        {
+          "type": "template",
+          "key": "customEventName",
+          "value": "KnowledgeBaseClick"
+        },
+        {
+          "type": "boolean",
+          "key": "consent",
+          "value": "true"
+        },
+        {
+          "type": "boolean",
+          "key": "advancedMatching",
+          "value": "false"
+        }
+      ],
+      "fingerprint": "1738332274152",
+      "firingTriggerId": [
+        "19"
+      ],
+      "tagFiringOption": "oncePerEvent",
+      "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6258528322/containers/200880687/workspaces/24/tags/31?apiLink=tag",
+      "paused": true,
+      "monitoringMetadata": {
+        "type": "map"
+      },
+      "consentSettings": {
+        "consentStatus": "notSet"
+      }
+    },
+    {
+      "path": "accounts/6258528322/containers/200880687/workspaces/24/tags/43",
+      "accountId": "6258528322",
+      "containerId": "200880687",
+      "workspaceId": "24",
+      "tagId": "43",
+      "name": "Reddit - First Note Event (Lead)",
+      "type": "cvt_200880687_34",
+      "parameter": [
+        {
+          "type": "boolean",
+          "key": "enableFirstPartyCookies",
+          "value": "true"
+        },
+        {
+          "type": "boolean",
+          "key": "dataProcessingOptions",
+          "value": "false"
+        },
+        {
+          "type": "template",
+          "key": "eventType",
+          "value": "Lead"
+        },
+        {
+          "type": "template",
+          "key": "id",
+          "value": "{{Reddit Pixel ID}}"
+        },
+        {
+          "type": "boolean",
+          "key": "advancedMatching",
+          "value": "false"
+        },
+        {
+          "type": "template",
+          "key": "productInputType",
+          "value": "entryManual"
+        }
+      ],
+      "fingerprint": "1739815753009",
+      "firingTriggerId": [
+        "15"
+      ],
+      "tagFiringOption": "oncePerEvent",
+      "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6258528322/containers/200880687/workspaces/24/tags/43?apiLink=tag",
+      "monitoringMetadata": {
+        "type": "map"
+      },
+      "consentSettings": {
+        "consentStatus": "notSet"
+      }
+    },
+    {
+      "path": "accounts/6258528322/containers/200880687/workspaces/24/tags/36",
+      "accountId": "6258528322",
+      "containerId": "200880687",
+      "workspaceId": "24",
+      "tagId": "36",
+      "name": "Reddit - Checkout Success Event",
+      "type": "cvt_200880687_34",
+      "parameter": [
+        {
+          "type": "boolean",
+          "key": "enableFirstPartyCookies",
+          "value": "true"
+        },
+        {
+          "type": "boolean",
+          "key": "dataProcessingOptions",
+          "value": "false"
+        },
+        {
+          "type": "template",
+          "key": "eventType",
+          "value": "Custom"
+        },
+        {
+          "type": "template",
+          "key": "id",
+          "value": "{{Reddit Pixel ID}}"
+        },
+        {
+          "type": "template",
+          "key": "customEventName",
+          "value": "Checkout Success Event"
+        },
+        {
+          "type": "boolean",
+          "key": "advancedMatching",
+          "value": "false"
+        },
+        {
+          "type": "template",
+          "key": "productInputType",
+          "value": "entryManual"
+        }
+      ],
+      "fingerprint": "1739202567650",
+      "firingTriggerId": [
+        "17"
+      ],
+      "tagFiringOption": "oncePerEvent",
+      "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6258528322/containers/200880687/workspaces/24/tags/36?apiLink=tag",
+      "monitoringMetadata": {
+        "type": "map"
+      },
+      "consentSettings": {
+        "consentStatus": "notSet"
+      }
+    },
+    {
+      "path": "accounts/6258528322/containers/200880687/workspaces/24/tags/37",
+      "accountId": "6258528322",
+      "containerId": "200880687",
+      "workspaceId": "24",
+      "tagId": "37",
+      "name": "Reddit - First Note Event",
+      "type": "cvt_200880687_34",
+      "parameter": [
+        {
+          "type": "boolean",
+          "key": "enableFirstPartyCookies",
+          "value": "true"
+        },
+        {
+          "type": "boolean",
+          "key": "dataProcessingOptions",
+          "value": "false"
+        },
+        {
+          "type": "template",
+          "key": "eventType",
+          "value": "Custom"
+        },
+        {
+          "type": "template",
+          "key": "id",
+          "value": "{{Reddit Pixel ID}}"
+        },
+        {
+          "type": "template",
+          "key": "customEventName",
+          "value": "First Note Event"
+        },
+        {
+          "type": "boolean",
+          "key": "advancedMatching",
+          "value": "false"
+        },
+        {
+          "type": "template",
+          "key": "productInputType",
+          "value": "entryManual"
+        }
+      ],
+      "fingerprint": "1739202553118",
+      "firingTriggerId": [
+        "15"
+      ],
+      "tagFiringOption": "oncePerEvent",
+      "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6258528322/containers/200880687/workspaces/24/tags/37?apiLink=tag",
+      "monitoringMetadata": {
+        "type": "map"
+      },
+      "consentSettings": {
+        "consentStatus": "notSet"
+      }
+    },
+    {
+      "path": "accounts/6258528322/containers/200880687/workspaces/24/tags/38",
+      "accountId": "6258528322",
+      "containerId": "200880687",
+      "workspaceId": "24",
+      "tagId": "38",
+      "name": "Reddit - Signup Confirm Event",
+      "type": "cvt_200880687_34",
+      "parameter": [
+        {
+          "type": "boolean",
+          "key": "enableFirstPartyCookies",
+          "value": "true"
+        },
+        {
+          "type": "boolean",
+          "key": "dataProcessingOptions",
+          "value": "false"
+        },
+        {
+          "type": "template",
+          "key": "eventType",
+          "value": "Custom"
+        },
+        {
+          "type": "template",
+          "key": "id",
+          "value": "{{Reddit Pixel ID}}"
+        },
+        {
+          "type": "template",
+          "key": "customEventName",
+          "value": "WebApp_SignupConfirm"
+        },
+        {
+          "type": "boolean",
+          "key": "advancedMatching",
+          "value": "false"
+        },
+        {
+          "type": "template",
+          "key": "productInputType",
+          "value": "entryManual"
+        }
+      ],
+      "fingerprint": "1739202643744",
+      "firingTriggerId": [
+        "17"
+      ],
+      "tagFiringOption": "oncePerEvent",
+      "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6258528322/containers/200880687/workspaces/24/tags/38?apiLink=tag",
+      "monitoringMetadata": {
+        "type": "map"
+      },
+      "consentSettings": {
+        "consentStatus": "notSet"
+      }
+    },
+    {
+      "path": "accounts/6258528322/containers/200880687/workspaces/24/tags/39",
+      "accountId": "6258528322",
+      "containerId": "200880687",
+      "workspaceId": "24",
+      "tagId": "39",
+      "name": "Reddit - user_id",
+      "type": "cvt_200880687_34",
+      "parameter": [
+        {
+          "type": "boolean",
+          "key": "enableFirstPartyCookies",
+          "value": "true"
+        },
+        {
+          "type": "boolean",
+          "key": "dataProcessingOptions",
+          "value": "false"
+        },
+        {
+          "type": "template",
+          "key": "eventType",
+          "value": "Custom"
+        },
+        {
+          "type": "template",
+          "key": "id",
+          "value": "{{Reddit Pixel ID}}"
+        },
+        {
+          "type": "template",
+          "key": "customEventName",
+          "value": "user_id"
+        },
+        {
+          "type": "boolean",
+          "key": "advancedMatching",
+          "value": "false"
+        },
+        {
+          "type": "template",
+          "key": "productInputType",
+          "value": "entryManual"
+        }
+      ],
+      "fingerprint": "1739203139763",
+      "firingTriggerId": [
+        "8"
+      ],
+      "tagFiringOption": "oncePerEvent",
+      "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6258528322/containers/200880687/workspaces/24/tags/39?apiLink=tag",
+      "monitoringMetadata": {
+        "type": "map"
+      },
+      "consentSettings": {
+        "consentStatus": "notSet"
+      }
+    },
+    {
+      "path": "accounts/6258528322/containers/200880687/workspaces/24/tags/40",
+      "accountId": "6258528322",
+      "containerId": "200880687",
+      "workspaceId": "24",
+      "tagId": "40",
+      "name": "Reddit - Trial Button Click",
+      "type": "cvt_200880687_34",
+      "parameter": [
+        {
+          "type": "boolean",
+          "key": "enableFirstPartyCookies",
+          "value": "true"
+        },
+        {
+          "type": "boolean",
+          "key": "dataProcessingOptions",
+          "value": "false"
+        },
+        {
+          "type": "template",
+          "key": "eventType",
+          "value": "Custom"
+        },
+        {
+          "type": "template",
+          "key": "id",
+          "value": "{{Reddit Pixel ID}}"
+        },
+        {
+          "type": "template",
+          "key": "customEventName",
+          "value": "trial_button_click"
+        },
+        {
+          "type": "boolean",
+          "key": "advancedMatching",
+          "value": "false"
+        },
+        {
+          "type": "template",
+          "key": "productInputType",
+          "value": "entryManual"
+        }
+      ],
+      "fingerprint": "1739205525864",
+      "firingTriggerId": [
+        "21"
+      ],
+      "tagFiringOption": "oncePerEvent",
+      "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6258528322/containers/200880687/workspaces/24/tags/40?apiLink=tag",
+      "monitoringMetadata": {
+        "type": "map"
+      },
+      "consentSettings": {
+        "consentStatus": "notSet"
+      }
+    },
+    {
+      "path": "accounts/6258528322/containers/200880687/workspaces/24/tags/41",
+      "accountId": "6258528322",
+      "containerId": "200880687",
+      "workspaceId": "24",
+      "tagId": "41",
+      "name": "Reddit - Page View",
+      "type": "cvt_200880687_34",
+      "parameter": [
+        {
+          "type": "boolean",
+          "key": "enableFirstPartyCookies",
+          "value": "true"
+        },
+        {
+          "type": "boolean",
+          "key": "dataProcessingOptions",
+          "value": "false"
+        },
+        {
+          "type": "template",
+          "key": "eventType",
+          "value": "PageVisit"
+        },
+        {
+          "type": "template",
+          "key": "id",
+          "value": "{{Reddit Pixel ID}}"
+        },
+        {
+          "type": "boolean",
+          "key": "advancedMatching",
+          "value": "false"
+        },
+        {
+          "type": "template",
+          "key": "productInputType",
+          "value": "entryManual"
+        }
+      ],
+      "fingerprint": "1739205624911",
+      "firingTriggerId": [
+        "2147479553"
+      ],
+      "tagFiringOption": "oncePerEvent",
+      "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6258528322/containers/200880687/workspaces/24/tags/41?apiLink=tag",
+      "monitoringMetadata": {
+        "type": "map"
+      },
+      "consentSettings": {
+        "consentStatus": "notSet"
+      }
+    },
+    {
+      "path": "accounts/6258528322/containers/200880687/workspaces/24/tags/18",
+      "accountId": "6258528322",
+      "containerId": "200880687",
+      "workspaceId": "24",
+      "tagId": "18",
+      "name": "GA4 - SignUp Confirm Event",
+      "type": "gaawe",
+      "parameter": [
+        {
+          "type": "template",
+          "key": "userDataVariable",
+          "value": "{{User Provided Data}}"
+        },
+        {
+          "type": "boolean",
+          "key": "sendEcommerceData",
+          "value": "false"
+        },
+        {
+          "type": "boolean",
+          "key": "enhancedUserId",
+          "value": "true"
+        },
+        {
+          "type": "template",
+          "key": "eventName",
+          "value": "WebApp_SignupConfirm"
+        },
+        {
+          "type": "template",
+          "key": "measurementIdOverride",
+          "value": "{{GA4 ID}}"
+        }
+      ],
+      "fingerprint": "1738157412051",
+      "firingTriggerId": [
+        "17"
+      ],
+      "tagFiringOption": "oncePerEvent",
+      "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6258528322/containers/200880687/workspaces/24/tags/18?apiLink=tag",
+      "monitoringMetadata": {
+        "type": "map"
+      },
+      "consentSettings": {
+        "consentStatus": "notSet"
+      }
+    },
+    {
+      "path": "accounts/6258528322/containers/200880687/workspaces/24/tags/23",
+      "accountId": "6258528322",
+      "containerId": "200880687",
+      "workspaceId": "24",
+      "tagId": "23",
+      "name": "Meta - Page Views",
+      "type": "html",
+      "parameter": [
+        {
+          "type": "template",
+          "key": "html",
+          "value": "<!-- Meta Pixel Code -->\n<script>\n!function(f,b,e,v,n,t,s)\n{if(f.fbq)return;n=f.fbq=function(){n.callMethod?\nn.callMethod.apply(n,arguments):n.queue.push(arguments)};\nif(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\nn.queue=[];t=b.createElement(e);t.async=!0;\nt.src=v;s=b.getElementsByTagName(e)[0];\ns.parentNode.insertBefore(t,s)}(window, document,'script',\n'https://connect.facebook.net/en_US/fbevents.js');\nfbq('init', '1625233994894344');\nfbq('track', 'PageView');\n</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\nsrc=\"https://www.facebook.com/tr?id=1625233994894344&ev=PageView&noscript=1\"\n/></noscript>\n<!-- End Meta Pixel Code -->"
+        },
+        {
+          "type": "boolean",
+          "key": "supportDocumentWrite",
+          "value": "false"
+        }
+      ],
+      "fingerprint": "1738163957485",
+      "firingTriggerId": [
+        "2147479553"
+      ],
+      "tagFiringOption": "oncePerEvent",
+      "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6258528322/containers/200880687/workspaces/24/tags/23?apiLink=tag",
+      "monitoringMetadata": {
+        "type": "map"
+      },
+      "consentSettings": {
+        "consentStatus": "notSet"
+      }
+    },
+    {
+      "path": "accounts/6258528322/containers/200880687/workspaces/24/tags/26",
+      "accountId": "6258528322",
+      "containerId": "200880687",
+      "workspaceId": "24",
+      "tagId": "26",
+      "name": "Meta - First Note Event",
+      "type": "cvt_200880687_24",
+      "parameter": [
+        {
+          "type": "boolean",
+          "key": "disablePushState",
+          "value": "false"
+        },
+        {
+          "type": "template",
+          "key": "pixelId",
+          "value": "{{Meta Pixel ID}}"
+        },
+        {
+          "type": "boolean",
+          "key": "disableAutoConfig",
+          "value": "false"
+        },
+        {
+          "type": "boolean",
+          "key": "enhancedEcommerce",
+          "value": "false"
+        },
+        {
+          "type": "boolean",
+          "key": "dpoLDU",
+          "value": "false"
+        },
+        {
+          "type": "template",
+          "key": "eventName",
+          "value": "custom"
+        },
+        {
+          "type": "boolean",
+          "key": "objectPropertiesFromVariable",
+          "value": "false"
+        },
+        {
+          "type": "template",
+          "key": "customEventName",
+          "value": "FirstNote"
+        },
+        {
+          "type": "boolean",
+          "key": "consent",
+          "value": "true"
+        },
+        {
+          "type": "boolean",
+          "key": "advancedMatching",
+          "value": "false"
+        }
+      ],
+      "fingerprint": "1738160653063",
+      "firingTriggerId": [
+        "15"
+      ],
+      "tagFiringOption": "oncePerEvent",
+      "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6258528322/containers/200880687/workspaces/24/tags/26?apiLink=tag",
+      "monitoringMetadata": {
+        "type": "map"
+      },
+      "consentSettings": {
+        "consentStatus": "notSet"
+      }
+    },
+    {
+      "path": "accounts/6258528322/containers/200880687/workspaces/24/tags/27",
+      "accountId": "6258528322",
+      "containerId": "200880687",
+      "workspaceId": "24",
+      "tagId": "27",
+      "name": "Meta - SignUp Confirm Event",
+      "type": "cvt_200880687_24",
+      "parameter": [
+        {
+          "type": "boolean",
+          "key": "disablePushState",
+          "value": "false"
+        },
+        {
+          "type": "template",
+          "key": "pixelId",
+          "value": "{{Meta Pixel ID}}"
+        },
+        {
+          "type": "boolean",
+          "key": "disableAutoConfig",
+          "value": "false"
+        },
+        {
+          "type": "boolean",
+          "key": "enhancedEcommerce",
+          "value": "false"
+        },
+        {
+          "type": "boolean",
+          "key": "dpoLDU",
+          "value": "false"
+        },
+        {
+          "type": "template",
+          "key": "eventName",
+          "value": "custom"
+        },
+        {
+          "type": "boolean",
+          "key": "objectPropertiesFromVariable",
+          "value": "false"
+        },
+        {
+          "type": "template",
+          "key": "customEventName",
+          "value": "SignUpConfirm"
+        },
+        {
+          "type": "boolean",
+          "key": "consent",
+          "value": "true"
+        },
+        {
+          "type": "boolean",
+          "key": "advancedMatching",
+          "value": "false"
+        }
+      ],
+      "fingerprint": "1738157325269",
+      "firingTriggerId": [
+        "17"
+      ],
+      "tagFiringOption": "oncePerEvent",
+      "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6258528322/containers/200880687/workspaces/24/tags/27?apiLink=tag",
+      "monitoringMetadata": {
+        "type": "map"
+      },
+      "consentSettings": {
+        "consentStatus": "notSet"
+      }
+    },
+    {
+      "path": "accounts/6258528322/containers/200880687/workspaces/24/tags/30",
+      "accountId": "6258528322",
+      "containerId": "200880687",
+      "workspaceId": "24",
+      "tagId": "30",
+      "name": "Meta - Checkout Success Event",
+      "type": "cvt_200880687_24",
+      "parameter": [
+        {
+          "type": "boolean",
+          "key": "disablePushState",
+          "value": "false"
+        },
+        {
+          "type": "template",
+          "key": "pixelId",
+          "value": "{{Meta Pixel ID}}"
+        },
+        {
+          "type": "boolean",
+          "key": "disableAutoConfig",
+          "value": "false"
+        },
+        {
+          "type": "boolean",
+          "key": "enhancedEcommerce",
+          "value": "false"
+        },
+        {
+          "type": "boolean",
+          "key": "dpoLDU",
+          "value": "false"
+        },
+        {
+          "type": "template",
+          "key": "eventName",
+          "value": "custom"
+        },
+        {
+          "type": "boolean",
+          "key": "objectPropertiesFromVariable",
+          "value": "false"
+        },
+        {
+          "type": "template",
+          "key": "customEventName",
+          "value": "CheckoutSucces"
+        },
+        {
+          "type": "boolean",
+          "key": "consent",
+          "value": "true"
+        },
+        {
+          "type": "boolean",
+          "key": "advancedMatching",
+          "value": "false"
+        }
+      ],
+      "fingerprint": "1738160130691",
+      "firingTriggerId": [
+        "13"
+      ],
+      "tagFiringOption": "oncePerEvent",
+      "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6258528322/containers/200880687/workspaces/24/tags/30?apiLink=tag",
+      "monitoringMetadata": {
+        "type": "map"
+      },
+      "consentSettings": {
+        "consentStatus": "notSet"
+      }
+    },
+    {
+      "path": "accounts/6258528322/containers/200880687/workspaces/24/tags/32",
+      "accountId": "6258528322",
+      "containerId": "200880687",
+      "workspaceId": "24",
+      "tagId": "32",
+      "name": "Meta - Trial Button Click",
+      "type": "cvt_200880687_24",
+      "parameter": [
+        {
+          "type": "boolean",
+          "key": "disablePushState",
+          "value": "false"
+        },
+        {
+          "type": "template",
+          "key": "pixelId",
+          "value": "{{Meta Pixel ID}}"
+        },
+        {
+          "type": "boolean",
+          "key": "disableAutoConfig",
+          "value": "false"
+        },
+        {
+          "type": "boolean",
+          "key": "enhancedEcommerce",
+          "value": "false"
+        },
+        {
+          "type": "boolean",
+          "key": "dpoLDU",
+          "value": "false"
+        },
+        {
+          "type": "template",
+          "key": "eventName",
+          "value": "custom"
+        },
+        {
+          "type": "boolean",
+          "key": "objectPropertiesFromVariable",
+          "value": "false"
+        },
+        {
+          "type": "template",
+          "key": "customEventName",
+          "value": "TrialButtonClick"
+        },
+        {
+          "type": "boolean",
+          "key": "consent",
+          "value": "true"
+        },
+        {
+          "type": "boolean",
+          "key": "advancedMatching",
+          "value": "false"
+        }
+      ],
+      "fingerprint": "1738160931176",
+      "firingTriggerId": [
+        "21"
+      ],
+      "tagFiringOption": "oncePerEvent",
+      "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6258528322/containers/200880687/workspaces/24/tags/32?apiLink=tag",
+      "monitoringMetadata": {
+        "type": "map"
+      },
+      "consentSettings": {
+        "consentStatus": "notSet"
+      }
+    },
+    {
+      "path": "accounts/6258528322/containers/200880687/workspaces/24/tags/33",
+      "accountId": "6258528322",
+      "containerId": "200880687",
+      "workspaceId": "24",
+      "tagId": "33",
+      "name": "Meta - user_id",
+      "type": "cvt_200880687_24",
+      "parameter": [
+        {
+          "type": "boolean",
+          "key": "disablePushState",
+          "value": "false"
+        },
+        {
+          "type": "template",
+          "key": "pixelId",
+          "value": "{{Meta Pixel ID}}"
+        },
+        {
+          "type": "boolean",
+          "key": "disableAutoConfig",
+          "value": "false"
+        },
+        {
+          "type": "boolean",
+          "key": "enhancedEcommerce",
+          "value": "false"
+        },
+        {
+          "type": "boolean",
+          "key": "dpoLDU",
+          "value": "false"
+        },
+        {
+          "type": "template",
+          "key": "eventName",
+          "value": "custom"
+        },
+        {
+          "type": "boolean",
+          "key": "objectPropertiesFromVariable",
+          "value": "false"
+        },
+        {
+          "type": "template",
+          "key": "customEventName",
+          "value": "UserID"
+        },
+        {
+          "type": "boolean",
+          "key": "consent",
+          "value": "true"
+        },
+        {
+          "type": "boolean",
+          "key": "advancedMatching",
+          "value": "false"
+        }
+      ],
+      "fingerprint": "1738255108045",
+      "firingTriggerId": [
+        "8"
+      ],
+      "tagFiringOption": "oncePerEvent",
+      "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6258528322/containers/200880687/workspaces/24/tags/33?apiLink=tag",
+      "monitoringMetadata": {
+        "type": "map"
+      },
+      "consentSettings": {
+        "consentStatus": "notSet"
+      }
+    },
+    {
+      "path": "accounts/6258528322/containers/200880687/workspaces/24/tags/7",
+      "accountId": "6258528322",
+      "containerId": "200880687",
+      "workspaceId": "24",
+      "tagId": "7",
+      "name": "GA4 Configure",
+      "type": "googtag",
+      "parameter": [
+        {
+          "type": "template",
+          "key": "tagId",
+          "value": "{{GA4 ID}}"
+        },
+        {
+          "type": "list",
+          "key": "configSettingsTable",
+          "list": [
+            {
+              "type": "map",
+              "map": [
+                {
+                  "type": "template",
+                  "key": "parameter",
+                  "value": "send_page_view"
+                },
+                {
+                  "type": "template",
+                  "key": "parameterValue",
+                  "value": "true"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fingerprint": "1737988229622",
+      "firingTriggerId": [
+        "2147479553"
+      ],
+      "tagFiringOption": "oncePerEvent",
+      "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6258528322/containers/200880687/workspaces/24/tags/7?apiLink=tag",
+      "monitoringMetadata": {
+        "type": "map"
+      },
+      "consentSettings": {
+        "consentStatus": "notSet"
+      }
+    },
+    {
+      "path": "accounts/6258528322/containers/200880687/workspaces/24/tags/22",
+      "accountId": "6258528322",
+      "containerId": "200880687",
+      "workspaceId": "24",
+      "tagId": "22",
+      "name": "GA4 - Trial Button Click",
+      "type": "gaawe",
+      "parameter": [
+        {
+          "type": "boolean",
+          "key": "sendEcommerceData",
+          "value": "false"
+        },
+        {
+          "type": "boolean",
+          "key": "enhancedUserId",
+          "value": "false"
+        },
+        {
+          "type": "list",
+          "key": "eventSettingsTable",
+          "list": [
+            {
+              "type": "map",
+              "map": [
+                {
+                  "type": "template",
+                  "key": "parameter",
+                  "value": "Page Location"
+                },
+                {
+                  "type": "template",
+                  "key": "parameterValue",
+                  "value": "{{Page Path}}"
+                }
+              ]
+            },
+            {
+              "type": "map",
+              "map": [
+                {
+                  "type": "template",
+                  "key": "parameter",
+                  "value": "Click Text"
+                },
+                {
+                  "type": "template",
+                  "key": "parameterValue",
+                  "value": "{{Click Text}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "template",
+          "key": "eventName",
+          "value": "trial_button_click"
+        },
+        {
+          "type": "template",
+          "key": "measurementIdOverride",
+          "value": "{{GA4 ID}}"
+        }
+      ],
+      "fingerprint": "1737989590042",
+      "firingTriggerId": [
+        "21"
+      ],
+      "tagFiringOption": "oncePerEvent",
+      "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6258528322/containers/200880687/workspaces/24/tags/22?apiLink=tag",
+      "monitoringMetadata": {
+        "type": "map"
+      },
+      "consentSettings": {
+        "consentStatus": "notSet"
+      }
+    },
+    {
+      "path": "accounts/6258528322/containers/200880687/workspaces/24/tags/3",
+      "accountId": "6258528322",
+      "containerId": "200880687",
+      "workspaceId": "24",
+      "tagId": "3",
+      "name": "Conversion linker",
+      "type": "gclidw",
+      "parameter": [
+        {
+          "type": "boolean",
+          "key": "enableCrossDomain",
+          "value": "true"
+        },
+        {
+          "type": "boolean",
+          "key": "enableUrlPassthrough",
+          "value": "true"
+        },
+        {
+          "type": "boolean",
+          "key": "acceptIncoming",
+          "value": "true"
+        },
+        {
+          "type": "template",
+          "key": "linkerDomains",
+          "value": "jotpsych.com, smartscribe.health"
+        },
+        {
+          "type": "boolean",
+          "key": "enableCookieOverrides",
+          "value": "false"
+        },
+        {
+          "type": "boolean",
+          "key": "formDecoration",
+          "value": "false"
+        },
+        {
+          "type": "template",
+          "key": "urlPosition",
+          "value": "query"
+        }
+      ],
+      "fingerprint": "1737757458125",
+      "firingTriggerId": [
+        "2147479553"
+      ],
+      "tagFiringOption": "oncePerEvent",
+      "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6258528322/containers/200880687/workspaces/24/tags/3?apiLink=tag",
+      "monitoringMetadata": {
+        "type": "map"
+      },
+      "consentSettings": {
+        "consentStatus": "notSet"
+      }
+    },
+    {
+      "path": "accounts/6258528322/containers/200880687/workspaces/24/tags/14",
+      "accountId": "6258528322",
+      "containerId": "200880687",
+      "workspaceId": "24",
+      "tagId": "14",
+      "name": "GA4 - Checkout Success Event",
+      "type": "gaawe",
+      "parameter": [
+        {
+          "type": "boolean",
+          "key": "sendEcommerceData",
+          "value": "false"
+        },
+        {
+          "type": "boolean",
+          "key": "enhancedUserId",
+          "value": "false"
+        },
+        {
+          "type": "template",
+          "key": "eventName",
+          "value": "WebApp_CheckoutSuccess"
+        },
+        {
+          "type": "template",
+          "key": "measurementIdOverride",
+          "value": "{{GA4 ID}}"
+        }
+      ],
+      "fingerprint": "1737716450807",
+      "firingTriggerId": [
+        "13"
+      ],
+      "tagFiringOption": "oncePerEvent",
+      "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6258528322/containers/200880687/workspaces/24/tags/14?apiLink=tag",
+      "monitoringMetadata": {
+        "type": "map"
+      },
+      "consentSettings": {
+        "consentStatus": "notSet"
+      }
+    },
+    {
+      "path": "accounts/6258528322/containers/200880687/workspaces/24/tags/16",
+      "accountId": "6258528322",
+      "containerId": "200880687",
+      "workspaceId": "24",
+      "tagId": "16",
+      "name": "GA4 - First Note Event",
+      "type": "gaawe",
+      "parameter": [
+        {
+          "type": "boolean",
+          "key": "sendEcommerceData",
+          "value": "false"
+        },
+        {
+          "type": "boolean",
+          "key": "enhancedUserId",
+          "value": "false"
+        },
+        {
+          "type": "template",
+          "key": "eventName",
+          "value": "WebApp_FirstNote"
+        },
+        {
+          "type": "template",
+          "key": "measurementIdOverride",
+          "value": "{{GA4 ID}}"
+        }
+      ],
+      "fingerprint": "1737716530950",
+      "firingTriggerId": [
+        "15"
+      ],
+      "tagFiringOption": "oncePerEvent",
+      "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6258528322/containers/200880687/workspaces/24/tags/16?apiLink=tag",
+      "monitoringMetadata": {
+        "type": "map"
+      },
+      "consentSettings": {
+        "consentStatus": "notSet"
+      }
+    },
+    {
+      "path": "accounts/6258528322/containers/200880687/workspaces/24/tags/9",
+      "accountId": "6258528322",
+      "containerId": "200880687",
+      "workspaceId": "24",
+      "tagId": "9",
+      "name": "user_id",
+      "type": "gaawe",
+      "parameter": [
+        {
+          "type": "boolean",
+          "key": "sendEcommerceData",
+          "value": "false"
+        },
+        {
+          "type": "boolean",
+          "key": "enhancedUserId",
+          "value": "false"
+        },
+        {
+          "type": "list",
+          "key": "eventSettingsTable",
+          "list": [
+            {
+              "type": "map",
+              "map": [
+                {
+                  "type": "template",
+                  "key": "parameter",
+                  "value": "user_id"
+                },
+                {
+                  "type": "template",
+                  "key": "parameterValue",
+                  "value": "{{user_id}}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "template",
+          "key": "eventName",
+          "value": "userID"
+        },
+        {
+          "type": "template",
+          "key": "measurementIdOverride",
+          "value": "{{GA4 ID}}"
+        }
+      ],
+      "fingerprint": "1734010526338",
+      "firingTriggerId": [
+        "8"
+      ],
+      "tagFiringOption": "oncePerEvent",
+      "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6258528322/containers/200880687/workspaces/24/tags/9?apiLink=tag",
+      "monitoringMetadata": {
+        "type": "map"
+      },
+      "consentSettings": {
+        "consentStatus": "notSet"
+      }
+    }
+  ]
+}

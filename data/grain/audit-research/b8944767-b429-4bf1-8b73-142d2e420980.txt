@@ -1,0 +1,65 @@
+Christopher Hume: Hey, Becca. Sorry jump scare you.
+Becca Bressler: Hey, one sec.
+Christopher Hume: Can you hear me?
+Becca Bressler: What is this called? Is this a customer support call?
+Christopher Hume: Yeah, this is a customer support call. I just want to give you a heads up that Michelle has been having trouble logging into the call, so she's calling Emily right now, and Emily's going to give her the link, so she should be on momentarily.
+Christopher Hume: Okay, thank you. Bye.
+Emily Kaiser: Hi, Becca. I'm trying to figure out why Michelle's not able to access this.
+Becca Bressler: Okay, I have another customer support call. 1150, 1130. So just.
+Emily Kaiser: Okay.
+Becca Bressler: Flag.
+Emily Kaiser: Yeah, for sure. Let me.
+Becca Bressler: Nice to meet you, by the way.
+Emily Kaiser: Okay, let me figure this out and hopefully she will join in just a couple minutes.
+Becca Bressler: Sure, no problem. Just do some things on the side. Hey there, Michelle.
+Michelle Denise: Becca, hi.
+Becca Bressler: How's it going?
+Michelle Denise: Good, thank you, Emily. Bye. Bye. Good. Thank you for linking up with me. Sorry, it's been a bit of a. Bit of a tough time.
+Becca Bressler: No problem at all.
+Michelle Denise: All right.
+Becca Bressler: I do want to warn you though, Michelle. I actually have another call at 11:30, so. Yeah, it's in 10 minutes, so we might need to have you reschedule a different time with customer support. Yeah, I'm sorry it took a long time to get to get you on the call. I just do have to run at 11:30.
+Michelle Denise: Okay, so when's the next time that we can get this done? This is the third time I've scheduled to chatted.
+Becca Bressler: Yeah. Are you. Can you explain? Yeah, I don't know why you're having trouble logging on to this, but the best time actually would be let me send you the link. It's hooked up to multiple people's calendars, so I can't. Let me see. Yeah, it's not. I don't think hooked up to Emily's calendar. So she's not going to be the one to.
+Michelle Denise: No, she's not. She just is the one that's been following up with me saying like, hey, did you get to talk to them? And I'm like, no, I'm having a hard time. So that's why she got involved because I was in here yesterday and nobody came on and then it canceled. And then I was in here this morning and I was like, nobody's coming.
+Becca Bressler: Oh, what time this morning?
+Michelle Denise: At 9:04. I'm on mountain time. So 11:04 your time.
+Becca Bressler: Oh, I fear maybe you were in the wrong meeting room. So maybe. Actually what we can do right now is like a test and make sure that you're getting the information you need. One second. Let me send you.
+Michelle Denise: Well, no, let's use my 10 minutes that I have with you to maybe focus on the issue and then maybe we can get this fixed. So let me see. Tell me how I share my screen with you.
+Becca Bressler: Do you see at the bottom there's several icons? One of them is a square with an arrow pointing words. So you're going to select that and then I would go over to window. And then pick the window you would like to share with me. Alrighty. I can see you're currently on the Google Meet screen, but if you move around. Yeah. Great.
+Michelle Denise: Okay. Okay. So my big issue is that ever since they started doing these updates, I've got to retrain the note every single time. And every time, the bullets used to be able to transfer over. I use ku. The bullets used to be able to transfer over when I copied and pasted, and now the bullets don't. So now I've had to take all the bullets out of all of my notes because they show up as asterisks in my emr. Apparently, it's not plain text, even though I've asked it to use plain text, because if it used plain text, it should be able to transfer over, but that's not happening.
+Becca Bressler: Can I just. Can you select something for me? Can you select those three dots next to the stars? And then can you go to Copy paste settings?
+Michelle Denise: Yeah.
+Becca Bressler: Okay, got it. So you have disabled this. Got it. Let's take a photo of this. Okay. All right.
+Michelle Denise: So now with these updates, all of my notes have become very verbose. It's just like lines and lines and lines. Duplicate information, parenthetical information, and I don't want that. So that I'm asking it. Just give me rock solid information. We work in substance abuse, and I need to know some very specific points. I want to know, are you eating? Are you sleeping? Do you have cravings? Are you having any withdrawal symptoms? It's like four or five things that I just want to hone in on each time. Now, I have several different templates. I have personalized the templates so that they are capturing the information that I want, but it seems as though it keeps going back to its own thing even after I've told it, do this and do this forever. The one. This is one that I use a lot. And also sidebar is the standard. So they're telling me that only you can make it editable. So my standard SOAP is whatever you have as the default, and I can only update each individual note. I would like to update the SOAP so that my SOAP is the way I want it each time.
+Becca Bressler: Yeah. Do you want to address that one first? Because I can show you how to do that. So if you can select documentation up at the top navigation bar and then go to Note Templates. So the standard soap. Click on that for a second. So that's a jot Psych template, which means. However, as soon as you start customizing it here, it will become your own template. But interestingly. Hold on. Can you scroll up? Oh, this is the top. Can you scroll down for me? Huh? Okay, I see why this is confusing, because you can't.
+Michelle Denise: Right. It's read only.
+Becca Bressler: It's read only. But it's telling you that if you can edit it, it will become. Okay, let me take a photo of this because this is actually not. Functional, obviously. Let me see what I can do on my end as far as like duplicating template stuff. Just give me one second. Also, Michelle, just want to say something about the training. Are you expecting training, training, one template to affect your other templates or no?
+Michelle Denise: No.
+Becca Bressler: So you're talking about like the template you have and are you getting the pop. Are you getting the pop up that says would you like to train this template?
+Michelle Denise: Yes.
+Becca Bressler: So you are. Okay, so that's happening.
+Michelle Denise: It's like over and over again. I you again, prior to the updates, I would tell it this, you know, give me very clear, concise bullet points, list them, one intervention per line underneath the section heading and it would do it and it knew exactly what to say and pull the information. It's also pulling like again, parenthetical information. Yeah, patient mentioned that, you know, this happened before he was 4. Well, that's not important information. I don't want all of that sidebar stuff. Let me see if I pull one that I just did yesterday. And to give you an idea of what. So comprehensive update is one I have personalized and I use quite often because it touches on the areas that I wrote the information that I really. So I'm expecting that again, it used to do this. It's gathering all the information, it's putting in the right part. So I've asked this to be a little shorter, this disposition, but sometimes I change it per note, because some people, maybe I want more information. So this plan is a very important part and this is the way I want my plan to look in every single goal note.
+Becca Bressler: Yeah.
+Michelle Denise: Unfortunately, these bullets now do not translate into my khipu and so these become stars. So I have to go in and say, get rid of the text bullets but leave the formatting.
+Becca Bressler: Wait, sorry. I'm just like looking for the screen so I can see. So when you copy and paste this as is, they turn to stars. And Khipu is what you're talking about.
+Michelle Denise: Correct.
+Becca Bressler: Okay.
+Michelle Denise: And I've talked to the Khipu people and they said, well, we can only do, you know, whatever standard text.
+Michelle Denise: And then he asked me to like cut and paste this into a Word document and it still showed up as stars in the Word document. So it's not a cuckoo thing.
+Becca Bressler: So I, I'll probably. We have like one engineer who's been working on these issues specifically. So I'm going to send you an email with his link so he can see this. He'll be able to like this. It will be useful for him so that he can get to the bottom of this. I do want to just ask you just to switch gears quickly because we only have two minutes left. I just created a template for you. Can you go to documentation note templates scroll down in your template list. So do you or actually scroll up? Can you refresh this page? Oh, this didn't stick. Give me one second. I'm trying to get save template using template. Okay, can you refresh one more time please? Huh. I don't know why this is happening. I'm trying to create a template for you on my end here.
+Michelle Denise: Standard soap Michelle.
+Becca Bressler: Okay, let me do copy.
+Michelle Denise: I see Standard Michelle.
+Becca Bressler: Oh, you see two. Okay. It created both. It just didn't show in my end. So you can delete one of these. Actually, just to make it simpler for you, I would, I would select one and delete it in the right corner. If you click on one of them and then you go to the delete button in the lower right hand corner, I would delete one. So now this other one that says Michelle is a personal template that you can now customize. You can add sections to it here or from within the note. You will be able to train it. Now this is that this is yours,
+Michelle Denise: but it's still going to kind of come up as the standard, meaning that. It's subjective, objective assessment and plan.
+Becca Bressler: Because that's what a soap is. Right? So what I just created for you, it, as it stands right now, is an exact copy of the soap note that you've not been able to train.
+Michelle Denise: That's editable, so now I can train
+Becca Bressler: it, but now it's editable, so you can train it, remove things. Yeah.
+Michelle Denise: Okay, we'll do.
+Michelle Denise: All right, I'll play with this one, huh?
+Becca Bressler: Okay, great. Michelle, I'm going to send you an email to my colleague Lee's Callan Lee, and you can schedule with him directly and he'll be able to talk you through the bullet point issues that you were describing. The copy and paste, the training thing that you're mentioning. You are not the first person to bring this up. And so our engineers are looking into it. I don't have a solution for you right now, but just to say, like, we. We have heard about this and it's definitely something we're looking into, but I think those are the best next steps right now. If I'll just send you Lee's contact information for bullets and then go ahead and start training standard soap, Michelle, and it should be working for you.
+Michelle Denise: Okay, thank you, Beth. I appreciate your time today.
+Becca Bressler: All right, you too. Sorry about the time crunch, but nice to.
+Michelle Denise: We got some stuff done.
+Becca Bressler: Yeah, Great. Bye.
+Michelle Denise: Thanks. Bye.

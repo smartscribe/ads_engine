@@ -1,0 +1,147 @@
+Jack Waugh: Hey, Lindsay, can you hear me okay?
+Lindsey Meneely: Yeah, hold on one second. There we go. Are you doing well?
+Jack Waugh: How are you?
+Lindsey Meneely: I'm doing fine.
+Jack Waugh: Awesome. Yeah, I appreciate you taking the time to speak with me today.
+Lindsey Meneely: Yeah, yeah.
+Jack Waugh: I saw you book the meeting the other day and basically just kind of wanted to ask you, like, how you heard about JOT psych and kind of what made you want to try us out.
+Lindsey Meneely: Yeah, so actually I started at a new practice, TMS therapy, and they are requesting that we start to use it for our psychotherapy portion of our notes. So I had. I signed up for a free trial, I think at the beginning of December, or not beginning the end of December. I was around Christmas only, you know, silly me, I wasn't really working that much, so I really didn't get to use it that much. So, like. Oh, man, that makes sense. Yeah.
+Jack Waugh: Okay. Very cool. So does everyone at that practice. Are they all kind of using JOT psych over there?
+Lindsey Meneely: Yeah, they are converting over to use that. They didn't use anything prior, so. But. But they would. They are starting to use it. Most of them have started, so I'm newer to the practice, so it's. It's new to me for sure.
+Jack Waugh: Okay, it's good to know. Do you know how many. Just out of curiosity, how many people are in the practice total?
+Lindsey Meneely: Providers.
+Jack Waugh: Yeah. How many providers?
+Lindsey Meneely: Let's see here. 1, 2, 3, 3, 4, 5. 5.
+Jack Waugh: Okay, cool. Good to know.
+Lindsey Meneely: Yeah.
+Jack Waugh: All right, Very cool. And so as far as, like, using an AI scribe, like, what would be some things you would be hoping this would help you do,
+Lindsey Meneely: really just speed up my documentation. So, you know, I am focusing on, like, medication management, but I do provide, like, just the brief psychotherapy. And so just to be able to capture that and then translate it into my notes that I have on my EHR system, whether it's just copy and pasting, you know, so that. Just to kind of have it on there so I can just kind of sort through it. So generally that's how they're using it, and it's been very beneficial. So.
+Jack Waugh: Gotcha. That's. Well, that's good to know. Now, is your clinic covering this or are you. Do you know, like, are you covering this individually as providers?
+Lindsey Meneely: They. They'll be covering it. Yeah. Gotcha.
+Jack Waugh: Okay, just gonna make. Okay, perfect. Well, so, yeah, it sounds like. Time saved is kind of the goal. So I'll tell you a little bit about, like, what Jots like does and kind of show you a demo and kind of like why.
+Lindsey Meneely: Yeah, definitely. Yeah. Because anything else that I can use with it, I'm happy. That'd be great. So.
+Jack Waugh: Yeah. Oh, yeah. 100. Yeah. So basically, we're one of the few AI scribes on the market that's trained specifically for behavioral health clinicians. So this means a few things. One, it means more time saved on notes. You know, the actual scribe and the note taking is a lot more accurate.
+Jack Waugh: It uses a lot more psych specific language. And also it's more customizable. So if there's something, you know, you need, like you mentioned psychotherapy. We have templates for that, but then you can also edit them and like add different sections to it and I'll kind of show you how that works here in just a second.
+Lindsey Meneely: Okay, cool.
+Jack Waugh: Let me. Just share my screen here and yeah, feel free to stop me if any questions. Are you actually. Are you logged into your jobs like account right now?
+Lindsey Meneely: I'm not.
+Jack Waugh: Okay. If you want to go ahead and log in there, it might help to follow along.
+Lindsey Meneely: Yeah, definitely. Oh, hold on, hold on one second. Yeah, Amber from Clearwater on the phone. She just wanted to talk to you, and I know she can't do it this way, so do you want to come chat? Yeah, let me. I'm just on my tutorial visit real quick, but I'll come in. It shouldn't be too, too long, but I'll come. I can call her. Okay. Okay. Should I get her nut? I can get her number. Yep. Sorry about that.
+Jack Waugh: No problem. Take your time.
+Lindsey Meneely: Okay. That is not wanting to work right now. I have so many email addresses I forgot which one I used.
+Jack Waugh: Yeah, I. I totally get it. I do the same thing.
+Lindsey Meneely: That's ridiculous.
+Jack Waugh: I. I actually tell you which one. I think I have it here.
+Lindsey Meneely: I think it's my work, actually.
+Jack Waugh: Let's see. Yeah. Lindsay at Dr. DrTMS. Yeah.
+Lindsey Meneely: Okay, now I'm on.
+Jack Waugh: Perfect. Okay, awesome. So I'm going to just share my screen here and yeah, just stop me if you have any questions, but I'll kind of show you the basic workflow.
+Lindsey Meneely: Okay.
+Jack Waugh: And by the way, are I was meant to ask you. So at your clinic right now, are other practitioners already using jot psych and signed up?
+Lindsey Meneely: Yes.
+Jack Waugh: Okay, cool. Good to know.
+Lindsey Meneely: Yeah.
+Jack Waugh: Okay. All right, so here's kind of your. Can you see this? Okay.
+Lindsey Meneely: Yeah, I can.
+Jack Waugh: Okay, so this is sort of your home screen here. So first thing you're going to do is go over to the record window here. And obviously, you know, this is where you'll record new patient encounters. So what you're going to do, you can select the patient. You don't have to. Some people like leaving the patient name blank. That's totally fine. And then you're going to select a template. So for you, I think the E/M plus add on psychotherapy template would be the one you're looking at.
+Lindsey Meneely: Yeah, yeah.
+Jack Waugh: Select that from this little drop down here.
+Lindsey Meneely: Okay.
+Jack Waugh: Okay. And then what you're going to do after that is you're just going to hit the start recording button and I'll let this go for a few seconds. Obviously, we don't have to make a whole patient encounter right now, but I'll show you some examples. And when this is done, you would just hit stop and review here. Now, the nice thing is you can actually make multiple recordings. So that way, like after the patient walks out, if you want to, like follow it up with something. And you can also add additional notes if you want to type anything before the note gets generated. So when you're done, you just click this generate note button here.
+Lindsey Meneely: Okay.
+Jack Waugh: And then I'll leave this up just to show you about how long it takes. I mean, it's normally like less than 20 seconds. It's very quick. And you'll have a fully HIPAA compliant note ready to go for. And that's about the time. Obviously, it's not going to really populate with anything. So I'll show you an example of actual patient note here. Okay. So this is one that's a medication with psychotherapy.
+Lindsey Meneely: Mm.
+Jack Waugh: So I'll let you kind of read through this for a second, but these are some of the things that it will detail summary, psychiatric history, Substance use, anxiety description. Here's the HPI down here. And it'll pick up any medication changes you make. Okay, review of systems. Plan here. And then here's the add on psychotherapy section. The cool thing is it's actually not on this template, but I'll show you how to add this. We also will auto match DSM and ICD codes. So if that's something you need to do, we can definitely help you get that set up. But the nice thing is here, you know, all the time it would otherwise take to be formatting the note is kind of done for you.
+Jack Waugh: So now you're looking it over, making sure it's good to go. And then you can hit this copy all sections button and paste it into your ehr. Okay. A couple other things I'll show you. But first of all, does that all make sense so far?
+Lindsey Meneely: Yes, it does.
+Jack Waugh: Awesome. Now here's a cool feature. This is the AI note assistant over here. And this over here will let you edit the language it uses in any section going forward on a template. So let's say you look at the summary and you say, well, this is cool, but I'd rather it use bullet points or something like that. More detailed. You just click in here. You click in this section here. So it says editing summary. And then just say going forward, use bullet points. Be more detailed about sleep.
+Lindsey Meneely: Oh, I love that. Okay, that's awesome. Yeah, yeah.
+Jack Waugh: And then anytime you use this template, it'll actually just go and do that for you, huh? Yes, that's a super helpful thing. That way, like anytime you're on one of these sections and you want it to output something a little bit more specific to your language, it'll go and do that. So anyway, as far as all that goes, does this kind of format look like what you would be needing for a note?
+Lindsey Meneely: Yeah. Oh yeah, absolutely. Okay. That's really it, you know, because I. Everything else in our EHR is really, it's already populated nicely. It's just to add that additional psychotherapy that I, that I do for patients most of the time. So. Yeah, right.
+Jack Waugh: Okay, perfect. I'll show you this too. This is pretty helpful if you ever had to. You can actually edit the note templates too. So if you go to like documentation and then note templates here, you can, you can go to this add on psychotherapy 1. You just have to hit this duplicate button first up here. But then you can go and add any sections that you want.
+Lindsey Meneely: Okay.
+Jack Waugh: So like I had mentioned, your system may or may not already do this, but if you want. The DSM and ICD and CPT codes integrated in here. It'll fill those in for you if you add that section or whatever else you might think of is probably in here, so.
+Lindsey Meneely: Okay. Okay, great.
+Jack Waugh: Cool.
+Lindsey Meneely: Yeah, that's really helpful.
+Jack Waugh: Yeah, it's nice to have, you know, just. It's a huge time saver for people. People who switch over to JOT Psych, on average end up saving about five to eight hours a week on, you know, administrative work and documentation. So it's definitely a streamline to the process.
+Lindsey Meneely: Yeah. And I'm definitely wanting to get started on it now while I already have the learning curve of just being with the new HR system, you know, so.
+Lindsey Meneely: Yeah, might as well do it all at once.
+Jack Waugh: Absolutely. I'll show you this as well. One other really cool thing under here, on your patient tab, do you find you have to spend a lot of time, like, writing clinical documents for patients, like accommodation letters or prior authorization?
+Lindsey Meneely: I do not.
+Lindsey Meneely: Because usually the office handles that. But is that, like, something we can use for a template? Because I'm always open to seeing if it fits better, you know.
+Jack Waugh: Well, yeah, if you ever need to use it, you can go to the patient tab, click on the patient, and then down here, under documents, you can type in any kind of letter. Or here, I'll just put this one up. ESA letter.
+Lindsey Meneely: Perfect.
+Jack Waugh: And it'll just write it out for you. So.
+Lindsey Meneely: Okay, awesome.
+Jack Waugh: Cool. So I'm just gonna pause there for a second. Does that all make sense as far as how that's, like, work? Okay.
+Lindsey Meneely: Yeah, yeah, no, that's very helpful.
+Jack Waugh: Awesome. Yeah. So what I can do for you, then, you have the two weeks. On top of that, I can also give you a discount month for $20. That way you can get a little bit more time to use it. And I don't know, I guess that's maybe your clinic covering it, right?
+Lindsey Meneely: They would. Yeah. Do you want me to. Should I do that at the end of the two weeks or.
+Jack Waugh: Yeah, if you're able to do it now, it would be better. Just because I have to be on the line to actually approve you for that.
+Lindsey Meneely: Just. Got it. Got it. Okay. Yeah.
+Jack Waugh: If you don't mind.
+Lindsey Meneely: Yeah. What would the. So how much would it be, total?
+Jack Waugh: So jot psych for the discount month, you mean? Or for general? So, $20 for the discount month.
+Lindsey Meneely: Oh, okay. Yeah. Great. Yeah. Let's just go ahead and do it now. I'll pay it and then they can just reimburse me.
+Jack Waugh: Sure, Sounds good. I'll show you how to get set up with that. Okay, so you're going to go see this button here? Your practice, and then subscription. Should be right next to the record. Record button up here on the top of the screen.
+Lindsey Meneely: Let's see here. Where is that again?
+Jack Waugh: Yeah, it's. So see up here at the very top of the screen where it says record here.
+Lindsey Meneely: Yeah. You're practicing a subscription. Yes. Got it.
+Jack Waugh: You just click that.
+Lindsey Meneely: Okay.
+Jack Waugh: And then you'll click this Manage subscription button.
+Lindsey Meneely: Okay.
+Jack Waugh: So once that opens up, you should see something that looks like this. Let me know if you see this screen here.
+Lindsey Meneely: Yes.
+Jack Waugh: Yeah. Okay. So then you'll just click this add payment method. And then once your payment methods in there, I can go ahead and approve you for that.
+Lindsey Meneely: Okay, one second. Let me grab my card.
+Jack Waugh: Yeah, take your time.
+Lindsey Meneely: Okay.
+Jack Waugh: Okay, perfect. So let me know. Do you see this screen again? And it should just have like the last four digits of your card in here.
+Lindsey Meneely: See here? Yes. It says the. Oh, wait. So I just added the payment method and then I'm at 150 per month.
+Jack Waugh: Yeah. So it won't be 150 for the first month. We're. I'm going to approve you for the $20 month first, but I just wanted to make sure that it went through because if your payment method's in there, obviously I can't approve it.
+Lindsey Meneely: Okay, got it. So I think I. Let's see here. Current subscription ends.
+Jack Waugh: It should look exactly like this, but it should just show like the last four digits of your card right under here.
+Lindsey Meneely: Yeah, so I have that. I just don't have that other purple. I can't read it. I just have the cancel subscription description. That's it. Did I go too far?
+Jack Waugh: You can share your screen if you want. Really quick. I think you're okay. I think you're probably good to go.
+Lindsey Meneely: I'm working on my. I'm actually on my laptop, so I can't because I'm on two different things.
+Jack Waugh: That's fine. I think you're okay.
+Lindsey Meneely: Okay.
+Jack Waugh: As long as you see the last four digits of your card on that screen there, then you're. You're good.
+Jack Waugh: Um, so I'll go ahead and approve you for that. I'll let you know. For some reason something's weird there, but I think you should be totally fine, so.
+Lindsey Meneely: Okay.
+Jack Waugh: Yeah. Awesome. Well, in the meantime, let's do this. Why don't we meet again in another week or so and just check in and make sure everything's working for you.
+Jack Waugh: If you have any questions, we can kind of talk about that.
+Lindsey Meneely: Yeah, sounds good.
+Jack Waugh: How is. I'm just looking at my schedule here. Do you think. Would next Thursday give you enough time to like, get a chance to make some notes with this and.
+Lindsey Meneely: Yes, let me look at my schedule to see. Yeah, next Thursday should be good.
+Jack Waugh: How.
+Lindsey Meneely: What are your times for? For. Yeah, do you have anything like after 5pm
+Jack Waugh: you know, unfortunately, I don't have anything after 5, but if there's a better day, I mean, I could even do next Friday if that's a little better.
+Lindsey Meneely: I'm seeing if I have any time available between patients.
+Jack Waugh: This one will be shorter. This is just like a 10 minute check in.
+Lindsey Meneely: Yeah, yeah. Okay. Yeah, I do, actually, I have a. Let's see here. I'm available at 1:45 on Friday, February 6th.
+Jack Waugh: Okay, let me just make sure I can do that. I think that should be cool.
+Lindsey Meneely: Okay.
+Jack Waugh: Friday, February 6th, 145. Yep, that'll work. Okay. Down there. And that'll be sent to your email. And by the way, I meant to ask you, since you guys are part of a practice, do you know who is the practice administrator? That way we can keep you guys together on the same. The same account.
+Lindsey Meneely: Oh, it is. It would be Nate Griffith.
+Jack Waugh: Okay.
+Lindsey Meneely: On. Yeah, with Dr. TMS Therapy.
+Jack Waugh: Nate Griffith at Dr. TMS Therapy. So that would be okay. And is that Gri F? F I T H.
+Lindsey Meneely: Yes.
+Jack Waugh: Yeah, perfect. Awesome. We'll go ahead and reach out to him.
+Lindsey Meneely: Okay. I know he'll reach out to you too, because I know that he'll be covering this. So I'm sure he'll be setting it up further for me, you know, so. But yeah.
+Jack Waugh: Okay. I'm gonna send you this confirmation email. Just let me know if you don't mind having. Hang on one more second. I just want to make sure it goes through.
+Lindsey Meneely: Okay.
+Jack Waugh: Just for our follow up and then I'll let you go. Okay. Okay. Just sent it. Should be in your inbox now.
+Lindsey Meneely: Do not see it in there. Let's see here.
+Jack Waugh: Sometimes it takes a second. Oh, hang on. I sent it to your other email. Let me.
+Lindsey Meneely: Oh, no, I haven't. I got it. Okay. Okay.
+Jack Waugh: As long as you see it there, then we're good to go. Yeah. Okay.
+Lindsey Meneely: Yeah, I see it.
+Jack Waugh: Well, Lindsay, appreciate you taking the time and.
+Lindsey Meneely: Yeah.
+Jack Waugh: To helping you save, like a ton of time on your notes with jots.
+Lindsey Meneely: Yeah, I'm looking forward to it. Thank you so much. I appreciate it.
+Jack Waugh: Awesome, thanks. Talk next week.

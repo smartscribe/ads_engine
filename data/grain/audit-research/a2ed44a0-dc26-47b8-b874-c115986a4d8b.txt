@@ -1,0 +1,296 @@
+Christopher Hume: Hey, Lauren.
+Troy and Lauren Kurz: Hi. This is. It's all of us.
+Christopher Hume: Oh, hey, everybody. How are you?
+Troy and Lauren Kurz: Good. How are you?
+Christopher Hume: Good.
+Troy and Lauren Kurz: Nice to.
+Christopher Hume: Nice to meet you.
+Troy and Lauren Kurz: Nice to meet you too. I'm Sadie. I do all the operations management for luma and then Dr. Kerr and then Sierra is our assistant.
+Christopher Hume: Perfect. Well, Sadie, Sierra, and Dr. Kerr is so nice to at least virtually meet all of you. I be honest, on the east coast in D.C. today, certainly wish we were meeting in person in San Diego. Well, I guess to start off, is there going to be anyone else joining us or will this be everyone? Would you like me to just kind of jump in?
+Troy and Lauren Kurz: We might have a couple people trickle into the office and jump on from our end, but nobody else will be joining virtually, I don't think.
+Christopher Hume: Okay, perfect. And we can sort of just get. Just kick it off and I can fill anyone in who joins afterward.
+Troy and Lauren Kurz: Do you think you can flex the link to Caitlin?
+Christopher Hume: Well, perfect. To start here, I think. Well, let me introduce myself. My name's Chris. I work here at Jetsych. I think you've met or at least communicated with my colleague Emily and my colleague Assia, who set up this meeting today. So the goal of this session is really just to one, I'd love to learn a little bit more about you all and kind of your practice and what kind of made you interested in the first place and jumping on this call with me, aside from Einstein's bagels, which I know helps quite a bit, and then I can sort of typically how I structure these is walk you through a brief overview of jot psych, then walk you through a demo.
+Christopher Hume: But we can craft. This, however, is most useful for all of you. But I guess that's my first kind of question is your familiarity with jot psych and what would be kind of why you're potentially interested and what would be the most useful use of the next. I won't take the full 54 minutes. The next 25 or so minutes.
+Troy and Lauren Kurz: Yeah, definitely. So we are psychiatric mental health clinic in San Diego. So we have Dr. Kurz as our main provider. And then we have one nurse practitioner we're hiring on another, two therapists and a naturopathic doctor. So Dr. Kerrs currently uses JOT psych, so he's very familiar with it.
+Christopher Hume: Wonderful.
+Troy and Lauren Kurz: And then we're just kind of playing around with the idea of adding it on for our full team or certain team members that.
+Troy and Lauren Kurz: That require it more than others. So just kind of getting an understanding of what that would look like. And I've also never seen it in practice, so.
+Troy and Lauren Kurz: And neither has Sierra. So just maybe like a quick demonstration of what it looks like. We don't take any clinical notes so. But just to understand what it looks like from the back end would be helpful. We'll be here in a few minutes. We should run away from the dip up. Okay. Yeah. So our naturopathic doctor, she's on her way.
+Christopher Hume: Perfect.
+Troy and Lauren Kurz: So she'll probably want to be here for the demo but we can get started on some of the background information and stuff.
+Christopher Hume: Okay, perfect. And then I guess sort of from your perspective, what is the inspiration here to maybe bringing some team members on board? Are we trying to save them time? Is there a note? It looks like you're all cash pay, so maybe audit and insurance isn't as much of a risk for you guys. But would love to hear what sort of the. Yeah, the leading you towards considering this. Yeah, yeah.
+Troy and Lauren Kurz: I would say the big driver to adding it for our cash pay practice is the efficiency and just consistency across. Across note taking and then the we are adding like we're opening us bravado insurance based practice. So we're also looking at adding it on for that to just make sure everything that's in there needs to be in there and that it's all the same for just for auditing purposes. But yeah.
+Christopher Hume: Okay, that's really helpful. Appreciate you sharing that or I would have gone down the the wrong rabbit hole here telling you about all the things relevant for cash pay when and kind of leaving the insurance information off there.
+Troy and Lauren Kurz: Right. So currently we are only cash pay but we're in the process of opening up the insurance based practice so doing spobrado and TMS through there. So making sure everything that's in the notes or everything that needs to be in the notes in there every single time and that kind of thing.
+Christopher Hume: Yep. Well, we're certainly in the right meeting then if we're looking to make sure your notes are consistent and have all the right information. This is honestly just a pure interest question, but I saw you do at your cash pay clinic, you do ketamine infusions. Are you also doing spravato at your Ashpay or is that this going to be a new offer?
+Troy and Lauren Kurz: That'll be a new offering through insurance. Yeah.
+Christopher Hume: Wonderful. Well then I appreciate you bearing with me during the game of 20 questions there. We can walk through this presentation Now I can tell that some people are in and out. Do you want me to wait a second, or should I just start walking through?
+Troy and Lauren Kurz: Through the demo or the.
+Christopher Hume: Yes, just through the deck. Just through the deck, yeah.
+Troy and Lauren Kurz: You can go ahead.
+Christopher Hume: Okay. So Doc psych. More an AI scribe. Dr. Kurz.
+Christopher Hume: Probably more of an expert than I am if he's using us.
+Christopher Hume: But we think what sort of sets us apart from some of the other AI scribes that are out there is that we are solely dead or we're entirely dedicated one, to behavioral health and two, to making sure your notes are consistent and reduce the risk of audit and allow you to get reimbursed and paid properly. So today we're going to review job site together. I'll keep it quick. I know this is a boring part, me walking through slides. We're going to walk through job site together. Just so for those of you who aren't experts like Dr. Kurz, you can see how it works and you have me on the line. So of course if there's any questions at the end here, I can answer those. But before I dive in, is there any questions or any adjustments to this pack plan?
+Troy and Lauren Kurz: Yeah, the other thing is I want to know is there like a clinic membership fee right now? I just currently pay like a provider fee.
+Christopher Hume: Yep.
+Troy and Lauren Kurz: Yeah, like some option like that. And then yeah, certainly.
+Christopher Hume: So we, I believe I have a pricing slide in this deck so we can review that, but if not, I can walk you through it verbally and send the roll up afterward.
+Troy and Lauren Kurz: Perfect.
+Christopher Hume: So you're familiar with Jot Psych. We're AI Scribe. AI engine that kind of makes sure your notes are consistent, robust, audit proof. We've been used for over two point million encounters, most in the U.S. but it is always fun when we see a note come in from the UK or somewhere across the globe. And so we bring that up because, you know, just want to emphasize this really is all we think about and we do have quite a bit of practice doing it. Now. Again, Dr. Kurz, I'm sorry for some of the repeat review here, but you're very familiar with how to record with jhotsych, but it's pretty quick. If any, anyone on team wants to try it, we can sign them up in less than three minutes. They want to sign up on the call, they can hold me to that and we can see if we can break the three minute barrier. You can record a session, you can add additional context via text and you can also record additional information after the session is over. So if you have the session, record that, press stop.
+Christopher Hume: You can actually then add another recording with your clinical insights and all of that will be integrated into the note. Okay, so pause for a moment. That was the pretty easy, straightforward stuff. I think this next part will be particularly relevant to your new insurance practice, particularly around Spravato and tms. I'll walk through all of this, but. I do like to come up for error now and then. So any questions or thoughts off the bat?
+Troy and Lauren Kurz: I don't think so. Not yet.
+Christopher Hume: Okay, wonderful. Well, what sets jetsec apart and one of a new feature that we've rolled out is the ability to align your notes with specific air rules and internal guidance. We'll conduct automatic audits of your notes for you, flag any inconsistencies, both for your operations team, maybe for you and for the providers
+Troy and Lauren Kurz: that's connected to my computer, the mouse.
+Christopher Hume: No, no worries. No worries. You'll be able to see kind of why your notes are structured the way they are. You'd say, okay, we're following this guidance from this pair when it comes to Spravato or tms. And you can ensure consistency across your entire team. We'll make sure everyone's playing from the same template for your. For your org.
+Troy and Lauren Kurz: Hi, Lauren just got here. She's gonna join us. Wonderful. It is. Okay, well, hello.
+Christopher Hume: Hello, Lauren.
+Troy and Lauren Kurz: So nice to hear you.
+Christopher Hume: Valentine's Day. Oh, my gosh, a day early.
+Troy and Lauren Kurz: Okay. Okay. Hold on one second. Sorry I'm a little late.
+Christopher Hume: No, no, no worries.
+Troy and Lauren Kurz: I mean, this is how I dropped my son off at school today, so I love it.
+Christopher Hume: If I had known, I could have dressed in my Valentine's Day attire, too. Well, nice to meet you, Lauren.
+Christopher Hume: We just kind of. We started with a. A game of 20 questions where I interrogated you guys, so you missed the tough part. Now we're going through the boring presentation, so you missed a good chunk of that too. But we've saved the demo, so that's the fun part. So you've. You're going to get all the good stuff.
+Troy and Lauren Kurz: Okay.
+Christopher Hume: And of course, Lauren, and for anyone else on the team, please, please, please, if you have questions, stop me and just let me know. I'm happy to dive in greater detail anywhere. So what we've kind of reviewed so far is how you create notes with job psych, but also some of these additional features too. So of course you can track your patient, you can create custom templates, though we do have TMS and Spravana templates pre built and you can send forms for your patients too. So. Classic 1 SCAD 7 PHQ 9. But you can also customize your templates and. Goes without saying, but we're. Well, I hope it goes without saying for any clinical or medical software, but we're fully HIPAA compliant. This is a brief overview. If your team has any additional questions here, I'm happy to check with the engineers and get those to you, but we're HIPAA compliant. And then how job psych works is that. You record it during the session. The automatic setting is that that audio is turned into a transcript with PII removed. So if you say, hey Chris, how are you feeling today? The transcript will say, hey, name, how are you feeling today?
+Christopher Hume: And then that audio is destroyed as soon as the note is generated. So do like to flag that, especially if there's any new people trying the software. That can be a concern. Okay, then we'll just kind of quickly walk through kind of some of our case studies. We'll move along quickly here to the fun part. So again, 2.1 million notes. This is all we think about in a case study. In pretty close to our office, we're seeing clinicians save about just under two hours a day. 80% were saying their notes were significantly higher quality and the other 20% said that their notes were the same. So no one had notes that got worse. We do like to emphasize that they're able to submit their notes about 60% sooner. And we saw similar result results in a case study a little bit closer to you guys in the Pacific Northwest.
+Troy and Lauren Kurz: Really quick too. What I mean is this software, what are they going by? I mean, is it just like whatever is out there as far as like how to structure a note too, or do.
+Christopher Hume: How are the notes structured in jot Psych.
+Troy and Lauren Kurz: Yeah.
+Christopher Hume: Yep. So we have standard note structures that you can use. So just so progress notes, dap dms that are just based off best practices. But. But everything is customizable. So if you have a very specific way that you like your notes to turn out, you can just train jots like, hey, I want these sections, I want them formatted in this way and it will remember that and do that automatically moving forward.
+Troy and Lauren Kurz: Okay. So you can basically tell it like, you know, if I want in the history, I want like what she's subjective, you know, the patient subject to obtain. But in the assessment portion of the plan, you know, of the assessment and plan. I want something different.
+Christopher Hume: Absolutely. Oh, of course.
+Troy and Lauren Kurz: Okay. Okay. Okay.
+Christopher Hume: And then I know. So right now Dr. Kurz is using us, but it sounds like no one else on the team. But I did want to flag kind of the options we have when, if you'd like additional people to try us out with no kind of major commitment or anything like that. All of our pilot programs are unlimited access for unlimited team members. And you have a two week, a four week or a six week option. We like to highlight the four week option for two reasons. One, for the included in the fee, we'll create custom templates for you. So to your point, Lauren, if you're like, hey, this is what I want my note to look like.
+Troy and Lauren Kurz: Make it perfect.
+Christopher Hume: Me and the engineering team will do that. And then the other exciting thing about the four week pilot is that we'll come out and do your training in person. So one, typically people enjoy that. But as I was saying before, as the person who would probably come out to do your training, I would love to come out to San Diego in February or March to train the team. So any questions here? I know again it's been a lot of Chris talking. Just want to come up for air for a moment.
+Troy and Lauren Kurz: Good. So far, I did want to introduce Kaylin. This is our naturopathic doctor who's. Hi, how's it going?
+Christopher Hume: I'm sorry, Kaylin.
+Troy and Lauren Kurz: Kaylin. Yeah.
+Christopher Hume: So nice to meet you.
+Troy and Lauren Kurz: Nice to meet you. Yeah. So the, these time frames is like an onboarding. Right.
+Christopher Hume: So this is a 2, 4, 6 week, we call it a pilot program.
+Christopher Hume: And so what that is is it's an opportunity for your team to try us out, kind of work out any kinks, see how it works for them. And at the end you could convert to the standard subscription. So it's sort of like a. If all goes well. Yes, it would be an onboarding to a permanent subscription or a more permanent subscription.
+Troy and Lauren Kurz: What do you think? Oh, you already have it. Yeah, I know. Your notes.
+Christopher Hume: Yeah.
+Troy and Lauren Kurz: That's great to hear.
+Troy and Lauren Kurz: That's great to hear. Like, I've been using AI recently without like patient identifiers, but my notes are significantly better with just even using AI and being I always tell it, summarize this into a paragraph and make a treatment plan. And it does that. But it's like if I could not have to do that step.
+Christopher Hume: Yep.
+Christopher Hume: That will save me time and not have to worry about any patient information or anything like that.
+Troy and Lauren Kurz: Not have to worry about privacy.
+Christopher Hume: Yeah, like all of it. Yep.
+Troy and Lauren Kurz: Yeah.
+Christopher Hume: So I'm in. Great.
+Christopher Hume: We can, we can certainly get you signed up. I think I have a slide in here that walks you through how to sign up the trial. Just a trial. And then we can talk about time frame.
+Troy and Lauren Kurz: I have a quick question. So. And you maybe already went over this. So I do therapy as well. Like behavioral health can be. Are there the options to do both or what kind of notes? Is it only like a medical soap note?
+Christopher Hume: Oh, so I think I was telling Lauren. I think I was telling you that. So the templates are infinitely customizable.
+Christopher Hume: So we have pre built this point. I couldn't even tell you how many a lot of templates. SOAP note, DAP note, progress note, spravato tms. But if you have a custom format you need, it's infinitely customizable. And I'll walk through how you can generate your own sort of format for those other use cases and then for, like, patients.
+Troy and Lauren Kurz: Oh, list can go. Is it only being used for. I use it for everywhere I practice. So I was going to ask, do we have to make sure with patients, like, we obviously get informed consent that we're using a recording AI. Like we have AI scribe consents. Okay, okay, okay.
+Christopher Hume: That varies state by state. We have like some standard boilerplate language we can share with you, but in terms of what's required by state, I would guess California is probably on the more stringent end than the less stringent end. But I don't know off the top of my head.
+Troy and Lauren Kurz: Okay, I was curious.
+Christopher Hume: Any other questions here? Anything like that?
+Troy and Lauren Kurz: Yeah, perfect.
+Christopher Hume: And I'll keep chugging along to get through the slides. So this is just an overview of what a pilot could look like. Just kind of walking you through everything. It would start off with a kickoff meeting where we virtually get the team up and running, followed by potentially an in person training. And then we also do an analysis for you so you can see how much time was saved by staff and all that. And we share it so it's an easy decision at the end. Hey, this is a good fit for us. Or if we didn't see the value and we're not trying to force something here that, yeah, there's a fit or not.
+Christopher Hume: I'm sorry, I know you're all probably working from a laptop, so this might be a little small.
+Troy and Lauren Kurz: It's all right. I'm just, I'm reading it on, like what you can see here. Oh, yeah, it's probably easy over there. Very nice. Cool. Okay, wonderful.
+Christopher Hume: And then these are our. Yep. Standard pricing structure. Just kind of all based on number of seats. We. Dr. Kurz, to your question about discounts for organizations. We do offer discounts once you get above seven seats. Additionally, just for your awareness, we'll be tweaking our pricing structure in the coming months. We'll offer some lower tier plans and some higher tier plans as well. But for the time being, this is a pretty good baseline.
+Troy and Lauren Kurz: I should change to the end. I always fear doing AI though. Like, one of the reasons, because I'm like, I don't want to just like not have to do anything and critically think and like almost get dumber, you know, I don't want that to happen over years and years and years where it's just like, well, something's been recording for me and now I don't really like, oh, I take these notes again. Yeah, I mean, I got. You're. You're proofreading every time too, so. You know.
+Christopher Hume: Yes, that's.
+Troy and Lauren Kurz: I do every time anyways. I just, like, you know, I fear the ease of access a little. That's like, my only ever fear.
+Christopher Hume: We certainly do recommend proofreading every time, but. But no, certainly understand there's some things you want to do yourself. There's some things that we want human intelligence doing, not AI.
+Troy and Lauren Kurz: Yeah.
+Christopher Hume: And I think that is my last slide here until just kind of getting started. So if anyone wants to sign up for a trial and have a staff member on the team to walk them through it, we could do that now. But I know you're all sort of working from one laptop. What I can do is jump to the demo. But again, do we have any questions about the presentation, about signing up, about the pilot program that I could answer right off the bat?
+Troy and Lauren Kurz: I don't think so right now.
+Christopher Hume: Okay, wonderful.
+Troy and Lauren Kurz: I think we're ready to jump into the demo. We're ready for the demoing.
+Christopher Hume: Ready for the demo. Before I Jump in, Dr. Kurz, I know you're kind of an expert or at least an experienced jet psych user. So for you and I guess the entire team, is there anything in particular you'd like me to review today, or should I do kind of the standard demo?
+Troy and Lauren Kurz: Was that a question for me?
+Christopher Hume: That was a question for you. But if anyone else has thoughts, I.
+Troy and Lauren Kurz: Anyone? Good demo? Yeah, just a generic demo.
+Christopher Hume: Okay.
+Troy and Lauren Kurz: I think me and Kaylin. Well, will these two be using it that much? Probably not. Yeah. At least, like, for now. But me and Kaylin will probably be using it a lot. So we wait for her to get back and then.
+Christopher Hume: Yep.
+Troy and Lauren Kurz: We can certainly. Let me just go grab something really fast.
+Christopher Hume: Yep.
+Troy and Lauren Kurz: Did you order the breakfast for us?
+Christopher Hume: Is that you? I did order the breakfast.
+Troy and Lauren Kurz: Yeah. Thank you.
+Christopher Hume: Oh, you're so welcome.
+Troy and Lauren Kurz: I'm gonna grab creamer really fast. Yeah, I think an onboarding would be helpful. There's even mine.
+Troy and Lauren Kurz: Yeah, I haven't. I'm just too busy. I've never really customized it overall.
+Christopher Hume: Oh, okay. Yeah, so.
+Christopher Hume: So we'll do the same.
+Troy and Lauren Kurz: And I didn't know you guys added TMS intake 1, because I do all the time.
+Christopher Hume: Yep. So I can show you where to find that, and then I'll show you how to customize it.
+Troy and Lauren Kurz: Maybe I should open my lash so I can see it here. Well, you know, I'm kind of. You know, I'm blind. Okay, we're ready to rumble. Ready to go.
+Christopher Hume: Ready to rumble. Okay, so what we'll do here is we will walk through how to record with JOT Psych, how to review and edit notes with JOT Psych, and then how to customize your templates and then kind of afterward or at a later date. Also happy to go through some of the more advanced features that want to keep the day as useful and also as succinct as possible. Certainly don't want to take the full or here during a Friday meeting. So to record with JOT Psych, pretty straightforward. This is your homepage. You can press this record encounter button or record in the top middle of your screen.
+Christopher Hume: What this does takes you to your record page. You can select a patient. So I have this example Luma Wellness patient I created this morning. You can add a patient very easily or if for whatever reason you don't want to add the patient, the patient wasn't comfortable with their information being input to JOT Psych. You can actually just name the note for the sake of this session. We'll go Aluma Wellness patient. You then select the session type. So these are some of the forms I just have loaded up on my account. Dope, bravado, intake, follow up, we'll just say soap note and then you just go over here to the right hand side of your screen, press start recording, have your session as normal, and then at the end of the session you can press stop and then generate note.
+Troy and Lauren Kurz: How long does that recording, does it keep the recording or if you, like named it a patient's name? Yeah. Just curious.
+Christopher Hume: The recording is discarded. Like the audio is discarded as soon as the note is created. So once you have a note, the audio's gone, we can't access it? You can't access it. What you're left with is a transcript which under the standard job site settings has all PII redacted and the note itself.
+Troy and Lauren Kurz: Okay.
+Christopher Hume: And then the notes, that's up to your discretion. When you'd like them deleted. Once you delete them, we can't access them. You can't access them, but we won't delete notes for you.
+Troy and Lauren Kurz: Okay. Is there a time limit to how long you can record for?
+Christopher Hume: That's a really good question. I think it's somewhere in the vicinity of two hours. I have to check the engineers on like, the. The hard limit. But even if for whatever reason, you have to go over. Over that limit, you can. As I was saying before, you can actually record more than one recording associated with a note. So you would just have to say, okay, done with that recording, start another one. And it will take all that information and put it into onenote. It would be pretty unusual, I think, to go over our limit, but if you need to, you certainly can.
+Troy and Lauren Kurz: We're saying that you can do like, almost as though you can do your claims after the fact. You can record yourself talking and it'll add to the same note.
+Christopher Hume: Yep. So all that information would be integrated in or anything that you type in here.
+Troy and Lauren Kurz: I've got a quick question.
+Christopher Hume: Yep, absolutely.
+Troy and Lauren Kurz: Oh, wait, is there the option to just dictate? Like, I currently use one for my therapy notes and I don't do any of the recording. I only dictate.
+Christopher Hume: That's what some of our users do. So instead of actually having Jacek on during the session, they just kind of take, you know, their shorthand notes or they have a much better memory than I. And then at the end of the day or after the session, they just, in plain English, tell Jace what happened and it will put that into the appropriate clinical format for you.
+Troy and Lauren Kurz: Okay, cool. Next question. In the one I currently use, I'm also able to like, choose modalities, like certain interventions that I might use, like CBT or CBT or any of those things. Is that on JOT Psych?
+Christopher Hume: So JOT Psych should kind of in how the prompts and the. And JOT Psych is set up. It should have awareness of those modalities. And what you can do is you can just flag those. One, you can say, hey, JOT Psych. Tell me what modalities I used. And it'll probably do a pretty good job. But also if you just type them in here and say, did. Did xy? I use this modality in this modality in additional notes that will guarantee it's included.
+Troy and Lauren Kurz: Gotcha. Okay. So you can put it in after the fact.
+Christopher Hume: Yep, maybe.
+Troy and Lauren Kurz: Nice.
+Christopher Hume: Any. Any other questions about recording?
+Troy and Lauren Kurz: I don't think so.
+Christopher Hume: Okay, perfect. So we'll go over to you.
+Troy and Lauren Kurz: Just manually hit the record. I mean, it doesn't. It's not like when you start just talking to the patient, it couldn't record for you. No.
+Christopher Hume: You have to manually stop it. Yes, yes.
+Troy and Lauren Kurz: You wanted to start it. Can you, oh, let's say you like, stop talking to the patient or you're. You're like, okay, we're just talking about random stuff right now. I'm gonna stop it. I don't want it to record this, but start maybe talking about something else important. You have to start a brand new one. Or do you like, stop, pause that one.
+Christopher Hume: There's two options here. So one, you can have your normal encounter, talk, talk, talk. And then you can pause.
+Troy and Lauren Kurz: Okay.
+Christopher Hume: And then it's not recording. And then resume. Or if you think the encounter is over, you press stop. And then like it kind of comes around and something really relevant comes up again. You're like, oh my gosh, I thought this session was over. You can just record again. And you'd have an additional recording down here for sure. It needs to be five seconds, Then after your notes or excuse me, after your session, you'll be left with a note. Typically takes about 20 to 40 seconds to generate. Looks something like this. This is a pretty robust therapy and med check note and it gets you the idea. And what EHR do you use currently?
+Troy and Lauren Kurz: Osmind, Osmide and then another company, we use Khipu.
+Christopher Hume: Okay, wonderful. So you can copy and paste just directly into your EHR. I'm sure Dr. Kurz, you know kind of exactly how to do this. But you can copy all sections at once. You can copy a few sections and not sure, off the top of my head if those EHRs are web based or application based. But we're rolling out an add on that allows you with one click to move jot Psych notes from jot psych into your web based ehr. So if that's something that's of interest in the future, that should be rolled out fairly shortly.
+Troy and Lauren Kurz: What does it do? Web based ehr. I was finding that people are. You would be able. So you can a lot easier. Oh, like drag it or whatever. Or cool.
+Christopher Hume: Would. So that's how you copy and paste or excuse me, move into your EHR for now, it would be a copy and paste. Then on the right hand side and Dr. Kurz, this might be relevant for you. And in making your edits here, you can just in plain English tell JOT psych what changes you want made. Hey, I want the summary to be bullet points.
+Troy and Lauren Kurz: Yeah, I use that thing on the side all the time. Wow.
+Christopher Hume: Okay, perfect. And then if you want the note to look like this or the summary section to be bullet points moving forward, just make sure you press yes. Train this. If it's just a change you only want made to this note, you can say, no thanks, this away.
+Troy and Lauren Kurz: I know. Isn't it so cool?
+Troy and Lauren Kurz: Yeah, I think it's. I think it's so cool that this is like this has happened. That's millennials. I guess we're like, whoa. We're like. And it's cool that this is your job. Like this is. It's really cool.
+Christopher Hume: It's really cool.
+Christopher Hume: I, I kind of joke. I'm not an engineer, so I'm not. I'm. That. That side of the house. I just can't believe what they're able to do. It's like magic.
+Troy and Lauren Kurz: I know. That's insane. And it's getting all of this information, like from the web, from just like every. Or like, is it from its own brain? But like, I don't know. It's like so hard.
+Christopher Hume: That's where we start hitting my. Yeah, we've trained it and we have prompts. So be very clear, we do not use any. Just because I know some people ask this. We do not use any data here from customers to train JOT Psych or any models or anything like that. So none of the data shared will be used to train. We have spent a lot of time crafting prompts and guidance to make sure that JOT Psych understands how to support behavior, health and psych. So that's kind of where this comes from.
+Troy and Lauren Kurz: You can give it specific resources to look through and train. Only off those resources. Throw the DSM 5 at it.
+Christopher Hume: Next. Yeah, the next question here is. So we've walked through recording, we've walked through how to what your note could look like, how to copy your note, how to edit your note. Any questions before I move into customizing templates?
+Troy and Lauren Kurz: No.
+Christopher Hume: Okay, perfect. I guess. Actually, the one thing I should have flagged first. Let's see. Is as you move toward hope I have turned out on this account. But as you move toward your insurance base at a clinic and organization, we have JOT audit. So that's a feature in the sidebar that will review your notes and identify areas where, hey, you missed this payer's rule or you really should add this section to meet all of your requirements for this coding. And that's something that a lot of teams sessionally, sort of admins and admin and operation side really like to see to make sure they're not fighting the fight with insurance agencies and audit with audits. That's over here.
+Troy and Lauren Kurz: Quick question. Do you specify which payer you're submitting to or do you do that on the right hand sidebar, like submitting first bravado to CIGNA or what we would.
+Christopher Hume: Yes, you would have to specify. Or it would specify the rules for different payers. We would take your payer contracts and upload those into JOT Psych for you.
+Christopher Hume: So you have your own custom JOT audit. Let me see. I think JOT it. JOT it think.
+Christopher Hume: Actually, we are called. Jot audit. So you're quite close. So you would, you would come to chat, audit here, create your rules, etc, and we would work with you on that.
+Troy and Lauren Kurz: Upload your. All of your insurance contracts and they make you specific rules. Yeah, sure, yeah. And you can tell it by the way, if you learn a new, like if you learn a new rule from a company like, oh, this is something on an audit and you're actually like, oh, this is something they audited us for and we miss and we have to educate our staff or whatever.
+Troy and Lauren Kurz: You can add that in with you guys specifically, right?
+Christopher Hume: Yep. So you, we, you could be like, hey, Chris, I need help adding this rule. Or you actually have the ability to, to go back here, hey, let's create a new rule.
+Troy and Lauren Kurz: You can add rules. You can add rules and create new rules for the charity. And then with that, also if someone accidentally didn't add something that they needed to, would that prompt you if it's a rule like, okay, yeah, you would, or whatever.
+Christopher Hume: It would flag it for the provider. So they'd see on the side in their job audit and be like, hey, you forgot this. And then also in your. As a supervisor, you would have, you can see, I'm sorry, I only have one fake clinician in my account. But you'd say, oh, my gosh, this job site test account, their compliance is at 59% and they're often or at least a quarter of the time using the wrong CPT code.
+Troy and Lauren Kurz: I have a question. So for like admins, if we're going in and like editing, doing our own audits and notes, is that an additional paid admin seat or can you add like, practice manager staff?
+Christopher Hume: So right now, practice manager staff is free. So the restriction on that is you can't record, but you can go in and review and edit notes. Yeah. So those are free accounts that we could set up for you.
+Troy and Lauren Kurz: Great.
+Christopher Hume: All right, I know I got distracted here talking about John Audit, but I do want to go back to your template editing. So to show you the most important thing here and make sure to not run right up to the end of this meeting time so you can have a little bit of breathing room in your day. So in jot Psych, the notes are templates. As I said, infinitely customizable. Dr. Kurz, this might be relevant to you. Have you been able to play with your templates yet?
+Troy and Lauren Kurz: I play with my templates, yeah. I haven't done it in a long time, but yeah.
+Christopher Hume: Okay, well, we've had some updates recently, so maybe this will be fun. For you. Maybe it'll be repetitive, but hopefully helpful for the rest of the team. So if you go to the Note Templates page, you'll have templates preloaded based on the specialty you select when you log in. We have a library you can choose from.
+Christopher Hume: You can upload an existing PDF. Or you can start from scratch. Start from scratch. Because I think it kind of shows the easiest way to edit, say health. You can add a section from our pre built sections.
+Troy and Lauren Kurz: So we'll go, You're using your brand. That's. That's all I care about.
+Troy and Lauren Kurz: And this is just one part. Don't make the interaction with the patient. You don't.
+Christopher Hume: So.
+Troy and Lauren Kurz: And then we also have our AI template builder.
+Christopher Hume: So much like the AI edit feature, you just explain in plain English what you want. Yeah. Hey, I want you to. I'm sorry, I joke. I could never be a provider clinician because I can't speak and type something out. So I appreciate you bearing with me as I type and say it out loud.
+Troy and Lauren Kurz: Hey, please. You're. You're. I was gonna say you're kind, you're. You don't demand from it. That's nice.
+Christopher Hume: Yes, very, very kind. Objective, separate, subjective.
+Troy and Lauren Kurz: Nice. I love this.
+Christopher Hume: Yep. And then you can say, hey, I want the allergies to be in a narrative paragraph. Make this objective a little bit more robust. And then that's how you can customize your template. I think for just to give you all a running start as well. For your new insurance Spravato and TMS clinic, we have a Spravato intake form. Excuse me, Intake and follow up template. I believe we have a tms. Yep. TMS treatment session template as well, or tms. So if you go to the library down here, you should be able to load those up onto your account. It gives you a really strong starting point and then you can make any edits using that button.
+Troy and Lauren Kurz: So can we have like team templates versus individual provider templates or like if we wanted to use the same ketamine intake template across Luma Health, could that be shared or is it just per provider account?
+Christopher Hume: That is a great question. You should definitely be giving the demo because I should have brought that up already. If you push this button up here as a super. As an administrator, then it gets shared to the. This little building looking thing. I'm not much of a designer.
+Troy and Lauren Kurz: We're not seeing. We're not seeing what you're seeing.
+Christopher Hume: Oh, are you not seeing me? The green circle?
+Troy and Lauren Kurz: No.
+Christopher Hume: Oh my goodness. Can you see the TMS treatment session documentation? Template.
+Troy and Lauren Kurz: Yes.
+Christopher Hume: Okay. And you don't.
+Troy and Lauren Kurz: On the top, right? The very top. Maybe if I click this. Oh, I see. Building. I think. Wait, where we can't see your marker, but. Oh, there now. Yeah. Okay, now I can see. Yeah.
+Christopher Hume: So yeah, if you push that as a administrator, it'll share it with the entire group. So then everyone's playing from the same sheet of music. Consistency, same rules, et cetera. That was the jot. Psych overview. a thousand miles a minute. There's definitely some additional features. I'm happy to kind of go through those, answer any questions, but I do sort of. Again, it's a Friday. Be respectful. Give everyone a little breathing room. So any questions or thoughts Right off the bat,
+Troy and Lauren Kurz: My first question would be since Dr. Kurz already has a job site account with templates built, could we slide that one into like our Luma account and add additional onto there? Would we have to start over so we can.
+Christopher Hume: What I would probably recommend is that we turn Dr. Kurz into the kind of administrator or supervisor for the Luma Health account and then just add people under him. What I would like to just lag there is once you add someone to a group, you can deactivate them so they lose access, but you can never take them out. So it's like a one way movement. Just for if. If you have organization, patients say. And Lauren is managing these patients, they belong to the organization. And then you leave the organization. You can't take your account out of the org. We lock that down. So the patients are associated with the organization. And that's just kind of our HIPAA and security posture in case.
+Troy and Lauren Kurz: Yeah. Something. Yeah, that's.
+Christopher Hume: Yeah. Just so people aren't moving between organizations with patients related to. Yeah, right. That are no longer theirs.
+Troy and Lauren Kurz: Okay. Because it does save that patient's. The notes in there.
+Christopher Hume: Yep, it's. And I'll show you.
+Troy and Lauren Kurz: Can you delete the note every time if you wanted?
+Christopher Hume: Yep, of course.
+Troy and Lauren Kurz: Yeah, you can delete the note.
+Christopher Hume: Absolutely. But it does. If you choose to use a patient identifier, it does build up this sort of patient profile.
+Christopher Hume: Oh, you can send forms from here. You can track their treatment plan. It'll identify their diagnoses and medications.
+Troy and Lauren Kurz: Are you guys going to ever make your own ehr with the company?
+Christopher Hume: Yeah, that. That is certainly the path we're on. We. We just added E prescription. We'll be rolling out telehealth. How most people use this now. Is as an AI scribe. And then as a biller, we help with eligibility checks. We help with kind of making sure that your notes are audit proof. And then we're doing billing for some clients as well. So if you try us out, you'd love us for the AI scribe. That's something we'd be happy to help you with as well.
+Troy and Lauren Kurz: Okay.
+Troy and Lauren Kurz: Oh, one other question. If I ever give a patient like a handout or so, or I go over something like on a handout or like a page working with cbt, are we able to like, take a. Like a picture of that and upload it? Or if it's like, built in on, like, a sheet that I have, like on my laptop, can I, like, copy and paste and say went over this with patient and like, have it summarize something from it? Just curious.
+Christopher Hume: Unfortunately, we don't have a way to not yet upload like, PDFs and Word documents.
+Christopher Hume: The close we would have is that you could copy and paste the text into this additional notes and be like, review this with the patient today. And it would be integrated into the note. It's something definitely banging the table for. With the engineers. You're not the first person to ask.
+Troy and Lauren Kurz: Yeah. Okay.
+Christopher Hume: In terms of next steps, I would love. I don't know if you're kind of, if any. Anyone's interested in a trial, but what we could do is set up trial accounts. Lauren, if you're interested, and Kaylin, if you're interested, we get you set up on trial accounts and we can figure out how we'd like to set it up where I put you on Dr. Kurz's account, and then Dr. Kurz, we set it up so you're all kind of piloting for the period together. And then at the end, you can remove or keep anyone you'd like and just continue your subscription, if that sounds reasonable.
+Troy and Lauren Kurz: Yeah, I mean, I would love that. Yeah. How long is the. Yeah, you guys should see. Yeah, yeah. Like, it's not perfect, but none of them are perfect.
+Christopher Hume: No, no, these are the options. The two weeks. The four weeks or the six weeks. And Lauren, I don't think you were here when I was. Or maybe you were when I was talking about the four weeks. We develop your templates for you and we get to come out. And if you're interested, come out and do an in person training as well.
+Troy and Lauren Kurz: I don't know if I need the in person. I don't know if I need the in person. Two weeks. Yeah, we'll start with the two. Troy has his temp or Dr. Kurtz has his templates built. Can we start with him as, like, the administrator?
+Christopher Hume: Yeah, certainly. And so.
+Troy and Lauren Kurz: It too. I'll be like practice manager because I don't see any, so.
+Christopher Hume: Sounds like aen. Lauren, we'd like to get you both clinician accounts. Does that sound right?
+Troy and Lauren Kurz: Yeah. Yes.
+Christopher Hume: Yeah. And then Sadie would get you a admin account.
+Troy and Lauren Kurz: Yes, please.
+Christopher Hume: And is. Is there anyone else at the org who would like to try it for the two weeks we get?
+Troy and Lauren Kurz: 0 admin account too.
+Christopher Hume: Yeah, yeah, of course. And I know you mentioned some therapists as well. Would any of them like to try?
+Troy and Lauren Kurz: Yeah, yeah. We have Marshall and he's good. We don't need.
+Christopher Hume: Yeah, I think it's just that.
+Troy and Lauren Kurz: Okay, we could be wrong, but probably not.
+Christopher Hume: They're always welcome after the fact. We're not going to turn anyone away. Okay, so I'm not sure if you have your laptops in front of you now. You can sign up for the accounts and then this afternoon I'll ask you to Dr. Add you to Dr. Kurz's. Would that kind of make sense or would you like me to send the link out afterwards?
+Troy and Lauren Kurz: Not everyone has their laptops. Can we do.
+Troy and Lauren Kurz: Okay, I have my phone, but we have to be on laptop.
+Christopher Hume: You can sign up on your phone. Your phone works.
+Troy and Lauren Kurz: You can do it online too. Okay, I have my phone with me here, let me just grab it. Because that. Because it's coming to my email or it's coming to come into something else. He'll probably just tell you how to do it. I feel like.
+Christopher Hume: Oh, I certainly can walk you through. You go jotpsite.com and there's a button in the top right as start trial.
+Troy and Lauren Kurz: And then you go where to log in or start your trial.
+Christopher Hume: Start your trial.
+Troy and Lauren Kurz: Yep, your trial.
+Christopher Hume: Let's see if we can beat the three minutes.
+Troy and Lauren Kurz: I said, can you put in password?
+Christopher Hume: Yep. You put in an email and password.
+Troy and Lauren Kurz: Oh, wait. Creating a password or already have an account login.
+Christopher Hume: Create a password. Yeah, I don't mind.
+Troy and Lauren Kurz: Doesn't have create a.
+Christopher Hume: Or it'll just say like email and password, I think.
+Christopher Hume: And then below it it'll say an account more in a woman.
+Troy and Lauren Kurz: Sorry, what did you say?
+Christopher Hume: I said it should say email and then password. And then beneath that, it'll say already have an account, question mark. Press that. You don't have an account yet, but you just put in an email and your password.
+Troy and Lauren Kurz: Do we have a referral code?
+Christopher Hume: No referral code. Nope. I'll just move you under Dr. Kurz's account. And, Sadie and Sierra, I know you're out of my peripherals here, but is everything going all right for you?
+Troy and Lauren Kurz: Yes.
+Troy and Lauren Kurz: Okay, Both of these. Do you do client or patient? So do which one? You do both. And then can you do.
+Christopher Hume: Yeah.
+Troy and Lauren Kurz: And change patient.
+Christopher Hume: And you can train specific templates. If you're, you know, medication management, you use patient. And therapy use client. You can train the templates to use different language.
+Troy and Lauren Kurz: You signed up? I think she beat your three minutes. Yeah, I'm signed up. No, not yet.
+Christopher Hume: Nope, Certainly not yet. And let me see.
+Troy and Lauren Kurz: So we just log in where? Whenever we have our first station, we log in. Yeah. And. Well, but we have to give them consents. Oh, it's built in here. I will make sure yours are built into your. We have an AI scribe consent, though. I've added them to all of them. You added it all? But nobody. The ones we haven't sent out yet. So. Yeah, we gotta test them first. You can also just ask them. You can also verbally ask and then add it to your note.
+Christopher Hume: So, Sierra, Kaylin, Lauren, I see all of your accounts are just created. So what I'll do is I will add you to Dr. Kurz's account. I'll put that whole account on a trial period so you won't be charged for any of them. I think, Dr. Kurz, you might even get a little bit of a bonus. Two weeks here as everyone's trying it.
+Christopher Hume: And then just at the end of the trial period, we can decide who you would like to continue and who you'd like to deactivate. Hopefully no one.
+Christopher Hume: But certainly understand if you want to bring anyone off the account, Would it be all right if we schedule just a check in at some point next week to see how it's going and see if I can offer any. Virtual support.
+Troy and Lauren Kurz: Yes. Yes.
+Christopher Hume: Is there a time that works for all of you?
+Troy and Lauren Kurz: Sierra and I?
+Christopher Hume: Yep.
+Troy and Lauren Kurz: And we can give you an update on correct how things are going.
+Christopher Hume: And then Dr. Pig came about getting everyone out of the meeting early and looks like I'm going to use the whole time. So my apologies.
+Troy and Lauren Kurz: No worries.
+Christopher Hume: Is there an account or is there a template that Dr. Kurz would like shared with everyone? I can do that on my side.
+Troy and Lauren Kurz: Is there a template that you would like shared with everyone? I just use the psychiatry. He just uses the psychiatry. Intake one.
+Christopher Hume: Okay.
+Troy and Lauren Kurz: Troy, will you move my phone off of the keyboard, please? What is happening here? Okay, next week I can do. Do you have any time on Tuesday?
+Christopher Hume: Let me. Next Tuesday's the 17th. Yes, I have time anytime aside from 2 to 2:30 Eastern. So that's 11 to 11:30 Pacific. But rest of the day I'm open.
+Troy and Lauren Kurz: Can we do 12:30 or no, let's do.
+Christopher Hume: We do 12:30 if that do 10:00am 10:00am so that is one my time. Perfect.
+Troy and Lauren Kurz: Does that work?
+Christopher Hume: Yep. I will send that 1pm Excuse me? I'll send a 1pm Eastern and you'll get that in a few minutes.
+Troy and Lauren Kurz: Will you send it to me and Sierra, please?
+Christopher Hume: Yep, absolutely. Let me. Let me actually do that right now. Great. Well, any final questions before kind of we wrap up here?
+Troy and Lauren Kurz: No, no, I think we're good. Thank you.
+Christopher Hume: Thank you.
+Troy and Lauren Kurz: Thank you all so much.
+Christopher Hume: Oh my gosh.
+Troy and Lauren Kurz: Of course.
+Christopher Hume: Of course. Have a great day. Bye.
+Troy and Lauren Kurz: Bye.

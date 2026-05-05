@@ -1,0 +1,102 @@
+Christopher Hume: So pretty strong thesis around cold outbound in success. We've seen John, our senior SDR, have success doing like true cold outbound with 150 leads. He booked two meetings. That's right on. Right on track for a slightly above average process.
+Daniel Chadda: Right.
+Christopher Hume: Begun calling clinics, selling them our job bill package. And we just. So John was calling cell phone numbers. We've had our other SDRs calling work numbers and through like they have 200 prospects. And so far they've booked one meeting and had one person express interest. That is definitely below that 1% number that we want to see. But it's promising enough that I think we can. We have a pretty naive script. I think there's something to fix here.
+Daniel Chadda: Right.
+Christopher Hume: Right.
+Christopher Hume: So that's kind of where we are and why I want. As I'm in the nitty gritty trying to get our current experiments to work, I would love to have you spend a little bit of time or a lot of bit of time. I'm starting to plan out, like the bigger picture stuff. So, like, I think, like, this is going to work, but, like, how do we scale it? And so we break this into a few kind of buckets that I'll walk you through, but. Any questions there, Daniel?
+Daniel Chadda: Not so far. I did take some notes last time. So this kind of just like lines up with. Yeah. What I. What I had written down already, but.
+Christopher Hume: Yep.
+Daniel Chadda: Yeah.
+Christopher Hume: So it shouldn't be anything too crazy. Hopefully I haven't completely changed. Change the scope here. So we want to look. So the hypothesis here is that it's really important that we have good lead quality and that we're segmenting and targeting the right people. We're super bullish. That phone forward is really important. Like, we need to do a lot of phone calls. I think that as we scale this up, we're going to have to have different sequences. Right. Like, we shouldn't be hitting a clinician with the same info that we're hitting like a billing admin. Right. I just want to put a little bit of thought into like, all right, like, so how are we splitting these up? And then I also want to put some thought into our cooldown and recycle sequence. Like, when is it okay to go back to someone? What if someone never responds to anything? When do we just let them go? Is like, okay. Waste of our time. Et cetera.
+Daniel Chadda: Right, okay.
+Christopher Hume: Any questions so far, Daniel?
+Daniel Chadda: No.
+Christopher Hume: Okay, cool. So I think what I'm asking you to do is sort of just like as I said, research, research here. This is not an internal audit. So you want like what's best in class. So like what do people. What's like the guidance. What do other startups do to. For this cold outbound? What's the best channel mix? What's the like what is a. Are examples of best in class multi touch sequences.
+Christopher Hume: Like right now what we have, and I think I told you this last week is pretty like me like just like looking at like oh, I want to reach out 15 times, let's do nine phone calls and six emails and it's good enough. But as we scale this up, I want to have a little bit more thought there.
+Daniel Chadda: Yeah, Chris, sorry, regarding that just like you know, obtaining those measures of like, you know, what's best in class and just kind of like getting a sense of those procedures. Should we be focusing on like companies that are like sort of similar to job site kind of like you know, in terms of size and just services or I was thinking like do we also look into kind of like maybe like larger sales practices of like, I don't know, larger companies in some way and particularly interested in startups because
+Christopher Hume: I think we're so much smaller than most companies that one, we have to be aware that we can't run a process that Unilever can run. We just don't have the people. And also there's probably things that make sense for us to do that wouldn't scale up to a Unilever or Epic. But like if it could get us 100 customers, like yeah, EPIC doesn't give a about. Well maybe they do, but Euro Lever doesn't care if we they get 100 customers. But like that would be huge, huge for us if we had a process that we could run for a month or two and get 100 customers.
+Daniel Chadda: Okay, okay. Do we have kind of like a list of competitors to go through? I remember you mentioned one last where I wrote it down so this.
+Christopher Hume: Since it's all in the grain, I'll just give you a list. So we have like I'm not like this doesn't. The research doesn't have to be like so specific on like AI scribes in the health space.
+Daniel Chadda: Okay.
+Christopher Hume: So I'm just interested in like this stage of startups, what they do going after B2B.
+Christopher Hume: But if you want to do research into like our specific competitors, it's people like Freed berries.
+Daniel Chadda: Open evidence was one. Is that right?
+Christopher Hume: Yes, Heidi, Open evidence. Those are the big ones.
+Daniel Chadda: Okay. Do you have an idea in mind of sample size for that, or is it just, like, you know, go through competitors? You know, identify whatever support. Yeah.
+Christopher Hume: Another good question. I would say, like, if you, like, in the area of two to three examples, like, hey, this is what.
+Daniel Chadda: Okay.
+Christopher Hume: Like, we. I don't need you to go like, crazy. Okay.
+Daniel Chadda: You know, I was thinking, like, like, 10 to 15.
+Christopher Hume: No, no, no, no, no, no. It's like, hey, like, I have, like, a good understanding of what. Like, let me see. If you're like, oh, this is going really well, I could get a bigger sample size here. That would be really helpful.
+Christopher Hume: But, like, if you have three, and you're like, this is what these three people did to grow, and that's going to be good for the immediate future. And then if I need you to dig deeper, we can dig deeper.
+Daniel Chadda: Okay.
+Christopher Hume: Okay. So then I want you to look at sort of. So that's like, the general thing we want to look at here, Daniel. But then, like, it's different work streams here. So it's like, okay, how are we going to get our leads? Or how do people get leads? So there's true cold outbound, there's inbound, and there's inbound assist, and there's pure inbound. And right now, we're relying heavily on true cold outbound. But a hypothesis that inbound, fewer inbound, is going to be, like, a really strong lever for us. We crush. Once we get people in the ecosystem, like, we're killers at the sales, but we just haven't done any research into it. We're like, what's out there? Like, who's done it? What do the metrics look like there? That's workstream A. Does that make sense?
+Daniel Chadda: Yeah, makes sense. Makes sense.
+Christopher Hume: Okay. Workstream B. I would just, like, love for you to look over the sequence we have.
+Daniel Chadda: Sorry, just going back to, like, a workstream A for a second.
+Christopher Hume: Yep.
+Daniel Chadda: So, like, when going through those different, like, you know, types of acquisitions, you know, you had, like, what is it? Hold outbound, inbound assist, pure inbound. Are there like, any things, like, just kind of, like, you know, off the top of your head that you think would be, like, very important to compare between them. Like, I don't know. I kind of have an idea of just, you know, like a general list, but I wanted to see if there's, like, anything, like, specific you're looking for.
+Christopher Hume: Yeah, the two things I think are cost and then scalability. So obviously cold outbound is, like, basically infinitely scalable because you just get the list. You just hit everyone.
+Daniel Chadda: Yeah.
+Christopher Hume: Your inbound in a very small sample size has worked very well for us, but I'M like, are we going to be able to build, like, an engine off of, like, digital ads, digital forms? How much effort is going to be required to set that up? That's the real thing that I'm. Concerned about. I'm like, do we have the. The capacity to scale that up? Because I know if we can scale it up, it'll work. I'm like, I don't know if we're gonna get there. And, like, I don't know, like, are there enough psychiatrists on Facebook? I mean, probably, but are there enough on Facebook for us to capture them?
+Daniel Chadda: All right, and, like, just in terms of that. So, you know, for the breakdown and, you know, going into those, like, key points you just mentioned, like, including scalability, how specific do you want me to get with that? Because I was thinking, like, you know, for. Let's just say, like, you know, pure inbound, for example, like, you know, there's, like, social media and, you know, there's like, maybe, like, ads on Facebook, ads on LinkedIn, like, you know, under just that bucket of social media. So would you want, like, like, an evaluation of, like, each of those specific things, and then for each of those, just, like, you know, when it comes to scalability, specifically, do you want me to look into, like, you know, an exact, like. Just, like, potential kind of like, system we could implement? So, you know, like, you just mentioned, like, you know, the, you know, the Facebook ads engine or whatever it is, or do you just want, like, a more broad level, like, analysis of that? I'm not 100% sure that's a.
+Christopher Hume: That's a really, really good question.
+Daniel Chadda: I think.
+Christopher Hume: I think what probably makes sense here, Daniel, is because part of the reason I am kind of throwing this meatball of a project at you is because I haven't had time to do the research yet. So I think it makes sense.
+Daniel Chadda: I'm fine doing the first one, just going, like, through every single idea and just like.
+Christopher Hume: But I think what makes sense to make sure we're not, like, going too deep here is for you to do, like, a cursory review and be like, hey, this is what I'm planning on doing, Chris.
+Daniel Chadda: What do you think?
+Christopher Hume: And I can tag up maybe not tomorrow, because you have a midterm today, but I could tag up at some point this week. You've had a time to do a first review and be like, hey, Chris, this is the information I'm thinking I'm going to research. Is this in line with what's helpful? And I think that might be better than me just being like, oh, yeah, go deep here. Don't go deep here, because I could lead you astray and, like, put you down some rabbit holes. And the idea is to get something that's helpful, gives us a path ahead, but doesn't just, like, suck your time for, like, three weeks?
+Daniel Chadda: Right, right.
+Christopher Hume: My instinct, Daniel, for that question is, like, we probably just want to look at Facebook and LinkedIn and have a pretty good understanding. But I would actually defer to, after you do your first pass, what you think the most meaningful information to provide is.
+Daniel Chadda: Okay.
+Christopher Hume: Okay. Next, just a review of our existing sequence. Like, hey, Chris, like, here's some things we might want to think or we might want to adjust here. So your call to action, it doesn't meet these best practices. Or frankly, if you tell me, like, our current sequence is killer, like, that's a completely fine outcome. I just have built all of our sequences within a couple hours and having someone. I know you're the cold email king, Daniel. Having someone look at them with a little bit more of a. Yeah. With a different eye would just be really helpful.
+Daniel Chadda: Yeah, so. Okay. And just for evaluating the sequences, I am no, like, you know, definitely want to compare it against the best practices. But yeah, I mean I, I know you mentioned also just like, you know, just evaluate it kind of like on its own just in terms of like how, how well it's doing. So. Yeah. Okay. I was thinking primarily for that I would just like take the metrics, like our current metrics and then just like compare like those two competitors or just even you know, put in chat GPT give the best ideal metrics.
+Christopher Hume: Yeah, okay, that'd be great. And then if you're like, hey, we're a little low, I think you could fix this and this. That would be helpful. Let me see our live Daniel, if I can get you a free HubSpot because that's where you can review all this. Got one seat left. Let's see what happens. Or seat.
+Daniel Chadda: Okay. Chris, also, sorry, just a quick note, I do have to hop off at 9:30, so.
+Christopher Hume: Okay, perfect. Let's just run through these last two and then again how deep we want to go on this I think will be based off your initial pass. But we love kind of your view on sequences. Like. Okay, so you have a good base sequence here. I would suggest we also have one for X and for Y.
+Daniel Chadda: Right.
+Christopher Hume: Too many. Yeah, let's just do Persona. We'll do these three.
+Daniel Chadda: Okay.
+Christopher Hume: And so we're already going to have one and we just love your thoughts. I'm like, hey, these are the tweaks we should make for the billing admin and the owner.
+Daniel Chadda: Okay. I could do all four of those. Chris, I don't mind.
+Christopher Hume: Yeah, nah, I think like, I think going from one to four probably a little overkill. Let's just do the first analysis one to three. Just like we're still building up the team. Like I don't even know if we have enough people to have that many. Yeah. And then the last thing is this is just sort of like a research and like how do people, what do they do when someone, how do they do cooldowns? I have no idea.
+Christopher Hume: I haven't had time to do research on it. But once we do it, what happens? Like we, we do all the whole thing. How do we like have a good follow up process for people who we engage with or reach out to and never convert.
+Daniel Chadda: Right.
+Christopher Hume: So this was a lot, Daniel. So I think how we want to break this off into, like, manageable chunks.
+Daniel Chadda: Yeah.
+Christopher Hume: Is. Yeah. You probably review it and come up with, like, a land for how you want to tackle it. And, like, hey, I'm going to research this and this, and we get. And I mean. For startups. So, like, let's keep this super lightweight. Like, it could just be like a bullet list of like, hey, like this week I'm gonna focus on work stream A and this is what I'm gonna research into. Does this look right? And then like, that's good enough. But I just wanna make sure you kind of have the support here to kind of dive deep, own something, but not just get, like, thrown the deep end.
+Daniel Chadda: Yeah, yeah, that makes perfect sense. I was also thinking of, like, specifically starting just, you know, with like, evaluating the, you know, best practices and like, competitive practices. So, yeah, I just want to make sure that's like, yeah, the best point.
+Christopher Hume: Yeah. So I think, yeah, that sort of general best practices from competitors into, like, lead acquisition would be like a perfect first chunk here over the next week or so that I'd want to focus on.
+Daniel Chadda: All right, perfect. Is there any, like, specific, I don't know, deliverable you're kind of looking for by, I guess, next Friday? I don't know. Wait, do we have a meeting this Friday?
+Christopher Hume: We have a meeting this Friday.
+Daniel Chadda: Okay, cool.
+Christopher Hume: If I'm not sure, what's your bandwidth looking like, Daniel?
+Daniel Chadda: So it's definitely getting a bit more open. I just say, like, this week specifically, at least until Thursday. Once, like, Thursday hits, actually. Well, once I'm like, done with the exam on Thursday, I should be a lot more free. But I've also just finished up, like, I just finished up like a memo for Becca and I'm almost done with like, she gave me a small project on just like building out these dashboards. So I'll have that done hopefully by today.
+Daniel Chadda: So I'd say, like, yeah, right now. Like today, tomorrow, it'll be a little rough, but going forward, I definitely have, like, time.
+Christopher Hume: Yeah, let's have our deliverable for Friday. Just be your plan for next.
+Daniel Chadda: Okay.
+Christopher Hume: Like, hey, this is what I'm gonna research. This is what the output's gonna be. We'll review it, make sure on the same page this Friday and then you'll deliver it next Friday.
+Daniel Chadda: Perfect. Okay, awesome.
+Christopher Hume: Cool. Anything else?
+Daniel Chadda: That's kind of it off the top of my head.
+Christopher Hume: Perfect.
+Daniel Chadda: Yeah, perfect.
+Christopher Hume: Great. I'm excited. Daniel, good luck with that midterm. What class?
+Daniel Chadda: Yeah, thank you, Chris. It's for stats.
+Christopher Hume: Not my favorite. Not my favorite.
+Christopher Hume: You gave us so much.
+Daniel Chadda: Yeah. So much work.
+Christopher Hume: Yeah. Dude, I had a nightmarish experience with my stats class. I hope yours is better than mine.
+Daniel Chadda: So far it hasn't been too bad. So I don't know, hoping this exam goes well, but. Yeah, ours.
+Christopher Hume: The guy had us coding in Matlab, so every problem set. Every problem set was Matlab. It was a nightmare.
+Daniel Chadda: Yeah, we have to use R. But it's not like. Yeah, no crazy coding like that. That's.
+Christopher Hume: No, no. Matlab was not a good use of my time to spend an entire semester learning that. Have not looked at it since.
+Daniel Chadda: Yeah, I can imagine.
+Christopher Hume: Well, I'll let you go, Daniel. Do your cramming. And then if you need anything beforehand before Friday, just shoot me a slack.
+Daniel Chadda: Yeah, but if you.
+Christopher Hume: Yeah. Looking forward to seeing just the outline. And again, just like. Straight up bullet points is good. Just like a overview of what you're. You're planning to do.
+Daniel Chadda: Gotcha.
+Daniel Chadda: All right, Chris. Yeah. Thanks so much. See you Friday.
+Christopher Hume: Yeah, looking forward to it, Daniel.
+Daniel Chadda: Bye. Bye.

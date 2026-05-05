@@ -1,0 +1,464 @@
+{
+  "variable": [
+    {
+      "path": "accounts/6258528322/containers/200880687/workspaces/24/variables/48",
+      "accountId": "6258528322",
+      "containerId": "200880687",
+      "workspaceId": "24",
+      "variableId": "48",
+      "name": "FB_CONVERSIONS_API-1625233994894344-Web-Variable-Custom_Data_Currency",
+      "type": "v",
+      "parameter": [
+        {
+          "type": "integer",
+          "key": "dataLayerVersion",
+          "value": "2"
+        },
+        {
+          "type": "template",
+          "key": "name",
+          "value": "eventModel.currency"
+        }
+      ],
+      "fingerprint": "1741811138916",
+      "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6258528322/containers/200880687/workspaces/24/variables/48?apiLink=variable"
+    },
+    {
+      "path": "accounts/6258528322/containers/200880687/workspaces/24/variables/49",
+      "accountId": "6258528322",
+      "containerId": "200880687",
+      "workspaceId": "24",
+      "variableId": "49",
+      "name": "FB_CONVERSIONS_API-1625233994894344-Web-Variable-Custom_Data_Items",
+      "type": "v",
+      "parameter": [
+        {
+          "type": "integer",
+          "key": "dataLayerVersion",
+          "value": "2"
+        },
+        {
+          "type": "template",
+          "key": "name",
+          "value": "eventModel.items"
+        }
+      ],
+      "fingerprint": "1741811139216",
+      "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6258528322/containers/200880687/workspaces/24/variables/49?apiLink=variable"
+    },
+    {
+      "path": "accounts/6258528322/containers/200880687/workspaces/24/variables/50",
+      "accountId": "6258528322",
+      "containerId": "200880687",
+      "workspaceId": "24",
+      "variableId": "50",
+      "name": "FB_CONVERSIONS_API-1625233994894344-Web-Variable-Custom_Data_Transaction_ID",
+      "type": "v",
+      "parameter": [
+        {
+          "type": "integer",
+          "key": "dataLayerVersion",
+          "value": "2"
+        },
+        {
+          "type": "template",
+          "key": "name",
+          "value": "eventModel.transaction_id"
+        }
+      ],
+      "fingerprint": "1741811139498",
+      "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6258528322/containers/200880687/workspaces/24/variables/50?apiLink=variable"
+    },
+    {
+      "path": "accounts/6258528322/containers/200880687/workspaces/24/variables/51",
+      "accountId": "6258528322",
+      "containerId": "200880687",
+      "workspaceId": "24",
+      "variableId": "51",
+      "name": "FB_CONVERSIONS_API-1625233994894344-Web-Variable-Custom_Data_Value",
+      "type": "v",
+      "parameter": [
+        {
+          "type": "integer",
+          "key": "dataLayerVersion",
+          "value": "2"
+        },
+        {
+          "type": "template",
+          "key": "name",
+          "value": "eventModel.value"
+        }
+      ],
+      "fingerprint": "1741811139714",
+      "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6258528322/containers/200880687/workspaces/24/variables/51?apiLink=variable"
+    },
+    {
+      "path": "accounts/6258528322/containers/200880687/workspaces/24/variables/52",
+      "accountId": "6258528322",
+      "containerId": "200880687",
+      "workspaceId": "24",
+      "variableId": "52",
+      "name": "FB_CONVERSIONS_API-1625233994894344-Web-Variable-Event_ID_Constant",
+      "type": "c",
+      "parameter": [
+        {
+          "type": "template",
+          "key": "value",
+          "value": "7d75857b-e763-4bf9-bc7f-e577e48dab50_{{FB_CONVERSIONS_API-1625233994894344-Web-Variable-Get_Event_ID}}"
+        }
+      ],
+      "fingerprint": "1741811139915",
+      "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6258528322/containers/200880687/workspaces/24/variables/52?apiLink=variable"
+    },
+    {
+      "path": "accounts/6258528322/containers/200880687/workspaces/24/variables/53",
+      "accountId": "6258528322",
+      "containerId": "200880687",
+      "workspaceId": "24",
+      "variableId": "53",
+      "name": "FB_CONVERSIONS_API-1625233994894344-Web-Variable-Get_Event_ID",
+      "type": "jsm",
+      "parameter": [
+        {
+          "type": "template",
+          "key": "javascript",
+          "value": "function() {\n  var gtmData = window.google_tag_manager[{{Container ID}}].dataLayer.get('gtm');\n  return gtmData.start + '.' + gtmData.uniqueEventId;\n}\n"
+        }
+      ],
+      "fingerprint": "1741811140119",
+      "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6258528322/containers/200880687/workspaces/24/variables/53?apiLink=variable"
+    },
+    {
+      "path": "accounts/6258528322/containers/200880687/workspaces/24/variables/54",
+      "accountId": "6258528322",
+      "containerId": "200880687",
+      "workspaceId": "24",
+      "variableId": "54",
+      "name": "FB_CONVERSIONS_API-1625233994894344-Web-Variable-FBEventName",
+      "type": "smm",
+      "parameter": [
+        {
+          "type": "boolean",
+          "key": "setDefaultValue",
+          "value": "true"
+        },
+        {
+          "type": "template",
+          "key": "input",
+          "value": "{{Event}}"
+        },
+        {
+          "type": "template",
+          "key": "defaultValue",
+          "value": "{{Event}}"
+        },
+        {
+          "type": "list",
+          "key": "map",
+          "list": [
+            {
+              "type": "map",
+              "map": [
+                {
+                  "type": "template",
+                  "key": "key",
+                  "value": "add_payment_info"
+                },
+                {
+                  "type": "template",
+                  "key": "value",
+                  "value": "AddPaymentInfo"
+                }
+              ]
+            },
+            {
+              "type": "map",
+              "map": [
+                {
+                  "type": "template",
+                  "key": "key",
+                  "value": "add_to_cart"
+                },
+                {
+                  "type": "template",
+                  "key": "value",
+                  "value": "AddToCart"
+                }
+              ]
+            },
+            {
+              "type": "map",
+              "map": [
+                {
+                  "type": "template",
+                  "key": "key",
+                  "value": "add_to_wishlist"
+                },
+                {
+                  "type": "template",
+                  "key": "value",
+                  "value": "AddToWishlist"
+                }
+              ]
+            },
+            {
+              "type": "map",
+              "map": [
+                {
+                  "type": "template",
+                  "key": "key",
+                  "value": "begin_checkout"
+                },
+                {
+                  "type": "template",
+                  "key": "value",
+                  "value": "InitiateCheckout"
+                }
+              ]
+            },
+            {
+              "type": "map",
+              "map": [
+                {
+                  "type": "template",
+                  "key": "key",
+                  "value": "generate_lead"
+                },
+                {
+                  "type": "template",
+                  "key": "value",
+                  "value": "Lead"
+                }
+              ]
+            },
+            {
+              "type": "map",
+              "map": [
+                {
+                  "type": "template",
+                  "key": "key",
+                  "value": "gtm.dom"
+                },
+                {
+                  "type": "template",
+                  "key": "value",
+                  "value": "PageView"
+                }
+              ]
+            },
+            {
+              "type": "map",
+              "map": [
+                {
+                  "type": "template",
+                  "key": "key",
+                  "value": "page_view"
+                },
+                {
+                  "type": "template",
+                  "key": "value",
+                  "value": "PageView"
+                }
+              ]
+            },
+            {
+              "type": "map",
+              "map": [
+                {
+                  "type": "template",
+                  "key": "key",
+                  "value": "purchase"
+                },
+                {
+                  "type": "template",
+                  "key": "value",
+                  "value": "Purchase"
+                }
+              ]
+            },
+            {
+              "type": "map",
+              "map": [
+                {
+                  "type": "template",
+                  "key": "key",
+                  "value": "search"
+                },
+                {
+                  "type": "template",
+                  "key": "value",
+                  "value": "Search"
+                }
+              ]
+            },
+            {
+              "type": "map",
+              "map": [
+                {
+                  "type": "template",
+                  "key": "key",
+                  "value": "sign_up"
+                },
+                {
+                  "type": "template",
+                  "key": "value",
+                  "value": "CompleteRegistration"
+                }
+              ]
+            },
+            {
+              "type": "map",
+              "map": [
+                {
+                  "type": "template",
+                  "key": "key",
+                  "value": "view_item"
+                },
+                {
+                  "type": "template",
+                  "key": "value",
+                  "value": "ViewContent"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fingerprint": "1741811140300",
+      "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6258528322/containers/200880687/workspaces/24/variables/54?apiLink=variable"
+    },
+    {
+      "path": "accounts/6258528322/containers/200880687/workspaces/24/variables/55",
+      "accountId": "6258528322",
+      "containerId": "200880687",
+      "workspaceId": "24",
+      "variableId": "55",
+      "name": "FB_CONVERSIONS_API-1625233994894344-Web-Variable-User_Data",
+      "type": "v",
+      "parameter": [
+        {
+          "type": "integer",
+          "key": "dataLayerVersion",
+          "value": "2"
+        },
+        {
+          "type": "template",
+          "key": "name",
+          "value": "eventModel.user_data"
+        }
+      ],
+      "fingerprint": "1741811140511",
+      "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6258528322/containers/200880687/workspaces/24/variables/55?apiLink=variable"
+    },
+    {
+      "path": "accounts/6258528322/containers/200880687/workspaces/24/variables/35",
+      "accountId": "6258528322",
+      "containerId": "200880687",
+      "workspaceId": "24",
+      "variableId": "35",
+      "name": "Reddit Pixel ID",
+      "type": "c",
+      "parameter": [
+        {
+          "type": "template",
+          "key": "value",
+          "value": "a2_ggilqnmwpu8w"
+        }
+      ],
+      "fingerprint": "1739202122645",
+      "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6258528322/containers/200880687/workspaces/24/variables/35?apiLink=variable",
+      "formatValue": {}
+    },
+    {
+      "path": "accounts/6258528322/containers/200880687/workspaces/24/variables/25",
+      "accountId": "6258528322",
+      "containerId": "200880687",
+      "workspaceId": "24",
+      "variableId": "25",
+      "name": "Meta Pixel ID",
+      "type": "c",
+      "parameter": [
+        {
+          "type": "template",
+          "key": "value",
+          "value": "1625233994894344"
+        }
+      ],
+      "fingerprint": "1738156767076",
+      "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6258528322/containers/200880687/workspaces/24/variables/25?apiLink=variable",
+      "formatValue": {}
+    },
+    {
+      "path": "accounts/6258528322/containers/200880687/workspaces/24/variables/28",
+      "accountId": "6258528322",
+      "containerId": "200880687",
+      "workspaceId": "24",
+      "variableId": "28",
+      "name": "User Provided Data",
+      "type": "awec",
+      "parameter": [
+        {
+          "type": "template",
+          "key": "mode",
+          "value": "AUTO"
+        },
+        {
+          "type": "boolean",
+          "key": "enableElementBlocking",
+          "value": "false"
+        }
+      ],
+      "fingerprint": "1738157374566",
+      "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6258528322/containers/200880687/workspaces/24/variables/28?apiLink=variable",
+      "formatValue": {}
+    },
+    {
+      "path": "accounts/6258528322/containers/200880687/workspaces/24/variables/5",
+      "accountId": "6258528322",
+      "containerId": "200880687",
+      "workspaceId": "24",
+      "variableId": "5",
+      "name": "user_id",
+      "type": "v",
+      "parameter": [
+        {
+          "type": "integer",
+          "key": "dataLayerVersion",
+          "value": "2"
+        },
+        {
+          "type": "boolean",
+          "key": "setDefaultValue",
+          "value": "false"
+        },
+        {
+          "type": "template",
+          "key": "name",
+          "value": "user_id"
+        }
+      ],
+      "fingerprint": "1737987845486",
+      "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6258528322/containers/200880687/workspaces/24/variables/5?apiLink=variable",
+      "formatValue": {}
+    },
+    {
+      "path": "accounts/6258528322/containers/200880687/workspaces/24/variables/6",
+      "accountId": "6258528322",
+      "containerId": "200880687",
+      "workspaceId": "24",
+      "variableId": "6",
+      "name": "GA4 ID",
+      "type": "c",
+      "parameter": [
+        {
+          "type": "template",
+          "key": "value",
+          "value": "G-PY509QJK6Z"
+        }
+      ],
+      "fingerprint": "1733154176694",
+      "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6258528322/containers/200880687/workspaces/24/variables/6?apiLink=variable",
+      "formatValue": {}
+    }
+  ]
+}

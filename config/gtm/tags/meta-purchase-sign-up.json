@@ -1,0 +1,20 @@
+{
+  "name": "Meta Purchase - Sign Up",
+  "type": "html",
+  "parameter": [
+    {
+      "type": "template",
+      "key": "html",
+      "value": "<script>(function(){var e=\"{{dlv_event_id}}\";var p={value:25,currency:\"USD\",content_name:\"signup\"};if(e&&e!==\"undefined\"&&e!==\"\"){fbq(\"track\",\"Purchase\",p,{eventID:e});}else{fbq(\"track\",\"Purchase\",p);}})();</script>"
+    },
+    {
+      "type": "boolean",
+      "key": "supportDocumentWrite",
+      "value": "false"
+    }
+  ],
+  "firingTriggerId": [
+    "65"
+  ],
+  "tagFiringOption": "oncePerEvent"
+}

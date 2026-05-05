@@ -1,0 +1,50 @@
+Wendy Brandeberry: Sorry, oh, there you are. Hi Becca. How are you? I'm a little irritable, but I'm okay.
+Becca Bressler: I'm sorry to hear that. Not a good way to start the week, I'm sure.
+Wendy Brandeberry: Oh, it's my day job. Just got me a little ticked off.
+Becca Bressler: Yeah. Yeah, I know the feeling. Well, thank you so much for, yeah, for testing this out for us. I made improvements even since you tested it over the weekend, which are really exciting if you're interested in taking it for another spin and see if it addressed some of your issues. But I would love to just hear about your experience.
+Wendy Brandeberry: Well, it didn't work. I sent it to a client and she said she went on it and the link wouldn't open. So I don't know if this was this client, if it was used specific. But she said she was not. So we had to use doxy. We had to use my old site.
+Becca Bressler: Okay. Okay.
+Wendy Brandeberry: No, I hit record. In there. So it was still recording. Then the recording glitched. It kept changing the dates and everything. And I had to just exit out of it and get back in it the next day because it kept. I mean, it glitched the whole note.
+Becca Bressler: It was glitching. Like is your understanding because of the telehealth room or what was the thing?
+Wendy Brandeberry: If it was because I had the telehealth, I had tried the telehealth and then I hit record in the telehealth while in the tele, even though it wasn't connected. I was doing the telehealth through doxy.
+Becca Bressler: What was the time that kept changing?
+Wendy Brandeberry: It kept changing the date, the service date. I saw her on March 25 at like six o'clock or something like that. And it kept scrolling. You know, pretty soon it was April 4th when I saw the patient, so I couldn't sign the note.
+Becca Bressler: So where was the date wrong? You're saying after you generated the note, it was wrong
+Wendy Brandeberry: after I, the date kept changing.
+Becca Bressler: And it changed to April 4th, so
+Wendy Brandeberry: not even it kept changing every time I got out of it, got back in it, got out of it, got back in it. And it, it didn't stay the same until two days later when I went in and was finally able to finalize the note.
+Becca Bressler: So and you're talking about like the top bar, like where is the. Wendy, can you send me a link to that note? Would that be possible and I can have my engineers look at why that happened specifically?
+Wendy Brandeberry: Yeah, I mean that note is fine. It, I mean, it finally saved okay.
+Becca Bressler: But it's helpful for us to have a reference point so we can be like what happened here and maybe that
+Wendy Brandeberry: I send you a link to this note.
+Becca Bressler: Do you want to just send it over email? You just take the URL of the note and you send it.
+Becca Bressler: That's the it's the like what would it
+Wendy Brandeberry: be addressed in the in the bar?
+Becca Bressler: Yeah. Yeah. It's just like the app dot psych.com you know notes slash whatever it may be.
+Wendy Brandeberry: Okay.
+Becca Bressler: So yeah send that over. So the thing you're describing with the link I think we had. Heard someone else had an issue with it too and I'm pretty sure that that is either has been resolved with the weekend or is like about to get resolved. So would you try it again for us once that but but just so I understand the link that didn't work it was the one that was attached to the appointment.
+Wendy Brandeberry: Yes.
+Becca Bressler: Yes okay got it. So you never tried sending them a link from the actual telehealth video.
+Wendy Brandeberry: No I did I got in there 15 minutes before and sent them that link you sent them that link yes I sent them that link. And then they she said she wasn't able to connect and I had doxy up at the same time on a different screen just in case of that while I was in there. And it recorded the session it screwed up the note, but it never let her connect
+Becca Bressler: do you know what air she got?
+Wendy Brandeberry: I don't recall she was this client was really distressed so I don't know if like this is actually
+Becca Bressler: really helpful so that the text or the link she wasn't trying to open it wasn't from an automatic reminder it was from the link that you sent her from the telehealth box.
+Wendy Brandeberry: Yes.
+Becca Bressler: Got it can we try it right now between the two of us if you want to create an appointment?
+Wendy Brandeberry: Yeah. Sue needs an appointment schedule appointment? Save. Okay appointments now. Okay, so I hit. Let me share my screen okay. So I made the appointment okay can you see this? Yeah so I don't see where it says to.
+Becca Bressler: Can you go back to the appointment and let's see you selected telehealth in the appointment
+Wendy Brandeberry: oh, I didn't that's the problem.
+Becca Bressler: To go back to the schedule.
+Wendy Brandeberry: Where are we where are we today. Here. New appointment. Okay. Start recording?
+Becca Bressler: Yes let's go there.
+Becca Bressler: And then send invite to client yeah great that's me and and do you were you trying to send them over text or email.
+Wendy Brandeberry: I click both boxes but it went to her via text because I know it uses her phone.
+Becca Bressler: All right let's see.
+Wendy Brandeberry: I have a couple clients so use their phones in their car because of privacy.
+Becca Bressler: I think I understand what the problem is it spins straight to a chat. Oh no and I can't get closed okay this is this is. Great I mean that's great these like really good to surface because I tested it earlier and didn't. Have this problem so I'm wondering why you are getting this problem but you're actually not the only one because someone else told me that they got the same basically what I'm seeing is like the chat bot it's or it's like the chat view of like how to chat with you but it doesn't let me. Slick out of it. Okay great I'm going to show this to my colleague when he gets back he's just out grabbing lunch but he's the one working on this project so how about we discuss and see how to resolve this and then if I can I can reach out to you once we've solved this problem and I can get you up in testing it again you'll notice looking a little different actually so it's going to be in a different place on your on your screen and the recording and the video are going to be tied together so starting the video we'll start the recording you won't have to treat them as separate actions so just to just to flag that for you that you'll see that change but is there anything else I mean it sounds like because it didn't work this is probably the only feedback you have at the moment. Am I right about that?
+Wendy Brandeberry: Yeah that's the only feedback I have I've used the prescribe it's okay. You know I have all my patients set up and I prescribe already so it's kind of a pain
+Becca Bressler: to psych I wonder yeah, you know we do like patient imports I think at some some people we can do bulk imports so let me talk to my team and see if like we could maybe set something else up for that because because I assume that that's a real point of friction and probably keeps you from using it as if you have to add every single patient yes yeah yeah okay let me talk to my team about that and yeah, Gwenny thank you so much I'll get back to you and I know more about the product and or more about these improvements and then we can just go from there.
+Wendy Brandeberry: Okay, good I'm glad that you're able to experience what
+Becca Bressler: my hundred percent because I wasn't I didn't experience it earlier so I want to make sure that I. Yeah all all reach out to you if I need us to regenerate this because it's possible if my colleague doesn't get back before the room technically closes right because there's like a window but I'll send you an email if that happens and maybe we can just run another test
+Wendy Brandeberry: yeah I think I've got one patient today six but that's all my schedule and for my day job tomorrow but other than that I could slide into a meeting just about any
+Becca Bressler: time right I'll shoot you an email if something comes up but I really appreciate it thank you so much no problem Becca bye bye.

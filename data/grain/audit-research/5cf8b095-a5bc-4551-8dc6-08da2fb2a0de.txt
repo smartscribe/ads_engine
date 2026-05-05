@@ -1,0 +1,117 @@
+Christopher Hume: Let me check here. Ola, part of the problem might be your account, your account type. We have you as a. As an admin, I think. Let me check.
+Olha Tishchenko: I will not be able to show and to teach them via my account. Sure.
+Christopher Hume: I don't think so. Because we have you on a free account. So that doesn't have. Let me double check. I don't. That doesn't have recording capabilities. So that. That is why I just checked. You're not a clinician. So what I can do.
+Olha Tishchenko: Let me talk with Angela about that. Because to be honest, like, usually I'm teaching like, all this stuff. Okay.
+Christopher Hume: Okay. Yep. So we could switch you to a clinician for like a month or two as you train people and then take. Take it off.
+Olha Tishchenko: Yeah, that's the main problem. Like, we all the time, like, have, like, you know, we are having provider, someone leaving someone, another came. Plus if we will switch over another facility. Like, because we are gonna switch soon. I'm conducted like this computer support, like, and one week I'm waiting for their response. I called. Nobody pick up the phone.
+Christopher Hume: Oh, my gosh. Okay.
+Olha Tishchenko: And it's like really horrible software. Like, we really want to switch that. But we are making, like, account for Dr. Quantum to have it, like, together. Hi, Moses.
+Moses Mbugua: Hello. Hello. How you doing?
+Christopher Hume: Hey, Moses. Good to see you again.
+Moses Mbugua: Good to see you. How you doing?
+Christopher Hume: Good. I was telling Ola I'm warming up a little bit in dc, so. That's nice.
+Moses Mbugua: That's good. That's good.
+Christopher Hume: Well, we can come back to kind of figure out how we can get you set up and like, what training materials we can provide you. Moses, it sounded like you were having an issue with the jot. Jot shuttle.
+Christopher Hume: One, I'm sorry to hear that. Two, could you explain or show me what's going on? Sure. Hopefully I can fix it.
+Christopher Hume: But at the very least, I'll take this to the engineers.
+Moses Mbugua: So what I'm going to do is I'm going to share the entire screen window. Can you see this window that I'm sharing?
+Christopher Hume: I can only see Dr. Chrono.
+Moses Mbugua: But I can see Dr. Chrono. Yes, yes. So I want to log into Dr. Chrono.
+Christopher Hume: Okay.
+Moses Mbugua: And. Doctor Chrono. Not working?
+Christopher Hume: Oh, no, no.
+Olha Tishchenko: Just press back. And again. It happens with me all the time the same. It will allow you to log in.
+Moses Mbugua: Okay. All right, so for my Tuesday people, There are some that I've been able to copy paste. So let's. Let's look at this patient here. Clinical note is right here. And. So this is the note right here. Then the shadow right here.
+Christopher Hume: And Moses. Oh, perfect. Okay. See it.
+Moses Mbugua: So sometimes I know. So first of all, it failed. You can see how that it failed.
+Christopher Hume: Oh, my good.
+Moses Mbugua: And then when that happened, I know they had said to do scrape. I have no idea what that means.
+Christopher Hume: Could. It looks like. Could you press that not connected button?
+Christopher Hume: Every possible Moses. Okay.
+Olha Tishchenko: It says to collect.
+Moses Mbugua: Click script page to. To detect.
+Moses Mbugua: Okay, this is. I was clicking this here and then I will come back. I still not connected. There's another. There's another script here. Or. I'm not sure what this means.
+Moses Mbugua: Script conflate or D. Oh, clear. I have no idea.
+Olha Tishchenko: Yes, at this point, I tried to check, but like we said together Tuesday, and like we tried to check it and we did nothing.
+Christopher Hume: Okay.
+Moses Mbugua: However, with that being said, though, Chris, when I came in the morning, I'm going back to calendar.
+Olha Tishchenko: Yeah, one patient was good, but after that, this.
+Moses Mbugua: This patient, it worked. This patient.
+Christopher Hume: Okay.
+Moses Mbugua: The very first one, it worked.
+Christopher Hume: And it's. It's the same template?
+Olha Tishchenko: No, it's the same, but I cleaned. There are some sections I deleted, like history, not history, family history, social history.
+Moses Mbugua: Okay, yeah, but. But even then, the final. It's not loading notes here. We're not even able to go to the next step where it shows that it's not loading to, you know, the various sections in the template.
+Christopher Hume: Well, I'm sorry about this, Moses. I am sending a note to Lee right now.
+Moses Mbugua: Okay.
+Christopher Hume: And so hopefully we can get to the bottom of this shortly. And I can just send you a video that shows how to resolve, but so hopefully there's an easy fix here, and that's what we'll do if there's something deeper. I might have to have Lee jump on a quick call with you, but I think you certainly showed me what was wrong. I understand the issue on your side. I'll communicate that to Lee, and if he needs more technical info, I'll coordinate that. But I want to be sort of respectful of your time. And I think you've shared enough that's going to let me start to get this fixed. And I'm sorry about this. This is super frustrating.
+Moses Mbugua: No worries. In the meantime, we're just copy pasting.
+Christopher Hume: Good thing we have a backup plan. But we really don't want you to have to copy paste. So we'll get this fixed as soon as possible.
+Olha Tishchenko: Yeah. Okay. So I guess it's the main. Like, I will talk with Angela as well about subscription. Like if I need to get it to be able to teach every everybody. Plus maybe if you have some short video, like, how to teach.
+Christopher Hume: Yeah. So my question for you, Ola, is what would you like me to. I'll just create a custom video for you guys and share it with you so you can send it to everyone who joins, everyone who's coming on board. So what I typically do is record. So show people how to record. Show people how to edit their notes, and then show people how to create a custom template.
+Olha Tishchenko: Like, we need to use only one general template. So.
+Christopher Hume: Okay, so then I won't show them that.
+Olha Tishchenko: Yeah. And if you can only like recordings and like how to edit that, plus how to open that extension and move everything, like to the ehr. That's all.
+Christopher Hume: Okay, then I'll. Yeah, I'll create a video for you and then we can.
+Olha Tishchenko: No, no.
+Christopher Hume: You're so welcome. So I'll get that to you next week. And then if you're like, hey, I still need some help, we can talk about getting you some sort of account with that access.
+Olha Tishchenko: I will talk with Angela about subscription. Maybe that's why I can't like, figure out like, how everything works there.
+Christopher Hume: Yes. Yeah. I'm sorry, you have restricted access because your account spring.
+Olha Tishchenko: No prob.
+Christopher Hume: I should have told you. Is there anything else I can help you guys with?
+Olha Tishchenko: That's all.
+Moses Mbugua: No, in the. In the section I've been seeing, like, for instance, there's a place where they say the note is weak because it doesn't have medical decision making.
+Christopher Hume: Yep.
+Moses Mbugua: And maybe I. I don't know whether that's something you want to look into. Let me pull up a note from Job Psych Original and show you. And I'm just going to share that.
+Christopher Hume: Yep.
+Moses Mbugua: If that's something you want to do, you can add the medical decision making. So let me see. Patients. Eric preston here. So it does an audit here, you can see.
+Moses Mbugua: So I'm looking at the audit here. There's the medical decision making, which is very, very key because in other templates or in other EHR that I've used, this is actually one of the number one area that we are told to make sure that it's there so that billing is not an issue. So there's this, the medical or the mdm. So maybe that's something you can look into and see if you can add it. And then from our end also all you can add the medical decision making process, MDM part, which is. Which is really good.
+Christopher Hume: And so, Moses, so this is flagging for you, kind of. So do you need support developing that section? I'm sorry?
+Moses Mbugua: Yeah. So this is actually from JAD Psych.
+Christopher Hume: Yes. Yep.
+Moses Mbugua: Is telling us in this note that we took. That we took. This is a psychiatric progress note.
+Moses Mbugua: Yeah, it doesn't have. Although the medical necessities implied, we will still need a note. So if I were you, I would take the rule here. This is the role description and then maybe I would feed that into the AI tool to develop what that button for medical necessity, the MDM would look like.
+Christopher Hume: And so would you like that added to your account?
+Moses Mbugua: Yeah.
+Moses Mbugua: So like here, what Good. Looks like a dedicated section titled Medical necessities present in the note. It links symptoms, impairment or risk factors to the need for the current encounter. Because this is what Bill has flagged.
+Moses Mbugua: Well, we see that you did it, but was it necessary? Yes. So example format, medical necessity, patient experiencing escalation of depressive symptoms affecting daily function, warranty, current visit and treatment plan. And so it justifies why this was done and why this was done this way.
+Christopher Hume: Absolutely. So what we can do now is actually. Could you X out of this, Moses? And then if you go and. Oh, I'm sorry, could you go back to the screen? I was just wondering, could you X out at a little pop up?
+Moses Mbugua: What am I sharing? Are you seeing this?
+Christopher Hume: Yep. Could you just share job, psych and it? We should be able to add that section really quickly together.
+Moses Mbugua: Okay, so edit template.
+Christopher Hume: I can't. I'm only seeing Google Meet, but yes, it's the edit template button.
+Moses Mbugua: Okay. What am I. Are you seeing this one? Are you seeing Jet Psych?
+Olha Tishchenko: No, on the Google Meet.
+Moses Mbugua: Okay, so let me.
+Christopher Hume: At this point I could do a lot of the guidance by memory, but it is helpful to see it. So thank you.
+Moses Mbugua: Are you seeing this one now?
+Christopher Hume: Yes, now again, thank you, Moses. So in the top left where it says edit template, you just push that and then we can go. Could you add just like a maybe A plus after hpi if you put your cursor. Yep.
+Moses Mbugua: Okay. Okay.
+Christopher Hume: And let's see if we have a pre built one for you. Could you just type into that search bar Medical necessity. Oh, okay. So we'll have to do a custom one. Could you X out of that here? Oh, perfect. Oh, wonderful.
+Moses Mbugua: Mdm.
+Christopher Hume: Yeah. Yep. And just press add.
+Moses Mbugua: Add. Okay.
+Christopher Hume: And now you can save it.
+Moses Mbugua: Okay, great.
+Olha Tishchenko: So now create another field in the template in Dr.
+Moses Mbugua: Chrome. So this is good. Usually we can have it here after the summary.
+Moses Mbugua: You can move it, but even it's. It's good there because it could even come at the end. But. But it's okay as long as it's there. And then in the template. Hola. You can just add medical decision making, mdm.
+Christopher Hume: And. And you can move that around if you'd like.
+Moses Mbugua: It would look something like this.
+Olha Tishchenko: Okay.
+Moses Mbugua: It's for initial follow up or for both. Yeah, for all. Okay. Because this is. This is what justifies the reason that we are billing this encounter. Was this encounter necessary? Yeah.
+Olha Tishchenko: Okay. Plus if you saw there's girls created. Super Bill. But I'm not sure I need to see Angela today to talk about that. Like how to build your point.
+Moses Mbugua: Yeah, I'm not sure what that was. Okay. All right, wonderful.
+Christopher Hume: Is there anything else I can help with on the line?
+Moses Mbugua: No, this is good.
+Christopher Hume: Thanks for flagging that, Moses. I'm glad that the JOT audit is working and I'm glad we got that section. Added.
+Moses Mbugua: Right.
+Christopher Hume: Awesome.
+Moses Mbugua: Let me see. They also. They. This. This is not for us. This is. This is not for us because we can add. It was either telesyc or it was in person. Yeah, no, that's. That's not necessary. So, yeah, thanks. I'll stop sharing this.
+Christopher Hume: Wonderful. Well, Moses, thank you. Let me know if I can if you need any other help. And hola. I'll be in touch soon with information on jot shuttle and ne early next week with that video for you.
+Olha Tishchenko: Thank you so much. Thank you for your help.
+Christopher Hume: No, you're so welcome. Stay warm.
+Olha Tishchenko: Thank you. Have a nice.
+Moses Mbugua: Take care.
+Christopher Hume: Bye.
+Moses Mbugua: Bye. Bye.

@@ -1,0 +1,281 @@
+Emily Kaiser: Hi, Joe.
++1 304-***-**00: Hi. I'm glad I was finally able to join in some way.
+Emily Kaiser: I'm sorry. I know that that can be like the hardest part sometimes. So thank you for your patience getting through. Are you on your computer?
++1 304-***-**00: I am.
+Emily Kaiser: Okay, so how we typically do these demos is we have you log into Jot Psych on your end and share your screen. Are you able to do that?
++1 304-***-**00: Log on to Jot what now?
+Emily Kaiser: Sorry. Jot Psych.
++1 304-***-**00: Try this.
+Emily Kaiser: Okay. Have you ever logged on?
++1 304-***-**00: What's that?
+Emily Kaiser: Have you ever logged on to before? To Jot Psych.
++1 304-***-**00: I think my boss was trying to help me on Thursday or some point last week to do this. Looks like I'm. I am logged in with the free trial.
+Emily Kaiser: Okay, great. So if you at the bottom, if you go back to our screen where you see our meeting here and next. To the microphone, you'll see the camera. Next to the camera, you'll see that share screen button, which is a little laptop icon with the arrow pointing up. And that is how you share your screen.
++1 304-***-**00: Okay, how do I. Sorry, you said too many steps at the same time.
+Emily Kaiser: No worries. So, do you see our meeting again?
++1 304-***-**00: I am on job psych. I don't see anything with the meeting on it.
+Emily Kaiser: Different tab, so.
+Emily Kaiser: Oh, in the different tab, find our meeting again. To where you can see me and the Google Meet.
++1 304-***-**00: Yeah, it's asking me to sign in Google again.
+Emily Kaiser: It should be up because we're talking. I wonder if it's in a different window. Maybe. Maybe try minimizing tabs and seeing if it pops up.
++1 304-***-**00: Nope.
+Emily Kaiser: Hmm. It's hiding somewhere.
++1 304-***-**00: I was trying to be early. It did not work that way.
+Emily Kaiser: That's okay. No worries. I have time today.
++1 304-***-**00: Well, I appreciate that.
+Emily Kaiser: Yeah, no problem. No problem at all. Let's see. Let's see if we can find our meeting again. Because it's important that you share your screen so I can make sure that we get you logged in. And any, you know, adjustments we make will be saved on your end. So it could be helpful when we're not on the call at the top, where you see all of the tabs in browser. Do you see anything with that red dot? It says meet jot seg demo.
++1 304-***-**00: I do not.
+Emily Kaiser: Okay. And if you minimize that browser that you're in currently, if you completely not close it, but you minimize it so you can't see it again.
++1 304-***-**00: Yes.
+Emily Kaiser: Do you have any other browsers open or any other pages open?
++1 304-***-**00: No, just teams.
+Emily Kaiser: Strange. It has to be open somewhere because we're speaking. You are logged into the meeting on the computer, not the phone, right?
++1 304-***-**00: No, on my phone.
+Emily Kaiser: Oh, you're on your phone. Okay, well, that explains it. Okay, so, Okay, are you able to see the meeting? Like, would it be helpful if I share my screen? Would you be able to see that? Are you just calling in, like, a regular phone call?
++1 304-***-**00: I'm sorry? I put you on speaker. Make it a little bit easier. Yeah. Am I able to. What about the meeting?
+Emily Kaiser: Are you able to see me on your phone? Like, are you able to see the meeting, or did you just call in with the phone number?
++1 304-***-**00: I just called him with a phone number.
+Emily Kaiser: Okay, no problem. Just wanted to make sure we're on the same page here. So you're logged into Jotsych. Let's go back to that screen.
++1 304-***-**00: Okay.
+Emily Kaiser: And what do you seek on my computer?
++1 304-***-**00: And it says welcome Jill Abel. And then at the top it says things like schedule, clients, documentation.
+Emily Kaiser: Okay, so you are at the home page here.
+Emily Kaiser: So have you ever used Jet Psych in a session? Have you ever recorded an encounter?
++1 304-***-**00: No.
+Emily Kaiser: Okay, let's start with that. Let's go ahead and record an encounter. So click that, record encounter. Let me know when it takes you to that screen.
++1 304-***-**00: Okay. Ask me if I want to skip tutorial or show tutorial.
+Emily Kaiser: Go ahead and skip tutorial. I can handle that on my end.
+Emily Kaiser: Okay, so you should see the option to select a patient. Go ahead. And in that patient box, click plus for a new patient.
++1 304-***-**00: Okay.
+Emily Kaiser: We can even just name the patient Demo or John Doe. No need to put in any birth date information, any identifying information, anything like that. You can just put a first and last name and create. And then below that, below patient, you're going to see session type. This is trying to understand what kind of form you want to use.
+Emily Kaiser: So what is typical for your practice?
++1 304-***-**00: Well, the one that my boss had tried setting up and I don't know if she succeeded, we both got kind of frustrated last week is HMH in office progress note.
+Emily Kaiser: Okay, do you see that when you click the drop down, do you see that in.
++1 304-***-**00: Yeah.
+Emily Kaiser: Okay, go ahead and click that one then.
++1 304-***-**00: Okay, perfect.
+Emily Kaiser: That means that she was successful. And the date and time. No need to adjust that. This is just basically telling you when the appointment is.
+Emily Kaiser: Okay, so on the right hand side of the screen, you're going to see that purple microphone that says start recording.
+Emily Kaiser: Okay, so what we're going to do before you click that. We are. Let's go ahead and have you click it. But then when you click it, let's do about a minute of dialogue. If you could just speak to me as though I'm a patient. Are you a prescriber, Joe?
++1 304-***-**00: I'm a therapist.
+Emily Kaiser: Okay. I didn't know if you handled medications, so.
++1 304-***-**00: Yeah, we don't.
+Emily Kaiser: Okay, no worries.
++1 304-***-**00: Just kind of that right now.
++1 304-***-**00: I'm sorry, we keep getting asked to do that, but we don't have anybody qualified to do that right now.
+Emily Kaiser: I see. Well, maybe in the future, right?
++1 304-***-**00: Hopefully one day.
+Emily Kaiser: Yes. So if you could just go ahead and click start recording and then we'll just do about a minute of dialogue of how you would typically, you know, we'll do an accelerated version of what your appointments kind of look like so you can see what kind of note it produces.
++1 304-***-**00: Okay. So what seems to bring you in today?
+Emily Kaiser: I am here. Thank you for seeing me. I am here. I've been experiencing a little bit more depression than normal, and I just wanted to get in and talk to somebody about it.
++1 304-***-**00: Okay. When does it normally tend to happen?
++1 304-***-**00: I would say Internet for a second.
+Emily Kaiser: What's that?
++1 304-***-**00: I'd left Internet for a second, but I think it's. Let me connect to the. Screw anything up.
+Emily Kaiser: Okay.
++1 304-***-**00: It automatically connected to a different WI fi, but anyways. Okay. All right. Now I'm ready to continue.
+Emily Kaiser: Okay, no problem. So we can just kind of continue. So I am here for depression, and I would say that the depression is more consistent in the mornings and at night. Night.
++1 304-***-**00: Okay. Does it cause you any problems falling asleep?
+Emily Kaiser: Yeah, I would say that I have some trouble falling asleep.
++1 304-***-**00: Do you feel that you might be worried about things?
+Emily Kaiser: I do feel like I kind of ruminate on what has been bothering me in the day. So, yeah, I would say.
++1 304-***-**00: So what seems to be bothering you throughout the day?
+Emily Kaiser: Just, you know, life stressors. I started a new job recently, and I just feel like maybe it's not a good fit. And if it's not a good fit, then what is next? So just kind of maybe some impending doom.
++1 304-***-**00: And this is the first time you've worked in that field?
+Emily Kaiser: Yes, it is.
++1 304-***-**00: Okay, so initial nervousness and worrying about that. What have you done to try to control your nervousness?
+Emily Kaiser: That's a good question. I wanted to start meditation. I haven't really been so consistent about it. So maybe this week I'll really focus on kind of working on my meditation goals and seeing if that helps anything.
++1 304-***-**00: I think that would be a good way to start.
+Emily Kaiser: Okay, great. Well, thank you so much for seeing me today.
++1 304-***-**00: You're welcome. Thank you for coming in.
+Emily Kaiser: Perfect. So just go ahead and stop that recording. And what does it say now,
++1 304-***-**00: save for later or generate note.
+Emily Kaiser: Let's go ahead and generate note.
++1 304-***-**00: Analyzing session recording. That's a positive. Yes.
++1 304-***-**00: So this 20 to 30 seconds last week. I was hoping this week would be starting better.
+Emily Kaiser: No problem.
++1 304-***-**00: But worse. That happens still, it's not bad.
+Emily Kaiser: Yeah. Oh man, I get that.
++1 304-***-**00: Okay, your AI assistant or not assistant, shape your note using simple natural language. And then it just changed off the screen as I was reading it.
+Emily Kaiser: Okay.
+Emily Kaiser: It's just kind of loading a bit. It's just doing its thing. So basically what you should see pop up is a note reflective of that template that you guys are using. So do you see that?
++1 304-***-**00: I see. I look at different section now. Did it under psychiatric intake for some reason that's part of the problem we've been having. It's not supposed to do this under an intake.
+Emily Kaiser: Oh, interesting. Okay, so at that top psychiatric intake, you can actually edit template. Do you see that?
++1 304-***-**00: No, I do not.
+Emily Kaiser: Okay, so where it says psychiatric intake, are you able to click that? Does it form a drop down?
++1 304-***-**00: Yeah, it comes up with the summary. Chief complaint, HPMI or sorry, hpi, Medications, medication access, social history. You know, the standard stuff for.
+Emily Kaiser: Yeah, yeah.
+Emily Kaiser: So what you should be able to do, there should be somewhere where you can edit template or choose a different template. It should be at the top above note sections, maybe under the patient's name.
++1 304-***-**00: I see here. I see a word saying edit, but it's not letting me click on anything interesting.
+Emily Kaiser: Okay, well, maybe I can kind of keep walking you through the demo and we can kind of come back to it on a day that I can see your screen. Okay, does that, is that okay?
++1 304-***-**00: Yeah.
+Emily Kaiser: Okay. Because there definitely is a way after the session has been recorded to where you can go and you can edit the template and select whatever one is more applicable. If you do feel like it's, you know, changing midway or, you know, you even just selected the wrong template, then you can go back and you can change it and it just kind of reorganizes the information to be in more applicable sections. So I guess for the sake of the template that you're in, we can just go off the psychiatric intake. So what you'll see, like you said, you'll see all of those sections, you'll see on the left hand side under note sections, if you scroll down, down, that's all of the information that this note has created from our short appointment. So in each section you should see some information. So under summary, you should see. Information and whatever came from our conversation. It basically categorizes that information and allows you to use these sections to copy and paste into your ehr. Do you see any sections that, I mean, obviously we had a very short appointment, but do you see any sections that you would like to edit in a way that like is more reflective to the formatting of your notes?
++1 304-***-**00: Let's see. Well, with a session and we wouldn't have social history. Like if there's an issue, for instance, such as, you know, starting a new job, we would have that in the main body of the note.
+Emily Kaiser: Okay. And do you see that information anywhere, maybe in summary?
++1 304-***-**00: I see the summary again. Go back up there. Yes, I do see a summary. It doesn't say anything about like starting the new job kind of thing in there.
+Emily Kaiser: So I see. Okay, so I do believe it's just because it has that other template in there. But what I would do there is if, you know, you wanted to add that information, you could go over to where it says the AI Note assistant and do you see where it says describe how you'd like to change this note.
++1 304-***-**00: I'm sorry, what is the thing I'm looking for to change the note?
+Emily Kaiser: Yes. So let me see here. It's an AI assistant.
+Emily Kaiser: So if you close the window, do you see those three little sparkles next to sign note?
++1 304-***-**00: It says Hide AI Chat.
+Emily Kaiser: No, we do not want to hide it. That's actually what we want to use is the AI Chat.
+Emily Kaiser: Okay, so do you see right where it.
++1 304-***-**00: It's has those sparkles and it is not having. I don't know if it's because there's not a template for a normal style thing.
++1 304-***-**00: For instance, it's easier if I just bring up an example from. Well, is it my machine with the load or I guess. Oh my goodness.
+Emily Kaiser: So I just want to clarify here. Do you, you do see that page or that little sidebar that says AI Assistant?
++1 304-***-**00: Yeah, it says existence.
+Emily Kaiser: Okay, so at, in that little box, at the bottom of that box, do you just see somewhere you can input information or give feedback?
++1 304-***-**00: Yeah, it's like I can describe like to change this note.
+Emily Kaiser: Perfect. Okay, let's go ahead and click that type into that and you're going to say include. Include patients. Patient started a new job. In summary, basically you can type in whatever information you want it to be included or changed. This is how we teach and train the AI to be more consistent to like what your notes actually look like. And then go ahead and click Enter. Let that information populate.
++1 304-***-**00: Analyzing.
+Emily Kaiser: Okay.
++1 304-***-**00: Okay. It changed something.
++1 304-***-**00: I don't know what I did. Okay, there I fixed whatever I did problem.
++1 304-***-**00: So you should see it update that. Right. It does save up a new job and oh my goodness, this thing is getting the mind of its own and in a bad way.
+Emily Kaiser: Oh, I wish I could see your screen so I could kind of guide you through it.
++1 304-***-**00: Okay, now it's at least let me move where I'm trying.
+Emily Kaiser: Okay, so it should have updated, but that's just kind of an example of how you can change the note. So basically every time you give the AI feedback, it's taking in that information and trying to improve your notes for the future.
+Emily Kaiser: Okay, so after you edit, make all the changes you want to make. Say you're ready to move that information over to your ehr. Let's go back to the left hand side of the page that you see under note sections. You'll see all of the sections listed with those circles next to it. If you hover over the circles, you should see those form to pluses.
++1 304-***-**00: Well, might have boogered something up. I saw somehow switched it to the intake and I try and switch to off off as far as note and it's like no section of sound. How to go back to what I was.
+Emily Kaiser: Are you able to click just the back button on the screen?
++1 304-***-**00: Yeah, hopefully. Right, okay, go back. Not. Okay, okay, I brought it back.
+Emily Kaiser: Okay, so now do you see the note sections?
++1 304-***-**00: AI Note assistant. Yes.
+Emily Kaiser: So we're actually going to be looking on the left hand side of the page and you'll see the bold note sections and then underneath that you'll see all of the different sections of the note. Do you see that?
++1 304-***-**00: I'm not sure if I'm looking at the right thing. Let me see here. Okay, so it's on the left hand side.
+Emily Kaiser: You said under the patient's name, do you see like, summary and chief complaint, like all the big sections?
++1 304-***-**00: Yeah.
+Emily Kaiser: Okay, so to the left of that, you should see a smaller section that lists all of the names of the sections.
++1 304-***-**00: Oh, okay. The note sections. And it says like sleep hp, mot.
+Emily Kaiser: Yep, exactly.
++1 304-***-**00: Why keep adding them?
+Emily Kaiser: No problem.
+Emily Kaiser: So next to that, next to all of those, if you hover over those sections, you'll see those circles next to the titles of the sections. Turn to pluses.com. do you see that? Try clicking one.
++1 304-***-**00: I clicked one.
+Emily Kaiser: And not the name, not the word itself, but you'll see that circle as though it's a bullet point right in front of the word. So say you're looking at HPI under note sections. So to the left of the word or I guess letters hpi, you'll see that circle.
++1 304-***-**00: Okay, I clicked it. There was a plus that appeared briefly. Knowledge is check mark in its place.
+Emily Kaiser: Perfect. That is exactly what we're trying to do. So do that with like two other sections that you would typically copy and paste into your ehr or what you would need to transfer over to notes. So once you have, you know, a few sections plus, I guess, check marked, you're going to go to the top and you'll see right next to sign note. You'll see copy selected.
++1 304-***-**00: Okay, go ahead and click that.
+Emily Kaiser: Yeah, go ahead and click that. Now, tell me a little bit about your process. Do you paste into a word doc and kind of save that from later or go from there or do you paste right into your ehr?
++1 304-***-**00: Do I? Oh, we're sorry, did you say DHR into your ehr? Oh, ehr. Well, yes, I. I've never used one of these things before, but when I'm typing my notes, we use a program called icann. My boss is saying that I might need to use the word document to kind of pop it open. Some days it works, some days it doesn't. It looks like it's working today.
+Emily Kaiser: I see.
++1 304-***-**00: So I can make blank document, which is maybe tell me whatever's easiest.
+Emily Kaiser: You can go right into your ehr. I can. Or you can go into a word document. And basically, we're just going to paste this information somewhere. And I want you to see Janky today, unfortunately. Do you want to just open a Word Doc?
++1 304-***-**00: My. My document, you said?
+Emily Kaiser: Yeah. Do you want to open a Word Doc?
++1 304-***-**00: It's not letting me, for some reason open a Word document.
+Emily Kaiser: Oh, I see.
++1 304-***-**00: Okay.
++1 304-***-**00: Copy it with the text. Be like, what happened?
+Emily Kaiser: Yeah, yeah, no problem. So basically from there, once you have that copy selected, like, once you've copied those sections, you have the ability to just right click and paste. Like you're copy and pasting something. So right click, paste wherever you want it to be. And that information should transfer over.
++1 304-***-**00: Okay. Bring up somebody's chart and think it will do that for any note, and then I can delete the note later.
+Emily Kaiser: Okay, whatever works.
++1 304-***-**00: Okay. And. Okay, there it goes. It was acting like it was going to freeze. Oh, my goodness. We're big. To start off a week with. That's. That's still not bad.
++1 304-***-**00: So let's do therapist note. Okay. And then you said I should be able to copy and paste it.
+Emily Kaiser: Just paste, because you already did the copying. So if you right click and then paste, it should transfer.
++1 304-***-**00: I'm on a Mac. There is no right clicking.
+Emily Kaiser: How do you typically paste?
++1 304-***-**00: I go under where it says edit and paste, but it's not giving me an option to paste. So I don't know if I didn't do a step right because I hit copy selected, but I don't know where that had gone to the copy selected part.
+Emily Kaiser: I see.
++1 304-***-**00: It's wherever that would be.
+Emily Kaiser: Okay, so it did copy. That means you can always go back and try to recopy it if that would be helpful.
++1 304-***-**00: Probably need to. Okay. I don't know where to find the clipboard. Well, nothing's on my desktop, so it's not there.
+Emily Kaiser: And I'm sorry, what did you say you were looking for?
++1 304-***-**00: It says clipboard is what I need, but it's not where that is.
+Emily Kaiser: Yeah, no. So typically, I think that's just what it's. What it's saying is typically it's just like stored and ready for you to paste. I'm not sure if the clipboard is like an actual place, because I see that too on my end. I'm not 100% sure, but if you go back to Jot Pyke, do you see those sections selected still?
++1 304-***-**00: I'm still on JOT Psych. All it's saying is copy selected. And I put three different things, but it's not doing anything like, oh, this is what you copied type thing.
+Emily Kaiser: So try clicking Copy selected again.
++1 304-***-**00: You said see selected.
+Emily Kaiser: Try clicking copy selected again.
++1 304-***-**00: 3 section copy to your clipboard.
+Emily Kaiser: Okay, so now go back to where you are going to paste the information originally.
++1 304-***-**00: Okay.
+Emily Kaiser: And are you able to paste it? Whether that's using your keyboard or. I know there's.
++1 304-***-**00: Let me try one other thing just to see if I can at least copy paste it somewhere. Okay, well, this note section, which is basically Max version, that is nothing like Word. It's inferior. It copy to that.
+Emily Kaiser: Okay.
++1 304-***-**00: So, you know, I could at least set aside and be like, okay, I gotta type everything again. But you know, in an ideal world, let me just copy right in for whatever reason.
+Emily Kaiser: Yeah, there should be a way. Unfortunately, I'm not familiar with Max, but there should be a way where you can just paste it. You shouldn't need to type at all. Again, if I was able to see your screen, I would be able to maybe be able to help you a bit more.
++1 304-***-**00: Let me try one of those things, like to figure something out. Well, it came up with the paste option, but now it's not putting anything into my ITAM system. Interesting thought. I figured it out. Nope.
+Emily Kaiser: Well, that's okay, I think, you know, I mean, I wish that you could see the final product of it, but I think that you understand the gist of how it works, right?
++1 304-***-**00: Yeah.
+Emily Kaiser: Right.
++1 304-***-**00: Okay, so Word, whenever our tech person figures out why it won't let me into Word.
+Emily Kaiser: Yeah, that's what I was going to say is once you have access to Word, I recommend you trying this so you can fully see, you know, the. The final outcome.
++1 304-***-**00: Yeah.
+Emily Kaiser: So let me show you some other features. I know we're coming up on time. Let me show you a couple other features at the top here. Now that we've kind of gone over the notes and how to edit, how you create a note, all that kind of stuff. So at the very top, next to JOT Psych, you'll see schedule, patience, documentation, billing, auditing, your practice, and then record, which is obviously how you can jump right into recording in Encounter. Let's go over to patients for the time being. And if this was your first patient, your first recording of an encounter, you'll probably just see that one patient in there. Go ahead and click that.
++1 304-***-**00: Okay. So the patient part would be where.
+Emily Kaiser: At the top, next to schedule, that very top menu bar. Oh, I'm sorry. Yes. We must have different. If you see on your screen, you know, at any point, it doesn't have to be now, but if you see any, any you see on your screen for like this app has an update and the option to reload. Just make sure to click that because it's probably. We're just always kind of updating our system, so. So you might be in a version behind.
++1 304-***-**00: Sure. Well, I have a client overview. I don't know if that's. I'm supposed to be on.
+Emily Kaiser: Yeah. So if you click. Do you see the patient's name under client overview?
++1 304-***-**00: Yes.
+Emily Kaiser: Okay, so go ahead and click that patient.
++1 304-***-**00: Okay.
+Emily Kaiser: And it basically what you'll find here is every time you record with a patient, you using Dot Psych, it's going to be building patient profile in the background. So if you click that patient, you'll see what it will do. Every time you record with John Doe or Demo or whatever you named this, basically it will create information based off of your last encounter with the patient, your upcoming appointments. If you scroll down, you'll see that there's a section for treatment plan. Patient forms. You have the ability to send patient forms directly from jot Psych. You'll see different patient encounters. Basically just a history. We know that so many clinicians out there experience a little bit of a burnout from using so many different systems and trying to keep everything straight. So this is kind of a hub where you can keep all of that information in one safe space. But also, you know, in the meeting, if you're like, oh, you know, what did we speak about last time? Or right before the meeting, you can kind of hop in here and get a general overview of the patient so you can best treat them. You'll see diagnoses, you'll see medication, patient documents, medication timeline, all of that kind of stuff. You also have the ability to record from here, schedule an appointment. And as you kind of move your mouse, you may see at the bottom, in the middle, there's a little bar that pops up with five icons. So if that comes up, you'll see that you have the ability to send forms directly to patients like we spoke about. Create a lab request form to print or send a patient. Create or generate clinical document based on the note. Send patient follow up and request payment.
++1 304-***-**00: I am not seeing that. Is it supposed to still be in this demo client or somewhere else?
+Emily Kaiser: Are you still in the patient or client overview?
++1 304-***-**00: Yes.
+Emily Kaiser: Okay, so if you move your mouse kind of towards the bottom middle of the screen. You should see, like, a bar pop up with five different purple icons. It's going to be.
++1 304-***-**00: Small say request payment and client follow up.
+Emily Kaiser: Yep.
+Emily Kaiser: Okay, so that is where you can do all of those things. So you can request payment, send patient follow up, generate clinical doc based on the note. Do you want to try one out while I have you on the phone so you can see it?
++1 304-***-**00: Okay, yeah, I have one connected here. Let's see here. It's wanting date of birth and phone number. So for review, like for instance, alcohol use disorder, that's saying that and selecting just out of available forms. What I clicked on. Let me see if something else.
+Emily Kaiser: So when you click send patient forms, do you see all the available forms that pop up?
++1 304-***-**00: I see two forms.
+Emily Kaiser: Okay, interesting. Okay, so that is I can just kind of. Now I would like to go into the forms section so you can see all the forms available to you. So at the top there where you selected clients. Client overview.
++1 304-***-**00: Okay.
+Emily Kaiser: Do you see templates or forms documentation.
++1 304-***-**00: Now is this the same place where it says send forms to client or we're looking at something else?
+Emily Kaiser: Oh, I was going to actually move over to show you where all of your forms are stored.
++1 304-***-**00: Okay. Okay. Where do I find that?
+Emily Kaiser: So at the very top where you saw client overview or client.
+Emily Kaiser: Okay, so do you see forms or templates or a word that says documentation? Next to that, in that little bar,
++1 304-***-**00: I see the client overview part. Last encounter, treatment plan, client forms, diagnosis, medications, client encounters.
+Emily Kaiser: I think we'll go far a little bit further up to where you see jot, psych and record schedule.
++1 304-***-**00: Oh, okay. I was looking on the. Okay, what was that looking for here? I'm sorry, documentation.
+Emily Kaiser: Yep. Do you see documentation?
++1 304-***-**00: Yeah.
+Emily Kaiser: Okay, go to note templates.
+Emily Kaiser: Okay, so you should see like our template builder. You should see your templates there at the very top on the left hand side. And then underneath that you should see the option to upload templates, Start from scratch, Browse library or organization templates. Perfect. So go ahead and click Browse library. Do you see that?
++1 304-***-**00: Yes, I do see that.
+Emily Kaiser: Okay, so it should pop up with a template library to where you should have like 29, 30 templates found psychiatric. So if you scroll down, you should see all of the templates that you have available to you that are in our database. But again, you also have the option to start from scratch, upload your own templates that you guys use with the practice, whatever it may be.
++1 304-***-**00: Sure.
+Emily Kaiser: Okay, perfect. Now, under that same documentation at the very top where we found templates, if you hover over that, do you see a word that says forms.
++1 304-***-**00: Where it's organized templates?
+Emily Kaiser: Nope, at the very, very top. So again, back to that menu bar.
++1 304-***-**00: I see forms.
+Emily Kaiser: Okay, go ahead and click forms. And then do you see anywhere it says forms library?
++1 304-***-**00: Yeah.
+Emily Kaiser: Okay, click that. And then you should see all of the forms that you're able to send to patients directly from Jot Psych if you scroll down.
++1 304-***-**00: Okay. Now did they need jobs like subscription or anything or how to like you just get sent to their email?
+Emily Kaiser: Yep. So you can send it. Well, you could have the ability, I should mention, to edit any of these, to upload your own forms and edit it just like. Or customize it just like you do with templates. But when you send this to a patient, you have the option to send it to their phone number as like a text or directly to their email. So they do not need a job, phone number or I mean, account.
++1 304-***-**00: Okay, good to know.
+Emily Kaiser: Yeah. So they should be able to just complete that form and send it right back to you. So it's in your individual Jotsig account, but in their specific client overview profile.
++1 304-***-**00: Okay, that makes sense.
+Emily Kaiser: Yeah. So again, just kind of another way to keep all that information nice and organized. That is kind of the end of our demo here. I know that there's other features that we didn't go over. You also have the ability to manage schedules. We have a billing and auditing feature. If I know you guys have a. Billing team. Correct. At the, at the practice.
++1 304-***-**00: Yeah.
+Emily Kaiser: Okay. So that might not be totally applicable, but we're moving into the billing and auditing space to help clinicians get paid. Just basically doing some auditing over the note or over the billing code before it's submitted to insurance. Just because we know that that can be a frustrating process.
++1 304-***-**00: Have countered that.
+Emily Kaiser: Yeah. So question for me. I know we went over a lot of information.
++1 304-***-**00: When I know where to look, I think it's, it's pretty self explanatory.
+Emily Kaiser: Yeah. Right. So I think it would be helpful once you get word up and running or maybe after you use this a couple times. Do you have any clients today or tomorrow that you could test this out with?
++1 304-***-**00: I do. I gotta get the right form uploaded first before anything else?
+Emily Kaiser: Yeah. No. Understandable. Once you get that form uploaded, I recommend trying to record with a patient and seeing how it works. Once you like have a live person in there. But if you have any questions on editing or like once you record and you know, you go to generate note or you go to save for later, whatever it may be, if you're having problems organizing the note or giving feedback to the AI or even copying pasting over to where it needs to be, feel free to call me. Or we can even schedule like another 15 minutes where you're on your computer and I can see your screen and I can just kind of help navigate the first couple times using it.
++1 304-***-**00: Okay. So to get to the point where you could see my screen, you would need to do what I get word working or something else.
+Emily Kaiser: I would say if you should be, you will have to have access to log into that Google Meet on your computer. Okay.
+Emily Kaiser: So if you have a Gmail account or anything like that, even if it's not associated with work, that is what you would use to log in.
++1 304-***-**00: I tried and still wouldn't let me.
+Emily Kaiser: That's strange. Okay, maybe try resetting your password and then try logging back in. But I know that that can be frustrating.
++1 304-***-**00: Yeah. I don't know if it's because I felt rushed, but I did not see a reset password, which is I would normally see that on any type of website that you're trying to log into.
+Emily Kaiser: Totally. But I get that I, I get the, the rushed feeling. So completely understandable. But like I said, if you have questions, I can give direct phone number where you can either call me or send me a text, even whatever is easiest for you. Or you can also email me where we were emailing today.
++1 304-***-**00: Okay. Make sure everything went for. Place your name again was what?
+Emily Kaiser: Emily.
++1 304-***-**00: Emily.
+Emily Kaiser: Okay. And my phone number is 229-459-2753.
++1 304-***-**00: I have not heard of that area code. I don't know what part of the country that is.
+Emily Kaiser: Oh, well, we're actually based out of D.C. but we use a dialing system, so I'm not 100% sure what the area code either is, either, because it's kind of like a generated number.
++1 304-***-**00: Gotcha.
+Emily Kaiser: But, yeah, like I said, if you have any questions, please don't hesitate to reach out. I've been working with Felicia and Tyler. We had a meeting the other day. So as long as I can help integrate this in or, you know, support in any way, please let. Just let me know.
++1 304-***-**00: Certainly. I. I probably left a. Let's get over with it a bit, see what exactly questions I have. And once we get everything else needed working. Yeah, because Felicia has access to Word, so I should ideally have access to it, too, but for some reason, I do. Not today.
+Emily Kaiser: Yeah, and like I said, if you're trying to upload that and it's getting frustrating, don't hesitate to call me. I can kind of help troubleshoot it. Okay, great. Well, thank you for your time today, and I will talk to you soon.
++1 304-***-**00: All right, thank you.
+Emily Kaiser: Bye.

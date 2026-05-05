@@ -1,0 +1,270 @@
+Emily Kaiser: Sa. It. Hi, Richard.
+Richard Sorey: Hi.
+Emily Kaiser: How's it going?
+Richard Sorey: Pretty good. I gotta admit, I'm a little bit confused. This is Emily, right?
+Emily Kaiser: Yes, yes.
+Richard Sorey: Yeah, I thought we were seeing each other at 4 o' clock and I even got a invite for that time. Then I got something else from the engineer. I let him know that that problem was resolved, that I can log in now. Oh, good. Anyway. Yeah. Yeah. All right. So I was able to log on and I was able to record some notes and it looks. It looks pretty good. I think I'm going to be able to use this.
+Emily Kaiser: Awesome. Great. I'm so glad to hear it. I am going to check. I know that we did a seven day. An additional seven day free trial. Okay. So I want to see how many days you have left here, but I'm pretty sure it just gets you to Friday because that was last week, so. Good. I'm so glad to hear that you're liking the system. So you used it today? A couple times, yeah.
+Richard Sorey: What do you think? I had. Yeah, I had several different intakes that I did. Okay. And so one of the things that I was kind of wondering is that I cannot have this on my DCI computer. You know, they just won't let me load it on My Wisconsin State 1. What I was curious, is there a way that you could get jet psych to where it reads the notes so it puts out signal through the speaker? Because then I could just record it on the other one and know that'd be really quick and easy.
+Emily Kaiser: So I want to make sure I'm understanding. So you want the. You want the system to read the note that it produces out loud?
+Richard Sorey: Right.
+Emily Kaiser: Okay. I don't believe that there is a way that we can do that. We. You can use the copy and paste feature and paste it into anything.
+Emily Kaiser: Would that be helpful?
+Richard Sorey: I don't know about that because, you know, the, the EMR that I'm going into, I'm not sure what they would take. I. I might be able to. I just think it would be so handy, you know, if I could just take. Because the, the work one has a EMR that does dictation by voice. It's got a Dragon system on it. It'd be so handy if I could just feed it to the microphone on that computer. I mean, it put it in, you wouldn't have to worry about outside sources.
+Emily Kaiser: Right, right. I understand that for sure. Unfortunately, I don't think there is a way I can double check with our engineering team. Okay. But I am curious if you want to kind of troubleshoot and try to paste it into your EMR or EHR while I'm on the phone. I can kind of help you walk through that if you want.
+Richard Sorey: Well, let's give it a try. Okay. Okay, so let me bring up. All right, let me bring up. The jot. Psych. Oh, where'd you go? Okay, here's John. Psych. I've been to that, but now I can't see you. How do I split the screen?
+Emily Kaiser: I can still see you. Yeah. Trying to share your screen.
+Richard Sorey: Okay, now. Now I can see you and I can see the job site.
+Emily Kaiser: Okay. Do you want to share your screen so I can see what you're. You're seeing so I can help navigate?
+Richard Sorey: Sure, that'd be fine.
+Emily Kaiser: So if you go to our screen where you see us, you'll see the microphone, the camera, and then next to the camera, you'll see that little laptop.
+Emily Kaiser: Oh, yeah, that share screen. And when the options come up, you'll click the Smart Scribe.
+Richard Sorey: Okay. Share screen. Allow to share a window. Don't allow. Should I just say allow to share or.
+Emily Kaiser: Yes, I would say allow to share.
+Richard Sorey: Oh, please try one more time. Allow to share. Should I put allow to share window or share screen?
+Emily Kaiser: I believe just window, because then it just. Here's the specific window.
+Richard Sorey: Okay, there we go. So share the window.
+Emily Kaiser: I don't see anything on my end yet.
+Richard Sorey: I've got a little thing that says presentation is starting.
+Richard Sorey: Okay, maybe it's trying share this window.
+Emily Kaiser: Okay. Okay, perfect.
+Richard Sorey: God, it's like infinite windows.
+Emily Kaiser: Yes. I think that we might have clicked the wrong one.
+Richard Sorey: Let me try something different.
+Emily Kaiser: So if you go back to where you were, click that button, the share screen button.
+Richard Sorey: All right?
+Emily Kaiser: And then you'll see. Stop sharing.
+Richard Sorey: Stop sharing. Okay, there we go.
+Emily Kaiser: Perfect. Okay, let's try that again. Let's click the share screen button. And you're going to click. It's going to be a purple. It's going to say smart Scribe is the window you want to share.
+Richard Sorey: Okay. Smart Scribe. I'm just not seeing that.
+Emily Kaiser: Emily, What do you see?
+Richard Sorey: Well, I see you. I see me. And then there's a little box in the middle that says allow meet google.com to share your screen. And I've got three options.
+Richard Sorey: Allow to share the window, allow to share the screen and don't allow.
+Emily Kaiser: What happens if you allow to share the screen? Because we did window.
+Richard Sorey: Okay, let's find out. Okay. And see, I've got a. I've got a separate screen here that's got the jet psych stuff on it.
+Emily Kaiser: Okay. Nothing is coming on my end. Well, that's okay. If you're not able to share the screen, I can still try to help you navigate.
+Emily Kaiser: Okay, so you're on jot psych now.
+Richard Sorey: I will be. I think I have to get out of the screen.
+Emily Kaiser: Okay.
+Richard Sorey: Save me.
+Emily Kaiser: If it helps. You don't have to also be looking at the Google Meet screen. You can just focus on the jot psych if that makes it a little bit easier.
+Richard Sorey: Yeah. Me needs permission to share screen, baby. Emily, this is kind of all locked up now.
+Emily Kaiser: Oh no. Okay.
+Richard Sorey: Yeah, I can't. I can't even get rid of the button that says meet needs permission to share screen.
+Emily Kaiser: When I click the.
+Richard Sorey: Ok.
+Emily Kaiser: It might just kind of give your screens a minute. I would just, just try, give it not clicking anything for a couple seconds and see what happens. Okay. But in the meantime, so I'm glad to hear, maybe you could just tell me a little bit about your experience. So you tried a couple notes with Josh like today. And how did the recording go?
+Richard Sorey: Very good quality.
+Richard Sorey: You know, nothing was dropped. The spelling was pretty accurate.
+Emily Kaiser: Okay, good. So your notes looked okay? Yeah. Okay. And did it look like the type of note that you would typically take?
+Richard Sorey: It does, but not everything that's in there and also not in quite that order. And I would separate out some, some things for, you know, like medication history and, and that kind of thing.
+Emily Kaiser: Thing.
+Richard Sorey: Sure, absolutely.
+Richard Sorey: And the template that I have from. From Doc. Is there a way I know that you can upload templates and then how. How do you train J to do that?
+Emily Kaiser: Or does it.
+Richard Sorey: Does it figure it out?
+Emily Kaiser: Let me show you here. So I am going on to J. Let me go ahead and share my screen.
+Richard Sorey: Can you see that needs permission to share screen? Yeah.
+Emily Kaiser: Oh, let's see here. It looks like I can see your screen now. Okay, hold on one sec. I'm just reloading. Okay. No, that you're looking at my screen. Okay. Okay. So if I go here.
+Richard Sorey: So if you. I was able to open mine finally.
+Emily Kaiser: Wonderful. Oh, you were. Okay. I can show you on yours if you'd like.
+Richard Sorey: That would be great.
+Emily Kaiser: Okay, so why don't you go to your screen. Okay. And you don't have to worry about sharing it. I'll just walk you through it because I'm on mine as well. So go to documentation there at the top. Yep. You're going to go to note templates.
+Richard Sorey: Okay.
+Emily Kaiser: Okay. And then you're going to go to upload template. You have a template. You said already that you want to upload,
+Richard Sorey: not that it's on this computer where I can do it. I have to figure out a way to get it over to this computer.
+Emily Kaiser: Okay, no problem. So what you would do then is you would just open up on your other computer that you have the template on. When you have the time, you can just open up an email and send that template as an attachment in an email, and then open up the email on the other computer and then pull it from that email and save it to your desktop from there. Does that make sense?
+Richard Sorey: It does.
+Emily Kaiser: It does. So once you have it on this computer, you will click upload template. Go ahead and click it for me, just so you see.
+Richard Sorey: Sure.
+Emily Kaiser: And then where it has that little cloud with the arrow pointing up, you can click that.
+Richard Sorey: Okay.
+Emily Kaiser: And once that template is saved on the computer that you need it to be on, this is where you pull it from.
+Emily Kaiser: So you save it in your files. You could save it to Documents or whatever you typically do.
+Emily Kaiser: And then you pull it from Documents.
+Richard Sorey: All right, perfect.
+Emily Kaiser: So that's how you upload it. Now let me show you really quick. Go to Notes on your end and go ahead. I can't see anything on your end, just so you know, which is totally fine. I just didn't want you to, you know, because you have clients.
+Richard Sorey: Opened up the notes.
+Emily Kaiser: Go ahead and click on one specific note. It can be any note.
+Emily Kaiser: I'm going to show you how to copy and paste.
+Richard Sorey: All right? Okay. I just did that.
+Emily Kaiser: Okay. So do you see the note summary? Chief complaint. Client, hpi, stuff like that.
+Richard Sorey: Sure do.
+Emily Kaiser: Okay, so under on the left hand side of the screen, under Notes sections, you're going to see all of those sections listed. Do you see that?
+Richard Sorey: Yeah.
+Emily Kaiser: Okay, so next to all of those titles you'll see summary, you'll see those small circles and if you hover over those circles next to to summary, it's to the left of the word.
+Emily Kaiser: You'll see that plus button. Yeah. Okay. Click whatever sections you would like to copy and paste and bring over to your ehr.
+Emily Kaiser: So summary, you can click as many as you want. Whatever you find helpful, medication, family history. And you'll see a lot of them are. Have that purple check mark now next to them. Yep. That means you've selected them. So once you've selected all of the sections you want to copy and paste, go over to the top of the page. Okay. And next to sign note, you're going to see copy selected.
+Richard Sorey: All right.
+Emily Kaiser: It's not quite at the top, I should be more specific. It's a little bit under the top. Okay. Underneath that top menu where you'll see schedule, client documentation, you will see at the top of the note it says sign note in purple. It's a purple blocked out word. And then next to that you'll see copy sect Copy.
+Richard Sorey: I think the issue is, is that I still. There's a thing on top that says assign the note to a patient.
+Emily Kaiser: Yes.
+Richard Sorey: Okay, good catch. Okay. And I didn't want to put in any of the personal identifiable data on anything outside of the doc computer.
+Emily Kaiser: Not a problem. So a lot of times what people do if they want to avoid adding in personal information is you can put in first initial, last name. You could say red shirt. You could say whatever kind of code name you want to create. People do first initial, last initial, whatever you're comfortable with, just so you can identify that note and who it goes with.
+Richard Sorey: Okay, let me see what I can do then. So it says assign note to a patient and I'll just put in this gentleman's initials. Hang on just a second.
+Emily Kaiser: No problem.
+Richard Sorey: Okay, so we will put JC and then it says enter.
+Emily Kaiser: Okay, so I just did that. Perfect. So now what is it telling you?
+Richard Sorey: It's saying create patient.
+Emily Kaiser: Okay. So you can add more information. But all of these features work without adding information.
+Emily Kaiser: So again, whatever you're comfortable with, you can just leave that like is and just go ahead and create.
+Richard Sorey: Patient.
+Emily Kaiser: Okay. Or you can add whatever you want.
+Richard Sorey: All right, we'll just go ahead and leave it as is for J.C.
+Emily Kaiser: okay, perfect. Now, Dr. Scory, just so you know, is designed, is created to redact. It does not take in any personal identifying information. It's called PII Information. I'm sure you might be aware, but have any sort of database that stores this, that kind of information outside of your personal profile, just so you're aware how jobs like is created.
+Richard Sorey: I didn't know that.
+Emily Kaiser: Privacy is important. So basically what we see on our end, if, you know, we were to like see the back end of your notes for some reason, we would see your transcript, transcript saying hello. And then where it says the patient's name, it would say just simply patient. If it has a birthday in place, it would just say birthday. No numbers or anything like that. So again, just so you're aware of how it works, so you feel comfortable using the system to the most of however you want to use it.
+Richard Sorey: So now I'm where it says, should I assign it to the patient? So I'll go ahead and assign it just to practice.
+Emily Kaiser: Perfect.
+Richard Sorey: Okay. And then up above, it has a thing that does say sign note.
+Emily Kaiser: Yes. Okay, so next assigned note. Are your sections still copied there? If you look at the left hand side, do you still see those purple check marks?
+Richard Sorey: Yes, I do.
+Emily Kaiser: Okay, so next to sign note, you're going to see copy selected.
+Richard Sorey: Okay. Copy selected.
+Emily Kaiser: Okay, so now all of those sections that you had, those check marks next to those are in your clipboard, meaning you can go to anywhere. You can open up a word doc if you want to on your end.
+Emily Kaiser: Okay, go ahead and open up a word doc.
+Richard Sorey: Yeah, hang on just a second.
+Emily Kaiser: Okay.
+Richard Sorey: Okay, let's try this.
+Emily Kaiser: Okay, now right click on that word doc once it's open and select paste.
+Richard Sorey: Okay, Hang on.
+Emily Kaiser: Okay.
+Richard Sorey: All right, I'm just gonna put.
+Emily Kaiser: Just did that information paste for you.
+Richard Sorey: I'll tell you in a moment because I'm using a Mac, you know, it's a little bit different.
+Emily Kaiser: Sure. Those are always tricky to me. I'm not familiar.
+Richard Sorey: All right, let's see what it will do. Here it is.
+Emily Kaiser: Perfect. So that is exactly how some clinicians like to transfer information over, whether they're. You know, it depends how you like to do things in your practice specifically, but you also have the ability to paste that right into your EMR or ehr.
+Richard Sorey: Yeah. Okay. Very good. Awesome. Okay, so this is one way that I can do it. That's good.
+Emily Kaiser: Yeah. Yeah, we have a lot of clinicians that actually like to just paste it into the word doc and then keep up with the system that they currently have in place by editing later. So whatever, however you want to do it. Another thing I want to show you is if you go to clients there at the top.
+Richard Sorey: Just a minute. All right.
+Emily Kaiser: Okay, go ahead. Okay, go to Clients and then select what do you have that one client in there with the initials.
+Richard Sorey: I'm trying to find client. It isn't patience, is it?
+Emily Kaiser: Yes, it probably is.
+Richard Sorey: Patients on your end. Okay. All right. Yeah, he's in there.
+Emily Kaiser: Okay, go ahead and click his name or initials.
+Richard Sorey: Okay.
+Emily Kaiser: And every time you record with this patient or at this client, you will see that Jodsych is building a profile for them in the background. Again, all of these features work without adding in a bunch of personal information. But what this is doing here is this is going to be a safe space to gather information. Like last encounter. This is what you guys spoke about. History, treatment plan, upcoming appointments. Any forms that you've sent to this patient will be kept here, as well as, like, the scores or the results of those forms. Okay. Any medication information, diagnoses, information, all things like that. So if you kind of scroll down, you're going to see this small line of a menu appear at the bottom of the page.
+Emily Kaiser: And it's going to have five different icons.
+Richard Sorey: It does.
+Emily Kaiser: Here you're able to send. That first icon is so you can send forms directly to the patient. So if you click that, you'll be able to see a list of all the forms that you're able to send to the patients. Next, you'll be able to. Oh, perfect. Okay, so you see a lot of the forms.
+Richard Sorey: Just that there's the forms and questionnaires.
+Emily Kaiser: Okay, perfect. So those are a list of forms, but you also have the ability to upload any forms that might not be in our system that you use in your practice. You can upload those here next to that button on that. Same little menu. You have the option to create lab requests to send to a client. You can create, generate clinical documents, send follow up information or scheduling information, and as well as request payment.
+Richard Sorey: Okay.
+Emily Kaiser: So those are just kind of the functionality of the client portal that we currently created. And then the only other thing I want to show you is up at the top. Do you see billing and auditing?
+Richard Sorey: Yes, I do.
+Emily Kaiser: Okay, so if you click that and you click JOT audit.
+Richard Sorey: Okay.
+Emily Kaiser: Now have you ever been audited before?
+Richard Sorey: You mean like outside of just general practice to.
+Emily Kaiser: Yeah, just in the past. We just asked. Because we created this. We created JOT Audit to catch audit risk before submitting claims for clinical. So that is a tool that you have, you have access to as well as billing. I don't know how you currently handle billing, but jobtake is moving into the space of billing and we are just kind of taking out another, another way to take out another third party system and have everything all on one in one space. So just so you're aware, those things are currently being developed. But if you want to try the JOT audit, I can turn that on on your profile so you see how that works.
+Richard Sorey: Well, you know, right, right now I. I don't think so.
+Emily Kaiser: Okay, no problem. Okay. That is all the little features that I wanted to show you now that you've been logged in. Any questions? I know I gave you a lot of information there.
+Richard Sorey: Well, the only question I would have is that, you know, the support. If I do have problems, how would I get support?
+Emily Kaiser: Yeah, absolutely. So at the bottom there on JOT site, well, first and foremost, you are more than welcome. I highly encourage you to reach out to me. If I could be your first point of contact to support, that would be great. You can text me or call me on the number we've been communicating on as well as the email that we sent the link through.
+Richard Sorey: Okay.
+Emily Kaiser: And then on JOT Psych, you will see also the engineer that reached out. Maybe they can also reach you or you can also reach them. But at the bottom of JOT Psych, you'll see on the left hand, bottom side, I would believe it would be on your page you'll see that little like text bubble in purple.
+Richard Sorey: All right.
+Emily Kaiser: Yeah, that is for support.
+Emily Kaiser: So if you open that bubble, you'll see a list of options on, you know, what kind of support you need. So you can go through that psych or you can reach out directly to somebody on the team that you've worked with past either myself, the engineers, Chris, we're happy to help.
+Richard Sorey: Okay, well, one of the things that I do see is that my trial was to end the day.
+Emily Kaiser: Ah, okay. I thought it was this week.
+Richard Sorey: Yeah, well, all it said, let's see here.
+Emily Kaiser: I know that we've had a couple different demos here and you've trialed the system, but what I would. What I was going to say is because you did a demo, typically at the beginning of the demo, we like to offer people that do the demos their first month for $20. Okay. Typically it's $150 a month. But I know that it sounds like you've liked the system and if you want to keep trying the system and keep using JOT Psych for a low commitment rate, you can certainly, we can honor that $20. If you wanted to do your first month for the discount, that'd be good.
+Richard Sorey: That'd be outstanding.
+Emily Kaiser: Awesome. Awesome. Okay, let me. So on your end, I'm going to walk you through how to add your billing information. But really quickly I'm going to have. We still, because we're a small company, we manually add that discount on the background. So I'm just going to reach out to Chris really quick.
+Richard Sorey: Okay.
+Emily Kaiser: Okay. So on your screen I'm going to show you how to put in your billing information. Okay. So on your, in your initials there at the top, right?
+Emily Kaiser: Yes, Go ahead and click that.
+Richard Sorey: Okay, hang on. Okay.
+Emily Kaiser: And then on the left hand side you'll see a list of options. You're going to click Subscription.
+Richard Sorey: Okay.
+Emily Kaiser: And then do you see Manage subscription or add billing information?
+Richard Sorey: I do.
+Emily Kaiser: Okay, go ahead and click that.
+Richard Sorey: Okay. Manage subscription.
+Emily Kaiser: Perfect.
+Richard Sorey: Okay. Then I need to add a payment method. I don't have my business credit card with me. Do, do you want me to go in and get that and you know. Yeah, if you want to go.
+Richard Sorey: Yeah, go ahead.
+Emily Kaiser: Take your time.
+Richard Sorey: Hang on. Okay. Okay. So let's get my card. All right. It's this one.
+Emily Kaiser: Perfect.
+Richard Sorey: Okay. So it says add payment method. We'll go ahead and do that.
+Emily Kaiser: And I just got word back that the discount was added on our end, so you'll only be charged about $20. Okay.
+Richard Sorey: All right. Very good.
+Emily Kaiser: So it pulled.
+Richard Sorey: Did you want.
+Emily Kaiser: I'm sorry.
+Richard Sorey: Go ahead. I'm listening.
+Emily Kaiser: Well, I was just going to ask you if you wanted to put that in before I hung up just to make sure you didn't have any problems.
+Richard Sorey: Well, sure. Says here update. So we'll do that. Go back. Okay. Information, Bill information. Richard scoring update information. And payment method. Okay. You know, Emily, this is kind of frustrating for me because here it is, current subscription and it shows up $150 a month after free trial ends. Then my next estimated payment will be $20. It's got down here payment method. No payment method, add payment method. So I went ahead and pressed pad payment method. And it comes up and it's got exactly the card I want to use. It's my business card. Then underneath that it has update and go back. And the only button that works is go back. So when I do, there's my billing information. It's got my name, my phone number.
+Emily Kaiser: Okay.
+Richard Sorey: Then there's invoice history and there's nothing else there.
+Emily Kaiser: Okay, so where it has that payment information, does that payment information look correct?
+Richard Sorey: Yeah.
+Emily Kaiser: Okay.
+Richard Sorey: The information score. Oh, you know what I see. What's the matter?
+Richard Sorey: Okay, give me just a minute. It's my needs my address. Okay. Yes. Phone numbers in there. Tax ID type. Oh, boy.
+Emily Kaiser: Yeah, the tax ID is only for if you're using the billing portion of Jatsych. If you're not using that, don't even worry about it.
+Richard Sorey: Okay, great. All right. And so I guess there we could just put save. All right, great. Now let's see what happens.
+Emily Kaiser: Okay.
+Richard Sorey: All right. Welcome to John Psych.
+Emily Kaiser: Perfect. Okay, great. So it sounds like everything went through and you are good to go on your end.
+Richard Sorey: Okay. And are you showing that things went through?
+Emily Kaiser: I personally cannot see that, but I can ask the internal team if they can confirm. Did. What did you, what messaging did you get on your end?
+Richard Sorey: The only messaging that I got, it said that, you know, I was charged the $20, it looks like. Okay, and payment method? No payment method. I'll tell you, this is thoroughly aggravating.
+Emily Kaiser: If it said you were charged the $20, it's probably just doing some personal loading. It's. Probably thinking a little bit over there, but you should be good. But if you want to log out and log back in and. And see what it gives you. Just to confirm. Or I can confirm on my end, Whatever is least frustrating.
+Richard Sorey: Why don't you try confirming it on your end?
+Emily Kaiser: Sure, totally. Let me see. Okay, I just sent that message. It'll probably just be a couple minutes.
+Richard Sorey: Okay.
+Emily Kaiser: Now, any other questions as far as features or how to use drop psych in your specific practice, Anything like that?
+Richard Sorey: Well, the. The thing that would have been handiest would be just if it could like read and then I could record into the other computer. Yeah, Emailing files to my government account. You know, I'm gonna have to. Gonna have to make sure I'm not doing. There's so many ways to break rules and get in trouble that you don't even know about.
+Emily Kaiser: Yes, I'm sure. What I would recommend if you're trying to transfer any information. I guess, I mean, like I said, and like you said, I don't know the rules, but. So definitely use your best judgment on that one. But the copy and pasting into a doc like we did today is going to be an easy way to transfer some information.
+Richard Sorey: Yeah, yeah.
+Emily Kaiser: Perfect. And I am just waiting to hear back from Chris. If you want, I can let you go and just send you a text message and just let you know that everything is all good to go. If that works for you. If you want to wait.
+Richard Sorey: Whatever works best. Well, I think I'll wait about five more minutes.
+Emily Kaiser: Okay, totally.
+Richard Sorey: Yeah.
+Emily Kaiser: So where are you out of then, Dr. Scory, Wisconsin.
+Richard Sorey: I'm in Oshkosh. It's a little bit north of Milwaukee.
+Emily Kaiser: Okay, very nice. I'm in Michigan, so we share the same cold.
+Richard Sorey: Yeah, yeah, I think you had mentioned that. And for a while I was working just a little bit north of Lansing in a town called St.
+Emily Kaiser: John. Yes, yes, I do remember you mentioning Lansing. Yep.
+Richard Sorey: Very cool. Yeah, it was a nice town. The only problem was I got there and it was right during the COVID So all I did was sit in my hotel room.
+Emily Kaiser: Oh, yeah. That is the worst.
+Richard Sorey: Yeah.
+Emily Kaiser: Let's see here. So what brought you to Wisconsin?
+Richard Sorey: I live here.
+Emily Kaiser: You've always been from there?
+Richard Sorey: No, I retired. Oh, golly, just about eight years ago. And so I started doing locum tenants, a job I had while one of my jobs was in, you know, St. John's Michigan. And then after that, they. They hired their. Their own. So I was looking for somewhere else, and I came to Oshkosh. And it's beautiful here. You know, we always wanted to live on a lake or on the ocean or something. And so we bought a house. We really enjoy it. And my contract with. With the state hospital here ended. They hired somebody. So I was there for about five and a half years. And just to kind of stay local, I picked up some work at the Department of Corrections. They have a prison in. It's about 50 miles from here where they need some help. So I go there twice on Monday and Tuesday, and then Wednesday and Thursday I do telemedicine. And so I was kind of thinking the telemedicine part would be nice if I could, you know, use an AI note thing. And so I found out about Jad Psych.
+Emily Kaiser: Okay, that's great. So I heard back from Chris. He said that he doesn't see anything as far as credit card information on his end.
+Richard Sorey: Yeah, that's what I was kind of wondering, because. Information.
+Emily Kaiser: What. What messaging is it giving you?
+Richard Sorey: Well, like I said here, it's says payment method, no payment method. Then it says add one. Okay. So I did that, and the information pops up. You know, it's the card I want to use. Okay. So when I try to push update, nothing happens.
+Emily Kaiser: Okay, so let's. So you're under billing and subscription.
+Richard Sorey: I am, right now, current subscription.
+Emily Kaiser: And then you click Manage subscription. Because we have that new billing feature. I just want to make sure we're in the right spot.
+Richard Sorey: Okay. Add payment method.
+Emily Kaiser: So it's giving you that same.
+Emily Kaiser: I'm just plugging in my computer. Giving you that same information for. With your credit card.
+Richard Sorey: It is.
+Emily Kaiser: Okay, so why don't we just go ahead and try to input it again?
+Richard Sorey: Oh, something happened here. There was a code that was sent. Oh, Lord, not disappeared. All right, now, with any luck, I'll be able to get back and try it. Okay.
+Emily Kaiser: What is it showing you now?
+Richard Sorey: Oh, just to put in a code and I can't input into the screen. Okay. There. Finally.
+Emily Kaiser: Oh, good.
+Richard Sorey: All right, Now I can update it. Hot diggity.
+Emily Kaiser: Okay.
+Richard Sorey: And it turned green.
+Emily Kaiser: Okay, good.
+Emily Kaiser: And you were able to click submit or something?
+Richard Sorey: Well, I don't know what to tell you, Emily. All of a sudden, there was a little thing that came up where you enter a code, and I got a code sent to my phone number. Okay. And then I couldn't enter the thing. Finally it entered, and now it says the subscription's good and if I want, I can cancel it. So it should have gone through.
+Emily Kaiser: Okay. It sounds to me if it's offering you an option to cancel, then you should be okay again, I confirm with Chris and I will let you know. For some reason, if that's not what we see on our end, But you should be all good to go.
+Richard Sorey: Yeah, I think so. So anyway, yeah, it was. It was fun to see that it worked out and, you know, I think I'll be able to use it.
+Richard Sorey: I'll just have to figure out the logistics and. So your prescription price is $150 a month. Is that unlimited use or.
+Emily Kaiser: Yes, unlimited. So you have access to all features. Again, you're being charged just $20 for that first month, and then the remainder months will be 150. If you have questions, if things pop up as you're using the system, please don't hesitate to reach out. We're happy to help. As you kind of integrate this into your day to day. I think this is going to save you a lot of time, Dr.
+Richard Sorey: Scory. Yes, I agree with that.
+Emily Kaiser: Okay, great. Well, thank you for your time today and let me know if you need anything.
+Richard Sorey: I will do that.
+Emily Kaiser: Thank you so much.
+Richard Sorey: Thank you. Bye. Bye. Bye.

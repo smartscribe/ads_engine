@@ -1,0 +1,204 @@
+Jack Waugh: It. Hey, Paul, this is Jack from JOT Psych. How are you? I'm doing great, man. Yeah, just one all I know we had kind of loosely scheduled to talk around this time now. Still an okay for you? Sure. Yep, totally. Okay. Right. Yeah. Yes, there definitely are. And I can tell you how, actually, we can address both of those concerns you have, because, by the way, those concerns are very valid. And, you know, I think it's really important to have people in the mental health space who care about patient consent, you know, because it's so important. HIPAA compliance as well. Now I'll. What I can do. Are you able to join that Google Meet link I sent to your email? Because I can actually share my screen with you that way and, like, show you, like, kind of, you know, some of these things that you can get around. So we don't. You don't have those issues you're mentioning? Yeah. Okay, cool. Yep. No, you're good. Okay. Once you're in there, I'll. Oh, it looks like you just joined. And let me know, like, you probably have to, like, turn your mic on or something or. Yeah, no problem.
+Paul Christensen: This use camera. It show up or not. There we go. Nice. Yeah. So we're not echo chamber.
+Jack Waugh: Appreciate that. Okay.
+Paul Christensen: Nice.
+Jack Waugh: Yeah. Well, Paul, good to talk to you, man. Yeah. Appreciate you taking the time also. Yeah, absolutely. Yeah. So just to address that. Those first two concerns right off the bat. So we are fully HIPAA compliant.
+Jack Waugh: And I'll tell you how we are. We can't see any sort of patient names or identifiers on our end that's not stored. We can't keep it. You can choose to store a note if you want to, but we can't see that on our end.
+Jack Waugh: And you can also delete every single note after you make a note.
+Paul Christensen: And that's what Dan said initially.
+Jack Waugh: Yeah, servers. So there's no. No storage whatsoever of that kind. I know you mentioned the consent form, too, and I can walk you through how to address that in just a second. But does that at least address the HIPAA concern?
+Paul Christensen: Yeah, but, you know, it's funny because it's like, you know, there's like a mic, like, listening to what we're saying and then taking this information, like, putting it together. Right. And so, like, the thing on. That's listening on the other side, like, what is it doing? You know, and like, that's the whole thing with, like, this whole, you know, stuff. And like, in general. That's a very general question, but, like. Yep. You know, is it learning? Is it assessing? Is it seeing? Is it, like, there to develop a medical LLM and stuff like that? So, like, you know, if that's the case, then, like, how is it not using HIPAA if I, like, use a person's name or if, you know, we're talking about their family, etc.
+Jack Waugh: Yep. So, yeah, that's a great point. I know. Because the other end of that is something like ChatGPT, right.
+Paul Christensen: Where it's like every.
+Jack Waugh: Every time you're recording, they're actually learning from it and using the data. Yeah, that's not what we do. Got it. Like, our whole business is founded on being HIPAA compliant. So if we did that, we wouldn't actually have a business to start with. Fair enough. Fair enough. You know, we can't. Yeah. All of that information, the way it works is before the notes generated, patient identifiers, and any sort of, like, thing that would be against HIPAA compliance is stripped away from the patient before the notes generated.
+Paul Christensen: So while it's listening, it's not even recording that information.
+Jack Waugh: It's only recording locally while you're actually doing it. But it's not sending, like, their name into our. We can't see the name on our.
+Paul Christensen: Interesting. How does it. Okay, so that's so it. Like. So even though. Because, like, JOT Psych is like an application, Right. That's obviously, like, in the cloud or on the web. So how does it do it locally versus. You know what I mean? Like, how does it do it locally for that prior to submitting the note?
+Jack Waugh: Yeah, that's a great question. I actually, if you wanted to, I could even get you on the phone with one of our engineers, so you could even ask him, like, if you want to know the ins and outs of that. It's a bit beyond my technical expertise, but beyond me, too.
+Paul Christensen: Yeah, yeah, yeah, yeah, I hear you.
+Jack Waugh: But. But I can tell you that that's how it works. And I can tell you that it's not something we're able to see because we do have to be HIPAA compliant on our end, too. Sure. Yeah. So if that's something you want to do, just let me know. I'm more.
+Jack Waugh: Than happy to, like, put you on.
+Jack Waugh: But in the meantime, want to make sure I touch on your other concern, which is consent form. So the cool thing is this might have changed since you last tried us.
+Jack Waugh: We've added a new, like, custom form upload. So you can just upload your own form.
+Paul Christensen: Got it.
+Jack Waugh: Okay. I'll show you how to do it really quick, and then I can walk you through how actual scribe works.
+Paul Christensen: Sure. But yeah, yeah, go for it.
+Jack Waugh: And yeah, Phil, again, if you've seen all this already or if, like, this is like.
+Paul Christensen: I think. No, it's all good, man. I think it's been a couple years since maybe we. I talk less.
+Jack Waugh: So, like, yeah, probably the last time you tried us, it might have looked, like, totally different than it does.
+Paul Christensen: Yeah. This is a different face. Yeah.
+Jack Waugh: Okay, so you just go to the forms tab here and see this forms library thing up here? Click that, click build new form. And then you can just drag and drop a form into there and we'll just upload it exactly the way you'd like it to be.
+Paul Christensen: Got it.
+Jack Waugh: Yeah. So as far as the consent forms. Yeah, it can be the exact consent form you would want. Great.
+Paul Christensen: So share with me a little bit about, like, How this gets integrated to my current EH are necessarily, like, because this isn't an ehr.
+Jack Waugh: Correct. It's technically not an ehr.
+Jack Waugh: I mean, some people might actually kind of be able to use it as an ehr because it still does store a lot of things that you needed to store. Yeah. It's really meant to work alongside with your ehr.
+Paul Christensen: Yeah.
+Jack Waugh: The idea is, number one, this is a time saving on notes thing.
+Jack Waugh: So for sure, you know, it's. That's kind of the name of the game is people are just drowning and having to spend half the day or like, I just talked to someone saying they're spending 10 hours a week on notes. So it's like a whole day's worth now for your case. I know we talked yesterday. You'd have to tell me how much of a problem is that for you is spending like.
+Paul Christensen: Like that level of time on those. I do a pretty good job. I mean, it's not a lot, man. I think in total, like, two hours a week, probably. But it's different. I mean, if I have a new patient or client, I mean, I am like a rapid, active, like, charter while we're talking. Like, okay, yeah. So, like, I just always has done that and, you know, for 10 years. So. Cool. So that's just a habit that I get so like, my charts are closed day of always. And so. So, you know, that being said, like, you know, sometimes I work a lot to do that, you know, so there's a catch. But like, a couple hours a week, probably it's not that much. But as I mentioned, you know, I don't have that high of a patient load. Right. Mainly because I'm doing all the other admin work, which I told you about last time. But I mean, the opportunity to have this be more seamless is obviously understandable and if it can lead to growth, sure. Right. And I'm also, I work here, I work at another clinic. And like, I'm thinking about, my wife is also a licensed medical provider and I think we're maybe gonna start like a clinic. Not mental health focus, but like other things. So like learning how to.
+Jack Waugh: Oh, cool.
+Paul Christensen: This can be utilized maybe. I mean, sure. I mean there's tons of them out there. But my. I think another question is.
+Paul Christensen: I'm sorry, going on tangents here. I am a physician in the state of Oregon. Okay. I have a full scope of practice and as a naturopath, like I don't have, I'm not like a boss board certified physician because I'm not allowed to be. Um, but I do focus on mental health. That's my thing. Uh, so I, I probably see, you know like 90% mental health, almost 100% mental health. But the mental health that I do is integrative. Um, and so I have a lot of people who come and see who have like neuropsychiatric, you know, manifestations of like infectious disease, for example, or I have people with, you know, mycotoxins that come and see me, you know, and things like that. And so, you know, I'm not sure how that type of integrative or holistic note fits in with what Jet Psych does.
+Jack Waugh: Yep. So that's a great question. A couple things there. I mean as far as the mental things. Yeah, 100, no question.
+Jack Waugh: As far as the integrative therapies, what I would say you should do is I'll show you how to set up a custom template. Okay. I would say give it a try because you might find it still works. It is still a medical scribe.
+Jack Waugh: Now we are really meant best use case for mental health scenario, AI scribe.
+Jack Waugh: So I don't want to tell you we're going to do something that we're not going to do. But that being said, it kind of just depends on the note that you're actually generating for them. So if it's like, you know, most of it's about the mental health and then there's a section on other things. Like it's not like we're just doing mental status exam, you know, we have like systems and different things like that that are more comprehensive too. So I can show you what it looks like. And, but my, my short answer for that would be try it out and see if it'll output. That way you know you're for.
+Jack Waugh: Because I think it could, but I don't want to tell you. A hundred percent sure.
+Paul Christensen: I got it. That makes sense. Well, dive in here.
+Jack Waugh: Yeah. I'll just kind of walk you through. And like I said, just stop me at any point if you. This is obvious or like you have questions. That's totally fine. Basic workflow. Are you actually logged in to Jot Psych right now?
+Paul Christensen: No, I'm not. It's okay, though. I can log in later. I don't even know what that is. It's probably going to take time for me to log in.
+Paul Christensen: So no problem.
+Jack Waugh: So basically record window. Yep. You know you can type a patient name here. You don't even have to type their name though, so that's optional.
+Paul Christensen: Do I have to input a patient into it? Great.
+Jack Waugh: Nope. Every note can just be totally blank, totally anonymous if you want. Okay. Yeah. So then you're going to just choose the template you want. So we have some templates set up here, like medication, psychotherapy stuff. But for your case, I think you might be looking at a custom template.
+Jack Waugh: So I'll show you how you do that in a second. And then you would just hit start recording. When you're done, stop recording.
+Jack Waugh: And then you just click this generate note thing down here. Quick takes like I've never seen it take more than 30 seconds to generate a note. It's usually like 20 seconds. So going to show you what a note looks like here. This is more of like an intake style note.
+Paul Christensen: Yep.
+Jack Waugh: Now again, this is set up more like a typical. Oh, actually let me go back here. That's not an intake note. Okay, here we go. Well, this is a progress note right now. But anyway, same thing.
+Jack Waugh: You'll get enough to get the idea. So it's pretty detailed. It'll pick up any medication changes that have happened that you change in the session. It'll register that tests and scores will automatically change here if you do that.
+Paul Christensen: Yep. I have to like, obviously I have to like verbally state the score, right. Like phq score of like 18 or something.
+Jack Waugh: Yeah, assuming you, you verbally correct.
+Paul Christensen: Yeah, yeah.
+Jack Waugh: The other nice thing is we'll automatch DSM and ICD codes, which is really helpful. Just big time saver for people.
+Paul Christensen: Yeah.
+Jack Waugh: And I'll keep, keep kind of scrolling through this here. Follow up email to the patient automatically generated.
+Paul Christensen: Like a plan. Yeah, exactly. All that. Cool.
+Jack Waugh: And the cool thing is like if there's a section here you wanted to change, like let's say the follow up email you wanted to include something else, you can go over here to this AI Node Assistant and from now on, on whatever section you tell it to edit, it'll make that change for you going forward on this template. So just like an easy example, just be like summary, use bullet points when talking about past history or something like that. Okay. Click that and it'll actually output that way on this template going forward.
+Paul Christensen: Oh, interesting. Yeah. Can you do that for each like section and stuff like that?
+Jack Waugh: Okay, so like if I click here.
+Paul Christensen: Oh, I see editing.
+Jack Waugh: Yeah, yeah, I got you again, huge time saver. Just helps a lot. And again it's meant to be copy paste. So when you're done with it, just copy, copy all section space.
+Paul Christensen: Can you show. Can you copy and let's see what it looks like when it's.
+Jack Waugh: Yeah, totally. Let me see if I can. I might have to open like a. Another window here. Sure.
+Paul Christensen: Yeah.
+Jack Waugh: Like a Google Doc here. Okay. Just going to share that other window.
+Paul Christensen: You got it? All good. Thank you.
+Jack Waugh: Yeah, no problem.
+Paul Christensen: Got it. It's got the plan.
+Jack Waugh: Okay.
+Paul Christensen: Yep. Sweet. So it has it all in there in the, in the codes. Okay. And then one part of that. Okay, cool. So it will automatically generate diagnosis codes based upon the subjective history. Right. Okay. I'm just think trying to like, see like. Okay, what else. What do I have to do in my ehr. Separately. Right.
+Paul Christensen: And in terms of be diagnosed as meds and I would have to input some stuff into there. Okay.
+Jack Waugh: Yep, exactly. So that's, you know, the thing is like, you can do it however you want to. Like, if you're used to doing the diagnosis codes yourself, you can obviously your diagnosis after the patient walks out. So it doesn't have to be that, but like, it's just a nice thing where if you don't have time, you don't want to look it up, it'll at least make those suggestions for you to look up.
+Paul Christensen: Totally. Yeah. I got you.
+Jack Waugh: Yeah. And I'll show you one other quick thing here. So under this patient tab here, we do a lot with like different like note types. So I don't know, do you find frequently you have to like write like accommodation letters for people?
+Paul Christensen: Whether it be like you like accommodation, disability, FMLA, OR paid leave. Do I do that stuff? I schedule people for it because I'm like, you know, I'll charge your insurance, but like. Yeah.
+Jack Waugh: Okay. So the cool thing is we will actually automatically write you one, like five seconds. So if you click on, you go to this patient tab, you click on the patient, this little document button down here. Yep. Okay, so let's just say, I mean, it could be prior authorization. I'm just going to click housing accommodation here, but it literally.
+Paul Christensen: You can type in anything. Yeah.
+Jack Waugh: And we'll just kind of write that out for you.
+Paul Christensen: Okay, got it. But it's obviously assuming that I have to put the patient demographics into jot psych to do that. Would that be correct?
+Jack Waugh: Well, here's the thing. Yes. However, you can just save different patients. Like, you don't have to save their example. Exact name. You know what I mean? Yeah. Or not to. You could always, like, scramble the. However you want to do it to refer to that patient, and then you can always just add their name back when you go to send the email separately or communicate with them. Okay. So if you want your own system to make sure it's really. But again, we really can't see any of this on our end, so. Yeah, it's kind of up to you.
+Paul Christensen: Okay.
+Jack Waugh: And it'll also just do it based on your notes with that patient too, if you'd like. So. Yeah. So let me. Let me just pause there really quick. I know I've kind of, like, walked through a lot of stuff. You're good. Yeah. And so far is this.
+Paul Christensen: Yeah. Yeah, No, I understand what you're putting out. Can you. Yeah, I. I think the one thing still going back to, like, consent and things like that is like, I don't feel comfortable making my own consent form because I don't. I mean, I still don't entirely know or trust, you know, necessarily, like, some of the information and things like that. I mean, you know, I don't want to talk to my lawyer and pay them to make a consent form for me necessarily. So, like, I definitely want to use. But you guys are utilizing and advice, and so you can either send me a PDF to my email and, you know, I can just, like, check that out and things like that, so no problem there. Or if you guys have different types of consent forms, etc. Like, so whatever that is, I think is. Will be really helpful.
+Jack Waugh: Well, I'll show you this too. In the forms library, you can actually do an AI form generation to, like, build that type of consent form too.
+Paul Christensen: Yeah. Cool. Okay.
+Jack Waugh: Nice. Now, of course, you still have to look this over, make sure, you know, it's.
+Jack Waugh: Yeah, it's just working for you and what you want it to do.
+Paul Christensen: But yeah, it.
+Jack Waugh: It is quick and it works really well, so.
+Paul Christensen: Nice.
+Jack Waugh: Yeah. Well, here's what I can do, Paul, you have. I just reinstated your trial. Okay. So in addition to that, I can actually give you a discount month for, like, 20 bucks. So that way you can, like, keep using jots.
+Jack Waugh: Like, I think that gives you, like, 45 days. Does that sound good?
+Paul Christensen: Yeah, that's fine. I'll try to give it. I'm. I'm traveling. Today's my last day of work. Friday's my. My admin, and I'm traveling next week. So I won't be able to, like, probably not until, like, beginning of February, try to work on this. I know it will take me a little bit time to just go through the platform and, you know, and I've used a lot of them, so it won't be that bad, but cool. You know, I think a lot and this is for everyone is just like workflows, inputting data and information and, you know, and things like that. And so for me, it's going to be like, all right, how will that integrate and work with my current ehr? I'd have to, you know, change up all the, you know, the templates on my current EHR to, like reflect, you know, the documentation etc. So, you know, I think a lot of, like, I'm so used to my own workflows currently, so, like, a lot that's going to be tricky for me and I'll have to, like, make some time to figure out how to. Utilize that and that's okay. I am, you know, I've been interested in something like this, so. So it will take me a lot. So I think 45 days is cool. You know, I could see. I. I'll try to use it. I'll. I'll try to get, you know, some trials with a couple of patients who would be open into that type of stuff. I think that's fine. But I think, yeah, if you could just send me some consent forms, things like that, I'll try to log in and on my flight, maybe I'll do some digging and then pricing. What's like a generally. What does it roll usually per month?
+Jack Waugh: So a couple things there. I mean, obviously the first month is $20, so yeah, pretty affordable after that. Depends on a few things. One, are you. You had mentioned you and your wife might be opening up. I don't know. This might just be for your practice. Now, is it just using it. You using it for the time being or would there be like just.
+Paul Christensen: Yeah, just. Just me, one user.
+Jack Waugh: Yeah. Okay. Yeah. So for one user, we do two ways. After the discount month, it's either 150amonth or if you pay annually, it comes out to about 1:35amonth.
+Paul Christensen: Got it.
+Jack Waugh: Okay. Okay.
+Jack Waugh: Those are your options there. But again, you know, this is why we give you the 45 days of time just to like to try and use that.
+Paul Christensen: Okay.
+Jack Waugh: So let me help you get set up then since I know you're away for a while. Yeah. You have a quick sec to log into your job. I have to approve you on my end for.
+Paul Christensen: Oh, got you, got you, got you. Yeah, yeah, yeah. Let's see. Am I, am I right? I am not in the correct.
+Jack Waugh: Yeah, Take your time.
+Paul Christensen: And I can. No, yeah, I was just trying to like all these different profiles in Google. I have too many jobs, dude.
+Jack Waugh: I need just.
+Paul Christensen: I need just one job. Yeah.
+Jack Waugh: All right.
+Paul Christensen: Yeah. That sucks. NDAs, naturopaths don't get paid. Terrible. So it's not a high. It's not high. So I got to have a couple of jobs to help make things work, which is fine. Okay, let me just look up my. Yeah. It's so crazy, man. The state of Oregon. I provide psychiatric services, but I get paid like 60% of what doctors do, which is so. It's weird. It's a strange thing. But of course, psychiatrists didn't go whack, so. Go figure. It's a weird world, dude. It's a weird world.
+Jack Waugh: Okay, well, I also. I know how important alternative like medicine and integrative medicine is like, it really does. It's. It catches so many people who don't fall in the net of like the, you know, the insurance space. We're only going to okay you for this if you have a pre authorized condition, you know, like it's really important.
+Paul Christensen: Yeah. Crazy game. All right. I do not have my password. I don't think I put my jot. Okay, is it smartscribehealth Us? Is that my login?
+Jack Waugh: Yeah, let me check. It's definitely under this email.
+Paul Christensen: Yeah.
+Jack Waugh: And then.
+Paul Christensen: Continue. I'll do. Forgot. Let me just reset real quick.
+Jack Waugh: Yeah, take your time.
+Paul Christensen: No rush.
+Jack Waugh: Yeah.
+Paul Christensen: So why is Mike. Am I logging into smartscribe Health Us instead of Jot Psych? Is that like a different.
+Jack Waugh: Yeah, Smart Scribe is like our. Our payment entity for Jot Psych. It's like our official corporation like, LLC side. Oh, yeah.
+Paul Christensen: Oh, okay. That's cool. All right, give me one sec this for now and then change it. Okay, so let me try to log in again. Give me a sec. All right, cool. Start rolling. I'm in.
+Jack Waugh: All right, awesome. So you're gonna click up here. See your practice up here?
+Paul Christensen: Yeah, let me get. Let me get you bigger here.
+Jack Waugh: Yeah, no problem.
+Paul Christensen: Got it. Subscription.
+Jack Waugh: Your practice subscriptions, then.
+Paul Christensen: Yeah.
+Jack Waugh: And then you click this Manage subscription button here.
+Paul Christensen: Yeah, that's weird. Nothing happens when I click on it.
+Jack Waugh: Let's see.
+Paul Christensen: That's goofy.
+Jack Waugh: Maybe you try loading it one more time.
+Jack Waugh: If it doesn't work that way, I'll take you to another window. There's another way to do it.
+Paul Christensen: Oh, I'm already on my. That's why. Because I'm already on it.
+Jack Waugh: Okay.
+Paul Christensen: I think so. Wait, no, that's. That's not my screen.
+Jack Waugh: That's. Oh, that's my screen.
+Paul Christensen: Okay. It's action required. Begin your paid subscription as well.
+Jack Waugh: Yeah, so you should see something like add payment. I'll show you the screen you should see. Let me know if you don't see this for some reason.
+Paul Christensen: Let me bring you up a little bit bigger. Oh, I think I have a billing portal.
+Jack Waugh: Yeah. Do you see this thing here?
+Paul Christensen: Yeah. Is it through stripe? Yep, yep. Yeah, yeah, yeah.
+Jack Waugh: So just click on this add payment method here, and once you add your payment method, then I'll go ahead and approve you for that.
+Paul Christensen: Oh, got it. Okay. It says start subscriptions and add payment. I presume that's the same thing.
+Jack Waugh: Yes. Yeah, it should. It might just be. Oh, hang on a second. Let me check something. Let's see if you're still. Sometimes it takes the system a section second to catch up.
+Paul Christensen: Okay, let's see. I'm just gonna redo. Just still says start.
+Jack Waugh: Let me see here. Okay, hang on. Give me a second.
+Jack Waugh: You might have to reload this page.
+Paul Christensen: Yeah, just X out.
+Paul Christensen: Yeah, just let me know. No problem.
+Jack Waugh: Yeah, hang on one second. Okay, now it should work.
+Paul Christensen: Let me go back. Billing portal here. Nice, dude.
+Jack Waugh: Thank you.
+Paul Christensen: Great.
+Paul Christensen: Okay, I have two here to go with the top. One. Sec.
+Jack Waugh: Let me know once it you enter that. It takes you back to the screen to see your four digits in there. That's. I'll. I'll go ahead and approve you for it.
+Paul Christensen: Sure. Let me just continue to confirm.
+Jack Waugh: Yep, no problem.
+Paul Christensen: So you should be good. 7102 is the last four.
+Jack Waugh: Okay. As long as you see it. And it took you back to this page here that says smart Scribe subscribe, then you're good. Okay, so I'm getting you approved for that. You're all set.
+Jack Waugh: And then let's. Let's meet again. I think you said like February. Ish.
+Paul Christensen: Yeah. Probably 30 days from now. You mentioned that this would be. So I have a free trial on the 29th and you mentioned like 20 bucks after that for the first month. Is that right?
+Jack Waugh: Yeah. And we'll again, we'll meet again before you would be at the full price. So that way you don't feel like you're getting blindsided by anything. Is like February.
+Paul Christensen: Oh yeah.
+Jack Waugh: Let me look at my calendar. Second. Or I could do like the 9th of February if that gives you enough time.
+Paul Christensen: Let's see here. Thanks, man. See the second and ninth. I'm at a different location.
+Jack Waugh: On Mondays we do another day.
+Paul Christensen: Yeah. Which is, you know, hopefully I can use it there, which would be great. Let me see what we got. I can do. Let's see. Because I don't know if I'll have it running up. No, no, actually if we do like maybe the fifth. Are you around at like the same time at 12:30?
+Jack Waugh: Yes, 12:30.
+Paul Christensen: Pacific. Pacific. My bad. Yeah.
+Jack Waugh: Pacific. That's good for me.
+Paul Christensen: Yep.
+Jack Waugh: Okay, so I'll book you for that.
+Paul Christensen: It'll be in your email again and.
+Jack Waugh: Awesome. So you're all set in the meantime. By the way, quick question for you before. I know we. You probably gotta run in a sec. Do you are. I think you had mentioned this to me and I'm just now remembering this saying you were having some stuff that you were looking into with your billing side of things too.
+Paul Christensen: No, I got a biller years here and it's. It's fine and it works. You know, from a billing insurance perspective. Billing insurance in the state of Oregon for naturopaths is, is a. No, it's not a light pickup. Yeah, it's. It takes a lot of work. So I have them do it and it's. And it's fine. Hopefully one day I'll be able to be a cash based business. But it's okay. More variety of people.
+Jack Waugh: So that's cool. Yeah. Well, I'll tell you something cool. We did just start doing this in 2026. We have something called jot bill that's actually like handling billing from the front end to the back end. So it's kind of like a full cycle billing. And I'll tell you how it works. You can tell me if it's of interest.
+Paul Christensen: Got it.
+Jack Waugh: But basically, first of all, I don't know if you're using anything like headway or anything like that. Those are some of the common ones.
+Paul Christensen: But no, I'm not.
+Jack Waugh: We take a much smaller cut than a lot of these ones and yeah do tend to find at least 5% growth from it.
+Paul Christensen: Cool.
+Jack Waugh: It kind of like the way it works is like first we'll check for like insurance eligibility for your patients. So like a really comprehensive check on the front end of that. But the unique feature is since we have this notes system that I've kind of walked you through, we've added this payer aware system which basically makes sure the note is kind of like perfect before to insurance. It's something that basically it's like once you have that note kind of set up and ready to go, we'll kind of like make sure all of the codes are good to go and then we'll submit it for you also on the weekend. So it's kind of like a dedicated billing manager that kind of handles that full life cycle of the bill. So if that's of interest to you, you know, I can at least schedule you that for our chief of staff, Chris, if you want to talk to him about that.
+Paul Christensen: And, yeah, I'm good on that, you know, for. For right now, but I'll definitely, you know.
+Jack Waugh: But I figured I'd mention it just because I remember you saying something about that.
+Jack Waugh: But if you ever find your current billing system is kind of a pain in the ass, you might find this a lot easier. But we can go on that later.
+Paul Christensen: All right, Sounds good, Jack.
+Paul Christensen: Thanks for your time. I got the Jot Psych open, so like I said, probably. I won't get to it, so probably next week, but I'll make sure to try to get my feelings and see how that works, so. And then we'll see if I want to move that or do that moving forward, so.
+Jack Waugh: Awesome, man. Well, yeah, definitely excited for you to be able to, like, save a little bit more time and make.
+Paul Christensen: Make life a little bit easier with job site.
+Jack Waugh: I think it's.
+Jack Waugh: I think it's gonna help a lot.
+Paul Christensen: But if you have question. Yeah. Thanks, man. You have a good day.
+Jack Waugh: Nice to meet you.
+Paul Christensen: Take care.

@@ -1,0 +1,97 @@
+Becca Bressler: Let me just like pull up your list of notes here. I'm also curious about the patient experience. If you felt like it was glitchy or if they seemed confused by accessing it or expressed any confusion around that.
+Dean Gainey: Well, the appointment reminders don't include the link.
+Becca Bressler: Yeah, I think you forgot that.
+Dean Gainey: So that would be it. But the interface from the patient's perspective when they get the link is not bad. I wasn't able to. Test it though. Like, you know, sometimes they do the telehealth appointment went via their phone. When you book a follow up, they like, you know, exit the web page or whatever the browser. On their phone and go on their calendar. And I wasn't able to test to see if. They log out of the video session similar to how it does with me when I go to a different page.
+Becca Bressler: That's a great thing to test. We'll have to take that back and test that ourselves. That's really helpful.
+Dean Gainey: Yeah. But to kind of elaborate on what I said, let me pull it up.
+Becca Bressler: Here. I'm going to share. Actually. Yeah. Can you walk me through what happened here? Just want to make sure I understand it correctly.
+Dean Gainey: So when. A appointment is booked as an in person on the calendar. You know that. There is a button to join telehealth link. And you know sometimes. They switch. They're like, oh, hey, like can we just switch this to in person or whatever. And so when I hit the button to join telehealth link, I get that fail to join telehealth session. At the bottom.
+Becca Bressler: But I guess my confusion is. Like, so in my understanding, the only way you would have seen that like block to join telehealth is if the appointment had selected telehealth.
+Dean Gainey: Yeah, it was still there.
+Becca Bressler: Okay, so it seems like the failed to join. Wasn't necessarily related to the appointment.
+Dean Gainey: Location.
+Becca Bressler: Oh, so is what you're saying here like, hey, this was originally in person. And so there was no telehealth. Then I like went back to the calendar added telehealth. It added it to my appointment, but then you couldn't access it.
+Dean Gainey: Now. No, I tried to switch it to a telehealth appointment before doing that. And by I thought I could just do that on the record screen by hitting join telehealth. But I would. But it wasn't able to get on.
+Becca Bressler: Well, I guess could you actually pull up jobs? I can walk me through what happened because like you shouldn't see join telehealth unless it's already attached to the calendar. Like there's just as far as I know that's just it wouldn't show up unless it was on your calendar event. But is what you're saying that's not happening. You saw it on the calendar.
+Dean Gainey: Yeah.
+Becca Bressler: Okay, great. So it's a non telehealth. That we're creating. Oh, so it added the telehealth link.
+Dean Gainey: Well, it looks like it did for that.
+Becca Bressler: Oh, but then it deselected it.
+Dean Gainey: Well, I went ahead and deselected and tried again. Let's say I want to switch it to telehealth. Oh, I guess it worked. I don't know how I got it though.
+Becca Bressler: Yeah, I'm trying to remember or I'm trying to understand how the error happened. Like the obviously there's something wrong if you got an error. But I'm not curious like what was happening. Not sure.
+Dean Gainey: I don't remember. I think.
+Becca Bressler: Okay, I wonder if we can look at, maybe we'll look into your account on our end and see like how that would have happened. So. Can you, let's go to the, can you change office where it says office, for instance, in blue and just do like telehealth and see what happens.
+Dean Gainey: Yeah, nothing.
+Becca Bressler: And then what, oh, but it still says office next to it.
+Dean Gainey: Wait. Yeah. I have a bone to pick with this whole thing like this piece right here is just so misleading. Like even if. This was. A telehealth. And then. You know, it'll all, it always says office. It's not. Yeah. And you know, modality says video, which is correct, but like the, what, what is highlighted? And how it's interpreted can be very misleading.
+Becca Bressler: Well, yeah. Can you talk to me a little bit about that? And, and actually, this is like a coding question. So if you do a telehealth appointment, but you like, what is the place of service? Is it like a telehealth? Like, like those two things need to be synced. What happens if you click place of service just so I can see. Okay.
+Dean Gainey: So place a service is billing related. So this. This reflects place of service is. Reflects what, you know, there's a field on like the CMS 1500 that, you know, you put place of service 11 or not. And then. A separate place to put, like, a modifier if it's video or in person. This is reflecting. A place of service. I feel like it should reflect modality more than anything. To accurately depict video.
+Becca Bressler: But what would the modality be if, if the, or sorry, if the modalities video is the place of service always the same?
+Dean Gainey: And. These are payer dependent. So some payers like, like. A two, some pairs like a 10.
+Becca Bressler: Got it. But either way is a two or 10, it's never office.
+Dean Gainey: No, I'm not. Versed enough to comment that.
+Becca Bressler: But can you talk to me about what's misleading? Like what are you expecting that's not happening?
+Dean Gainey: Or I think. As you can see this is now a telehealth appointment. Yeah. But the misleading thing is that, like, you know, when I, when I hear place of service as someone who is or isn't a familiar with like the billing and coding side of things, I view it as, oh. This is still showing that. We're doing this in office because it's highlighted. Yeah. And I've had issues with creating. Appointments. On like appointment types in general. And.
+Becca Bressler: What are the issues you've had with it? We now actually let you delete them. I think you might have asked for that, but I don't know if you've seen that.
+Dean Gainey: Yep, I saw. I appreciate it. So, so appointment types that are made on the calendar. As you can see, like I created a point, I created a template. So, appointment type meta appointment default note. Is this. And then. With this one, you know, appointment type meta appointment. It really doesn't reflect the settings. That are created. Here.
+Becca Bressler: Wait, can we go through an example? So med appointment, we have default 30 video place of service 10 make telehealth the default. Okay, so then show me like where it's not reflected. I see. So this needs to be. Like 30.
+Dean Gainey: Yeah, I still have to like select some of the stuff here. But even when.
+Becca Bressler: It place of service. That's not what you had or is that what you had.
+Dean Gainey: That's not, I think it was 10.
+Becca Bressler: Yeah, I think it was 10 too. Okay, this is super, super helpful. Dean, what is your understanding of what the purple means? Like when you look at that, what do you think that means? Like for office?
+Dean Gainey: I view it as like this is an in office appointment.
+Becca Bressler: Okay. Got it. Have you ever, do you know what that, have you noticed that there's a save icon right there?
+Dean Gainey: Yeah. I've played around with it when I first, no. Like. I did not notice that button, but I played around with it when the button looked a little different in the past. And, you know. I haven't found it. Useful. In creating like a synchronized way from like creating an appointment type to getting on the calendar to getting to the record screen. And that description of the appointment type flowing. Right.
+Becca Bressler: Like it's not carrying over is your experience.
+Dean Gainey: Yeah. Or yeah. And it's probably not like the easiest to interpret. Yeah.
+Becca Bressler: I can show you something right now so that you don't mess yourself up. So this is wrong, right? Med appointment 30 minute video, the place of service should be 10, right? Or is office right for this?
+Dean Gainey: I think. It should have been 10.
+Becca Bressler: So can you select 10 right here just because I want to make this easier for you in the future? So the purple, what the purple basically means is like, and this is super not intuitive. You've changed your default settings. And so save is a way of like updating the default settings. And so what that means is the next time you use Med appointment, you should see 30 minutes video telehealth provided and like that's what that's meant to do. That said, I'm curious then if we go back to that appointment type. Like if you open appointment types, what we actually see there. But this is what it was before actually.
+Dean Gainey: It changed.
+Becca Bressler: Yeah, but it didn't go the other direction. Like should we change it here and then see what happens on the recorder? So we changed it to 10. Update. Yeah, no, but this is maybe stuck on an old patient. So. Can you remove. Or it maybe is not like immediately gonna. Stick.
+Becca Bressler: Maybe it's because it's the yeah like what if we tried a new appointment and clicked into that and saw what happened? Now it says 15 minutes. So that didn't work. Because you didn't set it to 15 right? You still set it to no. Okay.
+Dean Gainey: Yeah, so like. The appointment type is auto created. It the duration isn't flowing over here even though what when the appointment type is created, I have a default of 30.
+Becca Bressler: Yeah.
+Dean Gainey: And what do I have it as well? Videos the modality place service 10 make this telehealth by default. And when the appointment is created. I still have to you know select 30 I still have to let's see. Say. This is 11.
+Becca Bressler: But it's unclear why it's blue.
+Dean Gainey: Like and this is 10. Yeah the place service isn't.
+Becca Bressler: Pop carrying forward can we just do and and we had created a new appointment afterwards so it should have carried forward yeah. Okay this is super helpful to see in action.
+Dean Gainey: Yeah there's just like a disconnect between these appointment types and I have an even. Tried it with like. Reminders and forms yet just because the basics were.
+Becca Bressler: N't yeah no that makes sense. So the picture in picture video window has focus issues and can you say more about the picture in picture issue?
+Dean Gainey: Yeah so I noticed since we last spoke you've made a you've made it to where the like more of like a Google means picture in picture which is cool now when when you click the picture in picture button it's like really really focused on like. It looks like if I was viewing you in a full screen and then I sort in the screen but the picture did not adjust
+Becca Bressler: can we try it can we like get into a session right now?
+Becca Bressler: And you can like schedule one with me?
+Dean Gainey: I'll send it to.
+Becca Bressler: You great. Is it selected is the phone selected though can you deselect email and just select the phone?
+Dean Gainey: Yeah I think I don't have your email listed
+Becca Bressler: as well that's okay what happens if you deselect email but you only select phone. Yeah. Oh no it doesn't let you do that. Okay let's select email and I'll give it to you right now. It's just be bristler B or you can do Becca B E C C a at jot psych.com. And then hit send invite. And then what happens if you send it again? Okay. So let me see. All right I'm gonna. Okay.
+Dean Gainey: So do oh you can't see it hold on.
+Becca Bressler: Okay amazing so can you make it smaller for me just so I have this like in a.
+Dean Gainey: Video that I can send now it's working
+Becca Bressler: so now it's working but it doesn't immediately let's try it again okay weird let me log in and log back in let's see if it happens again. I mean clearly you've experienced it with other users so here I'm gonna leave.
+Dean Gainey: Can you see yeah.
+Becca Bressler: And that's not what you were seeing before oh okay. Okay yes this is super helpful I'm capturing this.
+Dean Gainey: And if I. Gotta. Like. Expand it. And I was playing around with it oh yeah and there I am.
+Becca Bressler: Right here yeah that's super weird. That's really weird. Okay this is super helpful I'm gonna leave the call right now. And I'm just going through your notes send telehealth link from calendar recording page ability to send the telehealth recruiter from query yes. So can you talk to me more about the Sen telehealth link from calendar or recorder page. What is that what is the desire there?
+Dean Gainey: Just like a send button here right there like a and at the bottom of that PDF I put like. An example but. But like a send button here or something
+Becca Bressler: right right right okay yes right you need it like on the actual page that makes sense.
+Dean Gainey: Invite that would be cool.
+Becca Bressler: Also oh what would be cool sorry
+Dean Gainey: like the this like outside of
+Becca Bressler: having totally yeah we've heard that from someone else and so that's definitely gonna be prioritized. Okay Dean this is great anything else you want to like raise before I let you go I feel like I got a lot of great stuff here.
+Dean Gainey: I think I don't know. Today. I think yeah I think this part was like suggest I kind of. But I kind of did like a little mock up so like you know the record screen here. Those buttons outside of the appointment yeah this schedule appointment button one thing you guys have which is I didn't know but like you can. Youn know you have the ability here with patient diagnosis or whatever to like. You know add and modify and you have like the calendar here but you can't there's no
+Becca Bressler: calendar if you're not you're not like scheduling an appointment yeah yeah and then the.
+Dean Gainey: Other thing was. During the last like during the last call we had for the advisory meeting we were talking about Jackson was mentioned something about like how providers like to. Essentially like. Have this part where like the details appointment or like the CPT code and stuff what like. Like this whole section could be like incorporated in here. By using like that whole jot using like something similar to like that jot audit feature but prior to submiss generating the note
+Becca Bressler: what in your mind is the value of having it prior to generating the note?
+Dean Gainey: Well as of as of right now the whole if I were to click this CPT code button or if as you see as you've seen already this is kind of like. A little bit misleading on how it looks or how and if I were to add the CPT code button and even put like you know time spent doing psychotherapy it never. Translates over to the actual note that that is generated in our templates however you know a feature that you just enabled created like jot audit or AI node assist or whatever does to some degree so like I don't know.
+Becca Bressler: Maybe that's interesting you add the time of service sometimes up there and you don't see that reflected in the note.
+Dean Gainey: No no. I don't know a little AI chat bot because I do find myself having like chat GPT or something equivalent in a different tab to ask it questions so that's why I added that little notion AI thing. And so that's the whole idea behind that was to have a job audit feature that would be a little bit more clear
+Becca Bressler: than is the idea that the feature would like help you figure out. What this appointment is because like in some sense you know. You mean like based on the patient like is the idea that this feature would assist. You in figuring out even what to choose for these.
+Dean Gainey: The feature would assist more so assist with. Conducting the appointment. But but just be a cleaner interface than what's up here because like what you guys have currently and I don't I don't have it enabled in my program but before when I was testing jot audit you would you would have these like multi select buttons be like hey. Just to confirm is this say is this a video or telehealth or whatever is this a in person how many minutes spent doing psychotherapy and it would just make your it would make us having to having less things triggered in the jot audit thing or having to modify the note once more once the note is generated I don't know if that makes sense
+Becca Bressler: yes you're wanting more prompting here to like better set up your note you want to be able to like answer questions in this view or like prompt it so that when you get to the note there's like less needed to fix is kind of what I'm hearing from you.
+Dean Gainey: Yeah and I think. It would be. It wouldn't really be that big of an issue if like this was a little bit. Yeah but a cool a really cool thing though would be to have a little AI chatbot to ask it clinical questions and stuff yeah totally totally totally yeah.
+Becca Bressler: We've definitely heard this. And yeah we're definitely thinking about it it's you know it's a it's a dangerous territory somewhat to wade into because like we are not experts and we need to make sure what we're surfacing is like really robust but you yeah we know this is kind of the direction of where this stuff is headed anyways so hey Dean I'm sure you have to run as well you have a very busy schedule so I'm going to let you go but thank you so much for the document and your time yeah this is really really helpful and i'm going to pass this along to our engineers like immediately.
+Dean Gainey: Anytime let me know how it can help.
+Becca Bressler: Yeah absolutely do you want me to turn this feature off for you do you want to keep like playing around with it? What's your.
+Becca Bressler: You can leave it on I don't know yeah let me know if more thoughts come up as you start using it too.
+Becca Bressler: Okay cool all right thank you Dean.

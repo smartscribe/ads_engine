@@ -1,0 +1,129 @@
+Nathan Peereboom: Okay. Hi, don. How are you? Okay, I'm just gonna say. I have it on my calendar to look at it today. I don't know where we're at. I have to pull it up. And actually, great question for you. How much? Hey, Dawn. Can you hear me?
+Dawn Chui: I can.
+Nathan Peereboom: Hey, how are you? It's nice to meet you.
+Dawn Chui: I'm good. How are you?
+Nathan Peereboom: Good, good. Did you get hit with a snowstorm this weekend?
+Dawn Chui: Oh, no, I'm in Florida.
+Nathan Peereboom: Oh, that's lucky. Where in Florida are you?
+Dawn Chui: Clearwater.
+Nathan Peereboom: Clearwater. Okay, I'm embarrassed. I actually don't know where Clearwater is. Where's Clearwater?
+Dawn Chui: Okay. It's in Tampa Bay area.
+Nathan Peereboom: Oh, cool. Okay, gotcha. We were just down in Miami. We have a few clients down there, so just a hop and skip and jump away.
+Dawn Chui: Yeah.
+Nathan Peereboom: Dawn, it's so nice to meet you. My name is Nate. I'm the CEO and co founder of JOT Psych. And I'd love to, you know, just understand about you, about your world, and then walk you through what we have for billing because it seems like that's something that you're interested in, just to start out. Yeah. Tell me about your practice. Tell me how long you've been practicing. Just give me a little bit of a panorama of your life.
+Dawn Chui: Yeah, sure. So my practice has been open for probably about two and a half years, and I have. It's a pretty small practice. It's just me, and I have a client list of about 200 patients. And I've been using jot psych for probably a little over a year. And it's. It's kind of changed my life. So I do. I have. So I'm credentialed independently with three of the major pairs in my area. Blue Cross, Blue Shield, Cigna and Optum. But I primarily use Headway and Alma for my billing. But I do have a private biller who primarily just uses bills for me for Blue Cross Blue Shield. I don't know a whole ton about billing myself, but if, you know, JOT Psych is able to kind of help me and streamline that process, and I'd be open to kind of seeing what that's all about.
+Nathan Peereboom: Awesome. You already have a biller? Like, what. What's not working in that dynamic?
+Dawn Chui: I mean, I think it works fine. You know, it's just if I'm able to get my costs down and kind of do it myself, then, you know, that would be ideal. Like I said, I'm a. I'm a small practice, so it's not like I'm doing a ton of billing. But, you know, being independent, you know, there's like all this admin stuff that falls onto me that. So I am trying, you know, to try to push it out to other people if possible, but also to keep costs down and overhead down. I'd love to be able to. To do some of that myself if it's. If it doesn't take a whole ton of my time.
+Nathan Peereboom: Totally makes sense. What prevents you from billing for yourself right now?
+Dawn Chui: I guess it's more just not really. No, understanding completely the process and feeling kind of overwhelmed with trying to learn and, you know, being here at the steps of doing it myself.
+Nathan Peereboom: Gotcha. And what are you currently paying for the biller, the private biller?
+Dawn Chui: It's about 400amonth.
+Nathan Peereboom: Okay, gotcha. And when you think about like two years from now, what percentage of your practice do you hope to be kind of outside of the headway Alma ecosystems.
+Dawn Chui: Yeah, I mean, ideally I would not like to use them. I mean, more because, you know, they're. I'm a little bit scared that they're going to kind of take over, you know, the business and be able to undercut billing and take it away from independent practitioners. So it's more of, I guess, a moral kind of quandary of being able to get away from them. But they do. Their reimbursements are higher than me being individually credentialed. Except for Blue Cross Blue Shield, which is why I use a biller for that.
+Nathan Peereboom: Gotcha. That makes a ton of sense. So what percentage right now go through Blue Cross Blue Shield? Like I'm thinking about that $500 or, sorry, the $400 you spend per month on the biller. Like what are they. What's the volume that they're billing for you at that? $400 a month?
+Dawn Chui: I would say about 50 to 60% of my patients have Blue Cross Blue Shield. So probably roughly 100 or or so of my clients have that pair.
+Nathan Peereboom: Gotcha. Okay, awesome. So what is the current system? So what ehr do you use and tell me just about this billing like this, this private bill do for you?
+Dawn Chui: Yes, I use simple practice. So basically I just, you know, make. Put the billing codes. In the note. And then I email my biller at the end of the day and say, you know, these are the, the patients that I saw that I want you to bill for. And then they submit the, the billing and that's basically it. They, you know, follow up on unpaid claims and, and we'll check in on that. So that's pretty much how the process goes.
+Nathan Peereboom: Gotcha. Okay, cool. Is it one person or is it a company?
+Dawn Chui: It's a company. I talked to the owner of the company, but I know he does have, I think it's a small company. He has other people underneath him that he delegates tasks to.
+Nathan Peereboom: Gotcha. What is the dawn, what's the dream here? So, like, is the dream something like, hey, I still don't have to think about billing. Someone else does it for me, but it's a little cheaper? Or is the dream something like, hey, I actually don't pay for any billing services. I just have a button I click Submit claim when there's an appeal. I have to deal with it myself as dawn, but. But I'm fine with that because, like, I just want to own everything myself.
+Dawn Chui: Yeah, I don't know. Because honestly, yeah, the more admin tasks that fall on me, the more I feel overwhelmed. So I guess, you know, that part is more daunting. But yeah, I don't know, like, what, how often, you know, an appeal would happen. But yeah, I wouldn't really want to deal with appeals. I would definitely want to delegate that out. So I think it would be more like, you know, yeah. If it doesn't put too much more time onto me. But I own it. It's cheaper. I don't have to deal with a third party on it. Then that would be ideal.
+Nathan Peereboom: Okay, cool. Well, why don't I walk you through what we do. I'm not sure it's going to be perfect for you, but, you know, I'll give you the information and you can tell me, you know, what, what's helpful going from there. And there's no pressure. Like, we view every relationship we have with a customer, we view as a very long term relationship. And so I don't want you to feel any, any pressure or, you know, any kind of hard sell here. This is just information that you can have and you can, you know, make whatever decision is best for you based on it.
+Dawn Chui: Okay.
+Nathan Peereboom: Don, can you see my screen?
+Dawn Chui: I can.
+Nathan Peereboom: Okay, perfect. Okay, so you use Jotsych. We have this new product called Jot Bill and Jotbill is a hybrid system. It's AI and it also has human beings. And what our AI does is it obviously writes a note. But it also audits the note for payer. Specific rules, coding accuracy and claim readiness. And we'll do things like auto, you know, appealing denials, et cetera. And then human beings validate edge cases and, you know, just make sure that everything's still buttoned up. So the process on your end is like, really, really simple. So we start out, we do eligibility checks for you. Do you. How do you do eligibility checks for blue cost Blue shield clients?
+Dawn Chui: I basically asked my biller to do it for me.
+Nathan Peereboom: They do that as part of the 400?
+Dawn Chui: No, it's an additional, I want to say like $3 per eligibility check or something like that.
+Nathan Peereboom: Okay, cool. That makes sense. So, so we do the eligibility checks for you. We then write a, like, clean pairware note. Do you have, do you have job audit on your, on your system right now? You probably don't. It's only in beta.
+Dawn Chui: I don't think so.
+Nathan Peereboom: Okay, great. That's totally fine. Then all you have to do is click sign. When you click sign note, we take over. And what we do is we operate for you as almost like a financial advisor. So we will, you know, take the note, submit the claim, you know, do all the work around the claim, but we'll also show you exactly, like, what's going on in your business. So every month we'll meet with you, show you a dashboard of, you know, money in, money out, you know, how, how your bills are, are going and what we can do to improve it in terms of pricing. So we price somewhere between 4 and 8% of successful collections that we manage. And you can choose the different levels, you know, that you're interested in. You know, at the most basic level, we just do the eligibility checks, the documentation, and then the, you know, claim submission. But as you move up, we'll do things like, okay, the insurer says that they paid you, but did they actually pay you? So are you reconciling what's in your bank account with what is actually in the era? That's something that we can help handle. And we can do, you know, update your rules and keep you just like, totally tight on everything that your payers are requiring of you regarding documentation. So I already mentioned that we, you know, we have an eligibility check system in terms of what makes us different. That eligibility system is, it's the most robust in the industry. It's, you know, it's an API check. We have human beings in the loop. We'll scrape documents that, that are not even like, you know, part of the traditional system of evaluating eligibility. You know, look for cost estimates, carve outs the whole deal. Well, then write kind of pairware documentation so you can upload your contract with Blue Cross Blue Shield. We also have a bunch of Blue Cross Blue Shield background documents. And we'll write a note that's like perfectly fit for. For that particular payer, then generate the claim, and then any kind of appeal that happens, we'll automate it. We also do patient billing and collections too. So all of that's good. Now, you already hire some version of a billing company in the form of biller. And when that's the case, we make two promises to you. The first is that we'll save you 5%. So whatever you're paying for your biller on a take basis, you know, will will beat it by 5%. And then the second thing is that will increase your revenue by 5 or more percent. So, you know, we'll look at. When we first come in, we do an analysis of like, hey, here are your successful collections. Here's what you're paying your biller. And both of those things are going to kind of lurch in the opposite direction in terms of getting started. It's really easy. So we start out, we'll sit down with you and, you know, collect your blue cross blue Shield documents. Anything internal to the way that you, you know, bill, charge, etc. We'll then start setting you up for eligibility checks. The third thing we'll do is we'll calibrate your job audit so you can see, hey, this is what jot Bill would. Would bill for. This is exactly like how they would recommend I change my note to optimize for reimbursement. After that, we'll do an analysis. So we'll look and we'll say, hey, again, this is the data that we have from dawn about what she's billing now, what codes she's using. Here are her visits, here's where the gaps are in terms of, like, you know, is she practicing at the top of her license? Are the claims getting submitted and received, you know, efficiently? What's her clean claims rate, all of that. And we'll just show you that just so you can see, like, hey, here's the current status quo, here are the gaps, and then we can go live if. If you should choose after that. So. So that's the process, you know, that's designed at every point to just give you choice. You know, at every point, we're earning your trust. At every point, we're giving you data and, you know, insight into how we would operate as your biller. And, you know, at any point you can say, hey, actually, I'm not interested in this anymore. So let me pause there. I know I just threw a lot at you. How does that sit? How does it feel? What are you processing at the moment?
+Dawn Chui: Yeah, I mean, it seems pretty good so far.
+Nathan Peereboom: Okay, cool. Great. Well, let me just see. I guess, like, Don, tell me what would be best for you here? Like, what would. What's the right toe dip? Is this something that you're interested in dipping your toes into? And if so, like, what's the right place?
+Dawn Chui: Yeah, I mean, I would definitely consider it. So it would be kind of like a one click process.
+Nathan Peereboom: Yep. That's right. It's just sign note and then we take care of everything else. So no emails, nothing like that.
+Dawn Chui: Yeah. Okay, but you did say you didn't think it would necessarily be right for me. What do you think would be kind of the downside?
+Nathan Peereboom: Well, I think that it's, it sounds like you're kind of interested in like a kind of bare bones system. You know, it sounds like you're interested in something that like, you didn't mention, for example, that you're getting a lot of denials. You didn't mention that you worry about clean claims rate. You didn't mention that, you know, you were, you know, having a friction with your current biller. So most people who start job bill have some version of that. You know, they've just had an audit or they're nervous about you, you know, not practicing at the top of their license or they don't know how to code. But you sound like you're doing your coding. You've got kind of a system that's like bare bones working. My recommendation to you would be to go through this process of like discovering are there gaps? You know, the analysis portion is great because it, it again, it's, it just tells you, are there gaps? Same thing with eligibility. Are there gaps? That would be my, my recommendation to you. I think that we are built for someone who's like, really excited about optimizing their billing, growing, seeing more patients, billing at higher rates, all of that. And so, you know, I just feel like you're a little bit atypical in those attributes. But obviously I'm biased. I think everyone in the whole world should be on jot bill, so I would still love for you to try it, of course, but, but I don't want, you know, feel like we're making a problem where there's not a problem. If you feel comfortable with your current billing.
+Dawn Chui: Right. I gotcha. I really appreciate your, your insight there. Yeah, no, I mean, I definitely think like you said, yeah, maybe just looking more into my process and as I grow, it definitely would be something that would probably be more beneficial. But yeah, maybe not quite right at this time.
+Nathan Peereboom: Are you interested in like walking through? Because the thing is that there's not really any risk for walking through some of these things. For eligibility checks right now we charge 90 cents a check. So even if you were just like, hey, I want you guys to do eligibility checks and I want to see this analysis.
+Nathan Peereboom: Yeah, you know, there's, there's so little risk there and you would just get a lot more information about, like, what's possible. Is that something that you'd want to do?
+Dawn Chui: Yeah, that sounds reasonable.
+Nathan Peereboom: Okay, cool. Well, why don't we do this then? Why don't we set up an intro call so that we can just, like, take your documents, like, at least, like, just kind of, like, have. Have a way to. Yeah, just give you a window. Just give you a window into like here's what's going on and here's what's possible. And we could do that now actually, if you wanted to do it now. I'm happy to, happy to walk you through it, but I think it would be really, really insight giving if you so chose.
+Dawn Chui: Yeah, sure.
+Nathan Peereboom: Okay, cool. Um, well, let me stop sharing here. So I guess first, Don, do you have. The one thing that would be helpful is could you share access to simple practice? Because I. My guess is that you. The billing software, it's through simple practice. Right, right. Can you share kind of the, I don't know, like the access to that so that we could like pull the billing data from there?
+Dawn Chui: I'm not sure how to do that. Neat.
+Nathan Peereboom: Do you want to share your screen? We do this all the time. I can walk you through it.
+Dawn Chui: Sure.
+Nathan Peereboom: Awesome. And then while, while you're sharing your screen, the other thing that, that I'm curious about is your payer contracts. Oh, awesome. Okay. Do you have the contract with Blue Cross Blue Shield?
+Dawn Chui: It's in my email somewhere.
+Nathan Peereboom: Okay, cool. All right, let's see here. So let's go to billing on the left side under clients. Okay. Oh, nice. You do a bunch of, you do a bunch of direct pay. That makes sense. Okay, cool. Can you click export patients or sorry, export payments. And let's see what we get there. And then. Yeah, that's totally fine. Let's do CSV instead of QuickBooks.
+Dawn Chui: Yeah, we probably want to do a more robust state range, I guess. Let's see.
+Nathan Peereboom: Yeah, sure. Let's do like the last, like. Yeah, last year, perfect. Oh, that's actually just going to be.
+Nathan Peereboom: Oh, this year that's going to be all Natalie. Yeah. Yeah, So I think we got to throw a 2025 on there. So maybe export patients payments again. Boom. And then last year, perfect. Oh, and that was QuickBooks, not CSV. Last year, perfect. CSV. The export. Okay, awesome. And then do you see where that downloads?
+Dawn Chui: Yeah.
+Nathan Peereboom: Okay, cool. And then if you could just put that in an email to me. And then the other thing I'm really curious about is your, Let's see, what else would be helpful here? I guess the other thing that would be really helpful is your, like a, an export of your. Oh wait, can you go to Billing Documents? So it's. If you look at recent activity right under the word billing and go two tabs over, there's a tab that says Billing Documents. Do you mind looking at that? Yep, perfect. There's no. Oh, Let's see. Actually, you know, Don, do you think you could just give me a like seat in your Simple Practice so I can like dive around in here? Because I think that there's, there's some, I mean I could walk through it, but there's like a million little things that I just kind of want to explore. Would you be open to just giving me a seat in Simple Practice?
+Dawn Chui: Yeah, I mean, I guess I could send you my username and password.
+Nathan Peereboom: Yeah, that would work. If you want, I can write it down on my side over here or you can, you can shoot it through the chat. And then after you do that, the only thing, yeah, the only thing that I'll need is your contract with Blue Cross Blue Shield. That's the only other thing that we really are curious about here because I'll just give you, give you some insight. So Don, one of the things that we know a lot of payers do is they'll agree to a rate with you in the contract.
+Nathan Peereboom: But then when they actually go to pay you, they won't pay you that rate, but it'll still come up as an approved claim because they paid you something. So that's like one of the early like low hanging fruit analyses that we like to do. I'm not saying Blue Cross Blue Shield has done that too, but it's just one of those things that we always check.
+Dawn Chui: Right.
+Nathan Peereboom: You know, so yeah, if you could share your credentials for Simple Practice and then, and then I'm happy to help you find that Blue Cross Blue Shield contract if you'd like.
+Dawn Chui: Okay, let's see. I think.
+Nathan Peereboom: And you can send it. Feel me to send.
+Nathan Peereboom: And I'll tell you I'll get on Simple Practice and make sure that I can get on before, before we get off this. Call it.
+Dawn Chui: Okay. I think that's what it is. Of course I do. Automatic sign in so it.
+Nathan Peereboom: Can you hear me?
+Dawn Chui: Yes.
+Nathan Peereboom: Oh, okay, great. I don't think that password was. Or it didn't work on my side. Yeah.
+Dawn Chui: Okay.
+Nathan Peereboom: Oh, okay.
+Nathan Peereboom: So let me try this again. Let's see, let's see. Ah, yes. Okay. There's two step verification. I think it's to your phone.
+Dawn Chui: 807-720-7879.
+Nathan Peereboom: Okay, great. Okay, awesome. Yep, I am in. Okay, cool. So I've got everything here. And I think the only thing I really need at this point is the Biller contract.
+Nathan Peereboom: Okay, sorry, not the Biller contract, the Blue Cross Blue Shield contract.
+Dawn Chui: Right, Yeah. I might have to get that for you later.
+Nathan Peereboom: Okay.
+Dawn Chui: Yeah, Yeah, because I found that rate sheet. I don't think I found the full contract, so I have to look for.
+Nathan Peereboom: Okay, well, the rate sheet is a great, helpful first. First piece. Yeah. And then Donna, how do you, what do you trig like when you think about coding? What's your. Can you just kind of like tell me your philosophy of coding?
+Dawn Chui: Yeah, I mean, you know, coding, I, I keep it simple. Right. Most of my clients for follow ups are going to be a 99214, unless they're really straightforward or if, you know, we're evaluating inpatient or anything like that. But most of them are going to be 992 and 4. And then I typically, you know, spend 30 minutes with my patient. So if we're, you know, if I'm spending around that time and we're talking about other things and. Doing cbt, then I add on the therapy code. If it's a pretty quick visit and they're doing fine and we're not really getting into therapy, then it's just 99214. So I keep it kind of simple for that. I don't really get into all the other little add on codes and those kinds of things.
+Nathan Peereboom: Gotcha. Okay, cool. Is that something that you'd be interested in? Like what, What? Why do you. Is it like just, oh, I don't know which ones to use situation?
+Dawn Chui: Yeah, I don't know what she wants to use. I don't know that, you know, they're used that often. So yeah, I just kind of streamline it with just keeping it simple.
+Nathan Peereboom: Awesome. Okay, great. That's super helpful.
+Nathan Peereboom: Did you send over that rate sheet? I didn't see. Let's see.
+Dawn Chui: Did you send me your. Do I have your email?
+Nathan Peereboom: Oh, here, let me send it over. All right, there you go. I just sent it over. Don, are you a. You a Pilates teacher?
+Dawn Chui: I'm not.
+Nathan Peereboom: You're not?
+Dawn Chui: No.
+Nathan Peereboom: Because it looks like you're doing Pilates from 9am to 1pm on Thursday.
+Dawn Chui: Oh, no. Yeah, I'm just trying to block it off on my calendar so I get to Pilates at some point.
+Nathan Peereboom: One other question.
+Nathan Peereboom: Do you have an interest in seeing more patients? Is that something that you would want?
+Dawn Chui: Not many more. At least not. Yeah, I don't think I can handle them anymore without hiring extra staff and I'm not sure I'm quite ready for that.
+Nathan Peereboom: Gotcha. Okay, cool.
+Dawn Chui: I think I sent that over to perfect Dawn.
+Nathan Peereboom: Okay, there it is. Fee schedule. Okay, so this is. Interesting. When's the last time you negotiated this?
+Dawn Chui: It was probably a little over a year ago.
+Nathan Peereboom: Okay. Okay. Yeah, it's helpful to see is, are these the only codes you're allowed to charge with Blue Cross Blue Shield?
+Dawn Chui: I don't think so.
+Nathan Peereboom: Oh, there's more?
+Dawn Chui: Yeah, there's more. Just the.
+Nathan Peereboom: Yeah, I see. This says page 27 of 27. Are the other 26 patients. Easy to. Easy to snap.
+Dawn Chui: I don't know. I asked my biller to see if he can send me over the whole contract. I don't think he ever did.
+Nathan Peereboom: Oh, interesting. So you don't remember actually Blue Cross Blue Shield giving you the contract to hold?
+Dawn Chui: No.
+Nathan Peereboom: Okay.
+Nathan Peereboom: Are there any other documents that you know of that are pertinent to your credentialing with them that are pertinent to just anything about your relationship with Blue. Blue Cross Blue Shield?
+Dawn Chui: No, I don't think so.
+Nathan Peereboom: Okay. All right, great. Well, let me. Let me go look this over and. Yeah, really appreciate it, Dawn. Let's set up some time to. Let's set up some time to chat relatively soon. So I'm just looking at the calendar. How does next Monday sound? Monday the second for us to do? Actually, wait, I have your. Well, I won't. I won't look at your calendar, but dates and times, that would work for me. Okay. 1:30 on Friday would work. Friday the 30th. This Friday. Or like 11? Actually, I will look at your calendar because you've got it up. Or I could do. 4. 4pm on Tuesday. Or Monday the 2nd.
+Dawn Chui: No, the 1:30 Friday would be better.
+Nathan Peereboom: Wait, 10? 10:30 works. Let's do 10. Oh, wait, 1:30 Friday works.
+Dawn Chui: Yeah.
+Nathan Peereboom: All right, awesome. All right, 1:30 Friday. Billing analysis or Don. All right, great, perfect. So I'm going to send you a calendar invite for this. Is it Dawn Chewy Mental health dot com. That's the best place to send an invite.
+Dawn Chui: Yes.
+Nathan Peereboom: Perfect. Okay, great. Just sent that to you and we'll talk on Friday and go from there. Does that sound good?
+Dawn Chui: That sounds great.
+Nathan Peereboom: All right, lovely, dawn, thanks so much. Really looking forward to this. And yeah, I hope you just have a great week until then. Okay?
+Dawn Chui: Yeah, thanks to Nate. I really appreciate your time.
+Nathan Peereboom: Lovely. Take care.
+Dawn Chui: Bye.

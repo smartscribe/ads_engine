@@ -1,0 +1,60 @@
+Emily Kaiser: How are you? How's it going?
+yavar.shaikh: Good.
+Emily Kaiser: How are you? Good, good. So the other person see on your screen here is Lee.
+Emily Kaiser: He is an engineer for Jot Psych, and we're going to kind of troubleshoot what you're experiencing on your end to try to find a solution so you can activate your account.
+yavar.shaikh: Okay.
+Emily Kaiser: So Lee, I guess maybe you could help or kind of help lead in the direction as far as would it be helpful if Yvar shares his screen so you see what he's seeing.
+Lee Harrold: Yeah, that's pretty much all we need.
+yavar.shaikh: Okay, perfect. Can you.
+Lee Harrold: What exactly is the issue?
+yavar.shaikh: So basically, I'm trying to go ahead.
+Emily Kaiser: No, sorry, I didn't mean to interrupt you. It looks like, were you able to get logged in?
+yavar.shaikh: Yeah, I'm logged in already. This is the page. And when I try to subscribe. System is giving me some error. So you can go ahead and say record and that will take you to the billing page.
+Lee Harrold: Okay, so we're on the clinicians page right now. Do you want to go to the billing page and show me the error you're getting?
+yavar.shaikh: Yeah, let me. So what I'm trying to do is I'm trying to subscribe by doing monthly. And when I go to pay. I have my card information already saved. When I do this, I get this. This message organization has no.
+Lee Harrold: Okay, gotcha. Let me take a look. All right. And so it looks like we're on your, this is like your Gmail account. Let me take a look. Okay, so we think you have like a couple of different accounts. So could you log out real quick? I want to see what happens if we log in using this.
+yavar.shaikh: Yeah.
+Lee Harrold: Yeah. I want to see what happens if we log in using the Google OAuth path. So now hit sign in differently. Now scroll down and then click. Continue with Google. Well, I guess first I'll ask like how do you remember how you logged in last time?
+yavar.shaikh: Yeah, this is the main email.
+Lee Harrold: Oh, this is how you did it. Okay, so you clicked sign in with Google and then you clicked on this.
+yavar.shaikh: But I never did go through this kind of steps.
+Lee Harrold: Ah, okay.
+yavar.shaikh: I don't know what the problem is. Let me see.
+Lee Harrold: Yeah, that makes sense. Hit continue. Okay, this looks like it's the same. Looks like it's the same account. Hit continue to pay. We'll see what happens. Yeah, I think it's okay the same.
+yavar.shaikh: Oh, no. Okay. That worked.
+Lee Harrold: That's good.
+yavar.shaikh: Probably I was using the old kind of password which I used. But I don't know.
+Lee Harrold: But whatever you did.
+Lee Harrold: Yeah, I think that's exactly what happened. I think, yeah. So like if you sign in with Google, like we just did, that's like one account. And then if you sign in using the email and the password, that's like a completely different account. So you have like two accounts right now. So we can go ahead and deactivate that other one.
+yavar.shaikh: I would appreciate that. So my phone number and my email is now with this one account, right? Not two different accounts.
+Lee Harrold: That's, let's find out. Click the monogram at the top right of your screen. The big y right next to help.
+yavar.shaikh: This one.
+Lee Harrold: Or this one. Yep, that one right there. Sweet. Now. If you scroll down, you take a look at our information. So does that, that's all right.
+yavar.shaikh: Okay. Yep. Oh, cool. Yeah, that was easy.
+Lee Harrold: No problem. I don't know.
+Emily Kaiser: With regard nice to meet you. I appreciate it.
+yavar.shaikh: Yeah, appreciate. Thank you. Lee. Take care.
+Emily Kaiser: Yavar, we got you logged in. I'm wondering if you have any questions as far as like if you just want to kind of scroll through the platform while you have me on the phone. I can answer any specific questions or anything like that.
+yavar.shaikh: No, I'm good for now.
+yavar.shaikh: But that's the only thing because I have used this system. It's not that it's new. But yeah, those couple of billing auditing things which are new.
+yavar.shaikh: I'm going to just explore and if I have any question, I'm going to email you for sure. Okay. As a student, I was using like subscription was not long. Like it was like couple of weeks or so.
+yavar.shaikh: So I ended up creating multiple. So Josh is the one, right? Josh is the management. Nate. Nate. And then there is, there was another Jackson. Everything about Jackson. Probably. Yeah. I might have met him in Michigan.
+yavar.shaikh: So I told him like for students you guys should be a little bit kind of, you know, considerate. And he's like, okay, you guys promised that you subscribe when you are done. So I'm keeping my promise.
+yavar.shaikh: So I hope you can do that to him.
+Emily Kaiser: Yes, I will definitely relay that message before I let you go. I am wondering. I know we kind of talked about touching base in. What did you say a couple months maybe?
+Emily Kaiser: Just because I would appreciate something on the calendar for the beginning of June or end of May? What works best?
+yavar.shaikh: June can you do the June?
+Emily Kaiser: No problem. So do you want to look at the first week of June? Maybe a Tuesday, Wednesday or Thursday. So that's ninth, 10th and 11th. But I mean, we're so far out. We definitely have flexibility. So whatever works best.
+yavar.shaikh: Yeah. So for now you can do, you say Wednesday.
+yavar.shaikh: Tuesday and Thursday. So make it. I think Wednesday. 8.
+Emily Kaiser: What time works best for you?
+Emily Kaiser: And that's Wednesday the 10th are you looking at afternoon.
+yavar.shaikh: Afternoon.
+Emily Kaiser: Okay.
+yavar.shaikh: Yeah.
+Emily Kaiser: And that's the 10th. I just want to make sure we're looking at the same day.
+yavar.shaikh: Let me see because you said June, right? So yes. So June. Yeah. Okay. Sorry. So I was in the different 10th.
+Emily Kaiser: Yep. Okay. And afternoon. So do you want to do maybe like 2:00? Yeah. Okay great. So I'll send you that you that. And if you have any questions as you're kind of navigating jot psych and using the AI scribe, you can text or call us on the number that we've been communicating. So don't hesitate to reach out. We're happy to help.
+yavar.shaikh: Sure. Thank you. Appreciate it.
+Emily Kaiser: Thank you.
+yavar.shaikh: Bye. Take care. Bye.

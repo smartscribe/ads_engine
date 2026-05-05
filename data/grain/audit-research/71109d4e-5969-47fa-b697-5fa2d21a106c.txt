@@ -1,0 +1,194 @@
+Mark Ellestad: So, you know, I tried working around with it yesterday and I'm not, I'm not trying to be like like difficult or annoying. I didn't have a great experience, like a user friendly experience using it. I can go over sort of the issues and questions I have. I guess maybe that, that would be. Yeah, that would be awesome.
+Adam Harrison: And don't worry about like, we are like super receptive to any feedback, like positive or negative. So we just want to like improve the product so totally.
+Mark Ellestad: I mean, and I think part of it is like maybe your LL man. Like I, I feel like I'm talking to an idiot when I'm talking to it and like it's not like talking to chat GPT where takes in the information and understands what you're saying. It's like I'm talking to one of those chat bots online that I say something and it doesn't respond intelligently back. So like, let me just kind of go, go through my.
+Adam Harrison: Yeah. Question. That'd be awesome.
+Mark Ellestad: I just, I was not really impressed at all. So let me just, let me just go through what is. Just kind of. I'm like teasing through which, which questions are probably more relevant. So I'll just, I'll just go through one by one. Who did I see yesterday? I'll do Brady. Brady was the picture. So how do I get to the note that I made yesterday? I click on this.
+Adam Harrison: You can share your screen if you want.
+Mark Ellestad: I can. Oh, sorry, sorry. How do I do that on Google Chrome?
+Adam Harrison: It's on the bottom. It's kind of like an arrow inside of a box right next to the smiling icon.
+Mark Ellestad: Yeah, there it is. So where do I go to read the note?
+Adam Harrison: Is it here? Yep. Yeah, you can do that. That works.
+Mark Ellestad: So I haven't signed the note yet. So just simple question. This is not really a big question. When I'm trying to copy and paste the note, my understanding is. So you can go through and click the. Click the sections. Yep. And you can, you can easily. I guess it's not easy, but you can easily. I thought there was a way to.
+Mark Ellestad: Is there a way to select all of them? So there's an easy way to deselect them, but what's really annoying is, is there's a lot of sections here and you have to go through and click them. And when you're doing. I mean, when you're doing this and you're trying to do it quickly and you want all of these, but you don't just want these last two at the bottom. Like it. It's a little bit cumbersome. Yeah. Select all and then just deselect a couple of them.
+Adam Harrison: That's a good question. So right now you can do. Copy all sections. Yeah, but that's not.
+Mark Ellestad: Yeah, but that's not what I want. You know, I want to copy all sections, but then that's not what I'm trying to do because I don't want to copy all the sections because it's harder to then delete them. So copy all the sections. Then I have to go through and delete each section. Do you see what I'm saying?
+Adam Harrison: Like how that's Totally, totally, totally. Yeah. So right now the only options are like, the option is no.
+Mark Ellestad: Okay. Yeah. So then another question I had was. Sorry, I'm just trying to remember what I was saying. If I'm gonna. Let's see. I guess. Where was I when I said delete a note? So in the.
+Adam Harrison: In I.
+Mark Ellestad: When I'm training something. So one question I. One general question I have is like. Let's say I have. Can you see this section that I just changed or no, Is it still on the other one?
+Adam Harrison: I'm looking at summary.
+Mark Ellestad: So you're looking at the same. The same thing. Okay, What I'm trying to. Let me go to. How much time do you have?
+Adam Harrison: Sorry, I have 30 till 6. 3. 30 your time.
+Mark Ellestad: Okay. I don't know if I want to waste time on this. Sorry. I know I'm being like, very direct. I just. I don't have, like, don't have a lot of time, so I'm just kind of being blunt.
+Adam Harrison: Yeah, no worries. And just on your last question about copying all sections, I. Yeah, understand that's like frustrating and limiting. The. The best advice I could give you now is to just go to the template and just remove the sections that you don't want from. Totally, totally.
+Mark Ellestad: And that's not a. That's not a big. That's not a big thing. It's just sort of something that I'm seeing and it's sort of like.
+Adam Harrison: It's a little. No, it's very.
+Adam Harrison: It's very good feedback.
+Mark Ellestad: Yeah.
+Adam Harrison: Yeah.
+Mark Ellestad: As I'm working it, I just feel like. As I'm working with it, I just feel like it's pretty janky. Okay, so then. So could you go over. So if I'm, if I'm here. So let's say I sign the note. So now the note is. I'll just say, yes, it's reviewed. Sign the note. So now let's say I'm like, Now I'm like, oh, I actually don't want this type of note. How do I change it? You'd have to go to this note. Or, or. Because let's say maybe I want to keep this note. I've edited it, but I don't want to lose it.
+Mark Ellestad: But I want to maybe see what another note would look like. Is there a way to do that? Or would I be losing this note by doing that?
+Adam Harrison: So once you sign a note, it sort of like locks a version of that note, so that stays the same. But then if you wanted to change it afterwards, whether it's just edit the note.
+Adam Harrison: But what if I want to.
+Mark Ellestad: What if I want to come up with a different note for that encounter? Is that possible?
+Adam Harrison: That's what that.
+Mark Ellestad: That's what I'm trying to do right now is gone through, written a note. I maybe like it, but now I want to see how it looks in a different template that I have.
+Adam Harrison: Just click click on amend, the purple button, and then
+Mark Ellestad: brings you right back in that note.
+Adam Harrison: Yeah, yeah, yeah, yeah.
+Mark Ellestad: No, no, no. What you're not understanding what I'm asking. What I'm asking is I've got this note. I don't want to lose it. I'm. I'm asking is, is there another way to see a different note? A different. A different note with a different template using. Using the encounter, The. Yeah, the recording. How do I do that?
+Adam Harrison: So I would say just put signing aside. Unless you're using this as your ehr, you don't really need to sign. Right. Unless, you know, unless you're using us as like your ehr, which I don't think you are. Okay, so. So I would say just for your use case, leave signing aside, I know it's like very prominent and like large. And then what you can do is on the left side where it says psychiatric progress note, you can just pick another template from that. So just say you want to do intake, or, you know, I'm just randomly picking one.
+Mark Ellestad: So now we're doing therapy.
+Adam Harrison: Yeah, exactly. So that will create a new note and you will have both the notes that you can like, view Review. You don't need to lose the original note when you do that. So if you wanted to see this, you know them side by side. You could go into documentation.
+Mark Ellestad: But let's just maybe give me a second while it's creating the note, and then we can kind of.
+Adam Harrison: Yeah, it'll create in the background if you leave the page, so you don't have to stay there.
+Mark Ellestad: Okay, so you want me to go where?
+Adam Harrison: So go to notes. Yeah. And then if you search notes, you could. Yeah, exactly. So those. Both those notes, it looks like, are right there. So there's your original one and then your, your new one in the therapy format.
+Mark Ellestad: Okay.
+Adam Harrison: But if you. So the one thing to keep in mind is if you delete a note, it is truly like deleted. We can't do something to recover it, just.
+Mark Ellestad: But you could just recreate it if you've still got the encounter, correct?
+Adam Harrison: That's a good question.
+Mark Ellestad: We're just doing right now.
+Adam Harrison: I mean, we just, you know, so I wouldn't, I would leave at least one copy of the note in there so that you can regenerate it from something. So otherwise, like when you delete a note, it's like gone. Because, you know, depending on the user and what kind of patient population they're dealing with, like some people like to just fully clear, you know, their, their encounters for their own kind of like patient, you know, privacy and security kind of.
+Mark Ellestad: How long, how long do the encounters stay open for? Is it open until I close them?
+Adam Harrison: Yeah, yeah, yeah, yeah. They stay open indefinitely.
+Mark Ellestad: Okay, so, so, so it's. So it's indefinite.
+Adam Harrison: Yeah.
+Mark Ellestad: Okay. So. But can you, can you set something up in here where you're like, I want it to erase in a week.
+Adam Harrison: Yeah, we don't do timed like deletion. I think that's a newer feature though that we're working on is like auto erase after. Yeah, that is actually going to be. We're, we'll have like custom data policies as like, that would be a separate offering that will, that we, that we're launching the next two weeks if you want to set up. And you would still.
+Mark Ellestad: So just so I'm understanding correctly, you can still have the note present, but you can delete the recording. Right.
+Adam Harrison: So there the recording is. So how it works, we don't actually retain any audio recordings, so the audio recordings are deleted immediately. What we do have is a transcript of the encounter.
+Mark Ellestad: Okay. And what, what happens with the transcript is that, is that available until you delete it.
+Adam Harrison: So once you delete like all the notes from the encounter, that like, the transcript associated will also be deleted.
+Mark Ellestad: Okay, but what I'm saying, my question is, can you delete the transcript and still have the notes?
+Adam Harrison: No.
+Mark Ellestad: Okay, so if you want to keep notes in the system and also if you want it to sort of have like a memory of the patient, you can't delete the transcript. Correct, Correct.
+Adam Harrison: The transcript just kind of stays there unless you delete like the note.
+Mark Ellestad: And that makes sense because if you wanted to sort of look back at old information, you kind of need that, Right?
+Adam Harrison: Exactly. Exactly.
+Mark Ellestad: Okay. Why is this still generating.
+Adam Harrison: That's a great question. Oh, yeah. I think it just needed to click on it, I guess.
+Mark Ellestad: So now, how do I view them side by side?
+Adam Harrison: So you can't view it side by side. You just have to open a new window and like, kind of cross compare them.
+Mark Ellestad: Okay, So now there should be two nodes, right? Because we just did. I guess that was the. The encounter type. Was that. So how do I view. Even though this is the encounter type, now there's two nodes, how do I view the notes that you know, like, do you see what I'm saying? Like, we just created two notes and I'm trying to find that. What I'm trying to do right now, though, is find. Only one is showing up here. When I click on this, it's giving me the original note that we did. But where's the other one?
+Adam Harrison: You might just have to, like, refresh the page, but it should be there.
+Mark Ellestad: So I go back here, refresh, Try.
+Adam Harrison: What happens if you click on that? On this?
+Mark Ellestad: That's what I'm doing. And it's taking me to that note. The original note that I did.
+Adam Harrison: The original one. Okay. Yeah. So. And then. Oh, sorry. There should be. See how it says note, transcript, and then note next to it. What happens if you click on that? Like, right, yeah. See transcript and then note. Does that do anything?
+Mark Ellestad: Yeah, so.
+Mark Ellestad: Yes, so it's there. Okay. So that.
+Adam Harrison: That you just have to toggle that way.
+Adam Harrison: Yeah, it's a little confusing where you have, like, made some recent updates. So it's still kind of work in progress.
+Mark Ellestad: Okay, Sorry. I'm just going through questions.
+Mark Ellestad: So when I'm creating a note. Well, I guess this kind of goes more to the templates. I'm very confused on how to create templates. I don't think that that is counterintuitive, that is intuitive at all. But let me just go through some of these questions. I'm going to highlight this one to come back to.
+Adam Harrison: Yeah. Where did you get on the templates? I'm curious like what part was felt, felt clunky to you?
+Mark Ellestad: Everything. I mean, let me, I mean let, let me just, let me just go through these, these last couple of questions. I guess I'll go to the templates right now because that's the, that's the more important thing. But just, just, just sort of like, like as an example, like I, I was trying to create where it felt like it's really just not smart at all is like I was writing an emotional support letter just as a practice with a patient to see what it could do. And then I said, and then I took my emotional support letter and put it below that. And then I said, please like take information from this and fit it into that. And it all it did was just copy and paste what I put below what they had. And then I said, you didn't do it, please fix that. And it just spit out the same thing with no changes. So then I'm like, okay, it's really not thinking. And then, and then I asked it to like remove certain things and it was not doing it at all. Like I was asking it to do it. That was in the document section. So maybe like, you know, I mean, you know, I was asking Chat GPT about it and it was just essentially saying like probably it's large language model is not, you know, you know there's sort of trade offs with having restrictions. But it just was like, you know, so that's just sort of an example and I wasn't sure, like am I missing something? Do I need to be doing something differently in order so it functions properly? I don't know. What's your response to that?
+Adam Harrison: Yeah, I think maybe would you mind showing me. I'd probably have to look at how do I find it.
+Mark Ellestad: I don't know how to find the document.
+Adam Harrison: So if you go to documentation and then other docs, it'll be in there. Oh, interesting.
+Mark Ellestad: It didn't save probably, you know, like that was the other thing. I was like, I don't, like I couldn't figure out how to save it and maybe I'm stupid, but it wasn't intuitive. I mean, I'll show you it real quick right now and I'll just.
+Mark Ellestad: Yeah, yeah, if you already have it. Okay, exactly. Just a second. I'll just put in my. It. Course it doesn't do it this time, but I don't think it maybe incorporated. I don't know. But then I also said I also was like remove anything about his medications or diagnoses. And it certainly didn't do that. Like, I swear to God if it doesn't now. It did it, it was not doing it last night and it was like telling me like it has been done. And I'm like, no it hasn't. Suboxone is still there. And then it would say it would just spit out some dumb response like edit has been done. And I'm like, no, it hasn't. And it, and it, it wasn't working. I don't know why it's working now, but it certainly was not doing it last night.
+Mark Ellestad: I mean, I can show you exactly what it was. I called copied and pasted it.
+Adam Harrison: But no, no, that's good to know. I will def. I I. Yeah, I know it's, it's like always, you know, when it's, when you want it to work, it's never working.
+Mark Ellestad: Yeah, let me show. Because it still put, it still included things, I mean, like so it still has some things in here though. Let, let's see. It still has things about medications and diagnoses. It did remove some of them. Remove like the opiate use disorder, which I clearly would not want in there. Still has things about medications and diagnoses in the letter. Why did you keep those in? Please remove them. They don't need to be. I mean it's still panic symptoms, sleep disruption, performance anxiety, chewing gum. You know, it's better than it was yesterday, but it's still like so but moving over to the. Because I would like to. To mess around with the. The. The templates, and I really was just stuck. Okay. Like, I guess I don't understand. Let me go through my questions. I can't remember. I put in a template and can't edit it. So 1. When I'm doing that, is there no way to, like, so you're editing the template with the AI and I'm putting in. Is there no way to, like, type the stuff in? Like, do you have to type it all in over here and tell AI what to do? Like, because when you're creating a template, it's, like, easier to just, like, you know, like, I can't actually edit it. Like, you can in the note. You can do that over here, but here you have to type it in over here and tell it what to do.
+Adam Harrison: Yeah. That is kind of how it works right now. You have to say, hey, and consent and emergency plan. You know, we don't need the patient verbally consent information or, you know, stuff like that.
+Mark Ellestad: So. So. Okay, so it sounds like. It sounds like you can't do that. Yeah. So that is seems quite limiting. The other thing is, how do you let it know that, like, what it is that you want in it? Like.
+Adam Harrison: Like.
+Mark Ellestad: So I put in my template, and then it just kind of spit out a template. But, like, you know, like on. On Heidi. Heidi's the only one I've really kind of worked with. There's like, brackets and then parentheses that sort of are. Are a way to sort of tell it. Like, you know, you can verbatim have something there, but I don't quite understand how it knows what it is that you want verbatim there or what it is that you want that you want it to sort of.
+Mark Ellestad: Do you see what I'm saying?
+Adam Harrison: Oh, you're talking about when you want something, like, to always be there versus, like, your name or your address or something like that.
+Mark Ellestad: Yes. Versus, like, thinking versus, like, you know, like. Or saying like, I want you to pull in all the medications in this section, and I want you to, like, like, have it. Like, how. How are you sort of like, telling it to. To do what you want to do? Like, it just doesn't. Like, this doesn't make sense to me.
+Adam Harrison: It's sort of like it's like a template.
+Mark Ellestad: I see that it's a template, but, like, there should be something where it's like, parentheses, where I'm just using my own language to be like, this is what I want to be being pulled in here.
+Adam Harrison: I want it in this format.
+Mark Ellestad: Exactly. Maybe so that's not in parentheses. It's very not intuitive for what it's going to be doing.
+Adam Harrison: So for you, an ideal scenario is you want to edit the example that it's giving you. With like what you want to show up there? Is that, would that be like, is that kind of what you're saying? Sort of.
+Mark Ellestad: Not really. Like what I'm saying is yes. So yes, I want to be able to edit it, you know, like without having to do the side panel. Without having to do the side panel and type it in. Maybe if I could talk it in, I would do that because that would be faster. But now I feel like I'm like, I know exactly what I want to be there and I can't do it. And then I'm like typing it in here and, and sure it might do it, but that's. That, that's beside the point. That's not something that I can do. It sounds like. But what I'm trying to do is even just figure out, okay, because there's certain things in this section, like in this particular section where you want it to be organized exactly how you want it to be organized. So like that I see how maybe that's how it's set up there. But then also within each section you want, you want to sort of let the large language model know what it is idea wise that, that you want there. So like maybe I'll have like insert all the medications here. But then this is, this is how I want you to take the information and put it in. You know, like, because everyone is sort of different. There's not a way to.
+Mark Ellestad: This is why I'm so resistant to use AI is because like, yeah, let's maybe just.
+Adam Harrison: Do you mind if we just do an example together of like one concrete change you want to make and I can maybe give you like how I would type it into the sidebar, like a suggestion.
+Mark Ellestad: So for instance, like here, like let's look at something very, very simple. The mental status examination. So this pulled what I wanted from my note.
+Mark Ellestad: My, my template is this exact.
+Mark Ellestad: Like, like is this going to be. It's going to change based on like how does it know what to change based on this? What if I want this to be like stagnant? Like, what if I want the mental status to actually not change? Like how does the large language model. How does it know or the AI know to keep it the exact same versus not versus change it? Because there's no way, like there's no way here in Heidi, when you're making the template, it's like, like there, there are parentheses, there are, there are things that sort of tell it that this is. You don't understand my question.
+Adam Harrison: No, I understand you want some things to be consistent across all your notes.
+Mark Ellestad: Yeah, I'm looking at this. And how do I know that?
+Adam Harrison: Like, there's no so Everything will be dynamic unless you specify otherwise. So everything is going to be generated based on the transcript that you have for that patient. So the appearance will always. You know, behavior, speech, all those things will change session to session unless you give a prompt. Like, if you typed in here, for the mental status examination, for appearance, always put, you know, whatever you want to say. Like, quotation mark.
+Mark Ellestad: Is that what you would do? You would put quotation mark?
+Adam Harrison: Yep. You just put like, a quotation and say, for appearance. Yeah, whatever you want to put. So, like, how you would prompt it? Yeah, yeah, let's.
+Mark Ellestad: Let's see what happens. I want to say, hold on. Where's the mental status exam?
+Adam Harrison: I think it was.
+Mark Ellestad: Look.
+Adam Harrison: Yeah.
+Mark Ellestad: So how do I know, though, then? Now. Now that I'm going back, like, how do I know what's dynamic and what's not dynamic?
+Mark Ellestad: Because, like, I might not remember that I've made that.
+Adam Harrison: You set it up that way?
+Mark Ellestad: Yeah. I mean, like, yeah, great. It's great. It's going to do that. But I don't know that. And, like, I don't know what changes I've made. And, like, it just seems. I don't know. Maybe I'm asking it to do too much. I don't. I don't. I don't know.
+Adam Harrison: No, no, I totally hear what you're saying. We. We. That is just like. That's kind of how it works right now. I understand, like, the limitation, though, so. But I totally understand where you're coming from. That's just like.
+Mark Ellestad: Because I feel like you can't really make it tailored or your own thing if. If, like, the way this works. I don't know.
+Adam Harrison: I. So maybe. Separate question. I'm curious, like, how many things do you generally want to be, like, the same every time?
+Mark Ellestad: I mean, it's. It's not. It's not so much that it's more like, I don't understand how to make a template that works if I'm not able to. Creating a template here, it doesn't really feel like I'm creating a template. It's more just. I'm just, like, using what you guys use, or it's looking at what I'm saying. I don't, I don't know. I'm having a hard time just understanding this. I'm willing to keep working with you. I'm just, I just don't know. Like, I, I. This is the first one I've kind of delved into besides Heidi a little bit. You know, I don't know. I'm not just not impressed. And I'm not, I'm not trying to be an. I'm just trying to be direct. And like, as I'm trying to. I mean, are. Are these, have other people had issues like this with me, or am I just, like, a crazy particular person?
+Adam Harrison: No, I think everyone has, like, their own, you know, preferences around it. So, yeah, certainly, like, I don't think, you know, I haven't heard this, like, commonly, but, you know, there's definitely, like, it's very common to, like, have a learning curve with, like, AI and templates. And we do have some limitations here that you've, like, pointed out that I'm, you know, relaying back right now to our product team, actually.
+Mark Ellestad: So, I mean, like, the, the other thing that was just confusing for me, like, as I was creating my template, like, why did it pull? Why is it putting this here? Like, oh.
+Adam Harrison: So I think, yes, it's just sort of an example. So it's not based on, like, it's not going to do that every time. It's just going to say, you know, if that was what was actually discussed in the encounter in the transcript, that's how it would present here. So the way I would probably think about this is like, you know, kind of assume all the information in here is, is, like, correct based on, like, a mock encounter that we can like, just kind of pretend exists. And what I would be looking for is like, kind of the format or two things. One, like, is this the format you want? Like, do you actually want narrative form? Do you want bullet points? Do you want more detail? Do you want less detail? Like, those are all really helpful things to kind of specify. And then from a content standpoint, are there things that you would actually want to do differently? So, for example, in safety assessment and risk evaluation, like, is there maybe another category that you include here that we've, like, missed? So I don't know what that might be, but maybe you also say, like, I actually don't talk about safety planning in my template for whatever reason, so remove that. So it's a little bit more abstract, this, like, template builder thing. It's more of like, you know, you have to, like, kind of pretend for a minute that, like, there is some random encounter that happened that produced this note, and for that note, like, is this sort of, like, the format that I would want? Want. And the right depth and style of content for each section so that.
+Mark Ellestad: I don't know if that's helpful, but. No, it is. Sorry. I get. I get really frustrated. I know we have to go. I just. I want to.
+Mark Ellestad: Can I just ask a couple more questions and then we go?
+Adam Harrison: Yeah, yeah, go ahead. I. Yeah, I can join late. So this is like a group meeting next.
+Mark Ellestad: Oh, you have a meeting. Okay, I'll. I'll let you go. Could I schedule another time with you, though?
+Adam Harrison: No, let's keep going. I. Because I can be late. I'm. I'm optional on this call, so I'll just catch up. Catch up halfway through. Yeah. Okay. Sorry. I want to. I want to make sure we cover all your questions.
+Mark Ellestad: How do you let it know when you want something copied or carried forward versus not say more what you mean? So, like, I have, like, in a medication section, you know, like, I have, like. I'll probably have a medication section where there's active medications and then there's a medication section where it's like, past trials. So that. That would be something where I'm not changing it at all. It's just. It's just gonna. I just would like it in the note, always there. How would I do that? Why don't.
+Adam Harrison: Why don't we.
+Mark Ellestad: Why don't we do that? Let's figure out how to create a section where it does that.
+Adam Harrison: So. Okay, that's a perfect example. So medication, supplements, treatments. So you're basically saying you want to have a part of this note that says, here's all the past medications that have been tried and discontinued for. For whatever reason. Is that like, what you're saying?
+Mark Ellestad: Or it could also be a whole different. I don't know what you call these. What do you call this?
+Adam Harrison: So the big text, like medication, supplements, treatments, though, that is like a section.
+Mark Ellestad: We would say, like, it might even be a whole different section.
+Adam Harrison: Yeah, if it's like. If there's a lot of content in there and you think it belongs sort of separate from this information, then you could say, like, add a new section. Yeah.
+Adam Harrison: So how do we do that? So you would go to the. Right. Where the chat is, and then you could type in something like, add a new section right after medications, supplements, and treatments. Yeah, that's probably faster. Called whatever you want to call it. And then you could say, like, in. Yeah, you could do that. And then if you wanted, you could specify, like, what you actually want that section to look like. And. Like the format or, you know, it'll. It'll try to do.
+Mark Ellestad: So where is it?
+Adam Harrison: Interesting. Okay, I think it's might have added it to that section. So if you scroll back up to section six, did it put it in there? If you expand that. No. No. Okay, so that might be. That might be a bug with the template builder. But let's. Let's try. For now, let's just put it within that section. Just for the sake of example, while we're here. For some reason, it's not letting you add a section. I think you'd have to save and then exit and then add a new section and then come back to the screen. So, yeah, let's scroll down and see if it's there. So it's not there. So what you would do is, oh, there it is past. I guess it was all the way at the bottom. So it didn't put it in the right spot. So you could drag it up to. Yeah, wherever you want it. Yep, that looks right. Save at the bottom.
+Mark Ellestad: Now, I had a question.
+Mark Ellestad: So if I want to delete a section, I click on that. If I delete this. Yeah. The whole note.
+Adam Harrison: Yeah, deletes the whole. Yeah, exactly. Then let's go. Or you can click into that. It might. I don't. But I think just. It's better to click that to be safe.
+Mark Ellestad: Can I not. Can I not do anything in this window if I want to make changes? This is just to kind of move the sections around.
+Adam Harrison: Yeah, exactly. This. Yeah, this. And you'd have to go back to where you were before.
+Mark Ellestad: I have to go here to do that?
+Adam Harrison: Yeah, yeah, yeah.
+Mark Ellestad: So. So now how would I make it so past medications are always pulled up?
+Adam Harrison: What do you mean?
+Mark Ellestad: So like, what I want it to do now is like, I want it. I want to tell it. So right now we've. Right now all we have is a section. It doesn't know what to do with the section. It's just titled Past medications Trials.
+Adam Harrison: Right. So it does know, because that's like how we've built the software. Like, if you read the section here, this is like the format that you would get. It would list the medications and then it would say, like, why it was, you know, what the dosage was and why it was discontinued. So assuming that's what you want it to look like, you can just kind of leave it at that. If you want it to not list the reason or you want it to include the dates, you would have to tell it to include the. Dates in past medication section. Does that make sense? Yeah, sort of.
+Mark Ellestad: Sort of. I mean, I think, like, if I'm adding, I mean, my hope is. And it might not do this.
+Mark Ellestad: Like, I don't want to have to add all of this stuff in manually. And so I know you can't upload documents of old notes, but I can copy and paste the note into that note thing that you can do when you're recording a session.
+Adam Harrison: Right. You could also just do dictation. You could say, like, remember when we did the recording screen? You can have multiple recordings for a single note. So if you wanted to, you could say you could do the encounter. You get the note, and then instead of like copy pasting everything in, you could just say like a quick verbal summary of, like, this is the patient's history. Like, you know, I've been seeing this patient for X number of months.
+Mark Ellestad: These are like the. I think the easier thing for me to do, if this is not too much for it, would be to copy and paste the note in and have it pull out from that information that I want. And would it be able to pull out? Because I have in. I have in my note like a past medication trial section that has all the information that I want in it.
+Adam Harrison: Yeah, you could do that. You could do that for sure.
+Mark Ellestad: And that would work.
+Mark Ellestad: I mean, I know you can do it, but I'm like, so.
+Adam Harrison: So I think it would work. The only thing I would make sure is just like, be careful what you put in there. So, like, if you're just copying the past medications, I think it will work totally fine. If you're copying like a whole encounter, it's probably not going to be able to tell which is like the current encounter and the past encounter. So it's going to like, kind of combine those conversations into one note.
+Mark Ellestad: When you go to generate the note, what if you told it at the top like, this, this is. This is not from. This is not for today's encounter. All of this information is from a prior encounter. And I'm just wanting you to have this information so you have a history on the patient. You see what I'm saying?
+Adam Harrison: Because I'm trying to give it like, I think that could work. That could work. You would have to add that up front.
+Mark Ellestad: I can't say with 100% confidence it's a. Or would it be too much for it to process?
+Adam Harrison: I. I'm being honest. I have not tried something like that. So we would. You'd have to maybe like, give it a go and see see how it comes out. This is like, more kind of like the boundaries of, like, what the product can do. So I'm. I'm. I think it would probably work. I think it would probably work pretty well, but I don't know that it will be like perfect right out the gate would be my honest assessment for you.
+Mark Ellestad: Okay. Okay, I'll. I'll let you get. Can we set up another meeting? Sorry, is. Is that possible?
+Adam Harrison: Yeah, we can do. Let's do another one and then
+Mark Ellestad: I'll pay for like a month. I'll pay for a month to like. Can I just. How does it work? Like if I just pay for like one.
+Adam Harrison: One month? Yeah, it's all. It's all month to month. So you can.
+Mark Ellestad: I can just cancel it if I.
+Adam Harrison: Yeah, you can cancel it immediately if you want. I extended you through the. I think the end of the week, so you have all tomorrow if you wanted to.
+Mark Ellestad: Well, I want like more. More time and so do you have time. Let me look at my. Do you have time tomorrow to meet at all?
+Adam Harrison: I could do a quick meeting tomorrow. Tomorrow's super packed.
+Mark Ellestad: But if it was like, what about Monday? Are you working on Monday?
+Adam Harrison: Monday. Monday would be better.
+Mark Ellestad: Yeah. Okay. Do you have anything in the morning?
+Adam Harrison: Yeah, yeah, all day is flexible.
+Mark Ellestad: Okay. Is there any way I could meet with you for an hour?
+Adam Harrison: They really don't like us doing that long.
+Adam Harrison: But we could do 30 minutes and. And let's see how it goes.
+Mark Ellestad: Okay, let's do with 30 minutes at like 8:30 my time work.
+Adam Harrison: Yeah, yeah, that works. Let me. Let me put it in here. All right, so there we go. I think I just sent it, so you should have it. It's 11:30 Eastern, so it should be 8:30 your.
+Mark Ellestad: Okay. Yeah, there it is. Okay. Thank you, Adam. I know I'm. I'm difficult.
+Adam Harrison: I'm no problem at all. No, there's.
+Mark Ellestad: It's. Help me out and I don't feel like I've been so resistant and it's hard to like, get one that is not gonna. Going to be losing what you're doing. Like, you know, and so anyways, totally.
+Adam Harrison: No, and I, I appreciate all the, the feedback because it does like, it all really does go to our product team and it does actually really. We review all of it and all of it gets incorporated into how we build and fix the product. So. Yeah, I appreciate the feedback too.
+Mark Ellestad: All right, thanks so much.
+Adam Harrison: All right, thank you, Mark. Take care.

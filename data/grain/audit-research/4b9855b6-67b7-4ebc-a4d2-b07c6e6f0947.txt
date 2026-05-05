@@ -1,0 +1,259 @@
+mUsicaPostle: I am doing good. Can you hear me now?
+Jack Waugh: Yes.
+mUsicaPostle: Yes.
+Jack Waugh: Yeah, well, God, we got a chance to talk face to face.
+mUsicaPostle: I know we chatted a little before, but, yeah, awesome.
+Jack Waugh: Well, just wanted to kind of ask you, like, how did you find out about jobs psych and what, what kind of made you.
+mUsicaPostle: Interested in trying us out? Well, I've been just looking through different. Systems and things online. Pretty much Instagram, Tick Tock, social media platforms. That's how I found out about all of the companies that I've been dealing with so far.
+Jack Waugh: Gotcha. And what specifically about jot psych or, like, what in general are you hoping, like, an AI scribe is going to be able to do for you? Are you just looking to, like, save time on notes? Or are you trying to, like, what you kind of walk me through your current situation with your clinic?
+mUsicaPostle: Well, I'm starting up a practice right now. Gotcha. I don't have a current practice. I am shopping around for EHR systems. And that's where I'm at right now.
+Jack Waugh: Cool.
+mUsicaPostle: Okay.
+Jack Waugh: So as far as EHR, ideally something that would kind of do everything, like e-prescribe and the scribe and then maybe, like, scheduling and telehealth and all that stuff through.
+mUsicaPostle: Yeah, everything integrated with labs, all of the above.
+Jack Waugh: Yeah.
+mUsicaPostle: Patient portal. Everything that can be done or needs to be done, I should say. I would prefer to have in one system.
+Jack Waugh: Cool. Yeah. That's definitely something we do.
+Jack Waugh: So I can kind of walk you through that, show you how that works. Do you know, like, are you coming from another practice? Like, were you somewhere else before, and then you're starting this, or are you just starting a brand new PMHMP?
+mUsicaPostle: Actually, I'm just out of school. In February.
+Jack Waugh: Grats. That must be so good to be done with that.
+mUsicaPostle: It is. It is good. A good feeling. Just prepare for the boards next month. This is my plan. And then afterwards, I would proceed. But I'm trying to do shop around on the back end. So once I'm done with boards, I have everything in place. At least I know what direction I want to go.
+Jack Waugh: And have you gotten credentialed yet?
+mUsicaPostle: No, I don't think I can get credential before I pass boards. Right.
+Jack Waugh: Probably not.
+mUsicaPostle: And that.
+Jack Waugh: I guess that's still ways down the line. The reason I ask, we actually do help clinicians with credentialing as well so I can walk through how we kind of help people with that going to today pertinent just right now. So let me kind of walk through everything. But basically jot's like, you know, if I don't know if you did any research or looked up anything about who we are, but we're in AI strive, or we started out as just an AI scribe that's built for behavioral health clinicians specifically. What this means is unlike most generic medical AI scribes, we actually trained our scribe on language that was more likely to get approved through insurance for site professionals.
+Jack Waugh: The way it works is you hit the record button, you know, your patient walks in, they walk out, you could stop record, and then we will generate a fully note for you in under 30 seconds, normally like 10 seconds. And it's just ready for, ready to go.
+mUsicaPostle: And, you know, in job psych.
+Jack Waugh: So typically versus just taking notes with nothing.
+Jack Waugh: Jot's like, is able to save people anywhere from five to eight hours a week on their notes and charting, which is just a ballpark. I've heard people tell me, like, 10 hours. So, you know, the sky's the limit. Yeah. If time saved is a big factor for you, jot psych is something that's really helpful for that because, you know, it's able to help you actually be present with your patients and not get bogged down and, like, making sure you catch every detail. So that's the scribe. I'll talk about the EHR, but does that sound like as far as the scribing goes?
+mUsicaPostle: That would be something that would be helpful. Oh, yeah, definitely.
+Jack Waugh: Awesome. Okay, cool. And then as far as the EHR, so we have ePrescribe as well. So you can do your prescribing through jot sick. And then we've also just added Telehealth as well. So I can kind of walk you through that, too, after I show you the demo of the scribe and everything. But it's meant to be used all in one. So you can kind of do all this.
+mUsicaPostle: Juggle around different videos like that.
+Jack Waugh: So do you have a trial account right now?
+mUsicaPostle: With. Oh, no, I do not.
+Jack Waugh: So let's. I think that would be a good starting point. So then I can actually share my screen and you can, like, follow along. But I'm gonna send you a link right now. And that way you can. Just give me one second. Woodside mind Institute at gmail.com, right?
+mUsicaPostle: Yes.
+Jack Waugh: Okay, cool. All right. Just sent that over to you.
+mUsicaPostle: Okay. Logging on my computer here.
+Jack Waugh: Cool. And Bernard, what's your timeline? Like, look like from now until, like, when you actually start seeing patients, do you know how far out that is?
+mUsicaPostle: If I take my boards in May, I'm thinking, like, somewhere I want to be within a month or two. Possibly three, depending on credentialing. I think that's the longest part of the process, to be honest with you. Yeah. Yeah.
+Jack Waugh: Gotcha. Makes sense.
+mUsicaPostle: Okay.
+Jack Waugh: So credentialing probably is like the biggest immediate thing for you. Okay, so I'll tell you about what we do with credentialing and billing as well while you're getting signed up.
+mUsicaPostle: But basically, do I get try for free? Here?
+Jack Waugh: Yeah. Yeah. So click on that, and then it should take you to a page that says, like, log in. And just click login, and then it'll take you to a page that says.
+mUsicaPostle: Okay, I need to sign up, actually.
+Jack Waugh: Yeah, no problem.
+Jack Waugh: It shouldn't take too long.
+mUsicaPostle: But.
+Jack Waugh: Take your time.
+mUsicaPostle: Yeah. Okay. So basic setting, subdeterminology, choose to refer to additional client. Which one do I pick?
+Jack Waugh: That's up to you.
+mUsicaPostle: That's just.
+Jack Waugh: Like, yeah, some people prefer, you know, saying patients and people for a client.
+mUsicaPostle: So I prefer clients. Okay. This sounds a little bit more professional. Yeah.
+Jack Waugh: Yeah, that makes sense.
+mUsicaPostle: Record your first encounter.
+Jack Waugh: Yeah. So I'm going to share my screen here, and then you can kind of, like, just follow along on your end.
+mUsicaPostle: So, you know.
+Jack Waugh: It's pretty straightforward. Can you see this here?
+mUsicaPostle: Okay.
+Jack Waugh: Yes. Okay.
+mUsicaPostle: You're going to hit record first.
+Jack Waugh: Up in this upper menu.
+Jack Waugh: So, you know, you would just select the patient name up here.
+mUsicaPostle: Okay. I don't have a microphone hooked to my desktop, but it's okay.
+mUsicaPostle: Right now, you don't need it.
+Jack Waugh: But we're not going to do a full thing. I'm just going to show you what the notes look like today anyway. You just add the patient here and you can select the type of template. You want to work from. So we have a bunch of templates loaded into jot psych. But the cool thing is we also let you upload custom templates.
+mUsicaPostle: If there's like a certain format you want to follow, I'll show you how to do that, too.
+Jack Waugh: But for now, let's just say it's a new patient walking in. We'll just leave it on intake. And then just hit the start recording button here.
+Jack Waugh: And then, you know, we'll let it go for a second. Obviously, it's not going to generate a real note for us right now. But, you know, you just hit end recording. And then see this button here. Just click that. And then it'll actually go and make the note for you. And make it so that you can be done with the note before your next. You see how long it takes, but obviously this isn't going to populate with anything because we didn't do.
+mUsicaPostle: Encounter. Gotcha. I mean, even if it takes 60 seconds, that's still great.
+Jack Waugh: Anything's better than having to write it all out by.
+Jack Waugh: By hand or take it all out.
+mUsicaPostle: Yeah.
+Jack Waugh: Yeah. I would say average.
+mUsicaPostle: It's like 20 seconds. This. Yeah.
+Jack Waugh: Now it's done. Okay, so let me show you an actual note example with this. One. Okay. So here's. I'll scroll through here and you can kind of check this out. This is like an intake of example patient. So I'll let you kind of read through this.
+mUsicaPostle: Okay. Okay. Yep.
+Jack Waugh: It's got the HPI there. Any medications that, you know, any changes that get made, it'll pick that up in this section. Sleep patterns, test and scores.
+mUsicaPostle: And does this integrate what if I send my patients like the jd7 or the pH9s or to fill out prior to arrival? Would it integrate that in the note as well?
+Jack Waugh: Yeah, that's one of the really cool things about us is we actually do it so you can send it directly through this patient tab up here. I'll show you that in just a second.
+mUsicaPostle: And, oh, their answers will also show up in job psych, too. So you're not, like, digging through your email.
+Jack Waugh: So, yeah, we definitely do forms and things like that as well. Okay, so safety assessment. Oh, and then this is pretty cool.
+Jack Waugh: We auto match DSM codes and ICD codes. Okay. So, you know, based on the patient encounter, we'll pull up the different Diagnostic and billing codes for use. You don't have to look those up manually. And then follow up, too. And once, you know, once it's good, you would just hit this side note button and sign off on it and it's ready to go.
+mUsicaPostle: Okay.
+Jack Waugh: So just to pause there, does that look, does that make sense? First of all, does that look about what you would be looking for?
+mUsicaPostle: Yeah, it does, actually. Pretty good so far. And I see you have the lab tabs. And payments and stuff on the bottom there. Does this integrate with different lab companies? Can I send orders for my patients?
+Jack Waugh: Yes. Yeah. So you definitely can. So you can send that all here.
+mUsicaPostle: Okay.
+Jack Waugh: You can also do it through the patient tab if you need to get to it later. And then, yeah, payment. That's with, like, you're doing out of insurance and you, you know, someone's paying you via card. You can do that. And then for our actual billing, we have a separate process for that, which I'll, I'll talk to you about in a second. Okay, so I know you asked about forums.
+Jack Waugh: Oh, and before I forget, you can upload custom templates here, too, under documentation. So if there's a format, you want the note to work from, you can do that as well.
+mUsicaPostle: Can I customize what you have there?
+Jack Waugh: Yeah. If you want to just work with one of ours, you can add sections, delete sections, and just make that preexisting template and tell her it looks there.
+mUsicaPostle: Okay. And the AI will integrate that customization. If I had to, because I see some formats, the HBI shows everybody system and it would generate the note in that format.
+Jack Waugh: Yes, correct. So, like, when you update this template here, any extra section you put, there's no extra work you'll have to do on it. It's just going to know to change to output it in that way, if that makes. I think that's what you're asking, right? Like, is it going to make that change accordingly? Yes.
+mUsicaPostle: Yeah.
+Jack Waugh: Yep, it will. You can also use, we have, like, a little note editor off to the side here. So for some reason, you know, it didn't make a change you wanted to. You could always type it in here. But, yeah, it's, it's meant to kind of work right out the gate. Okay. And then forms, because I know you were asking about that. So this is pretty cool.
+Jack Waugh: This is under the patient tab up here. So if I click on this patient. Yeah, I can send. I think we already have the PHQ in.
+mUsicaPostle: Yep, we do.
+Jack Waugh: So you can send that to them and all of their answers will actually just show up here.
+mUsicaPostle: Okay.
+Jack Waugh: So that's really helpful. And also, you know, something a lot of people complain about, too, that we added is having to write, like, clinical document emails, you know, prior authorization. A lot of people have to write, you know, support or accommodation letters. Like, you know, animal support letters. So we built this little auto reader into here for those. I'm just going to click this, but you can literally type in anything. And it'll actually generate.
+Jack Waugh: For this patient.
+mUsicaPostle: Okay.
+Jack Waugh: And then I think the only other two things we, I touched on earlier is as far as, like, the full EHR, we just added Telehealth as well. And then you can kind of do that all centrally through jot psych.
+mUsicaPostle: So the ePrescribe, can you show me that?
+Jack Waugh: Section? Yes, I. You know what? I'm still waiting. They have to. I can't show it to you on my end right this second. Let me see if I can while we're talking. One second here. Let's see if I can get a link to that for you. So in the meantime, while I'm waiting on that, I'll also mention how our credentialing works because I know that that for you is probably, like, the most immediate thing. So we basically will do everything. We'll do the document collection. We do the CAQH profile. Applications. We do follow-up calls, deadline tracking, and kind of handle Trail.
+Jack Waugh: So nothing falls through the cracks. What the cool thing about our credentialing, too, is we have that very tied in with our billing process.
+mUsicaPostle: So if that's something, I don't know if you've
+Jack Waugh: looked into billing at all or how you're handling that. But the way we have, like, a pretty big up a little bit. Yeah.
+mUsicaPostle: Yes.
+Jack Waugh: Let me. Here, I'm going to put my headphones in. Let me see if this is.
+Jack Waugh: Can, can you hear me a little now?
+mUsicaPostle: Yeah, I can hear you. Now.
+Jack Waugh: Yeah. So I don't know. I was just going to ask you, have you looked into anything side of things?
+mUsicaPostle: Well, the, the couple of the EHR systems I spoke with, I met what they had company. They had their billing department that would assist with that. But I spoken to any outside billing departments as far as, you know, having it done on my.
+Jack Waugh: End.
+mUsicaPostle: Gotcha.
+Jack Waugh: Yeah. Okay. Well, I'll tell you a little about what we do for billing.
+Jack Waugh: The cool thing with our billing process is we have a really big, kind of like a performance Advantage relative to most billing for psych, which is that we have our AI scribes. So what we've done with the billing process. So, as you know, the quality of your billing rests
+mUsicaPostle: on the quality of your documentation.
+Jack Waugh: What we can do is obviously we do all the eligibility and stuff like that and the credentialing as well. And then when it comes time for the note tell you exactly what needs to change in the language of the note. So it's basically like an audit proof note by the time it comes to be submitted and we give you custom rules across different pairs.
+mUsicaPostle: Too.
+Jack Waugh: Okay, if that makes sense. So if Blue Cross has these kind of things, we could be like, hey, for this note, I think this code needs to be here because you'll more likely get approved with Blue Cross based on their requirements. And that's where our AI side of things comes into play.
+mUsicaPostle: Okay. But you have a department at manstat.
+Jack Waugh: As well. We do. Yeah. So we have people who can make calls for you, too, as far as the billing end of things goes. And it's so, it's, it's kind of like the best of both worlds. There. Hey, Lee, I think we just joined here because I know we were talking about the e prescribe side of things.
+Jack Waugh: So we, Bernard was just interesting, interested in seeing some of how, like, got 60 prescribed system works, too.
+Lee Harrold: I can, I can get you started. How you doing, Bernard?
+mUsicaPostle: I'm doing good yourself.
+Lee Harrold: Doing pretty good.
+mUsicaPostle: Let me show you my screen.
+Lee Harrold: What do you currently use for e prescription?
+mUsicaPostle: I am just starting a new practice, so.
+mUsicaPostle: Oh, exactly what I will use.
+mUsicaPostle: Yeah, that's what I'm trying to figure out.
+Lee Harrold: Well, congratulations. I mean, that's a, it's a big.
+mUsicaPostle: Can you see my screen? Yes. Sweet.
+Lee Harrold: Let me see if I have a patient. Yeah. So we partner with a platform called no spot. And this is what it looks like. So I've clicked on a, on a job site. Okay. And I can see relevant information for a prescription.
+mUsicaPostle: Do I have any drug allergies in here?
+Lee Harrold: This, this user doesn't seem to have any. Here's.
+mUsicaPostle: Zoloft prescription.
+Lee Harrold: Oh, wait. How do I.
+Lee Harrold: Oh, I see it. I see. I don't have any active prescriptions. So let's. Oh, and there's medication history as well. I have this one in drafts. If I want to. Add a new prescription, little tab on the right. Kind of put in any information that we have and then hit. And really it is, it is.
+mUsicaPostle: Simple. Let me. Okay. Yeah, it's pretty straightforward.
+Jack Waugh: And the nice thing is this also will integrate with jot psych directly. So, you know, everything you can still see it there in jot psych when you make those changes.
+mUsicaPostle: Okay.
+Lee Harrold: Let me stop sharing.
+Lee Harrold: Bernard, does that any other questions on e prescribed?
+mUsicaPostle: Is that. No, it seems pretty straightforward. I see where you can change. You can add the pharmacy for the patient. What if they want to have prescription if they don't have a particular pharmacy in mind? But they wanted to shop around? Would I be able to print a prescription for that if I was seeing them face to face? I see your question.
+Lee Harrold: I've never tried that before.
+mUsicaPostle: Let me see if sometimes they have a particular pharmacy or sometimes they use multiple because one is one medication is cheaper at Amazon. One medication is cheaper at CBS, you know, and so. Yeah. Pharmacy thing going on.
+Lee Harrold: You know?
+Jack Waugh: Yeah.
+Lee Harrold: It's. Yeah. See if I can jump in here.
+mUsicaPostle: I mean, if it's not possible, you know, it's not possible. I've never actually thought of that until just now. So I haven't asked anybody else that question challenging you guys today.
+Jack Waugh: No, that's okay. We appreciate it. So you're, you're talking about more like a generic kind of like, well, yeah, patience.
+mUsicaPostle: And they don't have a particular pharmacy in mind. You know, or they use multiple and they want to, they want to be able to call and say, hey, how much does Zoloft cost here? And how much is all else cost there? Okay, I'll save $20 here versus there, you know?
+Jack Waugh: Yeah.
+Lee Harrold: Right. It looks like we can add as many pharmacies as we want to a single patient, which would be the ability to send it to whichever one. Yeah. It sounds like, yeah, the, the, the onus will be on them to tell you which one they want to send to.
+mUsicaPostle: No problem. That's, I don't really want to have to deal with that anyway. Yeah.
+Jack Waugh: That's okay.
+mUsicaPostle: But it's just a, it's, it's something that could happen potentially.
+Lee Harrold: Yeah.
+mUsicaPostle: Yeah. Yeah.
+Jack Waugh: That's a great, that's a great point. And, yeah, it's a good thing we walk through that. Cool. Okay, so, yeah, Bernard, I know. Okay, we talked about the scribe a little bit, and now the e prescribe.
+mUsicaPostle: I know I was mentioning billing to you as well as how that works.
+Jack Waugh: So that would actually be also a separate call with our CEO, Nate. So I can also get you guys set up so you can chat a little bit about that, and he can talk to you about how we get people up and running with credentialing and everything else like that. Does that sound good?
+mUsicaPostle: Okay. Was that be available now, or do I have to schedule another time?
+Jack Waugh: I can schedule you now. Let me see what he has available here.
+Lee Harrold: But it was good to meet you. Hey, easy, bro.
+mUsicaPostle: Thank you.
+Jack Waugh: Thanks for taking easy, man. How is actually housed this Friday for you?
+mUsicaPostle: Oh, not good. I I won't be taking any of the appointments till next week.
+Jack Waugh: No problem. He's got Monday or next Wednesday, if that either work.
+mUsicaPostle: Wednesday would be a better day.
+Jack Waugh: Wednesday.
+mUsicaPostle: Cool.
+Jack Waugh: Yeah. 10 a.m. anytime 10 a.m.
+mUsicaPostle: are you Eastern? Yes.
+Jack Waugh: All right, perfect.
+Jack Waugh: So let me go ahead and schedule that. Okay. Oh, that's weird. Give me one second. And any other questions about our EHR here while we're, we're talking today. I know you're still a little ways off from, from using it right now. But does that kind of give you a good starting point there?
+mUsicaPostle: Yeah, it does. I want to know, like, as far as the patient's information, the data, I'm sure you guys are HIPAA compliant. But who, who actually owns the data? So if I were to say, I don't want to use job site anymore, I'm transitioning to ABC EHR. How would I get my patient's records and, and how does that process work and what does it look like?
+Jack Waugh: Yeah. So basically, as far as patient records, like all of the notes, I'll explain to you how our, like, compliance works.
+Jack Waugh: So first of all, we can't see any sort of patient identifiers on our end.
+Jack Waugh: We can't see their names. We can't see any sort of identifying information. So if that gets totally stripped from their account before they're, the note gets processed. We also don't store anything on our end. So, like, once the note is created, it's really just stored locally for you. So that means is you have access to all of these records for as long as you want to keep them, basically. So if you want to leave all of your notes and jot psych and then you had to download them and you wanted to, like, get that record to get off, you always could do that. Or if you were, like, wanting to delete every note as you make it, you could do that, too. But, yeah, it's all stored in there, but it's all locally, so it's not actually, like, hosted on our server or anything like that.
+mUsicaPostle: So what I need to get, like, an external hard drive or something to keep those files in, you wouldn't necessarily have to.
+Jack Waugh: I don't know if the files would be big enough that they'd require an external, but because it's all, you know, mostly text in there.
+mUsicaPostle: Okay. But if I wanted to save it. You know, on my end, because I would not want to save it all on the computer and then the computer crashes, right? I mean, the same thing can happen with an external hard drive, but the chances of that is usually less than a computer.
+Jack Waugh: Right, right. I see what you're saying. Yeah, that's, that's a great question. So are you asking more for, like, like a download all kind of feature?
+Jack Waugh: Are you talking just like if I ever needed? Okay.
+mUsicaPostle: Yeah. Let me check on kind of if I would to leave jot side and go to a different EHR or if I get subpoenaed and somebody wants the records. Yeah, I would need to be able to supply them the records for however many loan. So that's.
+Jack Waugh: Yes. So let me show you this here. So here's all the test notes I've ever created with jot psych. And they're all, as you can see, they're all still in here. Okay.
+Jack Waugh: You know, so you don't lose any of these notes.
+mUsicaPostle: But it still maintains the compliance because we actually can't see this on our end.
+Jack Waugh: Yeah. So you can always get back to these here.
+mUsicaPostle: And I can load anyone at any time.
+Jack Waugh: Yes. You should be able to. Now, I have to check for you about the, if there's, like, a download all of them button, I'm not sure. So I have to get back to you about that, but that's a great question. But what we can do, I know we were talking about next Wednesday so I can find out that information for now and then we're going to do 10 a.m.
+mUsicaPostle: right at 10 a.m. yes.
+Jack Waugh: Okay. Let me go ahead and put you down for that. Okay. One second here.
+mUsicaPostle: Okay.
+Jack Waugh: And 10 a.m. eastern time, correct?
+mUsicaPostle: Yes.
+Jack Waugh: Okay. Awesome. Okay. I just sent that to your email.
+mUsicaPostle: Okay. I'll add it to my calendar.
+Jack Waugh: Perfect.
+mUsicaPostle: Okay, so how does. What's your feeds for the system?
+Jack Waugh: Yeah. So as far as the EHR, all including the telehealth and ePrescribe and the scribe were 299 a month.
+mUsicaPostle: 299 monthly.
+Jack Waugh: Correct.
+mUsicaPostle: Yep. Flat fee. There's no other. Fees incur anything else that can be added on to the system. And so on. But this is the full system EHR.
+mUsicaPostle: AI scribe Labs, all of that telehealth, all of that stuff included. Correct. Correct. What about the billing? Is that included in this or is that separate?
+Jack Waugh: Yeah. So billing and credentialing are separate credentialing or one-time fees. Per provider per insurance, which is like the standard credentialing thing, but they're not on ongoing fees. And then billing cool thing about our billing is we take actually a pretty low cut relative to, like, some of the larger Builders, like Headway and grow do. So we only take. I don't know if you're familiar headway and grow take, like, a 20 to 30 cut. We only take between a four to eight percent cut. And we only get paid for billing once you get paid. So, you know, we're actually, like, perfectly aligned with you. There's no other fees other than the percentage once you get paid.
+mUsicaPostle: Four to eight percent. What makes the difference there?
+Jack Waugh: As far as our billing process or just the payment itself?
+mUsicaPostle: Yeah. Why is it the four between four and eight percent? Like, what's the difference there?
+Jack Waugh: Oh, like what the different tiers? Yes. Yeah. Let me, let me show you that real quick. Give me one second to open that up.
+mUsicaPostle: No problem. So.
+Jack Waugh: As far as the different tiers of our billing go, let me just pull this up here. Okay, so we have three different tiers of billing. So basically what most people go with is the complete one here, which is the six percent. So that.
+mUsicaPostle: Yeah, yeah, sure.
+Jack Waugh: Please do. But the nice thing about the complete is in addition to all the things I mentioned before, like the pair aware documentation and us actually checking the note to tell you what needs to change in the language to it's like a very accurate note.
+Jack Waugh: We add things like era analytics, payment posting and updates, like automatic updates as payer rules change. So this is the one most people end up going with. For that reason, because that way you're not having to stay on top of things we handle that for you when pairs update their roles in their system.
+mUsicaPostle: Okay. And what's the difference is in the six and the eight percent.
+Jack Waugh: Okay. And then eight percent. Is everything that you got before, except we also do an automated underpayment detection. And we also do patient collections and we'll also act as like a dedicated billing manager. So giving you like a very full like financial health overview too.
+Jack Waugh: That's a really great feature for that reason. You know, it's like giving you a bird's eye view all in the same platform that you're doing everything in. So, you know, it's all that data is actually right there. So it's very easy for us to like give you that kind of comprehensive report.
+mUsicaPostle: And that's a percentage of everything I collect.
+Jack Waugh: Yep. It's only a percentage of what you collect once you get paid.
+mUsicaPostle: So. That's pretty straightforward as well. And at 8% pretty much I don't have to do anything. You guys will let me know that, hey, we need you to add this code or remove this language or put this language in whatever with your notes. That's included from the 6% Up. Correct. And the 8% just kind of gives me more of a dedication personalized management. Of that.
+Jack Waugh: Exactly.
+mUsicaPostle: That's right. And the auto detection of the lesser pay pretty much, let me switch gears here to the. You said you added the telehealth side to this as well. Correct.
+Jack Waugh: Yes, we did. That's, that's in, it's technically in beta, but it's like fully up and running. So if you want, you know, we'll, we'll get you added to that too.
+mUsicaPostle: Oh, no, I would need that as well because I'm starting the practice as telehealth only.
+Jack Waugh: Makes sense.
+mUsicaPostle: And you said that's all included, right?
+Jack Waugh: That's not correct. Yeah. So that's no extra. That's all in that 299 a month fee.
+mUsicaPostle: Okay.
+Jack Waugh: So the only extra separate thing is the billing and credentialing.
+mUsicaPostle: But. The patient portal. That's there as well. I can communicate to the patients through that. They can communicate to me scheduling and all of that stuff will be done through that. Do you guys have a scheduling department or is that scheduling up based on only. My responsibility and the client?
+Jack Waugh: Yeah, so the scheduling is on your end, but we do integrate with like Google Calendar and stuff like that. So it's pretty straightforward to use.
+mUsicaPostle: Okay. And then you mentioned credentialing. I don't think we really ever got a chance to talk about that.
+mUsicaPostle: How does that process look?
+Jack Waugh: Yeah. So and that also might be a good time to touch base about that when we talk Wednesday. But I just to give you like the quick overview. A couple things with credentialing. I know we mentioned we kind of like do the whole process of it. So we do the document collections, CAQ age profiles. And kind of do any follow up calls needed too. So we kind of have that combination of AI and people calling for you too. So the process is much smoother. Okay. And then just for a little more information on that.
+mUsicaPostle: Give me one second here.
+Jack Waugh: The other cool thing is we can do any like. We can actually simplify the credentialing process by, you know, giving you more visibility into the pair application status. And hold data from any sort of documents you have.
+Jack Waugh: So it's a bit more comprehensive and a bit easier than like the typical process where you're sending in form after form after form, if that makes sense.
+mUsicaPostle: Okay.
+Jack Waugh: And you guys will handle all of that.
+mUsicaPostle: Just once I give you whatever.
+Jack Waugh: You. Can definitely chat about that on Wednesday and kind of go into details. And I can also send you an email. So we could move forward with that, like with what information we'd need from you. And then we can talk about that on, on Wednesday and go from there.
+mUsicaPostle: Okay. Yes, that sounds good.
+Jack Waugh: Cool. Awesome Bernard. Well, any other questions today? I know we covered a lot of ground.
+mUsicaPostle: I don't have any other questions at the moment. I think good wait for Wednesday and we'll talk then about the credentialing and the building. Awesome.
+Jack Waugh: We are looking forward to it. And yeah, when we speak then, I'll also send you an email before. So that way if there's any other stuff we need to touch base on and any info we need from you to get started with that, we can talk about it.
+mUsicaPostle: So all right, sounds good.
+Jack Waugh: Okay, Bernard, well, I'll talk to you Wednesday at 10 a.m. eastern time.
+mUsicaPostle: Yes, thank you very much. You have a blessed day.
+Jack Waugh: You too.
+mUsicaPostle: Thanks.
+Jack Waugh: Bye.

@@ -1,0 +1,239 @@
+Bill Eberhart: We don't have to do a video. Keep going.
+Nathan Peereboom: Oh, no, that's great. Why not? Is Brittany planning to join today?
+Bill Eberhart: She is. She's wrapping up an important call with one of our tms and Meta management and Spravato customers.
+Nathan Peereboom: Awesome. Okay, great.
+Bill Eberhart: They go by Elevium.
+Bill Eberhart: That's the name of them. And they're in the process of changing EHRs because they're currently in a crummy EHR.
+Nathan Peereboom: Hey, the best of us. It happens to the best of us. Meeting the wrong ehr.
+Bill Eberhart: Yeah.
+Nathan Peereboom: All right, great. Sorry, I'm just sitting at my audio here.
+Bill Eberhart: Audio test. One, two, test, toast.
+Nathan Peereboom: Okay. There we go.
+Bill Eberhart: I don't know.
+Nathan Peereboom: I have, like, on my phone, I have this configuration that allows me to get ambient sound so I'm not screaming in the office, which sometimes happens when you have, like, noise canceling earphones and then you're like, on a meeting.
+Bill Eberhart: Oh, yeah.
+Nathan Peereboom: So that is. That is all I'm paying attention to. Okay.
+Bill Eberhart: So did Brittany. Did I sign the right agreement? I mean, it was. I signed it as. Yeah, we're. We're. We're good. But it was my name and. But I signed. I think I signed it as Brittany maybe.
+Nathan Peereboom: No, I think you signed it as you. But let me. Let me check on the agreement because I know that that's kind of still out in the wild right now. Let's see. Okay. Lisa Harris.
+Bill Eberhart: But if it's not a big deal, then. No big deal. I mean, I just wanted to make sure that everything was, you know.
+Nathan Peereboom: Yeah, I. All right, let me just find it in my. My files. Okay, so Brittany still has to sign it.
+Nathan Peereboom: Yes, she has to sign it.
+Bill Eberhart: Okay, so I. Let me. I'll. I can do that for her. Let me do that right now while we're waiting for.
+Nathan Peereboom: I don't. Oh, okay. Or as long as I don't know what you're doing for her. If you.
+Bill Eberhart: Oh, that's right. Yeah. You don't know. Okay. So she. She said, bill, you need to sign it. I can, I can. It's not me signing as her. It is her. She gave me permission to do that. And if that's. But my question is, may I. We get so many emails. May I ask you to help me remind or refresh? Give. Give me a fresh copy so that I can.
+Nathan Peereboom: Yeah, it should be. Okay, so you first signed under bill@tidemarkva.com if you go to your admin, tidemarkva.com that I can resend.
+Nathan Peereboom: Okay, so it just came back to you. So if you go to admin@tidemarkva.com you should be good.
+Bill Eberhart: Absolutely.
+Nathan Peereboom: See if there's anything else that we need signed here.
+Bill Eberhart: Good question.
+Nathan Peereboom: Yeah. Do you want to sign this baa from Chris as well?
+Bill Eberhart: Absolutely. Review document.
+Nathan Peereboom: You know how people did business without DocuSign before?
+Bill Eberhart: Yeah. For real?
+Nathan Peereboom: Yeah. Hey, Brittany, how are you?
+Brittainy Wagner (Tidemarkva Admin): Good. How are you?
+Nathan Peereboom: Good, good, good, good. We're just wrapping up this IOI document. Were you able to review it?
+Brittainy Wagner (Tidemarkva Admin): No, sorry. I has been back to back meetings all week.
+Nathan Peereboom: That's totally fine. I just.
+Bill Eberhart: I'm going to. Brittany, I can put it in the chat.
+Brittainy Wagner (Tidemarkva Admin): Thank you.
+Nathan Peereboom: Awesome.
+Bill Eberhart: But I already found.
+Nathan Peereboom: Okay, so.
+Nathan Peereboom: Well, this is an exciting moment, guys. It seems like we are under ioi, which is great. Brittany, feel free to like, glance through what Bill sends you and then, you know, just like give the thumbs up to me. So I know that you've. You've kind of gotten that.
+Brittainy Wagner (Tidemarkva Admin): Okay.
+Nathan Peereboom: So today I wanted to do three things. So one, I want to walk you through how we talk to our customers about jot psych and jot, like the way we do billing. The second thing is I think we should talk about and like, as part of that, we'll gather some feedback from you. I think we should talk about some customer pilot logistics. I know that you guys have started talking with folks about jot psych. I want to like, just give you all the tools you need to just like set them up on our calendars. And as part of that, we should. We should wire you the first part of this pilot payment and then we should just talk about next steps because I think we want to move as fast as possible here. Does that sound good? Anything else on your agenda that we need to go over?
+Bill Eberhart: No, I wanted to go over conflict of interest with other vendor agreements that we currently have or that you guys may currently have that might. That might be enter that are bad or whatever. We don't currently have any vendor connections at all with anyone who does any audio, like recording or like scribing of note taking in any way, just, you know, directly, but like indirectly. We've been asking our people and just relationships on. For example, we have a really good billing team that is just three or four guys that are outsourced and they are able to help us do billing on some of our other more complex accounts that we don't want to deal with. And they are able to get. Get a lot of the work done and they have vendor agreements with their. Different people and they use different software tools and things. And I just wanted to make sure that we're not. If you know of anyone that we. We should not be talking to or we should not be associating with or communicating with at all because we
+Brittainy Wagner (Tidemarkva Admin): don't like any of your competitors.
+Nathan Peereboom: Yeah. Do you guys have. I guess. Yeah. Of the 76 customers you have, what percentage of them in your estimate are using AI scribes right now?
+Brittainy Wagner (Tidemarkva Admin): Estimated 10%.
+Nathan Peereboom: Okay, okay, that's fine. What about on a seat basis? Is it 10 of seats as well as accounts?
+Brittainy Wagner (Tidemarkva Admin): No, that would be like 10% of the accounts. I mean like I know that like the room for change clinic that's in. Down in Dallas, they've got 38 providers and they pay for 17 seats for twofold. And the only reason why they haven't done it for their other providers is because they're part time or haven't met like their metrics for their volume. To explain the cost associated for twofold for the scene,
+Bill Eberhart: I would estimate the volume of clinicians that actually are using scribing technology in our entire customer base. Number of providers would be closer to 25% of them.
+Brittainy Wagner (Tidemarkva Admin): Yeah, like in. That would be.
+Brittainy Wagner (Tidemarkva Admin): We're probably talking about Maybe there's about 250 providers or so. Yeah, we're talking about roughly like about 95 providers that are using AI scribing.
+Bill Eberhart: Oh, wow.
+Brittainy Wagner (Tidemarkva Admin): Yeah, because if you count Molly, because she has that all in her clinic.
+Bill Eberhart: Oh, that's right. Yeah, I forgot about her.
+Nathan Peereboom: She's one of them. Okay.
+Nathan Peereboom: Yeah, well that's. That's fine. We can get to this a little bit later. We're doing kind of a customer by customer look.
+Brittainy Wagner (Tidemarkva Admin): Yeah. And I'll tell you just for clarity, Nate, the reason why a lot of people haven't adopted it is because they're scared of the cyber security stuff.
+Nathan Peereboom: Yeah. Yeah. Interesting. Well that makes sense. Yeah, we get that. And then Bill, did you say that there are 250 seats in those 76 accounts? For some reason? I had the number 100 written down here.
+Bill Eberhart: So you like number of providers?
+Nathan Peereboom: Yeah.
+Brittainy Wagner (Tidemarkva Admin): Oh, and the two. You mean the clinic that we reach out to, the two that we talk to, like the room for change in State Street?
+Bill Eberhart: Well, hold on, let's. We got. Now we have to all back up here a second. So Brittany, are you including in. Mhm. Customer, also a Tidemark VA Customer? Currently, yes. Okay. So yeah, that would make the numbers much bigger.
+Brittainy Wagner (Tidemarkva Admin): Yeah.
+Bill Eberhart: Because now you're. Now you're adding an extra like 50 or 60 people because of.
+Brittainy Wagner (Tidemarkva Admin): Yeah.
+Bill Eberhart: Yeah.
+Nathan Peereboom: Okay.
+Bill Eberhart: Well, well, well.
+Brittainy Wagner (Tidemarkva Admin): Yeah. So basically, one of our mental health manage customers, they're gonna transition to us for full billing probably in the next week. So. Yeah.
+Nathan Peereboom: Gotcha.
+Brittainy Wagner (Tidemarkva Admin): Okay. And she does 320k a month.
+Nathan Peereboom: Oh, wow, that's a large one.
+Brittainy Wagner (Tidemarkva Admin): Okay.
+Nathan Peereboom: Yeah, that's super helpful. Okay, I understand the change. Okay, awesome. Well, let's. Yeah, let's start out. I want to show you guys how we present shots, like, to folks from a brand new perspective, because I know, Brittany, that was important to you.
+Brittainy Wagner (Tidemarkva Admin): Yes.
+Nathan Peereboom: So I'm gonna go. All right. Let me know if you guys can see this.
+Bill Eberhart: I can. Yes.
+Nathan Peereboom: All right. So when we present job bill to folks, we say, hey, we are a hybrid AI and human billing engine. So our AI system, you know, figures out eligibility, writes the perfect note pre audits it, free audits the claim, sends that claim to the clearinghouse, and then we have an automated system that will basically appeal denials and iterate with the insurance company in order for them to get paid as fast as possible. Now, as you guys know, we also have a human team. So this is an AI system that is backed by a human team that validates edge cases and shepherds the process. We always like to point out that we've scribed for over 2.1 million behavioral health encounters. So that's really important. From a clinician's perspective, what is the process? One, they see eligibility at the front, so they can decide whether or not to serve the patient. Based on that, we then write what's called a pair aware note. So the notes are written in coherence with what their unique pair contracts are requiring of them. They simply sign the note, and we take over the entire rest of the process. And we'll kick back a note if it doesn't have certain things that we know the note needs. And we'll iterate directly with clinicians on that. But from a clinician's perspective, they just get to practice healthcare. They don't have to deal with the billing. Every month, we meet with our customers to show them where their money's going. And we also, you know, are able to essentially, like, give them a real time dashboard. That explains the math. So in terms of what makes us different, at every single layer of the process, we have AI injected to make it really, really high quality. So at eligibility checks, you know, we're not just pulling from an API, we're also doing calls. We're also using AI tools to, like, look at documents for the, you know, documentation itself. We've pulled in all these rules from ama, cms, apa, Aetna, Optum, Signal, other big payers, and we write the note incoherence with those rules as well as the rule from the clinic, and we update those regularly so that clinics don't have to worry about all the updates that come through. Obviously, we submit a clean claim, and we have a special system that scrubs that claim to make sure things like ICD10 codes are nested correctly. When it comes to actually looking at what happens after the claim is submitted, we have underpayment detection. So we'll look at what is in the ERA versus what's in the contract, make sure those two things are equal. We'll then look at what's in the ERA and what's in the bank account, make sure those two things are equal, because you want to have the era, the contract, and what actually has the bank account being all together. And then we have a system that auto appeals any denial. And the way it does that is it reads through all the medical documentation and shots like it looks the old claim, it looks the denial language, and then it simply spits out exactly what needs to happen. And then of course, we do patient billing and collecting. So we price between 4 and 8%. We just go right down the fairway. There's nothing special here. And then the way we get started is we typically like to start with like an analysis project where we look at, you know, what's going on right now and we want to take in all of the documents and basically say, hey, are there little things that we could be doing to improve that picture? And then we do eligibility checks and then we go live. So, so that's the, a general, general approach now for y'. All. We probably wouldn't pitch the analysis project that, that would be like, that seems redundant with what you've already done. And we can get that from you.
+Brittainy Wagner (Tidemarkva Admin): Clarifying question with the job bill, with the automated calling for the eligibility, are you checking in that automation, does it check for if a prior authorization is needed or not?
+Nathan Peereboom: Yes. So let me see. I think I have it in here. Yeah. Okay, so the things that we look at in our eligibility checks are threefold. So we look at does the patient have active coverage? That's binary. Two, will the plan cover the particular CPT code? I intend to bill and by how much? And then three, what's the fine print? Like, do I need prior off? Do I need to have, you know, is there a carve out? Do I need to have a coordinating primary care physician, etc.
+Brittainy Wagner (Tidemarkva Admin): What about in network status with the tax ID?
+Nathan Peereboom: Oh yeah, we do that too. I should probably add that here. So, yeah, that's the, that's the basic approach. What are your thoughts? I guess like seeing this, like, we'd love to hear your reactions. I know a lot of this is basically like what you all already do. The promise here is just that it's, you know, it's got by uniting documentation and billing, we're able to reduce audit risk and we're able to, like, do special things like, again, that auto appealing like, really high frequency, really high reaction time. So, yeah. Brittany, Bill would love to hear your just, like, honest reactions to this.
+Brittainy Wagner (Tidemarkva Admin): Mean. I think it's a good offering and it's what we want. As a billing company, because we want to make our lives easier. I think my clarifying question would be, would we, like, you know, in a new potential partnering or acquiring us or whatever happens with that, would we serve as a white label or, like, how would that work?
+Nathan Peereboom: Nope. The way that it would work is we would basically go to your customers and say, like, you know, hey, we have, you know, we're partnering with Tidemark. The way that Tidemark is moving forward is that they're using job psych as a way to really improve all the things that we discussed, like the quality of your notes, the likely or, you know, the risk of audit, the speed at which claims are submitted. And in order to participate in that, you know, you got to use John six software. And we can give it to you like, super cheap. Like, we can give it to you, like, really, really cheaply because we're making money on the billing. But the whole theory of victory here is that people are on job site and that the benefit of that accrues to the revenue. And because you're paid on revenue, it accrues to the business.
+Bill Eberhart: My reaction is that I love it. Like, the. Your whole.
+Bill Eberhart: The whole angle, the perspective of doing business and who it will benefit and how it will benefit them is just perfect. Exactly in line with what we're trying to do. But you guys are doing it way better. So. Yeah, maybe.
+Nathan Peereboom: I mean, you guys are the Daryl problem. I mean, you guys are extremely good at what you do. We. We are. You know, at least the customers that we're getting started with this are, like, really excited about it and seem to be, you know, benefiting and leading indicators. But. But yeah, I mean, our belief is that this is going to change the world and it's going to be something that really makes everyone's, you know, in particular clinicians lives better. So I think, though, that when we, if we were to go to clinics and, you know, pitch, the way that we would do it is we would basically show them John, and we'd say, hey, look, you can, you know, upload rules. You guys have already seen this, right?
+Brittainy Wagner (Tidemarkva Admin): Yes.
+Nathan Peereboom: So, you know, we'd probably walk them through JOT audit and be like, hey, this is the key way that we're going to improve your billing for you. In order to do this, you got to use our scribe. But the benefits of all these other features, really complex. There's all this downstream benefit. And by the way, your clinicians are going to love having an AI scribe. So that's the whole message to clinicians or, sorry, to clinic owners. It's your clinicians are going to be happier and you're going to make more money.
+Brittainy Wagner (Tidemarkva Admin): Can I ask a clarifying question from a technology standpoint, in order to submit claims, we have to do ERA enrollments and things like that through a clearinghouse.
+Nathan Peereboom: Yep.
+Brittainy Wagner (Tidemarkva Admin): How does the data for what you're doing with the billing get back to you guys for the, for the billing portion of it? Because, like, you need, like, claim submission enrollments, like, Like you have to function out of their ehr.
+Nathan Peereboom: Yeah. So we can go. That's interesting. So we can go manually and take ERA from their ehr. Like we would, you know, just pull that like on a weekly basis. We also can support an ER reception in JOT Psych because you don't have to receive your ERA in your ehr. So our preference would be that you use JOT psych as your ERA and you get all of your.
+Brittainy Wagner (Tidemarkva Admin): Well, here's. I have a clarifying question around that. Medicare, Medicaid, Tricare and some Blue Cross plans require you to do a claim submission enrollment. And you can't submit the claims. You can only have. You can only have one connection in one place. So if we're submitting the claims, would we be submitting the claims through your tool? Basically?
+Nathan Peereboom: Yep, that's exactly right. Okay, so you sign the note in the tool, you submit the claim. We submit the claim through the tool and you receive all of your era, your analytics, all of that.
+Brittainy Wagner (Tidemarkva Admin): All in job Psych. Yeah. The issue with that, that you're going to have with conversions is people want where they're scheduling. How are you doing patient collections?
+Nathan Peereboom: Patient collections already happen in John Psych. So if you go to John Psych. Let me show you this. Yeah. So if you're in John Psych and you go to now patients and clicking on your patient, you know, you can already request payment here. You can also do it on every note. So, you know, if you go to a note, you click in, you can also submit a request for payment on that income.
+Bill Eberhart: Brittany, it looks like they don't have to use an EHR now. Like they could.
+Brittainy Wagner (Tidemarkva Admin): Well, how are you doing? Do you have scheduling too?
+Bill Eberhart: Yeah, there's a scheduling button.
+Nathan Peereboom: Yeah, we have scheduling, we have E prescription, we have lab orders.
+Brittainy Wagner (Tidemarkva Admin): So you're a fully functioning ehr.
+Nathan Peereboom: Yeah. That's accurate.
+Bill Eberhart: Yeah. Yeah.
+Brittainy Wagner (Tidemarkva Admin): Interesting. I didn't. When you came to pitch to me, I did not know that this was your angle like, that you had a fully functioning ehr.
+Bill Eberhart: Yeah, yeah.
+Nathan Peereboom: I mean, it's sort of recent. I mean, we've been shipping just a ton of, you know, new things, but yeah, you can.
+Nathan Peereboom: What does your scheduler look like? It's just. It's a pretty normal schedule.
+Brittainy Wagner (Tidemarkva Admin): Yeah. And it thinks with people's calendars and availability. How do you. And you can configure availability in this for your providers?
+Nathan Peereboom: That is a good question. I don't think we have availability config yet. I think that that is still manually done.
+Brittainy Wagner (Tidemarkva Admin): Okay. Because Here. Here's what I see with this. They have a lot of clinics, especially the larger ones. They have a front desk receptionist. The front desk recept receptionist is going to want to see access to everybody's availability.
+Nathan Peereboom: Oh, yeah, yeah. Admins do have that.
+Nathan Peereboom: Admins can see everyone's availability.
+Brittainy Wagner (Tidemarkva Admin): Okay. And the. Where's your consent paperwork for your patients to sign?
+Nathan Peereboom: That's all in forms. So, you know, you have to. You can go to a forms library, build a form, and then you can require, like a signature on it. So you can just drag and drop, build from scratch. You can put your consent form in here. And then when you're scheduling an intake, what you can do is you can require the form to be part of that. I don't have any forms in my library, but you can request a form then every time you do an intake.
+Brittainy Wagner (Tidemarkva Admin): Do you have that? Okay. Do you have phq9s, like in gads and depression inventories as well?
+Nathan Peereboom: Yeah. So here, I'll just show you kind of our library. So if I want to send a form, I can go like this.
+Nathan Peereboom: And we've got all sorts of screens. There's the Gad 7 you asked about. There's the Phq 9.
+Brittainy Wagner (Tidemarkva Admin): Does it auto score?
+Nathan Peereboom: Yep, it does.
+Brittainy Wagner (Tidemarkva Admin): Okay. And can you make your own custom, like, if it doesn't exist? Like, let's say you don't have a HAMD in your forms and they want to specifically use a HAMD or a Matters. Can you make your own custom one?
+Nathan Peereboom: Yep. So that's the build form feature. So you can build any form here and then that falls into the screen. So these are like the things we preload in. But any form you want to create, you can go through and create here. And on top of that, you can even create, like, arbitrary documentation. So let's say that, like, I want a, like, therapy animal compensation letter written works. So what it'll do is it'll look at the whole medical record and then write a custom letter for a therapy animal that is completely, like, tied to the actual, like, data around this patient. You can save that as a template, you can share it, anything like that. So it's like super, super flexible. It does everything.
+Brittainy Wagner (Tidemarkva Admin): Does it when you win, it does it track the scorings for, like, each time? Because you have to send out, like, one of the things that we have to do with tricare now specifically in my clinic, is we have to auto send out, like, every. They requiring every six weeks that we send them phq9s and gads and stuff.
+Nathan Peereboom: Yep. So anything that you decide to put in here and you can configure this. Any scoring system gets tracked like this. So if you wanted to do like a Ph.D. 9, for example, you could be like, all right, they got like, you know, a 15 today, but like, you know, back in January, they were at like a 20 so you can see, like, the decline, you know, over time.
+Nathan Peereboom: So it all gets tracked and shown in the patient profile.
+Bill Eberhart: Okay, how far back does. Do you do the history? Is it just, like, the last three ones, or is it a period of time? Or is it all.
+Nathan Peereboom: No, you can. You can go back to 1995. I mean, you can go back as far as you can.
+Bill Eberhart: Oh, wow.
+Brittainy Wagner (Tidemarkva Admin): Okay. And does it auto will it. Can I configure the PHQ9s and the gads to go out every six months or something like that to.
+Nathan Peereboom: That's probably a service we have to. For you.
+Brittainy Wagner (Tidemarkva Admin): You. You would need to do that because with TMS and Spravado, which is the majority of what our clinics are, we have to be able to send the. When we're doing the prior authorizations for the. The extended extensions for the treat to show like scores each time that we do that and they have to have those tests sent like on a regular interval.
+Nathan Peereboom: Yeah, that makes sense. Okay, cool. Yeah, totally. That's super, super easy for us to export. We all have all that data in a database.
+Brittainy Wagner (Tidemarkva Admin): Yeah. And then the other question that I have as far as the scheduler goes, can do you have like a. Not only provider availability but room availability?
+Nathan Peereboom: No, we don't do room availability right now.
+Brittainy Wagner (Tidemarkva Admin): What's that going to take to get that added? Because with the Spravato clinics and the TMS clinics, we have to schedule like specific times in the chairs.
+Bill Eberhart: Well, Brittany, that, that you and I'm not.
+Brittainy Wagner (Tidemarkva Admin): And I'm not saying that. I'm just saying if we're going to convert them, these are going to be the questions that they're going to be asking.
+Nathan Peereboom: Yeah, no, no, it's a great question.
+Bill Eberhart: It's kind of one of those fringe cases. But like all of our TMS and all of our spur bottle.
+Brittainy Wagner (Tidemarkva Admin): It's not a fringe case, Bill, because even when you have large clinics, like room for change, we. They have. They want to utilize their rooms efficiently.
+Bill Eberhart: Right.
+Brittainy Wagner (Tidemarkva Admin): So if they've got part time providers, five part time providers, they want to try to house those part time providers in one room.
+Nathan Peereboom: Right, I understand. Yeah. That's something where if it was like critical for one of your customers, we would probably just staff an engineer on it. And I mean it sounds like it'd be necessary.
+Brittainy Wagner (Tidemarkva Admin): It's critical. Yeah, I'm telling you, it's definitely critical.
+Nathan Peereboom: Okay, that's super helpful. I mean I can check in with the engineers on time timeline there. But we know that, you know, there's going to be as we walk along there's going to be a bunch of like little features like this that we have to continue to feather in.
+Brittainy Wagner (Tidemarkva Admin): Yeah. Well, the good news is that I've been in like 23 different EHRs and I always know what people ask and I always know what people, pardon my French, bitch at, you know, about what they dislike
+Bill Eberhart: and we know what issues are we having with billing after they finally sign their notes? That was one of the biggest thing about doing the billing is like, how come you haven't submitted all my claims?
+Bill Eberhart: You haven't signed them?
+Brittainy Wagner (Tidemarkva Admin): Yeah. The other question that I have with this, Nate, is as far as charging the patient collections, is there. What's your reports look like in this from a billing perspective? Because, like, we need a way to, like, I mean, can we batch collect client payments, for example?
+Nathan Peereboom: That's all bespoke. So anytime we need a report, I basically, like, we'll go right? Python and then spit out the report, you know, bespoke.
+Brittainy Wagner (Tidemarkva Admin): Okay. Yeah. Because billers operate off reports, you know, and I know that a lot of it's automated, but we're in a weird area right now where, you know, people aren't going to necessarily trust a software product. They're going to want it to be a certain way. Providers have to do payroll reports and they have to know like, what's coming in for like their costs. And we wouldn't. If there's not a way to do a payroll report, you're. You're going to have a problem with converting people.
+Nathan Peereboom: Okay, gotcha. That is super helpful. I'm just like jotting down this note.
+Bill Eberhart: Yeah, so, so the, the two big future project components, if they're not already high on your, your priority list would be in like a next release or rollout. You can advertise the heck out of it. You get a lot of, a lot of buzz about it and you're gonna.
+Brittainy Wagner (Tidemarkva Admin): Every, every person complains about reporting functionality in EHRs and so where you're going to have a huge upsells reports. Because not only do we need that data to know what's going well and what's not, but we also need it to track projections, cancellations, no shows and to. Because we, you know, if people have three, you know, late cancels, we kick them off schedules type of thing.
+Nathan Peereboom: Yeah, yeah, totally. Totally. Yeah. I mean, and again, that's, that's something that we do bespoke right now, but it's probably something that after doing like 20 of the bespoke ones, we probably just want to productize.
+Brittainy Wagner (Tidemarkva Admin): You're going to, you're going to be doing 20, like just with like, I can tell you that probably room for change. Won't convert unless you have reports.
+Nathan Peereboom: Yeah, Understood. Okay, cool.
+Bill Eberhart: All right. Yeah.
+Nathan Peereboom: Well, why don't we do this right now? The only thing that we need to actually build for someone is for them to use our AI scribe like everything else. Like they can stay on everything else. Like they could keep their original EHR for, for, for all else. But we do need people to be excited about the inter. What we found is that as long as you're using the AI scribe, like we can figure out a way to serve you as an ehr, but that's like the biggest thing. So you know, if we were going to show this to people, probably like what we would do is we would probably like try and talk to them about a pilot program for just the scribe just as like a way to start and of course, the benefit of the scribe is that it turns encounters revenue.
+Brittainy Wagner (Tidemarkva Admin): I agree with that. Yeah.
+Nathan Peereboom: But I think we start just with the AI scribe, because you still get all the benefits of all the document creation, all the auditing and all that.
+Brittainy Wagner (Tidemarkva Admin): What everybody's excited about is the jaw audit tool. Like, and that's what, that's what they like about it, because where people get gummed up administratively is. Everybody's trying to cut costs, right? And clinical directors cost a lot of money. And if they can reduce the time that they're having to pay for those people to perform a job, that's what they get excited about. And so if we don't have that built into this, like into your thing, like here's how much money you can save on a clinical director with us. We need to add a slide for that.
+Nathan Peereboom: Okay, great. Yeah, I can absolutely add that to my. To dos.
+Brittainy Wagner (Tidemarkva Admin): Yeah.
+Nathan Peereboom: Okay, great. So I mean, let me, let me ask this. So obviously the next step here is customer introductions, if I understand right.
+Nathan Peereboom: Yes, I think that we do want to probably the pitch right now is actually just jot psych for AI scribing and jot psych for auditing. So jot audit and John Psych, I guess. Is it something where you guys would like me to like kind of put together like maybe a presentation? It's just those two things that you guys could send to.
+Brittainy Wagner (Tidemarkva Admin): They're gonna want to see it. I mean it would help. But they're not gonna the seeing the slides. It's not gonna help with the adoption. So I wouldn't waste your time. If you've got to do work with it.
+Nathan Peereboom: Great, well then why don't we just move to start setting up these 20 meetings. So again that's just 2030 to 60 minute meetings with 20 different customers. And I can give you a calendly invite. I think I already sent you the calendar.
+Brittainy Wagner (Tidemarkva Admin): Yeah, I saw that.
+Nathan Peereboom: So I think that that's probably the next step. The question I have for you is what do you need from me? Like what makes this easy? Price point?
+Brittainy Wagner (Tidemarkva Admin): I need to know like you, you asked about, you know, you said you could do it at a reduced rate and what's really going to get people. That's the number one question that they're coming back to me for the people that I've already talked to about this. Well, what's it going to cost? I'm like, well it's not the usual amount, you know, like yeah, yeah, yeah.
+Nathan Peereboom: So we can do probably for the first year something like 49 a seat for that.
+Bill Eberhart: Like wait, would that be our cost?
+Nathan Peereboom: No.
+Brittainy Wagner (Tidemarkva Admin): Would it make sense for us to like.
+Bill Eberhart: Let me ask you a question.
+Brittainy Wagner (Tidemarkva Admin): Would it make sense for us to buy the seats from you and would that, do you think that that would help with adoption and we just sell the seats to them? Like, you know, we pass on the cost through our billing when we do our invoicing?
+Nathan Peereboom: That is a question that's kind of for y'. All. I mean, I think. I think that the. How do I say this? Yeah. The question of how you want to do the accounting on it is sort of. I don't really have a strong opinion, to be honest. I don't know how you guys.
+Brittainy Wagner (Tidemarkva Admin): Let me back this up and explain how I'm going to do myself, how I've done. Done my sales pitches already for the people that I've done and how we make this work and where I think the conversions will go is you. You don't want. You're scared of insurance audits. Right. And you know, of course everybody says yes and you go, okay, well, you know, as a billing company, what we really hate and is a huge time suck is we can't audit your clinical notes. And I bet you you're not auditing them either. Right. And you know, and they say that and we go, well, we've got a solution for you because not only does it save staffing power for. For us, but it helps you make sure that your staff are compliant. And that's one less administrative headache that you have as a clinic owner.
+Nathan Peereboom: Yeah, yeah. I mean, that totally makes sense. The typical pricing that we do is $150 for the scribe and then $69 for jot audit. So the typical pricing is over 200. So we would have to. I think that the special pricing like the 49 is like something that we just have to be a little careful about as like an initial offer. Because if there's a, you know, if there's a. If we don't, if we convert to, you know, be the billing company, then it all makes sense. But if not, and we're like underwater, given the resources that could we
+Brittainy Wagner (Tidemarkva Admin): have a, could we have a separate pricing tier just for the jaw audit and the. The scribing? And then as we're ready to do the full like, eh. EHR stack. That's a different pricing.
+Nathan Peereboom: Totally. So we can do. Because the full EHR stack is going to be more expensive.
+Brittainy Wagner (Tidemarkva Admin): Oh yeah.
+Nathan Peereboom: So if we're just doing the scribe, it's 99 and then 69 for John audit.
+Brittainy Wagner (Tidemarkva Admin): Okay. I think that that's probably so one of the questions that I'm going to get from my customer base is what if our staff are part time? We don't want to be paying a full cost C seat for somebody who only works five or ten hours a week.
+Nathan Peereboom: Yeah, yeah. So we could do.
+Nathan Peereboom: We can probably do like a $50 seat for those folks.
+Bill Eberhart: And then. And then like you limit per month the amount of time that.
+Bill Eberhart: And then you're like, yeah, you cap it. Yeah.
+Brittainy Wagner (Tidemarkva Admin): That way you don't. With the jaw audit. Just for clarity on my end, the. The additional cost for that is.
+Nathan Peereboom: Is that per seat.
+Brittainy Wagner (Tidemarkva Admin): And so technically only speaking one, they might only have to do admittance seat like, you know what I'm saying?
+Nathan Peereboom: Like if it was a clinic donor. No because it's because the audit happens on a per clinician basis. So it's $69 for each clinician that's on the site.
+Brittainy Wagner (Tidemarkva Admin): Yeah, I think that's going to be. I don't think we'll be able to convert any therapists with that. Like, with that.
+Bill Eberhart: But what we might be able to do, Brittany, is to say, I'll pay for. We tell jot side. We say jot side. I'm going to pay for those. Those licenses. And then when we talk to the providers, we say, look, hey, guess what's included in our billing services? Would that be appropriate, Nate?
+Nathan Peereboom: It's however you guys want to do it.
+Nathan Peereboom: Yeah, I mean, I think in our view, there's like, again, there's like, two kind of separate relationships. Like, if we're the billing company, like, if I were in your seats, the way I would look at it, this is, oh, like $69. I get that back almost immediately if I just, like, avoid one claim, you know, like, it's so, so easy to get an ROI on shot on it. And same thing with the AI scribe. So if I were the billing company, I probably would just absorb the cost, which is why in our model, we don't, you know, we don't pretend that if we were the billing company, we would charge that much for the software. But in this intermediate period, we actually do just want, like, a revealed preference one way or the other. So whether you guys are paying for it and you're saying, hey, this is worth it to us, that's fine. Or your customers are saying, hey, even though there's, like, this cost, it's so transparently valuable that we're willing to pay it because we know we're going to get that money back. Either one of those is kind of fine. But if no one's willing to purchase it, then it probably means that it's not the right fit for us.
+Bill Eberhart: It also means that they're too small, Their margins are too small. Then they're already.
+Brittainy Wagner (Tidemarkva Admin): I. I know that it's going to be cost prohibitive for the therapist when they're having to do that. Like, they're not gonna. They're not gonna get their money back on it. Like, the what. What we're facing with. It's a crapshoot. Yes. Like, so basically, they're hedging their bets going, I'm probably not big enough for the insurance companies to audit us. And. And so. And then. Then their operating procedures tend to, like, break down. And so they're not really auditing their notes, but it doesn't matter because they're not at a high risk of an audit.
+Brittainy Wagner (Tidemarkva Admin): You know what I'm saying?
+Nathan Peereboom: Yeah. If they're not at a high risk of an audit, then they shouldn't probably use job. It might just be the AI scribe. So that would be my advice.
+Nathan Peereboom: My advice would be, oh, don't pitch job. Then, you know, if it's not valuable to them, then, you know, let us bake that into our model. That, like, okay, this isn't going to be adopted by certain people.
+Nathan Peereboom: Yeah, we're not trying to actually, that mean. I. I want to just emphasize we're really not trying to, like, sway the outcome here at all. We, like, are truly just looking for data. So if. If the answer is, hey, no one wants to use this, it's not valuable enough for a nominal amount, because $69 for therapist is, like, still kind of nominal. You know, like, you could spend that on dinner. And so if it's not. If that's not valuable to them because their perception is that, like, billing is not a risk area, then that's information that we want.
+Brittainy Wagner (Tidemarkva Admin): Yeah. I think that's probably what you're going to find, but I don't know. We'll figure that out.
+Nathan Peereboom: We'll figure it out. Yeah, totally. And it might be, hey, the only people really willing to do this are CMS and Spravato clinics where the billing is really high and, you know, and the, and the audit risk is massive because insurance companies don't like these therapies. They're super expensive.
+Brittainy Wagner (Tidemarkva Admin): Yeah. What I anticipate we're going to find is larger clinics who know that they're like, who have an idea of truly being a business and running it like a business. Even if they're therapists, you're going to find that they will find value in that. When you're looking at, when you are looking at small clinics and individual therapists, I don't think that they're going to see the value or the return on their investment and. Because they're still starting out and so I don't think you're going to get a lot of conversion from that because the, the profit margin just isn't there for them yet.
+Nathan Peereboom: Yeah, totally. And that's like, again, it's just data. That's all we need. So I have to run, guys in two minutes. So I just want to talk about next steps here.
+Brittainy Wagner (Tidemarkva Admin): Yeah.
+Nathan Peereboom: So. All right, so, Brittany, you have the calendar link. I'm just looking at my to dos on the screen. You have the calendar link you're about to go through and schedule, like a bunch of calls between, you know, the 20 folks that you want us to chat with. I'm going to send you. Are we still all go on that? Does that still feel right for you?
+Brittainy Wagner (Tidemarkva Admin): Yeah, I think that that feels right. You're not gonna have a problem from us on that.
+Nathan Peereboom: Okay, great. So I'm gonna send you a link from Mercury. You just have to fill out the, like, it's the, it's the payment thing. So it's just gonna ask you, like, for your bank information and we'll send you the, the first installment of that pilot program payment.
+Brittainy Wagner (Tidemarkva Admin): Okay.
+Nathan Peereboom: And, and then we can get rocking and rolling. Does that sound good?
+Brittainy Wagner (Tidemarkva Admin): Yes.
+Nathan Peereboom: Okay. And the last thing is, we do want to start some of our financial and legal diligence. When can we set up some time to start getting, like, documents, slash. Access to some of your systems so that we can go through that?
+Brittainy Wagner (Tidemarkva Admin): Yeah. And when you say access to systems, are you talking about software products or, like, just data?
+Nathan Peereboom: Yeah, we probably do need. I have to get you the data request, but there's there's certain things that, like, we're probably going to need, like a full. Like some kind of full access on, which is why we signed the NDA and the ioi. Yeah. So, you know, like, for example, the platform that you receive your payment, like, we kind of need to go through each of those payments. Yeah. The contracts that you have with all your customers, we can just receive those as documents. We don't need access to, like, your DocuSign.
+Brittainy Wagner (Tidemarkva Admin): It would actually be easier if we gave you access to paint a doc and then you could just see it all.
+Nathan Peereboom: Okay. Yeah, that's great. Let me. I'm going to write on my to do list to get you a data request.
+Brittainy Wagner (Tidemarkva Admin): Okay.
+Nathan Peereboom: And then what I'll do is you can send me anything that you have.
+Brittainy Wagner (Tidemarkva Admin): Okay.
+Nathan Peereboom: That's easy, you know, access or document wise. And then we'll also set up some time. And then we'll set up some time next week as well. So let me just look at the calendar. How does Friday sound for us to touch base in the event that. That we don't have everything from the data request? Asynchronous.
+Brittainy Wagner (Tidemarkva Admin): Yeah, that's fine. You want to do same time?
+Nathan Peereboom: Yeah. What time is it? Okay. Yeah. One does one mark.
+Brittainy Wagner (Tidemarkva Admin): That would be 12R time. Yes.
+Nathan Peereboom: Great. Okay, so I'm just gonna put tide mark data request check in. And if we. And I'm just going to put in parentheses if needed.
+Brittainy Wagner (Tidemarkva Admin): Yep.
+Nathan Peereboom: You know, we can go from there. Okay, cool. And then let me get back, grab all this information. Copy, copy. Next week. Great. Okay. Perfect.
+Brittainy Wagner (Tidemarkva Admin): Okay.
+Nathan Peereboom: All right. I think that's all we need.
+Nathan Peereboom: I think we're in a good spot here.
+Brittainy Wagner (Tidemarkva Admin): All right, well, thanks for your time today.
+Nathan Peereboom: All right, Brittany, Bill, thanks a million. Looking forward to these next conversations.
+Brittainy Wagner (Tidemarkva Admin): Okay. Yep.
+Bill Eberhart: Thank you. Bye.

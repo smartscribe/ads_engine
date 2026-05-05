@@ -1,0 +1,156 @@
+nnenna Akpaka: Hold on. I've been getting this incomplete transcription, I would say, so most of the information will be missing at the end of the day when I want to copy my notes because I don't put my note directly. So at the end of the shift, I will go through the notes and then copy it and paste to the portal that, you know, my office use. So I found out lately that a lot of information have been missing. Even when I prescribe medication, my education and all that, I've been missing, you know.
+Becca Bressler: So can you show me your workflow? Do you mind sharing your screen and you can just show me specifically what you mean by missing? I'm just curious. I would love to see it.
+nnenna Akpaka: Hold on, let me log in and then let me see.
+Becca Bressler: See what I can see on my end.
+nnenna Akpaka: Can you see this one?
+Becca Bressler: Yes. So I see.
+nnenna Akpaka: You're not seeing. Just site.
+Becca Bressler: Wait, I'm not seeing. You're not seeing my.
+nnenna Akpaka: Hold on.
+Becca Bressler: Yeah, I'm seeing our conversation online.
+nnenna Akpaka: Okay, show my screen anyway. Okay, hold on. Can you see this one?
+Becca Bressler: So I'm actually still seeing our screen. I think if you go to Jot Psych, you might see something that says share tool.
+nnenna Akpaka: Oh, from Job Psych. Hold on, hold on. Let me stop sharing. I know what I'm doing. Hold on. Stop sharing. Okay, stop. I think I'm gonna do it from this end so that I can get it.
+Becca Bressler: I'm going to see what I can locate on my end as well so we can figure out what might be happening.
+nnenna Akpaka: Do you want me to share from just Psych or.
+Becca Bressler: Yeah, share job. Psych.
+nnenna Akpaka: Okay, where can I look at that?
+Becca Bressler: The share screen or so you. It looks like you were doing it before. Do you see that?
+Becca Bressler: Okay, where at the bottom. You just have to make sure you're sharing the right tab.
+nnenna Akpaka: Okay. Hold on.
+Becca Bressler: Or window.
+nnenna Akpaka: This one's. Okay.
+Becca Bressler: Just pull up your cow.
+nnenna Akpaka: Okay, so let's try again, hopefully.
+Becca Bressler: So, Nina, I'm looking in your account and it says you've had successful transcripts created. And it's. And it is pulling audio from your session. So, yeah, I would just love to see a little bit more about what the issue is you're seeing.
+nnenna Akpaka: Can you see this?
+Becca Bressler: Yes, I can see jot. Psych.
+nnenna Akpaka: Okay. I can't remember all the patient, though, but let me open this. Let me see. Trying to see if I can remember the patient that I had that incident with.
+Becca Bressler: So you have not been experiencing it recently, but this is kind of something you experienced?
+nnenna Akpaka: Yes. Few patients, right? It's not all of them. Yeah, it's just few of them. You know, I'm not sure why I was shocked, because sometimes all my transcriptions will be there. Everything will be captured, you know, the notes. Yes, but that one, I wasn't doing anything. I decided to just take a look, and then I found out that a lot was missing from the transcript or from.
+Becca Bressler: Are you saying everything was in the transcript but some was missing in the note?
+nnenna Akpaka: Yes. Okay. I just found out because I just found out a couple of days ago that I can shorten my notes, especially my hpi. You see how this HPI is too long. If I'm doing it by myself, I'm not going to put a lot of information. We just need few information. So now I figured that out, how to do that using the AI editor.
+Becca Bressler: You've used our editor?
+nnenna Akpaka: Yeah. Yes, yes, I did that. So let me see here. So this is initial new patient. Okay. It's a new patient. So now you see how it says he him. I don't know why this is here. I don't really need that. But you see here, that says a little bit all over. We shouldn't have this bracket here. This one is okay. Because that's what the patient said. Okay. Like this is okay. I'm trying to figure out maybe on my own end I need to do all those stuff. See leg movement. This supposed to be because patient said this.
+Becca Bressler: See what I mean? Yeah. Yeah. So have you tried using the chatbot editor to resolve some of these things?
+nnenna Akpaka: Well, I just found out last week.
+Becca Bressler: Okay.
+nnenna Akpaka: After I was so frustrated, I, you know, I was messaging to call to see who I can talk to to fix all this. And then for my patients, if the family member comes with them, the denotes will come out at caregiver. Most of them are not caregiver. I just want family member. And I do pronounce the name of the family member. You know what I mean?
+Becca Bressler: But you want their names in the.
+nnenna Akpaka: Even if it's not their names, it will be like mom, dad, you know, brother, you know, because I do pronounce that.
+nnenna Akpaka: Do you want it to be their names?
+Becca Bressler: Would that be helpful or no?
+nnenna Akpaka: It will be helpful. Yes.
+Becca Bressler: Can I show you how to do that? Or family.
+nnenna Akpaka: Yes.
+Becca Bressler: Can I show you how to do that? Okay, so click N A in the upper right hand corner, your initials.
+nnenna Akpaka: Click what?
+Becca Bressler: That's the purple circle with your initials in it. Yours. It's like going to your profile. Yeah. Click that and then click features on the left side. If you look at the left hand panel features.
+nnenna Akpaka: Okay.
+Becca Bressler: Oh, interesting. Hold on. Oh, sorry. Click recording. Can you click Recording? Do below features on the left side.
+nnenna Akpaka: Recording.
+Becca Bressler: Okay, now scroll down. Now you can deselect redact names in generate notes and that will allow you to put the names in the notes.
+Becca Bressler: Which one do you see below where it says privacy and redaction. Privacy and redaction, yes. So deselect this one right here and then save changes and then now the name can show up in your notes. So that could help what you're talking about.
+nnenna Akpaka: That's one of them.
+Becca Bressler: Yeah. Okay, so let's go back to the note.
+nnenna Akpaka: Go back to notes or.
+Becca Bressler: Sorry, what's. What is the like next thing you wanted to show me? Because I'm. I'm curious to look into something where you say, like it, content is missing from the notes.
+nnenna Akpaka: Yes. Or the content that was missing was I think two or three patients that I prescribed medication and then the medication wasn't there. So the transcription was like. There was no medication prescribed on this. Who was that patient? The last one. I can. Yeah. And I ended up doing that note by myself after. Are we done here? So that I can go back.
+Becca Bressler: Yeah, yeah, go back to your note.
+nnenna Akpaka: Okay, Sam, Give me just a second. Let me see. I'm trying to remember by scrolling down like this. I wish I wrote it down. So I was asking one of your staff that called me the other day that scheduled this meeting. Could it be because he was asking me, do you record or your patients are there? So I see them face to face at the clinic and then I do call some of them. So I'm not sure if it's. Why it's not capturing all of the things. Let me see. It's not this one. Are you there?
+Becca Bressler: Yeah, yeah, I'm right here.
+nnenna Akpaka: Okay. Did you hear what I said?
+Becca Bressler: Yeah, I. I guess I'm trying to. One. I'm. I'm curious. Is it being captured in the transcript and it's just not getting into your notes? It's just hard for me to assist if I don't have, like, a concrete example in front of me. Is it. But is what you're experiencing the transcripts, picking it up, or are you saying the transcripts.
+nnenna Akpaka: It was not picking some of the stuff. Informations.
+Becca Bressler: The note is not picking up some of the information, or the transcript is not recording the whole.
+nnenna Akpaka: This. It's not recording the whole thing.
+Becca Bressler: It's like stopping in the middle of it. Or can you pull. Are you able to give me a note? You know, our technical team can look into why it might have happened, but we do need a note where it happened in order to investigate the problem.
+nnenna Akpaka: I'm trying to see the patient that I just did that. That patient is from grow. Oh, God. Oh, this is even December. No, it's not December. It started from January. Do I go back to the main thing? Okay, here. I wish I knew. I could have written it down.
+Becca Bressler: Those patients, Terrence is not terrible, because next time it happens, you know, you can write into the customer support and just provide a link. If you can provide a link to the note, like a URL link, that goes a long way in helping us uncover what might have happened.
+nnenna Akpaka: Okay, but does it make any difference? Because I do record with my phone while the patient is there. Do I need to do it on the computer? Because I try to search my mind. I've been doing this with you guys since last year. It's been working, but lately some information I've been missing on the notes.
+Becca Bressler: When you say your phone, are you using the web application in your phone or using the iOS app or whatever?
+nnenna Akpaka: No, just Psych app. I have it on my phone.
+Becca Bressler: So you use the Jotsack app on your phone. I would transition to your computer and see if you have more success than using it on your phone.
+nnenna Akpaka: Okay.
+Becca Bressler: Because again, I can't. I can't tell you without seeing an example note and giving it to my engineering team why you might be experiencing these issues. But that might be one thing to test and see if it's improved. But unfortunately, yeah, without a note, I can't really help troubleshoot the issue here. Is there a reason why you cannot use your computer in session or is it just easier to do it on your phone? I'm just curious about your workflow.
+nnenna Akpaka: Very, very easy to use on the phone. But I can use my computer. I'm going, you know it's in the clinic. So they have their own computer there, right?
+nnenna Akpaka: Yeah, I do use their own computer with their portal, but I still have my laptop on my side. But I never used my laptop to record. So if I need to record now, if you want me to try my computer, how will I do it? Because I haven't done it before.
+Becca Bressler: Yeah. So let's walk through it right now. So you click record.
+nnenna Akpaka: Hold on. But don't I supposed to put the patient information.
+Becca Bressler: Yeah, yeah. So that's not going to start it immediately, but if you click it, I'll show you what happens.
+nnenna Akpaka: Okay, Record.
+Becca Bressler: Yeah, click that. And so then you can skip this tutorial because I'm going to talk walk you through it. But you can add the patient if you see on the left hand side.
+nnenna Akpaka: Okay.
+Becca Bressler: Add the. Add the. So you can add a new patient or you can select from your list of patients.
+nnenna Akpaka: Agenda and all that. I just want to try it now. I don't need email. Okay. Create.
+Becca Bressler: Yeah. So you'll create your patient and then you'll pick your template on the left side. So your session type if it's an intake.
+Becca Bressler: And then do you typically wear headphones or not wear headphones?
+nnenna Akpaka: I do not wear headphones. Okay, great.
+Becca Bressler: So then what you're going to do, do you do zoom? What's your platform that you use? Or doxy or.
+nnenna Akpaka: Okay, I use. Okay. I work in two clinics. Okay. So the first one I do see them face to face.
+Becca Bressler: Okay.
+nnenna Akpaka: And then the same clinic I do call them on the phone. Okay. That cannot come in. I'll call them on the phone.
+Becca Bressler: Got it.
+nnenna Akpaka: But from my own practice, I use doxomy or grow therapy. They have their own video distance which.
+Becca Bressler: Yeah. So what you're going to do is if you're not wearing headphones, you hit start recording and it'll pick up the session on the computer. It'll pick up. The session in person. If you're talking to someone on the. On the phone, you'll want to put them on speakerphone so that jot site can pick up the call.
+nnenna Akpaka: Okay.
+Becca Bressler: But yeah, just. If you want to hit Start recording right now.
+nnenna Akpaka: Yeah, Quick question before I do that. So this is Intake.
+Becca Bressler: Yeah. So you can switch the template based on your choice.
+nnenna Akpaka: So how will I. Do you have another one?
+Becca Bressler: Do you select. You select it. Do you have other templates that you use?
+nnenna Akpaka: Follow up? I think so.
+Becca Bressler: Select where it says Intake. Psychiatric Intake. Just click it.
+nnenna Akpaka: Okay. Drop down.
+Becca Bressler: Yeah.
+nnenna Akpaka: Oh, okay. Okay. Okay, now I see it. Okay.
+Becca Bressler: Yeah. So that's how you adjust that. And then you'll just hit. Hit the record button so that I can show you. You'll want to allow. Oh, sometimes it closes the Google Meet. When that happens. Are you there? Hello? It seems like you may be muted. Nina. I'm not sure. Or unmute. Yeah, I see you there. I can't hear you, though. Now you're muted. Try unmuting. Yes. So you're muted. If you would just press the mic button on the bottom. Yeah, yeah.
+nnenna Akpaka: Okay. I did not touch any of those in the beginning. I think it's when we started recording it just.
+Becca Bressler: Yes, yeah, Sometimes.
+nnenna Akpaka: Sometimes that happens.
+Becca Bressler: But basically you'll just record this, you'll stop it, and then you'll just generate.
+nnenna Akpaka: No. Okay.
+Becca Bressler: So give that try and try experience. But if you do.
+Becca Bressler: If you do have issues, a note helps me help to reach out to customers.
+nnenna Akpaka: Does that make sense? Yeah. Can I create my own notes? Is it possible?
+Becca Bressler: Like a template?
+nnenna Akpaka: Yeah, yeah, definitely.
+Becca Bressler: Please, can you share your.
+nnenna Akpaka: Share your screen again. Right here.
+Becca Bressler: Okay, great.
+nnenna Akpaka: Okay, great.
+Becca Bressler: And then click.
+nnenna Akpaka: No templates.
+Becca Bressler: Okay.
+nnenna Akpaka: Yes.
+Becca Bressler: So.
+nnenna Akpaka: So we want to.
+nnenna Akpaka: You want to take any templates. I can start from scratch here just to see, but I don't want to change the one you guys have. I just want to see what is there to see if I need to add something.
+Becca Bressler: So it's. So if you want to add.
+nnenna Akpaka: Okay, got it.
+Becca Bressler: Okay, got it.
+nnenna Akpaka: So if you click start.
+nnenna Akpaka: Oh, so, so this.
+nnenna Akpaka: If you had a note from your ehr, you could paste it in here.
+nnenna Akpaka: Starting from scratch to get back. To get back to the top left. Top left. Okay.
+Becca Bressler: And then hit start on the bottom right.
+nnenna Akpaka: If I do it now, is it going to mess up the whole thing? Because I'm not ready.
+Becca Bressler: It won't mess up. These are just totally new templates you're creating.
+nnenna Akpaka: No, I don't want to do that. I don't want to do that. I can upload if I need to and then edit.
+Becca Bressler: Okay, so that's maybe the thing you'll want to do. Yeah, yeah.
+nnenna Akpaka: And stop sharing.
+Becca Bressler: Do you have any other questions?
+nnenna Akpaka: Well, I'm just gonna. If it happens again, I'm just gonna write it down.
+Becca Bressler: Yeah, please.
+nnenna Akpaka: Yeah.
+nnenna Akpaka: Really helps us. I'm just gonna write it down and then send it right away because it was shocking. All of. All of a sudden I started panicking because I was like, oh, my God.
+Becca Bressler: Yeah.
+nnenna Akpaka: If I didn't write things down, I could have been in a big trouble.
+Becca Bressler: No, I totally understand.
+nnenna Akpaka: For me to put that there was no medication prescribed. Why there is medication prescribed. So I was wondering if it's because I'm using my cell phone or calls sometimes will come into my cell phone if it breaks up or something. I was like wondering what happened.
+Becca Bressler: Yeah, yeah.
+nnenna Akpaka: Try problems, but definitely reach out to us as soon as it comes in and send us a note and we can look into it for you. Okay, I'll try again. I hope it won't happen again.
+Becca Bressler: All right. Definitely keep us in touch in the loop if this happens again.
+nnenna Akpaka: Okay. Thank you so much.
+Becca Bressler: Thank you.
+nnenna Akpaka: Thank you. Bye. Okay, bye.

@@ -1,0 +1,25 @@
+{
+  "date": "2026-04-16",
+  "sources": [
+    "/Users/nathanpeereboom/jotpsych-harnesses/jotpsych_gtm/ads_engine/data/Combined_Admin_Provider_List (2).csv",
+    "/Users/nathanpeereboom/jotpsych-harnesses/jotpsych_gtm/ads_engine/data/NPPES Top 4 Clinics Email (1).csv"
+  ],
+  "rows_file_a": 264,
+  "rows_file_b": 262,
+  "total_before_dedup": 526,
+  "total_after_dedup": 509,
+  "with_email": 360,
+  "with_phone": 494,
+  "phone_only": 149,
+  "schema": [
+    "EMAIL",
+    "PHONE",
+    "FN",
+    "LN"
+  ],
+  "custom_audience_id": "120245449291240548",
+  "custom_audience_name": "Sales Prospect List - BH Clinics",
+  "upload_num_received": 509,
+  "lookalike_audience_id": "120245449291800548",
+  "lookalike_audience_name": "Lookalike - BH Clinic Prospects 1%"
+}

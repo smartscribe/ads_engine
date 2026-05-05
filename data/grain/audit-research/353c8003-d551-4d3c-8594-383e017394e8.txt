@@ -1,0 +1,139 @@
+Becca Bressler: It. Hey, Dean.
+Dean Gainey: Hey. What's up?
+Becca Bressler: Not much. How are you doing?
+Dean Gainey: Good, good, good.
+Becca Bressler: Long time no chat. I have plenty of questions for you since it's been so while.
+Dean Gainey: Yeah, me too.
+Becca Bressler: Were you gone? Were you out of the office for a while? Were you on A. Or am I misremembering?
+Dean Gainey: Sorry, hold on one second. Hey. Okay. Hey, Becca. Hey. You know my little sister's name is Beck. Rebecca.
+Becca Bressler: Oh, really?
+Dean Gainey: Yeah.
+Becca Bressler: B, E, C, C, A, double C or C, K?
+Dean Gainey: Double C.
+Becca Bressler: Double C. That's how.
+Becca Bressler: How it should be in my opinion.
+Dean Gainey: Sorry, I was on the other line with my front desk peeps. Yeah, I was out of office for three weeks in January.
+Becca Bressler: Got it. Hopefully restful start to the. To the new year. I. So I want to talk to you about a couple things today. One is jot audit and any feedback you have from the new tool we just released. And then the second is for our E prescription. So one of the things I'm trying to get to the bottom of is what our software needs to have in order to kind of meet a clinician's requirements for an E prescription software. So I have a couple questions for you about. How your prescriptions wind up in your note and in your EHR and all those sorts of things. Does that make sense? Maybe we can start there. Actually, do you mind sharing your screen with your ehr?
+Dean Gainey: And I invited one of my front desk people. Maybe they can provide some insight here and there. But they've been kind of been including them, So I currently use Athena Legacy er. I know you guys are going with Doc Doe Spot, right? A few things. And this is Meiji, by the way. A few things is that like Dose Spot is great, I think Healthy. Are you familiar with Healthy? It's another.
+Becca Bressler: Or I think I've encountered it on a list.
+Dean Gainey: But yeah, they, they, they are headless ehr. They're known for their integrations and stuff. But like they use dosebot. There are some limitations with Dose Spot versus doctor First. Applications like Sondermind and Headway are shifting towards doctor first as their integrated EHR or integrated prescribing. Reason being is like just because of the provider having to input duplicate information when it comes to like tying a diagnosis to an order or charting something in their note and then having to duplicate it in the prescription order. I'm not sure how strong your integration is with Dose Spot, so maybe I just know from an end user perspective or just demoing it.
+Becca Bressler: Yeah, the early iteration of this is definitely. There's more limited integration for sure. But obviously as we continue to build it out, we want there to be like more and more kind of connections between Jot psych and dosebot. So you're not having to like manually enter re. Enter information. One of the questions I have for you though is so, okay, so what am I looking at right now? I'm just kind of looking at your home dashboard that you look at
+Dean Gainey: or this is my clinical inbox. Now here's the calendar and this is my electronic health record.
+Becca Bressler: It's Athena.
+Dean Gainey: It's a pretty mainstream Legacy ehr.
+Becca Bressler: So can you walk me through when you send a prescription? How does that medication information or does that medication information wind up in the patient, back in the patient's profile and then does it automatically wind up in the note? No problem.
+Dean Gainey: So, yeah, so there's a couple ways to enter. There's a couple ways to enter orders in. One would be through what you call a order group. So this is a order outside of the encounter. All I gotta do is copy. Well, let's say if I let me just use a real patient actually.
+Becca Bressler: Got it. So you go to the patient's chart, you create an order from their chart.
+Dean Gainey: Yeah. So if I want to do it outside of the encounter, all I got to do is copy forward from their list of meds that I previously prescribed. It automatically ties it to a diagnosis and it just verifies that the pharmacy that is on file is correct to adjust the pharmacy on file. They. There's like a preferred pharmacy, you know, kind of like, like how you have like the record screen and that's where you would also update it as well as like their preferred lab. And then orders and submit, when you sign the order, if it's a controlled substance, then you have to like enter your, like, you know, your DEA number and stuff like that. No, not the DEA number. So it's all, it's called, It's called VIP access. I should be sharing this whole screen now. So it's called. The, the vip, the, the Two Factor Authentication. So like when I hit sign orders, I have to enter like my Athena health login password.
+Becca Bressler: Got it.
+Dean Gainey: And then the two factor authentication code, which is this, to send the order Dr. First. This isn't Dr. First. This is Athena's model. But Dr. First only requires the security code from the. VIP access. Now, that's outside of the encounter.
+Becca Bressler: Okay, so can I just ask you quickly, like, if you are outside of the encounter and you are, say you're discontinuing some medication, you're adding new medication, how does that then update the patient's chart and subsequent notes? Like, what happens with that data? And, like, where does it go? Where does it. Where does it update or.
+Dean Gainey: Yeah, so you can just simply just delete it from the patient's chart. And that's kind of like what I initially scheduled this call about, because I felt like the way you guys have it set up is a little bit. A little bit. Could be a bit more user friendly when it comes to, like, updating the current medications.
+Becca Bressler: Right. Like from the patient charts, you mean? Kind.
+Dean Gainey: Yeah, yeah. Or even the.
+Becca Bressler: What are those three icons? Sorry, I was just seeing those three icons next to it. So when you hover, what am I looking at right there. So that's make active. Okay. If it's inactive, what's the middle one?
+Dean Gainey: That is to privacy lock. And the other one is like a flow sheet.
+Becca Bressler: A flow sheet. This is about. Okay, so this shows you the history of this medication that's been prescribed.
+Becca Bressler: What does the lock icon do?
+Dean Gainey: Hold on one second.
+Becca Bressler: Someone came.
+Dean Gainey: I'm at a hotel.
+Becca Bressler: Oh, okay. No problem. Sa. It.
+Dean Gainey: So sorry about that. I don't.
+Becca Bressler: No problem.
+Dean Gainey: So, and then you have here like your PDMP report as well. And I can show you what it looks like in a doctor first setup as well. I. I can also show you what it looks like it from a doe spot setup. But.
+Becca Bressler: Well, I guess I think that my initial questions for you and honestly Dean, I'm probably going to want to talk to you like several times about this because we're going to want to make this better and better. But I think the first thing I'm trying to figure out is what the expectations are as far as like, okay, I'm in doe spot because first it's going to open up a window. That's the first version of this for us. It's going to open up a new window. And let's say I'm a clinician, I'm in dose spot. I decide to discontinue medication. I decide to add new medication for a patient. You would expect jot psych's medication to be automatically updated with that information, presumably. And then what does that mean for the note though? Like when you are adding prescriptions, discontinuing prescriptions. Can you show me an example like clinical note of yours and what the medication section looks like?
+Dean Gainey: Mm. So if I were to generate a new note from scratch you mean?
+Becca Bressler: Or like let's take an existing patient who already had you prescribed. Yeah, I'd be curious like what is auto populated in their note as far as the medication stuff goes?
+Dean Gainey: Well, you have, you, you have. Actually let's just go here. So what you will have is. And this isn't. Well, actually let me just print this. You'll have a list of medications so like active medic, active medications. And then you'll have like further down medications prescribed during this visit.
+Becca Bressler: Got it. So medications prescribed during this visit and active medication,
+Dean Gainey: Not even like active medic, but like yeah, this one has active medications. So what this does shows like active medications from like that you didn't prescribe this visit. This also can show active medications as pulled for the network. Athena. And also healthy. They are able to integrate with the network to pull from their primary care providers.
+Becca Bressler: Got it. So these medications I'm looking at right here are not all ones that you've prescribed. Do they include prescriptions from other people for this patient?
+Dean Gainey: Yeah, those are ones that I prescribed actually.
+Becca Bressler: Got it. But theoretically. Could you see medications there that are, that are prescribed by other people or. No, it's. This is always just going to be your medication.
+Dean Gainey: No, I can definitely see medications prescribed by other people.
+Becca Bressler: Like, and that would be included in the clinical note.
+Dean Gainey: It would. Yeah. Under active, like this, definitely. So this person's name is Gonzalez. So let me. So you'll see here all these medications and.
+Becca Bressler: Those are all active.
+Dean Gainey: Yeah. And then prescribed this. Bonnie, what else? So, yeah, that's not even me.
+Becca Bressler: They'll all wind up in your note.
+Dean Gainey: Yeah, they'll end up in the note. Because there's a feature in here for like the privacy feature. It's called the Commonwealth and care quality data sharing that they have. And then the medication history authorization. They have their own website. I can. But what it does, it pulls. It pulls from like major, major EHRs are pulled from the network what they were prescribed. It also pulls their, like, notes. So. So if there were any. If there are any notes outside notes, like ER visits and stuff.
+Becca Bressler: Got it. So as far as like. And I think that exists in do spot too, with permission from the patient, you can see their, like, medication history. I'm trying to think so. And then can you show me. Okay, so that note that you just showed me that showed current medication, that's basically like a mirror image of what you see in the patient's chart. Is that the case for all of the medication in your note? Essentially. By which I mean anytime you see medication in your note, it's structured data that's pulled in from the chart or pulled in from the prescription. Sending or do you manually enter any of the medication information?
+Dean Gainey: Okay, so what would best show that would be if. Let me go to an open. An encounter. This guy. So you'll see here I'm going to exam. And then. So now I'm in the encounter phase. So I'm like in the documentation phase.
+Becca Bressler: Okay.
+Dean Gainey: And then the A and P tab is where I put like any orders or whatever.
+Becca Bressler: Okay.
+Dean Gainey: This is. This is where I prescribe.
+Dean Gainey: So you can see that it's like highlighted orange because it's already sent. And this is grayed out. But like, if I wanted to send a med, all I gotta do is just. Let's just put. I think they're already on it. But I just re. Prescribe it. I got to tie it to a diagnosis. All right, so this is actually like my whole encounter piece. Okay. As I type this in, it ties it to an encounter and it auto updates on this left hand pane.
+Becca Bressler: Okay.
+Dean Gainey: When I sign the order and then you have the sign off phase, which is like sign close and next task. So like, sign sign would be like sign any outstanding orders. Close would be close. The note I'm on like my task list. So.
+Becca Bressler: And everything you just showed me about like inputting the order, it then gets automatically added to the bottom of this. It looks like.
+Dean Gainey: Yeah, it'll get automatically added to like their list of active medications.
+Becca Bressler: And. And in the note, it'll. It'll wind up in the clinical note.
+Dean Gainey: End of the notes. So like, you'll see like. So what's here? Active medications. So like meds. They were prescribed.
+Dean Gainey: They are being prescribed right now. Over with, this is the full. This is not the full one, but within the. Oh, here. Within here is like your actual encounter note, which will show like the list of meds that are prescribed during this encounter.
+Becca Bressler: Okay.
+Dean Gainey: Yeah. During this appointment.
+Becca Bressler: Is that a preference for you or is that a requirement that those are separate?
+Dean Gainey: So it's. It's not really either. It's something that's just how the note is structured. So like when you have a.
+Dean Gainey: When you have a list of medications, you want like current meds and meds? Well, yeah, you. Within your note, you. You. You typically, I think you have a list of meds they're currently on. And it's not like you're prescribing every med they're on. Maybe they don't need refills, but. But. List of meds prescribed this visit.
+Becca Bressler: Yeah, got it. Okay, gotcha.
+Dean Gainey: So, yeah, how would that translate over to, like, the current workflow with jot Psych? Well, well, it could be pretty easy depending on your dose spot integration, which I'm like, I'm not gonna lie, I'm a little worried about.
+Dean Gainey: Honestly say more just because of the. Just because I, I've seen it in use with healthy and I. It's not very user friendly.
+Becca Bressler: Yeah, I've heard so many bad things about Dr. First. As far as, like, user friendly goes.
+Dean Gainey: Yeah, I, maybe I'm wrong.
+Becca Bressler: I, I, no, no, I, I will say do spot. I don't find super intuitive, but I did find it. I don't know. But anyways, carry on. I don't mean to interrupt you.
+Dean Gainey: Yeah, no, you're good. But like, let's say, like, how this current setup is right now, like, Jackson is in the right spot to include last encounter summary, you know, meds diagnosis. Let me, let me do an actual patient here. But like, where, where did, where does this fall short? So, like, the, the, the only thing you can do with this without making, like, burdensome is like, delete it. You can't hear it. Like, okay, like, it'd be great if you can, you know, not only right now you can sort it differently, but if you can like, drag, like, oh, I want like drag these a little differently. But also a quicker way to add a internal note. But to kind of, to kind of help with e prescribe would be to merge the medication and diagnosis and then drag and drop it under a diagnosis, which would in turn help expedite the e prescribed phase.
+Becca Bressler: Interesting. Because every medication is tied to a diagnosis, so it makes sense that like, yeah, yeah, you want to be seeing those group together, not independently.
+Dean Gainey: Yeah. So like, as you see here, diagnosis, meds, Diagnosis meds. Diagnosis, meds.
+Becca Bressler: Yeah, so gotcha. Okay. That's super informative. Actually, I haven't talked to anyone about this this deeply, so that makes sense. Right. So you did the diagnosis and then the medication. I also suspect. This is cumbersome in like the clickiness of it. Like just that you have to clickability in things to. Yeah. What's your experience? Like moving around this box and editing it.
+Dean Gainey: Yeah, I don't, I don't mess with this because it, it is come. It could be so much better. Like I think the medication and diagnosis could be merged. I think that the. These columns should be like adjustable and I also think that. Yeah, it's just. I mean. Yeah, I don't even. Yeah, I don't. I wouldn't even know how to update things on here, honestly.
+Becca Bressler: But so did you enter all of these from the patient's page? Then you would have.
+Dean Gainey: All of these were auto populated from my notes. So like I think when I demoed with you last time, what I've been doing is like cop like. Copying and pasting it in here and then these showed up here. But I don't update anything in here.
+Becca Bressler: So those pop. Did you have to accept it though? Because sometimes it's like a suggested. No, it just auto populated.
+Dean Gainey: I. I honestly never go in here to accept anything. It just kind of does it itself.
+Becca Bressler: Okay, interesting. So one, just because we're running out of time, but like a couple more questions. If a medication is made inactive or like discontinued, like you stop prescribing it to someone, do you. Does that erase it from like the patients notes or is it still important to have like a history of discontinued medication in the notes and if so like in perpetuity for six months?
+Dean Gainey: No, you would want a. So I guess it's probably easier to go through here. So you want something to say like whether active, inactive and the reason why. And the reason why you would want that and like a really easy place to put free text note. That's it. Like it. And a free text note can be like DC because it didn't work, ineffective. So we can, so we can quickly reference what has worked for the patient and what hasn't when prescribing.
+Dean Gainey: If I were to go in here and like I don't even know. I don't mess with this but I guess it would be like this button. I would do that. I don't even know where it goes. But. But I make it inactive now. It's just gone permanently. But there usually is a. I thought there was a place to put like internal notes in here, but you want to quickly reference when you're like when you're prescribing to see what they've tried and what hasn't worked. So you don't re prescribe and so yeah,
+Becca Bressler: as far as documentation goes and like the requirements there for billing and legal requirements, do you always need to include why something was discontinued for like in perpetuity or you know, like let's say I'm your patient and we discontinue me on a medication and you're charting, I imagine, you know, when you decide to move me on to a different medication for medical decision making reasons, you'll have to say like discontinued from this. We're now trying this because how long do you think you need, how long in my patient chart would you need to include that information? Does that question make sense?
+Dean Gainey: Yeah, sort of. I, I think like, like there's like a historical mess meds thing here and I can, I could add like you know like two sedating or something.
+Becca Bressler: But is that in the clinical note right there, what you just did? Will that wind up in the note that you signed?
+Dean Gainey: You know, I wish it did, but it doesn't. It doesn't. I, I wish it did, but, but in on other EHRs it would.
+Becca Bressler: So it would maintain the clinical note that you signed would maintain a list of past medications that you've prescribed and discontinued.
+Dean Gainey: Well, like that's kind of like how the medication history feature works.
+Becca Bressler: The section.
+Dean Gainey: Yeah, yeah, section. But to replace like duplication of effort, like wouldn't it make sense to have that in the E prescribed section as well? When you stop med, an internal note saying why it was DC'd, it was too sedating.
+Becca Bressler: Right. And then that would automatically put that information into the note and it would move it from say like current medication to past medication, et cetera. That would be like how it would ideally work. Do you, I apologize that I asked this already. This is just like a, you know, it's confusing. So sometimes it's taking me a few turns. In the medication history section for patients, do you need to include medication that they've been prescribed by other people?
+Dean Gainey: It's, that's, that's a very nuanced question because it's very, very helpful to have that included because a lot of primary care meds could interact negatively with mental health. Meds when you're. And then some, some people don't remember the meds they're on when you ask them and it'd be great if it could pull. Be pulled off the network or something. Yeah.
+Becca Bressler: Okay. As far as. Can I share my screen really quickly? Dean. And. And then I probably have to run, but I kind of want to show you something really quickly. Do I have access to this? One second. Oh no, I don't have it on my account yet, but I guess. Okay, I'm. Because I'm trying to under. I'm trying to figure out what the minimum requirements are for like our first version. Right. Like this is going to be ongoing. We're going to have to build it and improve it. And in my mind the minimum requirements are you prescribe in dose spot and that information, bare minimum is like in the patient's job psych chart listed as active and if you, you know, if you stop prescribing it in dose spot, it's listed as inactive. You know, just like a two way door between what's on the patient's chart in jot psych and what you're prescribing in dose spot.
+Dean Gainey: Yeah, I can tell you like just.
+Dean Gainey: Yeah, this part make. Make this. Sync up this thing.
+Becca Bressler: So like that. Got it. And then ideally what that means is in someone's note their medication section also syncs up the. The there is people kind of configure their medication sections differently. Like some people put like med history and current meds in like the same section with different.
+Dean Gainey: There's. Well like medications. If you combine medication diagnosis or whatever or if you don't like you could put like current medic. Like I'm not prescribing Ozempic. But they are on Ozempic now. They're like I showed you like, like I showed you here. There a simple button to you know, this button carries it forward to the prescription.
+Becca Bressler: Oh, sorry. You look. Are we looking at your ehr now? Because I still see jot psych.
+Dean Gainey: Oh, sorry. But like this. So think of, think of, Think of the list of meds here coinciding with the list of meds, active meds here or even the met history. Okay.
+Becca Bressler: Yeah.
+Dean Gainey: Then you have here buttons. You see this arrow button. You didn't see this earlier but this carries it forward into the current note which is here carries it forward into the current note to e prescribe. So I. I pressed. You know, I pressed this button, and that's why. And so you see. Yeah. That's how you prescribe it. Right? Right.
+Becca Bressler: That's how your note tracks that. That's what you prescribe that visit. Because you literally brought it into the encounter like that. Yeah.
+Dean Gainey: Yeah. And just updating this and syncing it with Dosebot would be your answer. And probably merging.
+Dean Gainey: Yeah, you don't even have to merge it. Just make it like. Because they. They didn't merge it here. Yeah. Like the list of problems. But what it can do is, like, if I. If I carry forward a med, it automatically ties it to a diagnosis that it was previously prescribed under.
+Becca Bressler: Got it. Okay. That's super helpful, Dean. I gotta let you go, even though I have so many more questions. So maybe I can email you and we can set something else up. Because I am curious what you think of Jaw Audit. You've been playing around with it, right?
+Dean Gainey: I don't know how to work it. That's what I was kind of trying to meet with you about. Like, to configure my practice also, but Shot Audit. Like, I've. I've been using these, like, psychotherapy minutes, and it's not auto populating into my actual note. And I don't know how to. I unintentionally missed the last clinical advisory board, but I. I don't know how to conf. No, I haven't really.
+Becca Bressler: Okay, got it. Do you. Do you want to set up more time on Thursday to talk about some of this? Or do you have any. Just.
+Dean Gainey: I'm not. I'm. I'm off all week. I'm. I'm at a conference and.
+Becca Bressler: Oh, okay. So when would be a good time, if not this week, to maybe sync up about Jaw Audit stuff? Because I would love to hear your take.
+Dean Gainey: Yeah, anytime. Just send me an invite for this week.
+Becca Bressler: Oh, this week? Okay. Sorry. Just. I. I did. I missed you, but you said you could do this week because you're. You're not.
+Dean Gainey: Yeah, yeah.
+Dean Gainey: Like, I didn't know how to, like, update any of these.
+Dean Gainey: Where is it? These appointments here that I have, like, The. The schedule. Oh, here? Yeah. How do I delete some of these?
+Becca Bressler: Oh, interesting. There's no delete button, is there? Can you scroll down? Can you scroll to the bottom?
+Becca Bressler: Yeah, there's no scroll. Okay. I'm going to take a screenshot of this, actually, because I don't want to forget.
+Dean Gainey: Yeah, like, this is. I mean, like, these are. These are really it for group practices. These are really basic settings you want to make sure are okay, especially if you use the calendar feature here.
+Becca Bressler: Yeah. Okay, cool. We could probably address that really quickly, actually, so.
+Dean Gainey: But.
+Becca Bressler: Okay, let me send you an email. We can set up another time.
+Dean Gainey: Yeah, I'm free anymore.
+Becca Bressler: Tomorrow would be great. Okay. Thank you so much, Dean.
+Becca Bressler: Great seeing you.
+Dean Gainey: Bye. Yeah, you too. Bye.

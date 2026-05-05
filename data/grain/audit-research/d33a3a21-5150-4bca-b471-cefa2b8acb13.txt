@@ -1,0 +1,172 @@
+Meredith Hogarty: Hello.
+Marcus Irven: Hi, Amanda. Good morning. How are you?
+Meredith Hogarty: Good. It's my big. There we go. There's my video.
+Marcus Irven: Oh, good to meet you. My name is Marcus. I'm the head of engineering at JOT Psych. And as I understand, we're getting you set up on JohnRx today. Is that right?
+Meredith Hogarty: Yes.
+Marcus Irven: Okay. Very exciting.
+Meredith Hogarty: Yes. Let's see.
+Marcus Irven: You have a JOT Psych account already, correct?
+Meredith Hogarty: Yes.
+Marcus Irven: Okay, can you go ahead and log into that? I think I've got. Yeah, it already turned on, so you should see. Can you share your screen?
+Marcus Irven: Yep, we'll walk you through.
+Meredith Hogarty: Let me sign on first.
+Meredith Hogarty: I just got onto my computer, so it's a little slow. Okay, here we go.
+Marcus Irven: I understand that. I was fighting that today, too, for some reason. Where are you looking at that?
+Meredith Hogarty: I'm in Massachusetts, in Westford, which is probably like, I don't know, like, 30, 30, 35 minutes from Boston.
+Marcus Irven: Okay.
+Meredith Hogarty: Yeah.
+Marcus Irven: I'm over in the Hudson Valley in New York, so not too far.
+Meredith Hogarty: No. All right, I'm sharing now. And I met with Nate the other day, and I just kind of assumed, like, you guys were out in California, you know, just like startup California, obviously. You know where.
+Marcus Irven: The East Coast. Startup.
+Meredith Hogarty: Yeah.
+Marcus Irven: Okay, perfect. Now, if you go into your practice on the top on your menu there.
+Meredith Hogarty: Yep.
+Marcus Irven: Yeah, there we go. You will see. Go to your. Go to clinicians. Sorry, the clinicians tab there. And. Oh, why are there no active members on your. Yeah, there we go. Okay. Okay. Okay. And you're Meredith. So go ahead and click on. On. On your pencil icon there.
+Marcus Irven: Yes, on the right. The far right.
+Meredith Hogarty: Oh, the far right. Sorry.
+Marcus Irven: Yeah.
+Meredith Hogarty: Just can't see it. I gotta move the Google. Okay, there we go.
+Marcus Irven: And scroll down and. Oh, no. All right, let me see here. I thought I turned this on for your account, did I not? Rx. Yeah, there. Let me try one more thing. Let me see. Make sure I got the right account. I'm turning this on for. Yeah, that's you on a piece. Okay. And I'm doing this in the right environment. Said it should be showing up there. Okay, let's give it a second. Let's give it about 10 more seconds, and then I'm going to have you read, reload your page.
+Meredith Hogarty: Okay.
+Marcus Irven: And we'll see if it shows up. I'm not sure. Honestly, I'm not sure why it wasn't showing up before, but I did. Did make a couple changes. So we'll see. All right, let's go ahead and reload your browser. Refresh your browser. Okay. The pencil icon again. Practice and then scroll down.
+Marcus Irven: There it is. Okay. I don't know why I wasn't there before. All right. All you have to do is click that and that'll enable it for you. Okay. And there's a few steps that we have to do here. So the first thing is go to practice settings.
+Meredith Hogarty: Go to practice settings.
+Marcus Irven: Yeah, there you go. And connect to E prescriptions. So what this is going to do is set up your clinic. It's going to be two steps. There's going to set up your clinic, and then we're going to set up you as a clinician. This is setting up your clinic. Okay. And then next, go see on the top right where there's the little MH circle. Click on that and then scroll down here. Keep scrolling down. There'll be any prescription section at the. Near the bottom, I think. Yeah, there we go. And this is you as a clinician.
+Meredith Hogarty: I don't have my facts memorized.
+Marcus Irven: I don't know why it needs. I guess it's just part of the requirements of creating prescriptions is they can reach you.
+Meredith Hogarty: Yeah, yeah, exactly.
+Marcus Irven: I think we could change this later if you.
+Meredith Hogarty: I got it.
+Marcus Irven: Okay.
+Marcus Irven: And I should warn you, you are going to need a lot of. This is. This is a little bit of a cumbersome process getting you set up the first time. You're going to need driver's license, credit card, just to do, like, your identity purposes.
+Meredith Hogarty: Okay. Yep. Should I put my. My email or should I put my assistant's email, do you think?
+Meredith Hogarty: Like, if my assistant is the one who deals with all the stuff from the pharmacy, like, I don't want to be getting emails, so.
+Marcus Irven: Got it. I don't actually think the. That's a good question.
+Meredith Hogarty: I think I'm just going to put hers because I don't.
+Marcus Irven: Okay, that's totally fine. I think you. Hopefully you're aware this is. This is a new feature for us, and we're still learning about. We're still learning a little bit about prescriptions, and it's been a fun one to build because none of us are doctors and we can't actually prescribe anything. So we're.
+Marcus Irven: We're fortunate that we have some early adopters here. But it's a. It's a good platform.
+Meredith Hogarty: So I have two DEA numbers. Do you have a.
+Marcus Irven: Yeah. Okay. This is something else we learned this week is that.
+Meredith Hogarty: That's a thing that for different states.
+Marcus Irven: Go ahead, just enter one in here. And then we could do the others. I'll do the others through the back end. And then we. We have that as a feature for us to build my Massachusetts one.
+Meredith Hogarty: Oh, it wants a physical facility. Hold on. Facility address. Hold on. I'm getting that.
+Marcus Irven: Sorry. Where did you see. Did you see an error. Scroll, scroll.
+Meredith Hogarty: So it says facility information. It wants a physical address. So that's different.
+Marcus Irven: Where did it say that? I missed it. Oh, you don't need to fill that. That out.
+Meredith Hogarty: Don't.
+Marcus Irven: You don't need to. Yeah. I mean, you can't. You can, but that's. This is. This is your. This is your job site. It's a little confusing because now we're dealing.
+Meredith Hogarty: Oh, okay. Got it.
+Marcus Irven: That's used for other things, but. Okay, go ahead and click the open dose spot. That probably opened another tab, so I can't see that tab, but if you want to switch your sharing over to.
+Meredith Hogarty: So it opened like a video. Do I not watch that?
+Marcus Irven: Oh, it opened a video.
+Meredith Hogarty: Yeah. Dosebot Exploring the Dosebot ui. It opened a video, but then it also opened something behind it. So I'll just close that so it says, oh, I have to share this now, is what you're saying?
+Marcus Irven: Yeah. Yeah. If you could share that. And then we'll go through your onboarding process for DevSpot. Yep. So first, just complete the agreement. That's a simple, simple process. Read all of the legalese. Giving away your. All right, there you go. Now, this is the. This is a little bit of a lengthy process, but you only have to do it once.
+Meredith Hogarty: This is where I need my license.
+Marcus Irven: You're going to need a license. You're going to need a credit card. I think that is all. You have to take a picture.
+Meredith Hogarty: I'll be back in a minute.
+Marcus Irven: Okay?
+Meredith Hogarty: Okay.
+Marcus Irven: It. Oh, no. What do we miss? We're missing something. What are we missing? It's not giving. Oh, state.
+Meredith Hogarty: No, I had that in, but I'll put it in there. There we go. I think it's because I clicked it from.
+Marcus Irven: Okay, now you should be getting a message on your phone, and you'll have to walk through that, and you're gonna have to take a photo of your driver's license. You're gonna take a photo yourself?
+Meredith Hogarty: Oh, I don't know if my. Crap. Oh, no, it's working, I think. Sorry. Let's get started. Take a selfie.
+Marcus Irven: For some reason, always has a hard time finding your face. I don't know.
+Meredith Hogarty: Right here. There we go. Great picture. You see it?
+Marcus Irven: Oh, yeah. Okay, great. So you are through. Now, see here? I can do this. Okay, good. All right, now if you go back to jot Psych, you can close this tab, and the next step is just going through your patients and connecting them into. That's what we want. So give, like, one patient that maybe you plan on prescribing medication to.
+Meredith Hogarty: So I was talking to Nate about this step, so I can do a test patient for today. I want all of my transcripts deleted before I put any actual patient data. Okay, Got it. All my patients in there, I just have numbers. I don't have any names or anything like that.
+Marcus Irven: Okay, that makes total sense. Yeah, and I know because I'm. I'm the one working on that. We're working. We're working on that. It'll be. We'll have that for you next week.
+Meredith Hogarty: That's exciting. I could do a test patient.
+Marcus Irven: I don't know if that.
+Meredith Hogarty: Like, that matters. Probably not.
+Marcus Irven: I don't think those bot ones test, like. I don't know if it works with.
+Marcus Irven: Yeah, why don't we do this? Why don't we just wait? You're all set up. I'll walk you through how you would do it.
+Meredith Hogarty: Yeah, I was going to say, how do you do it?
+Marcus Irven: Yeah, it's pretty. It's pretty straightforward. And then go into the patients section and. Yeah, just go ahead and pick a patient by your number. Go down to medic. There's a medication section at the bottom, right? Yeah, there we go. Scroll up a little bit so I can't see. It's just type. There we go. Connect for erx. Go ahead and click on that. And then this is where you would enter the real. It copies whatever information you have in Jaws. Like we could also update it here.
+Marcus Irven: And this is where you would connect the patient. And then what this would do is connect them into Dosebot and then it would open up Dosebot, where you could actually go and do the prescribing of the. Let me. Let me just demo it to you.
+Meredith Hogarty: Okay. I connected it. I just put my information. I don't really care.
+Marcus Irven: Oh, okay. Got it. Great. And then go. Now you hit the prescribe button or open another tab, I guess doing that. Okay. I'm sorry. Can you share the best tab again? That's the annoying thing with screen sharing. Yeah. And then this is where you can add a prescription.
+Meredith Hogarty: It doesn't like what was in Jot. Psych doesn't come over just.
+Marcus Irven: Well, it pulled over the basic stuff. Everything you entered on that screen should have been in here. If you. If you edit.
+Meredith Hogarty: Meds aren't in.
+Marcus Irven: Oh, the meds. No, the meds. Yeah, the meds aren't in. But the medication history does pull from like, the national database.
+Meredith Hogarty: Okay.
+Marcus Irven: Yeah, the meds aren't sinking quite quite yet.
+Meredith Hogarty: Will.
+Meredith Hogarty: Will they sync?
+Marcus Irven: Yeah, they will sync.
+Meredith Hogarty: Okay, cool. I have another question for you. I need my medical assistant to have access to this.
+Marcus Irven: Okay.
+Meredith Hogarty: How does that work? Do we just set her up somehow?
+Meredith Hogarty: Yeah, she's already a user in here.
+Marcus Irven: Okay, that's. We're going to have to come back to that next week and get that set up. We still have something to do on our side to make it, so that's possible, but it's definitely possible. And we will. We're working on it. One more step that you might. We might as well do while you're in here is see the little alarm bell on the top? Right.
+Meredith Hogarty: The notification.
+Marcus Irven: The little notification. The little one with the.
+Meredith Hogarty: Oh, sorry, I'm on the wrong screen.
+Marcus Irven: Oh. All right. So one more step that you have to do is complete this tfa. This is because of a control substances. So this is going to require an app on your phone.
+Meredith Hogarty: Yep.
+Marcus Irven: And so if you want to just go ahead and do that. This is confused. Yeah, this whole process is a little confusing.
+Meredith Hogarty: Yeah, they usually are.
+Marcus Irven: Yeah.
+Meredith Hogarty: Okay.
+Marcus Irven: Should get two texts.
+Marcus Irven: Yes, I believe the first one is about installing the app and the second one is about like connecting Ghostbuster if I, if I remember correctly.
+Meredith Hogarty: Yeah, so I'll install the app. Install. Hold on. Wants my freaking. Do my face. Don't ask me for a.
+Marcus Irven: Oh, this is where the face. The face comes in again.
+Meredith Hogarty: No, it just needs my app password. Give me a sec.
+Marcus Irven: Oh, I see that part. Okay. All this technology is supposed to make things easier for us, but it just layers and layers.
+Meredith Hogarty: I know. All right, I gotta reset my password. Hold on.
+Marcus Irven: Okay.
+Meredith Hogarty: That was easy. All right, resetting. And like it's so annoying because it's not even letting me like see what I'm typing. So I'm like, I'm pretty sure I'm typing what I think I'm typing. Okay, we're, we're going. It's downloading. So people are liking this dose spot.
+Marcus Irven: Yeah. Yeah, I think. So far so good. It's really our first week of rolling this out. So it's still early days, but.
+Meredith Hogarty: So it says use a QR code or use an activation code.
+Marcus Irven: I think this is where you do the activation code. But maybe this is where the second email of the second text message comes into play.
+Marcus Irven: Okay, I need to go through this process. I get myself.
+Meredith Hogarty: I know these are always very confusing.
+Meredith Hogarty: They are done this multiple times. Account linked. Next, let's practice how to protect to your identity. Skip. Oops. Allow. Okay, show. Okay, I have the passcode. So I'm going to put that into here, put that into there or eight and then the PIN number.
+Marcus Irven: This is confusing. This is your pins. You, you create a PIN number here and you're going to use this. So just something you remember. Okay, so now you're set up with controlled substances.
+Meredith Hogarty: Okay, so let's. Hold on, let's be clear. So with controlled substances, do I usually it asks me like for my password.
+Meredith Hogarty: What is it going to ask me for?
+Marcus Irven: Let's try to go through it. Let's see if it'll work with you as a test patient here. Go to add a patient or add a prescription and yeah, you have to select the pharmacy here.
+Marcus Irven: What I was asking for the pharmacy. So enter the manage patient pharmacies. Yeah. So find your. Any pharmacy. I guess at this point that's not going to work.
+Meredith Hogarty: Okay. Okay. Add prescription.
+Marcus Irven: Okay. And then do a controlled substance. Oh, we can do your other DEA numbers. Let's not forget to do that before we. And then, yeah, go ahead and enter some information here. And then at some point it does ask you for either your PIN number or the duo. I think I've seen both at different times. I forget which is. Which is when, but. We're missing something. So optional. Refills. Go. And I think you could do next. And then you have to. I don't know if we want to do that. Is that going to actually send us a prescription to the.
+Marcus Irven: I could ask me for anything.
+Marcus Irven: I have seen it ask you for a PIN number and I've also seen it ask you. Ask you for like the duo code.
+Meredith Hogarty: So.
+Meredith Hogarty: So that's my question. Like the duo code. So to get a duo code, I just go to duo.
+Marcus Irven: Yeah, exactly. And then you should see like a dose spot.
+Meredith Hogarty: Okay, I got it. I know how to do it.
+Marcus Irven: Yeah. Cool. So yeah, occasionally I'll ask you for.
+Meredith Hogarty: That was my password. I know what my code was. Oh, and the password is just that. Okay. It's probably going to ask me for my code and my password. It always asks two things.
+Marcus Irven: Yeah, then it will. Yeah.
+Meredith Hogarty: Okay. Okay. Now the second dea.
+Marcus Irven: Yeah, let's do that. I'm going to share my screen this time. See here. Is it at a clinic? Okay, great. This is. You go to your credential, no license info. Here we go. So this one that you gave me was for Massachusetts or that you entered was Massachusetts.
+Meredith Hogarty: Yes.
+Marcus Irven: Okay, and then let me add your second one.
+Meredith Hogarty: My second one is. One sec. Okay. MH428422.
+Marcus Irven: All right, and what state is that?
+Meredith Hogarty: New Hampshire.
+Marcus Irven: Okay. New Hampshire, right there. Okay, you're all set.
+Meredith Hogarty: Awesome.
+Marcus Irven: All right, so two things for you. We'll get the transcripts being deleted, and then we will get your assistant set up next week.
+Meredith Hogarty: Awesome. And how do I go about, like, transfer. What's like, the process to, like, transfer things from your old. Your old ehr to this? How does that work?
+Marcus Irven: Great question. Becca's been the one that's been kind of leading that charge, and she was able to make this. Let me have. Let me follow up with you on that. What? And just so that I'm clear, what kind of specific things are you?
+Meredith Hogarty: Like, just like, data, like addresses, like if prescriptions can come in. Great.
+Marcus Irven: Just whatever you guys are bringing in. Yeah. Patient data from your EHR into jaw psych. Okay. Yeah, we have a tool for that. We can get you set up to have someone walk you through doing that when you're ready as well.
+Meredith Hogarty: And I have one more question. So I have a couple patients who have not given permission for the recordings. So if that's the case, is there a way to set up just a note that you can type into?
+Marcus Irven: Yes, there is. Yeah. When you go to the recorder, there's a little text box in jot Psych. I think it's called notes or something like that. Additionals. And you could type whatever you want. That's exactly the use case that people. Or one of the use cases people use.
+Meredith Hogarty: Okay. So, like, the additional notes, it's like, yellow. And then I. I type everything into there. And then what does it do you still.
+Marcus Irven: I think you still have to make a. Like a recording. This is probably something we should. We should. We should.
+Meredith Hogarty: Yeah, you gotta. Yeah, this is something to think about. So not every patient is giving consent.
+Marcus Irven: You could just do a little dictation. It could be like a short, like, you know, 10 seconds thing that just.
+Meredith Hogarty: But they don't want. So, like, is the dictation going to have anything to do with AI? Because. Because these patients don't want like AI involved in any way.
+Marcus Irven: I see.
+Meredith Hogarty: Like they won't sign off.
+Marcus Irven: Got it. Well, I mean, even in the additional notes AI is involved in to create the note, so it takes all of the different inputs, the voice and the notes and then.
+Meredith Hogarty: Yeah, all right, let me.
+Marcus Irven: Yeah, I'll get someone who can better speak to what our strategies on that to follow up with you on that.
+Meredith Hogarty: But yeah, I'll talk to my attorney too and kind of think about the consent because it just talks about a HIPAA compliant scribe. Like it doesn't talk about anything else. So it kind of just is what it is. Okay.
+Marcus Irven: Okay, great, great questions. All right, let me make sure I'm following up with you on deleted transcripts, on getting your patient, on getting your assistant onboarded, and then the EHR data migration, those three things.
+Meredith Hogarty: Thank you so much. Thank you.
+Marcus Irven: Really nice to meet you. All right, have a good weekend. Bye. Bye.
+Meredith Hogarty: Bye.

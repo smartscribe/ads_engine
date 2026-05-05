@@ -1,0 +1,122 @@
+Marcus Irven: Oh, just broke something in and then fixed it and now trying to fix it.
+ewong: Just one of those days.
+Marcus Irven: Nothing's great going as smoothly as it should. Jackson's here, but he's on another call that should be finishing soon, but we could go ahead and get started. Yeah, where are we at with Neo?
+ewong: Doing good? So I'm like a little bit behind just because this weekend's been a bit busy for me and like I plan to get it finished and pushed out by like the fixes. Finished and pushed out by Saturday night, but that didn't end up happening. And I should have updated about that. But 467 is pushed and early fixed to the PR for GDN 467 is pushed and merged. And it should be going through the deploy step for the GitHub action right now and should be done within like the next, I think this one takes like another six minutes probably. But yeah, it's good. So the integration that you asked about in Slack earlier. So the test for that, the way that I tested that was I mocked the SSM client. From like just using like an array and then made sure that the key that I got back was different than the one that was set in my. Process.env.
+Marcus Irven: Okay, but now that it's deployed to production now, right?
+Marcus Irven: I think it is. Yeah. Looks like all of your deploys are through mine. I have, I have one that's going through now.
+ewong: Oh, I see that one's yours. Okay, I see. Yeah. Okay.
+Jackson Bierfeldt: Yeah, it's should be good.
+Marcus Irven: Then. Okay, can we, so have you any Jackson?
+ewong: View tested it or what is the,
+Marcus Irven: yeah, just kind of where are we with production and what's tested and what's untested. It's just a linear mentions.
+ewong: Right? Yeah, Linear mentions and linear assign is tested.
+Marcus Irven: Oh, okay.
+ewong: Assigns there too. Great. Sign is just like a very easy, like is this something able to be assignable in linear to the JWT app? As far as like passing a configuration file or a prompt to a Jotworker like cocoa agent is that is figured out. That's the work he done for which discuss is like Roush.
+Marcus Irven: Can we just do a demo of both the mention and the assign.
+ewong: Yeah. I just tested. Commenting or. In a linear comment and it's not working. But it was earlier once I put once I once I or before I merged it was working. Let me try again. Okay, interesting. Yeah, it's not working. I'm not getting a like processing. Thing from Java.
+Marcus Irven: All right. How do we troubleshoot?
+ewong: Yeah, I'll have to look at the. Mention. I'll have to look at the process logs for the like the worker in AWS. I think that's where it comes through. Or if you look at, I don't know if it might be honeycomb. I'm not exactly like familiar with all of the things that we use to diagnose issues like this. Like I know honeycomb is one of them and then AWS is another one. Yep.
+Marcus Irven: Well, this could be a good.
+ewong: And also century I know is another thing that we use.
+Marcus Irven: Yeah, but it's not used on JotWorker. Let's just start by looking at the law, the logs of. Here.
+ewong: So.
+Marcus Irven: It'll be the ingress or the runner.
+ewong: I have no idea. What I would guess is the ingress because it didn't get a, I think the ingress is the part that sends a working, you know, on Friday how I told you about how. The ingress will process. And once it goes through the. Like the TypeScript file, I don't exactly remember what it's called right now. It is called worker.ts.
+Marcus Irven: I think.
+ewong: Yes. Worker.ts and there's a runner. Okay. So once it goes through worker, it sends a like working on it ping back to linear such that linear can understand like, okay, it's kind of like the reacting with eyes emoji on Slack and on GitHub. It's like, okay, cool. I'm working on this. This job has gotten put into the Postgres database and then a worker will pull it soon and then get that back to you. I'm not getting one of those. So I'm assuming that it'll be the ingress.
+Marcus Irven: Okay, well, why don't we just tell the logs and you want to try to do it again, see if we see something?
+ewong: Yeah.
+Marcus Irven: You're all GitHub jobs. Is it possible that the linear is not going to this and it's going to your Ngrok? Did you update the linear?
+ewong: Yeah, I did. It should be the callback URL, sure the webhook should be, oh, wait. Yeah, actually might be the one. Plugged might be set to a local test.
+ewong: Yeah, because there's nothing. Yeah, the webhook is actually set to my ngrok URL.
+Marcus Irven: That would do it.
+ewong: That will do it. Quick. Yeah, it should be quick.
+Marcus Irven: I don't remember if I mentioned on Friday, but the GitHub integration that you built, we are all super dependent on it now.
+Marcus Irven: We couldn't go back and function without it's so good.
+ewong: Awesome. That's great.
+Jackson Bierfeldt: Sometimes I find that call right now because I'm doing fixes from the GitHub in the back.
+Marcus Irven: Ground.
+ewong: Does it actually work good because sometimes like I find that. Yeah, okay, great. It actually designed like Claude designed that by itself, which that's pretty great. Like if I'm not, if you just hand off some of these things and you don't like really steer it in which way to go and you don't have an opinion, then it usually does it. Pretty well on. Cell.
+Marcus Irven: It's pretty impressive. Yeah, I just gave it a little tweak because I wanted it to do something, but in general the reviews itself are great.
+ewong: Okay, I'm updating the webcast URL right now. And the webhook secret.
+Marcus Irven: Ary.
+ewong: Okay, I've set the web hook URL. I think. I. Think it should work now. If not, then we'll have to. Yeah in the SSM parameter store. Not respond.
+Marcus Irven: Is there anything on linear that gives. Clue? What do you say?
+ewong: It's not responsible. Yeah, it's still not responding as in there's no, it doesn't get holding the. Worker. Yeah, like the worker hasn't even been, the job hasn't been handed off to a worker.
+Marcus Irven: Yeah, well, I'm telling you, I don't see my ice cream telling the ingress logs.
+ewong: Now.
+Marcus Irven: And it's just GitHub stuff.
+ewong: Maybe check the. Okay, let's see.
+Jackson Bierfeldt: I think the webhook isn't even the production jaw is not working either.
+Marcus Irven: Oh.
+ewong: In Slack.
+Jackson Bierfeldt: Yeah, I'm testing it again myself. But I just watched Nate message it and it didn't respond.
+Marcus Irven: The eyes, but then not. Responding from there.
+Jackson Bierfeldt: No actually it wasn't giving eyes now. Mine just got the eyes so maybe it is. Maybe ignore.
+ewong: Yeah, I'm not getting a response either just for oh no, I got a response.
+ewong: Okay okay cool. Okay that worried me because I didn't I didn't touch any of the like the regular code so I would be. Yeah okay so it seems like we're not seeing anything in AWS logs because the ingress isn't even reaching the server.
+ewong: Because linear is not reaching the web host yeah what you're saying? Yeah I think the let me check the linear app if there's any. Let me check because there will be web hook failure codes for if you look in the settings for the app and I would check those right now. Interesting.
+Marcus Irven: Okay well we don't have to we'll see let's see if you see something quickly but we don't have to turn this into a full. Troubleshooting we can do that async. I don't know you have another meeting?
+ewong: Okay so it looks like. Okay yeah so it looks like I'm getting a 401 invalid signature and before that was because the web hook is wasn't. Perfect. I think we might have to run the. The the deployment again like the git of action for Jaw worker. So I think what happens is that. The current webhook needs to be updated in the SSM parameter store. Because I don't think it automatically does so whenever the linear app updates because I changed the webhook URL in the actual. In the actual linear app but I don't think it's changed in in AWS right now. That like might be it because this is the same thing that was happening earlier I had my I accidentally set for one of the when I was reauthenticating linear I set the client ID or I set the web hook signing secret to the client ID on accident and I was getting a 401 signature error as well let me check. Web host.
+Marcus Irven: Okay nevermind I might be I might be wrong. Okay well let's. Troubleshoot this offline I think we could do that do this async. And I can help as needed. Let's just go so just back up here besides like kind of like troubleshooting this and getting to work as far as you know the mentioning works but it's not calling the jot worker right it's calling a new worker that you have that was what we talked about on Friday?
+ewong: Yeah right exactly. I have yet to investigate that I know you sent me the link for it that I've yet to investigate using the OAuth access token for the MCP server from Slack
+Marcus Irven: okay and then the assignment you said is is what would we expect of the assignment if this was if the author's working? It's it would call a web hosting a webhook to do what?
+ewong: Yeah so the the the end the webhook endpoint would would actually parse whatever issue it you know is given to it and then it would route this web hook to the like linear agent that would do the work that's what you said that you would work on right and then just like current is it
+Marcus Irven: what like what what is the current state
+ewong: doing yeah it would it would receive the issue but it wouldn't parse it because there's no parsing. Like file.
+Marcus Irven: Like let's see it's in so what would it post a job to the queue and then there's something that pulls it off and just not do anything.
+ewong: Yeah yeah the index.ts file doesn't even have the capacity to process like assigning assignment events right now so actually nothing would happen like I think it would just err.
+Marcus Irven: Like if you didn't assign I think what for next steps here let's get this working but let's get it so it doesn't air but just like logs something so we want to we want to have like a lot of like error things happening in our system that but I think those are the two things to kind of wrap up well okay and then I think the next step is getting the linear mentions to call the jot worker. Like we talked about.
+ewong: Yeah okay. So that's not the same job worker that's like conversing right now right that's just jot. So it's for conversations and then the jot worker would be for actual work that that's what you're designing
+Marcus Irven: right now well I was saying like you know how in the in the workers folder there's like three workers or three there are right now there's jot that's the one that handles the slack but that's the one that we want to handle the mentions.
+ewong: Okay yeah.
+Marcus Irven: So that's the change right right now I think you added a third like a new one called.
+ewong: Linear bot or something yeah yeah it's called just called linear yeah so I think okay so
+Marcus Irven: there's four right now yeah instead of calling winner we want to call jot that's the change okay.
+Jackson Bierfeldt: I have a question on that Marcus so John has a lot of pretty specific affordances for communicating back to Slack. Right like it if someone really long it turns it into a markdown file then appends that. Was all of that going to work if it's talking back to veneer.
+Marcus Irven: Yeah it should be able to based upon the context is passed to it when it's invoked know whether it's in slack like it also has crown just stuff in cron as well but it should know whether it's being invoked from slack or invoked from Chron or invoke for from linear so I think there's something with the context that gets passed to it when it gets invoked and then it should know in that case to when it's writing back it's writing back as a linear comment or however the right thing to do that's up to linear.
+Jackson Bierfeldt: Yeah so Eric maybe that's just something to like double check and pay attention to that it's like aware of its input source and its target output source and can you know make the decisions on how to communicate based on that?
+Marcus Irven: But does it makes me talking a little bit about the Son of Friday but just to kind of reiterate does make sense why we want to use the jot worker for this use
+ewong: case yeah, so it's just like there's a general like you can generalize a lot of things and like it there's a lot of persistence across the like no matter what interface. So you can just like talk to jot in one place and it'll remember context from you know another thing and then it like oh yeah I remember two days ago we talked about this on GitHub and then or not GitHub but we talked about this on on Slack and I'll change the status of it linear.
+Marcus Irven: So yeah exactly so it's just like the conversational about and we could talk to it from different places and we'll talk back and it has like you know that same personality and same kind of you know capabilities no matter where it's being invoked from the use case I really I really see it happening here is like right now right it has a lot of like skills about like investigating the code base and it could go to Honeycomb and like look at you know errors and that sort of thing and so from a linear ticket right you can imagine that someone created a linear test ticket that was perhaps it's kind of vague or maybe it's like about a specific area and as an engineer you're in the linear and before you like start to work on the task you want to like gather more context like does it is this a bug that's happening a bunch of times can we can we find the root cause so like that's something that right we do in Slack today a lot but like just doing that from linear makes sense just to kind of like update the ticket with like more information before we decide to prioritize it for example. So that's kind of like that's the use case I see here but yeah having that kind of same conversational capabilities and personalities no matter whether it's coming from Slack or linear or in the future other places is kind of want to do but here's what I would suggest doing or I'd like for you to do Eric before you go like too far into like the coding of this like kind of work through the plan you know like like Jackson kind of pointed out like whether how does it know the context of of of where it's talking to and how will it know where to talk back like kind of like work through that as a like design exercise and kind of share it with us before you kind of like go hacking into it too much I think it's worth you know worth it worth thinking about and you know maybe even talking with Jot in Slack about how to best implement this.
+Jackson Bierfeldt: Look at you know like a diagram obviously you can have Claude make it in markdown or whatever but just like something we're visually we can be like here's the current state here's what we want it to do here's how the control flow goes you know I think that would be a great artifact for us to have even just for you know increasing our understanding of how it works.
+ewong: Yeah got it.
+Marcus Irven: Very cool so I think okay that's that's kind of that's the priority for the next priority is just you know wrapping up this the linear stuff getting it you know getting to work in production obviously and then kind of updating and mentioning to to to do to work with the job.
+ewong: Worker.
+Marcus Irven: Got it.
+ewong: Okay so. A couple things so first get it to get the mentioned work in production and then did you want me to set the updating current linear integration to use. Like the jot space lowercase w worker. For the dimensions and then one for which is the assignment part.
+Marcus Irven: For the assignment part it sounds like you have it hooked up already to some extent right I just want I just want it so that the web hook gets fired and something gets logged somewhere like no errors just like something that would show that that like flow is working and then I'll pick it up from there.
+Marcus Irven: Okay I'll produce a yeah do do that before you like jumping into the updating dimensions piece.
+ewong: Okay. Okay got it. For the for for mentions like for the mentions like you guys said I'll make a like a PRD and then have current state what we want to do and the data flow of you know how it goes from Ingress to database to worker back to back to database and then to linear and then I'll have a diagram for it.
+Marcus Irven: Yeah the context that gets passed to the cloud to the cloud code that's just part of Ja and how that needs to change from Slack invocations to linear invocations.
+ewong: Got it. Did you guys have a chance to see what I this message that the messages that I sent. In in general earlier it was about some it's just like about cloud code.
+Jackson Bierfeldt: Yeah I did I found that really interesting.
+ewong: Something a lot of people have been have been thinking about or have been noticing really recently like I know across Reddit and Twitter a lot of people are are canceling their subscriptions because there's like a lot of like context window stuff and there's a lot of like people that think that it's one using more tokens and two it's dumber. Like really recently. I don't know if you guys wanted to to experiment with that.
+Jackson Bierfeldt: I think honestly it's probably above our pay grade at this point we're just so locked into, you know it is I mean I haven't had any any problems but it is good to just like keep an eye on that you know explain changes it sounds like Nate noticed something so yeah appreciate the the skillshare there.
+Jackson Bierfeldt: And then I guess my other question would just be as our like resident linguistic expert how's Jotz gen Z slang
+ewong: button it's like okay well like obviously it's. It's like it's still. I don't know it's still like talks pretty LLM ish but I mean he's he's doing like pretty good like low key.
+Jackson Bierfeldt: I think like.
+ewong: Yeah I think it really matters the language that's fed into it to begin with like if in your message it's very casual and like you're using slang then it'll most likely it'll be like. Yeah man I'm feeling that too but then it's like like for example like you said like self Jotmeister earlier like you said yo back whereas like if you did like a jot what is like you know please give me a formal analysis on what's what's happening here. Then it'll say it'll like it'll it's it'll apply in a very different
+Marcus Irven: if you go look at the pod dot if you look at the cloud MD file you'll see why that why that is.
+ewong: Oh yeah.
+Marcus Irven: Jackson gave the personality.
+Jackson Bierfeldt: Long-term memory to start teaching Marcus Gen Z slang anytime that he asks any question so yeah but it has to be has to explain it to me.
+ewong: Personality a little sarcastic a little caustic ultimately helpful and supportive you know how to have a good time pushback energy of the conversation yeah casual casual threads beside the technicals yeah that's also what I'm feeling. Yeah awesome.
+ewong: I mean at least it's following it's quantum D file that's good.
+Jackson Bierfeldt: Anything on your end Eric are we good to proceed this week anything you want to change or you know adjust.
+Jackson Bierfeldt: As far as you know work work flow goes.
+ewong: Should be good I was just thinking like I'm not sure. In there because in the future so I was thinking that like this weekend was probably a particularly busy weekend for me but typically like for example last weekend I had a lot of time to work on job like stuff during the weekend specifically because during the class during the week it's like mostly classes and then like I have assignments to do at the end of the week on Friday but then like afterward on Saturday and Sunday I'll have a lot of time to work on child psych stuff. Like I'm already finished with whatever I have to do and then I present to you guys on Friday then there's really not much for me to do on that following Saturday and Sunday so I'm like wondering if maybe we should do like a Friday to Friday thing instead of Monday to Friday. I don't know if that'll work better for you or like sorry not Friday to Friday Friday to like Tuesday I guess it would be or Friday to Wednesday. But like it might be a little that might be a little bit awkward.
+Marcus Irven: I don't know we'll see that you think the Friday Monday thing is too close together.
+Jackson Bierfeldt: Yeah like you haven't received the new assignment before the period where you're like most likely to be able to work on it.
+ewong: Yeah precisely. Yeah.
+ewong: Because you have more time on the weekends.
+Jackson Bierfeldt: No, that makes sense. Okay Marcus and I can can look into that.
+Jackson Bierfeldt: I actually think that if we just.
+Jackson Bierfeldt: Get things together we might even be able to do some kind of Friday to Friday thing where we like give you at least a sense of what the next task is going to be when you deliver the last one or I don't know we'll talk about it but I think that's a great point that yeah you have more time on the weekends and we can try to make sure that that lull doesn't come when you you don't know what to do. In general there's always going to be like catch up work and things to fix and finish. So I think it has. N't hasn't been a problem yet, but we can definitely keep that in mind as we plan out the next couple weeks.
+ewong: Yeah, for sure something to keep in mind cause like again, like I don't know if like this weekend is like one of many very busy weekends or if it's just like one of like you know or if there's going to be none and going forward and this will be the case where like I have a lot more time to work on job sex stuff. It might be like this weekend where like I'm kind of like split between a bunch of different tasks and it's like yeah, I don't know we'll just take it as it comes.
+Jackson Bierfeldt: So we got to make sure that you also go to like bar night and some say you parties and stuff like that, you know so don't well I don't don't forget.
+ewong: I haven't I haven't gone out to the frets since first year like November. But I do I like I go to dinner with my girlfriend and stuff and like I hang out with my friends and like last night played some basketball. So I'll be fine.
+Jackson Bierfeldt: We just wanted to check in because you know we saw you pull the old nighter the other night and we're like oh does Erica also doing college so sounds good.
+ewong: Thanks for noticing.
+Jackson Bierfeldt: All right Erica well thanks for all the good work.
+ewong: Eric. Thanks so much. See you guys.

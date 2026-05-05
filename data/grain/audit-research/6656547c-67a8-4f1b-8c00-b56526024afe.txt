@@ -1,0 +1,132 @@
+Christopher Hume: Hey, Monica.
+Monica Dyer: Hello. How are you?
+Christopher Hume: How are you?
+Monica Dyer: Pretty good.
+Christopher Hume: I. Did you guys get some snow down in, in Austin? Is that what I saw?
+Monica Dyer: Yeah.
+Christopher Hume: Oh, my goodness.
+Monica Dyer: It was icy.
+Christopher Hume: Yeah. Not typical weather for that part of the country.
+Monica Dyer: Yeah, definitely. No, there's still some snow out there from Saturday.
+Christopher Hume: Oh my gosh.
+Monica Dyer: Which is. Yeah. Very odd.
+Christopher Hume: Yeah. Well, I'm here with Jackson, so Jackson's our co founder and cto. And so what we're going to use this for, Monica, was just if you have your payer documents, we'll review those with Jackson and we'll get job audit out of those rules. We'll start setting them up so they're ready for you when you get back from vacation.
+Monica Dyer: Okay.
+Christopher Hume: Document, sorry, your payer documents with the insurance companies you use. I think it's. And Jackson, correct me if I'm okay.
+Monica Dyer: I've. I'm just credentialed right now through headway, so I think all that. But I am like working on getting credentialed with them individual, like all the insurance companies individually. So that's still in process.
+Jackson Bierfeldt: Yeah. I mean, just any documents that you have that, you know, outline what your particular agreements are once you get those with your, with your own insurers, or any documents that you use, you know, to help guide how you do your, your charging. So if your practice has anything, I don't know, is it just you. You're a solo practitioner. Yeah. So maybe you don't have anything developed yet, but if you do have anything where you say, okay, this is how I like to, you know, do my, do my rules or I always make sure to ask this or any guidance that you have and you want to shoot that over to us, we'll just load it into the system so that it's auditing all of your notes with your own context.
+Monica Dyer: For now. When it's related to insurance, it's the headway template. So that would be the only thing I would have.
+Jackson Bierfeldt: Yeah. And if you like that template and you want to keep using something like that, you can shoot that over to us and then we can make sure that we have that set up.
+Monica Dyer: I don't really like it.
+Christopher Hume: It's like the one that, I
+Jackson Bierfeldt: mean, we have a bunch of templates that you can choose to use.
+Jackson Bierfeldt: But you know, the whole point of this is that we just want to say like, hey, if you have anything that you're already used to or you. We work with some practices who are like, oh, well, the way that we do it is that every HPI has to have three direct quotes in it from the patient. And when we do the mental status exam, we always ask them to recall three different words, and we want the note to have the three words that we asked them to recall in it. People can have really specific stuff if you don't have anything like that. Totally fine. It's not necessary. But we just wanted to let you know that if you do, we can take that in and make sure that our system's up and running with your preference.
+Monica Dyer: Okay. I mean, I've basically been trying to modify the templates as I go to give me the sections that I need for the Headway template. Modifying the job site templates as I'm doing Encounters.
+Jackson Bierfeldt: Okay, great.
+Monica Dyer: I mean, the only.
+Jackson Bierfeldt: So then, yeah, for audit purposes, you just kind of want the standard stuff out of the. Out of the box. You don't have anything custom you're looking to bring in right now?
+Monica Dyer: Yeah, I mean, so using the existing SEG templates, there's a few sections I keep trying to fight the AI to keep an add on, just like trying to change it for permanently. And then sometimes it comes up later and sometimes it doesn't and, you know, maybe getting mixed up between the different templates and which ones I'm editing. But there's. There are sections on the Headway template that are not covered, like specifically parsed out. And so, I mean, that may be the best place to start since I am sort of stuck with them for now. I can see if I can just like copy paste that real quick. Without the patient data. Okay. I'm starting a new note for. Yeah, I mean, that was actually something I was thinking about. Letting y' all know would be useful is like having something that's like built for copy pasting to Headway for if people are going to be using this because, you know, we all have the same. So. Okay, here's another. Have not started.
+Christopher Hume: And Monica, I'm not actually familiar with what Headway looks like once you're inside. Is it sort of like an EHR where it has different fields where you put like the chief complaint, the hpi?
+Monica Dyer: Yeah. Yeah, it is.
+Christopher Hume: Okay. That's. That's something we're. We're working on. So I'll be sure to flag that for the. I mean, Jackson's here, so we'll flag it for him, but I'll flag it for the product team of an easier way to get things into Headway and those other.
+Monica Dyer: Yeah, just using their. Their boxes that you have to. To fill in with. Yep. Awesome. Okay. So you would. I email this to you the best way.
+Christopher Hume: Yep, that'd be perfect. I'm just chris@jotsack.com and then I'll get it over to Jackson and he'll make sure. The whole account is set up and ready. Because you're going on vacation pretty soon, right Monica?
+Monica Dyer: Yeah.
+Christopher Hume: Yep. So we'll get this all set up for you for when you return. We'll have that meeting.
+Monica Dyer: Chris.
+Christopher Hume: Yep.
+Monica Dyer: Okay. It's like copying and pasting the boxes as well in the email.
+Christopher Hume: But I'm sure we can, we can figure it out, right?
+Monica Dyer: Yes.
+Christopher Hume: I'll just let you know when it comes through on my end. Monica.
+Monica Dyer: Well, I'm having to go section by section here, so.
+Christopher Hume: Oh, okay. Take your time. I'm sorry.
+Monica Dyer: No, it's okay. Listen, it does have some patient data so I'm just like copying the categories. This is going to be rough. It's like not copy pretty.
+Christopher Hume: That's okay.
+Monica Dyer: Got a spelling error on this. Misspelled cholesterol. And then some of these are like checkboxes so it looks extra confusing when I'm pasting it. But I mean it'll be useful if it would somehow. Mark. I'll flag those icon. History of suicidal ideation attempts, self harm. Just less brain power. When you have to go through and click all these the better. This has got like of checkboxes under different categories. I'm not sure if it's. Going to copy and paste correctly. Screenshots will probably be more useful. Okay. This wouldn't order at least. Then yeah, skip the mse. Well, I'll just put it there like. Okay, so it's really the assessment and plan. Sections that and then like medical necessity, Informed consent discussions that I'm like having to generate, like prompted to generate. So those are at the bottom. And then.
+Christopher Hume: So you said you've been trying to train it and sometimes it's been working and sometimes you have to fight with it a little bit. What are you trying to train it to do? Is that like a structural thing or is it a content thing? Because this is something we can make sure we have kind of set up for you.
+Monica Dyer: So assessment and plan. They it comes out like assessment thing, plan thing, assessment thing, plan thing. And then on headway it's like the entire assessment and the entire plan and so gotten it to do those separately. And then when it comes to the add on psychotherapy they it's also. It's a similar structural issue. So it's like describe the interventions you selected in this section and then treatment goals and how the patient responded. And then. But the psych one has it kind of like in a paragraph form. So I'm trying to get it to rearrange it those so I can fill in the blanks here. But it's generally been working. And then sometimes I'll just go over to chat GPT and be like rearrange this.
+Christopher Hume: Rearranges. Yep.
+Monica Dyer: Okay, so I think that's it.
+Christopher Hume: Perfect then. Yeah. Once you send that over, Monica, we'll take a crack at kind of getting everything set up for you. And then we'll be ready to review. Let me just make sure on the. On the February 23rd. Could that be right when you're back?
+Monica Dyer: Yeah.
+Christopher Hume: Okay, perfect.
+Monica Dyer: I'm working next Tuesday. I leave next Wednesday. But we're going to New Orleans this weekend.
+Christopher Hume: Oh, my gosh. Super fun.
+Monica Dyer: Yes. Yes.
+Christopher Hume: No snow there. I would assume.
+Monica Dyer: It's gonna be cold, though. It's gonna be freezing.
+Christopher Hume: Really?
+Monica Dyer: Yeah.
+Christopher Hume: Oh, my gosh.
+Monica Dyer: Doing, like, parades and things like that. The early Mardi Gras catch a break, it won't be too bad. We went and walked around out in the snow the other day, and we're like, okay, we can do New Orleans. This is fine.
+Christopher Hume: Yeah, yeah. Up here in D.C. i mean, the roads are still a ton of snow, the sidewalks pretty unbelievable. Let me see here. Okay. I just got the template. So what we'll do is we'll see kind of how this needs to impact the rules and your job site setup.
+Christopher Hume: So hopefully you'll have something a little more customized when you get back, then you can try it out, and then we can start rolling out. If you want to do eligibility checks or billing as your credentialing comes through, you'll already kind of have everything set up the way you like.
+Monica Dyer: Okay, awesome. Well, so, like, when I have my own credentialing, then.
+Christopher Hume: I don't know. Yeah, then. Then we can adjust, and we'll adjust the rules based off your specific contracts or the payer contracts. So it's like whatever you need to do or whatever the note needs to include. The note will include to make sure that you're getting paid for the appropriate code. And it'll flag any mismatches there. But for the time being, we'll just review that template, see if you need any customization, and then. Yeah, be ready to roll. Jack, am I just missing anything? Is there anything else we should collect here before we get started on customizing? Monica Jaw Psych?
+Jackson Bierfeldt: No, I think that's all we need to get started for you, Monica.
+Monica Dyer: Okay, can you tell me a little more, like, how the billing works?
+Christopher Hume: Yep. So for JOT Psych JOT Bill is kind of. It's three. Three components. So there's the JOT audit. This is what we're setting up for you now. Where JOT Psych will flag, will one, create your notes in a way that lines up with your rules and your templates. And two, it will flag any sort of mismatches between the session and the CPT code you're planning to use. Let me see if I can actually show you that.
+Monica Dyer: Now, does the audit correspond to the insurance company? I know different payers have different requirements.
+Christopher Hume: Yep, yep.
+Monica Dyer: Certainly would something you would set up?
+Christopher Hume: Yep, that's what we would set up. Exactly.
+Jackson Bierfeldt: Yeah.
+Jackson Bierfeldt: And for that we would need your payer contracts. So once you are credentialed and you have those relationships, we can bring those in. So then we can start customizing the audit based on which insurance that you're seeing that patient.
+Monica Dyer: Okay, so y' all have that, that data of the requirements of the different companies and customize it according to that.
+Jackson Bierfeldt: Yeah, we can pull that information out of the contracts that they, that they send with, with you.
+Monica Dyer: Okay. Okay.
+Monica Dyer: That's what you're asking for. Got it. Yeah.
+Monica Dyer: I haven't gotten that far in the process, so.
+Jackson Bierfeldt: Yeah, yeah, once, once you get, you know, credentialed, they're going to send you. Each one will send you like a 400 page PDF that is designed for you to not be able to understand any of it. But you just hand that over to us and we take it from.
+Monica Dyer: Okay, awesome.
+Christopher Hume: You'll see Monica is on the right hand side. You'll have this audit tab. And so this is Joe Schmo's note. I guess I didn't do such a good job. Because it'll identify rules at risk. So MDM or time documentation doesn't line up and it's identifying a code mismatch and so it'll flag this for you ahead of time. So that's step one. And then we have both staff and automated process. Once you sign the note here that we can submit your pairs for you, submit for your reimbursement. And then if there's, God forbid, any audits or anything like that, we handle the appeals as well.
+Monica Dyer: Okay, and last time y' all mentioned that you were working on incorporating prescribing. How, how far off is that?
+Jackson Bierfeldt: We're running our first pilot project on that next week, so we have some beta people that are going to be testing that. But it's on our, you know, roadmap for this quarter, certainly.
+Monica Dyer: Okay, and will it include controlled substances? Yes. Okay, and is there additional charges for that?
+Jackson Bierfeldt: We're still working out the pricing structure for that, but yeah, there will be some additional charge. It doesn't come with, with the software, but it's going to be, you know, standard compared to what you find with any other ehr.
+Monica Dyer: Okay, and is it an ongoing cost or like a sign up cost?
+Jackson Bierfeldt: You know, I believe it will be a additional monthly cost.
+Jackson Bierfeldt: Okay, so not, not like a one time thing, but something that, you know, increases the, the monthly subscription price.
+Monica Dyer: Okay, and then how about labs is that. And then. Trajectory.
+Christopher Hume: Yep. So you can actually create a lab request from a note. Now, I don't have my information input here, but yes, you can create. Let's do a baseline bundle digital sign. Goodness. Well, I'm sorry I don't have all my information up here, but then you'd be able to generate those lab request forms right. From the node itself or from a patient.
+Monica Dyer: Okay. And that faxes. But then results are through fax or is it integrated in the chart in any way?
+Jackson Bierfeldt: The results are not integrated into the chart yet.
+Monica Dyer: Okay. Okay, that's another piece. I had one suggestion too. Is something I really like about Charm EHR is that they are integrated with fullscript and so I have like a full script account. And so if I'm recommending any supplements or herbal things to people, then I can. It basically sends me to the fullscript site. But they're integrated so that all the patient's information goes into fullscript so I don't have to like re. Enter it over there.
+Monica Dyer: Yeah, that would be an amazing addition for the visual part.
+Christopher Hume: And is that to just make sure that there's no complications in between, kind of what they've been prescribed and all of that?
+Monica Dyer: Yeah, I mean, you can do interaction checking, but the. The cool part is like, you know, the patient's like address and information and everything is there and so you don't have to like reenter it. And I can just say, oh yeah, let me just send you this recommendation. And then I get, you know, percentage of. Of what they're. They're buying there and stuff. So it would be. It would really attract a lot more holistic providers and stuff for jobs like, I'm sure, because. Yeah, that integration is really cool.
+Christopher Hume: No, that's awesome. And you're certainly on the right call. Monica Jackson. Yeah, it's kind of chief architect. So I'll make sure it gets added to our kind of backlog of ideas for the. For the product.
+Monica Dyer: Okay, cool. Yeah, it looks like they integrate with a lot of different EHRs, so they'd probably be excited to work with you.
+Christopher Hume: Yeah, no, and kind of the more value we can offer, the better, right?
+Monica Dyer: Yeah, for sure.
+Christopher Hume: So I guess Monica then. So we have our stuff to set you up for the get. Getting you off the ground JOT audit or anything else you need support with. With jot Psych. I know hopefully you're not working too much before you go on vacation, but anything we can support you with?
+Monica Dyer: I. Well, okay. Last night I started a patient visit and then I hit record. I was like Oops, I forgot to start it. And then I didn't realize I was already signed out, so it was like an hour and a half. Visit and oh my goodness didn't record anything. Oh no. I was thinking, I mean like one, one of the mini tabs I had open of jets like had it logged out, but that tab didn't show that I was logged out. And so if there was like a pop up or you know, it just takes you out of that screen basically. If. I mean that's kind of annoying when like all of your tabs take you out of a screen, then you don't get back to where you were. But if there's someone you could know when you're like hitting record that like this may not work because you're not logged in.
+Christopher Hume: Oh my gosh. Yeah, no, that's it. I'm sorry to hear that. So frustrating.
+Monica Dyer: I like hit record again and just kind of narrated everything I could remember and it came. Okay, but.
+Christopher Hume: Okay, wonderful.
+Monica Dyer: But wanted to give that feedback because I was like, seems like there's some kind of design thing have. May have been that was on Firefox, just FYI. Is there a browser that's more compatible?
+Christopher Hume: Roam is probably the best for using Jot Psych.
+Monica Dyer: Okay.
+Christopher Hume: Yep.
+Monica Dyer: The Googles.
+Christopher Hume: Yeah, the Googles. Yeah.
+Monica Dyer: Okay, well might switch to that then. But yeah, for. Oh, okay. Another thing, patient privacy. I saw a discussion about like ICE request requesting records from people from therapists and practitioners and how like they said, third party platforms like Headway Alma may not be as secure, especially like venture backed ones that would be, you know, like less in the health world and just kind of like, okay, we have to give this data because it's our company, some kind of, I don't know, assurance about like how that would be handled if it ever came up.
+Christopher Hume: Seems, oh my gosh, unfortunately relevant now.
+Christopher Hume: So I not a lawyer, so I certainly can't speak to kind of our that side of things. But what I can tell you is a cute little if and when you delete information from job psych, it really is gone. Like we can't get it anymore. Like kind of a bummer when people reach out to the help desk, say hey, I deleted the wrong note, can you recover it? We truly cannot. So if that's a concern for you or maybe a concern among a certain subset of your patients, you can either not use their name so you can create notes without inputting any patient information, or you can delete the note afterward.
+Monica Dyer: Unless I'm prescribing.
+Christopher Hume: Unless you're prescribing. Unless you're prescribing. Of course.
+Monica Dyer: Yes. Okay. Yeah. But if I'm using it like an electronic health record, then I wouldn't want to be deleting things.
+Christopher Hume: Yes, that is correct. You transition to using us as your ehr and you're signing.
+Monica Dyer: Yeah, but yeah, just so it's on Yalls radar that maybe that's like thing that you need to communicate to practitioners in the future.
+Christopher Hume: No, that's a really important kind of scary thing that we all have to think about.
+Monica Dyer: Yeah, for sure. For sure. All right. Yeah. Those were wonderful things I wanted to bring up.
+Christopher Hume: No, thank you. And then I hope you have a wonderful, wonderful trip. I'm jealous.
+Monica Dyer: Yeah.
+Christopher Hume: Look, look forward to kind of connecting and hearing all about it and kind of getting you up and running with the. The new. The kind of these new features when you return.
+Monica Dyer: Okay, Sounds good.
+Christopher Hume: Awesome.
+Monica Dyer: Thaw out up there sometime soon.
+Christopher Hume: Oh my gosh. I hope so too. Stay warm. Thanks, Monica. Bye.
+Monica Dyer: Bye.
+Jackson Bierfeldt: Thanks, Pat.

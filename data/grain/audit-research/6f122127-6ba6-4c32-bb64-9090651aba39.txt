@@ -1,0 +1,161 @@
+Jackson Bierfeldt: It. Hello?
+Jorge Valcourt: Hey, Jackson. How are you?
+Jackson Bierfeldt: Good, good. I don't know if you saw Nate's message, but he's running a little late, so he'll join in a minute, but that's fine.
+Jorge Valcourt: You're looking sharp today. What's going on?
+Jackson Bierfeldt: I'm flying. I'm flying.
+Jorge Valcourt: You are getting married today?
+Jackson Bierfeldt: No, no, I'm. I. I just am traveling today and I like to. I like to have a jacket on when I travel, you know.
+Jorge Valcourt: I see that. Where are you at?
+Jackson Bierfeldt: I'm in D.C. right now, but I'm heading to Colorado. That's where I have most of my friends and family down there.
+Jackson Bierfeldt: So I'm just gonna go visit for a while.
+Jorge Valcourt: Which part? Boulder.
+Jackson Bierfeldt: In Boulder?
+Jorge Valcourt: Yep. Is that right? Nice. Yeah.
+Jackson Bierfeldt: Have you been out there?
+Jorge Valcourt: Oh, yeah. Oh my God, I love it.
+Jackson Bierfeldt: I miss it so much. Being in the north right now, I'm just like. People don't understand. I mean, Florida's great, but like Colorado's got the same sun, but we don't have the humidity and all that. So I'm pretty excited.
+Jorge Valcourt: Yeah, I spent there. I mean, I haven't been back to Colorado in a few years, but we spent a good two weeks there. My sister in law used to live in Boulder. They were working for Amgen back then. And it was beautiful. I mean, we spent so much time outside. We went to see. We went to an NBA game, we went to a baseball game in Denver.
+Jorge Valcourt: Yeah, it was great. It was a really nice time.
+Jackson Bierfeldt: Yeah, well, you got me all excited. I'm.
+Jackson Bierfeldt: I'm ready to go get on the plane right now.
+Jorge Valcourt: I hope you enjoyed, man.
+Jackson Bierfeldt: But yeah, so I think we have a couple things to go over. Hopefully you saw some of our Slack messages this week. So we just want to touch base on some of those things. And then I know you wanted to ask about something related to our pricing to report to the board on, so.
+Jorge Valcourt: Yes.
+Jackson Bierfeldt: How do, how do you want to structure the meeting here? Whatever way you want.
+Jorge Valcourt: So first, I did see the messages you put through Slack. Janet has been sick. She hasn't been in the office for a few days now. So I saw your messages. I think that's something. I will have to leave for Monday. We can, we can put up. We can set up a meeting for, for Monday. We can tackle all those. All those things. So that's. That. The messages, I believe we can. We can meet on Monday. The pricing thing, we. We spoke about the billing, how we're going to be paying for that. Right. It's a percentage. I believe it was 5%. And then the next tier was 8%.
+Jackson Bierfeldt: Yeah, we do 4, 6 and 8.
+Jorge Valcourt: So 6. We. I think we got the one in the middle.
+Jackson Bierfeldt: Yeah.
+Jorge Valcourt: Okay. And we spoke that the. No creation will go with data. That percentage. I will be included in that. In that package. Right. Okay. So that's.
+Jackson Bierfeldt: That's right.
+Jorge Valcourt: But we didn't speak about the ehr. We have been talking about ehr. We have been working on the ehr. We have been adding patients to the system. And I, I don't have it clear how we're going to be paying for that. Is it in the package? Is it separate? How is it.
+Jackson Bierfeldt: Yeah, great question. My understanding is that we're. If we're doing billing for you, then you're just going to get the, like, JOT psych software. You know, with that, definitely the EHR is not going to cost extra. The only thing that might be extra, and I need to check on this, is the E prescription, because that is like a whole separate service that we have to pay. I mean, we're just passing that cost along, frankly. So that one, we might charge like the extra monthly seat fee for the number of prescribers that you have, but for the scheduling, the forms, the EHR stuff, the patient management. If we're doing billing with you, you're just going to get all that bundled.
+Jorge Valcourt: Okay, sounds good. And I believe I asked Nate a few weeks back that the fax. The fax system is going to be added down the road to the system as well. Do you see that coming sometime soon or that is when the. For the. When you open the office in Mexico?
+Jackson Bierfeldt: Oh, yeah, yeah. They'll be our. The first piece of work they do down in the Mexico office. But no. So what, when you say fax, do you mean, like, US Receipt? Like giving you a fax number, and then when you receive a document, it, like, shows up in jot. Psych.
+Jorge Valcourt: Well, let me, let me, let me tell you how I have it right now and how other companies, other companies have it. Now they have been offering it to me and I have it. I've said no because I'm waiting for you guys to, for us to start working together. See if that can be part of the services. Right now I have Freak central. All the faxes go through RingCentral. We have to download each document and add it to the patient chart, upload it into the patient chart. That's how we have it right now. It's a lot of work.
+Jackson Bierfeldt: Yeah.
+Jorge Valcourt: Okay. Other companies right now, Advanced md, our current ehr, has a system where it integrates the facts into the ehr. It comes into the EHR and you just move it into the patient chart.
+Jackson Bierfeldt: Right.
+Jorge Valcourt: Much easier, much faster obviously. So at some point, if you guys want to look at the ones, the ones the one Advanced has, I can maybe do something so you can get an idea of how it works and maybe mimic it. Or if you already know how it is, just find it for me to find out when it's going to happen. If it's going to happen.
+Jackson Bierfeldt: Yeah. So that one I can tell you. We've already like in our language, we've scoped that project. We know that when we build it, we're going to do exactly what the Advanced MD does. We're going to work with, you know, we're not going to go set up our own fax machines obviously we're going to work with a third party that makes the number and then, and then we're going to make it so that faxes go to that number. They just show up as PDFs inside of JOT Psych. That is what we're going to build. It is not on our like two month roadmap right now though. I can just be honest and tell you that we have other things we're doing first. But that is the model we're going to go with because we agree like we don't want you to have to open some other software, download the file to your computer, upload the file into JOT Psych. It's just unnecessary.
+Jorge Valcourt: Yeah.
+Jackson Bierfeldt: But yeah, it's not on our like two to three month roadmap.
+Jorge Valcourt: Okay, that is fine. That is fine. I just need to know I move in. I think we're moving at a good pace here.
+Jorge Valcourt: Yeah, I am not going to sign up for anything else. Any new service with Advanced at this point.
+Jorge Valcourt: Yeah, I'm just going to wait until we are ready to move over to J and then let advance die slowly.
+Jackson Bierfeldt: Yeah.
+Jorge Valcourt: Okay, so that's sounds great.
+Jackson Bierfeldt: Well, the good news on that front is I was very hard at work all week on the dual signature feature, and we just pushed that into the software last night.
+Jackson Bierfeldt: So we're running we're running our final tests on that today, but on Monday it sounds like we're going to get that Monday meeting. We'd love to show that to you and get your providers to start signing notesy. That, I would say is the main thing we need to do in order to even start killing Advanced MD is just get your providers pressing the sign note button in jot psych. So the only other lingering thing there is the template. So we did meet with some of your providers and go over the new template that we built, which very closely mimics your advanced MD template. We've seen the adoption on that to be a little spotty. So some of them.
+Jorge Valcourt: Psychology.
+Jackson Bierfeldt: No, in psychiatry. Your prescribers. So I'm not exactly sure if it was, you know, because we only met with, I think, one of your psych NPS. I don't think we actually met with Dr. Nodal. We just met with. I'm sorry, I forgot her. Was. Was it. Oh, Angelica. Yes. So I think we met with her, and I don't know who was supposed to pass it on to everybody else, but maybe that's something you could look at. I don't know if you have a slack channel with them or something, but if you could just say, hey, you know, they built us this new template. We want to start moving over to this. You should all know where that template is. Like, please start using this template. And if not, if there's a reason that they've cried the template but it didn't work or is missing something, let me know right away because our number one priority is just making sure that that template works for them. So they can start pressing sign and then Dr. Nodal can start pressing cosign. Because once we have that flow, I mean, we're just like one skip away from actually starting to bill everything, start working on your denials and like, really actually making the economic impact that we want to do here. So, yeah, I would say getting the providers to use that template and then start pressing sign, all of which is ready to go.
+Jackson Bierfeldt: It's really just like, on them to start doing it. We want to do that as soon as we can so that we can, you know, keep moving ahead here.
+Jorge Valcourt: No, no. Yeah. And I don't know why they're not using it. Jackson.
+Jackson Bierfeldt: Yeah. And no worries. I figured there was probably. My theory is that there's some communication breakdown, someone got busy. You know, it didn't actually get out to everyone. So I guess I'm, you know, business owner to business owner here. I'm like, sometimes you need something coming down from the top. That's just.
+Jackson Bierfeldt: Yeah, hey, I agree.
+Jorge Valcourt: And I have been visiting that office way more often than before. I was there this week. I was there twice.
+Jackson Bierfeldt: Yeah.
+Jorge Valcourt: For the whole day before. I was there maybe for two, three hours. And then I left to her office, so. And now with Melissa, I mean, Melissa was. Yeah.
+Jackson Bierfeldt: It's hard when you lose someone like that. Yeah.
+Jorge Valcourt: It was the engine of the documentation department. In psychiatry. So now without her, I. I got this other boy that he. He's learning, but he's not as sharp as Melissa was, so.
+Jorge Valcourt: So I'm trying to get him up to speed on things, and I am trying to keep as much hair as I. As I can, but it's not. It's not working out. So we will see how that goes. I'm gonna be there again next week. I'm gonna be there Monday. We know that. I'm planning to be there again Friday of next week.
+Jackson Bierfeldt: Okay, great.
+Jorge Valcourt: Okay, so.
+Jackson Bierfeldt: We'll set up that meeting for Monday to just, like, go over everything, show you the new signing thing. So anyone you want to be on that meeting that needs to see it, maybe your new documentation head that. That guy you just mentioned. It would maybe be good for him to see it so that he can actually see, like, here's where the button is. Like, if I need to hold someone's hand through it, he can show them. And then if you want to just send them a message today or something, just being like, hey, we need you to use this new template. The plan is to start using this instead of advanced md. We're going to be making that transition. The first step is like, you know, this new template that they built is supposed to be like our advanced MD1. And I fully expect that there might be one or two pieces of feedback on that where they say, oh, but actually this used to be formatted like this, and now it's this way. Fully expect that. And we want to just hear that as soon as possible so that we can fix it.
+Jorge Valcourt: Okay. But it's fine. We just have to set up the time for that meeting. But definitely, I will make sure that Ellewing, he's the new documentation person in psychiatry. Chris, she's the person in psychology.
+Jackson Bierfeldt: Okay.
+Jorge Valcourt: And that's where we have the real bulk of providers, so she needs to be in that meeting for sure.
+Jackson Bierfeldt: Okay.
+Jorge Valcourt: Janet will be there, and I will. I will see if another builder is there, too. She's the one reviewing the notes before the claim goes out. I don't think you have met her yet, but she reviews a lot of notes, so it's good that she sees and provides feedback on. On the demo or whatever it is, you guys.
+Jackson Bierfeldt: Yeah, and we should get her. We should get her an account so that she can actually look at our codes that we're suggesting and she can, you know, flag it early on if she's like, oh, these are completely off and we need to make some tweaks. So we'll. We'll get her set up with an account, too, so she can start looking at stuff.
+Jorge Valcourt: Okay, what do you need me to send you her name and the current email address or. Or what?
+Jackson Bierfeldt: Yes, that would work. And then we can send her the information. Yeah, she just needs to make an account ahead of time, which, as you know, takes one minute. So we could even just do it on the call if we don't get ahead of her, a hold of her ahead of time. But if you send me her name and email, we'll just send her something ahead of time, being like, hey, we're meeting at this time. Please have this account set up, and we'll show you what to do from there.
+Jorge Valcourt: Okay. Okay, great.
+Jackson Bierfeldt: And then you want faxing? I got it.
+Jorge Valcourt: Yeah, no, no. That's something that at some point, Jackson, and not only for me. I mean, for the clients who want it.
+Jackson Bierfeldt: No, you're not the first person to mention this. It's just. You know how it is. You have to figure out what you do when and
+Jorge Valcourt: what I tackle first and what to do later. It's fine. Yep.
+Jackson Bierfeldt: We want to do the billing magic thing. Before we actually do the like, you know, little tiny things. Because right now it still does work to just drag the PDF and it's annoying, but like we're trying to just be like, hey, let's change the entire game on this billing thing first. And then we can, you know, add in all these.
+Jorge Valcourt: Nice to have open more things. Yeah, yeah. I have been bombarded with emails this week from Athena. Athena, help. Finally, they. They walked by the office the other day. They saw us and they have been. They. I don't know who in front of us gave them my number, so.
+Jorge Valcourt: Oh, no, they have been calling. I want a dam or one of them. I want a demo.
+Jackson Bierfeldt: Yeah, yeah. I can't be too mad at them because we do the same thing. I'm sure that's how we got your number.
+Jorge Valcourt: No, no, that.
+Jackson Bierfeldt: Sales, it's fine.
+Jackson Bierfeldt: We sent someone a fruit basket and.
+Jorge Valcourt: Yeah.
+Jackson Bierfeldt: Or maybe it was all right. Bus. I don't know what we do in Miami, but it's fine.
+Jorge Valcourt: I. I understand it, but at this point, I do not want to. I want to see the fruits of all the time we have put into this.
+Jackson Bierfeldt: Yeah.
+Jorge Valcourt: You know, that's what I wanted to happen. And if it doesn't, hopefully we don't have to see bad results. But if it doesn't happen, I want to see the bad results now so we can work on them and get through them and get it to work.
+Jackson Bierfeldt: Totally.
+Jorge Valcourt: Okay.
+Jackson Bierfeldt: Yeah, we're on the same page and we're at the exciting point now where like, everything's, you know, we've been slowly collecting all your information, getting everything set up. So we're like really just like two clicks away from just turning this on, which we're super excited about. So just as long as everything keeps moving over on your end, we should be seeing some results here soon, at least. Getting data, you know, that's the most important.
+Jorge Valcourt: Yeah, I agree. The only thing we need to keep our eye on Jackson and just because once we move out, we move over from advanced to collab. Going back, it's going to be a mess. Just because documentation and all that's going to be a mess. So whatever you see that, that could be a risk or something that we need to consider before we pull that plug. Let me know.
+Jorge Valcourt: So we consider it too. And we. And we look for a plan B in case something, something.
+Jackson Bierfeldt: We're definitely very mindful of all of that because we know it's a lot to ask you to move a system of record over. So, I mean, we have everything in place as. As backups and triple backups and making sure that everything is, you know, nothing will ever get lost.
+Jorge Valcourt: You know, there's.
+Jackson Bierfeldt: There's. There's no risk of that.
+Jorge Valcourt: Okay. Okay, Good. And will you be able to transfer over documents from adv to collab?
+Jackson Bierfeldt: Yeah, we're working on that right now. When you say documents, do you mostly mean, like, the previous notes, or do you mean the intake forms or, like, what is.
+Jorge Valcourt: Man, I'm going to. Do you have an account in advance? Already or not.
+Jackson Bierfeldt: We do, we do have an advance.
+Jorge Valcourt: Okay. When you, when you get a chance, take a look at a, at a, a charts. Yeah, random charts. And take a look at what's there. You will see that they, they upload. Insurance card.
+Jorge Valcourt: Yep, insurance card. The driver's license is there. Referrals, letters we prepare for the patient or letters we get from the patient. The notes, obviously, intake packets, everything and anything will end up in that, in that chart.
+Jackson Bierfeldt: Yeah, yeah, no, we'll, we'll bring all that over.
+Jorge Valcourt: Okay.
+Jackson Bierfeldt: Yeah, because we don't want you to, like, you know, even if you use us for everything going forward, it's going to come up where you're like, wait, two years ago they sent me this form from their other therapists. Like, where is that?
+Jackson Bierfeldt: So of course we have to make sure you have access to all of that.
+Jorge Valcourt: Plus we have audits that they asked for records from two, three years back.
+Jackson Bierfeldt: Yeah. Now what were you just so out of, for my curiosity, what were you using before Advanced?
+Jorge Valcourt: Man, we have been with advanced since 2018. Yeah, practice, we use Practice Fusion for about a year.
+Jackson Bierfeldt: And what did you do during that transition?
+Jorge Valcourt: Man, we, how did you. I, I, I started the office in 2015. Practice fusion. Just a few, a few patients. 20, 30 patients per week. Once I moved to the Miami Lakes office that I had six cubicles that I need to fill, I said, hey, it's gotta happen. Now I moved to Advanced and that's when we had the volume of patients and just, we kept practice institution open for about a year.
+Jackson Bierfeldt: Just to have those records.
+Jorge Valcourt: Yeah, just to have the records. And then we let, we let a Practice Fusion die.
+Jackson Bierfeldt: Okay, so they didn't like print them all out and mail them to you in a box?
+Jorge Valcourt: No, no, no, no. I don't want to see papers.
+Jackson Bierfeldt: I don't want to see paperwork. No one, no one wants that.
+Jorge Valcourt: No.
+Jackson Bierfeldt: But I was just curious what you did in your last transition so that we can be mindful of, of anything there.
+Jorge Valcourt: Yeah, it wasn't that many patients in Practice Fusion now in Advanced, I mean, seeing 80, 100 patients per day for now, seven, 80 years. You can imagine that they are, I don't know how many, how many patients. It's got to be in the thousands.
+Jackson Bierfeldt: Yeah, no, I'm sure we'll make sure to have, you know, some, some strategy for that. Obviously, in the first couple weeks here, you know, we're, you're not going to cancel Advanced MD entirely, but we will have a way to actually fully bring everything over. So that you're not just paying that subscription, you know, just have access to your previous records.
+Jorge Valcourt: Okay. Okay, that's fine. And one last thing, Jackson. I am about to start providing a new service in Miami Springs. Miami Springs is the other company, Peak Health. Okay, it's a aba. Do you know what that is?
+Jackson Bierfeldt: People have been talking about that. I can figure what's it stands for.
+Jorge Valcourt: Applied Behavioral Analysis. It's more play therapy. And they.
+Jackson Bierfeldt: That's right.
+Jorge Valcourt: Graphs and how the behaviors change with. That's. That's a basic of it. I don't know enough to right now. The person doing ABA for. For us said that that Advanced should work. He can create a template, and he can be able to. He should be able to give you notes. I assume that we can do the same in jottec. I mean, if he was able to come up with a template in Jobs and Advanced, he should be able to do the same in Jack, right? You don't see an issue?
+Jackson Bierfeldt: No problem there at all.
+Jorge Valcourt: Yeah. Okay, good.
+Jackson Bierfeldt: And then even if he wants to record the whole session, probably less useful, like, he can just do dictations, you know, to start. So whenever he goes into jot psych to make a new session, he can just be like, okay, here's what I saw today. You know, just talk for one minute and it'll just like start the template based on that.
+Jorge Valcourt: Okay.
+Jackson Bierfeldt: We have a lot of people that do that with things where it's more play based and they don't want to, like, bring a microphone in the room for two hours or whatever.
+Jorge Valcourt: So.
+Jackson Bierfeldt: Yeah, that's. That's no problem at all.
+Jorge Valcourt: Okay.
+Jorge Valcourt: Do you have.
+Jackson Bierfeldt: Yeah.
+Jorge Valcourt: Do you have patience?
+Jackson Bierfeldt: Sorry, go ahead.
+Jorge Valcourt: Do you have clients that offer ABA services?
+Jackson Bierfeldt: I'm sure we do, because people bring this up all the time. So I was. I would say if we could just get a sample note from this, ABA therapists, you know, just one to three notes being like, hey, you know, when I've done this before, here's the note that I've done. If we can just get that, then it's very easy for us to start up a template so that he can just start trying that.
+Jorge Valcourt: Okay, that's fine. I can ask Diego. His name is Diego. I can ask him for a template, and we can. We can get it. We can take it from there.
+Jorge Valcourt: Okay, sounds good. Nate, how are you?
+Nathan Peereboom: Good. I'm so sorry for running over. There's, you know, I was on a customer call, and I just couldn't get off it. I apologize, Nate.
+Jackson Bierfeldt: Don't worry. I told Jorge that we're actually taking 58% of all billing now, and we did, like, a little pricing change, and he was super excited about it.
+Jorge Valcourt: Yeah, he did great.
+Nathan Peereboom: Well, we always like to anchor at 58%. And then, you know, when we actually charge only 40%, people are really happy.
+Jorge Valcourt: Yeah. Thank you, Jackson. Yeah. Good sale?
+Jackson Bierfeldt: Yeah, I'm great.
+Nathan Peereboom: But do you guys need anything from me? I.
+Jackson Bierfeldt: I think we were just running late here. I think we were just wrapping up. Jorge, is there anything else that you needed to go over?
+Jorge Valcourt: No, I need to make sure that the people that we need to have in that meeting on Monday is there so we don't waste any more time. Janet is in the office today. She's getting up to speed on the things that she didn't take care of. When she was out. But we. I see her in six minutes in our staff meeting. So be sure to let her know about this Monday meeting. Anything else that comes up that you want to add to the agenda, if you can let me know, please let me know so we can prepare and we don't waste time.
+Jorge Valcourt: I think we're ready.
+Jackson Bierfeldt: If nothing else, the main thing is that we just need you to put on the pressure to be like prescribers. Use the new template. Start signing notes on Monday. We'll demo the whole new co signing thing. And if you're new. Sorry, what was his name? The. The new.
+Jorge Valcourt: Okay.
+Jackson Bierfeldt: Edwin can be there so that he can just see where the buttons are. So that he can just help everybody. I mean, it's very obvious. Everyone should have no problem finding the buttons. But.
+Jorge Valcourt: Yeah. Yeah.
+Jackson Bierfeldt: So that's the main thing. Everything else will take care of Monday, and I think we're good from there.
+Jorge Valcourt: Okay. So, Jackson, thank you. Hope you have a good flight and you enjoy your Nate. Thank you. Good seeing you. I'll see you guys again on Monday.
+Jackson Bierfeldt: Take care.
+Nathan Peereboom: Thanks a million, Jorge. Take care.
+Jorge Valcourt: Bye. You too. Bye. Bye.

@@ -1,0 +1,65 @@
+Bill Eberhart: Clearly. Hey, there's mate.
+Nathan Peereboom: No take, Bill, you would laugh. I've been using your whole dramatic pause method on my sales calls this week, and people love it. People actually really like the long pause, so that was a good guidance from you.
+Bill Eberhart: What's you going to say?
+Nathan Peereboom: Hey, brittany. How you doing?
+Brittainy Wagner (Tidemarkva Admin): Good. Are you ready for this call? It's in, like, 30 minutes. Because they have, like, 260 providers.
+Nathan Peereboom: Yeah, yeah.
+Nathan Peereboom: Let's just maybe talk about it for 15. And then I'm going to take probably 15 and just prepare, like, read through all the background docs and just be in, like, you know, my A game for it. Why don't you guys? Yeah, Brittany, you want to give maybe the background?
+Brittainy Wagner (Tidemarkva Admin): They're a company that's very, like, surgical in their conversations. So I would be prepared to answer very key specific questions. The reason why I referred them to you is because they're basically. They did everything right, documentation wise, but they're still going. They have, like, a crap ton of transcribers. That they use manually as part of their quality assurance reviews and stuff. So they really need to know about, like, jaw audit and being able to, like, oversee those things and what's missing. And it's because Melina, like, extrapolated 38 claims out of a total of 8,867, and said that they owed $1.8 million back because of timestamps on clinical notes and stuff. So if you. Yeah, and so they're, they're in the middle of that. And what we were finding is there are office Ally subscription.
+Brittainy Wagner (Tidemarkva Admin): It was only showing the supervising provider that signed the clinical notes and not the rendering, so it was only showing the co signature. And. And that's what Molina considered to be fraud. And so that's why they're looking into something like this. But I think, you know, for them to come to the table, they've got a lot of revenue because they've got a lot of psychiatrists and stuff, but in order for them, to come to the table. I think they're going to be asking potentially about, like, do you have discounts for, like, large corporations? Because there is. There are so many providers, right?
+Nathan Peereboom: Yeah. Yeah, that totally makes sense.
+Bill Eberhart: I want to also say if. If you consider the middle of this lawsuit literally, I would say give me a few of your notes. And I will run them through my. System and I will give you the results. Of what? The system?
+Brittainy Wagner (Tidemarkva Admin): Yeah. What I'm going to do is I'm going to pitch it because I've got their. Their clinical notes that Melina audited. I'm going to suggest in that call. Hey, if you're okay with it, why don't we run their clinical notes and see exactly, you know, how it returns.
+Nathan Peereboom: Yeah, I think that that's really smart, and it's a low risk thing for them as well. Brittany, it sounds like you and Bill really have your fingers on the pulse here. I'm happy, of course, to, like, you know, do my. What's the term that you use?
+Bill Eberhart: The dancing bear.
+Nathan Peereboom: Dancing bear. I'm happy to be a dancing bear. But, Brittany, it sounds like you really understand the nuance here, so I'm probably going to let you lead, and I'm just going to. You know, you can plug me in and pull me in whenever like you think is appropriate. You know, based on that, and you've seen the pitch a bunch of times, so you know exactly.
+Brittainy Wagner (Tidemarkva Admin): They're not going to need any pitching around, like statistics and how you've helped, you know, other people, like, and how many light notes that they've signed. They want to know specifically how you can make them audit proof and maybe like, a small background of, like, why your company was formed, I think will help them with that. When you, when you talk about how your parents or providers and things like that, I think that'll really hit home with them.
+Nathan Peereboom: Amazing. Yeah, that's really very, very, very doable. So I'll start out with kind of company story, personal background, and then be like, hey, what we noticed was that the reason people hired us to be there ascribe was singularly because they wanted protection from insurance companies that were coming back to clawback. Revenue. And here's the tool we built.
+Brittainy Wagner (Tidemarkva Admin): We work with Tidemark.
+Nathan Peereboom: They're the best in the business at like, actually filing claims and appealing. But, like, what we do is the pre audit before and that way, Our story makes sense, too.
+Brittainy Wagner (Tidemarkva Admin): Okay.
+Nathan Peereboom: Yeah, that makes.
+Bill Eberhart: Keep in mind. They want to keep their existing Their bill, or maybe on the call, they want to keep their existing internal billing team burnout. And they don't. And they may or may not want to.
+Brittainy Wagner (Tidemarkva Admin): Basically, they're using me as kind of like, guidance for their lead biller, like, because I've got.
+Bill Eberhart: Yeah, she's she's on her, she's, she works on a lot. She's on the law. She's works for she's on retainer. She works for the law firm currently. That that is, that is that is taking on this case that's representing this this group practice, and there's two
+Brittainy Wagner (Tidemarkva Admin): more cases after this, so it's going to be another. I'm probably going to be on retainer for like, a year and a half with them.
+Bill Eberhart: So, a question.
+Nathan Peereboom: Do you think that it's worth it for us to pitch? The JOT bill analysis where we look through all of their billing claims and things like that. Is that helpful?
+Brittainy Wagner (Tidemarkva Admin): Yeah, I think that that would be helpful if we pitch that to them too, because they were interested in kind of doing their own proprietary ehr, but they haven't really delved fully into that, you know. Because it's a huge system overhaul. But I do know that whatever they're going to want, they're going to want, like, some reporting, you know, capabilities, because they have to have it to be able to function.
+Nathan Peereboom: Great. Okay. Yeah. So let's. Let's pitch on kind of. Yep. Those are the two features. It's just the jot audit feature and the job bill analysis. And we'll keep it really simple.
+Brittainy Wagner (Tidemarkva Admin): Yeah. And what they're specifically would be helpful is do you have any kind of reporting functionality that shows how long that recording went for? Start time, stop time.
+Nathan Peereboom: Yeah, there should be that. That should. That should exist.
+Brittainy Wagner (Tidemarkva Admin): If you can tell them that there is a report for that, that will sell them. Because this is the thing that broke their case. Because they're having to log into 260 providers worth of doxy me accounts to get timestamps and then cross match. It up against appointments.
+Nathan Peereboom: Yikes. Okay.
+Bill Eberhart: Right. Right. So, being, I would also push the fact that you're going to auto suggest a CPT code so the billing team doesn't have to think, neither does a provider. And also the diagnosis code.
+Nathan Peereboom: Yeah. Okay, cool. Perfect. All right. Well, it sounds like a pretty standard pitch, actually, now that. Now that we're all putting it together. Great, great. Well, let me. Let me take, like, 20 minutes, do a little bit of, like, just mental preparation. But this seems great. And it seems like everything's continuing really well. We just kicked off with Dr. Alec. I know we've got a few other things kind of moving through the pipeline here, but.
+Brittainy Wagner (Tidemarkva Admin): Yeah. Amanda with room for change, basically says she can't convert unless you can match twofold.
+Nathan Peereboom: Okay? Gotcha. And what is twofold doing? What's their price?
+Brittainy Wagner (Tidemarkva Admin): I think it's $29 a saint.
+Nathan Peereboom: 29. Okay. Great. Super helpful. I think we have I think we have another meeting with them on sometime next week. Right?
+Brittainy Wagner (Tidemarkva Admin): No, I just know that that was she's she mentioned it once in a follow up email test and then she mentioned it once when Bill met with her on Tuesday, I think it was. And so it's something that's weighing heavy on her mind.
+Nathan Peereboom: Okay, great. Yeah. So we've got a meeting Monday with her. And that's really helpful to hear. I think that.
+Nathan Peereboom: I mean, how receptive do you think she would be to, like, the return on investment math? Because, like, if you save one claim a month, you pay for it, you know?
+Brittainy Wagner (Tidemarkva Admin): I think, you know, with, with therapists it's a little bit more. The billing is easier. So there's not as much like, there's no medical decision making model. It's all just time, duration based. So, you know.
+Bill Eberhart: That's right. And she's mostly therapy. The cost to benefit ratio for her is ridiculous. Like, literally almost audit proof.
+Brittainy Wagner (Tidemarkva Admin): Yeah, already.
+Bill Eberhart: Because they're just therapists. They're not.
+Brittainy Wagner (Tidemarkva Admin): Like, the only, the only protection that you could have would be, like, you know, upselling the fact that providers aren't going to copy and paste their notes, you know, like, for that, you know, that would be the only selling point, I think. And what I've kind of piggybacked off with her is saying, hey, we're using this exclusively, like, with Mental Health Managed, you know, even though we haven't, like, officially signed up for anything because she's partnering with us, with our mso, I was like, it makes sense to have similar technologies. You know?
+Nathan Peereboom: Right?
+Brittainy Wagner (Tidemarkva Admin): And that's kind of the angle that I've been working with her, and that's how I got her to the table.
+Nathan Peereboom: Okay, perfect. All right, well, yeah, we can dovetail that talk track for sure.
+Brittainy Wagner (Tidemarkva Admin): Yeah.
+Nathan Peereboom: All right, perfect. Anything that either of you guys want me to keep in mind for this coming week?
+Brittainy Wagner (Tidemarkva Admin): We are in the process. I set up my business entity for like, Timer VA Services to start separating out the money for it. And we've got a different checking account, so some of that stuff is going to be switching where it should have been like that all along. So you're going to see some light disruption. In that?
+Bill Eberhart: Yeah, we're trying to separate the therapy business from the Tidemark VA business, but there's still very much directly linked, so, I mean. But now I know why I didn't separate the business up to this point. Because the fact that all the money is coming into one place. All. All the businesses. And I'm like, okay, now I got to have now to slow the convert over. Now the expenses go here. Now I have to send an invoice over here. To this other. But it's basically we're making sure that the money isn't co mingling for the IRs and making sure that it's. It's. The entities are separate.
+Bill Eberhart: Because, like, when you're looking at our QuickBooks account, you're looking at three different freaking companies.
+Nathan Peereboom: Yeah, exactly. Exactly. Okay, great. Great. Super helpful context, I would say, for both of you. Like, don't feel like you have to do that on our behalf quite yet.
+Brittainy Wagner (Tidemarkva Admin): You know, we're still, like, in this because of what we're doing with our MSO agreement, because we're transferring ownership of Todd Martin Therapy to a medical director. So because.
+Bill Eberhart: Because we have to. Because of the medical corporate practice medicine laws in Texas.
+Nathan Peereboom: Makes sense. Oh, my gosh. You guys. You guys juggle more balls than anyone I know.
+Brittainy Wagner (Tidemarkva Admin): Yeah, and we want to quit juggling some of them as much as we can.
+Nathan Peereboom: I get it. I get it. All right, perfect. Listen, I'm going to log off, go review my notes for Brain, and if you guys think of anything, just shoot me an email in the next, like, 15, okay?
+Brittainy Wagner (Tidemarkva Admin): Okay, thanks.
+Bill Eberhart: Thank you.
+Nathan Peereboom: All right, thank you both. Take care.
+Brittainy Wagner (Tidemarkva Admin): Bye.

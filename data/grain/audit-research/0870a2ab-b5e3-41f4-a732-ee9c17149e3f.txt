@@ -1,0 +1,181 @@
+Becca Bressler: Hey, Joseph.
+Joseph Ike: Hello. Hello.
+Becca Bressler: How are you doing?
+Joseph Ike: Good. How are you?
+Becca Bressler: I'm good. Go blue. I like the Michigan sweatshirt.
+Joseph Ike: I know. Except we didn't win.
+Becca Bressler: I. I'm super excited to have you on this call and walk you through what we' doing. I know you've expressed interest in prescribing with dots like before through our customer. I think you've spoken to one of my colleagues or through the customer support. Quick question for you before, though. Are you able to use it, for instance, like prescribe a medication through it, a real medication, even though you're using a different software?
+Joseph Ike: No, I haven't actually sent a medication before. I typically will come across people asking me for control substance and because, you know, it comes up with a lot of challenge trying to fill in or feel it. So what I've done up until this point is to write out the script. It was very quick. The nurses write it out, and I just, boom, boom, send it out, and then, oh, I have the noses. Just call it in. But for control, you know, typically, because you can call it anything, you know, it gives that challenge. And that's why I reached out.
+Becca Bressler: Got it. So you've never used an E prescription or.
+Joseph Ike: You mean here or somewhere else?
+Becca Bressler: Somewhere. Anywhere.
+Joseph Ike: Oh, yeah, yeah. Oh, yeah. Oh, I do. I do.
+Becca Bressler: Oh, yeah. Okay. So great. I'll ask you some more questions about that in the past, but for now, you're saying there's no issue with you submitting prescriptions through a prescription platform because you're not tied to anything else. So we're good there. Are you interested in, like. So we can do this one of two ways. I can get you. I can get you on job audit. You can try it. You can. We can do this one of two ways. So I can get you up on it for free and you can send like a couple prescriptions, but then I would roll it back pretty immediately because I want to know that it really works properly and works for you or if you're interested. We could just sign you up right now. So JotRx, the re prescription is $69 a month. It's $10 for the first month. We know some people have like, switching costs and stuff, so we want to be mindful of. Of that if they're moving from other platforms. Which of those works better for you?
+Joseph Ike: I think I'll probably do the, the first one you mentioned.
+Becca Bressler: Okay.
+Joseph Ike: Because I don't have. Yeah, I don't have a lot of script that I'm sending out electronically for now. And so I mean, if I, if my patient decided to switch, then 100%, I can reach out back and. But for now, it's mostly, you know, controlled substance and that even maybe one prescription a month.
+Becca Bressler: So you can, you can submit controlled substances through this platform. So it's. Yeah, it allow this. The cost includes both of those things and it allows for submitting controlled substances.
+Becca Bressler: But that said, if you aren't writing it a lot. Do you even have any prescriptions to submit right now that we could even see if it works or you don't have any right now?
+Joseph Ike: I don't have any. Let me see one of the people that I discharged, So maybe one of the people that I dis discharged. Oh, okay, you know what? Okay, you know what? Give me, if you give me one second so I could possibly pull. You know what? Hold on a second. I think I did. You don't have any demo.
+Becca Bressler: I can walk you. I don't have a demo video I could send you. Yeah, I don't have a. I could walk you through it. So let me. I've already signed up, though, so let me find. Let me log. Let me log out of this for a second and I can sign into one and show you.
+Joseph Ike: Give me one second. Find this one.
+Becca Bressler: All right, let me know when you're ready, and then I can share my screen.
+Joseph Ike: Let's go ahead.
+Becca Bressler: Okay, so let me walk you through this. You can see my job site. So if you go to, say, a patient, there's a couple ways that you could do this. If you go to a patient, you would be able to prescribe from the medication tab right here. Do you see my screen? Oh, I think you're muted, Joseph.
+Joseph Ike: Okay. Yes, I can see now.
+Becca Bressler: Okay, great. So one way of doing it is from here. The other way is if you are at the recorder because we know a lot of people are prescribing during their session. You're able to prescribe directly from the recorder as well.
+Joseph Ike: Okay.
+Becca Bressler: And then when you click takes you into dose spot and it'll take you directly into that patient. You have to set the patient up so for the first time. But it will pull the patient information from JOT Psych Start and set up a patient inside DoseBot, which is the vendor. And this you can add or edit drug allergies, view coverage details about the patient, and then, you know, view their patient history with their. With patient consent as well as add a patient. And so. Or add a prescription.
+Becca Bressler: And so you would start by looking at the pharmacy. Let's just see. Looking at my own local pharmacy. Let's see. Pick the pharmacy hit next. And then. Yeah, and then search for the medication that you would want. Oral tablet, you would list. The diagnostic diagnosis code is optional, but you know, the delivery method, method, the dose quantity, etc. Any notes for the pharmacy. And then you would create the medication. And you can also do this for prescribed substances at. Well, I'm not able to walk you through that right now, I don't think. But there is a. Yeah, I would need to review kind of a document. But. But yeah, this is essentially what. What this looks like. Like. But if you don't have a prescription to send, it might not be worth setting you up here because ultimately I'm really wanting to just make sure that it works for a real user. We've obviously tested it in our settings, but we're not clinicians.
+Joseph Ike: So I do have a patient that. I have a patient right here. And hold on a second. I can also give more seconds. I can also find this guy that I was trying to prescribe. Okay. Oh, this is. Okay, I'm almost there. Okay. I think this one. Truly, I think it's this one. I want to try both Control and uncontrolled. Or just control.
+Becca Bressler: Yeah, we could do both. Do you have that possibly available to like to send?
+Joseph Ike: Okay. Yes.
+Becca Bressler: So if so, let me just. Give me one second. Okay. So I. Joseph, are you able to share your screen with me? Because then I can actually walk you through this.
+Joseph Ike: Okay.
+Becca Bressler: It.
+Joseph Ike: I'm trying to pull up that patient first and then I can. Alan williams. Alan williams. Doesn't look like he's here. He's not here. Can I just. Can I just create him new?
+Becca Bressler: Yeah, you can create a new patient in JOT Psych.
+Becca Bressler: And then you'll just have to make sure the information is there. Can you go ahead and share your screen with me so that I can just kind of walk you through?
+Joseph Ike: It looks like I deleted after I saw him, so entire screen, window screen. Okay, let me.
+Joseph Ike: I want to make sure I'm sharing the right one.
+Becca Bressler: Great. Amazing. So to start, Joseph, I want you to sign up for this. I'll refund you so that you're not actually charged, but you will have to, like, technically subscribe to it first. So if you go to your practice at the top and then go to your plan. Actually, can you refresh your page? Refresh your whole. Yeah. Okay. So now go to your practice. There we go. Clinicians. So do you see the pencil icon next to Actions?
+Joseph Ike: Actions.
+Becca Bressler: So under Active Members, there's your name, the tier, and then there's like add ons and Actions.
+Joseph Ike: Oh, you're.
+Becca Bressler: Yeah, yeah. So on that, and then select JOT RX and then hit Save Changes and I will refund you. You'll. It will look like you're getting charged, but I'll refund you the charge. So now what I need you to do is go to Practice Settings. Right here. You can see a tab that says Practice. Practice Settings. So there's a. Yeah, right there. So now scroll down and connect to E Prescriptions. So now you'll have to fill in this information for your. Yeah. Your phone Number, your address, etc. It.
+Joseph Ike: Okay.
+Becca Bressler: Okay. Okay. So now if you can click IK in the top right corner.
+Becca Bressler: Top right corner, there's a blue circle that says ik, your initials.
+Joseph Ike: All right.
+Becca Bressler: And then hit my access. If you look on the left hand side, there's like a list of things, you know, clinician languages. Yeah. Go to my access. And now scroll down and keep going. Oh, you don't. Let's see. Sorry, go back up for a second. Oh, I guided you in the wrong place. I think it. Go, go back up. Scroll up for a second, click on clinician and then scroll down here and keep scrolling, keep scrolling. So E prescription. So now you have to incorporate a bit more information when you're set to set up your dose spot account here as well. So if you just fill this in. I think you might need to put your number and fax number in, too. And if you are going to do prescribed substances, your DEA number.
+Joseph Ike: This is mandatory. The phone number, Yeah.
+Becca Bressler: All right, great. Now, once you've got all that information in there, you're just going to hit register for E prescribing. Great. So now let's create your patient that we're going to send a prescription for.
+Joseph Ike: Do I need this one?
+Becca Bressler: Bison state, you don't technically need this prescription, but so we can just go ahead and create a patient.
+Joseph Ike: Okay.
+Becca Bressler: So do you see patient up top? On the top? Bar patients? Yeah. If you click that. And if you want to find the patient you're going to prescribe for, or if they're a new patient, we can. We can set it up. Yeah.
+Joseph Ike: I need to go find this. Okay, maybe I can find it. Give me one second. So I need to go get the details. I have to fill out all these things. The address and everything?
+Becca Bressler: Yes, I believe so. So.
+Joseph Ike: Whoa, that's a lot of time. Okay.
+Becca Bressler: Okie dokie. Okay, so now. Now you're gonna hit connect for er. Oh, sorry. So the patient, the city and state, it looks like you have in the street address, whereas you need to move the city to Austin, Texas, zip code.
+Joseph Ike: 17.
+Becca Bressler: It. Okay, so first you have to go through, like, identity proofing, which is the requirement of the platform, etc. And then sign the agreement. So these are just some onboarding steps for you.
+Joseph Ike: So I have to view this or.
+Becca Bressler: You don't have to view it. You can exit out, but these you have to do to complete before you can move forward.
+Joseph Ike: Why is it. Why is it asking for all my details?
+Becca Bressler: For your what?
+Joseph Ike: Why is it asking a lot of personal questions?
+Becca Bressler: This is just for, like the identity proofing step. I don't. It's a requirement of. Oh, this is. What are those errors? Oh, okay.
+Joseph Ike: It. It's asking through my selfie and the driver's license.
+Becca Bressler: Yeah, yeah. This is the identity proofing step.
+Joseph Ike: Would like access to your account. It.
+Becca Bressler: It. All righty. Okay, so. So you're in. Okay, so go back to the pat. It would be in your. One of the jot psych tabs on your computer.
+Joseph Ike: Skip. This one.
+Becca Bressler: Yeah, yeah. And then hit prescribe.
+Joseph Ike: Oh, prescribe. Where's prescribe?
+Becca Bressler: So it's down by medications.
+Joseph Ike: Medication. Okay, great.
+Becca Bressler: So this is then how you would add and send a prescription. So can we go through that. That process?
+Joseph Ike: Okay. Search by name. I thought I already. Oh, the name of the pharmacy.
+Becca Bressler: Yeah, wherever you want to send the pharmacy.
+Joseph Ike: Whatever. Oh, okay. I cannot see. I have to. Give me two seconds to go. To go find it. Is that okay?
+Becca Bressler: Yeah. Go for.
+Joseph Ike: All right, I got it. I found it.
+Becca Bressler: Great.
+Joseph Ike: All right. Heb. Pharmacy, austin. 7112 ed bluestone. So 1, 1, 2, One, one, two.
+Joseph Ike: How come it's not going.
+Becca Bressler: So you are selecting which one Are you selecting the top one, first one.
+Joseph Ike: Oh, this one, yes.
+Becca Bressler: So you have to select it and then hit next.
+Joseph Ike: Oh, okay. Select and hit next.
+Becca Bressler: For this patient. Yeah. You want to. Okay, so now you're just going to type in the name of the medication that you want to prescribe. You don't see it in the list?
+Joseph Ike: Not yet. Not yet. It's not showing up.
+Becca Bressler: So if you delete those, can you delete the for or can you delete hydro for a second and then can you scroll. Is there anything. Can you. Is it an oral solution? Is that what hydro is?
+Joseph Ike: Hydrocodone? No, no, hydrocol is a control substance stuff. Minofin, hydrocodone 325. Okay, I can see. Oh, it's not the other way around. Hydrocodone 325. 10. This one.
+Becca Bressler: Okay.
+Joseph Ike: Yes, that's right. Just have it differently twice a day.
+Becca Bressler: So you put your DEA number in right there. I think that is your number that you put in right here's my DEA right here. Yeah. What happens when you click it? Okay, interesting. So can you click X for a second at the top? Yeah. And then refresh your page. So now you see a notification in the top right corner. This is a step that you need in order to do the prescribed. The controlled substance.
+Joseph Ike: So I gotta install dual first.
+Becca Bressler: Yeah. So this is when you're prescribing controlled substances, it requires to authenticate it every time you do it.
+Joseph Ike: Oh, I see.
+Becca Bressler: It's like a. It's a security step.
+Joseph Ike: Oh, I see. Add your account, use a QR QR code or view the account, Use activation code. So what.
+Becca Bressler: What it. Yeah, what it means is when you open, when you get into your Duo account, you should see a code there.
+Joseph Ike: Oh, okay. So do next.
+Becca Bressler: Yeah, click next. And then you put the code in here.
+Joseph Ike: The code use. Is it use activation code or use a QR code? But I don't have any QR code.
+Becca Bressler: You see the activation code, like the numbers. I can.
+Joseph Ike: Okay, maybe I should. Yeah, I think you put the numbers.
+Joseph Ike: Passcode, Use, er, code stage reference. Is that a reference number? I search or what do I search? Or maybe say use QR code. I don't have to.
+Becca Bressler: I don't think you do. You have the Duo app downloaded?
+Joseph Ike: Yes.
+Becca Bressler: Do you see the numbers in there when you open it? There's like a passcode. There's like six numbers or some amount of numbers. Like, let me.
+Joseph Ike: I think it's part of the process saying add your account. I downloaded it and it's going on and saying add your account. So I don't know if I already have everything all installed. Duo. Yeah. So that's where I don't have to show you, but as part of the installation, as soon as I downloaded it, it's asking add your account. Use a QR code or view the account list for other options. So I use a QR code or use activation code.
+Becca Bressler: Do you see an activation code?
+Joseph Ike: No, it doesn't show up here. I don't see any activation code here either. On the.
+Becca Bressler: Wait, let me go grab my phone for a second. Are you able to hold your phone up to the camera?
+Joseph Ike: I don't. This way.
+Becca Bressler: What's the bottom? So the top is use a QR code. What's the bottom one? Say activation.
+Joseph Ike: Use activation code.
+Becca Bressler: Can you press that? Is it pressable?
+Joseph Ike: If I press it, then it's asking me. Then it takes me to this side and that is pretty much an add account. So it's saying add account, but what account do I add? But then there's a. Let me see. That's. There's another link. Those spot. I sent you a link for two factor authentication. Duo.
+Becca Bressler: Do you see a different text by any chance?
+Joseph Ike: Name your account to continue. Continue. Account Link nest. Let's practice how to protect practice now. Skip. Skip Help do improve your services. Almost there. Code. Show my code. Passcode, 242-842-68 pin number. Pin number. Pin number doesn't show me pin number.
+Joseph Ike: Is it just for me to come up with a pin number?
+Becca Bressler: Yes. I think this is for you to come up with.
+Joseph Ike: Okay.
+Becca Bressler: Or I. I'm not sure actually. Let's. See what happens there you didn't have to create one anywhere else no.
+Joseph Ike: Just put in any what is anyone.
+Becca Bressler: Pick one maybe pick one and see if that lets you do anything okay.
+Joseph Ike: Okay let's see I just came up with something in my head so does it mean it's gone true
+Becca Bressler: so no now you have to do it again unfortunately because what was happening you weren't authorized before but now you
+Joseph Ike: okay so go to that pharmacy information now.
+Becca Bressler: Yeah so you have to do that all over again
+Joseph Ike: all over again 7112 Ed Bluestone that's HEB Pharmacy this one then do next and then what do I do next And I'll add the medication So I think they called it hydrocodone Hydrocodone Hydroco. Hydro. 10 3:25. 03:25. Schedule 2. What are they asking here okay can we do in Texas optional and then what else are they asking. Oh tablets take one tablets tablets Aura twice a day. All right and now to. Or pain. Let's do for seven days. Twice a day. Seven days. So that's 14. You know what? Let me do 14. Actually, no, let me do 28. 28 for 14 days. No day supply. Now I do two weeks. That's 14 days. 28. Yes. Review one, effective today, no more than zero. Oh, in Texas. Okay. Oh, pain. Create medication. Create medication.
+Becca Bressler: Yeah. So now that it's a. Yeah. And then hit next.
+Joseph Ike: Next.
+Becca Bressler: And then you have to click it again on the left. The box on the left.
+Joseph Ike: Box on the left.
+Becca Bressler: Or if you see that there's like a little square next to the medication. Yeah. Right down there, though. It's clickable.
+Becca Bressler: And then hit approve and send.
+Joseph Ike: Okay. Oh, boy. Okay. Okay. All right. So I think I was able to do that one. Go back and sign. Oh, invalid. Okay. Oh. Open the door. Man, this is a lot of stuff. Jesus Christ. Are you attempting to. Authentication approved. Are you trying to. Not sure. Is that it? Is that it?
+Becca Bressler: Sorry, I realized I was muted by accident. Yeah, so that. That worked. It said.
+Joseph Ike: Oh, I said reveal.
+Becca Bressler: So now can you click go back to patient landing?
+Joseph Ike: Patient landing way. Okay. Right here.
+Becca Bressler: Oh, no. On do spot.
+Joseph Ike: This one.
+Becca Bressler: Yeah. So do you see where it says back to patient landing?
+Joseph Ike: Oh, no.
+Becca Bressler: Go back for a second.
+Joseph Ike: Back to patient landing. Where's the answer? Back to patient.
+Becca Bressler: Can you go to. No. Can you go to patient overview? Can you click patient Overview? Okay, now scroll down.
+Becca Bressler: Can you scroll down to. And I just want to see Allen's prescription. Okay, great. So it looks like it's sent.
+Joseph Ike: Oh, I see. Okay, excellent.
+Becca Bressler: Joseph, this has been so helpful. So I can refund you and give you this for like a couple days, or are you interested in using it on job site, and then we can just sign you up after giving you the first month off for now.
+Joseph Ike: Given that I do this maybe once a month, I'm not sure if it's for now, so. But yeah, so. Because otherwise it's. I mean, if it's just gonna be once a month, I'm not sure if it's worth paying those extra. You say like 60 bucks?
+Becca Bressler: It is 69. Yeah. So if you're doing it once a month, then that's you. So you're only writing prescriptions once? A month.
+Joseph Ike: Because it's control substance.
+Becca Bressler: Got it. So you can write other prescriptions with this platform. It's not just controlled substance. But are you only rarely writing them?
+Joseph Ike: I'm really. Because like my hospital right now, they don't provide that. So most times people are just comfortable with doing the.
+Joseph Ike: The papers, writing the script. Like I was kind of scrambling around looking for the script because it's, it's not electronic, you know, but if, you know, maybe, maybe going forward, maybe I can have. And just have them kind of change that to electronic. But I mean, getting anything through the admin is like, it's gonna take maybe two more months or three, three to four months for them to even schedule to try to want to even listen. And you know, it's. So most of. I try to do my own thing myself and not.
+Becca Bressler: Okay, okay, got it. So let me refund you and yeah. So that you're not charged and reach out if you want us to get you on here. But can I ask you a couple more questions, Joseph?
+Joseph Ike: I'm not sure because I, I give more seconds. I'm not sure if my next patient is here. Budgeted 30 minutes, but one of my. I missed out on the. On my next appointment for 4 to 4:30. Let me make sure. And you know, whenever I first signed up, I requested for like two different templates. That's a progress note. But I just realized that a progress note has been deleted from my account. Not sure why. Like my own template, initial evaluation and then. And then progress. That's the follow up. But the follow up, I no longer see that. It just completely went away. Not sure what to talk. It's not.
+Becca Bressler: Let me look it up something really quickly. That's odd. I don't know.
+Joseph Ike: Did you say you were sending me a gift card or what?
+Becca Bressler: Yes, $50 gift card for your time.
+Joseph Ike: Oh, that's what. Okay. Okay. Thank you for that.
+Becca Bressler: Yeah, no, thank you. Do you have a few minutes for me to ask you a couple other questions though, about this, about e prescription?
+Joseph Ike: Give me a second. Let me. I'm still trying to log on to see if that my patient is on there. So if you can help me look into. To that place. That'll be.
+Becca Bressler: Yeah. Let me see.
+Joseph Ike: Oh, I think you love me. I'm from this one. Okay. I think it's probably this. Oh, yeah. I missed out on my 2 o', clock, so I may need to run.
+Becca Bressler: Okay, got it. Well, thank you so much for your help thus far. Joseph will send you a gift card and I really appreciate it.
+Joseph Ike: Thank you. If you help me, kind of send in the request please that I requested for two templates, the progress note and stuff, but it just disappeared completely from my.
+Becca Bressler: From your account.
+Joseph Ike: My account? Yes.
+Becca Bressler: Your progress template has disappeared.
+Joseph Ike: Yes, that's right.
+Becca Bressler: Okay, got it. Yeah, I will inquire about this.
+Joseph Ike: Okay, thank you so much. Thank you.
+Becca Bressler: Bye.
+Joseph Ike: Okay, bye. Bye.

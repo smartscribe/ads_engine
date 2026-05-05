@@ -1,0 +1,50 @@
+Ryan McAnelly: It sounds like it's been better than yours.
+Christopher Hume: But we're heading to the bottom of it, so it's all good.
+Ryan McAnelly: Absolutely.
+Christopher Hume: Cool. So let's go through front real quick. Let's just talk through. Some of the tickets. And then we can just talk about kind of how we're going to wrap up the trial period and next steps. And, of course, we have our meeting tomorrow.
+Ryan McAnelly: Too.
+Christopher Hume: For front. List. I searched the email address, the background account. Thanks for your shout. Yes, that's right. Correct. Response there about the account that got canceled, and I already did it.
+Ryan McAnelly: Okay, cool.
+Christopher Hume: Yeah. So she's good. This is correct again as well.
+Ryan McAnelly: Okay? Without my only hesitation with putting that there was like, I didn't know if she already trained it to do something like that. But we can look into that in the backend. Right?
+Christopher Hume: Yeah. I would probably just respond the way you did, and then the issue would be. The inside baseball thing. Is we actually have an issue with this feature right now. Okay, so probably the advanced thing would be like, hey, have you tried. Using the jcc training the jots like AI to do this. 123. But I mean, not this. This is the correct response. Cool. This is again? You see the Alden bush one that's up?
+Ryan McAnelly: Oh, yeah. Yep.
+Christopher Hume: Yeah, that's a really good question.
+Ryan McAnelly: Yeah, I didn't know how to handle that.
+Christopher Hume: There is currently no way to handle it. This is like a pure, like. Hey, thanks for letting us know. It should charge automatically. If it does. If you run into any access issues. This, I think, would be one that you'd have to actually elevate to me.
+Ryan McAnelly: Okay?
+Christopher Hume: We need to create some sort of admin tool for you to do this. But the insane way that we fix this now is we give them a trial day and then take away the trial day. It tries to charge them again. But that probably won't work here. Because if you see. Like that works if she's paying 150 bucks every month. For the same amount every month. You can just, like, reset it.
+Christopher Hume: Just, like, make it think that today is when the period starts, and it'll just charge her automatically. But if we put this to zero, If we gave her a one day trial then undid it, it wouldn't charge her 193. It would charge her 179. So we'd miss out. So this is one that, like, I need to. Oh, my. Clearly, this is someone who. Has issues with her payment set up. So supposed to charge on the same day? Every month. So this one was the 29th. And this one was late. This one was late. Once I'm on time. Late, very late. Late, late.
+Christopher Hume: Early tried, but it failed. So this is. Yeah. The response you had of Chris was appropriate.
+Ryan McAnelly: Okay, cool.
+Christopher Hume: Okay, let's see if there's any last ones that in assigned where you were involved.
+Ryan McAnelly: Okay?
+Christopher Hume: So any questions? Oh, I think the last thing for you, Ryan, is I would love to have you attend. We have a 2pm. Actually, we have 11:30. A M. Customer support call tomorrow.
+Christopher Hume: If you are free, I would love for you to run that.
+Ryan McAnelly: No, I'm sorry. I lost your audio there for a second.
+Christopher Hume: We have an 11:30am all tomorrow. I would love for you to run it, if you're free.
+Ryan McAnelly: 11:30? Yeah, it should be there.
+Christopher Hume: Perfect. So this is a trial and customer. So I don't expect this to like the advanced questions, but you never know. Probably more going to be like, how do I use the software, how do I train the notes? But I'll be on the call in case it gets into, like, hey, I want to. I want to use jot bill and just use an ehr. Can you tell me the specifics of your security posture? Like, I'll be there to help you with that, but I think kind of an issue. That happened last time was I probably jumped in too quickly. So I'll really try to stay out of the call tomorrow. Unless, like, if you need me at any time, just kick it to me. Like, I don't need this to be painful, but my instinct is always to just, like, jump in and help the customer. Year of training. So I will leave it to you, unless. You kick it to me.
+Ryan McAnelly: Okay, that makes sense. But, yeah, if I know that going into it, that I'll have control.
+Christopher Hume: Yeah.
+Ryan McAnelly: Yeah.
+Christopher Hume: And I'm not going to do any weird like. Oh, I think Ryan's going to be confused. Here, let me jump in. I won't do that to you tomorrow.
+Ryan McAnelly: Okay? But I'll take it to you for sort of.
+Christopher Hume: Yeah, yeah, that's fine. Okay. Any questions, comments, stuff like that? For me? No. Okay?
+Christopher Hume: This so interesting. Then what I have for you, Ryan, just like next steps. And this is kind of what I told Joya during our session yesterday that you weren't in is that, yeah, this has been great. I'm going to sort of review kind of the work that you enjoyed do on your written assignments is the wrong way to describe it, but on those kind of emails and articles, for. For her and kind of just like. Discuss with Nate and the rest of the team. Kind of how everything went this week. Where I think your strengths are, where I think kind of there could be a fit. And then we'll kind of get back to you on next steps. Kind of what would work for us? A decision on next steps. Some point next week. Just to be frank, I. Typically when we do this trial period and then kind of make decisions, it's not instantaneous. It's typically the middle or end of the following week. So I think no matter what the decision is, Like no expectation for you to support job SEC next week. We'll follow up with kind of what we think next steps. You'll let us know how that sounds for you. If we're on the same page, we'll continue that relationship the following week. If not, no harm, no foul, make sure everything gets paid. Any questions about that, and I can also answer these tomorrow. I want this whole process to be like, it's clear as possible. I don't want. Yeah, I'd be like, oh, what's going on? What's Chris doing? Why haven't I heard from. Not a bad sign. Not a good sign. It's just usually the beginning of weeks are crazy. And by the time we kind of decided where we want to put everyone, it'll be the middle to the end of next week.
+Ryan McAnelly: Right. When, you know, seeing how, like, things ebb and flow here, too, so I certainly understand.
+Christopher Hume: Yeah. Yeah. You're. You're familiar with it, right? Cool. Then could we keep our 10am for tomorrow?
+Ryan McAnelly: Yeah, absolutely.
+Christopher Hume: Cool. I'd ask you to take a crack. The one thing I'll request is as kind of your last day on this trial period, don't send any emails. But, like, just get, like, if it's like an email like this, just like, get in here, write out the whole response as you would and. Then if we'll make, we'll use the time to make any changes and send them together and see, like, if we can start building that process where you do the first draft, I do a quick review and send.
+Ryan McAnelly: Okay, cool. All right. Awesome. And I'll have those email address to you tomorrow too. Perfect.
+Christopher Hume: Oh, that's the thing. All right. Do you have access to Notion with your jobsec account? I don't think you do.
+Ryan McAnelly: Check. You sent the beginning onboarding information through notion.
+Christopher Hume: Yeah, but for some, I don't know why. But. Just like employee. You should just have access to everything. Members.
+Ryan McAnelly: Oh, yeah, I don't.
+Christopher Hume: Okay, because I would love for you to just put those emails in, like, a notion page and send them to me.
+Ryan McAnelly: Oh, yeah, that'd be nice and clean.
+Christopher Hume: Yeah, just. And easier for me to try everything. Let me just get you out. Ridiculous. Automatic. So. You need to go through Nader Jackson, but you'll get that approval shortly, and then you can just paste it in there. If, for whatever reason that gets held up, just put it in a Word document. But hopefully you can tomorrow get them into. Brian. I'll talk with you in the morning.
+Ryan McAnelly: Looking forward to going through the emails.
+Christopher Hume: Let me know if you need anything before then.
+Ryan McAnelly: All right. Have a good night.
+Christopher Hume: See you, man. Thanks.

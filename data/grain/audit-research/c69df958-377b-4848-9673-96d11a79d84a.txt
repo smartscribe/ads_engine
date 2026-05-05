@@ -1,0 +1,274 @@
+Christopher Hume: Happy Wednesday.
+Katie Donham: You too.
+Christopher Hume: You.
+Katie Donham: What's new in jot psych world?
+Christopher Hume: Oh my gosh. I don't remember the last time we spoke, but there's a lot new. There's always something new.
+Christopher Hume: Yeah, we've been spending a lot of time selling our billing product which has been maybe to Adam's chagrin, very, very popular. We are definitely building up pipeline with existing customers.
+Katie Donham: Cool. Adam, why, why to your chagrin?
+Adam Harrison: We just need a product and then, then I'll be happy.
+Christopher Hume: A lot of it is still the wizard of Oz and the wizard is, is Adam doing very painful.
+Katie Donham: So you are responsible for this thing that doesn't yet exist.
+Adam Harrison: Correct. It's going to be me in a basement closet just doing submitting claims and praying that insurance accepts like faxing things in. It's all via fax and direct mail. Yeah, no, no, it's, it's coming together so it's exciting.
+Katie Donham: Oh, good, good.
+Christopher Hume: So we've. I guess that's something we didn't even include on the agenda, but. Great question, Katie. Yeah. Over the past couple weeks we've been trying to test out building pipeline from existing customers for this product. So we called like 190 customers we thought would have, would be interested in the product. It was just like a four call sequence. No text, no voicemail. While we're still sorting this out, I'd like to have sort of the leave no trace attitude so we can go back to people later if we didn't connect and they don't really know that we've hit them so many times. And from those just under 200 people, we booked about 15 meetings and so started building up the pipeline of people dipping their toe into our billing portfolio or jumping full in. But you know, we do sort of have to slow roll the onboarding, but that's been pretty successful. But a little bit of a. Aside from what kind of we're going to discuss today.
+Katie Donham: Awesome.
+Christopher Hume: Cool. So I'll run through sort of my stuff. So Katie, I'm not sure I have the agenda up.
+Katie Donham: Yeah, I looked through it quick this morning.
+Christopher Hume: Yeah, perfect. There's, yeah, no need to do tons of pre work. Just don't want you to feel like we're surprising you on these calls with. Yeah, with, with no warning.
+Katie Donham: No, no, no worries.
+Christopher Hume: So we have the, the cold outbound sequence that we set up with kind of our, our more senior sdr. That's like a true. Yeah. Sequence. It's like eight calls, seven emails, something like that. The connect rate still pretty bad. A lot of that has to just do with the quality of the numbers from Zoom Info. But we enrolled 128 people. Two people booked and attended meetings. And we had one other person who's like, hey, not a good time, but follow up in a, in a few months or whatever.
+Christopher Hume: So I think just like, we need to fix some of the metrics in the middle. But two attended meetings from 128 prospects seems pretty in line with like, okay, this is probably a channel we need to invest more, more money into because like, if we could keep this up or frankly, even, even if it degraded like 30%, it's probably a good use of time.
+Christopher Hume: Yeah, that was really exciting. So I just wanted to show you those and just see, like, do you have any, like, blink tests? Like, holy. You guys haven't even thought about this? Like, like concerns or like the opposite? Like, guys, this is like kind of crazy. Like you need to just like not pick out anything else or is it. Do we kind of have the right attitude?
+Katie Donham: I. I think you have the right attitude. I think like, those are great metrics, but the, the denominator is low and so I would just like try to keep getting more volume.
+Christopher Hume: Yeah, yeah, it could be that. We got, you know, we went through zoom info, we pulled all the best numbers and ICP people we could, could be that, like, we're not going to have as high quality numbers moving forward, so it is going to degrade a little bit. But I am, Katie, kind of what I'm working on now and what I actually have the most questions for is this like, scale up and some of the regulatory scrubbing concerns.
+Katie Donham: Got it.
+Christopher Hume: So what we're doing right now with one of our data analysts is we have like every registered clinic in the country. We're developing an internal tool that kind of identify the clinic, identify people at the clinic and then enrich their information. Still, definitely some tweaking that needs to be done there. But I'm pretty confident that for a reasonable price, probably in the vicinity of 50 cents to 75 cents a lead, we can get thousands of contacts. Would be my guess.
+Katie Donham: My guess.
+Christopher Hume: Yeah, would be. Still need to test some of it out. But we had. Okay. Success on the first run through on 200 clinics.
+Katie Donham: Okay.
+Christopher Hume: And I think with a little bit of tweaking and focusing on more ICP clinics, we can probably get at least a few months of Runway here.
+Katie Donham: Okay. Yeah. I mean, that's a really great cost per lead.
+Christopher Hume: Yeah, yeah, no, it was. He used exa, which I'm not sure if you're familiar with this, like, new AI search tool and clay and so at, like, all the lowest tiers. It ended up being, like, a dollar a lead. If we maxed out to the pro versions of everything and then, like, really scaled up, I think he said we'd get it to, like, 30 cents a lead.
+Katie Donham: Oh, huge.
+Christopher Hume: So I imagine we'll be somewhere in between. And then some of them, you know, it's like, oh, this looks like a great lead. And then some of them are just going to be. Not like the number's going to be wrong or something. So it'll be somewhere in that 50 cent. Maybe a little more, I would guess.
+Katie Donham: Okay, cool.
+Christopher Hume: So my concern is, as we start scaling this up, when have you seen companies start worrying about like, regulatory risk?
+Katie Donham: Um, just around like cold calling.
+Christopher Hume: Yeah, around cold calling and just getting like fried by someone on the DNC list or. Oh, shit. I called them at 6:15 and it's actually 6:15 their time.
+Katie Donham: I mean, look, I have 18 SDRs making at least 300 calls a day. We're not concerned. I don't know anyone who's actually concerned. The thing I would be concerned about is sending cold text messages.
+Christopher Hume: No. Yeah, we don't do text or stay away from voicemails just because I think like. Do you think we should leave voicemails?
+Katie Donham: Yeah, I didn't to feel so strongly about it, but now voicemails can sort of be like. Now people actually listen to voicemails because they can read the text of it. I think you should.
+Christopher Hume: And do you leave those live or do you. Do you have like a pre recorded one for each?
+Katie Donham: Strange. Our. Our, like our outbound SDRs are using nooks and that really doesn't allow for anything but dropping a voicemail that's already pre recorded. I don't love that.
+Katie Donham: Yeah, our, our inbound SDRs who don't use nooks and use HubSpot, they leave voicemails and those are. Those do better. Like, I think it's probably worth testing both, quite honestly.
+Christopher Hume: Yeah.
+Katie Donham: Yeah. But okay, like, I, I think the important thing is if someone tells you on a call not to call them, pay attention to that. Do not call.
+Christopher Hume: Of course.
+Katie Donham: But okay, yeah, if somebody brings up, do not call me again, you guys should never call them. But that's the only thing I'd really be worried about.
+Christopher Hume: Okay. Yeah, it's. It's kind of the vibe I was getting. But obviously people. It's. Yeah. Hard to find on the Internet. Yeah. Yeah. But then I was doing research. I'm like, any cases that have gone again and it's just like, there's nothing for companies our size. It's like, yeah, Xfinity got in a ton of trouble, but it's a whole different.
+Katie Donham: Yeah. Yeah. I mean, like, it's a. It would honestly, like be a good problem to have that. Like, it was a big enough deal, but I don't think. Okay. Yeah.
+Christopher Hume: And then this is just as an aside. I was chatting with one of our SDRs about nooks. So do you do kind of parallel dialing where you have. So they can just burn through numbers?
+Katie Donham: Yeah.
+Christopher Hume: Okay. Yeah, it seems like a really cool platform. Probably not for our team yet, but as we scale up, definitely something I'd love to learn a little bit. A little bit more about.
+Katie Donham: Yeah, I would also, like, we were just doing some analysis last week. Like, I think a lot of our, A lot of our stairs don't call the same place twice in a day, and I think it's a totally fair game.
+Christopher Hume: Oh, call twice in a day.
+Katie Donham: Yeah, like, I don't know how. I don't know how many of yours are like full on clinics versus. Actually, are your numbers mostly cell phones or are they full on? Like, are you calling like the front desk of a clinic?
+Christopher Hume: So for John, we called probably. Sorry. For our. This outbound where we got the two meetings, it was probably like 75% cell phones, 25% front desks. Some of the stuff we're doing down here is more of a split of some cell phone, some front desk. Yeah, we mostly cell phone.
+Katie Donham: Okay.
+Christopher Hume: Lean more towards cell phone.
+Katie Donham: I don't think there's any real issue in calling twice in a day. Like we have. I don't know what is. We assign out and we have like a one month. Well, a two week cooling period. So you only get contacted once in a month
+Christopher Hume: when you see a two week cooling period. Is that between sequences or between.
+Katie Donham: Yeah, what we do, it is like we assign out companies every two weeks to our SDRs and go like, our TAM that we have the ability to dial is like 30,000 and like 11,000 of them have literally never picked up a phone call from us. And so I'm like, okay, let's then think about email, Instagram, DMs, all those other stuff. But like, I also think it's fair game to call again because if you're calling the same time of day often, like, yeah, you're likely to continue to not get them to pick up.
+Christopher Hume: Yeah, yeah, if I have appointment. Okay. No, that's. That's really, really helpful. Okay, then just kind of the, the last two things on the outbound. Well, I guess the bottom one's technically inbound. But then just talking outbound, I don't really have a ton of questions here, but we ripped, as I said, the 24,000, like solo clinics in the U.S. their business number. And we called about, we put. We called 200 of them or added them to like a four call flow. And from that we got one meeting booked and one. One person's like, hey, now's not a good time, but follow up later.
+Christopher Hume: Okay, that's still in process. So not everyone is receiving. Received all four calls yet. I don't think that is sustainable. I think the contacts need to be enriched with personal information.
+Katie Donham: So, like, the cell phone, I mean, 200 is nothing.
+Christopher Hume: That is the thing, though. I. So I gave the. The SDR who booked the meeting. I gave him 250 leads himself today. And I'm like, I want you to be ruthless and just like, if a number's a phone tree, just kill it. Don't come back to it. And like, we have 24,000 to go through. Like, yeah, let's just see if we can ramp this up a little bit.
+Katie Donham: Yeah, I, like, I wouldn't say kill this at all.
+Katie Donham: No, I would say just. Yeah, keep, like, enrolling or like, I don't even know if you need to enrich that much. I just like.
+Katie Donham: Like each of our SGR calls makes 300 calls a day. And, like, they usually book what if our. If our goals are 12amonth that run and are qualified, they're roughly booking like one a day. And so I just, like, don't think we have. You guys have enough at bats.
+Christopher Hume: Wow. Okay, so you book about one meeting for every 300 calls.
+Katie Donham: Yeah.
+Christopher Hume: Okay. Yeah, I guess that actually, that makes sense. That definitely makes sense.
+Katie Donham: Like, sometimes it's way more. Way less.
+Christopher Hume: Yeah. Okay, cool. Because this is probably one meeting booked for. Actually, I know I have to do the math because I don't know how many. They kind of immediately pick out as wrong numbers. And then the last thing here I just wanted to share is we have. We had a Facebook forum a long time ago that we ran complete disaster. Adam fixed it, did a great job. I kind of wasn't really tracking and then went in and just kind of to a week or two after we had stopped running, it actually just started calling people on it. Hey, sorry for the delay. This is Chris from job site. Gave him the spiel. And yeah, even weeks stale, we got five out of 38 connections, three accepted meetings, and the cost per lead was about 40 bucks.
+Katie Donham: Great.
+Christopher Hume: And so I was just wondering how. I guess the question is, how many leads do you pull in through Facebook? I know it's a completely different market, but, like, are you getting like hundreds of leads from Facebook like a week, or are you getting like 50 really high quality ones?
+Katie Donham: We're getting like hundreds a week, but we're spending like 100k a month.
+Christopher Hume: Okay.
+Katie Donham: So we're getting like 2 to 300 a week right now. They're not very quality, but that's something that Matt and I are working on. But and we're getting them anywhere between, like, 50 and 80 cost per lead.
+Christopher Hume: Okay?
+Katie Donham: Yeah.
+Christopher Hume: Okay, so this is something that, like, if we scaled this up, it's not like we should expect, like, oh, well, you're. Just like, the unit economics. This isn't like, the cost per lead isn't off by a factor of like, 10 or so.
+Katie Donham: I mean, it, like, it also, it all depends on, like, what are your metrics. Like, we look at a payback period, and I include the cost of RSDRs, but really, like, for the first six months, it was just like, can I get a signal that I'm getting quality enough leads that it makes sense to, like, like, really pursue this? And. And, like, I had to sort of like, get SDR resourcing earmarked to, like, be in charge of this. Of, like, there was one SDR for the first, like, six months who owned all of the leads.
+Christopher Hume: Wow. Wow.
+Katie Donham: But we weren't spending $100,000 at the beginning.
+Christopher Hume: Oh, okay. Okay. I was just like, oh, my God, you're spending, like,
+Katie Donham: I don't know, anywhere between five and 15 in the first six months.
+Christopher Hume: Okay.
+Katie Donham: Yeah.
+Christopher Hume: Okay. I think unless there's something I missed here, Katie, this was just, like, a really helpful sanity check that I'm not crazy, that these metrics look somewhat reasonable. It's probably just time to turn the dial up a little bit and see if they sustain as we spend more money and get. Try and get more meetings booked.
+Katie Donham: Yeah, yeah. I mean, this is all, like, exciting numbers. I just want to make sure you get enough denominator to. I mean, I guess, like, everything here has enough signal to keep going, but I just want to see it more at scale.
+Christopher Hume: Cool. STRs are gonna have a fun time next week. We're gonna have a lot, a lot of work for them.
+Katie Donham: Yeah.
+Christopher Hume: Awesome. No, super helpful, Katie. Adam, I want to make sure you get kind of your questions too, so I'm done. Thank you.
+Adam Harrison: Yeah. Thanks, Chris. So, you know, I think the Facebook, you know, lead form is kind of a nice segue into this next topic, which is like, just kind of a question about meta more broadly. So I had a few conversations with Matt which have been super helpful. I personally am, like, very keen to bring him in and some capacity, you know, and what we're trying to weigh right now is, like, the best way to set up that engagement and where we should really, like, lean on him versus, like, we, you know, have more ownership of things. So, you know, and I know he also sort of specializes in these, like, lead forms and scaling them up. So maybe he is, like, a good resource for. For, like, what? Chris? Was just mentioning, but basically the question is like, we are. I think he sort of outlines. Like three different models. I'm not sure if this is like the same for you. One is purely like consultative. Like I give you advice. We hop on a call, like, periodically. Another is like more hands on, where he's actually like pressing buttons in our account and like doing things. And then there's like the third option which is like he's like really fully managing everything and we don't have to really touch things. My senses were either in the like number one or number two camp. I personally think number two feels like the right balance for us also, just because I don't really. I'm not really dedicating as much time as I would like to this sort of like, channel. So. But I'm just curious to get like kind of a sanity check from you on, like, does that feel right? Yeah. Or do we kind of want to try to like hold the keys to the account and like, you know, kind of understand and own things ourselves longer?
+Katie Donham: Yeah, I think it's like I, I'm aligned with you. I would recommend the latter. I think, like talking with you last time, like, you don't have enough, like you don't have enough time. Nor is it like the best use of your time for you to be in, at least from my perspective, for you to be in meta, like pulling all the levers yourself.
+Katie Donham: Like, guys, probably a little expensive to be the one pulling the levers. But, like, that's how I work with him and it's been really great. Like, I just feel like the channel, like I've got, I just feel like really supported there. Which, which is great. Yeah.
+Adam Harrison: Okay. And in that it sounds like you do the same like thing that we're thinking about, what is like the level of depth, depth that you get into the channel. Like how much are you kind of hands off versus hands on, in the weeds. Like what's, what's the right balance you would recommend?
+Katie Donham: Yeah, I like, I have never set up a campaign in meta with him. Never like touch that at all. What I focus, like we agree on strategy around audience creative and I like approve creative and give feedback and do a lot of the ideation for creative alongside him.
+Katie Donham: But like, I've got the deeper knowledge and then I look through results and I'm like pretty active in like assessing lead quality and things like that.
+Adam Harrison: Got it, got it.
+Katie Donham: I really don't, I don't go in meta very much. Okay. Yeah.
+Adam Harrison: Okay, that's helpful. And then as far as like the creative stuff, so we're in this kind of like funky spot, right? Now where I know Matt can he will produce the creative and work with some of his design partners. We also now have been doing this. We've been trying to kind of get new creative. So we. Now have like a number of different kind of freelancers that we are kind of like engaged with who can sort of like, you know, do various like creative, more one off projects for us or we could bring them on on a more like permanent contractor basis. Like, you know, I'm just like not quite sure if, but then at the same, in the same like breath. Right. I don't want to be managing like three or four different freelancers. And they don't really have like the context on the product. And I think they're going to need a lot of like direction and oversight. And I don't think Matt really wants. He kind of just wants to like run things his way. He doesn't want to have like these other folks like floating around. So I'm just sort of like unsure what to do with that. If I just kind of like, you know, is that. I guess do you view that as like a, like a mutually exclusive sort of like, like path where it's like, hey, you either go the map path and then you sort of like let him run the show or you know, you go the. Like. Matt is a consultant and you have these other like creatives that you're engaging on a more ad hoc basis.
+Katie Donham: You know, we use jw, his like design partner in part because we didn't have any other good freelance creatives. Like we didn't have any good creatives at the time when we first started. I think the only thing that gives me pause is like getting video creative because JW doesn't do video.
+Adam Harrison: Okay.
+Katie Donham: Really just does static. But I've always been really happy with his work and I love not being part of the cr. Like, like I'm never the blocker. I mean like I'm, I'm, I'm often the blocker, but I am not having to like, like Matt and JW have a working relationship.
+Adam Harrison: Exactly, Exactly.
+Katie Donham: It's the brief. Yeah. And like, unless. Unless you said you had a couple contractors that you were like, I think they do amazing work for us. Like they get it. I would say try and keep them in the fold, but if you don't, then I don't. I think there's not a ton of value in having separate people.
+Adam Harrison: Okay. Yeah. We do have a few that are actually like a little stronger on the video side. So I'm thinking of. We actually haven't really found anyone who's done good static. Maybe that's just because like we haven't really given them, given them a good brief. But I feel like still that would have like come through more strongly. So maybe what I'm thinking is like, there's a few folks maybe we keep tabs on or video stuff, and then there's one person who I want to push more into kind of a content marketer path of writing blogs for us and doing more of stuff related to lead magnets on the website or case studies or. More just like, written. Yeah, written content for our billing stuff that'll be helpful for us. So I think that's now where I'm leaning just as we're. Just as we're talking.
+Katie Donham: Yeah.
+Adam Harrison: But I'm. I guess I'm curious. Like, this sort of jumps down now to my content marketing question. Like, is this a big part of your strategy at all? Do you guys have like, different. Are you mostly just kind of like doing lead forms and doing like cold outbound, or do you also do more like top, you know, kind of like upper funnel, nurture kind of stuff too?
+Katie Donham: We should be doing more of it. Like, we were like, we got a couple like ebooks, white papers written last year. Now I wouldn't use an agency. I would just use AI mostly. But we were like running, like running them on meta. We didn't have a marketer to really like, do the best nurturing. So we kind of. And even we go, we could get them at a pretty low cost per lead. Like they were lower intent. But yeah, I mean, like, you got to have content somehow. Like, I think figuring out what is the highest value content. Like, I'm not like, I don't know enough about like, if you guys should really invest in SEO content versus, like, more like. I hate using the word lead magnet, but like something that drives value. Actually, let me send you a link. Elena Verna, who writes a good like growth marketing substack, just had a post yesterday about like how lead magnet stuff is over. And it's like now it's like satellite apps now that everyone can vibe code and like build a quick app. It's like, instead of just having a, like a like gated content that you want to download, it's like creating an app that people can get value for. Like, like Airbnb. If you tell it a little bit about your home, it tells you how much money you could make. Semrush, which is like a search tool, can like keywords. So like basically creating a like, app that creates some value, which is something you guys could do. But at the like, very least you need some amount of content or something that is providing enough value that you're generating leads. Let me.
+Adam Harrison: Okay, so something that's like, oh, upload a note and you know, tell. It'll will tell you like how much you should be getting paid and what you should bill for this and.
+Adam Harrison: Yeah, that sort of thing.
+Katie Donham: Yeah. Why can't we find the chat?
+Adam Harrison: So then how do you, like, if you're not capturing email, like, how do you maybe this is all in the article. But, like, you would tap her email here. Okay.
+Katie Donham: I feel like a but I can't figure out how to say. Send a chat in this message.
+Christopher Hume: No one can. No one can figure anything out in Google Meet.
+Christopher Hume: It's the bane of our existence.
+Katie Donham: How do I.
+Christopher Hume: It's the bottom right. It's the bottom right next to the. It says meeting details and there's a chat with everyone.
+Katie Donham: I don't have that.
+Adam Harrison: You can just email it later. It's all good. Thank you though.
+Katie Donham: Feel like an idiot. There we go. Okay.
+Adam Harrison: Okay. So you're a little skeptical of the whole like blog SEO stuff. It sounds.
+Katie Donham: Yeah, I mean I think like SEO works if there's like a good play. Like if like I just don't know enough about the search volume in your space. And then also like SEO works really well if you're like Groupon or something and you can create a million different pages for different cities of like best beauty offer deal in Boston, best salon deal in D.C. and you can just like make a thousand pages.
+Katie Donham: That's like kind of the best SEO now. But it is like also having content that adds value. Like helps increase your perception of credibility. So I think it's like worth having some. And then I would think more about like what is this like value generating app sort of thing that you could create.
+Adam Harrison: Okay, that's a good way to think about it. I think probably we will start her. She's going to be like a contract role. So our time, like. Well, I think we've gotten a lot of value from. We have these like competitor blog posts comparison.
+Adam Harrison: Oh yes, those have been super helpful for us. So. But now they're like a year out of date. We have to update it and you can have, we have one that's like comparing the top scribes and then one that's like jots, like versus so and so jot psych versus, you know, so we kind of do that for each. Each of them. That could be helpful. I think there's a lot of stuff around. I think billing is just like a richer area for us to get into where it's like, there's just more content we can do around that versus like the scribe felt a little more limiting. So yeah, I think there's, I think getting credentialed, like as we're getting more into insurance and billing and stuff, I think there is valuable content we can put out there, but I just don't know that it's like how much does it actually move the needle for? Like, you know, if you're just. If you just have a blog post, you don't capture email, like, is that actually valuable for us? I don't really know.
+Katie Donham: Yeah, I mean, I would, like. I would refresh some of those posts just to have them. I think it's like. It's not great to have, like, outdated content.
+Adam Harrison: Totally.
+Katie Donham: Yeah. Yeah, I. I agree with you.
+Adam Harrison: So are there any tools that you recommend for us to figure out, like, oh, what kind of content should we be writing? And, like, oh, how do we track if that improves our, like, SEO stuff or any of that? Like, is there. Are there kind of, like, obvious things you should be looking at? I have not, like, looked into this at all, so I'm sorry for coming in.
+Katie Donham: Kind of just cold on it. Yeah. So Semrush or Semrush is a great tool for. It's like the largest keyword database, but that's a really paid.
+Adam Harrison: Right.
+Katie Donham: Well, it's also organic.
+Adam Harrison: Okay.
+Katie Donham: Yeah.
+Adam Harrison: Okay. Yeah. I'll kind of try to maybe go down that rabbit hole at some point. And then if you scroll up a little bit. Chris. The other thing I wanted to talk about was Google. So can you guys remind me, like, what. What's your Google Ads like strategy like right now? Is it some, like, what campaigns do you do? How do you think about it? Because I just. I'm not really. I don't really feel like we're getting much out of it right now.
+Katie Donham: Yeah. So we do a little bit of branded, and then we do some, like, standard keywords, and then we do competitor keywords.
+Adam Harrison: So you have a. And do you manage that or is that like Matt or someone else does that?
+Katie Donham: We have a consultant who does it, but the person who was, like, really in charge just left. So I need to get back, get closer to it. So I will. We'll have more details for you after I meet with our contractor on Friday. But we had been running, like, just a little. Like I first came in and I was like, we're running so little and our awareness is so low. I'll just, like, keep some of it on, but not really focus on it. And then we were able to, like, with some more dedicated support, like, kind of pare back to what was working and then focus on the, like, tightest, like, keywords that were, like, most relevant. And then over time. And also, like, GEOs too. And then over time, we've been expanding a bit more.
+Adam Harrison: Okay, so. And when you say, like, can you help dimensionalize, like, how much spend? When you say, like, a little bit of spend.
+Katie Donham: Yeah. I mean, let me see, where were we at the beginning of this year? Last year? Do paid search. We were spending, we kind of like were spending around 6 to 7k for the, for like probably all of 20 for the like back half of 24 into beginning 25. And then we started ramping up. Is that per month?
+Adam Harrison: Yeah, yeah, six to seven per month. Okay.
+Katie Donham: Yeah. And then with more resourcing in like June, July, we started increasing. We went to like 10, then we went to 20. We got, we went all the way up to 60 and now we pulled it back a bit because we were like just like increasing spend just to increase spend. But now we're, we were able like we're at like 70 or 80 and it's working pretty well. But that was like we only did that when we had a lot more dedicated resourcing.
+Adam Harrison: Okay, and were you finding like obviously for branded I'm sure you had pretty reasonable like cost per conversion and stuff like that.
+Adam Harrison: Yeah, or cost per lead or you know, whatever. Like we're finding it's super high for the, just more the non branded terms and for. We also have a PMAX campaign which is doing okay.
+Katie Donham: How far?
+Adam Harrison: So again it's like we pulled back the spend a lot. So most of spend is in branded. So but just in the last 30 days our branded cost per conversion is around 50 per conversion, which is fine.
+Katie Donham: Yeah.
+Adam Harrison: But the other campaigns, PMAX is 230 and then the search campaign is like over a thousand.
+Katie Donham: Yeah, I would pull back there. Who's running search?
+Adam Harrison: I'm running search.
+Katie Donham: Okay. Okay. I would.
+Adam Harrison: We have like a super small budget on that. It's mostly branded.
+Katie Donham: I mean Matt also like in the few months I stopped working with him and came back, he's been doing a ton of Google. And I think you could like he'd probably be able to provide like I think he could be a great resource there. Like my gut is like pulled back to branded and a couple and like see if you can optimize content or campaign strategy or even like landing page all of the like maybe on pmax and then okay from there because. Yeah, that's, that's too high.
+Adam Harrison: Yeah. Like the majority of our budget goes. We have like 150 a day on branded, 100 a day on PMAX and like 50 a day on search terms. So we probably just have to like dial in the search keywords a bit more, maybe change the landing page, all that, all that good stuff.
+Katie Donham: So.
+Adam Harrison: But I guess broadly it sounds like if we had to choose to prioritize this or meta, like right now I'm kind of leaning towards meta.
+Katie Donham: Yeah.
+Adam Harrison: And I just. Okay. Just kind of like gut checking that it doesn't feel like you get. You can like, it feels like Google for us is going to be good to like capture people who are high intent searching for job site like after they see us somewhere else. But I think we're going to get killed if we're trying to go head to head on like AI scribe keywords that are super. We're just going to get crushed by these like bigger, bigger fish. That's like kind of. I feel like the game we should probably be playing.
+Katie Donham: The only thing that I would say is you like, if any of your competitors start bidding on your terms, you just need to be spending enough that you show up first.
+Adam Harrison: Yeah. Is there a way you track that?
+Katie Donham: I do some of my own. Like I kind of just like go and check it on you just do it manually.
+Adam Harrison: Yeah.
+Katie Donham: And yeah.
+Adam Harrison: Okay.
+Christopher Hume: We should have first. Don't worry.
+Katie Donham: Good.
+Adam Harrison: All right. We also I have like a Google rep who I meet with every now and then and maybe she can help.
+Adam Harrison: She's going to do like a competitor analysis.
+Katie Donham: Okay. We're just starting to meet with hours and I like can't decide if I think she's valuable or like, I mean her goal is to get us to spend more money.
+Adam Harrison: Yeah, exactly.
+Katie Donham: I'm not sure like our goals are entirely aligned.
+Adam Harrison: No, they're. Every time it's like, oh, well, this campaign is limited by budget. I'm like, well our cost per lead is a thousand dollars, so I don't not going to put more there.
+Katie Donham: Yeah.
+Adam Harrison: So you just have to steer them in the right direction. I think you just have to be like, hey, this is the problem I'm having. Like help me solve it.
+Katie Donham: Yeah. And like I could unlock space spend if we see better performance. So how do I do that?
+Adam Harrison: Right.
+Katie Donham: Yeah, exactly.
+Adam Harrison: So I think it's kind of like what you make of them. And it probably really depends on the person you get too. Because we had one Bobby, Chris knows Bobby, who was like not good at all.
+Christopher Hume: And then the person has been a lot better.
+Adam Harrison: So if you have a guy named Bobby just, you know, be wary.
+Katie Donham: No. Okay.
+Adam Harrison: But I like Jenna. She's.
+Katie Donham: She's.
+Adam Harrison: She's solid. All right. Sorry. I do want to keep us on track here, so I am. I'm going to flash just, like, the website, quickly.
+Adam Harrison: This will be, like, more fun than talking about some of this other stuff, so. I just am, like, curious to see broad reactions to kind of, like, where things are coming. A few things I'll voice over, but just before I share screen. So there's definitely a lot of room to still, like, workshop the copy. I think we tend to be a little, like, verbose just in general. So we're. That is still, like, work in progress. We're starting with more and then trimming to less. But, yeah, let me just share what we have. Or, like, I'm just, like, curious your gut reaction to some of this.
+Katie Donham: Yeah.
+Adam Harrison: Okay. All right, so this is it. We're kind of refreshed. Some of the branding stuff. Let me see if I can show that first, actually. So we're kind of moving our brand in, like, this direction. So we're, like, just kind of tweaking it a little bit. I don't think we're doing this, like, squiggly tee. We're doing the normal tee. But, yeah, it just feels a little cleaner than where we are right now. And then they're incorporating this sort of, like, new helix thing throughout the product. Let me see. I think this is where we were 10. Yeah. So this is going to be a whole, like, animation that's going to start with, like, at the beginning of the session, there's an eligibility check, and then it's, like, going to flow through the whole, like, life cycle of the product. So that'll be cool. We're trying to move our language more towards, like, revenue. So, like, it's. It doesn't just save you time. Right? Saving you time is not a differentiator anymore. Everyone saves you time. If you have an AI scribe, that's like, just what it does. But what we do is we make sure that, like, your note is going to stand up to, like, an audit from Cigna or whoever else. And also we, like, help with all the billing life cycle stuff, which you've been hearing already.
+Katie Donham: Isn't that, like, freight? Like, to me, every dollar protected doesn't mean anything. Is that, like, language that this industry understands?
+Adam Harrison: No, it's. So here's the other challenge I think broad challenge I'm having is, like, we are still an AI scribe at our core. Like, every new person that we get in the door today wants an AI scribe. So I think we still need to sort of lead with that, but we also want to be repositioning ourselves towards this broader revenue cycle management system. But I'm a little wary of where we introduce that language and how much, because we're sort of risking the base. Business for this kind of like new bet that we're making in some ways. So I feel like there's maybe a line you have to walk with that. But yeah, I agree. Like this language is a little bit ambiguous right now, right? It doesn't really.
+Katie Donham: Yeah.
+Adam Harrison: A little kind of marketing, right.
+Katie Donham: Yeah.
+Katie Donham: I also like your marketing site should be a few months ahead of where you are.
+Adam Harrison: Yeah.
+Katie Donham: And I wonder like the product isn't there Is like, is there something like do you like frame jot Psych as a company that like makes tools to do XYZ versus like leading with AI Scribe?
+Adam Harrison: Yeah, that's a good, good.
+Katie Donham: Or. And then like is the language something around like maximizing reimbursement? Something like that? Like what is the.
+Adam Harrison: Yeah, it's kind of twofold. So it's. If you just do the like note taking part, it's really more about protecting yourself from audits. So like if insurance starts asking questions, you feel good that like they're not going to claw money back. But if you do our like full service thing, which is me in like a basement submitting claims, then you feel good that like okay, jock psych is like maximizing my reimbursement.
+Katie Donham: Yeah.
+Adam Harrison: I am also not sure how much we want to lean into just like legally for ourselves and our thing of how much we want to be like, you know, maximizing reimbursement can also read like maybe your. Your maybe like going too far into the gray area of like which maybe you're like kind of billing for care that you didn't actually provide. Right.
+Katie Donham: Oh, I. Yeah.
+Adam Harrison: So I think we kind of want to walk the line of like get paid for the care you provide as opposed to like maximize revenue I think will like maybe resonate a little better. So that's kind of the line we're trying to walk a little bit.
+Katie Donham: I also like, I'm really big on not using marketing speak and like being really specific where you can. So if it's like audit proof documentation, auditing is like that concept is something that is big. Instead of that it's just documented.
+Katie Donham: And then I'm not exactly sure what the language should be. Around reimbursement. But I, I do, I like, I like the idea of not just saving time and also if you're going more towards clinics, like. Yeah. Clinic people who own or run clinics, like want time save, but they want all this other stuff too and like, let's have it speak to them.
+Adam Harrison: Yeah. So it's, it's like we kind of have to pick what message we're going with. Is it like save time on notes, you know, be ready for audits or like get paid for your work with, you know, without the hassle. And it's kind of hard to be all those things at once in the hero.
+Katie Donham: Yeah. I mean, you also could test it.
+Adam Harrison: Yeah, that's true. That's true. Okay, well, let's, let's maybe keep moving. I think this gives me some good stuff to think about. No, don't be so. I think this is like exactly what, what I was looking for feedback on.
+Katie Donham: Cool.
+Adam Harrison: We're gonna have the kind of like ticker here again. This is maybe like kind of generic language.
+Adam Harrison: Yeah, language too generic. Maybe revisit. We're going to try to lean pretty heavily into like product visuals. Can you see this, by the way? Do I need this?
+Katie Donham: Yeah, no, I'm. It's good. I'm actually kind of curious why lean into product visuals versus showing more like showing the product or showing people? Because like, I guess to my point about if you run or own a clinic like you, you're more, you care more about the bottom line. But the, these practices like are so people based that I do kind of think it's a miss to not visually show patients or clinician patient interaction.
+Adam Harrison: Yeah, it's a good point.
+Katie Donham: Like practice better, which is not a direct comp for you guys. They, you know, actually they used to have more people on their homepage. I mean they have like photos of clinicians for case studies and then they show some of their like product photography is like product abstractions on top of like a, A picture of a clinic.
+Adam Harrison: Yeah, yeah, it's a good question. I think we just sort of like hero video that shows sessions. Yeah, no, it's a good point. We definitely do want to incorporate like people and faces and.
+Katie Donham: But that's really far down on the page.
+Adam Harrison: Yeah, No, it's a good point. We, we just anchored more on like showing what the thing actually is. Like very tangibly. But I don't know if that's like right or not, you know?
+Katie Donham: Yeah. Will you scroll down again a little bit? Yeah. I wonder if like, do you put those product abstractions over pictures of clinics, pictures of a patient, clinician interaction, something like that?
+Adam Harrison: Yeah. Okay, that's a good.
+Adam Harrison: Maybe it's something similar to the drug. Like we should probably test, I guess.
+Katie Donham: Yeah.
+Adam Harrison: I think also because we're working with like an agency for this, I think we kind of felt like the higher production value stuff is like getting some of these visuals that are more like animated done by them and their team. And it's probably like easier for us to swap in more like people oriented visuals later. Like more stock imagery kind of stuff.
+Katie Donham: Yeah, I mean, I think there's a way to use to do both. Like, I, I think it's important to show the product, but I think there's a way to bring people in a bit more.
+Adam Harrison: Yeah. Okay, that's good. Good to think about as well. Yeah. Maybe it's like for some of these. Right. Depending on the visual, maybe we like, one of these could be a more clinician focused, one of them more product focused and one like a hybrid or something.
+Katie Donham: Like in the animation and the hero, people come in somehow. I don't know.
+Adam Harrison: Okay. Okay, cool. Let's. Let's keep going. So we have kind of like three main things that we're anchoring around. One is like the core scribe, which is like effortless documentation, so like save time on your notes. The second is like, okay, Bill for confidence. Bill with confidence for the care you provide. And this is sort of like the audit thing and getting paid.
+Katie Donham: Yeah.
+Adam Harrison: And then the third is like growing your practice. So. Right. Like we will like coach your team and kind of look over your shoulder of your different clinicians because you can't like be in every session with every provider in your practice. So those are kind of the three sub pillars that we're trying to anchor around.
+Katie Donham: I. Would love to pressure test the Grow your practice. Like, how does coaching help you grow your practice? Like, I think when people think of growing their practice, they want to get more patience.
+Adam Harrison: Yeah, I agree. I think this is like the weakest one.
+Katie Donham: Yeah.
+Adam Harrison: Right now.
+Katie Donham: And I bring that up because, like, we say, like, I think about that, like all of our competitors say, help you grow your studio. And I'm like, you don't run Facebook ads for them.
+Adam Harrison: Like, yeah, I think this more will fit into this over time. Like, I think we'll be able to do credentialing, which is like, when you start your own practice. Like, you need to go get credentialed with all the insurers. So I agree. This is like the weakness.
+Katie Donham: You'll be able to practice in more states and yeah, so there's this.
+Adam Harrison: I think we will grow into this. But I agree this is like kind of generic and weak right now relative to the others. Okay. So we're going to have, you know, your good social proof security, obviously important to this demographic. We're redoing our pricing. So there's kind of a whole pricing page. I would love to, like, flash briefly for you, but it's a little bit. It's getting a little bit complicated, which I think whenever you introduce more choices, that creates some friction. You know, I would. So I'm actually not sure if the right thing here is to just say, like, try for free, you know, versus, like, here's four cards to look at. Right.
+Katie Donham: I wonder if, like. Because I both, like, agree there's a lot going on, but I'm also like, this is what every SaaS pricing page looks like.
+Katie Donham: Like to have a fourth custom, like enterprise card on the side. Like, exactly like this. But I wonder if, like you're already saying try for free. Do you actually move the custom pricing down to where the free trial section is?
+Katie Donham: Yeah, potentially that free trial, like that messaging is. Is already elsewhere.
+Adam Harrison: Yeah. We could just kill this, like, make this. Move this card here, basically.
+Katie Donham: Yeah.
+Adam Harrison: Yeah. And then on mobile, it's like kind of long.
+Katie Donham: Yeah. What is your traffic breakdown like? We recently were like, somebody's like, why are we looking at designs on desktop? And I was like, because most of our traffic's on desktop. I know it doesn't make a lot of sense, but it is.
+Adam Harrison: So I think mostly because of like, meta. A lot of it is mobile. So most of our paid is mobile. Most more of our organic is. Actually desktop.
+Katie Donham: Yeah.
+Adam Harrison: Yeah.
+Katie Donham: Okay.
+Adam Harrison: And then we'll have some faq, another little thing here. And then that's kind of the page. Just because we're short on time, I'm going to kind of just glaze over this group one.
+Adam Harrison: Yeah, we are just have like a version of this that's more like group practice oriented. Again. This is like this copy I still don't really love. So we're going to like change a lot of it. But this will be, you know, it just feels a little bit more B2B. Kind of like the vibe as you go through some of the language here is going to be more like for your team as opposed to like, you know, more solo clinician oriented. We'll have like a few case studies. We're going to have like an ROI thing. Pricing again, which again, I don't really love. And then, but just because I know we have three minutes, I want to come to Pricing is. This is like the big challenge. I think we're struggling, at least I'm struggling with at this point. So we're really like kind of deconstructing our pricing where it's almost like, you know, what the airlines did where it's like, okay, you can. It's this much to get on the plane, this much to get a C this much to like get an assigned C this much if you want a bat. Like, we're kind of like taking that approach. Yeah. And there's like definitely some good pros and cons. You know, good pros. I think one of the cons is it gets. It can feel potentially overwhelming to folks. So we have these like packages. So moonlighting is just for people who are doing like kind of a side small practice themselves. Basic is sort of, you know, the standard entry thing. Everything is like all our features and then custom is groups.
+Katie Donham: Yeah.
+Adam Harrison: So if you do the moonlighting or the basic, you can pick which of these add ons you want. All these add ons are included in the everything. So there's just like all these other features about, you know, we don't need to get into them right now, but there's like a whole bunch of stuff you get that you can add on to these two plans. And then there's Adam in the closet doing billing. And then we have this like terrible table that's like showing the full comparison of like you get this and then these are like via add on. And then this gets you everything.
+Katie Donham: Yeah.
+Adam Harrison: Which is like kind of needed. Just to actually really clearly explain it,
+Katie Donham: I would have it condensed and you click an arrow to have it come down. So that.
+Adam Harrison: Totally.
+Katie Donham: Yeah. To your point, you have to have it. Even the whole section, not just each one of those little sections within it, but I guess just more.
+Adam Harrison: I think we are. Kind of locked into this kind of model at this point. So I'm just curious, like, more just like how we should introduce this and frame it because we also could just like, I guess we kind of need to explain it, but there's just different ways of communicating this that maybe don't like overwhelm users. And I'm just trying to figure out the right layout and kind of like information hierarchy and all that for this page.
+Katie Donham: Yeah, I'm kind of like, should you not include the pricing of all of those add ons. To make it a little less overwhelming?
+Adam Harrison: Yeah.
+Katie Donham: Or like maybe in the add ons, like in the header for the add on. It's like included in, in the everything plan. But something about. You can add these on for the other plans.
+Adam Harrison: Yeah, like we could kill this table, I guess, and just have this, this part.
+Katie Donham: I mean, I would need to look at more in the detail of what is in. Like, like how duplicative is the content in these two modules.
+Adam Harrison: What do you mean?
+Katie Donham: Like, are all these bullet points in these like light purple section, is that all the exact same stuff as.
+Adam Harrison: Yeah, it's pretty much the same. But what's not clear until you get to this table is like, oh, Moonlighting and Basic, you just get this limited stuff and then the everything plan, you get everything. Like I think we sort of like call it out here, but I don't think people are going to pick up on that. These add ons only apply to like these two things.
+Katie Donham: Got it. Okay, so I, I think you then actually need to clear up the pricing cards up top.
+Adam Harrison: Yeah.
+Katie Donham: And like make the everything have a lot more. Like you just say all available add ons. I think you need to outline what those are so it's clear that they're not available on the other ones. Or you include some one part of your basic, like you include one add on in Basic or something like that. Like.
+Katie Donham: Yeah, yeah, I have to hop, but if you said, yeah, no worries.
+Adam Harrison: Send a few more thoughts over. Okay, thank you, Katie.
+Katie Donham: Yeah, of course. I'll talk to you soon.
+Adam Harrison: All right, bye.

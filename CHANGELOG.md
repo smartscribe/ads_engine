@@ -18,6 +18,92 @@ Each entry includes:
 
 ## Log
 
+### 2026-04-23 - Nate + Claude - Custom Conversions v3: fixed `event_type` vs `event` rule field bug; ad set rebound to v3
+
+**What:** The v2 Custom Conversions shipped 2026-04-22 also never matched a single event over 18 hours of live traffic. Pixel fired 2 FirstNote + 6 SignUpConfirm events during that window; v2 CCs all remained "Never received event." Root cause: the rule field `event_type` is not what Meta's matcher keys on for event names. Correct field is `event`. Verified by inspecting the account's UI-created CCs (7 live CCs all use `event` + URL), most definitively "Page View" (rule uses `event`, first_fired_time 2024-04-12, last_fired_time 2026-04-14). v3 rebuild uses `event` + permissive URL filter.
+
+**Files:**
+- `scripts/fix-custom-conversions.py` - updated `build_rule()` to emit `{"and":[{"event":{"eq":"X"}},{"or":[{"URL":{"i_contains":"jotpsych"}}]}]}`. Updated `verify_block()` to parse `event` key and warn on `event_type` presence + missing URL condition. Updated `NEW_CCS` to v3 names and descriptions. Updated docstring and `OLD_CCS` to reflect v2 as latest deprecated predecessor.
+- `data/custom-conversions/valued-conversions-2026-04-23.json` (new) - v3 manifest
+- `docs/jot-briefs/meta-custom-conversions-v3-field-fix-2026-04-23.md` (new) - canonical brief for the third bug
+- `~/.claude/projects/.../memory/feedback_meta_cc_rule_field_is_event_not_event_type.md` (new) - memory entry
+
+**Canonical IDs created today (v3, rule field is `event`):**
+- FirstNote (Valued) v3: `1755976485786147` @ $100 (promoted from API probe, rule matches byte-for-byte with ad set's new pixel_rule)
+- SignUpConfirm (Valued) v3: `1014486627931137` @ $5
+- CalendarScheduled (Valued) v3: `26939511482340303` @ $15
+
+**Deprecated (renamed `_archived_*`, never deleted):**
+- FirstNote (Valued) v2: `4363987073922754` (event_type field bug)
+- SignUpConfirm (Valued) v2: `1673233627279622` (event_type field bug)
+- CalendarScheduled (Valued) v2: `829867779586914` (event_type field bug)
+- `_archived_probe_event_name_field_C_2026-04-23`: `795807576658478` (API probe using `event_name` field, accepted at create but unverified, kept for reference)
+
+**Ad set change:**
+- `120245455503860548` (Farm: All Value Props Q226): `promoted_object.pixel_rule` PATCHed from `{"and":[{"event_type":{"eq":"FirstNote"}}]}` to `{"and":[{"event":{"eq":"FirstNote"}},{"or":[{"URL":{"i_contains":"jotpsych"}}]}]}`, byte-identical to v3 FirstNote's rule for exact-string binding. Ad set `effective_status` dropped to IN_PROCESS during Meta's re-evaluation (normal after significant edit).
+
+**API probe results (for future reference):**
+- `{"and":[{"event":{"eq":"X"}}]}` alone: REJECTED, subcode 1760020 "A conversion rule is required at creation time". A URL condition is required.
+- `{"and":[{"event":{"eq":"X"}},{"or":[{"URL":{"i_contains":"..."}}]}]}`: ACCEPTED. This is the canonical shape for custom events.
+- `{"and":[{"event_name":{"eq":"X"}}]}`: ACCEPTED at create but not verified against match signal. Archived as probe.
+- `{"and":[{"event_type":{"eq":"X"}}]}`: ACCEPTED at create but never matches (this was the v1/v2 bug).
+
+**Why now (breaking the 7-day no-touch window, again):** The Apr 22 rebuild also didn't land real signal; same diagnosis as before but a different bug. CpFN is now worse than the already-broken Apr 17-22 window, and continuing to burn $200/day on a broken signal for another day was equivalent to last week's failure mode. Fixed immediately.
+
+**Diagnostic corroboration:** Pixel stats 2026-04-22 20:36 ET through 2026-04-23 14:00 ET showed 2 FirstNote + 6 SignUpConfirm + 0 CalendarScheduled fires. v2 CCs matched zero of them. The "Page View" UI-created CC with `event`+URL rule has been firing since 2024-04-12, providing direct evidence that `event` is the correct field.
+
+**What this fixes and doesn't:**
+- Fixes: VALUE optimization now (finally) has a rule shape Meta's matcher can evaluate. First fire expected within 24-48h per the ad set's expected FirstNote volume.
+- Does NOT fix: EMQ 4.0/10 attribution gap. Still GDN-789.
+- Does NOT fix: 0% CAPI coverage. Still a separate FE+BE workstream.
+- Does NOT fix: weight calibration. $100/$5/$15 still rough first-pass.
+
+**What to watch next 48h:** `offsite_conversion.custom.1755976485786147` should appear in ad insights `actions`, and `conversion_values` should populate at $100 per matched FirstNote. If absent after 48h, the last remaining diagnostic is whether the ad set's `effective_status` returned to ACTIVE and whether the CC's `first_fired_time` went non-null.
+
+**Rollback:** Re-pause the ad set via `status=PAUSED` on `120245455503860548`. All v1 and v2 CCs remain in the account (Inactive, renamed `_archived_*`), available for reference.
+
+---
+
+### 2026-04-22 - Nate + Claude - Custom Conversions rebuilt with clean rules and correct cents unit; active ad set unpaused
+
+**What:** The 3 Custom Conversions created 2026-04-20 (FirstNote Valued, SignUpConfirm Valued, CalendarScheduled Valued) have never fired a single matching event over 50 hours of live traffic. Two bugs in the original create: (1) whitespace in the `event_type` rule value so the matcher never matched actual `FirstNote` pixel fires; (2) `default_conversion_value` passed as dollar-unit (100) but Meta stores it as cents and divides by 100 at display, so `$100` rendered as `$1.00` in the UI. Meta's auto-warning "There is a blank space at the beginning or end of one or more of the rules for this Custom Conversion" surfaced bug 1 once we opened the GUI; bug 2 was caught by eyeballing the UI after a first-pass recreate. Rebuilt all 3 CCs with clean rules and values in cents, then unpaused the active ad set so the VALUE signal can finally start flowing.
+
+**Files:**
+- `scripts/fix-custom-conversions.py` (new) - clean-rule builder via `json.dumps`, values passed as dollars * 100, per-CC readback and verify block, supports `--only` / `--skip` / `--dry-run`
+- `data/custom-conversions/valued-conversions-2026-04-22.json` (new) - manifest of v2 CC IDs + the deprecated v1 IDs
+
+**Canonical IDs created today (v2, clean rules, correct cents values):**
+- FirstNote (Valued) v2: `4363987073922754` @ $100 (10000 cents)
+- SignUpConfirm (Valued) v2: `1673233627279622` @ $5 (500 cents)
+- CalendarScheduled (Valued) v2: `829867779586914` @ $15 (1500 cents)
+
+**Deprecated (left Inactive, never deleted per never-delete rule):**
+- FirstNote (Valued): `3914250848710226` (whitespace + wrong units)
+- SignUpConfirm (Valued): `1960979881475090` (whitespace + wrong units)
+- CalendarScheduled (Valued): `1270312578633364` (whitespace + wrong units)
+
+**Ad set change:**
+- `120245455503860548` (Farm: All Value Props Q226): PAUSED -> ACTIVE. No changes to `promoted_object`; its existing `pixel_rule` is already clean (`{"and":[{"event_type":{"eq":"FirstNote"}}]}`) and binds to FirstNote (Valued) v2 automatically via matching rule.
+
+**Notable mid-flight pivots:**
+- FirstNote v2 was initially created with dollar-unit 100 and rendered as $1.00 in UI (same bug as v1). Meta's create endpoint rejects creating a new CC with a rule that already exists on another CC in the account (error_subcode 1760002, "Duplicate Custom Conversion Rule"), even when the first CC is renamed with `_archived_` prefix. Meta's own error message suggests reusing the existing CC. Solution: PATCH the `default_conversion_value` on the already-created FirstNote v2 in place (POST to `/{cc_id}` with `default_conversion_value=10000`) rather than creating a v3. SignUpConfirm v2 and CalendarScheduled v2 were created fresh since the v1 versions had whitespace rules (technically distinct from the v2 clean rules, so no duplicate-rule collision).
+- Cents-unit discovery is non-obvious and not clearly documented in Meta's API docs for Custom Conversions. Going forward: always pass `default_conversion_value` in cents (dollars * 100), and always eyeball the UI after create.
+
+**Why now (breaking the 7-day no-touch window):** The no-touch window was predicated on a working VALUE-optimized setup Meta could learn against. We didn't have one. Since the 2026-04-16 restructure, the ad set has been optimizing on a $0 signal for 6 straight days, and the 2026-04-20 "fix" never took effect due to the two bugs above. The exception threshold (CpFN > $400 for 3 straight days) was cleanly met. Continuing the window would have meant another 5 days of $200/day burn against signal that literally does not exist.
+
+**Diagnostic corroboration:** Apr 3-9 2026 was the last real "humming" week (16 attributed FN on $2,305, $144 CpFN). The Apr 16 restructure paused the old OUTCOME_LEADS campaigns that had been driving attribution and flipped the new consolidated ad set to OUTCOME_SALES + VALUE optimization. Pixel events kept firing normally through all of this (5.3/day average Mar 25 through Apr 21) but Meta's attribution rate collapsed after Apr 16 because: (a) new ad set entered learning phase, (b) VALUE optimization had zero dollar signal, (c) EMQ stayed at 4.0/10 throughout.
+
+**What this fixes and doesn't:**
+- Fixes: VALUE optimization now has real dollar signal ($100/FirstNote, $5/SignUp, $15/Calendar)
+- Does NOT fix: EMQ 4.0/10 attribution gap. That's GDN-789 (frontend dataLayer enrichment, verified 2026-04-22, awaiting merge + GTM tag update)
+- Does NOT fix: 0% CAPI coverage. Separate paired FE+BE issue, not yet scoped
+
+**What to watch next 48h:** `offsite_conversion.custom.4363987073922754` (and the other two v2 IDs) should start appearing in ad insights `actions`, and `conversion_values` should populate at $100 per matched FirstNote. If absent after 48h, escalate to Meta support.
+
+**Rollback:** Re-pause the ad set via `status=PAUSED` on `120245455503860548`. The 3 v1 CCs remain in the account, Inactive but not deleted, if some future reason requires rolling back beyond the v2 creation.
+
+---
+
 ### 2026-04-21 — Nate + Claude — Signup Funnel Dashboard refresh
 
 **What:** Rehydrated the Signup Funnel Dashboard against current Metabase data. No code changes; this entry documents the data refresh so `model.json` and the rendered HTML can be committed for Chris Hume's access.

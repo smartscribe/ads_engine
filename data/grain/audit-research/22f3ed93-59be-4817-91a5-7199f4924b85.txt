@@ -1,0 +1,118 @@
+Christopher Hume: Hi, patrice. How are you?
+Patrice Veraguth: Good. How are you feeling?
+Christopher Hume: Good. Nice to meet you sort of face to face. Wonderful. So today I think we'll be going through job site and doing an overview of some of the features to talk about some of the EHR capabilities. Before we jump in, Patrice, is there anything in particular you want to make sure I review? Have you had an opportunity to try jot Psych yet or anything? Like that.
+Patrice Veraguth: I've used it. I work for an organization and they use it, so I'm a little bit familiar with it. But from what I've understand, you all had some upgrades since I used it because it's been well over a year.
+Christopher Hume: Absolutely. Okay, well, let me pull up my. We can start walking through. Patrice. Where in the country are you based?
+Patrice Veraguth: I'm in Missouri. Like the Missouri Kansas borderline.
+Christopher Hume: Okay, so near kansas city. Yep.
+Patrice Veraguth: Where are you at?
+Christopher Hume: I'm in washington, d.c.
+Patrice Veraguth: okay. Yeah. It's, like, cold here today, and Yesterday it was 70 degrees.
+Christopher Hume: Really?
+Patrice Veraguth: Oh, my gosh, it's 14 degrees today.
+Christopher Hume: I'm not sure if that's so healthy. To jump like that. And Patrice, we're hoping to use, or considering using jot snack as an ehr. And could you just give me a quick overview of your typical appointment? These typical medication management, therapy. A combination.
+Patrice Veraguth: Yeah. Doing initial evaluations for medication management and then I incorporate brief therapy into follow up appointments.
+Christopher Hume: Last thing here. Okay? Here's my screen. Come through. All right, Patrice.
+Patrice Veraguth: Yes.
+Christopher Hume: Okay, so, perfect. So what we'll do is we'll quickly touch upon recording your notes, your templates, but that's something you're very familiar with, or at least a little familiar with from back when you use Jotsyc. And we'll go into talking about our billing features, our ePrescription. Features and our scheduling features. Is there anything else you'd like me to touch upon just so I can make sure? What would make this. You leave this meeting in 25 minutes, you're like, wow, Chris, really crushed it answered all my questions.
+Patrice Veraguth: I think. Going over how to initiate the appointments and how to enter the import and what's contained. What information is contained in entering the appointments. Entering the sessions would be good.
+Christopher Hume: And then would it be helpful to go over our billing features? Patrice?
+Patrice Veraguth: Yeah, that'll be good.
+Christopher Hume: Perfect. Okay, so this is the Jotsack home screen. Depending on when the last time you use this was, it might look a little different now. Record. You can press this record encounter button here or record up top. This is a new reporting screen. You'll see. Over here is when you choose how you choose your appointment type. This is how you choose your template. I would imagine you'd have quite a few medication management. Record over here. Down below jobsite will tell you which microphone you're using. Always like to call that out to make sure. Every once in a while, we'll have a provider ask us why their node is blank. Oftentimes it's because they have the incorrect microphone. Noted. Don't. After you end your encounter, press, generate notes. And you can end up with a note that looks something like this. And do you remember using the AI Edit feature at all, Patrus?
+Patrice Veraguth: No, I don't.
+Christopher Hume: Okay. On the right hand side, we have our AI Note assistant. What that means is you can just, in plain English, tell jots, like something like, make this note shorter. Make the medical necessity bullet points. And Jet Psych will make those changes for you. And the exciting thing is you can actually tell Jotsec to remember that. Next time you do a medication management note, it'll remember your guidance and it'll meet your style. To get this over. And Patrice, which ehr do you use?
+Christopher Hume: I use Valent so you can copy all sections or paste into Valent or we're about to roll out an EHR Chrome extension integration, so via one click transition over.
+Patrice Veraguth: That's neat.
+Christopher Hume: Very cool. I always joke I'm not the technical guy on the team. I see them developing all this stuff, like, oh, my gosh, this is like magic to me. Let's show you. Can you make the medical necessity? There you go.
+Patrice Veraguth: Okay?
+Christopher Hume: Then we can say, yes, train this if we wanted to do it every time. Or say, no, thanks. There's a one time thing.
+Patrice Veraguth: Okay, that's cool.
+Christopher Hume: The other thing that a lot of our kind of people ask us. Okay? I know. I've heard of Freed, heard of Alma, Heidi, all these other AI Scribes. What makes you guys different? One of the things is that we only work with behavioral health. And the other is that we have this audit feature will automatically review your notes. And kind of included with everyone's subscription is the first 40. What this does is it reviews your notes and lets you know if you're missing something that could flag a concern with a payer. So the example here is. You'll see we didn't discuss current medications. The job cycle. Flag it. Give you an easy button here to fix it.
+Patrice Veraguth: Got it.
+Christopher Hume: Any questions on the note itself, Patrice?
+Patrice Veraguth: No, Those features, obviously the audit and wasn't something that I used before, so it was good to see.
+Christopher Hume: New and improved for sure.
+Patrice Veraguth: Yes.
+Christopher Hume: You could also edit your templates. I won't make you sit here and watch me generate a template from scratch. But if you go to your ENM template, And rearrange. Or you can edit it with AI. And it's the same thing. You're just. In plain English, you say, hey, the headers. I don't want a header section. I want the time documentation to be down to. The minute. Unusual, but certainly something you could do with the AI here. And then you would just save the template and it would be customized to your request.
+Patrice Veraguth: Okay?
+Christopher Hume: Okay, so that is at 1000 miles a minute, Patrice. The most important AI scribing. How you can make notes with jot. Psych. Any questions there before we go into some of the more advanced features?
+Patrice Veraguth: No. That's fine.
+Christopher Hume: Okay, perfect. I think what we'd like to review next is scheduling. Scheduling with shotsyc. Very straightforward. You go to your schedule. Time. You can then choose your patient. The appointment type. Any reminders, put in their phone number. Any forms that you would like automatically sent. And if this is a recurring appointment, Once you save this, which we will. Your calendar and whatever reminder, kind of reminders you've told Jotsec you need, whether that's via email or text, that's like, we'll send to your patient. Additionally, job site can send before a recession you do a phq9 or a gad7. You can send those automatically through jot psych as well. Or as one offs. Any questions here, Patrice, I know scheduling was the one thing you asked me to review, so I want to make sure I answer your questions.
+Patrice Veraguth: Yeah. No. Is there a patient portal where they can schedule their own or no?
+Christopher Hume: Not yet, Patrice. It's actually unbelievable. You're at least a third person in the past week to ask me about our patient portal, so certainly something our engineers are aware of and is on their roadmap, but it's not up and running yet.
+Patrice Veraguth: Okay? Yeah, that's fine. No worries.
+Christopher Hume: And of course, you have your patient overview. Crazy weather all over the country today. We're supposed to get this wins today in D.C. i'm in. A whole house is shaking or the whole office is shaking.
+Patrice Veraguth: Yeah, I can hear the wind, definitely.
+Christopher Hume: Pretty interesting stuff. So your patient. You'll have easy access to all their encounters. You can send them forms directly from the patient overview page. We could send Mr. Bruce Cahill, PHQ9 or GAD7. Or any of our other custom forms. In addition, it will automatically track diagnoses and medications that come up during appointments. And the last thing kind of, as we said, a lot of people are moving toward using jot Psych as kind of a full fledged ehr. You can also set up e prescription as well. So it's as simple as going to your overview. You'd have your name Patrice. You wouldn't have jot site conferences. But you go over here and you'd say, add John Rx. And then it would walk you through the sign up with our partner, Dosebot, okay? Let me pause again here, Patrice. To answer any questions. Dive deeper. Walk you through some of the billing and eligibility checks, but what would be the most useful for sort of the second half of this meeting here?
+Patrice Veraguth: I wrote down a note. I don't know where I put my notebook now, but what is the how much is the add on for the E prescribe?
+Christopher Hume: For the so eprescribe if you're just doing let's say you're just doing the scribe Scribe's 150E prescribe is $69 a month if you'd want access to all of our features. So unlimited compliance checks. Ehr integration. If you'd want everything instead of buying it a la carte. The max is 249Amonth.
+Patrice Veraguth: Okay, gotcha.
+Christopher Hume: Patrice, could you remind me the status of your. I know we just talked, I think on Thursday or Friday, but the status of your practice. Are you still building out your practice or. And where do you stand in terms of credentialing your billing, all of that good stuff?
+Patrice Veraguth: I'm at the very. I'm at the very beginning of credentialing, so I'm getting it done as we speak. Starting as we speak.
+Patrice Veraguth: So it'll be a couple of months before I'm fully credentialed.
+Christopher Hume: It's sort of unbelievable, the big learning for me, Yeah. Just how much administrative work is involved with all with just providing care of the notes, the credentialing, insurance companies, the audits. Oh, my gosh. I joke. I have this inability to type and speak at the same time. I would never make it as a clinician.
+Patrice Veraguth: Yeah, it can be a lot to the point where you want to focus on care, you know, but you have so much. You end up staying up half the night just doing all the administrative stuff.
+Christopher Hume: Yeah.
+Patrice Veraguth: And.
+Christopher Hume: Weekends. So, Terese, do you have any solar patients that you're providing care to now? Under your independent credentials.
+Patrice Veraguth: I do, okay? It's very small, but I do. And I'm waiting to be credentialed so that I could ramp everything, ramp up, okay?
+Christopher Hume: How we start, sort of. If this looks interesting to you, if you'd like to try the scribe or the billing or our EHR features, I can walk you through kind of the ways we generally start kind of relationships, especially with providers who are building up their practice, and see if any of those would be of interest. Did that kind of be helpful.
+Patrice Veraguth: Yeah, that would.
+Christopher Hume: You said you had an account with your old employer. Was that an individual account, or was it associated with your old work address?
+Patrice Veraguth: It was associated with their organization, and I don't even know if it was associated with their organization. I had a person that I was working with, and she used jot psych, and she. I think she added me on.
+Christopher Hume: Oh, okay.
+Patrice Veraguth: Situation.
+Christopher Hume: And then we'd probably want to create you a new account just to keep things easy, clean. Right? Yeah. I don't want people asking why we. Gave access to old, old patients. So we can set you up with a cal. Patrice. I'll, like, extend out your trial so you get the full 2 weeks just to use JOT Psych as an AI scribe. Unlimited access to all those features.
+Patrice Veraguth: The only.
+Christopher Hume: The only limitation is. I think I told you this last week. We just can't include e prescription on those free trials just because we get charged there. But so we'll make sure to set you up today so one way or another, you'll be trying to describe. And where we can help is one we can do. We do analysis of providers, billing. We can go into the kind of all the invoices and claims that you've submitted to your current payers. I'm not sure. Kind of how. Deep you feel your understanding is. Some clinicians feel like they have a great overview. Others feel like it's kind of a black box. What would be helpful? We do one off analysis of providers, current billing situation, tell them what's working, tell them what's not working and help them kind of adjust their efforts. We can do that for you. We can. Also, if you'd like to try us out for eligibility checks, we can do that as well. And. Or we could set you up with our credentialing team and kind of walk you through how we do credentialing and help providers get up and running as they're going out on their own course. You can do none of those. You can do all of those, but those are the three paths. Ahead that I think are most common. People are thinking of using us for sort of an EHR or at the very least, AI scribe and billing solution.
+Patrice Veraguth: Yeah, just kind of a one stop shop if they want it.
+Christopher Hume: Yeah, exactly.
+Patrice Veraguth: I know that. I've already started the credentialing process.
+Patrice Veraguth: So I won't need that.
+Patrice Veraguth: Definitely looking at the AI scribe. And maybe ehr. Because I'm using simple. I use Valent. I've got kind of a hodgepodge of things going on.
+Christopher Hume: You're not alone.
+Patrice Veraguth: Trying to survive. So I do private practice with another larger private practice, and they use valent and they use doxyme for the scribe. For a telehealth sessions and the notes are really up to par. I can use. I don't have to use Doxyme. I can use anything for my telehealth session. That would be helpful. Secondly, I also, I forgot to tell you that I round in nursing homes, seeing folks in nursing homes. And so being able to create an appointment, I would create the appointment for the person because they're not going to call or anything like that. And so when I go into nursing homes, it's already set up and So I just push the button while I'm talking to them, and by the time I'm done, My note is done. Which would be perfect. Yeah. Because right now it's like I'm carrying around a notebook and kind of taking.
+Christopher Hume: Oh, my goodness.
+Patrice Veraguth: And then coming home and typing up the note.
+Christopher Hume: So you can use GOT stack on your phone and so you can set up those appointments. You can have your schedule for the week.
+Christopher Hume: Then go into the nursing home and use the application. Just been in the room. As soon as you're done, stop. By the time you get to your computer, you just have all your notes. For the day. Ready to roll?
+Patrice Veraguth: Yeah, that'd be perfect.
+Christopher Hume: Wonderful. So it sounds like we're definitely going to get you up and running on the trial. Would you like to. Yeah. Any of the eligibility checks or anything like that? Or what would be the most helpful?
+Patrice Veraguth: As I go out on my own, I need to check with the credentialing folks because they're supposed to be doing my back office billing. I need to see if they're going to do the eligibility because that's one thing the person did not describe and it I need to look back at. My contract, but I'll reach out to them because I may want. I may want it.
+Christopher Hume: Perfect. Then I think. Patrice, do you want to walk through signing up for an account? We can make sure we get you that extended trial and then we. I can check in maybe in a week. We can have a quick touch base. I can see if there's any questions about the AI scribe. You will know if you. Need support with eligibility checks or kind of how billing's going, and we can go from there.
+Patrice Veraguth: Yeah, that'd be perfect.
+Christopher Hume: Perfect. So if you go to jobs like I'll stop sharing my screen if you go to Jotsych.com. Yeah, that would be great. It's supposed to be really easy. Usually it is. But just in case anything happens, you'll have me to help.
+Patrice Veraguth: If I can spell jack. I am here.
+Christopher Hume: Perfect. And then the top right, it'll say, start your trial, I think.
+Patrice Veraguth: Yes.
+Christopher Hume: You could press on that.
+Patrice Veraguth: Right. And I'm here. And it just says welcome and sign up.
+Christopher Hume: Welcome and sign up. Just put in an email and a password.
+Patrice Veraguth: Something went wrong. What went wrong?
+Christopher Hume: Please try. We should do it with me on the line.
+Patrice Veraguth: Yeah.
+Christopher Hume: What browser are you using, Patrice?
+Patrice Veraguth: I'm using edge.
+Christopher Hume: Edge. Okay, that should work. Could you share your screen, please?
+Patrice Veraguth: Let. 's the wrong one. That's not where I'm at. Okay. There you go.
+Christopher Hume: Okay, so let me just make sure. I will check to make sure that it's not getting confused. It might be that you already have a. Help.
+Christopher Hume: Let me just check on my end. Yep. So you already have an account with that one?
+Christopher Hume: Tr it is associated with your email and it's not in anyone else's group. So it's certainly up to you because they're all associated kind of with. Just make sure this is the right. Yeah. If you want to just say forgot password, you can log back in and I'll extend your trial. My only concern was if it was in someone else's group, I couldn't pull you out of it.
+Patrice Veraguth: But it's just your group. It signed me back in when I went.
+Christopher Hume: And you refresh your screen.
+Patrice Veraguth: As we did.
+Christopher Hume: So now just choose your languages and what you call your patient. Or your. I guess if you call them a client.
+Patrice Veraguth: Okay?
+Christopher Hume: And then you can just say, take me to the home page. There you go.
+Patrice Veraguth: Okay?
+Christopher Hume: You are all up and running, Patrice. So you'll have full access till the end of the month. 14 days. Would it make sense just to do a 15 minute check in the same time next week to see if you have any questions or see if we can help with eligibility?
+Patrice Veraguth: Around 10:00. Sure. Be fine. You said next week?
+Christopher Hume: Yeah, next week. Next Monday, I think. Just the same exact time, just a little shorter.
+Patrice Veraguth: Okay?
+Christopher Hume: I'm sorry. 10:30 central time work.
+Patrice Veraguth: It should. Sure.
+Christopher Hume: Patrice. I laugh. I'm not known for ending meetings early, but I can certainly give you a couple minutes back. On your Monday. Unless there's any final questions or anything like that I can help with.
+Patrice Veraguth: No, I just think since I've used it before, the familiarity with it that are meeting with quicker, so it's fine. Yeah.
+Christopher Hume: Thank you. Perfect. No, of course. Yeah. And if you have any questions before next week, just let me know. I'm here to help.
+Patrice Veraguth: Okay? Absolutely. Have a good day, okay?
+Christopher Hume: Thanks. You, too. Stay warm. Oh, my goodness. Thanks.

@@ -1,0 +1,257 @@
+Marcus Irven: Okay, let's see here. Put you on the left side of the screen. So we're gonna do some production, right? Oh, wait, let's. Let's do an alpha first.
+Becca Bressler: Okay.
+Marcus Irven: Because can't time travel. That's the only place we do time travel. And also I put in fake credit card numbers and stuff like that. So let's not do it in production. Let's do it now.
+Becca Bressler: Okay.
+Marcus Irven: And. But it's still the same feature flag, So it's already set up for Becca or B Wrestler or Marcus.
+Becca Bressler: Oh, cool. Okay.
+Marcus Irven: It looks like so at jot.
+Becca Bressler: Got it. Or. So if I have like, Becca plus test with job site, that's sufficient?
+Marcus Irven: Yeah, it should be. I'll go back to this. Okay. All right. Do you want to create a new account and I'll manage like, Stripe and Slapstick and look at other.
+Becca Bressler: Yeah.
+Marcus Irven: Stuff or whatever we can do.
+Becca Bressler: Wait, sorry, what was that last bit? Marcus, After I said I would do it,
+Marcus Irven: I'll like, watch Stripe and go database and.
+Becca Bressler: Okay.
+Marcus Irven: Those kinds of things.
+Becca Bressler: Great. I have created so many new accounts over the last day. Okay, so Becca plus Test plus bundle.
+Marcus Irven: Rapid.
+Becca Bressler: Oh sorry I should on alpha right sorry that's my bad.
+Marcus Irven: Yep.
+Becca Bressler: One second.
+Marcus Irven: It.
+Becca Bressler: Something went wrong oh no. Yeah. Let me share my screen because I know sometimes when you flip back and forth between a ton of accounts there can be issues but let me let me see.
+Marcus Irven: Okay so alpha site something wrong let's say auth zero error
+Becca Bressler: so let's see so Becca test bundle test johnson.com oh I have to sign up. My bad. That's a sign up Becca test bundle test.
+Marcus Irven: All right so back here it should show so the three oh yeah yeah. So either you're not in the experiment or what I think could be the case. What's your email address?
+Becca Bressler: Do you I used Becca plus test plus bundle plus test at job
+Marcus Irven: site backup Let me find let's see which one Backup plus test plus bundle yeah plus bundle plus test plus bundle test okay backup plus bundle plus test or backup plus test plus bundle plus test yeah backup
+Becca Bressler: plus test plus bundle plus test.
+Marcus Irven: Okay. I was like, certainly she does have two tests in there.
+Becca Bressler: But she doesn't.
+Marcus Irven: I'm in the wrong environment. What am I going to do here? Okay, there's your user id. I don't see. Because let's keep going. I can't tell yet if. Yeah, we'll just see what happens.
+Becca Bressler: Okay, so keep going. So are these auto loading? Because I'm like in a special category of people who gets to make test accounts.
+Marcus Irven: I don't know. I didn't know.
+Becca Bressler: Maybe I noticed this last night.
+Marcus Irven: We should test that on production with a. I'll test it real quick. I know we talked about. I mean we implemented this. I didn't really follow up. I know that we talked about like not requiring job site.com email addresses to use it.
+Marcus Irven: So maybe that's it. But it's weird to me that it would auto populate. I thought we were.
+Becca Bressler: Yeah.
+Marcus Irven: So let me create an account with a different. With a Marcus. Marcus.
+Becca Bressler: Okay. I'm going to start a notion task for us just to keep track of you notice.
+Marcus Irven: Okay, that sounds good.
+Marcus Irven: And then app next loop. Why along the app next loop. I thought it would be. We'll try from a different window. It. Okay. When I created an account with a non job site email address, I did have to fill it in, So I'm not gonna worry about that for the moment. All right, so what happened? You got. You created your account and you're. Oh, you have it.
+Becca Bressler: I'm checking the. My access page right now. And just in making a note that we should remove eligibility checks since this is out of V1. So I'm adding this to the notion.
+Marcus Irven: Yep.
+Becca Bressler: Jot Bill, I feel like we should remove. I don't know what this is as like, a feature, you know, I agree.
+Marcus Irven: We should. Let's remove it. Let me. Let me just do some of this in real time.
+Becca Bressler: Okay, cool.
+Marcus Irven: And what was the other one?
+Becca Bressler: So job bill and eligibility checks are.
+Marcus Irven: They all. Does everything else look right? Or the one CPT code suggestion and audit suggestions.
+Becca Bressler: Yeah. So I would probably lose CPT coach suggestions because I didn't know that. That's some. That's not really something right now. At least we're, like, metering in the way that jaw audit is a. I mean, jaw audit includes a CPT suggestion. Sort of. But.
+Marcus Irven: Yeah, this might be a question for Nate. Like, I interpreted. Yeah, I think it makes sense to remove two, but I interpret this as like, yeah, we're doing both, but, like. And they're going to both have the same limit, so the first 10 notes are going to have both. But, like, maybe it feels like you're getting more when you're buying it, you know?
+Becca Bressler: Okay.
+Marcus Irven: Also, these names, like this underscore descending.
+Becca Bressler: Yeah. I think this is something we can, like, track that.
+Marcus Irven: That one's going to be a little bit bigger, but I can remove the other stuff.
+Becca Bressler: Yeah. Adjust wording capability.
+Marcus Irven: So what do you. So are we.
+Becca Bressler: I guess.
+Marcus Irven: Yeah, we are going to do. John. Audit. So we should keep the. Should keep audit suggestions and CPT code suggestions for now until we get on that or.
+Marcus Irven: Yeah, I think that's remove eligibility checking and job belt for sure.
+Becca Bressler: What was that? Sorry. Oh, yeah. JOT Bill and.
+Marcus Irven: Yeah.
+Becca Bressler: Okay, so let's see. To manage your subscription or update your plan visit clinicians page. What is Smart Scribe subscription like? I mean, I guess that's just the. Like this will change once I pick a different one. Basically.
+Marcus Irven: Yeah. But this. But this we need to. To do something different with. So what should be the situation? Should they have it here? They shouldn't, right?
+Becca Bressler: No, Yeah, I think. Yeah, I don't think so. It also seems like maybe this looks like you've already like paid or signed up or something.
+Marcus Irven: Or should it be trialing?
+Becca Bressler: Yeah, like trialing, I guess. I don't know if that's like technically a tier in the way. I mean, I. I guess it's like an effort.
+Marcus Irven: I mean, technically it isn't. Well, it's sort of a virtual tier. Yeah. We are treating as a tier in the back end, but not one that you would ever pick or be able to pick. But maybe that's the way to do it. Maybe we do say it's trialing. You can't pick it, but you could. But it shows up as that. No, that doesn't make any sense because this is.
+Marcus Irven: We want to put trialing as a. It's not a product in stripe. So this is mapping. Yeah, I think probably should be nothing here, right?
+Becca Bressler: Just like blank.
+Marcus Irven: Yeah, yeah. I mean, whatever one we might want to like, probably
+Becca Bressler: do trialing, you know, like, it's not a tier.
+Marcus Irven: It's like almost like. I mean, we could do it from a UX perspective, but. Okay, so like, just so you know, like how this is working is if we go to Stripe, this is, I guess what I'm thinking through Stripe. Let me look up your email address.
+Becca Bressler: Are you sure? Are you sharing screen?
+Marcus Irven: I.
+Becca Bressler: I see.
+Marcus Irven: I am sure. Am I not sharing this?
+Becca Bressler: Yeah, I'm sharing stats right now, Actually.
+Marcus Irven: Can I just share this tab? All right. This is strike. Okay. I need to go to test mode. Okay, here's your account. So in Stripe right now, you do have this product. And then again, this is the legacy product. So this is not the right product to give to people. But I wonder, but I don't know is if we can create a subscription without any products.
+Becca Bressler: We also want to run through this where I'm not getting the legacy product because, like, actually when I go to subscriptions, it says 150amonth. Interestingly, like, I can show.
+Marcus Irven: That's because you have the legacy. She's still there, Right? I think that we do have to give them something here so we could. What do you think about putting them on standard, like the 99 basic?
+Becca Bressler: Yeah, I think that makes sense. But I do feel like, do we have to show something? Because the tricky thing is, is, like, if you look at the subscriptions page, I'm sharing my screen. I do find it a bit confusing. Like, it has this, like, paid even though it's zero.
+Marcus Irven: That is weird. Why would that be? If I look inside Stripe, there is an invoice. And let's show. I wonder if we go to, like, a current user. I bet that there is, like, a first invoice already in their account. But it is weird. It is confusing. Like, what do you think this experience should be?
+Becca Bressler: I feel like, okay, so you go to clinicians. I feel like I would expect maybe just to say, like, trialing in italicized. Like, it doesn't actually look like a tier itself. It looks like a placeholder. I would expect subscriptions to also kind of say trialing. And it might actually just say, like, you know, it might give you the option within this to be like, pick your tier and add ons. Or like, you know, it'll say, like, you have access to all features until the end of your trial. You know, pick your tier and add ons. Like, that's maybe what I would expect to say here. Like. Or, like, you're. Or like, subscribe now or something like that.
+Marcus Irven: Yeah. And then, let's see. So subscription subscribing during the trial versus subscribing after they're paused. Is there any. Do you want to let them subscribe during the trial? I mean, I think we do, right? The sooner that we subscribe, the better.
+Becca Bressler: Yeah, I mean, I don't know anyone that would. But, like. But yeah, I think we probably want to allow it. Because you can. Right? Like, let's see what happens when I go subscribe. Oh, interesting. So right now, when I click. Oh, I guess you can see it. It opened.
+Marcus Irven: Yeah. That should go away. We should never link him to Stripe anymore.
+Becca Bressler: Okay, so I'll link him out of.
+Marcus Irven: Truth is stable. Okay, let's move on. Is there anything else from a trialing perspective that you want to test?
+Becca Bressler: Yeah, so I think it's like, well, first of all, should I be documenting this page and, like, kind of specifics?
+Marcus Irven: Yeah.
+Becca Bressler: Okay. Just so we, like, have it. Let's see. Write this down. Trial experience of subscriptions page.
+Becca Bressler: Oh, I guess there's a trial experience of. Of both. I would not expect to see paid or any subscription with a number attached.
+Becca Bressler: I would expect to see that trial and given the option to subscribe. Let me just document these really quickly. As. Okay, so the other thing I would expect from the trialing perspective is just to be seeing notes. Okay. So unlimited note generation during your trial after trial, monthly note generations, depending on your plan.
+Marcus Irven: How.
+Becca Bressler: So? I am the clinic. Oh, can you see my screen still? Oh, yeah. So I would probably expect to see the jaw audit panel, right?
+Marcus Irven: You expect to see the jaw audit panel? What do you mean?
+Becca Bressler: Like the rules page.
+Marcus Irven: Oh, oh, right. Yeah. So I think so at this point we should use the entitlement from the bundle as the flag instead of the feature flag.
+Becca Bressler: Right. Which is not currently doing, you mean.
+Marcus Irven: Yeah, we have not hooked up. Okay, got it.
+Becca Bressler: So. So do you want me to document this or like this?
+Marcus Irven: Sure, you can document.
+Becca Bressler: As a trialer, I would expect expect to see the rules dashboard when I go to Johnny. So, yeah, I just want to check some of the other features. So. Notes unlimited templates during your trial after trial Template limits depend on your plan. Should I try, like, adding templates and stuff? Like how, you know, lab, unlimited laboratory, trial.
+Marcus Irven: Let's not do all that now. We could come back and do that later.
+Becca Bressler: So let me just record unlimited note generations during your trial after granting a plan. Let me just like record something really quickly to see that. One thing that I need to. Is like. Is this like a bat? Like, learn about the plans page. Right. Like, when you're trialing, there's not currently anywhere to go during your experience to see that.
+Marcus Irven: Yeah. I mean, you can, I guess, go to your practice, go to clinicians, go to subscriptions, but yeah, just. Oh, I see. Yeah. This is weird.
+Becca Bressler: Yeah, I mean, like, I don't know if, like down here we should have like the subscription option, like, pricing stuff.
+Marcus Irven: I don't think this whole page should be. This isn't where you select it later. That's the kind of weird thing, right?
+Becca Bressler: Yeah. Right.
+Marcus Irven: Like go to a clinician and click on edit button. What does that look like?
+Becca Bressler: It just doesn't give you a picture of.
+Marcus Irven: Yeah, we don't know. Oh, we saw the RCM bundle.
+Becca Bressler: Yeah. Oh, right. Yeah, Good point. It should be the Data and Security.
+Marcus Irven: No, because Data and Security gets added in a different place. Data Security doesn't get.
+Becca Bressler: Oh, you don't add it here at all. Got.
+Marcus Irven: Should be, I guess, the jaw audit.
+Becca Bressler: It should be the jaw audit. Yeah.
+Marcus Irven: Are we calling it John Audit?
+Becca Bressler: Yeah. As a trialer, when I go to edit my subscription, I should. Not CRCM bundle, but instead I should see the job audit.
+Marcus Irven: I. I also think, like, we have a little disconnect here on the roles. Like, the role descriptions are on the other page. This is where you select the roles.
+Marcus Irven: Like, yeah, I wonder if we could bring that table and put it in here with check marks on the side.
+Becca Bressler: Put the whole table in here?
+Marcus Irven: Yeah. Like. Yeah, well, let's see. All the tables kind of like inverted, isn't it? It's like flipped, but maybe that's.
+Becca Bressler: Do we. Okay, so this is like the experience.
+Marcus Irven: Also, this is kind of unrelated. But we shouldn't allow them to deactivate the. Yeah, we should enforce a little bit of.
+Becca Bressler: We should remove. Deactivate.
+Marcus Irven: Sorry, my Spotify just had to start playing because of my phone ring. I don't. I don't understand. Yeah, I think, like, you shouldn't be able to deactivate yourself. Maybe that's the. The thing.
+Marcus Irven: Okay, I was like, you shouldn't be able to deactivate the last person. But if we just say it yourself, you can deactivate that. I think that solves it.
+Becca Bressler: Yeah. Also, like, if you are a clinic owner and you are inviting someone to your, like, who. See, only a clinic owner can see this, Right?
+Marcus Irven: So only a practice administrator can see.
+Becca Bressler: Only a practice administrator can see this view. But they might see this for other people, which is why they need to be seeing these roles. Because as they're changing the capabilities of another clinician at their practice, they need to be able to do this.
+Marcus Irven: Yeah.
+Becca Bressler: Yeah. What if we just had, like, the roles guide and it was like, collapsible or something, so it didn't take up a ton of real estate? I don't know how difficult that is.
+Marcus Irven: Yeah. What about while you're in. I'm switching gears a little bit. But what about your trial? Like in trialing and you invite another user. Can you go through that experience?
+Becca Bressler: Yeah.
+Marcus Irven: Gonna be a little weird. Here, because you have to pick the tier. But, like.
+Becca Bressler: But it's a trial.
+Marcus Irven: I mean, we won't build up until the trial is over, but we will. So is this what we.
+Becca Bressler: So they have to, like, pick their.
+Marcus Irven: It is required right now. I guess we could make it so that it's not required while you're trialing, but it's a little.
+Becca Bressler: Yeah, I like. I mean, I sort of feel like if you are someone who is inviting someone to your trial. You, Like, if you're a. We are asking pilot groups to set up their own accounts with this. Right. Like, this is the new way. So.
+Marcus Irven: But it's okay. Like, if we're talking about pilot groups that we're handholding, then I think it is just, like, what if they don't put the credit card in and, you know, they don't recharge? But, like. So maybe it's okay.
+Becca Bressler: You can just tell them, like, you'll have the opportunity. You know, this isn't going to charge you. You'll have the opportunity, but you have to pick a first tier when you're inviting people. Like. Yeah, it could just be like a onboarding thing.
+Marcus Irven: Yeah. I wonder if, though, do we need to add copy in here? Like, if they're trialing just to say, like, they won't be charged until the end of the trial or something like that. Or do you think we don't need to worry about it?
+Becca Bressler: Yeah, I think that's probably smart. So let's see. I can write something. I'm just gonna leave a note for myself so you don't watch me try and write something and I'll just come back to it. Okay. So that's that. Oh, should we. We should try. Should we try doing this, though, and making sure it works?
+Marcus Irven: Sure.
+Becca Bressler: Should I? Let's see. Oh, I think this is set up where, like, Becca plus Test comes to my jot pyg account. Right. So I can just make one up?
+Marcus Irven: Yeah, you can. But it also just occurred to me, we need to update this feature flag to be on an org level. I guess it's fine since we're not really.
+Marcus Irven: We don't have a rule yet, so when we do a rule, we'll have a. Yeah, when we do a rule. Well, have it on the org level.
+Becca Bressler: Should I go ahead and try this or and just see what happens?
+Marcus Irven: Just be sure. Yeah, that should work.
+Becca Bressler: Okay, cool. And then this would also show jaw audit.
+Marcus Irven: Yeah. Why does it show RCM, though?
+Becca Bressler: Oh, yeah, that's interesting. You would think it would.
+Marcus Irven: That is really interesting. That is confusing.
+Becca Bressler: Okay, Making no sense. Invite Invitation sent Successfully pending invitation. All right, let's check my email. Sign up and accept invitation.
+Marcus Irven: Okay, fascinating.
+Becca Bressler: Here, let me. Let me show a different screen. Wow, this is so valuable.
+Marcus Irven: What? What's that?
+Becca Bressler: Just, like, testing, obviously.
+Becca Bressler: Oh, like, I'm stating the obvious here, but, like, because. Okay, check this out. So I got invited and then I get this.
+Marcus Irven: Oh, whoa, whoa, whoa. Why would you get that? I think it's because of an alpha thing. So just change. Let's make a note of it, I think. But I think this is a configuration. Like, take that and then change the URL to be alpha. Put that in there. Change it to HTTPs and then change it to be alpha.com. wait, sorry.
+Becca Bressler: So HTTPs right here?
+Marcus Irven: Yeah. And then instead of localhost5173, change that to be alpha.psych.com.
+Marcus Irven: okay, I think this is just a configuration thing. I'm surprised that we haven't noticed this before, but okay.
+Becca Bressler: Okay, so then let me. Oh, look, I get number three.
+Marcus Irven: Yeah. Why do we have number three? Like, you don't pick your access on this flow.
+Becca Bressler: You get the.
+Becca Bressler: Oh, it's to show you what it is.
+Marcus Irven: Oh, okay.
+Becca Bressler: Yeah. See? So welcome to Draw Psych. You have full access for the next 10 days until February 6th. After the trial, you'll choose a plan. We'll remind you before it ends. So this is interesting. Okay. Oh, yeah, this needs an upgrade, but I think there's a ticket for that. Let me just make sure these both work. Okay.
+Marcus Irven: You shouldn't be able to go into, like, those pages. Oh, you can.
+Becca Bressler: And it's just me and I'm the practice administrator.
+Marcus Irven: Oh. It created a new org. It didn't join. Maybe. Okay, I feel like that's interesting. Okay, I feel like that's probably some weird thing with the issue we have with local host thing. We, like, lost. All right, let's. Let me fix that and then we'll test it again. I'm not super worried about that. I think it was something with that.
+Becca Bressler: Okay.
+Becca Bressler: Do you want me to document this? How would you. What would you just.
+Marcus Irven: Just know. Let's just start with the. The issue about the local host. 5 1, 7, 3 in the invite email and we'll fix up and then we'll see if.
+Becca Bressler: Okay, I'll just document it. So issue with local host and invite email. I'm kind of surprised. So I guess what happened was this, like, automatically signed me out or was I on. Or was I on a incognito as I've been doing this? I don't think so.
+Marcus Irven: That could have been part of the issue too. You should. You should have.
+Becca Bressler: I'm on Becca, test Adam Apr.
+Marcus Irven: Oh, my God. Yeah, I think you were already logged in and then I.
+Becca Bressler: I definitely wasn't on Adam Apricot when I signed up. Right. Like, I had that alpha.
+Marcus Irven: Yeah. But let's. Let's try the flow again. Like go back to your admin account or the. Your. Yeah, your. Your bucket plus test plus bundles test.
+Becca Bressler: I'll get in there. Let's see. Sign it. Different. Alrighty.
+Marcus Irven: Let's go to your practice. Let's go here. So we still have a pending invitation, it looks like. Let's create a second one just to be super safe here.
+Becca Bressler: Different email.
+Marcus Irven: Yep.
+Marcus Irven: All right, now log out.
+Becca Bressler: Oh, now log out. Right. Okay.
+Marcus Irven: Because I think there's something going on with that. And now to go and up. No, that's not going to work.
+Becca Bressler: Oh yeah, same actually.
+Marcus Irven: Actually this is. Okay, just change that to the alpha. Okay.
+Becca Bressler: Interesting. Please sign up. Okay, so it automatically.
+Becca Bressler: Yeah, added me. That's cool. I didn't know it did that.
+Marcus Irven: No, no, option three.
+Becca Bressler: Oh yeah.
+Marcus Irven: I think this might be a timing issue with the feature flag that we'll have to talk.
+Becca Bressler: I think that this might actually be normal because I think this flow is for like a first user, not like a group. I don't know, let's see. Like if you are a part of a group but not a practice, not the practice administrator, you don't get the same like. Well, maybe you still get the same first time experience.
+Marcus Irven: See, it was restricted by now, hopefully. Okay, now you don't have your practice, which is expected, but I have my access and the basic tier. But you're trialing.
+Becca Bressler: It.
+Marcus Irven: Oh my God. Okay, good.
+Becca Bressler: Because. Yeah, I do want to see that. We have this AI node assistant train thing.
+Marcus Irven: Why is the hpi loading? Is it still. What's happening? Okay, I guess it was just over working, So.
+Becca Bressler: Interesting. It says feature not available.
+Marcus Irven: Yeah.
+Becca Bressler: So, yeah, I think basic. You know, there was like an admin flow that was created. So I just.
+Marcus Irven: I think the logic here is just like there's probably like, it's just wrong. Like there's just an if statement that needs to be updated or something that's probably shared across all of them.
+Becca Bressler: Yeah. Or like it's not prioritizing clinician before checking the wrong way.
+Marcus Irven: Yeah.
+Becca Bressler: Yeah.
+Marcus Irven: I don't know. I'm guessing it's like one thing. One thing. That's okay.
+Becca Bressler: I'm just gonna. I'm assuming it's. It's. I'm assuming it's like this across the board. I just kind of want to double check. Yeah. Feature not available. Oh, interesting. Okay. Feature not available.
+Marcus Irven: This is actually gated as an admin.
+Becca Bressler: You do not have access to this feature to unlock.
+Marcus Irven: Yeah. So I'm where there's two bugs. Right. Like it's like on the note, we still allowed you to do it even though we thought you weren't supposed to.
+Marcus Irven: Even though you were supposed to be able to do. Right. It's like there's almost like two bugs there.
+Becca Bressler: Yeah.
+Marcus Irven: So we click request upgrade and this is what we show you.
+Marcus Irven: Yeah, that's so a weird experience.
+Becca Bressler: To upgrade your subscription plan, please reach out to your practice administrator. Yeah, it's weird, but I actually think if we're not going to like email the practice administrator, which is maybe like out of sync. Scope. I mean, maybe request upgrades. Not the right language. People just like don't read. And so there's sort of like a way that yeah, double showing them kind of like makes the point. But I do think request upgrades. Weird. As an admin, you don't have access feature to unlock police contract. Yeah. I mean we could get rid of this. I don't know that I think that.
+Marcus Irven: That at least what makes sense. But I see your point about. But it just feels weird from an interaction standpoint.
+Becca Bressler: As a user who doesn't have access to a feature, I don't want to click request upgrade only to be shown that I need to reach out to the administrator. Okay, Let me. Okay. It's interesting though, because I wonder if like though from the patient. So this is interesting. It's. It's still. Oh, recommendations. So like some of these are gated here and some of them aren't.
+Marcus Irven: Oh my God.
+Becca Bressler: I mean, just. Just to say, like, if we want to take the like admin seat, rules out of version one. I think that's okay. But like, I don't know, it just seems like there's a lot of things we're catching.
+Marcus Irven: Yeah, no, I think we should. Yeah, I think we should just try to fix them. Everything so far feels like it should be a pretty quick fix with the one exception of figuring out what to do with stripe on the first user, which I think won't be hard either. I just gotta think it through. Do we want to keep going and like fast forward time to your trial expired, or do you think we should go fix everything and then like, do another round of.
+Becca Bressler: Honestly, like, it's up to you based on. Because I'm not the one that can fix these things, I kind of will defer to like, what would be best for. For your workflow. You know, I can. I can keep going. I can hop on. Later in an hour.
+Marcus Irven: Let's. Let me. Let's go ahead and fast forward time just to check it a little bit.
+Becca Bressler: Okay.
+Marcus Irven: So I'm going to do that. How do I do this? Go to subscription run simulation. Go to. Was it February 6th? I was going to February 7th.
+Becca Bressler: Yeah. Oh, sorry.
+Marcus Irven: Okay, so now, now you should lose access, but I think you probably not lose it until you refresh. That's. This is a good.
+Becca Bressler: Okay.
+Marcus Irven: Oh, you did refresh or did you refresh?
+Becca Bressler: I did refresh.
+Marcus Irven: Okay.
+Becca Bressler: Okay.
+Becca Bressler: And this is a different page that we're supposed to be seeing, right?
+Marcus Irven: Where does billing portal go? I'm worried this is going to go to Stripe. Yeah, we should go to Stripe. We should never go to Stripe.
+Becca Bressler: This is supposed to be a different page for sure.
+Marcus Irven: Oh, is this the old page?
+Becca Bressler: Yeah, this is your page. And because I'm a member of a clinic and not the practice owner, I should be seeing the call to action to contact the practice owner. Wait, let me. Where's my notes? It.
+Marcus Irven: What happens if you log in as your. Like, log out. Log it back in as either.
+Becca Bressler: Plus was it possible?
+Marcus Irven: Yeah, that one. That one. Still getting this one. Okay. Okay. I'm pinging Alfred to see what he wants to do as far as switching back to this at some point. I'm not sure what he's doing right now. I don't want him to drop everything necessarily. Weren't they documented in the.
+Becca Bressler: Yeah. Here, let me send it to.
+Marcus Irven: All right. I think we're at a good spot to go fix some things before we continue on.
+Becca Bressler: Okay.
+Marcus Irven: Worth noting.
+Becca Bressler: I was able. When I plus my practice clinicians, I was able to get back here subscription. It says paused.
+Marcus Irven: As your clinicians, Can you go to. Click your little circle on the right. Top right.
+Becca Bressler: This guy.
+Marcus Irven: Okay, so you're the administrator.
+Becca Bressler: Yeah, I'm the administrator. So I can go here. And I can go here. And it says paused.
+Marcus Irven: Okay. Okay. Alfred wants to touch base around 3. I'll start working on some things now and then get him involved and we'll see what we can do.
+Becca Bressler: Okay, sounds good. Thanks, Becca.
+Marcus Irven: Good stuff.

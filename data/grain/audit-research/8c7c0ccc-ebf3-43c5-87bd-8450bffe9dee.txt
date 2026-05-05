@@ -1,0 +1,68 @@
+Becca Bressler: Okay. Hello, Nate, I'm here with Lee. We are doing a jotrx walkthrough to go over onboarding. Common things that come up during onboarding and couple of the tools that you have. Resolve it. Lee, do you mind just muting just while I go over this? Little loud. Cool. Okay, so the first thing we're going to talk about is actually the onboarding. So our users are going to be getting. Let me like share my screen. Hold on. So our users are going to be getting a banner that tells them they can now prescribe job site. It's not going to say set up now because first we're just doing onboarding, but it will say book of book a setup call. Once they book a setup call, when you're setting them up, the first thing you need to do in order to ensure that they can purchase Jaw Audit is add them. Oh, you can't. I can't use my whole window. I'm trying to share my entire. You can't see stats yet, can you?
+Lee Harrold: No.
+Becca Bressler: Okay.
+Lee Harrold: Can you share the entire screen so everyone will see this?
+Becca Bressler: They'll book an onboarding call. In order to actually get them onboarding, the first thing you have to do is get their organization and make sure they're on the feature gate. So you're going to go to the feature gate, you're going to go to drawrx and you are going to add their organization ID to this. Crucially, you need to press save at the bottom before you do it.
+Lee Harrold: So that's the hardest part. That is immediately the hardest part.
+Becca Bressler: This is me right now, I think. So I'm just going to like make sure it's added there. Remember to hit save now. You need to give it about like 30 seconds or so. And crucially the user needs to refresh before they're able to do it. But the first step in getting them onboarded is getting them to purchase Jaw Audit. So they go to the clinicians page. In order to purchase Jaw Audit, they will select a pencil icon next to their name. Lee, something weird is here where, like I actually already have Jaw Audit, but I'm not. But that said, like, I don't yet see anything in practice settings. So something to like and I also shouldn't see. Oh, I see what's happening here. Okay. Anyways. But not resolved right now. So I'll just add it to someone else. So this is a separate me. I have two of me on here. So first you're going to add draw RX to the individual's plan. Once you have done that. Oh, I don't see the call to action.
+Lee Harrold: Which call to action?
+Becca Bressler: To put it into your practice. So I just added it. But it's not. But I can't, is it? I can't add it to my practice.
+Lee Harrold: Okay, so you are. So you're. You're. You're on an org that has the JOTRX bundle and you're a user who has the RX entitlement. So it should already be in your practice. Where are we looking for the link that will take you into JohnRx or into Dospot?
+Becca Bressler: I'm looking for the thing that's going to allow me to connect my practice. Maybe we should just start over. I don't know if there's something like funky happening with this because it's like a test account, but.
+Lee Harrold: Well, so if you click the Go to clinicians button here, says purchase the add on. You already have the add on.
+Becca Bressler: I should be given the opportunity to connect my clinic. I should have seen the call to action that said. Great. Now connect your clinic. Yeah, yeah.
+Lee Harrold: What's going on here? So we're on next, which means we don't have the. Most recent set of call to action changes.
+Becca Bressler: Oh, really?
+Lee Harrold: Yeah, those are. Those are still on alpha.
+Becca Bressler: Oh, okay.
+Lee Harrold: Let's take this.
+Becca Bressler: Let's take care of this then. Somewhere. Somewhere else. Okay. All right. Please hold. Let's see. Did I already set it up with this account? Let's find out. Okay, so.
+Lee Harrold: So we should see. Why don't we see a banner?
+Becca Bressler: So I have dismissed it.
+Lee Harrold: Oh, okay, that makes sense.
+Becca Bressler: That said, I shouldn't see Connect to Do Spot if I haven't added it to my account.
+Lee Harrold: Connect your practice to Do Spot to enable E prescribing. Oh, weird.
+Becca Bressler: The first step is purchasing it.
+Lee Harrold: Connect your account to. Yeah, why would we be seeing that? We don't. We haven't yet. So the gate for this call to action is the DOS Spot entitlement. Can you open the Network Settings tab and then see what we have in the entitlement response?
+Becca Bressler: Yeah. So what am I searching for? Like, I'm just typing entitlement.
+Lee Harrold: Yes. And then in the bottom one and here, type. Control F for jotrx. So somehow your org has this entitlement even though I didn't purchase it. Are we doing. Oh, you know what I think? Okay, so the. Your user doesn't have the RX entitlement. Maybe your org has the rx entitlement. Are we doing it by user or by org?
+Becca Bressler: Well, someone would have need to purchase it. No one purchased it.
+Lee Harrold: Okay, let me find. Okay, what's the email for this user?
+Becca Bressler: So alpha. This is the email.
+Lee Harrold: Sweet.
+Lee Harrold: Hey, there it is. Search failed. Unknown error. You know the name of your organization off the top of your head?
+Becca Bressler: The name of my organization?
+Lee Harrold: Oh, you know it's not. Huh. The admin portal isn't letting me search for the alpha. Does the alpha admin search network. So what I want to do now is learn what bundles or what entitlements are assigned at the org level versus which are assigned at the user level. Because I think. I think somehow your organization has the. The jotrx entitlement but your user does not.
+Becca Bressler: Should I type a new alpha account and see what happens?
+Lee Harrold: Yeah, yeah. If you do that then you. You definitely won't have.
+Becca Bressler: Let's just make sure. Remember this.
+Lee Harrold: Because somewhere there's a really small.
+Becca Bressler: Sorry, what am I trying to do here? So I. I want to rem. I want to remember this login. Okay. All right, so now I'm just going to sign out and I'm going to.
+Lee Harrold: Oh, that's okay. I see. I see. I'm logged in as a different user. That's why I can't see that.
+Becca Bressler: Okay, so I'm gonna sign up on Alpha. Becca, test banner testron.com.
+Becca Bressler: Okay, so now I need to. Can I give you my org ID and then you can get it on the.
+Becca Bressler: Yeah, or I can even do it. Hold on. User info organization ID And I'm doing this in production. Which feature? Flag.
+Lee Harrold: Yes, that's a good question. So JOT add. Oh, right. That's enabled everywhere for everyone. So that's fine.
+Becca Bressler: So I'm doing it.
+Lee Harrold: You need it in non production. Yeah. Give yourself the jot RX date in non production and then you will be able to see all the call to actions and you will see a banner that has both of the buttons, not just the onboard, but the onboard and the setup. Now.
+Becca Bressler: Okay, so it's that this is an organization id. I'm going to add it. So. So now I should. It should work basically.
+Lee Harrold: Yep. And you hit save.
+Becca Bressler: I did copy. Do I also need to put myself behind the banner?
+Lee Harrold: Nope, you have that. So you're not going to see it now because you're in a browser where it was previously dismissed and we store that mobile storage. But you should see the call to action stuff on. Clinicians and practice settings.
+Becca Bressler: What if I, like, close it and open a new incognito window? Will I see it?
+Lee Harrold: Yeah, you should see it.
+Becca Bressler: Okay.
+Lee Harrold: In fact, you'll see it if I. I can send you a command. If you want to see it.
+Becca Bressler: Go ahead and let me just close it and I'll open a new one. Okay. Oh, it already had me logged in. That's kind of weird because it's an incognito window.
+Becca Bressler: Do I need to log out? I still see myself. I don't see a banner.
+Lee Harrold: Oh, it probably shares it between. So logging out won't clear it.
+Becca Bressler: Oh, no, but I closed. I did close the browser.
+Lee Harrold: Oh, you know what? Actually, that would persist even if you close it. So here. Yeah. Open. Run this command in the chat and that will clear that item from local storage.
+Becca Bressler: Okay. Should I do it before I log in or after? It doesn't matter.
+Lee Harrold: It doesn't matter.
+Becca Bressler: So, Alpha. Okay, so what am I running?
+Lee Harrold: Open the console. So that function F12 situation again.
+Becca Bressler: Give me one second. Sure. Actually, Lee, can I call you back? I want to talk. I need to talk to Alfred about something really quickly, but can you. And then. What's the thing I'm going to be putting in?
+Lee Harrold: I just. I'll send it to your Slack. It's in the chat. But you just need to paste that at the bottom of your. Your console and I can show you where that is.
+Becca Bressler: Okay, cool. Let me bring you up and we can do this again.
+Lee Harrold: Sounds good. See.

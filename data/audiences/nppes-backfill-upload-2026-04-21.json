@@ -1,0 +1,57 @@
+{
+  "date": "2026-04-21",
+  "audience_id": "120245691436380548",
+  "new_records": 65253,
+  "batches": 7,
+  "batch_results": [
+    {
+      "audience_id": "120245691436380548",
+      "session_id": "7152660164391424790",
+      "num_received": 10000,
+      "num_invalid_entries": 0,
+      "invalid_entry_samples": {}
+    },
+    {
+      "audience_id": "120245691436380548",
+      "session_id": "7152660164391424790",
+      "num_received": 10000,
+      "num_invalid_entries": 0,
+      "invalid_entry_samples": {}
+    },
+    {
+      "audience_id": "120245691436380548",
+      "session_id": "7152660164391424790",
+      "num_received": 10000,
+      "num_invalid_entries": 0,
+      "invalid_entry_samples": {}
+    },
+    {
+      "audience_id": "120245691436380548",
+      "session_id": "7152660164391424790",
+      "num_received": 10000,
+      "num_invalid_entries": 0,
+      "invalid_entry_samples": {}
+    },
+    {
+      "audience_id": "120245691436380548",
+      "session_id": "7152660164391424790",
+      "num_received": 10000,
+      "num_invalid_entries": 0,
+      "invalid_entry_samples": {}
+    },
+    {
+      "audience_id": "120245691436380548",
+      "session_id": "7152660164391424790",
+      "num_received": 10000,
+      "num_invalid_entries": 0,
+      "invalid_entry_samples": {}
+    },
+    {
+      "audience_id": "120245691436380548",
+      "session_id": "7152660164391424790",
+      "num_received": 5253,
+      "num_invalid_entries": 0,
+      "invalid_entry_samples": {}
+    }
+  ]
+}

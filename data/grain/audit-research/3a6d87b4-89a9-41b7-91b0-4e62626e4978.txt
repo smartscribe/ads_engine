@@ -1,0 +1,110 @@
+Christopher Hume: So it's a good reminder. I love the dentist too. That's like my crazy, a not so fun fact. Literally love going to the dentist game like he cleaned. So when I went to this new person with my insurance changed and they're like, yeah, you got a lot of work to be done. I was like, what? And then. My old dentist can now take the coverage anyway.
+Christopher Hume: So too much information, Joy, when you asked how my morning was last time they'll ask that.
+Gioia Garden: I love it.
+Christopher Hume: So. I kind of want to break this into two parts today. One, I just want your feedback on. The bot. Because I'll tell my feedback to the grain recorder that I'm going to look at later. Is sharing way too much information with customers. Like we, even if it's right. We don't want it to tell customers that we had a transcription pipeline error. That seems wild to me. It means nothing and reduces. That's one. Who it wasn't always right. Sometimes I noticed it was wrong, like with the transcripts and then three, I noticed it was. Trying to schedule too many meetings. Like it literally ended every single email was like, let's schedule a meeting, which like maybe is where we want to send you and Ryan eventually. But like, I don't know if like a simple like, hey, what time were your notes going to end with? And if you can't find your notes, just schedule time here. Because the whole point is kind of to buy a little time. We don't want people to get trigger happy. So that's what jumped up to me. Is there anything that jumped out to you?
+Gioia Garden: It's been generating two notes. Which to be honest, I don't hate because I like have seen like different options. And it's kind of strange that like it can give like very different answers though. Like so I don't hate that especially as I'm just like getting more and more exposure to front and all that. And to like the actual application like as in Jody. I agree that it doesn't need to send out so many calendly.
+Christopher Hume: No, it's your Cali invite.
+Christopher Hume: I'm actually good with not a good use of your time to meet with every single customer who has a question.
+Gioia Garden: Yeah. But mostly like my questions have been like, is this accurate? You know?
+Christopher Hume: It's so funny. So I did you see in Slack, I'm like, hey Marcus, like this, I was working accident. We were just laughing because on Monday Nate was like, oh my God, this is perfect. And then we're like, wait, what? What got sent on Monday? Okay, let's go through these. All right, anything else for me, Joy, like how are things going? Do you think you're getting up to speed?
+Gioia Garden: I don't want to like kind of
+Christopher Hume: make training wheels for too long, but I certainly want to make sure there's a good transition.
+Gioia Garden: Well, I worry I'm like beating a dead horse, but I can't see the actual like chunks like under content and admin. I can't like totally cross reference things. And so I feel like that's a major gap in my like app like application of training.
+Christopher Hume: Nope, that's super fair. Let me take care. Well, I can't take care of it, but I can get this. Yes folks access to see notes.
+Gioia Garden: Because it seems like the thing we get asked about the most is like lost pain. Can you like this is still processing or like where is it so and it's still there's still it seems like there's a difference between being able to like regenerate a note that's like stuck in processing versus helping someone find a note that like maybe they just like. Didn't. They clicked say like save and exit. And so then it's like in their like list of nodes, but they don't know that.
+Gioia Garden: And then there's this other category where sometimes people like we are able to like find maybe like audio or something. Like that they actually can't they they don't know if it was recorded or captured or whatever, you know.
+Christopher Hume: I think what happens is sometimes it gets stuck. And sometimes people click out. Sometimes it gets stuck, which is a technical issue, but we just push the button.
+Christopher Hume: We're like, I have no idea what that happens. I keep jumping up and down my feet. Begging the engineers to fix it. Marcus has done work on it, but it's sort of, in my opinion, this is not technical. It's a game of whackable. Like we fix something and then some other thing flares up and we're like. So you're right. Sometimes you get stuck. Sometimes they just never, they never press generate note. So they'll do the thing and then the code part of the application and they'll record something else and then like where the hell is my note? And so it's not a technical issue, but we can go in and be like, oh, you actually recorded something. Let me make that a note. And they can. That's the other one. And sometimes it's just a technical issue and there's no node at all. That's like the three main buckets I'd say.
+Gioia Garden: Okay. Okay. And then like this guy actually, I guess we'll get into it here like Tyler saying like, here, I'll let you read it actually. And I went back, I searched his like email. It looked like he and Becca had some force. She was able to like basically just like regenerate notes for him. And was asking him to clear his cash. And then. I guess.
+Christopher Hume: This is actually like a. Group too. We just converted. So that's not okay. So Tyler, let's just go on here. Can you check on your end just so I'm not jumping between when did he and Becca chat?
+Gioia Garden: Yeah, I think it was, sorry, let me have to repo that up sometime last week.
+Christopher Hume: I think it was, I'm pretty sure maybe the 12th.
+Gioia Garden: Yeah, let me just double check real fast. One week ago. Yeah. So like. Maybe around, yeah, probably around the 12th.
+Christopher Hume: Okay. It's not now. We'll come back to him. Let's go through this one actually looks really good. I just nice call getting rid of Calendly link.
+Gioia Garden: I like it.
+Christopher Hume: Hi, Joe. Start with frustration templates. One thing just to weird spacing, I just recommend types. You can do is personal templates. We're seeing temperature space be gone. Perfect. That's actually well done. Oh no. This is actually not the scary bola. This is a slightly less scary bola. Oh great dominated me trying to get a discount last week. Threw me to the wolves.
+Christopher Hume: He's like, hey, can you take this meeting? She's trying to onboard some of her colleagues like, yeah, yeah. And I get on there and it's her and five of her closest friends just like haranguing me for a discount. No, I'm like, oh, I'm so sorry. I actually don't have that authority. Let me see what I can do here. 314 like none of her notes are generating.
+Gioia Garden: That's awesome. Yeah.
+Christopher Hume: 14.
+Gioia Garden: Can you recover a lost recording?
+Christopher Hume: She has so many lost recordings. But none on three 14. Yeah. Fall off and ask at the time.
+Gioia Garden: Yeah. When you see something like that.
+Christopher Hume: Where there's all this, when there's all these like, oh, there's all these chunks and no.
+Gioia Garden: Yeah. What do you.
+Christopher Hume: Not going to be like, hey, we didn't find your note, but we thought about 10 others that are screwed up. I'm going to elevate this to the engineers. That's how I do like, hey. I was just poking around. She seems to have a bunch of chunks and no notes. Can someone see what's going on here?
+Gioia Garden: Okay.
+Christopher Hume: Diabolical. Good note. Good news, your recordings for March 14th are safe. Well, all the ones that are safe are safe. That is correct. Yeah.
+Gioia Garden: Okay. And if there's a. Lot of chunks and no notes, is it possible that they that they're just like not clicking generate notes?
+Christopher Hume: Yeah. And that's what the engineers can check. They could be like, oh, well, she never pushed the button.
+Gioia Garden: Okay, got it.
+Christopher Hume: So I'm sitting here an email. Sorry.
+Christopher Hume: You can't see my screen. But you know the drill.
+Gioia Garden: Yeah.
+Christopher Hume: Don't care. Again, this is just like, hey. Engineering team.
+Gioia Garden: Okay. So. Do you have to tag someone like an actual engineer?
+Christopher Hume: Yeah. So this week Alfred is on. So I'll, every week I'll like, so I go. Like he can deal with it. Like he actually doesn't do prescription.
+Gioia Garden: Okay.
+Christopher Hume: And I upload a record value, Chris. Something jot sink supports today. Right now. Over that.
+Gioia Garden: Out. Great.
+Christopher Hume: Oh no. I can't send.
+Gioia Garden: Yeah.
+Christopher Hume: Great question up over here. Jackie Swiss there. And I'm just going to say the one change I'm going to make is like we can't promise a timeline. I'm just going to get rid of that and say. Thanks for your partnership. Like I don't want to imply that something we're ever going to do because I just. Like, we don't know.
+Gioia Garden: Okay, that's good. Yeah, that's good tweak. And then.
+Christopher Hume: Oh yeah, he's resolved.
+Gioia Garden: Tyler. Yeah. Wait, how do you know? Wait? How do you, how is he resolved?
+Christopher Hume: He was the first time we did.
+Gioia Garden: And I just didn't.
+Christopher Hume: Right. Okay. Have you heard of these issues before?
+Gioia Garden: Yeah. Yeah. So I just said I did a little draft. I was like, thanks for this feedback. And then ask for some clarification because she said something about how like they're not. Recording the same or something like that.
+Christopher Hume: Yeah. Sorry, do I see your, go to Amanda? Yeah. Yeah. Amanda actually said something to you back, but it's a setup. Oh yeah sure. For example. Yeah, perfect. And I, this is kind of more of me thing than like a best practice thing, but I say I always end by like, thank you for your patience and partnership or something. Just like something like that. And it makes it harder to just like blow us up.
+Gioia Garden: Yeah.
+Christopher Hume: One of the reasons we're like indexing so heavily onto customer support and customer, and I'm sorry, do you have a few extra minutes to just finish going through this?
+Gioia Garden: Yeah, I've got 15 minutes.
+Christopher Hume: No, that's helpful feedback. I'm sorry. With him, but let's just go through all these. So this is, there's no action required. Lee should have archived this. So we're just going to archive it. Okay. If she has any concerns, she'll reach out. This is the e-prescription thing I just assigned.
+Gioia Garden: This was the one about the promo code.
+Christopher Hume: You followed up about, let me just check straight and see what's going on here. Probably just give them both. $50 discounts.
+Gioia Garden: Yeah, sure.
+Christopher Hume: People really struggle. To determine. When to put in the promo code.
+Gioia Garden: So you've seen that before.
+Christopher Hume: Yeah, people are like, hey, I didn't get my discount. Where was I supposed to put it in? It's like inside in when I asked her promo code. This is just so brutal.
+Gioia Garden: Why is that?
+Christopher Hume: Woman is just like missing like a 90 minute session from almost a month ago? And she's like, I don't remember it.
+Gioia Garden: Yeah.
+Christopher Hume: Okay. So these are all actually already assigned to people. So like I already went through these and I was like, hey, this needs technical support. And I told everyone last night and no one went through these. So eventually I'm not going to make you do it on day three or day two, whatever we consider today, but it becomes like a herd in cats exercise where you'd be like, hey, we need some.
+Christopher Hume: And like, I mean, you're probably going to edify to do it to me like, hey, Chris, I can't give out discounts without your approval. Can you just take a look? I wrote it up. All you need to do is send and approve. But right now the engineers to fix stuff and I need Nate to just approve some like. Pretty significant discounts. Okay. 18 minutes, Roya. Look at us.
+Gioia Garden: Yeah, seriously. Let me see. Let me see. Let me see. Okay, cool.
+Christopher Hume: With you. Yet?
+Gioia Garden: Yeah, for today at 3:30 my time, 2:30 per time.
+Christopher Hume: Okay. Um, so I would just say that my guess is they are very low tech, that entire company. Okay. It's tough. It's going to just be like. I would just do the walk through. How to record. I frankly wouldn't even really worry about customizing templates unless she's asking for it. But I think like here's how you record. Here's how. You copy your note into your EHR. And just prioritize. And you might want to do like an example session with her to make sure she can connect her mic.
+Gioia Garden: Okay, cool.
+Christopher Hume: And then like as always, if you run into any issues, just like. Hey, I'm so. Your calendar. It is. At 5:30 my time.
+Gioia Garden: You see what?
+Christopher Hume: My gosh everyone sees book. I'm just trying to find if you need like phone a friend, I'll just connect you and Lee just so like if. Things are getting really hairy and you're like, holy and like someone's like getting angry or whatever, which highly unusual, again, really low tech, this is going to be an easy one. But I just, your first one, I'm going to be, I tell you, I'm going to, I think I'm sure I complained to you already. I'm going to North Dakota. Yeah. We talked about stuff so far from you. I will be out of pocket, but I want to make sure you have someone to lean on. So if like it's going really badly for whatever reason, technical issues anchor, you're like, let me just get an engineer on the line. Give me a second. I'll pull them in. So they just connect you with me right now.
+Gioia Garden: Okay, sweet. Thank you. Yeah, so she. S part of a group practice that's already up and running with Jotzy and she's just like going to get some onboarding help. That's what it's sort of what I discerned.
+Christopher Hume: Okay.
+Gioia Garden: Yeah. Cool. I'll have some time unless I need like emergencies come up with any of my clients today. They shouldn't. Have some time before that meeting to like. Sort of prep and sort of just like get like set up to make sure I can like speak to her. Cause I think I looked I looked up. I think she's a nurse practitioner.
+Christopher Hume: They're all nurse psychiatric nurse practitioners.
+Gioia Garden: Yeah. Yeah. So cater that language.
+Christopher Hume: The last thing is in terms of kind of bandwidth and tasking for this week. I'm going to be completely out of pocket tomorrow, but we can kind of do the same thing that we've done today on Friday, which is horrifying. I'll be back home already. Do you need. Like, what's your bandwidth looking like? Do you have time to do front in the even afternoons too? Do you want to keep it for mornings this week? Like what works for you? Um, I don't want to like over kind of. Over. Yeah. Week one.
+Gioia Garden: Let's see. So between. This week is pretty flexible today. Tomorrow and Friday. I've got. The ability to do it in the mornings and an afternoons or even if you want me to check in like on my evenings. Thursday might be rough.
+Christopher Hume: But yeah, today, tomorrow could you. Could you just in the evening or excuse me today Friday in the evenings afternoons whatever. Just do a pass through at some point and just let me know when you've. Heard your thoughts. And either me or Nate will handle it from there. I mean, if you could do the same thing in the mornings, as we've already discussed, we'll have a meeting Friday, but Thursday it'll have to be asynchronous just because I'll be.
+Gioia Garden: Yeah. Okay. So wait, so you said today and Friday check in on.
+Christopher Hume: Yep. Yeah. And if you could do Thursday too, you can certainly do Thursday, but it sounds like you're booked up.
+Gioia Garden: Yeah, I might be able to swing it, but I can't promise that.
+Gioia Garden: But check in on mornings, evenings and, and all that. And. Yeah, I can just keep tabs on it throughout the day in general.
+Christopher Hume: But I mean, that would be awesome, Julia. Like if this ends up in a situation where you're just like killing these tickets as they come in, we haven't broken up into morning and evening because like when I'm doing it, I need to have time when I can work. But like this, I mean, it is work. So like this is your job. So it's easier for you. Hey, I do a little bit in the morning, a little bit in the afternoon, a little bit in the evening and just jumping up. As long as I get answered. That's good.
+Gioia Garden: Yeah, yeah, yeah. And then do you, what'd you say you want me a pingy when like I have like kind of like gone through some?
+Christopher Hume: Yeah. Yeah. When you've gone through it and you've done like a, you're like, hey, Chris, I'm like, I think everything that's in there, like I've either asked my questions or written up my drafts, do you want to just send them? I'll go in and can handle it.
+Gioia Garden: Okay, cool. And then I've got, I double checked with all my like three references that they're okay for to be reached out to. So I'll send you their emails and phone numbers in an email.
+Christopher Hume: Perfect. Yeah. And then looking forward to getting you into more and more of these customer support calls, Joya.
+Gioia Garden: This is where the fun stuff happens.
+Christopher Hume: You ask them, yeah, it should be good.
+Gioia Garden: I'm excited. I'm excited.
+Christopher Hume: Yeah.
+Gioia Garden: I just want to get like more and more up to speed so I can actually be like a value add and not be like, is this true?
+Christopher Hume: Like can you like you'll get there. You'll get there. Don't worry.
+Gioia Garden: Okay, cool.
+Christopher Hume: Awesome. Thanks Joya. Let me know if you anything.
+Gioia Garden: All right, we'll do.
+Christopher Hume: Thanks, Chris.
+Gioia Garden: Bye.

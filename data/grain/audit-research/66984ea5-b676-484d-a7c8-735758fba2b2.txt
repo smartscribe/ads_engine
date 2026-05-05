@@ -1,0 +1,87 @@
+Christopher Hume: Hey, Antoine, how are you?
+Antoine: Hi Chris, how are you doing?
+Christopher Hume: Great, it's Friday. Right?
+Antoine: Yeah, happy Friday.
+Christopher Hume: Happy Friday. Happy Friday.
+Antoine: How was your day going so far?
+Christopher Hume: Good. It's, I'm in New York for the week, so it was foggy, rainy and cold, which is a bit of a bummer, but looks like it's clear enough a little bit.
+Antoine: Yeah, I see.
+Christopher Hume: How about you?
+Antoine: I would give it. Seven out of 10.
+Christopher Hume: Okay. Hey, that's pretty good.
+Christopher Hume: That's pretty good.
+Christopher Hume: Pretty good for a work day.
+Antoine: Yeah. I'm married in some good food. This is the Brugman that we're working on. So that's good news.
+Christopher Hume: Good news. No, if David will be able to make this meeting.
+Antoine: And he will. Okay, perfect. Now let me call him actually.
+Christopher Hume: Yeah, perfect.
+Antoine: Thanks, Antoine. Sure. He's joining in one minute.
+Christopher Hume: Perfect.
+Antoine: Awesome. Just give me a second, Chris.
+Christopher Hume: If you allow me. Oh, yeah, yeah. Hey, David. Good afternoon.
+David Yacoub: Chris. How you guys doing?
+Christopher Hume: We were just saying doing pretty well. That's a Friday, so can't complain. Right?
+David Yacoub: Yes, exactly. Friday's the best day.
+Christopher Hume: It really is. It really is. David, I just. Hey, Antoine.
+David Yacoub: I'm sorry.
+Antoine: I'm not really sure if you can hear me, but I cannot hear anyone.
+David Yacoub: Can you hear me?
+Antoine: I hear you. Maybe I'll rejoin again.
+Christopher Hume: Can you hear me, Chris? Perfect. I can hear you, David. Yeah.
+David Yacoub: Okay. Well, that's great. Well, I just wanted to tell you, first off, I just apologize a little bit for lack of, you know, meeting canceled last minute and just a bit of delay in communication, all that. We're actually in a bit of a holiday.
+Antoine: That's fine. I think you can go ahead about her, like the meeting and I'll figure that out.
+Antoine: Because I can't hear any.
+David Yacoub: One. Okay, no problem. I don't know if he could hear me, but. Anyways. You know, we've been, it's a bit of a holiday right now. And also we've actually been going through like a major switch with our, you know, one of our, like, Oracle systems. It's like kind of expiring and all of that.
+David Yacoub: And so we've just been kind of dealing with just a bunch of different things from that end. I've actually had the chance to kind of, you know, keep, you know, messing around with the system a little bit more. I know you, we talked about getting in the provider notes so that you guys can make us those templates. And like, yeah, I didn't forget about that.
+Christopher Hume: I'm going to like, I was really, I kept my list.
+David Yacoub: I was like, I'm going to do it tomorrow.
+David Yacoub: I'm going do it today. I'm going to do it today. Then like I would, there's just been, it's been a lot of things that have just been coming up. So I really, I apologize for that. No, no, of course. But no, we really appreciate you guys for how responsive you guys have been and everything like that. I think, you know, we're just going to continue kind of playing around with it and seeing how we kind of think, you know, and whether or not this is something that, you know, we're going to be able to, you know, transition to. And I'll keep it very straightforward with you about what things I kind of find, if any like, you know what, you know, why we wouldn't be able to, if so and whatnot. And I think we just kind of follow up from there really and see how things are going. I just has been just a very extremely busy week and I know, you know, I know we all have busy week, so it's not a good excuse in that side. But anyways, I, you know, I appreciate you a lot. Thank you for your flexibility and everything. But I don't know, like Antoine, I don't know if he, I don't know if he's here. Maybe he hears, but yeah. Okay. Can you did you have any questions at all about like, you know, the way the systems work or anything like I honestly had, I think the big one for me was just some of those. Big bugs that we had kind of talked about earlier on and then maybe like, you know, something along like the lines of a ticketing system or something like that and trying to figure out how, you know, that would make sense in terms of like integrating something with there. Or whether or not we would need to, you know, so I'm just going to try to figure that part out too because a lot of the
+Christopher Hume: ticketing system or a ticketing system for what David?
+David Yacoub: Like in terms of like, you know, very simple things of like, you know, opening requests for a patient, you know, like on behalf of patient requests and things like that internally within the company.
+David Yacoub: You know, like an internal SaaS system basically.
+Christopher Hume: And so it would be like a ticket, like, would that be something like to provide or create a ticket for their admin team or their admin member to, you know, request information from a different clinic or something like that.
+David Yacoub: Yeah, I mean, most of the time it's really an admin doing it on behalf of the provider or on behalf of a patient within the internal company. Right. So, I mean, but yeah, maybe that can happen too, the way that you kind of described it where, but for the most part, not necessarily. You know, it's really the admin can I supporting the doctors out?
+Christopher Hume: David, what else? That's something I'll have to bring up to the product team. We don't have functionality for tickets like that right now. But what other features over the next kind of three weeks or so do we want to test? So I know you need to see the templates and make sure the notes look good. What else can I make sure that you have access to to try to play with? Or we can maybe in next week's meeting, I can walk you through. So you at the end of this period have like a really good idea on if Jobs like will or won't work for you.
+David Yacoub: Yeah. I mean, I think, I think the big ones is really the way that the summaries come out and we kind of have access to that. We just kind of need to play with it and give you guys those templates, which, you know, and I'll make sure that you guys have more than enough time to build out whatever it is. And I want to, you know, make you feel rushed in any way. But, you know, I think that's a big one. The ticket system is like truly for us is like part of the reason why we're switching, like from our systems, right?
+David Yacoub: This whole Oracle and Office of Life switch is like, we're trying to get a system where it's like an all in one. Right. And so that honestly is a big one for us and that I'm sitting down like, okay, well, if I use this platform for everything, how am I, you know, there's no really like fully wired up like, you know, tickets. And that's the thing Oracle itself is like, you know, it's a whole ticketing system and it was dedicated literally dedicated for tickets is literally what it is. And so we would have incompatibility there. And then it would be kind of like the idea of, like, switching to jot psych for like, you know, from office to lighted job site. And then are we doing that migration specifically just for, you know, the notes, the AI notes? Because in that case, maybe it would just be better to just use the Chrome extension that you guys have and use that functionality and have them use like the AI summaries as a, as a functionality there. So there's just like a lot of different pieces that I'm trying to think about from that end. And I think a ticketing system is a big part. What else? I think another thing is the mass amount of like data that we are like, you know, that we kind of have to, you know, export or move or bring. I think that's a big component of like office alive does that very beautifully in that if we ever need to export patient data, they actually have it exported in like beautiful tables exactly like the way that they're, you know, their, their systems displayed it or whatever it might be. And those are actually a lot more crucial for us than you might expect. You know what I mean? Especially with a lot of hands on things. And so that's another aspect. I'm truly just trying to figure out like, okay, if I were to switch tomorrow, what are all like the list of things that would be like just not compatible or not workable? And so I think that's where I'm going to be sitting down and spending more time trying to figure out like where, you know, where is there incompatibility and then kind of like bringing them to you guys and whether we are going to try to. Like, bring solutions for them or whether or not like, so I'm just kind of thinking, is it worth your guys's time to be sitting on trying to make a whole new products on the side? And it's like, I, I wouldn't want to put anybody in that position or anything. So that's where I'm kind of just, you know, thinking.
+Christopher Hume: No, that is so, so helpful, David. And that makes sense to me. Um, and sort of sitting here thinking and listing some of those requirements, what I think maybe be a great next step here. Would you be able to get me those templates maybe on Monday? Because then, then what we could do is we could set kind of our meeting during the normal time on Wednesday.
+Christopher Hume: And I would love to walk you through the templates that we've developed and then just walk through your workflow with you. And I think that might answer a lot of your questions and a lot of my questions. We kind of do some of that live. Just, I don't really want this to be a burden on you or a huge lift.
+Christopher Hume: So if there's anything that we can kind of go through together, I can answer those questions live. Or at the very least, write them down live and then immediately go to the engineering team. Would that be a good use of time?
+David Yacoub: Sure.
+Christopher Hume: Then let me just while kind of we're doing that together, I would go and set this. Next Wednesday to just, does that work or to Eastern? Does that work for both.
+David Yacoub: For you? I think, I think it will work. If anything, we'll reschedule.
+Antoine: It for sure.
+Christopher Hume: Perfect. And Ana, I know what's really important to you are those operational reports. And so I'm tracking those. And that's kind of once we start kind of building notes and getting notes, I can make sure that the engineers and the data team is working on developing those for you. But is there anything else we should be tracking?
+Antoine: I mean like we may like work things out as we go, but the major ones, as I've told you, it's more of like operational dashboard for the analysis of the appointments, the no shows, they completed appointments, the type of the appointments. This definitely should be like broken down to like the level either the level of the appointment type. So at the end of the day, it's literally like having a dashboard of every single. Transaction, if I can call or interaction, if I can call it that way on the platform. So how many appointments, the breakdown of it. And this is on the level of the appointments type, the provider level. Etc. Etc. So it's kind of. Pretty much the comprehensive analysis. Of the operations. It might be similar to what you do guys in the billing, but from the operational perspective.
+Christopher Hume: Yep, that that makes sense to me and so I'll make sure kind of, yeah, as we're kind of going through this process together. We're tracking that and making sure to keep you up to date on the feasibility. But I don't really have concerns there about our ability to do that.
+David Yacoub: Wonderful. And I think Antoine made really good points there. That was like something that I think is key and critical too is just, just a lot of that data because there's so many patients that are coming in and out. And for us to not necessarily be able to easily like filter through that stuff. Is very like bad for us.
+Christopher Hume: It's unbelievable, right? It's just how much data. And then when you have different systems and they all have the data in their own way. We see this at clinics.
+David Yacoub: It's, do you guys have like mass SMS messaging, for example?
+Christopher Hume: Built in mass SMS messaging? I'll have to check. I know we do have SMS messaging, but you're asking like, could you send out an SMS to everyone in your clinic?
+David Yacoub: Exactly.
+David Yacoub: Like could I send out like 100 text messages or emails tomorrow? You know, like to X amount of patients that might have. And the reason why that's even possible is because of the way that office life structures its data. It allows us to be able to use third party applications to, to do those transactions or to send those emails out or text messages. So like the reality is it would be best case for us if there was a system that could already also send those, you know, mass marketing things without even having to rely on going to a third party website and then copying and exporting and moving that data from one place to another. It should all just be in one place, you know, where, and so that's kind of like the vision. But again, there's not really a system out there that exists like that. So, you know, that's where we're at.
+Christopher Hume: Okay. I'll have to check with our engineers on what our SMS capabilities are and kind of where we expect those to be in the next couple months.
+David Yacoub: Okay. Well, I really, really appreciate you Chris and thank you for that.
+David Yacoub: I think next I think we can talk a little bit more next week and I think it'll be very productive of what we get to.
+Christopher Hume: Yeah. And so next week we can go through your workflow, David. I can answer any questions that come up live. It'll be helpful for me just to see it. And then if you get me those templates on Monday, I should have drafts ready for Wednesday. So we, I can show them to you, show you how they work.
+David Yacoub: And then maybe we could get maybe I could even show you like kind of like some examples or something wonderful. Yeah. Yeah. I can show you examples. Like I've been, I can maybe like create some examples AI has gotten very good nowadays. And so you could just kind of like, you know, five code up some yes. Yeah. So I will look into that and maybe I could craft some stuff over the weekend and show you guys.
+Christopher Hume: Great. And then I think the last question I have for you and I appreciate you both going a few minutes long with me. George. Doctor Yakub and Kristen all have accounts. Is there anything I can do to support them or you guys handling most of the testing?
+David Yacoub: Honestly, for the most part we're kind of, we're probably doing most of the testing and there when we need them in, we'll kind of pull them in. But I think if we need anything from that standpoint, I'll reach out to you and make sure that you.
+Christopher Hume: Perfect. I just want to make sure everyone just get the support they need. But that sounds good. I'll go through you David and you Antoine and if anyone else needs anything, just let me know.
+David Yacoub: Oh, go ahead.
+Antoine: Amazing. Yeah, if we please before we go, can we reschedule like for the meeting on Wednesday to be at 11:30?
+Antoine: I have a confeeting meeting 11.
+Antoine: Like push it another 30 minutes.
+Christopher Hume: Yeah, that works for me. Let me adjust this right now. Does that work for you, David?
+Antoine: Yeah.
+Christopher Hume: Awesome. Great. Well, I'm really looking forward to that. We'll be able to get kind of down the dirty with kind of the jot psych with the templates and all that good stuff. So that should be a wonderful meeting.
+David Yacoub: Perfect. Good.
+Antoine: I really appreciate you.
+Christopher Hume: Well, anything else I can help you guys with today?
+Antoine: All good.
+David Yacoub: No, I appreciate it. Thank you so much.
+Christopher Hume: Okay. Well, thank you both. I hope you both have a great end to your Friday and we'll talk soon.
+David Yacoub: Thank you. Have a good one.
+Christopher Hume: Thanks guys. Bye bye.
+David Yacoub: All right.
+Antoine: Bye bye.

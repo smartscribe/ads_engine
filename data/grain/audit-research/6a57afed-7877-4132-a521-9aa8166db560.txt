@@ -1,0 +1,184 @@
+Beverly Curtis: I'm all right. How are you?
+Jackson Bierfeldt: I'm good. I can't believe it's still Monday.
+Jackson Bierfeldt: I feel like it's one of those where it should be at least Wednesday by now.
+Beverly Curtis: But.
+Jackson Bierfeldt: We just had all kinds of stuff going on today, but I'm hanging in there. Good. How are you?
+Beverly Curtis: How's the practice? Okay, going all right. You know, it's got. I have. But we're working at it.
+Jackson Bierfeldt: Yeah, well, I have a good thing to show you.
+Jackson Bierfeldt: Let's just start with this. Look how many of our payers are live. You can see this status column shows all the ones that we've been accepted in our live with. And it's most of them at this point, except for Aetna and Medicaid, Pennsylvania.
+Beverly Curtis: Really? Okay.
+Jackson Bierfeldt: So Aetna, we've been following up with them. They're just slow. They have everything that they need from us. So that should be going live. Whenever they get around to it. And then Medicaid, Pennsylvania, that is probably the biggest action item we have on this call. I think Adam sent you an email about a week ago that had some information in it that we need you to complete. Do you remember if you had a chance to look at that, or did that kind of slip through the cracks?
+Beverly Curtis: No idea. Okay. Look and see.
+Jackson Bierfeldt: Yeah, well, I can pull this document.
+Beverly Curtis: Are you able to see this Beverly? This was the promised one. Yeah, I do remember. Yeah, I did not get. Okay.
+Jackson Bierfeldt: Okay, great. I think that's the next step for Medicaid.
+Beverly Curtis: How many.
+Jackson Bierfeldt: How many of you. How many of your patients and clients are. Are Medicaid.
+Beverly Curtis: I don't know off the top of my head, but a lot. A lot.
+Jackson Bierfeldt: Yeah.
+Jackson Bierfeldt: Okay, so this is probably one that we. We want to unblock relatively soon so that we can start this.
+Beverly Curtis: Okay. Yeah. I just haven't had a chance to do that at all. No worries. Yeah. Okay.
+Jackson Bierfeldt: All right. So, yeah, I think that this is just something that we want to put on your to-do list and make sure that you get a chance to look at it. Do you already have a promise? Portal login?
+Beverly Curtis: I believe I do. That's the issue. I'm not sure what it is.
+Jackson Bierfeldt: Yeah.
+Beverly Curtis: Okay. I don't want to waste your time. That's why I said, Adam, I I don't want to waste your time trying to figure. Oh, wait, wait, wait. What is that exactly? Yeah. Where is the link, though? Because I. Is there a specific link to the promise portal or how I get there?
+Jackson Bierfeldt: Yeah, there's a link in this. Do you have the email from Adam pulled up where he linked us to this document? I can resend it if. If you don't. Looks like it was from April 6.
+Beverly Curtis: And that was sent to Curtis Beverly. Is that right?
+Jackson Bierfeldt: That's right. Yeah. I'm gonna go ahead and just forward it to you and just so you have it again.
+Beverly Curtis: Yeah. Okay.
+Jackson Bierfeldt: Yeah.
+Jackson Bierfeldt: And at the top of this email is a link to studies document, the one that I'm sharing on my screen, which has the. The step. That you need to go through here.
+Beverly Curtis: Okay, perfect. Okay. How about if I tell you I have it done by tomorrow morning at eight o'clock? How's that? Smell?
+Jackson Bierfeldt: Oh, that sounds great. I was gonna say I'd give you to Wednesday, but.
+Beverly Curtis: Nope, we'll do it tonight. We'll do it.
+Jackson Bierfeldt: Okay, great. And, I mean, some of these are like 15 steps. You know, this one looks pretty short. So I think you've probably done ones that are even more arduous than this.
+Beverly Curtis: So it seems like on that little list that Geisinger is listed. I didn't think I had done Geisinger.
+Jackson Bierfeldt: But I'm in. Done, I believe. Let's see.
+Beverly Curtis: Yep.
+Beverly Curtis: So it looks like you about that one. Okay.
+Jackson Bierfeldt: Yep.
+Beverly Curtis: You're enrolled for 8 35 ERN. So. Okay. Yeah.
+Jackson Bierfeldt: So Medicaid, the only one I think, you know, is, like, waiting on action from you right now. Okay. Then the question is, are there any other payers that aren't on this list that we haven't even started with that you want to make sure we're. We're adding?
+Beverly Curtis: Okay, do you have access to the dashboard from. Cap line there? My credentialing agency. I don't know that you do.
+Jackson Bierfeldt: I might. Let me look at my file.
+Beverly Curtis: But I don't know if you have.
+Jackson Bierfeldt: If you gave it to Adam, it's likely that I have it. Let me just look.
+Beverly Curtis: Here we go. Okay. So let me just clarify. Aetna doesn't need me to do anything. Is that right?
+Jackson Bierfeldt: That's correct.
+Beverly Curtis: Okay, so you have this. Yes. Okay, good. Okay, now, when you first go in there. It looks like nothing's going on. You just have to wait a few minutes, and then all. That's fun. Yeah. But you get a little worried when you see zeros everywhere. Okay.
+Jackson Bierfeldt: Yeah.
+Beverly Curtis: Now, when I first started with them, the credential of me in Pennsylvania, Maryland and West Virginia. I stopped the West Virginia credentialing, so that's not happening right now. But when you see stopped on that dashboard, those are the West Virginia. Insurers.
+Jackson Bierfeldt: Okay.
+Beverly Curtis: Just so you understand what's going on there. Okay. So.
+Jackson Bierfeldt: These are the ones that are completed. So here's Geisinger. Great Wes. That one that we're missing.
+Beverly Curtis: Okay. I don't. That must have been one that. I wasn't aware of that one. So.
+Jackson Bierfeldt: Okay. Yeah. I don't know what that is. Figma looks like we have cofinity. Are you aware of cofinity? I don't see that on the list.
+Beverly Curtis: So that's completed. It says. So. So the credentialing is completed. You know, what I did not know, and this is, you know, I've never billed one my own before, so I did not know that there was also this enrollment business.
+Jackson Bierfeldt: That I thought.
+Beverly Curtis: I. I just didn't realize how complex I was.
+Jackson Bierfeldt: It just seems.
+Beverly Curtis: But it's getting done.
+Jackson Bierfeldt: So. Yeah, I'll keep these live. Sorry. This. So Confinity, it looks like they don't do electronic remittances.
+Jackson Bierfeldt: So that's one.
+Beverly Curtis: And how do you know that?
+Jackson Bierfeldt: I'm looking at that in. In steady your clearinghouse.
+Beverly Curtis: I'm logged into your steady clearinghouse account, and it.
+Jackson Bierfeldt: Yeah. It says that era, the electronic remittance advice is not supported by the payer. So just so you know, that means that we can submit claims to cofinity. You're, you know, you actually aren't required to enroll for them. But if you were to see a patient that has cofinity, you'll likely receive the remittance as a check.
+Beverly Curtis: You know, to your.
+Jackson Bierfeldt: To your physical address. Yeah. Okay. Which not ideal, you know, causes all kinds of paperwork hassle, but some of the smaller pairs, I think, are going to be in that. In that bucket. I'm going to look at Great West really quick here while we're on the call together. And just kind of. See.
+Beverly Curtis: Okay.
+Jackson Bierfeldt: Great Wes. Health care or signal. Great West Healthcare.
+Beverly Curtis: Oh. I see. It's a derivative. Yeah, it's a derivative of Sydney. Yeah. Okay.
+Jackson Bierfeldt: Okay, great. So that likely means that you would just submit that to Cigna and that they would route it. So I think we should be good there.
+Beverly Curtis: Okay.
+Jackson Bierfeldt: And then let's see. Multi plan. That's hard to know what it is. Is that the name of an insurance?
+Beverly Curtis: That is. It's like a.
+Jackson Bierfeldt: Okay. Multi plan Incorporated.
+Beverly Curtis: Yeah.
+Jackson Bierfeldt: Then Veil multi plan.
+Beverly Curtis: Yeah, I do have some people on multi plan. And.
+Jackson Bierfeldt: Do we think it's multi plan Incorporated?
+Beverly Curtis: I would go with what's listed there. Oh, C. Now. Okay.
+Jackson Bierfeldt: So multi plan also does not have electronic remittance.
+Beverly Curtis: I see. Okay.
+Jackson Bierfeldt: Let's just check this Ben same. So not much we can do on that one right now either.
+Beverly Curtis: And then.
+Jackson Bierfeldt: Capital blue cross Pennsylvania. We're all done first house. And actually, let's look at.
+Beverly Curtis: Excel.
+Jackson Bierfeldt: How do you even say that name? Why would they spell it that way?
+Jackson Bierfeldt: Yeah, this is fun. Okay.
+Beverly Curtis: And this one doesn't want to really. Yeah.
+Jackson Bierfeldt: Okay. So Excel, I'm not even finding anything in our clearing house. Are you aware of this one? Do you have patients that. That use this?
+Beverly Curtis: I I don't know. I mean, I can't say. Oh, yeah. I don't know that I have any. But. Okay.
+Jackson Bierfeldt: And then let's look at first. Help. This is one of the problems. I mean, it's called first health, but I don't think it's health first communities.
+Beverly Curtis: It is bizarre. I looked at this the other day. And the community first health plan is I. And I could be very wrong. It's a derivative of the health first. The community first house, I think. Okay. It says University Health System underneath there. I have. That.
+Jackson Bierfeldt: Okay, so it is this one.
+Beverly Curtis: I believe so. Yeah. I had to figure that out the other day.
+Jackson Bierfeldt: Okay, great. And they have. Era. So I'm going to go ahead and start this enrollment.
+Beverly Curtis: Then. Okay.
+Jackson Bierfeldt: And just to confirm, you don't already have an era set up with this.
+Beverly Curtis: I don't know.
+Jackson Bierfeldt: Okay. I don't know. I mean, like, you don't have another EHR that you were using where this is already going to. This is your first time setting it up. Correct.
+Beverly Curtis: No.
+Jackson Bierfeldt: No.
+Beverly Curtis: Okay. I was in the middle of setting up some things with therapy notes. When I email regarding jot psych doing billing. Got it. So I had enrolled in a few.
+Jackson Bierfeldt: Through therapy.
+Beverly Curtis: But never build through them.
+Jackson Bierfeldt: Okay, so then you're not. Yeah, it shouldn't cause any disturbance then. You're not. There aren't some claims that are, like, waiting that are.
+Beverly Curtis: There's no active claims anywhere except what you know.
+Jackson Bierfeldt: Then we're all good here. Okay, so for this one, it looks like there is going to also be a sheet we have to do. Oh, this is a fun one. But I believe you already went through this zealous payments account, right, for a different.
+Beverly Curtis: I think I did. Yeah.
+Jackson Bierfeldt: Okay. So this is one where. Yeah, if you're already set up with zealous, hopefully this should go a bit faster.
+Beverly Curtis: I have to say, when I did this, I wasn't. I guess I just didn't really think about writing down passwords. That's terrible. All right.
+Jackson Bierfeldt: Have you seen this screen before? Like, do you. Do you know for a fact that you've set up zealous before?
+Beverly Curtis: It sounds very familiar.
+Jackson Bierfeldt: Okay, great. Well, I'm going to add that to our, you know, to-do list for you to look at on your own time, find your password. Sure. You wrote it down on a sticky note and put it right there on the monitor. I'm joking about that.
+Jackson Bierfeldt: I don't recommend any of that any of our customers ever do that. You use a password manager, Beverly.
+Beverly Curtis: Okay, good. They do. Yes.
+Jackson Bierfeldt: Okay. Yeah, that's. That's just one thing that I always recommend to. To any of our customers for us or for anything. I mean, it's just going to save you a lot of hassle, but it sounds like you have one of those. Okay, so I will send you this.
+Beverly Curtis: Okay.
+Jackson Bierfeldt: Because that's going to be the step that unblocks Community first health plans. Okay. So that's good. And then Aetna, we're working on multi plan. So Excel, Aexcel, that one, we're not going to be able to, to do. So just note that if any of your patients come to you with that, and then it looks like cofinity, we're also not going to be able to do the electronic remins. We can still submit the claims to them. But you're going to receive that via mail and have to, you know, cash those checks on your own.
+Beverly Curtis: Okay. All right. Gotcha. So when I'm filling out some of these forms, I have to sometimes put in an email. Should I use this billing at such shotsych.com?
+Jackson Bierfeldt: Yes. Yeah, you can, you can use that if we're managing your billing.
+Beverly Curtis: Yeah. I mean, that's, you know. Yep.
+Jackson Bierfeldt: That, that'll make sure it goes to us.
+Beverly Curtis: Yeah. I didn't have that before. So. Okay.
+Jackson Bierfeldt: Okay, great. So I think you're, you have two main items here, which are one look into this zealous thing, which will unblock the first health Community. First health and then the Medicaid. One. As well. Probably the Medicaid one is the most urgent because we know that Medicaid does take a little while on their end to process things.
+Jackson Bierfeldt: And since you, you probably have more patients with Medicaid than, you know, with first health. So I would do that one. Right away so that we can get that rolling. But otherwise, these are all of the credentialers that are marked as completed. Inside of CapLine. We can just take a look at the pending ones.
+Beverly Curtis: Are there any, you know, I know that. You know, necessarily. Maybe you do know about Pennsylvania more than I think. But are there any that I'm absolutely missing that are so obvious that I should have.
+Jackson Bierfeldt: I, I don't know. That is just going to have to be a regional question for you. But it looks like you have. And I'll pull this back up. I mean. You have Blue Cross Blue Shield. TriCare. We're going to get Medicaid med star Evernorth, which is Cigna. Also Cigna. Geisinger at Blue Cross, Pennsylvania. I guess United Healthcare.
+Beverly Curtis: Yeah, we're.
+Jackson Bierfeldt: Missing from this list.
+Beverly Curtis: It's still pending, I think, with Capine.
+Jackson Bierfeldt: Yeah. Let's look at that. Yeah. UHC. So, ah, so this is actually maybe an action item for you.
+Jackson Bierfeldt: Not with us necessarily, but with, with CapLine. It looks like UHC, it says we're waiting for the provider to share the verification code. The follow-up date is marked as today. So I don't know.
+Beverly Curtis: If I have an appointment with them tomorrow morning.
+Jackson Bierfeldt: So. Okay, great.
+Beverly Curtis: Yeah. And. I mean, we often do this, share verification codes. So. And then I often wonder if. Like, it hasn't been updated on the, on this dashboard, you know, because we do the verification code. So I'll ask her about that tomorrow. Because I have a lot of United Healthcare patients.
+Jackson Bierfeldt: And that, and, and I think that even already came up. Let me see. Yeah, I, I made a mistake. And you had a claim that was ready to go to United Healthcare. And I, I pressed submit on it, and they actually kicked it back already and just said, we don't have a subscriber on file for this, so.
+Beverly Curtis: Yeah. And I, you know, it's so funny because. With Headway. That was like one of the main insurers that I'm credentialed with, with Headway. So now I have to sort and sift on my headway patients, all my United Healthcare patients still have to be submitted to Headway. Before. This comes through.
+Beverly Curtis: As soon as this comes through, I can hunt them over here. Because a lot of them came from, they, they weren't originally Headway patients.
+Jackson Bierfeldt: They were open. We're just using Headway in order to.
+Beverly Curtis: Yeah. Yeah. Yeah.
+Jackson Bierfeldt: So they weren't definitely want to make sure we move those over. So I would put that as another. And I'm saying this out loud for the meeting notes, and I'll send you all of this afterwards, so don't feel like you have to stress and write it all down. But I would say that's your other high priority item is talking to Cap line tomorrow about UHC. Right. Because that's a big one.
+Jackson Bierfeldt: Some of these I, I'm afraid I really don't understand why Blue Cross Blue Shield is still listed as pending. When we do have Blue Cross. Pennsylvania. As completed. And we've already enrolled. Same with Cigna and Aetna here. So that's maybe another question you can ask Kapline, like why some of these seem to be duplicated in the pending.
+Beverly Curtis: Yeah. See, that's why I wonder if they don't, if the dashboard isn't always updated. Yeah. And then the other thing is we still can't tell what insurers are Maryland insurers.
+Jackson Bierfeldt: Yeah, that's a great point.
+Beverly Curtis: And we've asked them before about that. Now those went in much later. They had another person who was doing that. Amy is the person who's doing Pennsylvania. And then they had April. It was doing Maryland.
+Jackson Bierfeldt: And then, oh, that's confusing.
+Beverly Curtis: Yeah. I don't know what happened with April exactly, but now Amy has just started to do Maryland.
+Jackson Bierfeldt: So that's probably good that they're consolidating you. But.
+Beverly Curtis: Yeah.
+Jackson Bierfeldt: Yeah.
+Beverly Curtis: But I, I can't, we can't tell. Who's what here, you know, in terms of Maryland or Pennsylvania. And at a master about that, I, I've asked once or twice to maybe have two dashboards.
+Jackson Bierfeldt: You know, so we can see London and Pennsylvania.
+Beverly Curtis: I, I'll talk to her about that tomorrow.
+Jackson Bierfeldt: Yeah. Let's see if we can get that cleaned up because there's some, I'm noticing, like, Jai. Medical is listed as pending here. But we were successfully able to get you enrolled with them. So they must have something on file for you. So, yeah, I think my gut is that cap line is. A little behind on this dashboard, and you should probably ask if I were you, I would ask, you know, hey, can you update this? In two? Can you just give me a spreadsheet showing exactly who I'm credentialed with and in what states right now? I would just try to circumvent the dashboard thing and see if they're willing to just send you a spreadsheet.
+Beverly Curtis: Yeah. Okay. Are you, are you aware of optum. Behavioral network services?
+Jackson Bierfeldt: Yes. I'm aware of Optum who are there part of one of the big national ones, right? Or they are one of the.
+Beverly Curtis: I'm going to send you this email. I had forwarded it to Adam. But, and I just, you know, It's just me. Working here, basically. I have a nurse who works four hours a week, but she's not doing this stuff. So. The optim provider Express reminder. There's a link here that doesn't work. And when I call the 866 number.
+Beverly Curtis: I, I don't know, I, I was on hold for a long time and I couldn't get through. So I, I don't. And then I looked for this same link. You know, I Googled it trying to find a link. And I, I couldn't determine. What I found was the appropriate link or not. So basically is sort of an umbrella organization. That I believe. That. Has many, many insurance groups underneath it. So, yeah, I actually, let me.
+Jackson Bierfeldt: United Healthcare. Yeah, I think Optum is actually part of United Healthcare now. Huh? I think Optimum manages the behavioral health carve out for United Healthcare. Don't hold me to that.
+Beverly Curtis: I'm pretty sure that's the case.
+Jackson Bierfeldt: So getting credentialed with. Yeah, sorry. Go ahead.
+Beverly Curtis: I'm sorry. When I go into Alma because I, you know, I also in all my, they have an Optum tab. And under the option tab. The plans that are included under Optimal are all savers health plan, mass General, New York City, Oscar, Oxford surest United Healthcare, United Health, their Global service, student services. Select Health, and it goes on and on Aetna is part of that. All the Aetna variants, all the Cigna variants, Anthem Blue Cross Blue Shield. Emblem, Humana. Those are all. Part of the Optum. Tab in Alma.
+Beverly Curtis: So it's quite a long list. Okay.
+Jackson Bierfeldt: Yeah. Yeah. We don't have, we don't have anything. Sorry. I just looked it up. So off them in United Healthcare separate. They're both owned by United Health Group. As a conglomerate. But for all intents and purposes, Optum and United Healthcare separate.
+Jackson Bierfeldt: You know, just a fun fact, the, the money probably all goes to the same place ultimately. But for our, for our purposes, they're, they're different things. And, yeah, you are not credentialed with any form of Optum yet.
+Beverly Curtis: So this email that I just forward to you is so that is an enrollment, one of those enrollment ones. But the link there does not work. So I, I'm sorry to ask you to do this. Do you think you could figure out how I could get enrolled there?
+Jackson Bierfeldt: This is actually, again, something that you should bring up with your credentialer because I don't. Think you are credentialed with optum. How did I get that? It's a good question. Unless maybe you're ending with them. I did not see Optum in any of these.
+Beverly Curtis: Yeah. Well, okay.
+Jackson Bierfeldt: Are you, you, are you maybe credentialed with them through headway? Is that where Alma?
+Beverly Curtis: Yes, but that's not what this email is about. Okay. Yeah. So all those emails come through. Come via Alma or Headway.
+Jackson Bierfeldt: On their site.
+Beverly Curtis: Oh, got it.
+Jackson Bierfeldt: Okay. Yeah. So this is a separate one. Do you know.
+Beverly Curtis: I can try that. You know, I can try the 800 number again. I just didn't get through. And I, I didn't know if you knew. If you had a fancy way of getting in there.
+Jackson Bierfeldt: No, I don't, I don't have any fancy way of getting in there. And, you know, we just have to draw the, the, the service boundary, like post credentialing with you. So, you know, once, once we have confirmation that your credentialed with someone, then we can handle the enrollment and, you know, managing the claims and all of that. But since you're using, you know, this, you know, pap line for credentialing, you're gonna have to ask them about it or just search your papers. I mean, if you can find the paperwork showing, hey, I'm credentialed with Optum. Here's my, you know, confirmation. Then we can start that enrollment process. But unless we have that, we're just kind of shooting in the dark.
+Beverly Curtis: Yeah. Well, I mean, from this email, it appears that I am in there network, but not enrolled. You know.
+Jackson Bierfeldt: But we should, we should definitely look into that because optim is one that we want for sure. You're, you're gonna have plenty of patients that want to, want to do that.
+Beverly Curtis: Yeah.
+Jackson Bierfeldt: Okay. Beverly, I'm so sorry. I have to run to another call here, but I think we've got, I think we've got our list of things. I will send you this afternoon just a little brief recap of this and the follow-up items that we have. But the. The major news is that we're in a good place to start submitting a lot more claims. We're going to start getting money flowing new. You're going to be fabulously wealthy soon, and it's, everything's going to be great. Right. Yeah, exactly. I'll be writing your coattails. But, yeah. So things are looking good on the ones that we're in process with. There's a couple that you have an action item on. I'll follow up by email with you on those. And it sounds like most of that is going to be asking cap line some questions tomorrow. So I'll have you that email today so that you have it. You can reference it when you talk to cap line tomorrow and then hopefully we'll be able to move forward with a couple more of these major pairs.
+Beverly Curtis: Right. Okay. Thank you, sir.
+Jackson Bierfeldt: All right. Thanks, Beverly. Take care.
+Beverly Curtis: Bye-bye.

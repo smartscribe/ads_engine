@@ -1,0 +1,192 @@
+Emily Kaiser: Hi Rachel.
+Rachelle Sawyer: Hi, it's Rochelle. How are you?
+Emily Kaiser: Oh, I'm sorry. Hi, Rochelle.
+Rachelle Sawyer: I'm good. No worries. Doing well.
+Emily Kaiser: Good. So I'm Emily. I'm with Josh.
+Emily Kaiser: And we also have Nate on the call. He is our CEO of Jotzyc. Hi, Nate.
+Rachelle Sawyer: How are you?
+Nathan Peereboom: Hey, Rochelle. Nice to meet you. I'm going to be on mute and off video for most of this call just because I'm in transit right now, but you're in great hands with Emily and I can answer anything that comes up. Okay, perfect.
+Emily Kaiser: Perfect. So, Rochelle, if you could kind of tell me a little bit about are you familiar with JotSeyke at all?
+Rachelle Sawyer: I'm not, but I'm using a platform right now called Alia. And so it's an AI based platform for mental health providers.
+Emily Kaiser: Okay, great. So Jot psych, just to kind of give you a little bit of background, we started as an AI scribe and we're hearing from a lot of clinicians and customers basically that there's a big need for a lot of different systems in your day to day. Yeah. Kind of focusing on consolidating all of that and kind of being a one stop shop for customers as well. So Jotzlik started as the AI scribe and now we're moving into the billing space. We offer e-prescription and credentialing several things just to kind of consolidate that and make your workflow a little bit more seamless.
+Emily Kaiser: So just to give you a little background on JotSych and the direction we're moving in and why. So I understand today you're really kind of looking into job bill specifically.
+Rachelle Sawyer: Well, I'm looking for. I mean, I have this in the Alia that I'm using. It's like a free, it's free for providers and then whatever you want to add, you add like eScribe or billing or credential. You can add all those things. But what my problem is, is and they have an app as well, but it just, I've only, I'm a new provider and I'm going to apologize because my phone, I hear a different job, not my actual business, but and so like a lot of things have to go through the app. And so I wasn't, you know, being new and there's really no one to kind of guide you and everything is you just got to learn online. And I was like. And I tried to set up a call. Two or three different times with this company and they've canceled the calls.
+Rachelle Sawyer: And I'm thinking I need escribe immediately because I need, I'm going to be working PRN for another company and I don't want to have to have my platform plus an additional eScribe, you know, like a separate from a whole different company. So I was like, I just need something that's all in one.
+Emily Kaiser: Okay.
+Rachelle Sawyer: But I was trying to get like what the cost was and things like that. And I was like, if you're going to keep canceling my meetings, then you're not going to get my business. Yeah.
+Emily Kaiser: You know what I mean?
+Rachelle Sawyer: Yeah. Yeah.
+Rachelle Sawyer: I'm like, I do need this ASAP.
+Emily Kaiser: So definitely.
+Rachelle Sawyer: Okay, great.
+Emily Kaiser: Well, thank you for all of that information.
+Emily Kaiser: That's super helpful to know to kind of tailor the demo. So can you tell me, Rachel, are you or Rochelle, I'm sorry.
+Rachelle Sawyer: Are you okay sole provider?
+Emily Kaiser: Are you part of a clinic?
+Rachelle Sawyer: I'm a sole provider.
+Emily Kaiser: Okay. And how does your billing currently work?
+Rachelle Sawyer: So I, like I said, I don't really know yet because I haven't. I've only had one patient and she was private pay, so she paid me directly for a different way. So we didn't go through insurance. So right now I'm not set up for insurance. I'm getting credentialed through another company, but I had. So I haven't really done a whole lot on my end because when I say I'm new new, like I just became board certified at the end of August last year. Then I had to apply for my, you know, application, you know, apply for the NP and then I just applied for my DEA last week. And so I've got to figure out like how long is that going to take? So there's, I'm not really in the space yet where I'm seeing patients on the day to day. And for me it's going to be, it's going to take a while because I have to build up my patient load and patient cases. Okay, that makes sense. Yeah. So I'm a ketamine provider too. And so what I'm going to be doing eventually once I get office space is then seeing patients for either intramuscular injection or IV. But I can do the ketamine evals and then I can prescribe microdosing and or nasal spray over telehealth.
+Emily Kaiser: Great.
+Rachelle Sawyer: And I do med management as well and do psych evals, but really my main focus is ketamine.
+Emily Kaiser: Okay, perfect. So why don't I go ahead then and share my screen and show you just kind of what Jot psych looks like and what you would be navigating out of. Give me one second.
+Rachelle Sawyer: Yeah, I'm just going to. Put my screen. Okay.
+Emily Kaiser: Okay. So let me go to our home screen here. So this is the home screen of JotSyc, what you're looking at right now. And at the top, you have the options to kind of go and kind of navigate wherever you're trying to be, whether it's your patient portals, looking at overview information. Here is where you can kind of manage your notes, your templates, your forms, all things like that. We have a billing and auditing page. Here is where you can manage your practice. And then here's when you kind of can jump right into recording. Okay.
+Rachelle Sawyer: No show. That's easy enough.
+Emily Kaiser: So I'll kind of jump right into how you would record an encounter with a patient. So you can see what this looks like. So at the top here is where you would select a patient. We'll just go ahead Alfred Appleseed. He is one of our demos. And you select your patient and you select your type of appointment where all of your templates come in. So you have the ability to upload your own templates, create a template with our template builder or just browse in our library. We have majority of the common ones used, so you should be able to find everything you need.
+Emily Kaiser: But if you do to create your own or upload one that you've been using that works for you. And have the ability to do that. So we'll just do client intake. And then from there. So I should mention every time you record an encounter, say with Alfred Appleseed information, we'll be building under here. So, okay, you could see the information on the last encounter. You could see everything that you guys spoke about in your last appointment. You could see demographic information, any medication information, diagnosis information, which is helpful just again not to jump from all the different screens trying to figure out, you know, what you guys spoke about last and what the history of the patient was.
+Rachelle Sawyer: So from so it's kind of, that's kind of like what I've been used to. So like when I did my first appointment, it was all AI driven. And we did the video and it basically just gave us a snap to the summaries and then you could go in and edit it if some of the stuff maybe wasn't what you, you know, thought you wanted in there. Yes.
+Emily Kaiser: Yes. Very similar. Okay. So if we click start recording, what it would do here is it would, you would record with the patient. You would just end the reporting at the end. Of your appointment. And then what it asks you here is you have the option to save for later and edit. Yes. Later or you can generate note now, which we'll do now. I can show you kind of what's typical for the time length of it to generate and what it. I mean, this isn't going to my trial here. Over to notes. Sorry about that. So we use trials essentially to show everything. And it looks at my trial here has ended. Let me just continue here.
+Emily Kaiser: I'm going to stop sharing my screen and get us back. Thanks for your patience.
+Rachelle Sawyer: No, don't worry.
+Emily Kaiser: So where are you out of Fort Myers, Florida? Oh, nice. How was the weather there today?
+Rachelle Sawyer: It's warming up. You know, it's bipolar weather. Some days it's rainy monsoon. It was freezing cold over the weekend and freezing cold for us is like 50 degrees.
+Rachelle Sawyer: So when you're right. Because we went from like 85 degrees and then I was like, wait a minute. Cause I went, I went to go do some stuff over the weekend. I'm like, I didn't pick anything warm. All I have is like back with sundresses.
+Emily Kaiser: I'm like, this is lovely. Oh man. I'm in Michigan. So the last two days we had 70 degrees.
+Rachelle Sawyer: I'm from Michigan.
+Emily Kaiser: Yeah. What part?
+Rachelle Sawyer: Flushing.
+Emily Kaiser: That's where. Okay. I understand why you chose to move to Florida.
+Rachelle Sawyer: Yeah, absolutely.
+Emily Kaiser: Love that. Okay, let's see. I think I am back. Okay, here we go. Okay. Can you see my screen again?
+Rachelle Sawyer: I can now. Yeah. Just flip this over.
+Emily Kaiser: Thanks for your patience. Sorry about that.
+Rachelle Sawyer: That's okay.
+Emily Kaiser: So let's see. Let me go to a note. I believe that's where we kind of ended. So once you generate that note, it will bring you to this. Just thinking over here. Okay. So it's giving me some trouble because I was switching between two accounts. Let's see if this works. Well. It loads basically what it would show you here is it would show you a completed note based off of the text you chose.
+Rachelle Sawyer: Yeah. So whether you're doing like a one hour eval or a med management or. Yes, exactly. Summary your chief complaint.
+Emily Kaiser: Okay. Right. So based off of the template you chose, it will, it will kind of narrate and organize that note and the information from the transcript and kind of put everything here as you see. And then from there you have the ability to kind of copy and paste whatever information you want over to your EHR. So depending on what systems you use, it can integrate directly. So you can copy all sections or you can go ahead and, and be selective on the information you want to bring over if you feel like you don't need all of it. By clicking these little circles on the side. Okay, let me move this over. So what you are seeing on the right hand side here is our AI note assistant. So say our summary right now is in bullet points.
+Rachelle Sawyer: But say you want.
+Emily Kaiser: Your typical preferred format is for your summary to be in more of a paragraph form. You could give it that feedback. And that is what it will change.
+Rachelle Sawyer: That's a nice little added bonus there because in my other platform, I mean it. Oops, I'm sorry, trying to hold on to this at the same time. It basically gives you the whole thing and, you know, it doesn't give you that option if you want bullet points or not. So pretty much everything is just in paragraph form.
+Emily Kaiser: So that's cool.
+Rachelle Sawyer: And there's no AI assistant on that. Yeah, that's nice.
+Emily Kaiser: Yeah. Yeah.
+Emily Kaiser: So as you can see it changed the summary from bullet points to a paragraph. And then it's asking you if you want to always apply this formatting. So we're going to go ahead and click yes train. And the more you train AI assistant, the less you'll have to edit is the goal.
+Rachelle Sawyer: Okay.
+Emily Kaiser: So any questions here about the information you see or what it produced or anything that you would like me to kind of show you how we can adjust.
+Rachelle Sawyer: No, I mean, that's, that's pretty much self explanatory. It seems really user friendly. You know, should I choose this and I launch is there some type of like, is there like customer service or like IT assistants if needed?
+Emily Kaiser: Yes. Well, you can always reach out to me if you need any assistance. But you do have this little button here on the bottom left where you can ask questions and ask for additional support. We also have the option of, you know, we could always schedule a 15 minute demo as you kind of get going and I can kind of what we do is, is this.
+Emily Kaiser: Basically, we share link and you can share your screen as you're signed in and I can really walk you through what works best for your workflow.
+Rachelle Sawyer: Absolutely. Yeah. Just because I'm on an iPhone right now and, you know, not on my laptop, you know what I mean?
+Rachelle Sawyer: It's kind of, yeah, it's, I can see it, but like at the same time it would be nice to be able to kind of have that little bit of work like that 15 minutes. Yeah, that would be good. Right. But it does seem very, you know, user friendly.
+Emily Kaiser: So, yeah. And then let me show you over here. So under patients, like I said at the beginning, every time you record an encounter, this patient profile will build basically.
+Emily Kaiser: So you're seeing John Doe as our demo patient. And then you have the ability. It's all of that information is stored here under patient overview. So here's just kind of a landing page of where you can go and look at basic information, demographic information. Last encounter treatment plan. Any patient forms that you've sent over to John Doe, a history.
+Rachelle Sawyer: So do they go right to the, so if I, for the patient forms, do they send them right over to the email address?
+Emily Kaiser: Yes. So if you see this live icon menu here from this and also from the note that generated, you have the ability to send forms to your patient to create lab requests, to send clinical document, follow up or request payment. From your patient.
+Emily Kaiser: So you can type all things from here.
+Rachelle Sawyer: Yeah, that's kind of, and that's kind of what I'm used to because that was what my issue was with my, with this other, you know, I was like, okay, let me get started. I had to do a psych eval for, I know I'm not up with my ketamine thing yet. And my girlfriend's like, I want to start microdosing it. And she's like, I'm having troubles. I'm like, all right, you can go through joyous. I'll have to do the psych eval, and then you can just get the product from them.
+Emily Kaiser: You know what I mean?
+Rachelle Sawyer: So, but we were, that was the problem we were having. Is I couldn't figure out where the forms were going because I kept, I put in her email address and I'm like, this should be coming to your email. But what it was is that you have to download the app and you have to fill it out from the app.
+Rachelle Sawyer: And I'm like, oh, so it's not all just, you mean, yes, it's web based, but at the same time, you have to go to the app and do certain things. That's basically, I'm sure it's for patient safety and their thought process, right? You know, so that way it's all secure, right?
+Emily Kaiser: Here's kind of an example. So I just selected send form right here and what it's going to have you do is it's going to select from the available forms or again, you have the ability just like templates to upload your own forms and generate your own, create your own. So if you wanted to just kind of click this one, select patient form and then you have the option to send either text message or email and it will give you a preview here of what the message and link looks like before you.
+Rachelle Sawyer: Oh, I like that.
+Emily Kaiser: Yeah.
+Rachelle Sawyer: Okay, that's good because you, you can edit that if you need to.
+Emily Kaiser: So, yes, exactly.
+Emily Kaiser: So it's also.
+Rachelle Sawyer: Yeah, that's, that's exactly, that's easy peasy.
+Emily Kaiser: And one thing I did mention, which I know that you are a prescriber, so right here in this patient profile, you have the option, this is where you would send prescription basically. So you don't have to leave the chart to send that prescription.
+Emily Kaiser: We have good thriving partner dose spot. So if you were to click this, it opens up a second window to do spot. And basically all of that insurance information is already there. All patient information. So no need to enter anything twice. Search up your medication. You select your dosage, answer a couple questions and then send to the pharmacy directly from there and you're good to go.
+Rachelle Sawyer: Perfect.
+Rachelle Sawyer: Yes, that's exactly what and so how does the credentialing go? Do you use another like another vendor for that that's connected to your platform?
+Emily Kaiser: No. So jot psych can handle all of the credentialing if you're looking for.
+Rachelle Sawyer: Yeah. I mean, I'm getting credentialed through a couple of other PRN contract jobs that I have, but I don't know. And so this is just, I have to still learn on this stuff is does that once your credential, that's just for them. So I would have to do my own credentialing for my business.
+Emily Kaiser: So, yeah, I'm going to handle the credentialing for you.
+Rachelle Sawyer: Okay.
+Emily Kaiser: Yeah, that could kind of fall under job bill, which is one thing that we kind of touched on.
+Rachelle Sawyer: You can share.
+Emily Kaiser: Let me stop sharing my screen here and move over to Jotville. Kind of transitioning. Any questions? I know we've gone over a lot of information.
+Rachelle Sawyer: No, I mean, I've kind of been asking them all along the way.
+Emily Kaiser: So. Let me see here. Okay. So what JotBill is is basically hybrid AI and human engine human billing engine. So it's using AI to kind of analyze the system for each for payer specific rules, coding accuracy, claim readiness. And then it moves over to our human billing specialist to validate all of those things, manage denials and ensure compliance, essentially.
+Rachelle Sawyer: Good.
+Emily Kaiser: So this is kind of an overview of what happens behind the scenes in Jotville. So pre encounter is where eligibility comes in. So before each appointment, Jotville is confirming your patient's insurance is active and kind of checking all of those boxes before you have the appointment with your patient.
+Rachelle Sawyer: Oh, that's really good. Okay. Great.
+Emily Kaiser: And then during the encounter is where JotSec writes a payer specific or payer aware note. Basically, again, checking all those boxes, tailoring them to the right type of visit, the CPT codes that are suggested, the payer rules and is kind of prompting you for any missing information.
+Rachelle Sawyer: Gotcha. That's good.
+Emily Kaiser: Yeah. And then after the encounter is where you sign the note that we just saw basically generate the note, you sign the note and then Jotville takes over. So JotBill's checking the coding accuracy, validating the claim and then submitting it to insurance, where insurance will take over from there. You always as a Jotville customer, you would always have access to this RCM overview that you're seeing on the right hand side. And essentially, this is just a monthly financial review. So what it's going to show you is you're able to see what is billed, paid, denied and fixed. Essentially. So getting like an overview on your book of business.
+Rachelle Sawyer: Sure, sure. No, I was wondering about that too because I was just like, you know, how am I, you know, for tax purposes, of course, and, you know, having to submit everything. So that's really good because I don't have that now.
+Emily Kaiser: Yeah. Again, it's just kind of we're getting a lot of feedback from a lot of different customers that there's so many systems that are needed. And so Jeff was really looking at becoming, you know, a system that does all of these things for clinicians. So you can kind of standardize your practice.
+Rachelle Sawyer: Yes. Because I was thinking like, oh, I'm going to have to have going at this.
+Emily Kaiser: I'm going to have to go, you know?
+Rachelle Sawyer: And it's just like, oh, there's so many, you know, like even the current place where I'm at, you know, there's so many things you have to log into to go into here to do this and go to there to do that.
+Rachelle Sawyer: And yeah, it would be nice if it was one stop shop.
+Emily Kaiser: So thank you.
+Rachelle Sawyer: That's amazing.
+Emily Kaiser: And let me show you one more thing. Any questions on Jot Bill?
+Rachelle Sawyer: No, no, not right now.
+Emily Kaiser: Let me show you. I know I'm hopping to a couple different screens here, but I think that this is very applicable to where you are at currently. So we're doing jot start, which is basically helping clinicians like yourself get up and running. So we handle the website, the professional website building, as well as get you credentialed with every payer that you're missing.
+Rachelle Sawyer: Okay. Yeah. Yeah.
+Emily Kaiser: So I don't know if what your thought process is on all the things we kind of looked at today.
+Rachelle Sawyer: Cause I know that I really like it. Here's my question on Mathiq. Like, so you mean like my personal website? You guys help with that?
+Emily Kaiser: Yes, exactly.
+Rachelle Sawyer: Because I do have like, so I do have like basically a template based mind you know, I was a student at the time. I wasn't quite, I wasn't board certified yet.
+Rachelle Sawyer: And so I had won. Free website guys is who it was. It was some I applied for something on Instagram. I don't know like 2:00 in the morning. I was randomly up and I was like, I don't know, let me apply for this. And so they were like, oh, you want like a free website. So they basically put all the website on there. But a lot of it, you know, because I do other stuff too that's not just psych related. But so a lot of it, you know, I do need to kind of have someone go through and be like, okay, how do we, you know, get this to where it's not so. Because like I'm an energy reader. I do tarot cards. I do like for the retreat side of the business. There's like sound bowls and there's going to be soils like I'm doing psych stuff, but I'm also doing like out of the country retreats too.
+Rachelle Sawyer: Or depending on how the laws and the regulations for certain states. If I put like Colorado, we'll say psilocybin is legal. It's not in Florida. So medical cannabis or actually recreational cannabis is legal in Michigan. It's only medical in Florida. So there's a lot of things that I teach on that are not just pharmaceutical grade, but you know like how you dose someone with cannabis, for example, and like how, how would you start out with that? And even though I can't give a recommendation because I'm a nurse practitioner. I can still assist people and educate on stuff like that.
+Rachelle Sawyer: So, you know, those are the things like that, you know, I just, I guess I'm like, I'm like, I'm up on it. I've got a website. I'm on there. Talks about ketamine. Great. You know, so yeah, that would be good. What does this. What does this all encompass on the cost?
+Emily Kaiser: So basically how JAT or JotStart works is this can kind of give you an overview on this is where we start as far as timeline. We do like a kickoff call and then your website goes live. And then we kind of basically go over any maintenance. Kind of get a feel for how you're feeling on things.
+Rachelle Sawyer: Okay.
+Rachelle Sawyer: Let me see here because like, so the guy when, when they made my website, it's through WordPress. And I do have all the logins and things like that. So is that something that your team could kind of, if I gave all that information to and then they can get in there and kind of rework things.
+Emily Kaiser: Do you mean like, like transferring?
+Rachelle Sawyer: Yeah. Yeah.
+Emily Kaiser: That's a good question. Nate, I don't know if you are listening, but hey.
+Nathan Peereboom: So Rochelle, the way that we would do it is we'd be happy to go into your WordPress, pull all the data. We have our own like system for hosting. But, you know, the way that we've structured this is like we don't want it to be, you know, something that is a big commitment for you. So, you know, what you could do is you could give us your login and we can go look to your WordPress.
+Nathan Peereboom: We'll do an interview to understand like, hey, what is your vision? Like what's your, you know, all your preferences make it really custom. Then build you the website for just like $99. And then if you want to host with us, great. And if you want to, you know, take the site and go with someone else that's totally fine too.
+Nathan Peereboom: So it's really low risk. It's just a good way for us to, you know, show you like that we care about you and that we want to support you as you're starting your practice.
+Rachelle Sawyer: Yeah, no, I'm looking, well, I'm kind of looking for because I think it's Bluehost who they used and then also because I purchased my own domain through GoDaddy, I believe. Yeah. Cause it's sacred wellnesscenter.net. and then so they use that and I might have to go in and change like a couple things on that and I probably have all the direction all the instruction. But yeah, so I would really like it to be kind of all in one. Looking at, you know, even eight months ago, you know, because we all grow and we all have a different vision, you know, looking at my, my website now, I mean, yes, it fits for at this moment, but I really, you know, at that time, I didn't have a lot of the psych pieces. Like, I don't have med management on there. I don't, you know, there's a lot of things I've kind of left off because when I was throwing it together, it kind of happened so fast that I was like, okay, let's, this is sort of what I wanted to look like, but we need to have make sure we have ketamine on there. So I definitely would be interested in having, you know, because it's just a template based website. So it's very like brick and mortar, just not anything like my own picture isn't even on there. It's like some other like, you know, web stock photo. My friends are all like, well, it'll be nice if you were on there.
+Emily Kaiser: I'm like, I'm out there yet.
+Rachelle Sawyer: I'm like, hey, I'm just, I'm on the map.
+Emily Kaiser: Okay, leave me alone.
+Rachelle Sawyer: Right, right.
+Emily Kaiser: There's so many different things to kind of tackle in your position. He's laughing.
+Emily Kaiser: No, it's not photos.
+Rachelle Sawyer: I know.
+Rachelle Sawyer: And then I tried to go in on the back end because, I mean, not that I'm a computer networker or anything like that, but I did have some, you know, I can get in there and I tried to like, so I was able to change my phone number when I got a business cell phone and I was able to go in and change the hours of operation. And so then I did went in there and I totally screwed something all up. And I was like, Rachelle, don't do that again. You're medical. Leave the leave the computer stuff to the people who really know how to do it.
+Emily Kaiser: I was like, right, exactly.
+Rachelle Sawyer: This looks easy. I can do that.
+Rachelle Sawyer: And then I was like, oh, I screwed it all up.
+Rachelle Sawyer: The formatting went all crazy.
+Emily Kaiser: You're not alone there, that's for sure, which is definitely why we've developed this.
+Rachelle Sawyer: Yeah. So, no, I really would like to have it all in one encompass. Not just, you know, do the website for $99. I'd like to have everything because in my mind, and this is the easiest, you know, it's kind of like your cell phone bill. They're both on one account. I need to pay one bill, right? And then, you know, and then even for tax purposes, I don't want to have, like, all these different, you know, things everywhere where I have to, like when your debit card, like my debit card, you know, I got hacked the other day and so you have to shut it down. I'm like, who do I got to put back on auto pay? You know, so I'm looking for something for just everything is right here, you know?
+Emily Kaiser: Right. No, exactly. And I think that in itself is, is the reason why Jotzek would be such a good fit for you kind of handle everything in one system, whether it's you're looking at billing or prescribing or the website building credentialing, whatever it may be. You can operate out of jots like solely. And that's going to make your workflow a lot more seamless.
+Rachelle Sawyer: Yeah. Because, you know, honestly, it's not about what the monthly cost is. It's really for ease and how it shows up. And, you know, I'm professional, but I also do things, you know, that's a little bit more ethereal, you know, like a lot of people don't talk about chakras. A lot of people don't talk about energy, you know, and I do. And so, but that's a big piece. And a lot of people are moving towards that direction, especially when it comes to psych. They're not wanting just medications.
+Rachelle Sawyer: So there's alternative ways to treat trauma and, you know, XYZ, all that stuff for you with all that.
+Rachelle Sawyer: No, no, that's all good information.
+Emily Kaiser: Yeah.
+Rachelle Sawyer: See here. So you guys got me up a cold call. This is amazing because I, it was kind of like, oh, my prayers have been answered because I was like, I really need to, I'm like, I don't even know where to go with this right now. Because when you're a new provider, they just don't really even get you ready for, oh, well, now you graduated and you passed your boards and then that one. You just don't understand how much money it costs to get everything up and running.
+Rachelle Sawyer: And so I was like, okay, let me manage my telehealth first and let me get that going before I go and seek out an office because the office space is easy to do. You know, let me find it and let me throw some chairs and some stuff in there and then off we go. So, and then I just got to get someone in to come in and do like all the IT stuff, you know, for making sure I'm up and running.
+Emily Kaiser: So yeah, definitely.
+Emily Kaiser: So I think it would be good is, I mean, what you're saying exactly. So on for JotStart, what we would do is we would build you your website and on jot star on your website. Bye, Nate.
+Rachelle Sawyer: On your website.
+Emily Kaiser: You would be prompted with you.
+Nathan Peereboom: Bye-bye.
+Emily Kaiser: Bye. You would be prompted with a calendar. And that is where your appointment intakes come in and then they're in two jot psych. So my screen and show you Jot Psych again
+Rachelle Sawyer: because right now I have it where I can do my because I log in with Google or I was able to link my Google calendar to my to the alia so that way my it doesn't give me patient name, but it'll just give me an appointment setting. So I can kind of see that too like in my phone. So like what if I wasn't near my computer or something and I can kind of peek in there. Exactly. Yeah.
+Emily Kaiser: You would be able to just kind of peek in and manage everything from there. But on your website, your customers or anybody, your patients, I should say, anybody who your website would be able to schedule directly on your Jot site calendar right here.
+Rachelle Sawyer: Yeah. Oh, I really like that feature. I do not have that feature. And I was wondering because it would be nice if when I'm seeing someone and if I like, oh, here, let me link my business phone and you've got my information and now you can get to my website and now you can schedule your appointment with me.
+Emily Kaiser: Exactly. Because I like people all the
+Rachelle Sawyer: time like out networking and stuff.
+Emily Kaiser: Yeah. Yeah. Yeah, exactly. And that's great. So I think what would be important is if you did want to, I guess I should kind of do a check in here and come up for air because I know that we went through many, many things and I appreciate your patience and yeah, yeah. What out of the things we spoke about do you feel is like most aligned with your business or what direction do you kind of want to move in going forward?
+Rachelle Sawyer: I really think, honestly, I say I start from scratch, but I really want to start with the jot start. And then I'm definitely interested obviously in Jot psych and Jot Bill and then obviously the eScribe and the credentialing. I really am looking to just have it all encompassed in one. For me, that would be the easiest and it would be the stress free route because I don't have so many different places or websites I have to go to to get stuff done.
+Emily Kaiser: Okay. Perfect no that sounds great. So I am looking here. What we do is we'll do like a short interview. Okay. Asking you a couple questions about your business and just that helps us to answer text message really quickly because one of my nurses take your time
+Rachelle Sawyer: to rock if you can get in the order for Friday I can go thumbs up. This right. Okay.
+Emily Kaiser: That.
+Rachelle Sawyer: Get back to you now. All right. She texts me twice and I'm just like oh, let me answer you real quick. No problem.
+Emily Kaiser: So what we do is I'm just seeing if I have a list of those interview questions and if I do handle that right now. If not we can set up a follow up. See if this is it. Okay. So I don't want to waste your time and I'm not seeing that list here. It's something I have to retrieve internally. So why don't we set up a follow up? Started on jot start and then we'll kind of go from there. So let me look at my calendar. Okay what does the rest of your week look like? Do you have a I mean we have as soon as tomorrow if you wanted to do to kind of get rolling right away or we could move into next week.
+Rachelle Sawyer: Yeah why don't we set up for tomorrow?
+Emily Kaiser: Okay let me see here. Do you have any availability in the morning maybe between 9 and 11.
+Rachelle Sawyer: Let's say I could do 11.
+Rachelle Sawyer: Okay great because I do have to I'll have to use my lunch. I'm still working. Another until I get stuff alone.
+Rachelle Sawyer: Yeah absolutely yeah so I'll just take my lunch a little early.
+Emily Kaiser: Okay great and can you confirm your email address for me?
+Rachelle Sawyer: I believe we have sacred wellness centers with us gmail.com.
+Emily Kaiser: Okay.
+Rachelle Sawyer: Or do you have the Rochelle Sawyer one gmail.com
+Emily Kaiser: let me I can see here really quickly
+Rachelle Sawyer: I guess if you guys build a website out do you guys do any type of email like internal email too or is that something I would have to get.
+Emily Kaiser: I don't believe so but okay not on that because it's your answer for your
+Rachelle Sawyer: time I may have to get it from my domain I went I went because of course I don't have a professional email right now so like if I were to hire employees I couldn't give them my own email like I couldn't set them up with their own email at this point and only because I was just trying to get something together I'm like let me just create like a free email and I put my logo picture in there because I was like that's the best that I could do at the moment so I may have to work with GoDaddy and then get get it through that way so that would be fine too
+Emily Kaiser: okay and if not or I mean I can let me ask and I can get for you tomorrow because it may be something that we offer yeah I am sending you an invite here. Just want to confirm that you got this sometimes it slips into spam.
+Rachelle Sawyer: Which one did you send it to which the.
+Rachelle Sawyer: Sacred wellness centers okay let me just get there. Jack and Jot Bill right there that's today's okay that's today's appointment let me see. Oh I just think I did something on my thing my categories back there we go okay invitation from. There you are Emily yep I got this and I will hit yes okay perfect great
+Emily Kaiser: well thank you so much for your time Rochelle nice meet you and thank you absolutely much as you did about your business and your goals and I'm really excited I think that jot start will be a really good fit for you I think so too yeah
+Rachelle Sawyer: it makes me feel better that I can kind of have everything all in one and I really like what you guys have so age A plus on with that feedback
+Emily Kaiser: I'm so glad to hear that so tomorrow but thank you so much I appreciate it thank you goodbye.

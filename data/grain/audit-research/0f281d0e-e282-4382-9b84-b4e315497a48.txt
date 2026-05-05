@@ -1,0 +1,132 @@
+Lee Harrold: Rather than. I kind of like that. Single bow. Yeah, it's so good and I want more of it. I want more of that chorus. Sorry to go myself. I thought we usually do it twice. No, you usually do it twice.
+Becca Bressler: Hey, sorry I'm late. Let me text this person. Hey, Shirley.
+Lee Harrold: Hey, how's it going?
+sheree.starr8: Hey, how are you?
+Lee Harrold: Hey. Good to see you again.
+sheree.starr8: Nice seeing you guys.
+Becca Bressler: Yeah. Cherie, talk to me. We want to help you get to the bottom of this.
+sheree.starr8: Yeah.
+sheree.starr8: The job site prescription thing is actually working. I like it, but like I was explaining. To her. I have a platform that gives me $55 credit. Each month for e prescribing subscription. And I want to be able to use two different credit cards to pay for the job psych and the job prescription that's a part of it.
+Becca Bressler: Okay, Got it. So all the onboarding stuff has worked fine for you, is what you're saying.
+sheree.starr8: Yeah.
+sheree.starr8: Okay, what the technical part. Today's session was to be able to go over when there needs to be medication refills submitted for patients. And how am I going to be alerted? Most clinicians like notifications. They'll either get a notification from the pharmacy. Stating that the prescription needs to be refilled or they need to do a formulary switch. Student insurance. And there is no lines of communication established with that.
+Becca Bressler: Yeah. Can you. So actually, I would love to use this as more of, like, a discovery call for us. Because you're one of our early users. We're, like, building this product and improving it right now. So can you talk to me about some of the ways that you get that information surfaced right now? Is your prescription platform, like connected with your ehr? Do you see notifications in your eh?
+sheree.starr8: It's not so. Okay, so I'm on three different EHRs. I'm a Tebra and Tabra. If you're familiar with Tabora, it has its own E prescribing capability. And when I go on Tabra, I can do patient notes. Do a summary, make a schedule appointments. Document, do all of that and then prescribe. And then if there's a patient who is requesting a refill, or if the pharmacy has prior auth, or if anything else needs to be sent over, it will come through that platform. But I will get an alert.
+sheree.starr8: Okay, how does for you like a red be like an inbox? And you got so many refills, you got so many things you need to address with pharmacy.
+Becca Bressler: Et cetera. Where is the. Is the inbox just on the homepage? Like, you log into Tebra, you're on the homepage? Like, where do.
+sheree.starr8: Where do you.
+sheree.starr8: It would be once I get into the profile. Once I get into the patient's profile,
+Becca Bressler: because you only see the alert from the pharmacy in. The patient's profile.
+Becca Bressler: So how does that work, cherie? Because if you are done with the patient's notes, you've signed it, and then it turns out that there's an issue with the pharmacy, you would not have reason to go back to that patient.
+sheree.starr8: No, when I lower back in the tabra, it's going to be an alert showing that you need to go and address this issue.
+Becca Bressler: Got it. That alert shows you like on the home page.
+sheree.starr8: The home page. So I don't think you guys are familiar with. See. So, Jack, psych.
+sheree.starr8: You started off with scribing notes.
+Becca Bressler: Yeah, Cherie, I've seen telephone before, so I've watched clinicians use it.
+sheree.starr8: I don't know. I'm going in now. Just so I can talk you through it
+Becca Bressler: would you share your screen potentially. Like, if you're able to log in on your computer,
+sheree.starr8: if you can, you got to log in for me to share it. So you got to give me a reason how to connect us.
+Lee Harrold: Like a meat link. Yeah, I can send that to your email address.
+sheree.starr8: Yes. Then you know when you do that, you got to send a link, so. That I can connect with you virtually.
+Lee Harrold: That makes sense.
+Becca Bressler: Yeah. So this calendar event that you use to connect, are you able to log into this Google Meet using on your computer?
+sheree.starr8: I'm on my phone now, but yes, I could do it off my computer.
+Becca Bressler: So if you're able to, that's probably the best next step is if you can rejoin this call from the computer, and then we can walk you through how to show it on the screen.
+sheree.starr8: Perfect. So I'm going to log into the same meeting. That we're on. From my computer. How does that sound?
+Becca Bressler: Fantastic.
+sheree.starr8: And then that way you can see. Matter of fact, here we are. No, that was February 27th. But we're here in March, right?
+Becca Bressler: Yes.
+sheree.starr8: And here I is, right here. I'm about to log on. So we'll be on two devices. Meet google. Do you see me now?
+Becca Bressler: Yeah. So it doesn't look like your camera is. Yeah, there you are. There you are. Great. So let me walk you through how to share. So if you look at the bottom of this call, do you see there's, like, a square icon with an upward arrow?
+sheree.starr8: Ok, I'm about to share. My window.
+Becca Bressler: Yeah. Share a window and pick the window where your tebra ehr is.
+sheree.starr8: Okay? Bear with me.
+Becca Bressler: Yeah, no, no rush at all.
+sheree.starr8: Okay, now I'm going to share the screen. Are you able to see me? Are you able to see the screen?
+Becca Bressler: Yes.
+sheree.starr8: You asked to see this.
+Becca Bressler: There we go. That's awesome. Great.
+sheree.starr8: Okay, so do you see? How I have. My previous. Okay, so you see this?
+Becca Bressler: Yes.
+sheree.starr8: Do you see this little envelope with the one that is my notifications?
+Becca Bressler: Got it. Okay.
+sheree.starr8: And then if you look over here, do you see this over here? Outstanding item.
+sheree.starr8: Yes, prescription request.
+Becca Bressler: Okay, got it.
+sheree.starr8: To send prescriptions. So if I click on this.
+Becca Bressler: Yeah, I'm curious.
+sheree.starr8: It's going to have change request. All of these change requests. By these patients. With their prescription.
+Becca Bressler: Okay, got it. That makes sense and then you're able to do it directly from here. So this is one of the EHRs that you use. What are some of the other systems of notification you have or do you not prescribe using any other platform? This is the only.
+sheree.starr8: So the reason why do you still need to see this? Or you're done.
+Becca Bressler: No, this is great. Yeah. But if you have another system to show us, I'd be curious.
+sheree.starr8: This is the only one. Okay? Because the other platform I use, which is growth therapy, does not have their own E prescriber. I use Med Toolbox. As a prescriber for them because it's not embedded. Platform. But Tabra is all embedded. So my patients that are on Tabra, I use JAT psych for the encounter. AI tool. Only.
+Becca Bressler: Yeah.
+sheree.starr8: What? I prescribe through Tabra because it's so much easier.
+Becca Bressler: Okay, so you only do prescriptions through text. That's it for you? Because you had mentioned.
+sheree.starr8: I don't only do prescriptions through Tabra. What I'm explaining is the charting and everything else is done on Tabra. It's a platform. And they do have an AI tool, but I just don't use it because it's not as good as jot. Sykes.
+Becca Bressler: Yeah. Oh, I guess, Cherie. I guess.
+sheree.starr8: I mean, so, like, if I was to go and. Let me show you. I'm about to go to a client. And show you just how it works for me. If I go to. Because I think what I'm explaining to you is that Tebra is a platform on itself. It has an AI tool. I just don't use it.
+Becca Bressler: Yeah, yeah, yeah, totally.
+sheree.starr8: It does everything on here. It has the patient. It has all of the demographics, the problem list, medications I can prescribe right here. If I go to medications, let me go to the note. So if I go to the patients note. Open it up. Everything's there. Yes. So from that standpoint, If I wanted to add medications, I'll just click on here. And I can prescribe from here.
+Becca Bressler: Got it? Yeah. Okay.
+sheree.starr8: AI portion of this. I don't use them. I use jot. Psych.
+Becca Bressler: Right. No. I guess you had mentioned on the phone something about how sometimes. Does she? Am I wrong? I feel like she only uses one platform to send prescriptions, right?
+Lee Harrold: That's what she said.
+Becca Bressler: Okay?
+Lee Harrold: She said. I think she was confused.
+Becca Bressler: Okay, got it.
+Sheree Starr: There were some issues. Technical issues.
+Becca Bressler: Yeah. With Google. Meet. So, Sheree, you had mentioned when we spoke briefly that you have heard or maybe experienced yourself.
+Sheree Starr: See, what I'm going to do, the plan is for me to not use MD Toolbox no more.
+Becca Bressler: Okay?
+Sheree Starr: Yeah. Because I like it. Because while I'm in the note, like, I'm transcribing right after I'm done, I could just send off their prescriptions. Whereas before, with growth therapy, I have to be on their platform in that go to job site. In the AI, then go to MMD Toolbox to put in their prescriptions. I'm trying to minimize all the steps as much as possible.
+Becca Bressler: Yeah. So an MD toolbox. This is the one that emails you when there's, like, a pharmacy update?
+Sheree Starr: Yes. They will send me an email. And the email looks like this. They will tell you that. Even though. Okay, I think it's 45amonth, but it's not, as it doesn't have as many. So do you see this?
+Becca Bressler: I can't see it just because your background.
+Sheree Starr: Let me stop my background. Settings. Video. Backgrounds and facts. How do I stop it? How do I stop the background?
+Lee Harrold: So I think. There's.
+Sheree Starr: Okay. Are you able to see this?
+Becca Bressler: Yes. Okay. RX refill request alert found in your inbox. Ok, got it. It's just an email.
+Sheree Starr: What I'm saying now is. What you guys have. Unfortunately, it's good. It doesn't have no way of communicating with providers. And that's going to be one of the. They're going to say, wait a minute.
+Becca Bressler: Yeah.
+Sheree Starr: How am I supposed to know? And then the only way you can get into this portal is dot.
+Becca Bressler: Psych, right?
+Sheree Starr: So what if you had to go in and change a pharmacy? Or what if you have to go in? And what if they say. The patient says, oh, I'm going out of town. Could you send it? Originally I told you Walgreens here at Yada yada Yada, but now I need you to send it to a Walgreens here.
+Becca Bressler: Yeah.
+Sheree Starr: I totally understand that you have to go, and I see that it's embedded in. But it should also be a way where we can actually go into that platform.
+Becca Bressler: Like, outside of an individual patient. Yes. You're saying? Yeah. Yeah. Unfortunately, dose spot doesn't, for whatever reason, based on the level of integration we've built right now, does. As far as I can tell. I don't know that that's something we can do, but as far as pulling in notifications, for you and tying that to a patient so that you can easily get into it is something we can definitely look into. Sheree, I don't think. I don't know. That's something we can do by tomorrow. But we will definitely talk to the team and see how quickly we might be able to enable this or what the quickest path is. You know, maybe to start, we can just get email sent to you and see if that's something that we can enable you.
+Sheree Starr: Can I share with you an example what I'm talking about? Because I do better with showing you better than explaining. People say I explain very well. But I don't think I do.
+Becca Bressler: But, no, you do. We're having. I'm following very, very.
+Sheree Starr: Let me just give you a good example of. Okay, here we go. I'm about to share with you the screen. Can you see this, guys?
+Lee Harrold: It's good to have you back.
+Becca Bressler: Do you see my slack? I just sent you this. Yeah.
+Sheree Starr: I'm sorry.
+Becca Bressler: No problem. Sometimes this happens when you try and share screen. I don't know why Google Meet does this, but it's not your fault.
+Sheree Starr: So let me go back to the window. And share. Are you able to see this team?
+Becca Bressler: Yes, I now see our faces, but yes, we're going to go. Yeah, I see. Drop. I see there. Yeah.
+Sheree Starr: Okay, so over the weekend. Notes. This patient right here. Wait a minute. Okay, good example, Mr. Chaz wolf. Okay, so say he calls me up, he says I'm having a bad reaction to this medication, yada, yada, and I got to jump back in. To job site because that has the whole encounter. It has it all captured. He was a patient. Attributed to me off of growth therapy. Right. I can't go to growth therapy because, for one, I didn't even upload my note yet to grow therapy. Describe from that platform. So jot Psych is going to be my go to to look and see what all I prescribe. The dose, the frequency. So say I go over here to medications. Okay, I got them on Adderall. Okay, so now he says it's not working, and then I need to go in and change his prescription for whatever reason. How would I go about doing that? From here at this point.
+Becca Bressler: No. Yeah. At this point, there is no way to be notified inside of jobs, like, if that's what you're asking.
+Sheree Starr: How would I go in and change his frequency or change the medication to something else different?
+Becca Bressler: You would be doing that within Dose Spot, so you would be getting a notification within Dosebot if you open.
+Sheree Starr: No. How do I get to that from here? At this point in time?
+Becca Bressler: Right now. You don't get to it from the note, you would have to go to this person's profile. So if you click the name of the if you click this person. And then scroll down and you hit send prescription. This will open. Their.
+Sheree Starr: Okay. And then I would change it from here. Yeah, okay.
+Becca Bressler: You would get a notification. So if you see that bell, That should be read if you have a notification from a pharmacy or a task. And you'll see a task. And that's kind of.
+Becca Bressler: It's not yet inside of our platform, but that's how you would get there.
+Sheree Starr: And see that. And I'm glad we're working through this. That is where the problem lies in. Because some providers may not always be on Jot's site. To get that notification. And that's where it will be important that they do get an email sent to them. Outside of Jot Psych that will alert them to go into their inbox off of Jack Psych. You have notifications from Jack Sykes for patient refill? Any. Any verbiage that would alert them? To going into Jack Psych to take care of that request.
+Becca Bressler: Yeah, yeah, no, I totally understand. Lee and I are going to look into it and talk to the, you know, Dosebot team, see what we're able to do. But, Sheree, this has been really helpful. We're still trying to get to the bottom. Of if we can do the double credit card thing on our end. It's not something you can do on your end, but I know you want to try adding a different credit card, so I will have to follow up with you about that, but I'm talking to my engineer, a different member of our team, about it.
+Sheree Starr: I know you got a lot of. Sorry if I keep interjecting, but I know you have a lot of people that love jot psych and they're like, man, this is cool, but I can't embed this until my ehr that I'm like, I'm. I'm working. For this company, and it's no way. So I have to copy and paste what you can on here. So you're going to have a lot of people that want this, but then they're going to say, wow. How is this going to work with my existing platform? Or how am I going to be able to, you know, if. If I got a company that's crediting me giving me an allowance towards the escriber, like, like growth therapy. They give all of their providers $55 a month towards any escribing that they want to use. They don't have it on their platform, so they're like, hey, you can go use any escriber you want. We'll give you $55 a month. To use it.
+Becca Bressler: Yeah.
+Sheree Starr: Yeah. And. And now. Now, headway. You got headway. You got, like, best psychiatry, which is? They use Tabra. They have it all embedded in the emr. Their platform sucks.
+Becca Bressler: I've actually heard that before from several people about Temperance.
+Sheree Starr: This is terrible. Like, so. It's like. Okay, so. You know, but I'm on different platforms, so I'm on growth therapy, and I'll do addiction medicine at two companies, so I'm taking my laptop there. And they use Dr. Cloud, which is Dr. First is embedded for the escribing. So they. I'm using all these different platforms, but I all. I'm always on jot psych for the AI.
+Becca Bressler: Yeah, yeah.
+Sheree Starr: So that's my go to. So even if I'm using different platforms, All of my patients that I ever seen is in jot Psych.
+Becca Bressler: Yeah. Yeah. Okay, Sri, this has been super helpful. I'm going to let you go. And we will definitely be in touch about the credit card thing so that I can get you an answer to that as soon as possible. And then, you know, this is otherwise really valuable information for us about kind of the next version of this, so. Yes, we will keep in touch with you about the status of that as well. But we really appreciate your time and showing us your screen and everything like that.
+Sheree Starr: Oh, I love this. I like the dose spot.
+Becca Bressler: Great.
+Sheree Starr: I really do. I want to say that was a very kudos to you guys. Hopefully we can work through the king. Come up with some other strategies.
+Becca Bressler: Yeah, definitely. Yeah, we'll, we'll look into this and we'll be in touch. And if you don't, like, hear from us and, you know, you have our emails, please reach out. And, yeah, we want to solve, we want to improve this for you as quickly as we can.
+Sheree Starr: Thanks, Bresla, for keeping the appointment and following up with me. I appreciate it.
+Becca Bressler: Oh, of course, of course. Have a great night. Thank you.
+Sheree Starr: You too. Bye. Bye.

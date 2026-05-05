@@ -1,0 +1,240 @@
+Asia Usmani: Hi, Lee, are you. One second. Let me bring this down on my laptop. Okay. There you go. Because it was in monitor. What's up? How are you doing?
+Lee Harrold: Good. We're all here at the Jodhouse.
+Asia Usmani: Oh, yeah. How is it? I haven't been to office for so long. You're in library.
+Lee Harrold: Yeah, I am, yeah. And it's. This is an awesome room. It's been a really good week. I think, like, we got a lot done on Monday and yesterday. I think less done today because we've all been kind of involved with meetings and customers and stuff. But it's been really fun having everyone from the engineering team like, in the same room.
+Asia Usmani: Yeah. Jackson is leaving. I think it's today.
+Lee Harrold: Yes. Yeah, I think in like 20 minutes.
+Asia Usmani: Leave in like an hour or less than an hour.
+Asia Usmani: Yeah, I was checking the eligibility. I would. Am I looking. Is it the vital harmony?
+Lee Harrold: Right. That's right. That's the one.
+Asia Usmani: I know, but I don't see what I had, like.
+Lee Harrold: Oh, interesting.
+Asia Usmani: I see there's lots of it that I was done, but I don't see it here. That's the problem.
+Lee Harrold: Oh, do you know. Does it say which sheet you're on at the bottom output.
+Asia Usmani: Oh, Asia, wait. Okay, There you go. Oh, that was someone else. Okay, I see mine. Never mind. Oh, you have your own one. Let me see yours.
+Lee Harrold: Yeah, there's like, I think six, One, two.
+Asia Usmani: Yeah, the.
+Lee Harrold: The AI caller really struggled with bcbs and connect to was that they were the hardest one to connect.
+Asia Usmani: Like I was. I. Then I send you, like, the cheat code.
+Lee Harrold: Yeah, yeah.
+Asia Usmani: After trying so many times and it was. So frustrating. Like Monday. Was it Monday? Yeah, it was Monday. Until I figured out I'm like, let me give something that active, that I already checked with them and it worked because I didn't even have the group number. Adam didn't add the group number at that time. So you couldn't pass without the group number. If they find multiple policy.
+Lee Harrold: Right? Yeah. You snuck in. I thought that was super clever.
+Asia Usmani: How is, how is the AI one? So what does she do? Does she call? Like, does she get. Connect to the agents?
+Lee Harrold: Yeah, I can, I can show you. Yeah, she. It's, it's. It's the same as. Same as you or me. If we call. Oh, is it. Let me.
+Asia Usmani: How far can she make it? Like, do, do they recognize this? When they recognize like it's AI, do they hang up or they continue?
+Lee Harrold: Yeah, sometimes. Sometimes they continue and sometimes they hang up. And a lot of providers like, like, like Cigna, for example, have a list of approved AI. So if it's, if, if it's ada, EVA, or one other name, then, then they'll answer it, but otherwise they'll say, oh, I think you are an AI caller. And then RA caller will say something like, no, that's for Foster. Some human.
+Asia Usmani: But what's the problem? Like, they make us talk to their AI the whole time is ipr. You know, like, we don't. We're not going to talk to you and hang up. We try to find a way to get to the live person, but still we talk to them.
+Lee Harrold: It's true. It's a, it's.
+Asia Usmani: It's like that's, that's double standard.
+Asia Usmani: If the life picks up and say like, oh, I don't want to talk to AI, but then we talk to your AI this whole time.
+Lee Harrold: It's. There's a word that I can't remember. But the idea is that we're stealing their data about effectively. Like anytime we retrieve eligibility information, we are. We're taking the thing that the insurance company makes money on further. It's. It's in their interest not to ip. Yeah, it's, it's, it's in a way IP theft, for example. What we want to do is amass a large amount of eligibility information about each patient for all, all of the providers. And then like, we have a valuable thing. Why is it valuable? Because it's hard to get. So if, if AIs are out there making it really easy to get that data, then the, the value that the others
+Asia Usmani: are hard because it's time consuming. Right. So whoever is in the office who's doing these calls then obviously, they're paying them full time and take a lot of time from them. That makes sense.
+Lee Harrold: But, yeah, this is. It does the same thing as. So you can kind of see how it talks. And then.
+Asia Usmani: That sounds good. I'll hold. And hey, if there's any. Oh, these are all the conversation, but you also get the voice. This is just two at the same time. Okay, Yeah.
+Lee Harrold: I think there's a. There's a future in which, like, you are. You are, like, sending a lot of these out. I. I built a dashboard that. That would let you initiate calls and then check in on conversations. If that's a thing. If that's kind of where we want to go from here. And then if it fails, you could, like, jump in.
+Asia Usmani: There's a. What were you trying to do?
+Lee Harrold: What I said. There's. There's a. There's a future in which. If we want to scale up eligibility, calling without trying to convince everyone that the AI is like an AI where if we have all the numbers, this automated system calls all the numbers and then flags you only when the person outright denies the AI or is having a hard time. And then you can jump in this dashboard and pull information out and.
+Asia Usmani: Wow, nice. Then all the information that it collects, it just is a separate page that the AI fill it out.
+Lee Harrold: Yeah, we store it in a database. And then I have a dashboard, and I'm trying to remember how to pull up now on the admin portal that will amass all the information so that you can scan it and then read it. But what I've been doing for these projects is just exporting it into a CSV and then pasting that into our shared Excel document.
+Asia Usmani: So my work here is. Because it's the most accurate information that's you guys compared with that. That they collect the right information. Right.
+Lee Harrold: I.
+Asia Usmani: Yeah, the comparison to see, like, the. The study that app they're using, and then the AI to see if it match with the calls I'm making and talking to a person and getting that information.
+Lee Harrold: I think that's part of it, and a lot of it, too, is just learning whether the AI can. Whether it's even possible for the AI to navigate the IVR system and if it's possible for the AI to, like, how many people outright deny giving information to an AI
+Asia Usmani: because they could tell, like, yeah, be good.
+Lee Harrold: Where's Adam at?
+Asia Usmani: He's running. Couple minutes.
+Lee Harrold: Okay, cool. I'm gonna take a moment and see if I can get that dashboard up, Because it's cool,
+Asia Usmani: because what they're charging is 99 cents. That's not a lot.
+Lee Harrold: Yeah. It costs us way more to get that information than saying, where's the money making?
+Asia Usmani: Is it. Maybe in the bundling, people would want to go with us because of all the. It's like a total EHR stuff.
+Lee Harrold: Yeah, it's. We're, we're, we're definitely losing money on eligibility checks, so. Yeah, that's a good question. That's one I had in mind too.
+Asia Usmani: Yeah. Because when I read the emails, because I also do his inbox is charging really cheap. So I'm like, where's the money here?
+Asia Usmani: Maybe bundling the Blue Cross Blue Shield. A lot of it. It wouldn't go through for you too. It's because I don't know if you read it or not. Some of them are either in. Some of them are. Is Blue Cross Blue Shield of Texas. Right. But some of them are Blue Cross Blue Shield of Minnesota or Independence or federal employee. But then over there it only says Blue Cross Blue Shield of Texas. But then that I added they are separate. So if it's Minnesota, it's completely different number.
+Lee Harrold: It's a different number, right? Yeah. And how did you get the other number? Did they just tell you that they were in the different system or how did you find out that it was in a different.
+Asia Usmani: So they say we. If they say they can transfer me, I always make sure to get the number first before they transfer me.
+Lee Harrold: I said, oh, that's smart.
+Asia Usmani: Can you just give me the number before you transfer in case I don't get connected?
+Lee Harrold: So they give me the number.
+Asia Usmani: Mostly I try to get the number from them.
+Lee Harrold: That's so smart.
+Asia Usmani: Like, instead of finding out like because, but not. Is always not accurate. Because one, one lady who gave me the number then I called, they said, oh, this is only member lines for the same department. But member line. Then I got from that lady like the provider lines.
+Lee Harrold: Oh yeah. Because she was able to.
+Asia Usmani: Then she told me, yeah, she doesn't have access and stuff like that. But yeah.
+Lee Harrold: Okay. So I didn't even consider that we can have the AI caller like always ask for a phone number and then add that to the, to the shared context and then initiate a follow up call to that phone number.
+Asia Usmani: You can always get. You can only get from the live agent.
+Lee Harrold: Yeah. Once it gets to the live agent, we can get that number.
+Asia Usmani: Yeah.
+Lee Harrold: Wow. I wonder if like then the strat is like find a way to get through to a live agent and then get information. But then that call is less about getting information for the patient for the patient you're calling about and more about just like understanding how to get information for any patients that fall into that bucket.
+Asia Usmani: I wonder like when they say we can talk to AI, that's when you say can you give me the information about the right department then, like, if.
+Lee Harrold: Wait, that's a good idea.
+Asia Usmani: That's a really good idea. Yeah. Before you hang up or. Okay, don't talk to me. Like, at least give me this information, then hang up. Like the main thing we need, you know? But sometimes when they tell me that it's not my department, and I'm like, can you. What can you see? Like, can you see if the. If the member is at least active? He's like, yeah, that I can tell. I'm like, yeah, this person is active. Like, can you at least check, like, if it's mental health, it's like, okay, I can check mental health. So at least I get, like, if the person, like, the policy is active, so I get something out of all, then nothing.
+Lee Harrold: That's really good. That's really good to know because there's.
+Asia Usmani: I remember there, like, couple where they said, I have to transfer you to different department, it's federal or something. And I'm like, can you check if they're active or not? So when she checked that they both were not even active, they were inactive, I'm like, okay, I don't even need to call to whatever different department anymore, because if they're not active, it's no use for me.
+Lee Harrold: That's so smart.
+Asia Usmani: Yeah. Hi, Adam.
+Adam Harrison: Hey, guys. I'm sorry, I was running. Running over with.
+Lee Harrold: We were passing.
+Adam Harrison: I. I can. I can review the grain for anything I miss. So thanks for getting started.
+Asia Usmani: Of course. No worries. We get that. Yeah.
+Lee Harrold: It sounds like they're super happy with the list so far. Are we. Is. Is that comprehensive? Do we. Do we have more calls to do for them?
+Adam Harrison: Do we want to. I think we're gonna pause on it. There were some that we, like, couldn't get checks for because I did my, like, steady check. Osi. I think you called, like, some people you didn't get through to, but we're just gonna, like, pause and pull up with what we have. I don't wanna.
+Asia Usmani: Yeah, it was like, maybe 5% left, like, 1, 2, 3. And that one was Medicare that connect. And the other one, the line was keep going busy for. It's called oh, over.
+Asia Usmani: Yeah, not connecting Medicare. And then there's one not. The line was. As soon as it rings one time, then it goes. It hangs up and like, busy tone. And it wasn't even after hours. Got it. But when I did my search, and it says that's mostly, like, with this insurance, I think I added in the notes.
+Adam Harrison: Okay, makes sense. Okay, let me look for that.
+Asia Usmani: So what are. What is in your mind? Like, what do you want to go through?
+Adam Harrison: In deep breath.
+Asia Usmani: Yeah.
+Adam Harrison: Well, I guess maybe starting with Lee. I'm kind of curious because it looks like not a lot of these returned anything. Maybe we're just, like, pulling up a little bit. Taking a step back, what's your current outlook on the. The AI caller as a like strategy like do you think we should like continue investing time here? Basically is like I think the, the main question.
+Lee Harrold: Yeah, let me show you. Yeah. The AI caller really struggled with this batch. So we made made 48 tone calls and I think we got like maybe six like data for eight. Eight. And then.
+Asia Usmani: Is it after connecting to the Life agent data or through the IBR system?
+Lee Harrold: Both.
+Asia Usmani: Okay.
+Lee Harrold: And where, where it fell down. Like CIGNA has a blanket no AI policy with exception of trusted organizations. And I think we could like there's a world in which we, I think it's unlikely that we're going to be able to create a bot that is so good that it passes for human 1. One creative idea that I'm maybe ethically hesitant to pursue is saying that we, we don't our, our like the AI caller says I'm sorry I, I use text to speech because I don't, I'm, I'm dumb, I can't speak like that's, that's, that's an approach where they were the other, the other person. The person on the other end of the line would have no follow through. But like I, I, I think it's, it's going to be a tough nut to crack to like convince people that that'll work. The Blue Cross Blue Shield stuff is a challenging IVR system to navigate. Yeah. And so we didn't get much return.
+Adam Harrison: Yeah. Okay.
+Asia Usmani: That's the one I put the note there. Right. How to. It was one of the, I even told them and I said you guys are one of the hardest one to like finally I was like after an hour like and he said yeah A is the busiest time. B. Yes, of course we try to get everything through IBR before it connected. So I found a way like I because I had one one that everything was active and good and not multiple policies and I, so I used that customer I mean that member and once it comes to mental health then they can't help much benefits details. So that's when they connect you to the Life agent which it's just how to get through their system. I think the more you call. Even through AI, the more you call and try all your different strategies and then you can see what works and whatnot.
+Lee Harrold: It's just all about, like, keep keeping a log of all of the information keeping a log.
+Asia Usmani: And each insurance has their own system and their own ways. And some are like, really easy to connect. Like I found like Aetna, right. Like, some are really hard, but it just to read through through their system. And that comes from. With the calls and keeping a log and seeing what's working and what's not and how to get through.
+Lee Harrold: So I think we probably could create a system that like, beats the bluegrass Blue Shields IVR system if we passed call context between the calls. Because right now it's completely like new. Like, each one has a system prompt of the information it's supposed to get, but it doesn't know how to navigate the IVR system with exception of like, how it. Within that session.
+Asia Usmani: That's. That's true. I don't remember what insurance. One of it that I called it was AI and I completely couldn't catch it till, like is.
+Lee Harrold: Cody's like, let me connect.
+Asia Usmani: And then they. It's. It's. She picked up. She's like, hello, can you hear me okay? And I was like, yeah, I thought someone picked up. And she's like, okay, good. You can, like, she paused until you. You don't say anything. No matter what you say, she has an answer, like, related to that, right? And he's like, okay, can you. I'm like, I don't. He said, okay, can you hear me now? So it was all like the word coding that they had. According to what I was saying, it was a promotion of that badge thing to send it to you. But she was so good up until, like, like she could pass through me for like a good two minutes when I realized I said something. And in between, like, she started it already. I'm like, oh, wait, that's not a real person. So I was like, that was really good. They had the long pause. They like, they changed the answer according to what you're saying too. It was really cool. So I think that comes from.
+Adam Harrison: Yeah.
+Asia Usmani: Trying all different methods.
+Lee Harrold: I find also different voices are effective in different ways. Like, Aetna has a policy of not giving information to bots. But you'll note that it succeeded in two circumstances. And that's because in this transcript, the person they were speaking with had a dialect that was different from the. From our caller. So I think it's possible, like, they. They didn't. They didn't pick up on it. Yeah, this. In. In this call, the. The. The AI passed. But you notice that's like one out of five.
+Asia Usmani: Maybe the one that. Did go through the ones that got through the life agent and was able to get the information. So we can, we can note like what was, what was AI doing or saying and which insurance is that. So maybe for each insurance it, it could have, the AI could have its own strategy.
+Asia Usmani: Like it can be same for all of the different insurance. All different insurance and policies, right?
+Lee Harrold: Yeah, we can create, custom customize it.
+Asia Usmani: Yeah. To different insurance policies.
+Lee Harrold: But I guess Adam, to answer your initial question, like if we wanted to handle like because what we want to do is handle eligibility calls at scale, we. I think we're not going to be able to get around having a human do some of these. So what I would recommend is we build a version of this tool that Asia can orchestrate. If we start out with many, many numbers, she can hop into the admin panel, press a button to call them all simultaneously and then receive notifications for which ones have anti AI policies and were like, like, like found. So let's say for example, We called out Melissa Swanson. We fail like 3 times. This link doesn't work. But if, if, if it worked, it could take her to this dashboard. She could manually hear the transcript and then call the number.
+Adam Harrison: Does it, I wonder, first of all, agree Lee, like this already. This is like helpful visuals to see. Does it make sense to focus on like, hey, we think we have the best chance with Cigna or Blue Cross or whatever and let's just like try to figure it out for one provider where we feel like they are. Let's not even worry about like how common they are. Like let's take one of the bigger names and then just where we've had the most success and let's just try to like crack the code on that. And if we can't really crack it for like the easiest one consistently, I think we will make a decision from there because it sounds like Lee Asia from what you're saying. Like we might need to take a kind of provide or a payer by payer approach, you know.
+Lee Harrold: Yeah, yeah.
+Asia Usmani: Because he was able to get some. Which.
+Lee Harrold: It'll get like every single member for.
+Asia Usmani: Do you have any Lee, where you were able to. The AI was able to talk to the representative and was able to get the whole information.
+Asia Usmani: Which insurance is that?
+Asia Usmani: So let me share my screen. That's a success case. So maybe that's maybe. Or even if they know AI, they have to.
+Lee Harrold: Yeah. It got all the way through a couple of the Blue Cross Blue Shield ones where we had the correct combination of information and we had the correct number. I think, I think we could crack the Blue Cross Blue Shield if we had like the, the correct phone number from the outset. Because I think you, you, you had found like the right phone number for, for a few of these. And I'm pretty confident if I like found that number and then plugged it into the system and then reinitiated a call, it would get it again.
+Asia Usmani: Numbers that are there are the correct phone number and work for me. Oh, really? To get to the agents? Yeah.
+Lee Harrold: Okay.
+Asia Usmani: If it doesn't work, then I don't add the numbers.
+Lee Harrold: Okay, let me get. Okay. As if I'm gonna find this org so I can get my org id because when I ran this last week, there were two. There were two payers where it could consistently get all the information. Okay. Is my orgety. Well, maybe I didn't. Oh, that's right. I wasn't passing it into that point.
+Lee Harrold: So different names mean these are different names.
+Asia Usmani: Is different AI person or what is.
+Lee Harrold: Oh, no, these are, these are, these are patients. So it got. Oh yeah. Last week it got both of the Humana Gold patients. Optimal health. Sunshine had a no AI stance. Carolon had a no AI stance. Molina, it got to the patient or to the human. Looks like Aetna, Florida. It was able to get through. Yeah. Okay, so we could, we could focus on providers and then whenever we see those providers in a list like always make the call with the AI for them. But it's hard to know.
+Asia Usmani: It's time consuming with the humans. But I don't remember on top of my head. But there are some insurance, the policies where you can even get through their ibr. All the benefits and detailed information too. So you just need our AI to their AI you can get the information you don't need. The live agent.
+Lee Harrold: Yeah, it does. It does really well in.
+Lee Harrold: Yeah Systems it can navigate with dmtf. The Blue Cross Blue Shield Texas didn't support DMTF so it had to rely on speech.
+Asia Usmani: Blue Cross Blue Shield when. When you pick the option Mental health then they connect you to the life agent. You need the benefits detailed. But there are some that they can give you all the details. I'm thinking, you know, a lot of. A lot of them has. It's not from here, it's from India, so you barely understand them. If we make AI that they wouldn't be able to tell us an AI, but we make like Indian accents. Yeah, something like that. Where it doesn't sound perfect. I'm saying like it sounds human. Does mistakes like have grammar mistakes have. Because the only way of you tell AI because they talk fast and perfect.
+Lee Harrold: Yeah, that's the vap. There are a few different voice providers I've tried and the one that got me a couple of times I was like wow, that's real. Was like yeah. Displayed those properties. Unfortunately it didn't do numbers well. Like it wouldn't allow me to put a pause between each number and would sometimes mispronounce them. So it didn't have the same control harnesses. But that said, there are like 13 different voice providers and I've only really dug into four of them. So it's possible that some have different creative processes. But I think the biggest bang for our buck is in building a shared context between calls so that for novel IVR systems like the system our system can learn how to navigate it.
+Adam Harrison: Say what you mean by that, Lee. Like, what are you saying? Are we saying like record asea's calls and then like map out what the IVR is for each different payer and then your AI will be able to. Like what do you mean exactly?
+Lee Harrold: In. In the same way that. That Asia discovered that the mental health route would. Would get you to. To a provider kind of by experimentation, we. We could have the AI caller export the route that it took into a shared data source that then the next AI caller would have access to that then it could update after its call. And so for each provider there's a shared knowledge base. Kind of the same thing that. Like I, I basically, I wanna, I wanna take Asia and then, and then put her inside of a computer. That's the goal.
+Asia Usmani: I've recorded my calls. Almost all of it are recorded.
+Lee Harrold: Like I, I didn't know that.
+Asia Usmani: I think I forgot to stop recording and it would, you were here. Like I don't know what it was and I'm like, oh my God, it's still recording.
+Lee Harrold: But I couldn't tell.
+Asia Usmani: It had like an hour of Blue Cross Breeze Shield in it. Right. But yeah, I, I have my recordings there. So it's mostly all of them are there. It's like merge because some of them are like. But it's, I think almost all of them, like 85, 90% I have recorded.
+Lee Harrold: Cool.
+Asia Usmani: Yeah, it's there, it's in my, it's an osia's field.
+Lee Harrold: Is that, that's like in Google Drive or where those
+Asia Usmani: recordings, when you go all the way down, then you'll see the recording link.
+Lee Harrold: Oh, okay. Gotcha. Gotcha.
+Asia Usmani: Thank you. Each eligibility check for different clinics. Like I have my recording link there.
+Lee Harrold: Gotcha.
+Asia Usmani: Yeah, yeah.
+Asia Usmani: Adam told like way before to record it. So AI can listen to that and do our job.
+Adam Harrison: Yeah. So, so I guess what do you, Lee, what do you suggest is like a next step here? Sounds like we do want to continue exploring the AI caller with this like context building thing for each pair. Yeah.
+Adam Harrison: And see how that goes.
+Lee Harrold: Yeah. And because we have like Now I think 120 different members that we could try retrieving data for. We, we're no longer bound by like waiting for someone else to sign up for eligibility.
+Lee Harrold: So like there's, there's enough, there are enough data points that I could build a test farm against and then that's no longer time pressured.
+Adam Harrison: So we, we could just.
+Adam Harrison: Yeah, yeah, that would be awesome actually. That's a good point. We're not like time constrained by the end of the year. So. Okay, so that's cool. So we can just kind of loop through these 100 people which is maybe a good test farm. Because we only got like six you said. I think. Right. And then see if we can like iteratively get to I don't know like 50% or 20% or 80% or whatever it is and then you know, anything would be worth pursuing further.
+Lee Harrold: But I guess the, the, the, the thing, the thing that I really need is like for development effort on this to be prioritized against like the other things is I, I didn't, there are, there were very few. Few changes between this run and then the run we did last week also, because there were, like, three other things that are super important that I've been working on. So I think that. That that would be the.
+Adam Harrison: The biggest unblocker is, like, opening, like, prioritizing this versus other things.
+Lee Harrold: Yeah.
+Adam Harrison: Okay. Okay. I can, like, push for that with Nate and Jackson. Um, and, yeah, it seems like this is, like, a good. What is this, like, a. Is this, like, a week? Well, how much time do you think you would need for this, like, over the next. I don't know, however much time you think it would take?
+Lee Harrold: I think it would take me, like, four hours to implement the context sharing system. And then I. I'd probably need it just because running calls takes active time. I think I would need a day after that to evaluate how the system runs. So I'm going to say, like, two to three days.
+Adam Harrison: So two to three days. How much of that is, like, you know, what's running in the background versus, like, you know, you're actively coding stuff?
+Lee Harrold: I'd say like, a day, maybe a day and a half would be that running in the background.
+Adam Harrison: So I.
+Lee Harrold: I could. Yeah, I could get a lot done with, like, a day and a half of active focus time.
+Adam Harrison: So a day and a half for each, basically. Day and a half, like, active focus. Day and a half to, like, let it run. Yep. Okay, that's cool. I can see what I can do and try to whisper in Nate and Jackson's ear, but yeah, um, and then Asi, I guess my, like, my ask of you here would be, like, I'd love for you to, because I think you've been very much on the front lines, like, kind of unfortunately for you, kind of having to, like, talk to all these different, like, insurance companies.
+Asia Usmani: What I think are you. Monday and Tuesday, as soon as I would go down, like, work and my husband come, like, don't talk to me.
+Adam Harrison: We're gonna need to get you a second phone so that you can be on hold with one and on hold with another and let you know.
+Asia Usmani: That would be cool, too.
+Adam Harrison: Yeah, a lot of careful what you wish for, because we could definitely do that.
+Asia Usmani: But talk to anyone. Usually I'm like a talker, and I'm like, please don't ask me questions. Please don't talk to me. My brain can't handle, like, anymore. Especially the frustrating ones that you can connect to them when those. Those ones are the time. Yeah.
+Adam Harrison: For you, Asia, what would be super helpful is if. Imagine you are going to be onboarding someone to take your place. What is everything that you would want to document, sort of like. Some sort of like knowledge guide of where we can consolidate everything of like hey, this is actually, you know, for cigna, this is the phone number that you call like or Blue Cross Blue Shield. Like it's all going to be an IVR system. And this is like how you know where our average hold time is like 30 minutes for this one, two minutes for this one. This one they just like won't even answer. Like some sort of just notion document. Like I don't know if the right way to go is like maybe payer by payer or maybe it's. That's. That might be. I don't know, you can lay it out however you think makes sense. But I think the important thing is like a little bit of. I want to start making sure we kind of like write down all the important things because one day we're going to want, you know, someone else to, you know, we're not. We don't really want you doing this like long term. Right. So ideally it's the AI caller but I think most likely will. There'll always be some percentage that's going to be, you know, human handled. Right. So is that something you think you might be able to work on like over the back half of this week?
+Asia Usmani: Okay, yeah. Just how create a notion, all. Everything that I've.
+Adam Harrison: Okay, yeah, yeah. And we can like feel free to like share work in progress versions if you're like not sure it's the right thing or not.
+Asia Usmani: But yeah, the only problem would be I think unless I get the next batch of calls. So I really like pay attention and keep writing at that time like what I'm noticing mostly because I put it in the notes like just the general like thing. Right. Like I can give detail unless I remember because it's like amount of calls I did. So if one doesn't work then I go to different policy until that one I get connected.
+Asia Usmani: So wouldn't be a detailed thing off of my memory because it's mixed up Whatever is in the notes I can read that and try to remember. But if I can get a next eligibility check then I keep that in mind that we're like now I need to remember for like you know, and what's passing off or training or just to. Even for AI, it's good like all the data, you know.
+Adam Harrison: Totally. Well, maybe one thing could be for a few of them like go look at the recordings if you need to jog your memory. And then one thing you could probably do is like I don't know if you can use this with, like, chat GPT. You might be able to take the recording, put it in chat GPT and have it, like, make a transcript and analyze it for you.
+Asia Usmani: My doesn't do that.
+Adam Harrison: Oh, really?
+Asia Usmani: Okay. Find a way. This is the $21?
+Adam Harrison: Yeah, that's what I use too, because I.
+Asia Usmani: I remember I did one time. I'll try. I'll check, but it said I'm not able to do it.
+Adam Harrison: Okay. What kind of file is it? The that your recording is in?
+Asia Usmani: It's called. It's called. I like recording easy Audio recorder light. It's just. I can share it easy.
+Asia Usmani: Oh, you think it's. It's what I'm. It's my app that's the problem. ChatGPT is able to do it? Is that what you're saying?
+Lee Harrold: I think we want to know what the file type is so that we can find a system that can create like transcripts from it that then we could like search pretty quickly. So let me, let me open that Excel file and see if I can find.
+Asia Usmani: I can, I can find out. I can find out.
+Adam Harrison: Because if not, wav looks like.
+Lee Harrold: Oh, okay. Away file. Perfect. Yeah, yeah. There are a bunch of pre transcription services. Let me find one for you.
+Adam Harrison: Let's see. Go transcribe or wav to txt. This might be one. One option. I'll put it in our chat.
+Asia Usmani: Okay.
+Adam Harrison: So you could probably just download the recording and then drop it in there. It'll give you a transcript. Take that transcript, you can put it in chat GPT and then you won't have to go listen to everything.
+Asia Usmani: Um, okay.
+Adam Harrison: So, you know, don't feel like you have to go crazy with listening to everything, but just like if there's some important things that you know are specific to Blue. Even just having like the right phone numbers to call in one place. Right. Is probably like, that's. There's a ton of value in that too.
+Adam Harrison: So just some kind of like repository that can be just like a growing body of knowledge of like how to actually do this in like a.
+Asia Usmani: In a way that makes sense. Other eligibility checks that I did too, for different policies. So maybe I can put them all in one file, the right phone numbers and crack the code, how to get to their life agent and stuff. I think that would be. Yeah.
+Adam Harrison: Or anything.
+Asia Usmani: Okay, awesome.
+Adam Harrison: All right, cool. So I will of relay this plan back to Nate and Jackson and see if they, you know, have any thoughts or feedback and if. If they can also like free up some time for you, Lee.
+Lee Harrold: Awesome. That'd be great.
+Adam Harrison: Cool, cool. Anything else that you guys wanted to chat through? I think we're good right now on eligibility checks, I guess.
+Lee Harrold: About like if there's a price threshold, because each, each, like if it takes on average 11 minutes to get the call, that's about A$20 for an AI caller which already exceeds the 90 cents. So how are we like, is there a point at which we decide, oh, it's not worth the cost or are we offering eligibility as like a way to get people to the platform so we know we're, we're losing money on it,
+Adam Harrison: so we're offering it for 90 cents per check right now. My hope is that we can like move away from calling and do more of a document based check, but I think there's probably going to be some checks where we might like lose money. Oh, okay.
+Lee Harrold: So the idea is that the majority of the checks will be done for almost free and then a very small subset is done by something that costs.
+Adam Harrison: My hope. Yeah, we're kind of tackling the more challenging part of the problem which, you know, you could argue maybe we should have started one end or the other. But yeah, it's a good point. Like what is, what is the kind of the rule of thumb. It's like a dollar per 10 minutes. Is that what you said?
+Asia Usmani: Yeah. Okay.
+Lee Harrold: For, for the AI caller, I
+Asia Usmani: guess Study is the app that you guys are doing the eligibility check.
+Adam Harrison: So if.
+Asia Usmani: So you guys are comparing my, my data, like what I collected to.
+Asia Usmani: If it's because that's my mine one is what I collected is like, okay, this is what we're comparing. So it's correct. Study is correct.
+Adam Harrison: Right.
+Asia Usmani: So you guys can.
+Adam Harrison: Oh, I think we lost. Yeah.
+Lee Harrold: Oh, we can hear you again. Who me? The last. Yep, there was a little network clip, but the last thing you said was, well, I don't know. Can you ask that same question?
+Asia Usmani: The studies that aside from availability. Right. Because anytime when I call, most of them say like you can get all this information through availability. If you guys could just get all that information and figure out that study, then we don't need to do the AI thing or we still would do the AI callers, I think.
+Adam Harrison: Yeah, that's part of what I'm working on. So I've been doing the steady checks and a lot of times your calls are giving us more information than what steady is giving us. So for example, prior auth sometimes isn't listed or like the how much of their deductible is left or whatever. And what I, I have time on Friday when. With Michelle, who's like a billing person, and she does her checks through availability. So, Asia, you should actually. I mean, you should feel free to join if you want for that because you've been doing the calls. But also if it's like, you can just, like, watch the grain, too. You don't like. It's totally optional, but I think it might be good for you to join if you're, like, interested in it. But, yeah, my goal is to basically shadow them doing checks in availability and see, compare that to, like, what we're doing in steady and then what you're doing on calls to understand, like, okay, is availability actually giving us something more than what steady is? Because it seems like it should be the same, but it also seems like it's maybe not the same. So I'm trying to, like, answer that question once and for all on Friday.
+Asia Usmani: Have you checked with ability so far? Did you explore availability or. It's just steady so far.
+Adam Harrison: Just study. Just steady. Okay.
+Asia Usmani: Yeah. And I'm getting more information, like, because telehealth, that everything they're able to tell you and study sometimes, sometimes not. Oh, so it's not like with some members. Yes, Some members know.
+Adam Harrison: Yeah. Very inconsistent. Very inconsistent.
+Asia Usmani: Okay. Okay. Yeah. Okay, Good to know. Yeah. Add me in the call.
+Adam Harrison: Okay. I'll put you on. Yeah. No pressure, but I think it, you know, it might be. It might be helpful.
+Asia Usmani: So actually, I would like to have you on working on it. It will be helpful. Like, just. Yeah. You know, and to see. So I don't ask many questions to you. Like, you don't ask.
+Adam Harrison: No, no, I think. Yeah. You've been in the transfer.
+Lee Harrold: So unfortunately, you have the most information on this. Like, you are. You're the expert.
+Adam Harrison: You're the expert. Yeah, we.
+Asia Usmani: Yeah, exactly. I can add something else in my resume, though. I can work for doctors, for psychiatrists.
+Asia Usmani: Like, again, if nothing works. I know what else?
+Lee Harrold: Eligibility expert.
+Asia Usmani: Yeah. Yeah.
+Adam Harrison: All right. Awesome. I don't want to keep you guys any longer, but this all sounds good, and let's keep it rolling.
+Asia Usmani: Sounds good.
+Asia Usmani: Have fun at the office.
+Lee Harrold: You're leaving? We miss you both, by the way. We were just like, last night, we were like, I see they're having cool dinners. We. We had. We had Perry's Sushi last night, and
+Asia Usmani: that was to a restaurant, too.
+Lee Harrold: Oh, that's true. On Monday, we went to Etopia.
+Asia Usmani: Super. All without us.
+Lee Harrold: When. When we all. When we all come to New York, Adam's gonna have to show us New York.
+Asia Usmani: John.
+Adam Harrison: Bill. Oh, sorry. I just added you. I'm gonna just write to Nate and Jackson.
+Asia Usmani: So that one is the call when you're gonna add me, right?
+Adam Harrison: No, I added you to the call already.
+Asia Usmani: Okay. Wow, you're very fast. Okay, sounds good.
+Adam Harrison: See you guys. All right. See you guys. Have a good night. Good night.
+Asia Usmani: Bye.

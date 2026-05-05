@@ -1,0 +1,30 @@
+{
+  "path": "accounts/6258528322/containers/200880687/workspaces/24/tags/69",
+  "accountId": "6258528322",
+  "containerId": "200880687",
+  "workspaceId": "24",
+  "tagId": "69",
+  "name": "Meta Purchase - Calendar Scheduled",
+  "type": "html",
+  "parameter": [
+    {
+      "type": "template",
+      "key": "html",
+      "value": "<script>(function(){var p={value:5,currency:\"USD\",content_name:\"calendar\"};fbq(\"track\",\"Purchase\",p);})();</script>"
+    },
+    {
+      "type": "boolean",
+      "key": "supportDocumentWrite",
+      "value": "false"
+    }
+  ],
+  "fingerprint": "1777926009992",
+  "firingTriggerId": [
+    "66"
+  ],
+  "tagFiringOption": "oncePerEvent",
+  "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6258528322/containers/200880687/workspaces/24/tags/69?apiLink=tag",
+  "consentSettings": {
+    "consentStatus": "notSet"
+  }
+}

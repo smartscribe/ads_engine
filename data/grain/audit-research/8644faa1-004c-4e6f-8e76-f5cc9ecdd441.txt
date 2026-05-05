@@ -1,0 +1,140 @@
+Jackson Bierfeldt: Yeah, Janet, if you want to just send that information to us on the Slack channel, I'll make sure that we, we look in. Into what happened there and see what we can do to fix that.
+janete Cardenas: Okay, perfect. Perfect.
+Jackson Bierfeldt: But anytime, anytime that you get a complaint, you just forward that to us on Slack and we'll. We'll handle it right away.
+janete Cardenas: Opurf. I didn't know. Let me just write that down. I know that you guys did psychiatry documentation. Are you guys going to do the psychology template? You know the template?
+Jackson Bierfeldt: Yeah. So we're starting with just the psychiatry one. That's the one that we want to talk about today, but we can redo the psychology template as well. We just wanted to start with the psychiatry one since that's the one that we're going to be doing the billing for at first.
+janete Cardenas: Okay.
+Jackson Bierfeldt: Yeah, but we can revisit the psychology template whenever you want to do that as well. We just need to do the same thing where you like, send us some of the example notes and we could do that for you.
+janete Cardenas: I think that Chris and Vanessa have some. No one is you guys. We're going to talk about that. I can hear you. I know we can hear you.
+Jackson Bierfeldt: Vanessa, I cannot hear you. Sorry. No, I see you speaking, but I can't hear.
+janete Cardenas: Just let me make sure that Angelica. It's here. There we go.
+Jackson Bierfeldt: There she is. Okay, how about now?
+Vanessa Cano: Can you hear me better?
+janete Cardenas: Yes, now I can hear you.
+Vanessa Cano: I have to refresh it. Hi, everyone.
+Jackson Bierfeldt: Nice to meet you.
+Vanessa Cano: I. Yeah, Chris had some questions, but on the master treatment plan for psychology. Is that something we could talk about now?
+Jackson Bierfeldt: Yeah, sure.
+Vanessa Cano: Yeah. Okay. So she was telling me that in the master treatment plan template, it doesn't really show the objectives. Like in the part of the objectives, when it's labeled, it's empty. So let me see. So like in the part of the objectives where there should be like a, like a phrase like, oh, the client will recognize an elaborate plan for top five anxiety provoking situations. When the template on job site, it'll show empty and it'll just show like the frequency. It'll say objective, like to be to C. And then it'll start with frequency, time, duration, like the objective part will be empty. So her question was like, if there was a way to basically like edit the template for it to come out with the objectives.
+Jackson Bierfeldt: Yeah, I'm sure we could do that. We would just need, you know, what we're going to talk about on this meeting is how we changed your psychiatry template, the intake and the follow up for, for that we want to take a look at that and we can do that same treatment for your psychology templates as well. So I think what we would just need is for somebody to send us the example notes that you currently have in the way that you're using it in Advanced md. And Adam, we might even just have access to that. I'm not exactly sure where we're at there, but if that's what we want to do to move forward with the psychology side, we can go ahead and look at those templates.
+Vanessa Cano: Okay, so I'll just have Kristen send you the, the notes, like the examples.
+Vanessa Cano: Yeah, that would be great.
+Vanessa Cano: And we can take a look.
+Jackson Bierfeldt: Okay. Angelica, nice to. Nice to meet you.
+Jackson Bierfeldt: Thank you for joining.
+Angelica Llamas: Nice to meet you. My apologies for being late. I got a little delayed here, but here I am.
+Jackson Bierfeldt: No worries at all. We know exactly how it is. People are always running around and we appreciate you all taking the time. So I don't want to take too much time here, but the point of this meeting was to just show you the new psychiatry templates that we built for you based on the examples that we got from your Advanced MD and then see how those have been going. I did notice that they haven't really been used yet. So I think maybe we should just start with making sure that everybody knows how to access those so that we can take a look. Then what we can do on this call right now is actually go ahead and regenerate one of your recent psychiatric notes with this new template and kind of look at how, how that, how that works and make sure that that looks good for everybody. So I don't know who would make the most sense who has recently seen a psychiatric patient maybe today that you have fresh in your mind that we could use as an example here.
+Angelica Llamas: That could be me. Actually today I'm seeing. Yeah. Psychiatric patients. I could give you a couple any. Okay, great. Yes.
+Jackson Bierfeldt: Yeah. Would you mind sharing your screen so that we could look at your jot? Psych.
+Angelica Llamas: I would be able to do that, except for I'm connecting through my phone. I don't know, Janet. Do you have access to jotsy so you can share? Because I'm connecting to my phone.
+Angelica Llamas: My connected to my phone.
+janete Cardenas: No, no.
+Angelica Llamas: Yes, I can just give you the patient information and then if somebody can just share job psych, I mean, that'll be the easiest. And I can give you the patient information.
+janete Cardenas: Yes. Okay, Chris, thank you.
+Jackson Bierfeldt: So just so I understand, Angelica and Vanessa and Chris, you're all seeing patient. You're all seeing psychiatric patients as well, right? And then. So are you seeing psychiatric patients? Sometimes, but also seeing psychotherapy patients or clients? Are you all doing all three?
+Angelica Llamas: I am doing only psych visits.
+Vanessa Cano: I work in medical record, so I don't see patients.
+Jackson Bierfeldt: Okay, got it.
+Angelica Llamas: And in my side is just psychiatric visits, no therapy, just psychiatric.
+Jackson Bierfeldt: Okay, great. And Angelica, what template do you normally use?
+Angelica Llamas: The. Okay, so for today, the one that I've been using is the follow up visit template. Let me give you the name just in case you. Psychiatric follow up slash medication management template. I think that's the one.
+Jackson Bierfeldt: Great. Are you logged into Jos in front of you on the, on the computer?
+Angelica Llamas: Yes, yes, I am.
+Jackson Bierfeldt: Great. And Chris, are you able to share your screen so we can all look at it? Okay, and you're logged in with the psychiatry department account, right? Okay, great. Okay, so can you actually go to documentation and then note templates and we'll all just follow along on Chris's screen here?
+Angelica Llamas: Okay. Yes, yes.
+janete Cardenas: See?
+Angelica Llamas: All right, can I give you an account, Vanessa, so you can see what case am I referring to?
+Vanessa Cano: Yeah, Chris is the one showing the screen so you can call the patient.
+Angelica Llamas: Okay, so it's account 9480.
+Angelica Llamas: She was my first patient today.
+Jackson Bierfeldt: Great. Chris, we're just seeing the JOT psych screen, the homepage right now. Great.
+Angelica Llamas: We could be lopez, perez, vara. Maybe barbara lopez? Yes, that's her. Okay, so today's encounter.
+Jackson Bierfeldt: This one looks like it's from January 14th, But yeah, this, this will do.
+Jackson Bierfeldt: Okay, is there a. Great. So we can. This. But this is not the one from today. Right.
+Angelica Llamas: This is 14.
+Jackson Bierfeldt: So actually, can you click on the, on the patient, Chris, Barbara, Just click that name and then scroll down to the Encounters. Let's see, 218. So that one that says pending in the bottom left, the one from 218 on the left side of the screen there's an orange bubble that says pending. Yeah.
+Angelica Llamas: Okay, great.
+Jackson Bierfeldt: So Angelica, you didn't submit this note yet. It looks like you recorded it, but you haven't clicked submit yet. Is it okay if we go ahead and submit that now? Yes, absolutely. Okay, great. But let's change the template. So over on the left side right now we're using the Psychiatry follow up. Medication Management. Can we click that and change it to scroll down a little bit? Yes. Med. Med Management Follow up Valcort Custom. Yeah, this is the, this is the new one that we built. So if you go and click on generate note, we'll start seeing that.
+Crisaned Malave: Click Generate node.
+Jackson Bierfeldt: Yes.
+Crisaned Malave: Oh, sorry.
+Jackson Bierfeldt: Great. Okay, amazing. So while that's loading, let's actually go and change this template to be the, the default one. Or actually we'll, we'll look at it once again. Comes in and we can decide on that. Just so that we have a little more room to see here. Would you mind? Chris, can you close the side panel? Do you see the arrow at the top? That? Yes, that one to the right? Yep. Great. And then we can scroll down and start. Start looking at this.
+Angelica Llamas: Jackson, really quick going forward, is this the new template that I should be using for all my follow up patients? Is that the new template? Okay, perfect.
+Jackson Bierfeldt: That's correct. Yeah.
+Jackson Bierfeldt: All right, and after this, we'll go ahead and I'll show you how to move it so that it's at the top of the list so that it's the default template from now on. But yeah, so we just wanted to look through this template and Angelica, you're free to look at this on your own and then shoot Janet some notes on it if you have some particulars. Because we want to make sure that this is perfect for you all. But this has been built to look exactly like the one that you're using in Advanced MD right now. Including at the bottom saying all of your boilerplate language around. I certify these diagnosis. Here is the rendering. Here is the supervising. All of those little details that we need in order for it to be like a fully compliant note for billing purposes. Those are all built into this template now. So the reason we switch to this template is so that JOT Psych generates an entire full note that's going to pass the audit inspection. That way we can just start billing and submitting notes directly from JOT Psych and not having to take everything, move it into Advanced MD and sign it.
+Angelica Llamas: Okay.
+Jackson Bierfeldt: Does that make sense?
+Angelica Llamas: Yeah.
+Jackson Bierfeldt: Okay, great. So, yeah, let's go ahead. I mean, I don't know how much you want to like look through this live right now and give some notes or if you want to just look at a couple over the next few days and give some feedback in that way that might make the most sense given that you're on your phone right now. I don't know how good of a viewing experience this is, actually.
+Angelica Llamas: I opened it up and then I'm looking at it right now.
+Jackson Bierfeldt: Okay, great.
+Angelica Llamas: Yes, my computer. So I'm assuming it's already changed, right? It's already generated on the template that we want. Yes. I see here Management Valcor custody. Yeah, custom. Well, it's looking good. I should be closing the note by tonight, so. Yeah, any feedback? I can always, you know, shoot Janet a text or an email.
+Jackson Bierfeldt: But that's great if you want to send that. And then Janet, you can just take anything that you get and put it in the slack. And that's the best way for.
+janete Cardenas: For us.
+Jackson Bierfeldt: And then.
+Angelica Llamas: And then. Jackson, would you recommend all my notes? Because I've already. I've already done, like, six patients. I can always, you know, make that change from the prior templates that I had to this new template and. Generate Disney. Okay.
+Jackson Bierfeldt: All right, so you know how to do that with that switch in the top left?
+Angelica Llamas: You pick the top left? Yeah, yeah.
+Jackson Bierfeldt: I recommend switching it to. For all the patients you saw today, switching to this template and then looking at that note. Okay.
+Jackson Bierfeldt: And what we're looking for here is for you to be able to make whatever small edits that you need to to this note. And you can use, you know, the audit screen. I'm sure you've seen that that will, like, kind of help, you know where the problem areas are. And then we want you to be comfortable just pressing Sign Note inside of Jot Psych. If you find that looking at it, you said, hey, this isn't there yet. I'm not ready to sign this note. Definitely let us know because we want to make whatever adjustments we need so that as soon as possible, you can just start pressing Sign Note in Jot Psych and then you're done.
+Angelica Llamas: Okay, great.
+Jackson Bierfeldt: So, Chris, can you actually go to documentation on the top and go to Note templates, and then can you scroll down inside of that left box up where the templates are? Can you go up a little more? Oh, no, sorry. Go back. Yeah.
+janete Cardenas: Can you scroll down in there? Intake. Go down. No, no, that one. No, no. Hi.
+Jackson Bierfeldt: Yeah. Great. Okay. And now can you click the pin icon on Med Management Follow up to the right. There's the little.
+janete Cardenas: Click on. Yeah. No, yeah, Great.
+Jackson Bierfeldt: And then let's do the same thing for Psychiatric Intake. Valcort.
+janete Cardenas: Yeah, great.
+Jackson Bierfeldt: And then if we scroll up now, you can drag those. So we should take the Med Management one and move it all the way to the. To the top. So if you grab.
+Vanessa Cano: Management.
+Jackson Bierfeldt: Right. Yeah, but let's make it the first one. One. Great. Okay. So Angelica, I think you see how that works too. So if you want to rearrange some of the other ones later to your liking, you can do that. But now that'll be the default template for you.
+Angelica Llamas: Yeah. Max and I do have a question. Where do I find supporting factors in this new template? So I'm looking, I'm looking at the note, right? And then I see. Where do we see the supporting factors? Because that's like a piece of our documentation that I usually pull from the prior template, but I don't see it here. Do you know where it is?
+Jackson Bierfeldt: I think maybe we didn't add that in. So supporting factors, that's something that's currently in your advanced MD template.
+Angelica Llamas: Yes, yeah, it's. We have, we have two things and then one of them is supporting factors. Then the other thing is safety plan. So I do see the safety plan, I think, but I don't see the supporting factors. Is that something that maybe some works?
+Jackson Bierfeldt: I can make sure that that gets added right away. I see. Okay. So supportive factors, it's above safety plan and below the risk factors, correct?
+Angelica Llamas: Yes, correct. Yeah, it's under, it's. Yeah, if you go to advance, it's under the plan tab.
+Angelica Llamas: So it's recommendations on discussions Plan. Yeah, actually it's not there. It's under. Yeah, Suicide risk assessment on that tab.
+Jackson Bierfeldt: Okay. Supportive factors. Okay, great. I will check on that and see where, where that is. And if it's not in there, I'll get that added in right away.
+Angelica Llamas: Okay.
+Jackson Bierfeldt: Okay, great. And would that go into a specific section or would it be its own separate section?
+Angelica Llamas: It's right above safety plan. So we, we document that site, that, the part, that element and then safety plan. So it's kind of like the same thing.
+Jackson Bierfeldt: Got it.
+Angelica Llamas: The same category, Risk factors.
+Jackson Bierfeldt: Yeah, supportive factors. Ok. So actually it does. It looks like it should be inside of the risk and safety section, inside of the jot.
+Angelica Llamas: Psych note.
+Jackson Bierfeldt: But you're not in there right now.
+Angelica Llamas: Is it there or not?
+Jackson Bierfeldt: I can't see the note anymore. If we could bring that back up on the screen or I can try to find it from. From my end.
+Angelica Llamas: Risk and safety. Okay, I see that. Risk factors. Okay, see that? Risk factors. Severe anxiety present. Okay.
+Jackson Bierfeldt: And then under it says supportive factors. I see positive social support, sense of responsibility to family.
+Angelica Llamas: Okay, so it's kind of like a list of things. Okay, that's it. And then how about the safety plan? It says here. Is a. Is a safety plan required? No. Do we want to leave it like. No.
+Jackson Bierfeldt: Or was a safety plan required for this session?
+Angelica Llamas: But we usually have one. Even if the patient is confined and everything, we usually just say, hey, you know, like any crisis, you know, here's where you contact. You have any questions, give us a call. You know, like, just write it, done it. I think we have something like, very.
+Jackson Bierfeldt: Okay.
+Angelica Llamas: Even if patients are complying, there's something very generic that we just add in there.
+Jackson Bierfeldt: Okay, I can. I can update that. So you want there to be a. You want that written into the note so that in safety plan. It has a generic safety plan in there.
+Angelica Llamas: Yes. So we can copy and paste it to. Yes.
+Jackson Bierfeldt: Yep. I can.
+Jackson Bierfeldt: I can make that change. Great. Yeah. And this is exactly the kind of feedback that we want. So anything else that comes up, if you want to just, like, you know, do this for a couple more notes today, come up with your list of things that you would like to see differently. And if you shoot that us, we'll get that turned around very quickly for you so that the note gets changed.
+Angelica Llamas: Okay, Sounds like a plan.
+Jackson Bierfeldt: All right, great. Any other questions from anybody? Oh, sorry.
+Jackson Bierfeldt: I have one. How will the other providers that are using this, you know, psychiatric department account, how will they get the information to use this new template?
+janete Cardenas: We will. We will let her know.
+janete Cardenas: We will, you know, to. No doubt, I will be the one who's telling how to use it.
+Jackson Bierfeldt: Great. Yep. If you can just tell them that this is the one that they should use now, and we're going to get it, you know, dialed in so that it looks great for you all. And then everyone should have a nice, nice new template. And then once we get this process working, we can go ahead and do the same thing for the, you know, treatment plan template and the. Psychology templates as well.
+Vanessa Cano: Okay. For that, for the master treatment plan, do we send it to your email?
+janete Cardenas: No, send it to me. So I will send it to. Through Slack.
+Vanessa Cano: Okay, perfect.
+Angelica Llamas: Jackson, just one more question. How about if we have a new patient, like an initial intake patient, Is there a particular template for that or. It's in the works.
+Jackson Bierfeldt: There's also a new template in there called psychiatric intake. Valcourt Custom.
+Angelica Llamas: Okay, okay, I found it. I found it. Yeah, I see it now.
+Jackson Bierfeldt: So you might want to take that one and drag it to be the second template. That would be my recommendation so that those two are just at the top for everybody. Because I think those are probably the main two templates that you'll be using.
+Angelica Llamas: Yeah. Yeah.
+Jackson Bierfeldt: Okay, great. Yeah. And then the same process with that. So if it takes a couple days for you to see a couple new patients and you want to see how that one looks, you know, you can get that feedback to us and we'll make adjustments there as well.
+Angelica Llamas: Okay.
+Jackson Bierfeldt: All right, well, thank you so much and really appreciate your. Your time and excited to make sure that this starts to feel like magic for you where you're like, oh, my gosh, I don't have to copy and paste any of our life. It's there. I type my little edits in the chat, I press sign. And then you're actually just done.
+Angelica Llamas: Yes, absolutely. Yeah, true.
+Jackson Bierfeldt: Great. Well, thank you so much. Take care, everybody, and let us know if you have any other questions.
+Angelica Llamas: Awesome. Thank you.
+Jackson Bierfeldt: Bye.
+Angelica Llamas: Bye.
+janete Cardenas: Bye. Bye.

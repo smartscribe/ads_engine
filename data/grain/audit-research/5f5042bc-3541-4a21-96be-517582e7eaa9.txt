@@ -1,0 +1,166 @@
+Emily Kaiser: Next to the camera, there's a little icon with a laptop and an arrow pointing up. And that's how you share your screen.
+Dr. Fomunung: Okay. I'm looking at my screen. I have.
+Dr. Fomunung: Do you see you?
+Emily Kaiser: And I.
+Dr. Fomunung: I see you. I see myself and I see a microphone. Emily's brain note taker. And then that's about it.
+Dr. Fomunung: I mean, on the top there's a yellow. They say J. Let's see. Kat is recording this message. That's all I see on my screen.
+Emily Kaiser: Right. So at the bottom you said you see the microphone. Do you see the camera next to it?
+Dr. Fomunung: No, there's no. There's no camera next to the microphone. All I just see is a microphone and it says Emily's grain note taker.
+Emily Kaiser: Okay, so what might be. If you're not able to share your screen, that's totally fine. Why don't I log on to jot Psych?
+Dr. Fomunung: Okay.
+Emily Kaiser: And then that way you can kind of see my screen and let me know what you're having issues with. We can see if it will work like that.
+Dr. Fomunung: Is that okay with you? Yeah, that's fine. Any way we can get it done?
+Emily Kaiser: Okay, great. So I'm just going to log on here really quickly.
+Dr. Fomunung: This might be an iPad problem rather than the job site problem.
+Emily Kaiser: Yeah, it could be. That's a good point. Let me just go ahead and share my screen. Do you see this?
+Dr. Fomunung: Yeah, I can see that.
+Emily Kaiser: So. And can you still hear me? Okay.
+Dr. Fomunung: Yes, I can hear you.
+Emily Kaiser: Okay, so this. So tell me, why don't you start by telling me
+Dr. Fomunung: if you go to go on that documentation and open a document there, then yeah, open any note.
+Emily Kaiser: Okay.
+Dr. Fomunung: Okay. And then, yeah, open any note. Okay, perfect. And let's see. Excellent. So what I used to. What I said was if you scroll up, first of all, let me just ask you this.
+Dr. Fomunung: It says sign note. What does that mean when you sign the note? What. What is that telling me?
+Emily Kaiser: So that is your signature for what you need to submit for your ehr. Or I'm sorry, yeah, for. To input everything into your ehr for insurance purposes.
+Dr. Fomunung: Okay. All right, perfect. I don't have to worry about that. Okay, that's fine. That's. So anyway, if you go up, for example, in this particular case, just scroll up for the 78 year old patient. Okay, I cannot see. Let me try. Okay, there we go. So what used to be in the past was that you would have this and then you would have this up this by the side note, you see that star there where you used to click on that. And then it will give you the option to. To either train or edit.
+Dr. Fomunung: Yes, yes, now, but, but this note, for example, the client is a 70, 78 year old male.
+Dr. Fomunung: That one was protected. I could not, there was no way I could edit that unless I click that button and intentionally go allow it to allow me to go ahead and edit.
+Dr. Fomunung: Okay, okay, so, but now when wise I dictate is not protected.
+Dr. Fomunung: So I can just go directly and start editing it. As soon as the note is generated, I can go and start editing it right away. So what has happened to me is that there have been times where I want to cut and paste cut, for example, the chief complaint and paste it on my emr, on my record. And once I click it, and instead of clicking copy, there have been times where I clicked cut. And once I click cut, it takes the notes away from that section. And then if I realize if I said oops, I shouldn't have done that, I cannot put it back. So my question is that I was told when I spoke to one of your associates quite a few months back, they had said to me that there was an undo button and I can. I don't seem to find it.
+Emily Kaiser: Let's see here. Find and replace, copy and paste, delete note.
+Dr. Fomunung: Yeah.
+Emily Kaiser: And undo button. So are you aware since we made the formatting changes that this is now how you train edit? Okay, so you know that this is where you're trying to type that in.
+Dr. Fomunung: And that's working great. But I think that I'm just saying this, that one, even once that kick shows up, this is the notes themselves, they are not protected. And so if I make an error, for example, there was another day as I was cutting and pasting from my medical records onto this. Instead of copying from from judge's side and pasting on the other one, I inadvertently copied from the other one and pasted on job site.
+Emily Kaiser: Okay.
+Dr. Fomunung: And so once I did that, I lost the information on job site. So I could not get it back because I pasted on top of it. Which is why I was saying that if there was a way by which I could, if I make that error, how do I get back my original transcribed note?
+Emily Kaiser: Okay, I understand. Thank you for that explanation. So it's not necessarily the copying isn't the problem, it's the pasting over. And you want to understand how to reverse.
+Dr. Fomunung: Right.
+Emily Kaiser: So I would think the best way to do it is let's just go ahead and copy this and then let's go ahead. So how exactly do you paste over? Are you highlighting and then like.
+Dr. Fomunung: Yeah, I. I highlight. Yeah. Since I'm going from judge psych onto my record, I go back and forth, I'm doing each section highlighting it because what I noticed that if I click copy, like you have up there, it transferred a lot of boxes and they make the notes. The notes are all messed up. So I actually go ahead and highlight this section without the topic, without the heading, and just translate and it's nice and neat. But if I click copy, it takes all these lines where they have all these boxes and it shows up on the notes and I don't want that there, so I have to highlight it. So now when I go over there to come back, if I were to copy from a different note and inadvertently paste it on judge site, then I override that. I cannot get it back in the past. I could because I was not able to do that because it was protected.
+Emily Kaiser: Okay, I see. I'm going to try something here and see if this works.
+Dr. Fomunung: Okay.
+Emily Kaiser: On the side here where you're. Where you typically give it feedback, I went ahead and I accidentally. Well, I didn't accidentally. I pasted the chief complaint into the summary, like what you're experiencing. And I said undo last changes. And. And it says, let me check which, which section you want to edit. So what I'm trying to revert is the summary. So it's asking me here which sections. I'm going to click summary.
+Dr. Fomunung: Okay.
+Emily Kaiser: Next. Let's do remove content.
+Dr. Fomunung: Okay.
+Emily Kaiser: Okay, so it removed it. Okay, let's do. Oh, you know what, Is this the button we're looking? Yes, Revert to original. It's right here on the side.
+Dr. Fomunung: That's. That's if you edit.
+Emily Kaiser: Yep.
+Dr. Fomunung: So if you have, if you have the AI to edit it and then, you know, you edit it as planned. But if you cut. And if you paste on top of that, would it give you that same option?
+Emily Kaiser: Yes. Okay, so let's do it again. Let me show you. Because I was kind of troubleshooting myself here since we kind of updated the system.
+Emily Kaiser: So I'm going to copy this and then I'm going to delete this in the summary.
+Emily Kaiser: Paste chief complaint into the summary.
+Dr. Fomunung: Okay, let's see.
+Emily Kaiser: Copy, paste. Okay, perfect. And then over here where it says editing summary, let's say edit summary. I'm trying to get that little box to come back up.
+Dr. Fomunung: Exactly. That's what I'm saying. I didn't get it. Box to come back. Okay.
+Emily Kaiser: So if you just type in edit summary, you should see approve changes, revert to original or view changes and you want to revert to original.
+Dr. Fomunung: Okay.
+Emily Kaiser: And then it will take you right back to what that description was in the past.
+Dr. Fomunung: I see, so it's a two step process, it sounds like.
+Emily Kaiser: Yes. Just for that reverting to come back, we are trying to exactly like the word that you've been saying. We've been trying to like make sure this information is protected and we're not able to edit it or revert too, too easily because we don't want it to be, you know, cause further communication or further confusion, if that makes sense.
+Dr. Fomunung: Right, right. Okay, that's fine. Again, like I said in the past it was, it was, it was a lot. I mean it's much improved now overall.
+Dr. Fomunung: But that one kind of gave me some protection because I was told that once you lose the data, you're not going to be able to get it back. Although can I regenerate the transcript back? Is that still doable?
+Emily Kaiser: Will you repeat that one more time?
+Dr. Fomunung: No. I guess my question is that if I, if the notes have been generated and for some reason I get, I delete it and I cannot recover it back. If I were to go back and regenerate the note without. Regenerate it.
+Emily Kaiser: That's a good question. I am not so sure on that one, I would think. I'm not so sure, to be honest with you.
+Dr. Fomunung: Okay, well that's fine. That's fine. Let me go to the next one.
+Emily Kaiser: You have the transcript.
+Emily Kaiser: If you go from note to transcript and you have the transcript, you should be able to, to make that a note again.
+Dr. Fomunung: Okay, that's what I would, I would hope. That depends.
+Emily Kaiser: Yep. You know, and then one more thing I wanted to touch on before, if you have any other questions before we move on is I want to make sure you're aware that you have the ability to copy and paste at bulk. So you have the ability to select different sections and paste it into your ehr. Into a word doc, whatever your, whatever your process is. That way you can copy selected rather than copy all because I have these checked. So you could say copy selected and then it's asking for some feedback. So copy selected. And then you would see five selected sections copied to clipboard and then you would right click and paste just how you are. And that would eliminate the need to go in and highlight each section one by one.
+Dr. Fomunung: Right. But what I'm saying, if I do that though, if it's copying the section. Is this copying just the notes or. Or the headings of the notes as well?
+Emily Kaiser: All of it. It should copy the heading of the note. So let me see if I can open up a word doc and show you what transfers over.
+Dr. Fomunung: Okay.
+Emily Kaiser: Okay. So I have everything copied here. My word doc is open. And then I have to paste and then change the screen that I'm sharing. So let me go ahead and paste. Oh, oops, it's having me open up something else. Okay, can you see this?
+Dr. Fomunung: Yes, I can see that.
+Emily Kaiser: Okay, so I'm just going to go ahead and paste and this is what comes about.
+Emily Kaiser: So it not only gives you each section with the title that I selected, but it also at the top gives you note, title, provider, date, time, duration. And then I believe if you sign the note before copy and pasting over, your signature will go here as well.
+Dr. Fomunung: All right, well, that's nice to know if you, if you're putting it into a Word document, because it's a Word document is a plane, so you can transfer it. But if you're putting it in a specific section, what happens is that those lines, those gray lines that show up those boxes, it shows up in there as well, and it just kind of messes it up. But I'll give it a try. You know, I go to different offices.
+Dr. Fomunung: There's some offices that I use just the Word document and that will work that particular one. But in a one way I have a template where I have to type where I have to copy under that template. If I just copy and copy into that template, what happens is that those lines come up and get them all jumbled up.
+Emily Kaiser: I see. Okay, so back here, really quick. And just try to paste one single section.
+Emily Kaiser: Okay, so this is what happens when I copy test and scores. So I copied this. Are you able to see this?
+Dr. Fomunung: No, I'm not seeing that.
+Emily Kaiser: There we go.
+Dr. Fomunung: Okay, so I copied this. Okay, this.
+Emily Kaiser: Okay, clicked copy section. And then here, let's go ahead and share this tab instead. And this is what it produced when I did. Right click paste.
+Dr. Fomunung: Okay, testing scores. Okay. Okay, I see. Okay, that's.
+Emily Kaiser: And if. Do you currently. Is your current process to paste directly into your ehr or do you paste into a word doc and then go from there?
+Dr. Fomunung: It depends on what office I'm at. I have three offices that I work in. One of the offices, I just paste it on a Word document.
+Dr. Fomunung: The other offices have to paste into the emr. Emr, which is already preset.
+Emily Kaiser: I see. Okay.
+Emily Kaiser: I would try it and see what happens.
+Dr. Fomunung: Try doing.
+Emily Kaiser: See what happens if it doesn't work that way and you feel the need to copy and paste each section one by one. I would then try copying each section over here with the check mark copy rather than highlighting.
+Emily Kaiser: Seeing that makes a difference. Just for the fact of the like you're experiencing that kind of lag. Of accidentally pasting into. I totally see how that's happening.
+Dr. Fomunung: And that makes sense.
+Emily Kaiser: So I would just try it a different way just to see how it feels. See what. How it looks and kind of go from there.
+Dr. Fomunung: And I like the idea that so you could. So you can actually, rather than going section by section, I can save time by just clicking all of them and just move the whole thing in one swoop.
+Emily Kaiser: Exactly.
+Dr. Fomunung: Okay, that's fantastic. That was very helpful for my. From my other office where I do the work, I paste on a Word document. Now, if you come to the right, just in terms of the editing, if I need to edit something or add something there, and I tell the AI or the AI to change the name or patient to a name, I did that once and I said in one particular note, I said, change it from patient to the name Cameron. So it did that. But then what happens was that with every other subsequent patient, when I say change, when I generate. Yeah. When I dictate, it still comes and puts Cameron the same name Cameron for every note. Yeah, for every note, it's showing Cameron. So my question is, why is that? I just wanted for that particular note.
+Emily Kaiser: Yeah, that's a good question. I'm surprised that that happened that way. I'm wondering about the wording that was used when you put that into this box. Because sometimes if we're specific on our wording, like if it said something along the lines of change patient, change the word patient to patient's name, comma Cameron, going forward, it could be updating it every time. But so it kind of depends on the wording that you used just to like, really kind of hone in on that. But what you can do.
+Dr. Fomunung: Can I do that? If I said I don't want to use. I want to use the patient's name rather than patient, but then the software is not very good at typing and using people's names.
+Emily Kaiser: Able to edit those features right here. Practice information. This is for billing information. If you end up going with jot bill in the future document. Let's see. Let me just kind of fiddle with it really quick Features. Admin panel. There should be a something here in your settings languages. Okay. So you can select your subject terminology.
+Emily Kaiser: So you can select if you want it to say patient or client. And I wonder if going in and updating preferences, selecting patient, updating preferences would kind of jot the system back to using patient every time. If that makes sense.
+Dr. Fomunung: Okay, and where did you get the account setting? Where did you push the button to get account setting?
+Emily Kaiser: So if you go in the corner here to your initials at the right, at the top. Right, okay, sorry. And then you go to the second option, languages, this will pop up. So you can go to transcription languages and you can select different languages if you have different languages spoken in your practice. And then also you can select terminology, selecting what you want the patient client to be referred as in your notes.
+Dr. Fomunung: All right, so let me go back. So if you go where my initial is and then. And where do I push languages? Okay, but how do you get languages? Because I'm looking at my desktop right now. I have it there. And then where do I see my name in green?
+Emily Kaiser: So if you click your name in green, it should bring you to your account.
+Dr. Fomunung: Perfect. Okay, I see. Okay, now I see it.
+Dr. Fomunung: All right, that's wonderful. All right, then that answer then one quick, one last. Well, the other thing that used to work for me wonderfully, and I was so excited before they came with this new change, was that once I was done, it will give me on the right screen the option to send a summary of the evaluation to the patient directly. But I don't see that anymore. All it does is give me on the bottom it says email the information to the patient and then I have to copy it and then copy it on my email. And I'm trying to find out if first of all, can I send the email directly from judge? And secondly, is there a way. There used to be a summary of the whole evaluation to my right where I would just go ahead and click sent. It will tell me send to the patient and I will just click it. But I don't see that anymore. Where is that?
+Emily Kaiser: Is that still there or is that under patients now it's just in a different section. So next to documentation at the top, you're going to see patients. Click on patients. And I believe we're using John Doe.
+Emily Kaiser: We'll go ahead and click another one. Now this is where you can manage all patient interactions, billing information, generating labs, documents, sending, requesting payment, anything like that. So not only does it here, this other, I just use these for demos. So this one right here, you may see some mixed information as far as treatment plan, just because I use it on several demos. So here, this gives you a better idea of how you can manage everything from this one patient portal overview while having all demographic information, if it's in there, as well as last encounter, you'll be able to see, this is the description of the last encounter. You can click the encounter note treatment, same thing, and then forms. So these are any. Forms that you've sent over to the patient is also where you can send a form.
+Emily Kaiser: So if you click form, it's going to show you available forms that you can send.
+Emily Kaiser: And if the one you need is not in here, then you can add, create or edit any forms under documentation as well.
+Dr. Fomunung: Okay, so the summary again I want to find out. So if I want to send, I used to have to send a summary of the whole evaluation. Where do I get that?
+Emily Kaiser: So I would actually think, let me just hover over these options. So I think it's going to be send form to patient, create lab request, create clinical document based on this note, send patient follow up so you can send them. It's going to take this information and generate a quick follow up, friendly reminder for your upcoming appointment. Just a quick note, after today's visit, you're doing the right things and we'll keep a close eye on how things progress. And this is how it's going to give you a summary right here as well as a few reminders. So it's just basing this information off of your conversation with the patient and you can edit it anywhere here or ask the AI to help you edit the document here. And then after you're all set with editing, you share, you can copy to clipboard, download PDF or send directly to patients.
+Dr. Fomunung: Oh, okay, well, okay, just go through that one more time again. I think that's pretty much what I'm looking for.
+Dr. Fomunung: So go from the start. I'm looking at my desktop right now, so where do I go?
+Emily Kaiser: Okay, so under here, when you're in the patient portal, you're going to see the floating menu of icons and then you're going to want to say send patient follow up, which is going to be that little paper airplane.
+Dr. Fomunung: Okay.
+Emily Kaiser: Once you click that, it's going to think for a minute and based on the conversation with the patient, it's going to create a friendly reminder, upcoming appointment information, quick steps, but also is going to summarize that last conversation you had with the patient and allow you to edit over here or directly in these boxes and then you can share over here at the top. Right?
+Dr. Fomunung: Okay. And okay. So we said, okay, yeah, download PDF, send to patient, copy to clipboard. And then so as long as the patient's email is in the system, it will do that automatically, Is that correct?
+Emily Kaiser: Yeah, yeah. So you can, you can input it right there and then, or you can have all of the patient's in information kind of as you go. Like if you want to put it in the patient portal. You can definitely do that.
+Dr. Fomunung: Okay.
+Emily Kaiser: Phone number or email. You have the option of.
+Dr. Fomunung: Oh, I see.
+Emily Kaiser: It also shows you a preview. So it'll say, emily Kaiser has sent you a document. Because this is coming from my profile, you can view it here, reply stop to unsubscribe.
+Dr. Fomunung: I see. Okay. Well, that is. That is good. That's. That because at the end of the notes I usually get the. Okay. And what about the email that I'm sending a summary? Again, if it is, how do I send the email to the patient without having to copy it and then putting in an email itself?
+Emily Kaiser: So if you want to send. And when you say a summary, do you mean this document that we're looking at right now?
+Dr. Fomunung: Yeah. For example, if you go to any of the patients towards the end, go back to the, to the document, to the body of the. Of a note. Okay. Yeah.
+Emily Kaiser: Like this? Or back to the original note.
+Dr. Fomunung: Back to original note.
+Emily Kaiser: Okay.
+Emily Kaiser: Okay, let's go to notes.
+Dr. Fomunung: Let's go.
+Emily Kaiser: This is the one we were looking at.
+Dr. Fomunung: Yep. Okay, then go all the way down to the bottom.
+Emily Kaiser: Okay.
+Dr. Fomunung: Okay. Email, email, email. Yeah, Follow up email.
+Emily Kaiser: Okay.
+Dr. Fomunung: Okay. And then so you put Dear patients. So I will go in here and I will edit it. But then my question is, once I do that, is there where I can just push a button and then send the email to the patient Or I'll have to use the floating. Okay, there you go.
+Emily Kaiser: Yes. You're still going to have that floating icon here. So if you just kind of want it as easy as possible, I would just go right to that paper airplane. Okay. And then let me show you here. So it's going to generate, just like we looked at.
+Dr. Fomunung: You're going to click share send to patient.
+Emily Kaiser: And then if you click email, you'll see that this John Doe has an email address already in there.
+Dr. Fomunung: Okay.
+Emily Kaiser: All you have to do is send document.
+Dr. Fomunung: I see. All right, so. All right, so the email that is generated though, because it sounds like the email that you generated and the email that the summary are two separate things because the information in the email seems to be different from the information in the summary.
+Emily Kaiser: Well, it kind of, it is a little bit different. It basically is just formatting it to make it. So all of the important information that would be valuable to your patient is there rather than giving them the full note.
+Dr. Fomunung: I see. Okay.
+Emily Kaiser: So it's right here. It gives you a breakdown of medication.
+Emily Kaiser: Watch for changes. Example, like side effects, sleep, energy, mood, as well as follow up information as far as like what the patient should be concerned about as far as scheduling and interest in other options. If you discussed other different types of therapy or medication is going to be right there as well.
+Dr. Fomunung: Okay. All right, that's very helpful. Just one last thing before we leave. How can I. Is this, is this. As long as I'm subscribed to this, is this information not. I mean you know I'm not going anywhere. Is this information is there limited to the capacity of patients I can.
+Emily Kaiser: No, no. You should be completely unlimited.
+Dr. Fomunung: Okay, perfect. That, that's helpful to know because I was getting worried that, you know, I may not have the information if I need to go back and retrieve it.
+Emily Kaiser: You should be all set with that. And then I do want to talk about. I know originally our conversation was about billing and auditing, so I know we're coming up on time, but I want you to know that that information is right here. If you find, I know you work out of three practices, I'm sure that's kind of a lot to manage with billing.
+Emily Kaiser: If you find that that is going, I mean, I know you don't currently have a hand in it, but if you find something changes and you want more information, just go ahead and click Bill Insurance.
+Dr. Fomunung: Okay.
+Emily Kaiser: You click learn more and you're able to schedule that short meeting with our CEO. He's conducting these short meetings to give you just a little bit more in depth product overview on jot bill and how it could fit with within your practice. So just so you know that that information is there if you find it's ne it's applicable.
+Dr. Fomunung: Okay, that's great. I mean, when it comes to that time, I would be interested in that. But perhaps more importantly, if I can get a prescription built in like we talked about, that would be very helpful.
+Emily Kaiser: Yes, that is definitely something that we're working on with our engineering team on the back end. So we're hoping to have that up there as soon as possible as well because we want to be a one stop shop for our customers.
+Emily Kaiser: As far as, you know, the note taking, the prescriptions and the billing.
+Dr. Fomunung: Correct. All right, fantastic. Well, thank you so much for your help. Extremely helpful.
+Emily Kaiser: Awesome.
+Emily Kaiser: I'm so glad to hear that. Thank you for your time. You have a good day and let me know anything else.
+Dr. Fomunung: Okay, I will. Thank you.
+Emily Kaiser: Bye.
+Dr. Fomunung: Bye.

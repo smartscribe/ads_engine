@@ -1,0 +1,67 @@
+Christopher Hume: Hey, how are you?
+keneisha duncan: Hi. Good. How are you?
+Christopher Hume: Wonderful. Wonderful, thanks. So, would love to let me introduce myself first. So my name is Chris. I'm chief of staff here at JOT Psych, and kind of one of my roles is helping people get up and running with the software, answer any questions. Um, so I'd love Kenisha to learn a little bit more about you and sort of hear about why you're interested in JOT Psych or what I can help you with.
+keneisha duncan: I'm a newly licensed psych np. Perfect. And I'll be starting my new role in a couple days. Okay. Employer. They use it, so that's why I just wanted extra help. Perfect.
+Christopher Hume: And who is your employer? Kenesha.
+keneisha duncan: Yeah. Southern Mentality.
+Christopher Hume: I'm sorry, who is that?
+keneisha duncan: Southern mentality.
+Christopher Hume: Southern mentality. Wonderful. Okay, so what.
+keneisha duncan: When I'll.
+Christopher Hume: What would be. Would it be helpful if I walked you through the software and kind of showed you how everything works? Okay. And then when you start at Southern Mentality, I'm sure you'll just create an account with your email address from Southern Mentality.
+keneisha duncan: And.
+Christopher Hume: Oh, do you. You have an account already?
+keneisha duncan: Yes.
+Christopher Hume: Oh, well, then perfect. All right, could you actually pull it up, and I can. I can walk you through how to use the software?
+keneisha duncan: Okay.
+Christopher Hume: Okay, I'm pulled up, and you're on the JOT Psych homepage.
+keneisha duncan: Kenesha, you say if I'm on the page.
+Christopher Hume: Yeah, the JOT Psych page.
+keneisha duncan: Yeah, I'm talking to you on my phone, but I have my laptop open.
+Christopher Hume: Okay, perfect. So if you're looking at the. At JOT Psych, you see the. I can walk you through and make sure we look at the same thing. So you see record and Encounter. Request payment. Manage patient profiles. Do you see all of that?
+keneisha duncan: Yes, I have Record, encounter, review and sign notes. Manage patient profile. Perfect. Explore administrative tools.
+Christopher Hume: Could you click on Record Encounter, please?
+Christopher Hume: Okay, so that will bring you to the JOT Psych recording screen. And on the left hand side, you should see patient type.
+keneisha duncan: Do you see that? You say on the left, I should see patient and session type.
+Christopher Hume: So patient. That's where you select your patient. So you can go in there. I think you should have an option. Option for Alfred Appleseed. Do you see him?
+keneisha duncan: Oh, you said Alford.
+Christopher Hume: And if not, that's not a problem. You can always add a patient, too.
+keneisha duncan: Do you want me to add a new patient?
+Christopher Hume: Yeah, let's add a new patient. Let's just do an example patient, just so you see how it works.
+keneisha duncan: Okay. Okay.
+Christopher Hume: And then beneath that, you do your session. You can select your session type.
+keneisha duncan: Give me one second.
+Christopher Hume: Of course.
+keneisha duncan: Okay, so I select this session. Intake.
+Christopher Hume: So you select intake. And then you'll see on the right hand side, there's a big purple button that says record to circle. So you can press that and we can just do like a quick. Well, I'm actually not sure if your computer can hear me, but why don't you just press record and then just say something like, patient came in with anxiety. I prescribed 10 milligrams of.
+keneisha duncan: Okay, patients came in for a psychiatric intake. Patient complaint of ongoing depression. I'm thinking about prescribing 15 milligrams of Zola.
+Christopher Hume: Perfect. And then you can press stop. And then now you should see a button that says generate note.
+Christopher Hume: Yes, just push the generate note button. This will be a pretty.
+Christopher Hume: A pretty limited note given, but it'll show you how the process works. And so is it generating now?
+keneisha duncan: It said done. Okay, perfect. I'm at summary chief complaint. And then. Okay, I'm seeing HPI medication. So question. So. Is this. So probably I need to ask my employer this, but we'll be using like, intake or practice queue. I'm not sure if you're aware of that. Ehr. I should have jump, like open and one computer. And how do I transfer it to.
+Christopher Hume: Great question. So right now there's a. There's two ways. So on the top or the top right ish of your screen, it'll say copy all sections. Do you see that? Yes. So that's how you can copy everything. And then above each section, on the top right, there's a button that says copy, so you can copy each section individually.
+keneisha duncan: Okay.
+Christopher Hume: Kenesha, I'm sorry. I do unfortunately have to drop right at 1:15.
+keneisha duncan: So there's one last.
+Christopher Hume: One last thing I wanted to show you. So there's. I don't know the structure that Southern mentality has for their notes or what your ehr looks like, but there's two things you can edit. So on the right hand side, you see the AI Note assistant button, or the. It says AI Note assistant.
+keneisha duncan: On the right is that other Bible markets I'm not seeing. Oh, okay.
+Christopher Hume: Well, then actually, next to copy all sections, it says sign note. And then next to that, there's these sparkles. Do you see those sparkles?
+keneisha duncan: Yes.
+Christopher Hume: Press those sparkles.
+Christopher Hume: Okay, so in that bar. So now down at the bottom of that box says, describe how you'd like this note changed. You could say something like, make the summary section shorter. Make the chief complaint include quotes. Make the whole note more robust. And that's how you can edit the note. So it's kind of exactly lined up with what you're looking for.
+keneisha duncan: So you should. I should go to edit notes section. That's where you're talking The.
+Christopher Hume: The AI Note assistant. Is that what you're seeing?
+keneisha duncan: I see when I press it to open.
+Christopher Hume: And if I can. Yeah, that'd be so helpful.
+keneisha duncan: I don't know how to turn this around.
+Christopher Hume: You can probably just turn the phone around. I'm sure I figure it out. Oh, okay. So, yeah. Could you press the sparkles again? I'm sorry. There you go. And so now you can just type in that bottom box any changes you'd like made to the note.
+keneisha duncan: Yep. Okay. Got you. Okay. Understand.
+Christopher Hume: And then the last thing is on the top left. You'll see kind of the patient name.
+Christopher Hume: And then beneath that, you'll see the template.
+keneisha duncan: Yes.
+Christopher Hume: To the right of that, you'll see an Edit template button. So if you need to make changes to the template, you're like, what the heck? Why does Jetsych have this section in here? You can press Edit Template, and then you can actually remove, rearrange, or add sections.
+keneisha duncan: Okay. Okay. Thank you.
+Christopher Hume: You're so welcome. And I'm sorry this is a little bit of a speedrun, Kenesha, but it helped. It's wonderful. Well, when you get up and running, if you have any questions, you can just schedule more time with us, and we're here to help.
+keneisha duncan: Perfect. Thank you so much.
+Christopher Hume: Wonderful. Have a great weekend. Happy Friday.
+keneisha duncan: Thank you.

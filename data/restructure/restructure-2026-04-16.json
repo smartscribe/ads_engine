@@ -1,0 +1,220 @@
+{
+  "date": "2026-04-16",
+  "new_farm_campaign_id": "120245455503210548",
+  "new_scale_campaign_id": "120245455503370548",
+  "old_campaigns": {
+    "Farm: Testing - Apr 2026": "120244893415260548",
+    "Scale: Winners - Apr 2026": "120244893372330548",
+    "Scale": null
+  },
+  "adset_ids": {
+    "Billing & Audit": "120245455503860548",
+    "Time Savings": "120245455504270548",
+    "EHR Integration": "120245455505010548",
+    "UGC / Social Proof": "120245455505420548",
+    "AI Progress Concepts": "120245455505970548"
+  },
+  "ad_copies": [
+    {
+      "ad_name": "Scale: Test: AI for Progress Notes: Concept 4",
+      "old_id": "120244893523650548",
+      "new_id": null,
+      "error": "{'error': {'message': 'Invalid parameter', 'type': 'OAuthException', 'code': 100, 'error_subcode': 1815149, 'is_transient': False, 'error_user_title': 'Objective Mismatch', 'error_user_msg': 'Ad set can not be copied into Farm: Testing - Q226 because it uses a different objective.', 'fbtrace_id': 'AFRK_u0Sy4NIKVmk7XBRSwR'}}"
+    },
+    {
+      "ad_name": "Scale: Test: AI for Progress Notes Concept 3",
+      "old_id": "120244893521800548",
+      "new_id": null,
+      "error": "{'error': {'message': 'Invalid parameter', 'type': 'OAuthException', 'code': 100, 'error_subcode': 1815149, 'is_transient': False, 'error_user_title': 'Objective Mismatch', 'error_user_msg': 'Ad set can not be copied into Farm: Testing - Q226 because it uses a different objective.', 'fbtrace_id': 'ANJwVwZucl35FHMf7iXp-35'}}"
+    },
+    {
+      "ad_name": "AJ: How Much Did You Underbill?",
+      "old_id": "120244894242480548",
+      "new_id": null,
+      "error": "{'error': {'message': 'Invalid parameter', 'type': 'OAuthException', 'code': 100, 'error_subcode': 1815149, 'is_transient': False, 'error_user_title': 'Objective Mismatch', 'error_user_msg': 'Ad set can not be copied into Farm: Testing - Q226 because it uses a different objective.', 'fbtrace_id': 'AHMsH3SVoFfzbtI4J9pZwTn'}}"
+    },
+    {
+      "ad_name": "AJ: Audit Letter Arrives. You're Ready",
+      "old_id": "120244894239200548",
+      "new_id": null,
+      "error": "{'error': {'message': 'Invalid parameter', 'type': 'OAuthException', 'code': 100, 'error_subcode': 1815149, 'is_transient': False, 'error_user_title': 'Objective Mismatch', 'error_user_msg': 'Ad set can not be copied into Farm: Testing - Q226 because it uses a different objective.', 'fbtrace_id': 'AeB1BcjcCaG_qr7b9dG8VEi'}}"
+    },
+    {
+      "ad_name": "AN: 847 Ways payers reject claims",
+      "old_id": "120244894286760548",
+      "new_id": null,
+      "error": "{'error': {'message': 'Invalid parameter', 'type': 'OAuthException', 'code': 100, 'error_subcode': 1815149, 'is_transient': False, 'error_user_title': 'Objective Mismatch', 'error_user_msg': 'Ad set can not be copied into Farm: Testing - Q226 because it uses a different objective.', 'fbtrace_id': 'A3JBnWckucVY9tSxqXXVbEv'}}"
+    },
+    {
+      "ad_name": "AN: Missing $460?",
+      "old_id": "120244894265260548",
+      "new_id": null,
+      "error": "{'error': {'message': 'Invalid parameter', 'type': 'OAuthException', 'code': 100, 'error_subcode': 1815149, 'is_transient': False, 'error_user_title': 'Objective Mismatch', 'error_user_msg': 'Ad set can not be copied into Farm: Testing - Q226 because it uses a different objective.', 'fbtrace_id': 'Acab-qBcheQ1S90wnSpvh37'}}"
+    },
+    {
+      "ad_name": "AN: 47 Different Payer Rules",
+      "old_id": "120244894280990548",
+      "new_id": null,
+      "error": "{'error': {'message': 'Invalid parameter', 'type': 'OAuthException', 'code': 100, 'error_subcode': 1815149, 'is_transient': False, 'error_user_title': 'Objective Mismatch', 'error_user_msg': 'Ad set can not be copied into Farm: Testing - Q226 because it uses a different objective.', 'fbtrace_id': 'A5WphRV2fcXPKDkxZILPj6G'}}"
+    },
+    {
+      "ad_name": "AN: Stop leaving your practice exposed to audit risk",
+      "old_id": "120244894273890548",
+      "new_id": null,
+      "error": "{'error': {'message': 'Invalid parameter', 'type': 'OAuthException', 'code': 100, 'error_subcode': 1815149, 'is_transient': False, 'error_user_title': 'Objective Mismatch', 'error_user_msg': 'Ad set can not be copied into Farm: Testing - Q226 because it uses a different objective.', 'fbtrace_id': 'AM0ah8f0tf_JjUj2gF5Goma'}}"
+    },
+    {
+      "ad_name": "AJ: Audit Letter Arrives. You're Ready - Copy",
+      "old_id": "120245348000430548",
+      "new_id": null,
+      "error": "{'error': {'message': 'Invalid parameter', 'type': 'OAuthException', 'code': 100, 'error_subcode': 1815149, 'is_transient': False, 'error_user_title': 'Objective Mismatch', 'error_user_msg': 'Ad set can not be copied into Farm: Testing - Q226 because it uses a different objective.', 'fbtrace_id': 'A2Q5tTzmXB75C_EmVra1Wj5'}}"
+    },
+    {
+      "ad_name": "AJ: Audit Ready. Home On Time",
+      "old_id": "120244894248240548",
+      "new_id": null,
+      "error": "{'error': {'message': 'Invalid parameter', 'type': 'OAuthException', 'code': 100, 'error_subcode': 1815149, 'is_transient': False, 'error_user_title': 'Objective Mismatch', 'error_user_msg': 'Ad set can not be copied into Farm: Testing - Q226 because it uses a different objective.', 'fbtrace_id': 'A7P_grAmnXcURg95tNWhipF'}}"
+    },
+    {
+      "ad_name": "AN: The Work. The Bill",
+      "old_id": "120244894294330548",
+      "new_id": null,
+      "error": "{'error': {'message': 'Invalid parameter', 'type': 'OAuthException', 'code': 100, 'error_subcode': 1815149, 'is_transient': False, 'error_user_title': 'Objective Mismatch', 'error_user_msg': 'Ad set can not be copied into Farm: Testing - Q226 because it uses a different objective.', 'fbtrace_id': 'ANkDnEIMb0eYyW6lUgWnJ5k'}}"
+    },
+    {
+      "ad_name": "AN: Scribe that Thinks Like an Auditor",
+      "old_id": "120244894285290548",
+      "new_id": null,
+      "error": "{'error': {'message': 'Invalid parameter', 'type': 'OAuthException', 'code': 100, 'error_subcode': 1815149, 'is_transient': False, 'error_user_title': 'Objective Mismatch', 'error_user_msg': 'Ad set can not be copied into Farm: Testing - Q226 because it uses a different objective.', 'fbtrace_id': 'ASrtmje-T6qFATUCSqsWKSd'}}"
+    },
+    {
+      "ad_name": "AN: Most Stop at the Note",
+      "old_id": "120244894261030548",
+      "new_id": null,
+      "error": "{'error': {'message': 'Invalid parameter', 'type': 'OAuthException', 'code': 100, 'error_subcode': 1815149, 'is_transient': False, 'error_user_title': 'Objective Mismatch', 'error_user_msg': 'Ad set can not be copied into Farm: Testing - Q226 because it uses a different objective.', 'fbtrace_id': 'ACUL2AnJqfzvYrO9YWGu8KZ'}}"
+    },
+    {
+      "ad_name": "AN: Insurance Game Has Rules",
+      "old_id": "120244894268180548",
+      "new_id": null,
+      "error": "{'error': {'message': 'Invalid parameter', 'type': 'OAuthException', 'code': 100, 'error_subcode': 1815149, 'is_transient': False, 'error_user_title': 'Objective Mismatch', 'error_user_msg': 'Ad set can not be copied into Farm: Testing - Q226 because it uses a different objective.', 'fbtrace_id': 'A5mXS3t9zUTD6GlbqeasCzT'}}"
+    },
+    {
+      "ad_name": "AN: JotAudit Catches What Others Miss",
+      "old_id": "120244894262550548",
+      "new_id": null,
+      "error": "{'error': {'message': 'Invalid parameter', 'type': 'OAuthException', 'code': 100, 'error_subcode': 1815149, 'is_transient': False, 'error_user_title': 'Objective Mismatch', 'error_user_msg': 'Ad set can not be copied into Farm: Testing - Q226 because it uses a different objective.', 'fbtrace_id': 'Akqrp0qYqpEjRP7PjUXKRCA'}}"
+    },
+    {
+      "ad_name": "AN: E-prescribe from scribe",
+      "old_id": "120244894258170548",
+      "new_id": null,
+      "error": "{'error': {'message': 'Invalid parameter', 'type': 'OAuthException', 'code': 100, 'error_subcode': 1815149, 'is_transient': False, 'error_user_title': 'Objective Mismatch', 'error_user_msg': 'Ad set can not be copied into Farm: Testing - Q226 because it uses a different objective.', 'fbtrace_id': 'AEJ4kSV53hJYLGmCuK7J5D7'}}"
+    },
+    {
+      "ad_name": "AN: Audit Anxiety vs. Confidence",
+      "old_id": "120244894253920548",
+      "new_id": null,
+      "error": "{'error': {'message': 'Invalid parameter', 'type': 'OAuthException', 'code': 100, 'error_subcode': 1815149, 'is_transient': False, 'error_user_title': 'Objective Mismatch', 'error_user_msg': 'Ad set can not be copied into Farm: Testing - Q226 because it uses a different objective.', 'fbtrace_id': 'AJarQJ-oqxGN_k2PcxQG6nx'}}"
+    },
+    {
+      "ad_name": "AN: Cigna vs. Aetna Rules",
+      "old_id": "120244894252000548",
+      "new_id": null,
+      "error": "{'error': {'message': 'Invalid parameter', 'type': 'OAuthException', 'code': 100, 'error_subcode': 1815149, 'is_transient': False, 'error_user_title': 'Objective Mismatch', 'error_user_msg': 'Ad set can not be copied into Farm: Testing - Q226 because it uses a different objective.', 'fbtrace_id': 'AiMF45SJRBgM_QTNI9cS5G4'}}"
+    },
+    {
+      "ad_name": "AN: Doing 99214, Billing 99213",
+      "old_id": "120244894282380548",
+      "new_id": null,
+      "error": "{'error': {'message': 'Invalid parameter', 'type': 'OAuthException', 'code': 100, 'error_subcode': 1815149, 'is_transient': False, 'error_user_title': 'Objective Mismatch', 'error_user_msg': 'Ad set can not be copied into Farm: Testing - Q226 because it uses a different objective.', 'fbtrace_id': 'A5AYdaQ7MESgqhSizEahea9'}}"
+    },
+    {
+      "ad_name": "AN: 4 Different Logins",
+      "old_id": "120244894250150548",
+      "new_id": null,
+      "error": "{'error': {'message': 'Invalid parameter', 'type': 'OAuthException', 'code': 100, 'error_subcode': 1815149, 'is_transient': False, 'error_user_title': 'Objective Mismatch', 'error_user_msg': 'Ad set can not be copied into Farm: Testing - Q226 because it uses a different objective.', 'fbtrace_id': 'A3KXd925HSM-0NMzizZ8j1C'}}"
+    },
+    {
+      "ad_name": "AN: Your Notes Are Perfect - Insurance Doesnt Care - Copy",
+      "old_id": "120244896541130548",
+      "new_id": null,
+      "error": "{'error': {'message': 'Invalid parameter', 'type': 'OAuthException', 'code': 100, 'error_subcode': 1815149, 'is_transient': False, 'error_user_title': 'Objective Mismatch', 'error_user_msg': 'Ad set can not be copied into Farm: Testing - Q226 because it uses a different objective.', 'fbtrace_id': 'AdOaOVl7t7UdubYfzDU85lV'}}"
+    },
+    {
+      "ad_name": "AJ: Cigna Has Rules. JotPsych Knows Them - Copy",
+      "old_id": "120244896519790548",
+      "new_id": null,
+      "error": "{'error': {'message': 'Invalid parameter', 'type': 'OAuthException', 'code': 100, 'error_subcode': 1815149, 'is_transient': False, 'error_user_title': 'Objective Mismatch', 'error_user_msg': 'Ad set can not be copied into Farm: Testing - Q226 because it uses a different objective.', 'fbtrace_id': 'ALcH8xDI6Ak_YoBF23SDeyE'}}"
+    },
+    {
+      "ad_name": "Farm: EHR V2",
+      "old_id": "120244893439020548",
+      "new_id": null,
+      "error": "{'error': {'message': 'Invalid parameter', 'type': 'OAuthException', 'code': 100, 'error_subcode': 1815149, 'is_transient': False, 'error_user_title': 'Objective Mismatch', 'error_user_msg': 'Ad set can not be copied into Farm: Testing - Q226 because it uses a different objective.', 'fbtrace_id': 'A9589sSlf0ScsCTRpwU3h6p'}}"
+    },
+    {
+      "ad_name": "Scale: PDF to Template",
+      "old_id": "120244893524990548",
+      "new_id": null,
+      "error": "{'error': {'message': 'Invalid parameter', 'type': 'OAuthException', 'code': 100, 'error_subcode': 1815149, 'is_transient': False, 'error_user_title': 'Objective Mismatch', 'error_user_msg': 'Ad set can not be copied into Farm: Testing - Q226 because it uses a different objective.', 'fbtrace_id': 'AwToiWuD2nOY4UG6P34PYlK'}}"
+    },
+    {
+      "ad_name": "Farm: Test: AI for Progress: Concept 2",
+      "old_id": "120244893532270548",
+      "new_id": null,
+      "error": "{'error': {'message': 'Invalid parameter', 'type': 'OAuthException', 'code': 100, 'error_subcode': 1815149, 'is_transient': False, 'error_user_title': 'Objective Mismatch', 'error_user_msg': 'Ad set can not be copied into Farm: Testing - Q226 because it uses a different objective.', 'fbtrace_id': 'ARU76-cqtvlvrK1srZpu9Z0'}}"
+    },
+    {
+      "ad_name": "Farm: Nate Podcast 4 - ad",
+      "old_id": "120244893449570548",
+      "new_id": null,
+      "error": "{'error': {'message': 'Invalid parameter', 'type': 'OAuthException', 'code': 100, 'error_subcode': 1815149, 'is_transient': False, 'error_user_title': 'Objective Mismatch', 'error_user_msg': 'Ad set can not be copied into Farm: Testing - Q226 because it uses a different objective.', 'fbtrace_id': 'Ad3yTem0wrEbk0LCe7R-pZW'}}"
+    },
+    {
+      "ad_name": "Scale: AI for Progress Notes",
+      "old_id": "120244893526570548",
+      "new_id": null,
+      "error": "{'error': {'message': 'Invalid parameter', 'type': 'OAuthException', 'code': 100, 'error_subcode': 1815149, 'is_transient': False, 'error_user_title': 'Objective Mismatch', 'error_user_msg': 'Ad set can not be copied into Farm: Testing - Q226 because it uses a different objective.', 'fbtrace_id': 'A_txfSVTC8ae27sNXNtMV_G'}}"
+    },
+    {
+      "ad_name": "Farm: Test: Florence Static 1 - Notes Complete",
+      "old_id": "120244893533780548",
+      "new_id": null,
+      "error": "{'error': {'message': 'Invalid parameter', 'type': 'OAuthException', 'code': 100, 'error_subcode': 1815149, 'is_transient': False, 'error_user_title': 'Objective Mismatch', 'error_user_msg': 'Ad set can not be copied into Farm: Testing - Q226 because it uses a different objective.', 'fbtrace_id': 'ArTYnQGeG7OMtAwQJLn1eN4'}}"
+    },
+    {
+      "ad_name": "Farm: Test: KM UGC - Video Concept 2",
+      "old_id": "120244893444770548",
+      "new_id": null,
+      "error": "{'error': {'message': 'Invalid parameter', 'type': 'OAuthException', 'code': 100, 'error_subcode': 1815149, 'is_transient': False, 'error_user_title': 'Objective Mismatch', 'error_user_msg': 'Ad set can not be copied into Farm: Testing - Q226 because it uses a different objective.', 'fbtrace_id': 'A-v3vHePJHEUxm8tlrNY9Zj'}}"
+    },
+    {
+      "ad_name": "Scale: Test: KM UGC - Video Concept 1",
+      "old_id": "120244893408410548",
+      "new_id": null,
+      "error": "{'error': {'message': 'Invalid parameter', 'type': 'OAuthException', 'code': 100, 'error_subcode': 1815149, 'is_transient': False, 'error_user_title': 'Objective Mismatch', 'error_user_msg': 'Ad set can not be copied into Farm: Testing - Q226 because it uses a different objective.', 'fbtrace_id': 'AAsozTwWtquI7amVjhWkD9l'}}"
+    }
+  ],
+  "audiences": {
+    "include": [
+      {
+        "id": "120245449291240548"
+      },
+      {
+        "id": "120245449291800548"
+      },
+      {
+        "id": "120245449282540548"
+      }
+    ],
+    "exclude": [
+      {
+        "id": "120245449282160548"
+      },
+      {
+        "id": "120244895647380548"
+      }
+    ]
+  }
+}

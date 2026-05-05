@@ -1,0 +1,106 @@
+Becca Bressler: Okay. I'm super pumped that your game to try. Telehealth. I need to walk you through how it works. Of course. So let me get you set up with it right now, though, so that I can do that. Let me just see. Your account. Dnet circle. Organization. And I'll be asking you to refresh your screen in a second just to make sure. This is captured. But let's see. Feature gate. Dean. How do you guys use telehealth now? Is it built into your. It's probably built into your ehr, right?
+Dean Gainey: No.
+Becca Bressler: Oh, it's not.
+Dean Gainey: It is. It is. But I opted out of using it because of certain limitations.
+Becca Bressler: Oh, okay. What were the limitations?
+Dean Gainey: Yeah. So with athena health. I use doxy. And I think it's probably easier to explain what I appreciate about doxy that much. So, like with doxy, my telehealth link always remains the same. So like, patients can bookmark it can. And save it for later. So and, and then, and there is a waiting room. So like. Let's say if a patient comes into goes into the doxylink, they'll be in the waiting room before the meeting starts. So they don't like barge in and someone else's appointment. You can, you can of course share screen. Ask the person to share a screen. You can within doxy. So like if they haven't here the pro account, right?
+Becca Bressler: It's like 30amonth or 35amonth.
+Dean Gainey: I paid paid for the. Clinic one. Yeah, and my account is. Really expensive and.
+Becca Bressler: Oh, is it?
+Dean Gainey: Yeah.
+Becca Bressler: So I think it's 50amonth per provider.
+Dean Gainey: Maybe 45. Actually, I'm not sure. But it's a. It's a lot. I think it might be going down, but. But, you know, that's like. It's super user friend. So, like, I guess, yeah, they go into their waiting room, which they can completely customize. You have this telehealth link that always stays the same.
+Dean Gainey: So if, let's say if they are running late, I can just like quickly send it to them via text. Email. There's also ways there's also other cool features, so some telehealth tools like a whiteboard screen share. I don't use the whiteboard too much screen share. I do use you can also make it when you're in a call with something, someone. You can make it a group call and add someone else that's in the waiting room.
+Becca Bressler: Dean, what's the kind of what's the type of thing that you would screen share in a in a visit.
+Dean Gainey: Yeah. So I find myself, if we're talking about, like, a resource or going through, like, a worksheet or something, it's a lot easier to do it together. Or navigate. Yeah, or. Or. They see it visually.
+Becca Bressler: That makes sense. So. But it seems like maybe the same link is, like, where you get the most value from it, like, what makes it worth paying for the most? Or. Or would you say that's not even true? It's the collection of all of these things that makes it.
+Dean Gainey: Worth it. Yeah. So if I. If I have to summarize the. What the most value would be the same link and the waiting room.
+Becca Bressler: Yeah.
+Dean Gainey: And also this. I think the screen share is pretty important. And group call, Group call.
+Becca Bressler: Do you. Is there a chat, like in visit Chat?
+Dean Gainey: Yeah.
+Becca Bressler: Do you use that?
+Dean Gainey: Yeah. So, like, if someone is in the waiting room and I'm, like, running a little bit behind, That I just say, like, hey. Be right with you in five minutes.
+Becca Bressler: Got it.
+Dean Gainey: And so I don't have to, like, you know, go to a separate platform to, like. Yeah, they're. They're already on the platform.
+Becca Bressler: Is there a chat, like, with the person? Kind of like how I can chat you right now and Google me. Does that. Do you ever use it with doxy, like, in. A setting or.
+Dean Gainey: Yeah. Yeah. Yeah, we do. It's not like. It's usually to, like, exchange info. Easier.
+Becca Bressler: Like send a link to a resource.
+Dean Gainey: But. But I do use the chat a lot. With someone in the waiting room and stuff. Another thing, like, with group. With group. My group practice. So, like, let's say if. Someone, for some reason, happens to, like, just be on my doxy link. It could be for various reasons like but instead of another providers, you can. You can transfer the patient to that other provider's waiting room. There is also you can have what's called a shared waiting room. So, like me and you can monitor one waiting room. The same waiting room. And that's useful for like. Like, let's say you have, like, walk in. Services. So walk in. Telehealth Services. But I've seen clinics use it for that. Too.
+Becca Bressler: Why would it be important that two people can monitor the same room, though?
+Dean Gainey: So. Yeah, so. Let's say if you have, like, walk in telehealth. And. And you have a patient that comes in, and then you have another patient come in five minutes later. Well, you can't see both patients. And so, like, yeah, yeah, yeah.
+Becca Bressler: Got it. Okay. And they might be in the same waiting room, but they don't see each other. They, like, have their own. Yeah, right.
+Becca Bressler: But it's a room that. Got it. Okay, so this is super helpful. Our telehealth lacks a lot of the things that you're describing, which makes it not ideal for, like, you in terms of transitioning over to it. That said, there's, like, I would love it if you could use it. With a few for the. For the sake of just kind of making sure it works, you know, like, if there are. If you'd be willing to. So can you get jot psych up, and I can kind of walk you through how to. Okay. How this works, so. So the key thing about our waiting room is a couple of things. So our telehealth. So it's not the same. And you don't have to actually add it to your plan yet. I think you'll just get it, but go to your schedule. The key thing about our telehealth, we're using a third party provider for the platform and so we're kind of like paying per minute and clinician and all to say you don't have the same link every single time. It's a link that's created with the appointment, so. Every appointment has its own room, kind of, if that makes sense. But a key thing to know about it is the room is only, like, open. Within a 15 minute window of the calendar event. So, like, if you create, if we, like, create a calendar event for you and me right now, that starts at. 12, not even 12 30 because it won't be open. But we could test it. Yeah. I mean, let's actually do. Oh, it's 10 your time. Let's do 10. Just so we can see what it's like. Put it on for 10 45, and you'll see what it'll look like. If we try and go to it. Yeah, let's try that. Let's save it. And if you click it, let's see what happens if you see it. You might not even see it. So go to start recording. Yeah. So. So you'll see right now, like on your jot psych, like the room's not open because it's not within 15 minutes. But the way that this works, if you go back to your schedule for a second and we actually. Schedule it for now so you and I can sort of walk through. Oh, but. Okay. Crucially, Dean, this is something we're going to fix or build. But crucially, the link doesn't work. If you drag it. If you drag it to another time, like the timing of it is still set to whenever you first created it. So you'll have to create a new appointment for the actual time of the visit. So let's go there. And start recording. So, yeah, you need to start recording and join call.
+Dean Gainey: But I think here, too, is.
+Becca Bressler: The way that it gets sent to the patient is through the appointment reminder. Like the patient gets the link that way. So you'll be able to access it right here. But so can we go create an account and, like, I can be a test patient so we can just, like, play around with this. And, like, let's test this in the workflow for you. So, like, you create a, you know, an appointment with me, and let's make it, you know, now so that we can practice. But then, like, you know, adding in my phone number and, like, appointment. Stuff.
+Dean Gainey: I'll, I'll be honest. I don't use the scheduling feature much. Just because of the limitations with. How this carries forward to this and kind of. Confuses me a little bit. But I will. Put this. Background.
+Becca Bressler: And here, let me give you my number for this. So 925. 451. 0337. And then I think what this means is, like. You're, there's probably an appointment reminder needed, but let's see what happens when you hit save. Like, do I get a text?
+Dean Gainey: It's scheduled for 10 30. So that's probably.
+Dean Gainey: Yeah, let's do it now.
+Becca Bressler: I think you might need to. Set up a reminder here. So let's, like, add a reminder.
+Dean Gainey: I wonder if that you guys get do confirmation of mine. There's. That would be.
+Becca Bressler: Yeah, we do. Oh, confirmations. Like if a patient, I think that is something we do, like a patient would get it and then confirm. But so let's hit start recording. So how am I this link? Is the question. Can you go back to the recording and let's see. There should be like a share link that shows up. If you go back to the recording.
+Dean Gainey: I think. I don't know. Do I need to, like, enable, like, text reminders so you get it?
+Becca Bressler: So, yes, but there should be a share link here also so that you can just, like, send it to a patient. So hit join call for a second and let's see what happens. Oh, there we go. So send invite. So what happens when you click that? So set notification sent to patient. I think you probably want to see that even before you join, right? Like, you don't want to have to join the call to send a link to your patient if they need it.
+Dean Gainey: Yeah, I think, I think having it on both screens makes sense. Because, yeah, sometimes. Yeah, having a both screens, whether you're in it or not in it makes sense. I think. Also. For, like, appointments booked. Oh, here it is.
+Becca Bressler: I actually got kicked out, or it actually kicked you out. But I'm still here. So that's interesting. I wonder why the picture in picture doesn't work. Can you go back to record session? Join session. Here. Oh, you have to, like, manually select it. Now let's try going to another tab and see what happens. I think you still let it still. It didn't work is what this seems like picture in picture didn't work. Okay, try joining again. Okay, so this is good feedback because picture in picture clearly doesn't work yet. And interestingly, now you can't share it. Oh, I guess you can't share it once you've. What happens if I leave? Okay, so then you can send it to me again, but you can't send it to a third party, it seems like, which you would probably want to be able to do if you can include another person. Which that is something we're building, actually, the ability to have another person join, but this isn't the current version of it. What is your sense, Dean, of it being here in your workflow, like on this page?
+Dean Gainey: Oh. I think. Man. I I would love to meet with your UI person, but I think this should be more maybe on the right hand side. Okay. And, you know, that way, you know, the buttons you need are all in one area, because this is now extremely long. Yeah. Now, I do find myself sometimes, like the last encounter. Like this whole thing needs to be, can be. I talked to Jackson about it regarding e prescribing and tying medications to diagnoses is easier. But a lot of times I find myself, you know, going back to, like, the profile, you know, reference a pass note or something.
+Becca Bressler: But because the summary is not enough for you. You don't want just the summary. You want the full note to access is what you're saying.
+Dean Gainey: Yeah. Yeah. Or, you know, there's like, how about this? Like, you know, you have, you have, like, you can access the note by, like, a pane that, like, pops out right here or something or that rather than having to go all the way back. But, but, yeah. So this having so 90, I'm sure, like 99 of jot psych users who are recording a session or using job site, spend most the majority of the time. On, on this screen. So, so it being here makes sense, it being able to minimize and, you know, as you cross over. Yeah. Yeah. It would be great. And then the ability to, you know, move that window wherever so it doesn't block it, obstruct any view as you navigate different pages.
+Becca Bressler: Wait, say that. Oh, so it's not just picture in picture, but you can move it around, like with Google meat is what you're saying.
+Dean Gainey: Yeah, exactly. That way. You know, you're not, you're not limited to what you can see on certain pages.
+Becca Bressler: Like, got it. So if we go back for a second to the recorder, so it sounds like what you would want is for it to be underneath the record on the right side. Yeah. It's so tricky because, like, the way the page is structured is like, there's like a wider block on the left side and a narrower block on the right, as you can kind of see these columns, you know, almost. So it's a good point, though, because it just makes that kind of unruly.
+Dean Gainey: Make the, well, then just move it all to the left.
+Becca Bressler: What do you mean move it all to the left?
+Dean Gainey: Move this and this to the left then.
+Becca Bressler: Oh. Oh, no, I'm just saying getting a block that big. Like, I don't know that we could have, like, the notepad and the telehealth. Block in the same size next to each other. Do you know what I mean? Like, if you see how narrow start and recording is. It's like we have two columns on the page and, like, the left column allows for, like wider stuff and the right column allows for narrower stuff. But so, yeah, it's definitely like a puzzle of how to then.
+Dean Gainey: Make. Do you know what I mean? Well, I. Yeah. I see what you mean.
+Becca Bressler: But no, you're definitely raising, like, a real concern, though, for sure.
+Dean Gainey: Really?
+Becca Bressler: And you wouldn't want this to be another pop out, though, right? Or would you, would you want it to be something that, like, is not on the page, but, like, pops out that you can move around?
+Dean Gainey: You know, that would fix that roadblock. You're, like, making the page too crowded. It would be nice if that pop out auto populates in a blank space, and you can kind of like, you know, expand, like, kind of like you can do with Google meets.
+Becca Bressler: Like, you can move it around,
+Dean Gainey: like, move it around or, like, you know, let me try. Do this real quick. Like how you see where you see my screen.
+Becca Bressler: You can. Yeah. Right. But what do you think about the workflow of, like. It being in a different pop-up so, like, you are on jot psych, but then you have this, like, telehealth thing versus, like, is there any benefit to being to it being baked into, like, the page?
+Dean Gainey: When you say a different pop-up you're not referring to a different tab, are you?
+Becca Bressler: I'm not referring to a different tab, but I'm referring to, like, if you imagine, like, this thing that you're dragging around right now, right, for goo meat, if you imagine that's our telehealth, like, that's what you're seeing. Is there a benefit to, like, that's like a version in my head where I'm like, oh, our telehealth is a pop up. Like, that's all it is. But is there something we'd be losing in your mind by it not being, like, baked into the page?
+Dean Gainey: Nothing that stands out.
+Becca Bressler: Got it. Like it being a separate thing. From a workflow perspective does not like, in your mind, increase friction in any kind of way.
+Dean Gainey: No, no, just make it pop out. In an area that makes sense.
+Becca Bressler: And.
+Becca Bressler: And then you can expand it as you see fit, kind of.
+Dean Gainey: Or. Yeah. You know, everyone. Everyone has their preference on how, like, much they want to see of the client, but, like, you know how you have this as, like, full screen picture. How about, like a, you know, a small medium large setting? I don't know.
+Becca Bressler: But how much do you like it when you're seeing a patient?
+Dean Gainey: It honestly, it honestly depends on how. Much. Like, how much I have to go in their chart and, like, do other things. Sometimes. Sometimes I just have them on a different tab and don't even see them a lot of times. Yeah. But if I, let's say if I. Am on the same page, you know, I think the size that you see now is fine. Or are actually, let me stop sharing my screen so I can get a better. C. I want to see.
+Becca Bressler: Me.
+Dean Gainey: Honestly, it doesn't even have to be that big. Let me look at it on my laptop. To be honest with you, this is my, my laptop size and, like. Yeah. Dude, this is the only. This is good enough. If I, I wish I just. I wish I could show you, but, like.
+Becca Bressler: Totally as much as you would need to see.
+Dean Gainey: Yeah, even less, honestly. But, but it's enough to fit in this white space.
+Becca Bressler: And then you can expand if you want, basically.
+Dean Gainey: Yeah. Like, have, like, a small, medium, large quick button or something. Or, I don't know.
+Becca Bressler: But. Okay.
+Dean Gainey: But the pop out looks, I think, the pop out. Would.
+Becca Bressler: You. So there, you're giving me great feedback. Would you be willing to try this with a couple users despite what you're saying? Just help us make sure that it's, like, working on both ends. And, like, easy enough. Is that okay?
+Dean Gainey: Yeah, of course.
+Becca Bressler: And, and the way, like, this might not work now if you're doing it for upcoming patient appointments, but, like, if you're sending reminders, like an hour before or a day before, it will send the and you click telehealth and the appointment, it will send the link. I know it sounds like you don't use our calendar to send things to your patients, but in order to get yourself a telehealth room, you do need to book a calendar appointment. So just a note for you up to you how you want to, like, share it with a patient. But, yeah, we would love it if you would just. I don't know if you have anyone you're seeing today or Monday. Like, obviously the sooner the better for us feedback wise. But. But, yeah, this would be super helpful.
+Dean Gainey: As far as feedback goes. Because what do you want me to focus on specifically? Because I can. Because, you know, feedback can also segue into, like, other.
+Dean Gainey: Things about, and I don't want to.
+Becca Bressler: No, no, I think. I think kind of anything related to your experience with this particular feature, like you've given me a lot already and there's clearly some limitations like that you're going to not do because of it. Like, you're probably not going to switch tabs in jot psych while using it because we just discovered it doesn't persist, you know? And so, like, that is feedback that I now know and can take back, but, like, if it feels glitchy or the patient, you can't really hear the patient or if the patient is like, I'm sorry, I can't log on. Can you, like, help me log on? Like, there's, like, the technical pieces of it, too, that we would love to know, just like our smooth. Yeah.
+Dean Gainey: You know, I was just thinking how difficult, you know how when you have Google meets on a different tab and it automatically pops up as a separate window, how difficult is that?
+Becca Bressler: Because, like, as a, I'm going to ask our team, like, it's so useful as a tool for sure.
+Dean Gainey: It is incredibly useful because I can tell you, like, during a meeting, I probably have, like, a bunch of tacks open.
+Becca Bressler: Yeah. Yeah. And you don't want to have to click picture in picture before you go to another tab. Yeah, totally. Yeah. So any, anything related to, like, this particular feature is super helpful, I guess. Does that answer your question? I realize that's still broad, but I don't want to restrict you too much because everything and anything you think about is valuable to us. You know, you're the user.
+Dean Gainey: So. Yeah, of course. Happy to help. I'll have something drafted for you by Monday at the latest.
+Becca Bressler: Amazing. Thank you so much, Dean. I'll let you go. But, yeah, keep in touch. And, like, if you have any issues, let me know texting me is the best way. If it's like immediate just because I'm, I don't get email notifications for some reason, I cannot get it to work.
+Becca Bressler: But, but, yeah. So if anything, like, more urgent comes up, definitely text me.
+Dean Gainey: Oh, yeah, of course. And did you want to schedule follow up for next week?
+Becca Bressler: Yeah, we could totally do that. Do you have any availability Tuesday? My Monday's like pretty crazy.
+Dean Gainey: 11 30 a.m.
+Becca Bressler: 11 30 your time 13. 0 my time. Yes, let's do that.
+Dean Gainey: Okay.
+Becca Bressler: Right now.
+Dean Gainey: Okay. And now that way I can show you. Yeah. Whatever limitations and maybe write it down and send it to you beforehand.
+Becca Bressler: Amazing. Thank you so much, Jean. We so appreciate it as always.
+Dean Gainey: Anytime. Take care.
+Becca Bressler: Have a good weekend. You too.
+Dean Gainey: Byte.

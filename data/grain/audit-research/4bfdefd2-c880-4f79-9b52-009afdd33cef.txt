@@ -1,0 +1,270 @@
+Adam Harrison: Hey, Michelle, can you hear me?
+michelle.lynn: I'm there.
+Adam Harrison: Oh, hold on, let me get my headphones working. All right. Can you hear me now?
+michelle.lynn: I can.
+Adam Harrison: All right, awesome, awesome. Well, let me just. Also, part of my. While we're waiting for John to join, part of my challenge here is just using Advanced md. And I know it's something you're not.
+Adam Harrison: Maybe it's not common one for you, but like I. So there's the EHR and mode and then there's the practice management login. It's like two separate things. I think to get the notes I have to go to the ehr. So. So I think that's where I'm going to start. And let me see. Okay. So this is just kind of a. A sample of like this patient. So I'm just going to pull up this one as like an example he saw a few times in January. So just as like an example of what we would do assuming we had insurance for this person. So we have a signed note from. Yeah, a few sign notes. Right. Intake and then progress note. And I guess this is. I don't know if this is two appointments or that actually.
+michelle.lynn: So one of them is a ph. So it looks like just an assessment.
+Adam Harrison: That's an assessment. That's an assessment. I don't know if this is an appointment or not.
+michelle.lynn: That looks like it might be the note for the assessment. Like all of his scorings and all of that.
+Adam Harrison: Yeah. So I can look at this. It makes me like do this thing. But I have. This is the note. Right. Though it doesn't look like it's. Yeah. Is this the whole note?
+michelle.lynn: Yeah. I mean, that. That's treatment. Treatment. That might be more the treatment plan. Is it.
+Adam Harrison: See. So here. Here's. This looks more like the note. Yeah, this looks. Looks better. So we have a code here, and then I need to find a way to turn this into a claim. Right.
+michelle.lynn: Yes, sorry. Let me close that out and make it a little bit bigger. Wow, they've changed this a lot.
+Adam Harrison: Really? Yeah.
+michelle.lynn: This is a cluttered mess the way that it is now.
+Adam Harrison: I know, I know. And then this is the ehr. I don't think I can really do much here.
+michelle.lynn: At the bottom of this note. Is there anywhere that has. Where you can do a super bill, or is that the bottom?
+Adam Harrison: This is the bottom here.
+michelle.lynn: Oh, yuck.
+Adam Harrison: Yeah, I don't actually know how to do a super bill. Of course, these don't actually tell me anything either, Man. It's just, like, really wonky. I don't want to mess anything up in his kind of thing here. All right, well, maybe he can kind of walk us through how he's been using it so we don't.
+michelle.lynn: I mean, I guess I would agree with maybe why he hasn't done any billing. So if you go to the calendar, if I remember. Oh, let's.
+Adam Harrison: He's just joining now, so let's just come back to this maybe.
+michelle.lynn: Okay.
+Adam Harrison: Hey, Jonathan.
+Jonathan: Hello.
+michelle.lynn: Hi.
+Adam Harrison: How's it going?
+Jonathan: Doing well. How are you?
+Adam Harrison: I am good. How is. How's your weekend?
+Jonathan: Good. It's having an email problem right now, and that's a whole other issue.
+Adam Harrison: But I was still not able to get access to that new. New account you set up.
+Adam Harrison: No, not getting emails.
+Jonathan: Yeah, I've got a meeting with a tech guy at one. It looks so easy on paper, but
+Adam Harrison: that's always how it is, right?
+michelle.lynn: Yeah.
+Adam Harrison: Well, I have Michelle here, who's kind of our, you know, internal billing expert. She is, you know, much more experienced and competent than I am and all these things, so she is gonna kind of, like, help guide us here on what. The best path forward is and I've given her a little bit of the context but. But yeah, maybe we just can use this time to like get all the facts together of like from a credentialing standpoint, you know, where everything is from a note standpoint, from an insurance standpoint. And then you know, we can kind of decide like okay, for all the January claims, like what is, what's the best path ahead? So I thought maybe it would just be best if we just brought Michelle in directly because she's gonna just have the most informed view of like what, what's the best path here.
+Jonathan: Perfect. Awesome. I did over the weekend I, I loaded a lot of insurers so I've, I've gotten some. Whether they were able to upload them or not, I've got just one way or the other. I've gotten their insurance card. So I did get quite a bit uploaded over the weekend. Probably at least 30 or 40 people are now more covered, so.
+michelle.lynn: Oh good.
+Adam Harrison: Oh great. Oh that's awesome.
+michelle.lynn: Yeah.
+Adam Harrison: So maybe just, I mean Michelle, you should feel free to like kind of take over here. But I think might make sense to start with like credentialing first, then move our way like down the stack, so to speak. So from credentialing I know you said Jonathan, like Cigna was like good and done and approved and that's good to go. Medicaid, you are showing as active in their system for, you know, ID, Medicaid. Not sure like what the dates were on each of those. If that was Jan1, you know, mid Jan, late Jan, but. But were there. Is everything else kind of in, in progress still?
+Jonathan: Yes, I was. So I'm on my work laptop. I'm just realizing I don't have the logins for the pulse portal that I'm using. So I'm with a company called Trizetto right now. This will be the first and last time I use them. I am going to be needing to be credentialed again. So my sister in law is in New Jersey and she has about 40 to 50 patients that she could just funnel me right away that need medication management. And then I'm looking to open up an east coast kind of presence in Massachusetts, probably New Hampshire and that's awesome. Yeah. Later in the year. So all of that will have to be credentialed again. So I'm not going to use that same company.
+Adam Harrison: Got it. Yeah, sorry to hear about that. We are also working on a credentialing service that we'll do here through Jotsy. So we're happy to jump back in when that time is right for you.
+Adam Harrison: You know, later in the year or something.
+Jonathan: Okay. Yeah, Yep. I'm just trying to log in right now as we speak here so I can give you more information there.
+Adam Harrison: Sweet.
+Jonathan: But yeah, no, I, if you guys, you know, if that's something else that's coming down the road, I'm definitely interested in talking more about that.
+Adam Harrison: Okay. Do you know what your timing looks like on that? Is that, is that a near term thing or something we should revisit, like, you know.
+Jonathan: Well, then if I do the New Jersey, it's not working. If I do the New Jersey thing, I, I, I can do it as soon, I can do it as soon as I can. I'm just trying to get this off the ground first, I guess, and then I'll worry about New Jersey. But honestly, if everything was going smoothly, there's no reason I couldn't start doing that. The patience.
+michelle.lynn: Are you licensed in all of those states or are you doing the compact license?
+Jonathan: Well, I've got the compact for the rn, but not, yeah, for the, not for the NP license. So the MP is what I'm, I've got the New Jersey one pretty much filled out. I've just got to basically submit it. I just right now I've got so much to worry about here that, that's on the back burner.
+michelle.lynn: Gotcha. Okay, so everything, so outside of Sigma and Medicaid, everything else is still pending, credentialing wise?
+Jonathan: Yes. With that said, though, I, over the weekend I noticed a whole bunch of, I don't know. So I don't know what, I don't know, first of all. And then as I was going through getting a lot of people logged in or getting their insurance put up on here, I noticed that a whole bunch of different ones were coming up as, as approving. And I was getting basically an eligible check mark for ones that I did not think I was credentialed with.
+michelle.lynn: Okay, what insurances did you credential with, so.
+Jonathan: Blue Cross. Well, let me, I, that's why I was looking for the note here, let me, let me just grab this other computer. I'll be right back. All right. This has all my credentialing stuff on here. I was trying to keep things separate, but it is not working out as well as I kind of hoped to here. And so keeping things separate, actually it's a little more of a hassle. All right, so these are. It's 20 different payers. Magellan, that's part of. That's an Idaho Medicaid thing. So I'm still waiting on Aetna. Cigna obviously is done. Medicaid, ID looks like I'm approved on the website. I just, I. My guess is the email that they've sent has gone to the email that I can't access. United Regents, Idaho Blue Cross or that region side of Blue Shield. And then there's Idaho Blue Cross, Tricare West Select Health, Pacific Source, Pacific Source healthcare plans, I guess, but that includes a Medicare plan, Kaiser First Choice, And then Medicare and some Medicare supplements.
+michelle.lynn: Wow. You went all out.
+Jonathan: So. Yeah. Well, so I'm, I'm, I'm coming with 190, about 190 patients that came from my old practice.
+michelle.lynn: Wow.
+Jonathan: They all came with me, so. But the stipulation was that I would be insured with all the same insurance.
+michelle.lynn: Yeah, no, that, I mean, that's great. If, if they're all in your area, that's, that's excellent.
+Jonathan: Yes. Yeah. Yep.
+michelle.lynn: Okay. So then I guess my next question would be since you have so many of them that currently at this point are pending, do you know what percentage of those clients are with CIGNA or Medicaid that you are already credentialed with?
+Jonathan: So far I know the Joe Peterson visit is the one that I can bill for sure. That is, I've got a few other patients with cigna, but I haven't had a billable visit yet with them. The one Jerry Lynn Smith names I know aren't important to you, but I met with her twice, apparently, though her Cigna is not going to kick in though until March 1st.
+michelle.lynn: Okay. So I, I guess from my standpoint as a biller, I would want to ask these questions to you were, did your clients know that you were in the process of credentialing when you started seeing them? So are they willing to do. To pay for the service, receive a super bill and submit for reimbursement, or are. Do they all have an out of network benefit where you would submit and get from the out of network benefit?
+Jonathan: No, I told them I would not bill out of network.
+michelle.lynn: Okay. Okay. So everything. If they, if they didn't have out of network benefits or you're not credentialed, are you just writing those off?
+Jonathan: Yep.
+michelle.lynn: Okay. So we basically just need to find out what your effective dates with the insurances are and then pull those clients. That have those insurances and submit those is what you're wanting.
+Jonathan: Well, yeah, that was the, the, yeah. Kind of thought process about this. And I understand that most of these, I, I, I was under the assumption I would write the entire month of January off that that was the deal kind of going in. So anything that could be captured. Great. I'm not expecting anything though.
+michelle.lynn: Right. Okay. And then that's fair enough. So again, I think our, our starting point would be what the effective dates are with the ones that you are credentialed and from there just getting the rest of those insurances and then we can go and we can bill back to your effective dates of those insurances. And then of course there anything else we would, yeah, we would have to write off if you've already made that agreement with them.
+Jonathan: Yeah, yeah, that I, I, that was also kind of part of the deal. Well, not part of the deal they would come. But I, I'm good, I'll survive if I don't get paid, but anything, you know, it's just, it's extra if I do.
+michelle.lynn: Yeah, yeah. We definitely want to try to capture as much as we possibly can for you. So have you start, have you sent over your CIGNA contract and your Medicaid contract so we can get the effective dates?
+Jonathan: Well, I have got the EDI kind of enrolled with the advanced. I think the effective day for CIGNA was back dated to December 16th.
+michelle.lynn: Oh, wow. Okay.
+Jonathan: Medicaid. I, again, I, I, I imagine with all the changes that I've seen in the, the, you know, the pro, the application's gone when I log in it, it is giving me all these other things about what the potential patients are. So I, I'm confident that it's there. But I, I would imagine the email is right now somewhere that I cannot access it. And that is a major problem.
+michelle.lynn: Right. So with Trizetto, are they, they should be receiving a copy of your contract too. Have you reached out to them and asked them to resend you a copy?
+Jonathan: Yes, they are closed today.
+michelle.lynn: Oh, gotcha. Okay.
+Jonathan: So no, I did typically I have a call on Fridays and of course this was the last Friday that we didn't have a phone call.
+michelle.lynn: Oh, sounds like my luck.
+Jonathan: Yeah. So everything, you know, it's, it's gonna be fine. I know it's gonna work out in the long run, but yeah, everything right now that could going wrong in terms of little things,
+michelle.lynn: that's how it works though, especially when you're dealing with insurance. So I don't have any other questions. Because I think that that gives me. The information I would need to get going. Adam, do you have more for him?
+Adam Harrison: No, I think so. Sounds like. Michelle, what you need is just the contract. So you know what the date is. I mean, sounds like we know for signal the date, but. But from there, what would. What else would the contract have that you would need? Like the NPI organization, MPI or individual MPI or that's credentialed or any other information that we need there?
+michelle.lynn: Not really. Just really the effective date, but then it would. Most of the contracts have the fee schedules in there for setting up, you know, the rates and stuff. So that would be the. Really, the only things that I would need. You know, the contract would be to view the active date of it. And then Adam, we were going to have him show us how he was doing a super bill.
+Adam Harrison: Yeah. So, Jonathan, one thing. Just because we're not as familiar with Advanced md, just want to make sure that we are like. Yeah. Wanted to see, like, how we should kind of navigate the system here. And I don't want to, like, mess up anything you already have set up here in place. So. So on our end, all we really need is like, assigned note and we can kind of like submit, you know, create the claim and submit it. So either assigned note or a super bill. I think you had a few super bills. You already created either of those, like, works. We could.
+michelle.lynn: Or maybe not. I like the look on your face, Jonathan.
+Jonathan: Yeah, I didn't know I created any.
+Adam Harrison: Maybe not. Maybe not, but just.
+Adam Harrison: Just like a signed name.
+michelle.lynn: It seems like maybe from the calendar you can create a super bill.
+Adam Harrison: But Jonathan, was there, like, one patient we should just look at as an example and maybe we'll just like, walk through maybe like one of your CIGNA patients who we know is, like, eligible.
+Jonathan: Well, that. Yeah, so. So that. That one right now. I don't. He. Actually, I had the call I had on Friday with the advanced MD people. We walked through and basically submitted that as a claim. It got. Got sent back. Let me see. Can I share my.
+Adam Harrison: Yeah, go for it.
+Jonathan: Screen here where I lost you. There it is. All right, so. All right, so this is the practice manager here. So the claims center. So I had submitted the bill and it went into the. Then into this category of unbilled. And it gave me two. Error message. Well, it gave me an error message saying submitter type is incorrect or not filled out. So I kind of followed what they told me to say, where that is, and then I did that yesterday, and now that Bill is no longer here, and I don't know where it is.
+Jonathan: Okay, so if it's not here, I'm assuming it went off to be clearinghouse.
+michelle.lynn: You should still be able to see it, though, and see the status of it.
+Jonathan: Yes. Let me hear. Oh, this. This is probably it, actually.
+michelle.lynn: So all we can see is just the main screen. We're not seeing you moving around in there.
+Jonathan: Okay, let's see. How do I change that then?
+Adam Harrison: Yeah, we just see advanced md, mental health and very large font.
+Jonathan: Gotcha.
+Jonathan: Okay, so that wants to be in the window, not the screen. Let's see. I'll just. Hopefully this will work. All right, I've got a lot of tabs open. Ignore that. All right, so here's the claim center. So I think now you're seeing just the thing. So it looks like, I don't know, you know, green check mark means I think I'm good. This is the patient. So this is the one I. Where's. There was. They gave me details a second ago. Now I can't find where the details went, but this was the patient. 275 was the amount of bill. So it looks like I. I think that actually went through.
+michelle.lynn: So on that magnifying glass, if you select that.
+michelle.lynn: Yeah, it's not doing anything. It's not doing anything. Okay.
+Jonathan: It's probably because it's open and I have so many windows open right now. There it is. Okay. So it looks like it went through. I don't know what the. Any of this information means. Trial billing, no demand. No, I don't know what that means. So I don't think I can use this one anymore, though, is.
+Jonathan: Okay, what I'm getting at, basically.
+Jonathan: So all of these are February bills that I have not approved yet because I haven't figured out yet how to take the patient portion off of them and move it to the insurance portion. So that was going to be my next question for advanced is how to do that. Meanwhile.
+Adam Harrison: See, and how do you actually get like something into that state where it shows up on that list?
+Jonathan: So that's. Once I finish the note, I'll do. Let's see. So that patient. So once I finish the note on this, this person, then the charge slip opens up and then I'll sign the charge slip basically with you know, the modifier that. The codes and the modifiers or whatever. And then once this char I guess one let me click over to that. Once this charge slip gets signed then it automatically goes in that claim center and then from the claim center. What I've been doing is writing off all of the patient portion, writing that off and then basically just leaving them with a $20 bill. And that's what I've been collecting from the patients throughout January. But now it should be set up to where once I put their information, their, their insurance information in it should automatically switch them from a self pay patient to a commercial patient and then the charges should go into the insurance portion. I thought I did that for a lot of the people here, but I'm like Acadia. This person, I definitely got her insurance in and I'm still seeing her in the. As a self paid patient in her chart.
+michelle.lynn: There should be a place to switch it to toggle from insurance to is blocking me out.
+Jonathan: At least for most. When I was one of the charges I was also trying to run through it would not let me.
+Jonathan: So I think this is where.
+michelle.lynn: Because without it being set over to the commercial.
+Jonathan: Yeah. So I'm not sure why that charge didn't get moved over because she's registered as a commercial patient, not a self pay anymore. So this, this would be a question I gotta ask Advanced md How. Why? That's because I. Oh yeah. Because I have. I had a patient that was able to be billed. She actually did the telehealth that made her put in $40 copay. All the insurance was working and then I tried to reset it. Kept everything in the patient portion. I tried to reset the visit and now I've lost the time. The charge slip completely.
+michelle.lynn: Oh wow.
+Jonathan: So I know there's a way to reassign it. I just don't know how to do that.
+michelle.lynn: Yeah, that's. That's very difficult.
+Jonathan: It is not. This has been drinking from a fire hose. So I got the whole practice set up in six weeks. So I've got that portion done. I'm. You know, prescriptions are going through but just the back end. I, I am just drinking from a fire hose and that sounds very painful. It is, yeah. I mean it's every minute, you know, so. Since last January, the first week of January, basically every minute is basically spent doing something like on this.
+michelle.lynn: Wow. Okay. So, Adam, do you have what you need to get the charge slip if you need, once we know?
+Adam Harrison: Yeah, I think so. I think, yeah. As a next step here, Jonathan, do you. Are you able to send us the CIGNA contract? And then from there we can just like, we can do two things. One, we can like just check your January patients, see if there's anyone who that would apply to that you haven't already billed. And then the second thing we can do, we can potentially do is do like a insurance scan for the people, for the folks where you're still missing insurance. And if they are like indeed Cigna, we would be able to submit to them as well. So does that, does that work for you?
+Jonathan: Absolutely, definitely. Just. Yeah. I mean, I don't know. I don't know how I can get the information to you as easily as. Yeah. In this. Well, this is what I've built. This is all the billing I've done so far.
+michelle.lynn: Basically everything's billing, the co pay to or the $20 charge for the client.
+Jonathan: Yep. I thought it'd be more detailed than that. But yeah, no, whatever information you need for me, I'm happy. If I. If I could figure out how to get it to you easily, then I will. It's all here, basically. I mean, here's all the reports that I can run. Here's all the system settings. I mean, there's a lot to this program. It is robust.
+Adam Harrison: Yeah.
+Jonathan: It's just. I don't understand. I don't know what. I don't know. So I'm still on.
+Adam Harrison: Yeah. Maybe one last thing. Do you mind showing me, if you go to like a note that you've signed, are you able to export that? Because I am not able to export and I don't know if it's like an advanced MD thing, if it's a me thing or if it's like a permissions thing.
+Jonathan: I mean, here. So I got the note here that. Trying to get the Acadia Babin 128.
+Adam Harrison: Yeah.
+Jonathan: So I'll try to see on to that.
+Adam Harrison: So there's the note.
+Jonathan: Okay.
+Adam Harrison: So there is a print button that you have up there.
+Jonathan: Yeah. I don't know how much though this will print because I. I think a lot of the. The notes, once you try to access them outside.
+Adam Harrison: Yeah. So this is perfect. This is exactly what we would need.
+Adam Harrison: So I don't have it is missing some things. Oh really?
+Jonathan: Yeah, it definitely has taken away. Yeah. So this whole box is missing because it does I think limit some things. Yeah, HPI is missing.
+Adam Harrison: Does it have your, your CPT codes in here and diagnosis codes?
+Jonathan: Yes.
+Adam Harrison: Okay then I think that probably could be enough to do the claim even if the note is.
+Adam Harrison: Yes, because those are your diagnosis.
+michelle.lynn: Yep.
+Adam Harrison: Okay.
+michelle.lynn: Does it also. Can you go to the very top of the note for me? Yep, it does have everything so. Okay. Date of birth and.
+Jonathan: Yeah, I know it does limit the mental health notes. Are, are they just self limit? I don't know how to break the glass basically to get more on it because that, that is, I think that is a system protection for the mental health.
+Adam Harrison: Got it. So if I could share my screen quickly on like a similar thing here, See if this will work. So I got the same. I don't know if this is the same or different note but you can see my print is like locked out here and I don't know, you know, so I'm not able to like do a bulk export. I mean I guess it's fine. I could probably just grab the code.
+Jonathan: Yeah, that's going to take you a long time. Let me. So I've given you full access. I don't know. So maybe there's something in here that you might know you can see better than me here. So I'll kind of reshare again on the permissions stuff.
+Adam Harrison: User permissions.
+Jonathan: Yeah. So if I go into here. So user management. So I've got you. I don't know which one you've logged in with.
+Adam Harrison: The first one, the drop bill. Yeah.
+Jonathan: Yeah. Okay. So I, I've given you, you know the admin role I think should give you full and then full administrator. Right. I don't know what else do you have?
+michelle.lynn: Is there a clinical role? The providers.
+Jonathan: Do you want to do silence product to this user?
+Jonathan: No, I don't think I want to do that permanently.
+Adam Harrison: No, I think that might make me you, which I don't.
+Jonathan: Yeah, yeah. So I'm sorry, what was the other question?
+michelle.lynn: If there was a clinical role? Because in some systems without having a clinical role you can't do anything with the notes.
+Jonathan: Should I make you put you in as a physician? Office manager. So yeah, I would have thought. Full administrator would have had the most. But I could make. I could put you in I guess as a physician to access it or.
+michelle.lynn: Yeah, maybe generally office manager will. Will open that up.
+Jonathan: Okay. And I just do standard and then I guess I'll.
+Adam Harrison: Man, there's a lot of. A lot of. It's a long list here.
+Jonathan: I don't know. Would enrollments be something you would need or that that's probably for new patients.
+michelle.lynn: Well, the enrollments is possibly the eras.
+Jonathan: Okay. E prescribing you probably don't need.
+Adam Harrison: No, no.
+Jonathan: ERA center maybe.
+michelle.lynn: Yes. Clinical data is. What is he's going to need there.
+Adam Harrison: Yeah.
+Jonathan: Messaging would.
+michelle.lynn: That would probably be messaging to clients or to you.
+Jonathan: Yeah. Maybe just in case. Right. And patient invoice, billing portals, report scheduling. The scheduling. I don't know that. And I don't know what ODBC means.
+Adam Harrison: No clue.
+michelle.lynn: The online scheduling. I don't think he needs.
+Jonathan: Yeah, probably don't need that. Let's do reports system default.
+michelle.lynn: The scheduler would be if he needed to see anything on your calendar.
+Adam Harrison: Yeah. That might actually be helpful to scheduler.
+Jonathan: I don't know what a tracker does.
+Adam Harrison: You can skip it.
+Adam Harrison: Yeah, I think the rest of these we can probably skip.
+Jonathan: Waystar is the clearinghouse.
+Adam Harrison: Yeah, I don't. I mean you can check it if you want. I don't think I'll need that one though. But you might also. I think it's hidden by the meat thing at the bottom. But you'll, I think have to save before you click out of here. Yeah. Okay. So that's for office manager. We just updated. So then I think you just got to make sure I'm an office manager for my role type. Okay. And then maybe save. It's kind of weird. They have role type and then also administrator type.
+Adam Harrison: It's a little.
+Jonathan: Yeah, totally.
+Adam Harrison: Yeah. Okay, let me refresh and try again.
+michelle.lynn: Now, your stuff matches his stuff basically.
+Adam Harrison: Okay. Well, it's not letting me print still, but you know, maybe log out and log back in.
+Jonathan: Yeah. Then my.
+Adam Harrison: Let me log out.
+Jonathan: Yeah. Because the roles. The office. Yeah, I don't know. I think that's it. Because if I put you here that. Yeah. That's not the right thing. I don't. I don't know if that matters, office or not.
+Adam Harrison: Hold on. Giving this a try.
+Jonathan: Let see, this is my login, so I'm in office. I'll just put you.
+Adam Harrison: All right, hold on. I'm going to try logging out and logging in. Opening up. Moment of truth. First. It makes me like break the glass or something when I want to view.
+Jonathan: I mean that. Yeah. For mental health. That's good. That's standard. Yeah.
+Adam Harrison: So it's. Yeah, it looks like it's still the same. Kind of still have this, you know, print thing here grayed out.
+michelle.lynn: So are you clicked actually on in the note?
+Adam Harrison: Yeah, I think so.
+Jonathan: Yeah. Yeah. You're in the night. Yeah. Yep. Yep. No, that. That should be the. Yeah. Where you're at is what it should be allowing you to do that.
+Adam Harrison: Yeah.
+Jonathan: That's so weird. Why isn't. It's a sign note, so it shouldn't. You know what, let me go into. What if I in my end make the permissions more so to do.
+Adam Harrison: I think it's. It's probably okay. I can just grab what I need kind of from this page because I think here, here's the ICD codes I have. I have all the patient information here. Sort of some of it.
+Jonathan: If you click on anywhere in this box, the demographics will come up.
+Adam Harrison: Over here.
+Jonathan: Yeah. Anywhere in that. There you go.
+michelle.lynn: Okay. Yeah. Because you need to have the address and all of that.
+Adam Harrison: Does this have the address?
+michelle.lynn: And this one has. Primary insurance is Blue Cross. Cross the Shield, not a cigna.
+Jonathan: Yeah, well, so, yeah, I'm definitely, I don't have the information from that, but when I click on her profile. Oh, you know, actually this one is, this one actually, I'm not coming back as a, as getting a green check mark. But the Blue Cross, see, she is, she's Idaho Blue Cross. I don't know why it's not coming up. A lot of the Blue Cross were, I was getting positive green eligibility checks. So I don't know if that means
+michelle.lynn: the eligibility checks should just mean that they are eligible, but not, that doesn't mean that you're participating necessarily.
+Jonathan: Okay. Because I'm getting a lot of things saying unable to obtain or something. And I was assuming that meant I wasn't at part of their network, but the other ones I was. But maybe not.
+michelle.lynn: Yeah, generally with an eligibility check, I mean, there's a lot of times you, you know, it'll, it'll pull an eligibility and then there's a section in there that will say if you're participating or not.
+michelle.lynn: But if you're getting just an eligibility check, it's probably just checking to see that they have an active part plan.
+Jonathan: Okay. All right. Yeah. No, again, I, I don't want you guys like, I, I'm, this is probably a bigger headache than, than what it's worth for you guys. You know, everything should be coming soon here. I, I do expect a lot of these this week. I was hoping I would get several of these under credentialed one o'. Clock. I might, if I can get access to that email, that might give me a lot of answers. Yeah, I think a little time will definitely give it, things will be more in place. But yeah, I, I, I'm willing to see what, what jot, psych and everything can, can still handle without making a decision, you know, before if you advance all gets up and running. I'm still willing to see what jots I can do, so.
+Adam Harrison: Awesome. Yeah. So I think, yeah, that all sounds good. So next steps here. So I think, Jonathan, you're speaking with your credentialing folks tomorrow or something like that.
+Jonathan: Well, Fridays are always the call, but I'm gonna see if I get something today going here. Well, the, the email, the, the, the tech people at one o' clock are separate, but I'm hoping if I get that access that email, I think there's probably some things in there that are credentialing related.
+Adam Harrison: Okay. Yeah. If you could just forward us like the CIGNA contract and any others. That you have.
+Adam Harrison: Then we can get started on, like, billing stuff. Do you already have Cigna handy in your inbox somewhere? Do you know?
+Jonathan: Yeah, I don't know where. So I know I've gotten something where I. Let's see. And I don't want to keep wasting you guys time, but let me see. So when I get some. When I get a thing, I'm supposed to go into this way, Star Portal. And then this is where the EDI agreements, I guess, go. So. Whoa. All right. So that's different. So I guess they did. That one went through last night. So I typically go to here and then, let's see. Enrollment records. So this is where I would have the signal thing, but I don't know where I would get. I don't know where I got the document that I put in here. Okay. Unfortunately, I really. I need help, basically because I've done all this on my own here, and at this point, my head is spinning as to. I don't remember where that. If I got an email or if. If the Triceto people sent that to me.
+Adam Harrison: Is it easier just to put us in touch over email with Trizato? And we can kind of like, if you just say you're working with us for billing, and then. Michelle, is that, like, commonly how you might handle these?
+michelle.lynn: Typically, you have to have a signed tpa. Just, you know that they'll allow that. So, I mean, as long as. As long as that falls within their. Their guidelines, then it. Then it can work. But I.
+Jonathan: I don't see why they. You know, I basically have contracted with them, so I. I would think they'll do what I ask them to do, but maybe, again, I don't know what. I don't know here. So that might not be the case. Just looking at my email to see where this would have came,
+michelle.lynn: I see at the bottom of your screen, you're getting heavy rain, huh?
+Jonathan: Yeah.
+michelle.lynn: We need moisture here, so send it our way.
+Jonathan: Yeah, it doesn't look heavy right now, but this is Idaho right now, and Idaho winters. If. I mean, we. It should be snow, which sucks that it's rain, but we.
+michelle.lynn: I live in Colorado. I should have lots of snow too. But I don't, I don't even have rain. We've had no snow in Colorado.
+Jonathan: Where in Colorado?
+michelle.lynn: I'm in the northeast part of the state, just under the Nebraska Panhandle.
+Jonathan: Okay. Like Sterling.
+michelle.lynn: Yep. That's exactly where I am.
+Jonathan: Nice. Okay. Yep.
+michelle.lynn: Crazy that you knew that.
+Jonathan: I lived in Colorado for five years and I, in my former life. Sorry, I just. This is my. So I have narcolepsy with cataplexy and this, this is a cataplexy attack right now. So. Okay, I'm back. So I, I, I was a former rep and Sterling was part of my territory and.
+michelle.lynn: Oh.
+Jonathan: So. And that's what got me into this. I, I was selling anti psychotics and anti depressants and had a background in molecular biology. So I figured I might as well just do the actual medicine.
+michelle.lynn: Good for you. That's an unusual. That people find or know of. Of Sterling. Yeah.
+Jonathan: Yeah. No, Yep. Yeah, it's, yeah, definitely. It was, it was getting built up. They were putting in, they put a new medical facility in there. They'd. I think it was banner. Right. I think that was who was opening up all those. Yeah. And, yeah. And I was, it was an interesting, always an interesting drive out there and out to the boonies. Very quiet, though.
+michelle.lynn: Yes, for sure.
+Jonathan: Yeah. But no. Yeah. I think we're all in trouble here with the summer. This is going to be a fire. Heavy summer. Unfortunately.
+michelle.lynn: Yeah. Here too.
+Jonathan: So. Well, again, I, I do appreciate all you guys help. Whatever I can do. I'm going to look for the signal stuff. I'll see if Trisetto has. Is the one who sent me the thing where I can get the TPA thing. Actually, I did see something in my note or I'll, I'll forward you whatever I have in my documents. I'll forward. I thought I remember seeing a TPA agreement and I assume it's got to be Cigna. I don't have anything else in place.
+Adam Harrison: Okay.
+michelle.lynn: Yeah.
+Adam Harrison: That's awesome. And we will get started on like kind of going through for folks that are Cigna and if there, it sounds like there maybe aren't any from January.
+Jonathan: No, not that I know. Yeah, not that I'm aware of. And I've gone through most of the people's insurance and, and unless it changed and I wasn't aware of it then, then I, I, the first three that I'll have that I can build are coming up here. One went through, and then two are coming up.
+Adam Harrison: Got it. Okay, so we'll do our own check, and we might be. Able to do a scan for the ones that you're missing insurance for. And then I think we might be able to. Because Medicaid you did get confirmed with. We might be able to submit January claims for that as well, right?
+Jonathan: Possibly. Yes. Yep.
+Adam Harrison: Okay. So, yeah, if you are able to, like, whenever you get those contracts, send them our way, and then we'll, we'll make sure that January claims for those two are kind of done separately. I know. Kind of. This is like your first priority, Jonathan. If you wanted to set up a time to talk about, to kind of like check back in on this maybe in like a week or so after you, like, talk to everyone, I think on Friday you speak with them. Right. Your credentialing team, if you wanted to talk next week just on kind of like looking back on how this all went once we've got a chance to submit some things. And then we could also talk to you about our credentialing offering and just like introduce that if that was something you might be just interested in learning a little more about, we could, we could set up a conversation sometime next week for that.
+Jonathan: Excellent. Yeah. Again, I, I, I, I'm hoping everything comes in soon, but, you know, the process is now I'm November 16th is when I started with Trisetto, so I'm in three months right now in. So things really should start. Be coming in soon.
+Adam Harrison: Okay.
+Jonathan: But, you know, I don't want to waste your time if it doesn't happen.
+Adam Harrison: Gotcha. No, that sounds good. Why don't we, like, start with, like, where we're credentialed already this week. We can check in next week and then kind of review where we are. You know, maybe you have a view on that point of like, you know, I like advanced. I'm, or I'm not a fan of advanced. And, you know, we can like, talk through some of that stuff as well as, like, talk a little bit about credentialing and just like, give you the, the 5, 10 minute, like, overview, what that looks like.
+Jonathan: Okay. Yeah, I'm definitely not happy with the Trisetto people. I mean, they, I don't know what it should be the case here, but, but they're definitely not as communicative as I would have hoped.
+Jonathan: Yeah, you guys definitely are. That's, that is definitely not the problem.
+Adam Harrison: Totally. Yeah.
+Adam Harrison: All right, well, let's maybe. Can we plan on Monday next week to just like, quickly check back in? Do you have. I want to include Nate on that call because he's going to maybe walk through the credentialing stuff. Do you have time, like around 4:30 Eastern?
+Jonathan: Yeah. Yeah.
+Adam Harrison: On Monday.
+Jonathan: Would that be anything? Later in the day is much better for me.
+Adam Harrison: Okay. So maybe is it okay if we do 4:15 actually?
+Jonathan: Absolutely. That's okay. Yep. Yep. Okay.
+Adam Harrison: Yeah, so I'll. I'll send that. All right, we'll. We'll get rolling on this. Thanks for kind of, like, walking us through. I know some of that tech setup stuff is a little, like, painful, but appreciate you kind of being patient. We. We don't really know advanced MD super well, so we're. We're learning, too.
+Jonathan: It is a good program. I do. I like it in general, but this part is so complex. I'd rather. Yeah, I don't need the complexity there.
+Adam Harrison: It seems like you got a lot of patients already, so. A lot already on your plate. Just from a clinical standpoint.
+Jonathan: That's. Again, yeah. And that probably has made it harder because I don't have the time to do other things.
+Adam Harrison: Makes sense. All right, well, we will kind of be in touch over email then, and, you know, then look forward to speaking again this time next week.
+Jonathan: All right, excellent. Thank you, guys for your time.
+Adam Harrison: Thank you. Take care.
+michelle.lynn: Bye.
+michelle.lynn: Nice to meet you.
+Jonathan: You as well. Bye. Bye.
+michelle.lynn: Bye.

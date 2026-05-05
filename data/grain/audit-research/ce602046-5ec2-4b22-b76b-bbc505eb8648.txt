@@ -1,0 +1,97 @@
+Steven Eshun: All right, I'm just gonna hang up the phone.
+Adam Harrison: All right. Can you hear me okay, Stephen?
+Steven Eshun: I can hear you.
+Adam Harrison: Okay, awesome. Well, two quick things I wanted to cover with you. One is just making sure we have access to your EHR, so we can do those eligibility checks. So that should take probably just like two minutes or so. And then I would love to chat a little bit more about if you're still interested in us helping you with things on the billing side as well, because I know that was originally, you know, what. What you had discussed with Chris and others.
+Steven Eshun: Yeah, yeah, yeah. That doesn't mean. Yeah, that's amazing.
+Adam Harrison: Okay, great, great. So let me just start on the eligibility side of things. So, you know, if you recall, what we need is access to your ehr. So the login didn't appear to be working for me. So would you mind logging into your EHR and just resending the. The invite? And I can walk you through that if you are able to share your screen. Okay. And you use Practice Fusion, right?
+Steven Eshun: Yes.
+Adam Harrison: Great. Just making sure I have that all correct.
+Adam Harrison: Okay, So I think if you go to Settings, that should be where to do it. You try scrolling down a little bit. Keep going. Practice settings. So users should be right under press. Yeah, that one.
+Steven Eshun: That's what the idea. I added you. Right.
+Adam Harrison: Yeah, resend. Because I think I didn't get the first one, so. Oh, let me make sure I get that code to. Just going to take a screenshot of the code, so. Yeah, that's perfect. So go ahead and click close and then I think the email should have sent. Great. So I'm just going to confirm I can log in and then we should be. We should be good to go.
+Adam Harrison: Okay, Entering the code. So that seems like the code is not. Yeah, the code doesn't seem to be working. Let me make sure I typed it in correctly. All right. X t97. All right, that seems to be working now. So let me just save this. Okay, set. Okay, now the security code. Bear with me. Almost done. Okay, thank you. I think I'm all in here. So, Stephen, what we can do is this week we can do eligibility checks for your upcoming patients. Do you use the scheduling feature in here? It looks like I'm not seeing upcoming appointments in here.
+Steven Eshun: No. So for now, I used to do. I used to go to Zydog to get patient, but I haven't. Use it for quite a long time. So for now, I think the priority should be how they call it in the building of last year's patient die. So if I get the. If I get patient, you know, maybe in the next couple of months, I will try to, you know, reopen Zadok. Then I'll do the legibility check.
+Adam Harrison: Okay. I see. So are you currently seeing patients right now or. Or take. Or not actively at the moment?
+Steven Eshun: Oh, I see. Patient. But on the. How do you call it, good therapy platform. And with good therapy, they do that in a billion.
+Adam Harrison: Oh, you use grow therapy?
+Steven Eshun: Yeah. Yeah.
+Adam Harrison: Oh, okay. I see. Okay, great. So in that case, they do eligibility for you, is that right?
+Steven Eshun: Yeah, yeah, they do all the other stuff. Yeah.
+Adam Harrison: Great. So let's talk about billing, because I. I think, you know, you had some. You had some kind of like, older encounters that you wanted us to submit claims for. Is that correct?
+Steven Eshun: Yeah, I think the whole. I think the whole last year I didn't do any. Yeah. Because. Yeah, I have to write a note for each of the months. So it was kind of pied up. So I just. Yeah, but I know I've done some of the patient. I've done about three months. I haven't done the building, though, but I put them, you know, January to pay well, so too much. So it can just start from there. But I don't know the. The number of, you know, months that you can fight if you don't buy, you know, the insurance might not dispense. I don't know yet. So I have to find out.
+Adam Harrison: Got it. Okay, so you've done some of last year, but not all of it.
+Steven Eshun: Yeah, I've written the note, but I didn't find it. I didn't build. They didn't do that billing yet.
+Adam Harrison: Okay, and are all those in Practice Fusion, or are they. Are those charts and notes somewhere else?
+Steven Eshun: No, in Practice Fusion.
+Adam Harrison: Okay, so they're all in Practice Fusion. And then do you have you also submitted claims through Practice Fusion as well, or you use a different clearinghouse for that?
+Steven Eshun: Oh, I think I know. I wasn't doing it, you know. You know, there was a. You know, this. Arthur was doing the building for me. They were doing through. I'm forgotten the name. Office Ally. They were doing through Office Ally.
+Adam Harrison: Okay, would we be able to get a login for Office Ally as well? So just so we can see what has been billed and then what is still outstanding, that way we can. We can kind of do all the ones that still need to be done.
+Steven Eshun: Okay, yeah, yeah, actually. Okay, I will. Yeah. I haven't paid yet since I stopped using it, so I have to pay. Then we can have access to it.
+Adam Harrison: Okay, got it. Makes sense. So just in terms of practice, Fusion, what is in here? There are basically kind of old charts and notes. Is that right?
+Adam Harrison: Yeah, got it. Let me just take a look here, and then let's see. Documents. Okay, so I can see there's some visits here. You have filled out the charts, But I guess.
+Steven Eshun: No, not. Not all of them, though. Not all of them that I've done the chat. Like, the way I was doing is like that. Like, in January, I write all the names of patients that I saw. So when you go, just put them there, then, you know, you. You go to General, then you transfer. February, I write the names of all the patients I sold. You know, if I've completed the uno, then that was I was doing with the other.
+Adam Harrison: Okay, got it. Do you mind just walking me through or let me. I can share my screen if you want. And do you mind just kind of walking me through what. How. You know, I'm just kind of trying to understand where things are today so that we can. We can help you kind of get everything, you know, submitted so you, you know, you'll get paid. Can I do. Is it okay if you stop sharing screen so I can share?
+Steven Eshun: Okay.
+Adam Harrison: Okay, perfect. So it looks like in here, these are all the different patients. Is that right in the charts tab?
+Adam Harrison: Yeah, got it. And then, so for some of them, I'll just click on the first one. It looks like you have. There's a telemedicine visit from. This is from August. And you have. It looks like this is the note not yet signed, but there is. Looks like some medications in here and some diagnoses, but maybe a few more things that might need to be included. So do you mind walking me through? You know, here's one where you have a note. Oh, is someone calling? One sec. Mute that. So this is just, you know, one example patient. And then this seems like, I guess the note is partially complete or is this kind of final at this stage?
+Steven Eshun: Yeah. So, you know, with this ehr. So the patient. I see from, you know, the other platforms I put. I use this platform to prescribe medication. So unless I give you the patient that I saw through my private practice, you know, I know. So I have to give it to you before. For example, there's a patient called. Oh, I forgot the name. Let me see. Angela. You know. Yeah, I just have to give you the name. So when I give you the name, you go to the mantle. Let's say January. So January you see all the patient apps. I saw that. You know, then you, you'll be able to do the billing. I have to give you the list of patient line.
+Adam Harrison: So because okay, yeah, if you have a list of patients, we can do all the billing for you.
+Steven Eshun: Yeah, yeah. So I have to. That, that's the main thing. It's kind of. I'm so busy to do it, so the whole day, the whole year, I couldn't do it. So I'll, I'll try and do it and you know, send it to you in the, in the news. You see on the bottom, you see that ready to build. That means that, you know, it's ready. You can go ahead and build most of them.
+Adam Harrison: Okay, where would I see ready to bill? Is that somewhere in the note?
+Steven Eshun: Yeah, in the note. And the. Under the. Let me see. Do you see anyone maybe like January?
+Adam Harrison: Some of them.
+Steven Eshun: Okay, can you check Tiffany? There's a person called Tiffany.
+Adam Harrison: Tiffany. Okay.
+Steven Eshun: Yeah. Tiffany.
+Adam Harrison: Do you know which one? Maybe this one?
+Steven Eshun: Yeah, that's what I want to see.
+Adam Harrison: Okay. Oh, so these are. Does this look right?
+Steven Eshun: Yeah. So 2005, February. Right? There's a one year February or March.
+Adam Harrison: Yeah, let's see. February. February.
+Steven Eshun: 2005 February. Yeah, click on it, please. Let's see. So I think that's a note when you go down. So there's a complete note. So under here is a super bill ready for biller. Yeah.
+Adam Harrison: Okay.
+Steven Eshun: The note is complete.
+Adam Harrison: Okay. So there's probably a way for us to do kind of a. For us to be able to pull a report of everything that's labeled ready for Biller. So I'll have to investigate how we, how we do that.
+Steven Eshun: Yeah, but like I said, the way it is, I have a lot of patient there. So in general, you might see other patients, but they are not my. You know, those patients are good therapies and we cannot build it. So I have to give the list of patients that I saw every month. So when you go there, you just look for those patient and build it.
+Adam Harrison: Got it. Okay. And have this. So for some of these patients you have. It looks like it doesn't have insurance in here. Do you know if you have insurance info for all these?
+Steven Eshun: They have. They have insurance. One of the bottom here, there's a. There's a section that. Can you click on the blue section, the top? Yeah, any one of them? I think let's. It's very minute. It's not there.
+Adam Harrison: Insurance card.
+Steven Eshun: Okay. Yeah, they have it there.
+Adam Harrison: This is from zocdoc. Yeah, yeah.
+Steven Eshun: So these are. You have the insurance information there. So when you click there, you see.
+Adam Harrison: Okay, great. And so just curious, Stephen, have you. Which of these have you already kind of submitted to insurance?
+Steven Eshun: Like I was saying last year, I think I didn't do. I didn't do any billing. So I. I have to. The ones I have not done. That's what I was saying that I have to. I'm going to write a list and give it to you.
+Adam Harrison: Okay. Okay, that's. Yeah, sorry, you did say that already. So my, My mistake. And I'm trying to think what other questions I have. Oh, as far as like credentialing and all that goes with insurance, have you gotten set up with like eras and you know, payment posting and credentialing with. With your different payers or do you have a list of like, which payers you are, you know, in. In network and credentialed with. Just. Just curious, like where things stand kind of there.
+Steven Eshun: Yeah, so all, all those I have as of now, although that show. I mean, I'm credentialed. You know, I have a. How do you call. I mean, network with them.
+Adam Harrison: You're in network with everyone that you.
+Steven Eshun: Yeah. Medicare. How do you call it? All those. I'm network with them. Because with Zidoc, if you are not in network normally, if I'm not in network with them. I check it. I. Not normally I don't see the patient, you know, so those I'll provide. I mean, network with all United Medicare and all those stuff. I'm in network.
+Adam Harrison: Got it. And do you. Are you enrolled to receive, like, eras from. From these different payers? So, for example, you know, when you submit a claim, they will send you electronically. Like, you know, what happened with the payment and the coverage and they like post that automatically or is that. Is that not yet set up?
+Steven Eshun: Okay, that one, the. The company I was working, I think the information was going to them directly, so I wasn't having access to it. All that I knew was, you know, the payment. The payment will come to me. But in terms of communication, it was going to them. Yeah.
+Adam Harrison: Okay, so you were working with a billing company.
+Steven Eshun: Yeah.
+Adam Harrison: What. What was. Was it like a billing service or was it just like another software tool?
+Steven Eshun: No, software. Well, it was a very. Company. They were, you know, based in India.
+Adam Harrison: Based in India. And they didn't submit any claims for you last year?
+Steven Eshun: No, I actually do. What? I didn't do it, you know, like some I didn't get a chance to do. I was kind of a little bit. I didn't get a chance to do it because before they can do it, I have to send them. They want me to send it a list of patients that have, you know, they have to do it.
+Adam Harrison: Oh, okay. Okay. So they, they. Yeah, I see what happened. Okay, so they never actually got around to. To doing that.
+Steven Eshun: Yeah, yeah.
+Adam Harrison: But they did help you. Did they help you get set up with credentialing and things like that and getting enrolled with payers or you're not sure?
+Steven Eshun: Yeah, they did a credential for me.
+Adam Harrison: Okay, I see.
+Adam Harrison: Yeah, I see. Okay, well, this gives me some stuff to kind of get started with. I'll start by just seeing if I can maybe filter by people who are labeled, as you said, ready for biller. So let me see if there's a way I can just, you know, kind of pull a list of everyone who fits in that category automatically. That might save you some time as you're like pulling a list together. And then, you know, one thing I will say, Steven, is I'm not. We'll go. We'll build back as far as we can. There is, I think, some limitations where you have, you know, 60, 90, 180, you know, depends on the payer, but you have a certain amount of time before it's like, you know, kind of too late to submit the claim.
+Adam Harrison: So we might not be able to do all of last year, but we certainly will do as much as we can. And we, you know, we also. Yeah, that'll probably just depend on the. Payer and kind of your. Your payer contracts that you have with them. So if that sounds good to you, maybe what I could suggest as the next step here is let me spend a little time kind of going through your sort of patient directory here, and let me see if I can save you some time and preparing that list that you mentioned.
+Steven Eshun: Okay.
+Adam Harrison: And then can we chat again sometime later this week to just sort of check in on where things are and I can let you know if we'll be able to generate the list or maybe we might need you to kind of create the list for us, if that. If that sounds good.
+Steven Eshun: Yeah, sounds good. Let's do maybe Thursday.
+Adam Harrison: Okay, Thursday? What time Thursday?
+Steven Eshun: You know, I can't be dicey. I have to take my schedule with my schedule. You know, they can book up for my anytime. So the same time. But in case there's any change, I will, you know, I will notify same time on Thursday.
+Adam Harrison: Let me just double check my calendar. Could we do a little bit earlier? Could we do 30 minutes earlier? Is that okay? Yeah, Is that okay? I just have a conflict at that time.
+Steven Eshun: All right.
+Adam Harrison: Actually, would. To work that would probably be even better just because I want to make sure we have enough time to go over everything.
+Steven Eshun: Okay, let's do two.
+Adam Harrison: Two. Okay. Thank you for being flexible, Stephen. All right, well, I will send an invite for two, and we can go from there.
+Steven Eshun: Okay, thank you.
+Adam Harrison: All right, thank you, Stephen. We're. We're very excited to help you. And yeah, I'll come back with an update in a few days here on, on. On this.
+Steven Eshun: Okay, thank you.
+Adam Harrison: Thank you, thank you.
+Steven Eshun: Bye. Bye.

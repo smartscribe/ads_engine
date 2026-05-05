@@ -1,0 +1,64 @@
+Nathan Peereboom: Hi, how are you? Hi. Sorry, how do I pronounce your name?
+Prabhukrishnan G: You can call me Prabhu.
+Nathan Peereboom: Yep, it's an exciting Prabhu. Nice to meet you.
+Prabhukrishnan G: Nice to meet you too.
+Nathan Peereboom: All right, so yeah, I would like to just like get to know you for a sec. Can you just like give me some context in terms of like who you are, how you fit into the situation with. Is it gomo? Is that how it's pronounced?
+Prabhukrishnan G: It's Go ML, yeah.
+Nathan Peereboom: Okay, cool. Yeah. So do you mind just like giving me just like some background on y' all and just where, where you're located, what we're trying to get this call, etc. Etc.
+Prabhukrishnan G: Sure. So we are a GENIE solution providing company.
+Prabhukrishnan G: So we started in 2023. We, we grew from almost five member to now almost. We have 2200 plus a expert in our company.
+Nathan Peereboom: Oh wow.
+Prabhukrishnan G: And we are also preferred Gena competency partners for aws. And yeah, we have customers. Most of our customers are in US like North America. 80% at least 80 to 85% of our customers. And we are specialized in AML engineering use cases.
+Nathan Peereboom: Gotcha.
+Nathan Peereboom: Yeah, and yeah, sorry, keep going.
+Prabhukrishnan G: I'm getting some background noise from your end. Okay. Yeah, so we are mainly focusing on banking sector, healthcare, life science, edtech, like that. And yeah, we have built almost 100 plus. Sorry, 150 plus use cases so far. Like almost 50. Percentage of it or introduction I hope.
+Nathan Peereboom: Gotcha. Yeah, that makes sense. So I, I think I'm just like a little bit. Yeah, I mean like how do you guys work? I'm like really curious about what the process is for working with you.
+Nathan Peereboom: What does it typical engagement look like?
+Prabhukrishnan G: Yeah, so we work in different engagement models. Like one is fixed outcome based model that is basically let's say you are a customer, you have some requirement, you will come to us and we will discuss this like we will understand your requirement and build a proposal. In the proposal we will. Commit to certain things like the scope of work, deliverables, timelines, everything. So whatever is written in the proposal, we will deliver that. That is fixed outcome based type of engagement. Then another type is we have a pod like we will deploy a port means like we will team which is required for you like an ML engineer, backend developer, front end developer, DevOps. Like whichever is more suitable for your requirement for a particular time period. For example it can be 3 months, 6 months or 12 months. The only the major difference is for the fixed outcome based model you will not be able to change the scope. In order to change the scope you will have to pay you. You'll have to go through a CR process where if the effort is more, you'll need to pay additional. But on a POD based engagement you will have a. You'll have the free hand to drive the project. Like you can set up the tickets and you can actually play with the scope but for a definite period of timeline. So that is the two type of engagements we typically have with our customers. You Sorry, you're on mute.
+Nathan Peereboom: And then can you kind of explain just like the dynamic with this particular like program? I know that Amazon's funding it. Some of it. Like we don't actually know where we are in that process. You just like yeah, just bring me into that a little bit.
+Prabhukrishnan G: So since we are AWS preferred partners, AWS actually helps our customers to build some POCs or MVPs by covering the development cost. That said for P for POC they will fund around 25k.
+Prabhukrishnan G: Okay, that is big. That is only to cover the development cost. Same as for MVP, they will fund around 50 to 70k. If you are looking for a fully funded project and you don't want to spend any money out of your pocket, what we would suggest is for we can stick to a scope that can be completed in four to five weeks for a POC so that that cost will be around 25k which will be completely taken care of. AWS Gotcha. Similarly for MVP you can stick around like eight to 10 weeks. So we need to narrow down the scope in such a way that you don't need to spend any amount from your NV in.
+Nathan Peereboom: Got you. Okay, cool. Can you maybe walk me through some of the things that you guys have built? I'd love to just see some examples just so I understand what you guys experience in what you're really good at. Just some of the. The depth that y' all have, you know, kind of worked through.
+Prabhukrishnan G: Sure. I'm assuming you would be more interested in healthcare use case since your company is doing the same. Okay, let me see.
+Prabhukrishnan G: Yeah, yeah, let me find something.
+raghavendra.ms: I think you can share that Max healthcare use case, right?
+Prabhukrishnan G: I'm trying to pick up Atria.
+raghavendra.ms: Okay.
+Prabhukrishnan G: Or would you like to take up something?
+raghavendra.ms: No, no, that's fine.
+Prabhukrishnan G: Okay. Just searching for the demo videos.
+raghavendra.ms: I can also share our case studies link Nathan so that he can take a look at.
+raghavendra.ms: Yeah, that would be really helpful.
+Nathan Peereboom: Do you mind sending that to. That would be.
+Prabhukrishnan G: Okay, I'm not able to find the demo, but I will try to share it offline. But I can give you the use case idea. Like for one of the biggest company in North America, like on the healthcare side, which is Atria, we build a very interesting use case which is a pha. So patient health analysis. So we have automated the end to end. Sorry, are you. Can you hear me? Yeah. So we are. We have automated the end to end flow of patient health assessment. Like. Like we have integrated with the ERPs like. Like to get the patient information and then for accumulating all the patient history right from the very first beginning. I mean right from the. A patient journey like when it started to. When they. When they got admitted in the hospital. And with all the test reports and stuff. Like we have the entire data stored somewhere. And with that knowledge base any like the user of Atria can basically the doctors can get the insights of the patient. Right. At any time along with all the citations and stuff. When and where the test was taken, what was the condition of the patient at that time, how they were discharged, what was the treatment given. The entire history of a patient was summarized for the doctors. So this, this. And also there was another use case for Atria, like which actually predicted the upcoming or disease for a patient based on the current. The symptoms and records and which actually helped one of the doctor to identify it in, in advance and then took right actions on it. So that was one of the biggest use case we solved on health care.
+Nathan Peereboom: Okay, very helpful. Okay, great. That's, that's super. What, what are you guys needing from like what are we trying to end today's call with? I mean I know like, I'm trying to understand a little bit about obviously what you guys do, the capabilities for us it sounds like, well, I guess one, have we been selected for this Amazon program? So it's like we're just trying to figure out like what project we might experiment with. Is that it?
+Prabhukrishnan G: Yeah. I mean I'm assuming you are already using aws.
+Nathan Peereboom: Yeah, that's right.
+Prabhukrishnan G: Yeah. That is why you would have referred to goml and that's, that is why we would have reached out to you either our sales team or a marketing team.
+Prabhukrishnan G: So what we are basically trying to say here is like you are eligible for certain type of funding, either POC or MVP depending upon your requirement. And in that case, like if you are, if you, I, I'm assuming you already have an application and if you have some other use cases that you would like to integrate to your current system or if you want to optimize your current system, we have all the expertise to do that or if you want to try something very new, we can do a poc.
+Nathan Peereboom: Okay.
+Prabhukrishnan G: And based on the poc, we can proceed with the mvp.
+Nathan Peereboom: Okay, gotcha. So what do you guys need from me? Because here's what I'm going to do. I'm going to take this conversation, I'm going to kind of roll it back to our engineering team and our product team and basically say hey, here's the opportunity. And then we'll probably write like a document if we decide to move forward with this, that outlines, you know, what it like what we would like to build. And we probably do wireframes and all that jazz. Is that the right next step?
+Prabhukrishnan G: Yeah, definitely. Like I didn't know that this was a discovery call. We came in, we came here with the mindset that you're going to scope a project. But that is fine. I hope I was able to give you some, some sort of idea about what we are doing and what GOML is. So maybe as a next step, as you told, like you can go discuss with your team and then come back to us. Like these are the things we need. We are, we want to build basically then we can definitely take it up. So just for additional heads up. Like we. We have expertise with both. Front end, back end, a ML, intelligence, interoptimization, everything end to end. So whichever and wherever you need our support, we are happy to help you.
+Nathan Peereboom: Okay. All right, great. Let me do this. I need to talk to. My CTO about this, because I think. I think candidly, like, the. The thing that we are very wary of is just, like, time, you know, like, distraction and time. We don't waste your time. We don't want to waste our product manager's time. So I think that he probably has a better way of evaluating just kind of whether or not, like, one, what scope would be reasonable, and then two, what the. Like, I guess, like, what the evaluation process would be to decide if we actually wanted to go forward with that. So I'm going to take this back to him, and then can I just send you guys an email with kind of, like, where we sit on it? And then, you know, we can figure out, like, again, we can negotiate the scope, like, if it turns out that he's comfortable with moving forward.
+Prabhukrishnan G: So I didn't hear you for the last 30 seconds, at least, or did you ask me to send you something?
+Nathan Peereboom: No, no, no, you guys, I.
+raghavendra.ms: I heard you, Nathan. I think. Yeah, I think that sounds like a good plan. We can definitely do that.
+Prabhukrishnan G: Oh, I lost you again, Nathan.
+Nathan Peereboom: Just because I want to deliver as much to. Because here's my goal. My goal is, like, you guys seem awesome. I really enjoyed the conversation I have with the GOML team last time. I want to make this work. I think that the product team needs to, like, see the argument, though. Like, what. What else would you have me put in front of them, either as an artifact or, like, as an understanding of, like, just the whole. The whole opportunity here that you would find would help them kind of get comfortable with it. Just so you know, we've never worked with an outsourced team team, so this is a big leap for us culturally. And so anything else you have about your group would be, like, incredibly helpful in kind of de. Risking that.
+raghavendra.ms: You mean to say, in terms of capability.
+Nathan Peereboom: Yeah, I mean, I think in terms of capability, in terms of how you work, in terms of, like, if you guys have references, like, it'd be really nice to, like, talk with, like, one or two references. All that jazz would be really great.
+raghavendra.ms: Yeah, sure.
+Prabhukrishnan G: We will ask the sales team to send you all the details either on Monday or Tuesday.
+Nathan Peereboom: Okay, perfect. Great.
+Prabhukrishnan G: Yeah.
+raghavendra.ms: Yeah. Monday being us holiday. I don't think they'll be available. Right.
+Prabhukrishnan G: Okay. Then we can send it on Tuesday, if that works.
+Nathan Peereboom: Okay, sounds good. Yeah. There's no rush on our side. Okay, cool.
+raghavendra.ms: Perfect.
+Nathan Peereboom: All right, awesome. Well, hey, thank you guys so much. I really appreciate it.
+Prabhukrishnan G: Thank you.
+raghavendra.ms: Thank you. Thank you for your time as well. If you have any other question, feel free to send us an email. As you suggested, we'll be sending out an email to you with our email addresses as well.
+Nathan Peereboom: Awesome. Okay, great. Thank you.
+raghavendra.ms: Yeah. Thank you. Bye. Have a nice weekend.
+Nathan Peereboom: Bye. Bye.

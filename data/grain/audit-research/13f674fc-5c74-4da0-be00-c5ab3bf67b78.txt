@@ -1,0 +1,77 @@
+Christopher Hume: DC is not ready for it. They still. Our streets are still pretty, pretty messed up.
+Moses Mbugua: Ah, yeah, well, that's. That's how these elected officials lose their jobs.
+Christopher Hume: Yeah. Right.
+Moses Mbugua: Quickly.
+Christopher Hume: Well, Moses, I know that I was chatting over email with Ola last night about the Chrome extension. Right. And she asked if we could set up time today for you and me to touch base. Right. So just wanted to check how things are going with Jot Psych. Have you been able to try the Chrome extension?
+Moses Mbugua: So I did. I tried the. The old one. Okay. And you know, there are some complications with it, so I just went back to copy pasting. Okay. Then this morning I got the other one. So I deleted the first one and I started using this other. But I'm still having, you know, challenges. I. I don't know whether it's something I'm not doing right or I'm not sure. So this might be helpful.
+Christopher Hume: Yes. Well, either it's. If it's unclear, that's something we need to fix too. So if. Moses, if you want to share your screen. Sure. Maybe we can just walk through doing it together. Hopefully I can get this issue resolved right away. But if not, I'll tag up with Lee, our engineer, and get this sorted out for you.
+Moses Mbugua: You want me to open the screen with the doctor Chrono and the Jet Psych? Okay.
+Christopher Hume: Yep. And then if you can just share, I will. Using the little.
+Moses Mbugua: So I had created a dummy patient for trial and.
+Christopher Hume: Hey, Ola, thanks for joining.
+Olha Tishchenko: Thank you.
+Moses Mbugua: All right. So wonderful. Can you see my screen?
+Christopher Hume: Yep.
+Moses Mbugua: Okay, so I'm going to open. Right here. I'm going to open the. The job site. This is right here. Right?
+Christopher Hume: Could you actually share your entire screen? Moses, right now I think you're only sharing the tab.
+Moses Mbugua: Okay. Let me. Let me redo that then.
+Christopher Hume: Thanks.
+Moses Mbugua: Yep.
+Christopher Hume: Perfect. Thank you.
+Moses Mbugua: How is that?
+Christopher Hume: Yep, now I can see it. Looks good.
+Moses Mbugua: All right, so. So you see, you see the. The shadow?
+Christopher Hume: Perfect.
+Moses Mbugua: So this is the dummy patient that we did yesterday. Yep. And this is the. The corresponding note. Clinical.
+Christopher Hume: Perfect.
+Moses Mbugua: All right. All right. So here we are.
+Christopher Hume: Yep. Now, have you ever been able to get past this, Moses? Have we run into any issues?
+Moses Mbugua: So here. So let's say, for instance, I will click here.
+Christopher Hume: Yep.
+Moses Mbugua: Initial. And then do I just come here?
+Christopher Hume: Oh, you actually push the launch button. Do you see?
+Moses Mbugua: Yeah, right here.
+Christopher Hume: Yep.
+Moses Mbugua: Yeah.
+Olha Tishchenko: Can it be the problem that yesterday I created another template?
+Christopher Hume: I don't know if that should have create.
+Olha Tishchenko: Created a problem.
+Christopher Hume: I tried.
+Olha Tishchenko: I tried to name that like as you have in Jet Psych.
+Christopher Hume: Okay. Yeah. So I think typically, if I'm remembering properly what Lee said is the first one, it has to map out the whole kind of template. So this first shuttle over might take a little longer, and then after that it should be a little quicker. But let's. There we go.
+Olha Tishchenko: Perfect.
+Moses Mbugua: Okay.
+Christopher Hume: So there you go, Moses. Yep. And so as Ola was kind of talking about the. If the templates are lined up exactly so it sounds like Ola, you just made a new template in Dr.
+Olha Tishchenko: Chrono that.
+Christopher Hume: Yeah, it'll be even faster and even more kind of accurate. But this just taking a standard jot psych template and a kind of random Dr. Chrono template. You can see Moses. It'll get you pretty close.
+Moses Mbugua: Right. Okay, so there's some that we might need to change.
+Christopher Hume: Yep. And you can change either the name of the section in DrChrono or in Jot Psych and then it will more closely map.
+Moses Mbugua: Okay, got it.
+Olha Tishchenko: Something. It put it under details, you see?
+Moses Mbugua: Yeah. So it is here next to something else.
+Olha Tishchenko: Maybe we can. Can we turn it off from the jetstake account, for example, for that section?
+Olha Tishchenko: If you don't exit information, we
+Christopher Hume: can just get rid of that section so it'll no longer be in future notes. And I can show you. I'll show you how to do that in a moment.
+Moses Mbugua: Yeah, this is really helpful. Because you don't have to worry about a lot.
+Christopher Hume: I just want to apologize again for the confusion when we kick this off. Moses, I'm so sorry. You and Ola were trying to do the Chrome integration and you were using the recorder. And so again, my apologies for the confusion there. So happy that this looks like it's running.
+Moses Mbugua: Yeah.
+Christopher Hume: Let me just show you how you can remove a section from a template. Just so you're not getting like the email or any of that stuff.
+Moses Mbugua: I can stop sharing, right?
+Christopher Hume: Unless you have any more questions for me, Moses.
+Moses Mbugua: But I do not.
+Christopher Hume: Wonderful.
+Olha Tishchenko: Quick question. I have. So we need to have the two extensions.
+Christopher Hume: Just one. So the other extension. So that the confusion was we have one extension that's available to everyone on the App Store.
+Olha Tishchenko: That's what you saw.
+Christopher Hume: And that's just for people who want to record using a Chrome extension instead of the application, the Dr. Chrono or this Jot Shuttle extension. It's on the Chrome store, but it's unlisted, so it's only shared with people who have that link I sent Ola.
+Christopher Hume: Okay, so you only need that one.
+Olha Tishchenko: Okay, thank you.
+Christopher Hume: And so if you want to remove a section from a template, you can either go to a note and press this Edit template button and then just delete. I think like you would get rid of the follow up email. You just press this delete button and then Hola. Or Moses. Moving forward, next time you use that encounter type, it won't have that additional information. So again, you could do that from the note itself just Edit template. Or you can go to your note templates, select it, and then just push this X here and remove any section. You are. Just like that. Does that make sense?
+Olha Tishchenko: Yes. Thank you.
+Christopher Hume: Wonderful. Is there anything else I can help everyone with today?
+Moses Mbugua: This is good for me.
+Christopher Hume: Wonderful. Ola, Igor, any last questions for me?
+Freeway Psychiatry: No, thank you very much. I see how everything works. Thank you. Hi, guys. All right, so we're free to go. Thank you. I'm just going to log off and I'll talk to you guys tomorrow.
+Olha Tishchenko: Thank you.
+Christopher Hume: Let me know if you do.
+Moses Mbugua: Bye.

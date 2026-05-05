@@ -1,0 +1,170 @@
+Dr. Amy Anderson: Okay.
+Jack Waugh: Amy, can you hear me okay?
+Dr. Amy Anderson: Yeah.
+Jack Waugh: All right, awesome. Good to good to talk face to face. I'm glad we were able to work it out.
+Dr. Amy Anderson: Me too. It's nice to meet you.
+Jack Waugh: Yeah, likewise. Yeah, so I know you're excited to get started. I want to make sure I help you get set up with everything. And kind of show you kind of whatever you need from us to help you solve whatever problems you're having. So you kind of want to walk me through what some of your needs are for your clinic and your practice. And I'll tell you how we might be able to help with that.
+Dr. Amy Anderson: Oh my gosh, I need everything. I'm doing everything by myself. I would love to have administrative help again because it's a full time job. I love the idea of being able to record and have my note just come out. I've been doing that with chat. GPT just to test it. I just don't know if that's HIPAA friendly. Yeah, but I found it very helpful.
+Jack Waugh: Cool. And what's like right now in a given week how much time are you spending on notes and like administrative kind of work?
+Dr. Amy Anderson: Not very much. Which is not good because usually I do everything within 12 hours. I get it all done day per day. I've not been that way. It's been too busy and I'm so I'm just tired. The other thing that's been difficult is like doing what ChatGPT has been helpful because now I've got my note, but then I'm cutting and pasting it into my email, which then I later have to find. And reformat and then put into their file. And that's taking so much time.
+Jack Waugh: Gotcha. Yeah, I totally hear that. So that's kind of our sweet spot is helping people save and actually get their time back. The way Jot Psych is actually meant to be used is that your patient walks in, you hit the record button, they walk out. You hit stop and we generate a fully HIPAA compliant note for you before your next patient walks in.
+Dr. Amy Anderson: And it's trendable from there.
+Jack Waugh: Yeah, but you can also, I mean, we also have like a copy all to clipboard. So if you want to like put it in a Word document and print it, but yeah, it's all very easy to do from that note. It's meant to be kind of sent to anywhere. Exactly. And yeah, the note creation takes like 10 seconds. It's really quick. Do you also, do you have an account like a trial account yet? With us?
+Dr. Amy Anderson: No. I don't think so. I don't know because part of me feels like I did sign up for something.
+Jack Waugh: A trial maybe you did. I can always give you, if you already did that, I can always walk you through, but okay, so that's the scribe element. And as far as like other services, I mean, I don't know what's your current situation with billing like right now too. Are you doing all that yourself as well?
+Dr. Amy Anderson: No, my parent, my parents prepay me. So I do packages for the sake of not having to worry about asking for payments, chasing people down. I've done it that way for 15 years and it's been perfect.
+Jack Waugh: Gotcha. So you're all private pay not through insurance or anything like that. Right. Yeah. Okay.
+Dr. Amy Anderson: Do those, does this, is there a place on here where I can have that documented. Yeah.
+Jack Waugh: So the reason I ask is we have a feature also like a billing suite feature too. And we do a few different things. This actually might be a separate call for another time where we could talk about more in depth. But basically. We'll manage and like submit claims if you're dealing with insurance for you, you're not. So really on our end, it's more like giving you an overview financially of everything.
+Jack Waugh: So you actually see like your entire and we also do handle payments if that's something you want to handle through job. Okay.
+Dr. Amy Anderson: Awesome. Yes. Like I'm using stripe right now. So it's something it would be a payment platform.
+Jack Waugh: Yeah, actually I think we process through Stripe.
+Jack Waugh: But the nice thing is it's actually in house in JotSych. So that way you're not like juggling around different windows.
+Dr. Amy Anderson: Yes, yes. So are you familiar with. Never mind forgot what it's called. It's another one I was using, but I don't really use. Simple practice.
+Jack Waugh: Yes. Yeah. I'm vaguely familiar.
+Dr. Amy Anderson: Is it is it kind of like that?
+Dr. Amy Anderson: Right through you.
+Jack Waugh: Yeah. Like we, I'll show you and share my screen in a second. But yeah, the way it kind of works is like we handle like the actual payments. So you just click a button and hit, you know, invoice patient and send, you know, send request and then the patient's payment will show up there in Jot psych. And everything. You know, it's just meant to be so you can do everything in one spotline.
+Dr. Amy Anderson: It. Okay. Is it I am curious does it make the delay. In deposit. I'm sorry. I'm not finding my words. I noticed with simple practice the reason I stopped doing it through them is because it was a two day delay in depositing and I my accounting, I like it to show up that day because it keeps my books really clean.
+Jack Waugh: Yeah, it's normally very quick. It's I would say about is because it runs on Stripe. It's about as quick as is. Yeah.
+Jack Waugh: So it's a quick process for sure. And then as far as billing like what I know you would ask, you wanted like some kind of like overview or something like that. That was something you were interested in.
+Dr. Amy Anderson: So I don't invoice. Is there a place on here where I can pull like create a receipt? Like quarterly or monthly for patients? Where I can also has the coding like a super bill.
+Jack Waugh: Yeah. So what I what I'll do we should have some of that already built into JotSec. Now for more of the codes and stuff and like a big like overview like here's what my finances look like. That might be a conversation for our billing team as well.
+Jack Waugh: So I can go up on a separate call with them so you guys can like talk through that and see if that might.
+Dr. Amy Anderson: Okay, we can go piece by piece and just start with the AI. That's a good place to start.
+Jack Waugh: Okay. Yeah, definitely. And then I did want to ask you before I, you know set you up with that. So do you have other providers in your clinic who would be using this?
+Dr. Amy Anderson: No, we're all independent unless my daughter's a life coach and it's her own little company. I don't know if she could be included in this is a 1029 or if she would be separate.
+Jack Waugh: It's up to you. She could be if you guys are part of the same practice then yes. If you guys are different practices then maybe makes more sense to keep it separate.
+Dr. Amy Anderson: But I will start with just me. Okay cool.
+Jack Waugh: So yeah I'd be happy to definitely get you set up with that. And yeah first of all any questions about job site in general.
+Dr. Amy Anderson: I want to make sure I no, I'm excited about this. I'm ready to use it this week.
+Jack Waugh: I'm excited for you to start saving a ton of time on your notes as well. You know it's it's a big time saver for people. On average. We generally help people save somewhere between five to eight hours a week on their notes. I've heard more. So yeah, it helps. Make sure you're set up with an account first. So do you are you logged in at all or I don't know if you created an account with JotSych.
+Dr. Amy Anderson: I want to say I did. I don't know how to find out.
+Jack Waugh: I can check for you. I don't think I'm not actually seeing one here. So if you want to log in, I'll like send you the link so you can do that.
+Dr. Amy Anderson: Okay. Now do I go to my email to get that done?
+Jack Waugh: Yeah, I'll go ahead and send you. No you can you can keep me up in this window here and then you'll be able to like kind of toggle back and forth.
+Dr. Amy Anderson: Okay. You just sent it.
+Jack Waugh: Yeah I just sent it to you.
+Dr. Amy Anderson: Oh, just got it. Okay. Okay. What do I. How do I do it? For free?
+Jack Waugh: Yeah yeah, so you're going to do try for free.
+Jack Waugh: And then you see there's like a little button that says like login or something like that. Just click that first. And then on that next page you get to it should say like toward the bottom like sign up.
+Dr. Amy Anderson: Oh yeah I see it. Okay.
+Jack Waugh: Yeah. So take your time with that and when you're done with that. I'll share my screen so we can kind of walk through it together.
+Dr. Amy Anderson: Fill everything out. I thought I did this but maybe I didn't.
+Jack Waugh: Yeah take your time no rush at all.
+Dr. Amy Anderson: Have a referral code but it'll still let me in.
+Jack Waugh: Yeah, you don't need one.
+Dr. Amy Anderson: When people use this they use their computer. You just open your computer up.
+Jack Waugh: Yep you just open your computer. We do have an app also that works on your phone if you want to use that.
+Dr. Amy Anderson: And is it is it good about not pausing? That's been one predicament I'll end up like you know I've just been testing the chat like I told you for a week I'll notice that some ended up pausing and I didn't know it and I don't want to keep going and hitting record during a session. Yeah.
+Jack Waugh: So we do not have that issue it's pretty seamless I've never I don't think I've ever heard anyone complain of that before it's normally pretty good about everything and not like glitching out or anything like that because ChatGPT will different it's kind of meant to be like when you use that voice mode it kind of has a mode where you can interrupt it, you know, so it doesn't we don't have anything like that
+Dr. Amy Anderson: it's not smooth i'm at the welcome to jot psych record your first encounter that's where
+Jack Waugh: perfect yeah I'll share my screen and kind of walk you through and if you have any questions just feel free to stop me
+Dr. Amy Anderson: but this is how do I how do you share screen do I go back to the other one?
+Jack Waugh: Oh yeah so you you don't have to share your screen but if you want to like kind of follow along as I'm doing this you can so you could just go back and forth between the tabs if you want like this okay, oh okay. Okay cool so can you see my screen here?
+Jack Waugh: Yes okay so basically the first thing you're going to do is you would just go over to this record window. And this is kind of where you would select the type of session that you're going to work from so you know intake would be obviously if a patient is just walking in for the first time.
+Jack Waugh: And then you know progress node if it's another time we also have like medication with add-on psychotherapy and a bunch of different templates here. Okay.
+Dr. Amy Anderson: So if I'm reading or I'm dictating basically doing my intake assessment it's going to format it based on my how I've organized it and the topic sentences or traffic.
+Jack Waugh: Yep exactly so I'll show you what that looks like here so basically you'd hit start recording. Stop recording generate note and then I'll show you what an actual note looks like here with jot psych.
+Dr. Amy Anderson: Yeah I love this.
+Jack Waugh: Huge time saver it really you know it just is meant so you can actually be present with your patients and not have to like get bogged down in all the paperwork. Yeah so basically this is what a note would look like this is like an intake template okay. So I should read through this
+Dr. Amy Anderson: I don't necessarily have to follow that template it'll follow mine.
+Jack Waugh: Yeah so the cool thing about jot psych is we let you do custom templates so over here see documentation and then note templates up here. If you go to this upload template button. You can just drag and drop like if you have a PDF or if you just have like words you want to type like the different headings of different sections of a template you can type it in there and we'll just build it out for
+Dr. Amy Anderson: you oh my gosh I can actually download or upload my initial assessment. I love that okay how does it know to change is it the AI piece that knows when I switch
+Jack Waugh: yep that's where the AI of our what we've trained the software on comes into play so all you have to do is have the outline ready and then we'll kind of know and we'll ask you per section what do you want in this section what do you want in this and you just do that one time and then this template will work forever
+Dr. Amy Anderson: basically I love it okay what about like is it doing like a transcription or is it also connecting me correcting me grammatically see how I'm doing right now I can't even speak or just like making it a little bit more professional sounding but my word style.
+Jack Waugh: Yeah so it's going to format everything you're saying into the format of a HIPAA compliant note so it's not going to just like jot down what you say verbatim or you know grammar and stuff like that it's not it's going to correct it so it's in the correct billing format like the actual you know legit note format
+Dr. Amy Anderson: now I specify that then if it's for like a court or it's informal.
+Jack Waugh: Yeah yeah so if you have a template what you can do later I mean number one when you build the template if you want something specific you can add that there but if for some reason you build a template and you realize later you know I kind of like this to be a little different I would like this section to have more of this and less of that or I like this part to have bullet points of like this part to be longer you can actually use the AI note editor here okay and you can just say like from now on. For this section use bullet points or don't mention sleep patterns or whatever it might be okay.
+Dr. Amy Anderson: All right so that can take some time for it to learn me and for me to learn it and what I want and what do I want to adjust.
+Jack Waugh: Yes although that being said there's a good chance that once you upload the template it might kind of just work right out the gate for you.
+Dr. Amy Anderson: So yeah okay.
+Jack Waugh: All right cool.
+Jack Waugh: I love it awesome and then I don't know do you find like you have to write a lot of like patient documents like you know support letters or authorizations or things like that
+Dr. Amy Anderson: I do maybe five a year okay they take more time than anything.
+Jack Waugh: This is a nice little bonus feature we added we will actually write one for you so if you click on the patient tab and you just click on the patient go down here to documents I mean you can type in anything but this is just like an animal support letter.
+Dr. Amy Anderson: Which is kind of. And does it draw from the patient's other notes to know how to what how to put it together? So it gets to know my patients it does exactly I love that now where is there a system in here where I I can just create their files in here then I just let their file be here.
+Jack Waugh: Yeah yeah so you can you don't have to do anything as long as you've entered the patient name when you go over to this record window see where it says like attach patient up here yeah you don't have to do anything else every time you click on that patient and you record their profile.
+Dr. Amy Anderson: And then all their notes from all their sessions will be there
+Jack Waugh: too yeah it'll all be under documentation okay love it.
+Dr. Amy Anderson: What about the billing then it's going to be in that same under the
+Jack Waugh: yeah so under patient tab that's where billing is so if you go to whatever patient. And then you would just go to payment here. Okay.
+Dr. Amy Anderson: And you could request payment I love this is awesome I love it. So this.
+Jack Waugh: It does yeah exactly I was going to ask do you do e-prescribe as well?
+Jack Waugh: I don't okay so that might
+Dr. Amy Anderson: not apply ever did I could exactly yeah what else? So this can really just take over my filing system.
+Jack Waugh: Exactly yeah we let you send forms to patients here as well so there's a lot of features and different things that you can check out here but yeah exactly it's just meant to take over the admin work so you're actually spending time doing what you want to do which is being with the patients not having to paperwork person you know
+Dr. Amy Anderson: so yeah my gosh since I lost my during COVID I lost my administrator oh my gosh it is a full time job and I'm not good at it and I'm very picky my my files I'm really good at compliance until she left just because I don't have time. What about the scheduling appointment part does that link up with my Google or Apple calendar?
+Jack Waugh: Yes I believe it will so under scheduling you can go into settings here. And it should link up with that I will double check on that just to confirm but I know you can definitely schedule patience here and like send emails for the appointments and all that through here automated.
+Dr. Amy Anderson: Emails or text. Is there a way to set that up to make it automated?
+Jack Waugh: Youd know that's a good question I don't know if it's automated. Let me check on that it might it might not
+Dr. Amy Anderson: be automated I would have to manually go in and shoot the reminder.
+Jack Waugh: Let me check on that for you let's see okay. I can definitely find that out I'm not a hundred percent sure
+Dr. Amy Anderson: but okay wait see that would be great that way I don't have to I can just have everything in one place instead of having another company that's sending my reminders
+Jack Waugh: oh yeah totally let me I'll reach out to my colleague and see. Automation.
+Dr. Amy Anderson: Oh this is great i'll have more questions as I get to know it love to be able to send quarterly and monthly receipts super bills that have everything since they prepaid me or like the scheduling reminders would be great.
+Jack Waugh: Yeah and for the billing I'll definitely put you on a call our CEO Nate handles our billing call so I'll have you talk to him and and he can kind of show you what kind of overviews and things we might be able to help you with for that okay
+Dr. Amy Anderson: I'll get started on this part that way when you connect me with him I might have a few more questions okay so as I get to use it how do I start that process I get a week to try it?
+Jack Waugh: Yeah so you get a week and what I can also do for you like today I can set you up like you know you could always cancel before this but if we get you set up to go on the full plan after the week then I can also give you two like templates that will build out for you so if you want to just send us the thing we'll kind of tweak it for you and make sure it's already set up by the time you use it send you my my intake yeah so if you want to send us let's just just something we're doing for April so and then we also will give you like unlimited customer support calls as well
+Dr. Amy Anderson: I love that let's do it.
+Jack Waugh: Cool so I'll have you input your info there and again if for some reason you needed to cancel you could before this. But I think you're going to find this is going to help you a lot so my hope is that you won't have to do that
+Dr. Amy Anderson: where do I put my info in
+Jack Waugh: then okay so you're going to go to your practice here okay and then you see this your subscription okay. So you're going to click that. And then you see this little purple ad payment button. So go ahead and click on that. And let me know once that's in there and I'll make sure you're all set.
+Dr. Amy Anderson: Oh not the one where this I'm sharing the screen.
+Jack Waugh: It's yeah that's the one where I'm sharing you have to go back to yours
+Dr. Amy Anderson: and then how do I get to it?
+Jack Waugh: Yeah no problem it's at the tabs at the top of your screen so they're not showing.
+Dr. Amy Anderson: Okay wait at all okay time okay so it's telling me to record so now I'm going to not do that. It doesn't scroll up is that the system or my computer.
+Jack Waugh: Let me see if I can
+Dr. Amy Anderson: get a homepage go to home page okay.
+Jack Waugh: Try that and see if you can get so what you're just looking to do is get to the job psych window.
+Dr. Amy Anderson: So I'm at your I'm at jots like go to your practice is what you said yes great so
+Jack Waugh: got it okay okay and then you see that purple button there.
+Dr. Amy Anderson: Yes add payment method yeah exactly okay. User saved information send code to email no no no wait it's sending me a code
+Jack Waugh: it might it might not it might just show up what do you see on there?
+Dr. Amy Anderson: I hit card and then my email and then enter the code sent to my phone yeah so you
+Jack Waugh: can do that it's just to verify oh I got it okay yeah.
+Dr. Amy Anderson: Hold on one sec. I'm so excited okay that's not the card
+Jack Waugh: I want to use for you too I I know how much time this is about to save you so yeah. I one of the nice things about my job is I get to hear how much easier people's lives are after they switch over and it's you know really yeah it's call I have regularly so I'm I'm excited for you also.
+Dr. Amy Anderson: I'm doing this. Huge into this next weekend your phone. It's an important call so I've got to call them really quick do I email you my intake form to put on there?
+Jack Waugh: Email.
+Dr. Amy Anderson: Okay. Is that something I can do when I not driving.
+Dr. Amy Anderson: Yeah yeah you don't write this second yeah okay send it to me whatever my dog has an ear infection and he's been at the vet all day because they only had a drop in appointment and they just called that's the teacher called oh yeah I know
+Jack Waugh: how that okay so you did you get you got all set my cards in yeah okay cool so then I'll get you set up with that so yeah what we'll do is whenever you want to send those templates to me just go ahead and send those we'll make sure those are built out and kind of like already tailored and set up for you okay
+Dr. Amy Anderson: and then that's Friday so don't expect it I mean don't expect that you put it in there until Monday
+Jack Waugh: so we'll go ahead and do it we'll do it beforehand I think I think we should be able to get it in there by well maybe not today because it's yeah I see what you're saying yeah it might be Monday but but it should be in there for you by Monday Tuesday and once you send it over to me I'll pass it along and then we can kind of touch base from there. And why don't I do this I'll also set up a quick call for you with Nate so you guys can talk about billing okay now while you're using jot psych keep in mind you can schedule another call with me anytime so if there's more questions that come up you can bother me whenever and just let me know but otherwise why don't I how is next Friday around this actually looks like he has I'll be doing my intensive right how would Wednesday be instead
+Dr. Amy Anderson: or Mondays and Wednesdays are really my best days I mean Monday and Friday.
+Jack Waugh: I could do it looks like he has Monday the 20th if that works for you.
+Dr. Amy Anderson: That's in two weeks if the other should work I'm usually free between 130 and 330. So you have anything like that yeah are you Central time?
+Jack Waugh: Yes okay yeah 130 he has so let me put that down.
+Dr. Amy Anderson: And how many things can I send you that you're going to upload just one big document do two at least yeah two okay.
+Jack Waugh: Yeah so if you have two templates you want us to set up for you we'll we'll do that.
+Dr. Amy Anderson: Do I send you like a PDF or a
+Jack Waugh: dog whichever yeah PDF probably is the ideal. Okay I'm sending this to you now.
+Dr. Amy Anderson: Just give me one second mine to you too perfect
+Jack Waugh: yeah that way we can get the ball rolling on that.
+Dr. Amy Anderson: And it's Jack the email oh it's jwa so J
+Jack Waugh: a so it's J and then W a u g h. Job. Psych at jot psych yeah JOT.
+Dr. Amy Anderson: PSYC.com a J o t p s y c h.com.
+Dr. Amy Anderson: I got it yep sending that to you now.
+Jack Waugh: Awesome so what me know when that actually let me check to make sure it goes through and that way once I have it all forwarded along.
+Dr. Amy Anderson: Yeah this is where I'm a literate like I it takes me forever to document. And take my intake it's tough you have to wear a lot of hats formatting there's so much formatting in this new like I used to be so Savvy but PDF. And every oh it's just awful like I okay I just sent it.
+Dr. Amy Anderson: Okay as an invite because I don't know if that's right.
+Jack Waugh: Let me check here. Okay did you send it to jwaugh at jot psych.com j whip it a zero shoot that's okay yeah it's j w a u g h.
+Dr. Amy Anderson: Yeah that's what I put but I put a zero in calm.
+Jack Waugh: Let me try this again no problem how did I miss that.
+Dr. Amy Anderson: Au j a u g h. My gosh i'm sorry.
+Jack Waugh: Don't take your time no rush at all.
+Dr. Amy Anderson: I hit the zero okay. Ready here comes yeah.
+Jack Waugh: Work. Yes okay awesome got it. So we're going to go ahead and help you with those two and if there's another one you want us to do as well we'll do that for you too and yeah in the meantime you know while you're using jot psych just let me know if you have any questions but otherwise I'm like I said I'm excited for all the time you're going to save and I think this is really going to help you out.
+Dr. Amy Anderson: So I think so too and this is all stuff that I would dictate not necessarily my initial forms like the demographic forms or the credit card forms nothing like that
+Jack Waugh: right yeah so those forms if you wanted to add you could always go to the there was like a documentation tab on jot psych and then it says forms from the drop down and other documents you can always add those in there yourself on myself okay yeah I mean we can build if there's like a complicated one you want us to do for you I'm sure we could take care of at least a couple of them depending on how many you have. So it shouldn't be a problem. Just let us know what you'd like us to do and we can tell you what we can what we can do for you there.
+Dr. Amy Anderson: So. All right. I'm going to send you one more one more documents you said too. I just have to figure out which one and I'll do that probably tonight.
+Dr. Amy Anderson: Is that okay? That's totally fine which one I'm going to do.
+Jack Waugh: Yeah I might not be. I'll actually forward it. When you have both of them. I'll forward it to my colleague on Monday and then we'll get that to you by you know shortly after that.
+Dr. Amy Anderson: So right. Okay. That sounds good.
+Dr. Amy Anderson: I appreciate your time. Thanks for letting me do this in my car.
+Jack Waugh: Oh yeah no problem Amy. No I'm glad we got to talk and yeah and I know that you'll meet with Nate on the 20th and you guys can kind of go over billing and all that. But like I said, I'll send you my link to book more time with me if you have any other questions that come up.
+Dr. Amy Anderson: So. All right, great. Thank you so much.
+Jack Waugh: Have a great weekend.
+Dr. Amy Anderson: Bye. You too.

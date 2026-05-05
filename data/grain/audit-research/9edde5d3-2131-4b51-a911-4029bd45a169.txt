@@ -1,0 +1,114 @@
+Christopher Hume: Alfred and I went into Sentry. Like, there were notes that weren't generating, but weren't generating errors and sentry either. So there was a little bit of a tele. Metry problem too. So. I'm just flagging is. Like. Don't want to put myself in the position where I'm like, oh, I'm an Oracle. I visit customers twice a month, so like, but like, I think there is something afoot.
+Becca Bressler: Can you tell me more about that piece of it, though? Like, did they know why it wasn't being captured? Did they instrument whatever needed to be done?
+Christopher Hume: I think Alfred fixed it. Like, I wasn't very involved with a technical stuff. I was just like, hey, we keep getting issues. Like, here's an issue. Can we walk through it? Mark's like, okay, tracking. I'm going to, like, spend time trying to stabilize the notes.
+Becca Bressler: But I just on this specific Shadow, you continue to see note generation issues.
+Christopher Hume: Note generation issues. This is more just like rough edges issues.
+Becca Bressler: And you heard a lot about the note generation stuff since Marcus devoted time to it.
+Christopher Hume: No, I don't know if I've heard, like, I think, like the standard amount. Like, we're still getting notes that don't generate. But I wouldn't say I have, like, the holy feeling that I did.
+Becca Bressler: But is the. Sorry, just to drill down on this because I want to make sure the Telemetry issue that you guys found. Was that specifically about note generation? Like, hey, there's no generate. Sentry wasn't capturing it. Okay. Yes. Your understanding is that there was a fix done to.
+Christopher Hume: I think there was a fix. I find it's. I know, like, Alfred was tracking, but I more brought that up as, like, emotional thing that I think we're growing, so. And I don't know anything technical, so you can tell me I'm an idiot, but, like, I'm. Yeah, I think we're growing so fast that I think there's, like, stuff that's, like, kind of slipping a little, like, slipping through the cracks. And, like, the big example I have recently is, like, the appointment stuff.
+Becca Bressler: The, like, appointment template stuff. Yeah. Literally, you don't need to tell me, Chris.
+Becca Bressler: Like, Jackson built that. He shipped it. Like, we were not given enough time to fix it before we had to release it.
+Christopher Hume: So, like. Yeah, I'm getting annihilated from, like, one of our biggest customers on it. Yeah. And so there's, like, a bunch of, like the template Builder is still kind of messed up. Like, I, like, truly can't build templates. Like, I was, like, literally into one on Monday trying to build a template for this.
+Becca Bressler: What was the issue that you kept having?
+Christopher Hume: It's just. Like. Like all of the above. It's putting random in there. It won't format one section will do bullets. I copy the prompt in chat. You can see. This is formatted properly. I want this prompt formatted the same way, and it's just not working. So, like, I was not to, like, super gas myself up. Like, I was replying on pure Riz yesterday to get through the shadow because they're supposed to be a kickoff. Like, well, I've started developing some templates, but really, I want this to be a collab. And they bought it. So it was all good. And, like, I bought it some time. Yeah. But, like, there's some. I like. I know.
+Becca Bressler: Go ahead. I just say, like, these issues cannot be really looked into unless we have details.
+Becca Bressler: So, like, if you need a template ID, we need a note ID.
+Christopher Hume: Like, do you know what I mean? Yeah. And so I need to get you that info, but I just wanted to. It's more kind of today. Like, we hear these complaints all the time. Like, they come up like people are like, there's. There's, like, the copy pasting weird. Like, we've heard that for, like, months. And, like, I can get. I'm just don't.
+Becca Bressler: Well, can you just, like, zero in on, like, specifically the rough edges you saw in the shadow and specifically your sense of what specifically are the rough edges that you think are leading to compile it's not converting?
+Christopher Hume: Like, the recording? Yeah. So, like, when I was out in Fargo last week, the new issues with recorder V2 absolute killer.
+Christopher Hume: The, like, freezing and the white, like, the screen didn't work. Yeah, it just wouldn't record. This guy's confused. And then, like, we've added so many features. Like, he has the. And I, I think this is in the brain number may not, but he had the. Like, he had his screen zoomed in. So the recording stream was like a disaster Zone. It was like everything was really big. It was kind of weirdly organized. He didn't understand how to select patients. And I know this isn't very helpful, Becca. And I know, like, the whole thing is like, we need to, like, a very concrete piece specifically.
+Becca Bressler: I feel like cannot be more clear.
+Christopher Hume: Like, it is like what cannot be more clear.
+Becca Bressler: Selecting a patient. Like. Like. Attach a patient here, the visual hierarchy is, like, distinct.
+Christopher Hume: Like some of these people, I'm just like, I don't help you. You know? Yeah. Very fair. But, like, that was like, it's what I saw. And it's just like, I want, like.
+Becca Bressler: Yeah, but no, I I do want to know specifically. Like, what you perceived as the rough edges and also what you think is the pieces that our leading groups do not convert. Like, that is the most valuable information.
+Christopher Hume: I think. Yeah. I just, like, don't. I can't tell you, like, exactly like, this is why they're not converting, but, like, I. I can tell you, like, one, we go, the screen looks a little funny when it zoomed in. That's like a design thing. I know that's kind of a limitation we have on the team. The recorder, like, sometimes.
+Becca Bressler: Wait, was it the recorder that was zoomed weird? Yes. Like, here, let me, like, share my screen. I'm curious, like, what happened? So.
+Christopher Hume: It was very zoomed in and the issue, Becca, was that attach a patient and patience up top. Ended up, like, pretty much beneath each other. And so he was, like, in this pain loop where he's, like, not technical, which, again, there's only so much we can do whatever.
+Becca Bressler: Can you actually walk me through what happened, though? So, like, look, this is my thing.
+Christopher Hume: I'm making to attach patient, and he would click on. Patients. Or click on patients with this. No, no. Like, in the top bar.
+Becca Bressler: Oh, this. Yes.
+Christopher Hume: And you'd be like, oh, yeah, Karim. Record. And it was just like he was getting, like, lost in the sauce.
+Becca Bressler: This is kind of what he was seeing, like, how zoomed in he was.
+Christopher Hume: Yes. Yeah, yeah. But I'm saying he was just getting confused, like, oh, this is, like, the navigation bar, and this is the recorder. And he was also doing something where he thought he was selecting a patient. He was recording a whole session. He had never actually selected the patient. And then he's like, oh, I just finished up with Chris. I have Becca coming up next. Let me select Becca generate note. And he was generating it for the wrong people. Like, this might be someone who's just, like, beyond help. Yeah. But I just like. And. This. Yeah, I just have, like, this. And this is. Yeah, I I don't. I sometimes think there's. Well, I. There might be a need for some expertise in this. Which were kind of trying to fill the Gap with contract support right now. So not really at all meant to be kind of an indictment of anyone on the team. It's just something I'm very. Yeah, just a little concerned about. So that's one example. The. Then the. The.
+Christopher Hume: Yeah, I just the problem.
+Becca Bressler: But anyways, like, if you're zoomed in this, like, I actually don't. Anyways, keep. Keep going.
+Christopher Hume: I'm just, like, trying.
+Becca Bressler: Yeah.
+Christopher Hume: And you just, like, truly could not figure out the patient thing. Like, he was very confused by patients. He was like, he had. Yeah, yeah, yeah, yeah. Yeah. And then. So he was confused by that. He was clicking on patience and you press patience in the top bar. Then he'd go. Let's do Bruce Cale. That's so funny that everyone has access to my parents name. Then you go record now. Like, I. Yeah, maybe this guy was just technically not all the way. He was just lost in a pain page Loop here. And I did notice that when the screen was zoomed in in his defense, it was quite cluttered. It's. It was like a lot going on for someone who wasn't high tech. I think that's what led to a lot of the issues.
+Becca Bressler: Yeah. Okay, keep going.
+Becca Bressler: I'm just, like, looking at this, and I'm like, it is responding to the amount of stuff.
+Christopher Hume: You know, he had a huge screen, though, just to. So his screen was huge. Everything was super zoomed in.
+Becca Bressler: Yeah. Next time that happens, like, ask him if you can take a photo with your phone.
+Christopher Hume: You know what I mean?
+Becca Bressler: Because even having that kind of an artifact is, like, really actionable. Like, we can send it to Alfred and be like, look at this.
+Christopher Hume: And then. Yeah, the. The other big issue is it didn't record. It got, like, stuck. And I re-elevated this bug last night and, like, created it myself.
+Becca Bressler: What happened?
+Christopher Hume: So press start recording. Good. Then I still need five seconds.
+Becca Bressler: Yeah.
+Christopher Hume: And recording. Delete.
+Becca Bressler: Oh, and then it doesn't let you record again.
+Christopher Hume: Yep, you're done.
+Becca Bressler: So you've raised it. We talked about this in our morning meeting. I think Alfred's looking at this today. Yes.
+Christopher Hume: Okay. And just to, like, be, like, super pedantic here, I. Yeah. Yeah. So that's one. Then the. The. What else do we have? I felt the data transfer was a bad experience. I think, like, we've already kind of been over this. Yeah. No, no, but I. I think.
+Becca Bressler: Yeah.
+Christopher Hume: Walk me through the experience and what was just, like, not seamless. Like, we can get, like, it takes a minute. It's not, like, instantaneous. Like, it could be. Like, we should not have them involved in the loop at all. It, like, you see how much back. Maybe you don't. But, like, in the channels, how much back and forth, like, how long it takes to, like, oh, well, insurance isn't coming in. This information, like the secondary address isn't coming in.
+Becca Bressler: Not doing self-serve though, right? Like my.
+Becca Bressler: No, no, no, no, no.
+Christopher Hume: And it's just not incorrectly.
+Christopher Hume: It's kind of what you're saying. Yes. And I think, yeah, I think, like we thought we could self serve it, but, like, I don't want them involved at all.
+Christopher Hume: So that was a little bit messaging that I need to make sure, like, no. Like, they are not involved. Don't involve them. Yeah.
+Becca Bressler: And then are you routing that to Lee?
+Christopher Hume: Yes. Yes, yes, yes.
+Christopher Hume: But then, like, is he on it? Yeah. At least doing it. But even when Lee does it, it, like, takes a while, and there's like, oh, well, now there's a bug with this specific data output. We need to triage it. I just think it's not a good experience, and we probably just shouldn't be very careful in how we offer it to people. So that's more on me than you.
+Becca Bressler: Yeah, I don't disagree with that. You know, I think, like, the thing here. Sorry. I'm, like, looking for your picture now is. Is like, we are treating some of these people like design Partners. Like, these are the first people getting these tools. Like, we can't remotely anticipate every single issue that's going to arise until people start using it. So I think it's really smart to, like, recalibrate how you're. Yeah. But this is, like, pretty standard to be like, we're working out the Kinks with these early users of it. You know?
+Christopher Hume: Yeah, yeah, yeah, yeah. So that's one.
+Becca Bressler: I'm sorry. I'm like, oh, are you here? Where are you? Sorry. I'm, like, still looking for you. Anyways. Keep going.
+Christopher Hume: Then the. There's one. Yeah, the. The formatting. I can send you the specific note right now. If you just want to go into that might be admin panel, I can show you.
+Becca Bressler: Okay, one second. Let me. I actually need to rejoin this call somewhere else because I have no idea where you went. Oh. Oh, okay. Yeah. So I'm going into the admin panel.
+Christopher Hume: Yeah. And just go to me and do, like, my Jane template. Oh, I mean, the other one, it goes without saying, but, like, the appointments are like a complete disaster Zone.
+Becca Bressler: Appointment types, you mean? Or there's the suggest appointments.
+Christopher Hume: My goodness. Appointment types, that drop down menu is like disgusting, and it's very confusing. And there's no way for them to delete. I mean, there is, but it's, like, super not intuitive or rearranged. And they can't even just delete from the appointment thing. They have to enter the thing, go and delete it. So, like, I don't even feel comfortable with a pissed off customer. Like, we threw all this, like, not. To five pointer, but, like, actual just trash into their recording screen. Like, can you get rid of these for me? But can you reorder these? And, like, one, I can't reorder them. I have no idea how they're ordered. It, like, seems to be vaguely alphabetic, medical, but, like, not 100.
+Becca Bressler: Yeah, it's supposed to be based on usage, like how frequently something gets used, is my understanding. Wait, can you tell me where I'm going?
+Christopher Hume: Oh, yeah. Just go to me.
+Becca Bressler: Just top one.
+Christopher Hume: You got content. We can. I can make you look at my encounter types.
+Becca Bressler: Chris Hart. Okay.
+Becca Bressler: Where am I going?
+Christopher Hume: No, I just want to. Look how, like, I don't like. How did these get selected? Like, there's. It's just. Like.
+Becca Bressler: Yeah, this is encountering. These are the appointments types.
+Christopher Hume: Yeah. The appointments that people are in my drop down menu when I go to record. And this happened to our customers.
+Becca Bressler: Yeah.
+Becca Bressler: It basically, like, at one point was all of the templates were became, and then they turned that off. So it's. Like, is my understanding of what happened?
+Christopher Hume: This. But there's, like, a bun. There's, like, a bunch of in there, too.
+Becca Bressler: There's, like, a template.
+Christopher Hume: Yeah.
+Becca Bressler: So which of these things are not.
+Christopher Hume: So it wasn't on mine. But, like, if you go, I just cleaned their whole thing. But if you went, just go to before we go to my template, can you actually just look up a random group? Like, go to Aravista.
+Becca Bressler: Go to where?
+Christopher Hume: Vista.
+Becca Bressler: What is that?
+Christopher Hume: It's not my job. That is not my job. Whatever that was back there, that is not my job. Then just go to any person. And it seems like it got, like, really screwed up for. And then go to content. Or series works. Let me see. I can find one for you. But it seems like especially for groups, it's just like a disaster Zone.
+Becca Bressler: I know you're hearing this a ton from John day who works are you hearing this from?
+Christopher Hume: That? So he is probably the only group that's really blown me up, but, like, I have spot checked it. With other groups and, like, my account. Like this is not super. So I'll show, like, it's just, like, not. Yeah. Even if I don't have the data yet to be like, yeah, this is losing us. Money, like today. Like, there's no way that this is, like, a good thing to subject our. S. Too. So if we go uph, our favorite guy. We go to Melanie.
+Becca Bressler: Yeah. I mean, to be honest, Chris, like, I know what you're talking about. Like, I'm not pleased that the. With the fact that they made this change and then.
+Christopher Hume: Yeah, like, look at scope notes, a therapy intake, like multiple, like, these don't have any templates associated with them.
+Christopher Hume: Like, I don't. These, like the ones with the gibberish over here. There's just no templates. This is a counseling session. I have no idea where it came from.
+Becca Bressler: Can you send me a screenshot?
+Christopher Hume: Do you have the same name? But have different.
+Becca Bressler: It's like, can you. Can you send or can you send me a link to that page? Yeah.
+Christopher Hume: And, like, yes, it is actually. We have had people get confused. I come in. I'm like, oh, they don't understand what.
+Becca Bressler: S are.
+Christopher Hume: Yeah. But it's. Yeah. And this is not. Yeah, it's just my concern. My concern is that we're to put, like, a very fine point on it background. This. I know is not you, so I know this is not like accusatory at all. It's just like, I want to make sure we're on the same page is I think we're building so many features right now. It's stuff like this is slipping through the cracks. Yeah. Like, we can hand wave and be like, oh, well, revenue's steady. And, like, our churns actually better, so it's fine. Yeah. But, like, emotionally, like, this is not fun. Like, if I had to choose, like, if there's a gun to my head and it's like you, is this going to impact sales or not? Like, is this like, oh, this is definitely going to negatively impact sales, and it's bad for the company. Maybe I'm wrong and, like, I get shot, but, like, you can't just, like, throw all this crap, like, our highest value customers accounts. Be like, oh, sorry, we're innovating.
+Becca Bressler: Yeah.
+Christopher Hume: It's just like, not.
+Becca Bressler: And John day just add someone not to, like, discount what you're saying, but he did.
+Christopher Hume: He did. He did. Yeah. But, I mean, but, I mean, I'm saying this more as, like, an emotional thing.
+Christopher Hume: Like, yeah, he's like, this is crazy.
+Christopher Hume: Like, this is like, we actually just put, like, I literally know paperwear on everyone's malware. Not malware. When we get in Discovery. But this is just junk.
+Becca Bressler: Yeah, no, totally.
+Christopher Hume: I. And there's no way to fix it. And it's just like, just to vent for a second. The, like, it's just like, oh, okay, well, then the customer support team, Chris is just gonna, like, as people complain, clean it up. Eat.
+Becca Bressler: Totally. I'm gonna. Ask jot some questions about this. I mean, I think that what needs to happen is we need to be. Like, actually devoting. A certain amount of time a week. To, like, Tech debt. Because, like, Look, there is an enormous amount of pressure to be shipping products. Like, I know you know that, but, like, no, no, I.
+Becca Bressler: It is like. It is, like, an assault on the nervous system is, like, how I kind of feel just like one.
+Christopher Hume: Do you have anything else on the record for this meeting? No. Okay. Yeah, yeah.

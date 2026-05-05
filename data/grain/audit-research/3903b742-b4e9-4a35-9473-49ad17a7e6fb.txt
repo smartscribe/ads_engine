@@ -1,0 +1,114 @@
+Christopher Hume: And just see if I can offer any support.
+Debbie Dunni: Okay.
+Christopher Hume: And so far, Debbie, we see Maria, Monica, Adiji, Lakia, Crystal, and you have all created accounts. But don't think we have. I think that's still new team members short. It looks like everyone on this call has created their account. So I think what I would love to do is just open the floor to all of you and see how I can. I can help.
+Debbie Dunni: I know one of us, Maria, she joined briefly last week. So if you don't mind, if we can just go over what we went through last week. So for her, because she wasn't on the, you know, she was busy last week. So I just want us to start from, you know, from we putting in the patient information, then to chatting both a high or if you decide not to use the AI recording.
+Debbie Dunni: So just like the step like that. So she can also, you know, have an idea how the system works. So if you don't mind, we can.
+Debbie Dunni: Oh, of course.
+Christopher Hume: Yep. So what we'll do, Debbie, is walk through how to record with JOT Psych, how to edit your note and then how to copy it into your ehr.
+Debbie Dunni: That's correct.
+Christopher Hume: And then we can do a Q and A session afterwards. See what else I can. Maria, Crystal, Debbie, this is the JOT Psych homepage. And so, Crystal, I know I'll put you on the spot. I know you just created your account, so you're certainly able to log in. So please follow along and make sure everything looks all right on your end. Maria, are you in a position where you could sign into your account just so we can make sure kind of your access is good and you're able to log in and we can. You can follow along as I walk through?
+Maria Brown: Yes, I'm actually logged in right now. I'm looking at the same page that you have up.
+Christopher Hume: Perfect. You're two steps ahead of me. Great. Great minds think alike. So how jetsec works is you go up to the record screen, you select your patient and so you can select from a list of patients if you have already seen that client in your case, or you can push this plus button and you can add a new client. We'll go example. Then you select your session type, do a SOAP note. And then you go over to the right hand side of your screen and you press this start recording button. Then you just have your normal encounter with your client. Maria.
+Debbie Dunni: Yep.
+Maria Brown: Okay, so I'm following along so the templates. So all I'm seeing is burp and dap. So you will we be able to upload the template that we're currently using and that another database that we have to this one because we already have it already developed?
+Christopher Hume: Yep, absolutely. And Maria, that's interesting. Do you not see a. Let me make sure you got added or I'll do that at the end of this call. I'll make sure you got added to the group because I did create a custom template for all of you and I shared it. That's good to know. You're not seeing it yet. So we'll troubleshoot that at the end and I'll show you how you can customize your templates too.
+Christopher Hume: Okay, so after your session with your client, you press this Generate note button and that should create a note with you, a note for you, typically within 20 to 40 seconds. We won't use this audio because it's not much of an encounter. But what I would also like to flag is that you can add additional detail down here and type content that will then be included into the note. And of course Jot Psych works for in person remote sessions. If you're in the community, you can also use your cell phone or really whatever setting you're you're working in. JOT Psych should be able to help. Additionally, if a client isn't comfortable recording or for whatever reason you don't have your technology with you, you can always after the session just record your dream of consciousness, plain English description of what happened. And Jad Sec will put that into a note for you. Any additional questions about recording here? Crystal? Debbie, Maria.
+Maria Brown: Yes, I have one.
+Christopher Hume: Perfect.
+Maria Brown: Oh, Miss Debbie, you want to go first?
+Debbie Dunni: No, no. Go Maria, go.
+Maria Brown: Okay, so you stated that if they just have their phone with them. So is this also an app that we can use, like download it and put on the phone?
+Christopher Hume: Yep, you can certainly download our app. Or what we recommend is if you have Google Chrome on your phone, just logging into job site on Google Chrome on your phone. It should work exactly the same.
+Maria Brown: Oh, perfect. Okay.
+Christopher Hume: And Debbie, did you have a question before I kind of go to the. Nope.
+Debbie Dunni: No, let's just go to the note. Yeah, perfect.
+Christopher Hume: So you press Generate note and a note could look something like this. This is what a job site note could look like. I know this is probably a little bit on the psychiatric side, so we'll make sure that we customize your template so it's much more counselor and community focused. But what I wanted to emphasize is you see this big box on the left hand side of your screen? This is how you can edit your jot psych note. So you can make formatting changes, you can make content changes. You see, we just change this from bullets summary and then we can tell jot psych. Okay. Every time I use this template moving forward, remember that the idea is maybe the first few times you need to make some edits, but pretty quickly, jots going to learn what you like your notes to look like and it's going to spit them out like that immediately after the session. For the time being, while you're still using your other EHR and you're testing jot seg out, you can copy these notes into your ehr, pushing the copy all sections button and just pasting. Or you can go a few sections at a time, paste them that way. Again, let me make sure I come up for air here. Rhea, Crystal, Debbie, any questions about recording what your note looks like, how you can edit your note, or how you can copy it?
+Debbie Dunni: Not for me. I understand.
+Christopher Hume: Okay, Well then to kind of finish up at least the basic demo part of this session would love to show you. You go documentation and note templates. Maria, this is particularly relevant to you asking if you can upload your existing template. You have all your job site templates, then you can edit them. So if you click on your soap, move stuff around and use our AI edit feature over here and tell jawsec what changes you'd like made. Most relevant is this upload template down here.
+Christopher Hume: You can upload a PDF of your existing template and then Jotsack will walk you through a few steps. Make sure that you all have access to that on your job site account. Maria, if there's a format you're very comfortable with, you don't want it changed. I think that would probably be the best path for you.
+Maria Brown: Okay, perfect. I'm gonna try. I'm actually gonna try it and if I have any issues, I can just reach out to you directly.
+Christopher Hume: You certainly can. I'll make sure you have my email and my calendar. So you can shoot me a quick note or you can just grab time to meet with me one on one.
+Maria Brown: Okay. And then I do just want to confirm because we did talk about it a little bit with all of the staff and everyone brought up the whole point of like recording this session. I do just want to confirm. Me and Ms. Debbie talked about it and she said that you do not have to record. They can still do old school and type it in, correct?
+Christopher Hume: Yep. So if you would like to type, you can certainly type. Excuse me, over here. You can type as much content as you'd like. The only thing I'll flag is that you need to have at least five seconds of audio. Of course, that audio doesn't have to be with the client. It'd just be you explaining what happened or saying something as simple as met with John Smith today. We discussed this. But as long as you have 5 seconds of audio, you can type as much as you'd like in here and it will turn all of that into a note.
+Maria Brown: Okay. So it does have to be an audio piece.
+Christopher Hume: At least five seconds.
+Maria Brown: Five seconds. Okay.
+Christopher Hume: Yeah.
+Debbie Dunni: Okay. And that can be after you have this section with your client. So it kind of be because their concerns is some patients have anxiety, like recording them, so. But you don't have to. But at least you have that five seconds audio to be able to generate your notes, if I'm correct.
+Christopher Hume: Yep, exactly. So after the session, either in between encounters or at the end of the day, you want to take your shorthand notes and just say, hey, I saw Debbie today. She said this, this and this. It'll turn that into a note for you.
+Debbie Dunni: Okay. Okay, that makes sense. Now let's go back to the uploading of the document. So it's that even if you have a PDF,
+Christopher Hume: This is how you create a template. Debbie is you upload, you go documentation note templates, then you select upload template and you upload that PDF of your template here.
+Debbie Dunni: So how does that. So once I upload the PDF, so how do I. How do I. How do we use it? Because we're using the template. So will it automatically change to Word document to be able to type on it or how.
+Christopher Hume: So this would. If you upload a template that you currently have, it would turn it into a jot psych template. Let's say something like this. And then when you go to record, it would. We would rename it. We'd say, And then when you go to record. You would just make sure to select it out of the list and then it would put it into your custom format.
+Maria Brown: So if I upload one right now, would you be able to see it?
+Christopher Hume: Yes, I would. Yeah, I should be able to see it. Yep.
+Maria Brown: Okay, let me try because I think I have it downloaded on Word. So let me see if I can save it as a PDF and then upload it just like you just said.
+Debbie Dunni: Okay, let me.
+Christopher Hume: Maria, make sure that you're in the group account because you should have access to the template I pre built for you guys.
+Maria Brown: Well, is that the one that says golden hands and then I think it was like summary.
+Christopher Hume: Yep, that is the one. Just a narrative summary of the session. Someone on the last call said that might be helpful. Just wanted to make sure you had it.
+Maria Brown: Okay. Yeah, so I did see that one.
+Christopher Hume: Okay, perfect.
+Maria Brown: All right, so bear with me while I.
+Christopher Hume: Crystal, while we're checking this, I just want to make sure. Do you have any questions from your end as we kind of walk through there? Anything I can clarify for you?
+Me vs Me: No.
+Christopher Hume: Is there anything. Any blockers that kind of held you? I guess it was getting your account set up. So if there are any. As I said, I'll follow up with my email and underlink. So if anything comes up that prevents you from making notes, just let me know. I'm here to help.
+Maria Brown: Okay. And question. I do have a couple questions. I have a whole bunch.
+Christopher Hume: Yeah, of course.
+Maria Brown: So right now it says it's still generating the voice structure. So. Okay, so it did just load. Do you see that?
+Christopher Hume: Perfect. So you might have to save it before I can see it.
+Maria Brown: Oh, but. Okay. All right, so now I'm confused.
+Christopher Hume: Do you want to share your screen? Maria?
+Maria Brown: I'm operating on two different computers, so I have a laptop and then I have it open on another laptop.
+Maria Brown: Okay, all right.
+Maria Brown: But I did just save it. I saved it as PRP progress node.
+Christopher Hume: Okay, let us see here. And I will check to make sure I can. Yes, I see it from my side now. Looks good.
+Maria Brown: Okay, so let's say if I'm having a session, how will this all populate into. So I would just talk and ask, I guess, the questions that need to be addressed in this note.
+Christopher Hume: Yep, exactly. And I'll show you exactly how you would do it. Let me just jump in between my account where I can check on coming from the admin side back into the side. Here we go. What you would do, Maria, is my screen coming through. All right.
+Maria Brown: Yes.
+Christopher Hume: So you go record. You would create a patient and then you would select the session, the session type. So that would be your PRP template, which I think is going to be the first one listed for you.
+Maria Brown: Okay. So let me do it at the same time with you. Okay.
+Christopher Hume: Yep.
+Maria Brown: So I don't. I don't know how to get off of this screen. Hold on. I think I'm a little confused. Okay, never mind. I got it. All right, so go to record encounter.
+Christopher Hume: Yep.
+Maria Brown: Created a test client. So. All right, and then it says session type PRP progress note and the date and time. All of that's already there.
+Christopher Hume: Yep. And then you just press start recording. And you could either pretend you were with a patient or you could just describe. Excuse me, a client. Or you can describe an example encounter with the client.
+Maria Brown: Okay. And then I'm gonna play around with it and then it will populate.
+Christopher Hume: Yep, exactly. You would. So you'd press start recording. Hey, this happened. That happened. Client appeared anxious, social that discussed issues with parents. Then you would press generate note. And since you have pre selected that PRP template over here, it would immediately put it into the appropriate format.
+Maria Brown: Okay, perfect. All right, go ahead.
+Christopher Hume: Just one quick thing. If I know it's kind of confusing when you have know all these things to learn at once. And sometimes people accidentally will select a soap note or a burp note when they're trying to do their custom template. So you can always switch the format of a note. If you go to a note and you're like, oh my God, I chose the wrong format, you can just go up here and just select any of your other templates and it will recreate the note for you in the new format.
+Maria Brown: Oh, that's beautiful.
+Christopher Hume: Okay, again, should work for. Will work for in person telehealth or in community appointment.
+Debbie Dunni: Okay, perfect.
+Maria Brown: And then what about because Ms. Debbie was speaking about like the treatment plans and assessments, would that be. Would that come later, after the trial and error? So let's say I wanted to, like, try to do an assessment for a client that comes in tomorrow.
+Christopher Hume: Yep. So what type of assessment would you. Are you like a phq9 or something like that?
+Maria Brown: So our assessment has already been generated, but we do have, like, the PDF format of it. Could I upload that and see how that would work?
+Christopher Hume: Yep. So you would go documentation forums, and then you would create. Excuse me, you would create your own. You go to forms library and then you would build your own form and yeah, you would start from your PDF again, that's documentation, forms, form library, build new form. And then, yeah, you could just upload it right here or build it from scratch. Maria. And if it would be helpful, I'd be happy to kind of jump on a call and kind of play around with that together if you run into any issues.
+Debbie Dunni: Okay.
+Debbie Dunni: Can I ask a question?
+Christopher Hume: Yes, of course. Yeah.
+Debbie Dunni: So once, let's just say once we create a form, let's say for the patient we selected, we selected, let's say Josh, and we upload the form from the form builder for documentations. So once that is uploaded, is it that for each client we have to be uploading the forms or once the form is uploaded, is already in the system for all the clients,
+Christopher Hume: once you upload the form template. And so you have like, hey, these are the questions we need the client to fill out. It's available to send to anyone you'd like.
+Debbie Dunni: Okay, so my question is, let's say for the assessment that Maria just mentioned, either the assessment or the treatment plan. So that formats upload in the system, so it's automatically. We can generate it for all the clients, not that specific patient. Am I correct?
+Christopher Hume: Yes, that is correct. Yep. And what we've reviewed so far is how to create your assessment or your form. If you're looking to develop a treatment plan, we have two options. Maria, I know you created a custom template, but if you go to your custom template documentation note templates, what you can always do is you can just add a treatment plan section and then as soon as the session is over, it will develop a treatment plan. Goodness. We have a lot of treatment in here. So you could generate that treatment plan and just add it as a section. So every time you use your template, it'll have a treatment plan at the bottom or through a session. There's this documentation button down here. You can say create a treatment plan. And I'd assume you'd offer a little more detail than that, saying specifically what you wanted, but it would automatically create that treatment plan for you.
+Debbie Dunni: Okay.
+Maria Brown: Okay, I'm gonna try it tomorrow because Grant, I'm a copy and paste everything. But we do have someone coming in. So I'm gonna try to do the assessment and I will upload it and then I will try to use that assessment and then try. Just like you just showed us and try to like, create it into a treatment plan. I'm gonna try to follow the steps.
+Christopher Hume: Perfect.
+Debbie Dunni: Okay, so thank you so much, Chris. So we'll have to call you so we can discuss one on one.
+Christopher Hume: Yeah.
+Debbie Dunni: Okay. So give me your available time. So at least to.
+Christopher Hume: Yeah, certainly one would work to connect. Debbie, I have some time and would Monday morning work?
+Debbie Dunni: Monday, Monday.
+Christopher Hume: Or we could do Friday afternoon.
+Debbie Dunni: Friday. Let me see my schedule. Friday. Let me just. Time. Okay, schedule. Friday is the 28th. Let me see. So do you have sometimes Friday afternoon?
+Christopher Hume: Yep. Like three o'. Clock.
+Debbie Dunni: Maybe we can. Do you have four? Yes, I.
+Christopher Hume: I can do four.
+Debbie Dunni: Okay, let's do for Friday.
+Christopher Hume: Perfect. Let me send you an invite right now. Crystal, Maria, any last before I let everyone get back to their day?
+Maria Brown: No, I don't have anything. I think you answered everything. Thank you so much.
+Christopher Hume: No, thank you for joining.
+Debbie Dunni: Thank you so much.
+Me vs Me: Have a good day.
+Christopher Hume: Have a great day, everyone. And Debbie, I just sent you an invite, so I look forward to connecting on Friday.
+Debbie Dunni: Yeah, sure. Thank you.

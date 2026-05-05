@@ -1,0 +1,177 @@
+Lee Harrold: Except for you.
+invigorationhealth: What I do with you.
+Lee Harrold: Where'd you go hiding under the table?
+invigorationhealth: Just around. Oh, gosh.
+Lee Harrold: I do. I do that every time. I'm like, some one of these tabs.
+invigorationhealth: I'm gonna log on, log back in, because I don't know where you went. I don't even see exploding. I think I'm right there. No. Why is it. Okay, where's my other one?
+invigorationhealth: Or did it cut? Did it break? Pull me out. The other one.
+Lee Harrold: What's up?
+invigorationhealth: You don't see two, do you?
+Lee Harrold: I see. I see one. One. Invigoration Health.
+invigorationhealth: Okay, cool. Ready to go.
+Lee Harrold: All right, can you tell me what email you use for Jet Sec?
+invigorationhealth: Invigoration Health. Gmail dot com.
+Lee Harrold: Sweet. There we go.
+Lee Harrold: All right, let's get you.
+invigorationhealth: So me, I. I did a trial and then I. And then I paid a month because I'm with Freed AI and then they had some major thing and I'm like, I can't do this.
+invigorationhealth: I paid a month and then I went back to Freed. I don't think that jot site was bad. It just was me getting accustomed to. And then the calendar sync, and then I don't know if that is gonna happen. I heard it was in a horizon, but then when you guys decided to do this part, I'm like, now that's intriguing. Or way more than, you know, we would anticipate. And I have five DEAs, and so I know.
+Lee Harrold: Yeah, yeah.
+invigorationhealth: I like all my stuff in one place. And so that is exciting. I do have an EHR system that advanced MD that's pretty costy, and so it's. With the exception of billing in calendars, it seems very promising.
+Lee Harrold: That's exciting to hear and good. Good to know that. Yeah. You don't. You don't currently have a job site subscription that would make it difficult for me to get Chatrx set up for you.
+invigorationhealth: No, I just keep going. I, I think I tried it twice and then I'm like, it's too much to learn. I'll just go back to my.
+Lee Harrold: Yeah, it is, there's, there's a lot of stuff you can do with it and it's like, yeah, you, you, it has a lot of functionality and I don't think we do a very good job of like exposing it or making it easy to interact with. So I don't know. What, what, what can I, what can I do for you? Like what, what are you interested in, in checking out the, the prescription part?
+invigorationhealth: Yeah, I want to know like how are you guys doing that? If I have five DEAs, am I able to load all five of them? You know, is it a different pricing now because you guys, you know, are doing all this stuff? Incentives. I want to know all that.
+Lee Harrold: You bet. Okay. Yeah. So I guess since he left we, we started rolling out like different pricing tiers. So before it was a flat 150amonth. Now we have like sort of, sort of different usage based pricing bundles. So for 150amonth you still get, we like you'll still get everything. If you had an existing account, I think it's like 220 for the everything Everything bundle. And that includes like Jaw Audit, a billing module, eprescription and something else. Oh, oh yeah, the, the Chrome extension. If, if you wanted to keep using Advanced md, you could like, it's just this little sidebar that hangs out and automatically pastes your Note content into AdvancedMD. So that, yeah, that's, that's that if you, if you didn't wanted to do the everything package, we have like one with a limited number of notes. I think that's like 40 bucks a month. But on top of that you could get E Prescription which as you called out is an additional like $69 a month. But we, yeah, we support multiple DEA numbers. So you could have one for like all of your states and then you could prescribe for patients through that. And the way, the way that we have eprescription set up, we're leveraging a service called Dose Spot. And under the hood dosebot is Share Scripts. So the one call out that I'll make, because it sounds like you have an eprescription thing set up already, is you can only register one DEA number with one E prescription provider at a single time. So if you wanted to jump over, you have to really jump in with both feet. You have to.
+invigorationhealth: I see what you mean. Yeah, so, so I am on Doe spot with a few other forms, but none with the dea.
+Lee Harrold: Oh, okay.
+invigorationhealth: Yeah. And so Billing. Let's say I had a package that encompasses all. Do my biller get access to it and they are able to do it? Like how? Or I just have to put on my own. How does that work?
+Lee Harrold: I don't, I don't actually know the answer to that question.
+invigorationhealth: So I'm sorry.
+Lee Harrold: But tell you what, I can, I can connect you to like the person who. We're like an eight person team, so we're pretty small. But I. That's not a module of I've messed with. So let me.
+invigorationhealth: Okay, that's interesting because I have a friend, Shiloh Warren, and so if your team is kind of small, she said that at point you guys had reached out and wanted her input on stuff. And she's actually the one who told me about the new feature and so I asked her oh cool. Information about it and she's like, oh yeah, you should check on it. And so, so that's what made me go on and send a message and stuff.
+Lee Harrold: Oh sweet. It sounds like you've used do spot before. So you're, you're pretty familiar with that thing.
+invigorationhealth: For, for. This is my sixth year as a, a psychiatric nurse practitioner and so I just wouldn't. So hypothetically, if everything is what it seems to be, then for all intent purposes, I, I would be able to wiggle out of Advanced md.
+Lee Harrold: Yeah.
+invigorationhealth: Right.
+Lee Harrold: And we just in case you wanted all of your patient data from there and your like insurance coverage data so you could do. Oh, that's. Oh, that was one. I was forgetting. Eligibility check. So we'll do. Include in that like whole thing. We'll do eligibility check for patients. Anyway. Sorry. Yeah. In order to do that, like you could export your appointment information and insurance information from Advanced MD into our system too.
+invigorationhealth: But. Okay. And so if that's the case, let's say I already have patients there in Advanced MD and I decide to no longer use that, would they be able to load into like, is it integrated? Like you can pull or.
+Lee Harrold: It's okay, yeah, let me. I can kind of show you that.
+invigorationhealth: And then lastly, let's say I have a patient because sometimes I have a patient like the prescription is not going through and so do I have to have a. Do I have to have a dictated meeting with them to order with the prescription? Or I could just enter their information in manually and say this particular patient needed a prescription.
+Lee Harrold: As long as they have a patient account inside of Jotsec and you have some information about the kinds of medication that you want to prescribe and the underlying condition, that's really all you need. You don't need documentation to support that.
+invigorationhealth: Okay. I didn't have to have a whole visit.
+Lee Harrold: No.
+invigorationhealth: Okay. Alrighty. And so are you guys offering any sign on incentives, Anything for me to say? You know what? Let me jump both feet on this date or let me get started with this possible integration?
+Lee Harrold: Yeah, I don't know, Let me check. I am, I'm on, like, I make stuff. I don't really know how it's priced, so I'm just gonna go to the like, pricing page
+invigorationhealth: and I went into my old account. I didn't see different prices.
+Lee Harrold: It's. We're like, it's like happening this week, so it's possible we've rolled it out to a sub. Oh, that's what it was. Okay. Yeah, yeah. So it's, it's visible right now only to people creating completely new accounts. And then we're going to open that up to folks who have had earlier accounts. So that would be why you can't see it. But I can connect you to someone who can actually answer your question about like, you know, incentives. So let me do that. Let me get an email for you.
+invigorationhealth: Yeah. Because the integration would be pulling my current patients from advanced MD into jot site billing. I don't know how billing work. I. I can ask one of my friends, she love you guys. She used you from day one. And so I can ask her if she. I don't. The billing component is new still, so she may have not seen it. Right.
+Lee Harrold: Yeah, that is, that's like super fresh.
+invigorationhealth: Yeah. So I would want to know, like, does the billing component mean the onus is on me to get everything in? Or I can add a practice billing person and let them finish it.
+Lee Harrold: Oh, yeah, you could. Yeah. You, you can create an account for an employee to complete that work.
+invigorationhealth: Okay.
+Lee Harrold: And I'm trying to share my screen, but this is like an impossible task. I press the button. Now where do I.
+invigorationhealth: Nice.
+Lee Harrold: Maybe I'll have to do the thing where I jump out and. Okay, here we go.
+invigorationhealth: Oh, it says add ons jot audit and.
+Lee Harrold: Oh yeah, you're in there. Yep, yep, yep, yep. That's. It's our add on segment. So here's, here's what that like billing and claim section kind of looks like in the UI from the outside. Like, I'm not connected to any clearinghouses right now. You don't see anything. So yeah, you can register yourself as a billing identity and initiate payer enrollment. And then you can see statistics surrounding specific CPT codes, etc. The ticket. Import. Oh, you know, I don't have it enabled for this account. Darn. Well, it's just like a big box that you can drag CSVs into. So as long as you can get your data from Advanced md, you kind of just put it all in a folder and then drag it in and then bam, it's all in jetseg.
+invigorationhealth: And so I have an administrative assistant with somebody be able to kind of show her how to do that.
+Lee Harrold: Yeah.
+invigorationhealth: If she had to set up an appointment.
+Lee Harrold: Oh yeah, yeah. I can, I can get. Get you probably. Yeah. Probably the easiest way to get you that would be if you sent an email to contact. Dot com or you know what, I might be able to give you the calendar link directly here. Yeah, let me do that. That'll be quicker. Oh yeah, you would just add her as like a clinic member inside of your practice here. Such esteemed operation support numbers as shark2 and recipient3.test. All right, here's the link for the data migration thing. Walkthrough.
+invigorationhealth: Okay. Everything sounds good. I don't think if I did the add ons, it would be reasonable for me because that's basically back up to advanced IMD prices. I know you mentioned 220 all inclusive, but I don't have that option. I only have the add on each job audit. What is the job audit again?
+Lee Harrold: That. So we, we have a system that will give you feedback on the likelihood that if you submitted this note as part of a claim, it would, it would get denied for a specific CPT code and ICD10. So that's like a lot of our larger clinics like that because like one person running it can prescribe a certain style for the notes given their specific payer. And you can do it, you know, for different payers because each has sort of a different style. So it performs the work of like identifying the delta between. Yeah. You know, the note you're writing and then the note that would get approved.
+invigorationhealth: And so when you said all inclusive may be in Ebola, Parker. 220. When I do, if I did 150 and added on the audit and RX is 280 something.
+Lee Harrold: Yeah. So it's, it's a better deal I think, to do the all inclusive.
+invigorationhealth: Right. But I don't see it.
+Lee Harrold: Oh, oh, it's not. It's not there. It's not.
+invigorationhealth: No. Let me show you what I have.
+Lee Harrold: I'm gonna go yell at somebody.
+invigorationhealth: Yeah. So that's what makes it a little different for me. Okay. So you're able to see it, Right. This is all I have. And so that's the.
+invigorationhealth: The 150 and this. And this makes it 228. I mean, 288.
+Lee Harrold: Yeah. Yeah. There's nothing.
+Lee Harrold: And so you're, like, missing the other subscription plans that are available.
+invigorationhealth: Yeah. So go ahead and yell at somebody, because we could have been through and figuring. Give her a few, you know.
+Lee Harrold: Yeah.
+invigorationhealth: So she can fully integrate and then use all the features that she wants. But I.
+Lee Harrold: I.
+invigorationhealth: There.
+Lee Harrold: All right, well, we'll. We'll make that button. We'll make sure that button's there the next time you and I look at this page. We'll make sure that happens.
+invigorationhealth: So everything sounds great. Now, what is the turnaround time for your load? And you may not notice, like you said, is a new launch. And so I'm so glad that you had the time to talk to me today and being a part of it. And I've watched from the sidelines how you guys, you know, added so many other features and stuff like that, and so I'm. I'm super excited. However, integration, of course, I can get somebody to teach my assistant that the DEA stuff, that integration for dosebots. Do you guys have, like, a turnaround time or. Nobody kind of signed up yet because it just is a new release.
+Lee Harrold: Oh, yeah. It's. It's like a day. It takes. It's weird. We've done it. 3. Yeah. It is a new release, but three people have done it so far, and we've submitted transfer requests for their DEA numbers from their previous prescribers, and it was one day for all three. So it's pretty quick.
+invigorationhealth: And that's pretty much how it goes. So I'm glad that you said that.
+Lee Harrold: Cool.
+invigorationhealth: I got site to your plan.
+Lee Harrold: Yeah. So I enabled this for you in case you wanted to. To begin registration, but I. I don't. I honestly don't know how it will work for a canceled account.
+invigorationhealth: So. Yeah, only reason I. Honestly, I did the trial. The trial ended. I'm with Freed AI Some massive shutdown which I just couldn't afford because I'm working. And so it was worth the 150 for a month, even though I only needed it for a day.
+Lee Harrold: Wow. Really?
+invigorationhealth: I'm seeing patients, and eight hours of me seeing patients.
+Lee Harrold: Is way more than 150. Well, yeah, I mean like how much is one patient like a single for like an hour? That's got to be like 70 easier.
+invigorationhealth: It depends. Some companies will charge you like a hundred, 110, stuff like that for one patient. But if you're doing your own billing, then that just changes the game. I don't have a lot of patients that I do my own billing for, but I do have quite a few in there in advance. Md. And so, and then one last thing. Do you guys. I've noticed that one of my friends, the same girl, she pointed out that the notes never like disappear. They're like always there essentially is like almost like ehr.
+Lee Harrold: Yeah, yeah. We like to consider ourselves a fully fledged ehr. You can sign notes too. And we'll hold them for seven years.
+invigorationhealth: Nice. Yeah. And then after the seven years, do you guys say, hey, guess what? These notes are going away?
+Lee Harrold: Yeah, yeah. We alert you. We don't just automatically. That would be insane.
+invigorationhealth: Is it a feature to back up the note? Like if, if we didn't want them to go away? The seven years part of the, what you guys research, legally that we are required to hold a note.
+Lee Harrold: We've. Yeah. So seven years, that's just like the HIPAA standard for compliance. Like we, we haven't gotten there yet. So we haven't admittedly thought about what we would do as we've been around for two years. But.
+invigorationhealth: Yeah, yeah, right, yeah.
+Lee Harrold: I mean like, I think the most ethical thing to do would be to. Yeah. Inform users that we've reached the point at which it would be like not very useful for like invigoration health to continue having these notes. But obviously if you wanted to maintain long term, like, like a long term care for your patients, you would probably want to keep the notes around. So I mean, yeah, again I'm going to bet that we would like create some sort of like data retention policy or just like give you the notes to take out of our system so that you could keep them.
+invigorationhealth: Yeah.
+Lee Harrold: Who knows where we'll be seven years from now. I think just the way that technology is changing, I don't even know if like we'll store data in hard drives anymore.
+invigorationhealth: Right. It'll be a cloud. Right. And so what do I need to do from here?
+Lee Harrold: So you would need to reactivate your account for the standard plan and then get the JOTRX add on.
+invigorationhealth: But what about the all inclusive? What. I'm primarily interested.
+Lee Harrold: Yeah, I see.
+invigorationhealth: Because right now I don't have that option.
+Lee Harrold: Yeah, Let me send a message.
+invigorationhealth: And so I would love to know the actual rate for that and how do I sign up, because I can't do it from my current account page. And then it says annual 10%. So with this new rollout, did you guys incorporate the annual fee as well? I'm just curious.
+Lee Harrold: I. I build things, so I don't know. I'm so sorry.
+invigorationhealth: Take this call. And.
+Lee Harrold: No, I, I walked into this.
+invigorationhealth: Hire my friend. I told her that this morning. I was like, they had you work on something with them. Why don't they just hire you? At this point, she has a whole IT background and she's a psych nurse practitioner.
+Lee Harrold: Shiloh Warren. That's your friend. All right. We might, we might reach out. We're all, we're all like, moving to, to Brooklyn if she's in that area. That's the thing.
+Lee Harrold: Oh, she's not moving to Brooklyn.
+invigorationhealth: Yeah, she has her husband and her. And her. And her older teenage sons here and they play a lot of sports. Yeah, these things she's like, super into and stuff like that. And so she, I know she has an IP background. I just told her this morning. I was like, you need to ask them to, to reach out to you, hire you consulting something. Because she's really good at this stuff, but she's familiar with the. How the billing goes, how the code goes and stuff like that. She knows what we want.
+Lee Harrold: That's like, invaluable because we're kind of just like doing a bunch of user interviews.
+invigorationhealth: No, she knows what you want. And so you guys are doing more than just psychiatry, I guess, right?
+Lee Harrold: Well, yeah, like we, we just got access to psychiatry because e prescription, but like, we were mainly focusing on behavioral health generally.
+invigorationhealth: Okay, good. So, yeah, I'm going to tell her.
+Lee Harrold: Yeah, absolutely.
+invigorationhealth: That would definitely help because you have to know somebody who knows billing. You have to know somebody who knows the medication part and what it look like. And what are you gaining from having this all in one place? And then billing, is it, is it, you know, like some type of guarantee are we going to get here? And then next month is going to be three something like, what is that supposed to look like?
+Lee Harrold: Yeah, I hear you. Because you're, you're thinking like, okay, they're going to reel me in for like a small amount and then like, inflate the price on the thing. Yeah.
+invigorationhealth: And those are concern, you know, valid concerns of any provider, like, why should I give up something that I've had for so long for something that's a little uncertain? But it sounds very promising. So I am excited.
+Lee Harrold: Sweet. I am kind of in the background of typing to the person who I think you could talk to to get, like, the answers to your questions. Oh wait, maybe he can join.
+invigorationhealth: Okay, So the person that's joining who would be able to help me with a possible subscription, let me know what everything encompass or should I just wait a little bit? You guys are still working things out.
+Lee Harrold: Probably safest for me to say that we're still working things out but looks like he's available so I'll get him for you.
+invigorationhealth: Okay.
+Lee Harrold: See if I can find.
+invigorationhealth: And this person will give me more information on how pricing goes or.
+Lee Harrold: This is impossible. How do you. Oh, this is. Chris figured it out himself. Chris, your champion. I spent the past 20 seconds. How do I find that? How do I find the thing?
+Christopher Hume: So we're just talking about setting up Stacy on the JOT rx. Is that correctly?
+Lee Harrold: Yeah, yeah. We were, we were looking at $X
+invigorationhealth: everything that you guys are trying to roll out what it look like and. And is it like a bait and switch? I don't want to say, okay, here's the price for everything. And then up two months later, you know, oh well we're doing all these great things and so here we're going to increase and the reason being why totally is because I am with Advanced MD and pretty much a lot, a lot more. But they're giving me everything I need and I've been with them for over four years now.
+invigorationhealth: And so it sounds like you guys are. Love if I can get a good price on all of it and when expectations are. I just was telling Lee I have five DEAs and I need to make sure that you get. Your system can handle. You know, this is. Was part of your rollout. It can handle multiple states and multiple DEAs and stuff like that with the E scripts.
+Lee Harrold: So yeah, and we can, we could definitely do. Like the, the deas. I think the, the main thing that I don't know about Chris is like, like what, what are we. How are we doing price bundling.
+Christopher Hume: Yep. So I mean, as I, I get, I would guess you could tell Stacy we're updating everything and all of our pricing is getting updated, which is leading to a little confusion here. So right now what a lot of our customers are doing is adding on JOT audit or JOTRx and then we're going to be. We do have additional features coming down the pike. The. If you'd like to bundle everything together when we are offering some new users. So I, I believe you're a canceled user, which is why you probably didn't receive this offer is that the all inclusive bundle is $250 a month. So it might into the math right off the top of my head for what JoshRx amounts to like 280. Yep. So we could set you up on the everything plan for $250 a month, which is a little bit cheaper. And then you don't have to worry about any of those additional features or anything getting put behind a feature gate. So if that's of interest, we can definitely set that up for you.
+invigorationhealth: Lee, that's not what you told me.
+Lee Harrold: Well, I also mentioned the extension he was close about.
+Christopher Hume: That's why he called me in. That's how he called me. And I had the benefit of getting a look at our documents before I got pulled into the call. So I checked everything and then.
+invigorationhealth: And so I guess you said you can possibly update my account, so I can see that.
+Christopher Hume: Okay, but you can see the, the price or the features?
+invigorationhealth: The price. Because I don't only right now have the option to just add the two new features, which would make me higher than 250.
+Christopher Hume: Yep, we can. So I think what we can do entirely, I don't mean to jump into your process, but what we probably could do here is just. Yeah, get it. You set up on the everything account afternoon or first thing Monday and make sure that you can see it before the charges go through or anything like that. So if you'd like us to switch you over, that should only take a few. A little bit of time this afternoon and we could just do a quick check in maybe Monday morning to flip that switch. But that maybe be a good way to make sure we keep the ball moving. But we don't rush anything while we're making sure we get your pricing right.
+invigorationhealth: Okay. And then also the one other thing that I asked is I have a biller and assistant. And so we were talking about adding them to the system. If I was going to pull my patients from Advanced md, show my assistant how to do that so she can get all the patients into this system.
+Christopher Hume: You're on the call with the right guy because Lee actually does our data migration.
+invigorationhealth: So Lee would be very confident about that part.
+Lee Harrold: Yes, I can do.
+invigorationhealth: I can do that.
+Christopher Hume: Yes, that one we can do.
+invigorationhealth: Yeah, he showed me that. Yeah.
+Christopher Hume: So I think. I'm sorry again I missed the beginning of this meeting here, but I think next steps would be we turn everything on for you but make sure there's no charge until Monday. Is there a time, Stacy, where we could do just like a 15 minute check in on Monday morning to get everything set up, make sure it looks good for you and then turn it on.
+invigorationhealth: Oh my God. Let me share my calendar nightmare. Let me say look. Let's see.
+Christopher Hume: Oh my goodness.
+invigorationhealth: Because even my lunch breaks I squeezed people in impressed.
+Christopher Hume: What time zone are you in?
+invigorationhealth: Eastern.
+Christopher Hume: Eastern. Okay. We could do. Well it Would you like to do. My goodness. We could either do. Would write after work work for you on Monday.
+invigorationhealth: Yeah, sure.
+Christopher Hume: So that would be 6pm Monday. Oh that is certainly fine. We then we got to go pretty late.
+invigorationhealth: Got.
+Christopher Hume: Okay. So Lee, I will let me make sure I have everyone's email address. We'll get this all set up from our end. We will show you.
+invigorationhealth: And then, and I think, I think too it's a, it's a great time the evening on. On Monday because I can literally spend some time using JOT site all day Monday with all that stuff that I have going on and then give some feedback of hey, I used it all day Monday. Here's where I am. Here's what you know, I think would work for us.
+Christopher Hume: Perfect. Let me.
+Christopher Hume: And so when you say use it all day Monday, are you talking about the. The describing features and all that?
+invigorationhealth: Yeah. Is that what you're going to turn on or just
+Christopher Hume: I think you should already have access to describing. We'll make sure to turn on the JOT audit the JOTRX after our meeting in the evening.
+invigorationhealth: I didn't reactivate my account though.
+Christopher Hume: Don't tell my boss. I'll reactivate you right now. I could give you a free trial through your Monday. I just don't think I can do that for our add on features.
+invigorationhealth: So I'll be back to the free trial that I'm familiar with for my Monday. So I'm familiar with it already.
+Christopher Hume: Okay.
+invigorationhealth: Incentive would probably be what. But the features didn't come out yet. Is that it?
+Christopher Hume: They're available. I just don't know. So, like, you can try jot audit and I'll show you how to do that. That will be available to you. You have a few free ones, so you can certainly use it on Monday. I just don't think I can turn on e prescription on a trial basis.
+invigorationhealth: Yes, that makes sense. I'll be able to at least see where it could be, but not having it active. Okay. All right. Oh, yeah, the job audit, you said is about submitting notes. And if you know, it may meet the standard for different insurance companies. Right?
+Lee Harrold: Yeah, exactly.
+Christopher Hume: It'll flag your notes. Yep.
+invigorationhealth: Okay. All righty. It looks great. I'm glad I took the time to do this. Hopefully, I'll be pulling out an advanced md.
+Christopher Hume: Absolutely. And we're here to help you. And, you know, you could get easy to get in touch with Lee. And after Monday, you'll have all my info too. So you get in touch with me with any questions.
+invigorationhealth: You got it. Alrighty. So you guys have a great weekend. I'll see you Monday evening.
+Christopher Hume: Thanks.
+invigorationhealth: Bye.

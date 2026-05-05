@@ -1,0 +1,186 @@
+Becca Bressler: Prescribe at this point or have you used the system?
+Beverly Curtis: I prescribed non stimulants, so I haven't done anything that would require the identity proofing, which is more stimulant. Stimulant, prescriber or controlled substances.
+Becca Bressler: I know you're super busy, but I do want to help you resolve this as quickly as possible. Is there a time, Beverly, where, like, you and I could get together for 20 minutes maybe, and look at it together over the next. You know, today, tomorrow.
+Beverly Curtis: Yeah. Give me a moment.
+Becca Bressler: Yeah, no, no problem. But I do. Want.
+Beverly Curtis: Okay? All. Right. For tomorrow. What about. What about like, 10:30?
+Becca Bressler: Eastern.
+Beverly Curtis: Eastern time, yes.
+Becca Bressler: That's great. Okay, I'm going to put that on the calendar and I'll send you an invite right now, and we'll leave you guys to it. But good, I'm glad we'll be able to resolve it.
+Beverly Curtis: Okay.
+Becca Bressler: All right.
+Beverly Curtis: See you tomorrow. Thank you.
+Adam Harrison: All right. Well, yeah, I think we can keep this pretty quick today because I think we're pretty much good to go here. But. But, yeah, Beverly, I just wanted to kind of check in on everything on your side. I think on my end, you know, we are kind of. We have everything we need to be. To be able to. Build for. For things. So. So the next step would really just be like, whenever you're ready to start, kind of signing notes and, and clicking the Create claim button. And I can, like, recap how that process works if it's helpful, but that's sort of the next. The next step here, and we can start submitting things for you. Yeah, I guess. But did you have any questions on how that works, or is it helpful to, like, review that?
+Beverly Curtis: Why don't we do it one more time? I'm just a week behind in what I'm I'm supposed to be doing, so.
+Adam Harrison: Yeah, no problem.
+Beverly Curtis: No problem at all. A big weekend last weekend where I would be this do this mega billing, and it just didn't happen.
+Adam Harrison: No problem at all. I know how it gets. Do you want to maybe just share your screen and I can show you?
+Beverly Curtis: And you want me to log into Jotsyc?
+Adam Harrison: Yeah, if you could. If it's. If you don't have it, I can also share you for my show. You from my account?
+Beverly Curtis: From yours. It's too early in the morning.
+Adam Harrison: Okay. I will just have to get into a new.
+Beverly Curtis: I'm pretty sure I know what. What we're doing, but I just. I haven't done it yet.
+Adam Harrison: I'll just Link.
+Beverly Curtis: Yeah, no worries.
+Adam Harrison: Okay. Sorry. I have some weird settings on mine, so I need to disable that, but I could probably just show you. How it would work. I have co signing turned on in my account, so I just need to turn that off. So give me one minute. The other. Just while I'm pulling this up. The other thing I wanted to ask you about is if you've used any of our, like, intake forms in jot psych or any of our forms features at all.
+Beverly Curtis: No.
+Adam Harrison: Okay, I can show you how to do that, too, because that'll be, like, an easy way to get all of when you have a new patient. Get all of their, like, info into job seg. You can just one click send them a form. They'll fill it out and they'll get, like, their address and their insurance and all that and all that good stuff into our system directly. So I just want to make sure I. Show you that too. Here. Let me see here. Cosine. All right, well, I might have to.
+Beverly Curtis: Here, I. I can sign in.
+Adam Harrison: I'm just being busy.
+Beverly Curtis: Okay, let me sign in and I'll share my screen. Okay.
+Adam Harrison: Okay. Thank you. I'm sorry.
+Beverly Curtis: No, that's okay. I just. You know, it's just how it is.
+Adam Harrison: Just how it is sometimes. Interesting.
+Beverly Curtis: Okay?
+Adam Harrison: All right. There you go. Yeah. So go ahead and go to, like, a recent note that you that you've done.
+Beverly Curtis: I. Don't know.
+Adam Harrison: Go ahead and review the notes so. Oh. Yeah, Go ahead and click to view on the Encounter note right in the middle box there. And then I think you'll need to click the arrow. On the right. Yeah. Sorry. A few steps here.
+Adam Harrison: That's all right. So, yeah, basically all you need to do is on the top here. Next to kind of the patient's name. You should see, like, the codes on the top. So do you see that on the top bar here? Where it says 939-6127. And then F 33.1.
+Beverly Curtis: Yeah, I don't know what that 96127 is.
+Adam Harrison: What is that?
+Beverly Curtis: Yeah, I'm not sure either. Brief assessment. That's not really true.
+Adam Harrison: Okay?
+Beverly Curtis: Well, it is and it's not. Okay? I don't think that's an appropriate code for this. But I'm not sure.
+Adam Harrison: Okay, so we can. We can remove it. So what you would do is if you go to the top of your screen where it says 99213 at the very top, With the dollar sign next to the payment name. So those are the codes that will actually be used for billing. So go ahead and click on that. And you can kind of like, you can just remove it if you don't want anything there. If you wanted to add a different one, you could also pick one from there.
+Beverly Curtis: People do that.
+Adam Harrison: And then the ICD codes are right below it. In the the F33 one. F41.
+Adam Harrison: You would just pick a primary one. So the F33 has a star next to it, because that right now is primary. But you could just click on F41. So go ahead and maybe click on the other one. We can switch it back and that'll just flip between what's the primary. So I'm not sure if you know which one you. You want there, but. And you can add, you know, more codes if you wanted as well, I think. Typically. Right. Especially if you're doing moderate complexity, you typically want to have a few different codes in there. Oh, looks like you got an extra button there.
+Beverly Curtis: Got it.
+Adam Harrison: Yeah. Then once you're ready, you can go ahead and it'll ask for attestations. You know, that's sort of optional, but you can to confirm that. And then once you're done with that, you would just click sign note. Now, you might not want to sign this one quite yet, I think. Given what. What we're looking at here, but. But once you have your note finalized, you would click, sign, and then. And then you could. And then there'll be a button, right, that will appear where it says sign note, and it will say, create claim. And you just click that button and it'll create a claim that will go into our queue of claims to process for you.
+Beverly Curtis: Okay? And that's it.
+Adam Harrison: And I can handle everything after that.
+Beverly Curtis: Yeah, okay. Where did I see this? So under the cpt codes here. A lot. It's 9941, telephone. Audio only, and that's, like, never true. I don't know.
+Adam Harrison: This template overall is a little bit outdated for us. So could we try actually regenerating this in the. This was a. This was a psychotherapy add on with a psychotherapy add on, right? Could we try doing. Yeah, the one that's right above that. Right. Sorry. Where is it? If you scroll down, it might be in here. I don't see it. So maybe. Let's go to templates.
+Beverly Curtis: What are you looking for? There's an EM and add on psychotherapy.
+Adam Harrison: Yeah, I think that. I'm not sure if that's the correct one. So can you go to Documentation and we'll just add it to your account at the top? So note templates.
+Adam Harrison: And then go to browse library. At the bottom. And then do a search for. Yeah, you can scroll. Maybe scroll up. Sorry, I think I might have missed it. Where is it? Oh, that's weird. I don't see it in here. Can you just search like E M? Okay? So you're missing. There's a version of this that also has the psychotherapy add on. So for whatever reason that's not showing up here.
+Beverly Curtis: I have it on the left hand side, and it's already pinned e on psychotherapy. But you don't think that's the one?
+Adam Harrison: Yeah, maybe just click on it. Let's see if that is the one. Scroll down. Yeah, this is. This is an older version of that template.
+Beverly Curtis: So I'll.
+Adam Harrison: I'll get the new one added to your account.
+Adam Harrison: And that should. The billing codes will be. You know, those will be like. Should be better in the new version of that. Yeah.
+Beverly Curtis: All right.
+Adam Harrison: So the. The last few things here. So that's. Any questions on, like, creating the claim? I know we didn't do it all the way through, but I think I'm all right.
+Beverly Curtis: With it.
+Adam Harrison: Yeah. And you can always message me if. If, like, you have questions, if you're working on it, you know, today or tomorrow or something, and I'll.
+Adam Harrison: I'll kind of, you know, I can maybe, like, help you. Yeah. If you have questions as you go. The other thing I wanted to show here, which is. What I would kind of recommend for new patients is our intake form. So you can get all of their, like, demographic and insurance info. So go ahead and go to documentation. And then click on forms. Down? Yep, right there. And then go to the forms library on the top. Right, top right of your screen. And then do a search for intake. Okay, so, yeah, go ahead and click the copy button for that. That should add it to your account. And then just publish on the right. In the top, right? So now, that is in your account. If you want to preview it, we can. We can do that.
+Adam Harrison: But, yeah, go ahead and preview, just so you see what it looks like. But basically how it works, it's this exact same way that patient payments work. It sends them a text message. They fill this out on their phone. And then once it's complete, it all flows through into their patient profile and job site. So that way, like, when we go to Bill for insurance, we have, like, everything right in here. The other update I have is I did all. The data migration from Therapy notes into Josseg. So now that you have all the information and address, that's all in Job site now. So everything that was in Therapynotes, you know, is now in job.
+Beverly Curtis: Okay? Okay? There's a few in therapy notes that I haven't seen yet. So some of the information was incomplete. No address or whatever, because they didn't fill it out in Zocdoc. Quick question for you. Can I fill out this form? For people.
+Adam Harrison: Yes. So good question.
+Beverly Curtis: I mean, I can fill it out. And I've been filling things out in jots, like, generally, but, you know, I'm clicking different areas to fill things out.
+Adam Harrison: Yeah. So you typically wouldn't do it on the form. You would just do it directly in their patient profile, show you where. Where to find that if.
+Beverly Curtis: If you want. Yeah, I think I know, but go ahead. I'm only asking.
+Adam Harrison: It's just that sometimes they don't want to do the form, or sometimes
+Beverly Curtis: they fill it out in zocdoc. And presently. I mean, when they were in headway, then they had to fill one out in headway.
+Adam Harrison: Yeah, it's four Mania, like, you know.
+Beverly Curtis: And now that I have them creating an account in therapy notes. Or filling it out in therapy notes. It's a little wild. But I appreciate this one is probably the most important one to get filled out.
+Beverly Curtis: It's just that then I'm introducing them to another platform. You know?
+Adam Harrison: Yeah, but. Well, I think at this point, you may be able to replace the therapy notes form with this one. And if there's things that are missing on this form that you want from therapy notes, we could build that for you, like, into this intake form. But at this point, we kind of have everything from therapy notes and.
+Beverly Curtis: Okay, say that again. If they fill out this form, it can populate into therapy notes.
+Adam Harrison: It won't populate in therapy notes, but I think. You might not need to populate in therapy notes anymore is more what I'm saying. You. Could, right? I think soon you would be able to probably stop using therapy notes and just do everything at a job site that way. You don't have patient information scattered in different places.
+Beverly Curtis: Okay?
+Adam Harrison: Does that feel reasonable, or is that field challenging?
+Beverly Curtis: I still think I need therapy notes. I'm not sure why, but I think I still need that.
+Adam Harrison: I totally get it. I totally get it. We can kind of our way there.
+Beverly Curtis: There's no messaging in dot Psych. So the patients are messaging me in therapy notes.
+Adam Harrison: So you want to be able to do, like, chat with your patients?
+Adam Harrison: Yeah, I mean the platform.
+Beverly Curtis: I have a separate texting line that they use as well to text me. But there is a platform there with messaging. So that's probably one of the more valuable things. And then. I haven't done your. I haven't prescribed a lot through jaw psych yet. But with some other apps I've used. I just have to see how it works. Sometimes. In other formats. I receive messages back from the pharmacy that they don't see, that they don't recognize the prescribing app as something that's coming from an electronic medical record.
+Beverly Curtis: They see it as a separate app, and then they require that I refax the prescription. So I just have to see what happens with. What is it? Dose spot? Is that what it's called? Yeah, to see if it's recognized. As within electronic medical record or not. And if it's not, then I'll need to continue to prescribe through therapy notes because I can't have faxes coming back and refaxing prescriptions. It's ridiculous. Okay? I appreciate your point of view.
+Adam Harrison: No, I understand. I know. It's like, we don't have everything yet, so I totally get that. When you're ready to kind of make the switch, this would be maybe. I just want to make sure you knew that we had this.
+Beverly Curtis: Yeah. Now, this will be helpful.
+Adam Harrison: It'll be helpful when you're ready to kind of flip the switch.
+Beverly Curtis: And so how do I send that to a patient?
+Adam Harrison: Yeah. So go ahead and go to patients. The patients tab. And then you can click on. Yeah, whoever. And then at the very bottom, there's like a floating little bar.
+Adam Harrison: If you scroll back. Yeah, that thing. And then all the way on the left. Send forms. So go ahead and click on that, and then you just pick the form you want to send. And then that's it.
+Beverly Curtis: Okay? So it's really this one, okay?
+Adam Harrison: Awesome. The last couple things here I wanted to show you. One was eligibility checks. We now have, like within the product. So we could do one for this patient if you want. I don't know if her insurance is in here, but let's give it a try. If you scroll up. Go to. Go to Billing on the left hand side. It's a little bit down under her name and phone number, ok? And then. Oh, okay. So looks like we. I have to turn this on for you still. So. I thought I did that, but I must. Must have slipped my mind. So. So this. This should pop up with, like, a thing here that you basically just click. And it will. It will tell you whether she's eligible and tell you what the copay is. But. But right now I need to still turn it on for your account.
+Beverly Curtis: Ok. Are you billing for copays? How is that happening?
+Adam Harrison: So I think right now, Let me check. I think right now I think you would be billing for the copays based on the plan you're on. But we would do the. The claims part of it.
+Beverly Curtis: Okay. How do I do that? Because I've never. I have never collected co pays, ever.
+Adam Harrison: Okay? Yeah. Have you done, like, patient payments, like, self pay stuff?
+Beverly Curtis: I have. Yeah.
+Adam Harrison: Yeah. So it works the exact same way. So you go to the bottom, right, where there's the card. Request payment. And then, you know, you would just type, like, copay into the box. And the amount, and. And that's. That's the whole thing.
+Beverly Curtis: Okay? Do they have to put in a credit card?
+Adam Harrison: They can put in a credit card. You can also add a credit card if you go to payments, just to the right of billing. You can put their credit card in here, so you can just charge it automatically. Or, you know, if you just have their phone number, you can just request a payment and they'll load their credit card in and then they'll have the option to save it to their account.
+Beverly Curtis: Okay, okay. So. In this process. When I'm seeing the patient.
+Beverly Curtis: I don't need to collect the copay before I see them. Correct. I don't know what I'm talking about. Okay?
+Adam Harrison: Y. Eah.
+Beverly Curtis: But when I'm doing their billing, I should be also billing for the copay. I'm just trying to work out a process here.
+Adam Harrison: Yeah. So what I would recommend is, like, the flow would be someone comes in via zocdoc, schedules an appointment. Go into job site, send them the intake form prior to their appointment. All their patient stuff will flow in. Then, you know, probably like the day before or the day of, you can come into this billing tab. Do the eligibility check, it'll say, yep, good to go. You know, maybe it's a $20 copay. And then, you know, at the end of the session, you would just click this button at the bottom with the credit card request, the payment, and then, you know, later that day or the next day, whenever you sign the note. We'll handle kind of all the other stuff with billing and any follow ups and things like that, but that would basically be, like, what the flow would look like.
+Beverly Curtis: Okay?
+Adam Harrison: All right. Cool. Let me see if there was anything else here that I wanted to go through. So we did intake. We talked about eligibility. Yeah, the last thing here is as I am doing. Era Sorry, ERA enrollments for you in job site. So we can actually, we can submit the claims already, but we want to see like whether you get paid or not and have that post to your jot Psych account. So I'm doing those enrollments for some of them. They are going to. Depending on the payer. The payer will sometimes want you to, like, verify things. And sometimes I can do it all, like on my end. So I sent you a few things.
+Beverly Curtis: I saw it.
+Adam Harrison: Yeah, yeah, but. So whenever you get to those, you know, or we can go through them together if you want. Like now or on a future call. But I did want to flag like, there will be a couple pairs that are going to make you log into their portal and, you know, click something and I'll send you, like, detailed instructions on. On what that includes.
+Beverly Curtis: Okay? Okay?
+Adam Harrison: Yeah. Did you want to look at any of those now or. Kind of. We can come back to it when you have a chance to look in your own time.
+Beverly Curtis: You have time.
+Adam Harrison: Yeah, I have time.
+Adam Harrison: Let me check. Let me see. I think I'm supposed to talk to Nate, but I think this is. He can. We can talk later in the day, so. Yeah, let's maybe go to. If you don't mind. I sent you an email last night, and it should have a link to. A link to the different things here.
+Beverly Curtis: That's not the right one.
+Adam Harrison: Maybe we should start with eight now, since Aetna. Since that is. I think you have more patients there, right?
+Beverly Curtis: I saw it on my phone. I just can't see it here. You sent it to Curtis Dot Beverly, is that right?
+Adam Harrison: Let me look. Let me look. Oh, I think this is to your other email. This is Dr. Curtis at SideQuest. Do you want me to forward it to your other one?
+Beverly Curtis: No, that's all right. Okay? Can you forward it to me again? Accidentally. Purpose? No, accidentally.
+Adam Harrison: I'll forward it to.
+Beverly Curtis: Yeah, that's fine.
+Adam Harrison: Her to stop Beverly. Is that the better one to do?
+Beverly Curtis: Yeah, that's all right.
+Adam Harrison: Okay? Perfect. All right, let me see if that should have sent now. If you don't get it.
+Beverly Curtis: Okay? All. Right. Share my screen.
+Adam Harrison: Yeah, go ahead. And we can maybe do the Aetna One. That one. It looks a little bit easier to do.
+Beverly Curtis: Okay, I'm going to pop out. I'm going to move Joss. I gotta. Here. Yep.
+Adam Harrison: Yep. So I think you all go directly to step two.
+Beverly Curtis: I'm sorry.
+Adam Harrison: You're on the zoom.
+Beverly Curtis: Give me a moment here. I. Want to do what we wanted to do. Okay? Okay?
+Adam Harrison: Yeah. Let's start with aetna. So I think you should be able to just click on that link in the number two. Because you're already enrolled with them.
+Beverly Curtis: Okay?
+Adam Harrison: Although I don't know if you have this account set up already. We'll have to find out. To just refresh. Okay, try just deleting going to the URL and just. On the top.
+Beverly Curtis: Here.
+Adam Harrison: Maybe. Let's try the number one. Let's try the link for that one. Payer enrollment and. We might be able to click Provider Provider Portal from here. So go down to click, sign in on the bottom.
+Beverly Curtis: There.
+Adam Harrison: We go. Y. Ep that should work.
+Beverly Curtis: Okay?
+Adam Harrison: Do you remember what this was? Or do you think you set this up? Or maybe Amy set this up for you.
+Beverly Curtis: I get it. Without being.
+Adam Harrison: Sorry, the audio cut out there. What did you say?
+Beverly Curtis: I. Don't think it went. Well. We'll try it. And we'll see.
+Adam Harrison: Okay. Sorry. My. I think my computer is slow today, so the audio keeps getting garbled. Could you try? Sorry. Could you say that one more time?
+Beverly Curtis: Through therapy. I'm assuming. It would be the same. Password. Right?
+Adam Harrison: Yeah.
+Beverly Curtis: Password.
+Adam Harrison: Yep.
+Beverly Curtis: Should be the same. Okay? Let's just see if. Let's see what this one is. How about that?
+Adam Harrison: Looks like you got it.
+Beverly Curtis: It's impressive. Yeah. Okay, we'll do a text message. Oh, that didn't work. Okay? Do I need to fill these out?
+Adam Harrison: I think you can leave it just as is.
+Beverly Curtis: Okay?
+Adam Harrison: So many things they make you go through.
+Beverly Curtis: I know. Invalid request. I don't think I use a different email. We can try the other one. You know what? I think I'll type it out. That's the thing with. Some of these. They will not recognize it if it's auto populated.
+Adam Harrison: Sometimes you have to do it manually.
+Beverly Curtis: Yeah. Cover my meds is like that. You can't auto populate anything in there. You have to absolute. Okay, it's not. Maybe this is where it went bad.
+Adam Harrison: Okay?
+Beverly Curtis: Did you create the account? Are they looking for something you put in? Mean, I don't think so.
+Adam Harrison: I can see if I can. I think they should already have. You're in their system, though. But maybe we can. Maybe I can try giving them a call and just see what we can do.
+Beverly Curtis: Okay?
+Adam Harrison: Okay, well, let's maybe. Let's maybe pause there for today. So I do have to jump to another call in a minute here, but. But, yeah, maybe.
+Beverly Curtis: You know, I can try it later today, or I can call them.
+Adam Harrison: Okay, great. I will. Go ahead and make sure we add that on my list. I need to add that template. To your account. So I'll do that today. I'll turn on eligibility for you.
+Beverly Curtis: Okay?
+Adam Harrison: And then I'll look into this. I'll see if I can look into this at all and get a little more clarity there. Maybe I'll call Amy too and see if she has this info. Is this something you did with Amy or this was afterwards on your.
+Beverly Curtis: I did not do it with Amy.
+Adam Harrison: Ok. Look into era for aetna. And then on your side, if you can just start, like, signing notes that you want to submit, we can start billing those out for you because we have all the info in there.
+Beverly Curtis: Okay?
+Adam Harrison: All right.
+Beverly Curtis: Should we just.
+Adam Harrison: I'm for, you know, our regular kind of time. Next week, sometimes similar. I'm flexible. If you wanted to do. The same time next week. Does that work?
+Beverly Curtis: I'm better at a 9:00 than 9:00.
+Adam Harrison: You want to do 9:00 instead on Thursday?
+Beverly Curtis: Yeah. Let me just look here for a second.
+Adam Harrison: Okay?
+Beverly Curtis: Sorry. O. Kay. For some reason, I'm not connecting to anything, so, okay. Why don't we assume 9 o'clock next Thursday? Okay. And I'll let you know if it's not good.
+Adam Harrison: Okay, perfect. Sounds good. I'll send that now. And, yeah, I'll check in a little closer to then and if. If we need to reschedule.
+Beverly Curtis: Okay?
+Adam Harrison: All right. Thanks, beverly. Okay.
+Beverly Curtis: All right. Bye. Bye.

@@ -1,0 +1,64 @@
+Emily Kaiser: Thank you for joining us. How's everything going?
+Felicia Bush: Crazy busy. How about you all?
+Christopher Hume: It's not busy. But it's all good stuff. We just wanted to check in, see if you or anyone on your team had any feedback on using JOT Psych and if there's any way we could support either. If you need help tweaking your templates, if any of your team needs some one on one training, this is really just opportunity to check in and see how we can further support you.
+Felicia Bush: Yeah, well, we had a meeting this morning, and so we finalized who wanted to be added to it. And so Amber, which I think you've already gotten her moved over, and Joe Bell, Joseph Bell. We want to move. What should be on our team should be me. Robert davis or tyler davis? Amber davis and joseph bell.
+Christopher Hume: Okay, so Tiffany is not going to be using the software.
+Felicia Bush: No, she's not going to use it.
+Christopher Hume: Okay, so while we're on the call, I'll deactivate her. But if at any point he wants to try it, It should be an easy activation from your side.
+Felicia Bush: Now I'm not sure because I haven't even had time to look. I know. I tried to use it yesterday. Before my session started. Maybe some weird thing, so I just said I forget it.
+Christopher Hume: Oh, no.
+Felicia Bush: Well, let's try it now.
+Christopher Hume: Well, we've got us on the line.
+Felicia Bush: I ended up having to do a restraint on a child, so it wouldn't have been effective anyway.
+Christopher Hume: Oh, my gosh. Oh, my goodness.
+Felicia Bush: That was fun. Anyway. I need to log in and see. What? I'm able to use it now, and I'm not even sure what the view looks like with other people on there, so maybe it didn't help me here. Okay, so let's see. So I see other people's clients on here. So how do we determine who's who and what's what?
+Christopher Hume: So let me check that right. See what your settings are. Right now. The setting is you can share patients. If you prefer not to do that, and you can only see your patients, we could turn that on for you.
+Felicia Bush: Okay. The problem is I have to supervise Joe. Well. No, I better not.
+Christopher Hume: Okay?
+Felicia Bush: Yeah. I think for them probably to see. Only there can they do that or is that just a crop? If you turn it on, it's for everybody.
+Christopher Hume: I think, Felicia, since I'll make sure you're the supervisor, I think you should be able to see everything. Let me turn off. The sharing so no one else gets confused. And I'll make sure you're the supervisor.
+Felicia Bush: Okay. And then Amber's a supervisor, too. Okay. Yeah, because I. Okay, cool. She's our psychologist. She has to review. Ing clinical practice, okay? Now Joe thought he was. His trial ended. It looks like it's still. Or is that just mine?
+Christopher Hume: No. Yeah. Joe should certainly still have access. Maybe if he saw the trial date before we added him to your group. But no, Joe still has access, just like you do.
+Felicia Bush: Okay? Make sure you know that, because he told me Friday.
+Felicia Bush: He's like, why jaw ended. I liked it, though.
+Christopher Hume: I was wondering why we hadn't seen him make any notes. That would explain it.
+Felicia Bush: I need to see you. Where his notes are. So how do I find their nodes? Just under note.
+Christopher Hume: Yep. If you go to notes and then you should be able to see them there.
+Felicia Bush: Okay? So I just have to get his caseloading to see who are his. Did he make any notes that you saw?
+Christopher Hume: He made two notes and I can tell you the times, but of course, can't tell you. With whom. So maybe one of the notes was a. Not sure if it was a practice. The most recent one, he used the HMH in office progress note. See what this looks like. Keep ran into a little issue with this. Previous one.
+Emily Kaiser: I was going to say, Felicia. We did a demo with Joe. He was having some problems with. He said somebody from your IT team was going to be fixing something on his computer or something. I don't know if that's why the note looked incomplete. At all, but I can follow back up and see if I can help in any way.
+Felicia Bush: Okay. The only question he asked me, so I'm not aware of anybody doing anything for his computer. As a key. He's referring to it as if it's optional. It's not optional for him. Which I explained to him this I'm like the experienced clinicians that are on top of their notes and. They are audit worthy notes. And I can tell what's going on. That's their choice. But you don't have one. All he told me is he didn't know how to copy the note into our ehr, so I showed him how to do that. But I showed him with one of my notes because he couldn't remember what note he had done.
+Emily Kaiser: Okay, well, I can definitely follow back up and see if I can support in any way.
+Felicia Bush: And let's.
+Christopher Hume: Felicia, I'm looking at the notes right now. So we had one from 2:24 at 1:20pM Eastern Time. I can't tell, obviously, but I'm guessing that was just an example session. Maybe. Emily, with you.
+Emily Kaiser: It's a pretty short transcript.
+Christopher Hume: That would be the most recent one. From Joe and then he has another one from 21926 at 10aM.
+Felicia Bush: Okay? See if there's actually a node. Just trying to gaslight me.
+Christopher Hume: Maybe it just needs a little help. A little help? Get nothing.
+Felicia Bush: He might. So, Emily, after I talked to him, can I email you if he needs another kind of session?
+Emily Kaiser: Yeah, absolutely. I'm happy to help if anybody else needs it as well. Okay.
+Felicia Bush: All right, so at the point that. Looks like the other three. The other two already know how.
+Felicia Bush: Amber and Taco, they know how to do it.
+Felicia Bush: So then the building will just be once a month for $600. Yes.
+Christopher Hume: Correct.
+Felicia Bush: And you have the billing information for that, right?
+Christopher Hume: Yes. It'll just be your account master Account.
+Felicia Bush: Okay. All right. And. What question do I have? In the calendars. There a way to differentiate? When I had Amber try it, putting in my appointments, and I'm like, you don't need to put in my points. So I'm not using. She told me she sent me things, and I color coded your appointment, and I'm like, What are you talking about? There's ways. So that when I looked at the ones that she had put in, You don't need to put mine in because I'm not actually using it. But she had me orange and her blue or something like that.
+Christopher Hume: Interesting. I'll have to get back to you on that. Felicia, this is crazy. Usually I think I know everything, but I did not know we could color code. Unless it's telehealth versus in person. But actually, our engineers are doing a big sprint. And improving our calendar this week. So hopefully there'll be some more group functionality and you'll be able to do some more things. Have people schedule for you in the coming week, so I'll make sure to actually and then we keep it honest here. I'll make sure to check with the engineers to see what's going on with color coding and let you know where the calendar, what additional features we have for you there.
+Felicia Bush: Okay. And I'LL check with her and say, how did this.
+Christopher Hume: I always think I know everything, that I end up on these calls, like, oh, I didn't know we had that. Felicia. So we'll get everyone up and running with the notes course. But then if there's ever any of the other features you're interested in trying, I know you have your whole other ehr right now, but if you're ever interested in trying forms or document generation or billing or eligibility checks or. Anything like that. Emily or I would be happy to kind of set up a call to talk about those. No pressure at all, but just wanted to make sure you knew we had those available, if you're interested.
+Felicia Bush: So my document generation. You mean like a clinical summary? Or something like that.
+Christopher Hume: If you need, like a homework, develop homework for this patient, develop a workplace accommodation, anything like that.
+Felicia Bush: Okay? Yeah, that might be something I'll be interested in listening to or learning more about. Right now I'm a little swamped, but after the 15th, I'll be able to.
+Christopher Hume: One thing at a time, right? Get the notes fixed, and then we can worry about the other features.
+Felicia Bush: Yeah, that's most important, them not falling further behind. Okay, well, it sounds good. And I will email you, Emily, after I talk to Joe.
+Emily Kaiser: Ok, perfect.
+Felicia Bush: I can see the note, but I can also see the transcript of the sessions. That's going to really help with his supervision, okay?
+Christopher Hume: If you go to a note. If you go to a note Felicia in the top left, it'll say Transcript. And so you can toggle between the clinical note and the transcript itself.
+Felicia Bush: Okay? Gotcha. Okay, cool. Yeah, that worked. That's great.
+Christopher Hume: Well, you know how to find this if we can offer any more support. You've got our email. I think you've got Emily's phone, so please don't hesitate to reach out. We're here to support Felicia.
+Felicia Bush: Yeah. Oh, I absolutely will if I need help, and I do appreciate it very much. Glad we could get this going.
+Christopher Hume: To make my life. That's what we're here for. So we'll be in touch. And have a great rest of your day, Felicia. Thank you.
+Felicia Bush: Thank you.
+Emily Kaiser: Bye.
+Christopher Hume: Bye.

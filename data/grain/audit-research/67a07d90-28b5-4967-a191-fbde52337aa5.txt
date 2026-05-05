@@ -1,0 +1,186 @@
+Beverly Curtis: And they're panicked because they didn't get their medicine. Then you do the prior auth, and it is exactly the same information you have on the prescription. Exactly. And then they want a copy of your note, and then they want a letter. So I submit the copy of my note and the letter, and then they come back and say they need a little more information, and it's the exact same stuff that I already filled out. And then they come back and say a prior authorization was not needed.
+Adam Harrison: Wow, that sounds like a really fun process.
+Beverly Curtis: Yeah, sometimes that happens.
+Jackson Bierfeldt: What was the point of making you go through all of that?
+Beverly Curtis: That's crazy, because they thought you needed a prior authorization. Someone said the. The pharmacist said, oh, you need a prior authorization, which they heard from the insurance company that you did. But then when you submit it. Oh, no, you don't. But sometimes you do, and that's okay.
+Jackson Bierfeldt: I don't know how you don't just take your computer and throw it across the room when that happens.
+Beverly Curtis: I'm actually on my third computer, but yeah. And then I missed checking a box on one of them which says, did you. Did you assess the patient for suicidal ideation and depression? Blah, blah, blah. And I meant, I. I thought. I mean, I. I thought I checked the box. It didn't populate or something, you know, when it went through. So then it was denied because they said I never checked the patient, even though I submitted a note, which obviously has it in the note, and a letter, thankfully written from drot psych's documents, which also says that I checked for suicidal ideation. But because that box wasn't checked, I got denied. So I have to either appeal it or resubmit it, one or the other. And my week was like five of those or six of those. And it just is maddening, you know, and. And you don't hear for. It takes three to five days. So you're still, you know, rechecking. Anyway, I'm not complaining.
+Jackson Bierfeldt: Well, Beverly couldn't come at a better time that we're starting to set up this service for you.
+Beverly Curtis: It sounds like that's absolutely true. I'm sorry I went down that rabbit hole. But anyway.
+Jackson Bierfeldt: Oh, I mean, honestly, that's great. It's a good reminder to us as why we're doing this, you know, like, it's exactly that little situation for you, which, I mean, think about it. That's happening to you for like, two or three of these a week, you know, and there's. It's happening to everybody, and it's just like, if we can save all that time, think of just the huge amount of nonsensical box checking little ticky, tacky things that we're going to be able to just, like, plow through here with our, you know, intelligent system that never forgets to check the little box or can read every single document and know every single thing that needs to be done. So I'm sorry it happened to you, but I get a little excited hearing that story because I'm just like, oh, yeah. This is why we're doing it.
+Beverly Curtis: Well, I have one other story. Adam always has an agenda, and I always veer off of it right at the beginning, so I'll just make this fast. I did have a patient report me to this board of nursing because I did not give him a benzodiazepine that he wanted. And he said to the board that. That it was a neglect of duty or something like that, and that my documentation was poor. So I got this letter, and it's a pretty serious situation. And I'm like, who is this guy? I saw him one time, and he wanted a benzodiazepine that he had not been prescribed before. And he was sort of demanding a high dose. And I just told him he'd have to, you know, that it wasn't in my purview to do that, that it's not how I practice.
+Beverly Curtis: I could offer him several other things, and I did. And so then I got this letter that he reported me, and then the state board of nursing comes and sees me in person, and his big. The guy's big other complaint was that my documentation was poor, which I have no idea how he knew that I had a jot. Psych note that was not poor at all. And I was like, really? He said my documentation was poor. Here's my note. And the board of nursing. These two people sit there and read the note, and it obviously, it has all his quotes, the patient's quotes in there and my quotes, you know, and the entire scenario, plus I had a transcript, and they're like, he has no case at all. We're just going to drop this. Your documentation is excellent. And I was like, thank you, Chat psych. Because it was really great.
+Jackson Bierfeldt: And so you got to be careful because you're going to end up on a commercial if you say stuff like that.
+Beverly Curtis: I did want to tell you guys that, because it was when the complaint was. My documentation was poor. I was like, I really don't think so. You know?
+Jackson Bierfeldt: Wow. Well, that is. That. I'm smiling ear to ear over here. That's. That's. That's great to hear.
+Beverly Curtis: Yeah. So I just want to let you guys know that.
+Adam Harrison: Yeah, we're. We might have to get you on a video saying that and put you on the front page of our website, Beverly. So if you're not careful, that's what we'll. We'll ask you for. Thank you. That's exciting to hear.
+Adam Harrison: Yeah, that's really great.
+Beverly Curtis: And they're like, you. We don't even know why. Why we. We have no idea why this guy did this complaint, except that he was unhappy that I didn't give him what he. Yeah. Okay, Adam.
+Adam Harrison: All right, on that note, onto much less exciting things. So, actually, I think today will be kind of. Will be. Will become kind of a fun 1. So three things I wanted to talk through today. One is I want. I turned on our billing feature for you, so you should. We can do kind of a little demo today of how to actually submit a note to our billing team. So we'll start with that.
+Beverly Curtis: Okay.
+Adam Harrison: Second piece is on, you know, kind of the patient data stuff, so we'll chat through that. I know one of your staff was kind of maybe working on that, maybe gonna set up some time with me, so we'll. We'll loop back on that. And then the last thing was around the payer docs collection, and I've kind of been chasing down your. Your rep over at. I think it's Cap Cap line, Amy. And, you know, we. We had a phone call earlier this week. I think she's clear on what, you know, she needs to get us, but, you know, I'm just sort of prodding her a little bit to. To get things as soon as I can. So I'll. I'll call her again today just to check on the status of that, but at least she has kind of the request in her inbox. But let's start with the fun stuff, which will be kind of a little bit of a demo today. So if you don't mind, Beverly, can you pull up your JWT psych and we'll do it from your screen just to make sure it. It's all working from your account.
+Beverly Curtis: Okay.
+Adam Harrison: All right, awesome. And Beverly, did you have a chance to try out any of those new templates that we went through last week? The, like, billing specific ones?
+Beverly Curtis: Yes and no. The first thing is I got a little confused as to which ones that we downloaded because there's many. So I'm reminder as to which ones I'm supposed to be looking at. I thought that I was looking at the right ones, but then I had this major doubt in my mind. So if you'd have. Okay, no worries. Okay.
+Adam Harrison: We can go through all that again as well. Yeah, I know it's like a lot we go through on these calls, so no worries at all. Yeah, go ahead and get logged in here and then we will.
+Beverly Curtis: I thought I shared my screen.
+Adam Harrison: Oh, I'm seeing the. Our homepage. Not, like the login, not your account.
+Beverly Curtis: Okay. I can never. Okay. Do you see that now?
+Adam Harrison: Yep. Oh, it's very zoomed in, though.
+Beverly Curtis: It's very zoomed in.
+Adam Harrison: Oh, there we go. That's a little better.
+Adam Harrison: Okay, so I think you had a new patient this week, right? On Wednesday, a Cigna patient. I think it was Alyssa, maybe.
+Beverly Curtis: Okay. Yeah.
+Adam Harrison: I was thinking it might make sense for us to just go ahead and create a claim for her just because she's sort of a new patient. You know, Cigna, your credentialing is done for them. So we can go ahead. If you haven't already submitted this through Headway, we could submit this through our system now.
+Beverly Curtis: And I have not looked at the note yet at all. So. How do you want to do that?
+Adam Harrison: Yeah, so go ahead and go to the Encounter Note where it says Click to View on. Yeah, right. Kind of in the middle of your screen there.
+Beverly Curtis: I don't see that.
+Adam Harrison: Oh, I think where it says Created Documents, in the middle block, it says Encounter Note two days ago. Click to view.
+Beverly Curtis: Oh, I'm sorry. Sorry.
+Adam Harrison: Yeah, go ahead and click the arrow on the top. Scroll all the way to the top, and then on the right. Sorry, not that one. It's a little confusing. Yeah, go ahead and do that again. And then all the way. There's that box. Yeah, exactly.
+Beverly Curtis: This is my template. I'm assuming you want a different template.
+Adam Harrison: Yeah, let's try the new template for this one and see how that works for you. So go. This. It won't affect this one, though. This one will stay. You could always go back to this one. Go ahead and do the Intake Slash Diagnostic Evaluation template with the 90791. 90792.
+Beverly Curtis: So I have two there. Is it just because I downloaded it twice? Is that what that is? Or. I thought maybe so.
+Adam Harrison: Yeah, I think so.
+Beverly Curtis: All right.
+Adam Harrison: Yeah. This is. This is one thing. When you add the template, if you click Save, it actually creates. Creates a duplicate of that template. So I think it's very easy to accidentally create a second one.
+Beverly Curtis: Okay, Okay, let me just say something about this. The 90792, while it's an initial visit, requires at least 45 minutes to 60 minutes for billing. And. And that's because a lot of, you know, psychiatric evaluations were done, you know, in person and taking that long to answer all the questions. I use an AI generated psychiatric evaluation that I send to my patients. So my sessions are shorter because I don't need that amount of time because they're going to answer the psychiatric evaluation online. I do. So to compensate for that, in a sense, I have the initial visit, which. This one was 36 minutes, which would not qualify for a 90792. It would qualify for a 99204, so. Which is also an initial visit code. And then what I do is I schedule them again in one week and have another visit with them and have, of course, another, you know, another 99214 then. And so, and I review that. That evaluation with them and that sort of thing. So.
+Adam Harrison: Okay.
+Beverly Curtis: I don't know that I'm ever going to new. I mean, now that I'm using a psychiatric evaluation online, I'm not really meeting the time requirement for a 90792.
+Adam Harrison: Yep. So that is.
+Jackson Bierfeldt: Beverly, I'm curious, how do you know that there's a minimum time requirement for the 90792?
+Beverly Curtis: Well, actually, you know, when you look up coding guidelines, billing guidelines for reimbursement, and look at the 90792, usually it's listed in there. The one that I just pulled up, which is not the typical one I use, says 60 to 120 minutes.
+Jackson Bierfeldt: Yeah. My understanding for that code, and we should look into this separately, but my understanding is there's like a typical range, but. But it's not a required range and the requirement is actually just like a minimum set of things that you go through and evaluate. So you might actually still be able to use it. We should look into it specifically with, with your payers. But I do just want to flag that, I think.
+Beverly Curtis: Yeah, that's okay.
+Jackson Bierfeldt: I haven't seen a, like, it's not the same way that like the psychotherapy codes like literally have a requirement. I don't know if the diagnostic or the code. The evaluation code.
+Beverly Curtis: Yeah. When I worked for livestance, they used 45 minutes and had suggested we not code below that. Oh, okay.
+Adam Harrison: Yeah. Beverly, I will certainly check with our kind of internal in house billing expert, Michelle, who I think you've met once before. And also, you know, I think from my understanding as well, it's, you know, I think the 45 minutes is less of a hard requirement and more of a, more of a guideline. And as long as you know the sort of, you're going through the psychiatric history, mental status exam, you know, all those different elements. If you are at something like this where you're at 36 minutes, I think it may still meet the requirements. If you were at 15 minutes, I think I would be like a little bit more concerned. But this is a great question. I will certainly loop back with Michelle and see what her experiences with this code and time thresholds. But it may be one that as long as you're hitting all the key elements, you might be able to be a little bit shorter on time.
+Beverly Curtis: Okay. Yeah, I mean it may well be. The other concern I have is my impression is that the 90792 reimburses at a lower level than the 99204. Okay.
+Jackson Bierfeldt: Yes, we, we have seen that with different pairs, some payers reimburse it lower and then we've seen people choose to the 99204. So that's something where depending on, you know, once we have all your payer contracts and we can see your, your fee schedules, we can actually kind of say like oh, for Cigna it makes more sense to do this one. Oh, for Aetna it makes more sense to do this. That'd be great.
+Beverly Curtis: Okay, with this one, why is the presenting problem at the end?
+Adam Harrison: It's a good question. Jackson, do you. Yeah, you might. Jackson, you may.
+Jackson Bierfeldt: I don't know. That's just the, the default. I agree that doesn't seem to make sense.
+Jackson Bierfeldt: But with these templates you can edit them just like you can your other ones. So let's go ahead and click Edit Template. Right there. Great. And now we can scroll to the bottom of this main page. That we have open here.
+Beverly Curtis: Okay.
+Jackson Bierfeldt: And let's grab that. Where did it even go?
+Beverly Curtis: Don't know.
+Jackson Bierfeldt: Oh, I think we clicked on a, on a different template. So can you scroll back to the top of your list? Yeah, there we go. Let's see. This might be the problem with the duplicate that we were having there. So let's click on this second one on your list that says Intake Diagnostic Evaluation on the left hand side there. There's two that say Intake Diagnostic Evaluation.
+Jackson Bierfeldt: Okay, let's see. So no, the one above it is the correct one. Okay, I'll. I'll make a note to go and go and look into this.
+Adam Harrison: Hey, Jackson, one other thing on, like, just another note. As we were adding these templates, I think like if you were to like once you click browse library and then you add this template, it shows up on the sidebar and. But then if you click save on the bottom right, even if you don't make me. Yeah, you know what, I'm going.
+Jackson Bierfeldt: You know what I'm talking about. Okay, I'll look into that. But Beverly, you can go ahead and hit the back button on your browser and we can go back to the. This kind of work.
+Beverly Curtis: Okay.
+Jackson Bierfeldt: Yeah, great. So we don't need to, you know, actually sign this right now. We can even go back to your, to your elder template. We just want to show you how the signing, the signing works. So see the. If you move the mouse down actually just a little so you have your other note there, it says Psychiatric telehealth.
+Beverly Curtis: I'm getting 2, 2 audio at the same time somehow.
+Jackson Bierfeldt: Oh yeah, to the right of transcript there. It says Psychiatric telehealth.
+Jackson Bierfeldt: That was your old template.
+Beverly Curtis: Yeah. Okay, Great.
+Jackson Bierfeldt: So we're going to go ahead and sign this and show you like how to submit it to us. We'll unsign it so that it, you know, this isn't actually getting submitted right now, but I just want to show you, you know, what that process looks like. Have you signed a note in jot psych before?
+Beverly Curtis: I have. When I've had to send it somewhere, like to a hospital or someplace. I've signed the notes. When you see this patient information, I mean, this is my own template. I will not need this for job psych. Right. I need this for my other, my other billing platforms. And I have to fill this in myself, this patient name and stuff. But you don't need that. Right? I can delete that for job site. Correct?
+Jackson Bierfeldt: I would leave it in because you still want the signed note to have that information at the top of it for compliance reasons. So even our billing template, like has this same thing at the top that says, I mean, you can get rid of the patient name because that is already in the record. But you know, the thing that has your provider name and you know the date of service and usually there's things like where the patient was today, were they in the office, were they in the provider's office, that kind of stuff. You still want to be at the, at the top of your note. So I would leave a section very similar to this.
+Beverly Curtis: All right, so that's not going to be in. Okay, so you want me to hit sign note?
+Jackson Bierfeldt: Yep. Let's go ahead and hit sign note. Yeah. And then what you're going to see here is just a little confirmation of everything that, you know, we picked up from the session. So if you open that session details, you can kind of just look everything over and see, okay, where was the place of service, you know, what was the time? This is something you should change only if it's relevant. Like if you didn't actually see them in the office or if it was telehealth, most of this will be picked up from the calendar or the AI will pick it up. But this is just something to note and most of these I'm sure, completely non relevant. This is just billing information where it's basically going to be telehealth OR office for 95% of cases. So you can look at that and then you can also just confirm the billing and the diagnostic codes. Well, so if you click on billing codes down there, that'll open up and we had a little bug there. So let's remove that add on code. This is a great example of just double checking everything. And we'll also look over everything, of course, before we submit anything. But this is just your opportunity before it goes out.
+Beverly Curtis: Okay, I. So I have a lot of background noise. Jackson, I don't know if that's from you, but I'm.
+Jackson Bierfeldt: Yeah, sorry, there's a double conversation happening.
+Adam Harrison: Is it okay if I drive? Jackson, I'll. And you feel free to jump. Okay. Yeah, so I'll just kind of pick up where Jackson left off. So you know, exactly as he mentioned you'd come into here. Click sign note. Click through each of these things. So session details, just make sure that that is sort of reflective of what, you know, what you did, whether it was office or in person. You know, we will usually suggest a code here for you. Like in this case, 90792 is the code that was suggested. Now, if you felt like. Actually, what I want to do is a 99204, and I feel strong about that, you could enter that in here as the. Primary code. And that will override our system. Now I will say when we have your payer contracts and we know like, hey, Cigna reimburses 20% higher for, you know, a 90792 versus. Yeah, you know what I'm saying?
+Adam Harrison: When we have the fee schedules, we'll be able to make better suggestions. But you always have the option to kind of override the system. And then the one thing I do recommend doing also is checking on the ICD10 codes. Just because those are much more like nuanced and require, you know, a lot more like clinical judgment and kind of, you know, discernment there. So I always recommend like having a look at that as well before you submit. So if you go ahead and go back to sign note, I just want to show you how to make like the primary versus secondary ICD codes.
+Beverly Curtis: Okay. I just want to make. See if there's another code there that we needed to add in. I don't think so, though. This girl is. Yeah, okay.
+Adam Harrison: And we can, you know, this is not like finalized. Now you. You have the option to edit this later if you wanted. Then attestations is the last step here. Usually we recommend just clicking that. You don't have to, but that is just. Yeah, it doesn't change anything, but it is there. And then go ahead and click sign and you can unsign later. So we can still modify this note. So it'll usually take about a minute to process. And then the very last step here is to click the Create claim button on the top. Right.
+Adam Harrison: Okay, go ahead and do that. And that basically is how we know that, hey, I'm done with this note. I want jobs like to take this and then do the billing for it. That is the last step you have to do in the process. And we will do everything from there. Now if you really wanted to see the claim, you can view the claim by clicking that button. It'll basically just take you to this big form that is what gets submitted. You'll see here we need to still get some of the patient info, the address, their insurance stuff. That is something we still need to kind of import. The fee schedule will be used for the charges here. But you don't need to be doing this yourself. This will be something that our system will basically do on the back end. And our biller will manually review and make sure that. Everything looks good before it goes to the clearinghouse.
+Beverly Curtis: Okay. So I have, you know, you. You had said last time, once we get this rolling, we can do the January billing and into February. I actually do have some January billings that I could not bill through headway.
+Adam Harrison: Okay.
+Beverly Curtis: Yeah, they didn't take my. That they're. I'm not credentialed through them with certain insurances where I am.
+Adam Harrison: I see.
+Beverly Curtis: Yeah. So can I submit those like this? Yeah, absolutely.
+Adam Harrison: Absolutely.
+Beverly Curtis: Can I start submitting to you now?
+Adam Harrison: Yeah, we can. We. You can go ahead and start. Anyone that you want to submit for, I would say the only blocker would be like, number one, we need to get the. The stuff from Capline, which, you know, I think we should get hopefully soon here. And then two is like the patient insurance info. So we just need to finish doing that migration from therapy notes or wherever you have it into job site. Because right now, like, for example, this claim would deny because we don't have all the, like, patient info in here. But yeah, we can definitely submit everything that you have. There's a 90 day kind of timeline that you have to submit, so we're well within that window. So we. Yeah, feel free to kind of like go through this process for any of your prior notes and we can get them submitted.
+Beverly Curtis: Okay. Okay.
+Jackson Bierfeldt: Yeah. And we can even. Beverly, if you want to just get started, all we need for you is to go through and click sign and then create claim on all those ones that we're going to submit. And then we can, you know, we're not going to submit it until we have that patient information and the insurance information. But if you want to just go and like get those done and signed so that it's like, ready once we get all that information, you can do that starting right now.
+Beverly Curtis: Right. Wonderful. Thank you. That's tremendous.
+Adam Harrison: Yeah, no, we're excited to get these processed for you.
+Beverly Curtis: Now, the information from Amy, I know there's a lot of things that you're looking for, but you had a list there. I can fill in some of that information if you want me to. I don't know if you heard from her yet or not.
+Adam Harrison: Yeah, I was going to follow up with her after this call, so she also mentioned, like, access to some kind of dashboard that she needed your approval for. I think if you can just. I think maybe the best thing would be if you can just send her an email saying, like, hey, I give approval for Adam to view this dashboard. I think that will have all the information we need at least with regards to how to submit claims, and then I'll call her and basically. Basically, just ask her to do that today because that should be super quick. I think that'll be, like, the best. The best path forward here.
+Beverly Curtis: I. They send me a. Every other week update on the dashboard and with an email and there's a little code in there. I can just forward that to you if you'd like.
+Adam Harrison: Yeah, yeah.
+Beverly Curtis: And I'll let her know that I've done that.
+Adam Harrison: Okay. So. Yeah, sounds good.
+Beverly Curtis: Okay. Yeah. So of the list here that you were looking for, I don't know that I. I have a PCOS enrollment. Enrollment. But I. I can't. I don't know where that. I can't. I can't access that easily. And the. And so that's probably the only thing on this list that I don't have.
+Adam Harrison: Okay, that's great. Yeah. That would just be for Medicare, so that's not really a blocker for us.
+Beverly Curtis: Okay. All right, I'll send you what I've got here. I don't know if it'll be helpful or not, but I'll send it to you. Okay.
+Adam Harrison: Okay, perfect. So I'll take what you send me. I'll just chase Amy, make sure that it all lines up, and then.
+Beverly Curtis: Okay.
+Adam Harrison: And then we should be good to go from there. Last thing would be, how did you want to tackle these Sort of like patient data migration. I know therapy notes had some of it. Maybe not all the data was entered yet. I know you have someone from your staff who. I'm happy to, like, hop on a quick call with her this afternoon if she's available, but what do you. Yeah, I'm not. I'm happy to kind of tackle this, however, you know, makes sense to you. I also have your, you know, therapy notes login, so we could just kind of take what's in there and do an export. But I don't know that that has, like, everyone's info in there yet.
+Beverly Curtis: I. I will say that there's a lot of info in there, but if it's not in there, we don't. We may not have it. Okay. But I did not connect with her this week. That was my. My fault.
+Adam Harrison: No, no problem.
+Beverly Curtis: I feel like we're, like, a week behind now.
+Adam Harrison: No, no, you're totally fine.
+Adam Harrison: Why don't we just. Is it okay if you. If we just import everything that's in therapy notes into jot psych? Is there any downside to doing that?
+Beverly Curtis: Well, there's. They'll just be blank spots, that's all. You know, there's some people that I don't have insurance on yet. People who signed up in ZOCDOC and didn't give me their insurance. That's the other thing. Zocdoc needs to get updated with the, the insurances that I'm now credentialed with because those have all sort of.
+Adam Harrison: Those are out of date. Yeah.
+Beverly Curtis: They've come in in the last like six weeks and I have an updated sock doc. So then people say they're going to do self pay because their insurance isn't listed.
+Adam Harrison: Right.
+Beverly Curtis: And so I need to. Fix that. So that's. You don't have my ZOC doc.
+Adam Harrison: I do have your ZOC doc. Yes, you do have.
+Beverly Curtis: Are you able to go in and mark those insurances that I'm in that I'm credentialed with? I hate to ask you to do that, but I think it would be helpful.
+Adam Harrison: Yeah. Well, let me take a look at it. I just want to. Let me do that maybe after I get the stuff from Amy. But, yeah, I think that should be pretty straightforward. And we're happy to, like, help you do that.
+Beverly Curtis: That'd be great. Thank you very much. Yeah, yeah, yeah.
+Beverly Curtis: And then I guess one and a half people.
+Adam Harrison: I'll just say that. And then the other thing I would say is zocdoc. A lot of times the insurance info that they provide is not up to date. Like, you know, zocdoc doesn't require you to keep. You know, it could be from three years ago. And you've changed insurance three times since then. Oh, right. Yeah. I would definitely recommend for any new patients you get through ZocDoc. Like for Alyssa, for example, like when you, you know, I would kind of, maybe at the start of the call or before the intake, get her latest insurance info and just put it into jots. I can show you how to do that, but that'll just make sure that we can do the eligibility checks and that we can submit claims and because otherwise we're going to be chasing you down every week for like, hey, Beverly, what's Alyssa's, you know, insurance Cigna. Zocdoc says, you know, that's what we had there, but that's not showing us active anymore. So that would be, like, the one thing I would encourage you to do, too.
+Beverly Curtis: Sure. Both in headway and in therapy notes, they have the ability to. You can just download a card and they have a card reader.
+Adam Harrison: You just put your card in.
+Beverly Curtis: Will you guys be having that? Because I've been trying to enter some insurances into jobs. Like.
+Adam Harrison: Yeah, that is on the. So, yeah, that's on our roadmap to do, like, insurance card photo upload. We don't do that right now, but that is, like, obviously going to be a huge time saver for everyone. So that is something we are prioritizing. But for right now, it is like, a little more manual.
+Beverly Curtis: Yeah. Okay. All right. Because I find that even when people put in their. If they give me the numbers, lots of times they've misread it. They've transposed them. They've done all kinds of things. Yeah. What is sort of interesting is in Dose. What is it? Your. The prescribing app for Dose Spot.
+Adam Harrison: Yep.
+Beverly Curtis: I've put in some patient information. I have not had the insurance and it's able to retrieve it. So I don't know if you guys. Would you be able to do that in my account? Can you hit the, you know, if they're already. If I already have listed them in Dose Spot, are you able to retrieve the insurance information from there?
+Adam Harrison: Yeah, we sometimes is the answer. So we do have, yeah, we do have a tool that does like a patient lookup and it will do a scan for their insurance. That being said. Right. It's not, it's not as accurate as like if you just had the insurance card number. Right. So it won't always find the insurance, but sometimes it will. So that is. That is a feature we will be launching relatively soon.
+Beverly Curtis: But my question was, can you access Do Spot from my. My account?
+Adam Harrison: Oh, Jackson, that might be a question for you. I'm not as close to the E prescribed stuff.
+Jackson Bierfeldt: No, I don't think we can log into Dose Spot for you. I think it requires, you know, it makes you do all the two factor authentication stuff.
+Beverly Curtis: Right. But if my. I'm already in Dose Spot and I've already. If I. And then what I do is I have to link the patient account to Dose Spot. So the account is already linked. If you go on the, you know, the general page for the patient and it's already linked. If you click that link, you should be able to see the Dose Spot information, which is they. They pulled the insurance. So I'm just wondering if that would be a way to access insurance if. If you can't get it from the patient or if it's not available. Do you understand my question?
+Jackson Bierfeldt: Yeah, I will look into that and see what dosebot can give back to us in terms of information. Because you're right, like if they're getting it, they should be able to share that back to us.
+Beverly Curtis: Yeah, that would be great. And they've got the BIN numbers and everything. So if I have to do a prior authorization, they've got that information. Not all prescribing apps do that. So that was the nice part about dosebot.
+Adam Harrison: Great. So I think we are in good shape here. So Beverly, kind of like just next steps for everyone. So you should feel free to go ahead and just like start submitting things so that we can get those submitted for you. And then on our side, I think it makes sense for me to go ahead and just do the upload of all the patient info into your account. Now if you want me to wait until like Monday to do that in case you're. I know your person works like Friday, Saturday, Sunday, in case there's any last things that she. You think she might be doing? I would say maybe. We say, like, Adam's gonna do the transfer Monday, so. So let's do one last pass through, like, today, tomorrow, and then everything that's in there will just get put into jot psych, and then I will follow up with Amy. If you don't mind sending her an email as well or forwarding me that kind of dashboard, then I think we should have what we need, and we can kind of like, get these things submitted for you. Does that all sound good to you?
+Beverly Curtis: Yeah. Yeah, that's great.
+Adam Harrison: Okay, perfect. Can we chat again on maybe Friday next week just to check in on how everything is going? I don't think there's any more, like, onboarding stuff at this point, but I do just want to, like, make sure we have, like, something on the calendar in case you have questions or we. We have questions or are missing, like, information. So what would work for you on maybe Friday next week?
+Beverly Curtis: Let me just look here. And then I had given you the other name for Capline, which was April.
+Adam Harrison: April. Okay, I'll call.
+Adam Harrison: I've just been talking to Amy, but let me see. Yeah.
+Beverly Curtis: So April is doing the Maryland credentialing, and that is not very far along at all.
+Adam Harrison: Okay.
+Beverly Curtis: So I don't know that you need to speak with her now. I mean, you could, but she will be doing all the Maryland stuff, so.
+Adam Harrison: Okay, got it. Okay.
+Beverly Curtis: All right. Yeah. I mean, you could. Now, that dashboard, I've asked them to sort of divide it out so we can see what Maryland is, what Pennsylvania is, but they haven't done that, so it's a little hard to.
+Adam Harrison: Oh, it's a little confusing. Yeah.
+Beverly Curtis: Yeah, they say they will. Okay. Next Friday is the 6th.
+Adam Harrison: Yes, I do have a dentist appointment that morning, so. But I should be good after, like, 10:30 or so.
+Adam Harrison: Okay, so anytime that works for you.
+Beverly Curtis: Yeah. I also have an appointment that morning, a medical appointment, so. Good thing that we don't use the same dentist. Okay, let's see here. We would be in competition for that. That seat. Okay. Okay, just checking one other source here before I commit.
+Adam Harrison: Yeah, I get it. There's multiple calendars. You got to know which one is which and double check everything. So.
+Beverly Curtis: Yeah. What does Thursday look like for you? Do you have any time on Thursday?
+Adam Harrison: Yeah, we could do something Thursday. Let me look at my calendar.
+Beverly Curtis: Yeah, because my patients, my patients start at 10:30 on Friday, so I don't think that's going to give us much time.
+Adam Harrison: Okay.
+Beverly Curtis: Yeah, so Thursday I do have a nine o'. Clock. Do you ever start before nine at all? Ever?
+Adam Harrison: I can, I can do 8:30. Does that, does that work for you?
+Beverly Curtis: Why don't we do 8:45? How's that?
+Adam Harrison: Okay, so like a 15 minute check in kind of thing?
+Beverly Curtis: Yeah, that would be great. 845.
+Adam Harrison: Okay. Yeah, let's do that.
+Adam Harrison: It'll just kind of be a quick touch base and then, you know, we'll just make sure that everything is kind of on track and then, you know, we, that should be perfect.
+Beverly Curtis: Okay.
+Adam Harrison: And we'll have to be efficient because you have a 9 o' clock that'll be actually good for us because it'll force us to stay on track. So I will make sure I come prepared with everything.
+Beverly Curtis: Okay. All right.
+Adam Harrison: All right. Well, Beverly, we got, we're ready to go here. So this is exciting.
+Beverly Curtis: Very, very nice.
+Adam Harrison: Yeah. And just feel free to like as you're going through and submitting things. If anything feels off or confusing, just shoot me an email and you know, we'll, we'll get it, we'll, we'll look into it for you. So, but, but yeah, I think hopefully it's all pretty, pretty straightforward.
+Beverly Curtis: Great. Okay. Jackson.
+Jackson Bierfeldt: All right, thanks.
+Beverly Curtis: Beverly, thanks for your input today. It was helpful.
+Beverly Curtis: And Adam, thanks for spearheading all this. I appreciate it. And I'll see you next week and just, just sign those notes and click
+Jackson Bierfeldt: create claim on the ones you want us to handle.
+Beverly Curtis: Yeah, I absolutely will. Thank you.
+Adam Harrison: Take care. Bye.
+Adam Harrison: Have a nice weekend. You too.
+Beverly Curtis: Bye. Bye.

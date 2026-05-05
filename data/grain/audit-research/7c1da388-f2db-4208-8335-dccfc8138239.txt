@@ -1,0 +1,160 @@
+Christopher Hume: What's going on, Joe? How are you? Can you not hear you?
+Jot Ranu: Can you hear me?
+Christopher Hume: Super interesting. I'm getting. Maybe it's coming from your phone, because I'm still getting audio from you, but not you. You.
+Jot Ranu: Okay? Can you hear me now?
+Christopher Hume: Yes, Coming through loud and clear.
+Jot Ranu: I don't know. I've got. Whatever. I switched laptops a while ago, and then there's certain apps where it just connects to my phone microphone. And I'm like, I would never.
+Christopher Hume: Yeah, our calling application and HubSpot always try to go to my phone, which is really great when I'm calling prospects and trying to leave a voicemail.
+Christopher Hume: And then there's just, like, no audio coming from anything, so I don't know.
+Jot Ranu: My phone's at my desk right now, so whatever you like.
+Christopher Hume: People, office chatter. Like a. Like a spy or something.
+Jot Ranu: Exactly.
+Christopher Hume: Well, awesome. How are. How are you?
+Jot Ranu: I'm good. I can't remember what I emailed you, but I, like, switched back to doing revenue at our company, so I'm like, back in the thick of it, which is fun, but at least also means I'm actually, like, context focused on what we do as opposed to switching back into a revenue mind frame when we talk.
+Christopher Hume: Yeah, I'm sure sometimes maybe you think you're too focused on revenue, but it is very helpful for these meetings. Well, awesome. What was. Kind of, I sent you kind of that overview, and so it's just sort of like a rough outline what I'd really like to do. And kind of the goal that Nate had for this meeting was just for me to walk you through kind of our sales plan for 2026. And then I've identified some places where I'm like, maybe there's going to have issues. Maybe we have questions, but really just like a blink test, sanity check. Like someone who's done this before, like, Chris. Holy shit. What are you guys doing? Or like, yeah, this sounds reasonable. Be aware of these pitfalls. Just be so helpful. Yeah, moving forward.
+Jot Ranu: That sounds good. And then just so I like, we can figure out our working relationship when we do these. Do you want me. How much do you want me to review the agendas you set up for. Oh, I'll try to.
+Christopher Hume: You can. I'll try and send those earlier. That was completely.
+Jot Ranu: No, that's like the backhanded way of saying, no, no, no, no, no.
+Christopher Hume: It's more like, you want me to.
+Christopher Hume: Or do you want to talk to me? Review them. It's. It's helpful.
+Christopher Hume: It's really up to you.
+Christopher Hume: If you feel like you're able to handle all my crazy questions just kind of coming in live? That works, but I typically try to send them the day before.
+Christopher Hume: You, like, come in and you have, like, some context from. For all the stuff I'm going to ask you.
+Jot Ranu: And it's not a complete surprise. Yeah. Okay. In this case, I, like, took a look at it briefly, but I was like, I don't know what's going on, so.
+Christopher Hume: Yeah, yeah, yeah, that's fine. So.
+Jot Ranu: So we can imagine. It's my first time seeing it.
+Christopher Hume: Okay, perfect. So the main part today will just be walking through this, and then if we have time, I'll walk you through kind of the rest of that agenda, guidelines I had. And it's really just like, hey, this is what we're doing. What do you think? Here's a question. Okay. So Nate and redesigned kind of the sales strategy for 2026, maybe like 10 days ago now at the start of the year. And so we broke it out into three buckets. Activities that are going to impact B2C people. Activities are going to impact B2C and B2B and then straight B2B plays. So I'll just walk through B2C, both of them, B2B and kind of ask you my questions and receive your feedback as we go. So B2C, like the big thing here is that in on this a little bit?
+Jot Ranu: Oh, actually, I can zoom on my end. Never mind. Let me just do it on my end.
+Christopher Hume: It might be a little easier.
+Jot Ranu: Okay, cool.
+Christopher Hume: So B2C. I think we actually talked about this last time, Joe. We have, like, a huge intent problem where we're, like, offering people too much too early. I did kind of the final analysis of our customer success experiment yesterday. It was something like 20% was either the funnel I called, so it's not counting clear B2B people, but of, like, B2C people identified in the. In the funnel, like, 20% were either fraud or just like, super low intent, like a broken phone number, whatever. Moving forward, kind of big easy, low hanging fruit. I want to enforce cell phone number authentication for all of our people.
+Christopher Hume: Just get some of the cruft out right away, improve both our onboarding questions. I think that what, again, this is probably based off the feedback you gave me is that, like, we need to know, like, why people are having to use the software so we know how to serve them. So that was one of them. And then I think the other questions I suggested to the product team were like, how big is your org? And are you an administrator, manager, or owner?
+Jot Ranu: Okay.
+Christopher Hume: It's a give and take. The product team doesn't want me to add too many questions. I want to get as much info as possible. So we'll fight over that, I'm sure. No, we do too. But the one that we're definitely going to add is like, why are you joining jot? Psych.
+Jot Ranu: Nice. I like that.
+Christopher Hume: And then we're going to have to define some sort of business rules which are still in progress here for when we jump in and really try to do hands on support. And we're not going to offer anything more than a 15 minute onboarding call until people swipe their credit cards. So there's no more like, oh, we'll do this custom thing for you. Oh, we're going to keep meeting. It's just like swipe the credit card. You don't even have to pay right now. You just have to have your credit card on file and we can help you out a little more.
+Jot Ranu: Awesome.
+Christopher Hume: From a sanity check.
+Christopher Hume: I didn't review notes from our last meeting, but I think you may have been a little aghast with how much support we were providing to low intent users.
+Jot Ranu: Yeah, yeah.
+Christopher Hume: And I wonder is, is this sort of. You see this kind of as like getting back on track for like refocusing our efforts? Is this too much? Is there something else that you guys do?
+Jot Ranu: No, I think. I think this makes sense, like just from like initial gut. I. Yeah, like this kind of goes back just as a philosophy to what I think I told you and Nate when I like first spoke to you guys, which is like, pipeline solves all problems. Like, you have enough of an N out there and like accounts that you can pursue that someone who's low intent is definitely not worth it.
+Jot Ranu: So just like move on from it and then like go out and get more when you can, especially since you guys have like an str force running.
+Christopher Hume: Okay, so that's B2C. I don't think really much more to add here. I'll jump into kind of our B2C. B2B land now. So we see two big opportunities here on things that need to get improved. The digital ads. Our digital ads have kind of atrophied a little bit. Just very tight team. So what Adam is doing right now is hiring a content tractor or a couple content contractors to help develop copy images, sort of stuff. The kind of professionalized art digital ad process.
+Jot Ranu: Okay.
+Christopher Hume: I'm not super involved with that. I don't really have much to add there, but it's just like we need a way to just like ramp up the funnel. Slightly more efficient, slightly more effective. Is getting slightly higher quality people or higher quality leads.
+Jot Ranu: Excuse me.
+Christopher Hume: So they're all high quality people.
+Christopher Hume: And I also think if we put a better intent gate and letting people sign up. That's probably going to feed into the digital ads and make them more effective. Because the signal we have is to optimize our digital ads is if people create their first note. I'm hoping that if we. Only have people in there who are like seriously trying jot psych and are serious users. That that's going to be like a better signal too. We'll see.
+Jot Ranu: Yeah, I think that makes sense. I think like. Wait, sorry. Just so I'm understanding.
+Christopher Hume: Yeah, certainly.
+Jot Ranu: I don't think is. Is everyone's experience. Okay, like, sorry, I'll just give it to you in like the way we do things, which is like, regardless of whether you clicked an ad or an SDR called you or you came inbound, you're filling out the exact same form and you're getting the exact same onboarding and like access to the product. Yep. Is that kind of what would happen here? Are you suggesting that like digital ads get some unique.
+Christopher Hume: Oh, I'm sorry, no. But it's exactly the same. There'd be no way for the user to tell. But our digital ads are optimized on an action inside the software. So like if you generate a note with jot psych, we push that data back to Google and Facebook and like, nice job.
+Christopher Hume: This is the type of person we want. But I think if we kind of get some of the. Prevent some of the croft and low intent people and fraudulent people from doing that, it'll probably get us a better signal.
+Jot Ranu: That makes sense. Okay, cool. And what is the signal that you're. You're saying by adding all these gates up front, the people who will be able to make a note will actually only be the high quality folks. Exactly.
+Christopher Hume: It'll hopefully improve it a little bit. The main optimization has to be copy and artwork.
+Christopher Hume: That just needs to be better. That's outside of my side of my world.
+Jot Ranu: Yeah, cool.
+Christopher Hume: Go ahead.
+Jot Ranu: Oh no, I was just going to keep chugging along. Let's go.
+Christopher Hume: Okay. The other one that our engineers and threatened people are working on now is referrals. Just trying to make it clearer and easier and more apparent to people in the software. Like that they can refer their friends. I think we saw we only have like a 1% referral rate right now, but those are our best customers. The most likely to convert, the longest paying and like driving me up a fricking wall. That show you. It's just like not. Yeah, it's just like not super intuitive. You interfere people. It's just like a you right now.
+Jot Ranu: Yeah, I think I agree. Like for us also, referrals are nice. It's just at the bottom down here.
+Christopher Hume: But then you click it and then you have to go write your own email.
+Christopher Hume: There's a friction.
+Jot Ranu: Have you done any referral campaigns, like from yourself, like sending out emails.
+Christopher Hume: We did a. The holiday, like, holiday customer appreciation campaign. We got a lot of interest. The issue is we didn't have a mechanism to immediately turn that interest into a referral. If that makes like we should. What we. We were just calling people like, hey, like, we're so happy you've been using Jot Psych. As a thank you, we'd love to give you an extra bonus thing. Like, mechanically, we didn't have a way on the call to like loop in their colleague into Jot Psych, if that makes sense. I'm not sure what, what you guys have done, but we didn't.
+Jot Ranu: Sorry, what was the campaign you were running for the holidays?
+Jot Ranu: You were on a call with someone and then you would.
+Christopher Hume: What would you. We would just say, hey, we'd love to get you now. We'd love for you to share Jot Psych with any of your colleagues who are interested. If you use your referral code, you'll get a $150 discount and their first month is half off or something like that.
+Christopher Hume: Just like really turbocharging the benefit to both sides. Yeah. And we're like, hey, so anyone you refer this month, they'll get that. Additionally, if you'd like rather just provide their email address, we'll email them with UCC and we can take it from there. A lot of people weren't comfortable giving email addresses. A lot of people gave the wrong email addresses. And then we didn't get. We got like one person who was. Who actually like went through for their friend. Their friend signed up and paid.
+Jot Ranu: Okay. Yeah, the, like being uncomfortable with giving email addresses is weird to me. That just seems like, strange if you're actually trying to refer someone,
+Christopher Hume: I think, or maybe they didn't remember off their head, they're like, oh, I can't do it now.
+Jot Ranu: That could have been it too. That's fair. I think, like, you're 100% right in that, like, referrals are going to be the best. Like, it's our highest converting funnel and it's also our most probably like one of the lower ones in volume, which sucks. Yeah, we've tried a lot of initiatives in terms of referrals, I will say, like, it's really hard to get people to think about it unless it's top of mind. Unless, like, they're genuinely talking to people. I would try to segment them. For example, like, that being said, it might be worth it before you guys build it out in product because we have also done that to like, just test if you do it, make it very easy via email. Do people actually engage with that?
+Christopher Hume: Um, like, what would making it easy via email be?
+Jot Ranu: I think, like, if you just had, like, for example, do you guys have, like, actual continued customer success calls?
+Christopher Hume: What do you mean by continued customer success calls?
+Jot Ranu: Like a. Because I know you do CS as far as, like, onboarding and stuff, but, like, for your customers who have been using the product for like, four or five months, I'm assuming you're still, like, checking in on them?
+Christopher Hume: We don't have, like, a formal check in appointment.
+Jot Ranu: No.
+Christopher Hume: Okay.
+Christopher Hume: We, like, they can always sign up with us right up here.
+Jot Ranu: Okay.
+Christopher Hume: Yeah, yeah, it's on them to schedule.
+Jot Ranu: Yeah, sure, sure. Okay. I guess, like, before. Sorry, I'm gonna take it back, like, really far, which is like. Yeah. The question becomes, like, one, do these people even, like, run in circles in which they want to refer people? Like, do they have a network of folks around them?
+Christopher Hume: They do.
+Jot Ranu: They do.
+Christopher Hume: Facebook are like an unbelievable, completely organic. We've done nothing for it, but it's been, like, a huge lever for us.
+Jot Ranu: Nice. Okay, and have you joined those? And, like, what do you mean it's been a huge lever? Like, people are.
+Christopher Hume: There's like, these Facebook groups and, like, Reddit threads where, like, psychiatric nurse practitioners, like, share resources and it's something anecdotally. We hear a lot. Oh, I think I heard of you on one of those Facebook groups. No, we're not in need groups. We talked about this probably, like, right when I joined. I know there was a concern at that point, like, joining these groups kind of being perceived as, like, predatory almost totally. No, you don't.
+Jot Ranu: You don't want to seem predatory. You don't want to comment, you don't want to post.
+Jot Ranu: You just want to watch.
+Jot Ranu: Which is, like, at some point people will post something like, hey, I'm looking for a tool like this. And that day your SDR happens to call them. It's more of, like, that you're keeping an eye out for, like, conversations around it. I also think something that. Sorry, I feel like I'm taking us down, like, a really hard.
+Christopher Hume: No, no, no, this is great.
+Jot Ranu: No, the point is kind of like referrals you need to build. You need to get into the thought patterns of, like, how these people and how the culture around psychiatry and, like, sharing tooling works. And a way we did it up front, which was really effective for us is like, we created this advisory board of, like, unfortunately, in like, every industry now, there's, like, influencers in each space. So we basically, like, created. We saw like five or six of them created this, like, advisory board of them, and they kind of became these, like, ambassadors for us where we had, like, some economics around it, but questions like this of like, hey, how would you refer people? Or how do you think we can make referral clothes, like, the easiest as possible were things we would send to them and like, did you.
+Christopher Hume: Were they given financial incentive to refer people as well?
+Jot Ranu: So they weren't given any financial incentive aside from, like, and this obviously goes, like, I'm assuming, above your payroll because it went about mine, which is like, We gave them some equity and like made them feel a little special on that end. It was like very tiny compared to like an average employees. But they didn't get any financial incentive. They were just like kind of ambassadors for us, aside from the equity. And I think they just like tend to be people who like, enjoy doing this stuff. And we also, for example, to your copy point about like the ads, we would like send them examples of stuff like that and just like get their feedback.
+Christopher Hume: We'd have like a slack channel.
+Jot Ranu: And so it was just like really nice to have like a group of people who would like give us immediate feedback.
+Christopher Hume: It's a really good, really good point. So we actually do have a clinical advisory board.
+Christopher Hume: So we have like. Yeah, it's sort of a little bit. It, it's a little bit used as like a sales mechanism. We reach out to people, ask if they'd be interested, and then, oh, well, you know, it's only customer, whatever, which. Hit or miss, hit or miss. I've been on some pretty terrible calls when people. Yeah. Realize it's sort of a sales pitch. But we do have a group of like really excited customers who are part of this clinical advisory board. So that's a really good point. That there might be a way to better leverage them. Yeah.
+Jot Ranu: And like, sorry. So to bring it back to the referrals thing, like, I think a perfect question for that group of people would be like, hey, when's a moment like, what are the conferences, which I'm sure you guys are all already attending, where you're talking about tools and things like that? Because people are going to be thinking about referrals in those moments more than they are just like in their day to day.
+Christopher Hume: Yeah. As a kind of aside about referrals and conferences, I was the conference guru for like six months and it was just off flooding because our ever monthly revenue from a seat is only like $150.
+Jot Ranu: Yeah.
+Christopher Hume: And yeah, it just got like really, really tough to do much more than break even because like traveling to a conference, it's a few thousand dollars if you don't get at least one. So that's why you, You. Yeah. Won't see it on the sales thing for, for this year.
+Jot Ranu: Okay. We won't go deep down this one, but real quick, you guys get like an attendee list of the conference or.
+Christopher Hume: No, we did at some of the conferences. Yeah.
+Jot Ranu: Okay. And then did you have like your STRs call them?
+Christopher Hume: We did not have STRs when we were doing conferences and I, I don't think any of them included phone numbers. I'm sure we could have enriched it.
+Jot Ranu: That's generally our motion. And how we got, like, conferences to be, like, a pretty insanely good source.
+Christopher Hume: And, like.
+Jot Ranu: Okay. Because I think essentially, like, we would book. Yeah, like, 10 there, but we would book, like, 30 after. Yeah, yeah.
+Jot Ranu: Like, you call after, and it really, like, bumps it up because that's when they're in the mind frame. And the honest truth is, like, conferences actually aren't, like. A buying event, it doesn't normally lead to like a lot of closed deals, but when they do hit the time or point where they actually need to purchase, like you're top of mind for them.
+Christopher Hume: So then they do purchase the thing.
+Christopher Hume: It was like, I'm still like my, you know, gut lizard brain, whatever, is still like pretty sure that it probably in the long term is like ROI positive.
+Christopher Hume: But when we're in this state, it's really tough when you're like, shit, like we had five meetings, two people showed up.
+Christopher Hume: They didn't do a pilot. Like $10,000. Yeah, that's fair.
+Jot Ranu: Okay, let's keep moving. Sorry.
+Christopher Hume: Yeah, let's look through this. No, no, no, it's great. So we already talked about this. I think the. The other thing here we don't need to talk about. Sort of. Yeah, we're going to do some, like, improve our chatbot. We have like an AI agent on each page that people can call. We're trying that out right now to see if it's just like giving people a better experience or having immediate resources available to them in product is going to make for sport tickets go down and conversion rate or churn rate go down.
+Jot Ranu: We'll see.
+Christopher Hume: That makes sense. I think that two main things I want to talk about are one, like our L motion, so we are adding kind of transitioning toward this RCM focus for job psych, where we see ourselves as like the guarantor of make sure that providers get the maximum amount of revenue at the least amount of risk for their clinic. It's like a real shift in how we're positioning ourselves. And then we're rolling out additional features that kind of meet that positioning. Okay, so sorry, go ahead.
+Jot Ranu: No, sorry.
+Christopher Hume: Okay. Yeah, so we have this automatic audit feature that's going to audit notes in jot psych and be like, hey, just so you know, you missed these insurance rules. You're at risk for a clawback. Kind of underselling it. But that's one. Then two, we're going to do insurance eligibility checks. So people, you know, need to make sure the people coming into the office are insured. How do you do that? You're going to have job site do it. And then two, we're going to be. Or three, Jesus, three, we're going to be offering like a full billing function, service and software to people. And we're in the midst of developing all this. The audit rules will be productized. I mean, they are productized now, but it'll be pretty ready for prime time. Very very soon. The eligibility checks. We can do it a small scale in billing. We can do it a super, super small scale right now. Okay, so in addition to worrying about all this top of funnel stuff and trying to get leads, we're also trying to figure out how we can start. Start upselling our existing customer base and increasing the ACV of our existing customers. Got it. So for me, gotta think about both sides of the funnel here. So how we're planning on doing that is like a three phase approach. Start off like very bespoke, reach out, kind of talking people through some of the features and see if they're interested in joining our wait list and then kind of scaling it from there. I know that kind of went through a huge strategic shift of the company in like a minute and a half, so I understand. Kind of hard to give super constructive feedback on that, but yeah, I just want to flag that as part of our strategy as well.
+Jot Ranu: The three phases are bespoke. Bespoke reach out.
+Christopher Hume: Bespoke reach out. The second one is spoke Reach out is like 200 customers that I think this would be a good fit for who aren't big accounts.
+Christopher Hume: And we're just going to have the SDRS call them and just like basically chat them up, learn about pain points, see if they're interested in a meeting with Nate, Nate gets to learn from them. If they're good prospect for the beta program, we can get them up and running now. Otherwise it's just kind of building excitement for and pipeline. Like, hey, do you want to be on the waitlist? We'd love for you to get access when it's ready. Then we're going to expand it out with kind of the pain points, hooks and value we learn from the SDRs, we're going to just like do it via automated email campaign to our existing customers. And then once everything's productized, we'll have a more kind of aggressive reach out. Call people who don't engage with the automated pushes and then have Nate and Jackson kind of call their point of contacts that are big customers.
+Jot Ranu: Got it. Okay. Okay, that makes sense. Can I ask? So like when you think about this, let's imagine all the products come out all at once.
+Jot Ranu: Just for the sake of simplicity.
+Christopher Hume: Be awesome.
+Jot Ranu: Do you imagine it being like this holistic package that you go to market with eventually or is it always going to be this kind of like single?
+Jot Ranu: It should be.
+Christopher Hume: It should be a holistic package.
+Christopher Hume: We're like, oh, it like holistic package. We're selling people billing support. Yeah, we'll do everything. Soup to nuts. We'll do your note, we'll make sure they're eligible, will audit it for you and then we'll submit it like that's how we want to sell it. But to kind of build funnel and build excitement in a pipeline. We kind of have to sell what we have. That's working.
+Jot Ranu: Yeah, yeah. No, that definitely makes sense. I think when you think about these functionalities that you're building, Do you think they're very. Are the things that you're building out things that the customer like, I guess A, definitely wants and then B, like they have a gap for. Would you be displacing something?
+Christopher Hume: We. It depends on with the bigger customers where like the real value is.
+Christopher Hume: They, they definitely have billing solutions right now.
+Jot Ranu: Okay.
+Christopher Hume: The small. But like an eligibility check might be the front desk person just calling all the insurance companies.
+Jot Ranu: I see.
+Christopher Hume: Yeah. So some of it is pretty manual still. Some of our smaller customers, they might not have anything in place. They're like, oh yeah, don't check insurance. And we're like, oh my God. Like that changes every few months. So they're putting themselves like at risk in a huge way. In terms of interest. There's a ton of interest. I've had the SDRs start just like casually mentioning this in their pitch to paused users and in like in 40 hours of work, maybe a little less. They booked two meetings with clinics and two meetings with B2C people who wanted to learn more.
+Jot Ranu: Okay.
+Christopher Hume: And Joe, I unfortunately have to jump right at 3:30. Okay. But I, I do have one sort of question. Like I'd love your brink blink test and like do you have any experience with like cold outbound, the cold calling. Have you guys used that?
+Jot Ranu: Yeah, it's like a main source pipeline.
+Christopher Hume: Perfect. So this is kind of what we have so far.
+Jot Ranu: We put 90 prospects.
+Christopher Hume: Yeah. Yeah. And I think the real gap is like our pickup rate.
+Jot Ranu: I can get you that later this afternoon.
+Christopher Hume: It's pretty. Pretty not good.
+Jot Ranu: Yeah.
+Christopher Hume: But would love just your thoughts. Like big picture, like how crazy does this look?
+Jot Ranu: The pickups was what concerned me the most. That's what. Yeah. Like that feels really low for conversation. Yeah. Yeah.
+Jot Ranu: But that was the main one and I think like if we don't have that, everything else trickles down.
+Christopher Hume: Yeah.
+Jot Ranu: Everything else collapses. The balance of the invalid numbers doesn't concern me.
+Christopher Hume: That feels like, oh really?
+Jot Ranu: Okay. Yeah. For 90, like maybe. Yeah, maybe the invalid numbers is a little high, but bounced emails like 100%. Yeah.
+Christopher Hume: Well Joe, this is awesome. I. Yeah. Going to jump but if I have any questions after this or something like, oh shoot, I didn't ask you. I'll just send you a note over email.
+Jot Ranu: Sounds good. Yeah, I have some thoughts on the. I'll send you something. Awesome.
+Christopher Hume: Cool.
+Jot Ranu: Thanks Joe.
+Christopher Hume: Have a good one. Bye.
+Jot Ranu: Bye.

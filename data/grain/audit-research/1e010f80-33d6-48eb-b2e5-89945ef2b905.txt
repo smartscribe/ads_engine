@@ -1,0 +1,158 @@
+Monica Dyer: Monica. Hello there.
+Monica Dyer: How's it going? Pretty good. How are you?
+Lee Harrold: Doing well. Doing well. All right. Jad. Psych. What are we up to today? Oh, cool.
+Monica Dyer: You have any idea what can cause it?
+Lee Harrold: Oh, the echo. Yeah. You know what? Let me put a headset on and see if that solves it. Okie doke. Do you still hear Neko?
+Monica Dyer: Let's see. That's better. Okay? I wrote in an email yesterday because I wanted to remember. Okay. Yeah. Dose spot. So once I put someone's info in, can I edit it?
+Lee Harrold: Oh, yeah. Yeah. You can go to the patient page in Jazz Psych and then.
+Lee Harrold: Click the Open Patient and Dosebot button, which I think you can do through Prescribe button. And then you can edit patient information in there.
+Monica Dyer: Prescribe button.
+Lee Harrold: Can you share your screen?
+Monica Dyer: Yeah, I wanted to ask. I interviewed everybody. Let's see. Patient data and everything. Do they? I mean, how do I have permission to share their info? Like for you to see all their names and everything?
+Lee Harrold: Oh, I see. I see. We're. We're under a baa. So you're. You're all good.
+Monica Dyer: Okay?
+Lee Harrold: So nice.
+Monica Dyer: Here's one I put their. Birth date.
+Lee Harrold: 192. He's 1833 years old. I didn't even know he could do that. Our software imbues longevity.
+Monica Dyer: Yeah. But I hadn't set him up yet. Who was it? I got wrong. For. You want to say yesterday? Also. Other updates, like, every day.
+Lee Harrold: Yeah, we're pretty. We're pretty. We're pretty quick.
+Monica Dyer: And does it ever mess with functionality if I'm not able to reload it?
+Lee Harrold: It will never break anything.
+Monica Dyer: I've been like, oh, wait, no, don't.
+Lee Harrold: Oh, yeah, yeah, you'll be. You'll. You'll be. You'll be fine if. If you press that in the middle of a recording.
+Monica Dyer: Okay? O. Kay, so. I did something wrong for him.
+Lee Harrold: Okay, so, yeah, you can click the View Edit patient Information button.
+Monica Dyer: And then it's grayed out.
+Lee Harrold: That's not editing. Is there a what's at the right? Close and save.
+Monica Dyer: Because that's very messed up. It's Nixon, not Nick. Zoon.
+Lee Harrold: Yeah. Why can't we do that? 's so weird. All right, I'm going to take a screenshot. And reach out to dot spot. What information would it allow us to edit?
+Lee Harrold: Height and weight. That's the only way we can change. Out of phone number. We can't remove an existing phone number.
+Monica Dyer: No, I can't even do that.
+Lee Harrold: Oh, clicking that button. Oh, maybe this is maybe a permission thing. I'll jump into Doe Spot and see if. I can. Yeah, we.
+Monica Dyer: We might be in the right role.
+Lee Harrold: Yeah, that's where things going on, I think. Yeah. If you jump into profile settings, We can kind of. Do this at the same time. I'll check. For my account. How we're adding new. Oh, here's the clinician account. How do I. It doesn't look like there's a permission. Level here, so this. This must be. Something with Doe Spot. So I'll reach out to Dosebot and figure out what's going on, but it looks like I can directly change that patient's information. For rose water wellness. Okay?
+Lee Harrold: So I will do that.
+Monica Dyer: Yeah, I would hate to have to email you. I forgot every time I get a typo,
+Lee Harrold: that would be really not ideal. Okay. N I x o n yes. Awesome. I guess while we're here. All of the other information There looks good. 89 North Pine Drive. I'll give you some time to. To check it out.
+Monica Dyer: Because the thing is, when I send prescription or like, when I set up. Prescribing. No, actually, this is his address.
+Lee Harrold: Okay, cool. Let me put that in here.
+Monica Dyer: So it doesn't automatically populate. I have to type it back in. Or type it in again. I guess I'm confirming. But I didn't know if that was standard.
+Lee Harrold: Yeah. What's happening there is, like. We. We have. Like a lot of users who, like, don't update information. So if we just like auto populated it without forcing people to like, review. So it's not ideal for like really detailed users who actually keep their stuff up to date. We. We need to come up with a better way to handle that.7734. I'm going to be in Texas next week. Conrad, Texas. Okay. And the phone number? Show me that. Just make sure that's up to date, too.
+Monica Dyer: I think it's over here. There we go.
+Lee Harrold: 832 960. 91. Oh, awesome. Okay, cool. Let me save. This. Okay. Do you want to jump back into Dosebot and refresh your page? Oh, sorry. Into do spot. Oh, yeah, that'll work, too.
+Monica Dyer: Got you.
+Lee Harrold: No, it's the same. What happened? Oh, no. All right. What am I doing here? Maybe there's a second secret save button.
+Monica Dyer: I went ahead and sent his prescription in other ways. So he's not.
+Lee Harrold: Awesome.
+Monica Dyer: Urgent. To get that changed. Next Saturday is when I do another one. So for him.
+Lee Harrold: All right, well, now. Now I have two things to talk to the Dosebot team about. As far as I can tell, everything is updated here, but I don't. It's evidently not updating in the system. So I'll reach out and figure out what's going on.
+Monica Dyer: Okay, good deal. Yeah, so are they. Is do a spot new or is like the interface.
+Lee Harrold: New.
+Lee Harrold: That's a good. That's a good question. I know, I know. Dosebot has been around for a while because other other ehrs use Dosecott. We are new to Dosebot. Which is why, you know, you could tell I'm not intimately familiar with their interface. So, yeah, I will figure out what's happening.
+Monica Dyer: I'm just trying different things I need to do on here to see if it's.
+Lee Harrold: Yeah, that's a good idea. Try like. Yeah, try a bunch of things and we'll see what desert doesn't work. And we're adding. Functionality like we're working on. Next is if a patient wants to contact you about needing to change a pharmacy. We we can enable that sort of notification so that you can handle it without having to log into Chat Psych.
+Monica Dyer: Okay, from where?
+Lee Harrold: Oh, like, like if. You want them to send you a text. It can be a text or an email.
+Monica Dyer: Like the patient can send me. How does it change primacy?
+Lee Harrold: So, like, the patient would. Would send a request, a refill change request, and then it would register in dopot, and then jetsyc would send that notification request to you on behalf of dospot. And then you, you could change the pharmacy within those cloud so it would just, it would just like link you to open do spot directly. And then allow you to change the pharmacy there.
+Monica Dyer: Okay? So the patients will, like, have an account on there or is there an app? What is that?
+Lee Harrold: That's. These are great questions. We're currently figuring them out. Okay.
+Monica Dyer: Okay. Cool. Is there an app for your spot?
+Lee Harrold: I don't. I don't know. I mean, check.
+Monica Dyer: To know if it's something I can do for my phone.
+Lee Harrold: Oh, yeah, that would be ideal dose. Mobile app. Yeah.
+Lee Harrold: Yeah, it looks like there is.
+Monica Dyer: Okay.
+Lee Harrold: So we could. Probably the easiest integration would be if we could. Add a deep link. So that when you press the button, The like prescribe button in the app if you happen to be on a phone. It'll open the app instead of the dosepot web portal. Oh, lots of one star reviews, though. I don't know. I don't know if you want to use this.
+Monica Dyer: Yeah. There's also, like, this. Downloaded it. Let's see.
+Lee Harrold: Oh, nice.
+Monica Dyer: Turn my camera on. I was eating my food. And what you talk about to me?
+Lee Harrold: Appreciate it.
+Monica Dyer: It's like. Not looking very. My dosebot.com. I guess that is the website. But like on the screen here, my doctor's. Looks funky. I guess you could.
+Lee Harrold: Yeah, I'm trying. It looks like I'm trying to see the last time they updated this application. August of 2025. So it's been a while.
+Monica Dyer: Okay. Yeah. And then. I don't have a username. To log in with like that. I know of grew my job set connection to this. But, you know to be able to like, link this.
+Lee Harrold: Yeah, that's right. We use SSO for that. So there would be no way to log into your account through the mobile app. Ok.
+Monica Dyer: Because. Yeah, it'd be really nice to. If I got. You know, I'm out. I get a notification, patient needs a resell. I can go to this. Send.
+Lee Harrold: Yeah, that would be sweet. Yeah, I'll look into. Let me write that down. Let me. How do you. Is that. Is that a workflow with your current ehr, like if a patient. Wants to send a refuel request. How does it work now?
+Monica Dyer: Right now. I'm on so many different systems. I was trying out all these different things. So I get refill requests on my facts through Doximity. And then I was prescribing through simple practice. And I also have this really simple, amazing app for. What is it called? Doc update, I think. Yeah, it is really straightforward. And I think I told you I sent a prescription from, like, the tarmac and Bolivia with a really bad.
+Lee Harrold: Yeah, yeah, yeah. What about that is, like, really easy to use. It's just all of it. Like, the entire application is just, like, really seamless and clean.
+Monica Dyer: Yeah. Like when I added new patient.
+Monica Dyer: I mean, it's. I think when I started typing the address, it, like, helps me finish it, and I was like, yes, thank you. That was really like. Little things like that are such time savers.
+Monica Dyer: So, yeah, just put name, date of birth, address. I don't know. It loaded on that terrible connection, for one. And, yeah, I think. Like when I go back to this existing prescription. Yeah, I can just click. Renew.
+Lee Harrold: That's so simple.
+Monica Dyer: Goes right back to same pharmacy.
+Lee Harrold: Yeah.
+Monica Dyer: I use this as a backup on, like, Simple Practice. My password, you know, walks me.
+Lee Harrold: Yeah, yeah, yeah.
+Monica Dyer: Once and then another time on the go. Because, yeah, this is the only way. I have to prescribe from my phone. But if this thought was connected to my and it was better than one star, that'd be amazing.
+Lee Harrold: All right, I guess. Help me understand. Does simple practice itself offer. Prescription or you're. You're prescribing through Doc Update. For your patients on simple practice.
+Monica Dyer: Nobel date twice.
+Lee Harrold: Oh, okay, okay.
+Monica Dyer: Separate.
+Lee Harrold: Okay, so you had to, like, add those patients into Doc Update.
+Monica Dyer: Yes, but it was really user friendly.
+Lee Harrold: Oh, cool.
+Monica Dyer: Simple practice. Notifications. Don't think I can. Let's see. I don't think I can manage prescriptions on their app.
+Lee Harrold: All right, well, yeah, thanks.
+Monica Dyer: Let me know. Set up that I need to do for controlled substances. I put in my DEA number.
+Lee Harrold: That's it. That's it. And if you do have multiple, do you prescribe multiple states or just that one? Yeah. No, you're all. You're all set.
+Monica Dyer: And I guess I mean, another question for them is if they offer or plan to offer the PDMP integration.
+Lee Harrold: Yeah, let me check.
+Monica Dyer: They had a really nice, like, drop down when I went through there. I was trying to send the prescription. And it said, like, pdmp reviewed so I could collect. Yes.
+Lee Harrold: But.
+Monica Dyer: Either that or on jot. Psych would be. Amazing.
+Lee Harrold: Oh, cool.
+Monica Dyer: Okay, yeah.
+Lee Harrold: Our our plan is to get as much of the dose spot workflow inside of jobs like as possible.
+Lee Harrold: So you don't have to have to go over there. Okay. Yeah, I'll check into the pdmp integration.
+Monica Dyer: Awesome. Yeah, I had it on epic.
+Lee Harrold: Oh, I love epic. I used to work for epic.
+Monica Dyer: Oh, really? Yeah. The first AI scribe I used was. With university of texas olympic.
+Lee Harrold: Was it good?
+Monica Dyer: Yeah, that was good. And let's see. Okay. And then my discount. I think I didn't pay. Maybe it's gone.
+Lee Harrold: Oh, did you?
+Monica Dyer: Not the.
+Lee Harrold: I'm sorry. I thought I credited you. Maybe I didn't. Let me check.
+Monica Dyer: You didn't. But then, like, when it was still there, and then my bank account didn't have enough funds. I put in my credit card. Twice. And then the second time it worked, and then. Just wanted to make sure that the.
+Lee Harrold: Yeah, yeah, yeah. Check your invoice. And I'll check on. On my side, too.
+Monica Dyer: What is this under. Let me just feature.
+Lee Harrold: It's going to be under your practice.
+Monica Dyer: Your subscription. Okay, cool. So I just. I still have prescriber. Just did the. 150.
+Lee Harrold: Yeah.
+Monica Dyer: The add on is it doesn't appear, but just making sure I still. I mean, I'm still accessing. You have?
+Lee Harrold: Yeah, you have. You. You have access. It is strange that add ons. Oh. Oh, I know. I know. Why. Yes. Because I. Yeah. Because I did it as. Like a trial situation. So that's why it's not showing up there.
+Monica Dyer: Okay?
+Lee Harrold: But, yeah, I think you're all set.
+Monica Dyer: Good deal. Well, hopefully this can get nice and functional soon.
+Lee Harrold: It's exciting, and I. I really appreciate your feedback. So if you have, like, any other, like, features you want or, like, you know, an idea about how it could be made better, it's like, feel free to shoot me an email or schedule another session. Okay.
+Monica Dyer: Awesome. Yeah. I can't help but think that way. So I just.
+Lee Harrold: That's good. That's good. I love that. That's exactly. We're a good team.
+Monica Dyer: Make it easier for everyone. Let's do this.
+Lee Harrold: Yes. Yes.
+Monica Dyer: Awesome. Well, thank you so much and hope you have an amazing day.
+Lee Harrold: You too.
+Monica Dyer: Where are you going? Texas.
+Lee Harrold: Austin. I'm playing it south by Southwest. Yeah. I'm nervous, but I'm very excited.
+Monica Dyer: You're. You're playing at it. You're going to it. What are you doing?
+Lee Harrold: Yeah. Yeah. I mean, I'm in a group called Trapeze. We. We got. Not one of the, like, large stages, just one of the small showcase stages, okay?
+Monica Dyer: Fun.
+Lee Harrold: Have you been there before? I don't. I don't know where you were. In Texas, maybe. That's really far. Maybe Austin. Oh, yeah.
+Monica Dyer: I've only been to south by Southwest, like the Eco Conference. I don't always go for, like, the big events with lots of people. But yeah.
+Lee Harrold: Yeah, it is pretty intimidating. There are a lot of people.
+Monica Dyer: Yeah. Well, and you guys have all of your. Your barbecue places figured out your text Mex. You know where you're going for things.
+Lee Harrold: I don't know. I don't know anything about this place. What's the. What's the single. What's the single barbecue like? If you could recommend one barbecue. And one text mix. But what would you recommend? You're like, I can't do this one. There's no way.
+Monica Dyer: Okay, this one on the east side for barbecue. I mean, there's. There's Franklin's. There's a really famous one, but Nickelweight is the one that. I like the most so far?
+Lee Harrold: Nickel weight.
+Monica Dyer: Yeah, they have the most amazing sites. There's also this Egyptian barbecue place, but, I mean, probably one for classic Texas at this point.
+Lee Harrold: I mean, I'll take whatever that sounds. Egyptian barbecue sounds spectacular.
+Monica Dyer: Yeah, it's really famous. So. Yeah. Nickelweight is mic k l e h. Wait. And then Egyptian one.
+Lee Harrold: I'm. I'm glad you spelled nickel Thwaite.
+Monica Dyer: Okay. The egyptian is kg barbecue.
+Lee Harrold: Kg barbecue.
+Monica Dyer: Yeah.
+Lee Harrold: I'm so ready.
+Monica Dyer: It's. It's been on netflix. Really renowned. He's got a really cool story. It's a good guy. But, yeah, Tex Mex, man. No, I can't pick one.
+Lee Harrold: It sounds like I could throw a rock in it. I. I'd have good text. Max, is that true?
+Monica Dyer: Yes, it is.
+Lee Harrold: Amazing. I'm so excited. Thanks so much.
+Monica Dyer: Okay, sure. Take care. Talk to you soon. Bye. Bye.
