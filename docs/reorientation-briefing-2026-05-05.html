@@ -1,0 +1,592 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Reorientation: Where the Ads Stand</title>
+<style>
+  @page { size: letter portrait; margin: 0.4in 0.5in; }
+  html, body { background: #fff; color: #000; }
+  body {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 10.5pt;
+    line-height: 1.35;
+    max-width: 7.5in;
+    margin: 0 auto;
+    padding: 0;
+  }
+  h1 { font-size: 22pt; margin: 0 0 0.2em 0; letter-spacing: -0.01em; }
+  h2 { font-size: 15pt; border-bottom: 1pt solid #000; padding-bottom: 0.15em; margin-top: 1.2em; margin-bottom: 0.45em; page-break-after: avoid; }
+  h3 { font-size: 12pt; margin-top: 0.8em; margin-bottom: 0.25em; page-break-after: avoid; }
+  h4 { font-size: 10.5pt; margin-top: 0.5em; margin-bottom: 0.15em; page-break-after: avoid; }
+  p { margin: 0.3em 0; }
+  ul, ol { margin: 0.25em 0 0.4em 1.2em; padding: 0; }
+  li { margin: 0.1em 0; }
+  blockquote { font-style: italic; border-left: 2pt solid #888; padding-left: 0.5em; margin: 0.3em 0.5em 0.3em 1em; }
+  table { width: 100%; border-collapse: collapse; font-size: 9pt; page-break-inside: auto; margin: 0.3em 0 0.6em 0; }
+  th, td { border-bottom: 0.5pt solid #999; padding: 3px 6px; text-align: left; vertical-align: top; }
+  th { border-bottom: 1pt solid #000; font-weight: 700; background: #f4f4f4; }
+  .exec { border: 1pt solid #000; padding: 0.5em 0.65em; page-break-after: always; margin-bottom: 0.2em; }
+  .exec h1 { font-size: 20pt; margin-bottom: 0.1em; }
+  .exec h2 { font-size: 12pt; border-bottom: 0; margin-top: 0.7em; margin-bottom: 0.2em; text-transform: uppercase; letter-spacing: 0.04em; }
+  .exec ul, .exec ol { margin-left: 1em; }
+  .exec p { margin: 0.25em 0; }
+  .meta { font-size: 9pt; color: #444; margin-top: 0.4em; }
+  .footnotes { font-size: 9pt; border-top: 0.5pt solid #888; padding-top: 0.5em; margin-top: 1em; }
+  .footnotes ol { margin-left: 1.4em; }
+  .footnotes li { margin: 0.15em 0; page-break-inside: avoid; word-wrap: break-word; }
+  .footnotes a { word-break: break-all; }
+  sup a { text-decoration: none; color: #000; font-weight: 700; }
+  .tag { display: inline-block; font-size: 8.5pt; padding: 1px 5px; border: 0.5pt solid #000; border-radius: 2px; margin-right: 4px; }
+  .tag-go    { background: #000; color: #fff; }
+  .tag-hold  { background: #fff; color: #000; }
+  .tag-warn  { background: #fff; color: #000; border: 0.5pt solid #000; font-weight: 700; }
+  .callout { border: 0.5pt solid #000; padding: 0.3em 0.5em; margin: 0.4em 0; font-size: 10pt; }
+  .highlight { font-weight: 700; }
+  .small { font-size: 9pt; }
+  hr { border: 0; border-top: 0.5pt solid #000; margin: 0.6em 0; }
+  .page-break { page-break-after: always; }
+
+  /* Diagram styles */
+  .ascii { font-family: "Courier New", Courier, monospace; font-size: 8.5pt; line-height: 1.2; white-space: pre; border: 0.5pt solid #000; padding: 0.5em 0.7em; margin: 0.4em 0; background: #fafafa; page-break-inside: avoid; }
+  .diag-cap { font-size: 8.5pt; color: #444; text-align: center; margin: -0.2em 0 0.6em 0; font-style: italic; }
+
+  .define { font-style: italic; color: #444; font-size: 9pt; }
+  .glossary-term { font-weight: 700; }
+
+  .state-table td.go      { background: #efe; font-weight: 700; }
+  .state-table td.hold    { background: #fef0d0; font-weight: 700; }
+  .state-table td.problem { background: #fdd; font-weight: 700; }
+</style>
+</head>
+<body>
+
+<!-- ============================================================== -->
+<!-- PAGE 1: EXECUTIVE SUMMARY                                       -->
+<!-- ============================================================== -->
+<section class="exec">
+  <h1>Reorientation: Where the Ads Stand</h1>
+  <div class="meta">Three weeks of plumbing, one button left to push &middot; 2026-05-05 &middot; Prepared for Nate &middot; v1</div>
+
+  <h2>The Answer</h2>
+  <p><span class="highlight">Ads are off, measurement is fixed, recommend turning back on tomorrow.</span> Every ad set on the account is paused as of last night.<sup><a href="#fn1">1</a></sup> The reason ads are off is that the conversion-tracking signal Meta was optimizing against had been broken for roughly three weeks, and we just finished rebuilding it. The rebuild is verified end-to-end: the new tags fire in browser preview, the new conversion event registered its first matches today, the cleanup pass has the whole stack groqquable in a single screen.<sup><a href="#fn2">2</a></sup></p>
+  <p><span class="highlight">The pivot we just made was structural, not cosmetic.</span> We abandoned the Custom Conversion approach (three failed builds in three weeks, each blocked by a different undocumented Meta rule) and bound the ad set to a Meta standard Purchase event with three valued sub-actions: First Note ($150), Sign Up ($25), Calendar Booking ($5).<sup><a href="#fn3">3</a></sup> This is mathematically the same idea the Custom Conversions tried to express, but routed through Meta's standard event template, which removes three known silent-failure modes.</p>
+  <p><span class="highlight">The remaining work is one engineering ticket and one calibration cycle.</span> Alfred owns a five-to-seven-day backend ticket to send the same Purchase event from the server (Conversions API parity), which lifts identity match quality from roughly 3 of 10 to 7+ of 10. After 30 days of clean data, recalibrate the dollar values from cohort math instead of guesses.</p>
+
+  <h2>The Wedge (Next 10 Days)</h2>
+  <ol>
+    <li><span class="highlight">Today.</span> Verify the new Purchase event is reaching Meta from the live website (Test Events tab, two minutes), then unpause "Nate figuring shit out" ad set at its current $300/day budget. One ad attached, ready.</li>
+    <li><span class="highlight">Day 2 to 3.</span> Watch the Purchase value column in Meta Ads Manager populate. Empty after 48 hours means a tag misconfig; we fix or roll back.</li>
+    <li><span class="highlight">Day 5.</span> If value column populated and Sign Up volume continues decaying toward true new-signup rate, raise budget to $1,000/day.</li>
+    <li><span class="highlight">Day 7 to 10.</span> Alfred's Conversions API ticket merges; identity match quality climbs from ~3 to 7+; learning phase exits.</li>
+    <li><span class="highlight">Day 30.</span> Recalibrate the $150 / $25 / $5 weights from real cohort math (Sign Up to First Note conversion rate, Calendar to First Note conversion rate). No learning-phase reset on value changes, so this is safe.</li>
+  </ol>
+
+  <h2>System State</h2>
+  <table class="state-table">
+    <thead><tr><th>System</th><th>Status</th><th>Verdict</th></tr></thead>
+    <tbody>
+      <tr><td>Meta ad set "Nate figuring shit out"</td><td>Paused since last night, rebound to Purchase</td><td class="hold"><span class="tag tag-hold">UNPAUSE</span></td></tr>
+      <tr><td>GTM container v23 (the live one)</td><td>Three Purchase tags live + verified in preview</td><td class="go"><span class="tag tag-go">DONE</span></td></tr>
+      <tr><td>Canonical Purchase Custom Conversion</td><td>Firing today, last match 9:46 AM ET</td><td class="go"><span class="tag tag-go">WORKING</span></td></tr>
+      <tr><td>First Note via Conversions API (server-side)</td><td>Browser-only currently; identity match quality ~3</td><td class="hold"><span class="tag tag-hold">PHASE 2</span></td></tr>
+      <tr><td>Custom Conversion list cleanup (19 entries)</td><td>1 canonical, 12 archived/dead, 6 historic</td><td class="go"><span class="tag tag-go">DONE</span></td></tr>
+    </tbody>
+  </table>
+
+  <h2>What Would Change My Mind</h2>
+  <ul>
+    <li><span class="highlight">Purchase value column stays empty 48 hours after unpause.</span> Means the GTM tag is firing but Meta isn't accepting it. Roll back to paused, audit Test Events, debug.</li>
+    <li><span class="highlight">Sign Up event volume plateaus instead of decaying.</span> Currently 22-68/day, decaying as expected (it was 488/day on Apr 30). If it doesn't drop below 50/day by May 14, the backend's first-capture gate is buggy and we kill its $25 weight in a 5-minute GTM edit.</li>
+    <li><span class="highlight">Cost per First Note doesn't recover by June 5.</span> Then the problem isn't measurement, it's the Apr 16 campaign restructure damage (audience stacking, ad set fragmentation), and the next move is restructure, not more pixel work.</li>
+  </ul>
+
+  <h2>Research Base</h2>
+  <p class="small">9 plan docs reviewed (campaign restructure, custom-conversions v1/v2/v3, audit landing page, landing-page-view fix, podcast LP, purchase rebuild, GTM cleanup), 4 changelog months, live Meta ad-account state via Marketing API, live custom-conversion inventory (19 entries), live ad set audit log (last 14 days of activity), GTM container v23 published-versions log (5 published versions in 24 hours).</p>
+</section>
+
+<!-- ============================================================== -->
+<!-- 2. GOVERNING THOUGHT                                            -->
+<!-- ============================================================== -->
+<section>
+<h2>2. Governing Thought</h2>
+<p>For three weeks, the ads were burning $200 to $475 per day against a measurement signal that did not exist. The fix was not a single bug. It was a stack of four bugs in Meta's undocumented Custom Conversion rule format, each one revealed only after the previous fix landed. We finally abandoned that approach Sunday night and routed the same intent through Meta's standard Purchase event template, which side-steps the entire failure surface. The plumbing is now built, verified, cleaned up, and inert. Turning the ads back on is the cheapest test of whether measurement was the actual constraint, or whether the April 16 campaign restructure also broke delivery.</p>
+</section>
+
+<!-- ============================================================== -->
+<!-- 3. WHERE THE SIGNAL FLOWS NOW (DIAGRAM)                          -->
+<!-- ============================================================== -->
+<section>
+<h2>3. Where the Signal Flows Now</h2>
+
+<p>Read this top-to-bottom. The reason it is drawn as a loop is that conversion data feeds back into how Meta's auction picks the next user to show your ad to. A broken signal does not just blind reporting; it directly degrades targeting.</p>
+
+<p class="define">Definitions used in this diagram. <span class="glossary-term">Pixel</span>: a small JavaScript snippet running in the browser that sends a message to Meta whenever a tracked action happens. <span class="glossary-term">dataLayer</span>: a single shared variable in the page where the React app drops events; everything else (Google Tag Manager, Google Analytics) listens to it. <span class="glossary-term">GTM (Google Tag Manager)</span>: a hosted service that owns "if event X fires on page, send message Y to Meta." <span class="glossary-term">CAPI (Conversions API)</span>: Meta's server-to-server event channel. Resilient to ad-blockers and iOS Safari Intelligent Tracking Prevention; fires from our backend, not the browser.</p>
+
+<div class="ascii">
+                                    THE SIGNAL LOOP
+
+   +---------------------+   1. user does a tracked thing   +-------------------+
+   |  React app          |  -----------------------------&gt;  | Browser           |
+   |  jotpsych.com       |   (records first note,           | dataLayer         |
+   |  app.jotpsych.com   |    completes signup,             | event push        |
+   +----------^----------+    or hits /scheduled-confirmed) +---------+---------+
+              |                                                       |
+   8. Meta    |                                                       | 2. GTM listens
+   pushes     |                                                       v
+   better     |                                       +-----------------------------+
+   targeted   |                                       |  GTM container v23          |
+   ads to     |                                       |  Tag 67  Purchase $150 (FN) |
+   similar    |                                       |  Tag 68  Purchase $25  (SU) |
+   users      |                                       |  Tag 69  Purchase $5   (Cal)|
+              |                                       +--------------+--------------+
+              |                                                      |
+              |                                                      | 3. fbq('track','Purchase',...)
+              |                                                      v
+   +----------+--------------+                       +---------------------------------+
+   |  Meta auction           | &lt;----- 7. optimize ---|  Meta WebApp Actions pixel       |
+   |  picks next impression  |        for Purchase   |  id 1625233994894344             |
+   |  weighted by Purchase   |        value          +---------------+-----------------+
+   |  $ value, not count     |                                       |
+   +-------------------------+                                       | 4. Meta dedupes
+              ^                                                      |    by event_id
+              |                                                      v
+              |                       +-----------------------------------------------+
+              | 6. matches against    |  Canonical CC: Purchase combined value-based  |
+              |    canonical CC       |  id 1604667127308749 (last fired today 9:46AM)|
+              |                       +-----------------------+-----------------------+
+              |                                               ^
+              |                                               | 5. CAPI server posts
+              |                                               |    same event_id
+              |                                               |    (Phase 2, Alfred)
+              |                                       +-------+----------+
+              +-------------------------------------- |  JotPsych BE     |
+                                                      |  CompleteReg now |
+                                                      |  FirstNote next  |
+                                                      +------------------+
+</div>
+<div class="diag-cap">Figure 1. The signal loop, post-rebuild. Browser path is live today. Server path (step 5) is the one piece still pending (Phase 2, Alfred).</div>
+
+<h3>3.1 Why the loop matters</h3>
+<p>The thing most people miss about Meta is that conversion events are not a reporting concept. They are the <span class="highlight">auction input</span>. Meta's optimizer reads the dollar value attached to each Purchase event and decides whose feed to put your ad in next. When the signal was broken, the optimizer had nothing to weight against and was effectively running on impression-level proxies.<sup><a href="#fn4">4</a></sup> When the signal is clean and value-weighted, Meta seeks out users statistically similar to the ones who have generated First Notes, the only event that maps to revenue. That is the loop the rebuild restored.</p>
+
+<h3>3.2 What is firing right now (last 5 days)</h3>
+<table>
+  <thead><tr><th>Date</th><th>Spend</th><th>Sign Up events</th><th>Purchase events</th><th>Purchase value</th></tr></thead>
+  <tbody>
+    <tr><td>Apr 30</td><td>$224.66</td><td>68</td><td>0</td><td>$0</td></tr>
+    <tr><td>May 1</td><td>$255.81</td><td>53</td><td>0</td><td>$0</td></tr>
+    <tr><td>May 2</td><td>$225.08</td><td>11</td><td>0</td><td>$0</td></tr>
+    <tr><td>May 3</td><td>$0.00</td><td>9</td><td>0</td><td>$0</td></tr>
+    <tr><td>May 4</td><td>$314.53</td><td>27</td><td><span class="highlight">2</span></td><td><span class="highlight">$50</span></td></tr>
+    <tr><td>May 5 (today, partial)</td><td>$32.44</td><td>22</td><td>0 (lag)</td><td>(reporting lag)</td></tr>
+  </tbody>
+</table>
+<p class="small">Source: Meta Marketing API, account insights pull at 2026-05-05 14:30 UTC. Insights have a 24-72 hour lag for some metrics; "0 today" reflects that lag, not a tag failure. The canonical Custom Conversion last_fired_time confirms a real Purchase event landed today at 13:46 UTC, after the in-API insights cutoff.<sup><a href="#fn5">5</a></sup></p>
+
+</section>
+
+<!-- ============================================================== -->
+<!-- 4. THE THREE-WEEK SAGA                                          -->
+<!-- ============================================================== -->
+<section>
+<h2>4. How We Got Here: The Three-Week Saga</h2>
+
+<p>The shortest version. Each fix landed clean code, surfaced a different undocumented Meta rule, then died. The fourth pivot abandoned Custom Conversions entirely. Today's signal flows through that fourth path.</p>
+
+<p class="define">Definitions. <span class="glossary-term">Custom Conversion (CC)</span>: a Meta object that says "if a pixel event matching rule X fires, count it as a conversion of type Y with dollar value Z." <span class="glossary-term">Standard event</span>: a Meta-blessed event template (PageView, Purchase, Lead, etc.) that has known semantics across the entire ads network. <span class="glossary-term">Pixel rule</span>: the JSON-encoded matcher that decides whether a given pixel fire qualifies for a CC. <span class="glossary-term">Learning phase</span>: Meta's term for the first ~50 conversions on a new optimization target, during which delivery is unstable.</p>
+
+<div class="ascii">
+   THE SAGA, IN FIVE ACTS
+
+   Apr 16  -----+   campaign restructure
+                |   - 5 ad sets collapsed to 1
+                |   - flipped to OUTCOME_SALES + VALUE optimization
+                |   - new ad set entered learning phase
+                |   - cost per first note begins climbing
+                v
+   Apr 20  -----+   v1: built three Custom Conversions for FN/SU/Cal
+                |   bug 1: whitespace in rule values, no matches
+                |   bug 2: dollar value passed in dollars, but Meta
+                |          stores in cents (UI showed $1.00 not $100)
+                |   result: zero matches in 50 hours of live traffic
+                v
+   Apr 22  -----+   v2: rebuilt with clean rules, cents
+                |   bug 3: rule field name `event_type` is accepted at
+                |          create but never matches; correct field is
+                |          `event` (silent v1/v2 failure mode)
+                |   result: zero matches in 18 hours
+                v
+   Apr 23  -----+   v3: rebuilt with `event` + URL filter
+                |   bug 4: VALUE optimization with multiple CCs is not
+                |          supported in OUTCOME_SALES + Custom
+                |          Conversions; Meta silently caps optimization
+                |          at one event per ad set
+                |   result: technically firing, but optimizer can only
+                |           see one of the three values
+                v
+   May 2   -----+   browser pixel for legacy FirstNote and SignUpConfirm
+                |   custom events goes dark (suspected ad-blocker /
+                |   Safari Intelligent Tracking Prevention)
+                |   spend continues against zero signal
+                v
+   May 4   -----+   pivot: bind ad set to Meta STANDARD Purchase event
+   (yesterday)  |   with three valued sub-actions through GTM
+                |   - tags built and previewed in workspace
+                |   - container v21 published 9:02 PM ET
+                |   - ad set rebound to Purchase 9:18 PM ET
+                |   - canonical Purchase CC created for reporting
+                |   - container v22 published 9:35 PM ET (rewire SU,
+                |     pause legacy tags 26/27)
+                |   - container v23 published 9:58 PM ET (rename pass:
+                |     19 CCs, 9 GTM tags now clearly labeled)
+                |   - ad set paused 12:17 AM ET pending verification
+                v
+   May 5   ===> WHERE WE ARE RIGHT NOW
+   (today)      Plumbing built, verified in preview, cleanup done.
+                One canonical Purchase event firing today.
+                Awaiting unpause.
+</div>
+<div class="diag-cap">Figure 2. The Apr 16 to May 5 saga. Each box is a published change; the right-hand description is the bug that surfaced after.</div>
+
+<h3>4.1 The lesson, written down so we do not repeat it</h3>
+<ul>
+  <li><span class="highlight">Meta's Custom Conversion API has at least four undocumented silent-failure modes.</span> Whitespace, units, field name, multi-event VALUE incompatibility. Each one creates a working-looking object that never matches.<sup><a href="#fn6">6</a></sup></li>
+  <li><span class="highlight">Use Meta standard event templates for optimization signals.</span> Custom Conversions are fine for reporting. They are a trap for optimization, because they sit between you and the auction's expectation of what the event "is."</li>
+  <li><span class="highlight">Always verify with the canonical CC's <code>last_fired_time</code> field.</span> Insights API has a 24-72 hour lag. The CC's last-fired timestamp updates within minutes and is the truth.</li>
+</ul>
+
+</section>
+
+<!-- ============================================================== -->
+<!-- 5. THE NEW SIGNAL: BEFORE/AFTER                                 -->
+<!-- ============================================================== -->
+<section>
+<h2>5. The New Signal: Before vs After</h2>
+
+<p>Both diagrams show the same intent: optimize for the highest-value conversion (First Note, the only one that maps to revenue) while still using lower-value events (Sign Up, Calendar Booking) as supporting volume. The "before" structure tried to do this through three separate Custom Conversions; "after" routes all three through the single Meta standard Purchase event with different dollar values attached.</p>
+
+<div class="ascii">
+   BEFORE (Apr 20 to May 4, broken)
+
+                    +-------+    +-------+    +-------+
+   pixel events --&gt; |  FN   |    |  SU   |    |  Cal  |
+                    | $100  |    |  $5   |    |  $15  |
+                    | CC    |    | CC    |    | CC    |
+                    +---+---+    +---+---+    +---+---+
+                        |            |            |
+                        v            v            v
+                    +--------------------------------+
+                    | ad set picks ONE for VALUE opt |  &lt;-- Meta caps at one
+                    +--------------------------------+      VALUE event per
+                                  |                         ad set in this mode
+                                  v
+                              auction
+
+
+   AFTER (May 4 onward, fixed)
+
+   pixel events --&gt;
+       FN  fbq('track','Purchase', value:150, content_name:'first_note')
+       SU  fbq('track','Purchase', value: 25, content_name:'signup')
+       Cal fbq('track','Purchase', value:  5, content_name:'calendar')
+                                  |
+                                  v
+                    +------------------------------+
+                    | ONE Meta standard Purchase    |
+                    | event, three value tiers      |
+                    +---------------+--------------+
+                                    |
+                                    v
+                    +------------------------------+
+                    | ad set optimizes for total    |
+                    | Purchase $ value across all 3 |
+                    +---------------+--------------+
+                                    |
+                                    v
+                                auction
+</div>
+<div class="diag-cap">Figure 3. Before and after the May 4 pivot. Both architectures spend the same dollars; only the after architecture lets Meta's optimizer see all three event types as one weighted signal.</div>
+
+<h3>5.1 Why the dollar values are what they are</h3>
+<p>The starting weights are deliberately rough. They are <span class="highlight">directional ratios</span>, not calibrated truth. Meta needs <em>some</em> dollar value to weight against; uncalibrated weights still beat count-only optimization. The Phase 3 calibration (day 30+) replaces them with cohort-derived numbers.</p>
+
+<table>
+  <thead><tr><th>Event</th><th>Starting value</th><th>Logic</th><th>Calibration target</th></tr></thead>
+  <tbody>
+    <tr><td>First Note</td><td>$150</td><td>Proxy for clinician lifetime value at conversion time</td><td>Real customer lifetime value from billing data</td></tr>
+    <tr><td>Sign Up</td><td>$25</td><td>~17% of First Note (rough sign-up to first-note conversion rate)</td><td>Measured Sign Up to First Note conversion in 60-day window</td></tr>
+    <tr><td>Calendar Booking</td><td>$5</td><td>Heavily discounted for attribution decay (calendar to first note can be weeks; Meta's 7-day click window misses most)</td><td>Measured Calendar to First Note conversion in 7-day attribution window</td></tr>
+  </tbody>
+</table>
+
+</section>
+
+<!-- ============================================================== -->
+<!-- 6. THE TURN-ON PLAN                                             -->
+<!-- ============================================================== -->
+<section>
+<h2>6. The Turn-On Plan</h2>
+
+<p>One day of pre-flight checks; ten days of monitored ramp; thirty days to the first calibration. Each phase has an explicit gate; failing a gate triggers a roll-back, not a guess.</p>
+
+<div class="ascii">
+   THE GATE SYSTEM
+
+   T-0  ----------- preflight ------------ unpause -------------------+
+   today                                                              |
+                                                                      v
+   T+0  ----- monitor signal ----- gate 1: Test Events Purchase fire +
+                                          (within 5 minutes of unpause)
+                                                                      |
+                                                  pass --------+      |
+                                                                |     |
+                                                                |     | fail: re-pause,
+                                                                |     | audit GTM tag,
+                                                                |     | check Meta Pixel
+                                                                |     | Helper extension
+                                                                v     |
+   T+2  ----- monitor signal ----- gate 2: action_values $ column     |
+                                          populates in Ads Manager    |
+                                                                      |
+                                                  pass --------+      |
+                                                                |     |
+                                                                |     | fail: re-pause,
+                                                                |     | check whether
+                                                                |     | Meta is rejecting
+                                                                |     | the event
+                                                                v     |
+   T+5  ----- ramp ---------------- gate 3: raise budget to $1k/d     |
+                                                                      |
+                                                  pass --------+      |
+                                                                |     |
+                                                                v     |
+   T+7  ----- monitor signal ----- gate 4: Sign Up volume         |
+                                          decaying toward 30/day     |
+                                                                      |
+                                                  pass --------+      |
+                                                                |     | fail: edit GTM
+                                                                |     | tag 68, drop
+                                                                |     | $25 to $0, file
+                                                                |     | Alfred ticket
+                                                                v     |
+   T+14 ----- monitor signal ----- gate 5: learning phase exits        |
+                                          (delivery: Active not        |
+                                          Learning)                    |
+                                                                      |
+                                                  pass --------+      |
+                                                                |     |
+                                                                v     |
+   T+30 ----- recalibrate -------- gate 6: cost per first note         |
+                                          stable below $300            |
+                                                                      |
+                                                  pass --&gt; declare loop closed
+                                                  fail --&gt; investigate
+                                                           Apr 16
+                                                           restructure
+</div>
+<div class="diag-cap">Figure 4. The turn-on plan as a series of gates. Failing a gate rolls back, not forward. Roll-backs are cheap (one GTM edit or one ad-set toggle); pushing through a failed gate is expensive.</div>
+
+<h3>6.1 Gate detail</h3>
+<table>
+  <thead><tr><th>Gate</th><th>Pass criterion</th><th>Failure action</th><th>Owner</th></tr></thead>
+  <tbody>
+    <tr><td>1. Test Events fire</td><td>Three Purchase events appear in Meta Events Manager Test Events tab within 5 minutes of seeded test (record encounter, console-push event, hit /scheduled-confirmed)</td><td>Re-pause; audit GTM tag JSON in repo against live container; if mismatched, reapply</td><td>Nate (manual), Claude (verification script)</td></tr>
+    <tr><td>2. Value populates</td><td>action_values column in Meta Ads Manager shows non-zero Purchase value within 24 to 48 hours of unpause</td><td>Re-pause; pull Pixel Diagnostics tab; check if Meta is rejecting the event for missing required parameters</td><td>Nate</td></tr>
+    <tr><td>3. Budget ramp</td><td>Gate 2 passed and ad set delivery is healthy (no policy issues, no excessive frequency)</td><td>Hold at $300/day until gate 2 passes</td><td>Nate</td></tr>
+    <tr><td>4. Sign Up trajectory</td><td>Daily CompleteRegistration count below 50 by May 14 (currently 22-68 and decaying)</td><td>Drop GTM tag 68 value from $25 to $0 in a single edit; file Alfred ticket to audit first_capture gating</td><td>Nate (monitor), Claude (GTM edit)</td></tr>
+    <tr><td>5. Learning exit</td><td>Ad set delivery indicator moves from Learning to Active</td><td>Wait. Spend more. Learning phase needs ~50 conversions to exit; at $1k/day that is roughly 7-14 days</td><td>Nate</td></tr>
+    <tr><td>6. Cost per First Note recovery</td><td>Cost per First Note trending below $300 by June 5 (target: toward humming-era $144)</td><td>If failed, the issue is not measurement. Audit the Apr 16 restructure (audience stacking, ad set fragmentation, creative quality)</td><td>Nate</td></tr>
+  </tbody>
+</table>
+
+<h3>6.2 Operational asks for tomorrow</h3>
+<ol>
+  <li><span class="highlight">Verify in Meta Test Events.</span> 5 minutes. Meta Events Manager &gt; Pixel "WebApp Actions" &gt; Test Events tab. Add a test code, then either record an encounter on a test account, or paste this in the browser console at app.jotpsych.com: <code>window.dataLayer.push({event: 'generatedFirstNote', event_id: 'test-' + Date.now()})</code>. Watch for the Purchase event to appear.</li>
+  <li><span class="highlight">Unpause the ad set.</span> 1 minute. Meta Ads Manager &gt; ad set "Nate figuring shit out" &gt; toggle to Active. No other edits.</li>
+  <li><span class="highlight">Slack the team.</span> 2 minutes. "Ads back on at $300/day, Purchase optimization, gating up at day 5." Pre-empt questions.</li>
+  <li><span class="highlight">Set a calendar reminder for May 7 EOD.</span> Check action_values populated. If yes, ramp to $1k. If no, re-pause.</li>
+</ol>
+
+</section>
+
+<!-- ============================================================== -->
+<!-- 7. RISKS AND MITIGATIONS                                        -->
+<!-- ============================================================== -->
+<section>
+<h2>7. Risks and Mitigations</h2>
+
+<table>
+  <thead><tr><th>Risk</th><th>Likelihood</th><th>Mitigation</th><th>Roll-back cost</th></tr></thead>
+  <tbody>
+    <tr><td>Sign Up event over-fires past May 14, polluting optimization with backfill traffic</td><td>Medium. The event went from 488/day on Apr 30 to 22-68/day now, decaying as expected, but the backend gate has not been independently audited.</td><td>Drop GTM tag 68 value to $0 in a single edit. Tag still fires (so audience modeling continues), but contributes no weight to optimization. File Alfred ticket to audit <code>first_capture</code> gating in <code>AuthenticationCallback.tsx</code>.</td><td>5 minutes (one GTM edit, no engineering ask)</td></tr>
+    <tr><td>Cost per First Note doesn't recover even with clean signal</td><td>Medium. The Apr 16 campaign restructure was a separate change and may also have damaged delivery (audience stacking, ad set fragmentation).</td><td>If gate 6 fails after 30 days of clean Purchase data, audit campaign structure rather than tracking. Restructure plan already exists in <code>plans/campaign-restructure-2026-04-16.md</code>.</td><td>30 days of measurement to find out, but spend is bounded by the budget gates.</td></tr>
+    <tr><td>iOS Safari Intelligent Tracking Prevention blocks browser pixel for some users</td><td>High structurally; bounded in impact.</td><td>Phase 2 ships server-side Conversions API for First Note. Once Alfred's ticket lands, browser blocks become irrelevant for the highest-value event. Sign Up already has Conversions API parity from GDN-1180.</td><td>Phase 2 timeline is 5-7 days from kick-off.</td></tr>
+    <tr><td>The Apr 16 GTM regression that broke legacy FirstNote / SignUpConfirm pixel events on May 2 affects something else we haven't noticed</td><td>Low. The legacy tags 26/27 were paused as part of v22 cleanup, so they cannot regress further. The diagnostic discovery (legacy pixel went dark, GTM fires fine in preview, real cause is browser-side blocking) is captured in the rebuild plan.</td><td>Watch for Slack reports of broken downstream tracking (GA4, etc.). Re-enable a tag if needed.</td><td>Single GTM edit per affected tag.</td></tr>
+    <tr><td>Calendar booking trigger misses some confirmations</td><td>Low. Trigger is "page URL contains /scheduled-confirmed". Confirmed by Nate that every booking lands on this URL.</td><td>If a future booking flow bypasses /scheduled-confirmed, trigger needs updating. Worth a 5-minute spot-check during week 1.</td><td>Single GTM trigger edit.</td></tr>
+  </tbody>
+</table>
+
+</section>
+
+<!-- ============================================================== -->
+<!-- 8. OPEN QUESTIONS                                               -->
+<!-- ============================================================== -->
+<section>
+<h2>8. Open Questions</h2>
+
+<ol>
+  <li><span class="highlight">Backend first_capture gating audit (Alfred, 30 minutes).</span> Is <code>first_capture</code> in <code>AuthenticationCallback.tsx</code> actually gating per <code>user_id</code>, or does it fire on every callback? Resolving this early would let us ship Sign Up at $25 with confidence rather than monitoring it for a week.</li>
+  <li><span class="highlight">True new-signup volume per day from backend source of truth (Alfred, one query).</span> We are using 10-30/day as our target after Sign Up event volume decays out. A precise number would let us validate gate 4 with confidence.</li>
+  <li><span class="highlight">Should browser-side Sign Up pixel be paused entirely once Conversions API matures?</span> Tighter dedup, lower client-side noise. Defer to month 2.</li>
+  <li><span class="highlight">Reddit and LinkedIn pixel tags in GTM container.</span> 8 tags total. Are those ad campaigns still active? If not, batch-pause in a follow-up cleanup. Not blocking.</li>
+</ol>
+
+</section>
+
+<!-- ============================================================== -->
+<!-- APPENDIX A: GLOSSARY (every acronym defined)                    -->
+<!-- ============================================================== -->
+<section class="appendix">
+<h2>Appendix A. Glossary</h2>
+
+<p>Defined here in alphabetical order, in case a reference is wanted while reading.</p>
+
+<table>
+  <thead><tr><th>Term</th><th>Definition</th></tr></thead>
+  <tbody>
+    <tr><td>Ad set</td><td>Meta's middle-tier object: lives inside a campaign, holds the targeting rules, the optimization goal, and the daily budget. Ads attach to ad sets.</td></tr>
+    <tr><td>Attribution window</td><td>How long Meta waits after an ad click or impression before stopping the credit clock for a conversion. Ours: 7-day click + 1-day view.</td></tr>
+    <tr><td>CAPI (Conversions API)</td><td>Meta's server-to-server event channel. The same event types as the browser pixel, but posted from a backend. Resilient to ad-blockers and iOS Safari Intelligent Tracking Prevention.</td></tr>
+    <tr><td>Custom Conversion (CC)</td><td>A Meta object that says "if a pixel event matching rule X fires, count it as a conversion of type Y with dollar value Z." Most often built in the Meta UI; we used the API.</td></tr>
+    <tr><td>CompleteRegistration</td><td>A Meta standard event name. Mapped 1:1 to our Sign Up event in the dataLayer.</td></tr>
+    <tr><td>Cost per First Note (CpFN)</td><td>Total ad spend divided by attributed First Note count. The single key performance indicator for the ads program.</td></tr>
+    <tr><td>dataLayer</td><td>A single shared array on the page where the React app drops events. Tag managers (Google Tag Manager, GA4) listen to it.</td></tr>
+    <tr><td>EMQ (Event Match Quality)</td><td>Meta's 0-10 score for how well a pixel event ties back to a real Meta user. Higher EMQ means better targeting and reporting. Browser-only events typically score 3-4; pairing with Conversions API and identity hashing typically scores 7+.</td></tr>
+    <tr><td>event_id</td><td>A unique identifier on each conversion event, used by Meta to dedupe browser-side and server-side fires of the same action.</td></tr>
+    <tr><td>First Note (FN)</td><td>Our canonical revenue-mapped event: a clinician completes their first AI-generated note. The only event that reliably correlates with becoming a paying customer.</td></tr>
+    <tr><td>fbq</td><td>The JavaScript function the Meta Pixel exposes for sending events from the browser.</td></tr>
+    <tr><td>GTM (Google Tag Manager)</td><td>A hosted Google service that owns "if event X fires on page, send message Y to vendor Z." Decouples marketing-tag changes from app deploys.</td></tr>
+    <tr><td>Learning phase</td><td>Meta's term for the first ~50 conversions on a new optimization target, during which delivery is unstable. Exits to "Active" once enough signal accumulates.</td></tr>
+    <tr><td>Lifetime Value (LTV)</td><td>Average total revenue a customer generates over their full relationship. Used to derive the dollar weight of First Note in the calibration step.</td></tr>
+    <tr><td>OUTCOME_SALES</td><td>Meta's modern campaign objective for purchase-style events, replacing legacy OUTCOME_LEADS / OUTCOME_TRAFFIC objectives.</td></tr>
+    <tr><td>Pixel</td><td>A small JavaScript snippet running in the browser that sends a message to Meta whenever a tracked action happens. Nate's pixel: WebApp Actions, id 1625233994894344.</td></tr>
+    <tr><td>pixel_rule</td><td>A JSON-encoded matcher attached to a CC or an ad set's promoted_object. Decides whether a given pixel fire qualifies.</td></tr>
+    <tr><td>promoted_object</td><td>A field on a Meta ad set that says "this is what you are optimizing for." Holds the pixel ID, the event type, and any rule.</td></tr>
+    <tr><td>Purchase</td><td>A Meta standard event name. We are using it for all three of First Note, Sign Up, and Calendar Booking, distinguished only by content_name and value.</td></tr>
+    <tr><td>Sign Up (SU)</td><td>A new clinician completes Auth0 registration on jotpsych.com. Mapped to Meta's CompleteRegistration standard event.</td></tr>
+    <tr><td>VALUE optimization</td><td>Meta optimization mode that bids based on the dollar amount on each conversion event, rather than count.</td></tr>
+  </tbody>
+</table>
+
+</section>
+
+<!-- ============================================================== -->
+<!-- APPENDIX B: CUSTOM CONVERSION INVENTORY                         -->
+<!-- ============================================================== -->
+<section class="appendix">
+<h2>Appendix B. Custom Conversion Inventory (post-cleanup)</h2>
+
+<p>19 entries on the ad account. After the May 4 rename pass, the list reads top-to-bottom as: 1 canonical, 3 archived from this session, 6 archived from the v1/v2 saga, 3 test artifacts, 6 dead pre-2026. Anyone scanning instantly knows which to ignore.</p>
+
+<table>
+  <thead><tr><th>State</th><th>ID</th><th>Name</th><th>Last fired</th></tr></thead>
+  <tbody>
+    <tr><td><span class="highlight">CANONICAL</span></td><td>1604667127308749</td><td>[CANONICAL] Purchase: FirstNote+SignUp+Calendar (value-based)</td><td>2026-05-05 13:46 UTC</td></tr>
+    <tr><td>archived (v3)</td><td>1755976485786147</td><td>_archived_FirstNote (Valued) v3</td><td>2026-05-05 13:26 UTC (CAPI residual)</td></tr>
+    <tr><td>archived (v3)</td><td>1014486627931137</td><td>_archived_SignUpConfirm (Valued) v3</td><td>2026-05-04 23:33 UTC</td></tr>
+    <tr><td>archived (v3)</td><td>26939511482340303</td><td>_archived_CalendarScheduled (Valued) v3</td><td>2026-05-02 18:51 UTC</td></tr>
+    <tr><td>archived (v2)</td><td>4363987073922754</td><td>_archived_FirstNote (Valued) v2 (event_type field bug)</td><td>never</td></tr>
+    <tr><td>archived (v2)</td><td>1673233627279622</td><td>_archived_SignUpConfirm (Valued) v2 (event_type field bug)</td><td>never</td></tr>
+    <tr><td>archived (v2)</td><td>829867779586914</td><td>_archived_CalendarScheduled (Valued) v2 (event_type field bug)</td><td>never</td></tr>
+    <tr><td>archived (v1)</td><td>3914250848710226</td><td>_archived_FirstNote (Valued) v1 (whitespace+cents bug)</td><td>never</td></tr>
+    <tr><td>archived (v1)</td><td>1960979881475090</td><td>_archived_SignUpConfirm (Valued) v1 (whitespace+cents bug)</td><td>never</td></tr>
+    <tr><td>archived (v1)</td><td>1270312578633364</td><td>_archived_CalendarScheduled (Valued) v1 (whitespace+cents bug)</td><td>never</td></tr>
+    <tr><td>archived (probe)</td><td>795807576658478</td><td>_archived_probe_event_name_field_C_2026-04-23</td><td>never</td></tr>
+    <tr><td>archived (test)</td><td>3545141088966373</td><td>TEST FirstNote V3</td><td>never</td></tr>
+    <tr><td>archived (test)</td><td>2813906782342167</td><td>TEST FirstNote V1</td><td>never</td></tr>
+    <tr><td>dead (pre-2026)</td><td>1594516041309713</td><td>_dead_PageView_pre-2026-04-14</td><td>2026-04-14</td></tr>
+    <tr><td>dead (2025)</td><td>343158638749858</td><td>_dead_2025-01_TrialStart_old-funnel</td><td>2025-01-28</td></tr>
+    <tr><td>dead (2024)</td><td>812649520925814</td><td>_dead_2024-11_DemoVisit_old-funnel-1</td><td>2024-11-18</td></tr>
+    <tr><td>dead (2024)</td><td>1840242763119689</td><td>_dead_2024-11_DemoVisit_old-funnel-2</td><td>2024-11-18</td></tr>
+    <tr><td>dead (2024)</td><td>427658886698467</td><td>_dead_2024-10_DemoScheduleSuccess</td><td>2024-10-23</td></tr>
+    <tr><td>dead (2024)</td><td>956970892560523</td><td>_dead_2024-09_DemoScheduled</td><td>2024-09-08</td></tr>
+  </tbody>
+</table>
+
+<p class="small">Per the never-delete rule, all entries remain in the account renamed rather than deleted. Rollback is always possible.</p>
+
+</section>
+
+<!-- ============================================================== -->
+<!-- APPENDIX C: GTM CONTAINER STATE                                 -->
+<!-- ============================================================== -->
+<section class="appendix">
+<h2>Appendix C. GTM Container State (live v23)</h2>
+
+<p>Container <code>GTM-KL9RPN9V</code>. Five published versions in 24 hours (v20 was the legacy snapshot; v21 added Purchase tags; v22 rewired Sign Up trigger and paused legacy tags; v23 was the rename pass).<sup><a href="#fn7">7</a></sup></p>
+
+<h4>Active Meta optimization stack (4 tags, all live in v23)</h4>
+<table>
+  <thead><tr><th>Tag ID</th><th>Name</th><th>Trigger</th><th>What it sends</th></tr></thead>
+  <tbody>
+    <tr><td>67</td><td>[ACTIVE] Meta Purchase: First Note ($150)</td><td>Custom event "generatedFirstNote"</td><td>Purchase, value $150, content_name=first_note, eventID from dataLayer</td></tr>
+    <tr><td>68</td><td>[ACTIVE] Meta Purchase: Sign Up ($25)</td><td>Custom event "CompleteRegistration"</td><td>Purchase, value $25, content_name=signup, eventID from dataLayer</td></tr>
+    <tr><td>69</td><td>[ACTIVE] Meta Purchase: Calendar Scheduled ($5)</td><td>Page View, URL contains /scheduled-confirmed</td><td>Purchase, value $5, content_name=calendar</td></tr>
+    <tr><td>23</td><td>[ACTIVE] Meta Pixel: PageView</td><td>All Pages</td><td>Base PageView event for the pixel</td></tr>
+  </tbody>
+</table>
+
+<h4>Archived from May 4 (paused, kept for rollback)</h4>
+<table>
+  <thead><tr><th>Tag ID</th><th>Name</th><th>Reason archived</th></tr></thead>
+  <tbody>
+    <tr><td>26</td><td>[ARCHIVED 2026-05-04] Meta - First Note Event (legacy custom event)</td><td>Replaced by Tag 67</td></tr>
+    <tr><td>27</td><td>[ARCHIVED 2026-05-04] Meta - SignUp Confirm Event (legacy custom event)</td><td>Replaced by Tag 68</td></tr>
+    <tr><td>29</td><td>[ARCHIVED-TEST] Meta First Note 2 - Test</td><td>Test artifact</td></tr>
+  </tbody>
+</table>
+
+<h4>Other platforms (untouched in this cleanup, 19 tags)</h4>
+<p>GA4 (5 tags), Reddit Pixel (7 tags), LinkedIn (1 tag), Calendly (2 tags), conversion linker (1 tag), generic user_id (1 tag), Meta CAPI tags from the FB wizard integration (4 tags). Open question for a follow-up cleanup: are Reddit and LinkedIn ad campaigns still active?</p>
+
+</section>
+
+<!-- ============================================================== -->
+<!-- APPENDIX D: SOURCE INVENTORY                                    -->
+<!-- ============================================================== -->
+<section class="appendix">
+<h2>Appendix D. Source Inventory</h2>
+<table>
+  <thead><tr><th>Source</th><th>Window</th><th>Volume</th><th>Depth</th></tr></thead>
+  <tbody>
+    <tr><td>Plan documents in <code>plans/</code></td><td>Mar 25 to May 4</td><td>9 plans</td><td>Read in full: campaign-restructure-2026-04-16, audit-lp-2026-04-14, lpv-tracking-fix-2026-04-14, podcast-lp-2026-04-14, meta-turnaround-2026-04-16, plan-to-fix-2026-04-20, purchase-conversion-rebuild-2026-05-04, cleanup-meta-cc-and-gtm-2026-05-04, landing-page-to-ad-creative-2026-05-04</td></tr>
+    <tr><td>Project changelog</td><td>Apr 6 to Apr 23</td><td>Top 100 lines</td><td>Latest entries on v1/v2/v3 saga read in full</td></tr>
+    <tr><td>Meta Marketing API live state</td><td>2026-05-05 14:30 UTC pull</td><td>1 ad account, 7 ad sets, 1 active campaign, 1 ad, 19 Custom Conversions</td><td>Full ad-set spec, full campaign parent, full CC inventory with last_fired_time</td></tr>
+    <tr><td>Meta account insights</td><td>Apr 21 to May 5</td><td>14 days, daily increments</td><td>Spend, impressions, clicks, actions (Sign Up, Purchase), action_values</td></tr>
+    <tr><td>Meta ad-set activity log</td><td>Apr 21 to May 5</td><td>10 events</td><td>Includes the 2026-05-05 04:17 UTC pause and the 2026-05-05 01:18 UTC conversion-event update</td></tr>
+    <tr><td>GTM published versions log</td><td>2026-05-04 21:02 UTC to 2026-05-05 01:58 UTC</td><td>5 published versions</td><td>v21 (Purchase tags), v22 (rewire SU + pause legacy), v23 (rename pass)</td></tr>
+    <tr><td>GTM container snapshots</td><td>2026-05-04</td><td>3 JSON files (tags, triggers, variables)</td><td>Pre-rebuild baseline captured for regression diff</td></tr>
+    <tr><td>Pixel last_fired_time + canonical CC last_fired_time</td><td>Live as of 2026-05-05 14:30 UTC</td><td>Two endpoints</td><td>Confirms Purchase event landed today at 13:46 UTC</td></tr>
+  </tbody>
+</table>
+
+</section>
+
+<!-- ============================================================== -->
+<!-- FOOTNOTES                                                       -->
+<!-- ============================================================== -->
+<section class="footnotes">
+<h2>References</h2>
+<ol>
+  <li id="fn1">Meta Marketing API live pull, 2026-05-05 14:30 UTC. All 7 non-deleted ad sets on act_1582817295627677 returned <code>effective_status: PAUSED</code>. Most recent activity on the canonical ad set: <code>update_ad_set_run_status</code> at 2026-05-05 04:17 UTC.</li>
+  <li id="fn2">GTM published-versions log at <code>config/gtm/published-versions.log</code>: v21 (purchase-conversion-v1) published 2026-05-04 21:02 UTC; v22 (rewire SignUp + pause legacy 26/27) published 2026-05-05 01:35 UTC; v23 (cleanup-renames-v1) published 2026-05-05 01:58 UTC.</li>
+  <li id="fn3">Plan: <code>plans/purchase-conversion-rebuild-2026-05-04.md</code>, governing thought section. The pivot rationale (multi-event VALUE optimization not supported in OUTCOME_SALES + Custom Conversions; three known silent-failure modes eliminated by going through GTM with a Meta standard event template) is documented in the "Why this is the next move" section.</li>
+  <li id="fn4">Meta business help: optimization is fundamentally a value-weighted prediction problem; without dollar weights, the optimizer falls back to count-only or proxy signals. See <a href="https://www.facebook.com/business/help/1856641664898189">https://www.facebook.com/business/help/1856641664898189</a> on value optimization.</li>
+  <li id="fn5">Meta Marketing API, GET <code>/{cc_id}</code> on 1604667127308749 (canonical Purchase CC) at 2026-05-05 14:30 UTC: <code>last_fired_time = 2026-05-05T13:46:09+0000</code>. Pixel object endpoint <code>last_fired_time</code> on 1625233994894344 lags by ~24h and reads 2026-05-04 19:59 ET.</li>
+  <li id="fn6">Project changelog entries 2026-04-22 (v2 Custom Conversions: whitespace + cents bug) and 2026-04-23 (v3 rebuild: <code>event_type</code> vs <code>event</code> field bug). Project memory entry <code>feedback_meta_cc_rule_field_is_event_not_event_type.md</code> captures the third bug pattern.</li>
+  <li id="fn7">GTM live-container snapshot at <code>config/gtm/snapshot-tags-2026-05-04.json</code> and tag/trigger JSON specs at <code>config/gtm/tags/</code> and <code>config/gtm/triggers/</code>. Apply script for reproducibility at <code>config/gtm/apply.py</code>.</li>
+</ol>
+</section>
+
+</body>
+</html>

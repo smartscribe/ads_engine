@@ -1,0 +1,1203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Built for BH — Hero Visual Calibration</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: #FFF2F5;
+  --deep: #1E125E;
+  --midnight: #1C1E85;
+  --warm: #FFF2F5;
+  --card: #ffffff;
+  --border: rgba(28,30,133,0.10);
+  --border-strong: rgba(28,30,133,0.18);
+  --sunset: #FD96C9;
+  --afterglow: #813FE8;
+  --daylight: #FFF3C4;
+  --accent: #E91E63;
+  --green: #166534;
+  --green-bg: #dcfce7;
+  --amber: #854D0E;
+  --amber-bg: #fef9c3;
+  --red: #991B1B;
+  --gray: #6B7280;
+  --text: #1E125E;
+  --text-muted: #6B7280;
+  --radius: 16px;
+  --radius-sm: 10px;
+  --radius-xs: 6px;
+  --shadow-sm: 0 1px 3px rgba(30,18,94,0.06);
+  --shadow-md: 0 4px 16px rgba(30,18,94,0.08);
+  --shadow-lg: 0 8px 32px rgba(30,18,94,0.12);
+  --shadow-xl: 0 12px 48px rgba(30,18,94,0.16);
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html { scroll-behavior: smooth; -webkit-font-smoothing: antialiased; }
+body {
+  font-family: 'Inter', -apple-system, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.6;
+  padding: 48px 24px 120px;
+}
+h1, h2, h3, h4 { font-family: 'Archivo', sans-serif; line-height: 1.2; font-weight: 700; }
+
+.page {
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+.page-header {
+  text-align: center;
+  margin-bottom: 32px;
+}
+.page-header h1 {
+  font-size: clamp(1.75rem, 3vw, 2.5rem);
+  color: var(--deep);
+  margin-bottom: 8px;
+}
+.page-header h1 em { font-style: italic; color: var(--midnight); }
+.page-header p {
+  color: var(--text-muted);
+  font-size: 1.0625rem;
+  max-width: 680px;
+  margin: 0 auto;
+}
+
+.instruction-box {
+  max-width: 600px;
+  margin: 0 auto 48px;
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 16px 24px;
+  text-align: center;
+  font-size: 0.9375rem;
+  color: var(--text-muted);
+  box-shadow: var(--shadow-sm);
+}
+.instruction-box strong { color: var(--deep); font-weight: 600; }
+
+.pair {
+  background: var(--white);
+  border-radius: 20px;
+  padding: 32px 28px;
+  margin-bottom: 32px;
+  box-shadow: var(--shadow-sm);
+  border: 1px solid var(--border);
+}
+.pair-head {
+  display: flex;
+  align-items: baseline;
+  gap: 16px;
+  margin-bottom: 8px;
+}
+.pair-num {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  color: var(--accent);
+  background: rgba(233,30,99,0.08);
+  padding: 4px 10px;
+  border-radius: 99px;
+}
+.pair-title {
+  font-size: 1.25rem;
+  color: var(--deep);
+}
+.pair-context {
+  color: var(--text-muted);
+  font-size: 0.9375rem;
+  margin-bottom: 24px;
+  max-width: 720px;
+}
+
+.options {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+.option {
+  border: 2px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--bg);
+  padding: 20px;
+  cursor: pointer;
+  transition: all 0.18s ease;
+  position: relative;
+  overflow: hidden;
+}
+.option:hover {
+  border-color: var(--border-strong);
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-md);
+}
+.option.selected {
+  border-color: var(--midnight);
+  background: var(--white);
+  box-shadow: var(--shadow-lg);
+}
+.option.selected::after {
+  content: '✓';
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  background: var(--midnight);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 0.875rem;
+}
+.option-label {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 4px;
+}
+.option-letter {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.6875rem;
+  font-weight: 700;
+  color: var(--accent);
+  background: rgba(233,30,99,0.08);
+  padding: 2px 8px;
+  border-radius: 99px;
+  letter-spacing: 0.08em;
+}
+.option-name {
+  font-family: 'Archivo', sans-serif;
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--deep);
+}
+.option-desc {
+  font-size: 0.8125rem;
+  color: var(--text-muted);
+  margin-bottom: 16px;
+  min-height: 38px;
+}
+.mockup-frame {
+  background: linear-gradient(180deg, var(--warm) 0%, #ffffff 100%);
+  border-radius: 12px;
+  padding: 24px;
+  min-height: 360px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  border: 1px solid var(--border);
+}
+
+/* ===========================================
+   NOTE CARD MOCKUP — the BH med-mgmt note
+   =========================================== */
+.note-card {
+  background: white;
+  border-radius: 14px;
+  box-shadow: var(--shadow-lg);
+  width: 100%;
+  max-width: 340px;
+  overflow: hidden;
+  border: 1px solid var(--border);
+  font-family: 'Inter', sans-serif;
+}
+.note-card.with-app-shell .note-tabs {
+  display: flex;
+  border-bottom: 1px solid var(--border);
+  background: #fafaff;
+}
+.note-tab {
+  padding: 10px 14px;
+  font-size: 0.6875rem;
+  font-weight: 600;
+  color: var(--text-muted);
+  border-bottom: 2px solid transparent;
+  cursor: default;
+  font-family: 'Archivo', sans-serif;
+  letter-spacing: 0.02em;
+}
+.note-tab.active {
+  color: var(--midnight);
+  border-bottom-color: var(--midnight);
+  background: white;
+}
+.note-card:not(.with-app-shell) .note-tabs { display: none; }
+
+.note-header {
+  padding: 14px 18px 10px;
+  border-bottom: 1px solid var(--border);
+  background: linear-gradient(180deg, #fbfaff 0%, white 100%);
+}
+.note-header-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 4px;
+}
+.note-visit-type {
+  font-family: 'Archivo', sans-serif;
+  font-size: 0.6875rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--midnight);
+}
+.note-date {
+  font-size: 0.6875rem;
+  color: var(--text-muted);
+  font-family: 'JetBrains Mono', monospace;
+}
+.note-cpt {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--deep);
+}
+.note-cpt-code {
+  padding: 2px 6px;
+  background: rgba(28,30,133,0.06);
+  border-radius: 4px;
+}
+.note-cpt-plus {
+  color: var(--text-muted);
+  font-weight: 400;
+}
+
+.note-body {
+  padding: 14px 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.note-row {
+  display: grid;
+  grid-template-columns: 90px 1fr;
+  gap: 12px;
+  align-items: baseline;
+  font-size: 0.75rem;
+  line-height: 1.4;
+}
+.note-label {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.625rem;
+  font-weight: 600;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+.note-value {
+  color: var(--deep);
+  font-weight: 500;
+}
+.note-value strong { font-weight: 700; }
+.delta-down {
+  color: var(--green);
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.6875rem;
+  font-weight: 600;
+}
+.delta-up {
+  color: var(--midnight);
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.6875rem;
+  font-weight: 600;
+}
+
+/* Audit chip */
+.note-audit-chip {
+  padding: 10px 14px;
+  background: var(--green-bg);
+  border-top: 1px solid var(--border);
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+  font-size: 0.6875rem;
+  color: var(--green);
+  font-weight: 500;
+  line-height: 1.4;
+}
+.note-audit-chip-icon {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: var(--green);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.6875rem;
+  font-weight: 700;
+  flex-shrink: 0;
+  margin-top: 1px;
+}
+.note-audit-chip-text strong { font-weight: 700; }
+.note-audit-chip-detail {
+  font-size: 0.625rem;
+  color: rgba(22,101,52,0.75);
+  margin-top: 2px;
+  font-weight: 500;
+}
+
+/* App shell footer */
+.note-actions {
+  padding: 10px 16px;
+  border-top: 1px solid var(--border);
+  background: #fafaff;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+}
+.note-action-meta {
+  font-size: 0.625rem;
+  color: var(--text-muted);
+  font-family: 'JetBrains Mono', monospace;
+}
+.note-sign-btn {
+  background: var(--midnight);
+  color: white;
+  border: none;
+  border-radius: 99px;
+  padding: 6px 14px;
+  font-family: 'Inter', sans-serif;
+  font-size: 0.6875rem;
+  font-weight: 600;
+  cursor: default;
+}
+
+/* Intake note variant */
+.note-card.intake .note-body { gap: 6px; }
+.note-card.intake .note-row {
+  grid-template-columns: 70px 1fr;
+}
+
+/* ===========================================
+   CLINICIAN PHOTO + FLOATING CARD MOCKUP
+   =========================================== */
+.photo-mockup {
+  position: relative;
+  width: 100%;
+  max-width: 340px;
+  height: 360px;
+  border-radius: 14px;
+  overflow: hidden;
+  box-shadow: var(--shadow-lg);
+  border: 1px solid var(--border);
+}
+.photo-bg {
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(ellipse at 30% 30%, rgba(253,150,201,0.40) 0%, transparent 60%),
+    radial-gradient(ellipse at 70% 70%, rgba(129,63,232,0.30) 0%, transparent 55%),
+    linear-gradient(135deg, #f5dde7 0%, #e8d8f5 50%, #d8dffe 100%);
+}
+.photo-silhouette {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 70%;
+  height: 80%;
+}
+.photo-silhouette svg { width: 100%; height: 100%; }
+.photo-grain {
+  position: absolute;
+  inset: 0;
+  background-image:
+    radial-gradient(circle at 20% 30%, rgba(255,255,255,0.15) 0%, transparent 8%),
+    radial-gradient(circle at 70% 60%, rgba(255,255,255,0.1) 0%, transparent 10%),
+    radial-gradient(circle at 40% 80%, rgba(255,255,255,0.08) 0%, transparent 6%);
+  mix-blend-mode: overlay;
+}
+.photo-float-card {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  right: 20px;
+  background: white;
+  border-radius: 12px;
+  padding: 14px 16px;
+  box-shadow: var(--shadow-xl);
+}
+.photo-float-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid var(--border);
+}
+.photo-float-title {
+  font-family: 'Archivo', sans-serif;
+  font-size: 0.625rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--deep);
+}
+.photo-float-time {
+  font-size: 0.625rem;
+  color: var(--text-muted);
+  font-family: 'JetBrains Mono', monospace;
+}
+.photo-float-cpts {
+  display: flex;
+  gap: 6px;
+  margin-bottom: 8px;
+}
+.photo-float-cpt {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--deep);
+  padding: 4px 10px;
+  background: rgba(28,30,133,0.08);
+  border-radius: 6px;
+}
+.photo-float-status {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.6875rem;
+  color: var(--green);
+  font-weight: 600;
+  padding: 6px 10px;
+  background: var(--green-bg);
+  border-radius: 99px;
+}
+.photo-float-status::before {
+  content: '✓';
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: var(--green);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.5625rem;
+  font-weight: 700;
+}
+
+/* ===========================================
+   PROGRESS COUNTER
+   =========================================== */
+.counter-pill {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  background: var(--deep);
+  color: white;
+  padding: 12px 20px;
+  border-radius: 99px;
+  box-shadow: var(--shadow-xl);
+  font-size: 0.875rem;
+  font-weight: 600;
+  font-family: 'Inter', sans-serif;
+  z-index: 100;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.counter-bar {
+  width: 60px;
+  height: 4px;
+  background: rgba(255,255,255,0.18);
+  border-radius: 99px;
+  overflow: hidden;
+}
+.counter-bar-fill {
+  height: 100%;
+  background: var(--sunset);
+  border-radius: 99px;
+  transition: width 0.3s ease;
+}
+
+/* ===========================================
+   RESULTS SECTION
+   =========================================== */
+.results {
+  background: white;
+  border-radius: 20px;
+  padding: 32px 28px;
+  margin-top: 48px;
+  box-shadow: var(--shadow-md);
+  border: 1px solid var(--border);
+  display: none;
+}
+.results.visible { display: block; }
+.results h2 {
+  font-size: 1.5rem;
+  color: var(--deep);
+  margin-bottom: 8px;
+}
+.results-sub {
+  color: var(--text-muted);
+  margin-bottom: 24px;
+  font-size: 0.9375rem;
+}
+.results-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 24px;
+}
+.results-table th {
+  text-align: left;
+  font-family: 'Archivo', sans-serif;
+  font-size: 0.6875rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  padding: 8px 12px;
+  border-bottom: 2px solid var(--border);
+}
+.results-table td {
+  padding: 14px 12px;
+  border-bottom: 1px solid var(--border);
+  font-size: 0.9375rem;
+  vertical-align: top;
+}
+.results-table .chosen {
+  font-weight: 600;
+  color: var(--deep);
+}
+.results-table .rejected {
+  font-size: 0.8125rem;
+  color: var(--text-muted);
+  font-style: italic;
+}
+.results-actions {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-bottom: 16px;
+}
+.r-btn {
+  padding: 10px 18px;
+  border-radius: 99px;
+  font-family: 'Inter', sans-serif;
+  font-size: 0.8125rem;
+  font-weight: 600;
+  cursor: pointer;
+  border: none;
+  transition: all 0.18s ease;
+}
+.r-btn.primary { background: var(--midnight); color: white; }
+.r-btn.primary:hover { background: var(--deep); transform: translateY(-1px); }
+.r-btn.ghost {
+  background: transparent;
+  color: var(--midnight);
+  border: 1.5px solid var(--midnight);
+}
+.r-btn.ghost:hover { background: rgba(28,30,133,0.06); }
+.r-btn.copied { background: var(--green); color: white; }
+
+.export-toggle {
+  background: transparent;
+  border: none;
+  color: var(--midnight);
+  font-size: 0.8125rem;
+  font-weight: 500;
+  cursor: pointer;
+  text-decoration: underline;
+  padding: 0;
+}
+.export-block {
+  display: none;
+  background: #1a1238;
+  color: #d8dffe;
+  padding: 20px;
+  border-radius: var(--radius-sm);
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.75rem;
+  line-height: 1.6;
+  margin-top: 16px;
+  white-space: pre-wrap;
+  user-select: all;
+  cursor: text;
+  max-height: 400px;
+  overflow: auto;
+}
+.export-block.visible { display: block; }
+
+/* ===========================================
+   RESPONSIVE
+   =========================================== */
+@media (max-width: 880px) {
+  body { padding: 32px 16px 120px; }
+  .options { grid-template-columns: 1fr; }
+  .mockup-frame { min-height: 320px; padding: 16px; }
+  .note-card, .photo-mockup { max-width: 100%; }
+  .pair { padding: 24px 18px; }
+}
+</style>
+</head>
+<body>
+
+<div class="page">
+
+<header class="page-header">
+  <h1>"<em>Just behavioral health</em>" — hero visual</h1>
+  <p>Lock the right-side visual of the hero. Four decisions, four pairs. Pick one per pair — combinations are encoded into the final mockup.</p>
+</header>
+
+<div class="instruction-box">
+  <strong>Click each card that resonates.</strong> No wrong answers. Selections save automatically.
+</div>
+
+<!-- ============================================
+     PAIR 01 — ASSET TYPE
+     ============================================ -->
+<div class="pair" data-pair="1" data-category="Asset type">
+  <div class="pair-head">
+    <span class="pair-num">01</span>
+    <h2 class="pair-title">Asset type</h2>
+  </div>
+  <p class="pair-context">What carries the hero claim? A faux clinical note (product-as-proof) or a clinician portrait with a small floating data card (humanized + audit-signal).</p>
+
+  <div class="options">
+    <div class="option" data-letter="A" data-name="Note card">
+      <div class="option-label">
+        <span class="option-letter">A</span>
+        <span class="option-name">Note card</span>
+      </div>
+      <p class="option-desc">A faux med-management follow-up note with structured fields and CPT codes shown.</p>
+      <div class="mockup-frame">
+        <div class="note-card">
+          <div class="note-header">
+            <div class="note-header-row">
+              <span class="note-visit-type">Med-mgmt follow-up</span>
+              <span class="note-date">Today · 2:14 PM</span>
+            </div>
+            <div class="note-cpt">
+              <span class="note-cpt-code">99214</span>
+              <span class="note-cpt-plus">+</span>
+              <span class="note-cpt-code">90833</span>
+            </div>
+          </div>
+          <div class="note-body">
+            <div class="note-row">
+              <span class="note-label">Target sx</span>
+              <span class="note-value">PHQ-9 <strong>14</strong> <span class="delta-down">→ 9</span> · GAD-7 <strong>10</strong> <span class="delta-down">→ 7</span></span>
+            </div>
+            <div class="note-row">
+              <span class="note-label">MSE</span>
+              <span class="note-value">Euthymic affect, no SI/HI</span>
+            </div>
+            <div class="note-row">
+              <span class="note-label">S/E</span>
+              <span class="note-value">Dry mouth resolved</span>
+            </div>
+            <div class="note-row">
+              <span class="note-label">Adherence</span>
+              <span class="note-value">Daily, no gaps</span>
+            </div>
+            <div class="note-row">
+              <span class="note-label">Med</span>
+              <span class="note-value"><span class="delta-up">↑</span> Sertraline 100mg</span>
+            </div>
+            <div class="note-row">
+              <span class="note-label">Risk</span>
+              <span class="note-value">Low · protective factors intact</span>
+            </div>
+            <div class="note-row">
+              <span class="note-label">Plan</span>
+              <span class="note-value">RTC 4 wk · lab in 2 wk</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="option" data-letter="B" data-name="Clinician photo + float">
+      <div class="option-label">
+        <span class="option-letter">B</span>
+        <span class="option-name">Clinician portrait + float</span>
+      </div>
+      <p class="option-desc">A warm portrait with a floating data card surfacing today's CPT codes and audit status.</p>
+      <div class="mockup-frame">
+        <div class="photo-mockup">
+          <div class="photo-bg"></div>
+          <div class="photo-silhouette">
+            <svg viewBox="0 0 200 240" xmlns="http://www.w3.org/2000/svg">
+              <ellipse cx="100" cy="80" rx="40" ry="44" fill="rgba(255,255,255,0.35)"/>
+              <path d="M 30 240 Q 30 160 100 150 Q 170 160 170 240 Z" fill="rgba(255,255,255,0.30)"/>
+              <ellipse cx="100" cy="78" rx="32" ry="36" fill="rgba(255,255,255,0.18)"/>
+            </svg>
+          </div>
+          <div class="photo-grain"></div>
+          <div class="photo-float-card">
+            <div class="photo-float-head">
+              <span class="photo-float-title">Today's session</span>
+              <span class="photo-float-time">2:14 PM</span>
+            </div>
+            <div class="photo-float-cpts">
+              <span class="photo-float-cpt">99214</span>
+              <span class="photo-float-cpt">90833</span>
+            </div>
+            <span class="photo-float-status">JotAudit verified</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ============================================
+     PAIR 02 — VISIT TYPE FEATURED
+     ============================================ -->
+<div class="pair" data-pair="2" data-category="Visit type featured">
+  <div class="pair-head">
+    <span class="pair-num">02</span>
+    <h2 class="pair-title">Visit type featured</h2>
+  </div>
+  <p class="pair-context">Which visit anchors the hero note? Med-mgmt follow-up is the most common psychiatrist/PMHNP visit. Psychiatric intake shows DSM-5 formulation depth but is lower volume.</p>
+
+  <div class="options">
+    <div class="option" data-letter="A" data-name="Med-mgmt follow-up">
+      <div class="option-label">
+        <span class="option-letter">A</span>
+        <span class="option-name">Med-mgmt follow-up (99214 + 90833)</span>
+      </div>
+      <p class="option-desc">The bread-and-butter prescribing-psych visit. Highest volume. Most clinicians recognize it instantly.</p>
+      <div class="mockup-frame">
+        <div class="note-card">
+          <div class="note-header">
+            <div class="note-header-row">
+              <span class="note-visit-type">Med-mgmt follow-up</span>
+              <span class="note-date">Today · 2:14 PM</span>
+            </div>
+            <div class="note-cpt">
+              <span class="note-cpt-code">99214</span>
+              <span class="note-cpt-plus">+</span>
+              <span class="note-cpt-code">90833</span>
+            </div>
+          </div>
+          <div class="note-body">
+            <div class="note-row"><span class="note-label">Target sx</span><span class="note-value">PHQ-9 <strong>14</strong> <span class="delta-down">→ 9</span></span></div>
+            <div class="note-row"><span class="note-label">MSE</span><span class="note-value">Euthymic, no SI/HI</span></div>
+            <div class="note-row"><span class="note-label">S/E</span><span class="note-value">Dry mouth resolved</span></div>
+            <div class="note-row"><span class="note-label">Adherence</span><span class="note-value">Daily, no gaps</span></div>
+            <div class="note-row"><span class="note-label">Med</span><span class="note-value"><span class="delta-up">↑</span> Sertraline 100mg</span></div>
+            <div class="note-row"><span class="note-label">Risk</span><span class="note-value">Low</span></div>
+            <div class="note-row"><span class="note-label">Plan</span><span class="note-value">RTC 4 wk · lab 2 wk</span></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="option" data-letter="B" data-name="Psychiatric intake">
+      <div class="option-label">
+        <span class="option-letter">B</span>
+        <span class="option-name">Psychiatric intake (90792)</span>
+      </div>
+      <p class="option-desc">Initial evaluation. Shows DSM-5 formulation, risk stratification, treatment-plan depth.</p>
+      <div class="mockup-frame">
+        <div class="note-card intake">
+          <div class="note-header">
+            <div class="note-header-row">
+              <span class="note-visit-type">Psychiatric intake</span>
+              <span class="note-date">Today · 10:30 AM</span>
+            </div>
+            <div class="note-cpt">
+              <span class="note-cpt-code">90792</span>
+              <span class="note-cpt-plus">·</span>
+              <span style="font-size: 0.625rem; color: var(--text-muted);">60 min</span>
+            </div>
+          </div>
+          <div class="note-body">
+            <div class="note-row"><span class="note-label">CC</span><span class="note-value">"Can't sleep, can't focus, 6 months"</span></div>
+            <div class="note-row"><span class="note-label">HPI</span><span class="note-value">Insidious onset, work loss precipitant</span></div>
+            <div class="note-row"><span class="note-label">Psych Hx</span><span class="note-value">Prior MDD, no inpatient, no SI hx</span></div>
+            <div class="note-row"><span class="note-label">Fam Hx</span><span class="note-value">Maternal MDD, paternal AUD</span></div>
+            <div class="note-row"><span class="note-label">MSE</span><span class="note-value">Anxious affect, depressed mood</span></div>
+            <div class="note-row"><span class="note-label">DSM-5</span><span class="note-value"><strong>F33.2</strong> MDD recurrent severe · <strong>F41.1</strong> GAD</span></div>
+            <div class="note-row"><span class="note-label">Risk</span><span class="note-value">Low-moderate, no plan</span></div>
+            <div class="note-row"><span class="note-label">Plan</span><span class="note-value">Sertraline 50mg · weekly tx · RTC 2 wk</span></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ============================================
+     PAIR 03 — UI CHROME LEVEL
+     ============================================ -->
+<div class="pair" data-pair="3" data-category="UI chrome level">
+  <div class="pair-head">
+    <span class="pair-num">03</span>
+    <h2 class="pair-title">UI chrome level</h2>
+  </div>
+  <p class="pair-context">How much of the JotPsych product surface shows? Minimal keeps the note pure (proof of structure). App-style adds tabs and a sign-off action (proof of integrated workflow).</p>
+
+  <div class="options">
+    <div class="option" data-letter="A" data-name="Minimal note">
+      <div class="option-label">
+        <span class="option-letter">A</span>
+        <span class="option-name">Minimal — note content only</span>
+      </div>
+      <p class="option-desc">No app shell. The note is the artifact. Reads like a real clinical document.</p>
+      <div class="mockup-frame">
+        <div class="note-card">
+          <div class="note-header">
+            <div class="note-header-row">
+              <span class="note-visit-type">Med-mgmt follow-up</span>
+              <span class="note-date">Today · 2:14 PM</span>
+            </div>
+            <div class="note-cpt">
+              <span class="note-cpt-code">99214</span>
+              <span class="note-cpt-plus">+</span>
+              <span class="note-cpt-code">90833</span>
+            </div>
+          </div>
+          <div class="note-body">
+            <div class="note-row"><span class="note-label">Target sx</span><span class="note-value">PHQ-9 <strong>14</strong> <span class="delta-down">→ 9</span></span></div>
+            <div class="note-row"><span class="note-label">MSE</span><span class="note-value">Euthymic, no SI/HI</span></div>
+            <div class="note-row"><span class="note-label">S/E</span><span class="note-value">Dry mouth resolved</span></div>
+            <div class="note-row"><span class="note-label">Adherence</span><span class="note-value">Daily, no gaps</span></div>
+            <div class="note-row"><span class="note-label">Med</span><span class="note-value"><span class="delta-up">↑</span> Sertraline 100mg</span></div>
+            <div class="note-row"><span class="note-label">Risk</span><span class="note-value">Low</span></div>
+            <div class="note-row"><span class="note-label">Plan</span><span class="note-value">RTC 4 wk · lab 2 wk</span></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="option" data-letter="B" data-name="App-style with tabs">
+      <div class="option-label">
+        <span class="option-letter">B</span>
+        <span class="option-name">App-style — Note · Audit · Bill</span>
+      </div>
+      <p class="option-desc">Faux tab bar shows the integrated surfaces; sign-off button at bottom. Audit + billing live next to the note.</p>
+      <div class="mockup-frame">
+        <div class="note-card with-app-shell">
+          <div class="note-tabs">
+            <span class="note-tab active">Note</span>
+            <span class="note-tab">Audit</span>
+            <span class="note-tab">Bill</span>
+            <span class="note-tab">Files</span>
+          </div>
+          <div class="note-header">
+            <div class="note-header-row">
+              <span class="note-visit-type">Med-mgmt follow-up</span>
+              <span class="note-date">Today · 2:14 PM</span>
+            </div>
+            <div class="note-cpt">
+              <span class="note-cpt-code">99214</span>
+              <span class="note-cpt-plus">+</span>
+              <span class="note-cpt-code">90833</span>
+            </div>
+          </div>
+          <div class="note-body">
+            <div class="note-row"><span class="note-label">Target sx</span><span class="note-value">PHQ-9 <strong>14</strong> <span class="delta-down">→ 9</span></span></div>
+            <div class="note-row"><span class="note-label">MSE</span><span class="note-value">Euthymic, no SI/HI</span></div>
+            <div class="note-row"><span class="note-label">S/E</span><span class="note-value">Dry mouth resolved</span></div>
+            <div class="note-row"><span class="note-label">Med</span><span class="note-value"><span class="delta-up">↑</span> Sertraline 100mg</span></div>
+            <div class="note-row"><span class="note-label">Risk</span><span class="note-value">Low</span></div>
+            <div class="note-row"><span class="note-label">Plan</span><span class="note-value">RTC 4 wk · lab 2 wk</span></div>
+          </div>
+          <div class="note-actions">
+            <span class="note-action-meta">18 min · MDM moderate</span>
+            <button class="note-sign-btn">Sign and send</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ============================================
+     PAIR 04 — INLINE AUDIT SIGNAL
+     ============================================ -->
+<div class="pair" data-pair="4" data-category="Inline audit signal">
+  <div class="pair-head">
+    <span class="pair-num">04</span>
+    <h2 class="pair-title">Inline audit signal</h2>
+  </div>
+  <p class="pair-context">Show JotAudit in the hero, or save it for the dedicated audit section? An inline chip surfaces the audit-defense narrative immediately; a clean note keeps the hero focused on note structure.</p>
+
+  <div class="options">
+    <div class="option" data-letter="A" data-name="No audit chip">
+      <div class="option-label">
+        <span class="option-letter">A</span>
+        <span class="option-name">No audit chip — clean note</span>
+      </div>
+      <p class="option-desc">Hero lands on structure. Audit defense gets its own section below the fold.</p>
+      <div class="mockup-frame">
+        <div class="note-card">
+          <div class="note-header">
+            <div class="note-header-row">
+              <span class="note-visit-type">Med-mgmt follow-up</span>
+              <span class="note-date">Today · 2:14 PM</span>
+            </div>
+            <div class="note-cpt">
+              <span class="note-cpt-code">99214</span>
+              <span class="note-cpt-plus">+</span>
+              <span class="note-cpt-code">90833</span>
+            </div>
+          </div>
+          <div class="note-body">
+            <div class="note-row"><span class="note-label">Target sx</span><span class="note-value">PHQ-9 <strong>14</strong> <span class="delta-down">→ 9</span></span></div>
+            <div class="note-row"><span class="note-label">MSE</span><span class="note-value">Euthymic, no SI/HI</span></div>
+            <div class="note-row"><span class="note-label">S/E</span><span class="note-value">Dry mouth resolved</span></div>
+            <div class="note-row"><span class="note-label">Adherence</span><span class="note-value">Daily, no gaps</span></div>
+            <div class="note-row"><span class="note-label">Med</span><span class="note-value"><span class="delta-up">↑</span> Sertraline 100mg</span></div>
+            <div class="note-row"><span class="note-label">Risk</span><span class="note-value">Low</span></div>
+            <div class="note-row"><span class="note-label">Plan</span><span class="note-value">RTC 4 wk · lab 2 wk</span></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="option" data-letter="B" data-name="Audit chip inline">
+      <div class="option-label">
+        <span class="option-letter">B</span>
+        <span class="option-name">Audit chip in the hero</span>
+      </div>
+      <p class="option-desc">Green confirmation strip at the bottom of the note. Audit-defense visible from frame one.</p>
+      <div class="mockup-frame">
+        <div class="note-card">
+          <div class="note-header">
+            <div class="note-header-row">
+              <span class="note-visit-type">Med-mgmt follow-up</span>
+              <span class="note-date">Today · 2:14 PM</span>
+            </div>
+            <div class="note-cpt">
+              <span class="note-cpt-code">99214</span>
+              <span class="note-cpt-plus">+</span>
+              <span class="note-cpt-code">90833</span>
+            </div>
+          </div>
+          <div class="note-body">
+            <div class="note-row"><span class="note-label">Target sx</span><span class="note-value">PHQ-9 <strong>14</strong> <span class="delta-down">→ 9</span></span></div>
+            <div class="note-row"><span class="note-label">MSE</span><span class="note-value">Euthymic, no SI/HI</span></div>
+            <div class="note-row"><span class="note-label">S/E</span><span class="note-value">Dry mouth resolved</span></div>
+            <div class="note-row"><span class="note-label">Med</span><span class="note-value"><span class="delta-up">↑</span> Sertraline 100mg</span></div>
+            <div class="note-row"><span class="note-label">Risk</span><span class="note-value">Low</span></div>
+            <div class="note-row"><span class="note-label">Plan</span><span class="note-value">RTC 4 wk · lab 2 wk</span></div>
+          </div>
+          <div class="note-audit-chip">
+            <span class="note-audit-chip-icon">✓</span>
+            <div class="note-audit-chip-text">
+              <strong>Audit-checked</strong>
+              <div class="note-audit-chip-detail">90833 time · MDM moderate · risk language present</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ============================================
+     RESULTS SECTION (revealed when all decided)
+     ============================================ -->
+<div class="results" id="results">
+  <h2>Locked picks</h2>
+  <p class="results-sub">These choices encode into the final /built-for-bh hero. Copy results to hand back to the build.</p>
+  <table class="results-table" id="results-table"></table>
+  <div class="results-actions">
+    <button class="r-btn primary" id="copy-text">Copy results</button>
+    <button class="r-btn ghost" id="copy-json">Copy JSON</button>
+    <button class="export-toggle" id="export-toggle">Show paste-ready export</button>
+  </div>
+  <pre class="export-block" id="export-block"></pre>
+</div>
+
+</div>
+
+<!-- ============================================
+     PROGRESS COUNTER
+     ============================================ -->
+<div class="counter-pill">
+  <span id="counter-text">0 of 4 decided</span>
+  <div class="counter-bar"><div class="counter-bar-fill" id="counter-fill" style="width:0%"></div></div>
+</div>
+
+<script>
+const STORAGE_KEY = 'tot-built-for-bh-2026-05-14';
+const pairs = document.querySelectorAll('.pair');
+
+function persist() {
+  const state = {};
+  pairs.forEach(pair => {
+    const num = pair.dataset.pair;
+    const selected = pair.querySelector('.option.selected');
+    if (selected) {
+      state[num] = {
+        letter: selected.dataset.letter,
+        name: selected.dataset.name,
+        category: pair.dataset.category,
+        rejected: Array.from(pair.querySelectorAll('.option'))
+          .filter(o => o !== selected)
+          .map(o => o.dataset.name)
+      };
+    }
+  });
+  localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
+}
+
+function restore() {
+  const raw = localStorage.getItem(STORAGE_KEY);
+  if (!raw) return;
+  const state = JSON.parse(raw);
+  pairs.forEach(pair => {
+    const num = pair.dataset.pair;
+    if (state[num]) {
+      const opt = pair.querySelector(`.option[data-letter="${state[num].letter}"]`);
+      if (opt) opt.classList.add('selected');
+    }
+  });
+}
+
+function updateCounter() {
+  const decided = Array.from(pairs).filter(p => p.querySelector('.option.selected')).length;
+  document.getElementById('counter-text').textContent = `${decided} of ${pairs.length} decided`;
+  document.getElementById('counter-fill').style.width = `${(decided / pairs.length) * 100}%`;
+
+  if (decided === pairs.length) {
+    renderResults();
+    document.getElementById('results').classList.add('visible');
+  } else {
+    document.getElementById('results').classList.remove('visible');
+  }
+}
+
+function renderResults() {
+  const table = document.getElementById('results-table');
+  let html = '<thead><tr><th>Decision</th><th>Chose</th><th>Over</th></tr></thead><tbody>';
+  pairs.forEach(pair => {
+    const selected = pair.querySelector('.option.selected');
+    if (!selected) return;
+    const rejected = Array.from(pair.querySelectorAll('.option'))
+      .filter(o => o !== selected)
+      .map(o => o.dataset.name)
+      .join(', ');
+    html += `<tr>
+      <td>${pair.dataset.category}</td>
+      <td class="chosen">${selected.dataset.name}</td>
+      <td class="rejected">${rejected}</td>
+    </tr>`;
+  });
+  html += '</tbody>';
+  table.innerHTML = html;
+
+  document.getElementById('export-block').textContent = buildTextExport();
+}
+
+function buildTextExport() {
+  const date = '2026-05-14';
+  let out = `BUILT-FOR-BH — Hero Visual Calibration\n`;
+  out += `Date: ${date}\n`;
+  out += `${'='.repeat(48)}\n\n`;
+
+  pairs.forEach(pair => {
+    const selected = pair.querySelector('.option.selected');
+    if (!selected) return;
+    const rejected = Array.from(pair.querySelectorAll('.option'))
+      .filter(o => o !== selected)
+      .map(o => o.dataset.name);
+    out += `## ${pair.dataset.category}\n`;
+    out += `  Chose: ${selected.dataset.name}  (over ${rejected.join(', ')})\n\n`;
+  });
+
+  out += `${'-'.repeat(48)}\n`;
+  const summary = Array.from(pairs)
+    .map(p => {
+      const s = p.querySelector('.option.selected');
+      return s ? s.dataset.name : '?';
+    })
+    .join(' · ');
+  out += `SUMMARY: ${summary}\n`;
+  return out;
+}
+
+function buildJsonExport() {
+  const choices = {};
+  pairs.forEach(pair => {
+    const selected = pair.querySelector('.option.selected');
+    if (!selected) return;
+    const rejectedName = Array.from(pair.querySelectorAll('.option'))
+      .filter(o => o !== selected)
+      .map(o => o.dataset.name)
+      .join(', ');
+    choices[pair.dataset.pair] = {
+      category: pair.dataset.category,
+      question: pair.querySelector('.pair-title').textContent,
+      selected: selected.dataset.letter,
+      selectedName: selected.dataset.name,
+      rejectedName: rejectedName
+    };
+  });
+  return JSON.stringify({
+    calibration: 'built-for-bh-hero-visual',
+    date: '2026-05-14',
+    pairs: pairs.length,
+    choices: choices
+  }, null, 2);
+}
+
+document.querySelectorAll('.option').forEach(option => {
+  option.addEventListener('click', () => {
+    const pair = option.closest('.pair');
+    pair.querySelectorAll('.option').forEach(o => o.classList.remove('selected'));
+    option.classList.add('selected');
+    persist();
+    updateCounter();
+  });
+});
+
+document.getElementById('copy-text').addEventListener('click', e => {
+  navigator.clipboard.writeText(buildTextExport()).then(() => {
+    e.target.textContent = 'Copied!';
+    e.target.classList.add('copied');
+    setTimeout(() => {
+      e.target.textContent = 'Copy results';
+      e.target.classList.remove('copied');
+    }, 1600);
+  });
+});
+
+document.getElementById('copy-json').addEventListener('click', e => {
+  navigator.clipboard.writeText(buildJsonExport()).then(() => {
+    e.target.textContent = 'JSON copied!';
+    e.target.classList.add('copied');
+    setTimeout(() => {
+      e.target.textContent = 'Copy JSON';
+      e.target.classList.remove('copied');
+    }, 1600);
+  });
+});
+
+document.getElementById('export-toggle').addEventListener('click', e => {
+  const block = document.getElementById('export-block');
+  block.classList.toggle('visible');
+  e.target.textContent = block.classList.contains('visible')
+    ? 'Hide paste-ready export'
+    : 'Show paste-ready export';
+});
+
+restore();
+updateCounter();
+</script>
+
+</body>
+</html>

@@ -37,11 +37,14 @@ class Settings(BaseSettings):
     META_SCALE_ADSET_ID: str = ""           # Adset within scale campaign
 
     # -- Google Ads API --
+    # Setup plan: plans/google-ads-api-setup-2026-05-05.md
+    # All values populated from ~/.claude/.env via load_env() in scripts.
     GOOGLE_ADS_DEVELOPER_TOKEN: str = ""
     GOOGLE_ADS_CLIENT_ID: str = ""
     GOOGLE_ADS_CLIENT_SECRET: str = ""
     GOOGLE_ADS_REFRESH_TOKEN: str = ""
-    GOOGLE_ADS_CUSTOMER_ID: str = ""       # Format: XXX-XXX-XXXX (no dashes in API)
+    GOOGLE_ADS_CUSTOMER_ID: str = "9448221568"        # CID 944-822-1568, dashes stripped (target sub-account)
+    GOOGLE_ADS_LOGIN_CUSTOMER_ID: str = ""            # MCC's CID (manager account, dashes stripped)
 
     # -- Google Analytics 4 (Data API) --
     # Property 419769857 is the canonical www.jotpsych.com marketing property

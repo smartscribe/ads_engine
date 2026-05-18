@@ -17,8 +17,9 @@ scikit-learn>=1.4.0   # train_test_split for holdout validation (R1)
 # Meta Ads
 facebook-business>=19.0.0
 
-# Google Ads (intern: uncomment when implementing)
-# google-ads>=24.0.0
+# Google Ads
+google-ads>=24.0.0
+google-auth-oauthlib>=1.2.0   # for scripts/google_ads_oauth.py refresh-token flow
 
 # Google Analytics 4 (Data API — landing page performance pulls)
 google-analytics-data>=0.18.0

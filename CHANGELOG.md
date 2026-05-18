@@ -18,6 +18,136 @@ Each entry includes:
 
 ## Log
 
+### 2026-05-11 - Nate + Claude - VALUE optimization confirmed; CAPI values fixed
+
+**What:** Confirmed NFSO ad set uses `optimization_goal: VALUE` (not CONVERSIONS). Fixed all three CAPI event values in `engine/capi/sender.py` to match GTM canonical values.
+
+**Files changed:**
+- `engine/capi/sender.py` — corrected EVENT_VALUES: FirstNote $100→$150, SignUpConfirm $5→$25, CalendarScheduled $15→$5
+- `ATTRIBUTION.md` — added "Optimization Goal" and "CAPI vs GTM Value Alignment" sections documenting the VALUE setup and the fix
+
+**Why:** All three CAPI values were wrong relative to the GTM pixel. On events where the browser pixel misses (ad blockers, app-side), CAPI was sending incorrect values to Meta's VALUE optimizer, skewing its revenue-per-impression estimates. Decomposition math also assumes consistent $150/$25/$5 — mismatched CAPI fires would have produced totals that don't reconcile cleanly.
+
+**Notes:** Meta dedup means browser value wins when both fire. Damage from the mismatch was limited to pixel-miss events, but still worth fixing before scaling spend.
+
+---
+
+### 2026-05-11 - Nate + Claude - 7-day NFSO briefing script and HTML report
+
+**What:** Added `scripts/ads_briefing_7d.py` which reads `data/ads-reports/raw-7d-2026-05-11.json` and writes a printable HTML briefing at `data/ads-reports/briefing-7d-2026-05-11.html`.
+
+**Files changed:**
+- `scripts/ads_briefing_7d.py` — new script; parses 99 NFSO ads, runs ATTRIBUTION.md decomposition (canonical CC 1604667127308749, CalScheduled probe 26939511482340303), builds all sections: governing finding, account snapshot, ad performance table (spend > $50, color-coded), prioritized levers, signal quality note, full appendix
+- `data/ads-reports/briefing-7d-2026-05-11.html` — generated output
+
+**Why:** Weekly briefing for May 4-10 window. Key finding: account CpFN estimate $1,148 vs. historical $191-$354 range; single ad (jotstart-first-payer-approved-feed) consumed 42% of budget for 0 FirstNotes.
+
+**Notes:** Decomposition cross-checks against conversions field (2 FN confirmed directly on AJ: Audit Letter ad). No kill/scale thresholds exist yet for the Purchase KPI; verdicts are descriptive.
+
+---
+
+### 2026-05-06 - Nate + Claude - UTM carry-through for all Calendly links (site-wide)
+
+**What:** Moved UTM persistence and Calendly link-rewriting from a jotstart-only inline script into `header.js`, covering every page on the site. Removed the per-page duplicate from `jotstart.html`.
+
+**Files changed:**
+- `../new_landing_page/site/assets/js/header.js` — added UTM IIFE after nav init: persists UTMs to sessionStorage on any page load, then rewrites all `a[href*="calendly.com"]` after DOMContentLoaded
+- `../new_landing_page/site/jotstart.html` — removed now-redundant inline UTM script
+- `../new_landing_page/site/scheduled-confirmed.html` — unchanged (already reads sessionStorage fallback)
+
+**Why:** 37 pages have Calendly links. Per-page scripts don't scale. `header.js` is the one shared include loaded on every page, so it's the right place for site-wide behavior. SessionStorage also handles multi-page journeys where UTMs aren't in the URL on every page.
+
+---
+
+### 2026-05-06 - Nate + Claude - UTM carry-through for Calendly booking flow
+
+**What:** Added sessionStorage UTM persistence to `jotstart.html` and UTM dataLayer push to `scheduled-confirmed.html` so campaign attribution survives the Calendly redirect.
+
+**Files changed:**
+- `../new_landing_page/site/jotstart.html` — inline script before `</body>`: reads UTMs from page URL, writes to sessionStorage (`jp_` prefix), rewrites all `a[href*="calendly.com"]` hrefs to include UTMs
+- `../new_landing_page/site/scheduled-confirmed.html` — inside `fireEvent()`: reads UTMs from URL params with sessionStorage fallback, pushes `CalendarScheduled` event to `dataLayer` with all five UTM fields
+
+**Why:** Meta ads correctly UTM-tag the jotstart landing page, but Calendly links were hardcoded with no UTMs. Calendly's redirect to `/scheduled-confirmed` only passes invitee params (email, name, event type), not UTMs. Without this fix, all CalendarScheduled conversions appear as direct/unattributed in GA4.
+
+**Decisions:** sessionStorage as the bridge because Calendly's redirect mechanism can't carry arbitrary params. URL params take precedence over sessionStorage on the confirmation page to handle any future Calendly-native UTM forwarding.
+
+---
+
+### 2026-05-06 - Nate + Claude - ATTRIBUTION.md: canonical decomposition method for NFSO
+
+**What:** Added `ATTRIBUTION.md` at project root documenting the system-of-equations method for decomposing the canonical Purchase bundle (FirstNote + SignUpConfirm + CalendarScheduled) into per-event counts.
+
+**Files changed:**
+- `ATTRIBUTION.md` — new file
+
+**Why:** The canonical Purchase CC aggregates all three sub-events; Ads Manager shows one number with no built-in breakdown. The `_archived_CalendarScheduled v3` CC (`26939511482340303`) acts as an isolated probe for Z (cal count) because `scheduled-confirmed.html` still fires the direct fbq call. With Z known, a 2-equation system solves for FirstNote (X) and SignUpConfirm (Y) exactly.
+
+**Decisions:** Do not remove the archived CalendarScheduled v3 CC or the direct fbq call on `scheduled-confirmed.html:111` — both are required to keep the probe alive.
+
+---
+
+### 2026-05-05 - Nate + Claude - Visual QC fixes + Meta upload (101 ads live)
+
+**What:** Iterated visual quality across all 4 campaigns (audit, jotstart, never-salt-again, solo) based on Playwright gallery review. Killed pas-bogged-down. Uploaded 68 new feed image ads + copied 32 deduped existing ads into "Nate figuring shit out" campaign. All ACTIVE at $1,200/day.
+
+**Files changed:**
+- `new_landing_page/data/ad-creative/generate-visuals.js` — icon grid sizing (64px/56px), e-top padding fix, layoutA hlSize support, bar chart label sizing, jotstart-first-payer-approved insurer cluster, jotstart-payer-math $9K hero, salt-2m-recoupment exact OIG figure ($2,022,904.96), pas-bogged-down removed
+- `new_landing_page/data/ad-creative/master-gallery.html` — updated to remove pas-bogged-down card
+- `/tmp/meta_upload.py` (ephemeral) — upload script
+
+**Decisions:**
+- Single ad set (120245858870530548) for all ads; URL is at creative level so each ad routes to its LP independently while training a unified audience signal.
+- Landing page routing: audit → /audit, jotstart → /jotstart, salt → /never-salt-again, solo → /solo, existing ads → /
+- UTMs: `utm_source=facebook&utm_medium=paid_social&utm_campaign=nate-figuring-shit-out&utm_content={slug}&utm_term={campaign-type}`
+- 6 existing creatives skipped: belong to Dynamic Creative Ad Sets (Meta API error 1885553, can't add to a second ad set)
+- Budget was already at $120,000 cents ($1,200/day) at campaign level (CBO).
+
+**Final count:** 68 new image ads + 32 existing + 1 pre-existing = 101 ACTIVE ads.
+
+---
+
+### 2026-05-05 - Nate + Claude - Ad creative pipeline: /solo first run, template fixes, concept rules
+
+**What:** First full end-to-end run of the landing-page → ad creative pipeline. Produced 11 typographic feed + story renders for `/solo`. Exposed and fixed several template bugs; established concept copy rules that must carry forward to all future LP runs.
+
+**Files changed:**
+- `~/.claude/skills/landing-page-to-ad-creative/templates/brand-tokens.css` — bug fixes + sizing calibration (details below)
+- `~/.claude/skills/landing-page-to-ad-creative/scripts/render.py` — stock override logic, `subline_html` support, `image_source` field
+- `~/.claude/skills/landing-page-to-ad-creative/scripts/raw_review.py` (new) — imagery checkpoint gallery
+- `~/.claude/skills/landing-page-to-ad-creative/scripts/fal_image.py` (new) — fal.ai Flux 2 Pro client (`fal-ai/flux-2-pro`, ~$0.03/img)
+- `~/.claude/skills/landing-page-to-ad-creative/scripts/openai_image.py` (new) — OpenAI gpt-image-1 fallback
+- `new_landing_page/data/ad-creative/solo-2026-05-05/concepts.json` (new) — 11 typographic concepts
+- `new_landing_page/data/ad-creative/solo-2026-05-05/gallery.html` (new) — side-by-side feed gallery
+
+**CSS bugs fixed:**
+- Attribution still visible: `.layout-typographic .source-line { display:none }` added (typographic layout uses `.source-line`, not `.attribution`)
+- `big_number` overflowed canvas: reduced from 280px to 200px; added `overflow:hidden; white-space:nowrap`
+- Story `big_number` reduced from 320px to 240px
+- Subline (typographic feed): 28px → 44px; story: 32px → 56px (mobile-first best practice)
+- Typographic padding (feed): 64px → 96px; story: 80x56 → 200x96 (Meta safe-zone)
+- Added `.highlight` class: `color: var(--afterglow)` on warm bg, `color: var(--sunset)` on midnight bg
+
+**Logo path correction:** logos are at `site/assets/images/logo-dark.svg` / `logo-light.svg`, not `site/assets/jotpsych-logo-*.svg`. Always use the `images/` subdirectory.
+
+**Concept copy rules (permanent, apply to every future LP run):**
+1. Every eyebrow must name the audience explicitly: "Solo PMHNP", "For solo PMHNPs", "Moonlighting PMHNP", etc. Never a generic label.
+2. Typographic layout only until AI imagery quality bar is met.
+3. Every `headline_html` must include at least one `<span class="highlight">` on the key phrase or number.
+4. `big_number` only for short strings (up to ~8 chars). Never repeat a number that is already in the headline. Long price strings ($299/mo) go in the headline, not as a big_number.
+5. For two-part comparison headlines (MSO vs JotPsych), use `<br>` in `headline_html` to split the two lines. Drop the subline or make it a single punchy line.
+6. Moonlighter tier = $53/mo (AI scribe + 15 notes). Everything tier = $299/mo. Never mix these up.
+7. MECE archetype family diversity: 4+ of 6 families per LP, max 3 per family. Families: A=Pain-led, B=Proof-led, C=Identity-led, D=Aesthetic-led, E=Wit-led, F=Utility-led.
+8. When referencing MSO take rates, be explicit it is MSOs (Headway, Alma) — "20-30%" alone is too vague.
+9. Grain language is the source of truth for clinician voice. Transcripts at: `2x2-strategy-harness/raw-data/churn-transcripts-readable/all.md`. Harvest before writing copy.
+10. Pricing check: always read `new_landing_page/site/solo.html` or `/pricing.html` live — never trust baked-in prices.
+
+**What was tried and rejected:**
+- Gemini Imagen 4 / Imagen 4 Ultra: 403 PERMISSION_DENIED on this GCP project for all image models.
+- fal.ai Flux 2 Pro: successfully integrated but user chose typographic-only for now (imagery iteration was slowing the run).
+- Images generated from Flux were "too therapisty" for PMHNP audience — clinical markers (stethoscope, BP cuff, EHR visible) required; therapy-office clichés must be excluded.
+
+---
+
 ### 2026-04-23 - Nate + Claude - Custom Conversions v3: fixed `event_type` vs `event` rule field bug; ad set rebound to v3
 
 **What:** The v2 Custom Conversions shipped 2026-04-22 also never matched a single event over 18 hours of live traffic. Pixel fired 2 FirstNote + 6 SignUpConfirm events during that window; v2 CCs all remained "Never received event." Root cause: the rule field `event_type` is not what Meta's matcher keys on for event names. Correct field is `event`. Verified by inspecting the account's UI-created CCs (7 live CCs all use `event` + URL), most definitively "Page View" (rule uses `event`, first_fired_time 2024-04-12, last_fired_time 2026-04-14). v3 rebuild uses `event` + permissive URL filter.

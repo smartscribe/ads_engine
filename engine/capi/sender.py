@@ -24,9 +24,9 @@ GRAPH_API_VERSION = "v21.0"
 ENDPOINT = f"https://graph.facebook.com/{GRAPH_API_VERSION}/{PIXEL_ID}/events"
 
 EVENT_VALUES = {
-    "FirstNote": 100.0,
-    "CalendarScheduled": 15.0,
-    "SignUpConfirm": 5.0,
+    "FirstNote": 150.0,       # matches GTM Tag 67
+    "SignUpConfirm": 25.0,    # matches GTM Tag 68
+    "CalendarScheduled": 5.0, # matches GTM Tag 69
 }
 
 # PII fields that must be SHA256-hashed before transmission.

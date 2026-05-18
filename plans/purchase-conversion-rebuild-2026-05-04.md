@@ -1,7 +1,7 @@
 # Plan: Convert "Nate figuring shit out" to Purchase value-based optimization
 
 **Date:** 2026-05-04
-**Status:** plan, awaiting execution
+**Status:** Phase 1 + Phase 2 SHIPPED (2026-05-05). Phase 3 calibration pending day 30.
 **Owner:** Nate (GTM container, Meta Ads Manager, calibration cycle)
 **Engineering owner:** Alfred (CAPI + identity hashing for FirstNote)
 
@@ -29,7 +29,7 @@ Three sequential phases. Phase 2 can run in parallel with Phase 1 if Alfred star
 | Phase | Owner | Duration | Output |
 |---|---|---|---|
 | Phase 1: GTM tags + ad set rebind | Claude (API-driven) + Nate (verification) | ~15-30 min once GCP API enabled | Live Purchase events flowing browser-side, ad set bound to Purchase, learning phase begins. Tag definitions committed to ads_engine repo |
-| Phase 2: CAPI parity for FirstNote | Alfred | 5-7 days | FirstNote fires from BE via Meta CAPI with shared event_id. EMQ rises from ~3-4 to 7+ |
+| Phase 2: CAPI parity for FirstNote | Alfred | DONE 2026-05-05 | FE#1867 + BE#2832 merged. FirstNote fires from BE via Meta CAPI with shared event_id. EMQ rising to 7+. |
 | Phase 3: Calibration | Nate | day 30+ | Recalibrate event values from cohort data. No learning-phase reset. |
 
 **Phase 1 driver:** GTM API client at `~/.claude/integrations/gtm_client.py` (OAuth completed 2026-05-04, scopes include edit + publish). Claude lists existing tags via API, creates the three new Purchase tags via API POST, configures triggers, builds a workspace version. Nate verifies via GTM Preview + Meta Test Events. Claude publishes via API. Tag definitions land in `ads_engine/config/gtm/` as version-controlled JSON for future diff-against-drift.
@@ -178,7 +178,11 @@ Inspecting the live container (version 20, "Updated with Calendly Event") confir
 
 ---
 
-## Phase 2: CAPI + identity for FirstNote (Alfred, 5-7 days)
+## Phase 2: CAPI + identity for FirstNote (Alfred, 5-7 days) -- SHIPPED 2026-05-05
+
+**FE:** smartscribe-companion-apps#1867 (GDN-1417) -- mints UUID per encounter, passes to BE as `event_id`, pushes same UUID to GTM dataLayer as `eventID` on `generatedFirstNote`. V1 + V2 paths covered. `crypto.randomUUID` gated by typeof check; falls back to server-minted UUID if unavailable.
+
+**BE:** smartscribe-server#2832 (GDN-1407) -- new `application/meta_capi` module. `MetaCapiService.fire_first_note_purchase()` fires `Purchase $150` to Meta CAPI, deduped against browser pixel via shared `event_id`. Hooked into `_manage_onboarding_tasks`, fires only on `first_note_created` transition (incomplete -> complete). All 4 call sites covered (V1, V2, transcription, V2 admin). Fire-and-forget: CAPI failure never surfaces to encounter request.
 
 **Engineering ticket scope:** when the BE persists a new note via the existing first-note creation path (find via grep for the same hook that updates `onboardingSteps.generated_first_note`), ALSO POST to Meta Conversions API with the payload below.
 
@@ -342,11 +346,14 @@ This is the most likely failure mode, surfaced explicitly per Nate's prompt.
 ## Open questions
 
 1. ~~Does the marketing-site `/scheduled-confirmed` page fire on every calendar booking?~~ **Resolved 2026-05-04, Nate:** every booking lands on `/scheduled-confirmed`. Page View trigger is sufficient.
-2. Is `first_capture` in `AuthenticationCallback.tsx` actually gating per `user_id`, or does it fire on every callback with a bug? Resolving early would let us choose between $25 and $0 starting value with confidence. Worth a 30-min audit by Alfred during Phase 2.
+2. Is `first_capture` in `AuthenticationCallback.tsx` actually gating per `user_id`, or does it fire on every callback with a bug? **Partially resolved 2026-05-05:** companion-apps#1860 (GDN-1405) ships a guard on `/signup` that redirects already-authed users to `/` instead of calling `loginWithRedirect()`. This eliminates one major CR over-fire path (authed users hitting `/signup` from ad CTAs would bounce through Auth0 and retrigger the callback). The `first_capture` flag behavior inside `AuthenticationCallback.tsx` itself is still unaudited -- the bug may persist on the normal login path.
 3. What is the actual number of new JotPsych signups per day, from the BE source of truth (user-creation table)? We're using 10-30/day as an estimate; a precise number would let us validate gate 5 with confidence and properly size CompleteRegistration value. One BE query Alfred can run.
 4. Should we eventually pause the CompleteRegistration browser pixel fire entirely, letting only CAPI handle it once CAPI proves out? Tighter dedup, lower client-side noise. Defer this decision to month 2.
 
-## Resolved decisions (post-plan-write, 2026-05-04)
+## Resolved decisions (post-plan-write, 2026-05-04 / 2026-05-05)
+
+- **GTM hostname gate:** companion-apps#1870 (GDN-1427) shipped 2026-05-05. GTM only initializes on `app.jotpsych.com`. All 68 non-canonical domains (alpha, Tailscale, localhost, smartscribe.health variants) go dark. Side effect: `next.smartscribe.health` users (21.3K events / 28 days) lose browser-side pixel coverage entirely. CAPI still fires their FirstNote server-side. CloudFront 301 redirect (`next.smartscribe.health` + `app.smartscribe.health` -> `app.jotpsych.com`) is the remaining open item to fully close this.
+
 
 - **Calendar trigger:** Page View on `/scheduled-confirmed*` confirmed sufficient (every booking hits this URL).
 - **Daily budget at start:** keep current (sub-$1000), raise to $1000 only after gate 4 passes.

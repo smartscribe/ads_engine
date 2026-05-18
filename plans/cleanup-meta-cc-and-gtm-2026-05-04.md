@@ -1,4 +1,4 @@
-# Plan: Cleanup Meta Custom Conversions + GTM container for grokkability
+# Plan: Cleanup Meta Custom Conversions + GTM container for readability
 
 **Date:** 2026-05-04
 **Status:** plan, awaiting execution
